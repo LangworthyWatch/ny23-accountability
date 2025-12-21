@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'  # You'll update this with your actual domain
+baseURL = 'https://langworthywatch.github.io/ny23-accountability/'
 languageCode = 'en-us'
 title = 'NY-23 Accountability Tracker'
 theme = 'ananke'
