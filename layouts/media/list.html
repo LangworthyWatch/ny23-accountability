@@ -1,0 +1,136 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns nested-copy-line-height nested-links">
+  <main class="cf ph3 ph5-l pv3 pv4-l f4 center mw7 lh-copy near-black">
+    <h1 class="f2 fw7 mb3">{{ .Title }}</h1>
+    {{ .Content }}
+
+    {{ with .Site.Data.media_coverage_export }}
+
+    <!-- Statistics -->
+    <div class="mv4 pa3 bg-light-blue">
+      <h3 class="f4 fw6 mt0">Coverage Database</h3>
+      <p class="mv2">
+        Tracking <span class="fw6">{{ .count }} articles and op-eds</span> about Rep. Langworthy's representation of NY-23.
+      </p>
+      <p class="f6 gray mv2">Last updated: {{ .last_updated }}</p>
+    </div>
+
+    <!-- Filter/Category Navigation -->
+    <div class="mv4">
+      <h3 class="f4 fw6">Browse by Category</h3>
+      <div class="cf">
+        {{ range $category, $items := .by_category }}
+        <div class="fl w-50 w-third-l pa2">
+          <a href="#{{ $category }}" class="link db pa3 bg-near-white hover-bg-light-blue tc">
+            <div class="f5 fw6">{{ index $.Site.Data.media_coverage_export.by_category $category | len }}</div>
+            <div class="f6">
+              {{ if eq $category "op-ed" }}Op-Eds{{ end }}
+              {{ if eq $category "investigative" }}Investigative{{ end }}
+              {{ if eq $category "local" }}Local News{{ end }}
+              {{ if eq $category "national" }}National{{ end }}
+              {{ if eq $category "letter" }}Letters{{ end }}
+              {{ if eq $category "analysis" }}Analysis{{ end }}
+              {{ if eq $category "other" }}Other{{ end }}
+            </div>
+          </a>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+    <!-- All Coverage (Chronological) -->
+    <h2 id="all-coverage" class="f3 fw6 mt5 mb3">All Coverage</h2>
+
+    {{ range .media_items }}
+    <article class="pv4 bb b--black-10">
+      <div class="flex flex-column flex-row-l">
+        <div class="w-100 w-70-l pr3-l">
+          <h3 class="f4 fw6 mt0 mb2">
+            <a href="{{ .url }}" target="_blank" class="link blue hover-dark-blue">
+              {{ .title }}
+            </a>
+          </h3>
+
+          <div class="f6 gray mb2">
+            <span class="fw6">{{ .source }}</span>
+            {{ with .author }} by {{ . }}{{ end }}
+            <span class="ml2">{{ .date }}</span>
+          </div>
+
+          {{ with .excerpt }}
+          <p class="f5 lh-copy mt2 mb2">{{ . }}</p>
+          {{ end }}
+
+          {{ with .topics }}
+          <div class="mt2">
+            {{ range . }}
+            <span class="f7 fw6 ph2 pv1 mr1 bg-light-gray br2">{{ . }}</span>
+            {{ end }}
+          </div>
+          {{ end }}
+
+          <div class="mt2">
+            <a href="{{ .url }}" target="_blank" class="f6 link blue mr3">Read Article →</a>
+            {{ with .archive_url }}
+            <a href="{{ . }}" target="_blank" class="f6 link gray">Archived Version</a>
+            {{ end }}
+          </div>
+        </div>
+
+        <div class="w-100 w-30-l mt2 mt0-l">
+          <div class="pa2 bg-light-yellow">
+            <div class="f7 ttu tracked fw6 mb1">Category</div>
+            <div class="f6">
+              {{ if eq .category "op-ed" }}Op-Ed & Commentary{{ end }}
+              {{ if eq .category "investigative" }}Investigative Reporting{{ end }}
+              {{ if eq .category "local" }}Local News{{ end }}
+              {{ if eq .category "national" }}National News{{ end }}
+              {{ if eq .category "letter" }}Letter to the Editor{{ end }}
+              {{ if eq .category "analysis" }}Analysis & Fact-Check{{ end }}
+              {{ if eq .category "other" }}Other Coverage{{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+    {{ end }}
+
+    <!-- Category Sections -->
+    {{ range $category, $items := .by_category }}
+    <h2 id="{{ $category }}" class="f3 fw6 mt5 mb3">
+      {{ if eq $category "op-ed" }}Op-Eds & Commentary{{ end }}
+      {{ if eq $category "investigative" }}Investigative Reporting{{ end }}
+      {{ if eq $category "local" }}Local News Coverage{{ end }}
+      {{ if eq $category "national" }}National News{{ end }}
+      {{ if eq $category "letter" }}Letters to the Editor{{ end }}
+      {{ if eq $category "analysis" }}Analysis & Fact-Checks{{ end }}
+      {{ if eq $category "other" }}Other Coverage{{ end }}
+    </h2>
+
+    {{ range $items }}
+    <div class="pv3 bb b--black-10">
+      <h4 class="f5 fw6 mt0 mb1">
+        <a href="{{ .url }}" target="_blank" class="link blue hover-dark-blue">
+          {{ .title }}
+        </a>
+      </h4>
+      <div class="f6 gray">
+        {{ .source }}{{ with .author }}, {{ . }}{{ end }} - {{ .date }}
+      </div>
+      {{ with .excerpt }}
+      <p class="f6 lh-copy mt2 mb0">{{ . }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+    {{ end }}
+
+    {{ else }}
+    <!-- No data yet -->
+    <div class="mv4 pa4 bg-near-white tc">
+      <p class="f5">Media coverage database is being compiled. Check back soon.</p>
+    </div>
+    {{ end }}
+
+  </main>
+</article>
+{{ end }}

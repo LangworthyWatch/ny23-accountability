@@ -1,0 +1,243 @@
+{
+  "media_items": [
+    {
+      "id": 1,
+      "title": "Example: Langworthy's Voting Record Under Scrutiny",
+      "url": "https://example.com/article1",
+      "archive_url": "https://web.archive.org/web/example",
+      "source": "Local News Outlet",
+      "author": "Reporter Name",
+      "date": "2025-12-15",
+      "category": "investigative",
+      "excerpt": "An examination of Rep. Langworthy's voting record reveals patterns of voting against district interests on key issues including healthcare and agriculture.",
+      "topics": [
+        "voting-record",
+        "healthcare",
+        "agriculture"
+      ],
+      "added_at": "2025-12-22T00:00:00"
+    },
+    {
+      "id": 2,
+      "title": "Example: Op-Ed: Actions Speak Louder Than Words",
+      "url": "https://example.com/oped1",
+      "archive_url": "",
+      "source": "Olean Times Herald",
+      "author": "Constituent Name",
+      "date": "2025-11-28",
+      "category": "op-ed",
+      "excerpt": "Rep. Langworthy promises to support rural hospitals while voting against funding that would keep them open. NY-23 deserves better.",
+      "topics": [
+        "rural-health",
+        "contradictions"
+      ],
+      "added_at": "2025-12-22T00:00:00"
+    },
+    {
+      "id": 3,
+      "title": "Example: Letter: Where is Our Representation?",
+      "url": "https://example.com/letter1",
+      "archive_url": "",
+      "source": "Post-Journal",
+      "author": "Local Resident",
+      "date": "2025-10-12",
+      "category": "letter",
+      "excerpt": "I've tried contacting Rep. Langworthy's office multiple times about the shutdown's impact on my family. No response.",
+      "topics": [
+        "constituent-service",
+        "shutdown"
+      ],
+      "added_at": "2025-12-22T00:00:00"
+    }
+  ],
+  "count": 3,
+  "by_category": {
+    "investigative": [
+      {
+        "id": 1,
+        "title": "Example: Langworthy's Voting Record Under Scrutiny",
+        "url": "https://example.com/article1",
+        "archive_url": "https://web.archive.org/web/example",
+        "source": "Local News Outlet",
+        "author": "Reporter Name",
+        "date": "2025-12-15",
+        "category": "investigative",
+        "excerpt": "An examination of Rep. Langworthy's voting record reveals patterns of voting against district interests on key issues including healthcare and agriculture.",
+        "topics": [
+          "voting-record",
+          "healthcare",
+          "agriculture"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ],
+    "op-ed": [
+      {
+        "id": 2,
+        "title": "Example: Op-Ed: Actions Speak Louder Than Words",
+        "url": "https://example.com/oped1",
+        "archive_url": "",
+        "source": "Olean Times Herald",
+        "author": "Constituent Name",
+        "date": "2025-11-28",
+        "category": "op-ed",
+        "excerpt": "Rep. Langworthy promises to support rural hospitals while voting against funding that would keep them open. NY-23 deserves better.",
+        "topics": [
+          "rural-health",
+          "contradictions"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ],
+    "letter": [
+      {
+        "id": 3,
+        "title": "Example: Letter: Where is Our Representation?",
+        "url": "https://example.com/letter1",
+        "archive_url": "",
+        "source": "Post-Journal",
+        "author": "Local Resident",
+        "date": "2025-10-12",
+        "category": "letter",
+        "excerpt": "I've tried contacting Rep. Langworthy's office multiple times about the shutdown's impact on my family. No response.",
+        "topics": [
+          "constituent-service",
+          "shutdown"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ]
+  },
+  "by_topic": {
+    "voting-record": [
+      {
+        "id": 1,
+        "title": "Example: Langworthy's Voting Record Under Scrutiny",
+        "url": "https://example.com/article1",
+        "archive_url": "https://web.archive.org/web/example",
+        "source": "Local News Outlet",
+        "author": "Reporter Name",
+        "date": "2025-12-15",
+        "category": "investigative",
+        "excerpt": "An examination of Rep. Langworthy's voting record reveals patterns of voting against district interests on key issues including healthcare and agriculture.",
+        "topics": [
+          "voting-record",
+          "healthcare",
+          "agriculture"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ],
+    "healthcare": [
+      {
+        "id": 1,
+        "title": "Example: Langworthy's Voting Record Under Scrutiny",
+        "url": "https://example.com/article1",
+        "archive_url": "https://web.archive.org/web/example",
+        "source": "Local News Outlet",
+        "author": "Reporter Name",
+        "date": "2025-12-15",
+        "category": "investigative",
+        "excerpt": "An examination of Rep. Langworthy's voting record reveals patterns of voting against district interests on key issues including healthcare and agriculture.",
+        "topics": [
+          "voting-record",
+          "healthcare",
+          "agriculture"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ],
+    "agriculture": [
+      {
+        "id": 1,
+        "title": "Example: Langworthy's Voting Record Under Scrutiny",
+        "url": "https://example.com/article1",
+        "archive_url": "https://web.archive.org/web/example",
+        "source": "Local News Outlet",
+        "author": "Reporter Name",
+        "date": "2025-12-15",
+        "category": "investigative",
+        "excerpt": "An examination of Rep. Langworthy's voting record reveals patterns of voting against district interests on key issues including healthcare and agriculture.",
+        "topics": [
+          "voting-record",
+          "healthcare",
+          "agriculture"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ],
+    "rural-health": [
+      {
+        "id": 2,
+        "title": "Example: Op-Ed: Actions Speak Louder Than Words",
+        "url": "https://example.com/oped1",
+        "archive_url": "",
+        "source": "Olean Times Herald",
+        "author": "Constituent Name",
+        "date": "2025-11-28",
+        "category": "op-ed",
+        "excerpt": "Rep. Langworthy promises to support rural hospitals while voting against funding that would keep them open. NY-23 deserves better.",
+        "topics": [
+          "rural-health",
+          "contradictions"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ],
+    "contradictions": [
+      {
+        "id": 2,
+        "title": "Example: Op-Ed: Actions Speak Louder Than Words",
+        "url": "https://example.com/oped1",
+        "archive_url": "",
+        "source": "Olean Times Herald",
+        "author": "Constituent Name",
+        "date": "2025-11-28",
+        "category": "op-ed",
+        "excerpt": "Rep. Langworthy promises to support rural hospitals while voting against funding that would keep them open. NY-23 deserves better.",
+        "topics": [
+          "rural-health",
+          "contradictions"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ],
+    "constituent-service": [
+      {
+        "id": 3,
+        "title": "Example: Letter: Where is Our Representation?",
+        "url": "https://example.com/letter1",
+        "archive_url": "",
+        "source": "Post-Journal",
+        "author": "Local Resident",
+        "date": "2025-10-12",
+        "category": "letter",
+        "excerpt": "I've tried contacting Rep. Langworthy's office multiple times about the shutdown's impact on my family. No response.",
+        "topics": [
+          "constituent-service",
+          "shutdown"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ],
+    "shutdown": [
+      {
+        "id": 3,
+        "title": "Example: Letter: Where is Our Representation?",
+        "url": "https://example.com/letter1",
+        "archive_url": "",
+        "source": "Post-Journal",
+        "author": "Local Resident",
+        "date": "2025-10-12",
+        "category": "letter",
+        "excerpt": "I've tried contacting Rep. Langworthy's office multiple times about the shutdown's impact on my family. No response.",
+        "topics": [
+          "constituent-service",
+          "shutdown"
+        ],
+        "added_at": "2025-12-22T00:00:00"
+      }
+    ]
+  },
+  "last_updated": "2025-12-22T00:00:00"
+}
