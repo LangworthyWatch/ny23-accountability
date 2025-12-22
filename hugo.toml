@@ -29,15 +29,10 @@ theme = 'ananke'
     url = '/missed-votes/'
     weight = 4
   [[menu.main]]
-    identifier = 'submit'
-    name = 'Share Your Story'
-    url = '/submit/'
-    weight = 5
-  [[menu.main]]
     identifier = 'methodology'
     name = 'Methodology'
     url = '/methodology/'
-    weight = 6
+    weight = 5
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
