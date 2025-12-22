@@ -1,0 +1,60 @@
+/* Left-align all content */
+.center,
+.tc,
+.tc-l,
+.tc-m,
+.tc-ns {
+  text-align: left !important;
+}
+
+/* Left-align main content areas */
+article,
+.article-content,
+.content,
+main {
+  text-align: left !important;
+}
+
+/* Keep navigation and headers left-aligned */
+nav,
+header {
+  text-align: left !important;
+}
+
+/* Left-align list pages (fact-checks index, etc) */
+.list-page,
+.list,
+.blog-list {
+  text-align: left !important;
+}
+
+/* Ensure paragraphs and text blocks are left-aligned */
+p,
+.f3,
+.f4,
+.f5,
+.f6 {
+  text-align: left !important;
+}
+
+/* Left-align titles and headings */
+h1, h2, h3, h4, h5, h6 {
+  text-align: left !important;
+}
+
+/* Adjust container alignment */
+.ph3,
+.ph4-ns,
+.pv3,
+.pv4 {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+/* Override Tachyons center utilities */
+.center-l,
+.center-m,
+.center-ns {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
