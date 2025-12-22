@@ -1,0 +1,366 @@
+{
+  "statistics": {
+    "total_votes": 1603,
+    "votes_cast": 806,
+    "missed": 62,
+    "present": 7,
+    "yea": 672,
+    "nay": 134,
+    "attendance_rate": 50.3,
+    "missed_rate": 3.9,
+    "house_median": 2.0,
+    "worse_than_median": true
+  },
+  "by_month": {
+    "2023-01": {
+      "total": 100,
+      "missed": 1,
+      "yea": 20,
+      "nay": 6,
+      "missed_rate": 1.0,
+      "attendance_rate": 26.0
+    },
+    "2023-02": {
+      "total": 24,
+      "missed": 0,
+      "yea": 15,
+      "nay": 0,
+      "missed_rate": 0.0,
+      "attendance_rate": 62.5
+    },
+    "2023-03": {
+      "total": 58,
+      "missed": 0,
+      "yea": 17,
+      "nay": 4,
+      "missed_rate": 0.0,
+      "attendance_rate": 36.2
+    },
+    "2023-04": {
+      "total": 20,
+      "missed": 0,
+      "yea": 14,
+      "nay": 3,
+      "missed_rate": 0.0,
+      "attendance_rate": 85.0
+    },
+    "2023-05": {
+      "total": 42,
+      "missed": 1,
+      "yea": 24,
+      "nay": 2,
+      "missed_rate": 2.4,
+      "attendance_rate": 61.9
+    },
+    "2023-06": {
+      "total": 45,
+      "missed": 0,
+      "yea": 20,
+      "nay": 5,
+      "missed_rate": 0.0,
+      "attendance_rate": 55.6
+    },
+    "2023-07": {
+      "total": 93,
+      "missed": 2,
+      "yea": 16,
+      "nay": 7,
+      "missed_rate": 2.2,
+      "attendance_rate": 24.7
+    },
+    "2023-09": {
+      "total": 131,
+      "missed": 3,
+      "yea": 24,
+      "nay": 9,
+      "missed_rate": 2.3,
+      "attendance_rate": 25.2
+    },
+    "2023-10": {
+      "total": 45,
+      "missed": 0,
+      "yea": 7,
+      "nay": 2,
+      "missed_rate": 0.0,
+      "attendance_rate": 20.0
+    },
+    "2023-11": {
+      "total": 131,
+      "missed": 2,
+      "yea": 22,
+      "nay": 5,
+      "missed_rate": 1.5,
+      "attendance_rate": 20.6
+    },
+    "2023-12": {
+      "total": 35,
+      "missed": 2,
+      "yea": 24,
+      "nay": 3,
+      "missed_rate": 5.7,
+      "attendance_rate": 77.1
+    },
+    "2024-01": {
+      "total": 30,
+      "missed": 5,
+      "yea": 18,
+      "nay": 2,
+      "missed_rate": 16.7,
+      "attendance_rate": 66.7
+    },
+    "2024-02": {
+      "total": 29,
+      "missed": 4,
+      "yea": 22,
+      "nay": 1,
+      "missed_rate": 13.8,
+      "attendance_rate": 79.3
+    },
+    "2024-03": {
+      "total": 45,
+      "missed": 0,
+      "yea": 22,
+      "nay": 6,
+      "missed_rate": 0.0,
+      "attendance_rate": 62.2
+    },
+    "2024-04": {
+      "total": 67,
+      "missed": 28,
+      "yea": 23,
+      "nay": 1,
+      "missed_rate": 41.8,
+      "attendance_rate": 35.8
+    },
+    "2024-05": {
+      "total": 61,
+      "missed": 6,
+      "yea": 37,
+      "nay": 5,
+      "missed_rate": 9.8,
+      "attendance_rate": 68.9
+    },
+    "2024-06": {
+      "total": 103,
+      "missed": 1,
+      "yea": 18,
+      "nay": 5,
+      "missed_rate": 1.0,
+      "attendance_rate": 22.3
+    },
+    "2024-07": {
+      "total": 65,
+      "missed": 0,
+      "yea": 19,
+      "nay": 7,
+      "missed_rate": 0.0,
+      "attendance_rate": 40.0
+    },
+    "2024-09": {
+      "total": 55,
+      "missed": 1,
+      "yea": 38,
+      "nay": 10,
+      "missed_rate": 1.8,
+      "attendance_rate": 87.3
+    },
+    "2024-11": {
+      "total": 23,
+      "missed": 0,
+      "yea": 16,
+      "nay": 3,
+      "missed_rate": 0.0,
+      "attendance_rate": 82.6
+    },
+    "2024-12": {
+      "total": 39,
+      "missed": 0,
+      "yea": 32,
+      "nay": 3,
+      "missed_rate": 0.0,
+      "attendance_rate": 89.7
+    },
+    "2025-01": {
+      "total": 27,
+      "missed": 0,
+      "yea": 20,
+      "nay": 4,
+      "missed_rate": 0.0,
+      "attendance_rate": 88.9
+    },
+    "2025-02": {
+      "total": 26,
+      "missed": 0,
+      "yea": 20,
+      "nay": 3,
+      "missed_rate": 0.0,
+      "attendance_rate": 88.5
+    },
+    "2025-03": {
+      "total": 32,
+      "missed": 0,
+      "yea": 23,
+      "nay": 2,
+      "missed_rate": 0.0,
+      "attendance_rate": 78.1
+    },
+    "2025-04": {
+      "total": 27,
+      "missed": 0,
+      "yea": 21,
+      "nay": 2,
+      "missed_rate": 0.0,
+      "attendance_rate": 85.2
+    },
+    "2025-05": {
+      "total": 33,
+      "missed": 1,
+      "yea": 24,
+      "nay": 3,
+      "missed_rate": 3.0,
+      "attendance_rate": 81.8
+    },
+    "2025-06": {
+      "total": 40,
+      "missed": 3,
+      "yea": 24,
+      "nay": 6,
+      "missed_rate": 7.5,
+      "attendance_rate": 75.0
+    },
+    "2025-07": {
+      "total": 33,
+      "missed": 2,
+      "yea": 18,
+      "nay": 1,
+      "missed_rate": 6.1,
+      "attendance_rate": 57.6
+    },
+    "2025-09": {
+      "total": 64,
+      "missed": 0,
+      "yea": 25,
+      "nay": 6,
+      "missed_rate": 0.0,
+      "attendance_rate": 48.4
+    },
+    "2025-11": {
+      "total": 23,
+      "missed": 0,
+      "yea": 18,
+      "nay": 2,
+      "missed_rate": 0.0,
+      "attendance_rate": 87.0
+    },
+    "2025-12": {
+      "total": 57,
+      "missed": 0,
+      "yea": 31,
+      "nay": 16,
+      "missed_rate": 0.0,
+      "attendance_rate": 82.5
+    }
+  },
+  "chart_data": {
+    "labels": [
+      "Jan 2023",
+      "Feb 2023",
+      "Mar 2023",
+      "Apr 2023",
+      "May 2023",
+      "Jun 2023",
+      "Jul 2023",
+      "Sep 2023",
+      "Oct 2023",
+      "Nov 2023",
+      "Dec 2023",
+      "Jan 2024",
+      "Feb 2024",
+      "Mar 2024",
+      "Apr 2024",
+      "May 2024",
+      "Jun 2024",
+      "Jul 2024",
+      "Sep 2024",
+      "Nov 2024",
+      "Dec 2024",
+      "Jan 2025",
+      "Feb 2025",
+      "Mar 2025",
+      "Apr 2025",
+      "May 2025",
+      "Jun 2025",
+      "Jul 2025",
+      "Sep 2025",
+      "Nov 2025",
+      "Dec 2025"
+    ],
+    "missed": [
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      3,
+      0,
+      2,
+      2,
+      5,
+      4,
+      0,
+      28,
+      6,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      3,
+      2,
+      0,
+      0,
+      0
+    ],
+    "total": [
+      100,
+      24,
+      58,
+      20,
+      42,
+      45,
+      93,
+      131,
+      45,
+      131,
+      35,
+      30,
+      29,
+      45,
+      67,
+      61,
+      103,
+      65,
+      55,
+      23,
+      39,
+      27,
+      26,
+      32,
+      27,
+      33,
+      40,
+      33,
+      64,
+      23,
+      57
+    ]
+  },
+  "generated_at": "2025-12-22T19:29:19.739726"
+}

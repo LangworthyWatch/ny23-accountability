@@ -1,0 +1,564 @@
+{
+  "missed_votes": [
+    {
+      "date": "2025-07-22",
+      "roll_call": "215",
+      "description": "House Roll Call Vote 119-215 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 215).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/119-1/215",
+      "result": "Passed - Yea: 410 | Nay: 1 (R 206-0 Pres=0 NV=12, D 204-1 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2025-07-16",
+      "roll_call": "197",
+      "description": "House Roll Call Vote 119-197 - On motion to reconsider Agreed to by the Yeas and Nays: 215 - 211 (Roll no. 197).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/119-1/197",
+      "result": "Passed - Yea: 215 | Nay: 211 (R 215-0 Pres=0 NV=5, D 0-211 Pres=0 NV=1, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2025-06-09",
+      "roll_call": "159",
+      "description": "House Roll Call Vote 119-159 - On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 400 - 0, 2 Present (Roll no. 159).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/119-1/159",
+      "result": "Passed - Yea: 400 | Nay:  (R 206-0 Pres=1 NV=13, D 194-0 Pres=1 NV=17, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2025-06-09",
+      "roll_call": "158",
+      "description": "House Roll Call Vote 119-158 - On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 280 - 113, 6 Present (Roll no. 158).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/119-1/158",
+      "result": "Passed - Yea: 280 | Nay: 113 (R 205-0 Pres=1 NV=14, D 75-113 Pres=5 NV=19, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2025-06-09",
+      "roll_call": "157",
+      "description": "House Roll Call Vote 119-157 - On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 14 (Roll no. 157).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/119-1/157",
+      "result": "Passed - Yea: 373 | Nay: 14 (R 186-12 Pres=0 NV=21, D 187-2 Pres=0 NV=23, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2025-05-06",
+      "roll_call": "117",
+      "description": "House Roll Call Vote 119-117 - On ordering the previous question Agreed to by the Yeas and Nays: 206 - 200 (Roll no. 117).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/119-1/117",
+      "result": "Passed - Yea: 206 | Nay: 200 (R 206-0 Pres=0 NV=14, D 0-200 Pres=0 NV=13, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-09-19",
+      "roll_call": "432",
+      "description": "House Roll Call Vote 118-432 - On motion to recommit Failed by the Yeas and Nays: 195 - 203 (Roll no. 432).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/432",
+      "result": "Failed - Yea: 195 | Nay: 203 (R 0-203 Pres=0 NV=17, D 195-0 Pres=0 NV=16, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-06-26",
+      "roll_call": "285",
+      "description": "House Roll Call Vote 118-285 - On agreeing to the Biggs amendment (A003) Agreed to by recorded vote: 193 - 173 (Roll no. 285).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/285",
+      "result": "Agreed to - Yea: 193 | Nay: 173 (R 193-1 Pres=0 NV=28, D 0-172 Pres=0 NV=44, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-05-07",
+      "roll_call": "182",
+      "description": "House Roll Call Vote 118-182 - On agreeing to the Kelly (PA) amendment (A003) Agreed to by recorded vote: 208 - 199 (Roll no. 182).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/182",
+      "result": "Agreed to - Yea: 208 | Nay: 199 (R 204-0 Pres=0 NV=15, D 4-199 Pres=0 NV=13, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-05-01",
+      "roll_call": "176",
+      "description": "House Roll Call Vote 118-176 - On agreeing to the resolution Agreed to by the Yeas and Nays: 223 - 191 (Roll no. 176).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/176",
+      "result": "Passed - Yea: 223 | Nay: 191 (R 210-0 Pres=0 NV=7, D 13-191 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-05-01",
+      "roll_call": "175",
+      "description": "House Roll Call Vote 118-175 - On motion to recommit Agreed to by the Yeas and Nays: 210 - 204 (Roll no. 175).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/175",
+      "result": "Passed - Yea: 210 | Nay: 204 (R 6-204 Pres=0 NV=7, D 204-0 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-05-01",
+      "roll_call": "174",
+      "description": "House Roll Call Vote 118-174 - On passage Passed by recorded vote: 214 - 199, 2 Present (Roll no. 174).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/174",
+      "result": "Passed - Yea: 214 | Nay: 199 (R 209-1 Pres=1 NV=6, D 5-198 Pres=1 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-05-01",
+      "roll_call": "173",
+      "description": "House Roll Call Vote 118-173 - On motion to recommit Failed by the Yeas and Nays: 201 - 211 (Roll no. 173).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/173",
+      "result": "Failed - Yea: 201 | Nay: 211 (R 0-211 Pres=0 NV=6, D 201-0 Pres=0 NV=11, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-05-01",
+      "roll_call": "172",
+      "description": "House Roll Call Vote 118-172 - On passage Passed by the Yeas and Nays: 320 - 91 (Roll no. 172).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/172",
+      "result": "Passed - Yea: 320 | Nay: 91 (R 187-21 Pres=0 NV=9, D 133-70 Pres=0 NV=9, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "171",
+      "description": "House Roll Call Vote 118-171 - On passage Passed by the Yeas and Nays: 212 - 203 (Roll no. 171).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/171",
+      "result": "Passed - Yea: 212 | Nay: 203 (R 210-0 Pres=0 NV=7, D 2-203 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "170",
+      "description": "House Roll Call Vote 118-170 - On motion to recommit Failed by the Yeas and Nays: 205 - 210 (Roll no. 170).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/170",
+      "result": "Failed - Yea: 205 | Nay: 210 (R 0-210 Pres=0 NV=7, D 205-0 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "169",
+      "description": "House Roll Call Vote 118-169 - On passage Passed by recorded vote: 209 - 205 (Roll no. 169).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/169",
+      "result": "Passed - Yea: 209 | Nay: 205 (R 205-4 Pres=0 NV=8, D 4-201 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "168",
+      "description": "House Roll Call Vote 118-168 - On motion to recommit Failed by the Yeas and Nays: 205 - 210 (Roll no. 168).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/168",
+      "result": "Failed - Yea: 205 | Nay: 210 (R 0-210 Pres=0 NV=7, D 205-0 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "167",
+      "description": "House Roll Call Vote 118-167 - On passage Passed by the Yeas and Nays: 214 - 201 (Roll no. 167).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/167",
+      "result": "Passed - Yea: 214 | Nay: 201 (R 207-3 Pres=0 NV=7, D 7-198 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "166",
+      "description": "House Roll Call Vote 118-166 - On motion to recommit Failed by the Yeas and Nays: 204 - 211 (Roll no. 166).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/166",
+      "result": "Failed - Yea: 204 | Nay: 211 (R 0-210 Pres=0 NV=7, D 204-1 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "165",
+      "description": "House Roll Call Vote 118-165 - On passage Passed by recorded vote: 212 - 202 (Roll no. 165).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/165",
+      "result": "Passed - Yea: 212 | Nay: 202 (R 209-1 Pres=0 NV=7, D 3-201 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "164",
+      "description": "House Roll Call Vote 118-164 - On motion to recommit Failed by the Yeas and Nays: 204 - 210 (Roll no. 164).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/164",
+      "result": "Failed - Yea: 204 | Nay: 210 (R 0-210 Pres=0 NV=7, D 204-0 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "163",
+      "description": "House Roll Call Vote 118-163 - On agreeing to the resolution Agreed to by recorded vote: 209 - 205 (Roll no. 163).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/163",
+      "result": "Passed - Yea: 209 | Nay: 205 (R 209-0 Pres=0 NV=8, D 0-205 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "162",
+      "description": "House Roll Call Vote 118-162 - On ordering the previous question Agreed to by the Yeas and Nays: 209 - 205 (Roll no. 162).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/162",
+      "result": "Passed - Yea: 209 | Nay: 205 (R 209-0 Pres=0 NV=8, D 0-205 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "161",
+      "description": "House Roll Call Vote 118-161 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 6 (Roll no. 161).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/161",
+      "result": "Passed - Yea: 406 | Nay: 6 (R 202-6 Pres=0 NV=8, D 204-0 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "160",
+      "description": "House Roll Call Vote 118-160 - On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 160).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/160",
+      "result": "Passed - Yea: 413 | Nay:  (R 209-0 Pres=0 NV=7, D 204-0 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "159",
+      "description": "House Roll Call Vote 118-159 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 403 - 10 (Roll no. 159).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/159",
+      "result": "Passed - Yea: 403 | Nay: 10 (R 199-10 Pres=0 NV=7, D 204-0 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "158",
+      "description": "House Roll Call Vote 118-158 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 19 (Roll no. 158).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/158",
+      "result": "Passed - Yea: 394 | Nay: 19 (R 190-19 Pres=0 NV=7, D 204-0 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "157",
+      "description": "House Roll Call Vote 118-157 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 333 - 75 (Roll no. 157).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/157",
+      "result": "Passed - Yea: 333 | Nay: 75 (R 131-75 Pres=0 NV=10, D 202-0 Pres=0 NV=10, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "156",
+      "description": "House Roll Call Vote 118-156 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 364 - 44 (Roll no. 156).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/156",
+      "result": "Passed - Yea: 364 | Nay: 44 (R 164-43 Pres=0 NV=10, D 200-1 Pres=0 NV=11, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-30",
+      "roll_call": "155",
+      "description": "House Roll Call Vote 118-155 - On passage Passed by the Yeas and Nays: 402 - 6 (Roll no. 155).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/155",
+      "result": "Passed - Yea: 402 | Nay: 6 (R 208-0 Pres=0 NV=8, D 194-6 Pres=0 NV=12, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-29",
+      "roll_call": "154",
+      "description": "House Roll Call Vote 118-154 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 354 - 36 (Roll no. 154).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/154",
+      "result": "Passed - Yea: 354 | Nay: 36 (R 162-36 Pres=0 NV=18, D 192-0 Pres=0 NV=20, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-29",
+      "roll_call": "153",
+      "description": "House Roll Call Vote 118-153 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 341 - 48 (Roll no. 153).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/153",
+      "result": "Passed - Yea: 341 | Nay: 48 (R 150-48 Pres=0 NV=18, D 191-0 Pres=0 NV=21, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-18",
+      "roll_call": "141",
+      "description": "House Roll Call Vote 118-141 - On agreeing to the resolution Agreed to by the Yeas and Nays: 404 - 14 (Roll no. 141).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/141",
+      "result": "Passed - Yea: 404 | Nay: 14 (R 211-1 Pres=0 NV=6, D 193-13 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-17",
+      "roll_call": "140",
+      "description": "House Roll Call Vote 118-140 - On passage Passed by the Yeas and Nays: 271 - 147 (Roll no. 140).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/140",
+      "result": "Passed - Yea: 271 | Nay: 147 (R 212-1 Pres=0 NV=5, D 59-146 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-17",
+      "roll_call": "139",
+      "description": "House Roll Call Vote 118-139 - On passage Passed by the Yeas and Nays: 259 - 160 (Roll no. 139).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/139",
+      "result": "Passed - Yea: 259 | Nay: 160 (R 212-1 Pres=0 NV=5, D 47-159 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-17",
+      "roll_call": "138",
+      "description": "House Roll Call Vote 118-138 - On passage Passed by the Yeas and Nays: 278 - 141 (Roll no. 138).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/138",
+      "result": "Passed - Yea: 278 | Nay: 141 (R 212-1 Pres=0 NV=5, D 66-140 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-17",
+      "roll_call": "137",
+      "description": "House Roll Call Vote 118-137 - On passage Passed by the Yeas and Nays: 285 - 135 (Roll no. 137).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/137",
+      "result": "Passed - Yea: 285 | Nay: 135 (R 213-1 Pres=0 NV=4, D 72-134 Pres=0 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-17",
+      "roll_call": "136",
+      "description": "House Roll Call Vote 118-136 - On passage Passed by the Yeas and Nays: 219 - 199, 1 Present (Roll no. 136).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/136",
+      "result": "Passed - Yea: 219 | Nay: 199 (R 123-90 Pres=0 NV=5, D 96-109 Pres=1 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-17",
+      "roll_call": "135",
+      "description": "House Roll Call Vote 118-135 - On agreeing to the LaLota amendment (A003) Failed by recorded vote: 176 - 246, 1 Present (Roll no. 135).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/135",
+      "result": "Failed - Yea: 176 | Nay: 246 (R 75-139 Pres=0 NV=6, D 101-107 Pres=1 NV=7, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-09",
+      "roll_call": "106",
+      "description": "House Roll Call Vote 118-106 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 406 - 0 (Roll no. 106).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/106",
+      "result": "Passed - Yea: 406 | Nay:  (R 202-0 Pres=0 NV=15, D 204-0 Pres=0 NV=9, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-04-09",
+      "roll_call": "105",
+      "description": "House Roll Call Vote 118-105 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 26 (Roll no. 105).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/105",
+      "result": "Passed - Yea: 378 | Nay: 26 (R 175-26 Pres=0 NV=16, D 203-0 Pres=0 NV=10, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-02-07",
+      "roll_call": "40",
+      "description": "House Roll Call Vote 118-40 - On passage Passed by recorded vote: 211 - 208 (Roll no. 40).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/40",
+      "result": "Passed - Yea: 211 | Nay: 208 (R 211-0 Pres=0 NV=7, D 0-208 Pres=0 NV=4, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-02-07",
+      "roll_call": "39",
+      "description": "House Roll Call Vote 118-39 - On motion to recommit Failed by the Yeas and Nays: 207 - 210 (Roll no. 39).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/39",
+      "result": "Failed - Yea: 207 | Nay: 210 (R 0-209 Pres=0 NV=10, D 207-1 Pres=0 NV=4, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-02-06",
+      "roll_call": "35",
+      "description": "House Roll Call Vote 118-35 - On agreeing to the resolution Agreed to by recorded vote: 216 - 209 (Roll no. 35).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/35",
+      "result": "Passed - Yea: 216 | Nay: 209 (R 216-0 Pres=0 NV=3, D 0-209 Pres=0 NV=3, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-02-06",
+      "roll_call": "34",
+      "description": "House Roll Call Vote 118-34 - On ordering the previous question Agreed to by the Yeas and Nays: 215 - 207 (Roll no. 34).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/34",
+      "result": "Passed - Yea: 215 | Nay: 207 (R 215-0 Pres=0 NV=4, D 0-207 Pres=0 NV=5, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-01-12",
+      "roll_call": "10",
+      "description": "House Roll Call Vote 118-10 - On passage Passed by the Yeas and Nays: 206 - 177 (Roll no. 10).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/10",
+      "result": "Passed - Yea: 206 | Nay: 177 (R 198-0 Pres=0 NV=22, D 8-177 Pres=0 NV=28, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-01-12",
+      "roll_call": "9",
+      "description": "House Roll Call Vote 118-9 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 379 - 1 (Roll no. 9).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/9",
+      "result": "Passed - Yea: 379 | Nay: 1 (R 196-1 Pres=0 NV=22, D 183-0 Pres=0 NV=30, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-01-11",
+      "roll_call": "8",
+      "description": "House Roll Call Vote 118-8 - On passage Passed by the Yeas and Nays: 209 - 198 (Roll no. 8).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/8",
+      "result": "Passed - Yea: 209 | Nay: 198 (R 207-2 Pres=0 NV=11, D 2-196 Pres=0 NV=15, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-01-11",
+      "roll_call": "7",
+      "description": "House Roll Call Vote 118-7 - On passage Passed by the Yeas and Nays: 211 - 197 (Roll no. 7).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/7",
+      "result": "Passed - Yea: 211 | Nay: 197 (R 211-0 Pres=0 NV=8, D 0-197 Pres=0 NV=16, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2024-01-11",
+      "roll_call": "6",
+      "description": "House Roll Call Vote 118-6 - On motion to recommit Failed by the Yeas and Nays: 189 - 205 (Roll no. 6).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-2/6",
+      "result": "Failed - Yea: 189 | Nay: 205 (R 0-205 Pres=0 NV=14, D 189-0 Pres=0 NV=24, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-12-14",
+      "roll_call": "722",
+      "description": "",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/722",
+      "result": "Failed - Yea: 23 | Nay: 307 (R 23-140 Pres=0 NV=57, D 0-167 Pres=0 NV=46, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-12-06",
+      "roll_call": "698",
+      "description": "House Roll Call Vote 118-698 - On agreeing to the Molinaro amendment (A005) Agreed to by recorded vote: 372 - 39 (Roll no. 698).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/698",
+      "result": "Agreed to - Yea: 372 | Nay: 39 (R 210-0 Pres=0 NV=13, D 162-39 Pres=0 NV=15, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-11-08",
+      "roll_call": "637",
+      "description": "House Roll Call Vote 118-637 - On agreeing to the Ogles amendment (A054) Failed by recorded vote: 196 - 223 (Roll no. 637).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/637",
+      "result": "Failed - Yea: 196 | Nay: 223 (R 196-19 Pres=0 NV=8, D 0-204 Pres=0 NV=11, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-11-02",
+      "roll_call": "587",
+      "description": "House Roll Call Vote 118-587 - On agreeing to the Nehls amendment (A057) Failed by recorded vote: 196 - 222 (Roll no. 587).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/587",
+      "result": "Failed - Yea: 196 | Nay: 222 (R 196-18 Pres=0 NV=9, D 0-204 Pres=0 NV=11, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-09-18",
+      "roll_call": "394",
+      "description": "House Roll Call Vote 118-394 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 32 (Roll no. 394).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/394",
+      "result": "Passed - Yea: 378 | Nay: 32 (R 177-32 Pres=0 NV=11, D 201-0 Pres=0 NV=11, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-09-18",
+      "roll_call": "393",
+      "description": "House Roll Call Vote 118-393 - On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 0, 1 Present (Roll no. 393).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/393",
+      "result": "Passed - Yea: 409 | Nay:  (R 209-0 Pres=1 NV=10, D 200-0 Pres=0 NV=12, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-09-18",
+      "roll_call": "392",
+      "description": "House Roll Call Vote 118-392 - On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 392).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/392",
+      "result": "Passed - Yea: 410 | Nay:  (R 208-0 Pres=0 NV=12, D 202-0 Pres=0 NV=10, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-07-18",
+      "roll_call": "334",
+      "description": "House Roll Call Vote 118-334 - On passage Failed by the Yeas and Nays: 30 - 388 (Roll no. 334).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/334",
+      "result": "Failed - Yea: 30 | Nay: 388 (R 26-189 Pres=0 NV=6, D 4-199 Pres=0 NV=9, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-07-12",
+      "roll_call": "292",
+      "description": "House Roll Call Vote 118-292 - On ordering the previous question on the amendment (A001) and the resolution Agreed to by the Yeas and Nays: 215- 201 (Roll no. 292).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/292",
+      "result": "Passed - Yea: 215 | Nay: 201 (R 215-0 Pres=0 NV=7, D 0-201 Pres=0 NV=11, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-05-23",
+      "roll_call": "231",
+      "description": "House Roll Call Vote 118-231 - On agreeing to the resolution Agreed to by recorded vote: 217 - 204 (Roll no. 231).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/231",
+      "result": "Passed - Yea: 217 | Nay: 204 (R 216-0 Pres=0 NV=6, D 1-204 Pres=0 NV=8, I 0-0 Pres=0 NV=0)"
+    },
+    {
+      "date": "2023-01-27",
+      "roll_call": "64",
+      "description": "House Roll Call Vote 118-64 - On agreeing to the Schneider amendment (A051) Failed by recorded vote: 209 - 215 (Roll no. 64).",
+      "bill": "",
+      "title": "",
+      "url": "https://www.congress.gov/votes/house/118-1/64",
+      "result": "Failed - Yea: 209 | Nay: 215 (R 3-212 Pres=0 NV=10, D 206-3 Pres=0 NV=6, I 0-0 Pres=0 NV=0)"
+    }
+  ],
+  "count": 62,
+  "generated_at": "2025-12-22T19:29:19.740741"
+}

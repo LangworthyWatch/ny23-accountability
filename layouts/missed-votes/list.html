@@ -1,0 +1,114 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns nested-copy-line-height nested-links">
+  <main class="cf ph3 ph5-l pv3 pv4-l f4 center mw7 lh-copy near-black">
+    <h1 class="f2 fw7 mb3">{{ .Title }}</h1>
+    {{ .Content }}
+
+    {{ with .Site.Data.missed_votes_stats }}
+    {{ $stats := .statistics }}
+
+    <!-- Key Statistics -->
+    <div class="mv4 pa3 bg-light-yellow ba b--gold">
+      <h3 class="f4 fw6 mt0">Key Finding</h3>
+      <p class="f3 fw6 mv2">
+        Rep. Langworthy missed <span class="dark-red">{{ $stats.missed }} of {{ $stats.total_votes }} votes</span> ({{ $stats.missed_rate }}%)
+      </p>
+      <p class="f5">
+        This is <span class="fw6">{{ if $stats.worse_than_median }}worse{{ else }}better{{ end }}</span>
+        than the House median of {{ $stats.house_median }}%
+        {{ if $stats.worse_than_median }}
+        — nearly <span class="fw6 dark-red">2x the median rate</span>
+        {{ end }}
+      </p>
+    </div>
+
+    <!-- Statistics Grid -->
+    <div class="cf mv4">
+      <div class="fl w-50 w-25-l pa2">
+        <div class="pa3 bg-near-white tc">
+          <div class="f5 fw6 ttu tracked mb2">Total Votes</div>
+          <div class="f2 fw7">{{ $stats.total_votes }}</div>
+        </div>
+      </div>
+      <div class="fl w-50 w-25-l pa2">
+        <div class="pa3 bg-light-green tc">
+          <div class="f5 fw6 ttu tracked mb2">Votes Cast</div>
+          <div class="f2 fw7">{{ $stats.votes_cast }}</div>
+        </div>
+      </div>
+      <div class="fl w-50 w-25-l pa2">
+        <div class="pa3 bg-light-red tc">
+          <div class="f5 fw6 ttu tracked mb2">Missed</div>
+          <div class="f2 fw7 dark-red">{{ $stats.missed }}</div>
+        </div>
+      </div>
+      <div class="fl w-50 w-25-l pa2">
+        <div class="pa3 bg-light-yellow tc">
+          <div class="f5 fw6 ttu tracked mb2">Missed Rate</div>
+          <div class="f2 fw7">{{ $stats.missed_rate }}%</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Monthly Breakdown -->
+    <h2 class="f3 fw6 mt5 mb3">Monthly Breakdown</h2>
+    <div class="overflow-auto">
+      <table class="f6 w-100 mw8" cellspacing="0">
+        <thead>
+          <tr>
+            <th class="fw6 tl pa3 bg-white bb b--black-20">Month</th>
+            <th class="fw6 tr pa3 bg-white bb b--black-20">Total Votes</th>
+            <th class="fw6 tr pa3 bg-white bb b--black-20">Missed</th>
+            <th class="fw6 tr pa3 bg-white bb b--black-20">Missed Rate</th>
+          </tr>
+        </thead>
+        <tbody class="lh-copy">
+          {{ range $month, $data := .by_month }}
+          <tr class="stripe-dark">
+            <td class="pa3">{{ $month }}</td>
+            <td class="pa3 tr">{{ $data.total }}</td>
+            <td class="pa3 tr {{ if gt $data.missed 0 }}dark-red fw6{{ end }}">
+              {{ $data.missed }}
+            </td>
+            <td class="pa3 tr {{ if gt $data.missed_rate 2.0 }}bg-light-red{{ end }}">
+              {{ $data.missed_rate }}%
+            </td>
+          </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Link to Details -->
+    <div class="mv4 pa3 bg-light-blue">
+      <h3 class="f4 fw6 mt0">See Full Details</h3>
+      <p class="mv2">
+        For a complete list of all {{ $stats.missed }} missed votes with bill information and dates,
+        visit the <a href="/votes/" class="link blue underline">voting record page</a> and filter by "Not Voting".
+      </p>
+    </div>
+
+    {{ end }}
+
+    <!-- Missed Votes List (if details data exists) -->
+    {{ with .Site.Data.missed_votes_details }}
+    <h2 class="f3 fw6 mt5 mb3">Recent Missed Votes</h2>
+    <div class="overflow-auto">
+      {{ range first 20 .missed_votes }}
+      <div class="pv3 bb b--black-10">
+        <div class="f5 fw6">{{ .date }} - Roll Call #{{ .roll_call }}</div>
+        <div class="f6 gray mt1">{{ .description | truncate 150 }}</div>
+        {{ if .bill }}
+        <div class="f6 mt1"><span class="fw6">Bill:</span> {{ .bill }}{{ with .title }} - {{ . | truncate 80 }}{{ end }}</div>
+        {{ end }}
+        <div class="mt2">
+          <a href="{{ .url }}" target="_blank" class="f6 link blue underline">View on Congress.gov →</a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+  </main>
+</article>
+{{ end }}

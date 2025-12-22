@@ -24,10 +24,15 @@ theme = 'ananke'
     url = '/votes/'
     weight = 3
   [[menu.main]]
+    identifier = 'missed-votes'
+    name = 'Missed Votes'
+    url = '/missed-votes/'
+    weight = 4
+  [[menu.main]]
     identifier = 'methodology'
     name = 'Methodology'
     url = '/methodology/'
-    weight = 4
+    weight = 5
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
