@@ -29,25 +29,15 @@ theme = 'ananke'
     url = '/missed-votes/'
     weight = 4
   [[menu.main]]
-    identifier = 'media'
-    name = 'In the Media'
-    url = '/media/'
-    weight = 5
-  [[menu.main]]
-    identifier = 'constituent-stories'
-    name = 'Constituent Stories'
-    url = '/constituent-stories/'
-    weight = 6
-  [[menu.main]]
     identifier = 'submit'
     name = 'Share Your Story'
     url = '/submit/'
-    weight = 7
+    weight = 5
   [[menu.main]]
     identifier = 'methodology'
     name = 'Methodology'
     url = '/methodology/'
-    weight = 8
+    weight = 6
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
