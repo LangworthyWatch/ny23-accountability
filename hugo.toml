@@ -29,10 +29,15 @@ theme = 'ananke'
     url = '/missed-votes/'
     weight = 4
   [[menu.main]]
+    identifier = 'campaign-finance'
+    name = 'Campaign Finance'
+    url = '/campaign-finance/'
+    weight = 5
+  [[menu.main]]
     identifier = 'methodology'
     name = 'Methodology'
     url = '/methodology/'
-    weight = 5
+    weight = 6
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
