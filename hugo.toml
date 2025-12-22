@@ -34,10 +34,20 @@ theme = 'ananke'
     url = '/media/'
     weight = 5
   [[menu.main]]
+    identifier = 'constituent-stories'
+    name = 'Constituent Stories'
+    url = '/constituent-stories/'
+    weight = 6
+  [[menu.main]]
+    identifier = 'submit'
+    name = 'Share Your Story'
+    url = '/submit/'
+    weight = 7
+  [[menu.main]]
     identifier = 'methodology'
     name = 'Methodology'
     url = '/methodology/'
-    weight = 6
+    weight = 8
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
