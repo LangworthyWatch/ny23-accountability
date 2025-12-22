@@ -1,0 +1,30 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <main class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+      {{ .Content }}
+    </main>
+    <section class="mw8 center">
+      <h2 class="f3 fw4 pa3 pa4-ns">Fact-Check Entries</h2>
+      {{ $pages := .Pages.ByDate.Reverse }}
+      {{ range $pages }}
+        {{ if ne .Title "Example Entry" }}
+          <div class="relative w-100 mb4 bg-white pa3 pa4-ns">
+            <h3 class="f4 fw6 db mb2">
+              <a href="{{ .RelPermalink }}" class="link dim black">
+                {{ .Title }}
+              </a>
+            </h3>
+            <time class="f6 db mb2 gray">{{ .Date.Format "January 2, 2006" }}</time>
+            {{ with .Params.topic }}
+              <span class="f6 fw6 db mb2 gray">Topic: {{ . }}</span>
+            {{ end }}
+            <p class="f6 lh-copy">
+              {{ .Summary }}
+            </p>
+            <a href="{{ .RelPermalink }}" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph3 pv2">Read more →</a>
+          </div>
+        {{ end }}
+      {{ end }}
+    </section>
+  </article>
+{{ end }}
