@@ -1,0 +1,22 @@
+# Python dependencies for LangworthyWatch data scripts
+
+# YAML parsing (for congress-legislators data)
+pyyaml>=6.0
+
+# HTTP requests (for APIs)
+requests>=2.31.0
+
+# Optional: Better HTTP client with caching
+requests-cache>=1.1.0
+
+# Optional: Command-line argument parsing
+click>=8.1.0
+
+# Optional: Progress bars for long-running scripts
+tqdm>=4.66.0
+
+# Optional: CSV/data manipulation
+pandas>=2.0.0
+
+# Optional: Dates and times
+python-dateutil>=2.8.0
