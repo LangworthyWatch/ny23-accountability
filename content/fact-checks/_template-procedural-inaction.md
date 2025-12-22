@@ -1,6 +1,6 @@
 ---
 title: "[BILL TOPIC]: [X] Days of Committee Inaction"
-date: YYYY-MM-DD
+date: 2025-01-01
 draft: true
 topic: "Healthcare|Immigration|Veterans|etc"
 action_type: "procedural_inaction"

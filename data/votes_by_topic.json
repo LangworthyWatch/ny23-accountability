@@ -1,0 +1,287 @@
+{
+  "Veterans": {
+    "count": 28,
+    "votes": [
+      {
+        "roll_call": "79",
+        "date": "2025-03-27",
+        "description": "House Roll Call Vote 119-79 - On agreeing to the Scott (VA) amendment (A003) Failed by recorded vote: 199 - 214 (Roll no. 79).",
+        "result": "Failed - Yea: 199 | Nay: 214 (R 0-211 Pres=0 NV=9, D 199-3 Pres=0 NV=14, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/119-1/79",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "471",
+        "date": "2024-11-19",
+        "description": "House Roll Call Vote 118-471 - On agreeing to the Grijalva amendment (A002) Failed by recorded vote: 196 - 215 (Roll no. 471).",
+        "result": "Failed - Yea: 196 | Nay: 215 (R 0-212 Pres=0 NV=10, D 196-3 Pres=0 NV=17, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-2/471",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "470",
+        "date": "2024-11-19",
+        "description": "House Roll Call Vote 118-470 - On agreeing to the Grijalva amendment (A001) Failed by recorded vote: 200 - 210 (Roll no. 470).",
+        "result": "Failed - Yea: 200 | Nay: 210 (R 0-209 Pres=0 NV=13, D 200-1 Pres=0 NV=15, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-2/470",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "379",
+        "date": "2024-07-23",
+        "description": "House Roll Call Vote 118-379 - On agreeing to the Van Drew amendment (A036) Agreed to by recorded vote: 214 - 203 (Roll no. 379).",
+        "result": "Agreed to - Yea: 214 | Nay: 203 (R 204-9 Pres=0 NV=9, D 10-194 Pres=0 NV=11, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-2/379",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "378",
+        "date": "2024-07-23",
+        "description": "House Roll Call Vote 118-378 - On agreeing to the Van Drew amendment (A035) Failed by recorded vote: 158 - 257, 1 Present (Roll no. 378).",
+        "result": "Failed - Yea: 158 | Nay: 257 (R 156-56 Pres=1 NV=9, D 2-201 Pres=0 NV=12, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-2/378",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "377",
+        "date": "2024-07-23",
+        "description": "House Roll Call Vote 118-377 - On agreeing to the Van Drew amendment (A034) Failed by recorded vote: 145 - 273 (Roll no. 377).",
+        "result": "Failed - Yea: 145 | Nay: 273 (R 145-69 Pres=0 NV=8, D 0-204 Pres=0 NV=11, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-2/377",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "263",
+        "date": "2024-06-13",
+        "description": "House Roll Call Vote 118-263 - On agreeing to the Van Duyne amendment (A031) Agreed to by recorded vote: 214 - 207 (Roll no. 263).",
+        "result": "Agreed to - Yea: 214 | Nay: 207 (R 213-2 Pres=0 NV=6, D 1-205 Pres=0 NV=10, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-2/263",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "700",
+        "date": "2023-12-06",
+        "description": "House Roll Call Vote 118-700 - On agreeing to the Scott (VA) amendment (A008) Failed by recorded vote: 202 - 213 (Roll no. 700).",
+        "result": "Failed - Yea: 202 | Nay: 213 (R 0-212 Pres=0 NV=11, D 202-1 Pres=0 NV=13, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/700",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "653",
+        "date": "2023-11-14",
+        "description": "House Roll Call Vote 118-653 - On agreeing to the Good (VA) amendment (A022) Failed by recorded vote: 109 - 324 (Roll no. 653).",
+        "result": "Failed - Yea: 109 | Nay: 324 (R 109-110 Pres=0 NV=4, D 0-214 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/653",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "650",
+        "date": "2023-11-14",
+        "description": "House Roll Call Vote 118-650 - On agreeing to the Good (VA) amendment (A014) Failed by recorded vote: 140 - 294 (Roll no. 650).",
+        "result": "Failed - Yea: 140 | Nay: 294 (R 140-80 Pres=0 NV=3, D 0-214 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/650",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "649",
+        "date": "2023-11-14",
+        "description": "House Roll Call Vote 118-649 - On agreeing to the Good (VA) amendment (A013) Failed by recorded vote: 190 - 241 (Roll no. 649).",
+        "result": "Failed - Yea: 190 | Nay: 241 (R 190-27 Pres=0 NV=6, D 0-214 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/649",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "427",
+        "date": "2023-09-27",
+        "description": "House Roll Call Vote 118-427 - On agreeing to the Good (VA) amendment (A044) Failed by recorded vote: 163 - 267 (Roll no. 427).",
+        "result": "Failed - Yea: 163 | Nay: 267 (R 163-54 Pres=0 NV=7, D 0-213 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/427",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "426",
+        "date": "2023-09-27",
+        "description": "House Roll Call Vote 118-426 - On agreeing to the Good (VA) amendment (A043) Failed by recorded vote: 160 - 271 (Roll no. 426).",
+        "result": "Failed - Yea: 160 | Nay: 271 (R 160-58 Pres=0 NV=6, D 0-213 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/426",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "425",
+        "date": "2023-09-27",
+        "description": "House Roll Call Vote 118-425 - On agreeing to the Good (VA) amendment (A042) Failed by recorded vote: 161 - 270 (Roll no. 425).",
+        "result": "Failed - Yea: 161 | Nay: 270 (R 161-57 Pres=0 NV=6, D 0-213 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/425",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "424",
+        "date": "2023-09-27",
+        "description": "House Roll Call Vote 118-424 - On agreeing to the Good (VA) amendment (A041) Failed by recorded vote: 156 - 273 (Roll no. 424).",
+        "result": "Failed - Yea: 156 | Nay: 273 (R 156-60 Pres=0 NV=8, D 0-213 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/424",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "423",
+        "date": "2023-09-27",
+        "description": "House Roll Call Vote 118-423 - On agreeing to the Good (VA) amendment (A040) Failed by recorded vote: 159 - 272 (Roll no. 423).",
+        "result": "Failed - Yea: 159 | Nay: 272 (R 159-59 Pres=0 NV=6, D 0-213 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/423",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "422",
+        "date": "2023-09-27",
+        "description": "House Roll Call Vote 118-422 - On agreeing to the Good (VA) amendment (A039) Failed by recorded vote: 158 - 272 (Roll no. 422).",
+        "result": "Failed - Yea: 158 | Nay: 272 (R 158-59 Pres=0 NV=7, D 0-213 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/422",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "420",
+        "date": "2023-09-27",
+        "description": "House Roll Call Vote 118-420 - On agreeing to the Good (VA) amendment (A035) Failed by recorded vote: 152 - 278 (Roll no. 420).",
+        "result": "Failed - Yea: 152 | Nay: 278 (R 152-66 Pres=0 NV=6, D 0-212 Pres=0 NV=3, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/420",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "408",
+        "date": "2023-09-27",
+        "description": "House Roll Call Vote 118-408 - On agreeing to the Good (VA) amendment (A003) Failed by recorded vote: 175 - 254 (Roll no. 408).",
+        "result": "Failed - Yea: 175 | Nay: 254 (R 175-43 Pres=0 NV=6, D 0-211 Pres=0 NV=4, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/408",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "316",
+        "date": "2023-07-13",
+        "description": "House Roll Call Vote 118-316 - On agreeing to the Good (VA) amendment (A027) Failed by recorded vote: 177 - 253 (Roll no. 316).",
+        "result": "Failed - Yea: 177 | Nay: 253 (R 177-41 Pres=0 NV=6, D 0-212 Pres=0 NV=3, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/316",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "258",
+        "date": "2023-06-14",
+        "description": "House Roll Call Vote 118-258 - On agreeing to the Good (VA) amendment (A009) Failed by recorded vote: 211 - 223 (Roll no. 258).",
+        "result": "Failed - Yea: 211 | Nay: 223 (R 211-10 Pres=0 NV=3, D 0-213 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/258",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "180",
+        "date": "2023-03-30",
+        "description": "House Roll Call Vote 118-180 - On agreeing to the Van Drew amendment (A036) Agreed to by recorded vote: 220 - 213 (Roll no. 180).",
+        "result": "Agreed to - Yea: 220 | Nay: 213 (R 214-9 Pres=0 NV=1, D 6-204 Pres=0 NV=6, I 0-0 Pres=0 NV=0)",
+        "vote": "Aye",
+        "url": "https://www.congress.gov/votes/house/118-1/180",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "89",
+        "date": "2023-01-27",
+        "description": "House Roll Call Vote 118-89 - On agreeing to the Grijalva amendment (A070) Failed by recorded vote: 210 - 218 (Roll no. 89).",
+        "result": "Failed - Yea: 210 | Nay: 218 (R 1-218 Pres=0 NV=6, D 209-0 Pres=0 NV=6, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/89",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "81",
+        "date": "2023-01-27",
+        "description": "House Roll Call Vote 118-81 - On agreeing to the Vasquez amendment (A057) Failed by recorded vote: 187 - 240 (Roll no. 81).",
+        "result": "Failed - Yea: 187 | Nay: 240 (R 0-217 Pres=0 NV=7, D 187-23 Pres=0 NV=5, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/81",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "80",
+        "date": "2023-01-27",
+        "description": "House Roll Call Vote 118-80 - On agreeing to the Vasquez amendment (A056) Failed by recorded vote: 204 - 224 (Roll no. 80).",
+        "result": "Failed - Yea: 204 | Nay: 224 (R 1-218 Pres=0 NV=5, D 203-6 Pres=0 NV=6, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/80",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "54",
+        "date": "2023-01-26",
+        "description": "House Roll Call Vote 118-54 - On agreeing to the Grijalva amendment (A028) Failed by recorded vote: 197 - 235 (Roll no. 54).",
+        "result": "Failed - Yea: 197 | Nay: 235 (R 1-218 Pres=0 NV=5, D 196-17 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/54",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "53",
+        "date": "2023-01-26",
+        "description": "House Roll Call Vote 118-53 - On agreeing to the Grijalva amendment (A027) Failed by recorded vote: 213 - 219 (Roll no. 53).",
+        "result": "Failed - Yea: 213 | Nay: 219 (R 1-218 Pres=0 NV=5, D 212-1 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/53",
+        "bill": "",
+        "title": ""
+      },
+      {
+        "roll_call": "52",
+        "date": "2023-01-26",
+        "description": "House Roll Call Vote 118-52 - On agreeing to the Grijalva amendment (A026) Failed by recorded vote: 213 - 219 (Roll no. 52).",
+        "result": "Failed - Yea: 213 | Nay: 219 (R 1-218 Pres=0 NV=5, D 212-1 Pres=0 NV=2, I 0-0 Pres=0 NV=0)",
+        "vote": "No",
+        "url": "https://www.congress.gov/votes/house/118-1/52",
+        "bill": "",
+        "title": ""
+      }
+    ]
+  }
+}
