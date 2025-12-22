@@ -1,5 +1,4 @@
 /* Left-align all content */
-.center,
 .tc,
 .tc-l,
 .tc-m,
@@ -42,19 +41,28 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left !important;
 }
 
-/* Adjust container alignment */
-.ph3,
-.ph4-ns,
-.pv3,
-.pv4 {
-  margin-left: 0 !important;
+/* Center the content container while keeping text left-aligned */
+article,
+.article-content,
+main {
+  max-width: 960px !important;
+  margin-left: auto !important;
   margin-right: auto !important;
 }
 
-/* Override Tachyons center utilities */
+/* Center list pages too */
+.list-page,
+.list {
+  max-width: 960px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Keep Tachyons center utilities for container centering */
+.center,
 .center-l,
 .center-m,
 .center-ns {
-  margin-left: 0 !important;
+  margin-left: auto !important;
   margin-right: auto !important;
 }
