@@ -162,6 +162,7 @@ strong {
 .form-group input[type="email"],
 .form-group input[type="date"],
 .form-group input[type="number"],
+.form-group input[type="file"],
 .form-group select,
 .form-group textarea {
   width: 100%;
@@ -171,6 +172,11 @@ strong {
   font-size: 1rem;
   font-family: inherit;
   box-sizing: border-box;
+}
+
+.form-group input[type="file"] {
+  padding: 0.5rem;
+  cursor: pointer;
 }
 
 .form-group input:focus,

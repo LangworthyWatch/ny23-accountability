@@ -8,7 +8,7 @@ Have you contacted Rep. Langworthy's office? Help us document his responsiveness
 
 Your submission will be reviewed before publication, and all personal information will be redacted to protect your privacy.
 
-<form action="https://formspree.io/f/xrezvqlb" method="POST" class="correspondence-form">
+<form action="https://formspree.io/f/xrezvqlb" method="POST" enctype="multipart/form-data" class="correspondence-form">
 
   <div class="form-group">
     <label for="name">Your Name (or "Anonymous")</label>
@@ -64,6 +64,12 @@ Your submission will be reviewed before publication, and all personal informatio
     <input type="number" name="days_waiting" id="days_waiting" min="0" placeholder="e.g., 45">
   </div>
 
+  <div class="form-group">
+    <label for="document">Upload Document (optional)</label>
+    <input type="file" name="document" id="document" accept=".pdf,.doc,.docx,.txt,.jpg,.jpeg,.png">
+    <small>You can upload a copy of your letter or the response you received (PDF, Word, image, or text file - max 10MB)</small>
+  </div>
+
   <div class="form-group checkbox-group">
     <label>
       <input type="checkbox" name="permission" required>
@@ -82,7 +88,8 @@ Your submission will be reviewed before publication, and all personal informatio
 ## Privacy Notice
 
 - Your email address will not be published or shared
-- All personal information (addresses, phone numbers, etc.) will be redacted
+- All personal information (addresses, phone numbers, etc.) will be redacted from text and documents
 - You can submit anonymously by entering "Anonymous" as your name
+- Uploaded documents are reviewed and redacted before publication
 - Submissions are reviewed before publication
 - This data helps document constituent engagement patterns
