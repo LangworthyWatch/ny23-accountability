@@ -34,10 +34,15 @@ theme = 'ananke'
     url = '/campaign-finance/'
     weight = 5
   [[menu.main]]
+    identifier = 'correspondence'
+    name = 'Correspondence'
+    url = '/correspondence/'
+    weight = 6
+  [[menu.main]]
     identifier = 'methodology'
     name = 'Methodology'
     url = '/methodology/'
-    weight = 6
+    weight = 7
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
