@@ -58,7 +58,7 @@ This hidden element is characteristic of mass email/constituent management syste
 - As of September 4, 2025: "H.Res.589 awaits a vote on the House Floor"
 
 **Response Document:**
-- [Langworthy's Response Letter (September 4, 2025)](/documents/correspondence/response-epstein-files-2025-09-04.pdf)
+- [Langworthy's Response Letter (September 4, 2025) - Inside Gmail Forward PDF, Page 3](/documents/correspondence/response-epstein-files-2025-09-04.pdf)
 
 ---
 
