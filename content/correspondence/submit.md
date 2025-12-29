@@ -65,9 +65,14 @@ Your submission will be reviewed before publication, and all personal informatio
   </div>
 
   <div class="form-group">
-    <label for="document">Upload Document (optional)</label>
-    <input type="file" name="document" id="document" accept=".pdf,.doc,.docx,.txt,.jpg,.jpeg,.png">
-    <small>You can upload a copy of your letter or the response you received (PDF, Word, image, or text file - max 10MB)</small>
+    <label for="response_text">Response You Received (optional)</label>
+    <textarea name="response_text" id="response_text" rows="6" placeholder="If you received a response, you can paste it here. Please remove any personal information."></textarea>
+    <small>If you have a physical letter or PDF, you can paste the text content here.</small>
+  </div>
+
+  <div class="form-group">
+    <label for="additional_notes">Additional Notes (optional)</label>
+    <textarea name="additional_notes" id="additional_notes" rows="4" placeholder="Any other relevant information about your experience contacting the office."></textarea>
   </div>
 
   <div class="form-group checkbox-group">
@@ -85,11 +90,57 @@ Your submission will be reviewed before publication, and all personal informatio
 
 ---
 
+## Alternative: Submit Documents Separately
+
+If you have documents (letters, responses, photos) you'd like to include with your submission, you can:
+
+**Option A: Use the form below** to paste document text, or
+
+**Option B: Email documents** directly to **langworthywatch@gmail.com** with the subject line "Constituent Letter Submission"
+
+---
+
+### Submit via Form
+
+Use the form below to send document text. We'll match it with your submission above.
+
+<form action="https://formspree.io/f/xrezvqlb" method="POST" class="correspondence-form document-upload-form">
+
+  <div class="form-group">
+    <label for="doc_name">Your Name or Reference</label>
+    <input type="text" name="doc_name" id="doc_name" required placeholder="Same name used in main form above">
+    <small>Use the same name from your submission above so we can match them.</small>
+  </div>
+
+  <div class="form-group">
+    <label for="doc_email">Your Email</label>
+    <input type="email" name="doc_email" id="doc_email" required placeholder="Same email from main form">
+  </div>
+
+  <div class="form-group">
+    <label for="document_description">What are you sending?</label>
+    <textarea name="document_description" id="document_description" rows="3" required placeholder="e.g., Copy of my letter to Rep. Langworthy about healthcare"></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="document_text">Paste Document Text Here</label>
+    <textarea name="document_text" id="document_text" rows="10" required placeholder="Paste the full text of your letter or response here."></textarea>
+    <small>Or email PDFs/images to langworthywatch@gmail.com instead.</small>
+  </div>
+
+  <div class="form-group">
+    <button type="submit" class="submit-button">Submit Document</button>
+  </div>
+
+</form>
+
+---
+
 ## Privacy Notice
 
 - Your email address will not be published or shared
 - All personal information (addresses, phone numbers, etc.) will be redacted from text and documents
 - You can submit anonymously by entering "Anonymous" as your name
-- Uploaded documents are reviewed and redacted before publication
-- Submissions are reviewed before publication
+- Documents emailed to langworthywatch@gmail.com are reviewed and redacted before publication
+- All submissions are reviewed before publication
 - This data helps document constituent engagement patterns
