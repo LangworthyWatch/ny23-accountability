@@ -18,7 +18,7 @@ We're documenting response times, patterns, and whether constituent input arrive
 | **Average Response Time** | 75+ days |
 | **Responses After Vote Already Cast** | 2 of 2 (100%) |
 | **Form Letters vs. Personalized** | 2 of 2 form letters (100%) |
-| **H.Res.589 (Epstein) Floor Vote Status** | Still waiting after 167+ days |
+| **Epstein Files Status** | Voted NO (July), YES (Nov) - Sept letter never mentioned change |
 
 ---
 
@@ -61,17 +61,18 @@ Constituent contacted office on May 16, 2025 opposing cuts to USAID and public b
 
 ---
 
-### [Epstein Files: "I Support Full Transparency" — But H.Res.589 Still Hasn't Received a Vote](/correspondence/letters/2025-09-epstein-files-inquiry/)
+### [Epstein Files: Voted NO in July, YES in November—But September Letter Never Mentioned the Change](/correspondence/letters/2025-09-epstein-files-inquiry/)
 
 Constituent asked about Epstein files transparency. Received form letter defending July 14 vote against releasing documents.
 
-**Langworthy's claim:** "I have never opposed the release of the documents"
+**Langworthy's claim (Sept 4):** "I have never opposed the release of the documents"
 
 **The record:**
 - July 14: Voted NO on amendment to release files
-- July 17: Cosponsored alternative bill (H.Res.589)
-- December 29: H.Res.589 still hasn't received floor vote (167+ days later)
-- Result: No documents released through either mechanism
+- September 4: Sent letter defending NO vote as "political stunt"
+- November 18: Voted YES on nearly identical bill (H.R.4405) - passed 427-1
+- November 19: Trump signed H.R.4405 into law
+- Result: Files now being released, but September letter never mentioned he'd vote YES 10 weeks later
 
 [Read full documentation →](/correspondence/letters/2025-09-epstein-files-inquiry/)
 
