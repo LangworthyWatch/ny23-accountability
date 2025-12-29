@@ -27,7 +27,17 @@ Constituent contacted Rep. Langworthy's office to express concerns about the Jef
 ## Response from Rep. Langworthy's Office
 
 **Response received:** September 4, 2025
-**Type:** Form letter
+**Type:** Automated form letter
+
+### Evidence of Automated Response System
+
+This email contains identical HTML tracking code found in all Langworthy office responses:
+```html
+<br><span style="color: white; margin-left: -10000px; position:absolute;
+left: -9999999px; opacity: 0; visibility: hidden; display: none !important;"></span>
+```
+
+This hidden element is characteristic of mass email/constituent management systems, confirming this is a **templated, automated response** rather than a personalized reply.
 
 ### Key Points from Response:
 
@@ -48,7 +58,7 @@ Constituent contacted Rep. Langworthy's office to express concerns about the Jef
 - As of September 4, 2025: "H.Res.589 awaits a vote on the House Floor"
 
 **Response Document:**
-- [Langworthy's Response Letter (Page 3)](/documents/correspondence/langworthy-response-2025-12-29.pdf)
+- [Langworthy's Response Letter (September 4, 2025)](/documents/correspondence/response-epstein-files-2025-09-04.pdf)
 
 ---
 
