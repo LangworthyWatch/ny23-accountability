@@ -1,38 +1,90 @@
 ---
 title: "Constituent Correspondence"
-description: "Document Rep. Langworthy's responsiveness to NY-23 constituents"
+description: "How does Rep. Langworthy respond to constituents?"
 ---
 
-# Constituent Correspondence
+# Correspondence Tracker
 
-Have you contacted Rep. Langworthy's office about an issue that matters to you? Help us document his responsiveness to NY-23 constituents by sharing your experience.
+**How does Rep. Langworthy respond to constituents?**
 
-This section tracks:
-- Whether constituents receive responses
-- How long it takes to hear back
-- Whether responses address the issues raised
-- Patterns in constituent engagement
+We're documenting response times, patterns, and whether constituent input arrives before or after votes are cast.
 
-All submissions are reviewed before publication, and personal information is redacted to protect privacy.
+---
+
+## What We've Found So Far
+
+| Metric | Value |
+|--------|-------|
+| **Average Response Time** | 75+ days |
+| **Responses After Vote Already Cast** | 2 of 2 (100%) |
+| **Form Letters vs. Personalized** | 2 of 2 form letters (100%) |
+| **H.Res.589 (Epstein) Floor Vote Status** | Still waiting after 167+ days |
+
+---
+
+## Patterns Documented
+
+### 1. Responses Arrive After Votes
+Both documented responses came after legislative action was complete:
+- **Rescissions Act:** Response 6 days after bill signed into law
+- **Epstein files:** Response defends vote already cast
+
+### 2. Form Letters, Not Dialogue
+Every response contains:
+- Identical HTML tracking codes
+- Standard talking points
+- No indication constituent input was reviewed before vote
+- Promise to "keep thoughts in mind" for future (unspecified) action
+
+### 3. "My Door Is Always Open"
+Every letter ends with: *"My door is always open, and I am honored to serve Western New York and the Southern Tier."*
+
+Meanwhile: Zero in-person town halls since January 2023.
+
+---
+
+## Documented Cases
+
+### [Rescissions Act (H.R.4): Response Arrived 6 Days After Bill Became Law](/correspondence/letters/2025-05-rescissions-act-opposition/)
+
+Constituent contacted office on May 16, 2025 opposing cuts to USAID and public broadcasting. Auto-reply promised response "shortly."
+
+**Timeline:**
+- May 16: Constituent writes opposing H.R.4
+- July 17: Langworthy votes YES (62 days, no response)
+- July 24: Trump signs into law (69 days, no response)
+- July 30: Response finally arrives (75 days total)
+
+**Result:** By the time the constituent heard back, the bill had already become law. Response promised to "keep your thoughts in mind" for future appropriations — but those thoughts arrived after the vote.
+
+[Read full documentation →](/correspondence/letters/2025-05-rescissions-act-opposition/)
+
+---
+
+### [Epstein Files: "I Support Full Transparency" — But H.Res.589 Still Hasn't Received a Vote](/correspondence/letters/2025-09-epstein-files-inquiry/)
+
+Constituent asked about Epstein files transparency. Received form letter defending July 14 vote against releasing documents.
+
+**Langworthy's claim:** "I have never opposed the release of the documents"
+
+**The record:**
+- July 14: Voted NO on amendment to release files
+- July 17: Cosponsored alternative bill (H.Res.589)
+- December 29: H.Res.589 still hasn't received floor vote (167+ days later)
+- Result: No documents released through either mechanism
+
+[Read full documentation →](/correspondence/letters/2025-09-epstein-files-inquiry/)
+
+---
+
+## Submit Your Experience
+
+Have you contacted Rep. Langworthy's office? Help us document constituent responsiveness in NY-23.
 
 [Submit Your Letter](/correspondence/submit/)
 
----
-
-## Recent Submissions
-
-### [Rescissions Act (H.R.4) - Form Letter Response After 75+ Days](/correspondence/letters/2025-05-rescissions-act-opposition/)
-**September 4, 2025**
-
-Constituent opposed cuts to USAID and public broadcasting. Response received **75+ days later**, after the bill had already passed the House and been signed into law. Form letter explained why Langworthy voted YES, promised to "keep your thoughts in mind" for future appropriations.
-
-**Key Issue:** Response came after all legislative action was complete, making constituent input ineffective.
+All submissions are reviewed before publication, and personal information is redacted to protect privacy.
 
 ---
 
-### [Epstein Files - Form Letter Response](/correspondence/letters/2025-09-epstein-files-inquiry/)
-**September 4, 2025**
-
-Constituent inquired about Epstein files transparency. Received form letter explaining Langworthy's July 14 vote against releasing documents. Response defended vote as procedural, promoted alternative bill (H.Res.589) that still has not received floor vote 167+ days later.
-
-**Key Issue:** No Epstein documents have been released through either mechanism.
+*All information verified through email headers, timestamps, and legislative records.*
