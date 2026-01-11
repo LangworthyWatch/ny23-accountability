@@ -1,0 +1,63 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+.pytest_cache/
+*.egg-info/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
+credentials/
+
+# Archives and backups
+*.zip
+*.tar.gz
+*.bak
+*.backup
+
+# Large data files
+*.csv
+*.json.bak
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# Screenshots (generated)
+storage/archives/screenshots/
+
+# Reports (generated)
+*_report.json
+*_report.txt
+
+# Validation outputs
+validation_*.json
+validation_*.txt

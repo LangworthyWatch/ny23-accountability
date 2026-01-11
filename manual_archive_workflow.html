@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Archive.org Manual Workflow</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #4CAF50;
+            padding-bottom: 10px;
+        }
+        .instructions {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .url-card {
+            background: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border-left: 4px solid #2196F3;
+        }
+        .url-card.done {
+            border-left-color: #4CAF50;
+            opacity: 0.7;
+        }
+        .url-title {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 8px;
+        }
+        .url-link {
+            color: #2196F3;
+            word-break: break-all;
+            display: block;
+            margin-bottom: 15px;
+        }
+        .button-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            text-decoration: none;
+            display: inline-block;
+            color: white;
+            transition: background 0.3s;
+        }
+        .btn-primary {
+            background: #2196F3;
+        }
+        .btn-primary:hover {
+            background: #1976D2;
+        }
+        .btn-success {
+            background: #4CAF50;
+        }
+        .btn-success:hover {
+            background: #45a049;
+        }
+        .counter {
+            text-align: right;
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        .counter .done-count {
+            color: #4CAF50;
+            font-weight: bold;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <h1>📚 Archive.org Manual Workflow</h1>
+
+    <div class="instructions">
+        <h2>Instructions</h2>
+        <ol>
+            <li>Click <strong>"Archive This URL"</strong> to open Archive.org with the URL pre-filled</li>
+            <li>Click <strong>"Save Page"</strong> on Archive.org</li>
+            <li>Wait for archiving to complete (10-30 seconds)</li>
+            <li>Copy the archive URL (starts with https://web.archive.org/web/...)</li>
+            <li>Paste it in the box below and click <strong>"Mark Done"</strong></li>
+            <li>Move to the next URL</li>
+        </ol>
+        <p><strong>Total time:</strong> About 10-15 minutes for all 7 URLs</p>
+    </div>
+
+    <div class="counter">
+        <span class="done-count" id="done-count">0</span> / 7 completed
+    </div>
+
+    <!-- URL 1 -->
+    <div class="url-card" id="card-1">
+        <div class="url-title">1. Towerpoint Wealth - Social Security Tax-Free Article</div>
+        <a class="url-link" href="https://towerpointwealth.com/is-social-security-tax-free/" target="_blank">
+            https://towerpointwealth.com/is-social-security-tax-free/
+        </a>
+        <div class="button-group">
+            <a href="https://web.archive.org/save/https://towerpointwealth.com/is-social-security-tax-free/"
+               target="_blank" class="btn btn-primary">📥 Archive This URL</a>
+            <button onclick="markDone(1)" class="btn btn-success">✓ Mark Done</button>
+        </div>
+        <input type="text" id="archive-1" placeholder="Paste archive URL here..." style="display:none; margin-top:10px;">
+    </div>
+
+    <!-- URL 2 -->
+    <div class="url-card" id="card-2">
+        <div class="url-title">2. Newsweek - Social Security Tax Provisions</div>
+        <a class="url-link" href="https://www.newsweek.com/no-tax-social-security-seniors-big-beautiful-bill-2115721" target="_blank">
+            https://www.newsweek.com/no-tax-social-security-seniors-big-beautiful-bill-2115721
+        </a>
+        <div class="button-group">
+            <a href="https://web.archive.org/save/https://www.newsweek.com/no-tax-social-security-seniors-big-beautiful-bill-2115721"
+               target="_blank" class="btn btn-primary">📥 Archive This URL</a>
+            <button onclick="markDone(2)" class="btn btn-success">✓ Mark Done</button>
+        </div>
+        <input type="text" id="archive-2" placeholder="Paste archive URL here..." style="display:none; margin-top:10px;">
+    </div>
+
+    <!-- URL 3 -->
+    <div class="url-card" id="card-3">
+        <div class="url-title">3. Langworthy - Springville Seniors Visit</div>
+        <a class="url-link" href="https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-visits-springville-spotlight-local-seniors-small" target="_blank">
+            https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-visits-springville-spotlight-local-seniors-small
+        </a>
+        <div class="button-group">
+            <a href="https://web.archive.org/save/https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-visits-springville-spotlight-local-seniors-small"
+               target="_blank" class="btn btn-primary">📥 Archive This URL</a>
+            <button onclick="markDone(3)" class="btn btn-success">✓ Mark Done</button>
+        </div>
+        <input type="text" id="archive-3" placeholder="Paste archive URL here..." style="display:none; margin-top:10px;">
+    </div>
+
+    <!-- URL 4 -->
+    <div class="url-card" id="card-4">
+        <div class="url-title">4. Langworthy - Finger Lakes Railway Grant</div>
+        <a class="url-link" href="https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-announces-over-38-million-fra-grant-finger-lakes" target="_blank">
+            https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-announces-over-38-million-fra-grant-finger-lakes
+        </a>
+        <div class="button-group">
+            <a href="https://web.archive.org/save/https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-announces-over-38-million-fra-grant-finger-lakes"
+               target="_blank" class="btn btn-primary">📥 Archive This URL</a>
+            <button onclick="markDone(4)" class="btn btn-success">✓ Mark Done</button>
+        </div>
+        <input type="text" id="archive-4" placeholder="Paste archive URL here..." style="display:none; margin-top:10px;">
+    </div>
+
+    <!-- URL 5 -->
+    <div class="url-card" id="card-5">
+        <div class="url-title">5. Langworthy - Watkins Glen Water Infrastructure</div>
+        <a class="url-link" href="https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-announces-46-million-federal-funding-water" target="_blank">
+            https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-announces-46-million-federal-funding-water
+        </a>
+        <div class="button-group">
+            <a href="https://web.archive.org/save/https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-announces-46-million-federal-funding-water"
+               target="_blank" class="btn btn-primary">📥 Archive This URL</a>
+            <button onclick="markDone(5)" class="btn btn-success">✓ Mark Done</button>
+        </div>
+        <input type="text" id="archive-5" placeholder="Paste archive URL here..." style="display:none; margin-top:10px;">
+    </div>
+
+    <!-- URL 6 -->
+    <div class="url-card" id="card-6">
+        <div class="url-title">6. EDA - Watkins Glen Grant (Biden-Harris Administration)</div>
+        <a class="url-link" href="https://www.eda.gov/news/press-release/2024/06/25/us-department-commerce-invests-46-million-water-infrastructure" target="_blank">
+            https://www.eda.gov/news/press-release/2024/06/25/us-department-commerce-invests-46-million-water-infrastructure
+        </a>
+        <div class="button-group">
+            <a href="https://web.archive.org/save/https://www.eda.gov/news/press-release/2024/06/25/us-department-commerce-invests-46-million-water-infrastructure"
+               target="_blank" class="btn btn-primary">📥 Archive This URL</a>
+            <button onclick="markDone(6)" class="btn btn-success">✓ Mark Done</button>
+        </div>
+        <input type="text" id="archive-6" placeholder="Paste archive URL here..." style="display:none; margin-top:10px;">
+    </div>
+
+    <!-- URL 7 -->
+    <div class="url-card" id="card-7">
+        <div class="url-title">7. FingerLakes1.com - Railway Grant Coverage</div>
+        <a class="url-link" href="https://www.fingerlakes1.com/2025/06/10/finger-lakes-railway-awarded-3-8-million-federal-grant-for-track-upgrades/" target="_blank">
+            https://www.fingerlakes1.com/2025/06/10/finger-lakes-railway-awarded-3-8-million-federal-grant-for-track-upgrades/
+        </a>
+        <div class="button-group">
+            <a href="https://web.archive.org/save/https://www.fingerlakes1.com/2025/06/10/finger-lakes-railway-awarded-3-8-million-federal-grant-for-track-upgrades/"
+               target="_blank" class="btn btn-primary">📥 Archive This URL</a>
+            <button onclick="markDone(7)" class="btn btn-success">✓ Mark Done</button>
+        </div>
+        <input type="text" id="archive-7" placeholder="Paste archive URL here..." style="display:none; margin-top:10px;">
+    </div>
+
+    <div style="background: #fff; padding: 20px; border-radius: 8px; margin-top: 30px;">
+        <h3>🎉 When You're Done</h3>
+        <p>After archiving all URLs, run this command to update the markdown files:</p>
+        <code style="background: #f5f5f5; padding: 10px; display: block; border-radius: 4px;">
+            python3 batch_archive_urls.py --retry --update
+        </code>
+        <p style="margin-top: 15px;">This will:</p>
+        <ul>
+            <li>Check Archive.org for all completed archives</li>
+            <li>Retrieve the archive URLs</li>
+            <li>Update the markdown files automatically</li>
+        </ul>
+    </div>
+
+    <script>
+        let doneCount = 0;
+
+        function markDone(num) {
+            const card = document.getElementById('card-' + num);
+            const input = document.getElementById('archive-' + num);
+
+            if (!card.classList.contains('done')) {
+                card.classList.add('done');
+                doneCount++;
+                document.getElementById('done-count').textContent = doneCount;
+
+                // Save to localStorage
+                localStorage.setItem('archive-' + num, 'done');
+            }
+        }
+
+        // Load previous progress
+        window.onload = function() {
+            for (let i = 1; i <= 7; i++) {
+                if (localStorage.getItem('archive-' + i) === 'done') {
+                    document.getElementById('card-' + i).classList.add('done');
+                    doneCount++;
+                }
+            }
+            document.getElementById('done-count').textContent = doneCount;
+        };
+    </script>
+</body>
+</html>
