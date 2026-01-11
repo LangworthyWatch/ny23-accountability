@@ -61,3 +61,6 @@ storage/archives/screenshots/
 # Validation outputs
 validation_*.json
 validation_*.txt
+
+# Public Hugo site (tracked in separate repo)
+langworthy-tracker/
