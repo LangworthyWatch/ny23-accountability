@@ -6,6 +6,9 @@ theme = 'ananke'
 [params]
   description = 'Documenting NY-23 representation through public records'
   featured_image = ''
+  # Form and analytics IDs - can be overridden via environment
+  formspreeId = 'xrezvqlb'
+  googleAnalyticsId = 'G-GHSR96MHBS'
 
 [menu]
   [[menu.main]]
@@ -50,4 +53,4 @@ theme = 'ananke'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = false

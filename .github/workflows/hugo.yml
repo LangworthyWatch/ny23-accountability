@@ -36,6 +36,14 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
+      - name: Validate markdown files
+        run: |
+          # Check for common issues in markdown files
+          echo "Checking for draft posts that might be published..."
+          find content -name "*.md" -exec grep -l "^draft: true" {} \; || echo "No draft posts found"
+          echo "Checking for broken internal links..."
+          # Basic check for malformed links
+          find content -name "*.md" -exec grep -E '\[.*\]\([^)]*\s[^)]*\)' {} \; && echo "WARNING: Found links with spaces" || echo "Link format OK"
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -44,6 +52,13 @@ jobs:
           hugo \
             --gc \
             --minify
+      - name: Validate HTML output
+        run: |
+          # Check that key pages were generated
+          test -f public/index.html || (echo "ERROR: index.html not generated" && exit 1)
+          test -f public/fact-checks/index.html || (echo "ERROR: fact-checks not generated" && exit 1)
+          test -f public/correspondence/index.html || (echo "ERROR: correspondence not generated" && exit 1)
+          echo "HTML validation passed"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

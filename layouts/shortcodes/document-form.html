@@ -1,0 +1,30 @@
+{{ $formspreeId := .Site.Params.formspreeId | default "xrezvqlb" }}
+<form action="https://formspree.io/f/{{ $formspreeId }}" method="POST" class="correspondence-form document-upload-form">
+
+  <div class="form-group">
+    <label for="doc_name">Your Name or Reference</label>
+    <input type="text" name="doc_name" id="doc_name" required placeholder="Same name used in main form above">
+    <small>Use the same name from your submission above so we can match them.</small>
+  </div>
+
+  <div class="form-group">
+    <label for="doc_email">Your Email</label>
+    <input type="email" name="doc_email" id="doc_email" required placeholder="Same email from main form">
+  </div>
+
+  <div class="form-group">
+    <label for="document_description">What are you sending?</label>
+    <textarea name="document_description" id="document_description" rows="3" required placeholder="e.g., Copy of my letter to Rep. Langworthy about healthcare"></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="document_text">Paste Document Text Here</label>
+    <textarea name="document_text" id="document_text" rows="10" required placeholder="Paste the full text of your letter or response here."></textarea>
+    <small>Or email PDFs/images to langworthywatch@gmail.com instead.</small>
+  </div>
+
+  <div class="form-group">
+    <button type="submit" class="submit-button">Submit Document</button>
+  </div>
+
+</form>
