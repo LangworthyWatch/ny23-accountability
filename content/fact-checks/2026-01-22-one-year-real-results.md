@@ -6,7 +6,7 @@ topic: "Economy"
 claim_date: "January 21, 2026"
 source: "Facebook Post"
 source_url: "https://www.facebook.com/RepLangworthy/posts/pfbid02JXFMHKMS94vXPAgsk7q2pFQgAW6axXMCiXAFQcWA44rESQhHave6X1wzeZUTwAvSl"
-archived_url: "Screenshot archived below (Facebook requires login for Wayback Machine)"
+archived_url: "https://web.archive.org/web/20260123000947/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRepLangworthy%2Fposts%2Fpfbid02JXFMHKMS94vXPAgsk7q2pFQgAW6axXMCiXAFQcWA44rESQhHave6X1wzeZUTwAvSl"
 ---
 
 {{< figure src="/images/fact-checks/2026-01-22-one-year-results-fb-post.jpeg" alt="Congressman Nick Langworthy Facebook post titled 'One Year. Real Results.' making economic claims" caption="Langworthy's Facebook post claiming Trump administration economic achievements (screenshot archived January 22, 2026)" >}}
