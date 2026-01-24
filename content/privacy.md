@@ -1,9 +1,6 @@
 ---
 title: "Privacy Notice"
 description: "How we handle visitor data on this site"
-menu:
-  main:
-    weight: 99
 ---
 
 ## Analytics
