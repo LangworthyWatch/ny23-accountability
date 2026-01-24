@@ -1,0 +1,43 @@
+{{ define "main" }}
+<article class="pa3 pa4-ns nested-copy-line-height">
+  <section class="cf ph3 ph5-l pv3 pv4-l f4 center measure-wide lh-copy mid-gray">
+    {{ .Content }}
+
+    <h2>Recent Fact-Checks</h2>
+    <ul class="list pl0">
+      {{ $factchecks := where .Site.RegularPages "Section" "fact-checks" }}
+      {{ range first 10 $factchecks.ByDate.Reverse }}
+        {{ if not .Draft }}
+        <li class="mb3 bb b--light-gray pb3">
+          <a href="{{ .Permalink }}" class="link dim dark-gray">
+            <strong>{{ .Title }}</strong>
+          </a>
+          <br>
+          <span class="f6 gray">{{ .Date.Format "January 2, 2006" }}</span>
+          {{ with .Params.topic }} &middot; <span class="f6 gray">{{ . }}</span>{{ end }}
+        </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    <p><a href="/fact-checks/" class="link dim blue">View all fact-checks →</a></p>
+
+    <h2>Recent Correspondence</h2>
+    <ul class="list pl0">
+      {{ $letters := where .Site.RegularPages "Section" "correspondence" }}
+      {{ range first 5 $letters.ByDate.Reverse }}
+        {{ if and (not .Draft) (ne .File.LogicalName "_index.md") (ne .File.LogicalName "submit.md") (ne .File.LogicalName "_TEMPLATE.md") }}
+        <li class="mb3 bb b--light-gray pb3">
+          <a href="{{ .Permalink }}" class="link dim dark-gray">
+            <strong>{{ .Title }}</strong>
+          </a>
+          <br>
+          <span class="f6 gray">{{ .Date.Format "January 2, 2006" }}</span>
+          {{ with .Params.topic }} &middot; <span class="f6 gray">{{ . }}</span>{{ end }}
+        </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    <p><a href="/correspondence/" class="link dim blue">View all correspondence →</a></p>
+  </section>
+</article>
+{{ end }}

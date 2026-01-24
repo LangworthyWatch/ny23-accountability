@@ -56,4 +56,8 @@ Vote attendance data compiled from [Congress.gov](https://www.congress.gov/membe
 
 ## Full Record
 
-For a complete list of missed votes with dates and bill information, see the [voting record page](/votes/) and filter by "Not Voting."
+View the complete list of missed votes on Congress.gov:
+
+**[Rep. Langworthy - All Votes (filter by "Not Voting")](https://www.congress.gov/member/nicholas-langworthy/L000600/all-votes)**
+
+*Note: Statistics on this page are based on data available as of December 2025. For the most current information, check Congress.gov directly.*

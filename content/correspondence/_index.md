@@ -15,31 +15,35 @@ We're documenting response times, patterns, and whether constituent input arrive
 
 | Metric | Value |
 |--------|-------|
-| **Average Response Time** | 75+ days |
-| **Responses After Vote Already Cast** | 2 of 2 (100%) |
-| **Form Letters vs. Personalized** | 2 of 2 form letters (100%) |
-| **Epstein Files Status** | Voted NO (July), YES (Nov) - Sept letter never mentioned change |
+| **Letters Documented** | 7 constituent exchanges |
+| **Average Response Time** | Varies: same-day to 75+ days |
+| **Form Letters** | 7 of 7 (100%) |
+| **Hidden Tracking Codes** | Present in all responses |
+| **Pattern** | Responses often pivot away from constituent's question |
 
 ---
 
 ## Patterns Documented
 
-### 1. Responses Arrive After Votes
-Both documented responses came after legislative action was complete:
-- **Rescissions Act:** Response 6 days after bill signed into law
-- **Epstein files:** Response defends vote already cast
+### 1. Deflection and Pivoting
+Responses frequently pivot away from the constituent's actual question:
+- **Hernandez Pardon:** Asked about drug trafficker pardon → response pivoted to Biden autopen claims
+- **Premium Tax Credits:** Asked about ACA subsidies → response pivoted to unrelated H.R.1 tax provisions
+- **RFK Jr. Opposition:** Expressed opposition → response praised MAHA agenda
 
-### 2. Form Letters, Not Dialogue
+### 2. Form Letters with Tracking Codes
 Every response contains:
-- Identical HTML tracking codes
+- Identical HTML tracking codes (hidden `<span>` elements)
 - Standard talking points
-- No indication constituent input was reviewed before vote
 - Promise to "keep thoughts in mind" for future (unspecified) action
+- Closing: *"My door is always open..."*
 
-### 3. "My Door Is Always Open"
-Every letter ends with: *"My door is always open, and I am honored to serve Western New York and the Southern Tier."*
+### 3. Variable Response Times
+- **Same-day:** Hernandez pardon (pre-written form letter ready)
+- **75+ days:** Rescissions Act (arrived after bill became law)
 
-Meanwhile: Zero in-person town halls since January 2023.
+### 4. Zero In-Person Town Halls
+Every letter promises accessibility, but no in-person town halls documented since January 2023.
 
 ---
 
@@ -75,6 +79,18 @@ Constituent asked about Epstein files transparency. Received form letter defendi
 - Result: Files now being released, but September letter never mentioned he'd vote YES 10 weeks later
 
 [Read full documentation →](/correspondence/letters/2025-09-epstein-files-inquiry/)
+
+---
+
+### January 2026 Batch: Four Letters, One Day
+
+On January 14, 2026, four constituent letters received responses—all form letters with identical structures:
+
+- **[Hernandez Pardon](/correspondence/letters/2026-01-21-hernandez-pardon/)** - Constituent raised drug trafficker pardon; response pivoted to Biden
+- **[Premium Tax Credits](/correspondence/letters/2026-01-14-health-care-premium-tax-credits/)** - Asked about ACA subsidies; response listed unrelated tax provisions
+- **[RFK Jr. as HHS Secretary](/correspondence/letters/2026-01-14-rfk-hhs-secretary-opposition/)** - Expressed opposition; response praised MAHA agenda
+- **[Free Speech/AP Access](/correspondence/letters/2026-01-14-trump-freedom-of-speech/)** - Raised press freedom concerns; response cited unrelated legislation
+- **[Epstein Files](/correspondence/letters/2026-01-14-epstein-case/)** - Asked about discharge petition; claimed "proud support" without signing
 
 ---
 

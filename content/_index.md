@@ -9,10 +9,6 @@ This site documents statements and actions by New York's 23rd Congressional Dist
 
 We present facts side-by-side: what was said and what was done. All sources are linked and archived for verification.
 
-## Recent Entries
-
-[Recent fact-checks will appear here automatically]
-
 ---
 
 **Independent Research** | **Public Records Only** | **All Sources Verified**

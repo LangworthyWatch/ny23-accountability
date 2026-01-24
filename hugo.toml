@@ -53,7 +53,7 @@ theme = 'ananke'
     weight = 8
 
 [outputs]
-  home = ['HTML', 'RSS', 'JSON']
+  home = ['HTML', 'RSS']
 
 [markup]
   [markup.goldmark]
