@@ -46,6 +46,11 @@ theme = 'ananke'
     name = 'Methodology'
     url = '/methodology/'
     weight = 7
+  [[menu.main]]
+    identifier = 'privacy'
+    name = 'Privacy'
+    url = '/privacy/'
+    weight = 8
 
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
