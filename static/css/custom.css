@@ -36,9 +36,19 @@ p,
   text-align: left !important;
 }
 
-/* Left-align titles and headings */
-h1, h2, h3, h4, h5, h6 {
+/* Left-align titles and headings in content areas */
+article h1, article h2, article h3, article h4, article h5, article h6,
+main h1, main h2, main h3, main h4, main h5, main h6,
+.nested-copy-line-height h1, .nested-copy-line-height h2, .nested-copy-line-height h3 {
   text-align: left !important;
+}
+
+/* Keep page header titles centered */
+header h1,
+.cover-title,
+.f-headline,
+.f-subheadline {
+  text-align: center !important;
 }
 
 /* Center the content container while keeping text left-aligned */
