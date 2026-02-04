@@ -8,6 +8,7 @@ source: "Constituent Letter Response"
 source_url: ""
 archived_url: ""
 verdict: "FALSE"
+tags: ["immigration", "ICE", "Minneapolis", "shooting", "false-claim", "constituent-letter"]
 ---
 
 ## Statement

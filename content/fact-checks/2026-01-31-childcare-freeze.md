@@ -8,6 +8,7 @@ source: "Constituent Letter Responses"
 source_url: ""
 archived_url: ""
 verdict: "MISLEADING"
+tags: ["childcare", "Head-Start", "social-services", "local-impact", "deflection", "constituent-letter"]
 ---
 
 ## Statement

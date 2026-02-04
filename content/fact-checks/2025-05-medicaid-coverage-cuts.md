@@ -7,6 +7,7 @@ claim_date: "May 15, 2025"
 source: "Press Statement"
 source_url: ""
 archived_url: ""
+tags: ["healthcare", "Medicaid", "hospitals", "local-impact", "false-claim", "rural"]
 ---
 
 ## Statement

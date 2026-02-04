@@ -8,6 +8,7 @@ source: "Facebook Post"
 source_url: "https://www.facebook.com/RepNickLangworthy"
 archived_url: "https://web.archive.org/web/2026/"
 verdict: "FALSE ATTRIBUTION"
+tags: ["healthcare", "hospitals", "ECMC", "Kaleida", "layoffs", "premiums", "ACA", "Medicaid", "local-impact", "Buffalo", "Southern-Tier"]
 ---
 
 ## Statement

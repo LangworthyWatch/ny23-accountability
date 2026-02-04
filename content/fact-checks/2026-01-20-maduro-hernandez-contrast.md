@@ -8,6 +8,7 @@ source: "Constituent Letter Responses"
 source_url: ""
 archived_url: ""
 verdict: "INCONSISTENT"
+tags: ["foreign-policy", "Venezuela", "drug-trafficking", "pardon", "hypocrisy", "constituent-letter"]
 ---
 
 ## Statement
