@@ -15,9 +15,9 @@ We're documenting response times, patterns, and whether constituent input arrive
 
 | Metric | Value |
 |--------|-------|
-| **Letters Documented** | 11 constituent exchanges |
+| **Letters Documented** | 12 constituent exchanges |
 | **Average Response Time** | Varies: same-day to 75+ days |
-| **Form Letters** | 11 of 11 (100%) |
+| **Form Letters** | 12 of 12 (100%) |
 | **Hidden Tracking Codes** | Present in all responses |
 | **Pattern** | Responses often pivot away from constituent's question |
 
@@ -84,9 +84,10 @@ Constituent asked about Epstein files transparency. Received form letter defendi
 
 ---
 
-### February 2026: Minneapolis Shooting
+### February 2026: Minneapolis Shootings
 
 - **[Minneapolis ICE Shooting - Renee Good](/correspondence/letters/2026-02-04-minneapolis-renee-good/)** - Langworthy called victim a "violent rioter" who "weaponized her vehicle" — contradicted by video evidence per Minneapolis Mayor
+- **[ICE General Concerns](/correspondence/letters/2026-02-04-ice-general-concerns/)** - Generic response citing body camera funding; doesn't address specific constituent concerns
 
 ---
 
