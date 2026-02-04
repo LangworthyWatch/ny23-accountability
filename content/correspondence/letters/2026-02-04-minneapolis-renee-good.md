@@ -74,6 +74,13 @@ Standard elements present:
 
 ---
 
+## Documents
+
+- [Renee Good Response (PDF)](/documents/2026-02-04-minneapolis-renee-good-response.pdf) - Tracking code: `[YRWKLY-7LYJ2]`
+- [Alex Pretti Response (PDF)](/documents/2026-02-04-minneapolis-alex-pretti-response.pdf) - Tracking code: `[YR6D1R-V1EDP]`
+
+---
+
 ## Related
 
 - [Fact-Check: Minneapolis Shooting](/fact-checks/2026-02-04-minneapolis-renee-good/)

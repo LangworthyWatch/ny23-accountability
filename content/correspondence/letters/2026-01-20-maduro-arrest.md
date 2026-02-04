@@ -84,6 +84,13 @@ A constituent specifically asked about Congress adopting a War Powers Resolution
 
 ---
 
+## Documents
+
+- [Maduro Arrest Response (PDF)](/documents/2026-01-20-maduro-arrest-response.pdf) - Tracking code: `[6ZMXD7-3ZN32]`
+- [Maduro War Powers Response (PDF)](/documents/2026-01-20-maduro-war-powers-response.pdf) - Tracking code: `[KE775W-0MMGV]`
+
+---
+
 ## Related
 
 - [Fact-Check: Maduro/Hernandez Contrast](/fact-checks/2026-01-20-maduro-hernandez-contrast/)

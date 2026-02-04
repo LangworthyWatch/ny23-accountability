@@ -71,6 +71,12 @@ The Minnesota fraud case involved the **Child Care Assistance Program (CCAP)**, 
 
 ---
 
+## Documents
+
+- [Childcare Freeze Response (PDF)](/documents/2026-01-31-childcare-freeze-response.pdf)
+
+---
+
 ## Related
 
 - [Fact-Check: Childcare Freeze](/fact-checks/2026-01-31-childcare-freeze/)
