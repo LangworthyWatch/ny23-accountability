@@ -9,6 +9,7 @@ source_url: ""
 archived_url: ""
 verdict: "CONTRADICTION"
 tags: ["veterans", "va", "doge", "staffing", "bath-va", "healthcare"]
+counties: ["erie", "steuben"]
 ---
 
 ## Statement

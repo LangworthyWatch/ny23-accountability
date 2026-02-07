@@ -9,6 +9,7 @@ source_url: ""
 archived_url: ""
 verdict: "FALSE"
 tags: ["transparency", "town-halls", "constituent-access", "accountability"]
+counties: ["erie", "steuben", "chemung", "chautauqua"]
 ---
 
 ## Statement

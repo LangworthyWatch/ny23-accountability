@@ -8,7 +8,7 @@
       {{ end }}
     </header>
 
-    <div class="content">
+    <div class="content content--wide">
       {{ .Content }}
     </div>
 
@@ -16,13 +16,105 @@
     {{ $pages := where .Pages "Draft" false }}
 
     {{ if $pages }}
-    <div class="card-grid card-grid--2 mt-8">
+    {{/* Filter Controls */}}
+    <div class="filter-controls" role="search" aria-label="Filter fact-checks">
+      <div class="filter-group">
+        <label for="filter-county">Filter by County</label>
+        <select id="filter-county">
+          <option value="">All Counties</option>
+          <option value="allegany">Allegany</option>
+          <option value="cattaraugus">Cattaraugus</option>
+          <option value="chautauqua">Chautauqua</option>
+          <option value="chemung">Chemung</option>
+          <option value="erie">Erie</option>
+          <option value="schuyler">Schuyler</option>
+          <option value="steuben">Steuben</option>
+          <option value="district-wide">District-wide</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-topic">Filter by Topic</label>
+        <select id="filter-topic">
+          <option value="">All Topics</option>
+          <option value="healthcare">Healthcare</option>
+          <option value="transparency">Transparency</option>
+          <option value="economy">Economy</option>
+          <option value="veterans">Veterans</option>
+          <option value="environment">Environment</option>
+          <option value="immigration">Immigration</option>
+          <option value="infrastructure">Infrastructure</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-verdict">Filter by Verdict</label>
+        <select id="filter-verdict">
+          <option value="">All Verdicts</option>
+          <option value="false">False</option>
+          <option value="misleading">Misleading</option>
+          <option value="mostly-false">Mostly False</option>
+          <option value="deflection">Deflection</option>
+          <option value="non-responsive">Non-Responsive</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="card-grid card-grid--2 mt-8" id="fact-check-grid">
       {{ range $pages.ByDate.Reverse }}
         {{ if and (ne .Title "Example Entry") (not (hasPrefix .File.LogicalName "_")) }}
-          {{ partial "fact-check-card.html" . }}
+          {{ $counties := .Params.counties | default (slice "district-wide") }}
+          {{ $topic := .Params.topic | default "" | lower | replaceRE "[^a-z]+" "-" }}
+          {{ $verdict := .Params.verdict | default "" | lower | replaceRE "[^a-z]+" "-" }}
+          <div class="fact-check-item"
+               data-counties="{{ delimit $counties "," | lower }}"
+               data-topic="{{ $topic }}"
+               data-verdict="{{ $verdict }}">
+            {{ partial "fact-check-card.html" . }}
+          </div>
         {{ end }}
       {{ end }}
     </div>
+
+    <p class="no-results" id="no-results">No fact-checks match your filters. Try adjusting your selection.</p>
+
+    <script>
+    (function() {
+      const countyFilter = document.getElementById('filter-county');
+      const topicFilter = document.getElementById('filter-topic');
+      const verdictFilter = document.getElementById('filter-verdict');
+      const items = document.querySelectorAll('.fact-check-item');
+      const noResults = document.getElementById('no-results');
+
+      function filterItems() {
+        const county = countyFilter.value.toLowerCase();
+        const topic = topicFilter.value.toLowerCase();
+        const verdict = verdictFilter.value.toLowerCase();
+        let visibleCount = 0;
+
+        items.forEach(item => {
+          const itemCounties = item.dataset.counties || '';
+          const itemTopic = item.dataset.topic || '';
+          const itemVerdict = item.dataset.verdict || '';
+
+          const matchesCounty = !county || itemCounties.includes(county);
+          const matchesTopic = !topic || itemTopic.includes(topic);
+          const matchesVerdict = !verdict || itemVerdict.includes(verdict);
+
+          if (matchesCounty && matchesTopic && matchesVerdict) {
+            item.style.display = '';
+            visibleCount++;
+          } else {
+            item.style.display = 'none';
+          }
+        });
+
+        noResults.classList.toggle('show', visibleCount === 0);
+      }
+
+      countyFilter.addEventListener('change', filterItems);
+      topicFilter.addEventListener('change', filterItems);
+      verdictFilter.addEventListener('change', filterItems);
+    })();
+    </script>
     {{ else }}
     <p class="text-center text-muted mt-8">No fact-checks published yet.</p>
     {{ end }}

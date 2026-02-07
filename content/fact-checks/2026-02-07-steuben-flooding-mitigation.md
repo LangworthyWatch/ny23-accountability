@@ -9,6 +9,7 @@ source_url: ""
 archived_url: ""
 verdict: "MISSING CONTEXT"
 tags: ["infrastructure", "flooding", "steuben-county", "fema", "climate"]
+counties: ["steuben"]
 ---
 
 ## Statement

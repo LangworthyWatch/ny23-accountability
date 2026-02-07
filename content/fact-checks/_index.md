@@ -43,17 +43,17 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
-| Medicaid/OBBB | "Not a single person" among seniors/disabled loses coverage | **MISLEADING** - 1.3M+ dually eligible projected to lose Medicaid per CBO |
-| ACA Subsidies | People making $300K-$400K get "free health care" | **FALSE** - They pay 8.5% of income minimum; most receive no subsidy |
-| Rural Hospitals | Closure concerns are "pure fiction" | **MOSTLY FALSE** - NY ranks #1 in at-risk rural hospitals |
-| Westfield Memorial | "Expanding its mission" | **MISLEADING** - Closed inpatient services, altered mission |
-| RHTP | "One of largest federal investments" | **MISSING CONTEXT** - Offsets only 37% of cuts he voted for |
-| Citizens for Better Southern Tier | "Soros-funded" through Indivisible | **NOT SUPPORTED** - Group denies affiliation/funding |
-| Town Halls | Monthly constituent engagement | **NO IN-PERSON TOWN HALLS** documented since January 2023 |
-| 2022 Trump Endorsement | "CHOSEN BY PRESIDENT TRUMP" mailer | **MISLEADING** - Trump hadn't endorsed for Congress during primary |
-| Buffalo VA | "Not a budgetary problem" but "incompetence" | **PARTIALLY SUPPORTED** for Buffalo specifically; omits system-wide $15B shortfall |
-| Pharmacy Closures | "Over 2,200" since late 2024 | **SUBSTANTIALLY ACCURATE** per multiple independent sources |
-| Energy/Environment | Protecting "consumer choice" | **CONFLICT OF INTEREST** - $66,466 from oil/gas; 3% environmental score |
+| [Medicaid/OBBB](/fact-checks/2025-05-medicaid-coverage-cuts/) | "Not a single person" among seniors/disabled loses coverage | **MISLEADING** - 1.3M+ dually eligible projected to lose Medicaid per CBO |
+| [ACA Subsidies](/fact-checks/2025-11-aca-subsidies-false-claim/) | People making $300K-$400K get "free health care" | **FALSE** - They pay 8.5% of income minimum; most receive no subsidy |
+| [Rural Hospitals](/fact-checks/2025-10-rural-hospitals-pure-fiction/) | Closure concerns are "pure fiction" | **MOSTLY FALSE** - NY ranks #1 in at-risk rural hospitals |
+| [Westfield Memorial](/fact-checks/2025-10-rural-hospitals-pure-fiction/) | "Expanding its mission" | **MISLEADING** - Closed inpatient services, altered mission |
+| [RHTP](/fact-checks/2025-10-rural-hospitals-pure-fiction/) | "One of largest federal investments" | **MISSING CONTEXT** - Offsets only 37% of cuts he voted for |
+| [Citizens for Better Southern Tier](/fact-checks/2025-04-constituent-access-town-halls/) | "Soros-funded" through Indivisible | **NOT SUPPORTED** - Group denies affiliation/funding |
+| [Town Halls](/fact-checks/2025-04-constituent-access-town-halls/) | Monthly constituent engagement | **NO IN-PERSON TOWN HALLS** documented since January 2023 |
+| [2022 Trump Endorsement](/fact-checks/2022-07-trump-endorsement-mailer/) | "CHOSEN BY PRESIDENT TRUMP" mailer | **MISLEADING** - Trump hadn't endorsed for Congress during primary |
+| [Buffalo VA](/fact-checks/2024-08-va-healthcare-shortfall/) | "Not a budgetary problem" but "incompetence" | **PARTIALLY SUPPORTED** for Buffalo specifically; omits system-wide $15B shortfall |
+| [Pharmacy Closures](/fact-checks/2025-12-pharmacy-crisis-pbm-reform/) | "Over 2,200" since late 2024 | **SUBSTANTIALLY ACCURATE** per multiple independent sources |
+| [Energy/Environment](/fact-checks/2025-12-energy-policy-oil-gas/) | Protecting "consumer choice" | **CONFLICT OF INTEREST** - $66,466 from oil/gas; 3% environmental score |
 
 ---
 

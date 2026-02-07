@@ -9,6 +9,7 @@ source_url: "https://www.fec.gov/data/candidate/H2NY23133/"
 archived_url: ""
 verdict: "DOCUMENTED PATTERN"
 tags: ["campaign-finance", "pac", "energy", "transparency", "fec"]
+counties: ["district-wide"]
 ---
 
 ## Overview

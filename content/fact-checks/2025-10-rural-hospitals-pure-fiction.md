@@ -9,6 +9,7 @@ source_url: ""
 archived_url: ""
 verdict: "MOSTLY FALSE"
 tags: ["healthcare", "rural-hospitals", "medicaid", "obbba", "ny-23"]
+counties: ["chautauqua", "cattaraugus", "allegany", "chemung", "schuyler"]
 ---
 
 ## Statement
