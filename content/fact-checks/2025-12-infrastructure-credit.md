@@ -1,5 +1,5 @@
 ---
-title: "Infrastructure: Announcing Federal Grants While Omitting Biden Administration Funding Source"
+title: "Infrastructure: Earmarks vs. Formula Grants — What Langworthy Actually 'Delivered'"
 date: 2025-12-30
 draft: false
 topic: "Infrastructure / Transparency"
@@ -7,6 +7,8 @@ claim_date: "2024-2025"
 source: "Multiple Press Releases"
 source_url: ""
 archived_url: ""
+verdict: "MISSING ATTRIBUTION"
+tags: ["infrastructure", "earmarks", "grants", "transparency", "biden-era"]
 ---
 
 ## Statement
@@ -26,6 +28,60 @@ Langworthy has announced multiple federal infrastructure grants for NY-23 commun
 
 ---
 
+## The Key Distinction: Earmarks vs. Formula Grants
+
+**There are two fundamentally different types of "delivering" federal funding:**
+
+| Type | How It Works | Member Role |
+|------|-------------|-------------|
+| **Community Project Funding (Earmarks)** | Member specifically requests funding in appropriations bill | **Direct** — would not happen without member request |
+| **Formula/Competitive Grants** | Federal agencies award based on applications and criteria | **Indirect** — flows to qualifying applicants regardless of member |
+
+**Langworthy's press releases do not consistently distinguish between these categories.**
+
+---
+
+## What Langworthy CAN Legitimately Claim Credit For
+
+**These are Community Project Funding (earmarks) Langworthy specifically requested:**
+
+| Project | Amount | Location |
+|---------|--------|----------|
+| Newstead Community Center | **$5,000,000** | Erie County |
+| Dunkirk Harbor improvements | **$4,750,000** | Chautauqua County |
+| Cornell Cooperative Extension renovation | **$254,000** | Allegany County |
+
+These were included in appropriations **at his direction**. He can legitimately take credit for these.
+
+---
+
+## What Langworthy CANNOT Claim He "Delivered"
+
+**These came from formula programs or Biden-era legislation:**
+
+| Project | Amount | Actual Source |
+|---------|--------|---------------|
+| Jamestown Microgrid | **$17,400,000** | DOE Grid Resilience program (Bipartisan Infrastructure Law, 2021) |
+| Finger Lakes Railway | **$3,800,000** | FRA program (Biden administration) |
+| Watkins Glen water | **$4,600,000** | EDA (Biden-Harris program) |
+
+Langworthy was **not in Congress** when the Bipartisan Infrastructure Law passed. These grants would have flowed to qualifying applicants regardless of who represented the district.
+
+---
+
+## The Math Problem
+
+Langworthy has claimed **"more than $20 million in federal funding across NY-23."**
+
+| Category | Amount | His Role |
+|----------|--------|----------|
+| Earmarks he directed | ~$10M | **Legitimate credit** |
+| Formula/competitive grants | ~$25M+ | **Announcement only** |
+
+The "$20 million" figure **likely combines both categories** without distinguishing between them.
+
+---
+
 ## The Pattern
 
 **What Langworthy's announcements say:**
@@ -42,7 +98,23 @@ Langworthy has announced multiple federal infrastructure grants for NY-23 commun
 
 ---
 
-## Case Study 1: Finger Lakes Railway
+## Case Study 1: Jamestown Microgrid ($17.4M)
+
+**Langworthy's characterization:**
+Announced as evidence of "delivering" for the district.
+
+**The actual source:**
+- Funded through DOE **Grid Resilience and Innovation Partnerships** program
+- Established under the **Bipartisan Infrastructure Law (2021)**
+- Langworthy was not in Congress when this law passed
+
+**Senator Schumer's office** attributed the funding to the Bipartisan Infrastructure Law.
+
+**The distinction:** This is a competitive federal grant from a Biden-era program. It would have been awarded to qualifying applicants regardless of who represented NY-23.
+
+---
+
+## Case Study 2: Finger Lakes Railway
 
 **Langworthy's announcement (June 2025):**
 "Congressman Nick Langworthy announced $3,869,945 for Finger Lakes Railway track rehabilitation... a major victory for the Southern Tier's transportation network and a testament to what strong leadership can deliver for rural communities."
@@ -160,35 +232,48 @@ USDA Rural Development is a federal agency. These are competitive federal grants
 ## Sources
 
 **Langworthy Announcements:**
+- Langworthy.house.gov: Jamestown Microgrid announcement ($17.4M)
 - Langworthy.house.gov: Finger Lakes Railway grant announcement (June 2025)
 - Langworthy.house.gov: Watkins Glen water infrastructure announcement (June 2024)
-- Langworthy.house.gov: Waverly School District grant (December 2023)
-- Langworthy.house.gov: Multiple USDA Rural Development grant announcements (2024-2025)
+- Langworthy.house.gov: Newstead Community Center ($5M) — Community Project Funding
+- Langworthy.house.gov: Dunkirk Harbor ($4.75M) — Community Project Funding
+- Langworthy Appropriations Requests FY25 page (langworthy.house.gov)
 
 **Original Federal Sources:**
+- DOE Grid Resilience and Innovation Partnerships program (Bipartisan Infrastructure Law)
 - U.S. Economic Development Administration: Watkins Glen grant press release (June 25, 2024)
 - USDA Rural Development: Grant award announcements
-- Federal agency competitive grant program descriptions
+- Senator Schumer's office: Jamestown Microgrid attribution
 
 **Local News Coverage:**
+- Post-Journal: "City Awarded $17M For Electric Infrastructure Upgrade" (October 2023)
 - FingerLakes1.com: "Finger Lakes Railway awarded $3.8 million federal grant for track upgrades" (June 11, 2025)
-
-**USDA Staffing Context:**
-- USDA Office of Inspector General: Staffing reports (2025)
-- National Sustainable Agriculture Coalition: USDA Rural Development cuts analysis
-- Civil Eats: "USDA Cuts Deep: Nearly 20% Workforce Lost in 2025"
 
 **Infrastructure Investment and Jobs Act:**
 - H.R. 3684 - Infrastructure Investment and Jobs Act (2021)
-- White House: IIJA funding allocations by state
-- Rural broadband, water, and transportation programs funded by IIJA
-
-**Congressional Voting Record:**
 - Langworthy elected 2022 (after IIJA passage)
-- Votes supporting budget cuts to agencies administering grant programs
+
+**USDA Staffing Context:**
+- USDA Office of Inspector General: Staffing reports (2025)
+- Civil Eats: "USDA Cuts Deep: Nearly 20% Workforce Lost in 2025"
+
+---
+
+---
+
+## Assessment
+
+The credit-claiming pattern is **documented across multiple press releases**.
+
+- **Some announcements involve genuine earmarks** Langworthy secured (~$10M)
+- **Others involve formula grants** from legislation he did not support and was not in Congress to vote on (~$25M+)
+
+Constituents reviewing his communications **cannot easily tell the difference** without checking the underlying funding source.
+
+**Verdict: MISSING ATTRIBUTION** — Legitimate earmarks are mixed with formula grants he did not create, without clear distinction.
 
 ---
 
 **Note:** This entry documents publicly available information from congressional records, federal agency announcements, and news reporting. Readers may draw their own conclusions about appropriate credit attribution for federal grants.
 
-**Last updated:** December 30, 2025
+*Last updated: February 7, 2026*
