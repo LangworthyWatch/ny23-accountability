@@ -1,15 +1,16 @@
 baseURL = 'https://langworthywatch.org/'
 languageCode = 'en-us'
 title = 'NY-23 Accountability Tracker'
-theme = 'ananke'
+# No theme - using custom layouts
 
 [params]
   description = 'Documenting NY-23 representation through public records'
   featured_image = ''
-  # Form and analytics IDs - can be overridden via environment
+  # Form and analytics IDs
   formspreeId = 'xrezvqlb'
   googleAnalyticsId = 'G-GHSR96MHBS'
 
+# Primary navigation (simplified for mobile)
 [menu]
   [[menu.main]]
     identifier = 'home'
@@ -27,35 +28,47 @@ theme = 'ananke'
     url = '/votes/'
     weight = 3
   [[menu.main]]
-    identifier = 'missed-votes'
-    name = 'Missed Votes'
-    url = '/missed-votes/'
-    weight = 4
-  [[menu.main]]
     identifier = 'campaign-finance'
     name = 'Campaign Finance'
     url = '/campaign-finance/'
-    weight = 5
-  [[menu.main]]
-    identifier = 'local-impact'
-    name = 'Local Impact'
-    url = '/local-impact/'
-    weight = 6
-  [[menu.main]]
-    identifier = 'correspondence'
-    name = 'Correspondence'
-    url = '/correspondence/'
-    weight = 7
+    weight = 4
   [[menu.main]]
     identifier = 'methodology'
     name = 'Methodology'
     url = '/methodology/'
-    weight = 8
+    weight = 5
   [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 6
+
+  # Footer navigation (secondary pages)
+  [[menu.footer]]
+    identifier = 'missed-votes'
+    name = 'Missed Votes'
+    url = '/missed-votes/'
+    weight = 1
+  [[menu.footer]]
+    identifier = 'local-impact'
+    name = 'Local Impact'
+    url = '/local-impact/'
+    weight = 2
+  [[menu.footer]]
+    identifier = 'correspondence'
+    name = 'Correspondence'
+    url = '/correspondence/'
+    weight = 3
+  [[menu.footer]]
     identifier = 'privacy'
-    name = 'Privacy'
+    name = 'Privacy Policy'
     url = '/privacy/'
-    weight = 9
+    weight = 4
+  [[menu.footer]]
+    identifier = 'support'
+    name = 'Support This Work'
+    url = '/support/'
+    weight = 5
 
 [taxonomies]
   tag = 'tags'
@@ -67,4 +80,18 @@ theme = 'ananke'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = false
+      unsafe = true
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+  [[related.indices]]
+    name = 'topic'
+    weight = 100
+  [[related.indices]]
+    name = 'tags'
+    weight = 80
+  [[related.indices]]
+    name = 'date'
+    weight = 10

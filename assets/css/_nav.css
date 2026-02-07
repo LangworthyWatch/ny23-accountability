@@ -1,0 +1,203 @@
+/* Navigation */
+.site-header {
+  background-color: var(--color-primary);
+  color: white;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--space-4) var(--space-4);
+  max-width: var(--max-width-wide);
+  margin: 0 auto;
+}
+
+/* Site branding */
+.site-branding {
+  display: flex;
+  align-items: center;
+}
+
+.site-title {
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-bold);
+  color: white;
+  text-decoration: none;
+  line-height: 1.2;
+}
+
+.site-title:hover {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.site-title:focus {
+  outline: 2px solid white;
+  outline-offset: 4px;
+}
+
+/* Desktop navigation */
+.nav-desktop {
+  display: none;
+}
+
+.nav-desktop ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: var(--space-1);
+}
+
+.nav-desktop a {
+  display: block;
+  padding: var(--space-2) var(--space-3);
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  border-radius: var(--border-radius);
+  transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+.nav-desktop a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.nav-desktop a:focus {
+  outline: 2px solid white;
+  outline-offset: 2px;
+}
+
+.nav-desktop a[aria-current="page"] {
+  background-color: rgba(255, 255, 255, 0.15);
+  color: white;
+}
+
+/* Mobile menu button */
+.nav-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+  border-radius: var(--border-radius);
+}
+
+.nav-toggle:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-toggle:focus {
+  outline: 2px solid white;
+  outline-offset: 2px;
+}
+
+.nav-toggle-icon {
+  width: 24px;
+  height: 24px;
+}
+
+/* Mobile navigation overlay */
+.nav-mobile {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-primary);
+  z-index: 200;
+  padding: var(--space-4);
+  overflow-y: auto;
+}
+
+.nav-mobile.is-open {
+  display: block;
+}
+
+.nav-mobile-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--space-8);
+}
+
+.nav-mobile-close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+  border-radius: var(--border-radius);
+}
+
+.nav-mobile-close:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-mobile-close:focus {
+  outline: 2px solid white;
+  outline-offset: 2px;
+}
+
+.nav-mobile ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-mobile li {
+  margin-bottom: var(--space-2);
+}
+
+.nav-mobile a {
+  display: block;
+  padding: var(--space-4);
+  color: white;
+  text-decoration: none;
+  font-size: var(--font-size-lg);
+  font-weight: var(--font-weight-medium);
+  border-radius: var(--border-radius);
+  min-height: 44px;
+}
+
+.nav-mobile a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav-mobile a:focus {
+  outline: 2px solid white;
+  outline-offset: 2px;
+}
+
+.nav-mobile a[aria-current="page"] {
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+/* Desktop breakpoint */
+@media (min-width: 1024px) {
+  .header-inner {
+    padding: var(--space-4) var(--space-6);
+  }
+
+  .nav-desktop {
+    display: block;
+  }
+
+  .nav-toggle {
+    display: none;
+  }
+}

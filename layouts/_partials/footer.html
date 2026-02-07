@@ -1,0 +1,24 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    {{/* Footer navigation */}}
+    <nav aria-label="Footer navigation">
+      <ul class="footer-nav" role="list">
+        {{ range .Site.Menus.footer }}
+        <li>
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+
+    {{/* Note about sources */}}
+    <p class="footer-note">
+      All sources linked and archived for independent verification.
+    </p>
+
+    {{/* Copyright */}}
+    <p class="footer-copyright">
+      &copy; {{ now.Year }} NY-23 Accountability Tracker. Independent civic research project.
+    </p>
+  </div>
+</footer>

@@ -1,0 +1,97 @@
+/* CSS Custom Properties - Design Tokens */
+:root {
+  /* Colors - Muted, professional palette */
+  --color-primary: #1e3a5f;        /* Navy blue */
+  --color-primary-dark: #152a45;
+  --color-primary-light: #2d5a8a;
+
+  --color-secondary: #4a5568;      /* Warm gray */
+  --color-secondary-light: #718096;
+  --color-secondary-lighter: #a0aec0;
+
+  --color-accent: #2b6cb0;         /* Accent blue for links */
+  --color-accent-hover: #2c5282;
+
+  --color-background: #fafafa;
+  --color-surface: #ffffff;
+  --color-surface-alt: #f7fafc;
+
+  --color-text: #1a202c;
+  --color-text-secondary: #4a5568;
+  --color-text-muted: #718096;
+
+  --color-border: #e2e8f0;
+  --color-border-dark: #cbd5e0;
+
+  /* Verdict colors - accessible contrast */
+  --color-verdict-false: #c53030;
+  --color-verdict-false-bg: #fff5f5;
+  --color-verdict-misleading: #c05621;
+  --color-verdict-misleading-bg: #fffaf0;
+  --color-verdict-true: #276749;
+  --color-verdict-true-bg: #f0fff4;
+  --color-verdict-deflection: #6b46c1;
+  --color-verdict-deflection-bg: #faf5ff;
+  --color-verdict-unverified: #4a5568;
+  --color-verdict-unverified-bg: #f7fafc;
+
+  /* Typography */
+  --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-family-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+
+  --font-size-xs: 0.75rem;    /* 12px */
+  --font-size-sm: 0.875rem;   /* 14px */
+  --font-size-base: 1rem;     /* 16px */
+  --font-size-lg: 1.125rem;   /* 18px */
+  --font-size-xl: 1.25rem;    /* 20px */
+  --font-size-2xl: 1.5rem;    /* 24px */
+  --font-size-3xl: 1.875rem;  /* 30px */
+  --font-size-4xl: 2.25rem;   /* 36px */
+
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.625;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* Spacing */
+  --space-1: 0.25rem;   /* 4px */
+  --space-2: 0.5rem;    /* 8px */
+  --space-3: 0.75rem;   /* 12px */
+  --space-4: 1rem;      /* 16px */
+  --space-5: 1.25rem;   /* 20px */
+  --space-6: 1.5rem;    /* 24px */
+  --space-8: 2rem;      /* 32px */
+  --space-10: 2.5rem;   /* 40px */
+  --space-12: 3rem;     /* 48px */
+  --space-16: 4rem;     /* 64px */
+  --space-20: 5rem;     /* 80px */
+
+  /* Layout */
+  --max-width-content: 720px;
+  --max-width-wide: 1100px;
+  --border-radius: 4px;
+  --border-radius-lg: 8px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 200ms ease;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+
+  /* Focus */
+  --focus-ring: 0 0 0 3px rgba(43, 108, 176, 0.5);
+}
+
+/* Dark mode support (optional, respect system preference) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Can add dark mode variables here if needed */
+  }
+}

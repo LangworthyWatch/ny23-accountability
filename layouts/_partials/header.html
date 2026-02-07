@@ -1,0 +1,37 @@
+<header class="site-header" role="banner">
+  <div class="header-inner">
+    <div class="site-branding">
+      <a href="/" class="site-title" aria-label="{{ .Site.Title }} - Home">
+        NY-23 Accountability Tracker
+      </a>
+    </div>
+
+    {{/* Desktop navigation */}}
+    <nav class="nav-desktop" aria-label="Main navigation">
+      <ul role="list">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li>
+          <a href="{{ .URL }}"{{ if $currentPage.IsMenuCurrent "main" . }} aria-current="page"{{ end }}>
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+
+    {{/* Mobile menu toggle */}}
+    <button
+      type="button"
+      class="nav-toggle"
+      id="nav-toggle"
+      aria-expanded="false"
+      aria-controls="nav-mobile"
+      aria-label="Open menu"
+    >
+      <svg class="nav-toggle-icon" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+      </svg>
+    </button>
+  </div>
+</header>

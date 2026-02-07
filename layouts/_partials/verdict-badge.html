@@ -1,0 +1,24 @@
+{{/* Verdict badge partial */}}
+{{/* Usage: {{ partial "verdict-badge.html" "FALSE" }} */}}
+
+{{ $verdict := . | lower }}
+{{ $class := "" }}
+{{ $label := . }}
+
+{{ if or (eq $verdict "false") (hasPrefix $verdict "false") }}
+  {{ $class = "verdict-badge--false" }}
+{{ else if or (eq $verdict "misleading") (hasPrefix $verdict "misleading") (hasPrefix $verdict "mostly false") }}
+  {{ $class = "verdict-badge--misleading" }}
+{{ else if or (eq $verdict "true") (hasPrefix $verdict "true") (hasPrefix $verdict "mostly true") (hasPrefix $verdict "substantially") }}
+  {{ $class = "verdict-badge--true" }}
+{{ else if or (eq $verdict "deflection") (eq $verdict "non-responsive") }}
+  {{ $class = "verdict-badge--non-responsive" }}
+{{ else if or (eq $verdict "overstated") (hasPrefix $verdict "overstated") }}
+  {{ $class = "verdict-badge--misleading" }}
+{{ else }}
+  {{ $class = "verdict-badge--unverified" }}
+{{ end }}
+
+<span class="verdict-badge {{ $class }}" aria-label="Verdict: {{ $label }}">
+  {{ $label }}
+</span>

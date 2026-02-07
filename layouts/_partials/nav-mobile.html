@@ -1,0 +1,26 @@
+<nav class="nav-mobile" id="nav-mobile" aria-label="Mobile navigation" aria-hidden="true">
+  <div class="nav-mobile-header">
+    <span class="site-title">NY-23 Accountability Tracker</span>
+    <button
+      type="button"
+      class="nav-mobile-close"
+      id="nav-close"
+      aria-label="Close menu"
+    >
+      <svg class="nav-toggle-icon" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+      </svg>
+    </button>
+  </div>
+
+  <ul role="list">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+    <li>
+      <a href="{{ .URL }}"{{ if $currentPage.IsMenuCurrent "main" . }} aria-current="page"{{ end }}>
+        {{ .Name }}
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</nav>

@@ -1,0 +1,192 @@
+/* Fact-check page styles */
+.factcheck-header {
+  margin-bottom: var(--space-8);
+  padding-bottom: var(--space-6);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.factcheck-title {
+  font-size: var(--font-size-2xl);
+  margin-bottom: var(--space-4);
+}
+
+.factcheck-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+}
+
+.factcheck-meta-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+/* Verdict badges */
+.verdict-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-1) var(--space-3);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-bold);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-radius: var(--border-radius);
+  white-space: nowrap;
+}
+
+.verdict-badge--false {
+  background-color: var(--color-verdict-false-bg);
+  color: var(--color-verdict-false);
+  border: 1px solid var(--color-verdict-false);
+}
+
+.verdict-badge--misleading {
+  background-color: var(--color-verdict-misleading-bg);
+  color: var(--color-verdict-misleading);
+  border: 1px solid var(--color-verdict-misleading);
+}
+
+.verdict-badge--true {
+  background-color: var(--color-verdict-true-bg);
+  color: var(--color-verdict-true);
+  border: 1px solid var(--color-verdict-true);
+}
+
+.verdict-badge--deflection,
+.verdict-badge--non-responsive {
+  background-color: var(--color-verdict-deflection-bg);
+  color: var(--color-verdict-deflection);
+  border: 1px solid var(--color-verdict-deflection);
+}
+
+.verdict-badge--unverified {
+  background-color: var(--color-verdict-unverified-bg);
+  color: var(--color-verdict-unverified);
+  border: 1px solid var(--color-verdict-unverified);
+}
+
+/* Statement vs Record sections */
+.factcheck-comparison {
+  display: grid;
+  gap: var(--space-6);
+  margin: var(--space-8) 0;
+}
+
+@media (min-width: 768px) {
+  .factcheck-comparison {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-8);
+  }
+}
+
+.factcheck-section {
+  padding: var(--space-5);
+  border-radius: var(--border-radius-lg);
+}
+
+.factcheck-section--statement {
+  background-color: var(--color-surface-alt);
+  border: 1px solid var(--color-border);
+}
+
+.factcheck-section--record {
+  background-color: #f0f9ff;
+  border: 1px solid #bae6fd;
+}
+
+.factcheck-section-title {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-bold);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-4);
+}
+
+/* Quote styling */
+.quote {
+  position: relative;
+  padding-left: var(--space-6);
+  margin: var(--space-4) 0;
+  font-style: italic;
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-relaxed);
+}
+
+.quote::before {
+  content: "\201C";
+  position: absolute;
+  left: 0;
+  top: -0.25em;
+  font-size: var(--font-size-3xl);
+  color: var(--color-primary-light);
+  font-style: normal;
+  line-height: 1;
+}
+
+.quote-source {
+  display: block;
+  margin-top: var(--space-3);
+  font-size: var(--font-size-sm);
+  font-style: normal;
+  color: var(--color-text-muted);
+}
+
+/* Sources section */
+.sources-section {
+  margin-top: var(--space-10);
+  padding-top: var(--space-6);
+  border-top: 1px solid var(--color-border);
+}
+
+.sources-list {
+  font-size: var(--font-size-sm);
+}
+
+.sources-list li {
+  margin-bottom: var(--space-2);
+}
+
+/* Questions section */
+.questions-section {
+  background-color: var(--color-surface-alt);
+  padding: var(--space-6);
+  border-radius: var(--border-radius-lg);
+  margin: var(--space-8) 0;
+}
+
+.questions-section h2 {
+  margin-top: 0;
+  font-size: var(--font-size-lg);
+}
+
+.questions-section ol {
+  margin-bottom: 0;
+}
+
+/* Back navigation */
+.back-nav {
+  margin-bottom: var(--space-6);
+}
+
+.back-nav a {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+}
+
+.back-nav a:hover {
+  color: var(--color-accent);
+}
+
+@media (min-width: 768px) {
+  .factcheck-title {
+    font-size: var(--font-size-3xl);
+  }
+}

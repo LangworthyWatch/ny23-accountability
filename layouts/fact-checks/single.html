@@ -1,0 +1,53 @@
+{{ define "main" }}
+<article class="section">
+  <div class="container container--narrow">
+    <nav class="back-nav" aria-label="Breadcrumb">
+      <a href="/fact-checks/">&larr; Back to all fact-checks</a>
+    </nav>
+
+    <header class="factcheck-header">
+      <h1 class="factcheck-title">{{ .Title }}</h1>
+
+      <div class="factcheck-meta">
+        <span class="factcheck-meta-item">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">
+            {{ .Date.Format "January 2, 2006" }}
+          </time>
+        </span>
+        {{ with .Params.topic }}
+        <span class="factcheck-meta-item">{{ . }}</span>
+        {{ end }}
+        {{ with .Params.source }}
+        <span class="factcheck-meta-item">Source: {{ . }}</span>
+        {{ end }}
+        {{ with .Params.verdict }}
+        <span class="factcheck-meta-item">
+          {{ partial "verdict-badge.html" . }}
+        </span>
+        {{ end }}
+      </div>
+    </header>
+
+    <div class="content">
+      {{ .Content }}
+    </div>
+
+    {{/* Related fact-checks */}}
+    {{ $related := .Site.RegularPages.Related . | first 3 }}
+    {{ with $related }}
+    <aside class="mt-10 pt-8" style="border-top: 1px solid var(--color-border);">
+      <h2 class="mb-6">Related documentation</h2>
+      <div class="card-grid">
+        {{ range . }}
+          {{ partial "fact-check-card.html" . }}
+        {{ end }}
+      </div>
+    </aside>
+    {{ end }}
+
+    <nav class="back-nav mt-10" aria-label="Navigation">
+      <a href="/fact-checks/">&larr; Back to all fact-checks</a>
+    </nav>
+  </div>
+</article>
+{{ end }}

@@ -12,19 +12,14 @@
       {{ .Content }}
     </div>
 
-    {{/* Filter out drafts and templates */}}
-    {{ $pages := where .Pages "Draft" false }}
-
-    {{ if $pages }}
+    {{ if .Pages }}
     <div class="card-grid card-grid--2 mt-8">
-      {{ range $pages.ByDate.Reverse }}
-        {{ if and (ne .Title "Example Entry") (not (hasPrefix .File.LogicalName "_")) }}
+      {{ range .Pages.ByDate.Reverse }}
+        {{ if not .Draft }}
           {{ partial "fact-check-card.html" . }}
         {{ end }}
       {{ end }}
     </div>
-    {{ else }}
-    <p class="text-center text-muted mt-8">No fact-checks published yet.</p>
     {{ end }}
   </div>
 </article>
