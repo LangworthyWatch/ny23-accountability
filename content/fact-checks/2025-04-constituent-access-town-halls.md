@@ -88,6 +88,47 @@ This is now **over three years** without a single public forum where constituent
 
 ---
 
+## East Aurora Advertiser Editorial (February 2026)
+
+**Source:** East Aurora Advertiser, Editor Shelly Ferullo
+
+In a remarkable editorial addressed directly to the Congressman, the editor of the East Aurora Advertiser documented her newspaper's experience with Langworthy's office:
+
+> "We know that you receive the newspaper directly to your office in Williamsville so we hope that you are reading it."
+
+**On constituent letters:**
+> "Lately we have been receiving letters for you that should be written to me, after all, I am the editor. Citizens are writing letters that begin with 'Dear Congressman' or 'Dear Langworthy' for publication, stating they do not feel heard by their representative."
+
+**Constituent concerns documented:**
+- Upset with state of the federal government
+- Believe ICE has "gone too far in Minneapolis"
+- Want more information released about the Epstein Files
+- Want an extension on the Affordable Care Act
+- Want a town hall meeting
+
+> "The request to have face to face contact with you at a town hall has been on repeat for nearly a year."
+
+**On his governing style:**
+> "Above all, they find your style of governing as unresponsive because, basically, you don't respond."
+
+**The newspaper's offer:**
+> "We have called your office within the past year and offered to provide assistance with a town hall, such as promoting the event in the newspaper, and we have verified that the Aurora Senior Citizen Center in the village would be willing to host it for you."
+
+**Langworthy's response:** None received.
+
+**On virtual town halls:**
+> "We are well aware that you hold virtual town halls on occasion with pre-selected questions and that constituents can subscribe to your newsletter."
+
+**On the 2026 election:**
+> "Your term is up for election this year. The newspaper has also been receiving letters from candidates who plan to challenge you on the ballot. We don't recall any voters sending in a letter of support but it's early in the cycle."
+
+**The editorial concluded:**
+> "And be sure to let us know when you are ready to schedule the town hall meeting. We will put a 'Save the Date' right on the front page."
+
+—Shelly Ferullo, Editor
+
+---
+
 ## Telephone Town Halls: The Reality
 
 Langworthy claims "monthly" telephone town halls reaching "100,000 phone numbers."
@@ -143,6 +184,10 @@ Constituents across **all seven NY-23 counties** have limited mechanisms to dire
 
 5. When constituents organize their own forums, why characterize them as "Soros-funded" without evidence?
 
+6. When a local newspaper editor offers to promote a town hall and provides a venue, why is there no response?
+
+7. Why do telephone town halls use "pre-selected questions" rather than open constituent questions?
+
 ---
 
 ## Assessment
@@ -153,14 +198,22 @@ The claim that **no in-person public town hall has been held in over three years
 
 Security threats are documented and real, but they do not explain the absence of town halls **prior to those incidents** (2023-2024).
 
+The East Aurora Advertiser editorial adds significant documentation:
+- A local newspaper editor **offered to help promote** a town hall
+- A local venue (Aurora Senior Citizen Center) **volunteered to host**
+- The newspaper received **no response** from Langworthy's office
+- The editor characterizes his governing style as "unresponsive because, basically, you don't respond"
+- Virtual town halls use **"pre-selected questions"** rather than open constituent input
+
 Whether telephone-only engagement constitutes adequate representation is a judgment call for constituents, but the **factual record is clear**.
 
-**Verdict: FALSE** — Claims of robust constituent access are contradicted by zero in-person town halls, abandoned office plans, and characterization of constituent groups without evidence.
+**Verdict: FALSE** — Claims of robust constituent access are contradicted by zero in-person town halls, abandoned office plans, characterization of constituent groups without evidence, and documented non-response to media offers to host public forums.
 
 ---
 
 ## Sources
 
+* **East Aurora Advertiser:** Editorial "Dear Congressman Langworthy" by Editor Shelly Ferullo (February 2026)
 * WSKG: "Frustrated constituents hold 'empty seat' town hall, wanting to hear from Rep. Langworthy" (April 18, 2025)
 * WSKG: "'Governing means putting your country first'" (November 14, 2025)
 * WSKG: "Chemung County residents demand local leaders oppose safety net cuts" (March 2025)
