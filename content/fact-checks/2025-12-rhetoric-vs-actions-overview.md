@@ -177,6 +177,50 @@ While presenting himself as responsive to constituents, Langworthy avoids direct
 
 ---
 
+## "Fiscal Responsibility" Framing: Federal Cuts Become County Costs
+
+### The Rhetoric
+
+Langworthy frequently deploys language including:
+- "Fiscal responsibility"
+- "Government efficiency"
+- "Taxpayer protection"
+- Opposition to "waste" and "fraud"
+
+He is a member of the **DOGE Caucus** (Delivering Opportunities for Government Efficiency).
+
+### The Mechanism: Cost Transfers
+
+Federal spending reductions **do not always result in net savings** for constituents. In many cases, they **shift costs to state and county governments**.
+
+**OBBBA SNAP provisions:**
+
+| Federal Change | NY Impact |
+|----------------|-----------|
+| Administrative cost-sharing drops from 50% to 25% | ~$200M shifted to counties |
+| Benefit costs shift to states with error rates above 6% | ~$1.2B annually to NY |
+| New York's county-based system | Costs land on local property taxes |
+
+**Medicaid reductions** similarly shift costs downward through New York's county Medicaid cost-sharing structure.
+
+### Local Evidence
+
+**Chemung County's proposed 12% tax increase for 2026** reflects the kind of local fiscal pressure that federal cost-shifting compounds.
+
+### The Framing Question
+
+The rhetoric of "fiscal responsibility" is **accurate at the federal level**—these provisions do reduce federal spending.
+
+But for NY-23 constituents who pay **both federal taxes and county property taxes**, the relevant question is **total cost burden**, not just the federal line item.
+
+**When federal cuts become county cost increases, the "savings" are redistributed, not eliminated.**
+
+### What's Missing from Local Coverage
+
+No local reporting has examined this cost-transfer mechanism as it applies specifically to NY-23 counties.
+
+---
+
 ## Summary: Pattern of Divergence
 
 The documented instances reveal a consistent pattern:
@@ -187,6 +231,7 @@ The documented instances reveal a consistent pattern:
 4. **Government Shutdown:** "Keep lights on" rhetoric after voting for measures that led to 40-day closure
 5. **Veterans/Seniors:** Campaign promises to protect benefits while supporting budgets with spending constraints
 6. **Constituent Access:** Claims of accessibility while refusing traditional town hall formats
+7. **Fiscal Responsibility:** Federal "savings" that shift costs to county property taxes
 
 ---
 
@@ -223,5 +268,5 @@ Readers are encouraged to review primary sources and draw their own conclusions.
 
 ---
 
-*Last updated: December 22, 2025*
+*Last updated: February 7, 2026*
 *Documentation compiled from public records and verified reporting*
