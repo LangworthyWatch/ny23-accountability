@@ -92,6 +92,29 @@ According to New York State Office of Temporary and Disability Assistance (OTDA)
 - Most recipients are children, elderly, or disabled
 - Rural areas have higher rates of food insecurity than urban areas
 
+### Steuben County: The Local Numbers
+
+| Metric | Data |
+|--------|------|
+| SNAP recipients (2022) | **11,459** |
+| Share of population | **12.3%** — roughly 1 in 8 residents |
+| County poverty rate | ~16% |
+| Projected SNAP admin fund loss (2026-2027) | **Up to $5 million** (per WSKG) |
+| Monthly benefit exposure during shutdown | **$2.2 million** |
+
+**County Manager Jack Wheeler** confirmed at an August 7, 2025 Health and Human Services Committee meeting: *"the Big Beautiful Bill will result in Steuben County getting less money coming in from the federal SNAP program."*
+
+**Steuben County Legislature Chair Kelly H. Fitzpatrick** sent a formal letter to Langworthy on October 30, 2025 — during a 43-day government shutdown — urging protection of SNAP and HEAP funding: *"Counties like Steuben are on the front lines of delivering these essential programs. SNAP and HEAP are lifelines for families, seniors, and individuals meeting their most basic needs — food and heat."*
+
+Corning Democrat **Joe Tobia** criticized the OBBBA's Medicaid and SNAP provisions at the August 7 committee meeting. No public response from Langworthy to the county's concerns has been documented.
+
+### OBBBA Administrative Cost Shift
+
+Beyond benefit cuts, the OBBBA reduces the **federal SNAP administrative cost share from 50% to 25%** starting FY2027. This means counties like Steuben must either:
+- Absorb the cost difference through local tax revenue
+- Reduce the administrative capacity to process SNAP applications
+- Or both — creating a compounding effect where fewer staff process applications for a program with more restrictive eligibility requirements
+
 **Food Bank Impact:**
 
 FeedMore WNY (serving Western New York) reported a **16% increase** in food assistance need in 2024. SNAP cuts would increase pressure on food banks that are already struggling to meet demand.
@@ -104,7 +127,15 @@ NY-23's rural communities face:
 - Geographic barriers to consistent employment
 - Higher transportation costs for job access
 
-Expanded work requirements don't create jobs—they just eliminate assistance for people unable to find work in areas with limited opportunities.
+Steuben County's high poverty rate, aging population, and seasonal employment patterns make work requirement compliance particularly difficult — CBO projects **2.4 million people nationally** will lose SNAP coverage in a typical month under expanded requirements. Expanded work requirements don't create jobs — they eliminate assistance for people unable to find work in areas with limited opportunities.
+
+### State-Level Projections
+
+Governor Hochul's office projects the OBBBA will cause:
+- **1.5 million New Yorkers** to lose Medicaid coverage
+- **300,000+ households** to lose SNAP benefits
+- **$8 billion in annual cuts** to hospitals and health systems
+- The Rockefeller Institute estimates the managed care tax restriction could cost New York **$1.5 billion annually** starting 2026
 
 ---
 
@@ -154,14 +185,21 @@ If the government spends $295 billion less on SNAP over 10 years, and millions o
 **Local Context:**
 - New York State OTDA: SNAP participation data by congressional district
 - FeedMore WNY: Annual report and press releases (2024)
+- WSKG: Steuben County SNAP administration funding impact reporting
+- Steuben County Legislature: Chair Fitzpatrick letter to federal representatives (October 30, 2025)
+- Steuben County Health and Human Services Committee: August 7, 2025 meeting (Jack Wheeler, Joe Tobia statements)
+- FRED/Census: Steuben County SNAP recipient data (2022)
+- Governor Hochul's office: OBBBA state-level impact projections
+- Rockefeller Institute: Managed care tax restriction cost estimates
 
 **Congressional Record:**
-- H.R. 1 vote record: Langworthy voted YES
-- Bill text: SNAP provisions
+- H.R. 1 vote record: Langworthy voted YES (218-214, July 3, 2025)
+- Bill text: SNAP provisions — work requirements (ages 18-64), admin cost share (50% to 25%), parent exemptions (under 18 to under 14)
 
 **Related Fact-Checks:**
 - FactCheck.org: "False Claims About SNAP Cuts"
 - PolitiFact: SNAP work requirements analysis
+- Related: [Steuben County: Ten Federal Funding Claims Examined](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
 
 ---
 
