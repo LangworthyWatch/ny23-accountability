@@ -17,11 +17,17 @@
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:image" content="{{ .Site.BaseURL }}images/ny23_og_v3_1200x630.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="LangworthyWatch.org — Accountability for the Southern Tier — New York's 23rd Congressional District">
 
   {{/* Twitter Card */}}
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
   <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="twitter:image" content="{{ .Site.BaseURL }}images/ny23_og_v3_1200x630.png">
+  <meta name="twitter:image:alt" content="LangworthyWatch.org — Accountability for the Southern Tier — New York's 23rd Congressional District">
 
   {{/* Robots */}}
   <meta name="robots" content="index, follow">
