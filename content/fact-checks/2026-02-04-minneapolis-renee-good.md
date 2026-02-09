@@ -1,5 +1,5 @@
 ---
-title: "Minneapolis Shooting: Calling Renee Good a 'Violent Rioter' Contradicted by Video Evidence"
+title: "Minneapolis Shooting: Calling Renee Good a 'Violent Rioter' Disputed by Local Officials"
 date: 2026-02-04
 draft: false
 topic: "Immigration"
@@ -7,8 +7,9 @@ claim_date: "February 4, 2026"
 source: "Constituent Letter Response"
 source_url: ""
 archived_url: ""
-verdict: "FALSE"
-tags: ["immigration", "ICE", "Minneapolis", "shooting", "false-claim", "constituent-letter"]
+verdict: "DISPUTED BY OFFICIALS"
+tags: ["immigration", "ICE", "Minneapolis", "shooting", "constituent-letter"]
+counties: ["district-wide"]
 ---
 
 ## Statement
@@ -60,12 +61,14 @@ He was referring to DHS claims that Good tried to run over agents.
 | "Attempt to run over law enforcement" | Contradicted by video evidence per Minneapolis Mayor |
 | "Self-defense" | Subject of investigation; video evidence contradicts DHS narrative |
 
-**Verdict: FALSE**
+**Verdict: DISPUTED BY OFFICIALS**
 
-Langworthy's characterization of Renee Good as a "violent rioter" who "weaponized her vehicle" is contradicted by:
-1. Video evidence viewed by Minneapolis Mayor
-2. The context (dropping her son at school)
-3. No evidence she was involved in any riot
+Langworthy's characterization of Renee Good as a "violent rioter" who "weaponized her vehicle" is disputed by:
+1. Minneapolis Mayor Jacob Frey, who viewed video evidence and publicly called the DHS narrative "bullshit"
+2. The reported context (Good had just dropped her son at school)
+3. No public evidence she was involved in any riot or protest
+
+**Note:** The video evidence has not been publicly released. This verdict reflects the public dispute between local officials and federal authorities, not a determination of what the video shows.
 
 ---
 
@@ -142,4 +145,4 @@ Same hidden HTML tracking code as all other documented responses, indicating thi
 
 **Research contribution:** Constituent submission via LangworthyWatch
 
-*Last updated: February 4, 2026*
+*Last updated: February 9, 2026*

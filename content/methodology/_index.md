@@ -93,6 +93,7 @@ We use standardized verdict labels:
 | **TRUE** | Claim is accurate |
 | **MOSTLY TRUE** | Accurate but missing context |
 | **MISLEADING** | Technically accurate but creates false impression |
+| **MOSTLY FALSE** | Mostly inaccurate with minor accurate elements |
 | **FALSE** | Claim is factually incorrect |
 | **FALSE ATTRIBUTION** | Claim attributes something to wrong source/cause |
 | **CONTRADICTION** | Statement conflicts with documented actions |
@@ -101,6 +102,7 @@ We use standardized verdict labels:
 | **MISSING CONTEXT** | Key information omitted that changes meaning |
 | **DOCUMENTED PATTERN** | Recurring behavior established by multiple instances |
 | **NOT SUPPORTED** | Claim lacks evidence |
+| **DISPUTED BY OFFICIALS** | Claim contradicted by statements from relevant officials |
 
 ---
 
