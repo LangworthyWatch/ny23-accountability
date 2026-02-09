@@ -7,9 +7,14 @@ claim_date: "2025"
 source: "WGRZ Debate, Press Statements"
 source_url: ""
 archived_url: ""
+verdict: "FALSE"
+tags: ["food-assistance", "snap", "healthcare", "rural-impact", "steuben-county", "obbba", "work-requirements"]
+counties: ["steuben", "allegany", "cattaraugus", "chautauqua", "chemung"]
 ---
 
-## Statement
+## Why this matters in a rural district
+
+In NY-23, SNAP is not an urban welfare program. It is off-season food stability for farm families, nutrition for elderly residents who can't drive to the next county for groceries, and the difference between eating and not eating for one in eight people in Steuben County. When a representative says "not a single dollar is cut," residents living on these benefits need to know whether that's true.
 
 **Source:** WGRZ Debate, Press Statements
 **Reported by:** WGRZ Buffalo, Multiple Local News Outlets
@@ -20,77 +25,86 @@ Langworthy has repeatedly defended the One Big Beautiful Bill Act (H.R. 1) again
 
 ---
 
-## The Data
+## A. Benefit Cuts: What Happens to the Money
 
-**Congressional Budget Office Analysis (May 2025):**
-
-The CBO estimates H.R. 1 (One Big Beautiful Bill Act) would reduce SNAP spending by approximately **$295 billion over 2026-2034**.
-
-This represents roughly a **30% reduction** in SNAP funding and would be **the largest cut to SNAP in nearly 30 years**.
+*The CBO is nonpartisan. Its job is to score what bills actually cost. Here is what it found.*
 
 ---
 
-## What the Bill Actually Does
+### The $295 Billion Reduction
 
-**Major SNAP Changes in H.R. 1:**
+**Congressional Budget Office Analysis (May 2025):**
+
+The CBO estimates H.R. 1 would reduce SNAP spending by approximately **$295 billion over 2026-2034** — roughly a **30% reduction** and the **largest cut to SNAP in nearly 30 years**.
+
+Langworthy voted **Yes** (218-214, July 3, 2025).
+
+**How the bill reduces spending:**
 
 1. **Limits USDA Authority to Adjust Thrifty Food Plan**
    - The Thrifty Food Plan determines SNAP benefit levels
    - Bill restricts USDA's ability to update benefit calculations for inflation and food costs
    - Result: Benefits do not keep pace with actual food prices
 
-2. **Expands Work Requirements**
-   - Extends work requirements to people aged 50-64 (currently 18-49)
-   - Reduces exemptions for people caring for children or dealing with homelessness
-   - Creates new reporting requirements that increase administrative burden
-
-3. **Tightens Categorical Eligibility**
+2. **Tightens Categorical Eligibility**
    - Restricts states' ability to provide "broad-based categorical eligibility"
    - Makes it harder for working families to qualify based on participation in other programs
 
----
-
-## The Impact
-
-**Center on Budget and Policy Priorities Analysis:**
-
-- **40 million people** receive SNAP benefits, including **17 million children**
-- The bill's restrictions would reduce benefits for tens of millions of recipients
-- Work requirement expansions could cause **5.4 million people to lose benefits monthly** (Urban Institute estimate)
-
-**Who would be affected:**
-- Working families whose income fluctuates
-- People aged 50-64 facing age discrimination in the job market
-- Rural residents with limited job opportunities
-- People caring for family members but not meeting narrow exemption criteria
+*In plain language: The maximum benefit amount may technically stay the same — but if food costs rise 20% and benefits don't follow, that is a cut to purchasing power. And if millions lose eligibility entirely, the program is spending less because fewer people receive help.*
 
 ---
 
-## The Semantics vs. Reality
+### The Semantics Defense
 
-**Langworthy's defense appears to rely on a technical distinction:**
-
-"Not a single dollar is cut from benefits" could technically mean:
-- The maximum benefit amount doesn't decrease
-- The Thrifty Food Plan calculation isn't directly reduced
+Langworthy's claim that "not a single dollar is cut from benefits" appears to rely on a technical distinction: the maximum benefit level doesn't formally decrease.
 
 **What actually happens:**
-- Benefit levels don't keep pace with food cost increases (functional cut)
-- Millions lose eligibility entirely (direct cut)
-- Administrative barriers prevent eligible people from receiving benefits (access cut)
+- Benefit levels don't keep pace with food cost increases → **functional cut**
+- Millions lose eligibility entirely → **direct cut**
+- Administrative barriers prevent eligible people from receiving benefits → **access cut**
 
-**Net result:** $295 billion less in SNAP spending over 10 years.
+**Net result:** $295 billion less in SNAP spending over 10 years. The CBO does not call this "fear-mongering." It calls it a budget score.
 
 ---
 
-## The Rural Context
+## B. Work Requirements in a Rural Economy
 
-**NY-23 SNAP Statistics:**
+*Work requirements don't create jobs. In a county with seasonal agriculture and a 16% poverty rate, they eliminate assistance for people who can't find work that doesn't exist.*
 
-According to New York State Office of Temporary and Disability Assistance (OTDA) data:
-- Approximately **4 in 25 households** in NY-23 receive SNAP benefits
-- Most recipients are children, elderly, or disabled
-- Rural areas have higher rates of food insecurity than urban areas
+---
+
+### Expanded Work Requirements
+
+H.R. 1 extends work requirements from ages 18-49 to **ages 18-64**, and reduces exemptions for caregivers and people experiencing homelessness.
+
+**Center on Budget and Policy Priorities / Urban Institute Analysis:**
+
+- **40 million people** receive SNAP benefits nationally, including **17 million children**
+- Work requirement expansions could cause **5.4 million people to lose benefits monthly** (Urban Institute estimate)
+- CBO projects **2.4 million people nationally** will lose SNAP coverage in a typical month
+
+**Who gets cut in NY-23:**
+- **Seasonal farm workers** between harvests — agricultural employment in the Southern Tier is not year-round
+- **People aged 50-64** facing age discrimination in a job market with limited employers
+- **Caregivers** whose responsibilities don't meet the bill's narrow exemption criteria
+- **Anyone** in a rural area where the nearest qualifying employer is 30 miles away and there's no public transit
+
+*In plain language: The bill assumes people can find 80 hours of monthly work. In rural Steuben County, many can't — not because they refuse, but because the jobs aren't there. Seasonal agriculture, limited employers, and no bus routes make compliance a geography problem, not a motivation problem.*
+
+---
+
+## C. The County Cost Shift
+
+*Beyond benefit cuts, the bill shifts administrative costs from federal to local — meaning counties must either raise taxes or reduce their capacity to help residents apply.*
+
+---
+
+### SNAP Administrative Cost Shift
+
+The OBBBA reduces the **federal SNAP administrative cost share from 50% to 25%** starting FY2027. This means counties like Steuben must either:
+- Absorb the cost difference through local tax revenue
+- Reduce the administrative capacity to process SNAP applications
+- Or both — creating a compounding effect where fewer staff process applications for a program with more restrictive eligibility requirements
 
 ### Steuben County: The Local Numbers
 
@@ -108,63 +122,42 @@ According to New York State Office of Temporary and Disability Assistance (OTDA)
 
 Corning Democrat **Joe Tobia** criticized the OBBBA's Medicaid and SNAP provisions at the August 7 committee meeting. No public response from Langworthy to the county's concerns has been documented.
 
-### OBBBA Administrative Cost Shift
-
-Beyond benefit cuts, the OBBBA reduces the **federal SNAP administrative cost share from 50% to 25%** starting FY2027. This means counties like Steuben must either:
-- Absorb the cost difference through local tax revenue
-- Reduce the administrative capacity to process SNAP applications
-- Or both — creating a compounding effect where fewer staff process applications for a program with more restrictive eligibility requirements
-
-**Food Bank Impact:**
+### Food Bank Pressure
 
 FeedMore WNY (serving Western New York) reported a **16% increase** in food assistance need in 2024. SNAP cuts would increase pressure on food banks that are already struggling to meet demand.
 
-**Rural Employment Reality:**
+When SNAP contracts, food banks absorb the difference — with fewer resources and more demand.
 
-NY-23's rural communities face:
-- Seasonal agricultural employment
-- Limited year-round job opportunities
-- Geographic barriers to consistent employment
-- Higher transportation costs for job access
+---
 
-Steuben County's high poverty rate, aging population, and seasonal employment patterns make work requirement compliance particularly difficult — CBO projects **2.4 million people nationally** will lose SNAP coverage in a typical month under expanded requirements. Expanded work requirements don't create jobs — they eliminate assistance for people unable to find work in areas with limited opportunities.
+## NY-23 SNAP Statistics
+
+According to New York State Office of Temporary and Disability Assistance (OTDA) data:
+- Approximately **4 in 25 households** in NY-23 receive SNAP benefits
+- Most recipients are children, elderly, or disabled
+- Rural areas have higher rates of food insecurity than urban areas
 
 ### State-Level Projections
 
 Governor Hochul's office projects the OBBBA will cause:
+- **300,000+ households** to lose SNAP benefits statewide
 - **1.5 million New Yorkers** to lose Medicaid coverage
-- **300,000+ households** to lose SNAP benefits
 - **$8 billion in annual cuts** to hospitals and health systems
 - The Rockefeller Institute estimates the managed care tax restriction could cost New York **$1.5 billion annually** starting 2026
 
 ---
 
-## What "No Cuts" Actually Means
+## Assessment
 
-**The CBO is clear: The bill reduces SNAP spending by $295 billion.**
+Langworthy's claim that "not a single dollar is cut from benefits" is contradicted by the CBO's $295 billion budget score.
 
-This happens through:
-- **Eligibility restrictions** → fewer people receive benefits
-- **Benefit calculation limits** → benefits don't keep pace with food costs
-- **Administrative barriers** → eligible people can't access benefits
+The bill reduces spending through three mechanisms — freezing benefit calculations, expanding work requirements, and tightening eligibility — each of which results in fewer people receiving less help. Whether the maximum benefit level technically stays the same is irrelevant to the families who lose access entirely.
 
-**Is this a "cut"?**
+The county's own government has warned of devastating local impacts from legislation Langworthy voted for. The county manager says the county will lose money. The legislature chair wrote directly to Langworthy calling SNAP and HEAP "lifelines." No response has been documented.
 
-If the government spends $295 billion less on SNAP over 10 years, and millions of people lose access to food assistance, most people would call that a cut—regardless of whether the maximum benefit level technically stays the same.
+**Verdict: FALSE** — The CBO documents $295 billion in SNAP spending reductions. Calling documented budget analysis "lies" and "fear-mongering" does not change the numbers.
 
----
-
-## Questions This Raises
-
-1. How can Langworthy claim "not a single dollar is cut" when the CBO estimates $295 billion in reduced SNAP spending?
-
-2. If millions of people lose SNAP benefits under expanded work requirements, is that not a cut to the program?
-
-3. How will NY-23's rural food banks handle increased demand when federal food assistance is reduced by 30%?
-
-4. In areas with limited employment opportunities, what happens to working-age adults who lose SNAP but can't find jobs?
-
-5. Why does Langworthy characterize documented CBO analysis as "lies" and "fear-mongering"?
+*For a shorter summary of what SNAP changes mean for NY-23 families, see: [What SNAP Changes Mean for NY-23 Families](/fact-checks/2026-02-09-snap-rural-impact-summary/)*
 
 ---
 
@@ -200,9 +193,10 @@ If the government spends $295 billion less on SNAP over 10 years, and millions o
 - FactCheck.org: "False Claims About SNAP Cuts"
 - PolitiFact: SNAP work requirements analysis
 - Related: [Steuben County: Ten Federal Funding Claims Examined](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
+- Related: [What Federal Policy Is Actually Doing to Steuben County](/fact-checks/2026-02-08-steuben-rural-impact-summary/)
 
 ---
 
 **Note:** This entry documents publicly available information from congressional records, CBO analysis, and independent policy research. Readers may draw their own conclusions.
 
-**Last updated:** December 30, 2025
+*Last updated: February 9, 2026*
