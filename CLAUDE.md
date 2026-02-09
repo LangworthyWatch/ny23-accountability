@@ -8,9 +8,10 @@
 
 **Tech Stack:**
 - Hugo static site generator
-- Ananke theme (customized)
+- Custom theme (no Ananke dependency)
+- CSS in `assets/css/bundle.css` (concatenated custom properties system)
 - GitHub Pages deployment
-- Formspree for form submissions
+- Donorbox for donations
 - Google Analytics for traffic
 
 ---
@@ -22,6 +23,10 @@
 2. **Archive.org URLs** - All sources archived for permanence
 3. **Complete context** - Full quotes with dates and circumstances
 4. **Factual accuracy** - Claims verified against multiple official sources
+5. **"Why this matters" intro** - For complex topics, explain local relevance upfront
+6. **Plain language summaries** - After data/tables, add "In plain language:" explanations
+7. **County tags** - Add `counties: ["steuben", "chemung"]` for filtering
+8. **Cross-links** - Link to related fact-checks at bottom of entries
 
 ### All entries must NOT:
 - Make accusations of criminal conduct
@@ -35,10 +40,18 @@ Use these standardized verdicts:
 - **TRUE** - Claim is accurate
 - **MOSTLY TRUE** - Accurate but missing context
 - **MISLEADING** - Technically accurate but creates false impression
+- **MOSTLY FALSE** - Mostly inaccurate with minor accurate elements
 - **FALSE** - Claim is factually incorrect
 - **FALSE ATTRIBUTION** - Claim attributes something to wrong source/cause
-- **UNVERIFIED** - Cannot be confirmed with available sources
-- **OVERSTATED** - Exaggerates beyond what evidence supports
+- **CONTRADICTION** - Statement conflicts with documented actions
+- **DEFLECTION** - Response avoids addressing the actual question
+- **NON-RESPONSIVE** - Constituent concern not addressed
+- **MISSING CONTEXT** - Key information omitted that changes meaning
+- **DOCUMENTED PATTERN** - Recurring behavior established by multiple instances
+- **NOT SUPPORTED** - Claim lacks evidence
+
+### NY-23 Counties (for county tags)
+Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Schuyler, Steuben
 
 ---
 
@@ -311,4 +324,4 @@ Before committing new content:
 
 ---
 
-*Last updated: January 24, 2026*
+*Last updated: February 9, 2026*
