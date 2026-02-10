@@ -80,10 +80,40 @@
       var nav = document.getElementById('nav-mobile');
 
       if (toggle && nav) {
+        // Get all focusable elements within the mobile nav
+        function getFocusableElements() {
+          return nav.querySelectorAll('button, a[href], input, select, textarea, [tabindex]:not([tabindex="-1"])');
+        }
+
+        // Focus trap handler - keeps Tab cycling within the mobile menu
+        function handleFocusTrap(e) {
+          if (e.key !== 'Tab' || !nav.classList.contains('is-open')) return;
+
+          var focusable = getFocusableElements();
+          if (focusable.length === 0) return;
+
+          var first = focusable[0];
+          var last = focusable[focusable.length - 1];
+
+          if (e.shiftKey) {
+            // Shift+Tab: if on first element, wrap to last
+            if (document.activeElement === first) {
+              e.preventDefault();
+              last.focus();
+            }
+          } else {
+            // Tab: if on last element, wrap to first
+            if (document.activeElement === last) {
+              e.preventDefault();
+              first.focus();
+            }
+          }
+        }
+
         toggle.addEventListener('click', function() {
           nav.classList.add('is-open');
           nav.setAttribute('aria-hidden', 'false');
-          toggle.setAttribute('aria-expanded', 'true'); // WCAG: update expanded state
+          toggle.setAttribute('aria-expanded', 'true');
           close.focus();
           document.body.style.overflow = 'hidden';
         });
@@ -91,20 +121,25 @@
         close.addEventListener('click', function() {
           nav.classList.remove('is-open');
           nav.setAttribute('aria-hidden', 'true');
-          toggle.setAttribute('aria-expanded', 'false'); // WCAG: update expanded state
+          toggle.setAttribute('aria-expanded', 'false');
           toggle.focus();
           document.body.style.overflow = '';
         });
 
-        // Close on escape key
+        // Handle keyboard events
         document.addEventListener('keydown', function(e) {
+          // Close on Escape
           if (e.key === 'Escape' && nav.classList.contains('is-open')) {
             nav.classList.remove('is-open');
             nav.setAttribute('aria-hidden', 'true');
-            toggle.setAttribute('aria-expanded', 'false'); // WCAG: update expanded state
+            toggle.setAttribute('aria-expanded', 'false');
             toggle.focus();
             document.body.style.overflow = '';
+            return;
           }
+
+          // Focus trap on Tab
+          handleFocusTrap(e);
         });
       }
     })();
