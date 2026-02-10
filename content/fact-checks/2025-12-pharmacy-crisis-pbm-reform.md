@@ -9,6 +9,12 @@ source_url: "https://wellsvillesun.com/blog/2025/12/17/langworthy-urges-house-le
 archived_url: ""
 ---
 
+## Why This Matters for NY-23
+
+Rural NY-23 has lost multiple independent pharmacies, forcing residents to drive 30+ miles for prescriptions. PBM reform would directly address the pricing practices that make rural pharmacies unprofitable. When Langworthy publicly champions this reform but stays silent each time Trump kills it, the pharmacies keep closing — and constituents don't know why the "urgent" reform never passes.
+
+---
+
 ## Statement
 
 **Source:** Press Releases, Floor Speech, Wellsville Sun Interview
@@ -186,6 +192,18 @@ REFORM STATUS:     In bill →   REMOVED        In bill →    REMOVED        St
 *When Trump supports reform: Langworthy is vocal.*
 *When Trump kills reform: Langworthy is silent.*
 *When Trump launches branded initiative: Langworthy suddenly cosponsors.*
+
+---
+
+## In Plain Language
+
+PBM reform has been stripped from legislation **three times** — each time at Trump's direction. Here's the pattern:
+
+1. **Trump publicly supports reform** → Langworthy makes supportive statements
+2. **Trump privately kills reform** → Langworthy says nothing
+3. **Repeat**
+
+When a standalone PBM reform bill was introduced in July 2025, Langworthy didn't cosponsor it for 82 days — until the exact day Trump launched "TrumpRx." He's not advocating for rural pharmacies; he's waiting for permission.
 
 ---
 

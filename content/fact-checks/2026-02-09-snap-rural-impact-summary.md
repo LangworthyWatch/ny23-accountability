@@ -12,6 +12,12 @@ tags: ["food-assistance", "snap", "rural-impact", "steuben-county", "obbba", "wo
 counties: ["steuben", "allegany", "cattaraugus", "chautauqua", "chemung"]
 ---
 
+## Why This Matters for NY-23
+
+One in eight Steuben County residents receives SNAP. The CBO projects $295 billion in SNAP cuts over 10 years — the largest reduction in nearly 30 years. Work requirements are expanding to ages 18-64 in a county with 16% poverty, seasonal agricultural employment, and no public transit. Steuben County's own manager confirmed the bill "will result in Steuben County getting less money." When the representative who voted for this says "not a single dollar" was cut, someone isn't telling the full story.
+
+---
+
 ## What SNAP does in a rural district
 
 In NY-23, SNAP is food between harvests. It is how a 62-year-old who worked dairy for thirty years and blew out a knee feeds himself while looking for lighter work. It is how a single parent in Corning stretches a paycheck that doesn't quite cover rent and groceries in the same month. It is how an elderly widow in Wellsville eats when her Social Security check runs out on the 20th.

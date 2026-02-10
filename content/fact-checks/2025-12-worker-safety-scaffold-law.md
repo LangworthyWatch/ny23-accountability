@@ -7,6 +7,15 @@ claim_date: "2025"
 source: "Press Release"
 source_url: ""
 archived_url: ""
+verdict: "DISPUTED BY LABOR"
+tags: ["labor", "worker-safety", "construction", "campaign-finance"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+Construction workers in NY-23 build schools, roads, and homes. When they fall from heights, New York's Scaffold Law ensures they can recover damages without having to prove fault. Langworthy's bill would strip this protection from federally-funded projects. Labor unions representing these workers call it an attack on safety. Construction industry contributors who would benefit from lower liability have given Langworthy $85,860. Who does this bill serve?
+
 ---
 
 ## Statement
@@ -86,5 +95,24 @@ These construction-related industries rank among Langworthy's top contributors.
 ---
 
 **Note:** This entry documents publicly available information from official records, labor organizations, and news reports. Readers may draw their own conclusions.
+
+---
+
+## In Plain Language
+
+The Scaffold Law is simple: If a construction worker falls from a height due to inadequate safety equipment, the employer is liable. Period. The worker doesn't have to prove they weren't partially at fault.
+
+Langworthy's bill would change this for federally-funded projects. Under "comparative negligence," an injured worker could be found partially responsible for their own fall — reducing what they recover.
+
+**Industry says:** This could save $2 billion in insurance costs.
+
+**Labor says:** That $2 billion comes from reduced payouts to injured workers and their families.
+
+**The numbers:**
+- 74 construction workers died in New York in 2023 (48% increase from prior year)
+- 40%+ of fatalities are falls from heights
+- Construction-related industries have given Langworthy $85,860
+
+The New York AFL-CIO president: "It's beyond comprehension that the congressman is going to Washington to undermine workers in his own state."
 
 *Last updated: December 22, 2025*

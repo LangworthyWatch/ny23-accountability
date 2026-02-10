@@ -9,6 +9,13 @@ source_url: ""
 archived_url: ""
 verdict: "INCONSISTENT"
 tags: ["foreign-policy", "Venezuela", "drug-trafficking", "pardon", "hypocrisy", "constituent-letter"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+Drug trafficking affects rural communities — opioids and other substances flow through areas with limited law enforcement resources. When a representative celebrates arresting one accused drug trafficker (Maduro) while his party's president pardoned a **convicted** one (Hernández, 400 tons of cocaine), constituents deserve to understand the inconsistency. Is the goal to fight drug trafficking, or is it selective enforcement based on political allegiance?
+
 ---
 
 ## Statement
@@ -127,5 +134,17 @@ The War Powers Act requires congressional authorization for military action. Lan
 **Note:** This entry documents publicly available information from official correspondence and news coverage. Readers may draw their own conclusions about the consistency of these positions.
 
 **Research contribution:** Constituent submissions via LangworthyWatch
+
+---
+
+## In Plain Language
+
+Two foreign leaders. Same core crime: flooding America with cocaine.
+
+**Maduro** (Venezuela): Indicted for drug trafficking. Arrested via military operation. Langworthy: "A major milestone in the fight against narco-terrorism."
+
+**Hernández** (Honduras): **Convicted** of trafficking 400 tons of cocaine with Sinaloa Cartel ties. Sentenced to 45 years. **Pardoned by Trump.** Langworthy: "The President acted within his constitutional authority."
+
+One gets celebrated as accountability. One gets defended as legal authority. Same crime, opposite treatment.
 
 *Last updated: February 4, 2026*

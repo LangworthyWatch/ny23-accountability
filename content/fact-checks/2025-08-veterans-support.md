@@ -12,6 +12,12 @@ tags: ["veterans", "shutdown", "contradiction"]
 counties: ["steuben", "cattaraugus"]
 ---
 
+## Why This Matters for NY-23
+
+The Bath VA Medical Center in Steuben County serves **33,000+ veterans** across seven counties. During the 44-day shutdown, VA operations were strained, benefits processing was delayed, and active duty military families went without paychecks. When the congressman who voted to start that shutdown attends Veterans Day ceremonies and says "we must honor our commitment" to veterans, the disconnect between words and actions directly affects constituents who served.
+
+---
+
 ## Statement
 
 **Source:** Public statements and social media, October-November 2025
@@ -126,5 +132,18 @@ The same "One Big Beautiful Bill" that cut rural hospital funding (see related f
 ---
 
 **Note:** This entry documents publicly available information from official congressional records, news reports, and veterans organization statements. Readers may draw their own conclusions.
+
+## In Plain Language
+
+Here's the sequence:
+1. **September 2025:** Langworthy votes NO on a funding bill that included full military and VA funding
+2. **October-November:** The government shuts down for 44 days — the longest in U.S. history
+3. **During shutdown:** Active duty troops go unpaid, VA benefits are delayed, Bath VA operates with reduced staff
+4. **November 11:** Langworthy attends Veterans Day events, thanks veterans for their service
+5. **November 14:** He finally votes to reopen — after extracting policy concessions
+
+"Service members shouldn't be used as political pawns," he said. But using a shutdown to gain policy leverage is exactly what using people as pawns looks like.
+
+---
 
 *Last updated: December 21, 2025*

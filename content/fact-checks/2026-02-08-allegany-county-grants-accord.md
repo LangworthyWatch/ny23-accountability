@@ -12,6 +12,12 @@ tags: ["allegany-county", "credit-claiming", "grants", "head-start", "arc", "acc
 counties: ["allegany"]
 ---
 
+## Why This Matters for NY-23
+
+Allegany County residents deserve to know which federal grants their representative actually secured versus which would have arrived regardless. Head Start continuation funding flows automatically to programs meeting performance standards — Congress members play no role. ARC grants are state-administered competitive programs. Meanwhile, federally-funded social services in the county faced disruption from executive orders Langworthy supports. Understanding what's genuine credit versus announcement allows constituents to evaluate representation accurately.
+
+---
+
 ## Statement
 
 **Source:** Multiple Langworthy press releases and local news, 2024-2025

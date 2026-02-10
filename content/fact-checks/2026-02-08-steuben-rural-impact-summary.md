@@ -12,6 +12,12 @@ tags: ["steuben-county", "rural-impact", "snap", "fema", "va", "flooding", "agri
 counties: ["steuben"]
 ---
 
+## Why This Matters for NY-23
+
+This summary connects the dots between federal policy votes in Washington and what's actually happening on the ground in Steuben County — where 1 in 8 residents depends on SNAP, flood maps haven't been updated since 1991, and the Bath VA serves 33,000 veterans. The dollar figures in Langworthy's press releases are often accurate; what's missing is the broader context of policy choices that simultaneously threaten the same systems those announcements celebrate.
+
+---
+
 ## What keeps rural systems running
 
 In Steuben County, federal programs are not abstractions. They are the water system in Prattsburgh, the flood maps in Woodhull, the detox beds at Bath VA, the food assistance that stabilizes one in eight residents between harvests, and the preschool classrooms that let parents work.

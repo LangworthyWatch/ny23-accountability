@@ -12,6 +12,12 @@ tags: ["healthcare", "medicaid", "rural-hospitals", "rural-impact", "obbba"]
 counties: ["chautauqua", "cattaraugus", "allegany", "chemung", "schuyler", "steuben", "erie"]
 ---
 
+## Why This Matters for NY-23
+
+Six hospitals in NY-23 are operating at negative margins, some losing 30-59 cents on every dollar. Many get 30-40% of their revenue from Medicaid. When the CBO projects 10 million Americans will lose health insurance under the bill Langworthy voted for, and the Kaiser Family Foundation estimates $155 billion in rural Medicaid cuts, the math for these hospitals is existential — not "pure fiction." If Cuba Memorial closes, every resident of northern Allegany County loses their nearest hospital.
+
+---
+
 ## What Medicaid does in NY-23
 
 In a rural district where the nearest specialist might be two counties away and the local hospital is the largest employer in town, Medicaid is not a partisan issue. It is the revenue stream that keeps hospital doors open, the coverage that lets an elderly parent stay in a nursing home, and the reason a family with a disabled child can access therapy without driving to Rochester.

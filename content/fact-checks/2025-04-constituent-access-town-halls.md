@@ -12,6 +12,12 @@ tags: ["transparency", "town-halls", "constituent-access", "accountability"]
 counties: ["erie", "steuben", "chemung", "chautauqua"]
 ---
 
+## Why This Matters for NY-23
+
+Representative democracy depends on constituents being able to question their representative directly. In over three years, Langworthy has held zero in-person town halls. When constituents organized their own forums and invited him, he didn't attend. When a local newspaper editor offered to promote a town hall and provided a venue, she received no response. The editor's assessment: "Your style of governing as unresponsive because, basically, you don't respond." Whether telephone town halls with "pre-selected questions" constitute adequate representation is for voters to decide.
+
+---
+
 ## Statement
 
 **Source:** Langworthy office statements, 2023-2026

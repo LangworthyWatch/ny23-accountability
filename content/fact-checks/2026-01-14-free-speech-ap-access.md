@@ -7,6 +7,15 @@ claim_date: "January 14, 2026"
 source: "Constituent Letter Response"
 source_url: ""
 archived_url: ""
+verdict: "DEFLECTION"
+tags: ["free-speech", "press-access", "constituent-letter", "deflection"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+A free press serves constituents by holding power accountable. When a representative defends restricting traditional news outlets while championing access for aligned podcasters, the question of viewpoint discrimination matters. Whether you think AP deserves White House access or not, the response pattern is notable: constituent raised concern about current administration → response attacks previous administration and cites unrelated legislation.
+
 ---
 
 ## Statement
@@ -96,4 +105,21 @@ Langworthy's framing:
 **Note:** This entry documents publicly available information from official congressional records. Readers may draw their own conclusions.
 
 **Research contribution:** Constituent submission via LangworthyWatch
+
+---
+
+## In Plain Language
+
+The constituent asked about the Trump Administration and freedom of speech.
+
+Langworthy's response:
+1. AP restrictions are "not unconstitutional"
+2. Biden pressured social media companies
+3. Here's H.R. 140 from 2023 (addressed social media, not press pool access)
+4. Trump expanded access to Barstool Sports and "independent journalists"
+
+The pivot: A constituent asks about restricting Associated Press → response attacks Biden's social media interactions and cites legislation about a different issue.
+
+Whether AP restrictions are constitutional is a legal question. Whether restricting traditional press while expanding access to aligned outlets raises press freedom concerns is the question the constituent asked. The letter defends the administration rather than engaging with the concern.
+
 *Last updated: January 20, 2026*

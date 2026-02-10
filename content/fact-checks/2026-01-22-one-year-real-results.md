@@ -7,6 +7,15 @@ claim_date: "January 21, 2026"
 source: "Facebook Post"
 source_url: "https://www.facebook.com/RepLangworthy/posts/pfbid02JXFMHKMS94vXPAgsk7q2pFQgAW6axXMCiXAFQcWA44rESQhHave6X1wzeZUTwAvSl"
 archived_url: "https://web.archive.org/web/20260123000947/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRepLangworthy%2Fposts%2Fpfbid02JXFMHKMS94vXPAgsk7q2pFQgAW6axXMCiXAFQcWA44rESQhHave6X1wzeZUTwAvSl"
+verdict: "FALSE ATTRIBUTION"
+tags: ["economy", "inflation", "taxes", "false-attribution"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+When representatives claim credit for economic trends that began before their policies took effect, constituents can't accurately evaluate those policies. Inflation fell from 9.1% to 2.6% during the Biden administration — before Trump took office. Claiming "real results" for trends already underway misleads voters about cause and effect. And some claims in this post — like "largest tax cut in history" — are flatly false when measured against prior tax cuts.
+
 ---
 
 {{< figure src="/images/fact-checks/2026-01-22-one-year-results-fb-post.jpeg" alt="Congressman Nick Langworthy Facebook post titled 'One Year. Real Results.' making economic claims" caption="Langworthy's Facebook post claiming Trump administration economic achievements (screenshot archived January 22, 2026)" >}}

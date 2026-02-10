@@ -12,6 +12,12 @@ tags: ["immigration", "ice", "steuben-county", "constituent-voices", "local-impa
 counties: ["steuben"]
 ---
 
+## Why This Matters for NY-23
+
+NY-23's agricultural economy depends significantly on immigrant labor — dairy farms, food processing, seasonal agriculture. When Steuben County residents publicly opposed ICE cooperation agreements, saying "we are all afraid," their concerns reflected the tension between federal enforcement policy and local economic reality. Langworthy champions aggressive ICE enforcement while representing a district where farmers depend on the workers those policies target.
+
+---
+
 ## Statement
 
 **Source:** Local news coverage, 2025

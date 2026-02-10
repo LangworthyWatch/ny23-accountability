@@ -7,6 +7,15 @@ claim_date: "September-November 2025"
 source: "Multiple statements"
 source_url: ""
 archived_url: ""
+verdict: "CONTRADICTION"
+tags: ["shutdown", "healthcare", "SNAP", "contradiction"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+During the 44-day shutdown, **151,000 NY-23 households** on SNAP faced benefit disruptions. Military families went unpaid. Eight of twelve local hospitals were already financially stressed — and letting ACA subsidies lapse would increase uncompensated care costs. When a congressman says "responsible leadership" means "keeping the lights on" but then participates in the longest shutdown in U.S. history over policy priorities, the gap between rhetoric and action directly harms constituents.
+
 ---
 
 ## Statement
@@ -114,5 +123,22 @@ He blamed Senate Majority Leader Chuck Schumer and Democrats for "turning govern
 ---
 
 **Note:** This entry documents publicly available information from official congressional records and news reports. Readers may draw their own conclusions.
+
+---
+
+## In Plain Language
+
+"Shutting down the government is not the solution," Langworthy said. "We must ensure military families don't miss a paycheck."
+
+Then the government shut down for 44 days. Military families missed paychecks. 151,000 NY-23 households on SNAP faced benefit disruptions. The shutdown was the longest in U.S. history.
+
+What happened?
+1. House Republicans passed a spending bill **without** ACA subsidy extensions
+2. Democrats rejected it
+3. Shutdown began
+4. Langworthy voted **against** a bipartisan ACA fix that failed by one vote
+5. After 44 days, he finally voted to reopen
+
+Who did he blame? Democrats, for "turning governing into political theater." But the Republican Speaker controlled the floor schedule and could have brought compromise legislation to a vote at any time.
 
 *Last updated: December 21, 2025*

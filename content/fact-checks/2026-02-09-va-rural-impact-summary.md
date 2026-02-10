@@ -12,6 +12,12 @@ tags: ["veterans", "va", "doge", "bath-va", "rural-impact", "staffing"]
 counties: ["steuben", "allegany", "chemung", "schuyler", "yates", "erie"]
 ---
 
+## Why This Matters for NY-23
+
+Bath VA Medical Center serves 33,000 veterans across seven counties. It's the only nearby option for inpatient care and addiction treatment. Langworthy called VA problems a "staffing problem" — then co-founded the DOGE Caucus that cut VA staff. The VA's own inspector general found staffing shortages worsened by 50% in one year. The Monroe County Veterans Services Director warned: "I fear veterans could lose their lives because of it." This isn't abstract policy debate; it's detox beds and appointment availability for veterans who served.
+
+---
+
 ## What Bath VA means to the region
 
 For 33,000 veterans across seven counties, Bath VA Medical Center is the closest option for inpatient care, addiction treatment, and specialized services. For a veteran in Potter County, PA, or Yates County, NY, there is no convenient alternative — the next VA facility is hours away.

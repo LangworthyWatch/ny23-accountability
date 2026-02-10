@@ -12,6 +12,12 @@ tags: ["infrastructure", "flooding", "steuben-county", "fema", "climate"]
 counties: ["steuben"]
 ---
 
+## Why This Matters for NY-23
+
+Steuben County has experienced what the County Legislature Chair calls "once-in-a-century disasters — over and over again." FEMA flood maps haven't been updated since 1991. Residents who were told they weren't in floodplains now face repeated uninsured losses. Langworthy tours damage and announces FEMA funding after each flood — but there's no documented advocacy for structural mitigation to prevent the next one. Reactive disaster relief without preventive investment means the same communities keep flooding.
+
+---
+
 ## Statement
 
 **Source:** Multiple Langworthy press releases, 2024-2025

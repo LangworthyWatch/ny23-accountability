@@ -11,6 +11,16 @@ verdict: "MISSING ATTRIBUTION"
 tags: ["infrastructure", "earmarks", "grants", "transparency", "biden-era"]
 ---
 
+## Why This Matters for NY-23
+
+When press releases announce federal grants as victories for "strong leadership," constituents deserve to know whether their representative actually secured the funding — or is simply announcing grants that would have come regardless. This matters because:
+
+1. **Policy attribution affects elections** — If voters credit their representative for Biden-era programs, they may not understand which policies actually helped their communities
+2. **Future funding depends on understanding** — USDA Rural Development grants flow from agencies that face 31.7% staffing cuts under budgets Langworthy supports
+3. **Local planning requires honesty** — Municipalities making infrastructure decisions need accurate information about sustainable funding sources
+
+---
+
 ## Statement
 
 **Source:** Multiple Press Releases
@@ -258,6 +268,16 @@ USDA Rural Development is a federal agency. These are competitive federal grants
 - Civil Eats: "USDA Cuts Deep: Nearly 20% Workforce Lost in 2025"
 
 ---
+
+---
+
+## In Plain Language
+
+There are two types of federal grants: **earmarks** (where a congressman specifically requests funding in a bill) and **formula/competitive grants** (where federal agencies award money based on applications, regardless of who represents the district).
+
+Langworthy legitimately secured about **$10 million** in earmarks — funding that wouldn't exist without his request. But he also takes credit for **$25+ million** in grants from Biden-era programs that would have gone to qualifying applicants anyway.
+
+His press releases don't distinguish between these categories, so when he says he "delivered" $20+ million for the district, constituents can't tell how much he actually influenced versus how much he simply announced.
 
 ---
 

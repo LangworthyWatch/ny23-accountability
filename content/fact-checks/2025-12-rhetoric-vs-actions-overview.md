@@ -7,6 +7,15 @@ claim_date: "2023-2025"
 source: "Committee proceedings, press releases, and campaign statements"
 source_url: ""
 archived_url: ""
+verdict: "DOCUMENTED PATTERN"
+tags: ["overview", "pattern", "accountability"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+This overview documents a recurring pattern: public statements and campaign promises that diverge from legislative actions. From "urgent" PBM reform that never reached a vote, to immigration claims federal law contradicts, to "responsible leadership" rhetoric during a shutdown he helped cause — the gap between what's said and what's done affects real policy outcomes for NY-23 families. Understanding these patterns helps constituents evaluate future claims.
+
 ---
 
 ## Overview

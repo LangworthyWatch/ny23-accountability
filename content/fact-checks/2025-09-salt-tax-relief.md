@@ -7,6 +7,15 @@ claim_date: "September 2025"
 source: "Public statements and meetings"
 source_url: ""
 archived_url: ""
+verdict: "CONTRADICTION"
+tags: ["taxes", "SALT", "contradiction"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+The $10,000 SALT cap costs NY-23 middle-class households **$2,000-$5,000 annually** in higher federal taxes. Langworthy met with Trump to lobby for SALT relief as a "top priority," then voted for a tax package that included corporate tax cuts but no SALT relief. Constituents got the promise; corporations got the tax cut.
+
 ---
 
 ## Statement
@@ -82,6 +91,20 @@ Roll Call noted Langworthy was among several House Republicans who "publicly lob
 - **SALT cap cost to NY-23 households**: $2,000-$5,000/year average for middle/upper-middle class
 - **Corporate tax cut benefit**: ~$1.8 trillion over 10 years, primarily to large corporations
 - **SALT relief in package**: Minimal to none despite bipartisan support for $20K cap
+
+---
+
+## In Plain Language
+
+The SALT deduction lets people deduct their state and local taxes from federal income. The 2017 Tax Cuts and Jobs Act capped this at $10,000 — hitting high-tax states like New York especially hard.
+
+Langworthy:
+1. Met with Trump to lobby for SALT relief
+2. Called it a "top priority" for his district
+3. Voted for a tax package that cut corporate taxes from 21% to 15%
+4. That same package kept the $10,000 SALT cap unchanged
+
+The corporate tax cut costs about $1.8 trillion over 10 years. A higher SALT cap would cost a fraction of that. Langworthy lobbied for one and voted for the other.
 
 ---
 

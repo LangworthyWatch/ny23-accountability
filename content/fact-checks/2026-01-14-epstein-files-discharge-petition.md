@@ -7,6 +7,15 @@ claim_date: "January 14, 2026"
 source: "Constituent Letter Response"
 source_url: ""
 archived_url: ""
+verdict: "MISSING CONTEXT"
+tags: ["transparency", "Epstein", "voting-record", "constituent-letter"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+When a constituent asks about government transparency, they deserve a complete answer. Langworthy says he "never opposed" releasing Epstein files and "proudly supported" the bill. But his letter doesn't mention that he refused to sign the discharge petition that actually forced the vote — a petition the White House called "a hostile act." Only 4 Republicans had the courage to sign: Massie, Greene, Boebert, and Mace. Langworthy wasn't among them. The bill passed 427-1 only after Trump reversed position.
+
 ---
 
 ## Statement
@@ -103,4 +112,21 @@ archived_url: ""
 **Note:** This entry documents publicly available information from official congressional records and news reports. Readers may draw their own conclusions.
 
 **Research contribution:** Constituent submission via LangworthyWatch
+
+---
+
+## In Plain Language
+
+The Epstein Files bill passed 427-1. Langworthy voted YES. Sounds like strong support, right?
+
+Here's what his letter doesn't tell constituents:
+- The bill only came to a vote because of a **discharge petition** that bypassed leadership
+- A White House official called signing the petition "a very hostile act to the administration"
+- Only **4 Republicans** signed: Massie, Greene, Boebert, Mace
+- Langworthy **did not sign**
+- Rep. Pat Ryan publicly called him out by name for refusing to sign
+- The bill passed only **after Trump reversed** his position
+
+"Proudly supporting" a bill that passes 427-1 after your party's president says it's okay is different from signing a petition to force a vote when the administration opposes it. The letter omits the petition entirely.
+
 *Last updated: January 20, 2026*

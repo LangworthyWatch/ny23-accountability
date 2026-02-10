@@ -7,6 +7,15 @@ claim_date: "July 18, 2025"
 source: "Press Statement"
 source_url: "https://langworthy.house.gov/media/press-releases"
 archived_url: ""
+verdict: "CONTRADICTION"
+tags: ["transparency", "Epstein", "voting-record", "contradiction"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+When representatives claim to support transparency while blocking binding measures and then voting for symbolic ones, constituents can't tell who actually fought for accountability versus who wanted the appearance of it. The sequence here — vote NO on binding amendment, then vote YES on resolution that "forces the release of NOTHING" (Rep. Massie's words) — is a pattern voters should understand.
+
 ---
 
 ## Statement
@@ -58,5 +67,18 @@ Local media noted the contradiction: "After voting no earlier this week on an am
 ---
 
 **Note:** This entry documents publicly available information from official congressional records and news reports. Readers may draw their own conclusions.
+
+---
+
+## In Plain Language
+
+The sequence:
+1. **July 17:** Democrats propose a binding amendment to force DOJ to release Epstein files → Langworthy votes **NO**
+2. Files remain unreleased
+3. **July 18:** Republicans introduce a symbolic resolution with no enforcement power → Langworthy votes **YES** and issues press release "demanding full release"
+
+Rep. Thomas Massie (R-KY), who voted for actual release, called the Republican resolution a "stunt" that "forces the release of NOTHING."
+
+Local media noticed: "After voting no earlier this week on an amendment to have DOJ release the Epstein files, Congressman Nick Langworthy has voted yes on moving a Republican resolution forward...."
 
 *Last updated: December 21, 2025*

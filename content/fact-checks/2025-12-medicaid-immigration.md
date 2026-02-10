@@ -12,6 +12,12 @@ tags: ["healthcare", "immigration", "medicaid", "misleading-claim"]
 counties: ["district-wide"]
 ---
 
+## Why This Matters for NY-23
+
+When lawmakers claim to be "removing illegal aliens from Medicaid," they're describing people who **already can't enroll** — federal law has prohibited it since 1996. Meanwhile, the same bill cuts $911 billion from Medicaid overall, threatening the rural hospitals that serve U.S. citizens throughout Allegany, Cattaraugus, Chautauqua, and Steuben counties. The immigration rhetoric obscures what the bill actually does to healthcare access for NY-23 families.
+
+---
+
 ## Statement
 
 **Source:** Press Release, House Energy and Commerce Committee Reconciliation Bill
@@ -103,6 +109,16 @@ This is not an isolated claim. Langworthy has repeatedly used immigration rhetor
 - These are STATE-funded programs, not federal Medicaid
 
 **Langworthy's claim specifically references federal reconciliation legislation**, which does not affect state-only programs.
+
+---
+
+## In Plain Language
+
+"Removing illegal aliens from Medicaid" sounds like it would save money and reduce fraud. But undocumented immigrants **already cannot enroll in Medicaid** — that's been federal law since 1996.
+
+The only exception is "Emergency Medicaid," which isn't insurance for immigrants — it's hospital reimbursement for emergency care that federal law (EMTALA) requires hospitals to provide regardless of immigration status. Hospitals can't turn away someone having a heart attack.
+
+So what does the bill actually do? It adds paperwork requirements for citizens to prove their eligibility, while cutting $911 billion from the program overall. The immigration framing makes it sound like savings come from removing people who shouldn't be there — when the cuts actually come from reducing coverage for Americans.
 
 ---
 

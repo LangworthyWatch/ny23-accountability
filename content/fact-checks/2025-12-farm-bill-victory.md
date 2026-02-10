@@ -7,6 +7,15 @@ claim_date: "May 24, 2024"
 source: "Press Releases, Public Statements"
 source_url: ""
 archived_url: ""
+verdict: "MISLEADING"
+tags: ["agriculture", "farm-bill", "legislative-process", "misleading-claim"]
+counties: ["chautauqua", "allegany", "cattaraugus", "steuben"]
+---
+
+## Why This Matters for NY-23
+
+The April 2024 frost destroyed **75% of Chautauqua County's grape crop** — an estimated $220 million in losses. Langworthy celebrated that his GRAPE Act was included in the Farm Bill as a "major victory." But the Farm Bill never received a floor vote, never became law, and NY-23 farmers never got the crop insurance protection they were promised. Committee passage isn't victory; enacted law is victory. Farmers got press releases while still lacking federal relief.
+
 ---
 
 ## Statement
@@ -196,5 +205,21 @@ Langworthy's six bills are not automatically included in the new bill—they wou
 ---
 
 **Note:** This entry documents publicly available information from congressional records and official statements. Readers may draw their own conclusions.
+
+---
+
+## In Plain Language
+
+Here's how a bill becomes law:
+1. Committee approval ✓ (happened)
+2. Floor vote ✗ (never scheduled)
+3. Senate passage ✗ (couldn't happen without House vote)
+4. President's signature ✗ (couldn't happen without Senate)
+
+Langworthy's six bills passed step 1. He celebrated that as a "major victory." But steps 2-4 never happened — Republican Speaker Mike Johnson simply never scheduled a floor vote.
+
+Who did Langworthy blame? Democrats, for lack of "bipartisan cooperation." But Republicans controlled the House floor schedule. They could have brought the bill up any time between May and December 2024.
+
+The April frost devastated NY-23 farms. The GRAPE Act was supposed to help. But claiming "victory" at committee passage, then blaming Democrats when your own party's leadership doesn't schedule a vote, isn't delivering for farmers — it's press release politics.
 
 **Last updated:** December 30, 2025

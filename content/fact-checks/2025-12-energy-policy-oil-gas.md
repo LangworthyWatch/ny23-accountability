@@ -7,6 +7,15 @@ claim_date: "2025"
 source: "Press Releases"
 source_url: ""
 archived_url: ""
+verdict: "DOCUMENTED PATTERN"
+tags: ["environment", "energy", "campaign-finance", "pattern"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+Energy costs affect every household. So does clean water. When a representative pushes legislation that benefits the fossil fuel industry while taking $66,466 from that industry, constituents deserve to know. When that same representative has a **3% lifetime environmental score** and declines to offer solutions on PFAS contamination affecting local water supplies, the pattern is worth documenting.
+
 ---
 
 ## Statement
@@ -91,5 +100,21 @@ The bill would effectively prevent New York and other states from implementing c
 ---
 
 **Note:** This entry documents publicly available information from official records, campaign finance disclosures, and news reports. Readers may draw their own conclusions.
+
+---
+
+## In Plain Language
+
+Langworthy frames his Energy Choice Act as protecting "freedom" and "pocketbooks." The bill would prevent New York from implementing clean energy building codes.
+
+Here's the context:
+- He's received **$66,466** from oil & gas companies (his 8th largest industry contributor)
+- His **lifetime environmental score is 3%** (League of Conservation Voters)
+- In 2024 alone, he cast **28 anti-environment votes** and **zero** pro-environment votes
+- When asked about PFAS chemicals contaminating water supplies, he said he'd "await conversations with the incoming EPA administrator"
+
+The groups endorsing his bill? National Propane Gas Association, American Petroleum Institute, Independent Oil and Gas Association. The groups opposing it? Environmental advocates and clean energy supporters.
+
+It's possible to genuinely believe fossil fuel policy benefits consumers. But when industry contributions, voting patterns, and bill endorsements all align, constituents should understand whose interests are being served.
 
 *Last updated: December 22, 2025*

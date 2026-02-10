@@ -20,6 +20,16 @@ Langworthy stated he would not "blanketly agree to just pushing forward" the enh
 
 ---
 
+## Why This Matters for NY-23
+
+Over **6,300 residents** in NY-23 are enrolled in the ACA marketplace. If the enhanced tax credits expire:
+- A single person in Chautauqua County earning $65,000 would pay **$1,252 more per year**
+- A family of four earning $130,000 would pay **$2,547 more per year**
+
+When a congressman uses false claims about wealthy people getting "free health care" to justify opposing these credits, the people who actually lose coverage are middle-class families in rural communities — not the fictional $400,000 earners he describes.
+
+---
+
 ## The Law
 
 **Current ACA Premium Tax Credit Structure (as of 2025):**
@@ -47,6 +57,14 @@ Langworthy's claim that people earning $300,000-$400,000 receive "free health ca
 * OBBB provision: Does **not** extend enhanced credits
 
 As of November 2025, Langworthy had not committed to voting for any extension of the credits, stating: "I think we have to find an off-ramp on how to get off of these subsidies."
+
+---
+
+## In Plain Language
+
+Langworthy claims people earning $300,000-$400,000 get "free health care" through the ACA. This is mathematically impossible under how the law works — at those income levels, people receive **zero subsidies** because their premiums are already below the cost threshold.
+
+The real impact of opposing the enhanced credits isn't on wealthy Americans who don't receive them anyway — it's on the thousands of NY-23 families earning $50,000-$130,000 who would see their premiums jump by $100-$200 per month.
 
 ---
 

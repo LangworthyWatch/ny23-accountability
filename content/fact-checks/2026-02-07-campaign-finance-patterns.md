@@ -12,6 +12,12 @@ tags: ["campaign-finance", "pac", "energy", "transparency", "fec"]
 counties: ["district-wide"]
 ---
 
+## Why This Matters for NY-23
+
+With only **3.48%** of contributions from small donors and **44%** from PACs, Langworthy's funding comes overwhelmingly from organized interests rather than constituents. His top legislative priority — the Energy Choice Act — directly benefits the energy companies among his largest donors. Whether this represents "influence" is interpretive; that the pattern exists is documented in public FEC filings that no local media outlet has examined.
+
+---
+
 ## Overview
 
 This entry examines Rep. Langworthy's campaign finance patterns using publicly available FEC filings. Heavy PAC reliance is common among incumbents and is not inherently improper. However, the alignment between donor sectors and legislative priorities is a factual pattern that has received **no examination from any local news outlet**.

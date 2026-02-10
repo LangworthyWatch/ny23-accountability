@@ -7,6 +7,15 @@ claim_date: "July 11, 2025"
 source: "Press Release, Senior Center Visit"
 source_url: ""
 archived_url: ""
+verdict: "MISLEADING"
+tags: ["social-security", "taxes", "seniors", "misleading-claim"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+Many NY-23 seniors live on fixed incomes and depend on every dollar. When Langworthy tells them "88% of seniors will no longer pay federal tax on Social Security," he's overstating what a $6,000 temporary deduction actually does — especially since **64% of seniors already paid no tax on benefits before this law**. Meanwhile, the same bill cuts $911 billion from Medicaid that many low-income seniors depend on.
+
 ---
 
 ## Statement
@@ -120,6 +129,24 @@ Many rural seniors have modest incomes and already paid no tax on benefits. The 
 - Provision expires in 2028
 - Same bill cuts $911B from Medicaid that supports low-income seniors
 - Cuts threaten nursing homes and home care services
+
+---
+
+## In Plain Language
+
+Here's what the law actually does:
+- Provides a **$6,000 deduction** on Social Security benefits for seniors earning under $75K (single) or $150K (married)
+- This reduces taxable income — it doesn't eliminate Social Security taxes entirely
+- The provision **expires in 2028**
+- Higher-income seniors still pay taxes on benefits
+
+Here's what was already true:
+- **64% of seniors** already paid no federal tax on Social Security before this law
+- Only about 36% of beneficiaries paid any tax on benefits
+
+So when Langworthy says "88% will no longer pay federal tax," he's conflating "some benefit from the deduction" with "complete tax elimination." A senior who already paid no tax sees no change. A senior who paid $500 might save some of that. But the claim implies universal tax elimination that the law doesn't provide.
+
+And the same bill cuts $911 billion from Medicaid — which many low-income seniors depend on for nursing home care and prescription coverage.
 
 ---
 

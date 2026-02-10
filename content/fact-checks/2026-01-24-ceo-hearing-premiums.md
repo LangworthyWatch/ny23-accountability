@@ -11,6 +11,12 @@ verdict: "FALSE ATTRIBUTION"
 tags: ["healthcare", "hospitals", "ECMC", "Kaleida", "layoffs", "premiums", "ACA", "Medicaid", "local-impact", "Buffalo", "Southern-Tier"]
 ---
 
+## Why This Matters for NY-23
+
+Over **6,300 NY-23 residents** use the ACA marketplace. When enhanced subsidies expired December 31, 2025, their premiums jumped an average of **$100-$212/month**. Langworthy voted to let those subsidies expire, then voted against restoring them, then demanded insurers explain why premiums went up. The premium increases he's asking about are directly caused by his own votes.
+
+---
+
 ## Statement
 
 **Source:** Facebook Post, January 24, 2026
@@ -129,6 +135,20 @@ MAY 22, 2025      DEC 31, 2025       JAN 8, 2026        JAN 22, 2026       JAN 2
 - Enhanced ACA subsidies cost approximately $25-30 billion/year
 - OBBB added $4.5 trillion to the deficit over 10 years (primarily tax cuts)
 - Langworthy voted for the $4.5 trillion deficit increase while opposing the $25-30 billion that kept premiums affordable
+
+---
+
+## In Plain Language
+
+Here's the sequence:
+1. **May 2025:** Langworthy votes YES on a bill that lets ACA subsidies expire
+2. **December 31, 2025:** Subsidies expire, premiums spike 20-30%
+3. **January 8, 2026:** Langworthy votes NO on restoring the subsidies
+4. **January 24, 2026:** Langworthy asks insurance CEOs: "What are you doing to control costs for families?"
+
+The premium increases are partially his doing. Insurers attributed about **4 percentage points** of premium increases specifically to the subsidy expiration causing healthier people to drop coverage.
+
+Meanwhile, Erie County Medical Center laid off 150 employees citing "inadequate reimbursements from public and private payers, including Medicaid cuts" — the same Medicaid cuts Langworthy voted for.
 
 ---
 

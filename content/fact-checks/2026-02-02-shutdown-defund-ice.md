@@ -19,6 +19,12 @@ tags: ["immigration", "ICE", "shutdown", "Minneapolis", "voting-record", "DHS"]
 
 ---
 
+## Why This Matters for NY-23
+
+This shutdown affected federal workers throughout the district, delayed tax refunds, and created uncertainty for programs rural communities depend on. When the stated reasons for the shutdown are misleading — blaming Democrats for "defunding ICE" when the dispute actually began after two American citizens were shot by federal agents — constituents can't make informed judgments about who's responsible or what reforms might prevent future shutdowns.
+
+---
+
 ## Claim-by-Claim Analysis
 
 ### Claim 1: "Always have been" opposed to shutdowns

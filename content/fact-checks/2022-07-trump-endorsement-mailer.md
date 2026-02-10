@@ -7,6 +7,15 @@ claim_date: "July 2022"
 source: "Campaign Mailer"
 source_url: ""
 archived_url: ""
+verdict: "MISLEADING"
+tags: ["campaign", "endorsement", "misleading-claim"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+How someone campaigns tells you something about how they'll govern. A mailer proclaiming "CHOSEN BY PRESIDENT TRUMP" with an Oval Office photo — when Trump hadn't endorsed him for Congress — establishes a pattern. The campaign's defense: technically accurate because "chosen" referred to a 2019 party chairman selection, not the congressional race. This "technically accurate but creates false impression" approach has continued throughout Langworthy's tenure on multiple issues documented on this site.
+
 ---
 
 ## Statement
@@ -74,5 +83,22 @@ This pattern of technically-accurate-but-misleading communication has continued 
 ---
 
 **Note:** This entry documents publicly available information from news reports and campaign materials. Readers may draw their own conclusions.
+
+---
+
+## In Plain Language
+
+During the August 2022 primary, voters received a mailer with "CHOSEN BY PRESIDENT TRUMP" in large letters, featuring a photo of Langworthy with Trump in the Oval Office.
+
+At that time, Trump had **not endorsed anyone** in the NY-23 primary. Trump's actual endorsement came in October 2022 — two months **after** the primary.
+
+The campaign's explanation: "Chosen" referred to Trump supporting Langworthy for NY State Republican Party Chairman in 2019 — not an endorsement for Congress.
+
+Trump associates didn't buy it:
+- Michael Caputo (former Trump HHS spokesperson): "Deceptive... clearly meant to confuse voters"
+- Politico reported Trump was "made aware" of the mailer
+- A GOP operative close to Trump: "Nothing gets him angrier than falsely using Trump's name"
+
+The distinction between "Trump supported me for state party chair three years ago" and "CHOSEN BY PRESIDENT TRUMP" on a congressional campaign mailer is exactly the kind of technically-accurate-but-misleading communication this site documents.
 
 *Last updated: December 22, 2025*

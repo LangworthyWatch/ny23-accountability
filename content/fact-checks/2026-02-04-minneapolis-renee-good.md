@@ -12,6 +12,12 @@ tags: ["immigration", "ICE", "Minneapolis", "shooting", "false-claim", "constitu
 counties: ["district-wide"]
 ---
 
+## Why This Matters for NY-23
+
+When federal agents kill American citizens, constituents deserve accurate information from their representative — not repetition of agency talking points that video evidence contradicts. If Langworthy will repeat false DHS characterizations of a mother shot through her car window, what other official narratives might he pass along without verification? Trust in government requires accountability, not blind defense of agency claims.
+
+---
+
 ## Statement
 
 **Source:** Constituent Letter Response, February 4, 2026
@@ -146,5 +152,19 @@ Same hidden HTML tracking code as all other documented responses, indicating thi
 **Note:** This entry documents publicly available information from official correspondence and news coverage. Readers may draw their own conclusions.
 
 **Research contribution:** Constituent submission via LangworthyWatch
+
+---
+
+## In Plain Language
+
+Renee Good was a 37-year-old mother. She had just dropped her son at school. She was shot through her car window by an ICE agent.
+
+DHS claimed she "weaponized her vehicle" to run over agents. The Minneapolis Mayor watched the video and said that's "bullshit." The released footage contradicts DHS claims.
+
+Langworthy's letter to constituents: "a violent rioter weaponized her vehicle in an attempt to run over law enforcement officers."
+
+He repeated DHS's false narrative. He called a mother a "violent rioter" with no evidence she was involved in any riot. And in the same letter, he says the incident "should be thoroughly examined and investigated" — while pre-judging what happened.
+
+Interestingly, when DHS Secretary Noem called the other Minneapolis victim (Alex Pretti) a "domestic terrorist," Langworthy said that was "unfortunate and out of line." Same situation, opposite response.
 
 *Last updated: February 9, 2026*

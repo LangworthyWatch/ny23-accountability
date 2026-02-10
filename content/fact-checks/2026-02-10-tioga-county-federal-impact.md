@@ -12,6 +12,12 @@ tags: ["tioga-county", "rural-impact", "medicaid", "snap", "ems", "infrastructur
 counties: ["tioga"]
 ---
 
+## Why This Matters for NY-23
+
+Tioga County has **no hospital**, **no public transit**, and **one in four residents** over 65. Nearly a quarter of the population depends on Medicaid. The county spends $8.32 million on its Medicaid share — roughly 30% of the property tax levy. When federal policy changes how these programs work, a rural county with no buffer absorbs the impact directly. Understanding what's actually happening to these systems — not just what's announced — is essential for residents trying to plan their care, their finances, and their futures.
+
+---
+
 ## What keeps rural systems running
 
 Tioga County sits in New York's Southern Tier with 47,574 residents, no hospital, no public transit, and a population that has been shrinking for over two decades. Nearly one in four residents is 65 or older. The median age of 44.8 exceeds the state figure by five years. The county is not just aging — it is aging faster than it can replace the workers, volunteers, and tax base that hold its systems together.

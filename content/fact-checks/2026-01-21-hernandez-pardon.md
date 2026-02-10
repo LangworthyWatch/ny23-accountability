@@ -7,6 +7,15 @@ claim_date: "January 21, 2026"
 source: "Constituent Letter Response"
 source_url: ""
 archived_url: ""
+verdict: "DEFLECTION"
+tags: ["rule-of-law", "pardons", "drug-trafficking", "deflection", "constituent-letter"]
+counties: ["district-wide"]
+---
+
+## Why This Matters for NY-23
+
+Drug trafficking affects rural communities across NY-23. When a constituent asked why Trump pardoned a convicted kingpin who moved 400 tons of cocaine, Langworthy's response pivoted to attacking Biden instead of addressing the question. Constituents who write their representative deserve responses that engage with their actual concerns — not deflections to unrelated partisan attacks.
+
 ---
 
 ## Statement
@@ -141,6 +150,20 @@ left: -9999999px; opacity: 0; visibility: hidden; display: none !important;">
 5. Langworthy claims the autopen investigation "confirmed" pardons were made "without clear approval from the President" - but PBS reported the investigation "does not include any concrete evidence" of this. Which is accurate?
 
 6. How does pardoning Hernández square with the administration's stated "war on cartels" that has killed 83+ people in Caribbean strikes?
+
+---
+
+## In Plain Language
+
+A constituent asked: Why did Trump pardon a man convicted of trafficking 400 tons of cocaine?
+
+Langworthy's response:
+1. "The President acted within his constitutional authority" (true but irrelevant to the policy question)
+2. "However, the pardons that should concern every American are Biden's pardons" (deflection)
+
+The response never says whether Langworthy supports or opposes the Hernández pardon. It never addresses the constituent's actual argument that the pardon shows Trump doesn't care about drug trafficking. It just pivots to attacking Biden.
+
+The irony: This pardon came as the Trump administration was conducting lethal strikes against suspected drug vessels in the Caribbean, killing 83+ people. The administration freed a convicted drug kingpin while claiming to wage "war on cartels."
 
 ---
 
