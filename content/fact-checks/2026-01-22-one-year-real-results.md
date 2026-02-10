@@ -83,6 +83,30 @@ This decline occurred over **3.5 years** from June 2022 to November 2025.
 
 ---
 
+### Update: "Your First $31,500 Is Tax Free" (February 2026)
+
+**Verdict:** MISLEADING
+
+On February 10, 2026, Langworthy posted a "Working Families Tax Cuts" graphic claiming: **"Your first $31,500 is tax free! Thanks to an increased standard deduction for families."**
+
+**What this is:** The $31,500 is the 2025 standard deduction for married couples filing jointly under the OBBBA. For 2026, it rises to $32,200 with inflation adjustment.
+
+**What Langworthy omits:**
+
+| What he implies | What actually happened |
+|-----------------|----------------------|
+| OBBBA created a new $31,500 tax-free threshold | The 2025 standard deduction was already **$30,000** before OBBBA. The actual increase is **$1,500** for joint filers. |
+| This is a new "Working Families Tax Cut" | The nearly-doubled standard deduction was created by the **2017 Tax Cuts and Jobs Act** — 6 years before Langworthy's OBBBA vote. OBBBA made it permanent and added $1,500. |
+| Families keep $31,500 "tax free" | Payroll taxes (Social Security and Medicare, ~7.65%) **still apply** to every dollar of earned income regardless of the standard deduction. A family earning $31,500 still pays ~$2,410 in payroll taxes. |
+
+**The $1,500 difference:** For a married couple in the 12% bracket, the OBBBA's additional $1,500 standard deduction saves approximately **$180 per year** — about $15 per month. The other $30,000 was already law.
+
+**If the TCJA had expired** (as originally scheduled at the end of 2025), the standard deduction would have reverted to approximately **$16,525** for joint filers, and personal exemptions (~$5,275 per person) would have returned. So the real policy question was whether to extend existing law or let it expire — not whether to create a new tax cut.
+
+*In plain language: Langworthy is presenting the entire standard deduction — most of which has been in place since 2018 — as a new "Working Families Tax Cut." The OBBBA's actual contribution is $1,500 on top of what was already law. That's $15/month for a family in the 12% bracket. And payroll taxes still apply to every dollar.*
+
+---
+
 ### 3. "Rent has fallen for five straight months"
 
 **Verdict:** FALSE
@@ -243,6 +267,7 @@ From Committee for a Responsible Federal Budget (CRFB):
 | No tax Social Security | **MISLEADING** | Deduction, not elimination |
 | Drug prices down | **MISLEADING** | 10 Medicare drugs decreased, 350+ drugs increased |
 | $1,000 newborn accounts | **UNVERIFIED** | Needs confirmation through official sources |
+| "$31,500 is tax free" (Feb 2026) | **MISLEADING** | $30,000 was already law under TCJA; OBBBA added $1,500 (~$15/mo savings). Payroll taxes still apply |
 
 ---
 
@@ -258,6 +283,8 @@ From Committee for a Responsible Federal Budget (CRFB):
 
 5. If the OBBB accelerates Social Security insolvency by reducing trust fund revenue, how does that square with claiming to help seniors?
 
+6. Why present the entire $31,500 standard deduction as a new "Working Families Tax Cut" when $30,000 of it was already law under the 2017 TCJA?
+
 ---
 
 ## Sources
@@ -271,9 +298,12 @@ From Committee for a Responsible Federal Budget (CRFB):
 ### Rent Data
 * **Federal Reserve Economic Data (FRED):** [Consumer Price Index: Rent of Primary Residence](https://fred.stlouisfed.org/series/CUSR0000SEHA)
 
-### Tax Cut Analysis
+### Tax Cut Analysis / Standard Deduction
 * **Congressional Budget Office / Joint Committee on Taxation:** H.R. 1 Cost Estimate
-* **Tax Foundation:** Historical comparison of major tax legislation
+* **Tax Foundation:** Historical comparison of major tax legislation; [2026 Tax Brackets and Standard Deduction](https://taxfoundation.org/data/all/federal/2026-tax-brackets/)
+* **IRS:** [Tax inflation adjustments for tax year 2026, including OBBB amendments](https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill)
+* **Bipartisan Policy Center:** [The 2025 Tax Debate: Individual Tax Deductions and Exemptions in TCJA](https://bipartisanpolicy.org/explainer/the-2025-tax-debate-individual-tax-deductions-and-exemptions-in-tcja/)
+* **Langworthy Facebook post:** "Working Families Tax Cuts — Your First $31,500 Is Tax Free" (February 10, 2026)
 
 ### Social Security / Tips / Overtime Provisions
 * **Thomson Reuters Tax & Accounting:** "Breaking down the OBBBA's Social Security tax deduction" (November 3, 2025)
@@ -289,4 +319,4 @@ From Committee for a Responsible Federal Budget (CRFB):
 
 **Research contribution:** Multiple sources including constituent submissions
 
-*Last updated: January 22, 2026*
+*Last updated: February 10, 2026*
