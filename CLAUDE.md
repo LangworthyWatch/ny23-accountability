@@ -51,7 +51,7 @@ Use these standardized verdicts:
 - **NOT SUPPORTED** - Claim lacks evidence
 
 ### NY-23 Counties (for county tags)
-Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Schuyler, Steuben
+Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Schuyler, Steuben, Tioga
 
 ---
 

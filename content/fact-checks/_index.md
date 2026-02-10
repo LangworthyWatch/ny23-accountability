@@ -21,6 +21,10 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [Voter ID / SAVE Act](/fact-checks/2026-02-10-save-act-voter-id/) | Noncitizens are voting in elections | **NOT SUPPORTED** - ~100 cases in 20+ years out of billions of ballots |
+| [Voter ID / SAVE Act](/fact-checks/2026-02-10-save-act-voter-id/) | 83% support voter ID | **TRUE** but support drops when tradeoffs explained |
+| [Voter ID / SAVE Act](/fact-checks/2026-02-10-save-act-voter-id/) | SAVE Act protects election integrity | **MISLEADING** - Primarily affects eligible citizens, not noncitizens |
+| [Tioga County](/fact-checks/2026-02-10-tioga-county-federal-impact/) | Federal policy impact on Tioga County | **MISSING CONTEXT** - Tax savings ~$42-50/mo; service losses substantially larger |
 | [Minneapolis Shooting](/fact-checks/2026-02-04-minneapolis-renee-good/) | Renee Good was a "violent rioter" who "weaponized her vehicle" | **FALSE** - Contradicted by video evidence per Minneapolis Mayor |
 | [Shutdown](/fact-checks/2026-02-02-shutdown-defund-ice/) | "I have always been opposed to shutdowns" | **FALSE** - Voted NO on Dec 2024 CR |
 | [Shutdown](/fact-checks/2026-02-02-shutdown-defund-ice/) | Democrats "refused to fund" DHS | **MISLEADING** - Accepted 2-week CR pending reforms |
