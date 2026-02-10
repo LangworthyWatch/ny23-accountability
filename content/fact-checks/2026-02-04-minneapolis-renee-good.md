@@ -1,5 +1,5 @@
 ---
-title: "Minneapolis Shooting: Calling Renee Good a 'Violent Rioter' Disputed by Local Officials"
+title: "Minneapolis Shooting: Calling Renee Good a 'Violent Rioter' Contradicted by Released Video"
 date: 2026-02-04
 draft: false
 topic: "Immigration"
@@ -7,8 +7,8 @@ claim_date: "February 4, 2026"
 source: "Constituent Letter Response"
 source_url: ""
 archived_url: ""
-verdict: "DISPUTED BY OFFICIALS"
-tags: ["immigration", "ICE", "Minneapolis", "shooting", "constituent-letter"]
+verdict: "FALSE"
+tags: ["immigration", "ICE", "Minneapolis", "shooting", "false-claim", "constituent-letter"]
 counties: ["district-wide"]
 ---
 
@@ -36,15 +36,18 @@ Langworthy's response:
 
 ## The Video Evidence
 
-**Minneapolis Mayor Jacob Frey** publicly stated after viewing video footage of the incident:
+The video footage of the incident has been publicly released.
+
+**Minneapolis Mayor Jacob Frey** publicly stated after viewing the video:
 
 > "Having seen the video myself, I want to tell everybody directly that **is bullshit**."
 
 He was referring to DHS claims that Good tried to run over agents.
 
-**What the video reportedly shows:**
+**What the released video shows:**
 - Good was shot through her car window
 - The DHS narrative about her "weaponizing her vehicle" is contradicted by the footage
+- No evidence of the "violent rioter" behavior Langworthy described
 
 ---
 
@@ -57,18 +60,17 @@ He was referring to DHS claims that Good tried to run over agents.
 | Claim | Evidence |
 |-------|----------|
 | "Violent rioter" | No evidence Good was involved in any riot or protest; she had just dropped her son at school |
-| "Weaponized her vehicle" | Contradicted by video evidence per Minneapolis Mayor |
-| "Attempt to run over law enforcement" | Contradicted by video evidence per Minneapolis Mayor |
-| "Self-defense" | Subject of investigation; video evidence contradicts DHS narrative |
+| "Weaponized her vehicle" | Contradicted by released video footage |
+| "Attempt to run over law enforcement" | Contradicted by released video footage |
+| "Self-defense" | Contradicted by released video footage |
 
-**Verdict: DISPUTED BY OFFICIALS**
+**Verdict: FALSE**
 
-Langworthy's characterization of Renee Good as a "violent rioter" who "weaponized her vehicle" is disputed by:
-1. Minneapolis Mayor Jacob Frey, who viewed video evidence and publicly called the DHS narrative "bullshit"
-2. The reported context (Good had just dropped her son at school)
-3. No public evidence she was involved in any riot or protest
-
-**Note:** The video evidence has not been publicly released. This verdict reflects the public dispute between local officials and federal authorities, not a determination of what the video shows.
+Langworthy's characterization of Renee Good as a "violent rioter" who "weaponized her vehicle" is contradicted by:
+1. The publicly released video footage of the incident
+2. Minneapolis Mayor Jacob Frey's assessment that the DHS narrative is "bullshit"
+3. The context: Good had just dropped her son at school
+4. No evidence she was involved in any riot or protest
 
 ---
 
