@@ -16,3 +16,4 @@ Thumbs.db
 
 # Local development
 .env
+archive_log_*.txt
