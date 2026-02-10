@@ -83,6 +83,7 @@
         toggle.addEventListener('click', function() {
           nav.classList.add('is-open');
           nav.setAttribute('aria-hidden', 'false');
+          toggle.setAttribute('aria-expanded', 'true'); // WCAG: update expanded state
           close.focus();
           document.body.style.overflow = 'hidden';
         });
@@ -90,6 +91,7 @@
         close.addEventListener('click', function() {
           nav.classList.remove('is-open');
           nav.setAttribute('aria-hidden', 'true');
+          toggle.setAttribute('aria-expanded', 'false'); // WCAG: update expanded state
           toggle.focus();
           document.body.style.overflow = '';
         });
@@ -99,6 +101,7 @@
           if (e.key === 'Escape' && nav.classList.contains('is-open')) {
             nav.classList.remove('is-open');
             nav.setAttribute('aria-hidden', 'true');
+            toggle.setAttribute('aria-expanded', 'false'); // WCAG: update expanded state
             toggle.focus();
             document.body.style.overflow = '';
           }

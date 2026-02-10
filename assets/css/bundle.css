@@ -2045,14 +2045,14 @@ li a,
 .footer-note {
   text-align: center;
   font-size: var(--font-size-sm);
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.75); /* WCAG AA: increased from 0.6 for 4.5:1 contrast */
   margin-bottom: var(--space-4);
 }
 
 .footer-copyright {
   text-align: center;
   font-size: var(--font-size-xs);
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.7); /* WCAG AA: increased from 0.5 for 4.5:1 contrast */
 }
 
 /* Donorbox widget styling */
