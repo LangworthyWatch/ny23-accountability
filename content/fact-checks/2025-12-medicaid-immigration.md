@@ -7,6 +7,9 @@ claim_date: "May 12, 2025"
 source: "Press Release, House Energy and Commerce Committee Reconciliation Bill"
 source_url: ""
 archived_url: ""
+verdict: "MISLEADING"
+tags: ["healthcare", "immigration", "medicaid", "misleading-claim"]
+counties: ["district-wide"]
 ---
 
 ## Statement

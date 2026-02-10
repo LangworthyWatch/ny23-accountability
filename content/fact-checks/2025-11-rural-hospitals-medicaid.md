@@ -7,6 +7,9 @@ claim_date: "Late 2025"
 source: "Public Statements"
 source_url: ""
 archived_url: ""
+verdict: "CONTRADICTION"
+tags: ["healthcare", "rural-hospitals", "medicaid", "contradiction"]
+counties: ["chautauqua"]
 ---
 
 ## Statement

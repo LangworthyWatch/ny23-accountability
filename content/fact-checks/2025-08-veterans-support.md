@@ -7,6 +7,9 @@ claim_date: "October-November 2025"
 source: "Public statements"
 source_url: ""
 archived_url: ""
+verdict: "CONTRADICTION"
+tags: ["veterans", "shutdown", "contradiction"]
+counties: ["steuben", "cattaraugus"]
 ---
 
 ## Statement
