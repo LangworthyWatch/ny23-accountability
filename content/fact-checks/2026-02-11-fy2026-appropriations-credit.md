@@ -22,7 +22,7 @@ Between January 12 and February 4, 2026, Rep. Langworthy announced over $13.9 mi
 
 The answer: **None of it is IIJA money.** These are congressional earmarks — funding that Langworthy specifically requested through the appropriations process. That's a legitimate form of constituent service. But the full story is more complicated than any single press release reveals:
 
-- **5 of the 10 projects were bipartisan efforts** with Senators Schumer and Gillibrand — no one mentions the other side
+- **5 of the 10 projects were bipartisan efforts** with Senators Schumer and Gillibrand — no one mentions the other side. More than half of the announced funding involved bipartisan Senate participation.
 - **Several were announced as "DELIVERED" before the bills were signed into law**
 - **One project was renamed** from "Community Center" to "Senior Center" in Langworthy's materials
 - **One grant's funding source** was never identified in any announcement
@@ -93,7 +93,7 @@ Langworthy requested and received 8 earmarks through the EPA State and Tribal As
 
 **The bipartisan reality:** Four of these eight earmarks were joint House-Senate efforts. Schumer and Gillibrand submitted matching CDS requests and issued their own press releases (Jan 8-9, 2026). Langworthy announced the same projects days later (Jan 12-15) crediting only himself. Neither side credited the other.
 
-**The timing issue:** All announcements came **before** P.L. 119-74 was signed on January 23, 2026. The graphics said "SECURED" and "DELIVERED" — past tense — for funding not yet enacted.
+**The timing issue:** All announcements came **before** P.L. 119-74 was signed on January 23, 2026. While passage was widely expected given bipartisan support (397-28 in the House), the funding was not law until January 23. The graphics said "SECURED" and "DELIVERED" — past tense — for funding not yet enacted.
 
 ---
 
@@ -184,7 +184,7 @@ The issue is not that Langworthy takes credit — it's that he takes **sole** cr
 
 ## Questions This Raises
 
-1. **Why does Langworthy never mention Schumer or Gillibrand on joint projects?** The Senators credited Langworthy in the Newstead case. He credited no one.
+1. **In the January–February announcements reviewed here, Langworthy does not mention Schumer or Gillibrand on any joint project.** The Senators credited Langworthy in the Newstead case. He credited no one.
 
 2. **Why announce as "DELIVERED" before the bill was signed?** Announcements began Jan 12; the bill was signed Jan 23.
 
