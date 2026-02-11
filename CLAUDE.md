@@ -316,6 +316,114 @@ Before committing new content:
 
 ---
 
+## Entry Types and Patterns
+
+### 1. Single-Claim Fact-Checks
+Standard format: Statement > Data > Context > Questions > Sources. Use for individual claims from Facebook posts, press releases, constituent letters.
+
+### 2. Multi-Claim Fact-Checks
+For posts containing multiple distinct claims (e.g., SAVE Act with 3 claims). Structure each claim with its own verdict, then assign an overall verdict. Example: `2026-02-10-save-act-voter-id.md`
+
+### 3. County Impact Profiles
+Format established by Steuben (`2026-02-08-steuben-rural-impact-summary.md`) and Tioga (`2026-02-10-tioga-county-federal-impact.md`). Structure:
+- **"Why This Matters for NY-23"** intro (brief, sets local relevance)
+- **"What keeps rural systems running"** scene-setter
+- **A/B/C impact sections** with italic preambles and "In plain language:" summaries
+- **"What is still unaddressed"** table (signals restraint and seriousness)
+- **Representation gap** section (town halls, votes, quotes)
+- Key clarifier: distinguish county administration from federal causation
+- Verdict: typically MISSING CONTEXT
+
+### 4. Companion Summaries
+Shorter entries that synthesize data from a parent fact-check for a specific audience (e.g., SNAP rural impact, Medicaid rural impact, VA rural impact). Link back to parent entry.
+
+### Rural Framing Treatment
+When applying to existing entries:
+- Add "Why this matters in a rural district" intro paragraph
+- Restructure into A/B/C impact buckets with italic preambles
+- Add "In plain language:" translations after data-heavy sections
+- Add "What is still unaddressed" table
+- Add cross-links to companion/related entries
+- Add county tags and verdict frontmatter fields
+
+### Documented Rhetorical Patterns
+Reference these when entries fit established patterns:
+1. **Create the Problem, Blame Someone Else** — vote for cuts, blame consequences on others
+2. **Take Credit for Opposition's Work** — announce grants from programs he didn't create
+3. **Semantic Deception** — technically true framing that creates false impressions ("No SNAP cuts," "$31,500 tax free," "election integrity")
+4. **Deflect to Biden/Democrats** — redirect constituent concerns
+5. **Form Letter Non-Responses** — praise policy constituent opposed
+
+---
+
+## Facebook Graphics
+
+### Production
+- Python/Pillow scripts saved to `~/Downloads/create_[topic]_graphic.py`
+- Output PNGs saved to `~/Downloads/`
+- Standard dimensions: 1200x1100 or 1200x1200
+- Dark theme (`#1e1e34` background), Impact font for numbers, Arial for text
+- Two-column comparison format: green-tinted left ("What's claimed") vs. red-tinted right ("What the data shows")
+- Evidence boxes at bottom with color-coded fills
+- Verdict bar in gold/amber
+- Footer: LangworthyWatch.org + sources + full fact-check URL
+
+### Design Principles (from iterative feedback)
+- Lead with what sounds reasonable before revealing the gap
+- Use neutral dashes (not red X marks) for assumption labels
+- Soften language in assumption lists (e.g., "seems straightforward" not "everyone can easily comply")
+- Desaturate tradeoff/impact boxes to maintain visual hierarchy
+- Put conservative sources first in source lines (Cato, Heritage before Brennan)
+- Bump footer text contrast for mobile readability
+- $15/month or dominant stat should visually dominate the right column
+- Verdict tone: factual, not snarky — maximize cross-aisle shareability
+
+### Facebook Post Text
+- Lead with the popular/reasonable framing
+- Use arrow bullets (→) not dashes
+- Include specific dollar figures and data points
+- End with full fact-check URL
+- Tone: factual, not partisan — goal is "I support X, but this bill goes further than people think"
+
+---
+
+## Git and Deployment
+
+### SSH Configuration
+Port 22 to GitHub is frequently blocked. Use the port 443 SSH config:
+```bash
+# If push fails on port 22, set remote to use port 443:
+git remote set-url origin git@github-langworthy-443:LangworthyWatch/ny23-accountability.git
+git push
+```
+
+SSH hosts configured in `~/.ssh/config`:
+- `github-langworthy` — port 22 (often blocked)
+- `github-langworthy-443` — port 443 via ssh.github.com (reliable fallback)
+- Both use `~/.ssh/id_ed25519_langworthywatch`
+
+### Repository
+- Remote repo name: `LangworthyWatch/ny23-accountability` (not `langworthy-tracker`)
+- Local directory: `langworthy-tracker/` (submodule within parent `Langworthywatch/`)
+- Branch: `main` (deploys to GitHub Pages on push)
+
+---
+
+## County Coverage Status
+
+| County | Profile Entry | Status |
+|--------|--------------|--------|
+| Steuben | `2026-02-08-steuben-rural-impact-summary.md` | Complete — rural framing applied |
+| Tioga | `2026-02-10-tioga-county-federal-impact.md` | Complete |
+| Allegany | `2026-02-08-allegany-county-grants-accord.md` | Partial (grants focus) |
+| Chemung | — | Not started |
+| Cattaraugus | — | Not started |
+| Chautauqua | — | Not started |
+| Erie | — | Not started (partial district overlap) |
+| Schuyler | — | Not started |
+
+---
+
 ## Contact
 
 - Site email: langworthywatch@gmail.com
@@ -324,4 +432,4 @@ Before committing new content:
 
 ---
 
-*Last updated: February 9, 2026*
+*Last updated: February 11, 2026*
