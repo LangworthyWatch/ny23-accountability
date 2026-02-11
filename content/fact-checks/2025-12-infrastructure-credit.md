@@ -294,6 +294,23 @@ Constituents reviewing his communications **cannot easily tell the difference** 
 
 ---
 
+---
+
+## February 2026 Update: FY2026 Earmark Announcements
+
+The credit-claiming patterns documented above continue, but a new category has emerged. In January-February 2026, Langworthy announced **$13.9 million in new earmarks** across 10 projects — a fundamentally different type of funding from the competitive grants documented above. These are Community Project Funding (CPF) items he personally requested through the appropriations process — and unlike formula grants, these represent genuine constituent service work.
+
+**Key findings:**
+- **5 of 10 projects ($4.71M) were Langworthy-only** — sole credit is fully defensible
+- **5 of 10 projects ($9.25M) were joint efforts** with Senators Schumer and Gillibrand — sole credit is misleading
+- The Elmira College $480K grant was funded through **NIST/Dept. of Commerce**, not Education — identified only through CPF table review
+- The Newstead "Senior Center" is actually a **Community Center** serving all ages
+- Several projects were announced as "DELIVERED" **before the bills were signed into law**
+
+**For the full analysis, including how to verify every earmark yourself:** [FY2026 Appropriations: What Langworthy 'Secured' vs. What Was Bipartisan →](/fact-checks/2026-02-11-fy2026-appropriations-credit/)
+
+---
+
 **Note:** This entry documents publicly available information from congressional records, federal agency announcements, and news reporting. Readers may draw their own conclusions about appropriate credit attribution for federal grants.
 
-*Last updated: February 7, 2026*
+*Last updated: February 11, 2026*

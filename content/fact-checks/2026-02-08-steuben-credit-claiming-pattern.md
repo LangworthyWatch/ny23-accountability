@@ -265,6 +265,7 @@ The most consequential verified facts are not about credit-claiming but about po
 * Steuben County Legislature: April 28, 2025 Risk MAP resolution; October 30, 2025 SNAP/HEAP letter
 * CBO: H.R. 1 budgetary effects analysis (May 2025)
 * Related: [Infrastructure: Earmarks vs. Formula Grants](/fact-checks/2025-12-infrastructure-credit/)
+* Related: [FY2026 Appropriations: What Langworthy 'Secured' vs. What Was Bipartisan](/fact-checks/2026-02-11-fy2026-appropriations-credit/)
 * Related: [Steuben County Flooding](/fact-checks/2026-02-07-steuben-flooding-mitigation/)
 * Related: [SNAP Benefits](/fact-checks/2025-12-snap-cuts/)
 * Related: [VA Healthcare](/fact-checks/2024-08-va-healthcare-shortfall/)

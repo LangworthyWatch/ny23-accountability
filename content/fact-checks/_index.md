@@ -21,6 +21,10 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [FY2026 Appropriations](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | "SECURED" / "DELIVERED" 10 earmarks totaling $13.9M | **PARTIALLY MISLEADING** — 5 were joint with Schumer/Gillibrand; sole credit claimed |
+| [FY2026 Appropriations](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | Newstead "Senior Center" $5M | **MISLEADING** — Actually a Community Center; omits bipartisan Senate partners |
+| [FY2026 Appropriations](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | Elmira College $480K grant | **ACCURATE** — Langworthy-only NIST earmark; funding source never publicly identified |
+| [FY2026 Appropriations](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | Siemens Energy $64M Painted Post | **LEGITIMATE** — Private investment; celebration, not credit claim |
 | [Voter ID / SAVE Act](/fact-checks/2026-02-10-save-act-voter-id/) | Noncitizens are voting in elections | **NOT SUPPORTED** - ~100 cases in 20+ years out of billions of ballots |
 | [Voter ID / SAVE Act](/fact-checks/2026-02-10-save-act-voter-id/) | 83% support voter ID | **TRUE** but support drops when tradeoffs explained |
 | [Voter ID / SAVE Act](/fact-checks/2026-02-10-save-act-voter-id/) | SAVE Act protects election integrity | **MISLEADING** - Primarily affects eligible citizens, not noncitizens |
