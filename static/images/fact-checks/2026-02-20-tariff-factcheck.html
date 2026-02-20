@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LangworthyWatch - Tariff Ruling Fact Check</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600;0,9..40,700;1,9..40,400&family=DM+Serif+Display&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0a0a0a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  .card {
+    width: 1080px;
+    background: #0d1117;
+    border: 1px solid #1e2a3a;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .accent-bar {
+    height: 6px;
+    background: linear-gradient(90deg, #2c3e50 0%, #c0392b 50%, #2c3e50 100%);
+  }
+
+  .header {
+    padding: 48px 56px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .site-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #e74c3c;
+  }
+
+  .date-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    color: #5a6a7a;
+    letter-spacing: 1px;
+  }
+
+  .title-section {
+    padding: 28px 56px 0;
+  }
+
+  .title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 36px;
+    color: #f0f4f8;
+    line-height: 1.2;
+    max-width: 920px;
+  }
+
+  .title em {
+    color: #e74c3c;
+    font-style: normal;
+  }
+
+  .subtitle {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 17px;
+    color: #8899aa;
+    margin-top: 14px;
+    line-height: 1.5;
+    max-width: 860px;
+  }
+
+  /* Verdict grid - 4 claims */
+  .verdict-grid {
+    padding: 36px 56px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  .verdict-item {
+    background: #111820;
+    border: 1px solid #1e2a3a;
+    border-radius: 6px;
+    padding: 24px 28px;
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+  }
+
+  .verdict-badge {
+    flex-shrink: 0;
+    width: 72px;
+    height: 28px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    margin-top: 2px;
+  }
+
+  .verdict-badge.false {
+    background: #2a1015;
+    color: #e74c3c;
+    border: 1px solid #5a2030;
+  }
+
+  .verdict-badge.misleading {
+    background: #2a2010;
+    color: #f39c12;
+    border: 1px solid #5a4020;
+  }
+
+  .verdict-badge.partial {
+    background: #102030;
+    color: #3498db;
+    border: 1px solid #204060;
+  }
+
+  .verdict-content {
+    flex: 1;
+  }
+
+  .verdict-claim {
+    font-family: 'DM Serif Display', serif;
+    font-size: 16px;
+    color: #dde4ea;
+    line-height: 1.3;
+    margin-bottom: 8px;
+  }
+
+  .verdict-fact {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    color: #7a8a9a;
+    line-height: 1.5;
+  }
+
+  .verdict-fact strong {
+    color: #aabbcc;
+  }
+
+  /* Impact strip */
+  .impact-strip {
+    margin: 36px 56px 0;
+    background: linear-gradient(135deg, #1a0a0a 0%, #1a1015 100%);
+    border: 1px solid #3a1520;
+    border-radius: 8px;
+    padding: 28px 32px;
+  }
+
+  .impact-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #e74c3c;
+    margin-bottom: 16px;
+  }
+
+  .impact-stats {
+    display: flex;
+    gap: 0;
+  }
+
+  .impact-stat {
+    flex: 1;
+    text-align: center;
+    position: relative;
+  }
+
+  .impact-stat:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: 10%;
+    height: 80%;
+    width: 1px;
+    background: #2a1520;
+  }
+
+  .impact-number {
+    font-family: 'DM Serif Display', serif;
+    font-size: 30px;
+    color: #f0f4f8;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+
+  .impact-desc {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    color: #8899aa;
+    line-height: 1.4;
+    padding: 0 8px;
+  }
+
+  .impact-source {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 9px;
+    color: #3a4a5a;
+    margin-top: 4px;
+  }
+
+  /* NY-23 callout */
+  .district-callout {
+    margin: 24px 56px 0;
+    padding: 20px 28px;
+    background: #0f1520;
+    border-left: 3px solid #f39c12;
+    border-radius: 0 6px 6px 0;
+  }
+
+  .district-callout-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #f39c12;
+    margin-bottom: 10px;
+  }
+
+  .district-callout-text {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    color: #aabbcc;
+    line-height: 1.6;
+  }
+
+  .district-callout-text strong {
+    color: #dde4ea;
+  }
+
+  /* Bottom bar */
+  .bottom-bar {
+    margin-top: 32px;
+    padding: 20px 56px;
+    background: #080c10;
+    border-top: 1px solid #1e2a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .bottom-left {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    color: #5a6a7a;
+  }
+
+  .bottom-left strong {
+    color: #8899aa;
+  }
+
+  .bottom-right {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    color: #3a4a5a;
+    text-align: right;
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="accent-bar"></div>
+
+  <div class="header">
+    <div class="site-label">LangworthyWatch · Fact Check</div>
+    <div class="date-label">February 20, 2026 · SCOTUS IEEPA Ruling</div>
+  </div>
+
+  <div class="title-section">
+    <h1 class="title">Supreme Court strikes down tariffs 6–3. Langworthy says they <em>"proven effective."</em> The numbers disagree.</h1>
+    <p class="subtitle">Hours after the Court ruled IEEPA tariffs illegal, Langworthy praised them as leveling the playing field. Here's what the data actually shows.</p>
+  </div>
+
+  <div class="verdict-grid">
+    <div class="verdict-item">
+      <div class="verdict-badge false">False</div>
+      <div class="verdict-content">
+        <div class="verdict-claim">Tariffs "leveled the playing field"</div>
+        <div class="verdict-fact">U.S. goods trade deficit hit <strong>all-time record $1.24 trillion</strong> in 2025. Manufacturing lost <strong>103,000+ jobs</strong> since Jan 2025. NY Fed: <strong>94% of tariff costs</strong> paid by Americans.</div>
+      </div>
+    </div>
+    <div class="verdict-item">
+      <div class="verdict-badge misleading">Misleading</div>
+      <div class="verdict-content">
+        <div class="verdict-claim">Ruling was just about "IEEPA interpretation"</div>
+        <div class="verdict-fact">Technically narrow, but voided <strong>~half of all U.S. customs duties</strong>. Created <strong>$160–175B refund liability</strong>. Effective tariff rate dropped from 17% to ~8% overnight.</div>
+      </div>
+    </div>
+    <div class="verdict-item">
+      <div class="verdict-badge partial">Partial</div>
+      <div class="verdict-content">
+        <div class="verdict-claim">Trump has "several legal tools" remaining</div>
+        <div class="verdict-fact">Section 122 invoked same day — but <strong>capped at 15%</strong> and <strong>expires in 150 days</strong>. Cannot replicate uncapped IEEPA tariffs up to 145% on China.</div>
+      </div>
+    </div>
+    <div class="verdict-item">
+      <div class="verdict-badge partial">Partial</div>
+      <div class="verdict-content">
+        <div class="verdict-claim">Western NY "hollowed out" by free trade</div>
+        <div class="verdict-fact">Pain is real: Dunkirk poverty <strong>24.9%</strong>, Olean <strong>24.1%</strong>. But Ball State: <strong>88% of job losses from automation</strong>, not trade. Tariffs now <em>hurting</em> the district.</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="impact-strip">
+    <div class="impact-label">What tariffs actually did — by the numbers</div>
+    <div class="impact-stats">
+      <div class="impact-stat">
+        <div class="impact-number">$1,300</div>
+        <div class="impact-desc">Estimated per-household tariff cost in 2026</div>
+        <div class="impact-source">Tax Foundation</div>
+      </div>
+      <div class="impact-stat">
+        <div class="impact-number">94%</div>
+        <div class="impact-desc">of tariff costs borne by U.S. importers & consumers</div>
+        <div class="impact-source">NY Federal Reserve, Feb 2026</div>
+      </div>
+      <div class="impact-stat">
+        <div class="impact-number">$0</div>
+        <div class="impact-desc">Refunds consumers will likely see from ruling</div>
+        <div class="impact-source">Refunds go to importers, not buyers</div>
+      </div>
+      <div class="impact-stat">
+        <div class="impact-number">103K</div>
+        <div class="impact-desc">Manufacturing jobs lost since tariffs began (Jan '25–Jan '26)</div>
+        <div class="impact-source">BLS revised data</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="district-callout">
+    <div class="district-callout-label">Meanwhile in NY-23</div>
+    <div class="district-callout-text">
+      NY dairy exports fell <strong>12%</strong>. Canada pulled all American wine from shelves — devastating Finger Lakes wineries. Fertilizer costs up <strong>4.7–37.6%</strong> for farmers. Western NY lost <strong>1,000 manufacturing jobs</strong> in 2025. Langworthy <strong>voted against</strong> ending Canada tariffs on Feb 11 — 9 days before the Court ruled them illegal.
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-left"><strong>Sources:</strong> BEA · BLS · NY Fed · Tax Foundation · Penn Wharton · SCOTUSblog · CNBC · CBS · NPR</div>
+    <div class="bottom-right">LangworthyWatch.com<br>Independent accountability journalism for NY-23</div>
+  </div>
+</div>
+</body>
+</html>

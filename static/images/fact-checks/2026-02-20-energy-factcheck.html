@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LangworthyWatch - Energy Fact Check</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600;0,9..40,700;1,9..40,400&family=DM+Serif+Display&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0a0a0a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  .card {
+    width: 1080px;
+    background: #0d1117;
+    border: 1px solid #1e2a3a;
+    overflow: hidden;
+    position: relative;
+  }
+
+  /* Top accent bar */
+  .accent-bar {
+    height: 6px;
+    background: linear-gradient(90deg, #e74c3c 0%, #c0392b 40%, #2c3e50 100%);
+  }
+
+  /* Header */
+  .header {
+    padding: 48px 56px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .site-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #e74c3c;
+  }
+
+  .date-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    color: #5a6a7a;
+    letter-spacing: 1px;
+  }
+
+  /* Title */
+  .title-section {
+    padding: 28px 56px 0;
+  }
+
+  .title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 38px;
+    color: #f0f4f8;
+    line-height: 1.2;
+    max-width: 900px;
+  }
+
+  .title em {
+    color: #e74c3c;
+    font-style: normal;
+  }
+
+  .subtitle {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 17px;
+    color: #8899aa;
+    margin-top: 16px;
+    line-height: 1.5;
+    max-width: 860px;
+  }
+
+  /* The contrast section */
+  .contrast-section {
+    padding: 40px 56px;
+    display: flex;
+    gap: 24px;
+  }
+
+  .contrast-box {
+    flex: 1;
+    padding: 32px;
+    border-radius: 8px;
+    position: relative;
+  }
+
+  .contrast-box.claim {
+    background: #1a1520;
+    border: 1px solid #3a2040;
+  }
+
+  .contrast-box.reality {
+    background: #0f1a1a;
+    border: 1px solid #1a3a2a;
+  }
+
+  .contrast-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+
+  .claim .contrast-label { color: #e74c3c; }
+  .reality .contrast-label { color: #2ecc71; }
+
+  .contrast-quote {
+    font-family: 'DM Serif Display', serif;
+    font-size: 20px;
+    color: #dde4ea;
+    line-height: 1.4;
+    margin-bottom: 12px;
+  }
+
+  .contrast-quote::before {
+    content: '"';
+    color: #e74c3c;
+    font-size: 28px;
+  }
+  .contrast-quote::after {
+    content: '"';
+    color: #e74c3c;
+    font-size: 28px;
+  }
+
+  .reality .contrast-quote::before,
+  .reality .contrast-quote::after {
+    content: none;
+  }
+
+  .contrast-source {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    color: #5a6a7a;
+  }
+
+  /* Stats row */
+  .stats-row {
+    padding: 0 56px 48px;
+    display: flex;
+    gap: 20px;
+  }
+
+  .stat-card {
+    flex: 1;
+    background: #111820;
+    border: 1px solid #1e2a3a;
+    border-radius: 6px;
+    padding: 24px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+  }
+
+  .stat-card:nth-child(1)::before { background: #e74c3c; }
+  .stat-card:nth-child(2)::before { background: #f39c12; }
+  .stat-card:nth-child(3)::before { background: #3498db; }
+  .stat-card:nth-child(4)::before { background: #2ecc71; }
+
+  .stat-number {
+    font-family: 'DM Serif Display', serif;
+    font-size: 36px;
+    color: #f0f4f8;
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+
+  .stat-card:nth-child(1) .stat-number { color: #e74c3c; }
+  .stat-card:nth-child(2) .stat-number { color: #f39c12; }
+  .stat-card:nth-child(3) .stat-number { color: #3498db; }
+  .stat-card:nth-child(4) .stat-number { color: #2ecc71; }
+
+  .stat-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    color: #8899aa;
+    line-height: 1.4;
+    letter-spacing: 0.5px;
+  }
+
+  .stat-source {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    color: #3a4a5a;
+    margin-top: 8px;
+  }
+
+  /* Bottom bar */
+  .bottom-bar {
+    padding: 20px 56px;
+    background: #080c10;
+    border-top: 1px solid #1e2a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .bottom-left {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    color: #5a6a7a;
+  }
+
+  .bottom-left strong {
+    color: #8899aa;
+  }
+
+  .bottom-right {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    color: #3a4a5a;
+    text-align: right;
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="accent-bar"></div>
+
+  <div class="header">
+    <div class="site-label">LangworthyWatch · Fact Check</div>
+    <div class="date-label">February 20, 2026 · Dunkirk, NY</div>
+  </div>
+
+  <div class="title-section">
+    <h1 class="title">Langworthy blames clean energy for costs that <em>natural gas and utility profits</em> actually drive</h1>
+    <p class="subtitle">At the Conservation Club in Dunkirk, Rep. Langworthy called clean energy "extreme policies" causing unaffordable bills. The state's own regulators say otherwise.</p>
+  </div>
+
+  <div class="contrast-section">
+    <div class="contrast-box claim">
+      <div class="contrast-label">What he said</div>
+      <div class="contrast-quote">Millions of New Yorkers cannot afford their home energy bills thanks to the extreme policies of Gov. Hochul and legislative Democrats.</div>
+      <div class="contrast-source">— Rep. Langworthy, Conservation Club, Dunkirk</div>
+    </div>
+    <div class="contrast-box reality">
+      <div class="contrast-label">What the data shows</div>
+      <div class="contrast-quote" style="font-family: 'DM Sans', sans-serif; font-size: 17px;">Clean energy surcharges = <strong style="color:#2ecc71;">5–9.5%</strong> of electric bills.<br><br>Delivery charges driven by gas infrastructure investment = <strong style="color:#f39c12;">50–60%</strong> of bills.<br><br>Natural gas commodity prices up <strong style="color:#e74c3c;">120%</strong> year-over-year.</div>
+      <div class="contrast-source">— NY PSC September 2025 report; National Grid billing data</div>
+    </div>
+  </div>
+
+  <div class="stats-row">
+    <div class="stat-card">
+      <div class="stat-number">61%</div>
+      <div class="stat-label">National Grid NY profit increase (constant currency)</div>
+      <div class="stat-source">NG Half-Year Results, Nov 2025</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">$30.72</div>
+      <div class="stat-label">Henry Hub gas price spike (per MMBtu, Jan 2026)</div>
+      <div class="stat-source">Nominal record high</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">0%</div>
+      <div class="stat-label">Langworthy's 2024 environmental score</div>
+      <div class="stat-source">League of Conservation Voters</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-number">$66K</div>
+      <div class="stat-label">Oil & gas industry contributions to Langworthy</div>
+      <div class="stat-source">OpenSecrets, 2024 cycle</div>
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-left"><strong>Sources:</strong> NY PSC · NYISO · National Grid filings · LCV · EIA · OpenSecrets</div>
+    <div class="bottom-right">LangworthyWatch.com<br>Independent accountability journalism for NY-23</div>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LangworthyWatch - National Grid Executive Pay</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600;0,9..40,700;1,9..40,400&family=DM+Serif+Display&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0a0a0a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  .card {
+    width: 1080px;
+    background: #0d1117;
+    border: 1px solid #1e2a3a;
+    overflow: hidden;
+    position: relative;
+  }
+
+  .accent-bar {
+    height: 6px;
+    background: linear-gradient(90deg, #f39c12 0%, #e74c3c 50%, #2c3e50 100%);
+  }
+
+  .header {
+    padding: 48px 56px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .site-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #e74c3c;
+  }
+
+  .date-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 13px;
+    color: #5a6a7a;
+    letter-spacing: 1px;
+  }
+
+  .title-section {
+    padding: 28px 56px 0;
+  }
+
+  .title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 36px;
+    color: #f0f4f8;
+    line-height: 1.2;
+    max-width: 920px;
+  }
+
+  .title em {
+    color: #f39c12;
+    font-style: normal;
+  }
+
+  .subtitle {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 17px;
+    color: #8899aa;
+    margin-top: 14px;
+    line-height: 1.5;
+    max-width: 860px;
+  }
+
+  /* Two-column contrast */
+  .contrast-row {
+    padding: 36px 56px 0;
+    display: flex;
+    gap: 24px;
+  }
+
+  .contrast-panel {
+    flex: 1;
+    border-radius: 8px;
+    padding: 28px 32px;
+  }
+
+  .contrast-panel.exec {
+    background: linear-gradient(135deg, #1a1a0a 0%, #1a1510 100%);
+    border: 1px solid #3a3520;
+  }
+
+  .contrast-panel.customer {
+    background: linear-gradient(135deg, #1a0a0a 0%, #1a1015 100%);
+    border: 1px solid #3a1520;
+  }
+
+  .panel-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+
+  .exec .panel-label { color: #f39c12; }
+  .customer .panel-label { color: #e74c3c; }
+
+  .pay-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+  }
+
+  .pay-item:last-child { border-bottom: none; }
+
+  .pay-role {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    color: #aabbcc;
+  }
+
+  .pay-amount {
+    font-family: 'DM Serif Display', serif;
+    font-size: 24px;
+    color: #f0f4f8;
+  }
+
+  .exec .pay-amount { color: #f39c12; }
+  .customer .pay-amount { color: #e74c3c; }
+
+  .pay-detail {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    color: #5a6a7a;
+    margin-top: 2px;
+  }
+
+  /* Key findings strip */
+  .findings-strip {
+    margin: 28px 56px 0;
+    display: flex;
+    gap: 16px;
+  }
+
+  .finding-card {
+    flex: 1;
+    background: #111820;
+    border: 1px solid #1e2a3a;
+    border-radius: 6px;
+    padding: 20px 24px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .finding-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+  }
+
+  .finding-card:nth-child(1)::before { background: #f39c12; }
+  .finding-card:nth-child(2)::before { background: #e74c3c; }
+  .finding-card:nth-child(3)::before { background: #3498db; }
+
+  .finding-number {
+    font-family: 'DM Serif Display', serif;
+    font-size: 32px;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+
+  .finding-card:nth-child(1) .finding-number { color: #f39c12; }
+  .finding-card:nth-child(2) .finding-number { color: #e74c3c; }
+  .finding-card:nth-child(3) .finding-number { color: #3498db; }
+
+  .finding-desc {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    color: #8899aa;
+    line-height: 1.4;
+  }
+
+  .finding-source {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    color: #3a4a5a;
+    margin-top: 6px;
+  }
+
+  /* Callout */
+  .callout {
+    margin: 24px 56px 0;
+    padding: 20px 28px;
+    background: #0f1520;
+    border-left: 3px solid #f39c12;
+    border-radius: 0 6px 6px 0;
+  }
+
+  .callout-label {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #f39c12;
+    margin-bottom: 10px;
+  }
+
+  .callout-text {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 14px;
+    color: #aabbcc;
+    line-height: 1.6;
+  }
+
+  .callout-text strong {
+    color: #dde4ea;
+  }
+
+  /* Bottom bar */
+  .bottom-bar {
+    margin-top: 32px;
+    padding: 20px 56px;
+    background: #080c10;
+    border-top: 1px solid #1e2a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .bottom-left {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    color: #5a6a7a;
+  }
+
+  .bottom-left strong {
+    color: #8899aa;
+  }
+
+  .bottom-right {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 11px;
+    color: #3a4a5a;
+    text-align: right;
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="accent-bar"></div>
+
+  <div class="header">
+    <div class="site-label">LangworthyWatch · Investigation</div>
+    <div class="date-label">February 2026 · National Grid Filings</div>
+  </div>
+
+  <div class="title-section">
+    <h1 class="title">National Grid executives earned <em>$13.2 million</em> while NY customer satisfaction targets were missed due to <em>high bills</em></h1>
+    <p class="subtitle">The utility's own filings show record profits, rising executive pay, and an internal acknowledgment that residential customers are struggling.</p>
+  </div>
+
+  <div class="contrast-row">
+    <div class="contrast-panel exec">
+      <div class="panel-label">Executive compensation (2024/25)</div>
+      <div class="pay-item">
+        <div>
+          <div class="pay-role">CEO John Pettigrew</div>
+          <div class="pay-detail">Total remuneration · 91.9% of max bonus</div>
+        </div>
+        <div class="pay-amount">£6.1M</div>
+      </div>
+      <div class="pay-item">
+        <div>
+          <div class="pay-role">CFO Andy Agg</div>
+          <div class="pay-detail">Total remuneration · 90.4% of max bonus</div>
+        </div>
+        <div class="pay-amount">£3.7M</div>
+      </div>
+      <div class="pay-item">
+        <div>
+          <div class="pay-role">Incoming CEO Zoë Yujnovich</div>
+          <div class="pay-detail">Base salary from Nov 2025</div>
+        </div>
+        <div class="pay-amount">£1.3M</div>
+      </div>
+      <div class="pay-item">
+        <div>
+          <div class="pay-role">2025/26 max bonus opportunity</div>
+          <div class="pay-detail">Increased from 125% to 200% of salary</div>
+        </div>
+        <div class="pay-amount" style="font-size: 18px;">+60%</div>
+      </div>
+    </div>
+    <div class="contrast-panel customer">
+      <div class="panel-label">Customer reality (upstate NY)</div>
+      <div class="pay-item">
+        <div>
+          <div class="pay-role">NY customer satisfaction score</div>
+          <div class="pay-detail">NG's own internal metric</div>
+        </div>
+        <div class="pay-amount" style="font-size: 20px;">Not met</div>
+      </div>
+      <div class="pay-item">
+        <div>
+          <div class="pay-role">Reason cited by National Grid</div>
+          <div class="pay-detail">From Remuneration Report, p.129</div>
+        </div>
+        <div class="pay-amount" style="font-size: 14px; color: #aabbcc;">High bills</div>
+      </div>
+      <div class="pay-item">
+        <div>
+          <div class="pay-role">Gas supply charges, Feb YoY</div>
+          <div class="pay-detail">180 therms, National Grid bill</div>
+        </div>
+        <div class="pay-amount">+44%</div>
+      </div>
+      <div class="pay-item">
+        <div>
+          <div class="pay-role">CEO-to-median-employee pay</div>
+          <div class="pay-detail">UK median employee: £71,802</div>
+        </div>
+        <div class="pay-amount" style="font-size: 20px;">85 : 1</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="findings-strip">
+    <div class="finding-card">
+      <div class="finding-number">£443M</div>
+      <div class="finding-desc">NY underlying operating profit — up 61% at constant currency</div>
+      <div class="finding-source">NG Half-Year Results, H1 2025/26</div>
+    </div>
+    <div class="finding-card">
+      <div class="finding-number">9.5%</div>
+      <div class="finding-desc">Guaranteed return on equity approved by PSC for upstate NY</div>
+      <div class="finding-source">NIMO Rate Case, Aug 2025</div>
+    </div>
+    <div class="finding-card">
+      <div class="finding-number">$5.6B</div>
+      <div class="finding-desc">Capital investment over 3 years — recovered from ratepayers</div>
+      <div class="finding-source">NIMO Rate Settlement</div>
+    </div>
+  </div>
+
+  <div class="callout">
+    <div class="callout-label">The structural problem</div>
+    <div class="callout-text">
+      Every dollar National Grid invests in infrastructure earns a <strong>guaranteed 9.5% return</strong> — paid by ratepayers through delivery charges. In H1 2025/26, NG replaced <strong>159 miles of leak-prone pipe</strong> in New York alone. Executive bonuses are tied to financial metrics that reward rate increases — not affordability. Gov. Hochul's 2026 ratepayer protection proposal would <strong>tie executive pay to affordability metrics</strong>. Langworthy's Energy Choice Act could undermine that accountability.
+    </div>
+  </div>
+
+  <div class="bottom-bar">
+    <div class="bottom-left"><strong>Sources:</strong> National Grid HY 2025/26 Results · Annual Report 2024/25 · Directors' Remuneration Report · NY PSC</div>
+    <div class="bottom-right">LangworthyWatch.com<br>Independent accountability journalism for NY-23</div>
+  </div>
+</div>
+</body>
+</html>
