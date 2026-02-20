@@ -1,0 +1,91 @@
+# Premium Tax Credits: Constituent Asked About PTCs, Response Pivoted to Unrelated Tax Provisions
+**January 20, 2026**
+
+### Statement
+**Source:** Constituent Letter Response, January 14, 2026
+
+Constituent wrote expressing **support for extending health care premium tax credits (PTCs)**.
+
+Langworthy's response pivoted to H.R.1 (One Big Beautiful Bill Act):
+> "I was proud to support the Working Families Tax Cuts Plan (H.R.1) when this legislation passed the House on July 3, 2025."
+
+The letter then lists tax provisions—TCJA extension, SALT cap increase, no tax on tips/overtime, child tax credit expansion—but does not directly address whether Langworthy supports extending the enhanced premium tax credits the constituent asked about.
+
+### Congressional Record
+
+**H.R.1 Passage:**
+* House passed: July 3, 2025 (218-214)
+* Senate passed: July 1, 2025 (51-50, VP tie-breaker)
+* Trump signed: July 4, 2025
+* **Status:** ✓ ACCURATE
+
+**Tax Provisions Cited in Letter:**
+* SALT cap: Increased from $10,000 to $40,000 ✓ ACCURATE
+* No tax on tips: Creates deduction (capped at $25,000, income phaseouts) ⚠️ PARTIALLY ACCURATE
+* No tax on overtime: Creates deduction (income phaseouts) ⚠️ PARTIALLY ACCURATE
+* Child Tax Credit increase to $2,200: ✓ ACCURATE
+* Source: Congress.gov, CRS Report R48611, Bipartisan Policy Center
+
+**Enhanced Premium Tax Credits in H.R.1:**
+* H.R.1 does **NOT** extend enhanced premium tax credits
+* Enhanced credits were set to expire December 31, 2025
+* Source: KFF, Bipartisan Policy Center
+
+### Context: What This Letter Connects To
+
+This response directly relates to the existing **ACA Subsidies fact-check**, which documented Langworthy's November 2025 statements:
+
+> "There's some people that make $300,000 or $400,000 a year that are somehow leveraging that into free health care."
+
+This claim was rated **FALSE**—people at those income levels receive no subsidy whatsoever because premiums already cost less than 8.5% of their income.
+
+Langworthy also stated in November 2025:
+> "I think we have to find an off-ramp on how to get off of these subsidies."
+
+### The Pivot
+
+**Constituent asked about:** Premium tax credits
+
+**Langworthy's response discussed:**
+- ✓ TCJA extension
+- ✓ No tax on tips
+- ✓ No tax on overtime
+- ✓ SALT cap increase
+- ✗ Premium tax credits (only mentioned in closing)
+
+**The closing line:**
+> "Should Congress consider any legislation regarding the PTC and improving our health care system as a whole, I will keep your thoughts in mind as we continue to work toward lasting solutions."
+
+**Translation:** Standard acknowledgment without commitment.
+
+### Impact on NY-23 if Enhanced Credits Expire
+
+Per Sen. Gillibrand's office and KFF:
+* Single person in Chautauqua County earning $65,000: premiums increase **$104.30/month** ($1,252/year)
+* Family of four earning $130,000: premiums increase **$212.26/month** ($2,547/year)
+* Over 6,300 NY-23 residents enrolled in ACA marketplace
+
+### Questions This Raises
+
+1. Does Langworthy support extending enhanced premium tax credits? The letter does not say.
+
+2. Why pivot to H.R.1 tax provisions when the constituent asked about healthcare subsidies?
+
+3. H.R.1 did not extend PTCs—why cite it as evidence of healthcare affordability support?
+
+4. The November 2025 "off-ramp" statement suggested opposition to PTCs. Has his position changed?
+
+### Sources
+* Congress.gov: H.R.1 legislative record
+* Bipartisan Policy Center: "2025 Reconciliation Debate: Senate Tax Provisions for Working Families"
+* KFF: ACA Marketplace Enrollment Data
+* CRS Report R48611: TCJA Extensions
+* WSKG: Langworthy interview (November 14, 2025)
+* WRFA-LP Jamestown: "Rep. Langworthy Not Committing To Voting On ACA Enhanced Tax Credits Extension" (November 13, 2025)
+
+**Related Fact-Check:** [ACA Subsidies: Falsely Claiming High Earners Get "Free Health Care"](/fact-checks/aca-subsidies/)
+
+**Note:** This entry documents publicly available information from official sources and news reports. Readers may draw their own conclusions.
+
+**Research contribution:** Constituent submission via LangworthyWatch  
+**Last updated:** January 20, 2026
