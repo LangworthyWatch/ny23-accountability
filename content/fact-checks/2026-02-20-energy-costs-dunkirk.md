@@ -66,6 +66,13 @@ His **lifetime League of Conservation Voters score is 3%**, with a **2024 score 
 
 ---
 
+## Related Fact-Checks
+
+- **[NYSEG Sends $450 Million to Spain, Files for 35% Rate Hike. Langworthy Has Not Responded.](/fact-checks/2026-02-25-nyseg-rate-hike-silence/)** — The NYSEG rate case Langworthy has not publicly acknowledged
+- **[Energy Choice Act: What the Bill Does, Who Supports It, and What It Leaves Out](/fact-checks/2026-02-25-energy-choice-act/)** — Langworthy's flagship energy bill and what it does and does not address
+
+---
+
 ## Sources
 
 NY PSC · NYISO · National Grid HY 2025/26 Results · National Grid Annual Report 2024/25 · Directors' Remuneration Report · Lazard LCOE+ 2025 · EIA · LCV · OpenSecrets · NY Dept of Public Service

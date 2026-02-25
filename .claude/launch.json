@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hugo-server",
+      "runtimeExecutable": "/opt/homebrew/bin/hugo",
+      "runtimeArgs": ["server", "--buildDrafts", "--source", "/Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker"],
+      "port": 1313
+    }
+  ]
+}

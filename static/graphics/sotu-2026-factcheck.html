@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SOTU 2026 Fact Check</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: #0a0e1a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  .card {
+    width: 1080px;
+    background: linear-gradient(165deg, #0f1628 0%, #141d35 40%, #0f1628 100%);
+    border-radius: 24px;
+    overflow: hidden;
+    border: 1px solid rgba(255,255,255,0.06);
+    box-shadow: 0 40px 80px rgba(0,0,0,0.5);
+  }
+
+  .header {
+    padding: 32px 48px 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+
+  .site-label {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #5b8def;
+    margin-bottom: 12px;
+  }
+
+  .title {
+    font-size: 28px;
+    font-weight: 800;
+    color: #ffffff;
+    line-height: 1.2;
+    margin-bottom: 6px;
+  }
+
+  .subtitle {
+    font-size: 15px;
+    color: #8899bb;
+    font-weight: 400;
+  }
+
+  .scoreband {
+    display: flex;
+    padding: 14px 48px;
+    gap: 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    background: rgba(0,0,0,0.15);
+  }
+
+  .score-pill {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .score-pill .count {
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  .score-pill.false-pill { background: rgba(239,68,68,0.2); color: #f87171; }
+  .score-pill.misleading-pill { background: rgba(251,191,36,0.15); color: #fbbf24; }
+  .score-pill.notsupported-pill { background: rgba(156,163,175,0.15); color: #9ca3af; }
+  .score-pill.true-pill { background: rgba(34,197,94,0.15); color: #4ade80; }
+
+  .claims {
+    padding: 8px 48px 24px;
+  }
+
+  .claim-row {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+    gap: 14px;
+  }
+
+  .claim-row:last-child {
+    border-bottom: none;
+  }
+
+  .claim-num {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 800;
+    flex-shrink: 0;
+    color: #fff;
+  }
+
+  .claim-text {
+    flex: 1;
+    font-size: 14px;
+    color: #c8d6e5;
+    font-weight: 500;
+    line-height: 1.25;
+  }
+
+  .verdict-badge {
+    padding: 5px 14px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    flex-shrink: 0;
+    min-width: 120px;
+    text-align: center;
+  }
+
+  /* Verdict colors */
+  .verdict-false {
+    background: rgba(239,68,68,0.15);
+    color: #f87171;
+    border: 1px solid rgba(239,68,68,0.3);
+  }
+  .verdict-misleading {
+    background: rgba(251,191,36,0.12);
+    color: #fbbf24;
+    border: 1px solid rgba(251,191,36,0.25);
+  }
+  .verdict-notsupported {
+    background: rgba(156,163,175,0.1);
+    color: #9ca3af;
+    border: 1px solid rgba(156,163,175,0.2);
+  }
+  .verdict-true {
+    background: rgba(34,197,94,0.12);
+    color: #4ade80;
+    border: 1px solid rgba(34,197,94,0.25);
+  }
+
+  .num-false { background: #dc2626; }
+  .num-misleading { background: #d97706; }
+  .num-notsupported { background: #6b7280; }
+  .num-true { background: #16a34a; }
+
+  .data-point {
+    font-size: 11px;
+    color: #667799;
+    font-weight: 400;
+    max-width: 260px;
+    text-align: right;
+    flex-shrink: 0;
+    line-height: 1.25;
+  }
+
+  .footer {
+    padding: 16px 48px;
+    border-top: 1px solid rgba(255,255,255,0.06);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(0,0,0,0.2);
+  }
+
+  .footer-left {
+    font-size: 13px;
+    color: #5b7a9d;
+    font-weight: 600;
+  }
+
+  .footer-right {
+    font-size: 12px;
+    color: #3d5577;
+  }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="header">
+    <div class="site-label">LangworthyWatch.org</div>
+    <div class="title">State of the Union 2026: Fact Check</div>
+    <div class="subtitle">Rep. Langworthy's SOTU response — 9 claims checked against official data</div>
+  </div>
+
+  <div class="scoreband">
+    <div class="score-pill false-pill"><span class="count">3</span> False</div>
+    <div class="score-pill misleading-pill"><span class="count">3</span> Misleading</div>
+    <div class="score-pill notsupported-pill"><span class="count">2</span> Not Supported</div>
+    <div class="score-pill true-pill"><span class="count">1</span> True*</div>
+  </div>
+
+  <div class="claims">
+
+    <div class="claim-row">
+      <div class="claim-num num-false">1</div>
+      <div class="claim-text">"$18 trillion in investments from across the globe"</div>
+      <div class="data-point">White House's own list: $9.6T. PolitiFact, Cato rated false.</div>
+      <div class="verdict-badge verdict-false">False</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-misleading">2</div>
+      <div class="claim-text">"100% of job growth is in the private sector"</div>
+      <div class="data-point">Federal govt shed 327K jobs (DOGE). Total 2025 growth: 181K.</div>
+      <div class="verdict-badge verdict-misleading">Misleading</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-notsupported">3</div>
+      <div class="claim-text">"70,000 in the construction industry alone"</div>
+      <div class="data-point">BLS: 33K in Jan '26. ~44K over 12 months. No match for 70K.</div>
+      <div class="verdict-badge verdict-notsupported">Not Supported</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-true">4</div>
+      <div class="claim-text">"Wages are rising"</div>
+      <div class="data-point">Real wages up 1.5% YoY. *Trend began mid-2023.</div>
+      <div class="verdict-badge verdict-true">True*</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-false">5</div>
+      <div class="claim-text">"Prices are down"</div>
+      <div class="data-point">CPI up 2.4% YoY. Food up 2.9%. No index shows decline.</div>
+      <div class="verdict-badge verdict-false">False</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-misleading">6</div>
+      <div class="claim-text">"Mortgage rates at the lowest in 4 years"</div>
+      <div class="data-point">6.01% — lowest in ~3 yrs. 4 yrs ago: ~3.5% (half today's rate).</div>
+      <div class="verdict-badge verdict-misleading">Misleading</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-misleading">7</div>
+      <div class="claim-text">"Fentanyl trafficking is down 56%"</div>
+      <div class="data-point">Seizure data: ~49%. Seizures ≠ trafficking. Decline began 2023.</div>
+      <div class="verdict-badge verdict-misleading">Misleading</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-false">8</div>
+      <div class="claim-text">"Zero illegal crossings last month"</div>
+      <div class="data-point">DHS said "zero releases." CBP: 34,626 apprehensions in Jan.</div>
+      <div class="verdict-badge verdict-false">False</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-notsupported">9</div>
+      <div class="claim-text">"Deliberately pumped across our open border to weaken our country"</div>
+      <div class="data-point">No intel agency has concluded this. 84% seized at legal ports.</div>
+      <div class="verdict-badge verdict-notsupported">Not Supported</div>
+    </div>
+
+  </div>
+
+  <div class="footer">
+    <div class="footer-left">Sources: BLS, CPI, CBP, CDC, Freddie Mac, PolitiFact, FactCheck.org, Cato Institute</div>
+    <div class="footer-right">February 25, 2026 &nbsp;·&nbsp; langworthywatch.org</div>
+  </div>
+</div>
+
+</body>
+</html>
