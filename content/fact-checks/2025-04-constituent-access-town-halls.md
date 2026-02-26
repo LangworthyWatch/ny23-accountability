@@ -153,6 +153,8 @@ WRFA noted that previous NY-23 representatives — **Tom Reed and Joe Sempolinsk
 
 This is a local, nonpartisan community radio station licensed by the Reg Lenna Center for the Arts in Jamestown — not a national media outlet or partisan organization.
 
+**Confirmed events held without WRFA notification:** Transcripts of Langworthy's February 2026 district press events confirm multiple events in Chautauqua County during this period, including a press conference at the shuttered NRG Dunkirk power plant promoting the Energy Choice Act (with Sen. George Borrello and Assemblyman Molitor). Media were present and took questions at each event — but WRFA, the county's community radio station, was not notified.
+
 ---
 
 ## Telephone Town Halls: The Reality

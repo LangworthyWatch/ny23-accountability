@@ -101,12 +101,12 @@ Langworthy's office stated that phones were answered and constituent communicati
 
 Langworthy's office referenced two prior incidents during the reopening interview, though neither occurred during the closure period:
 
-| Date | Incident | Location |
-|------|----------|----------|
-| February 2025 | Lock tampered with / vandalism | Jamestown office |
-| Early February 2025 | Suspicious powder in package | Clarence office |
+| Date | Incident | Location | Police Record |
+|------|----------|----------|---------------|
+| Feb 20-21, 2025 | Door handle damaged | Jamestown office | **Confirmed:** Case 2025-00004419. $30 damage. No suspect. Informational report only. |
+| Early February 2025 | Suspicious powder in package | Clarence office | Separate jurisdiction (not in JPD records) |
 
-These incidents occurred approximately one year before the January 2026 closure and at a different office location (Clarence).
+The Jamestown vandalism — described by Langworthy's office during the reopening interview as "lock tampered with" — is confirmed in the second FOIL response as $30 in door handle damage with no suspect identified and no working surveillance cameras. The officer filed it as an informational report only.
 
 ---
 
@@ -124,9 +124,33 @@ These incidents occurred approximately one year before the January 2026 closure 
 
 ---
 
-## Pending Records
+## Second FOIL Response: Four Additional Incidents (Feb–March 2025)
 
-A separate FOIL request covering additional dates is pending ($4.50, indicating additional responsive records). This entry will be updated when those records are received.
+A second FOIL response was fulfilled on February 24, 2026 (cost: $4.50). It returned four additional incident records at 2 E 2nd Street, Suite 208 — all from approximately one year before the January 2026 closure.
+
+| Date | Incident # | Nature of Call | Result | Disposition |
+|------|-----------|----------------|--------|-------------|
+| Feb 17, 2025 | 2025-00004135 | Suspicious Situation — "Phone Line Cut Possibly" | Officers checked suite with property manager. **All lines intact. Nothing suspicious observed.** Suite alarm "goes off once in a while." | NAR (No Action Required) |
+| Feb 20-21, 2025 | 2025-00004419 | Criminal Mischief — door handle damaged | **$30 damage.** Unknown suspect broke metal object in door handle. No working surveillance cameras. Staff "wished to have the incident documented as they have had issues with protestors in the past from the Jamestown justice coalition." **Informational report only.** | CIO (Closed by Investigation) |
+| March 2, 2025 | 2025-00005375 | Alarm — "Possible Phone Line Tampering" | Officers unable to gain access. **All secure.** | AF (Alarm False) |
+| March 21, 2025 | 2025-00007404 | Alarm — "Commercial hold up alarm" | **Accidental trip.** | AV/NAR |
+
+### What These Records Show
+
+Across **both FOIL responses** — covering the full period from February 2025 through February 2026 — the Jamestown Police Department's complete record at Langworthy's office consists of:
+
+- **Zero threat reports**
+- **Zero reports of violence or calls for violence**
+- **Zero documented protests at the office**
+- **One criminal mischief report:** $30 door handle damage (Feb 2025, unsolved, no suspect identified)
+- **Three false or accidental alarms** (phone line checks, burglar alarm)
+- **One "nothing suspicious" check** after a reported phone line issue
+
+The criminal mischief report (Feb 20-21, 2025) is notable: the staff member referenced "issues with protestors in the past from the Jamestown justice coalition" as context for wanting the $30 door handle damage documented. This is the only reference to protest activity in any JPD record — and it is a **complainant's characterization**, not an independently verified police finding. The incident itself involved minor property damage with no suspect, no threats, and no violence.
+
+### Impact on the "Credible Threats" Claim
+
+The second FOIL response does not change the core finding: Langworthy cited "repeated credible threats and calls for violence" to close the office in January 2026, but local police records contain no reports of threats or violence at the office at any point in the preceding year. The most serious documented incident was $30 in door handle damage.
 
 ---
 
@@ -138,7 +162,8 @@ A separate FOIL request covering additional dates is pending ($4.50, indicating 
 - Olean Times Herald: "Citing threats, Langworthy closes Jamestown office" (January 12, 2026)
 - WGRZ: "Langworthy closes Jamestown office; violent threats cited" (January 2026)
 - Wellsville Sun: "Congressman Langworthy will indefinitely close Jamestown office" (January 11, 2026)
-- City of Jamestown FOIL Response: Fulfilled February 24, 2026 (Incident 2026-00002972)
+- City of Jamestown FOIL Response #1: Fulfilled February 24, 2026 — $0.50 (Incident 2026-00002972)
+- City of Jamestown FOIL Response #2: Fulfilled February 24, 2026 — $4.50 (Incidents 2025-00004135, 2025-00004419, 2025-00005375, 2025-00007404)
 
 ---
 
@@ -148,7 +173,7 @@ A separate FOIL request covering additional dates is pending ($4.50, indicating 
 
 ---
 
-**Note:** This entry is based on publicly available news reports and records obtained through a lawful FOIL request. The FOIL response covers only Jamestown Police Department records. Threats reported directly to Capitol Police or federal agencies would not appear in these records. This entry will be updated as additional records are received.
+**Note:** This entry is based on publicly available news reports and records obtained through two lawful FOIL requests. Both FOIL responses cover only Jamestown Police Department records. Threats reported directly to Capitol Police or federal agencies would not appear in these records. A FOIL request to Capitol Police is pending.
 
 **Document obtained by:** LangworthyWatch via FOIL request
 
@@ -166,6 +191,6 @@ It is possible that threats were made on social media and reported only to Capit
 
 The Post-Journal reported the office reopened after "protests in the area subsided" — raising the question of whether the closure was prompted by constituent protests rather than the stated threats.
 
-A second FOIL response with additional records is pending.
+A second FOIL response covering earlier dates returned four additional records from February–March 2025: three false or accidental alarms and one criminal mischief report ($30 door handle damage, no suspect). Across the full year of JPD records, there are no reports of threats, violence, or protests at the office.
 
-*Last updated: February 25, 2026*
+*Last updated: February 26, 2026*
