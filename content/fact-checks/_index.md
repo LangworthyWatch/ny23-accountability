@@ -21,6 +21,17 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "$18 trillion in global investments" | **FALSE** — White House's own list: $9.6T; no source for $18T |
+| [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "Prices are down" | **FALSE** — CPI up 2.4% YoY; food up 2.9% |
+| [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "Zero illegal crossings last month" | **FALSE** — DHS said "zero releases"; CBP: 34,626 apprehensions |
+| [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "100% of job growth is private sector" | **MISLEADING** — Federal govt shed 327K jobs (DOGE); total 2025 growth: 181K |
+| [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "Fentanyl trafficking down 56%" | **MISLEADING** — Seizure data ~49%; seizures ≠ trafficking; decline began 2023 |
+| [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "Mortgage rates lowest in 4 years" | **MISLEADING** — Lowest in ~3 yrs; 4 yrs ago rates were ~3.5% vs 6.01% now |
+| [Tax Cut Claim](/fact-checks/2026-02-25-largest-tax-cut-claim/) | "Largest middle-class tax cut in history" | **FALSE** — 6th largest by GDP share; 60% of benefits to top quintile |
+| [NYSEG Rate Hike](/fact-checks/2026-02-25-nyseg-rate-hike-silence/) | No statement on NYSEG $500M+ rate increase | **DOCUMENTED PATTERN** — Sen. Riley intervened; Langworthy silent |
+| [Energy Choice Act](/fact-checks/2026-02-25-energy-choice-act/) | Champions consumer energy choice | **MISLEADING** — NEFI helped draft the bill; 30+ industry endorsers; preempts state/local decisions |
+| [Buffalo Airport](/fact-checks/2026-02-18-buffalo-airport-snow-equipment/) | "Proud to announce" $1.48M for snow equipment | **MISSING CONTEXT** — Airport in NY-26 (Kennedy's district); Kennedy secured $1.8M in same bill |
+| [Jamestown Office](/fact-checks/2026-01-10-jamestown-office-closure/) | "Credible threats" closed Jamestown office | **MISSING CONTEXT** — FOIL: zero threat reports at JPD; one burglar alarm, no staff present |
 | [FY2026 Appropriations](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | "SECURED" / "DELIVERED" 10 earmarks totaling $13.9M | **PARTIALLY MISLEADING** — 5 were joint with Schumer/Gillibrand; sole credit claimed |
 | [FY2026 Appropriations](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | Newstead "Senior Center" $5M | **MISLEADING** — Actually a Community Center; omits bipartisan Senate partners |
 | [FY2026 Appropriations](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | Elmira College $480K grant | **ACCURATE** — Langworthy-only NIST earmark; funding source never publicly identified |
@@ -41,7 +52,7 @@ Each fact-check includes:
 | [CEO Hearing](/fact-checks/2026-01-24-ceo-hearing-premiums/) | Demands insurers explain premium increases | **FALSE ATTRIBUTION** - Premiums rose because of subsidies HE voted to end |
 | [Childcare Freeze](/fact-checks/2026-01-31-childcare-freeze/) | Minnesota fraud justifies NY freeze | **MISLEADING** - Different programs; no NY-specific fraud evidence cited |
 | [Maduro/Hernandez](/fact-checks/2026-01-20-maduro-hernandez-contrast/) | Celebrating arrest of drug trafficker | **INCONSISTENT** - While party pardoned convicted drug trafficker Hernandez |
-| [Epstein Files](/fact-checks/2026-01-14-epstein-files-discharge-petition/) | "I have never opposed the release" | **MISLEADING** - Did not sign discharge petition that forced the vote |
+| [Epstein Files](/fact-checks/2026-01-14-epstein-files-discharge-petition/) | "I have never opposed the release" / "Working with Oversight colleagues" | **MISSING CONTEXT** - Did not sign petition; did not attend Wexner deposition |
 | [Premium Tax Credits](/fact-checks/2026-01-14-ptc-pivot/) | Response to constituent asking about PTCs | **NON-RESPONSIVE** - Pivoted to unrelated H.R.1 tax provisions |
 | [RFK Jr./MAHA](/fact-checks/2026-01-14-rfk-maha/) | Response to constituent opposing RFK Jr. | **NON-RESPONSIVE** - Praised agenda constituent opposed |
 | [Free Speech/AP](/fact-checks/2026-01-14-free-speech-ap-access/) | Defending AP restrictions | **DEFLECTION** - Cited unrelated H.R. 140 about social media |
@@ -67,7 +78,7 @@ Each fact-check includes:
 
 ## Documented Patterns
 
-Based on analysis of 25+ fact-checks, these patterns emerge:
+Based on analysis of 35+ fact-checks, these patterns emerge:
 
 ### Pattern 1: Create the Problem, Blame Someone Else
 - Votes for subsidy expiration (May 2025) → votes against restoring them (Jan 2026) → demands insurers explain premium increases (Jan 2026)

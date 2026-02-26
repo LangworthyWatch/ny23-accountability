@@ -23,6 +23,8 @@ Rep. Langworthy's official voting record is maintained by Congress.gov.
 | Epstein Files Amendment | July 14, 2025 | NO | [Epstein Files](/fact-checks/2025-07-18-epstein-files-transparency/) |
 | H.R.4405 (Epstein Files Release) | Nov 18, 2025 | YES | [Discharge Petition](/fact-checks/2026-01-14-epstein-files-discharge-petition/) |
 | H.R.4 (Rescissions Act) | July 17, 2025 | YES | [Correspondence](/correspondence/letters/2025-05-rescissions-act-opposition/) |
+| Epstein Discharge Petition | Sept–Nov 2025 | **DID NOT SIGN** | [Epstein/Wexner](/fact-checks/2026-01-14-epstein-files-discharge-petition/) |
+| Wexner Deposition (Oversight Cmte) | Feb 18, 2026 | **DID NOT ATTEND** | [Epstein/Wexner](/fact-checks/2026-01-14-epstein-files-discharge-petition/) |
 
 ### Voting Patterns
 
