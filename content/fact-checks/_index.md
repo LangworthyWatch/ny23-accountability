@@ -44,6 +44,16 @@ Each fact-check includes:
 | [Shutdown](/fact-checks/2026-02-02-shutdown-defund-ice/) | "I have always been opposed to shutdowns" | **FALSE** - Voted NO on Dec 2024 CR |
 | [Shutdown](/fact-checks/2026-02-02-shutdown-defund-ice/) | Democrats "refused to fund" DHS | **MISLEADING** - Accepted 2-week CR pending reforms |
 | [Shutdown](/fact-checks/2026-02-02-shutdown-defund-ice/) | Democrats want to "defund ICE" | **MOSTLY FALSE** - Seeking reforms; ICE has $75B from reconciliation |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | "I'm always against government shutdowns" | **FALSE** — Voted NO on Dec 2024 CR |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | "Obama deported more than three million" | **MISSING CONTEXT** — 3M over 8 years; 85% border removals; different operations |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | "Upwards of 20 million people came in four years" | **FALSE** — CBP data: ~10.8M encounters; ~12-13M including gotaways |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | Biden era was "before social media was as prevalent" | **FALSE** — Biden term ended 4 weeks before this call |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | Protester "was doing this professionally" (re: Renee Good) | **FALSE** — Contradicted by video evidence |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | Stephen Miller is merely "an advisor" | **MISLEADING** — Deputy Chief of Staff for Policy |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | Monthly telephone town halls; refuses in-person | **MISSING CONTEXT** — No in-person since Jan 2023; constituents report cancellations |
+| [Preemption Pattern](/fact-checks/2026-02-state-preemption-pattern/) | Three bills using identical "patchwork" framing to override state laws | **DOCUMENTED PATTERN** — Energy, supplements, AI; all benefit regulated industries |
+| [Preemption Pattern](/fact-checks/2026-02-state-preemption-pattern/) | Dietary supplements bill protects consumers | **MISLEADING** — Preempts NY law banning supplement sales to minors; 4 trade groups endorsed |
+| [Constituent Access](/fact-checks/2025-04-constituent-access-town-halls/) | Local media access to press events | **DOCUMENTED PATTERN** — WRFA (Chautauqua County) reports repeated exclusion from press events |
 
 ### January 2026
 

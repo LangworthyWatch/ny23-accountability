@@ -136,6 +136,25 @@ In a remarkable editorial addressed directly to the Congressman, the editor of t
 
 ---
 
+## Local Media Exclusion (February 2026)
+
+**Source:** WRFA-LP 107.9 FM, Jamestown (February 20, 2026)
+
+WRFA, Chautauqua County's community radio station, publicly reported that Langworthy's office has **repeatedly failed to notify them** about press conferences held in Chautauqua County.
+
+The station reported:
+- Langworthy has held **"several press events in Chautauqua County in the last year"** without notifying WRFA
+- The most recent was **February 18, 2026 in Ellicott**
+- WRFA **contacted both Washington and Jamestown offices** in writing and in person
+- **"No staff member has ever provided an explanation"** why press event invitations ceased
+- **No solution was offered**
+
+WRFA noted that previous NY-23 representatives — **Tom Reed and Joe Sempolinski** — regularly held group media calls with district reporters. Langworthy was urged to continue that practice and declined.
+
+This is a local, nonpartisan community radio station licensed by the Reg Lenna Center for the Arts in Jamestown — not a national media outlet or partisan organization.
+
+---
+
 ## Telephone Town Halls: The Reality
 
 Langworthy claims "monthly" telephone town halls reaching "100,000 phone numbers."
@@ -220,6 +239,7 @@ Whether telephone-only engagement constitutes adequate representation is a judgm
 
 ## Sources
 
+* WRFA-LP 107.9 FM: "Rep. Nick Langworthy Repeatedly Fails To Inform WRFA About News Conferences Being Held In Chautauqua County" (February 20, 2026)
 * **East Aurora Advertiser:** Editorial "Dear Congressman Langworthy" by Editor Shelly Ferullo (February 2026)
 * WSKG: "Frustrated constituents hold 'empty seat' town hall, wanting to hear from Rep. Langworthy" (April 18, 2025)
 * WSKG: "'Governing means putting your country first'" (November 14, 2025)
@@ -232,6 +252,8 @@ Whether telephone-only engagement constitutes adequate representation is a judgm
 
 ---
 
+**See also:** [February 2026 Telephone Town Hall](/fact-checks/2026-02-telephone-town-hall/) — Langworthy states "I am not committing to changing the format" when asked for an in-person town hall; two callers disconnected mid-exchange.
+
 **Note:** This entry documents publicly available information from news reports and official statements. Readers may draw their own conclusions.
 
-*Last updated: February 7, 2026*
+*Last updated: February 25, 2026*
