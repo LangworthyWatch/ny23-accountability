@@ -16,7 +16,7 @@ counties: ["district-wide"]
 
 When a constituent asks about government transparency, they deserve a complete answer. Langworthy says he "never opposed" releasing Epstein files and "proudly supported" the bill. But his letter doesn't mention that he refused to sign the discharge petition that actually forced the vote — a petition the White House called "a hostile act." Only 4 Republicans signed: Massie, Greene, Boebert, and Mace. Langworthy was not among them. The bill passed 427-1 only after Trump reversed position.
 
-Then, on February 18, 2026, the House Oversight Committee — on which Langworthy sits — deposed Les Wexner about his ties to Epstein. Zero Republican members attended. Langworthy was in Dunkirk, NY that day for a Conservation Club event.
+Then, on February 18, 2026, the House Oversight Committee — on which Langworthy sits — deposed Les Wexner about his ties to Epstein. Zero Republican members attended. Langworthy spent that day on a district-wide funding announcement tour, beginning with a Facebook Live event at Buffalo Niagara Airport at 10:06 AM.
 
 ---
 
@@ -65,7 +65,7 @@ Then, on February 18, 2026, the House Oversight Committee — on which Langworth
 | Nov 19, 2025 | Senate passes, Trump signs into law |
 | Jan 14, 2026 | Langworthy sends constituent letter claiming he "proudly supported" transparency |
 | Feb 18, 2026 | House Oversight Committee deposes Les Wexner at his Ohio mansion — **zero Republican members attend** |
-| Feb 18, 2026 | Langworthy is in Dunkirk, NY at the Conservation Club (Facebook post, same day) |
+| Feb 18, 2026 | Langworthy conducts a full-day district tour of funding announcements — including Buffalo Niagara Airport at 10:06 AM (Facebook Live) and the Dunkirk Conservation Club |
 
 ---
 
@@ -92,7 +92,7 @@ On February 18, 2026, the House Oversight Committee conducted a transcribed depo
 | Republican members present | **Zero** |
 | Democratic members present | Multiple, including Ranking Member Connolly |
 | Langworthy's committee status | **Sitting member** of the House Oversight Committee |
-| Langworthy's location on Feb 18 | Dunkirk, NY — Conservation Club event (per Facebook post) |
+| Langworthy's location on Feb 18 | District-wide funding tour — Buffalo Airport (10:06 AM), Dunkirk Conservation Club, and other stops (per Facebook posts) |
 
 **What Wexner testified:** According to news reports, Wexner denied knowledge of Epstein's crimes, said he was "horrified" when he learned of them, and described Epstein as having "deceived" him. He acknowledged giving Epstein broad power of attorney over his finances.
 
@@ -131,7 +131,7 @@ When the committee conducted one of its highest-profile depositions — question
 
 6. Zero Republican Oversight members attended the Wexner deposition. Was the absence coordinated, or did each member independently choose not to attend?
 
-7. Langworthy was in Dunkirk, NY on the day of the deposition. Was the Conservation Club event scheduled before or after the deposition was announced?
+7. Langworthy conducted a full-day district funding tour on the day of the deposition. Was this tour scheduled before or after the deposition date was announced?
 
 ---
 
@@ -155,6 +155,7 @@ When the committee conducted one of its highest-profile depositions — question
 - The Hill: "No Republican members attend Wexner deposition" (February 2026)
 - Ohio Capital Journal: "Wexner deposed at New Albany mansion" (February 18, 2026)
 - Daily Caller: Coverage of Wexner deposition and Republican absence (February 2026)
+- Langworthy Facebook Live: Buffalo Niagara Airport funding announcement, 10:06 AM (February 18, 2026)
 - Langworthy Facebook post: Dunkirk Conservation Club event (February 18, 2026)
 
 ---
@@ -175,7 +176,7 @@ There are three parts to this story:
 
 **Part 2: The Justification.** When asked why he didn't sign the petition, Langworthy said he was "working with my House Oversight Committee colleagues to conduct the most comprehensive investigation to date." In other words: he didn't need to sign the petition because the committee was handling it.
 
-**Part 3: The Deposition.** On February 18, 2026, that same committee deposed **Les Wexner** — the billionaire who bankrolled Epstein's operation for decades. Zero Republican members attended. Langworthy, a sitting Oversight Committee member, was in Dunkirk at a Conservation Club event.
+**Part 3: The Deposition.** On February 18, 2026, that same committee deposed **Les Wexner** — the billionaire who bankrolled Epstein's operation for decades. Zero Republican members attended. Langworthy, a sitting Oversight Committee member, spent the day on a district-wide funding announcement tour — posting a Facebook Live from the Buffalo airport at 10:06 AM.
 
 The pattern: Langworthy voted YES when it was safe, cited his committee work to avoid the petition, and then did not show up when the committee questioned Epstein's most prominent financial patron.
 
