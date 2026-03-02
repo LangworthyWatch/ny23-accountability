@@ -106,11 +106,15 @@ Langworthy's characterization of unified regional support does not match reporte
 
 **Rating: TRUE procedurally / MISLEADING in framing**
 
-The White House did brief the Gang of 8 before the strikes began. This is a standard legal obligation, not an endorsement.
+The White House did brief the Gang of 8 (the four congressional party leaders plus the chairs and ranking members of the intelligence committees) before the strikes began. This is a standard legal obligation under the War Powers Resolution and the National Security Act — not an endorsement, and not a substitute for congressional authorization.
 
-Several briefed Democrats — including Senate Minority Leader Schumer and House Minority Leader Jeffries — subsequently called the strikes an "illegal, regime-change war" launched without congressional authorization.
+**This is a critical distinction.** Congress did not vote to authorize military action against Iran. No new Authorization for Use of Military Force was passed. No declaration of war was made. The existing 2001 and 2002 AUMFs do not cover Iran. A pre-strike briefing of eight members of Congress is a notification requirement — it does not constitute the approval of 535 members that the Constitution contemplates for acts of war.
 
-**Bottom line:** The briefing occurred. Langworthy's framing implies bipartisan legitimacy that was not present. A briefing is notification, not authorization or endorsement.
+Several briefed Democrats — including Senate Minority Leader Schumer and House Minority Leader Jeffries — subsequently called the strikes an "illegal, regime-change war" launched without congressional authorization. Far from "conveying the grave importance" of the mission, half the briefed leaders publicly condemned it.
+
+Langworthy's phrasing — that the Gang of 8 "conveyed the grave importance of stopping Iran's military capabilities" — implies the briefing produced bipartisan consensus. It did not. The briefing produced bipartisan awareness, followed by sharp partisan division over the operation's legality.
+
+**Bottom line:** The briefing occurred. But Langworthy conflates notification with authorization — a distinction that matters because Congress has not approved this war. A briefing is not a vote.
 
 ---
 
