@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DHS Shutdown Fact Check</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: #0a0e1a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  .card {
+    width: 1080px;
+    background: linear-gradient(165deg, #0f1628 0%, #141d35 40%, #0f1628 100%);
+    border-radius: 24px;
+    overflow: hidden;
+    border: 1px solid rgba(255,255,255,0.06);
+    box-shadow: 0 40px 80px rgba(0,0,0,0.5);
+  }
+
+  .header {
+    padding: 32px 48px 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+  }
+
+  .site-label {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #5b8def;
+    margin-bottom: 12px;
+  }
+
+  .title {
+    font-size: 26px;
+    font-weight: 800;
+    color: #ffffff;
+    line-height: 1.2;
+    margin-bottom: 6px;
+  }
+
+  .subtitle {
+    font-size: 15px;
+    color: #8899bb;
+    font-weight: 400;
+  }
+
+  .context-bar {
+    padding: 16px 48px;
+    background: rgba(251,191,36,0.06);
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    font-size: 13px;
+    color: #d4a94a;
+    font-weight: 600;
+    line-height: 1.5;
+  }
+
+  .context-bar strong {
+    color: #fbbf24;
+  }
+
+  .scoreband {
+    display: flex;
+    padding: 14px 48px;
+    gap: 12px;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    background: rgba(0,0,0,0.15);
+  }
+
+  .score-pill {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .score-pill .count {
+    font-size: 22px;
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  .score-pill.misleading-pill { background: rgba(251,191,36,0.15); color: #fbbf24; }
+  .score-pill.partial-pill { background: rgba(251,191,36,0.08); color: #fcd34d; }
+  .score-pill.mostlytrue-pill { background: rgba(74,222,128,0.12); color: #86efac; }
+
+  .claims {
+    padding: 8px 48px 16px;
+  }
+
+  .claim-row {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+    gap: 14px;
+  }
+
+  .claim-row:last-child {
+    border-bottom: none;
+  }
+
+  .claim-num {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 800;
+    flex-shrink: 0;
+    color: #fff;
+  }
+
+  .claim-text {
+    flex: 1;
+    font-size: 14px;
+    color: #c8d6e5;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+
+  .verdict-badge {
+    padding: 5px 14px;
+    border-radius: 6px;
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    flex-shrink: 0;
+    min-width: 130px;
+    text-align: center;
+  }
+
+  .verdict-misleading {
+    background: rgba(251,191,36,0.12);
+    color: #fbbf24;
+    border: 1px solid rgba(251,191,36,0.25);
+  }
+  .verdict-partial {
+    background: rgba(251,191,36,0.08);
+    color: #fcd34d;
+    border: 1px solid rgba(251,191,36,0.15);
+  }
+  .verdict-mostlytrue {
+    background: rgba(74,222,128,0.1);
+    color: #86efac;
+    border: 1px solid rgba(74,222,128,0.2);
+  }
+
+  .num-misleading { background: #d97706; }
+  .num-partial { background: #ca8a04; }
+  .num-mostlytrue { background: #22c55e; }
+
+  .data-point {
+    font-size: 11px;
+    color: #667799;
+    font-weight: 400;
+    max-width: 280px;
+    text-align: right;
+    flex-shrink: 0;
+    line-height: 1.25;
+  }
+
+  .key-stat {
+    padding: 0 48px 20px;
+  }
+
+  .stat-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+  }
+
+  .stat-box {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 12px;
+    padding: 16px 20px;
+    text-align: center;
+  }
+
+  .stat-number {
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+
+  .stat-number.blue { color: #5b8def; }
+  .stat-number.amber { color: #fbbf24; }
+  .stat-number.red { color: #f87171; }
+
+  .stat-label {
+    font-size: 11px;
+    color: #667799;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    line-height: 1.3;
+  }
+
+  .footer {
+    padding: 16px 48px;
+    border-top: 1px solid rgba(255,255,255,0.06);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(0,0,0,0.2);
+  }
+
+  .footer-left {
+    font-size: 13px;
+    color: #5b7a9d;
+    font-weight: 600;
+  }
+
+  .footer-right {
+    font-size: 12px;
+    color: #3d5577;
+  }
+</style>
+</head>
+<body>
+
+<div class="card">
+  <div class="header">
+    <div class="site-label">LangworthyWatch.org</div>
+    <div class="title">DHS "Shuttered"? Fact Check</div>
+    <div class="subtitle">Langworthy's DHS shutdown claims — checked against operational data and the legislative record</div>
+  </div>
+
+  <div class="context-bar">
+    <strong>Context Langworthy omits:</strong> Democrats blocked DHS funding after ICE/CBP agents killed two U.S. citizens (Ren&eacute;e Good, Jan 7 &middot; Alex Pretti, Jan 24). Seven Republican senators also voted against funding packages.
+  </div>
+
+  <div class="scoreband">
+    <div class="score-pill misleading-pill"><span class="count">3</span> Misleading</div>
+    <div class="score-pill partial-pill"><span class="count">1</span> Partially True</div>
+    <div class="score-pill mostlytrue-pill"><span class="count">1</span> Mostly True*</div>
+  </div>
+
+  <div class="claims">
+
+    <div class="claim-row">
+      <div class="claim-num num-misleading">1</div>
+      <div class="claim-text">"This vital agency shuttered"</div>
+      <div class="data-point">~90% of 260K employees still working. ICE/CBP fully funded via OBBBA.</div>
+      <div class="verdict-badge verdict-misleading">Misleading</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-mostlytrue">2</div>
+      <div class="claim-text">"Democrats are blocking DHS from reopening"</div>
+      <div class="data-point">Procedurally true. *Omits why: 2 citizens killed, reform demands.</div>
+      <div class="verdict-badge verdict-mostlytrue">Mostly True*</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-misleading">3</div>
+      <div class="claim-text">Democrats bear sole responsibility</div>
+      <div class="data-point">8 GOP senators voted no. WH slow to negotiate. Both parties share blame.</div>
+      <div class="verdict-badge verdict-misleading">Misleading</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-misleading">4</div>
+      <div class="claim-text">"The agency charged with protecting our nation from terrorism and cyber attacks"</div>
+      <div class="data-point">FBI leads terror cases. CISA gutted to 38% by admin's own DOGE cuts.</div>
+      <div class="verdict-badge verdict-misleading">Misleading</div>
+    </div>
+
+    <div class="claim-row">
+      <div class="claim-num num-partial">5</div>
+      <div class="claim-text">"Putting our country at grave risk" during war with Iran</div>
+      <div class="data-point">Real risks for CISA/TSA. But ICE, CBP, Secret Service unaffected.</div>
+      <div class="verdict-badge verdict-partial">Partially True</div>
+    </div>
+
+  </div>
+
+  <div class="key-stat">
+    <div class="stat-grid">
+      <div class="stat-box">
+        <div class="stat-number blue">~90%</div>
+        <div class="stat-label">DHS employees<br>still working</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-number amber">38%</div>
+        <div class="stat-label">CISA staffing<br>(pre-shutdown, due to DOGE)</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-number red">2</div>
+        <div class="stat-label">U.S. citizens killed<br>by federal agents</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer">
+    <div class="footer-left">Sources: CRFB, NPR, PolitiFact, Federal News Network, Senate vote records</div>
+    <div class="footer-right">February 28, 2026 &nbsp;&middot;&nbsp; langworthywatch.org</div>
+  </div>
+</div>
+
+</body>
+</html>

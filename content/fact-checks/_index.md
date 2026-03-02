@@ -21,6 +21,18 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [Epic Fury](/fact-checks/2026-02-28-epic-fury-statement/) | "Trump gave them numerous chances to deescalate" | **MISLEADING** — Strikes came during active nuclear negotiations |
+| [Epic Fury](/fact-checks/2026-02-28-epic-fury-statement/) | "Middle East allies are supportive" | **MISLEADING** — Reactions were mixed; several allies expressed concern |
+| [Epic Fury](/fact-checks/2026-02-28-epic-fury-statement/) | "Gang of 8 briefed and conveyed the grave importance" | **MISLEADING** — Briefing occurred; Schumer/Jeffries called it "illegal war" |
+| [Epic Fury](/fact-checks/2026-02-28-epic-fury-statement/) | "Iran is the world's number one sponsor of terror" | **MOSTLY TRUE** — Matches U.S. policy; superlative is rhetorical |
+| [Epic Fury](/fact-checks/2026-02-28-epic-fury-statement/) | "Our strikes are isolated to military targets" | **MOSTLY TRUE** — Per CENTCOM reporting |
+| [Epic Fury](/fact-checks/2026-02-28-epic-fury-statement/) | "Iran has begun indiscriminate bombings of civilian locations" | **TRUE** — Documented by CENTCOM and independent media |
+| [Epic Fury](/fact-checks/2026-02-28-epic-fury-statement/) | No U.S. casualties (implied Feb 28) | **OVERTAKEN** — 4 KIA, 5 seriously wounded confirmed by March 2 |
+| [Epic Fury](/fact-checks/2026-02-28-epic-fury-statement/) | Congressional authorization (omitted from statement) | **NOT ADDRESSED** — No AUMF for Iran; no declaration of war |
+| [DHS Shutdown](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) | DHS is "shuttered" | **MISLEADING** — ~90% of employees working; enforcement agencies fully funded via OBBBA |
+| [DHS Shutdown](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) | "Democrats are blocking DHS from reopening" | **MOSTLY TRUE** procedurally; **MISLEADING** in context — omits why |
+| [DHS Shutdown](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) | DHS is "the agency" for counterterrorism and cyber | **MISLEADING** — One of several; FBI leads terror cases; CISA gutted by DOGE |
+| [DHS Shutdown](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) | "Putting our country at grave risk" during Iran war | **PARTIALLY TRUE** — Real risks for CISA/TSA, but critical ops continued |
 | [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "$18 trillion in global investments" | **FALSE** — White House's own list: $9.6T; no source for $18T |
 | [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "Prices are down" | **FALSE** — CPI up 2.4% YoY; food up 2.9% |
 | [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "Zero illegal crossings last month" | **FALSE** — DHS said "zero releases"; CBP: 34,626 apprehensions |
