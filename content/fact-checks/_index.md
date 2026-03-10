@@ -17,6 +17,21 @@ Each fact-check includes:
 
 ## Summary Table: Claim Verification Status
 
+### March 2026
+
+| Topic | Claim | Verdict |
+|-------|-------|---------|
+| [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | Austin shooting "investigated as terrorism" | **MOSTLY TRUE** — Drops FBI's "potential" qualifier |
+| [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | "Bomb scares on a plane and at an airport" | **MISLEADING** — None connected to terrorism; implies false escalation pattern |
+| [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | "3 IEDs found near Gracie Mansion linked to ISIS" | **PARTIALLY ACCURATE** — Only 2 confirmed IEDs; no connection to Iran |
+| [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | Democrats keeping DHS "shuttered" at risk to Americans | **ONE-SIDED** — Omits reason for impasse; overstates enforcement disruption |
+| [SW Flight 2094](/fact-checks/2026-03-08-southwest-flight-2094/) | Flight diversion used as evidence of terrorism threats | **MISLEADING** — FBI confirmed no credible threat; no charges filed |
+| [Defense Suppliers](/fact-checks/2026-03-08-defense-suppliers-visit/) | "Astonics in Elma" — defense supplier in NY-23 | **MOSTLY TRUE** — Wrong name (Astronics) and wrong city (East Aurora) |
+| [Defense Suppliers](/fact-checks/2026-03-08-defense-suppliers-visit/) | "Over 1,000 Western New Yorkers" employed | **MOSTLY TRUE** — Substantially understated; likely 3,000–4,000+ combined |
+| [Mullin DHS Appointment](/fact-checks/2026-03-07-mullin-dhs-appointment/) | Mullin appointment means Democrats should stop blocking DHS | **MISSING CONTEXT** — Omits reason for impasse; some Dems signaled Mullin could enable negotiations |
+| [Great Lakes Award](/fact-checks/2026-03-10-great-lakes-award/) | Received "Champion of the Great Lakes Award" | **MISSING CONTEXT** — Industry shipping award framed as environmental stewardship; 6% LCV score; no position on ballast water or GLRI |
+| [Sexual Misconduct Vote](/fact-checks/2026-03-05-sexual-misconduct-vote/) | "Proud to be one of 65 members who stands for transparency" | **MISSING CONTEXT** — Vote confirmed; but resolution had legitimate survivor-protection concerns; selective given Epstein record |
+
 ### February 2026
 
 | Topic | Claim | Verdict |
@@ -100,7 +115,7 @@ Each fact-check includes:
 
 ## Documented Patterns
 
-Based on analysis of 35+ fact-checks, these patterns emerge:
+Based on analysis of 40+ fact-checks, these patterns emerge:
 
 ### Pattern 1: Create the Problem, Blame Someone Else
 - Votes for subsidy expiration (May 2025) → votes against restoring them (Jan 2026) → demands insurers explain premium increases (Jan 2026)
@@ -122,6 +137,12 @@ Every constituent concern about Trump administration actions is met with "but Bi
 - Hernandez pardon → Biden autopen "scandal"
 - AP press restrictions → Biden social media pressure
 - RFK Jr. opposition → Biden COVID failures
+
+### Pattern 6: Chain-of-Incidents Blame Narrative
+Unrelated security events — real and false — are grouped together and collectively blamed on a single political target:
+- Southwest Flight 2094 false alarm → DHS funding argument (March 8)
+- Austin shooting (potential terrorism) + multiple false-alarm bomb scares + Gracie Mansion IEDs → Democrats "shuttered" DHS (March 9)
+- Operation Epic Fury → Democrats blocking DHS (February 28)
 
 ### Pattern 5: Form Letter Non-Responses
 - Constituents opposing a policy receive praise for that policy
