@@ -40,6 +40,8 @@ Langworthy's post states the shooting is "being investigated as terrorism" — d
 
 **Bottom line:** The shooting is real, the FBI investigation is real. The missing qualifier "potential" overstates the certainty of the terrorism designation.
 
+**The DHS connection is also unexplained.** Langworthy's post places the Austin shooting at the top of a list of incidents he uses to argue that Democrats are putting Americans at risk by keeping DHS without funding. But the FBI — which leads domestic terrorism investigations through the Joint Terrorism Task Force — operates under the **Department of Justice, not DHS**. The DHS funding lapse has no direct bearing on the FBI's investigation. The DHS component most involved in terrorism investigations is HSI (Homeland Security Investigations), which is under ICE — an agency that continued operating with funding from the 2025 reconciliation bill. There is no reporting connecting the Austin investigation to the DHS funding lapse, and structurally, the agencies affected by that lapse (TSA, Coast Guard, FEMA, CISA) are not responsible for domestic terrorism investigations. The implied causal link — DHS shutdown → Austin shooting investigation suffers — is not established.
+
 ---
 
 ## Claim 2: "Bomb scares on a plane and at an airport"
@@ -112,7 +114,7 @@ These quotes are legitimate presentations of official testimony. The graphic's h
 
 | Claim | Rating | Key Issue |
 |-------|--------|-----------|
-| Austin shooting "investigated as terrorism" | **MOSTLY TRUE** | Drops FBI's "potential" qualifier used in every public statement |
+| Austin shooting "investigated as terrorism" | **MOSTLY TRUE** | Drops FBI's "potential" qualifier; implied link to DHS shutdown unsupported (FBI/DOJ leads, not DHS) |
 | Bomb scares on a plane and at an airport | **TRUE but MISLEADING** | None connected to terrorism; implies false pattern of escalation |
 | "3 IEDs" at Gracie Mansion linked to ISIS | **PARTIALLY ACCURATE** | Only 2 confirmed IEDs; no Iran connection (Tisch: "nothing to connect") |
 | Democrats keeping DHS "shuttered" | **ONE-SIDED** | Omits reason for impasse; overstates operational impact on enforcement |
