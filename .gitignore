@@ -64,3 +64,5 @@ validation_*.txt
 
 # Public Hugo site (tracked in separate repo)
 langworthy-tracker/
+.claude/
+Constituent Letters/
