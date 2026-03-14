@@ -15,9 +15,9 @@ We're documenting response times, patterns, and whether constituent input arrive
 
 | Metric | Value |
 |--------|-------|
-| **Letters Documented** | 25 constituent exchanges |
+| **Letters Documented** | 26 constituent exchanges |
 | **Average Response Time** | Varies: same-day to 75+ days |
-| **Form Letters** | 25 of 25 (100%) |
+| **Form Letters** | 26 of 26 (100%) |
 | **Hidden Tracking Codes** | Present in all official responses |
 | **Pattern** | Responses often pivot away from constituent's question |
 
@@ -108,6 +108,7 @@ Constituent asked about Epstein files transparency. Received form letter defendi
 - **[AG Bondi / Epstein Handling](/correspondence/letters/2026-03-11-bondi-epstein/)** — Near-identical to Epstein pace letter; adds one paragraph on Bondi; sent at exact same minute as USPS response
 - **[USPS Domestic Mail Manual](/correspondence/letters/2026-03-11-usps-mail-manual/)** — Concerns about Dec 2025 postmark change; pivoted to 2024 Buffalo center advocacy
 - **[Board of Peace](/correspondence/letters/2026-03-11-board-of-peace/)** — Concerns about Trump's Board of Peace initiative; defers entirely to Trump; contains same extraordinary foreign policy claims as Sudan letter
+- **[DOGE Access to SSA Data](/correspondence/letters/2026-03-11-doge-ssa-data/)** — Concerns about DOGE accessing Social Security records; response calls Aug 2025 whistleblower complaint "not verified"; pivots to Data Privacy Working Group membership with no specific action
 
 **March 12, 2026:**
 
