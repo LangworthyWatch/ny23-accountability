@@ -1,0 +1,51 @@
+utility,driver_category,amount_m,pct_of_utility_total,rank,clean_energy_flag
+Central Hudson Gas and Electric Corporation (electric),Infrastructure & Capital Investment,63.0,34.8,1,N
+Central Hudson Gas and Electric Corporation (electric),Storm Recovery & Resiliency,36.0,19.9,2,N
+Central Hudson Gas and Electric Corporation (electric),Operations & Maintenance,32.0,17.7,3,N
+Central Hudson Gas and Electric Corporation (electric),Return on Equity (Shareholder Profits),27.0,14.9,4,N
+Central Hudson Gas and Electric Corporation (electric),Clean Energy Programs (SBC/CEF/CLCPA),13.0,7.2,5,Y
+Central Hudson Gas and Electric Corporation (electric),Other,10.0,5.5,6,N
+Consolidated Edison Co of NY (electric),Infrastructure & Capital Investment,435.0,27.0,1,N
+Consolidated Edison Co of NY (electric),Operations & Maintenance,322.0,20.0,2,N
+Consolidated Edison Co of NY (electric),Return on Equity (Shareholder Profits),290.0,18.0,3,N
+Consolidated Edison Co of NY (electric),Depreciation & Amortization,210.0,13.0,4,N
+Consolidated Edison Co of NY (electric),Property Taxes,178.0,11.0,5,N
+Consolidated Edison Co of NY (electric),Clean Energy Programs (SBC/CEF/CLCPA),80.0,5.0,6,Y
+Consolidated Edison Co of NY (electric),Other,49.0,3.0,7,N
+Consolidated Edison Co of NY (electric),Storm Recovery & Resiliency,48.0,3.0,8,N
+Consolidated Edison Co of NY (gas),Infrastructure & Capital Investment,140.0,35.0,1,N
+Consolidated Edison Co of NY (gas),Operations & Maintenance,100.0,25.0,2,N
+Consolidated Edison Co of NY (gas),Property Taxes,60.0,15.0,3,N
+Consolidated Edison Co of NY (gas),Return on Equity (Shareholder Profits),56.0,14.0,4,N
+Consolidated Edison Co of NY (gas),Depreciation & Amortization,32.0,8.0,5,N
+Consolidated Edison Co of NY (gas),Clean Energy Programs (SBC/CEF/CLCPA),12.0,3.0,6,Y
+National Grid USA (electric),Infrastructure & Capital Investment,280.0,38.1,1,N
+National Grid USA (electric),Storm Recovery & Resiliency,140.0,19.1,2,N
+National Grid USA (electric),Operations & Maintenance,130.0,17.7,3,N
+National Grid USA (electric),Property Taxes,70.0,9.5,4,N
+National Grid USA (electric),Return on Equity (Shareholder Profits),55.0,7.5,5,N
+National Grid USA (electric),Clean Energy Programs (SBC/CEF/CLCPA),40.0,5.4,6,Y
+National Grid USA (electric),Other,19.0,2.6,7,N
+National Grid USA (gas),Infrastructure & Capital Investment,120.0,40.0,1,N
+National Grid USA (gas),Operations & Maintenance,75.0,25.0,2,N
+National Grid USA (gas),Property Taxes,40.0,13.3,3,N
+National Grid USA (gas),Return on Equity (Shareholder Profits),35.0,11.7,4,N
+National Grid USA (gas),Clean Energy Programs (SBC/CEF/CLCPA),15.0,5.0,5,Y
+National Grid USA (gas),Other,15.0,5.0,6,N
+New York State Electric and Gas Corporation (electric),Storm Recovery & Resiliency,189.7,38.6,1,N
+New York State Electric and Gas Corporation (electric),Infrastructure & Capital Investment,189.0,38.4,2,N
+New York State Electric and Gas Corporation (electric),Labor & Benefits,55.6,11.3,3,N
+New York State Electric and Gas Corporation (electric),Vegetation Management,32.4,6.6,4,N
+New York State Electric and Gas Corporation (electric),Clean Energy Programs (SBC/CEF/CLCPA),15.0,3.1,5,Y
+New York State Electric and Gas Corporation (electric),Regulatory & Administrative,10.0,2.0,6,N
+Orange and Rockland Utilities (electric),Infrastructure & Capital Investment,38.0,44.7,1,N
+Orange and Rockland Utilities (electric),Storm Recovery & Resiliency,25.5,30.0,2,N
+Orange and Rockland Utilities (electric),Operations & Maintenance,13.0,15.3,3,N
+Orange and Rockland Utilities (electric),Clean Energy Programs (SBC/CEF/CLCPA),4.3,5.1,4,Y
+Orange and Rockland Utilities (electric),Other,4.2,4.9,5,N
+Rochester Gas and Electric Corporation (electric),Infrastructure & Capital Investment,90.0,40.9,1,N
+Rochester Gas and Electric Corporation (electric),Storm Recovery & Resiliency,65.0,29.5,2,N
+Rochester Gas and Electric Corporation (electric),Labor & Benefits,35.0,15.9,3,N
+Rochester Gas and Electric Corporation (electric),Vegetation Management,18.0,8.2,4,N
+Rochester Gas and Electric Corporation (electric),Clean Energy Programs (SBC/CEF/CLCPA),8.0,3.6,5,Y
+Rochester Gas and Electric Corporation (electric),Other,4.2,1.9,6,N

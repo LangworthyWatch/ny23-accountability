@@ -21,6 +21,7 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [NY Utility Rates Data Investigation](/fact-checks/2026-03-14-nys-utility-rates-data-investigation/) | Clean energy drives NY electricity rate increases | **DOCUMENTED PATTERN** — Clean energy = 4.7% of rate increases; infrastructure, profits, and storms = 63% |
 | [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | Austin shooting "investigated as terrorism" | **MOSTLY TRUE** — Drops FBI's "potential" qualifier |
 | [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | "Bomb scares on a plane and at an airport" | **MISLEADING** — None connected to terrorism; implies false escalation pattern |
 | [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | "3 IEDs found near Gracie Mansion linked to ISIS" | **PARTIALLY ACCURATE** — Only 2 confirmed IEDs; no connection to Iran |
