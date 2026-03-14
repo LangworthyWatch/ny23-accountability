@@ -32,7 +32,7 @@ Incomes in these counties run below the state median. A larger share of househol
 
 Utilities must file detailed cost justifications with the PSC whenever they request a rate increase. This investigation analyzed 8 rate case filings totaling **$4.0 billion in combined requested increases** across Con Edison, National Grid, NYSEG, RG&E, Central Hudson, Orange & Rockland, and PSEG Long Island.
 
-<iframe src="/graphics/viz_cost_breakdown.html" width="100%" height="550" frameborder="0" scrolling="no" title="NY utility rate increase cost breakdown"></iframe>
+<iframe src="/graphics/viz_cost_breakdown.html" width="100%" height="620" frameborder="0" scrolling="no" title="NY utility rate increase cost breakdown"></iframe>
 
 **In plain language:** The chart above shows what the utilities say they need the money for. The largest drivers are:
 
@@ -78,7 +78,7 @@ The clean energy surcharge grew from approximately 0.38 cents/kWh to 0.52 cents/
 
 Rate increases are not equally felt. Electricity bills take a larger share of income in lower-income communities. Because NY-23 counties have below-average incomes, the same rate increase hits harder here than in Westchester or Manhattan.
 
-<iframe src="/graphics/viz_consumer_burden_map.html" width="100%" height="600" frameborder="0" scrolling="no" title="NY electricity burden by county"></iframe>
+<iframe src="/graphics/viz_consumer_burden_map.html" width="100%" height="750" frameborder="0" scrolling="no" title="NY electricity burden by county"></iframe>
 
 **In plain language:** This map shows electricity costs as a percentage of median household income, by county (using EIA service territory prices and Census ACS 2022 income data). Darker colors indicate higher burden.
 
@@ -141,7 +141,7 @@ Top lobbying spenders among energy entities (from public COELIG/JCOPE disclosure
 
 Annual lobbying spend by energy entities nearly **tripled** from $3.4 million (2011) to $8.4 million (2024).
 
-The PSC commissioners who approve or reject these rate requests are appointed by the Governor. The PSC Chair, Rory M. Christian, previously worked at KeySpan Energy (now National Grid) and Exelon Energy — two regulated utilities currently before the PSC on rate cases. Four of seven commissioners have backgrounds in clean energy advocacy organizations. This revolving-door structure is a matter of public record; the commissioner biographies are posted on the PSC website.
+The PSC commissioners who approve or reject these rate requests are appointed by the Governor and confirmed by the State Senate, with no more than three commissioners permitted to be members of the same political party. The PSC Chair, Rory M. Christian, previously worked at KeySpan Energy (now National Grid) and Exelon Energy — two regulated utilities currently before the PSC on rate cases — as well as the Environmental Defense Fund. Three of the seven current commissioners (Bright, Valova, and Sheehan) come from clean energy nonprofit or advocacy backgrounds. This revolving-door structure is a matter of public record; the commissioner biographies are posted on the PSC website.
 
 ---
 
@@ -149,7 +149,7 @@ The PSC commissioners who approve or reject these rate requests are appointed by
 
 The "clean energy surcharge" that legislators and advocates frequently invoke is primarily the **System Benefits Charge (SBC)**, which funds energy efficiency programs, low-income assistance, and renewable development. It is not where utility profits come from.
 
-<iframe src="/graphics/viz_clean_energy_share.html" width="100%" height="500" frameborder="0" scrolling="no" title="Clean energy share of NY rate increases"></iframe>
+<iframe src="/graphics/viz_clean_energy_share.html" width="100%" height="750" frameborder="0" scrolling="no" title="Clean energy share of NY rate increases"></iframe>
 
 **In plain language:** The SBC adds approximately $3.36/month to an average bill. The entire clean energy component across all 8 rate cases ($187M) is smaller than the profit component ($408M in guaranteed Return on Equity) and dwarfed by infrastructure costs ($1.355B). If the SBC were eliminated entirely, a typical residential bill would drop by about $3.36/month — while the infrastructure-driven increases already in the pipeline would more than replace it.
 
@@ -206,7 +206,7 @@ These amounts are relatively small within Langworthy's overall fundraising. The 
 1. NYSEG is requesting an 18.4% rate increase while serving NY-23's lowest-income counties. What is Rep. Langworthy's position on the NYSEG rate case currently before the PSC?
 2. Infrastructure and operations — not clean energy — are the dominant cost drivers. What is Langworthy's position on requiring utilities to justify capital investment programs before adding them to rate base?
 3. If eliminating the System Benefits Charge entirely would save ~$3.36/month on an average bill, while NYSEG's pending infrastructure request would add far more, which is the more effective cost-control lever?
-4. New York's PSC commissioners are all appointed by the Governor. Should the appointment process include more transparency, independent review, or legislative confirmation?
+4. New York's PSC commissioners are appointed by the Governor and confirmed by the State Senate. Should the appointment process include additional disclosure requirements for commissioners with prior industry or advocacy backgrounds?
 5. Consumer complaints to the PSC grew 84% over five years at the same utilities now requesting more rate increases. Should complaint volume be a factor in rate case proceedings?
 
 ---
