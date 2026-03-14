@@ -21,6 +21,9 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [Minnesota Fraud Hearing](/fact-checks/2026-03-08-minnesota-fraud-walz-hearing/) | "$9 billion in stolen tax dollars" | **MISLEADING** — DOJ-charged fraud ~$250M; $9B is a contested, disputed U.S. Attorney projection |
+| [Minnesota Fraud Hearing](/fact-checks/2026-03-08-minnesota-fraud-walz-hearing/) | Whistleblowers "silenced and punished" | **SUBSTANTIALLY SUPPORTED** — Documented retaliation; direct link to Walz/Ellison personally contested |
+| [Minnesota Fraud Hearing](/fact-checks/2026-03-08-minnesota-fraud-walz-hearing/) | Fraud tolerated for "a bloc vote in the Somali community" | **NOT SUPPORTED** — Political accusation; no law enforcement body has charged or concluded this motive |
 | [NY Utility Rates Data Investigation](/fact-checks/2026-03-14-nys-utility-rates-data-investigation/) | Clean energy drives NY electricity rate increases | **DOCUMENTED PATTERN** — Clean energy = 4.7% of rate increases; infrastructure, profits, and storms = 63% |
 | [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | Austin shooting "investigated as terrorism" | **MOSTLY TRUE** — Drops FBI's "potential" qualifier |
 | [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | "Bomb scares on a plane and at an airport" | **MISLEADING** — None connected to terrorism; implies false escalation pattern |
