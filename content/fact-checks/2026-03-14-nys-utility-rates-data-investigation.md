@@ -184,6 +184,23 @@ What this data shows:
 
 ---
 
+## Section 8: Langworthy's Energy Sector Donors
+
+Rep. Langworthy has repeatedly blamed clean energy mandates for high utility costs while not publicly engaging with the NYSEG rate case that would raise bills for his own constituents. FEC campaign finance records show energy sector connections to his congressional campaign:
+
+| Donor (by employer) | Type | Donated to Langworthy | Context |
+|---------------------|------|----------------------|---------|
+| Avangrid Inc. | Regulated utility | $1,500 (1 donation) | Parent company of NYSEG, currently requesting 18.4% rate increase in NY-23 |
+| United Refining Co. | Petroleum refinery | $21,900 (5 donations) | Warren, PA petroleum refinery with NY operations |
+
+**In plain language:** Avangrid — the parent company of NYSEG, which is currently before the PSC requesting the steepest rate increase of any major NY utility — has donated to Langworthy's campaign. Langworthy has blamed clean energy policies for high energy bills. The data above shows clean energy accounts for 4.7% of NYSEG's rate increase request. Infrastructure and capital investment account for 33.7%.
+
+These amounts are relatively small within Langworthy's overall fundraising. The pattern is one of access, not scale. FEC individual contribution records are public at [fec.gov](https://www.fec.gov/data/receipts/?committee_id=C00817932).
+
+*For broader documentation of Langworthy's campaign finance donors, see the [LangworthyWatch campaign finance section](/campaign-finance/).*
+
+---
+
 ## Questions This Raises
 
 1. NYSEG is requesting an 18.4% rate increase while serving NY-23's lowest-income counties. What is Rep. Langworthy's position on the NYSEG rate case currently before the PSC?
@@ -205,6 +222,7 @@ All data in this investigation is from publicly available government sources. Ra
 * [SEC DEF 14A Proxy Statements](https://www.sec.gov/cgi-bin/browse-edgar) — executive compensation (Con Edison, Avangrid/Iberdrola, National Grid, Fortis Inc)
 * [COELIG/JCOPE Lobbying Disclosures](https://www.jcope.ny.gov/) — lobbyist registration and activity reports
 * [Census ACS 2022 5-Year Estimates](https://data.census.gov/) — county median income and housing units
+* [FEC Individual Contributions — Langworthy for Congress (C00817932)](https://www.fec.gov/data/receipts/?committee_id=C00817932) — campaign donation records
 
 **Downloadable data:**
 * [Rate case cost decomposition (per case)](/data/power-investigation/cost_decomposition.csv)
