@@ -37,6 +37,7 @@ Each fact-check includes:
 | [Mullin DHS Appointment](/fact-checks/2026-03-07-mullin-dhs-appointment/) | Mullin appointment means Democrats should stop blocking DHS | **MISSING CONTEXT** — Omits reason for impasse; some Dems signaled Mullin could enable negotiations |
 | [Great Lakes Award](/fact-checks/2026-03-10-great-lakes-award/) | Received "Champion of the Great Lakes Award" | **MISSING CONTEXT** — Industry shipping award framed as environmental stewardship; 6% LCV score; no position on ballast water or GLRI |
 | [Sexual Misconduct Vote](/fact-checks/2026-03-05-sexual-misconduct-vote/) | "Proud to be one of 65 members who stands for transparency" | **MISSING CONTEXT** — Vote confirmed; but resolution had legitimate survivor-protection concerns; selective given Epstein record |
+| [Seneca Nation Law Enforcement Act](/fact-checks/2026-03-14-seneca-nation-law-enforcement-act/) | Bill framed as drug trafficking / public safety measure | **MISSING CONTEXT** — $10,100 from Seneca Nation not disclosed; civil jurisdiction removal (affecting gaming operations) not addressed |
 
 ### February 2026
 
