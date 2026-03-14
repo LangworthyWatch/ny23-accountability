@@ -20,7 +20,7 @@ class CongressGovScraper:
         self.storage_dir = Path(storage_dir)
         self.storage_dir.mkdir(parents=True, exist_ok=True)
 
-    def get_recent_votes(self, congress=118, limit=100):
+    def get_recent_votes(self, congress=119, limit=100):
         """Get voting record from congress.gov"""
 
         print(f"Fetching votes for Congress {congress}...")
@@ -187,7 +187,7 @@ def main():
     print("=" * 80)
     print()
 
-    votes = scraper.get_recent_votes(congress=118)
+    votes = scraper.get_recent_votes(congress=119)
 
     if votes:
         saved = scraper.save_votes(votes)

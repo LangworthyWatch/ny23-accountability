@@ -28,12 +28,12 @@ class ProPublicaVoteScraper:
             'X-API-Key': self.api_key
         }
 
-    def get_member_votes(self, congress=118, chamber='house'):
+    def get_member_votes(self, congress=119, chamber='house'):
         """
         Get voting record for Langworthy
 
         Args:
-            congress: Congress number (118 = current, 2023-2024)
+            congress: Congress number (119 = current, 2025-2026)
             chamber: 'house' or 'senate'
         """
 
@@ -187,7 +187,7 @@ def main():
     print("=" * 80)
     print()
 
-    votes = scraper.get_member_votes(congress=118)
+    votes = scraper.get_member_votes(congress=119)
 
     if votes:
         saved = scraper.save_votes(votes)
