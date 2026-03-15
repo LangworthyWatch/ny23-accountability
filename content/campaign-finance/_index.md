@@ -170,16 +170,124 @@ The following organizations each contributed exactly $10,000 via PAC:
 
 ---
 
-## Data Source
+## Data Source (Federal)
 
-All data from **OpenSecrets.org** (Center for Responsive Politics):
+All federal campaign data from **OpenSecrets.org** (Center for Responsive Politics):
 * [Campaign Summary](https://www.opensecrets.org/members-of-congress/nick-langworthy/summary?cid=N00051431&cycle=2024)
 * [Geographic Breakdown](https://www.opensecrets.org/members-of-congress/nick-langworthy/geography?cid=N00051431&cycle=2024)
 * Data current as of: February 6, 2025
 * Cycle: 2023-2024
 
-**Methodology Note:** Numbers on this page are calculated from contributions of more than $200 from individuals, as reported to the Federal Election Commission. PAC dollars are included. All figures are based on Federal Election Commission data available electronically as of February 6, 2025.
+**Methodology Note:** Numbers above are calculated from contributions of more than $200 from individuals, as reported to the Federal Election Commission. PAC dollars are included. All figures are based on Federal Election Commission data available electronically as of February 6, 2025.
 
 ---
 
-*Last updated: December 22, 2025*
+## IDA Tax Exemptions and the Langworthy Apparatus
+
+### What Are IDAs?
+
+Industrial Development Agencies (IDAs) are local government bodies that grant tax exemptions to companies — property tax, sales tax, and mortgage recording tax breaks intended to attract jobs. When a company receives an IDA tax break, the lost revenue is shifted to other property taxpayers in the community. IDA board members are appointed by county legislatures.
+
+In NY-23, every county legislature is Republican-controlled. As Erie County GOP Chairman (2010-2019) and NYS Republican Chairman (2019-2022), Langworthy exercised direct or indirect influence over the party apparatus that controls these appointments.
+
+### The Pipeline
+
+A cross-reference of 12,490,839 New York State Board of Elections campaign contribution records against 34,348 IDA projects reported to the Authorities Budget Office reveals a documented financial feedback loop:
+
+1. **County legislatures (GOP-controlled) appoint IDA board members**
+2. **IDA boards grant tax exemptions to companies**
+3. **Those companies donate to Langworthy-controlled party committees**
+4. **The apparatus funds GOP control of the county legislatures**
+
+### By the Numbers
+
+| Metric | Value |
+|--------|-------|
+| IDA beneficiaries who donated to Langworthy apparatus | 74 |
+| Total donated to Langworthy-controlled committees | $203,812 |
+| Total IDA tax exemptions received by those donors | $66.2 million |
+| Return ratio | **$325 in tax breaks for every $1 donated** |
+| Langworthy-controlled committees identified | 18 |
+| Property tax burden shifted to households (8 counties) | $776 million |
+| Per-household cumulative tax shift (592,500 households) | $1,310 |
+
+### Langworthy-Controlled Committees
+
+The 18 committees identified as part of the Langworthy apparatus include:
+
+* Friends of Nick Langworthy
+* Erie County Republican Committee (Finance and Housekeeping)
+* New York Republican State Committee
+* County Republican committees for all 8 NY-23 counties (Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Schuyler, Steuben, Tioga)
+* State Conservative Campaign Committee
+* Real Conservatives
+
+All committee records are publicly available through the [NYS Board of Elections](https://data.ny.gov/Government-Finance/Board-of-Elections-Campaign-Finance-Disclosure/4j2b-6a2j).
+
+### Donations by Phase of Power
+
+| Phase | Years | Donations | Amount |
+|-------|-------|-----------|--------|
+| Pre-office | before 2010 | 120 | $142,000 |
+| **Erie County GOP Chair** | **2010 - 2018** | **373** | **$979,000** |
+| NYS Republican Chair | 2019 - 2022 | 139 | $523,000 |
+| U.S. Representative | 2023 - present | 158 | $132,000 |
+
+In plain language: The bulk of the money flowed to Langworthy's apparatus while he was Erie County GOP Chairman — years before he ran for Congress. The donor network was built at the county level.
+
+### Worst Example: Tioga Downs Racetrack
+
+Tioga Downs Racetrack donated $500 to the Tioga County Republican Committee. The racetrack holds $18.97 million in IDA exemptions from 16 Tioga County IDA projects — a 37,942x return ratio. The county Republican committee subsequently held fundraising events at the subsidized racetrack, creating a documented round-trip money flow.
+
+### Top Donor-Beneficiaries (by Exemptions Received)
+
+| Beneficiary | Donated | IDA Exemptions | Ratio |
+|-------------|---------|----------------|-------|
+| Tioga Downs Racetrack | $500 | $18,970,743 | 37,942x |
+| Moog Inc. | $1,000 | $5,066,356 | 5,066x |
+| Corning Incorporated | $900 | $3,868,591 | 4,298x |
+| Benderson Development | $1,150 | $3,139,004 | 2,730x |
+| Zaepfel Development | $1,875 | $2,713,043 | 1,447x |
+| Hamister Group | $33,700 | $6,374,663 | 189x |
+| Ellicott Development | $5,775 | $892,036 | 155x |
+
+### Property Tax Impact on Homeowners
+
+When companies receive IDA tax exemptions, other property taxpayers in the community pay more. Across Langworthy's 8 counties:
+
+| County | Property Tax Exemptions | Households | Per Household |
+|--------|------------------------|------------|---------------|
+| Erie | $467,050,891 | 390,000 | $1,198 |
+| Cattaraugus | $45,323,922 | 31,000 | $1,462 |
+| Chautauqua | $37,367,399 | 52,000 | $719 |
+| Steuben | $37,155,610 | 39,000 | $953 |
+| Chemung | $119,610,779 | 35,000 | $3,417 |
+| Tioga | $55,629,085 | 20,000 | $2,781 |
+| Allegany | $6,108,495 | 18,000 | $339 |
+| Schuyler | $7,556,478 | 7,500 | $1,008 |
+| **Total** | **$775,802,659** | **592,500** | **$1,310** |
+
+### IDA Reform Legislation
+
+Since entering Congress in January 2023, Langworthy has:
+
+* Introduced **zero** IDA reform legislation
+* Voted for the One Big Beautiful Bill Act (OBBBA), which preserves tax-exempt IDA bonds, makes Opportunity Zones permanent, and expands LIHTC — legislatively sustaining the IDA framework
+* Announced $97 million in federal funding, with at least three confirmed cases of IDA beneficiaries also receiving Langworthy-secured federal grants
+
+### Methodology
+
+This analysis presents documented correlations between campaign donations and IDA approvals, not proven causation. Donations and approvals may reflect shared economic interests, industry clustering, or other factors rather than quid pro quo arrangements. All data is from public state databases and can be independently verified using the sources below.
+
+### Data Sources (State)
+
+All state-level data from public New York State databases:
+
+* **Campaign Contributions:** [NYS Board of Elections](https://data.ny.gov/Government-Finance/Board-of-Elections-Campaign-Finance-Disclosure/4j2b-6a2j) — 12,490,839 records via Socrata API
+* **IDA Projects:** [Authorities Budget Office](https://data.ny.gov/Transparency/Industrial-Development-Agencies-IDA-Project-Data/9rtk-3fkw) — 34,348 projects across 104 IDAs
+* **LLC Filings:** [NYS DOS](https://data.ny.gov/Economic-Development/Active-Limited-Liability-Companies/vngt-42st) — 448,530 LLC registrations for donor unmasking
+* Data current as of: March 2026
+
+---
+
+*Last updated: March 15, 2026*
