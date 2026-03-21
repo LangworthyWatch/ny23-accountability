@@ -251,6 +251,91 @@ Tioga Downs Racetrack donated $500 to the Tioga County Republican Committee. The
 | Hamister Group | $33,700 | $6,374,663 | 189x |
 | Ellicott Development | $5,775 | $892,036 | 155x |
 
+### Complete List: All 74 Donor-Beneficiaries
+
+The following table lists every company or individual that donated to the Langworthy apparatus and holds IDA tax exemptions in New York State. Sorted by total exemptions received. See methodology note below.
+
+| Beneficiary | Donated | IDA Exemptions | Return Ratio | IDA Agency |
+|-------------|---------|----------------|-------------|------------|
+| Tioga Downs Racetrack | $500 | $18,970,743 | 37,942x | Tioga County IDA |
+| David Hart | $800 | $6,188,092 | 7,735x | Chautauqua IDA |
+| Moog Inc. | $1,000 | $5,066,356 | 5,066x | Erie County IDA |
+| Hamister Group LLC | $17,500 | $4,959,302 | 283x | Chautauqua IDA |
+| Corning Incorporated | $900 | $3,868,591 | 4,298x | Steuben County IDA |
+| M&T Bank | $668 | $3,336,168 | 4,995x | Amherst IDA; Syracuse IDA |
+| Rosina Food Products | $250 | $3,212,709 | 12,851x | Erie County IDA |
+| Benderson Development | $1,150 | $3,139,004 | 2,730x | Erie County IDA |
+| Zaepfel Development | $1,875 | $2,713,043 | 1,447x | Erie County IDA |
+| Win Sum Ski Corp. | $760 | $2,486,231 | 3,271x | Cattaraugus IDA |
+| Vulcraft of New York | $400 | $1,370,727 | 3,427x | Chemung IDA |
+| The Hamister Group | $16,200 | $1,415,361 | 87x | Erie County IDA |
+| Corning Property Management | $1,000 | $1,382,870 | 1,383x | Steuben County IDA |
+| Corning (Otsego/St. Lawrence) | $1,050 | $1,102,752 | 1,050x | Otsego IDA; St. Lawrence IDA |
+| Ellicott Development | $5,775 | $892,036 | 155x | Cattaraugus IDA; Erie County IDA |
+| Uniland Development | $150 | $512,392 | 3,416x | Amherst IDA |
+| Craig Miller | $400 | $384,933 | 962x | Riverhead IDA |
+| Calamar Enterprises | $1,900 | $380,129 | 200x | Erie County IDA |
+| Seneca Beverage Corp. | $400 | $372,572 | 931x | Chemung IDA |
+| Nicholas Sinatra | $15,931 | $288,151 | 18x | Niagara County IDA |
+| David Chiazza | $808 | $296,437 | 367x | Niagara County IDA |
+| The Krog Corp. | $1,000 | $248,203 | 248x | Steuben County IDA |
+| 5000 Group LLC | $2,750 | $232,941 | 85x | Amherst IDA |
+| Robert Wylie | $10 | $229,191 | 22,919x | Schuyler County IDA |
+| Chemung Supply Corp. | $12,000 | $214,306 | 18x | Chemung IDA |
+| CATARACT REAL ESTATE HOLDINGS | $250 | $204,978 | 820x | Niagara Town IDA |
+| Five Star Bank | $275 | $201,129 | 731x | Monroe IDA |
+| Gordon Reger | $500 | $137,994 | 276x | Hamburg IDA |
+| Gordon Companies | $125 | $145,885 | 1,167x | Erie County IDA |
+| Woods Oviatt Gilman LLP | $2,000 | $119,294 | 60x | Monroe IDA |
+| Michael McLaughlin | $100 | $113,757 | 1,138x | Niagara County IDA |
+| WAYNE BACON | $255 | $112,581 | 442x | Cattaraugus IDA |
+| Northstar Location Services | $3,500 | $126,022 | 36x | Erie County IDA |
+| First Transit Inc. | $3,500 | $106,779 | 31x | Monroe IDA |
+| Postler & Jaeckle | $500 | $66,738 | 134x | Chemung IDA |
+| Cameron Manufacturing & Design | $1,000 | $65,460 | 65x | Chemung IDA |
+| Gary Smith | $200 | $72,494 | 362x | Niagara County IDA |
+| Thomas Sullivan | $375 | $60,694 | 162x | Niagara County IDA |
+| Supermarket Management | $6,000 | $93,634 | 16x | Erie County IDA |
+| William Savage | $500 | $59,286 | 119x | Hamburg IDA |
+| Natale Building Corp. | $798 | $78,630 | 99x | Erie County IDA |
+| KENNETH FRANASIAK | $1,000 | $78,037 | 78x | Niagara County IDA |
+| Arnot Realty | $1,600 | $79,144 | 50x | Chemung IDA |
+| John Yurtchuk | $19,450 | $79,651 | 4x | Niagara County IDA |
+| Bank on Buffalo | $500 | $27,745 | 56x | Clarence IDA |
+| DAVID BURKE | $2,000 | $77,122 | 39x | Clarence IDA |
+| Joseph Cipolla | $25 | $52,727 | 2,109x | Lancaster IDA |
+| Graphic Controls LLC | $1,500 | $25,650 | 17x | Erie County IDA |
+| Silicon Carbide Products | $250 | $26,882 | 108x | Chemung IDA |
+| ANGELO NATALE | $500 | $23,446 | 47x | Clarence IDA |
+| Michael Jensen | $1,000 | $18,676 | 19x | Niagara County IDA |
+| Finger Lakes Equipment Rental | $300 | $13,621 | 45x | Seneca County IDA |
+| Iskalo Development | $4,717 | $13,894 | 3x | Erie County IDA |
+| Robert Lowe | $75 | $10,895 | 145x | Clarence IDA |
+| Midland Asphalt Materials | $90 | $8,338 | 93x | Wayne County IDA |
+| Dennis Eshbaugh | $650 | $6,118 | 9x | Cattaraugus IDA |
+| Dolomite Products | $8,025 | $41,578 | 5x | Monroe IDA |
+| David Carucci | $625 | $3,283 | 5x | Cattaraugus IDA |
+| Robert White | $980 | $30,000 | 31x | Chautauqua IDA |
+| Michael Kelly | $27,600 | $56,750 | 2x | Wyoming County IDA |
+| Carl Paladino | $11,345 | $1,752 | 0.2x | Lancaster IDA |
+| Lu Engineers | $125 | $12,880 | 103x | Monroe IDA |
+| Nixon Peabody | $37,875 | — | N/A | — |
+| Hamister Group (combined) | — | — | — | See Hamister Group LLC above |
+| Cello-Pack Corporation | $2,000 | — | N/A | — |
+| Anheuser-Busch Companies | $1,500 | — | N/A | — |
+| Billy-Lee LLC | $720 | — | N/A | — |
+| Corning Tropel Corporation | $500 | — | N/A | — |
+| R.S. Maher & Son | $125 | — | N/A | — |
+| Chef's Restaurant of Buffalo | $100 | — | N/A | — |
+| Bergmann Associates | $100 | — | N/A | — |
+| S&K Hospitality | $65 | — | N/A | — |
+| Steuben Trust Company | $55 | — | N/A | — |
+| Bill Smith | $99 | — | N/A | — |
+
+**Notes:** "—" indicates donor was matched to the Langworthy apparatus but no corresponding IDA project was found in the Authorities Budget Office database. Return ratio = IDA exemptions ÷ total donated. All figures from public NYS Board of Elections and ABO records. This table documents correlations, not proven causation.
+
+---
+
 ### Property Tax Impact on Homeowners
 
 When companies receive IDA tax exemptions, other property taxpayers in the community pay more. Across Langworthy's 8 counties:
