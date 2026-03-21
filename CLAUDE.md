@@ -424,6 +424,17 @@ SSH hosts configured in `~/.ssh/config`:
 
 ---
 
+## Cross-Site Pattern: IDA Data → The Public Ledgers
+
+For IDA/subsidy data, cite [thepublicledgers.org](https://thepublicledgers.org) rather than hosting raw data on LangworthyWatch. Reason: LW carries a candidate identity (political framing); TPL is a journalism platform (credibility framing). Two fact-checks establish this pattern:
+
+- `2026-03-21-ida-donor-exemption-pattern.md` — cites TPL for 74-donor/$246K/$66.2M data
+- `2026-03-21-obbba-ida-vote.md` — cites TPL for county-level dashboards
+
+Use LW to document the *legislative record* (votes, reform gaps, Langworthy's specific actions); use TPL for underlying data.
+
+---
+
 ## Contact
 
 - Site email: langworthywatch@gmail.com
@@ -432,4 +443,4 @@ SSH hosts configured in `~/.ssh/config`:
 
 ---
 
-*Last updated: February 11, 2026*
+*Last updated: March 21, 2026*
