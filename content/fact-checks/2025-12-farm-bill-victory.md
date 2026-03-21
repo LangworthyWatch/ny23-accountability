@@ -177,6 +177,12 @@ Langworthy's six bills are not automatically included in the new bill—they wou
 
 ---
 
+
+## Related Entries
+
+* [Farm Workforce: "Fighting for Farmers" While Silent on H-2A](/fact-checks/2025-12-farm-workforce/)
+* [Agriculture Week: Family Farms Claims](/fact-checks/2026-03-21-agriculture-week-family-farms/)
+
 ## Sources
 
 **Congressional Record:**

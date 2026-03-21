@@ -7,6 +7,8 @@ claim_date: "November 13, 2025"
 source: "Press Conference"
 source_url: ""
 archived_url: ""
+verdict: "FALSE"
+counties: ["chautauqua", "steuben", "allegany", "cattaraugus", "chemung", "schuyler", "tioga", "erie"]
 ---
 
 ## Statement
@@ -67,6 +69,12 @@ Langworthy claims people earning $300,000-$400,000 get "free health care" throug
 The real impact of opposing the enhanced credits isn't on wealthy Americans who don't receive them anyway — it's on the thousands of NY-23 families earning $50,000-$130,000 who would see their premiums jump by $100-$200 per month.
 
 ---
+
+
+## Related Entries
+
+* [Premium Tax Credits: Response to Constituent](/fact-checks/2026-01-14-ptc-pivot/)
+* [Medicaid Coverage Cuts: "Not a Single Person" Loses Coverage](/fact-checks/2025-05-medicaid-coverage-cuts/)
 
 ## Sources
 

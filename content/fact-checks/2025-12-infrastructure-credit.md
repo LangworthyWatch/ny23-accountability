@@ -7,8 +7,9 @@ claim_date: "2024-2025"
 source: "Multiple Press Releases"
 source_url: ""
 archived_url: ""
-verdict: "MISSING ATTRIBUTION"
+verdict: "FALSE ATTRIBUTION"
 tags: ["infrastructure", "earmarks", "grants", "transparency", "biden-era"]
+counties: ["chemung", "steuben", "chautauqua", "allegany"]
 ---
 
 ## Why This Matters for NY-23
@@ -290,7 +291,7 @@ The credit-claiming pattern is **documented across multiple press releases**.
 
 Constituents reviewing his communications **cannot easily tell the difference** without checking the underlying funding source.
 
-**Verdict: MISSING ATTRIBUTION** — Legitimate earmarks are mixed with formula grants he did not create, without clear distinction.
+**Verdict: FALSE ATTRIBUTION** — Legitimate earmarks are mixed with formula grants he did not create, without clear distinction.
 
 ---
 

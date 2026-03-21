@@ -7,6 +7,8 @@ claim_date: "December 17, 2025"
 source: "Press Release, Floor Speech, Wellsville Sun Interview"
 source_url: "https://wellsvillesun.com/blog/2025/12/17/langworthy-urges-house-leadership-to-act-now-on-comprehensive-pharmacy-reform/"
 archived_url: ""
+verdict: "MISSING CONTEXT"
+counties: ["chautauqua", "steuben", "allegany", "cattaraugus", "chemung", "schuyler", "tioga"]
 ---
 
 ## Why This Matters for NY-23
@@ -218,6 +220,12 @@ When a standalone PBM reform bill was introduced in July 2025, Langworthy didn't
 4. If PBM reform is the urgent "healthcare emergency" Langworthy describes, why has he remained silent each time Trump killed it?
 
 ---
+
+
+## Related Entries
+
+* [Rural Hospitals and Medicaid](/fact-checks/2025-11-rural-hospitals-medicaid/)
+* [Health Insurance CEO Hearing: Premiums and Voting Record](/fact-checks/2026-01-24-ceo-hearing-premiums/)
 
 ## Sources
 

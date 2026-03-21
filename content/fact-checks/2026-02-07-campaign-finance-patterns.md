@@ -143,6 +143,12 @@ Whether this constitutes "influence" is interpretive. That the pattern exists is
 
 ---
 
+
+## Related Entries
+
+* [2022 Trump Endorsement Mailer](/fact-checks/2022-07-trump-endorsement-mailer/)
+* [Steuben County Credit Claiming Pattern](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
+
 ## Sources
 
 * FEC: Langworthy for Congress (C00817932), 2024 and 2026 cycle filings

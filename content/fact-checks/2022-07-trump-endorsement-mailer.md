@@ -73,6 +73,12 @@ This pattern of technically-accurate-but-misleading communication has continued 
 
 ---
 
+
+## Related Entries
+
+* [Campaign Finance & IDA Patterns](/fact-checks/2026-02-07-campaign-finance-patterns/)
+* [One Year of "Real Results": Claims Checked](/fact-checks/2026-01-22-one-year-real-results/)
+
 ## Sources
 
 * Politico: "Charges of fake Trump endorsement roil a GOP primary in New York" (July 28, 2022)

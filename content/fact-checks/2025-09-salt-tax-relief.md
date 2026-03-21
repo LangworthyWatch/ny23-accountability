@@ -108,6 +108,12 @@ The corporate tax cut costs about $1.8 trillion over 10 years. A higher SALT cap
 
 ---
 
+
+## Related Entries
+
+* [OBBBA: "Largest Middle-Class Tax Cut in History"](/fact-checks/2026-02-25-largest-tax-cut-claim/)
+* [SOTU 2026: Nine Claims Checked](/fact-checks/2026-02-25-sotu-2026-claims/)
+
 ## Sources
 
 - WGRZ Buffalo: "Langworthy lobbies Trump on SALT deduction" (Sept 2025)

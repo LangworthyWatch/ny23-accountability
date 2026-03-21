@@ -1,6 +1,6 @@
 ---
 title: "Missed Votes"
-date: 2026-02-04
+date: 2026-03-21
 draft: false
 description: "Tracking Rep. Langworthy's voting attendance record in Congress"
 ---
@@ -46,6 +46,7 @@ We document missed votes as a matter of public record but do not speculate on re
 | Jul 2025 - Sep 2025 | 1 | 83 | 1.2% | 50th |
 | Oct 2025 - Dec 2025 | 0 | 45 | 0.0% | 0th |
 | Jan 2026 - Feb 2026 | 0 | 10 | 0.0% | 0th |
+| Mar 2026 | — | — | — | — |
 
 **Percentile explanation:** 0th = best attendance, 100th = worst attendance
 
@@ -79,7 +80,7 @@ Each missed vote means constituents of NY-23 had no representation on that issue
 
 Vote attendance data compiled from [GovTrack](https://www.govtrack.us/congress/members/nick_langworthy/456858) and [Congress.gov](https://www.congress.gov/member/nicholas-langworthy/L000600) official roll call records.
 
-**Last Updated:** February 4, 2026
+**Last Updated:** March 21, 2026 *(March 2026 data pending — check GovTrack for current figures)*
 
 ---
 

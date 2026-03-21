@@ -244,6 +244,12 @@ The documented instances reveal a consistent pattern:
 
 ---
 
+
+## Related Entries
+
+* [Campaign Finance & IDA Patterns](/fact-checks/2026-02-07-campaign-finance-patterns/)
+* [One Year of "Real Results": Claims Checked](/fact-checks/2026-01-22-one-year-real-results/)
+
 ## Sources & Methodology
 
 **Congressional Records:**

@@ -88,6 +88,12 @@ The bill would effectively prevent New York and other states from implementing c
 
 ---
 
+
+## Related Entries
+
+* [Dunkirk: Clean Energy Blamed for Costs Natural Gas Drives](/fact-checks/2026-02-20-energy-costs-dunkirk/)
+* [NYSEG Rate Hike: Documented Silence](/fact-checks/2026-02-25-nyseg-rate-hike-silence/)
+
 ## Sources
 
 * WRFA-LP Jamestown: "Rep. Langworthy Proposes Bill To Prohibit States From Imposing Ban On Energy Sources" (September 2025)

@@ -1,6 +1,6 @@
 ---
 title: "Voting Record"
-date: 2025-12-21
+date: 2026-03-21
 draft: false
 description: "Complete voting record for Rep. Nicholas Langworthy (NY-23)"
 ---
@@ -25,6 +25,8 @@ Rep. Langworthy's official voting record is maintained by Congress.gov.
 | H.R.4 (Rescissions Act) | July 17, 2025 | YES | [Correspondence](/correspondence/letters/2025-05-rescissions-act-opposition/) |
 | Epstein Discharge Petition | Sept–Nov 2025 | **DID NOT SIGN** | [Epstein/Wexner](/fact-checks/2026-01-14-epstein-files-discharge-petition/) |
 | Wexner Deposition (Oversight Cmte) | Feb 18, 2026 | **DID NOT ATTEND** | [Epstein/Wexner](/fact-checks/2026-01-14-epstein-files-discharge-petition/) |
+| H.Res. 70 (Sexual Misconduct Transparency) | Mar 5, 2026 | YES | [Sexual Misconduct Vote](/fact-checks/2026-03-05-sexual-misconduct-vote/) |
+| Seneca Nation Law Enforcement Act | Mar 14, 2026 | YES (introduced) | [Seneca Nation Act](/fact-checks/2026-03-14-seneca-nation-law-enforcement-act/) |
 
 ### Voting Patterns
 

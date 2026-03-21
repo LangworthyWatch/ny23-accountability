@@ -164,6 +164,12 @@ And the same bill cuts $911 billion from Medicaid — which many low-income seni
 
 ---
 
+
+## Related Entries
+
+* [Big Flats SSA Office Closure and DOGE](/fact-checks/2026-02-08-big-flats-ssa-doge/)
+* [OBBBA: "Largest Middle-Class Tax Cut in History"](/fact-checks/2026-02-25-largest-tax-cut-claim/)
+
 ## Sources
 
 **Tax Law Analysis:**

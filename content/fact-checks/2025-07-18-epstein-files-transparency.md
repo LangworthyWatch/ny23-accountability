@@ -57,6 +57,12 @@ Local media noted the contradiction: "After voting no earlier this week on an am
 
 ---
 
+
+## Related Entries
+
+* [Epstein Files: Discharge Petition and Wexner Deposition](/fact-checks/2026-01-14-epstein-files-discharge-petition/)
+* [Operation Epic Fury: Statement Claims Checked](/fact-checks/2026-02-28-epic-fury-statement/)
+
 ## Sources
 
 - WRFA-LP Jamestown: "Langworthy Votes Yes After Voting No On Resolution To Request Release Of Jeffrey Epstein Files" (July 18, 2025)

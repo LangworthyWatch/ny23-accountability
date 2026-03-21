@@ -134,6 +134,12 @@ So what does the bill actually do? It adds paperwork requirements for citizens t
 
 ---
 
+
+## Related Entries
+
+* [Rural Medicaid Impact Summary](/fact-checks/2026-02-09-medicaid-rural-impact-summary/)
+* [Medicaid Coverage Cuts: "Not a Single Person" Loses Coverage](/fact-checks/2025-05-medicaid-coverage-cuts/)
+
 ## Sources
 
 **Federal Law:**

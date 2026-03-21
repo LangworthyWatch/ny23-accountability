@@ -9,6 +9,7 @@ source_url: ""
 archived_url: ""
 verdict: "MISLEADING"
 tags: ["childcare", "Head-Start", "social-services", "local-impact", "deflection", "constituent-letter"]
+counties: ["chautauqua", "steuben", "allegany", "cattaraugus", "chemung", "schuyler", "tioga"]
 ---
 
 ## Why This Matters for NY-23
@@ -137,6 +138,12 @@ The response blames Governor Hochul for not being "fully transparent" but doesn'
 **Same response sent to multiple constituents** on different dates (January 31 and February 3, 2026) with identical language, confirming form letter.
 
 ---
+
+
+## Related Entries
+
+* [Medicaid and Immigration: False "Removing Illegal Aliens" Claim](/fact-checks/2025-12-medicaid-immigration/)
+* [SNAP Cuts: "Not a Single Dollar Cut"](/fact-checks/2025-12-snap-cuts/)
 
 ## Sources
 

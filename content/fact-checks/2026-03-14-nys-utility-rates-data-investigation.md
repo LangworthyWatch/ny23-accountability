@@ -235,3 +235,5 @@ All data in this investigation is from publicly available government sources. Ra
 **Note:** This entry documents publicly available data from government filings and federal databases. All calculations are based on the stated sources and are available for independent verification via the download links above. This investigation does not make claims about individual conduct or motivation — it documents cost structures, financial data, and publicly disclosed lobbying activity.
 
 *Published: March 14, 2026. Data through fiscal year 2024–2025 where available.*
+
+*Last updated: March 14, 2026*

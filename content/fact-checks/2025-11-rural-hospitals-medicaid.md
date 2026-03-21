@@ -95,6 +95,12 @@ When he calls concerns about Westfield Memorial and UPMC Jamestown "pure fiction
 
 ---
 
+
+## Related Entries
+
+* [Rural Medicaid Impact Summary](/fact-checks/2026-02-09-medicaid-rural-impact-summary/)
+* [Rural Hospitals "Pure Fiction" Claim](/fact-checks/2025-10-rural-hospitals-pure-fiction/)
+
 ## Sources
 
 - Observer Today (Dunkirk-Fredonia): Andrea Hatfield, "Rural hospital funding far from restored" (Dec 1, 2025)

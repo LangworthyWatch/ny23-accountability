@@ -83,6 +83,12 @@ These construction-related industries rank among Langworthy's top contributors.
 
 ---
 
+
+## Related Entries
+
+* [State Preemption Pattern: Three Bills, One Playbook](/fact-checks/2026-02-state-preemption-pattern/)
+* [Energy Choice Act: Consumer Choice or Industry Bill?](/fact-checks/2026-02-25-energy-choice-act/)
+
 ## Sources
 
 * Times Union: "New York faces new pressure to scrap 140-year-old Scaffold Law" (September 2025)

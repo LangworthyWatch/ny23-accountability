@@ -74,6 +74,14 @@ The Court declared IEEPA tariffs **"unlawful ab initio"** — illegal from the s
 
 ---
 
+
+## Related Entries
+
+* [Dunkirk: Clean Energy Blamed for Costs Natural Gas Drives](/fact-checks/2026-02-20-energy-costs-dunkirk/)
+* [State Preemption Pattern: Three Bills, One Playbook](/fact-checks/2026-02-state-preemption-pattern/)
+
 ## Sources
 
 BEA · BLS · NY Federal Reserve · Tax Foundation · Penn Wharton Budget Model · SCOTUSblog · NY State Comptroller · USDA · House Clerk Roll Call #65
+
+*Last updated: February 20, 2026*

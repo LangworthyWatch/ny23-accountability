@@ -7,6 +7,8 @@ claim_date: "December 28, 2025"
 source: "Weekly Update from Congressman Nick Langworthy"
 source_url: ""
 archived_url: ""
+verdict: "DOCUMENTED PATTERN"
+counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
 
 ## Statement
@@ -239,6 +241,12 @@ This pattern of premature victory claims mirrors the 2024 Farm Bill situation, w
 Committee passage is a procedural step, not a legislative achievement—and in this case, one of the three claimed "passages" didn't even happen.
 
 ---
+
+
+## Related Entries
+
+* [One Year of "Real Results": Claims Checked](/fact-checks/2026-01-22-one-year-real-results/)
+* [2025 Rhetoric vs. Actions: Overview](/fact-checks/2025-12-rhetoric-vs-actions-overview/)
 
 ## Sources
 

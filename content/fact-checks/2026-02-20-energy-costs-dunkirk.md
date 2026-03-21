@@ -76,3 +76,5 @@ His **lifetime League of Conservation Voters score is 3%**, with a **2024 score 
 ## Sources
 
 NY PSC · NYISO · National Grid HY 2025/26 Results · National Grid Annual Report 2024/25 · Directors' Remuneration Report · Lazard LCOE+ 2025 · EIA · LCV · OpenSecrets · NY Dept of Public Service
+
+*Last updated: February 20, 2026*

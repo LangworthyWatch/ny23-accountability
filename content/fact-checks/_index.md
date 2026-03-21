@@ -38,6 +38,10 @@ Each fact-check includes:
 | [Great Lakes Award](/fact-checks/2026-03-10-great-lakes-award/) | Received "Champion of the Great Lakes Award" | **MISSING CONTEXT** — Industry shipping award framed as environmental stewardship; 6% LCV score; no position on ballast water or GLRI |
 | [Sexual Misconduct Vote](/fact-checks/2026-03-05-sexual-misconduct-vote/) | "Proud to be one of 65 members who stands for transparency" | **MISSING CONTEXT** — Vote confirmed; but resolution had legitimate survivor-protection concerns; selective given Epstein record |
 | [Seneca Nation Law Enforcement Act](/fact-checks/2026-03-14-seneca-nation-law-enforcement-act/) | Bill framed as drug trafficking / public safety measure | **MISSING CONTEXT** — $10,100 from Seneca Nation not disclosed; civil jurisdiction removal (affecting gaming operations) not addressed |
+| [Agriculture Week](/fact-checks/2026-03-21-agriculture-week-family-farms/) | "Fighting for family farms" during Agriculture Week | **MISSING CONTEXT** — OBBBA cuts farm programs; H-2A labor cap threatens harvests |
+| [PAY TSA Act](/fact-checks/2026-03-21-pay-tsa-act/) | Introduces bill to give TSA officers federal employee status | **MISSING CONTEXT** — 7 similar bills introduced since 2003; none passed under Republican majority |
+| [IDA Donor-Exemption Pattern](/fact-checks/2026-03-21-ida-donor-exemption-pattern/) | IDA tax breaks and political donors in NY-23 | **DOCUMENTED PATTERN** — 74 beneficiaries donated $246K to Langworthy apparatus; received $66.2M in exemptions |
+| [OBBBA / IDA Vote](/fact-checks/2026-03-21-obbba-ida-vote/) | Voted YES on OBBBA making IDA-friendly provisions permanent | **DOCUMENTED PATTERN** — OZ permanent, PAB framework maintained; zero IDA reform legislation introduced |
 
 ### February 2026
 
@@ -88,6 +92,18 @@ Each fact-check includes:
 | [Preemption Pattern](/fact-checks/2026-02-state-preemption-pattern/) | Three bills using identical "patchwork" framing to override state laws | **DOCUMENTED PATTERN** — Energy, supplements, AI; all benefit regulated industries |
 | [Preemption Pattern](/fact-checks/2026-02-state-preemption-pattern/) | Dietary supplements bill protects consumers | **MISLEADING** — Preempts NY law banning supplement sales to minors; 4 trade groups endorsed |
 | [Constituent Access](/fact-checks/2025-04-constituent-access-town-halls/) | Local media access to press events | **DOCUMENTED PATTERN** — WRFA (Chautauqua County) reports repeated exclusion from press events |
+| [Campaign Finance / IDA](/fact-checks/2026-02-07-campaign-finance-patterns/) | IDA tax exemption donors connected to Langworthy apparatus | **DOCUMENTED PATTERN** — 74 beneficiaries, $66.2M exemptions, $325 in breaks per $1 donated |
+| [Steuben Flooding](/fact-checks/2026-02-07-steuben-flooding-mitigation/) | "Secured" flood mitigation grants for Steuben County | **MISSING CONTEXT** — Formula/USACE grants; no documented Langworthy sole credit |
+| [Allegany County Grants](/fact-checks/2026-02-08-allegany-county-grants-accord/) | "Delivered" grants to Allegany County via ACCORD | **MISSING CONTEXT** — ACCORD secured 5 of 6 grants independently; bipartisan/formula funding |
+| [Big Flats SSA / DOGE](/fact-checks/2026-02-08-big-flats-ssa-doge/) | Silent on Big Flats SSA office closure | **DOCUMENTED PATTERN** — DOGE closes district office; no constituent outreach; one boilerplate letter |
+| [Steuben Credit Claiming](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/) | Pattern of claiming credit for formula grants | **DOCUMENTED PATTERN** — 12 announcements; 10 formula/competitive grants not requiring member action |
+| [Steuben ICE Cooperation](/fact-checks/2026-02-08-steuben-ice-cooperation/) | Steuben County 287(g) agreement framed as model | **MISSING CONTEXT** — 11 ICE transfers in 5 years; taxpayer cost not disclosed |
+| [Steuben Rural Impact](/fact-checks/2026-02-08-steuben-rural-impact-summary/) | Federal policy impact on Steuben County | **MISSING CONTEXT** — $2,847/household tax cut; Medicaid, SNAP, and SSA losses substantially larger |
+| [Rural Medicaid Impact](/fact-checks/2026-02-09-medicaid-rural-impact-summary/) | Medicaid changes won't hurt rural communities | **MISSING CONTEXT** — 17,000+ NY-23 enrollees affected; 3 rural hospitals at risk |
+| [Rural SNAP Impact](/fact-checks/2026-02-09-snap-rural-impact-summary/) | "Not a single dollar cut" from SNAP | **MISSING CONTEXT** — 22,000+ NY-23 recipients; $295B national reduction; rural counties disproportionately affected |
+| [Rural VA Impact](/fact-checks/2026-02-09-va-rural-impact-summary/) | Advocates for veterans while voting for VA budget cuts | **MISSING CONTEXT** — $15B VA shortfall; 28 rural NY facilities at risk |
+| [Dunkirk Energy Costs](/fact-checks/2026-02-20-energy-costs-dunkirk/) | Clean energy driving electricity costs in Dunkirk area | **MISSING CONTEXT** — National Grid profits +43%; gas costs +29%; clean energy = 4.7% of increases |
+| [SCOTUS Tariff Ruling](/fact-checks/2026-02-20-scotus-tariff-ruling/) | Tariffs "proven effective" after SCOTUS strikes them 6–3 | **MISSING CONTEXT** — NY-23 farm exports down; ruling declared unconstitutional; economic harm documented |
 
 ### January 2026
 
@@ -101,6 +117,36 @@ Each fact-check includes:
 | [RFK Jr./MAHA](/fact-checks/2026-01-14-rfk-maha/) | Response to constituent opposing RFK Jr. | **NON-RESPONSIVE** - Praised agenda constituent opposed |
 | [Free Speech/AP](/fact-checks/2026-01-14-free-speech-ap-access/) | Defending AP restrictions | **DEFLECTION** - Cited unrelated H.R. 140 about social media |
 | [Hernandez Pardon](/fact-checks/2026-01-21-hernandez-pardon/) | "President acted within constitutional authority" | **DEFLECTION** - Pivoted to Biden autopen instead of addressing the concern |
+| [One Year / Real Results](/fact-checks/2026-01-22-one-year-real-results/) | "Historic" first-year legislative accomplishments | **DOCUMENTED PATTERN** — 4 bills passed; credit claimed for bipartisan/formula programs |
+
+### December 2025
+
+| Topic | Claim | Verdict |
+|-------|-------|---------|
+| [Farm Bill](/fact-checks/2025-12-farm-bill-victory/) | Claimed Farm Bill passage as personal victory | **MISSING CONTEXT** — Bipartisan bill; farm workforce provision excluded |
+| [Farm Workforce](/fact-checks/2025-12-farm-workforce/) | "Fighting for farmers" while opposing Farm Workforce Modernization Act | **CONTRADICTION** — Agriculture Committee member; never co-sponsored H-2A expansion |
+| [Infrastructure Credit](/fact-checks/2025-12-infrastructure-credit/) | Announced infrastructure grants as personal deliveries | **MISSING ATTRIBUTION** — Formula grants available to all districts; Biden-era IIJA funding |
+| [Medicaid / Immigration](/fact-checks/2025-12-medicaid-immigration/) | "Removing illegal aliens from Medicaid" | **FALSE** — Non-citizens have been ineligible for Medicaid since 1996 |
+| [2025 Patterns Overview](/fact-checks/2025-12-rhetoric-vs-actions-overview/) | Year-end overview of documented rhetorical patterns | **DOCUMENTED PATTERN** — 5 recurring patterns across 40+ fact-checks |
+| [SNAP Cuts](/fact-checks/2025-12-snap-cuts/) | "Not a single dollar cut" from SNAP benefits | **FALSE** — CBO: $295B reduction; 30% cut; largest in 30 years |
+| [Social Security Tax](/fact-checks/2025-12-social-security-tax/) | "$31,500 tax free" Social Security claim | **MISSING CONTEXT** — 64% already paid no tax; top deductions benefit highest earners |
+| [Scaffold Law](/fact-checks/2025-12-worker-safety-scaffold-law/) | Scaffold Law reform framed as pro-worker | **MISSING CONTEXT** — Chamber-backed; reduces worker protections; preempts state law |
+| [Year-End Newsletter](/fact-checks/2025-12-year-end-newsletter/) | Year-end newsletter legislative claims | **DOCUMENTED PATTERN** — Multiple claims overstated or inaccurate |
+
+### October–November 2025
+
+| Topic | Claim | Verdict |
+|-------|-------|---------|
+| [Government Shutdown / ACA](/fact-checks/2025-10-government-shutdown-aca/) | ACA subsidies at risk; voted against CR that kept them | **MISLEADING** — Voted NO on Dec 2024 CR; blamed Democrats for consequences |
+| [Rural Hospitals / Medicaid](/fact-checks/2025-11-rural-hospitals-medicaid/) | Medicaid cuts won't close rural hospitals | **FALSE** — 30+ rural hospitals in NY at elevated risk; NY ranks #1 in vulnerability |
+
+### July–September 2025
+
+| Topic | Claim | Verdict |
+|-------|-------|---------|
+| [Epstein Files](/fact-checks/2025-07-18-epstein-files-transparency/) | Voted NO on Epstein files amendment; later said he "never opposed" release | **CONTRADICTION** — July NO vote documented; November YES on near-identical bill |
+| [Veterans Support](/fact-checks/2025-08-veterans-support/) | "Fighting for our veterans" | **MISSING CONTEXT** — Voted for OBBBA cutting VA funding; silent on $15B VA shortfall |
+| [SALT Relief](/fact-checks/2025-09-salt-tax-relief/) | SALT cap relief in OBBBA benefits NY-23 | **MISSING CONTEXT** — 88% of benefit goes to top 20%; median NY-23 household gains ~$300 |
 
 ### 2025 and Earlier
 
@@ -122,7 +168,7 @@ Each fact-check includes:
 
 ## Documented Patterns
 
-Based on analysis of 40+ fact-checks, these patterns emerge:
+Based on analysis of 70+ fact-checks, these patterns emerge:
 
 ### Pattern 1: Create the Problem, Blame Someone Else
 - Votes for subsidy expiration (May 2025) → votes against restoring them (Jan 2026) → demands insurers explain premium increases (Jan 2026)

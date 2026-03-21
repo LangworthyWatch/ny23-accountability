@@ -167,6 +167,11 @@ The irony: This pardon came as the Trump administration was conducting lethal st
 
 ---
 
+
+## Related Entries
+
+* [Venezuela/Maduro: Supporting One Drug Trafficker's Arrest While Defending Another's Pardon](/fact-checks/2026-01-20-maduro-hernandez-contrast/)
+
 ## Sources
 
 * AP News: "Former Honduras President Juan Orlando Hernández freed after Trump pardon" (December 2, 2025)

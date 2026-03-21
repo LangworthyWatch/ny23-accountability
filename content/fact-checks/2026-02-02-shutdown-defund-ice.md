@@ -9,6 +9,7 @@ source_url: "https://www.facebook.com/RepNickLangworthy"
 archived_url: "https://web.archive.org/web/2026/"
 verdict: "MISLEADING"
 tags: ["immigration", "ICE", "shutdown", "Minneapolis", "voting-record", "DHS"]
+counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
 
 ## Statement

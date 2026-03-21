@@ -86,6 +86,12 @@ Framing a shipping industry award as "continuing my work" to ensure the Great La
 
 ---
 
+
+## Related Entries
+
+* [NYSEG Rate Hike: Documented Silence](/fact-checks/2026-02-25-nyseg-rate-hike-silence/)
+* [Energy Policy: Protecting "Consumer Choice"](/fact-checks/2025-12-energy-policy-oil-gas/)
+
 ## Sources
 
 * Professional Mariner, March 2026 (CMC award announcement, Joshua Juel quote)

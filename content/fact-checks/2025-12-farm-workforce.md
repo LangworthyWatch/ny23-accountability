@@ -7,6 +7,8 @@ claim_date: "2023-2025"
 source: "Multiple Press Releases, Committee Assignments"
 source_url: ""
 archived_url: ""
+verdict: "CONTRADICTION"
+counties: ["allegany", "steuben", "chemung", "cattaraugus", "schuyler"]
 ---
 
 ## Statement
@@ -130,12 +132,12 @@ While opposing pathways to legal status for farmworkers, Langworthy promotes him
 
 | Issue | Langworthy's Position |
 |-------|---------------------|
-| Dairy pricing | ✅ Introduced legislation |
-| Grape crop insurance | ✅ Introduced legislation |
-| Maple syrup support | ✅ Introduced legislation |
-| **Farm labor shortage** | ❌ No support for primary solution |
-| Border security rhetoric | ✅ Consistent messaging |
-| Immigration reform | ❌ Opposes pathways to legal status |
+| Dairy pricing | Yes — Introduced legislation |
+| Grape crop insurance | Yes — Introduced legislation |
+| Maple syrup support | Yes — Introduced legislation |
+| **Farm labor shortage** | No — No support for primary solution |
+| Border security rhetoric | Yes — Consistent messaging |
+| Immigration reform | No — Opposes pathways to legal status |
 
 ---
 
@@ -172,6 +174,12 @@ The Farm Workforce Modernization Act addresses both:
 5. Would NY-23 farmers prefer workforce solutions or continued uncertainty about their labor supply?
 
 ---
+
+
+## Related Entries
+
+* [Farm Bill Victory Claims](/fact-checks/2025-12-farm-bill-victory/)
+* [SNAP Cuts: "Not a Single Dollar Cut"](/fact-checks/2025-12-snap-cuts/)
 
 ## Sources
 

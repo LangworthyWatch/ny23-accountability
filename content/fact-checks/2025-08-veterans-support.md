@@ -120,6 +120,12 @@ The same "One Big Beautiful Bill" that cut rural hospital funding (see related f
 
 ---
 
+
+## Related Entries
+
+* [Buffalo VA: "Not a Budgetary Problem"](/fact-checks/2024-08-va-healthcare-shortfall/)
+* [Rural VA Impact Summary](/fact-checks/2026-02-09-va-rural-impact-summary/)
+
 ## Sources
 
 - WSKG Public Radio: Natalie Abruzzo, coverage of shutdown votes and impacts (Oct-Nov 2025)

@@ -9,6 +9,8 @@ This section tracks Rep. Nick Langworthy's campaign contributions based on data 
 
 ---
 
+> **Note:** The federal fundraising data below reflects the **2023–2024 election cycle** only (data current as of February 6, 2025). The 2025–2026 cycle is underway — updated figures will be added when OpenSecrets publishes current-cycle summaries. The IDA/state data at the bottom of this page is current as of March 2026.
+
 ## Campaign Overview (2023-2024)
 
 **Fundraising Summary:**
