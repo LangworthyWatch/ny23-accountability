@@ -5,13 +5,20 @@ description: "Following the money: Where Rep. Langworthy's campaign funding come
 
 # Campaign Finance
 
-This section tracks Rep. Nick Langworthy's campaign contributions based on data from OpenSecrets.org (Center for Responsive Politics). All data is from the 2023-2024 election cycle.
+Two distinct analyses are on this page. They cover different time periods, different data sources, and different questions.
+
+| Section | What It Covers | Data Through |
+|---------|---------------|--------------|
+| [Federal Fundraising](#federal-campaign-finance-2023-2024) | FEC contributions to Langworthy's congressional campaign | February 2025 (2023–2024 cycle) |
+| [IDA Apparatus Analysis](#ida-tax-exemptions-and-the-langworthy-apparatus) | State-level donations to Langworthy-controlled committees vs. IDA tax exemptions | March 2026 |
 
 ---
 
-> **Note:** The federal fundraising data below reflects the **2023–2024 election cycle** only (data current as of February 6, 2025). The 2025–2026 cycle is underway — updated figures will be added when OpenSecrets publishes current-cycle summaries. The IDA/state data at the bottom of this page is current as of March 2026.
+## Federal Campaign Finance (2023–2024)
 
-## Campaign Overview (2023-2024)
+*Data source: OpenSecrets.org — 2023–2024 election cycle, current as of February 6, 2025. The 2025–2026 cycle is underway; updated figures will be added when OpenSecrets publishes them.*
+
+## Campaign Overview
 
 **Fundraising Summary:**
 * **Total Raised:** $1,895,322
@@ -184,7 +191,11 @@ All federal campaign data from **OpenSecrets.org** (Center for Responsive Politi
 
 ---
 
+---
+
 ## IDA Tax Exemptions and the Langworthy Apparatus
+
+*Data source: NYS Board of Elections (12.49M contribution records) + Authorities Budget Office (34,348 IDA projects). Data current as of March 2026. This analysis documents correlations, not proven causation.*
 
 ### What Are IDAs?
 

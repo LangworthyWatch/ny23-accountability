@@ -6,7 +6,7 @@ topic: "Constituent Access"
 claim_date: "January 10, 2026"
 source: "Official Statement, Post-Journal, Observer Today"
 source_url: "https://www.post-journal.com/news/top-stories/2026/01/threats-close-langworthys-office-in-city/"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260113085329/https://www.post-journal.com/news/top-stories/2026/01/threats-close-langworthys-office-in-city/"
 verdict: "MISSING CONTEXT"
 tags: ["constituent-access", "jamestown", "office-closure", "transparency", "foia"]
 counties: ["chautauqua"]

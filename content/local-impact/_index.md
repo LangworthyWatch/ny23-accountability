@@ -5,168 +5,83 @@ description: "How federal policy decisions affect Western New York and the South
 
 # Local Impact: NY-23
 
-**How do Rep. Langworthy's votes and policy positions affect his constituents?**
+How do Rep. Langworthy's votes and positions affect his constituents in Western New York and the Southern Tier? Each entry below links to the documented source.
 
-This page aggregates documented impacts on Western New York and the Southern Tier communities from federal policy decisions.
-
----
-
-## Healthcare Crisis
-
-### Hospital Layoffs and Closures
-
-**ECMC (Erie County Medical Center) — January 29, 2026**
-- **150 employees laid off** (3% of workforce)
-- Management furloughs for one week
-- Cause cited: "inadequate reimbursements from public and private payers, including Medicaid cuts"
-
-**Kaleida Health — 2025-2026**
-- Millard Fillmore Surgery Center closing (October 2025)
-- Buffalo Therapy Services closing
-- DeGraff Medical Park closing
-- 60+ employees impacted
-
-**1199 SEIU "Code Red" Warning**
-- **8 Southern Tier hospitals** at risk of closing
-- **50,000 NY healthcare jobs** threatened statewide
-- Hundreds bused to Albany to protest federal cuts (January 12, 2026)
-
-**Connection to Langworthy's Votes:**
-- Voted YES on OBBB (H.R. 1) which cut $911 billion from Medicaid over 10 years
-- Voted NO on H.R. 6703 to restore ACA subsidies
-
-[Full fact-check: CEO Hearing on Premiums →](/fact-checks/2026-01-24-ceo-hearing-premiums/)
+*Last updated: March 24, 2026*
 
 ---
 
-### Premium Increases
+## Healthcare
 
-**Impact on NY-23 Residents (Sen. Gillibrand estimates):**
+**Medicaid & Hospital Access**
+CBO projects 1.3M+ dually eligible (Medicare + Medicaid) people would lose Medicaid coverage. Eight Southern Tier hospitals identified at risk. ECMC laid off 150 workers in January 2026, citing inadequate Medicaid reimbursements.
+→ [Rural hospitals & Medicaid cuts](/fact-checks/2025-11-rural-hospitals-medicaid/) | [Medicaid coverage cuts](/fact-checks/2025-05-medicaid-coverage-cuts/) | [Steuben rural impact](/fact-checks/2026-02-08-steuben-rural-impact-summary/) | [Medicaid rural summary](/fact-checks/2026-02-09-medicaid-rural-impact-summary/)
 
-| Household | Annual Premium Increase |
-|-----------|------------------------|
-| Single person, Chautauqua County, $65K income | **$1,252/year** ($104/month) |
-| Family of four, $130K income | **$2,547/year** ($212/month) |
-| 60-year-old couple, $85K income | **$22,600/year** |
+**ACA Premiums**
+6,300+ NY-23 residents use ACA marketplace. Enhanced premium tax credits expired December 31, 2025. Langworthy voted against restoring them, then two weeks later demanded insurers explain premium increases.
+→ [CEO hearing on premiums](/fact-checks/2026-01-24-ceo-hearing-premiums/) | [PTC pivot](/fact-checks/2026-01-14-ptc-pivot/)
 
-- **6,300+ NY-23 residents** use ACA marketplace
-- **22 million nationally** lost enhanced subsidies December 31, 2025
-- Average premium increase: **26%** (30% in Healthcare.gov states)
-- What enrollees pay: **114% average increase**
-
-**Connection to Langworthy's Votes:**
-- OBBB (H.R. 1) did NOT extend enhanced premium tax credits
-- Voted NO on H.R. 6703 (ACA subsidy extension) on January 8, 2026
-- Two weeks later: demanded insurers explain why premiums increased
-
-[Full fact-check: CEO Hearing on Premiums →](/fact-checks/2026-01-24-ceo-hearing-premiums/)
-[Full fact-check: PTC Pivot →](/fact-checks/2026-01-14-ptc-pivot/)
+**Pharmacy Reform**
+Langworthy publicly urged action on PBM reform, then stayed silent when the provision was stripped.
+→ [PBM reform fact-check](/fact-checks/2025-12-pharmacy-crisis-pbm-reform/)
 
 ---
 
-## Childcare and Family Services
+## Food & Farm
 
-### HHS Funding Freeze — January 2026
+**SNAP**
+$295 billion reduction in food assistance over 10 years. Langworthy claims "no SNAP cuts."
+→ [SNAP cuts](/fact-checks/2025-12-snap-cuts/) | [SNAP rural summary](/fact-checks/2026-02-09-snap-rural-impact-summary/)
 
-**Programs Frozen for New York:**
-- Child Care and Development Fund (CCDF)
-- Temporary Assistance for Needy Families (TANF)
-- Social Services Block Grant (SSBG)
-
-**Langworthy's Defense:**
-Cited Minnesota fraud case to justify NY freeze — but Minnesota fraud involved a **different program** (state-run CCAP vs. federal Head Start).
-
-**Impact on NY-23 Families:**
-- Head Start programs serving working families
-- Childcare assistance for low-income families
-- No NY-specific fraud evidence cited
-
-[Full fact-check: Childcare Freeze →](/fact-checks/2026-01-31-childcare-freeze/)
+**Farm Bill**
+Langworthy claimed credit for a farm bill that failed in committee and blamed Democrats for the failure.
+→ [Farm bill victory claim](/fact-checks/2025-12-farm-bill-victory/) | [Farm workforce](/fact-checks/2025-12-farm-workforce/)
 
 ---
 
-## Rural Communities
+## Veterans
 
-### Farm Policy
-
-**Farm Bill Status:**
-- Written without Democratic input
-- Failed in committee
-- Langworthy blamed Democrats for failure
-
-**SNAP Impact:**
-- $295 billion less spent on food assistance over 10 years
-- Work requirements would cause millions to lose access
-- Langworthy claims "no SNAP cuts" despite reduced spending
-
-[Full fact-check: SNAP Cuts →](/fact-checks/2025-12-snap-cuts/)
-[Full fact-check: Farm Bill Victory →](/fact-checks/2025-12-farm-bill-victory/)
+VA rural healthcare access and service gaps in the district.
+→ [VA rural summary](/fact-checks/2026-02-09-va-rural-impact-summary/) | [Veterans support claim](/fact-checks/2025-08-veterans-support/)
 
 ---
 
-### Rural Hospital Access
+## Energy & Utility Costs
 
-**Medicaid Cuts Impact:**
-- 1.3M+ dually eligible (Medicare + Medicaid) projected to lose Medicaid per CBO
-- 8 Southern Tier hospitals at risk
-- Rural hospitals depend heavily on Medicaid reimbursements
-
-**Langworthy's Claim:**
-> "Not a single person" among seniors and disabled will lose coverage
-
-**Verdict:** MISLEADING — CBO projects 1.3M+ losses among dually eligible
-
-[Full fact-check: Medicaid Coverage Cuts →](/fact-checks/2025-05-medicaid-coverage-cuts/)
+NYSEG rates up 16.8% in 2024; PSC approved another increase in 2025. Langworthy introduced the Energy Choice Act (pre-empts state clean energy law) but has not commented on rate proceedings.
+→ [Utility rates investigation](/fact-checks/2026-03-14-nys-utility-rates-data-investigation/) | [NYSEG rate hike silence](/fact-checks/2026-02-25-nyseg-rate-hike-silence/) | [Energy Choice Act](/fact-checks/2026-02-25-energy-choice-act/) | [Energy policy & donors](/fact-checks/2025-12-energy-policy-oil-gas/)
 
 ---
 
 ## Tax Policy
 
-### "No Tax on Tips/Overtime" — The Fine Print
-
-Langworthy promotes these provisions as simple tax relief. Reality is more complex:
-
-| Provision | What Langworthy Says | What the Law Actually Does |
-|-----------|---------------------|---------------------------|
-| No Tax on Tips | Simple, universal | Capped at $25,000; phases out above $160K (single)/$320K (married) |
-| No Tax on Overtime | Workers keep overtime | Requires FLSA coverage determination; employer reporting waived |
-| Auto Loan Interest | Deduct car payments | Only "final assembly" US vehicles; phases out at $100K+ income |
-
-**Expert Assessment (AEI):**
-> "They are much more complicated than what your ordinary middle-class household is used to dealing with."
-
-[Full fact-check: PTC Pivot (includes tax complexity) →](/fact-checks/2026-01-14-ptc-pivot/)
+"No tax on tips/overtime" provisions carry income phase-outs and FLSA eligibility requirements that most district residents would not meet. IDA tax exemptions shift $776M in property tax burden to homeowners across 8 counties.
+→ [PTC pivot (includes tax complexity)](/fact-checks/2026-01-14-ptc-pivot/) | [IDA donor-exemption pattern](/fact-checks/2026-03-21-ida-donor-exemption-pattern/) | [Campaign finance & IDA apparatus](/campaign-finance/)
 
 ---
 
 ## Constituent Access
 
-### Town Halls
-
-- **Zero in-person town halls** documented since January 2023
-- Every constituent letter promises "My door is always open..."
-- Telephone town halls only
-
-### Form Letter Responses
-
-- **100% of documented responses** are form letters
-- Hidden tracking codes in all responses
-- Responses often arrive **after** votes are cast
-
-[Correspondence Tracker →](/correspondence/)
+Zero in-person town halls documented since January 2023. 100% of documented responses to constituent letters are form letters, often arriving after votes are cast.
+→ [Constituent access — town halls](/fact-checks/2025-04-constituent-access-town-halls/) | [Correspondence tracker](/correspondence/)
 
 ---
 
-## Related Fact-Checks by Local Impact
+## Childcare & Family Services
 
-Browse fact-checks tagged with local impact:
-
-- [All "local-impact" tagged entries →](/tags/local-impact/)
-- [Healthcare tagged entries →](/tags/healthcare/)
-- [Hospital tagged entries →](/tags/hospitals/)
+HHS froze Child Care and Development Fund, TANF, and SSBG for New York in January 2026. Langworthy cited Minnesota fraud involving a different program to justify the freeze.
+→ [Childcare freeze](/fact-checks/2026-01-31-childcare-freeze/)
 
 ---
 
-*All information sourced from official records, news coverage, and constituent submissions. See individual fact-checks for full citations.*
+## County Profiles
 
-*Last updated: February 4, 2026*
+Deep-dive impact profiles for individual counties in NY-23:
+
+- [Steuben County](/fact-checks/2026-02-08-steuben-rural-impact-summary/)
+- [Tioga County](/fact-checks/2026-02-10-tioga-county-federal-impact/)
+- [Allegany County (grants focus)](/fact-checks/2026-02-08-allegany-county-grants-accord/)
+
+---
+
+*All entries link to fully sourced fact-checks. See individual pages for citations, methodology, and verdict.*

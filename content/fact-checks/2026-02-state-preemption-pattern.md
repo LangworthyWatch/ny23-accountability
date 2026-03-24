@@ -6,7 +6,7 @@ topic: "Transparency"
 claim_date: "February 2026"
 source: "Press Releases, Congressional Record"
 source_url: "https://langworthy.house.gov/media/press-releases/congressman-langworthy-introduces-dietary-supplement-regulatory-uniformity-act"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260324194137/https://langworthy.house.gov/media/press-releases/congressman-langworthy-introduces-dietary-supplement-regulatory-uniformity-act"
 verdict: "DOCUMENTED PATTERN"
 tags: ["legislation", "preemption", "energy", "supplements", "ai", "states-rights", "pattern"]
 counties: ["erie", "niagara", "chautauqua", "cattaraugus", "allegany", "steuben", "chemung", "schuyler", "tioga"]

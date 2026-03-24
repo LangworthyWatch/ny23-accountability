@@ -6,7 +6,7 @@ topic: "Government Transparency"
 claim_date: "July 18, 2025"
 source: "Press Statement"
 source_url: "https://langworthy.house.gov/media/press-releases"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260324194412/https://langworthy.house.gov/media/press-releases"
 verdict: "CONTRADICTION"
 tags: ["transparency", "Epstein", "voting-record", "contradiction"]
 counties: ["district-wide"]

@@ -6,7 +6,7 @@ topic: "Campaign Finance / Legislation"
 claim_date: "January 16, 2026"
 source: "Press Release"
 source_url: "https://langworthy.house.gov/media/press-releases/congressman-langworthy-introduces-seneca-nation-law-enforcement-efficiency-act"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260324194159/https://langworthy.house.gov/media/press-releases/congressman-langworthy-introduces-seneca-nation-law-enforcement-efficiency-act"
 verdict: "MISSING CONTEXT"
 tags: ["campaign-finance", "seneca-nation", "tribal-sovereignty", "legislation", "fec", "gaming", "transparency"]
 counties: ["cattaraugus", "chautauqua", "erie"]

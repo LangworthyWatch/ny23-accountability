@@ -6,7 +6,7 @@ topic: "Energy / Utility Costs"
 claim_date: "June 2025–February 2026"
 source: "Press Release, Committee Action"
 source_url: "https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-introduces-energy-choice-act-end-blue-state-wars-0"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260324194116/https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-introduces-energy-choice-act-end-blue-state-wars-0"
 verdict: "MISLEADING"
 tags: ["energy", "environment", "natural-gas", "energy-choice-act", "preemption", "states-rights", "lobbying", "american-gas-association", "building-codes"]
 counties: ["district-wide"]

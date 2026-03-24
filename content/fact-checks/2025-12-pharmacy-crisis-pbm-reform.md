@@ -6,7 +6,7 @@ topic: "Healthcare"
 claim_date: "December 17, 2025"
 source: "Press Release, Floor Speech, Wellsville Sun Interview"
 source_url: "https://wellsvillesun.com/blog/2025/12/17/langworthy-urges-house-leadership-to-act-now-on-comprehensive-pharmacy-reform/"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260209224610/https://wellsvillesun.com/blog/2025/12/17/langworthy-urges-house-leadership-to-act-now-on-comprehensive-pharmacy-reform/"
 verdict: "MISSING CONTEXT"
 counties: ["chautauqua", "steuben", "allegany", "cattaraugus", "chemung", "schuyler", "tioga"]
 ---
