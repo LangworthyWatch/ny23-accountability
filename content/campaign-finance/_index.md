@@ -12,6 +12,8 @@ Two distinct analyses are on this page. They cover different time periods, diffe
 | [Federal Fundraising](#federal-campaign-finance-2023-2024) | FEC contributions to Langworthy's congressional campaign | February 2025 (2023–2024 cycle) |
 | [IDA Apparatus Analysis](#ida-tax-exemptions-and-the-langworthy-apparatus) | State-level donations to Langworthy-controlled committees vs. IDA tax exemptions | March 2026 |
 
+**[→ Interactive Network Map](/network-map/)** — zoom, pan, and explore every node and connection in the IDA donor apparatus.
+
 ---
 
 ## Federal Campaign Finance (2023–2024)

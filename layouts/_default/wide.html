@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article class="section">
+  <div class="container">
+    <header class="factcheck-header">
+      <h1 class="factcheck-title">{{ .Title }}</h1>
+      {{ with .Description }}
+      <p class="factcheck-meta">{{ . }}</p>
+      {{ end }}
+    </header>
+    <div class="content">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+{{ end }}
