@@ -11,7 +11,7 @@ from datetime import datetime
 
 
 class ReviewQueue:
-    def __init__(self, pending_dir="storage/raw_statements", verified_dir="storage/verified"):
+    def __init__(self, pending_dir="../storage/raw_statements", verified_dir="../storage/verified"):
         self.pending_dir = Path(pending_dir)
         self.verified_dir = Path(verified_dir)
         self.verified_dir.mkdir(parents=True, exist_ok=True)

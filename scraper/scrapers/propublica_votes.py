@@ -20,7 +20,7 @@ class ProPublicaVoteScraper:
         """
         self.api_key = api_key
         self.base_url = "https://api.propublica.org/congress/v1"
-        self.member_id = "L000266"  # Langworthy's ProPublica ID
+        self.member_id = "L000600"  # Langworthy's Bioguide ID
         self.storage_dir = Path(storage_dir)
         self.storage_dir.mkdir(parents=True, exist_ok=True)
 

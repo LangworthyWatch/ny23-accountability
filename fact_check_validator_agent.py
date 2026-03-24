@@ -37,7 +37,7 @@ class Colors:
 class FactCheckValidator:
     def __init__(self, content_root=None):
         if content_root is None:
-            content_root = Path(__file__).parent / "Fact Checks"
+            content_root = Path(__file__).parent / "content" / "fact-checks"
         else:
             content_root = Path(content_root)
 

@@ -25,7 +25,7 @@ Every entry on this site must meet these criteria:
 
 - **Primary sources only**: We link directly to congress.gov, official websites, and archived pages
 - **Complete context**: Full quotes with dates and circumstances
-- **Archived evidence**: All sources archived via Archive.org for permanence
+- **Archived evidence**: Sources are archived via Archive.org where completed; archiving is ongoing for the full catalog
 - **Factual accuracy**: Claims verified against multiple official sources
 - **No speculation**: We document what was said and done, not motives or intentions
 
@@ -104,6 +104,27 @@ We use standardized verdict labels:
 | **NOT SUPPORTED** | Claim lacks evidence |
 | **DISPUTED BY OFFICIALS** | Claim contradicted by statements from relevant officials |
 
+### Extended Labels
+
+Used where the core set doesn't fully describe the finding:
+
+| Verdict | Meaning |
+|---------|---------|
+| **PARTIALLY MISLEADING** | Some elements accurate, others create a false impression |
+| **INCONSISTENT** | Position or statement conflicts with a prior stated position |
+| **MISSING ATTRIBUTION** | Credit claimed for work done by others |
+| **FALSE / MISLEADING** | Contains both outright false elements and misleading framing |
+| **DISPUTED BY [PARTY]** | Claim contradicted by a named party (e.g., labor union, agency) — variant of DISPUTED BY OFFICIALS |
+
+### Multi-Claim Entries
+
+Entries covering multiple distinct claims use:
+
+| Verdict | Meaning |
+|---------|---------|
+| **MULTIPLE** | Entry covers multiple claims with different verdicts (see individual ratings in body) |
+| **MULTIPLE — See Individual Ratings** | Same as above; used when the claims are formally listed with per-claim verdicts |
+
 ---
 
 ## Corrections Policy
@@ -128,7 +149,7 @@ We do not accept funding from political organizations or PACs.
 
 ## Transparency
 
-All sources are linked and archived. Readers can verify every claim independently.
+All sources are linked to primary records. Archive.org backups are in progress across the catalog — readers can verify claims directly via the linked sources.
 
 Our fact-checks cite:
 - Congress.gov for voting records

@@ -7,12 +7,10 @@ description: "Tracking Rep. Langworthy's voting attendance record in Congress"
 
 ## Voting Attendance Record
 
-**Period:** January 3, 2023 - February 3, 2026
+**Period:** January 3, 2023 – December 2025 *(data current through December 2025; 2026 figures pending data refresh — see GovTrack for current totals)*
 
-**Total Roll Call Votes:** 1,656
-**Votes Cast:** 1,591
-**Missed Votes:** 65
-**Attendance Rate:** 96.1%
+**Total Roll Call Votes:** 1,603 *(as of December 2025)*
+**Missed Votes:** 62
 **Missed Vote Rate:** 3.9%
 
 ---
@@ -80,7 +78,7 @@ Each missed vote means constituents of NY-23 had no representation on that issue
 
 Vote attendance data compiled from [GovTrack](https://www.govtrack.us/congress/members/nick_langworthy/456858) and [Congress.gov](https://www.congress.gov/member/nicholas-langworthy/L000600) official roll call records.
 
-**Last Updated:** March 21, 2026 *(March 2026 data pending — check GovTrack for current figures)*
+**Data current through:** December 22, 2025. For current figures, check [GovTrack](https://www.govtrack.us/congress/members/nick_langworthy/456858) directly.
 
 ---
 
@@ -91,4 +89,4 @@ View the complete list of missed votes:
 - **[GovTrack - Missed Votes Analysis](https://www.govtrack.us/congress/members/nick_langworthy/456858)**
 - **[Congress.gov - All Votes (filter by "Not Voting")](https://www.congress.gov/member/nicholas-langworthy/L000600/all-votes)**
 
-*Note: Statistics on this page are based on data available as of February 4, 2026. For the most current information, check sources directly.*
+*Note: Statistics on this page are based on data through December 22, 2025. For the most current information, check sources directly.*

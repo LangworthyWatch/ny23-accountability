@@ -15,7 +15,7 @@ We believe constituents deserve access to clear, verifiable information about ho
 
 - **Document public statements** from press releases, social media, interviews, and constituent correspondence
 - **Compare claims with official records** including Congress.gov votes, CBO analyses, and federal agency data
-- **Archive all sources** using Internet Archive and Archive.today for permanent verification
+- **Archive sources** using Internet Archive and Archive.today for permanence (ongoing; status noted per entry)
 - **Present findings clearly** with full context and links to original sources
 
 ### What We Don't Do

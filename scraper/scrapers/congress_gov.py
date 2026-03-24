@@ -13,8 +13,8 @@ from pathlib import Path
 
 class CongressGovScraper:
     def __init__(self, storage_dir="../storage/raw_statements"):
-        # Langworthy's member ID (NY-23, elected 2022)
-        self.member_id = "L000266"
+        # Langworthy's Bioguide ID (NY-23, elected 2022)
+        self.member_id = "L000600"
         self.base_url = "https://www.congress.gov"
         self.member_url = f"{self.base_url}/member/nicholas-langworthy/{self.member_id}"
         self.storage_dir = Path(storage_dir)
