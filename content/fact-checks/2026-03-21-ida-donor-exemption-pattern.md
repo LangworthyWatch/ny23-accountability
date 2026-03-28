@@ -116,12 +116,28 @@ The pattern documented here — IDA beneficiaries donating to the political appa
 * [Campaign Finance: 44% PAC Dependency and Energy Sector Alignment](/fact-checks/2026-02-07-campaign-finance-patterns/)
 * [OBBBA Vote: IDA-Friendly Tax Provisions Made Permanent](/fact-checks/2026-03-21-obbba-ida-vote/)
 
+## Downloadable Data
+
+Verify every claim in this entry yourself. All files are CSV format, derived from public records.
+
+| Dataset | Description | Download |
+|---------|-------------|----------|
+| IDA-to-Langworthy Pipeline | All 74 beneficiary-to-donation matches with exemption ratios | [CSV](/data/ida/langworthy_ida_pipeline.csv) |
+| NY-23 County Scorecards | Per-county IDA stats (projects, exemptions, burden, donors) | [CSV](/data/ida/langworthy_county_scorecards.csv) |
+| Property Tax Impact | Per-household tax shift by NY-23 county | [CSV](/data/ida/langworthy_property_tax_impact.csv) |
+| Broken Job Promises | 108 projects that missed employment targets | [CSV](/data/ida/langworthy_jobs_deficit.csv) |
+| Suspiciously Timed Donations | 248 donations near IDA approval dates | [CSV](/data/ida/timeline_suspicious_patterns.csv) |
+
+[All datasets and methodology](/data/)
+
+---
+
 ## Sources
 
-* NYS Authorities Budget Office IDA project data: data.ny.gov, dataset 9rtk-3fkw (34,348 projects)
-* NYS Board of Elections campaign contributions: elections.ny.gov (12.49 million records)
-* PARIS IDA procurement filings: data.ny.gov, dataset p3p6-xqr5
-* NYS Comptroller Audit S9-15-70 (ECIDA, 2017): osc.ny.gov
+* [NYS Authorities Budget Office IDA project data](https://data.ny.gov/Transparency/Public-Authorities-Reporting-Information-System-PA/9rtk-3fkw): data.ny.gov, dataset 9rtk-3fkw (34,348 projects)
+* [NYS Board of Elections campaign contributions](https://publicreporting.elections.ny.gov/): elections.ny.gov (12.49 million records)
+* [PARIS IDA procurement filings](https://data.ny.gov/Transparency/Public-Authorities-Reporting-Information-System-PA/p3p6-xqr5): data.ny.gov, dataset p3p6-xqr5
+* [NYS Comptroller Audit S9-15-70 (ECIDA, 2017)](https://www.osc.ny.gov/): osc.ny.gov
 * NYS Comptroller Cattaraugus County IDA audit: osc.ny.gov
 * Full cross-reference methodology and county data: [thepublicledgers.org/ida/states/ny/](https://thepublicledgers.org/ida/states/ny/)
 

@@ -253,24 +253,23 @@ The documented instances reveal a consistent pattern:
 ## Sources & Methodology
 
 **Congressional Records:**
-- House Oversight Committee proceedings (Dec 2025)
-- Roll call votes (2023-2025)
-- Committee membership records
+- [House Oversight Committee proceedings](https://oversight.house.gov/) (Dec 2025)
+- [Roll call votes (2023-2025)](https://clerk.house.gov/Votes)
+- [Rep. Langworthy — Votes and Legislation](https://langworthy.house.gov/about/votes-and-legislation)
 
 **Legal & Statutory References:**
-- 42 U.S.C. § 1396b (Medicaid eligibility)
-- Affordable Care Act provisions
-- Centers for Medicare & Medicaid Services regulations
+- [42 U.S.C. § 1396b (Medicaid eligibility)](https://www.law.cornell.edu/uscode/text/42/1396b)
+- [Affordable Care Act provisions](https://www.healthcare.gov/glossary/affordable-care-act/)
+- [Centers for Medicare & Medicaid Services regulations](https://www.cms.gov/)
 
 **News & Media:**
-- WSKG Public Radio coverage
-- Local Western New York news outlets
-- Hospital eligibility analysis
-- State health department reports
+- WSKG Public Radio: ["'Governing means putting your country first' — Rep. Langworthy on longest shutdown in US history"](https://www.wskg.org/regional-news/2025-11-14/governing-means-putting-your-country-first-rep-langworthy-on-longest-shutdown-in-us-history) (Nov 14, 2025)
+- Observer Today: ["Langworthy discusses health care in Westfield visit"](https://www.observertoday.com/news/top-stories/2025/10/langworthy-discusses-health-care-in-westfield-visit/) (October 2025)
+- Fiscal Policy Institute: ["New York Hospitals will Close under the OBBBA"](https://fiscalpolicy.org/new-york-hospitals-will-close-under-the-one-big-beautiful-bill-act) (June 2025)
 
 **Campaign Materials:**
 - 2022 and 2024 campaign statements
-- Press releases from Rep. Langworthy's office
+- [Press releases from Rep. Langworthy's office](https://langworthy.house.gov/media/press-releases)
 - Public event remarks (verified by multiple sources)
 
 ---

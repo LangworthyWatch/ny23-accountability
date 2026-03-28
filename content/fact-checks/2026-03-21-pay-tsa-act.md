@@ -3,7 +3,7 @@ title: "Pay TSA Act: 'I Don't Support Shutdowns.' Three in Six Months Tell a Mor
 date: 2026-03-21
 draft: false
 topic: "Government Funding / Labor"
-claim_date: "March 21, 2026"
+claim_date: "March 21–28, 2026"
 source: "Facebook Posts"
 source_url: ""
 archived_url: ""
@@ -29,6 +29,14 @@ TSA agents screen passengers at Buffalo Niagara International Airport every day.
 > "I dont support government shutdowns, but My Pay TSA Act will ensure that our hardworking TSA agents can continue to get paid when they happen. This is a simple, common sense fix to right this wrong and ensure our skies remain safe."
 
 Accompanying House GOP graphic: *"TSA OFFICERS HAVE BEEN FORCED TO WORK WITHOUT PAY FOR 43% OF FY 2026"* — illustrated with crossed-out calendar days from October 2025 through March 2026.
+
+**Source 3:** Facebook post sharing WBEN interview (March 28, 2026):
+
+> "This morning, I joined WBEN to discuss the DHS shutdown and why it's way past time for action."
+
+> "Our skies are vulnerable to attack because you have a low morale workforce at the TSA. We have to support these people and get them paid."
+
+{{< figure src="/images/fact-checks/2026-03-28-wben-tsa-shutdown.jpeg" alt="Langworthy Facebook post sharing WBEN interview about DHS shutdown and TSA pay, with Aviation Safety Caucus press conference photo" caption="Facebook post, March 28, 2026" >}}
 
 ---
 
@@ -138,12 +146,29 @@ Both posts blame the shutdown on Democrats — consistent with Langworthy's stat
 - [Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record](/fact-checks/2026-02-02-shutdown-defund-ice/) — "I have always been opposed to shutdowns" rated FALSE; December 2024 no vote documented
 - [DHS Shutdown Claim During Operation Epic Fury](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) — Full breakdown of the current DHS funding lapse and TSA operational impact
 - [Minneapolis Shooting: Renee Good](/fact-checks/2026-02-04-minneapolis-renee-good/) — The context for Democratic demands that triggered DHS-specific shutdowns
+- ['41 Days of Chaos': Shutdown Blame Paired with Immigration Fear](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) — March 28 messaging blitz combining shutdown and immigration
+
+---
+
+## Update: March 27-28, 2026
+
+On March 27, one week after introducing the Pay TSA Act, events overtook the bill:
+
+- **President Trump signed a directive** to pay TSA employees, with paychecks expected as early as March 31 — achieving through executive action what Langworthy's bill proposed through legislation
+- The **Senate passed** a bill funding most of DHS but excluding ICE/CBP funding
+- The **House rejected** the Senate bill, then passed its own stopgap through May 22
+- Both chambers **left for two-week recess** with no resolution
+
+Langworthy told WBEN on March 28 that the situation was *"such a mess"* and *"a great example of how people are doing things spitefully for the sake of their own politics."* He added: *"Our skies are vulnerable to attack because you have a low morale workforce at the TSA. We have to support these people and get them paid."*
+
+The Trump directive may render the Pay TSA Act moot for the current shutdown — though the structural problem of aviation fee diversion remains unaddressed.
 
 ---
 
 ## Sources
 
 * Rep. Langworthy Facebook posts, March 21, 2026
+* Rep. Langworthy Facebook post, March 28, 2026 (WBEN interview): "Our skies are vulnerable to attack because you have a low morale workforce at the TSA. We have to support these people and get them paid." [Link: https://www.audacy.com/wben/news/local/nearing-recess-langworthy-says-senate-holding-up-tsa-deal]
 * [WGRZ: Langworthy Proposes Bill to Ensure Pay for TSA Workers During Government Shutdowns](https://www.wgrz.com/article/news/politics/nick-langworthy-proposes-bill-to-ensure-pay-for-tsa-workers/71-524d2835-f021-4687-af31-e03911c64f04)
 * [WBNG: Rep. Langworthy Pushes Bill to Keep TSA Agents Paid During Government Shutdowns](https://www.wbng.com/2026/03/18/rep-nick-langworthy-pushes-bill-keep-tsa-agents-paid-during-government-shutdowns/)
 * [Spectrum News: Rep. Langworthy Introduces Legislation to Pay TSA Workers Amid Shutdown](https://spectrumlocalnews.com/nys/hudson-valley/news/2026/03/18/rep--langworthy-introduces-legislation-to-pay-tsa-workers-amid-shutdown)
@@ -153,9 +178,13 @@ Both posts blame the shutdown on Democrats — consistent with Langworthy's stat
 * [CHDS: Early 2026 Government Shutdowns Timeline](https://www.chds.us/c/timeline/early-2026-government-shutdowns/)
 * [Government Executive: Travel Industry Rallies Support for TSA Staff Working Without Pay](https://www.govexec.com/pay-benefits/2026/03/travel-industry-rallies-support-tsa-staff-working-without-pay-amid-concern-delays-during-shutdown/411956/)
 * Congress.gov: H.R. 10545 vote record (December 19, 2024) — Langworthy: NO
+* [NPR: House Republicans Reject Senate DHS Bill, Trump Signs TSA Directive](https://www.npr.org/2026/03/27/g-s1-115366/senate-dhs-tsa-deal)
+* [Federal News Network: Trump Signs Order to Pay TSA Employees Amid Shutdown](https://federalnewsnetwork.com/government-shutdown/2026/03/trump-signs-order-to-pay-tsa-employees-amid-shutdown-standoff/)
+* [WBEN: Nearing Recess, Langworthy Says Senate Holding Up TSA Deal](https://www.audacy.com/wben/news/local/nearing-recess-langworthy-says-senate-holding-up-tsa-deal)
+* [CNBC: House GOP Spikes DHS Funding Proposal, Extending Shutdown](https://www.cnbc.com/2026/03/27/dhs-tsa-shutdown-congress.html)
 
 ---
 
 **Note:** This entry documents publicly available information from official agency data, congressional vote records, news organizations, and the representative's own statements. Readers may draw their own conclusions.
 
-*Last updated: March 21, 2026*
+*Last updated: March 28, 2026*

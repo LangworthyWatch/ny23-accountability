@@ -128,11 +128,11 @@ The same "One Big Beautiful Bill" that cut rural hospital funding (see related f
 
 ## Sources
 
-- WSKG Public Radio: Natalie Abruzzo, coverage of shutdown votes and impacts (Oct-Nov 2025)
-- Olean Times Herald: Veterans Day coverage and veteran reactions (Nov 11, 2025)
-- Congressional Record: Voting record on funding bills (Sept-Nov 2025)
+- WSKG Public Radio: [Natalie Abruzzo, coverage of shutdown votes and impacts](https://www.wskg.org/) (Oct-Nov 2025)
+- Olean Times Herald: [Veterans Day coverage and veteran reactions](https://www.oleantimesherald.com/) (Nov 11, 2025)
+- Congressional Record: [Voting record on funding bills](https://www.congress.gov/member/nick-langworthy/L000599) (Sept-Nov 2025)
 - Veterans of Foreign Wars (VFW): Statements on shutdown impact
-- Bath VA Medical Center: Public notices on reduced operations during shutdown
+- Bath VA Medical Center: [Public notices on reduced operations during shutdown](https://www.va.gov/bath-health-care/)
 - Social media: Langworthy's public posts during shutdown period
 
 ---

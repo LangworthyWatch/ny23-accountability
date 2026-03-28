@@ -102,9 +102,9 @@ Langworthy's framing:
 
 ## Sources
 
-- Congress.gov: H.R. 140 legislative record (118th Congress)
-- House Rules Committee: H.R. 140 materials
-- Senate Committee on Homeland Security and Governmental Affairs: Referral records
+- Congress.gov: [H.R. 140 legislative record (118th Congress)](https://www.congress.gov/bill/118th-congress/house-bill/140)
+- House Rules Committee: [H.R. 140 materials](https://rules.house.gov/)
+- Senate Committee on Homeland Security and Governmental Affairs: [Referral records](https://www.hsgac.senate.gov/)
 
 ---
 

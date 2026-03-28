@@ -163,15 +163,15 @@ This entry is rated DOCUMENTED PATTERN because it fits a recurring dynamic acros
 ## Sources
 
 **PSC Rate Case:**
-- NY PSC Cases 25-E-0375 (electric) and 25-G-0378 (gas)
+- [NY PSC Cases 25-E-0375 (electric) and 25-G-0378 (gas)](https://www3.dps.ny.gov/)
 - NY PSC Management Audit (May 19, 2025) — 128 findings, Avangrid "prioritizes corporate earnings"
 
 **Riley Actions:**
-- Riley.house.gov: Intervenor filing (Jul 2025), Investigation launch (Apr 2025), Cross-examination press release (Feb 20, 2026)
-- Congress.gov: H.R. 5487 (Keep the Lights Local Act), H.R. 6590 (No Bonuses for Utility Executives Act), H.R. 1355 (Weatherization Enhancement and Readiness Act)
+- [Riley.house.gov](https://riley.house.gov/): Intervenor filing (Jul 2025), Investigation launch (Apr 2025), Cross-examination press release (Feb 20, 2026)
+- Congress.gov: [H.R. 5487 (Keep the Lights Local Act)](https://www.congress.gov/bill/119th-congress/house-bill/5487/text), [H.R. 6590 (No Bonuses for Utility Executives Act)](https://www.congress.gov/bill/119th-congress/house-bill/6590/text), [H.R. 1355 (Weatherization Enhancement and Readiness Act)](https://www.congress.gov/bill/119th-congress/house-bill/1355)
 
 **Langworthy Record:**
-- Langworthy.house.gov — zero results for NYSEG, Avangrid, or Iberdrola
+- [Langworthy.house.gov](https://langworthy.house.gov/) — zero results for NYSEG, Avangrid, or Iberdrola
 
 **Corporate/Financial:**
 - Iberdrola 2024 Annual Results

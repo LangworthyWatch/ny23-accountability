@@ -75,6 +75,16 @@ His **lifetime League of Conservation Voters score is 3%**, with a **2024 score 
 
 ## Sources
 
-NY PSC · NYISO · National Grid HY 2025/26 Results · National Grid Annual Report 2024/25 · Directors' Remuneration Report · Lazard LCOE+ 2025 · EIA · LCV · OpenSecrets · NY Dept of Public Service
+* [NY Public Service Commission: Rate Case Filings](https://www3.dps.ny.gov/W/PSCWeb.nsf/All/C4A4CAEBB6CDB10A85257687006F39ED)
+* [NYISO: Market and Operations Data](https://www.nyiso.com/energy-market-operational-data)
+* [National Grid: Half Year 2025/26 Results](https://www.nationalgrid.com/investors/results-reports-presentations)
+* [National Grid: Annual Report 2024/25](https://www.nationalgrid.com/investors/results-reports-presentations)
+* [Lazard: Levelized Cost of Energy+ (LCOE+) 2025](https://www.lazard.com/research-insights/levelized-cost-of-energyplus/)
+* [EIA: Electricity Data Browser](https://www.eia.gov/electricity/data.php)
+* [League of Conservation Voters: Langworthy Scorecard](https://scorecard.lcv.org/moc/nick-langworthy)
+* [OpenSecrets: Nick Langworthy](https://www.opensecrets.org/members-of-congress/nick-langworthy/summary?cid=N00050227)
+* [NY Department of Public Service](https://www3.dps.ny.gov/)
+
+**Downloadable data:** [All utility rate investigation datasets](/data/#ny-utility-rate-investigation)
 
 *Last updated: February 20, 2026*

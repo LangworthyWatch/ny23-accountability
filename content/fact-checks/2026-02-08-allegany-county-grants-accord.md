@@ -133,15 +133,15 @@ The simultaneous ACCORD service suspension adds a dimension absent from Langwort
 
 ## Sources
 
-* The Wellsville Sun: "Congressman Langworthy Announces $560,000 Federal Grant to Improve Sewer Infrastructure in Allegany County"
-* The Wellsville Sun: "Congressman Nick Langworthy Announces Over $2.6 Million Grant for Head Start Projects in Allegany County"
-* The Wellsville Sun: "Congressman Langworthy Announces $254,169 in Federal Funding for Cornell Cooperative Extension of Allegany County"
-* The Wellsville Sun: "Langworthy takes questions from the floor of Allegany County Legislature"
-* Olean Times Herald: "Langworthy announces $2.5M in grants for Allegany County"
-* WLEA News: "Langworthy: Getting A Grant For Allegany County"
+* [The Wellsville Sun](https://www.wellsvillesun.com/): "Congressman Langworthy Announces $560,000 Federal Grant to Improve Sewer Infrastructure in Allegany County"
+* [The Wellsville Sun](https://www.wellsvillesun.com/): "Congressman Nick Langworthy Announces Over $2.6 Million Grant for Head Start Projects in Allegany County"
+* [The Wellsville Sun](https://www.wellsvillesun.com/): "Congressman Langworthy Announces $254,169 in Federal Funding for Cornell Cooperative Extension of Allegany County"
+* [The Wellsville Sun](https://www.wellsvillesun.com/): "Langworthy takes questions from the floor of Allegany County Legislature"
+* [Olean Times Herald](https://www.oleantimesherald.com/): "Langworthy announces $2.5M in grants for Allegany County"
+* [WLEA News](https://www.wlea.net/): "Langworthy: Getting A Grant For Allegany County"
 * Allegany Hope: "ACCORD suspends Allegany County services following Presidential executive order"
-* HHS: Head Start Designation Renewal System documentation
-* ARC: Area Development Grant application process
+* HHS: [Head Start Designation Renewal System documentation](https://eclkc.ohs.acf.hhs.gov/designation-renewal-system)
+* ARC: [Area Development Grant application process](https://www.arc.gov/grants-and-contracts/)
 * Related: [Infrastructure: Earmarks vs. Formula Grants](/fact-checks/2025-12-infrastructure-credit/)
 * Related: [Steuben County: Ten Federal Funding Claims Examined](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
 

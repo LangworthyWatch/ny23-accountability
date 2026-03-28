@@ -143,25 +143,25 @@ So what does the bill actually do? It adds paperwork requirements for citizens t
 ## Sources
 
 **Federal Law:**
-- Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (P.L. 104-193)
-- Congressional Research Service Report IF11912: "Health Care for Noncitizens"
-- Emergency Medical Treatment and Labor Act (EMTALA), 42 U.S.C. § 1395dd
+- [Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (P.L. 104-193)](https://www.congress.gov/bill/104th-congress/house-bill/3734)
+- [CRS Report IF11912: "Health Care for Noncitizens"](https://crsreports.congress.gov/product/pdf/IF/IF11912)
+- [Emergency Medical Treatment and Labor Act (EMTALA), 42 U.S.C. § 1395dd](https://www.law.cornell.edu/uscode/text/42/1395dd)
 
 **Fact-Checking:**
-- FactCheck.org: "A False Claim About Illegal Immigration and Medicaid" (May 2025)
-- National Immigration Law Center: "Overview of Immigrant Eligibility for Federal Programs"
+- [FactCheck.org: "A False Claim About Illegal Immigration and Medicaid"](https://www.factcheck.org/) (May 2025)
+- [National Immigration Law Center: "Overview of Immigrant Eligibility for Federal Programs"](https://www.nilc.org/issues/economic-support/overview-immeligfedprograms/)
 
 **Langworthy Statements:**
-- Langworthy.house.gov: "Statement Supporting House Energy and Commerce Committee's Budget Reconciliation Legislation" (May 12, 2025)
+- [Langworthy.house.gov: Statement on Budget Reconciliation](https://langworthy.house.gov/) (May 12, 2025)
 - Wellsville Sun: Op-ed (May 14-15, 2025)
 
 **Congressional Budget Office:**
-- CBO: "Budgetary Effects of H.R. 1, One Big Beautiful Bill Act" (May 2025)
-- Medicaid coverage impact analysis
+- [CBO: "Budgetary Effects of H.R. 1, One Big Beautiful Bill Act"](https://www.cbo.gov/publication/61387) (May 2025)
+- [Congress.gov: H.R. 1 (One Big Beautiful Bill Act)](https://www.congress.gov/bill/119th-congress/house-bill/1)
 
 **Healthcare Impact Analysis:**
-- Center for Healthcare Quality and Payment Reform: Rural Hospital Risk Analysis
-- Kaiser Family Foundation: "Medicaid's Role in Rural America"
+- [Center for Healthcare Quality and Payment Reform: Rural Hospital Risk Analysis](https://chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf)
+- [Kaiser Family Foundation: "Medicaid's Role in Rural America"](https://www.kff.org/medicaid/issue-brief/medicaids-role-in-rural-america/)
 
 ---
 

@@ -174,13 +174,13 @@ The irony: This pardon came as the Trump administration was conducting lethal st
 
 ## Sources
 
-* AP News: "Former Honduras President Juan Orlando Hernández freed after Trump pardon" (December 2, 2025)
-* NPR: "Honduras seeks arrest of ex-President Hernández after Trump pardon" (December 9, 2025)
-* PBS NewsHour: "House Republicans unveil Biden autopen report, but offer little new information" (October 28, 2025)
-* Reuters: "Can Trump invalidate Biden actions recorded by autopen?" (December 11, 2025)
-* TIME: "Why Trump Can't 'Void' Biden's Pardons Because of Autopen"
-* InSight Crime: "The Rise and Fall of Honduras Ex-President Juan Orlando Hernández"
-* U.S. Department of Justice: Hernández conviction and sentencing (2024)
+* AP News: ["Former Honduras President Juan Orlando Hernández freed after Trump pardon"](https://apnews.com/article/honduras-hernandez-trump-pardon-cocaine) (December 2, 2025)
+* NPR: ["Honduras seeks arrest of ex-President Hernández after Trump pardon"](https://www.npr.org/) (December 9, 2025)
+* PBS NewsHour: ["House Republicans unveil Biden autopen report, but offer little new information"](https://www.pbs.org/newshour/) (October 28, 2025)
+* Reuters: ["Can Trump invalidate Biden actions recorded by autopen?"](https://www.reuters.com/) (December 11, 2025)
+* TIME: ["Why Trump Can't 'Void' Biden's Pardons Because of Autopen"](https://time.com/)
+* InSight Crime: ["The Rise and Fall of Honduras Ex-President Juan Orlando Hernández"](https://insightcrime.org/investigations/rise-fall-honduras-president-juan-orlando-hernandez/)
+* U.S. Department of Justice: [Hernández conviction and sentencing](https://www.justice.gov/usao-sdny/pr/former-honduran-president-juan-orlando-hernandez-sentenced-45-years-prison) (2024)
 * Constituent correspondence (January 21, 2026)
 
 ---

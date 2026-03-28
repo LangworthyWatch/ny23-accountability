@@ -159,19 +159,19 @@ Senator John Kennedy (R-LA): Negotiations would be "about as productive and effi
 ## Related Fact-Checks
 
 - [Minneapolis Shootings: Calling Renee Good a "Violent Rioter"](/fact-checks/2026-02-04-minneapolis-renee-good/)
+- ['41 Days of Chaos': Shutdown Blame Paired with Immigration Fear](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) — Later iteration of the same shutdown-blame framing
 
 ---
 
 ## Sources
 
 * Langworthy Facebook post (February 2, 2026)
-* Congress.gov: H.R. 10545 vote record (December 19, 2024) — Langworthy: NO
-* NPR: "Minneapolis shootings and federal response" (January 2026)
+* [Congress.gov: H.R. 10545 vote record](https://www.congress.gov/bill/118th-congress/house-bill/10545) (December 19, 2024) — Langworthy: NO
+* [NPR: Minneapolis shootings and federal response](https://www.npr.org/2026/01/08/g-s1-42338/minneapolis-ice-shooting-renee-good) (January 2026)
 * Minneapolis Mayor Jacob Frey: Public statement on video evidence
-* CBS News: Shutdown coverage (January-February 2026)
-* Senator statements on DHS negotiations
-* House Appropriations Committee: DHS funding bill details
-* ICE reconciliation funding: H.R. 1 provisions
+* [CBS News: Government shutdown coverage](https://www.cbsnews.com/news/government-shutdown-2026/) (January-February 2026)
+* [Wikipedia: 2026 United States federal government shutdowns](https://en.wikipedia.org/wiki/2026_United_States_federal_government_shutdowns) — Timeline and context
+* [Congress.gov: H.R. 1 (One Big Beautiful Bill Act)](https://www.congress.gov/bill/119th-congress/house-bill/1) — ICE reconciliation funding provisions
 
 ---
 

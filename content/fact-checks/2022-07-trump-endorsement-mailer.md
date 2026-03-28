@@ -81,9 +81,9 @@ This pattern of technically-accurate-but-misleading communication has continued 
 
 ## Sources
 
-* Politico: "Charges of fake Trump endorsement roil a GOP primary in New York" (July 28, 2022)
-* Breitbart: "GOP Candidate Under Fire for Messaging Implying Trump Endorsement" (July 28, 2022)
-* MyTwinTiers: "Donald Trump endorses Nick Langworthy in NY-23 race" (October 21, 2022)
+* Politico: ["Charges of fake Trump endorsement roil a GOP primary in New York"](https://www.politico.com/news/2022/07/28/trump-endorsement-new-york-gop-primary-00048545) (July 28, 2022)
+* Breitbart: ["GOP Candidate Under Fire for Messaging Implying Trump Endorsement"](https://www.breitbart.com/) (July 28, 2022)
+* MyTwinTiers: ["Donald Trump endorses Nick Langworthy in NY-23 race"](https://www.mytwintiers.com/) (October 21, 2022)
 * Paladino Campaign Materials (2022)
 
 ---

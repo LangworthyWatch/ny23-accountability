@@ -1,0 +1,31 @@
+year,utility,parent_company,ceo_comp,ceo_comp_growth_pct,rate_cents,us_rate_cents,rate_growth_pct,rate_premium_vs_us_pct,cpi_growth_pct
+2015,Consolidated Edison,Consolidated Edison Inc,10500000.00,0.00,17.75,12.65,0.00,40.32,0.00
+2016,Consolidated Edison,Consolidated Edison Inc,11200000.00,6.67,17.63,12.55,-0.68,40.48,1.30
+2017,Consolidated Edison,Consolidated Edison Inc,10800000.00,2.86,17.24,12.89,-2.87,33.75,3.40
+2018,Consolidated Edison,Consolidated Edison Inc,12100000.00,15.24,17.62,12.87,-0.73,36.91,5.80
+2019,Consolidated Edison,Consolidated Edison Inc,14700000.00,40.00,17.75,13.01,0.00,36.43,7.70
+2020,Consolidated Edison,Consolidated Edison Inc,15200000.00,44.76,17.77,13.15,0.11,35.13,9.00
+2021,Consolidated Edison,Consolidated Edison Inc,16800000.00,60.00,19.47,13.72,9.69,41.91,14.40
+2022,Consolidated Edison,Consolidated Edison Inc,15600000.00,48.57,22.43,15.12,26.37,48.35,23.00
+2023,Consolidated Edison,Consolidated Edison Inc,16100000.00,53.33,24.13,15.97,35.94,51.10,28.00
+2024,Consolidated Edison,Consolidated Edison Inc,16300000.00,55.24,25.19,16.83,41.92,49.67,32.90
+2015,National Grid,National Grid plc,9800000.00,0.00,17.75,12.65,0.00,40.32,0.00
+2016,National Grid,National Grid plc,10300000.00,5.10,17.63,12.55,-0.68,40.48,1.30
+2017,National Grid,National Grid plc,11500000.00,17.35,17.24,12.89,-2.87,33.75,3.40
+2018,National Grid,National Grid plc,10400000.00,6.12,17.62,12.87,-0.73,36.91,5.80
+2019,National Grid,National Grid plc,11700000.00,19.39,17.75,13.01,0.00,36.43,7.70
+2020,National Grid,National Grid plc,12300000.00,25.51,17.77,13.15,0.11,35.13,9.00
+2021,National Grid,National Grid plc,14100000.00,43.88,19.47,13.72,9.69,41.91,14.40
+2022,National Grid,National Grid plc,13200000.00,34.69,22.43,15.12,26.37,48.35,23.00
+2023,National Grid,National Grid plc,14800000.00,51.02,24.13,15.97,35.94,51.10,28.00
+2024,National Grid,National Grid plc,17500000.00,78.57,25.19,16.83,41.92,49.67,32.90
+2015,Avangrid,Avangrid Inc,8200000.00,0.00,17.75,12.65,0.00,40.32,0.00
+2016,Avangrid,Avangrid Inc,8700000.00,6.10,17.63,12.55,-0.68,40.48,1.30
+2017,Avangrid,Avangrid Inc,9100000.00,10.98,17.24,12.89,-2.87,33.75,3.40
+2018,Avangrid,Avangrid Inc,9800000.00,19.51,17.62,12.87,-0.73,36.91,5.80
+2019,Avangrid,Avangrid Inc,10200000.00,24.39,17.75,13.01,0.00,36.43,7.70
+2020,Avangrid,Avangrid Inc,10500000.00,28.05,17.77,13.15,0.11,35.13,9.00
+2021,Avangrid,Avangrid Inc,11200000.00,36.59,19.47,13.72,9.69,41.91,14.40
+2022,Avangrid,Avangrid Inc,11800000.00,43.90,22.43,15.12,26.37,48.35,23.00
+2023,Avangrid,Avangrid Inc,12400000.00,51.22,24.13,15.97,35.94,51.10,28.00
+2024,Avangrid,Avangrid Inc,13000000.00,58.54,25.19,16.83,41.92,49.67,32.90

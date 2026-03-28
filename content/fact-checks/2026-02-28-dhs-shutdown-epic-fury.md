@@ -190,18 +190,18 @@ This collapses three distinct issues (a foreign military conflict, a domestic bu
 - [Shutdown: "I Have Always Been Opposed to Shutdowns"](/fact-checks/2026-02-02-shutdown-defund-ice/) — Langworthy voted NO on Dec 2024 CR
 - [Minneapolis Shooting: Renee Good](/fact-checks/2026-02-04-minneapolis-renee-good/) — The killing that precipitated Democrats' demands
 - [Telephone Town Hall](/fact-checks/2026-02-telephone-town-hall/) — Earlier DHS shutdown claims
+- ['41 Days of Chaos': Shutdown Blame Paired with Immigration Fear](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) — March 28 messaging blitz combining shutdown blame and immigration scapegoating
 
 ## Sources
 
 * Senate vote records: February 12 and February 24, 2026 cloture votes
-* The Guardian: DHS shutdown reporting, February 2026
-* NPR: DHS operational impact, February 2026
-* PolitiFact: Shutdown responsibility analysis
-* Federal News Network: CISA staffing and workforce cuts
-* TechCrunch: CISA staffing levels
-* Committee for a Responsible Federal Budget: DHS shutdown analysis
-* CRS Report R48832: Economic impact of federal shutdowns
-* Harvard-Harris poll, February 2026
+* [NPR: Department of Homeland Security shutdown](https://www.npr.org/2026/02/14/nx-s1-5713914/department-of-homeland-security-shutdown) — DHS operational impact, February 2026
+* [PolitiFact: Why ICE agents get paid but TSA doesn't](https://www.politifact.com/article/2026/mar/23/TSA-ICE-DHS-shutdown-funding-paid-Trump-airport/) — Shutdown funding analysis
+* [Federal News Network: CISA staff cut by 1,000 positions](https://federalnewsnetwork.com/cybersecurity/2025/05/dhs-budget-request-would-cut-cisa-staff-by-1000-positions/)
+* [TechCrunch: CISA in dire shape amid Trump cuts](https://techcrunch.com/2026/02/25/us-cybersecurity-agency-cisa-reportedly-in-dire-shape-amid-trump-cuts-and-layoffs/)
+* [Committee for a Responsible Federal Budget: What happens if DHS shuts down](https://www.crfb.org/blogs/what-happens-if-dhs-shuts-down)
+* [CRS Report R48832: Economic impact of federal shutdowns](https://www.congress.gov/crs-product/R48832)
+* [Harvard-Harris poll, February 2026](https://harvardharrispoll.com/press-release-february-2026/)
 * NBC News poll, February 2026
 * Rep. Langworthy's official statement, February 28, 2026
 * Rep. Langworthy's Facebook post, February 28, 2026

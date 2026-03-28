@@ -65,10 +65,10 @@ Local media noted the contradiction: "After voting no earlier this week on an am
 
 ## Sources
 
-- WRFA-LP Jamestown: "Langworthy Votes Yes After Voting No On Resolution To Request Release Of Jeffrey Epstein Files" (July 18, 2025)
-- Quiver/Nasdaq Congressional Press Summary (July 18, 2025)
-- NBC News reporting on House Rules Committee votes
-- Congressional Record - House Rules Committee proceedings (July 2025)
+- [WRFA-LP Jamestown: "Langworthy Votes Yes After Voting No On Resolution To Request Release Of Jeffrey Epstein Files"](https://www.wrfalp.com/langworthy-votes-yes-after-voting-no-on-resolution-to-request-release-of-jeffrey-epstein-files/) (July 18, 2025)
+- [Quiver/Nasdaq Congressional Press Summary](https://www.quiverquant.com/) (July 18, 2025)
+- [NBC News: House Rules Committee Epstein votes](https://www.nbcnews.com/politics) (July 2025)
+- [Congressional Record: House Rules Committee proceedings](https://www.congress.gov/congressional-record) (July 2025)
 
 ---
 

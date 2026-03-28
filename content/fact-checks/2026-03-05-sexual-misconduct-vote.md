@@ -74,11 +74,12 @@ This is one of the rare instances where Langworthy's vote went against Republica
 
 ## Sources
 
-* House Clerk Roll Call 83 (March 4, 2026): house.gov/clerk
-* Rep. Langworthy press release, March 5, 2026: langworthy.house.gov
-* NBC News, "House votes to send Mace's sexual misconduct resolution to committee," March 4, 2026
-* The Hill, "House refers Mace resolution on Ethics records back to committee," March 4, 2026
-* Roll Call, "House tables Mace resolution to release Ethics records," March 4, 2026
+* House Clerk: [Roll Call 83](https://clerk.house.gov/Votes/202683) (March 4, 2026)
+* Congress.gov: [H.Res. 1100](https://www.congress.gov/bill/119th-congress/house-resolution/1100/text) — bill text
+* Rep. Langworthy press release, March 5, 2026: [langworthy.house.gov](https://langworthy.house.gov/)
+* NBC News: ["House kills effort to release all congressional sexual misconduct and harassment reports"](https://www.nbcnews.com/politics/congress/house-kills-effort-release-congressional-sexual-misconduct-harassment-rcna261679) (March 4, 2026)
+* The Hill: ["House bats down Mace effort to reveal sexual misconduct allegations against members of Congress"](https://thehill.com/homenews/house/5767307-house-bats-down-mace-effort-to-reveal-sexual-misconduct-allegations-against-members-of-congress/) (March 4, 2026)
+* Roll Call: ["House squashes effort to force release of Ethics Committee files"](https://rollcall.com/2026/03/04/house-squashes-effort-force-release-ethics-files/) (March 4, 2026)
 
 ---
 

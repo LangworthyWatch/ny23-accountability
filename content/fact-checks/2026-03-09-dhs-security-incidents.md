@@ -134,17 +134,16 @@ These quotes are legitimate presentations of official testimony. The graphic's h
 
 ## Sources
 
-* FBI San Antonio Division updates, March 1 and March 6, 2026 (Austin shooting)
-* CNN, ABC News, KUT Radio (Austin shooting coverage, March 2026)
-* FBI Atlanta field office statement, March 8, 2026 (SW Flight 2094)
-* Broward Sheriff's Office via Local10 (Fort Lauderdale, March 1, 2026)
-* Bloomberg (Newark/SAS Flight 907, March 4, 2026)
-* Missourinet (Kansas City, March 9, 2026)
-* CBS News New York, Gothamist, ABC7 New York (Gracie Mansion IEDs, March 9, 2026)
+* FBI San Antonio Division: ["FBI Provides Update on March 1 Austin Shooting Investigation"](https://www.fbi.gov/contact-us/field-offices/sanantonio/news/fbi-provides-update-on-march-1-austin-shooting-investigation) (March 6, 2026)
+* KUT Radio: ["3 dead, 14 hospitalized in potential act of terrorism in downtown Austin"](https://www.kut.org/crime-justice/2026-03-01/austin-tx-sixth-street-shooting-suspect-police-injuries-deaths) (March 1, 2026)
+* CNN: ["Ndiaga Diagne: Who was the Austin, Texas, mass shooter?"](https://www.cnn.com/2026/03/03/us/ndiaga-diagne-austin-shooter-texas) (March 3, 2026)
+* FBI Atlanta field office: ["No credible threat found" after SW Flight 2094 diversion](https://www.11alive.com/article/news/local/unruly-passenger-forces-southwest-flight-diversion-to-atlanta-suspect-in-custody/85-c4496b36-5723-4001-9205-b5e3838b5adf) (March 8, 2026)
+* CBS News New York: ["Suspects charged in alleged 'ISIS-inspired' attack near NYC's Gracie Mansion"](https://www.cbsnews.com/newyork/news/zohran-mamdani-gracie-mansion-ied-nypd-explosive-jessica-tisch/) (March 9, 2026)
+* DOJ: ["Two ISIS Supporters Charged with Attempting to Detonate Explosive Devices During Protests Outside Gracie Mansion"](https://www.justice.gov/opa/pr/two-isis-supporters-charged-attempting-detonate-explosive-devices-during-protests-outside) (March 2026)
 * NYPD Commissioner Tisch statement, March 9, 2026
-* CBS News, CNBC, The Hill (DHS shutdown, February–March 2026)
+* CBS News, CNBC, The Hill (DHS shutdown, February--March 2026)
 * House Appropriations Committee press releases, February 13 and March 4, 2026
-* Wikipedia, "2026 United States federal government shutdowns"
+* Wikipedia: ["2026 United States federal government shutdowns"](https://en.wikipedia.org/wiki/2026_United_States_federal_government_shutdowns)
 * Senate Majority Leader Thune floor remarks, March 2026
 
 ---

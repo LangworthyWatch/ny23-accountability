@@ -164,34 +164,34 @@ The county's own government has warned of devastating local impacts from legisla
 ## Sources
 
 **Congressional Budget Office:**
-- CBO: "Budgetary Effects of H.R. 1, One Big Beautiful Bill Act" (May 2025)
-- CBO SNAP baseline projections and impact analysis
+- [CBO: Estimated Budgetary Effects of H.R. 1, One Big Beautiful Bill Act](https://www.cbo.gov/publication/61461) (May 2025)
+- [CBO: Distributional Effects of H.R. 1](https://www.cbo.gov/publication/61387)
 
 **Policy Analysis:**
-- Center on Budget and Policy Priorities: "House Reconciliation Bill Would Cut SNAP for Millions" (2025)
-- Urban Institute: "SNAP Work Requirements Analysis" (2025)
+- [CBPP: "House Reconciliation Bill Proposes Deepest SNAP Cut in History"](https://www.cbpp.org/research/food-assistance/house-reconciliation-bill-proposes-deepest-snap-cut-in-history-would-take) (2025)
+- [Urban Institute: "Expanded SNAP Work Requirements Would Reduce Benefits for Millions of Families"](https://www.urban.org/research/publication/expanded-snap-work-requirements-would-reduce-benefits-millions-families) (2025)
 
 **Langworthy Statements:**
 - WGRZ Buffalo debate coverage (2025)
 - Multiple press releases defending H.R. 1 (2025)
 
 **Local Context:**
-- New York State OTDA: SNAP participation data by congressional district
-- FeedMore WNY: Annual report and press releases (2024)
-- WSKG: Steuben County SNAP administration funding impact reporting
+- [New York State OTDA: SNAP Data](https://otda.ny.gov/resources/caseload/) — participation data by district
+- [WKBW: FeedMore WNY Reports Increased Food Assistance Need](https://www.wkbw.com/news/local-news/feedmore-wny-reports-increased-food-assistance-need-throughout-wny) (2024, 16% increase)
+- [WSKG: Southern Tier Organizations Say Proposed SNAP Changes Would Hurt Families](https://www.wskg.org/regional-news/2025-07-03/southern-tier-advocacy-organizations-say-proposed-changes-to-snap-would-hurt-families)
+- [WSKG: Steuben County Budget — $5M Admin Fund Loss](https://www.wskg.org/regional-news/2025-11-20/storm-clouds-on-the-horizon-steuben-county-proposes-277-million-budget-nearly-2-percent-tax-levy-increase)
 - Steuben County Legislature: Chair Fitzpatrick letter to federal representatives (October 30, 2025)
 - Steuben County Health and Human Services Committee: August 7, 2025 meeting (Jack Wheeler, Joe Tobia statements)
-- FRED/Census: Steuben County SNAP recipient data (2022)
+- [FRED: Steuben County SNAP data](https://fred.stlouisfed.org/) (2022)
 - Governor Hochul's office: OBBBA state-level impact projections
-- Rockefeller Institute: Managed care tax restriction cost estimates
+- [Rockefeller Institute: OBBBA Healthcare Impact on New York](https://rockinst.org/blog/an-analysis-of-the-one-big-beautiful-bill-act-obbbas-impact-on-healthcare-for-new-york/)
 
 **Congressional Record:**
-- H.R. 1 vote record: Langworthy voted YES (218-214, July 3, 2025)
-- Bill text: SNAP provisions — work requirements (ages 18-64), admin cost share (50% to 25%), parent exemptions (under 18 to under 14)
+- [Congress.gov: H.R. 1 (One Big Beautiful Bill Act)](https://www.congress.gov/bill/119th-congress/house-bill/1) — Langworthy voted YES (218-214, July 3, 2025)
 
 **Related Fact-Checks:**
-- FactCheck.org: "False Claims About SNAP Cuts"
-- PolitiFact: SNAP work requirements analysis
+- [FactCheck.org: Unraveling the Big Beautiful Bill Spin](https://www.factcheck.org/2025/07/unraveling-the-big-beautiful-bill-spin/)
+- [PolitiFact: Mike Johnson Wrong — Millions Could Lose SNAP Benefits](https://www.politifact.com/factchecks/2025/may/29/mike-johnson/SNAP-reconciliation-bill-tax-cuts-food/) (rates "not a single dollar cut" claim FALSE)
 - Related: [Steuben County: Ten Federal Funding Claims Examined](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
 - Related: [What Federal Policy Is Actually Doing to Steuben County](/fact-checks/2026-02-08-steuben-rural-impact-summary/)
 

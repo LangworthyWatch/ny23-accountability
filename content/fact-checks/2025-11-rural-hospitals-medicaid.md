@@ -103,10 +103,10 @@ When he calls concerns about Westfield Memorial and UPMC Jamestown "pure fiction
 
 ## Sources
 
-- Observer Today (Dunkirk-Fredonia): Andrea Hatfield, "Rural hospital funding far from restored" (Dec 1, 2025)
-- Western New York AFL-CIO: Peter De Jesús Jr., "Langworthy and Tenney Just Sold Out Western New York" (May 22, 2025)
-- Governor Kathy Hochul Press Release: "By the Numbers: 'Big Ugly' GOP Bill Devastating NY Health Care" (July 1, 2025)
-- Kaiser Family Foundation: Analysis of Medicaid cuts in budget legislation
+- Observer Today (Dunkirk-Fredonia): Andrea Hatfield, ["Rural hospital funding far from restored"](https://www.observertoday.com/opinion/commentary/2025/12/rural-hospital-funding-far-from-restored/) (Dec 1, 2025)
+- Western New York AFL-CIO: Peter De Jesús Jr., ["Langworthy and Tenney Just Sold Out Western New York"](https://wnyalf.org/news/big-beautiful-bill-bs) (May 22, 2025)
+- Governor Kathy Hochul Press Release: ["By the Numbers: 'Big Ugly' GOP Bill Devastating NY Health Care"](https://www.governor.ny.gov/news/numbers-republican-big-ugly-bill-would-have-devastating-impacts-new-york-health-care-providers) (July 1, 2025)
+- Kaiser Family Foundation: ["How Might Federal Medicaid Cuts Affect Rural Areas?"](https://www.kff.org/medicaid/how-might-federal-medicaid-cuts-in-the-enacted-reconciliation-package-affect-rural-areas/) (2025)
 
 ---
 

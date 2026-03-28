@@ -77,7 +77,7 @@ He has not advocated for its passage despite it being the primary bipartisan sol
 
 **What he HAS done:**
 
-- Introduced **H.R. 565** (GRAPE Act) - crop insurance for freeze damage
+- Introduced **H.R. 8359** (GRAPE Act, 118th Congress) / **H.R. 292** (119th Congress reintroduction) - crop insurance for freeze damage
 - Introduced **H.R. 3550** (Market-Driven Inventory System) - dairy pricing
 - Introduced **H.R. 3638** - maple syrup producer support
 - Cosponsored other agriculture bills focused on pricing, regulation, trade
@@ -106,8 +106,8 @@ While opposing pathways to legal status for farmworkers, Langworthy promotes him
 **National Milk Producers Federation:**
 "Dairy producers face critical labor shortages. This legislation provides the certainty dairy farms need to plan for the future."
 
-**American Farm Bureau Federation President Zippy Duvall (May 2025, upon H.R. 3227 reintroduction):**
-"Agriculture's workforce crisis demands urgent action... We urge Congress to swiftly move this bipartisan bill."
+**American Farm Bureau Federation (on the Farm Workforce Modernization Act):**
+AFBF has consistently supported versions of the Farm Workforce Modernization Act. On reintroduction of H.R. 3227 in 2025, AFBF's official policy position called for bipartisan passage of agricultural workforce legislation to address chronic labor shortages. AFBF's 2025 policy platform explicitly supports "a legal, stable, and adequate agricultural workforce."
 
 ---
 
@@ -184,29 +184,26 @@ The Farm Workforce Modernization Act addresses both:
 ## Sources
 
 **Legislation:**
-- Congress.gov: H.R. 3227 (119th Congress) - Farm Workforce Modernization Act
-- Congress.gov: H.R. 4319 (118th Congress) - Farm Workforce Modernization Act
-- Congress.gov: H.R. 1603 (117th Congress) - passed House 247-174 (March 2021)
+- Congress.gov: [H.R. 3227 (119th Congress) — Farm Workforce Modernization Act](https://www.congress.gov/bill/119th-congress/house-bill/3227/text)
+- Congress.gov: [H.R. 4319 (118th Congress) — Farm Workforce Modernization Act](https://www.congress.gov/bill/118th-congress/house-bill/4319)
+- Congress.gov: [H.R. 1603 (117th Congress)](https://www.congress.gov/bill/117th-congress/house-bill/1603) — passed House 247-174 (March 2021)
 
 **Langworthy's Bills:**
-- H.R. 565 - GRAPE Act (Crop Insurance)
-- H.R. 3550 - Dairy pricing legislation
-- H.R. 3638 - Maple syrup support
-- Langworthy.house.gov agriculture press releases (2023-2025)
+- [H.R. 292 — GRAPE Act (Crop Insurance)](https://www.congress.gov/bill/119th-congress/house-bill/292)
+- [Langworthy.house.gov: Agriculture press releases (2023-2025)](https://langworthy.house.gov/media/press-releases)
 
 **Agricultural Support:**
-- American Farm Bureau Federation: Statement supporting H.R. 3227 (May 2025)
-- National Milk Producers Federation: Farm Workforce Modernization Act support
-- NY Farm Bureau: H.R. 1603 support statement (2021)
+- American Farm Bureau Federation: [2025 Policies](https://www.fb.org/news-release/american-farm-bureau-establishes-2025-policies)
+- National Milk Producers Federation: [Farm Workforce Modernization Act support](https://www.nmpf.org/)
+- Congresswoman Zoe Lofgren: ["Bipartisan House Members Reintroduce the Farm Workforce Modernization Act of 2025"](https://lofgren.house.gov/media/press-releases/bipartisan-house-members-reintroduce-farm-workforce-modernization-act-2025) (May 2025)
 
 **Labor Data:**
-- USDA National Agricultural Statistics Service: Farm Labor Survey
-- U.S. Department of Labor: Agricultural workforce demographics
-- American Immigration Council: "Farm Workforce Modernization Act of 2021" fact sheet
+- [USDA National Agricultural Statistics Service: Farm Labor Survey](https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Farm_Labor/)
+- [U.S. Department of Labor: National Agricultural Workers Survey](https://www.dol.gov/agencies/eta/national-agricultural-workers-survey)
 
 **Congressional Record:**
-- House Agriculture Committee records (Langworthy member)
-- Previous FWMA vote records (117th Congress)
+- [House Agriculture Committee](https://agriculture.house.gov/) records (Langworthy member)
+- [GovTrack: Rep. Nicholas Langworthy](https://www.govtrack.us/congress/members/nicholas_langworthy/456927)
 
 ---
 

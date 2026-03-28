@@ -66,10 +66,10 @@ The claim that DHS is "shuttered" during "these volatile times" repeats the over
 
 ## Sources
 
-* U.S. Senate Committee on Armed Services, 119th Congress membership: armed-services.senate.gov
-* CBS News, "Trump to nominate Markwayne Mullin as DHS Secretary," March 5, 2026
-* The Hill, "Senate Democrats signal Mullin could ease DHS negotiations," March 5, 2026
-* Rep. Langworthy official statement, March 7, 2026: langworthy.house.gov
+* U.S. Senate Committee on Armed Services: [119th Congress membership and subcommittees](https://www.armed-services.senate.gov/subcommittees)
+* CBS News: ["Kristi Noem out as DHS secretary; Trump announces Sen. Markwayne Mullin as replacement"](https://www.cbsnews.com/news/kristi-noem-out-as-secretary-of-homeland-security-markwayne-mullin/) (March 5, 2026)
+* NPR: ["What you need to know about Sen. Markwayne Mullin, Trump's new pick to lead DHS"](https://www.npr.org/2026/03/05/nx-s1-5737554/markwayne-mullin-homeland-security-kristi-noem-trump) (March 5, 2026)
+* Rep. Langworthy official statement, March 7, 2026: [langworthy.house.gov](https://langworthy.house.gov/)
 
 ---
 

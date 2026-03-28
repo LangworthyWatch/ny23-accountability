@@ -174,18 +174,18 @@ Whether individual hospitals close depends on multiple variables, but the fiscal
 
 ## Sources
 
-* Observer Today: "Langworthy discusses health care in Westfield visit" (October 2025)
-* Observer Today: "Rural hospital funding far from restored" - Commentary (December 2025)
-* Post-Journal: "Rural Needs: Langworthy Discusses Healthcare In Westfield Visit" (October 2025)
-* WGRZ: "New 'rural emergency hospital' status for Westfield Memorial" (January 2025)
-* Buffalo News: "Westfield hospital to end inpatient services" (January 2025)
-* Fiscal Policy Institute: "New York Hospitals will Close under the OBBBA" (June 2025)
-* Governor Hochul's office: Hospital impact analysis (governor.ny.gov)
-* Center for Healthcare Quality and Payment Reform: Rural Hospital Analysis (2025)
-* Becker's Hospital Review: States at Risk of Rural Hospital Closures (August 2025)
-* KFF: "How Might Federal Medicaid Cuts Affect Rural Areas?" (2025)
-* FactCheck.org: "Rural Health Fund Falls Short of Estimated Medicaid Cuts" (September 2025)
-* CBO: H.R. 1 (One Big Beautiful Bill Act) scoring
+* Observer Today: ["Langworthy discusses health care in Westfield visit"](https://www.observertoday.com/news/top-stories/2025/10/langworthy-discusses-health-care-in-westfield-visit/) (October 2025)
+* Observer Today: ["Rural hospital funding far from restored"](https://www.observertoday.com/opinion/commentary/2025/12/rural-hospital-funding-far-from-restored/) — Commentary (December 2025)
+* Post-Journal: ["Rural Needs: Langworthy Discusses Healthcare In Westfield Visit"](https://www.post-journal.com/news/top-stories/2025/10/rural-needs-langworthy-discusses-healthcare-in-westfield-visit/) (October 2025)
+* WGRZ: ["New 'rural emergency hospital' status for Westfield Memorial"](https://www.wgrz.com/article/money/business/new-rural-emergency-hospital-status-for-westfield-memorial/71-8eed08c6-3177-43ff-a12a-1744e5cab921) (January 2025)
+* Fiscal Policy Institute: ["New York Hospitals will Close under the OBBBA"](https://fiscalpolicy.org/new-york-hospitals-will-close-under-the-one-big-beautiful-bill-act) (June 2025)
+* Governor Hochul's office: ["By the Numbers: 'Big Ugly' GOP Bill Devastating NY Health Care"](https://www.governor.ny.gov/news/numbers-republican-big-ugly-bill-would-have-devastating-impacts-new-york-health-care-providers) (governor.ny.gov)
+* Center for Healthcare Quality and Payment Reform: [Rural Hospital Analysis](https://ruralhospitals.chqpr.org/) (2025)
+* CHQPR: ["Rural Hospitals at Risk of Closing"](https://chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf) (PDF)
+* Becker's Hospital Review: ["25 States at Most Risk of Rural Hospital Closures"](https://www.beckershospitalreview.com/finance/25-states-at-most-risk-of-rural-hospital-closures/) (August 2025)
+* KFF: ["How Might Federal Medicaid Cuts Affect Rural Areas?"](https://www.kff.org/medicaid/how-might-federal-medicaid-cuts-in-the-enacted-reconciliation-package-affect-rural-areas/) (2025)
+* FactCheck.org: ["Rural Health Fund Falls Short of Estimated Medicaid Cuts"](https://www.factcheck.org/2025/09/rural-health-fund-falls-short-of-estimated-medicaid-cuts/) (September 2025)
+* CBO: [H.R. 1 (One Big Beautiful Bill Act) scoring](https://www.cbo.gov/publication/61461)
 * Related: [Medicaid Coverage Cuts](/fact-checks/2025-05-medicaid-coverage-cuts/)
 * Related: [Rural Hospitals: Praising Temporary Fix](/fact-checks/2025-11-rural-hospitals-medicaid/)
 

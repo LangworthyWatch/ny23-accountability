@@ -173,28 +173,29 @@ And the same bill cuts $911 billion from Medicaid — which many low-income seni
 ## Sources
 
 **Tax Law Analysis:**
-- Towerpoint Wealth: "Is Social Security Tax-Free Under the New Big Beautiful Bill?" (2025)
-- Newsweek: Analysis of Social Security tax provisions (2025)
-- Tax Foundation: OBBBA tax provision analysis
+- Towerpoint Wealth: ["Is Social Security Tax-Free Under the New Big Beautiful Bill?"](https://towerpointwealth.com/is-social-security-tax-free/) (2025)
+- Newsweek: ["No Tax on Social Security for Seniors? Trump Big Beautiful Bill Policies Explained"](https://www.newsweek.com/no-tax-social-security-seniors-big-beautiful-bill-2115721) (2025)
+- Tax Foundation: ["How Does the Additional Senior Deduction Compare to No Tax on Social Security?"](https://taxfoundation.org/blog/no-tax-on-social-security-senior-tax-deduction/)
+- Tax Foundation: ["The OBBBA Senior Deduction Is Poorly Targeted Tax Relief"](https://taxfoundation.org/blog/obbba-senior-deduction-tax-relief/)
 
 **Social Security Administration:**
-- SSA: Benefit taxation statistics
-- SSA: Income thresholds for benefit taxation
+- SSA: [Benefit taxation statistics](https://www.ssa.gov/benefits/retirement/planner/taxes.html)
+- SSA: [Income thresholds for benefit taxation](https://www.ssa.gov/benefits/retirement/planner/taxes.html)
 
 **Congressional Budget Office:**
-- CBO: "Budgetary Effects of H.R. 1, One Big Beautiful Bill Act" (May 2025)
-- Medicaid impact on dually eligible seniors
+- CBO: ["Estimated Budgetary Effects of H.R. 1, the One Big Beautiful Bill Act"](https://www.cbo.gov/publication/61461) (May 2025)
+- CBO: ["Distributional Effects of H.R. 1, the One Big Beautiful Bill Act"](https://www.cbo.gov/publication/61387)
 
 **Langworthy Statements:**
-- Langworthy.house.gov: "Congressman Nick Langworthy Visits Springville to Spotlight Local Seniors, Small Businesses" (July 11, 2025)
+- Langworthy.house.gov: ["Congressman Nick Langworthy Visits Springville to Spotlight Local Seniors, Small Businesses"](https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-visits-springville-spotlight-local-seniors-small) (July 11, 2025)
 - Similar statements at other senior center visits (2025)
 
 **Independent Analysis:**
-- Center on Budget and Policy Priorities: Social Security taxation analysis
-- AARP: Impact of Social Security provisions on seniors
+- Center on Budget and Policy Priorities: ["Eliminating Taxation of Social Security Benefits Would Be Unwise"](https://www.cbpp.org/blog/eliminating-taxation-of-social-security-benefits-would-be-unwise)
+- AARP: [Impact of Social Security provisions on seniors](https://www.aarp.org/retirement/social-security/)
 
 **Public Law:**
-- Public Law 119-21: One Big Beautiful Bill Act
+- [Public Law 119-21: One Big Beautiful Bill Act](https://www.congress.gov/bill/119th-congress/house-bill/1)
 
 ---
 

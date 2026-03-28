@@ -124,10 +124,10 @@ The War Powers Act requires congressional authorization for military action. Lan
 ## Sources
 
 * Constituent letter responses (January 20-25, 2026)
-* AP News: "Former Honduras President Hernández freed after Trump pardon" (December 2, 2025)
-* DOJ: Hernandez conviction and sentencing (2024)
+* AP News: ["Former Honduras President Hernández freed after Trump pardon"](https://apnews.com/article/honduras-hernandez-trump-pardon-cocaine) (December 2, 2025)
+* DOJ: [Hernandez conviction and sentencing](https://www.justice.gov/usao-sdny/pr/former-honduran-president-juan-orlando-hernandez-sentenced-45-years-prison) (2024)
 * Trump statements on Hernandez pardon
-* DOJ: Maduro indictment (2020)
+* DOJ: [Maduro indictment](https://www.justice.gov/opa/pr/nicolas-maduro-moros-and-14-current-and-former-venezuelan-officials-charged-narco-terrorism) (2020)
 
 ---
 

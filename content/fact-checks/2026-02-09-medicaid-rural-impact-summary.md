@@ -110,17 +110,17 @@ Langworthy's claim that no one will lose coverage and that closure warnings are 
 
 ## Sources
 
-* Congressional Budget Office: OBBBA Coverage Estimates (July 2025)
-* KFF: "Allocating CBO's Estimates of Federal Medicaid Spending Reductions" (2025); "How Might Federal Medicaid Cuts Affect Rural Areas?" (2025)
-* Fiscal Policy Institute: "New York Hospitals will Close under the OBBBA" (June 2025)
-* Center for Healthcare Quality and Payment Reform: Rural Hospital Analysis (2025)
-* Becker's Hospital Review: States at Risk of Rural Hospital Closures (August 2025)
-* Healthcare Association of New York State: Hospital job loss projections
-* Center on Budget and Policy Priorities: "By the Numbers" analysis (2025)
+* Congressional Budget Office: [OBBBA Coverage Estimates](https://www.cbo.gov/publication/61387) (July 2025)
+* KFF: ["Allocating CBO's Estimates of Federal Medicaid Spending Reductions"](https://www.kff.org/medicaid/issue-brief/allocating-cbos-estimates-of-federal-medicaid-spending-reductions/) (2025); ["How Might Federal Medicaid Cuts Affect Rural Areas?"](https://www.kff.org/medicaid/issue-brief/how-might-federal-medicaid-cuts-affect-rural-areas/) (2025)
+* Fiscal Policy Institute: ["New York Hospitals will Close under the OBBBA"](https://fiscalpolicy.org/) (June 2025)
+* [Center for Healthcare Quality and Payment Reform: Rural Hospital Analysis](https://chqpr.org/rural-hospitals.html) (2025)
+* Becker's Hospital Review: [States at Risk of Rural Hospital Closures](https://www.beckershospitalreview.com/) (August 2025)
+* [Healthcare Association of New York State](https://www.hanys.org/): Hospital job loss projections
+* Center on Budget and Policy Priorities: ["By the Numbers" analysis](https://www.cbpp.org/) (2025)
 * Governor Hochul's office: OBBBA state-level impact projections
 * Observer Today: Westfield visit and hospital funding commentary (October-December 2025)
-* FactCheck.org: "Rural Health Fund Falls Short of Estimated Medicaid Cuts" (September 2025)
-* The Arc of the United States: Statement on OBBB (2025)
+* FactCheck.org: ["Rural Health Fund Falls Short of Estimated Medicaid Cuts"](https://www.factcheck.org/) (September 2025)
+* [The Arc of the United States: Statement on OBBB](https://thearc.org/) (2025)
 
 ---
 

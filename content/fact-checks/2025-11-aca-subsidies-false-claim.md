@@ -78,11 +78,11 @@ The real impact of opposing the enhanced credits isn't on wealthy Americans who 
 
 ## Sources
 
-* WSKG: "'Governing means putting your country first'—Rep. Langworthy on longest shutdown in US history" (November 14, 2025)
-* WRFA-LP Jamestown: "Rep. Langworthy Not Committing To Voting On ACA Enhanced Tax Credits Extension" (November 13, 2025)
-* KFF: ACA Marketplace Enrollment Data
-* Sen. Kirsten Gillibrand: Premium Impact Estimates (October 2025)
-* Healthcare.gov: Premium Tax Credit Eligibility Rules
+* WSKG: ["'Governing means putting your country first' — Rep. Langworthy on longest shutdown in US history"](https://www.wskg.org/regional-news/2025-11-14/governing-means-putting-your-country-first-rep-langworthy-on-longest-shutdown-in-us-history) (November 14, 2025)
+* WRFA-LP Jamestown: ["Rep. Langworthy Not Committing To Voting On ACA Enhanced Tax Credits Extension"](https://www.wrfalp.com/rep-langworthy-not-committing-to-voting-on-aca-enhanced-tax-credits-extension/) (November 13, 2025)
+* KFF: [ACA Marketplace Enrollment Data](https://www.kff.org/interactive/calculator-aca-enhanced-premium-tax-credit/)
+* KFF: ["ACA Marketplace Premium Payments Would More than Double"](https://www.kff.org/affordable-care-act/aca-marketplace-premium-payments-would-more-than-double-on-average-next-year-if-enhanced-premium-tax-credits-expire/)
+* Healthcare.gov: [Premium Tax Credit Eligibility Rules](https://www.healthcare.gov/glossary/premium-tax-credit/)
 
 ---
 

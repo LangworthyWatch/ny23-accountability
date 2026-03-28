@@ -111,15 +111,15 @@ Veterans in the Southern Tier don't need Washington efficiency theories. They ne
 
 ## Sources
 
-* WGRZ: Langworthy VA interviews (August 2024, March 2025)
-* WETM: "VA facility in Bath hit by DOGE job cuts" (February 26, 2025)
-* Spectrum News: Nick Stefanovic on Bath detox impact
-* VA OIG: FY2025 staffing shortage report (August 2025)
-* CNN and NPR: Lincoln Declaration coverage (September-October 2025)
-* VA News: Dismissal rounds (February 13 and 24, 2025)
-* Langworthy press release: H.R. 7256, Federal Workforce Early Separation Incentives Act
-* Buffalo News: DOGE Caucus endorsement quote (February 2025)
-* Roll Call: VA budget shortfall reporting (July 2024)
+* [WGRZ](https://www.wgrz.com/): Langworthy VA interviews (August 2024, March 2025)
+* [WETM: "VA facility in Bath hit by DOGE job cuts"](https://www.mytwintiers.com/) (February 26, 2025)
+* [Spectrum News](https://spectrumlocalnews.com/): Nick Stefanovic on Bath detox impact
+* VA OIG: [FY2025 staffing shortage report](https://www.va.gov/oig/) (August 2025)
+* CNN and [NPR](https://www.npr.org/): Lincoln Declaration coverage (September-October 2025)
+* [VA News](https://news.va.gov/): Dismissal rounds (February 13 and 24, 2025)
+* [Langworthy press release: H.R. 7256, Federal Workforce Early Separation Incentives Act](https://langworthy.house.gov/)
+* [Buffalo News](https://buffalonews.com/): DOGE Caucus endorsement quote (February 2025)
+* [Roll Call](https://rollcall.com/): VA budget shortfall reporting (July 2024)
 
 ---
 

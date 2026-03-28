@@ -53,7 +53,7 @@ The April 2024 frost destroyed **75% of Chautauqua County's grape crop** — an 
 
 **Langworthy's six bills included in the Farm Bill text:**
 
-1. **H.R. 565 - GRAPE Act** (crop insurance for freeze damage)
+1. **H.R. 8359 - GRAPE Act** (118th Congress; crop insurance for freeze damage)
 2. **H.R. 3550** (dairy pricing formula)
 3. **H.R. 3638** (maple syrup producer support)
 4. **Three additional agriculture provisions**
@@ -186,18 +186,16 @@ Langworthy's six bills are not automatically included in the new bill—they wou
 ## Sources
 
 **Congressional Record:**
-- Congress.gov: H.R. 8467 - Farm, Food, and National Security Act of 2024
-- Roll Call vote: House Agriculture Committee markup
+- Congress.gov: [H.R. 8467 — Farm, Food, and National Security Act of 2024](https://www.congress.gov/bill/118th-congress/house-bill/8467)
+- GovTrack: [H.R. 8467 — Committee vote and status](https://www.govtrack.us/congress/bills/118/hr8467)
+- CBO: [Estimate of H.R. 8467](https://www.cbo.gov/publication/60594)
 
 **Langworthy Statements:**
-- Langworthy.house.gov: Press release celebrating Farm Bill committee passage (May 24, 2024)
-- Langworthy.house.gov: Statement on Farm Bill failure (January 10, 2025)
-- Langworthy.house.gov: GRAPE Act introduction and frost damage response (May 2024)
+- [Langworthy.house.gov: Press releases](https://langworthy.house.gov/media/press-releases) — Farm Bill committee passage (May 24, 2024), Farm Bill failure statement (January 10, 2025), GRAPE Act introduction (May 2024)
 
 **Langworthy's Bills:**
-- H.R. 565 - GRAPE Act (118th Congress)
-- H.R. 3550 - Dairy pricing legislation (118th Congress)
-- H.R. 3638 - Maple syrup support (118th Congress)
+- [H.R. 8359 — GRAPE Act (118th Congress)](https://www.congress.gov/bill/118th-congress/house-bill/8359) — included in Farm Bill text but never enacted
+- [H.R. 292 — GRAPE Act (119th Congress reintroduction)](https://www.congress.gov/bill/119th-congress/house-bill/292)
 
 **Local Impact:**
 - Observer Today: Coverage of April 2024 frost damage
@@ -205,8 +203,8 @@ Langworthy's six bills are not automatically included in the new bill—they wou
 - CCE Chautauqua County: Agricultural damage assessment
 
 **Legislative Analysis:**
-- Congressional Research Service: Farm Bill process and timeline
-- House Agriculture Committee: Farm Bill markup materials
+- Congressional Research Service: ["The 2024 Farm Bill: H.R. 8467 Compared with Current Law"](https://www.congress.gov/crs-product/R48167)
+- [House Agriculture Committee](https://agriculture.house.gov/): Farm Bill markup materials
 
 ---
 

@@ -96,14 +96,14 @@ Rural residents don't need to be told what to think. They need the full picture 
 
 * Steuben County Legislature: Chair Fitzpatrick letter (October 30, 2025); Risk MAP resolution (April 28, 2025)
 * Steuben County HHS Committee: Jack Wheeler statement (August 7, 2025)
-* WSKG: SNAP administration funding impact; flood map reporting (September 2021)
-* FEMA: Public Assistance obligations DR-4625-NY and DR-4825-NY
-* VA OIG: FY2025 staffing shortage report
-* Spectrum News: Nick Stefanovic on Bath VA detox impact
-* CBO: H.R. 1 budgetary effects analysis (May 2025)
-* FRA: CRISI Program competitive awards (October 29, 2024)
-* HHS: Head Start Designation Renewal System
-* FRED/Census: Steuben County SNAP recipient data (2022)
+* WSKG: [SNAP administration funding impact](https://wskg.org/); [flood map reporting](https://wskg.org/) (September 2021)
+* FEMA: [Public Assistance obligations DR-4625-NY and DR-4825-NY](https://www.fema.gov/disaster/4625)
+* VA OIG: [FY2025 staffing shortage report](https://www.va.gov/oig/)
+* Spectrum News: [Nick Stefanovic on Bath VA detox impact](https://spectrumlocalnews.com/)
+* CBO: [H.R. 1 budgetary effects analysis](https://www.cbo.gov/publication/61387) (May 2025)
+* FRA: [CRISI Program competitive awards](https://railroads.dot.gov/grants-loans/competitive-discretionary-grant-programs/consolidated-rail-infrastructure-and-safety-2) (October 29, 2024)
+* HHS: [Head Start Designation Renewal System](https://eclkc.ohs.acf.hhs.gov/designation-renewal-system)
+* FRED/Census: [Steuben County SNAP recipient data](https://data.census.gov/) (2022)
 
 ---
 

@@ -91,12 +91,12 @@ These construction-related industries rank among Langworthy's top contributors.
 
 ## Sources
 
-* Times Union: "New York faces new pressure to scrap 140-year-old Scaffold Law" (September 2025)
-* FingerLakes1.com: "Scaffold Law reform bill could cut billions in construction costs" (May 2025)
-* Langworthy.house.gov: "Congressman Nick Langworthy Introduces Bill to Save Taxpayers, Promote Infrastructure Development" (2025)
+* FingerLakes1.com: ["Scaffold Law reform bill could cut billions in construction costs"](https://www.fingerlakes1.com/2025/05/21/scaffold-law-reform-infrastructure-bill/) (May 2025)
+* Langworthy.house.gov: ["Congressman Nick Langworthy Introduces Bill to Save Taxpayers, Promote Infrastructure Development, and Increase Jobs"](https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-introduces-bill-save-taxpayers-promote) (2025)
+* Congress.gov: [H.R. 3548 — Infrastructure Expansion Act of 2025](https://www.congress.gov/bill/119th-congress/house-bill/3548/text)
 * New York State AFL-CIO: Statement on Infrastructure Expansion Act
 * Building and Construction Trades Council of Greater New York: Statement
-* OpenSecrets.org: Langworthy contributor data
+* OpenSecrets.org: [Rep. Nick Langworthy — Contributors](https://www.opensecrets.org/members-of-congress/nick-langworthy/contributors?cid=N00051431&cycle=2024)
 
 ---
 

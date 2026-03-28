@@ -196,7 +196,7 @@ These are not opposing interpretations of ambiguous data — they are **document
 
 ## Sources
 
-* WGRZ: "Langworthy visits Buffalo VA Medical Center, seeking answers" (August 22, 2024)
+* [WGRZ: "Langworthy visits Buffalo VA Medical Center, seeking answers"](https://www.wgrz.com/article/news/health/langworthy-visits-buffalo-va-medical-center-patient-cancer-questions/71-ce69d55a-1be2-46d7-8b92-b7270c40c852) (August 22, 2024)
 * WKBW: "Inspector General report finds leaders at Buffalo VA Hospital failed to address patient care concerns" (September 2024)
 * MyTwinTiers (WETM): "VA facility in Bath hit by DOGE job cuts" (February 26, 2025, reporter Jim Turpin)
 * WENY News: "Dept. of Veterans Affairs dismisses over 2,000 workers; Bath VA impacted"
@@ -205,9 +205,9 @@ These are not opposing interpretations of ambiguous data — they are **document
 * CNN (September 25, 2025) and NPR (October 1, 2025): Lincoln Declaration coverage
 * Newsweek: "Map shows VA medical centers hit worst by severe staffing shortage"
 * Fierce Healthcare: VA OIG staffing shortage report (August 2025)
-* Langworthy press release: Federal Workforce Early Separation Incentives Act (H.R. 7256)
-* Roll Call: "Massive veterans budget gap rips hole in appropriations process" (July 2024)
-* VA Office of Inspector General: Buffalo VA Western New York Healthcare System Report (2024)
+* [Congress.gov: H.R. 7256 — Federal Workforce Early Separation Incentives Act](https://www.congress.gov/bill/118th-congress/house-bill/7256) (Langworthy)
+* [Roll Call: "Massive veterans budget gap rips hole in appropriations process"](https://rollcall.com/2024/07/26/massive-veterans-budget-gap-rips-hole-in-appropriations-process/) (July 2024)
+* [VA OIG: Leaders Failed to Address Community Care Consult Delays at Buffalo VA](https://www.vaoig.gov/sites/default/files/reports/2024-09/vaoig-23-03679-262.pdf) (September 2024)
 * Related: [Big Flats SSA/DOGE](/fact-checks/2026-02-08-big-flats-ssa-doge/)
 * Related: [Steuben County: Ten Federal Funding Claims](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
 

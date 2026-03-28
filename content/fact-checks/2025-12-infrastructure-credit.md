@@ -243,30 +243,19 @@ USDA Rural Development is a federal agency. These are competitive federal grants
 ## Sources
 
 **Langworthy Announcements:**
-- Langworthy.house.gov: Jamestown Microgrid announcement ($17.4M)
-- Langworthy.house.gov: Finger Lakes Railway grant announcement (June 2025)
-- Langworthy.house.gov: Watkins Glen water infrastructure announcement (June 2024)
-- Langworthy.house.gov: Newstead Community Center ($5M) — Community Project Funding
-- Langworthy.house.gov: Dunkirk Harbor ($4.75M) — Community Project Funding
-- Langworthy Appropriations Requests FY25 page (langworthy.house.gov)
+- [Langworthy.house.gov: Press Releases](https://langworthy.house.gov/media/press-releases)
+- [Langworthy Appropriations Requests FY25](https://langworthy.house.gov/services/appropriations-requests)
 
 **Original Federal Sources:**
-- DOE Grid Resilience and Innovation Partnerships program (Bipartisan Infrastructure Law)
-- U.S. Economic Development Administration: Watkins Glen grant press release (June 25, 2024)
-- USDA Rural Development: Grant award announcements
-- Senator Schumer's office: Jamestown Microgrid attribution
+- [DOE Grid Resilience and Innovation Partnerships program](https://www.energy.gov/gdo/grid-resilience-and-innovation-partnerships-grip-program) (Bipartisan Infrastructure Law)
+- [USDA Rural Development: Grant award announcements](https://www.rd.usda.gov/)
 
 **Local News Coverage:**
-- Post-Journal: "City Awarded $17M For Electric Infrastructure Upgrade" (October 2023)
-- FingerLakes1.com: "Finger Lakes Railway awarded $3.8 million federal grant for track upgrades" (June 11, 2025)
+- FingerLakes1.com: ["Finger Lakes Railway awarded $3.8 million federal grant for track upgrades"](https://www.fingerlakes1.com/2025/06/11/finger-lakes-railway-federal-grant/) (June 11, 2025)
 
 **Infrastructure Investment and Jobs Act:**
-- H.R. 3684 - Infrastructure Investment and Jobs Act (2021)
+- [H.R. 3684 — Infrastructure Investment and Jobs Act (2021)](https://www.congress.gov/bill/117th-congress/house-bill/3684)
 - Langworthy elected 2022 (after IIJA passage)
-
-**USDA Staffing Context:**
-- USDA Office of Inspector General: Staffing reports (2025)
-- Civil Eats: "USDA Cuts Deep: Nearly 20% Workforce Lost in 2025"
 
 ---
 

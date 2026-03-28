@@ -1,0 +1,9 @@
+case_number,utility,parent,fuel_type,year_filed,status,requested_m,approved_m,approval_pct_of_request,haircut_pct,pct_increase_requested,pct_increase_approved,pct_point_haircut,roe_requested,roe_approved,bill_impact_monthly,near_full_approval_flag,utility_connected_commissioners_active,active_commissioners_count
+25-E-0072,Consolidated Edison Co of NY,Consolidated Edison Inc,electric,2025,settled,1612.00,726.00,45.04,54.96,11.30,2.80,8.50,10.0,9.40,,,1,7
+25-G-0073,Consolidated Edison Co of NY,Consolidated Edison Inc,gas,2025,settled,400.00,200.00,50.00,50.00,9.50,4.00,5.50,10.0,9.40,,,1,7
+25-E-0375,New York State Electric and Gas Corporation,Avangrid Inc,electric,2025,pending,464.40,,,,18.40,,,10.3,,33.12,,1,7
+25-E-0379,Rochester Gas and Electric Corporation,Avangrid Inc,electric,2025,pending,220.20,,,,19.80,,,10.3,,33.00,,1,7
+23-E-0418,Central Hudson Gas and Electric Corporation,Fortis Inc,electric,2023,approved,181.00,79.00,43.65,56.35,16.00,5.40,10.60,10.0,9.20,,,1,4
+24-E-0322,National Grid USA,National Grid plc,electric,2024,approved,734.00,500.00,68.12,31.88,14.00,9.50,4.50,10.0,9.35,,,1,7
+24-G-0323,National Grid USA,National Grid plc,gas,2024,approved,300.00,210.00,70.00,30.00,12.00,8.00,4.00,10.0,9.35,,,1,7
+ORU-2025,Orange and Rockland Utilities,Consolidated Edison Inc,electric,2024,approved,85.00,65.00,76.47,23.53,8.00,4.60,3.40,10.0,9.30,,,1,7

@@ -101,10 +101,10 @@ The overall thrust â€” three real WNY defense manufacturers visited Washington â
 
 ## Sources
 
-* SKF Aeroengine North America / Chautauqua County IDA case study: chautauquacounty.com
-* Moog Inc. website and investor relations: moog.com
-* Astronics Corporation investor page and SEC filings: astronics.com (ATRO)
-* WGRZ Buffalo, Moog expansion reporting
+* SKF Aeroengine North America / Chautauqua County IDA case study: [chautauquacounty.com](https://www.chautauquacounty.com/)
+* Moog Inc. website and investor relations: [moog.com](https://www.moog.com/)
+* Astronics Corporation investor page and SEC filings: [astronics.com](https://www.astronics.com/) (ATRO)
+* WGRZ Buffalo: [Moog expansion reporting](https://www.wgrz.com/)
 * NY-23 district maps: Wikipedia; U.S. Census Bureau (confirming East Aurora and Elma in Erie County, within NY-23)
 
 ---

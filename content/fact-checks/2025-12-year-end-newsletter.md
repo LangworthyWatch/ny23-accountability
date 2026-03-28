@@ -251,21 +251,19 @@ Committee passage is a procedural step, not a legislative achievement—and in t
 ## Sources
 
 **Legislative Status Verification:**
-- Congress.gov bill tracking for H.R. 3699, H.R. 3157, H.R. 4690
-- GovTrack legislative status and probability analysis
-- TrackBill congressional monitoring
-- Committee markup records
-- Congressional calendars
+- Congress.gov: [H.R. 3699 — Energy Choice Act](https://www.congress.gov/bill/119th-congress/house-bill/3699/all-info)
+- Congress.gov: [H.R. 3157 — State Energy Accountability Act](https://www.congress.gov/bill/119th-congress/house-bill/3157)
+- Congress.gov: [H.R. 4690 — Reliable Federal Infrastructure Act](https://www.congress.gov/bill/119th-congress/house-bill/4690/text)
+- GovTrack: [H.R. 3699](https://www.govtrack.us/congress/bills/119/hr3699), [H.R. 3157](https://www.govtrack.us/congress/bills/119/hr3157), [H.R. 4690](https://www.govtrack.us/congress/bills/119/hr4690) — legislative status and probability analysis
 
 **Committee Passage Documentation:**
-- H.R. 3699: Langworthy press release (Dec 3, 2025), Wellsville Sun (Dec 3, 2025)
-- H.R. 3157: Congress.gov action H. Rept. 119-301 (Sept 17, 2025)
-- H.R. 4690: No committee action documented (introduced July 23, 2025)
+- [H.R. 3699: Energy Choice Act — Committee Report](https://www.congress.gov/committee-report/119th-congress/house-report/482/1) (Dec 3, 2025)
+- [H.R. 3157: Congress.gov action H. Rept. 119-301](https://www.congress.gov/bill/119th-congress/house-bill/3157) (Sept 17, 2025)
+- [H.R. 4690: Congress.gov — no committee action documented](https://www.congress.gov/bill/119th-congress/house-bill/4690/text) (introduced July 23, 2025)
 
 **Newsletter Source:**
 - Weekly Update from Congressman Nick Langworthy, December 28, 2025
 - Forwarded to LangworthyWatch, December 29, 2025
-- AM 1480 WLEA News coverage (Dec 29, 2025)
 
 **Cross-Reference:**
 - See existing fact-checks on Farm Bill "Victory," Social Security Tax claims, Medicaid cuts, Rural Hospital funding, Correspondence delays

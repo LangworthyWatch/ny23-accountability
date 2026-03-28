@@ -165,6 +165,18 @@ This entry presents publicly available FEC data without alleging illegality or c
 
 ---
 
+## Downloadable Data
+
+| Dataset | Description | Download |
+|---------|-------------|----------|
+| Top Contributors (2024) | Top individual and PAC contributors, 2024 cycle | [CSV](/data/top-contributors-2024.csv) |
+| Top Industries (2024) | Top contributing industries, 2024 cycle | [CSV](/data/top-industries-2024.csv) |
+| IDA-to-Langworthy Pipeline | 74 IDA beneficiaries donating to Langworthy apparatus | [CSV](/data/ida/langworthy_ida_pipeline.csv) |
+
+**Primary source:** [FEC: Langworthy for Congress (C00817932)](https://www.fec.gov/data/candidate/H2NY23133/) | [All datasets](/data/)
+
+---
+
 **Note:** This entry documents publicly available information from FEC filings and news reports. Readers may draw their own conclusions.
 
 *Last updated: February 7, 2026*

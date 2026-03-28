@@ -27,7 +27,7 @@ Each fact-check includes:
 | [NY Utility Rates Data Investigation](/fact-checks/2026-03-14-nys-utility-rates-data-investigation/) | Clean energy drives NY electricity rate increases | **DOCUMENTED PATTERN** — Clean energy = 4.7% of rate increases; infrastructure, profits, and storms = 63% |
 | [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | Austin shooting "investigated as terrorism" | **MOSTLY TRUE** — Drops FBI's "potential" qualifier |
 | [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | "Bomb scares on a plane and at an airport" | **MISLEADING** — None connected to terrorism; implies false escalation pattern |
-| [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | "3 IEDs found near Gracie Mansion linked to ISIS" | **PARTIALLY ACCURATE** — Only 2 confirmed IEDs; no connection to Iran |
+| [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | "3 IEDs found near Gracie Mansion linked to ISIS" | **MOSTLY FALSE** — Only 2 confirmed IEDs; no connection to Iran |
 | [DHS Security Incidents](/fact-checks/2026-03-09-dhs-security-incidents/) | Democrats keeping DHS "shuttered" at risk to Americans | **ONE-SIDED** — Omits reason for impasse; overstates enforcement disruption |
 | [SW Flight 2094](/fact-checks/2026-03-08-southwest-flight-2094/) | Flight diversion used as evidence of terrorism threats | **MISLEADING** — FBI confirmed no credible threat; no charges filed |
 | [Biden Immigration](/fact-checks/2026-03-08-biden-immigration-10-million/) | "Up to 10 million illegal immigrants who flooded into our country" | **MISLEADING** — 10.8M is real CBP encounter data, not unique admissions; ~2.5M released vs. ~2.8M removed; PolitiFact rated parallel claim FALSE |
@@ -38,10 +38,13 @@ Each fact-check includes:
 | [Great Lakes Award](/fact-checks/2026-03-10-great-lakes-award/) | Received "Champion of the Great Lakes Award" | **MISSING CONTEXT** — Industry shipping award framed as environmental stewardship; 6% LCV score; no position on ballast water or GLRI |
 | [Sexual Misconduct Vote](/fact-checks/2026-03-05-sexual-misconduct-vote/) | "Proud to be one of 65 members who stands for transparency" | **MISSING CONTEXT** — Vote confirmed; but resolution had legitimate survivor-protection concerns; selective given Epstein record |
 | [Seneca Nation Law Enforcement Act](/fact-checks/2026-03-14-seneca-nation-law-enforcement-act/) | Bill framed as drug trafficking / public safety measure | **MISSING CONTEXT** — $10,100 from Seneca Nation not disclosed; civil jurisdiction removal (affecting gaming operations) not addressed |
-| [Agriculture Week](/fact-checks/2026-03-21-agriculture-week-family-farms/) | "Fighting for family farms" during Agriculture Week | **MISSING CONTEXT** — OBBBA cuts farm programs; H-2A labor cap threatens harvests |
-| [PAY TSA Act](/fact-checks/2026-03-21-pay-tsa-act/) | Introduces bill to give TSA officers federal employee status | **MISSING CONTEXT** — 7 similar bills introduced since 2003; none passed under Republican majority |
+| [Agriculture Week](/fact-checks/2026-03-21-agriculture-week-family-farms/) | "Fighting for family farms" during Agriculture Week / Agriculture Day | **MISSING CONTEXT** — Estate tax change affects &lt;1% of farm estates; tariff damage to dairy and grapes omitted |
+| [PAY TSA Act](/fact-checks/2026-03-21-pay-tsa-act/) | "I don't support government shutdowns" — introduces bill premised on their recurrence | **CONTRADICTION** — Three shutdowns in six months under unified GOP government; voted NO on Dec 2024 CR |
 | [IDA Donor-Exemption Pattern](/fact-checks/2026-03-21-ida-donor-exemption-pattern/) | IDA tax breaks and political donors in NY-23 | **DOCUMENTED PATTERN** — 74 beneficiaries donated $246K to Langworthy apparatus; received $66.2M in exemptions |
 | [OBBBA / IDA Vote](/fact-checks/2026-03-21-obbba-ida-vote/) | Voted YES on OBBBA making IDA-friendly provisions permanent | **DOCUMENTED PATTERN** — OZ permanent, PAB framework maintained; zero IDA reform legislation introduced |
+| [Shutdown / Immigration](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) | "41 Days of chaos" — pairs shutdown blame with two murders by undocumented immigrants | **MISLEADING** — Both crimes predate shutdown; ICE fully funded and operational; implies false causal link |
+| [Shutdown / Immigration](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) | "2 New Yorkers murdered by illegals" (Gorman and Williams) | **TRUE** on facts — Both cases documented and real |
+| [Shutdown / Immigration](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) | ICE deportation leading survey (taxpayer-funded ad) | **DOCUMENTED PATTERN** — Loaded premise, binary framing, prison imagery; shapes opinion, not measures it |
 
 ### February 2026
 
@@ -58,7 +61,7 @@ Each fact-check includes:
 | [DHS Shutdown](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) | DHS is "shuttered" | **MISLEADING** — ~90% of employees working; enforcement agencies fully funded via OBBBA |
 | [DHS Shutdown](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) | "Democrats are blocking DHS from reopening" | **MOSTLY TRUE** procedurally; **MISLEADING** in context — omits why |
 | [DHS Shutdown](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) | DHS is "the agency" for counterterrorism and cyber | **MISLEADING** — One of several; FBI leads terror cases; CISA gutted by DOGE |
-| [DHS Shutdown](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) | "Putting our country at grave risk" during Iran war | **PARTIALLY TRUE** — Real risks for CISA/TSA, but critical ops continued |
+| [DHS Shutdown](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) | "Putting our country at grave risk" during Iran war | **MOSTLY TRUE** — Real risks for CISA/TSA, but critical ops continued |
 | [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "$18 trillion in global investments" | **FALSE** — White House's own list: $9.6T; no source for $18T |
 | [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "Prices are down" | **FALSE** — CPI up 2.4% YoY; food up 2.9% |
 | [SOTU 2026](/fact-checks/2026-02-25-sotu-2026-claims/) | "Zero illegal crossings last month" | **FALSE** — DHS said "zero releases"; CBP: 34,626 apprehensions |
@@ -196,6 +199,7 @@ Unrelated security events — real and false — are grouped together and collec
 - Southwest Flight 2094 false alarm → DHS funding argument (March 8)
 - Austin shooting (potential terrorism) + multiple false-alarm bomb scares + Gracie Mansion IEDs → Democrats "shuttered" DHS (March 9)
 - Operation Epic Fury → Democrats blocking DHS (February 28)
+- Two murders by undocumented immigrants + DHS shutdown → Democrats "chose a side" (March 28)
 
 ### Pattern 5: Form Letter Non-Responses
 - Constituents opposing a policy receive praise for that policy

@@ -82,6 +82,14 @@ The Court declared IEEPA tariffs **"unlawful ab initio"** — illegal from the s
 
 ## Sources
 
-BEA · BLS · NY Federal Reserve · Tax Foundation · Penn Wharton Budget Model · SCOTUSblog · NY State Comptroller · USDA · House Clerk Roll Call #65
+* [Bureau of Economic Analysis (BEA): Trade Data](https://www.bea.gov/data/intl-trade-investment/international-trade-goods-and-services)
+* [Bureau of Labor Statistics (BLS): Consumer Price Index](https://www.bls.gov/cpi/)
+* [NY Federal Reserve: Regional Economic Analysis](https://www.newyorkfed.org/regional-economy)
+* [Tax Foundation: Tariff and Trade Policy](https://taxfoundation.org/research/all/federal/tariffs/)
+* [Penn Wharton Budget Model: Tariff Analysis](https://budgetmodel.wharton.upenn.edu/)
+* [SCOTUSblog: IEEPA Tariff Case Coverage](https://www.scotusblog.com/)
+* [NY State Comptroller: Economic Reports](https://www.osc.ny.gov/reports)
+* [USDA: Agricultural Trade Data](https://www.ers.usda.gov/data-products/foreign-agricultural-trade-of-the-united-states-fatus/)
+* [House Clerk: Roll Call Vote #65](https://clerk.house.gov/Votes)
 
 *Last updated: February 20, 2026*

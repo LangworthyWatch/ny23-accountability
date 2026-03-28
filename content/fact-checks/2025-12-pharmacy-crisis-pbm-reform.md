@@ -229,18 +229,17 @@ When a standalone PBM reform bill was introduced in July 2025, Langworthy didn't
 
 ## Sources
 
-* NACDS: "President-Elect Trump Affirms Commitment to PBM Reform" (December 8, 2024)
-* News From The States: "Pharmacists bemoan loss of prescription drug middleman reforms" (December 2024)
-* Langworthy.house.gov: "Congressman Langworthy Votes to Pass American Relief Act" (December 2024)
-* IVN: "Pharmacy Benefit Managers and Trump's Executive Order" (May 12, 2025)
-* Healthcare Finance News: "Senate removes PBM provision from tax and spending bill" (July 2025)
-* Brownstein Hyatt Farber Schreck: "Final Health Care Provisions in the One Big Beautiful Bill Act" (July 9, 2025)
-* Applied Policy: "One Big Beautiful Bill Act Signed into Law" (July 29, 2025)
-* Mintz: "PBM Policy and Legislative Update — Summer/Fall 2025" (November 2025)
-* Public Law 119-21: One Big Beautiful Bill Act, Section 71203 (July 4, 2025)
-* YouTube: Langworthy Floor Speech on H.R. 1 (July 2, 2025)
-* Congress.gov: H.R. 4317 Cosponsors List
-* Wellsville Sun: "Langworthy Urges House Leadership to Act Now on Comprehensive Pharmacy Reform" (December 17, 2025)
+* NACDS: ["President-Elect Trump Affirms Commitment to PBM Reform"](https://www.nacds.org/in-case-you-missed-it-president-elect-trump-affirms-commitment-to-pbm-reform) (December 8, 2024)
+* News From The States: ["Pharmacists bemoan loss of prescription drug middleman reforms"](https://www.newsfromthestates.com/article/pharmacists-bemoan-loss-prescription-drug-middleman-reforms-government-spending-package) (December 2024)
+* Langworthy.house.gov: ["Congressman Langworthy Votes to Pass American Relief Act"](https://langworthy.house.gov/media/press-releases/congressman-langworthy-votes-pass-american-relief-act) (December 2024)
+* IVN: ["Pharmacy Benefit Managers and Trump's Executive Order"](https://ivn.us/posts/pharmacy-benefit-managers-and-trumps-executive-order-attack-drug-pricing-middlemen-2025-05-12) (May 12, 2025)
+* Healthcare Finance News: ["Senate removes PBM provision from tax and spending bill"](https://www.healthcarefinancenews.com/news/senate-removes-pbm-provision-tax-and-spending-bill) (July 2025)
+* Brownstein Hyatt Farber Schreck: ["Final Health Care Provisions in the One Big Beautiful Bill Act"](https://www.bhfs.com/insight/final-health-care-provisions-in-the-one-big-beautiful-bill-act/) (July 9, 2025)
+* Applied Policy: ["One Big Beautiful Bill Act Signed into Law"](https://www.appliedpolicy.com/one-big-beautiful-bill-act-signed-into-law/) (July 29, 2025)
+* [Public Law 119-21: One Big Beautiful Bill Act](https://www.congress.gov/bill/119th-congress/house-bill/1), Section 71203 (July 4, 2025)
+* YouTube: [Langworthy Floor Speech on H.R. 1](https://www.youtube.com/watch?v=mxVRnuuMhKE) (July 2, 2025)
+* Congress.gov: [H.R. 4317 Cosponsors List](https://www.congress.gov/bill/119th-congress/house-bill/4317/cosponsors)
+* Wellsville Sun: ["Langworthy Urges House Leadership to Act Now on Comprehensive Pharmacy Reform"](https://wellsvillesun.com/blog/2025/12/17/langworthy-urges-house-leadership-to-act-now-on-comprehensive-pharmacy-reform/) (December 17, 2025)
 
 **Research contribution:** Kathleen [Last Name]
 

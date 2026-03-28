@@ -148,7 +148,8 @@ The response blames Governor Hochul for not being "fully transparent" but doesn'
 ## Sources
 
 * Constituent letter responses (January 31 and February 3, 2026)
-* DOJ: Feeding Our Future prosecution (Minnesota fraud case)
+* DOJ: [Feeding Our Future prosecution](https://www.justice.gov/usao-mn/pr/federal-jury-finds-feeding-our-future-mastermind-and-co-defendant-guilty-250-million) (Minnesota fraud case)
+* House Oversight Committee: [Comer Expands Investigation Into Widespread Fraud Uncovered in Minnesota Government Programs](https://oversight.house.gov/release/comer-expands-investigation-into-widespread-fraud-uncovered-in-minnesota-government-programs/)
 * HHS: Childcare funding freeze announcements
 * News coverage of federal funding freezes
 

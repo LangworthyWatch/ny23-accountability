@@ -241,15 +241,15 @@ Whether telephone-only engagement constitutes adequate representation is a judgm
 
 ## Sources
 
-* WRFA-LP 107.9 FM: "Rep. Nick Langworthy Repeatedly Fails To Inform WRFA About News Conferences Being Held In Chautauqua County" (February 20, 2026)
-* **East Aurora Advertiser:** Editorial "Dear Congressman Langworthy" by Editor Shelly Ferullo (February 2026)
-* WSKG: "Frustrated constituents hold 'empty seat' town hall, wanting to hear from Rep. Langworthy" (April 18, 2025)
-* WSKG: "'Governing means putting your country first'" (November 14, 2025)
-* WSKG: "Chemung County residents demand local leaders oppose safety net cuts" (March 2025)
-* WGRZ: "Langworthy responds to town hall meeting in Blasdell"
-* WKBW: "'What are you doing for my tax dollars?': Where are Western New York's representatives during the shutdown?" (November 2025)
-* Post-Journal: "Threats Force Closure of Langworthy's Jamestown Office" (January 2026)
-* MyTwinTiers: "Langworthy drops plan to lease space in Elmira City Hall"
+* WRFA-LP 107.9 FM: ["Rep. Nick Langworthy Repeatedly Fails To Inform WRFA About News Conferences Being Held In Chautauqua County"](https://www.wrfalp.com/rep-nick-langworthy-repeatedly-fails-to-inform-wrfa-about-news-conferences-being-held-in-chautauqua-county/) (February 20, 2026)
+* **East Aurora Advertiser:** Editorial "Dear Congressman Langworthy" by Editor Shelly Ferullo (February 2026) — [eastaurorany.com](https://www.eastaurorany.com/)
+* WSKG: ["Frustrated constituents hold 'empty seat' town hall, wanting to hear from Rep. Langworthy"](https://www.wskg.org/regional-news/2025-04-18/frustrated-constituents-hold-empty-seat-town-hall-wanting-to-hear-from-rep-langworthy) (April 18, 2025)
+* WSKG: ["'Governing means putting your country first'"](https://www.wskg.org/regional-news/2025-11-14/governing-means-putting-your-country-first-rep-langworthy-on-longest-shutdown-in-us-history) (November 14, 2025)
+* WSKG: ["Chemung County residents demand local leaders oppose possible social safety net cuts"](https://www.wskg.org/regional-news/2025-03-12/chemung-county-residents-demand-local-leaders-oppose-possible-social-safety-net-cuts) (March 2025)
+* WGRZ: ["Langworthy responds to town hall meeting in Blasdell"](https://www.wgrz.com/article/news/politics/town-hall-nick-langworthy-wny-politics-buffalo/71-209ce7ee-51d0-4567-9787-21fa202e58f8)
+* WKBW: ["'What are you doing for my tax dollars?': Where are Western New York's representatives during the shutdown?"](https://www.wkbw.com/news/i-team/what-are-you-doing-for-my-tax-dollars-where-are-western-new-yorks-representatives-during-the-shutdown) (November 2025)
+* Post-Journal: ["Threats Force Closure of Langworthy's Jamestown Office"](https://www.post-journal.com/news/latest-news/2026/01/threats-force-closure-of-langworthys-jamestown-office/) (January 2026)
+* MyTwinTiers: ["Langworthy drops plan to lease space in Elmira City Hall"](https://www.mytwintiers.com/news-cat/local-news/u-s-rep-langworthy-drops-plan-to-lease-space-in-elmira-city-hall/)
 * Citizens for a Better Southern Tier: Official statement on organizational status
 
 ---

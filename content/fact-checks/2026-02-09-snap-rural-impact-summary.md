@@ -109,16 +109,16 @@ If the government spends $295 billion less on food assistance over 10 years, and
 
 ## Sources
 
-* CBO: "Budgetary Effects of H.R. 1, One Big Beautiful Bill Act" (May 2025)
-* Urban Institute: "SNAP Work Requirements Analysis" (2025)
-* Center on Budget and Policy Priorities: "House Reconciliation Bill Would Cut SNAP for Millions" (2025)
+* CBO: ["Budgetary Effects of H.R. 1, One Big Beautiful Bill Act"](https://www.cbo.gov/publication/61387) (May 2025)
+* Urban Institute: ["SNAP Work Requirements Analysis"](https://www.urban.org/) (2025)
+* Center on Budget and Policy Priorities: ["House Reconciliation Bill Would Cut SNAP for Millions"](https://www.cbpp.org/) (2025)
 * Steuben County HHS Committee: Jack Wheeler statement (August 7, 2025)
 * Steuben County Legislature: Chair Fitzpatrick letter (October 30, 2025)
-* WSKG: Steuben County SNAP administration funding impact reporting
-* FRED/Census: Steuben County SNAP recipient data (2022)
-* FeedMore WNY: Annual report (2024)
+* WSKG: [Steuben County SNAP administration funding impact reporting](https://wskg.org/)
+* FRED/Census: [Steuben County SNAP recipient data](https://data.census.gov/) (2022)
+* [FeedMore WNY](https://feedmorewny.org/): Annual report (2024)
 * Governor Hochul's office: OBBBA state-level impact projections
-* Congressional Record: H.R. 1 vote (218-214, July 3, 2025)
+* Congressional Record: [H.R. 1 vote (218-214, July 3, 2025)](https://www.congress.gov/bill/119th-congress/house-bill/1)
 
 ---
 

@@ -229,6 +229,11 @@ All data in this investigation is from publicly available government sources. Ra
 * [Aggregate cost breakdown (all 8 cases)](/data/power-investigation/cost_decomposition_aggregate.csv)
 * [Rate increase history vs inflation and US average](/data/power-investigation/rate_increase_history.csv)
 * [Consumer electricity burden by county (56 counties)](/data/power-investigation/consumer_impact_by_county.csv)
+* [Rate case outcomes — PSC approval rates](/data/power-investigation/rate_case_outcomes.csv)
+* [CEO compensation vs. consumer rates](/data/power-investigation/ceo_compensation_vs_rates.csv)
+* ["Clean energy" narrative vs. actual cost drivers](/data/power-investigation/narrative_vs_reality.csv)
+
+[All datasets and methodology](/data/)
 
 ---
 

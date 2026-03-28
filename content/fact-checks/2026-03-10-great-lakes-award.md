@@ -94,11 +94,12 @@ Framing a shipping industry award as "continuing my work" to ensure the Great La
 
 ## Sources
 
-* Professional Mariner, March 2026 (CMC award announcement, Joshua Juel quote)
-* WorkBoat, May 2025 (2025 award recipients: Johnson and Smith)
-* Chamber of Marine Commerce website: marinecommerce.com
+* Professional Mariner: ["Rep. Langworthy named 2026 Champion of the Great Lakes"](https://professionalmariner.com/rep-langworthy-named-2026-champion-of-the-great-lakes/) (March 2026)
+* WorkBoat: ["Rep. Johnson, Sen. Smith named 2025 Champions of the Great Lakes"](https://www.workboat.com/coastal-inland-waterways/johnson-smith-named-2025-chamber-of-marine-commerce-champions-of-the-great-lakes) (May 2025)
+* Chamber of Marine Commerce website: [marinedelivers.com](https://marinedelivers.com/)
+* LCV National Environmental Scorecard: [scorecard.lcv.org](https://scorecard.lcv.org/)
 * Great Lakes United / NOAA: ballast water and invasive species research
-* Port of Dunkirk: chautauquacounty.com/departments/port-of-dunkirk/
+* Port of Dunkirk: [chautauquacounty.com/departments/port-of-dunkirk/](https://www.chautauquacounty.com/departments/port-of-dunkirk/)
 
 ---
 

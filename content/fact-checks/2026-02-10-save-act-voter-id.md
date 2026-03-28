@@ -147,11 +147,13 @@ See also: ["No SNAP cuts"](/fact-checks/2025-12-snap-cuts/) when $295B less will
 
 ## Sources
 
-* Heritage Foundation: Election Fraud Database — documented noncitizen voting cases
-* Cato Institute: Analysis of noncitizen voting frequency
-* Brennan Center for Justice: Studies on voter fraud incidence rates
-* Pew Research Center: Public opinion polling on voter ID requirements
-* Congress.gov: SAVE America Act (Safeguard American Voter Eligibility Act) bill text
+* Heritage Foundation: [Election Fraud Database](https://electionfraud.heritage.org/) — documented noncitizen voting cases
+* Cato Institute: ["Noncitizens Don't Illegally Vote in Detectable Numbers"](https://www.cato.org/blog/noncitizens-dont-illegally-vote-detectable-numbers)
+* Cato Institute: ["The Right's Bogus Claims about Noncitizen Voting Fraud"](https://www.cato.org/commentary/rights-bogus-claims-about-noncitizen-voting-fraud)
+* Brennan Center for Justice: ["Debunking the Voter Fraud Myth"](https://www.brennancenter.org/our-work/research-reports/debunking-voter-fraud-myth)
+* Brennan Center for Justice: ["Noncitizen Voting Is Already Illegal — and Vanishingly Rare"](https://www.brennancenter.org/our-work/analysis-opinion/noncitizen-voting-already-illegal-and-vanishingly-rare)
+* Pew Research Center: ["Most Americans Back Expanded Early Voting, Voting by Mail, Voter ID"](https://www.pewresearch.org/politics/2025/08/22/majority-of-americans-continue-to-back-expanded-early-voting-voting-by-mail-voter-id/) (August 2025)
+* Congress.gov: [SAVE Act (H.R. 22)](https://www.congress.gov/bill/119th-congress/house-bill/22) — bill text
 * U.S. Census Bureau: Citizenship documentation accessibility data
 * Illegal Immigration Reform and Immigrant Responsibility Act (1996): Federal penalties for noncitizen voting
 * Tioga County demographic data (Census/ACS): Age distribution, transit access

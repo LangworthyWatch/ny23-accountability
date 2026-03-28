@@ -171,11 +171,12 @@ The broader accountability gap is clear: **no local media outlet connected Langw
 * Local news: "Incredibly low morale: What's next at Big Flats Social Security office targeted by DOGE"
 * Press coverage: "Schumer demands answers on potential closure of Chemung County Social Security office"
 * Press coverage: "Schumer, Langworthy spar over DOGE plans for Social Security office"
-* FingerLakes1 Staff Report: "Social Security office in Big Flats likely to stay open" (March 29, 2025)
-* Schumer press release: Big Flats SSA office closure threat
-* *The New York Times*: DOGE plan to cut up to 7,000 SSA jobs nationwide
-* Langworthy.house.gov: DOGE Caucus founding membership
-* Buffalo News: Langworthy "founding member" quote (February 2025)
+* [FingerLakes1 Staff Report: "Social Security office in Big Flats likely to stay open"](https://fingerlakes1.com/) (March 29, 2025)
+* [Schumer press release: Big Flats SSA office closure threat](https://www.schumer.senate.gov/)
+* [*The New York Times*](https://www.nytimes.com/): DOGE plan to cut up to 7,000 SSA jobs nationwide
+* [Langworthy.house.gov](https://langworthy.house.gov/): DOGE Caucus founding membership
+* [Buffalo News](https://buffalonews.com/): Langworthy "founding member" quote (February 2025)
+* [SSA](https://www.ssa.gov/): Social Security Administration field office information
 * Related: [VA Healthcare: Calling It a 'Staffing Problem' While Supporting Workforce Cuts](/fact-checks/2024-08-va-healthcare-shortfall/)
 * Related: [Constituent Access: No In-Person Town Halls Since Taking Office](/fact-checks/2025-04-constituent-access-town-halls/)
 

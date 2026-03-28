@@ -3,7 +3,7 @@ title: "Agriculture Week: Langworthy Touts 'Family Farm' Tax Wins. His Own Distr
 date: 2026-03-21
 draft: false
 topic: "Agriculture / Economy"
-claim_date: "March 21, 2026"
+claim_date: "March 21–28, 2026"
 source: "Facebook Post"
 source_url: ""
 archived_url: ""
@@ -25,6 +25,16 @@ NY-23 contains some of New York's most productive farmland — Chautauqua County
 > "It's National Agriculture Week and this year we are honoring our commitment to our farmers, ranchers, and growers for their dedication to providing Americans with safe, abundant food. We are fortunate to live in an agriculture rich region and it's one of my top priorities to help our farmers who face enormous challenges to keep their operations running. That's why I was proud to enact the Working Families Tax Cut that contained a number of provisions to help our small, family farms. Because no farms, no food. #thankafarmer"
 
 Accompanying House GOP graphic: *"SAVING FAMILY FARMS: EXPANDED DEATH TAX EXEMPTION FOR FAMILIES / LOWERING BORROWING COSTS FOR RURAL PROPERTY / ENCOURAGING INVESTMENT IN RURAL COMMUNITIES"*
+
+**Source 2:** Facebook post, March 28, 2026 (National Agriculture Day):
+
+> "Our farmers, producers, and growers are the backbone of America, and in NY-23 we are proud of our rich agricultural heritage. Today, and everyday, we celebrate and recognize the contributions they make to our nation. #thankafarmer"
+
+Accompanying House GOP graphic: *"CELEBRATING AMERICAN FARMS FEEDING AMERICA — NATIONAL AGRICULTURE DAY"*
+
+{{< figure src="/images/fact-checks/2026-03-28-agriculture-day-fb-post.jpeg" alt="Langworthy Facebook post for National Agriculture Day celebrating NY-23 agricultural heritage" caption="Facebook post, March 28, 2026" >}}
+
+This post repeats the same general framing without the specific OBBBA claims — celebrating NY-23 agriculture while remaining silent on the tariff damage documented below.
 
 ---
 
@@ -181,10 +191,11 @@ The provisions Langworthy cites are real. The farms most affected by the estate 
 
 **Langworthy's Record:**
 * Rep. Langworthy Facebook post, March 21, 2026 (National Agriculture Week)
+* Rep. Langworthy Facebook post, March 28, 2026 (National Agriculture Day)
 * Congress.gov: H.R. 1 (One Big Beautiful Bill Act) — Langworthy: YES
 
 ---
 
 **Note:** This entry documents publicly available information from USDA Economic Research Service, university agricultural economists, official state government data, farm industry organizations, and the representative's own statements. Readers may draw their own conclusions.
 
-*Last updated: March 21, 2026*
+*Last updated: March 28, 2026*

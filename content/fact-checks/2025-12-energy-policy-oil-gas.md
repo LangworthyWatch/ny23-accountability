@@ -96,12 +96,12 @@ The bill would effectively prevent New York and other states from implementing c
 
 ## Sources
 
-* WRFA-LP Jamestown: "Rep. Langworthy Proposes Bill To Prohibit States From Imposing Ban On Energy Sources" (September 2025)
-* WNY News Now: "Langworthy Unveils Energy Choice Act to Block State Bans on Traditional Energy Sources" (June 2025)
-* Wellsville Sun: "Congressman Langworthy: Law to block NY Governor's 'gas ban' approved in committee" (December 2025)
-* WSKG: "Langworthy lays out 2025 congressional agenda" (January 2025)
-* League of Conservation Voters: National Environmental Scorecard - Nick Langworthy
-* OpenSecrets.org: Rep. Nick Langworthy - Contributors by Industry
+* WRFA-LP Jamestown: ["Rep. Langworthy Proposes Bill To Prohibit States From Imposing Ban On Energy Sources"](https://wrfalp.com/) (September 2025)
+* WNY News Now: ["Langworthy Unveils Energy Choice Act to Block State Bans on Traditional Energy Sources"](https://www.wnynewsnow.com/) (June 2025)
+* Wellsville Sun: ["Congressman Langworthy: Law to block NY Governor's 'gas ban' approved in committee"](https://www.wellsvillesun.com/) (December 2025)
+* WSKG: ["Langworthy lays out 2025 congressional agenda"](https://www.wskg.org/) (January 2025)
+* League of Conservation Voters: [National Environmental Scorecard - Nick Langworthy](https://scorecard.lcv.org/moc/nick-langworthy)
+* OpenSecrets.org: [Rep. Nick Langworthy - Contributors by Industry](https://www.opensecrets.org/members-of-congress/nick-langworthy/summary?cid=N00050227)
 
 ---
 

@@ -142,10 +142,11 @@ Same hidden HTML tracking code as all other documented responses, indicating thi
 ## Sources
 
 * Constituent letter response (February 4, 2026)
-* Minneapolis Mayor Jacob Frey: Public statement on video evidence (January 2026)
-* NPR: Coverage of Minneapolis shootings and federal response
-* DHS statements on the shooting
-* News coverage of Renee Nicole Good
+* Minneapolis Mayor Jacob Frey: [Public statement on video evidence](https://www.nbcnews.com/politics/politics-news/minneapolis-mayor-jacob-frey-emotional-voice-ice-shooting-rcna253585) (January 2026)
+* NPR: ["The latest in the fatal shooting of Renee Good by an ICE officer in Minneapolis"](https://www.npr.org/2026/01/11/nx-s1-5673226/the-latest-in-the-fatal-shooting-of-renee-good-by-an-ice-officer-in-minneapolis)
+* NPR: ["Minneapolis shootings raise questions about use-of-force rules"](https://www.npr.org/2026/01/24/nx-s1-5684002/ice-minnesota-minneapolis-renee-macklin-good-ruby-ridge-idaho-deadly-force)
+* MPR News: ["Renee Good killed by ICE agent in Minneapolis"](https://www.mprnews.org/story/2026/01/07/shooting-south-minneapolis-ice-agents-federal-operation)
+* FactCheck.org: ["Politicians Reach Different Conclusions on Minnesota Shooting Video"](https://www.factcheck.org/2026/01/politicians-reach-different-conclusions-on-minnesota-shooting-video/)
 
 ---
 

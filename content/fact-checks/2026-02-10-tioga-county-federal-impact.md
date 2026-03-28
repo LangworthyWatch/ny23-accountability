@@ -182,18 +182,18 @@ Rural residents don't need to be told what to think. They need the full picture 
 
 ## Sources
 
-* Tioga County 2026 Adopted Budget
-* Tioga County 2025-2030 Community Health Assessment
-* Tioga County 2024 Hazard Mitigation Plan (FEMA-approved)
-* Center for Governmental Research: Tioga County EMS Study (2022)
-* U.S. Census Bureau / American Community Survey: Population, demographics, income data
-* Cornell ILR: Federal contract spending analysis by county
-* Congressional Budget Office: H.R. 1 budgetary effects analysis (May 2025)
-* MIT Living Wage Calculator: Tioga County estimates
-* FEMA: Disaster records for Tioga County (DR-4031-NY, Tropical Storm Lee)
+* [Tioga County 2026 Adopted Budget](https://www.tiogacountyny.gov/)
+* [Tioga County 2025-2030 Community Health Assessment](https://www.tiogacountyny.gov/departments/public-health/)
+* [Tioga County 2024 Hazard Mitigation Plan](https://www.tiogacountyny.gov/) (FEMA-approved)
+* [Center for Governmental Research: Tioga County EMS Study](https://www.cgr.org/) (2022)
+* U.S. Census Bureau / American Community Survey: [Population, demographics, income data](https://data.census.gov/)
+* [Cornell ILR: Federal contract spending analysis by county](https://www.ilr.cornell.edu/)
+* Congressional Budget Office: [H.R. 1 budgetary effects analysis](https://www.cbo.gov/publication/61387) (May 2025)
+* MIT Living Wage Calculator: [Tioga County estimates](https://livingwage.mit.edu/counties/36107)
+* FEMA: [Disaster records for Tioga County (DR-4031-NY, Tropical Storm Lee)](https://www.fema.gov/disaster/4031)
 * Governor Hochul's Office: OBBBA healthcare coverage impact estimates
 * Tioga County Legislature: $100,000 emergency Food Bank allocation (2025)
-* HRSA: Health Professional Shortage Area designations
+* HRSA: [Health Professional Shortage Area designations](https://data.hrsa.gov/tools/shortage-area)
 
 ---
 

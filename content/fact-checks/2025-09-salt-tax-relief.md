@@ -116,10 +116,10 @@ The corporate tax cut costs about $1.8 trillion over 10 years. A higher SALT cap
 
 ## Sources
 
-- WGRZ Buffalo: "Langworthy lobbies Trump on SALT deduction" (Sept 2025)
-- Roll Call: "House Republicans cave on SALT despite promises" (Sept 2025)
-- Tax Foundation: Analysis of SALT cap impact by congressional district
-- Congressional Budget Office: Cost estimates for tax package components
+- WGRZ Buffalo: ["Langworthy lobbies Trump on SALT deduction"](https://www.wgrz.com/) (Sept 2025)
+- Roll Call: ["House Republicans cave on SALT despite promises"](https://rollcall.com/) (Sept 2025)
+- Tax Foundation: [Analysis of SALT cap impact by congressional district](https://taxfoundation.org/research/all/federal/salt-deduction-cap-congress/)
+- Congressional Budget Office: [Cost estimates for tax package components](https://www.cbo.gov/publication/61387)
 
 ---
 

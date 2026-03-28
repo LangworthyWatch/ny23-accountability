@@ -114,14 +114,13 @@ Langworthy's claim that "not a single person" among protected categories will lo
 
 ## Sources
 
-* BTPM (Buffalo Toronto Public Media): "Growing number of politicians, organizations speak out on proposed cuts" (May 15, 2025)
-* FingerLakes1.com: "Langworthy defends GOP Medicaid bill" (May 15, 2025)
-* Congressional Budget Office: OBBBA Coverage Estimates (July 2025)
-* KFF: "Allocating CBO's Estimates of Federal Medicaid Spending Reductions" (2025)
-* Center on Budget and Policy Priorities: "By the Numbers" analysis (2025)
-* American Medical Association: OBBBA Summary (December 2025)
+* BTPM (Buffalo Toronto Public Media): ["Growing number of politicians, organizations speak out on proposed cuts"](https://www.btpm.org/local/2025-05-15/growing-number-of-politicians-organizations-speak-out-on-health-care-cuts) (May 15, 2025)
+* FingerLakes1.com: ["Langworthy defends GOP Medicaid bill"](https://www.fingerlakes1.com/2025/05/15/langworthy-defends-gop-medicaid-bill/) (May 15, 2025)
+* Congressional Budget Office: [OBBBA Coverage Estimates](https://www.cbo.gov/publication/61461) (July 2025)
+* KFF: ["Allocating CBO's Estimates of Federal Medicaid Spending Reductions"](https://www.kff.org/medicaid/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-across-the-states-enacted-reconciliation-package/) (2025)
+* Center on Budget and Policy Priorities: ["Rural Health Fund Will Do Little to Offset Harm"](https://www.cbpp.org/blog/rural-health-fund-will-do-little-to-offset-harm-to-rural-providers-in-republican-megabill) (2025)
 * The Arc of the United States: Statement on OBBB (2025)
-* Fiscal Policy Institute: NY hospital Medicaid dependency data (June 2025)
+* Fiscal Policy Institute: ["New York Hospitals will Close under the OBBBA"](https://fiscalpolicy.org/new-york-hospitals-will-close-under-the-one-big-beautiful-bill-act) — NY hospital Medicaid dependency data (June 2025)
 * Related: [Rural Hospitals: 'Pure Fiction'](/fact-checks/2025-10-rural-hospitals-pure-fiction/)
 * Related: [Rural Hospitals: Praising Temporary Fix](/fact-checks/2025-11-rural-hospitals-medicaid/)
 

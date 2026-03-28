@@ -98,9 +98,13 @@ The tension between supporting agricultural interests and supporting immigration
 
 ## Sources
 
-* Local news: "'We are all afraid' — Steuben County residents say no to ICE cooperation agreements between county, federal government"
-* Langworthy press coverage: Farm Bill visit to Mansfield dairy farm
+* Local news: ["'We are all afraid' — Steuben County residents say no to ICE cooperation agreements between county, federal government"](https://www.mytwintiers.com/)
+* Langworthy press coverage: [Farm Bill visit to Mansfield dairy farm](https://langworthy.house.gov/)
 * Related: [Steuben County: Ten Federal Funding Claims Examined](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
+
+## Related Fact-Checks
+
+- ['41 Days of Chaos': Shutdown Blame Paired with Immigration Fear](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) — Taxpayer-funded leading survey asks "Should local governments support ICE deportations?"
 
 ---
 

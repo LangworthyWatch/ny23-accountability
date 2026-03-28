@@ -150,15 +150,15 @@ Whether a structural mitigation push exists behind the scenes cannot be confirme
 
 ## Sources
 
-* WSKG: "Steuben County declares state of emergency," June 2025
-* WSKG: "Long road ahead for Southern Tier communities hit by flash floods," August 2024
-* WSKG: Woodhull flood map reporting (September 8, 2021) — maps not updated since 1991
-* Finger Lakes Daily News: "Steuben Chair: Flooding Crisis Reaches Breaking Point," May 2025
-* Langworthy press release: $9.5M FEMA disaster recovery for Steuben County (August 25, 2025)
+* WSKG: ["Steuben County declares state of emergency"](https://wskg.org/) (June 2025)
+* WSKG: ["Long road ahead for Southern Tier communities hit by flash floods"](https://wskg.org/) (August 2024)
+* WSKG: [Woodhull flood map reporting](https://wskg.org/) (September 8, 2021) — maps not updated since 1991
+* Finger Lakes Daily News: "Steuben Chair: Flooding Crisis Reaches Breaking Point" (May 2025)
+* [Langworthy press release: $9.5M FEMA disaster recovery for Steuben County](https://langworthy.house.gov/) (August 25, 2025)
 * Steuben County Legislature: April 28, 2025 Risk MAP resolution
-* Steuben County Planning: Flood Mitigation Guidelines (stcplanning.org)
-* FEMA: Public Assistance obligations DR-4625-NY (Fred) and DR-4825-NY (Debby)
-* NYS DEC: Documentation of communities with 1978-1986 flood mapping
+* Steuben County Planning: [Flood Mitigation Guidelines](https://stcplanning.org/)
+* FEMA: [Public Assistance obligations DR-4625-NY (Fred)](https://www.fema.gov/disaster/4625) and [DR-4825-NY (Debby)](https://www.fema.gov/disaster/4825)
+* NYS DEC: [Documentation of communities with 1978-1986 flood mapping](https://www.dec.ny.gov/)
 * Related: [Steuben County: Ten Federal Funding Claims Examined](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
 
 ---

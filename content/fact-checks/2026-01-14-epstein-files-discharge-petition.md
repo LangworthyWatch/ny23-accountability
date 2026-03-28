@@ -138,20 +138,20 @@ When the committee conducted one of its highest-profile depositions — question
 ## Sources
 
 **Legislative Record:**
-- Congress.gov: H.R. 4405 legislative record
+- [Congress.gov: H.R. 4405 — EPSTEIN Records Transparency Act](https://www.congress.gov/bill/119th-congress/house-bill/4405)
 - White House: Signing statement (November 20, 2025)
 
 **Discharge Petition:**
 - Rep. Pat Ryan: Press release naming NY Republicans who refused to sign (September 26, 2025)
 - Erie News Now: Langworthy statement on petition (October 2025)
-- CBS News: "Epstein discharge petition secures final signature" (November 13, 2025)
-- TIME Magazine: "Which House Republicans Helped Force a Vote on Epstein Files" (November 13, 2025)
-- NBC News: "Congress passes bill to force release of Epstein files" (November 20, 2025)
+- [CBS News: "Epstein discharge petition secures final signature"](https://www.cbsnews.com/news/epstein-files-discharge-petition-house/) (November 13, 2025)
+- [TIME: "Which House Republicans Helped Force a Vote on Epstein Files"](https://time.com/7194301/epstein-files-house-republicans-discharge-petition/) (November 13, 2025)
+- [NBC News: "Congress passes bill to force release of Epstein files"](https://www.nbcnews.com/politics/congress/congress-passes-bill-force-release-epstein-files-rcna261201) (November 20, 2025)
 
 **Wexner Deposition (February 18, 2026):**
-- CNBC: "Epstein benefactor Les Wexner deposed by congressional committee" (February 18, 2026)
-- PBS NewsHour: "House Oversight Committee deposes Les Wexner in Epstein probe" (February 18, 2026)
-- Axios: "Wexner deposition marks escalation in Epstein investigation" (February 18, 2026)
+- [CNBC: "Epstein benefactor Les Wexner deposed by congressional committee"](https://www.cnbc.com/2026/02/18/epstein-les-wexner-deposed-house-oversight.html) (February 18, 2026)
+- [PBS NewsHour: "House Oversight Committee deposes Les Wexner in Epstein probe"](https://www.pbs.org/newshour/politics/house-oversight-deposes-wexner-epstein) (February 18, 2026)
+- [Axios: "Wexner deposition marks escalation in Epstein investigation"](https://www.axios.com/2026/02/18/wexner-deposition-epstein-house-oversight) (February 18, 2026)
 - The Hill: "No Republican members attend Wexner deposition" (February 2026)
 - Ohio Capital Journal: "Wexner deposed at New Albany mansion" (February 18, 2026)
 - Daily Caller: Coverage of Wexner deposition and Republican absence (February 2026)

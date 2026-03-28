@@ -255,15 +255,15 @@ The most consequential verified facts are not about credit-claiming but about po
 
 ## Sources
 
-* Langworthy press releases: Rail grant, FEMA, ARC grant, Head Start, Prattsburgh water, CAREERS Act (langworthy.house.gov)
-* FRA: CRISI Program competitive awards, October 29, 2024
-* FEMA: Public Assistance obligations DR-4625-NY (Fred) and DR-4825-NY (Debby)
-* ARC: Area Development Grant application process documentation
-* HHS: Head Start Designation Renewal System guidelines
-* USDA: Water and Waste Disposal Loan and Grant Program
-* WSKG: CAREERS Act reporting (Natalie Abruzzo); flood map reporting (September 2021)
+* [Langworthy press releases](https://langworthy.house.gov/): Rail grant, FEMA, ARC grant, Head Start, Prattsburgh water, CAREERS Act
+* FRA: [CRISI Program competitive awards](https://railroads.dot.gov/grants-loans/competitive-discretionary-grant-programs/consolidated-rail-infrastructure-and-safety-2), October 29, 2024
+* FEMA: [Public Assistance obligations DR-4625-NY (Fred)](https://www.fema.gov/disaster/4625) and [DR-4825-NY (Debby)](https://www.fema.gov/disaster/4825)
+* ARC: [Area Development Grant application process documentation](https://www.arc.gov/grants-and-contracts/)
+* HHS: [Head Start Designation Renewal System guidelines](https://eclkc.ohs.acf.hhs.gov/designation-renewal-system)
+* USDA: [Water and Waste Disposal Loan and Grant Program](https://www.rd.usda.gov/programs-services/water-environmental-programs/water-waste-disposal-loan-grant-program)
+* [WSKG](https://wskg.org/): CAREERS Act reporting (Natalie Abruzzo); flood map reporting (September 2021)
 * Steuben County Legislature: April 28, 2025 Risk MAP resolution; October 30, 2025 SNAP/HEAP letter
-* CBO: H.R. 1 budgetary effects analysis (May 2025)
+* CBO: [H.R. 1 budgetary effects analysis](https://www.cbo.gov/publication/61387) (May 2025)
 * Related: [Infrastructure: Earmarks vs. Formula Grants](/fact-checks/2025-12-infrastructure-credit/)
 * Related: [FY2026 Appropriations: What Langworthy 'Secured' vs. What Was Bipartisan](/fact-checks/2026-02-11-fy2026-appropriations-credit/)
 * Related: [Steuben County Flooding](/fact-checks/2026-02-07-steuben-flooding-mitigation/)

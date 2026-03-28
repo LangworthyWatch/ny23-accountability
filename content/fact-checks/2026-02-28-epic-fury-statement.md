@@ -192,13 +192,12 @@ The statement also pivots to a domestic political attack on Democrats over DHS f
 
 ## Sources
 
-* U.S. Central Command official releases, February 28 – March 2, 2026
-* USNI News: CENTCOM casualty confirmation, March 1, 2026
-* CBS News: Updated casualty figures, March 2, 2026
-* Politico: Congressional authorization debate
-* Just Security: International law analysis of Operation Epic Fury
-* NPR, The Hill, NBC News: Allied reaction reporting
-* State Department: State Sponsors of Terrorism list
+* [U.S. Central Command (CENTCOM): Official Releases](https://www.centcom.mil/MEDIA/PRESS-RELEASES/) — February 28 – March 2, 2026
+* [USNI News: CENTCOM casualty confirmation](https://news.usni.org/) — March 1, 2026
+* [CBS News: Updated casualty figures](https://www.cbsnews.com/) — March 2, 2026
+* [Politico: Congressional authorization debate over Iran strikes](https://www.politico.com/) — February–March 2026
+* [Just Security: International law analysis of Operation Epic Fury](https://www.justsecurity.org/)
+* [State Department: State Sponsors of Terrorism](https://www.state.gov/state-sponsors-of-terrorism/)
 * Rep. Langworthy's official statement, February 28, 2026
 * Rep. Langworthy's Facebook post, March 1, 2026
 

@@ -120,6 +120,7 @@ This phrase implies a large unknown population of terrorists who successfully ev
 * [DHS Security Incidents (Mar 9)](/fact-checks/2026-03-09-dhs-security-incidents/) — Same newsletter's security incident claims; DHS shutdown framing examined in depth
 * [SW Flight 2094 (Mar 8)](/fact-checks/2026-03-08-southwest-flight-2094/) — False alarm presented as terrorism threat in same DHS argument
 * [DHS Shutdown: Epic Fury (Feb 28)](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) — Earlier DHS "shuttered" claims
+* ['41 Days of Chaos': Shutdown / Immigration (Mar 28)](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) — Immigration framing applied to specific murder cases
 
 ---
 

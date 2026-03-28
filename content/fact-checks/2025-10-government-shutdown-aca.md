@@ -120,9 +120,9 @@ He blamed Senate Majority Leader Chuck Schumer and Democrats for "turning govern
 
 ## Sources
 
-- WLEA New York (Hornell): "GOP Rep. Langworthy Voted For Continuing Appropriations Bills" (Sept 29, 2023)
-- WSKG Public Radio: Natalie Abruzzo, "'Governing means putting your country first' — Langworthy on longest shutdown" (Nov 14, 2025)
-- Gray DC News: Molly Martinez, "House stumbles on health care votes" (Dec 17, 2025)
+- WLEA New York (Hornell): ["GOP Rep. Langworthy Voted For Continuing Appropriations Bills"](https://wlea.net/gop-rep-langworthy-voted-for-continuing-appropriations-bills/) (Sept 29, 2023)
+- WSKG Public Radio: Natalie Abruzzo, ["'Governing means putting your country first' — Langworthy on longest shutdown"](https://www.wskg.org/regional-news/2025-11-14/governing-means-putting-your-country-first-rep-langworthy-on-longest-shutdown-in-us-history) (Nov 14, 2025)
+- Gray DC News: Molly Martinez, ["House stumbles on health care votes"](https://www.localnewslive.com/2025/12/17/house-stumbles-health-care-votes/) (Dec 17, 2025)
 - Associated Press / WSKG: Impact of Shutdown on SNAP and ACA credits (Nov 2025)
 - New York State emergency food assistance reports
 

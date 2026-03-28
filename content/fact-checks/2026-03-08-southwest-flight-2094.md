@@ -68,12 +68,12 @@ This post is part of a broader pattern in the same week (see also the [March 9 D
 
 ## Sources
 
-* FBI Atlanta field office statement, March 8, 2026 (no credible threat, no charges)
-* CBS12, "Southwest flight diverted to Atlanta after bomb threat report," March 7, 2026
-* Yahoo News, March 7, 2026 (Southwest Flight 2094)
+* FBI Atlanta field office: ["No credible threat found" after plane from Nashville diverted](https://fox17.com/news/local/nashville-tenn) (March 8, 2026)
+* 11Alive: ["FBI says 'no credible threat' detected after Southwest flight diverts to Atlanta"](https://www.11alive.com/article/news/local/unruly-passenger-forces-southwest-flight-diversion-to-atlanta-suspect-in-custody/85-c4496b36-5723-4001-9205-b5e3838b5adf) (March 7, 2026)
+* Fox News: ["Southwest flight diverted after passenger scare as security incidents rattle US airports"](https://www.foxnews.com/us/southwest-flight-diverted-after-passenger-scare-security-incidents-rattle-us-airports) (March 7, 2026)
 * Southwest Airlines statement, March 8, 2026
-* CNBC, DHS shutdown timeline, February–March 2026
-* CBS News, "Minneapolis shootings prompt Democratic DHS demands," March 5, 2026
+* CNBC: DHS shutdown timeline, February--March 2026
+* CBS News: ["Markwayne Mullin sworn in as DHS secretary after Senate confirmation"](https://www.cbsnews.com/news/markwayne-mullin-confirmed-dhs-secretary-senate/) — DHS shutdown context
 
 ---
 
