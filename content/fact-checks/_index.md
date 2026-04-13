@@ -17,6 +17,20 @@ Each fact-check includes:
 
 ## Summary Table: Claim Verification Status
 
+### April 2026
+
+| Topic | Claim | Verdict |
+|-------|-------|---------|
+| [Crime Victims List](/fact-checks/2026-04-10-immigration-crime-victims-list/) | Seven women listed as "lives stolen by illegals" | **MISLEADING** — Megan Bos: no murder charge filed; cause of death officially undetermined by coroner |
+| [Crime Victims List](/fact-checks/2026-04-10-immigration-crime-victims-list/) | Sheridan Gorman, Laken Riley, Rachel Morin, Nungaray, Tibbetts, Hamilton cases | **CONFIRMED** with minor nuances (Kayla Hamilton entered via formal CBP unaccompanied-minor process) |
+| [WFTC / IRS Refunds](/fact-checks/2026-04-07-wftc-refund-claims/) | "Average IRS tax refund is up 11%" | **CONFIRMED** — IRS data shows 11.1% increase as of March 27, 2026 |
+| [WFTC / IRS Refunds](/fact-checks/2026-04-07-wftc-refund-claims/) | Law "eliminated taxes on tips and overtime" | **MISLEADING** — Creates capped deductions; FICA payroll taxes still apply |
+| [WFTC / IRS Refunds](/fact-checks/2026-04-07-wftc-refund-claims/) | Law "eliminated taxes on Social Security" | **FALSE** — $6,000 deduction for 65+, expires 2028; Social Security taxation rules unchanged |
+| [WFTC / IRS Refunds](/fact-checks/2026-04-07-wftc-refund-claims/) | "5.7 million filed no taxes on tips" | **OVERSTATED** — IRS data shows ~4.6 million |
+| [WFTC / IRS Refunds](/fact-checks/2026-04-07-wftc-refund-claims/) | "23 million filed no taxes on overtime" | **OVERSTATED** — IRS data shows ~20 million |
+| [WFTC / IRS Refunds](/fact-checks/2026-04-07-wftc-refund-claims/) | "Top 1% will pay MORE — over 40% of all federal taxes" | **SELECTIVELY FRAMED** — Income taxes only; comparison uses misleading 2017 pre-TCJA baseline |
+| [WFTC / IRS Refunds](/fact-checks/2026-04-07-wftc-refund-claims/) | "$10,900 increase for family of four" | **INFLATED** — House R&D projection including speculative growth; not confirmed by independent analysts |
+
 ### March 2026
 
 | Topic | Claim | Verdict |
