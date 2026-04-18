@@ -7,7 +7,7 @@ claim_date: "March 8, 2026"
 source: "Facebook Post"
 source_url: ""
 archived_url: ""
-verdict: "MOSTLY TRUE"
+verdict: "MISLEADING"
 tags: ["defense", "skf", "moog", "astronics", "falconer", "east-aurora", "western-new-york", "jobs", "fact-check"]
 counties: ["chautauqua", "erie"]
 ---

@@ -7,7 +7,7 @@ claim_date: "February 20, 2026"
 source: "Facebook Statement"
 source_url: ""
 archived_url: ""
-verdict: "FALSE / MISLEADING"
+verdict: "FALSE"
 tags: ["tariffs", "economy", "trade", "scotus", "manufacturing", "agriculture", "dairy", "wine", "finger-lakes"]
 counties: ["district-wide", "chautauqua", "cattaraugus", "steuben", "chemung"]
 ---

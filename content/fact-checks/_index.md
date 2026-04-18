@@ -21,6 +21,13 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [OBBBA Working Families](/fact-checks/2026-04-17-obbba-working-families/) | CTC "up to $2,200 per child" | **ACCURATE** — Refundable portion capped at $1,700; new SSN requirement limits some families |
+| [OBBBA Working Families](/fact-checks/2026-04-17-obbba-working-families/) | Child Care Credit "up to $3,000/$6,000" | **MISLEADING** — Figures are expense caps, not credit amounts; actual credit is 20–50% of those |
+| [OBBBA Working Families](/fact-checks/2026-04-17-obbba-working-families/) | Dependent Care FSA cap to $7,500 | **ACCURATE** with caveat — Effective 2026; employer-dependent; not universally accessible |
+| [OBBBA Working Families](/fact-checks/2026-04-17-obbba-working-families/) | Trump Accounts: $1,000 per newborn | **ACCURATE** with caveat — Not automatic; locked until age 18; Brookings flags workability |
+| [OBBBA Working Families](/fact-checks/2026-04-17-obbba-working-families/) | Overall: "lower costs for working families" | **MISSING CONTEXT** — Same law cut Medicaid (10M lose coverage) and SNAP ($186B reduction) |
+| [ActBlue Subpoena](/fact-checks/2026-04-16-actblue-subpoena-compliance/) | "We are demanding subpoena compliance" | **MISSING CONTEXT** — Langworthy is a committee member, not a signatory or lead; letter signed by 3 chairmen |
+| [ActBlue Subpoena](/fact-checks/2026-04-16-actblue-subpoena-compliance/) | ActBlue "funneling billions" while "evading scrutiny" | **MISSING CONTEXT** — Legal conduit; investigation is about screening gaps, not the platform's legitimacy; no mention of WinRed |
 | [Crime Victims List](/fact-checks/2026-04-10-immigration-crime-victims-list/) | Seven women listed as "lives stolen by illegals" | **MISLEADING** — Megan Bos: no murder charge filed; cause of death officially undetermined by coroner |
 | [Crime Victims List](/fact-checks/2026-04-10-immigration-crime-victims-list/) | Sheridan Gorman, Laken Riley, Rachel Morin, Nungaray, Tibbetts, Hamilton cases | **CONFIRMED** with minor nuances (Kayla Hamilton entered via formal CBP unaccompanied-minor process) |
 | [WFTC / IRS Refunds](/fact-checks/2026-04-07-wftc-refund-claims/) | "Average IRS tax refund is up 11%" | **CONFIRMED** — IRS data shows 11.1% increase as of March 27, 2026 |

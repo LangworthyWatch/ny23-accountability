@@ -7,7 +7,7 @@ claim_date: "October 2025"
 source: "Press Event"
 source_url: ""
 archived_url: ""
-verdict: "MOSTLY FALSE"
+verdict: "MISLEADING"
 tags: ["healthcare", "rural-hospitals", "medicaid", "obbba", "ny-23", "rural-impact"]
 counties: ["chautauqua", "cattaraugus", "allegany", "chemung", "schuyler", "steuben"]
 ---

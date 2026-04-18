@@ -7,7 +7,7 @@ claim_date: "2025"
 source: "Press Release"
 source_url: ""
 archived_url: ""
-verdict: "DISPUTED BY LABOR"
+verdict: "MISLEADING"
 tags: ["labor", "worker-safety", "construction", "campaign-finance"]
 counties: ["district-wide"]
 ---

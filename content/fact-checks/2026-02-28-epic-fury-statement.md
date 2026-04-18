@@ -7,7 +7,7 @@ claim_date: "February 28 – March 1, 2026"
 source: "Official Statement, Facebook Post"
 source_url: ""
 archived_url: ""
-verdict: "MULTIPLE — See Individual Ratings"
+verdict: "MULTIPLE"
 tags: ["iran", "military", "epic-fury", "foreign-policy", "war-powers", "congress", "fact-check"]
 counties: ["district-wide"]
 ---
