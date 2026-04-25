@@ -1,0 +1,20 @@
+[build]
+  publish = "public"
+  command = "hugo --gc --minify"
+
+[build.environment]
+  HUGO_VERSION = "0.146.0"
+  HUGO_ENV = "production"
+  TZ = "America/New_York"
+
+[context.deploy-preview.environment]
+  HUGO_ENV = "preview"
+
+# Same security headers we set on GitHub Pages would have served.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "geolocation=(), microphone=(), camera=()"

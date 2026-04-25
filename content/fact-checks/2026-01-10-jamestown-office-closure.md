@@ -154,6 +154,47 @@ The second FOIL response does not change the core finding: Langworthy cited "rep
 
 ---
 
+## Update — April 25, 2026: U.S. Capitol Police Denied RFI; Appeal Filed
+
+A Request for Information (RFI) was filed with the United States Capitol Police on **February 23, 2026**, seeking *"identifiable records related to threat assessments and investigations involving U.S. Representative Nick Langworthy's Jamestown District Office in January 2026."*
+
+On **April 24, 2026**, USCP's Office of the General Counsel denied the RFI in full. The denial letter cites two reasons:
+
+1. The requested information is **"not an 'identifiable record'"** under USCP's Public Request for Information Policy.
+2. The requested information **"could reasonably disclose techniques, guidelines, and/or procedures for law enforcement investigations or prosecutions."**
+
+[Download USCP denial letter (PDF)](/documents/2026-04-24-uscp-jamestown-denial.pdf)
+
+### The Appeal
+
+An administrative appeal was mailed via U.S. Mail on **April 24, 2026**, addressed to the Assistant Chief of Police for Standards and Training Operations, 119 D Street NE, Washington, D.C. 20510, within the 7-day appeal window stated in the denial letter. USCP states that all appeal decisions are final.
+
+[Download appeal letter (PDF)](/documents/2026-04-24-uscp-jamestown-appeal.pdf)
+
+The appeal raises four grounds:
+
+1. **The request seeks identifiable records.** The original RFI named a specific subject (Rep. Langworthy), a specific location (the Jamestown District Office at 2–6 East Second Street, Room 208), a specific date range (December 1, 2025 through February 23, 2026), a specific triggering incident (the January 2026 closure), and three discrete categories of records (threat-assessment files, USCP communications with local law enforcement, and disposition of any resulting investigation). The denial provides no explanation of what further specificity USCP would require.
+
+2. **The two denial grounds are internally inconsistent.** USCP cannot simultaneously claim that the request fails to identify any record *and* that the records it would identify are sensitive enough to warrant a content-based withholding. A content-based exemption presupposes the existence of identifiable responsive records.
+
+3. **The request does not seek "techniques, guidelines, or procedures."** It seeks factual records about a specific, publicly acknowledged incident — not internal manuals or methodology documents. To the extent any particular record would reveal exempt material, the policy provides for segregation and redaction (Section 4(d)(3)) rather than wholesale denial. The original request expressly invoked that provision; the denial letter did not address it.
+
+4. **The public interest in disclosure is substantial.** Rep. Langworthy himself publicly attributed the closure to "repeated credible threats and calls for violence," stated he was "working closely with U.S. Capitol Police and local law enforcement," and indicated those responsible would be prosecuted. Constituents have a legitimate interest in confirming the factual basis of those statements and the scope of USCP's response.
+
+### What This Adds to the Record
+
+USCP's denial neither confirms nor denies the existence of any threat assessment or investigation related to the Jamestown office. Their stated grounds for refusing to release records are procedural (the request was not specific enough to identify a record) and content-based (releasing the records could disclose investigative techniques).
+
+The public record now shows:
+
+- **Jamestown Police Department:** zero threat reports, zero protest records, zero communications with Capitol Police during the closure period (two FOIL responses, full year)
+- **United States Capitol Police:** denied access to any threat-assessment records, citing procedural and investigative-technique exemptions
+- **No agency** has produced records that independently corroborate the *"repeated credible threats and calls for violence"* cited as the reason for the office closure
+
+The pending appeal will determine whether USCP's denial stands or is overturned.
+
+---
+
 ## Sources
 
 - Post-Journal: "'Threats' Close Langworthy's Office in City" (January 12, 2026)
@@ -164,6 +205,8 @@ The second FOIL response does not change the core finding: Langworthy cited "rep
 - Wellsville Sun: "Congressman Langworthy will indefinitely close Jamestown office" (January 11, 2026)
 - City of Jamestown FOIL Response #1: Fulfilled February 24, 2026 — $0.50 (Incident 2026-00002972)
 - City of Jamestown FOIL Response #2: Fulfilled February 24, 2026 — $4.50 (Incidents 2025-00004135, 2025-00004419, 2025-00005375, 2025-00007404)
+- U.S. Capitol Police: RFI denial letter, April 24, 2026 ([PDF](/documents/2026-04-24-uscp-jamestown-denial.pdf))
+- Administrative appeal of USCP denial, mailed April 24, 2026 ([PDF](/documents/2026-04-24-uscp-jamestown-appeal.pdf))
 
 ---
 
@@ -173,7 +216,7 @@ The second FOIL response does not change the core finding: Langworthy cited "rep
 
 ---
 
-**Note:** This entry is based on publicly available news reports and records obtained through two lawful FOIL requests. Both FOIL responses cover only Jamestown Police Department records. Threats reported directly to Capitol Police or federal agencies would not appear in these records. A FOIL request to Capitol Police is pending.
+**Note:** This entry is based on publicly available news reports and records obtained through two lawful FOIL requests to the City of Jamestown, plus a Request for Information to the United States Capitol Police. The Jamestown FOIL responses cover only local police records. Threats reported directly to Capitol Police or federal agencies would not appear in those records. The U.S. Capitol Police denied the RFI on April 24, 2026; an administrative appeal was mailed the same day.
 
 **Document obtained by:** LangworthyWatch via FOIL request
 
@@ -193,4 +236,6 @@ The Post-Journal reported the office reopened after "protests in the area subsid
 
 A second FOIL response covering earlier dates returned four additional records from February–March 2025: three false or accidental alarms and one criminal mischief report ($30 door handle damage, no suspect). Across the full year of JPD records, there are no reports of threats, violence, or protests at the office.
 
-*Last updated: February 26, 2026*
+**Update (April 25, 2026):** A Request for Information to U.S. Capitol Police, asking for any threat-assessment records related to the Jamestown office in January 2026, was denied on April 24, 2026. USCP cited two reasons: the request was "not an 'identifiable record'" under their policy, and releasing the records "could reasonably disclose techniques, guidelines, and/or procedures for law enforcement investigations." An administrative appeal was mailed the same day. The denial does not confirm or deny that any threat assessment exists — it only declines to release records under the cited policy. The local police record (zero threat reports) remains unchanged.
+
+*Last updated: April 25, 2026*
