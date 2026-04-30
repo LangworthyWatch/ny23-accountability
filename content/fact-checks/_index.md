@@ -21,6 +21,9 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [Scotland Trip / "Service Over Self"](/fact-checks/2026-04-30-scotland-trip-service-claim/) | "I came to serve, not cash in" — posted 26 days after returning from a PAC-funded trip to a Scottish golf resort during a federal shutdown | **CONTRADICTION** |
+| [FeedMore WNY: Earmark vs. Cuts](/fact-checks/2026-04-30-feedmore-earmark-vs-cuts/) | Secured $3M for FeedMore WNY (press conference, 2024); silent when same food bank lost $3.5M in federal food deliveries (2025) | **DOCUMENTED PATTERN** |
+|-------|-------|---------|
 | [OBBBA Working Families](/fact-checks/2026-04-17-obbba-working-families/) | CTC "up to $2,200 per child" | **ACCURATE** — Refundable portion capped at $1,700; new SSN requirement limits some families |
 | [OBBBA Working Families](/fact-checks/2026-04-17-obbba-working-families/) | Child Care Credit "up to $3,000/$6,000" | **MISLEADING** — Figures are expense caps, not credit amounts; actual credit is 20–50% of those |
 | [OBBBA Working Families](/fact-checks/2026-04-17-obbba-working-families/) | Dependent Care FSA cap to $7,500 | **ACCURATE** with caveat — Effective 2026; employer-dependent; not universally accessible |
