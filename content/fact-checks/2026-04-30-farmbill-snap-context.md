@@ -102,6 +102,35 @@ Langworthy served on the House Agriculture Committee during the **118th Congress
 
 ---
 
+### The Delivery Infrastructure Is Already Gone
+
+A Farm Bill authorization means nothing without the staff and programs to deliver it. Before today's vote, the administration Langworthy supports had already:
+
+| What was cut | Scale |
+|---|---|
+| USDA employees eliminated (DOGE/RIF) | 24,000 — 27% of the workforce |
+| Conservation payments withheld from farmers | $2.3 billion to 30,715 farmers (Day 1 executive order) |
+| Rural Energy for America Program (REAP) | Dormant 16+ months; FY2026 window formally rescinded April 15, 2026 |
+| NRCS Conservation Technical Assistance (FY2027 proposed) | Cut from $850M to $111.5M — 87% reduction |
+| FSA county staffing nationally | At lowest level in 20 years; NY offices consolidated |
+| Providence Farm Collective, Orchard Park (Erie Co.) | $750,000 USDA grant terminated |
+
+The NY FSA, NRCS, and Rural Development state offices in Syracuse were simultaneously threatened with closure. Senators Schumer, Gillibrand, and Rep. Mannion (NY-22) sent a formal letter demanding answers. Langworthy did not join.
+
+EQIP application acceptance rates are already under 26% in good years. With 22% of NRCS staff gone, farmers in NY-23 face longer waits, fewer approvals, and no REAP grants — regardless of what the Farm Bill authorizes on paper.
+
+**Langworthy's public statements opposing USDA cuts or defending FSA/NRCS staffing in NY-23:** None identified.
+
+When asked about the Providence Farm Collective grant termination in Orchard Park, his office defended it.
+
+### The Rules Committee Vote
+
+On April 28, 2026 — two days before voting for the Farm Bill — Langworthy voted in the House Rules Committee against **Amendment #339**, which would have **prohibited unauthorized closure of USDA offices**. The amendment failed 4-6. Langworthy voted with the majority that killed it.
+
+Two days later, he voted for the Farm Bill and declared it "a win for NY23."
+
+---
+
 ## Questions This Raises
 
 1. What is Langworthy's position on the $186.7 billion in SNAP cuts he voted for, given he is simultaneously celebrating food security programs?
