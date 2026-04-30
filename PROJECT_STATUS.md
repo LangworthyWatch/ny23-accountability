@@ -1,186 +1,141 @@
-# NY-23 Accountability Tracker - Project Status
+# NY-23 Accountability Tracker — Project Status
 
-## ✅ Completed Setup
-
-### Site Infrastructure
-- ✅ Hugo static site generator installed
-- ✅ Clean, professional Ananke theme configured
-- ✅ GitHub Actions workflow for automatic deployment
-- ✅ Content structure created (fact-checks, votes, methodology, correspondence)
-- ✅ Site builds successfully
-
-### Core Pages Created
-- ✅ Homepage with tagline "Documenting NY-23 representation through public records"
-- ✅ Methodology page (establishes credibility and standards)
-- ✅ Fact-check template with verification checklist
-- ✅ Example entry showing format
-
-### Repository Setup
-- ✅ Git repository initialized
-- ✅ .gitignore configured
-- ✅ README for developers
-- ✅ SETUP guide for anonymous deployment
-
-## 📋 Next Steps (In Order)
-
-### 1. Anonymous GitHub Setup (30 minutes)
-- [ ] Create ProtonMail account
-- [ ] Create anonymous GitHub account
-- [ ] Create public repository
-- [ ] Push initial commit
-- [ ] Enable GitHub Pages in repo settings
-
-### 2. Manual Collection Phase (2-4 weeks)
-- [ ] Collect 10-15 strongest examples of contradictions
-- [ ] Document verification process for each
-- [ ] Create fact-check entries using template
-- [ ] Perfect methodology
-- [ ] Get trusted reviewers to check accuracy
-
-### 3. Domain Purchase (Optional - $12)
-- [ ] Buy domain with privacy protection
-- [ ] Configure DNS to point to GitHub Pages
-- [ ] Update baseURL in hugo.toml
-- [ ] Enable HTTPS enforcement
-
-### 4. Soft Launch (Week 5)
-- [ ] Publish first 10 entries
-- [ ] Share anonymously on r/Buffalo
-- [ ] Post in WNY political groups
-- [ ] Send to local journalists as resource
-- [ ] Monitor response
-
-### 5. Automation (Later - if sustainable)
-- [ ] Build Python scraper for press releases
-- [ ] Add voting record cross-reference
-- [ ] Set up keyword flagging system
-- [ ] Create submission form for constituents
-
-## 📁 Project Structure
-
-```
-langworthy-tracker/
-├── .github/workflows/hugo.yml    # Auto-deploy to GitHub Pages
-├── content/
-│   ├── _index.md                 # Homepage
-│   ├── fact-checks/              # Statement vs. action entries
-│   │   └── example-entry.md      # Template showing format
-│   ├── votes/                    # Voting record documentation
-│   ├── methodology/              # Verification standards
-│   │   └── _index.md            # Core credibility page
-│   └── correspondence/           # Constituent letter examples
-├── archetypes/
-│   └── fact-checks.md           # Template for new entries
-├── themes/ananke/               # Professional Hugo theme
-├── hugo.toml                     # Site configuration
-├── README.md                     # Developer documentation
-├── SETUP.md                      # Anonymous deployment guide
-└── PROJECT_STATUS.md            # This file
-
-```
-
-## 🎯 Success Criteria
-
-### Phase 1: Credibility (Weeks 1-4)
-- 10-15 bulletproof fact-check entries published
-- Zero factual errors
-- All sources verified and archived
-- Methodology page establishes standards
-- Trusted reviewers approve accuracy
-
-### Phase 2: Traction (Weeks 5-8)
-- Site shared in local communities
-- Local journalists aware of resource
-- Constituents submitting tips
-- No successful challenges to accuracy
-
-### Phase 3: Impact (Month 3+)
-- Regular weekly updates
-- Growing readership
-- Media citations
-- Accountability conversations in district
-
-## 💰 Total Cost
-
-**Current**: $0
-**With domain**: $12/year
-**Optional upgrades**: $0-10/month for enhanced hosting (not needed initially)
-
-## 🔒 Anonymity Safeguards
-
-- Separate GitHub account with ProtonMail
-- Domain with privacy protection
-- No identifying information in content
-- Version-controlled for transparency
-- Can claim ownership later when appropriate
-
-## 📝 Content Standards
-
-Every entry must have:
-1. Exact quote with date
-2. Primary source link (congress.gov, official sites)
-3. Archive.org archived URL
-4. Screenshot saved locally
-5. Full context provided
-6. No opinion or speculation
-
-## 🚀 Quick Start Commands
-
-```bash
-# Navigate to project
-cd /Users/zachbeaudoin/Langworthywatch/langworthy-tracker
-
-# Create new fact-check entry
-hugo new content/fact-checks/YYYY-MM-DD-topic.md
-
-# Test locally
-hugo server -D
-# Then visit http://localhost:1313
-
-# Publish changes
-git add .
-git commit -m "Add new fact-check entry"
-git push  # Auto-deploys via GitHub Actions
-```
-
-## ⚠️ Important Reminders
-
-1. **Start manually**: Don't build automation until you've proven the concept
-2. **Quality over quantity**: 1-2 solid entries per week beats rushed daily posts
-3. **Accuracy is everything**: One error undermines entire project
-4. **Stay factual**: No analysis, just documented facts side-by-side
-5. **Keep it separate**: Never mention on personal/business accounts
-
-## 🎓 Your Advantages
-
-- Policy research training (CSU/Columbia MA)
-- CPACC certification shows attention to standards
-- Veteran status (credibility on veterans issues)
-- Actual NY-23 constituent
-- No campaign affiliation
-
-## 📊 Metrics to Track (Optional)
-
-- Number of entries published
-- Page views (via GitHub Pages insights or Plausible)
-- Social shares
-- Media mentions
-- Constituent submissions
-
-## 🔄 Maintenance Schedule
-
-**Weekly** (2-3 hours):
-- Monday: Check sources for new material
-- Wednesday: Research and verify
-- Friday: Write entry, publish
-
-**Monthly**:
-- Review all archive links still working
-- Check for any errors to correct
-- Update if new information emerges
+*Last updated: April 30, 2026*
 
 ---
 
-**Status**: Ready for anonymous GitHub deployment and manual collection phase.
+## Site
 
-**Next Action**: Follow SETUP.md to create anonymous GitHub account and push initial commit.
+**Live at:** langworthywatch.org  
+**Deployment:** GitHub Actions → GitHub Pages (auto-deploys on push to `main`)  
+**Repository:** LangworthyWatch/ny23-accountability  
+**Git remote:** `https://github.com/LangworthyWatch/ny23-accountability.git`  
+**Push method:** `gh auth setup-git` credential helper (LangworthyWatch account, stored in keyring)
+
+> **SSH note:** Deploy key (`id_ed25519_langworthywatch`) is read-only. Port 22 is currently unblocked but HTTPS + `gh auth setup-git` is the reliable push path.
+
+---
+
+## Content: 84 Fact-Checks Published
+
+### Topics Covered
+
+| Series / Topic | Entries | Status |
+|---|---|---|
+| NY Utility Rates (data investigation) | 12 | Complete |
+| IDA donor-to-exemption pattern | 3 | Complete; 74 donors documented |
+| One Big Beautiful Bill / OBBBA | 4 | Complete (SNAP, working families, WFTC, real-cost framing) |
+| Minnesota fraud (hearing claims + comparative) | 2 | Complete |
+| Immigration framing | 3 | Complete |
+| Farm Bill (SNAP, House Ag, telehealth, USDA cuts) | 1 (4 sections) | Complete — update when Senate acts |
+| Scotland trip / "service over self" | 1 | Complete |
+| FeedMore WNY earmark vs. cuts | 1 | Complete — monitor for Langworthy statement |
+| "Big Brother" / FISA 702 | 1 | Complete — update at next reauthorization |
+| DHS security incidents | 1 | Complete |
+| ActBlue subpoena framing | 1 | Complete |
+| Jamestown USCP RFI | 1 | Appeal filed 2026-04-26; awaiting response |
+| Healthcare / CEO hearing | 1 | Complete |
+| SAVE Act (voter ID) | 1 | Complete |
+| SW Flight 2094 | 1 | Complete |
+| County rural impact profiles | 2 | Steuben, Tioga complete; 6 counties not started |
+
+### Verdict Distribution
+
+MISLEADING (most common) · MISSING CONTEXT · CONTRADICTION · DOCUMENTED PATTERN · FALSE · MOSTLY TRUE · NOT SUPPORTED · DEFLECTION
+
+---
+
+## Graphics Pipeline
+
+Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posting.
+
+**Standard format:**
+- Size: 1200 × 1100–1220px
+- Background: `#F5F7FA` (light gray)
+- Header bar: `#1E3A5F` (navy), white text, `LANGWORTHYWATCH.ORG`
+- Two-column: green-tinted left ("what he says/does"), red-tinted right (contrast)
+- Verdict bar: gold (`#D69E2E`) on cream, bold verdict label + one-line summary
+- Footer: navy bar, `langworthywatch.org · NY-23 Accountability · All sources public record`
+- Font: Arial Bold for headers/labels, Impact for large numbers, Arial for body
+
+**Active scripts (`~/Downloads/`):**
+- `create_scotland_service_graphic.py` → `langworthy_scotland_service.png`
+- `create_feedmore_graphic.py` → `langworthy_feedmore.png`
+- `create_farmbill_snap_graphic.py` → `langworthy_farmbill_snap.png`
+- `create_houseag_graphic.py` → `langworthy_houseag_claim.png`
+- `create_telehealth_graphic.py` → `langworthy_telehealth_budget.png`
+- `create_usda_cuts_graphic.py` → `langworthy_usda_cuts.png`
+- `create_bigbrother_graphic.py` → `langworthy_bigbrother_fisa.png`
+- `create_minnesota_fraud_graphic.py` → `langworthy_minnesota_fraud.png`
+
+---
+
+## Active Investigation Threads
+
+| Thread | Status | Next step |
+|---|---|---|
+| Farm Bill — Senate action | Published; watching | Update when Senate moves |
+| FeedMore WNY | Published | Monitor for any Langworthy statement |
+| FISA 702 | Published | Update at next reauthorization vote |
+| Blackstone → Huizenga | Research complete; NOT published | Needs reframe: carried interest vote + Basel III are clean claims; INVEST Act provision was Ann Wagner's bill, not Huizenga's |
+| Jamestown USCP RFI denial | Published | USCP appeal filed 2026-04-26; awaiting response |
+| County profiles | 2 of 8 done | Chemung, Cattaraugus, Chautauqua, Erie, Allegany, Schuyler remaining |
+
+---
+
+## Workflow
+
+### New Fact-Check
+
+```bash
+cd langworthy-tracker
+# Create file
+# content/fact-checks/YYYY-MM-DD-descriptive-slug.md
+# Archive all source URLs before publishing:
+curl -s -I "https://web.archive.org/save/[URL]"
+# Build and verify
+hugo server -D
+# Commit and push
+git add content/fact-checks/YYYY-MM-DD-slug.md content/fact-checks/_index.md
+git commit -m "feat: add [topic] fact-check"
+git push origin main
+```
+
+### New Graphic
+
+```bash
+# Write script to ~/Downloads/create_[topic]_graphic.py
+# Run it
+python3 ~/Downloads/create_[topic]_graphic.py
+# Output: ~/Downloads/langworthy_[topic].png
+# Copy to Desktop for posting
+cp ~/Downloads/langworthy_[topic].png ~/Desktop/
+```
+
+### Push (if credential helper needs re-setup)
+
+```bash
+gh auth setup-git
+git push origin main
+```
+
+---
+
+## Content Standards (summary)
+
+- All sources must be archived via Archive.org before publishing
+- No speculation, no opinion presented as fact
+- Verdict labels from approved taxonomy only
+- County tags required for district-specific entries
+- Cross-links to related entries at bottom
+- "In plain language:" summaries after data-heavy sections
+- Cite thepublicledgers.org for IDA/subsidy underlying data (not raw data on LW)
+
+---
+
+## Cost
+
+- Hosting: $0 (GitHub Pages)
+- Domain: ~$12/year (langworthywatch.org)
+- Analytics: Google Analytics (free tier)
+- Donations: Donorbox (fee on donations only)

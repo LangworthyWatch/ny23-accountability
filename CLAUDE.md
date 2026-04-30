@@ -389,18 +389,21 @@ Reference these when entries fit established patterns:
 
 ## Git and Deployment
 
-### SSH Configuration
-Port 22 to GitHub is frequently blocked. Use the port 443 SSH config:
+### Push Method (Updated April 2026)
+
+Use HTTPS with the `gh` credential helper — this is the reliable path:
+
 ```bash
-# If push fails on port 22, set remote to use port 443:
-git remote set-url origin git@github-langworthy-443:LangworthyWatch/ny23-accountability.git
-git push
+# One-time setup (if needed):
+gh auth setup-git
+
+# Standard push:
+git push origin main
 ```
 
-SSH hosts configured in `~/.ssh/config`:
-- `github-langworthy` — port 22 (often blocked)
-- `github-langworthy-443` — port 443 via ssh.github.com (reliable fallback)
-- Both use `~/.ssh/id_ed25519_langworthywatch`
+Remote is set to HTTPS: `https://github.com/LangworthyWatch/ny23-accountability.git`
+
+**Why not SSH:** The deploy key (`id_ed25519_langworthywatch` in `~/.ssh/config`) is read-only. Port 22 is currently unblocked but the `gh` credential helper (LangworthyWatch account, stored in keyring) is more reliable. Do not revert to SSH remote unless the credential helper stops working.
 
 ### Repository
 - Remote repo name: `LangworthyWatch/ny23-accountability` (not `langworthy-tracker`)
@@ -443,4 +446,4 @@ Use LW to document the *legislative record* (votes, reform gaps, Langworthy's sp
 
 ---
 
-*Last updated: March 21, 2026*
+*Last updated: April 30, 2026*
