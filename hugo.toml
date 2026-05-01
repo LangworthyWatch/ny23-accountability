@@ -33,10 +33,15 @@ title = 'NY-23 Accountability Tracker'
     url = '/campaign-finance/'
     weight = 4
   [[menu.main]]
+    identifier = 'dashboard'
+    name = 'Scorecard'
+    url = '/dashboard/'
+    weight = 5
+  [[menu.main]]
     identifier = 'methodology'
     name = 'Methodology'
     url = '/methodology/'
-    weight = 5
+    weight = 6
   [[menu.main]]
     identifier = 'about'
     name = 'About'

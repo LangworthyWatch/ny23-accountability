@@ -1,0 +1,639 @@
+{
+  "generated": "2026-05-01",
+  "total": 83,
+  "top_verdict": "MISLEADING",
+  "verdicts": {
+    "MISLEADING": 20,
+    "MISSING CONTEXT": 18,
+    "CONTRADICTION": 12,
+    "DOCUMENTED PATTERN": 11,
+    "FALSE": 9,
+    "MULTIPLE": 3,
+    "FALSE ATTRIBUTION": 3,
+    "DEFLECTION": 3,
+    "MISSING ATTRIBUTION": 2,
+    "NON-RESPONSIVE": 1,
+    "INCONSISTENT": 1
+  },
+  "by_topic": {
+    "Government Operations": 10,
+    "Economy": 9,
+    "Healthcare": 9,
+    "Immigration": 6,
+    "Local Impact": 5,
+    "Energy": 4,
+    "Transparency": 4,
+    "Infrastructure": 4,
+    "Agriculture": 3,
+    "Campaign Finance": 3,
+    "Rule of Law": 2,
+    "Legislative Record": 2,
+    "Environment": 2,
+    "Foreign Policy": 2,
+    "Constituent Service": 2,
+    "Social Services": 2,
+    "Veterans": 2,
+    "Ethics": 1,
+    "Voting Record": 1,
+    "Oversight": 1,
+    "Defense": 1,
+    "Congressional Ethics": 1,
+    "Federal Programs": 1,
+    "Civil Liberties": 1,
+    "Food Security": 1,
+    "Campaign": 1,
+    "Accountability & Governance": 1,
+    "Labor": 1,
+    "Tax Policy": 1
+  },
+  "by_month": {
+    "2025-12": 22,
+    "2026-01": 8,
+    "2026-02": 28,
+    "2026-03": 15,
+    "2026-04": 10
+  },
+  "entries": [
+    {
+      "title": "\\\"Big Brother Has No Place Spying on You\\\" \u2014 Posted While Voting to Extend Warrantless Surveillance",
+      "date": "2026-04-30",
+      "verdict": "CONTRADICTION",
+      "topic": "Rule of Law",
+      "url": "/fact-checks/2026-04-30-bigbrother-fisa-car-surveillance/"
+    },
+    {
+      "title": "Farm Bill Celebration Omits $186.7 Billion SNAP Cut He Voted For",
+      "date": "2026-04-30",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-04-30-farmbill-snap-context/"
+    },
+    {
+      "title": "$3M Earmark Press Conference. $3.5M Cut. Zero Statements.",
+      "date": "2026-04-30",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-04-30-feedmore-earmark-vs-cuts/"
+    },
+    {
+      "title": "Minnesota's Fraud Is Real. So Is Everyone Else's.",
+      "date": "2026-04-30",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-04-30-minnesota-fraud-comparative/"
+    },
+    {
+      "title": "Scotland Golf Resort During a Shutdown \u2014 Then 'I Came to Serve, Not Cash In",
+      "date": "2026-04-30",
+      "verdict": "CONTRADICTION",
+      "topic": "Ethics",
+      "url": "/fact-checks/2026-04-30-scotland-trip-service-claim/"
+    },
+    {
+      "title": "What Was Said vs. What the Record Shows: Five Recent Langworthy Constituent Posts",
+      "date": "2026-04-25",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Voting Record",
+      "url": "/fact-checks/2026-04-25-said-vs-record-april-posts/"
+    },
+    {
+      "title": "Langworthy Promotes 'One Big Beautiful Bill' as a Working Families Win \u2014 The Numbers Are Selectively Accurate, the Full Picture Is Not",
+      "date": "2026-04-17",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-04-17-obbba-working-families/"
+    },
+    {
+      "title": "Langworthy Claims He Is 'Demanding' ActBlue Subpoena Compliance \u2014 His Role Is Overstated",
+      "date": "2026-04-16",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Oversight",
+      "url": "/fact-checks/2026-04-16-actblue-subpoena-compliance/"
+    },
+    {
+      "title": "Crime Victims List Includes Case Where No Murder Charge Has Been Filed",
+      "date": "2026-04-10",
+      "verdict": "MISLEADING",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-04-10-immigration-crime-victims-list/"
+    },
+    {
+      "title": "Working Families Tax Cut Posts: 'No Tax on Social Security' Is False; Filer Counts Are Inflated",
+      "date": "2026-04-07",
+      "verdict": "MISLEADING",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-04-07-wftc-refund-claims/"
+    },
+    {
+      "title": "41 Days of Chaos': Langworthy Pairs Shutdown Blame with Immigration Fear in a Single-Day Messaging Blitz",
+      "date": "2026-03-28",
+      "verdict": "MISLEADING",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-03-28-shutdown-immigration-scapegoating/"
+    },
+    {
+      "title": "Agriculture Week: Langworthy Touts 'Family Farm' Tax Wins. His Own District Tells a Different Story.",
+      "date": "2026-03-21",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Agriculture",
+      "url": "/fact-checks/2026-03-21-agriculture-week-family-farms/"
+    },
+    {
+      "title": "IDA Tax Breaks and Political Donors: A District-Wide Pattern",
+      "date": "2026-03-21",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-03-21-ida-donor-exemption-pattern/"
+    },
+    {
+      "title": "OBBBA Vote: Langworthy Backed Legislation That Locks In IDA-Friendly Tax Provisions",
+      "date": "2026-03-21",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Legislative Record",
+      "url": "/fact-checks/2026-03-21-obbba-ida-vote/"
+    },
+    {
+      "title": "Pay TSA Act: 'I Don't Support Shutdowns.' Three in Six Months Tell a More Complex Story.",
+      "date": "2026-03-21",
+      "verdict": "CONTRADICTION",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-03-21-pay-tsa-act/"
+    },
+    {
+      "title": "Who's Really Driving Your Electric Bill? A Data Investigation into NY Utility Rates",
+      "date": "2026-03-14",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Energy",
+      "url": "/fact-checks/2026-03-14-nys-utility-rates-data-investigation/"
+    },
+    {
+      "title": "Seneca Nation Law Enforcement Act: Public Safety Bill or Undisclosed Donor Benefit?",
+      "date": "2026-03-14",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-03-14-seneca-nation-law-enforcement-act/"
+    },
+    {
+      "title": "Great Lakes Award: Industry Recognition Presented as Environmental Stewardship",
+      "date": "2026-03-10",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Environment",
+      "url": "/fact-checks/2026-03-10-great-lakes-award/"
+    },
+    {
+      "title": "DHS Shutdown and Security Threats: Four Claims Examined",
+      "date": "2026-03-09",
+      "verdict": "MISLEADING",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-03-09-dhs-security-incidents/"
+    },
+    {
+      "title": "\\\"10 Million Illegal Immigrants\\\" and \\\"360 on Terrorist Watch List\\\": Two Immigration Claims Examined",
+      "date": "2026-03-08",
+      "verdict": "MISLEADING",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-03-08-biden-immigration-10-million/"
+    },
+    {
+      "title": "Defense Suppliers Visit: Wrong Company Name, Wrong City, Understated Employment",
+      "date": "2026-03-08",
+      "verdict": "MISLEADING",
+      "topic": "Defense",
+      "url": "/fact-checks/2026-03-08-defense-suppliers-visit/"
+    },
+    {
+      "title": "Minnesota Fraud Hearing: Three Claims Examined",
+      "date": "2026-03-08",
+      "verdict": "MISLEADING",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-03-08-minnesota-fraud-walz-hearing/"
+    },
+    {
+      "title": "Southwest Flight 2094: Langworthy Uses Confirmed False Alarm to Argue for DHS Funding",
+      "date": "2026-03-08",
+      "verdict": "MISLEADING",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-03-08-southwest-flight-2094/"
+    },
+    {
+      "title": "Mullin DHS Appointment: Accurate Credentials, Missing Context on Shutdown Impasse",
+      "date": "2026-03-07",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-03-07-mullin-dhs-appointment/"
+    },
+    {
+      "title": "Sexual Misconduct Vote: Langworthy Backed Transparency Against Party Leadership",
+      "date": "2026-03-05",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Congressional Ethics",
+      "url": "/fact-checks/2026-03-05-sexual-misconduct-vote/"
+    },
+    {
+      "title": "DHS Shutdown Claim: Langworthy Uses Iran War to Pressure Democrats on Funding",
+      "date": "2026-02-28",
+      "verdict": "MISLEADING",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-02-28-dhs-shutdown-epic-fury/"
+    },
+    {
+      "title": "Operation Epic Fury: Eight Claims from Langworthy's Statement, Checked Against the Record",
+      "date": "2026-02-28",
+      "verdict": "MULTIPLE",
+      "topic": "Foreign Policy",
+      "url": "/fact-checks/2026-02-28-epic-fury-statement/"
+    },
+    {
+      "title": "Jamestown Office Closure: 'Credible Threats' Cited, but Local Police Records Show No Threat Reports",
+      "date": "2026-02-25",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Constituent Service",
+      "url": "/fact-checks/2026-01-10-jamestown-office-closure/"
+    },
+    {
+      "title": "Epstein Files: 'Proudly Supported' Transparency - But Didn't Sign the Petition or Attend the Wexner Deposition",
+      "date": "2026-02-25",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-01-14-epstein-files-discharge-petition/"
+    },
+    {
+      "title": "Energy Choice Act: What the Bill Does, Who Supports It, and What It Leaves Out",
+      "date": "2026-02-25",
+      "verdict": "MISLEADING",
+      "topic": "Energy",
+      "url": "/fact-checks/2026-02-25-energy-choice-act/"
+    },
+    {
+      "title": "Langworthy Claims 'Largest Middle-Class Tax Cut in History.' What the Data Shows.",
+      "date": "2026-02-25",
+      "verdict": "FALSE",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-02-25-largest-tax-cut-claim/"
+    },
+    {
+      "title": "NYSEG Sends $450 Million to Spain, Files for 35% Rate Hike. Langworthy Has Not Responded.",
+      "date": "2026-02-25",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Energy",
+      "url": "/fact-checks/2026-02-25-nyseg-rate-hike-silence/"
+    },
+    {
+      "title": "State of the Union 2026: Nine Claims from Langworthy's Response, Checked Against the Data",
+      "date": "2026-02-25",
+      "verdict": "MULTIPLE",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-02-25-sotu-2026-claims/"
+    },
+    {
+      "title": "Federal Preemption Pattern: Three Bills, One Playbook",
+      "date": "2026-02-25",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Transparency",
+      "url": "/fact-checks/2026-02-state-preemption-pattern/"
+    },
+    {
+      "title": "February 2026 Telephone Town Hall: Claims vs. Record",
+      "date": "2026-02-25",
+      "verdict": "MULTIPLE",
+      "topic": "Constituent Service",
+      "url": "/fact-checks/2026-02-telephone-town-hall/"
+    },
+    {
+      "title": "Langworthy Blames Clean Energy for Costs That Natural Gas and Utility Profits Actually Drive",
+      "date": "2026-02-20",
+      "verdict": "MISLEADING",
+      "topic": "Energy",
+      "url": "/fact-checks/2026-02-20-energy-costs-dunkirk/"
+    },
+    {
+      "title": "SCOTUS Strikes Down Tariffs 6\u20133. Langworthy Says They 'Proven Effective.' The Numbers Disagree.",
+      "date": "2026-02-20",
+      "verdict": "FALSE",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-02-20-scotus-tariff-ruling/"
+    },
+    {
+      "title": "Langworthy Announces $1.48 Million for Airport Snow Equipment \u2014 at an Airport in Another Congressman's District",
+      "date": "2026-02-18",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Infrastructure",
+      "url": "/fact-checks/2026-02-18-buffalo-airport-snow-equipment/"
+    },
+    {
+      "title": "FY2026 Appropriations: What Langworthy 'Secured' vs. What Was Bipartisan",
+      "date": "2026-02-11",
+      "verdict": "MISSING ATTRIBUTION",
+      "topic": "Infrastructure",
+      "url": "/fact-checks/2026-02-11-fy2026-appropriations-credit/"
+    },
+    {
+      "title": "SAVE America Act: Solving a Problem That Doesn't Exist While Creating New Ones",
+      "date": "2026-02-10",
+      "verdict": "MISLEADING",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-02-10-save-act-voter-id/"
+    },
+    {
+      "title": "What Federal Policy Is Actually Doing to Tioga County",
+      "date": "2026-02-10",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Local Impact",
+      "url": "/fact-checks/2026-02-10-tioga-county-federal-impact/"
+    },
+    {
+      "title": "What Medicaid Cuts Mean for NY-23 Healthcare",
+      "date": "2026-02-09",
+      "verdict": "FALSE",
+      "topic": "Local Impact",
+      "url": "/fact-checks/2026-02-09-medicaid-rural-impact-summary/"
+    },
+    {
+      "title": "What SNAP Changes Mean for NY-23 Families",
+      "date": "2026-02-09",
+      "verdict": "FALSE",
+      "topic": "Local Impact",
+      "url": "/fact-checks/2026-02-09-snap-rural-impact-summary/"
+    },
+    {
+      "title": "What DOGE Is Doing to Veteran Care in the Southern Tier",
+      "date": "2026-02-09",
+      "verdict": "CONTRADICTION",
+      "topic": "Local Impact",
+      "url": "/fact-checks/2026-02-09-va-rural-impact-summary/"
+    },
+    {
+      "title": "Allegany County: Grant Announcements and Service Suspensions",
+      "date": "2026-02-08",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Transparency",
+      "url": "/fact-checks/2026-02-08-allegany-county-grants-accord/"
+    },
+    {
+      "title": "Big Flats Social Security Office: DOGE Targeted a Chemung County Lifeline",
+      "date": "2026-02-08",
+      "verdict": "CONTRADICTION",
+      "topic": "Federal Programs",
+      "url": "/fact-checks/2026-02-08-big-flats-ssa-doge/"
+    },
+    {
+      "title": "Steuben County: Ten Federal Funding Claims Examined",
+      "date": "2026-02-08",
+      "verdict": "MISSING ATTRIBUTION",
+      "topic": "Transparency",
+      "url": "/fact-checks/2026-02-08-steuben-credit-claiming-pattern/"
+    },
+    {
+      "title": "ICE Cooperation Agreements: Steuben County Residents Say No",
+      "date": "2026-02-08",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-02-08-steuben-ice-cooperation/"
+    },
+    {
+      "title": "What Federal Policy Is Actually Doing to Steuben County",
+      "date": "2026-02-08",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Local Impact",
+      "url": "/fact-checks/2026-02-08-steuben-rural-impact-summary/"
+    },
+    {
+      "title": "Campaign Finance: 44% PAC Dependency and Energy Sector Alignment",
+      "date": "2026-02-07",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-02-07-campaign-finance-patterns/"
+    },
+    {
+      "title": "Steuben County Flooding: Disaster Relief Without Structural Mitigation",
+      "date": "2026-02-07",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Infrastructure",
+      "url": "/fact-checks/2026-02-07-steuben-flooding-mitigation/"
+    },
+    {
+      "title": "Minneapolis Shooting: Calling Renee Good a 'Violent Rioter' Contradicted by Released Video",
+      "date": "2026-02-04",
+      "verdict": "FALSE",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-02-04-minneapolis-renee-good/"
+    },
+    {
+      "title": "Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record",
+      "date": "2026-02-02",
+      "verdict": "MISLEADING",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-02-02-shutdown-defund-ice/"
+    },
+    {
+      "title": "HHS Childcare Freeze: Defending Funding Pause by Citing Unrelated Minnesota Fraud",
+      "date": "2026-01-31",
+      "verdict": "MISLEADING",
+      "topic": "Social Services",
+      "url": "/fact-checks/2026-01-31-childcare-freeze/"
+    },
+    {
+      "title": "Health Insurance CEO Hearing: Demanding Answers for Premium Increases His Votes Caused",
+      "date": "2026-01-24",
+      "verdict": "FALSE ATTRIBUTION",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-01-24-ceo-hearing-premiums/"
+    },
+    {
+      "title": "One Year. Real Results.': Taking Credit for Biden-Era Progress and Making False Economic Claims",
+      "date": "2026-01-22",
+      "verdict": "FALSE ATTRIBUTION",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-01-22-one-year-real-results/"
+    },
+    {
+      "title": "Hernandez Pardon: Constituent Raised Drug Trafficker Pardon, Response Pivoted to Biden",
+      "date": "2026-01-21",
+      "verdict": "DEFLECTION",
+      "topic": "Rule of Law",
+      "url": "/fact-checks/2026-01-21-hernandez-pardon/"
+    },
+    {
+      "title": "Free Speech: Defending AP Restrictions by Citing Unrelated Previous Legislation",
+      "date": "2026-01-20",
+      "verdict": "DEFLECTION",
+      "topic": "Civil Liberties",
+      "url": "/fact-checks/2026-01-14-free-speech-ap-access/"
+    },
+    {
+      "title": "Premium Tax Credits: Constituent Asked About PTCs, Response Pivoted to Unrelated Tax Provisions",
+      "date": "2026-01-20",
+      "verdict": "DEFLECTION",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-01-14-ptc-pivot/"
+    },
+    {
+      "title": "RFK Jr./MAHA: Constituent Expressed Opposition, Response Praised the Agenda",
+      "date": "2026-01-20",
+      "verdict": "NON-RESPONSIVE",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-01-14-rfk-maha/"
+    },
+    {
+      "title": "Venezuela/Maduro: Supporting Arrest of Drug Trafficker While Defending Pardon of Another",
+      "date": "2026-01-20",
+      "verdict": "INCONSISTENT",
+      "topic": "Foreign Policy",
+      "url": "/fact-checks/2026-01-20-maduro-hernandez-contrast/"
+    },
+    {
+      "title": "Farm Bill: Claiming 'Victory' and Blaming Democrats for Legislation That Never Received a Floor Vote",
+      "date": "2025-12-30",
+      "verdict": "MISLEADING",
+      "topic": "Agriculture",
+      "url": "/fact-checks/2025-12-farm-bill-victory/"
+    },
+    {
+      "title": "Agriculture: 'Fighting for Farmers' While Staying Silent on Farm Workforce Modernization Act",
+      "date": "2025-12-30",
+      "verdict": "CONTRADICTION",
+      "topic": "Agriculture",
+      "url": "/fact-checks/2025-12-farm-workforce/"
+    },
+    {
+      "title": "Infrastructure: Earmarks vs. Formula Grants \u2014 What Langworthy Actually 'Delivered",
+      "date": "2025-12-30",
+      "verdict": "FALSE ATTRIBUTION",
+      "topic": "Infrastructure",
+      "url": "/fact-checks/2025-12-infrastructure-credit/"
+    },
+    {
+      "title": "Immigration: Claiming to 'Remove Illegal Aliens from Medicaid' When Federal Law Already Prohibits Their Enrollment",
+      "date": "2025-12-30",
+      "verdict": "MISLEADING",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2025-12-medicaid-immigration/"
+    },
+    {
+      "title": "SNAP Benefits: Claiming 'Not a Single Dollar Cut' While CBO Documents $295 Billion in Reductions",
+      "date": "2025-12-30",
+      "verdict": "FALSE",
+      "topic": "Food Security",
+      "url": "/fact-checks/2025-12-snap-cuts/"
+    },
+    {
+      "title": "Social Security: Claiming '88% of Seniors Will No Longer Pay Federal Tax' on Benefits",
+      "date": "2025-12-30",
+      "verdict": "MISLEADING",
+      "topic": "Social Services",
+      "url": "/fact-checks/2025-12-social-security-tax/"
+    },
+    {
+      "title": "Year-End Newsletter: Legislative Claims vs. Congressional Record",
+      "date": "2025-12-30",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Legislative Record",
+      "url": "/fact-checks/2025-12-year-end-newsletter/"
+    },
+    {
+      "title": "PBM Reform: Championing the Issue Publicly While Staying Silent When Trump Kills It\u2014Repeatedly",
+      "date": "2025-12-29",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2025-12-pharmacy-crisis-pbm-reform/"
+    },
+    {
+      "title": "2022 Campaign: 'Chosen by President Trump' Mailer Drew Complaints of Deception",
+      "date": "2025-12-22",
+      "verdict": "MISLEADING",
+      "topic": "Campaign",
+      "url": "/fact-checks/2022-07-trump-endorsement-mailer/"
+    },
+    {
+      "title": "VA Healthcare: Calling It a 'Staffing Problem' While Supporting Workforce Cuts",
+      "date": "2025-12-22",
+      "verdict": "CONTRADICTION",
+      "topic": "Veterans",
+      "url": "/fact-checks/2024-08-va-healthcare-shortfall/"
+    },
+    {
+      "title": "Constituent Access: No In-Person Town Halls in 3+ Years, Office Closures Across District",
+      "date": "2025-12-22",
+      "verdict": "FALSE",
+      "topic": "Transparency",
+      "url": "/fact-checks/2025-04-constituent-access-town-halls/"
+    },
+    {
+      "title": "Medicaid: Claiming 'Not a Single Person' Will Lose Coverage While Voting for $911 Billion in Cuts",
+      "date": "2025-12-22",
+      "verdict": "FALSE",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2025-05-medicaid-coverage-cuts/"
+    },
+    {
+      "title": "Rural Hospitals: Calling Closure Warnings 'Pure Fiction' While NY Leads Nation in At-Risk Hospitals",
+      "date": "2025-12-22",
+      "verdict": "MISLEADING",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2025-10-rural-hospitals-pure-fiction/"
+    },
+    {
+      "title": "ACA Subsidies: Falsely Claiming High Earners Get 'Free Health Care",
+      "date": "2025-12-22",
+      "verdict": "FALSE",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2025-11-aca-subsidies-false-claim/"
+    },
+    {
+      "title": "Energy Policy: Pushing 'Choice' Bill While Taking $66,466 from Oil & Gas and Scoring 3% on Environment",
+      "date": "2025-12-22",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Environment",
+      "url": "/fact-checks/2025-12-energy-policy-oil-gas/"
+    },
+    {
+      "title": "Rep. Nick Langworthy: Rhetoric vs. Actions - A Comprehensive Analysis",
+      "date": "2025-12-22",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Accountability & Governance",
+      "url": "/fact-checks/2025-12-rhetoric-vs-actions-overview/"
+    },
+    {
+      "title": "Worker Safety: Targeting 140-Year-Old Scaffold Law While Unions Warn of Harm to Workers",
+      "date": "2025-12-22",
+      "verdict": "MISLEADING",
+      "topic": "Labor",
+      "url": "/fact-checks/2025-12-worker-safety-scaffold-law/"
+    },
+    {
+      "title": "Epstein Files: Voting Against Transparency, Then Claiming to Support It",
+      "date": "2025-12-21",
+      "verdict": "CONTRADICTION",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2025-07-18-epstein-files-transparency/"
+    },
+    {
+      "title": "Veterans Support: Pro-Veteran Rhetoric During Shutdown That Delayed Military Pay",
+      "date": "2025-12-21",
+      "verdict": "CONTRADICTION",
+      "topic": "Veterans",
+      "url": "/fact-checks/2025-08-veterans-support/"
+    },
+    {
+      "title": "SALT Tax Relief: Lobbying Trump While Voting Against Constituents",
+      "date": "2025-12-21",
+      "verdict": "CONTRADICTION",
+      "topic": "Tax Policy",
+      "url": "/fact-checks/2025-09-salt-tax-relief/"
+    },
+    {
+      "title": "Government Shutdown: Anti-Shutdown Rhetoric During 44-Day Standoff",
+      "date": "2025-12-21",
+      "verdict": "CONTRADICTION",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2025-10-government-shutdown-aca/"
+    },
+    {
+      "title": "Rural Hospitals: Praising Temporary Fix After Voting for Permanent Cuts",
+      "date": "2025-12-21",
+      "verdict": "CONTRADICTION",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2025-11-rural-hospitals-medicaid/"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{{ define "main" }}
+<style>
+/* ── Dashboard layout ─────────────────────────────────────────── */
+.dash-wrap        { max-width: 1100px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+.dash-header      { margin-bottom: 2.5rem; }
+.dash-header h1   { font-size: 1.75rem; font-weight: 700; color: var(--navy, #1E3A5F); margin: 0 0 .4rem; }
+.dash-header p    { color: var(--muted, #718096); font-size: .95rem; margin: 0; }
+
+/* stat cards */
+.stat-row         { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin-bottom: 2.5rem; }
+.stat-card        { background: #fff; border: 1px solid #E2E8F0; border-radius: 10px; padding: 1.25rem 1.5rem; }
+.stat-card .num   { font-size: 2.2rem; font-weight: 800; color: var(--navy, #1E3A5F); line-height: 1; }
+.stat-card .lbl   { font-size: .8rem; color: var(--muted, #718096); text-transform: uppercase; letter-spacing: .05em; margin-top: .35rem; }
+
+/* chart grid */
+.chart-grid       { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2.5rem; }
+.chart-grid.full  { grid-template-columns: 1fr; }
+@media (max-width: 700px) { .chart-grid { grid-template-columns: 1fr; } }
+.chart-card       { background: #fff; border: 1px solid #E2E8F0; border-radius: 10px; padding: 1.25rem 1.5rem; }
+.chart-card h2    { font-size: 1rem; font-weight: 700; color: var(--navy, #1E3A5F); margin: 0 0 1rem; }
+
+/* verdict badge */
+.vbadge { display: inline-block; font-size: .72rem; font-weight: 700; padding: .15em .55em; border-radius: 4px; text-transform: uppercase; letter-spacing: .04em; white-space: nowrap; }
+.v-CONTRADICTION    { background: #FFF5F5; color: #C53030; border: 1px solid #FC8181; }
+.v-MISLEADING       { background: #FFF5F5; color: #C53030; border: 1px solid #FC8181; }
+.v-FALSE            { background: #FFF5F5; color: #9B2C2C; border: 1px solid #FC8181; }
+.v-MOSTLY-FALSE     { background: #FFFAF0; color: #C05621; border: 1px solid #FBD38D; }
+.v-MISSING-CONTEXT  { background: #FFFAF0; color: #C05621; border: 1px solid #FBD38D; }
+.v-DOCUMENTED-PATTERN { background: #FFFAF0; color: #C05621; border: 1px solid #FBD38D; }
+.v-TRUE             { background: #F0FFF4; color: #276749; border: 1px solid #68D391; }
+.v-MOSTLY-TRUE      { background: #F0FFF4; color: #276749; border: 1px solid #68D391; }
+.v-NOT-SUPPORTED    { background: #EBF8FF; color: #2B6CB0; border: 1px solid #90CDF4; }
+.v-DEFLECTION       { background: #EBF8FF; color: #2B6CB0; border: 1px solid #90CDF4; }
+.v-NON-RESPONSIVE   { background: #EBF8FF; color: #2B6CB0; border: 1px solid #90CDF4; }
+.v-ACCURATE         { background: #F0FFF4; color: #276749; border: 1px solid #68D391; }
+
+/* entries table */
+.entries-section  { margin-top: 2.5rem; }
+.entries-section h2 { font-size: 1.1rem; font-weight: 700; color: var(--navy, #1E3A5F); margin: 0 0 1rem; }
+.filter-row       { display: flex; gap: .75rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.filter-row select, .filter-row input {
+  border: 1px solid #CBD5E0; border-radius: 6px; padding: .4rem .75rem;
+  font-size: .875rem; background: #fff; color: #1A202C; }
+.filter-row input { flex: 1; min-width: 180px; }
+.entries-table    { width: 100%; border-collapse: collapse; font-size: .875rem; }
+.entries-table th { background: #1E3A5F; color: #fff; text-align: left; padding: .6rem .75rem; font-size: .78rem; letter-spacing: .04em; }
+.entries-table td { padding: .55rem .75rem; border-bottom: 1px solid #E2E8F0; vertical-align: middle; }
+.entries-table tr:hover td { background: #F7FAFC; }
+.entries-table a  { color: #2B6CB0; text-decoration: none; font-weight: 500; }
+.entries-table a:hover { text-decoration: underline; }
+.entry-count      { color: #718096; font-size: .82rem; margin-bottom: .5rem; }
+</style>
+
+<div class="dash-wrap">
+  <div class="dash-header">
+    <h1>Accountability Scorecard</h1>
+    <p>All fact-checks, votes, and claims documented on this site — by verdict, topic, and date.</p>
+  </div>
+
+  <!-- stat cards (populated by JS) -->
+  <div class="stat-row" id="stat-row"></div>
+
+  <!-- charts -->
+  <div class="chart-grid">
+    <div class="chart-card">
+      <h2>Verdict Distribution</h2>
+      <canvas id="chart-verdicts" height="260"></canvas>
+    </div>
+    <div class="chart-card">
+      <h2>Entries by Topic</h2>
+      <canvas id="chart-topics" height="260"></canvas>
+    </div>
+  </div>
+  <div class="chart-grid full">
+    <div class="chart-card">
+      <h2>Monthly Activity</h2>
+      <canvas id="chart-timeline" height="120"></canvas>
+    </div>
+  </div>
+
+  <!-- filterable table -->
+  <div class="entries-section">
+    <h2>All Entries</h2>
+    <div class="filter-row">
+      <input type="text" id="filter-search" placeholder="Search titles…" aria-label="Search entries">
+      <select id="filter-verdict" aria-label="Filter by verdict">
+        <option value="">All verdicts</option>
+      </select>
+      <select id="filter-topic" aria-label="Filter by topic">
+        <option value="">All topics</option>
+      </select>
+    </div>
+    <div class="entry-count" id="entry-count"></div>
+    <table class="entries-table" id="entries-table">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Title</th>
+          <th>Topic</th>
+          <th>Verdict</th>
+        </tr>
+      </thead>
+      <tbody id="entries-body"></tbody>
+    </table>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<script>
+(async function() {
+  const data = await fetch('/data/dashboard.json').then(r => r.json());
+
+  // ── colour maps ───────────────────────────────────────────────
+  const VERDICT_COLORS = {
+    'CONTRADICTION':      '#E53E3E',
+    'MISLEADING':         '#FC8181',
+    'FALSE':              '#9B2C2C',
+    'MOSTLY FALSE':       '#C05621',
+    'MISSING CONTEXT':    '#D69E2E',
+    'DOCUMENTED PATTERN': '#E9A43A',
+    'TRUE':               '#38A169',
+    'MOSTLY TRUE':        '#68D391',
+    'ACCURATE':           '#276749',
+    'NOT SUPPORTED':      '#2B6CB0',
+    'DEFLECTION':         '#4299E1',
+    'NON-RESPONSIVE':     '#90CDF4',
+  };
+  const TOPIC_COLORS = [
+    '#2B6CB0','#1E3A5F','#D69E2E','#E53E3E','#38A169',
+    '#C05621','#805AD5','#00B5D8','#718096','#F6AD55',
+  ];
+
+  // ── stat cards ────────────────────────────────────────────────
+  const topVerdict = data.top_verdict || '';
+  const months = Object.keys(data.by_month);
+  const recentMonth = months[months.length-1] || '';
+  const recentCount = data.by_month[recentMonth] || 0;
+  const stats = [
+    { num: data.total,       lbl: 'Total Fact-Checks' },
+    { num: Object.keys(data.verdicts).length, lbl: 'Distinct Verdicts' },
+    { num: Object.keys(data.by_topic).length, lbl: 'Topics Covered' },
+    { num: recentCount,      lbl: `Added in ${recentMonth || 'recent month'}` },
+  ];
+  document.getElementById('stat-row').innerHTML = stats.map(s =>
+    `<div class="stat-card"><div class="num">${s.num}</div><div class="lbl">${s.lbl}</div></div>`
+  ).join('');
+
+  // ── verdict donut ─────────────────────────────────────────────
+  const vLabels = Object.keys(data.verdicts);
+  const vValues = Object.values(data.verdicts);
+  new Chart(document.getElementById('chart-verdicts'), {
+    type: 'doughnut',
+    data: {
+      labels: vLabels,
+      datasets: [{ data: vValues,
+        backgroundColor: vLabels.map(v => VERDICT_COLORS[v] || '#CBD5E0'),
+        borderWidth: 2, borderColor: '#F5F7FA' }]
+    },
+    options: {
+      plugins: {
+        legend: { position: 'right', labels: { font: { size: 11 }, boxWidth: 12, padding: 10 } }
+      },
+      cutout: '60%',
+    }
+  });
+
+  // ── topic bar ─────────────────────────────────────────────────
+  const tLabels = Object.keys(data.by_topic);
+  const tValues = Object.values(data.by_topic);
+  new Chart(document.getElementById('chart-topics'), {
+    type: 'bar',
+    data: {
+      labels: tLabels,
+      datasets: [{ data: tValues,
+        backgroundColor: tLabels.map((_, i) => TOPIC_COLORS[i % TOPIC_COLORS.length]),
+        borderRadius: 4 }]
+    },
+    options: {
+      indexAxis: 'y',
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { color: '#E2E8F0' }, ticks: { font: { size: 11 } } },
+        y: { grid: { display: false }, ticks: { font: { size: 11 } } },
+      },
+    }
+  });
+
+  // ── timeline ──────────────────────────────────────────────────
+  new Chart(document.getElementById('chart-timeline'), {
+    type: 'line',
+    data: {
+      labels: Object.keys(data.by_month),
+      datasets: [{
+        data: Object.values(data.by_month),
+        borderColor: '#1E3A5F', backgroundColor: 'rgba(30,58,95,0.08)',
+        fill: true, tension: 0.3, pointRadius: 4,
+        pointBackgroundColor: '#D69E2E', pointBorderColor: '#1E3A5F',
+      }]
+    },
+    options: {
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { color: '#E2E8F0' }, ticks: { font: { size: 11 } } },
+        y: { grid: { color: '#E2E8F0' }, ticks: { font: { size: 11 }, stepSize: 1 }, min: 0 },
+      },
+    }
+  });
+
+  // ── filterable table ──────────────────────────────────────────
+  const verdictSel = document.getElementById('filter-verdict');
+  const topicSel   = document.getElementById('filter-topic');
+  const searchEl   = document.getElementById('filter-search');
+  const tbody      = document.getElementById('entries-body');
+  const countEl    = document.getElementById('entry-count');
+
+  // populate filter dropdowns
+  vLabels.sort().forEach(v => {
+    const o = document.createElement('option'); o.value = v; o.textContent = v;
+    verdictSel.appendChild(o);
+  });
+  tLabels.sort().forEach(t => {
+    const o = document.createElement('option'); o.value = t; o.textContent = t;
+    topicSel.appendChild(o);
+  });
+
+  function badgeClass(v) {
+    return 'vbadge v-' + v.replace(/\s+/g, '-');
+  }
+
+  function render() {
+    const q  = searchEl.value.toLowerCase();
+    const fv = verdictSel.value;
+    const ft = topicSel.value;
+    const filtered = data.entries.filter(e =>
+      (!q  || e.title.toLowerCase().includes(q)) &&
+      (!fv || e.verdict === fv) &&
+      (!ft || e.topic   === ft)
+    );
+    countEl.textContent = `Showing ${filtered.length} of ${data.total} entries`;
+    tbody.innerHTML = filtered.map(e => `
+      <tr>
+        <td style="white-space:nowrap;color:#718096">${e.date}</td>
+        <td><a href="${e.url}">${e.title}</a></td>
+        <td style="color:#718096">${e.topic}</td>
+        <td><span class="${badgeClass(e.verdict)}">${e.verdict}</span></td>
+      </tr>`).join('');
+  }
+
+  searchEl.addEventListener('input', render);
+  verdictSel.addEventListener('change', render);
+  topicSel.addEventListener('change', render);
+  render();
+})();
+</script>
+{{ end }}
