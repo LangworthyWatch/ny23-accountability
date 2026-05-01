@@ -1,0 +1,205 @@
+{
+  "generated": "2026-05-01",
+  "committee_id": "C00817932",
+  "total_raised": 4173361.0,
+  "total_donors": 3303,
+  "by_industry": {
+    "Other / Unclassified": {
+      "total": 2048406,
+      "count": 1131
+    },
+    "Retirees / Self-Employed": {
+      "total": 496967,
+      "count": 601
+    },
+    "Law / Legal Services": {
+      "total": 305115,
+      "count": 334
+    },
+    "Real Estate / Construction": {
+      "total": 251749,
+      "count": 190
+    },
+    "Finance / Investment": {
+      "total": 237455,
+      "count": 139
+    },
+    "Healthcare / Pharma": {
+      "total": 190518,
+      "count": 256
+    },
+    "Political / PAC": {
+      "total": 128450,
+      "count": 80
+    },
+    "Consulting": {
+      "total": 121561,
+      "count": 126
+    },
+    "Manufacturing / Industry": {
+      "total": 112021,
+      "count": 90
+    },
+    "Government / Public Sector": {
+      "total": 80063,
+      "count": 156
+    },
+    "Technology": {
+      "total": 64425,
+      "count": 34
+    },
+    "Agriculture": {
+      "total": 33853,
+      "count": 33
+    },
+    "Energy / Natural Resources": {
+      "total": 25650,
+      "count": 25
+    },
+    "Retail / Distribution": {
+      "total": 18000,
+      "count": 19
+    },
+    "Transportation": {
+      "total": 17521,
+      "count": 22
+    },
+    "Education": {
+      "total": 13574,
+      "count": 26
+    },
+    "Hospitality / Food Service": {
+      "total": 13300,
+      "count": 12
+    },
+    "Defense": {
+      "total": 6600,
+      "count": 3
+    },
+    "Media / Communications": {
+      "total": 3763,
+      "count": 16
+    },
+    "Insurance": {
+      "total": 3620,
+      "count": 8
+    },
+    "Nonprofit / Religious": {
+      "total": 750,
+      "count": 2
+    }
+  },
+  "by_cycle": {
+    "2022": {
+      "total": 890977,
+      "count": 709
+    },
+    "2024": {
+      "total": 995120,
+      "count": 1333
+    },
+    "2026": {
+      "total": 2287264,
+      "count": 1261
+    }
+  },
+  "by_state": {
+    "140310120": 655932,
+    "14031": 464321,
+    "200031838": 90000,
+    "115592708": 48800,
+    "140921910": 36000,
+    "140312042": 35650,
+    "141209592": 34000,
+    "101550017": 33000,
+    "144189528": 32600,
+    "136013942": 29800,
+    "115592807": 29000,
+    "140599444": 28900,
+    "145343350": 27800,
+    "105282009": 27500,
+    "140510466": 25200
+  },
+  "top_employers": {
+    "Corning": {
+      "total": 72515,
+      "count": 67
+    },
+    "Homemaker": {
+      "total": 60499,
+      "count": 41
+    },
+    "Nycbs": {
+      "total": 49228,
+      "count": 82
+    },
+    "Blackstone": {
+      "total": 39300,
+      "count": 15
+    },
+    "Lippes Mathias Llp": {
+      "total": 30379,
+      "count": 29
+    },
+    "Big Dog Strategies": {
+      "total": 29800,
+      "count": 5
+    },
+    "Corning Incorporated": {
+      "total": 28755,
+      "count": 29
+    },
+    "The Premier Network": {
+      "total": 28600,
+      "count": 10
+    },
+    "Morningside": {
+      "total": 27500,
+      "count": 9
+    },
+    "St. Pauly Textile": {
+      "total": 26000,
+      "count": 9
+    },
+    "Crystal Window And Door Systems, Ltd": {
+      "total": 24000,
+      "count": 8
+    },
+    "Study Logic Llc": {
+      "total": 23200,
+      "count": 6
+    },
+    "Atwal Eye Care": {
+      "total": 22200,
+      "count": 12
+    },
+    "Torrey Farms": {
+      "total": 21500,
+      "count": 8
+    },
+    "Try-It Distributing": {
+      "total": 20400,
+      "count": 9
+    },
+    "Castle Harlan, Inc.": {
+      "total": 20000,
+      "count": 3
+    },
+    "Self Employed": {
+      "total": 19950,
+      "count": 14
+    },
+    "Farragut Partners": {
+      "total": 18500,
+      "count": 15
+    },
+    "Otis Eastern Service Llc": {
+      "total": 17900,
+      "count": 6
+    },
+    "North County Capital Llc": {
+      "total": 17400,
+      "count": 5
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "generated": "2026-05-01",
+  "source": "GovTrack.us (free, no key required)",
+  "member_id": "L000600",
+  "govtrack_id": 456927,
+  "total_votes": 1200,
+  "votes_cast": 1138,
+  "missed": 62,
+  "miss_pct": 5.2,
+  "with_winner_pct": 77.3,
+  "by_category": {
+    "Amendment": {
+      "yea": 357,
+      "nay": 182,
+      "missed": 7,
+      "total": 546
+    },
+    "Passage": {
+      "yea": 208,
+      "nay": 10,
+      "missed": 22,
+      "total": 240
+    },
+    "Passage_Suspension": {
+      "yea": 202,
+      "nay": 1,
+      "missed": 14,
+      "total": 217
+    },
+    "Procedural": {
+      "yea": 68,
+      "nay": 78,
+      "missed": 19,
+      "total": 184
+    },
+    "Veto_Override": {
+      "yea": 7,
+      "nay": 0,
+      "missed": 0,
+      "total": 7
+    },
+    "Impeachment": {
+      "yea": 3,
+      "nay": 1,
+      "missed": 0,
+      "total": 4
+    },
+    "Unknown": {
+      "yea": 1,
+      "nay": 1,
+      "missed": 0,
+      "total": 2
+    }
+  },
+  "by_month": {
+    "2023-01": 98,
+    "2023-02": 24,
+    "2023-03": 58,
+    "2023-04": 20,
+    "2023-05": 41,
+    "2023-06": 45,
+    "2023-07": 91,
+    "2023-09": 128,
+    "2023-10": 41,
+    "2023-11": 129,
+    "2023-12": 33,
+    "2024-01": 24,
+    "2024-02": 25,
+    "2024-03": 45,
+    "2024-04": 39,
+    "2024-05": 55,
+    "2024-06": 102,
+    "2024-07": 65,
+    "2024-09": 54,
+    "2024-11": 21
+  },
+  "by_year": {
+    "2023": {
+      "cast": 708,
+      "missed": 16,
+      "miss_pct": 2.2,
+      "with_winner_pct": 75.4
+    },
+    "2024": {
+      "cast": 430,
+      "missed": 46,
+      "miss_pct": 9.7,
+      "with_winner_pct": 80.5
+    }
+  },
+  "key_votes": [
+    {
+      "date": "2025-07-03",
+      "label": "One Big Beautiful Bill (SNAP cut $186.7B)",
+      "pos": "Yea",
+      "party_line": true
+    },
+    {
+      "date": "2026-04-30",
+      "label": "FISA Sec. 702 warrantless extension (S.4465)",
+      "pos": "Yea",
+      "party_line": true
+    },
+    {
+      "date": "2026-04-30",
+      "label": "Farm Bill H.R. 7567 (House passage)",
+      "pos": "Yea",
+      "party_line": true
+    },
+    {
+      "date": "2026-01-22",
+      "label": "Massie amendment: defund drunk-driving detection",
+      "pos": "Yea",
+      "party_line": false
+    },
+    {
+      "date": "2024-04-12",
+      "label": "FISA warrant requirement amendment (Biggs, 2024)",
+      "pos": "Yea",
+      "party_line": false
+    },
+    {
+      "date": "2024-04-12",
+      "label": "FISA reauthorization RISAA (2024)",
+      "pos": "Nay",
+      "party_line": false
+    }
+  ],
+  "note": "with_winner_pct = % of votes cast where Langworthy voted with the winning side. Since Republicans hold the House majority in both congresses he has served, this closely approximates party-line voting."
+}

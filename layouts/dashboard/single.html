@@ -78,6 +78,54 @@
     </div>
   </div>
 
+  <!-- ── Campaign Finance ──────────────────────────────────────── -->
+  <div class="section-header" id="campaign-finance">
+    <h2 style="font-size:1.25rem;font-weight:700;color:#1E3A5F;margin:2.5rem 0 1rem;">Campaign Finance</h2>
+    <p style="color:#718096;font-size:.875rem;margin:0 0 1.25rem;">Itemized individual contributions to committee C00817932 (Langworthy for Congress) from FEC bulk data. Does not include non-itemized small-dollar donations.</p>
+  </div>
+  <div class="chart-grid">
+    <div class="chart-card">
+      <h2>Donations by Industry</h2>
+      <canvas id="chart-industry" height="300"></canvas>
+    </div>
+    <div class="chart-card">
+      <h2>Itemized Fundraising by Cycle</h2>
+      <canvas id="chart-cycles" height="300"></canvas>
+    </div>
+  </div>
+  <div class="chart-grid full" style="margin-bottom:2.5rem;">
+    <div class="chart-card">
+      <h2>Top 15 Identified Employers</h2>
+      <canvas id="chart-employers" height="150"></canvas>
+    </div>
+  </div>
+
+  <!-- ── Voting Record ────────────────────────────────────────── -->
+  <div class="section-header" id="voting-record">
+    <h2 style="font-size:1.25rem;font-weight:700;color:#1E3A5F;margin:2.5rem 0 1rem;">Voting Record</h2>
+    <p style="color:#718096;font-size:.875rem;margin:0 0 1.25rem;">From GovTrack.us (no API key required). "With majority" = voted with the winning side; since Republicans hold the House majority in both congresses he has served, this closely tracks party-line voting.</p>
+  </div>
+  <div class="stat-row" id="vote-stat-row" style="margin-bottom:1.5rem;"></div>
+  <div class="chart-grid">
+    <div class="chart-card">
+      <h2>Votes by Type</h2>
+      <canvas id="chart-vote-categories" height="260"></canvas>
+    </div>
+    <div class="chart-card">
+      <h2>Year-over-Year Miss Rate</h2>
+      <canvas id="chart-miss-rate" height="260"></canvas>
+    </div>
+  </div>
+  <div class="chart-grid full" style="margin-bottom:2.5rem;">
+    <div class="chart-card">
+      <h2>Key Votes (documented on this site)</h2>
+      <table class="entries-table" style="font-size:.85rem;">
+        <thead><tr><th>Date</th><th>Vote</th><th>Position</th><th>Party Line?</th></tr></thead>
+        <tbody id="key-votes-body"></tbody>
+      </table>
+    </div>
+  </div>
+
   <!-- filterable table -->
   <div class="entries-section">
     <h2>All Entries</h2>
@@ -250,6 +298,150 @@
   verdictSel.addEventListener('change', render);
   topicSel.addEventListener('change', render);
   render();
+
+  // ── Campaign Finance charts ───────────────────────────────────
+  const cf = await fetch('/data/campaign_finance.json').then(r => r.json()).catch(() => null);
+  if (cf) {
+    // Industry bar (exclude Other/Unclassified and tiny categories)
+    const indEntries = Object.entries(cf.by_industry)
+      .filter(([k]) => k !== 'Other / Unclassified')
+      .sort((a,b) => b[1].total - a[1].total)
+      .slice(0, 12);
+    new Chart(document.getElementById('chart-industry'), {
+      type: 'bar',
+      data: {
+        labels: indEntries.map(([k]) => k),
+        datasets: [{
+          data: indEntries.map(([,v]) => v.total),
+          backgroundColor: TOPIC_COLORS,
+          borderRadius: 4,
+        }]
+      },
+      options: {
+        indexAxis: 'y',
+        plugins: { legend: { display: false },
+          tooltip: { callbacks: { label: ctx => ' $' + ctx.raw.toLocaleString() } } },
+        scales: {
+          x: { ticks: { callback: v => '$' + (v/1000).toFixed(0) + 'K', font: { size: 11 } }, grid: { color: '#E2E8F0' } },
+          y: { ticks: { font: { size: 11 } }, grid: { display: false } },
+        },
+      }
+    });
+
+    // Cycle comparison
+    const cycleLabels = Object.keys(cf.by_cycle);
+    new Chart(document.getElementById('chart-cycles'), {
+      type: 'bar',
+      data: {
+        labels: cycleLabels.map(y => y + ' cycle'),
+        datasets: [{
+          label: 'Itemized Receipts',
+          data: cycleLabels.map(k => cf.by_cycle[k].total),
+          backgroundColor: ['#2B6CB0','#1E3A5F','#D69E2E'],
+          borderRadius: 6,
+        }]
+      },
+      options: {
+        plugins: { legend: { display: false },
+          tooltip: { callbacks: { label: ctx => ' $' + ctx.raw.toLocaleString() } } },
+        scales: {
+          y: { ticks: { callback: v => '$' + (v/1000).toFixed(0)+'K', font: { size: 11 } }, grid: { color: '#E2E8F0' } },
+          x: { grid: { display: false }, ticks: { font: { size: 12 } } },
+        },
+      }
+    });
+
+    // Top employers
+    const empEntries = Object.entries(cf.top_employers)
+      .filter(([k]) => !['Retired','Self-Employed','Homemaker','Not Employed','N/A'].some(s => k.toLowerCase().includes(s.toLowerCase())))
+      .sort((a,b) => b[1].total - a[1].total)
+      .slice(0, 15);
+    new Chart(document.getElementById('chart-employers'), {
+      type: 'bar',
+      data: {
+        labels: empEntries.map(([k]) => k),
+        datasets: [{
+          data: empEntries.map(([,v]) => v.total),
+          backgroundColor: '#1E3A5F',
+          borderRadius: 4,
+        }]
+      },
+      options: {
+        indexAxis: 'y',
+        plugins: { legend: { display: false },
+          tooltip: { callbacks: { label: ctx => ' $' + ctx.raw.toLocaleString() + ' (' + (empEntries[ctx.dataIndex][1].count) + ' donors)' } } },
+        scales: {
+          x: { ticks: { callback: v => '$' + (v/1000).toFixed(0)+'K', font: { size: 11 } }, grid: { color: '#E2E8F0' } },
+          y: { ticks: { font: { size: 11 } }, grid: { display: false } },
+        },
+      }
+    });
+  }
+
+  // ── Voting Record charts ──────────────────────────────────────
+  const vr = await fetch('/data/votes.json').then(r => r.json()).catch(() => null);
+  if (vr && vr.total_votes > 0) {
+    // Stat cards
+    document.getElementById('vote-stat-row').innerHTML = [
+      { num: vr.total_votes.toLocaleString(),    lbl: 'Votes on Record' },
+      { num: vr.miss_pct + '%',                  lbl: 'Missed / Not Voting' },
+      { num: vr.with_winner_pct + '%',           lbl: 'Voted with Majority' },
+      { num: (100 - vr.with_winner_pct).toFixed(1) + '%', lbl: 'Against Majority' },
+    ].map(s => `<div class="stat-card"><div class="num">${s.num}</div><div class="lbl">${s.lbl}</div></div>`).join('');
+
+    // By category donut
+    const catEntries = Object.entries(vr.by_category)
+      .filter(([,v]) => v.total > 5)
+      .sort((a,b) => b[1].total - a[1].total)
+      .slice(0, 10);
+    new Chart(document.getElementById('chart-vote-categories'), {
+      type: 'doughnut',
+      data: {
+        labels: catEntries.map(([k]) => k),
+        datasets: [{
+          data: catEntries.map(([,v]) => v.total),
+          backgroundColor: TOPIC_COLORS,
+          borderWidth: 2, borderColor: '#F5F7FA',
+        }]
+      },
+      options: {
+        cutout: '55%',
+        plugins: { legend: { position: 'right', labels: { font: { size: 11 }, boxWidth: 12, padding: 8 } } },
+      }
+    });
+
+    // Year-over-year miss rate
+    const yrKeys = Object.keys(vr.by_year).sort();
+    new Chart(document.getElementById('chart-miss-rate'), {
+      type: 'bar',
+      data: {
+        labels: yrKeys,
+        datasets: [
+          { label: 'With Majority %', data: yrKeys.map(y => vr.by_year[y].with_winner_pct), backgroundColor: '#1E3A5F', borderRadius: 4 },
+          { label: 'Missed %',        data: yrKeys.map(y => vr.by_year[y].miss_pct),        backgroundColor: '#FC8181', borderRadius: 4 },
+        ]
+      },
+      options: {
+        plugins: { legend: { position: 'top', labels: { font: { size: 11 }, boxWidth: 12 } } },
+        scales: {
+          y: { max: 100, ticks: { callback: v => v+'%', font: { size: 11 } }, grid: { color: '#E2E8F0' } },
+          x: { grid: { display: false }, ticks: { font: { size: 12 } } },
+        },
+      }
+    });
+
+    // Key votes table
+    document.getElementById('key-votes-body').innerHTML = (vr.key_votes || []).map(v => `
+      <tr>
+        <td style="white-space:nowrap;color:#718096">${v.date}</td>
+        <td>${v.label}</td>
+        <td><span class="vbadge ${v.pos === 'Yea' ? 'v-ACCURATE' : 'v-CONTRADICTION'}">${v.pos}</span></td>
+        <td style="color:${v.party_line ? '#276749' : '#E53E3E'};font-weight:600">${v.party_line ? 'Yes' : 'No — broke with party'}</td>
+      </tr>`).join('');
+  } else if (vr) {
+    document.getElementById('vote-stat-row').innerHTML = `<p style="color:#718096;font-size:.875rem;">Set <code>PROPUBLICA_API_KEY</code> and re-run <code>scripts/fetch_votes.py</code> for full party-line analysis.</p>`;
+  }
+
 })();
 </script>
 {{ end }}
