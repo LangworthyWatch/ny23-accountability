@@ -5,8 +5,8 @@ draft: false
 topic: "Local Impact / Rural"
 claim_date: "2025"
 source: "CBO Analysis, Fiscal Policy Institute, KFF, State Data"
-source_url: ""
-archived_url: ""
+source_url: "https://www.cbo.gov/publication/61387"
+archived_url: "https://web.archive.org/web/20260402050000/https://www.cbo.gov/publication/61387"
 verdict: "FALSE"
 tags: ["healthcare", "medicaid", "rural-hospitals", "rural-impact", "obbba"]
 counties: ["chautauqua", "cattaraugus", "allegany", "chemung", "schuyler", "steuben", "erie"]

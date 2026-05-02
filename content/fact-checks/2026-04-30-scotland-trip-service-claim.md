@@ -76,7 +76,7 @@ Langworthy's filing states he attended to "study the environment and environment
 | Langworthy's Post (April 30) | Documented Record |
 |------------------------------|-------------------|
 | "Service over self" | Week at Old Course Hotel & Golf Resort, St Andrews |
-| "I came to serve, not cash in" | Trip paid for by a PAC with undisclosed corporate donors |
+| "I came to serve, not cash in" | Trip paid for by a 501(c)(4) that is not required to disclose its donors |
 | "Our Founding Fathers wanted citizen legislators" | Career Republican Party operative since age 19; youngest state GOP chair in NY history |
 | Trip reason on Ethics filing: "study the environment" | Zero environmental content in itinerary; Jameson dinner, Meta HQ, castle tours |
 | Trip timing | Partial government shutdown; DHS employees working without pay |

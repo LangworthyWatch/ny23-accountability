@@ -5,7 +5,7 @@ draft: false
 topic: "Government Funding / Immigration"
 claim_date: "March 27-28, 2026"
 source: "Facebook Posts, Paid Facebook Ad"
-source_url: ""
+source_url: "https://www.audacy.com/wben/news/local/nearing-recess-langworthy-says-senate-holding-up-tsa-deal"
 archived_url: ""
 verdict: "MISLEADING"
 tags: ["shutdown", "dhs", "immigration", "ice", "scapegoating", "push-poll", "fact-check", "sheridan-gorman"]

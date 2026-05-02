@@ -5,8 +5,8 @@ draft: false
 topic: "Healthcare"
 claim_date: "November 13, 2025"
 source: "Press Conference"
-source_url: ""
-archived_url: ""
+source_url: "https://www.wskg.org/regional-news/2025-11-14/governing-means-putting-your-country-first-rep-langworthy-on-longest-shutdown-in-us-history"
+archived_url: "https://web.archive.org/web/20260307230732/https://www.wskg.org/regional-news/2025-11-14/governing-means-putting-your-country-first-rep-langworthy-on-longest-shutdown-in-us-history"
 verdict: "FALSE"
 counties: ["chautauqua", "steuben", "allegany", "cattaraugus", "chemung", "schuyler", "tioga", "erie"]
 ---

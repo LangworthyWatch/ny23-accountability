@@ -5,8 +5,8 @@ draft: false
 topic: "Economy / Taxes"
 claim_date: "March 31 – April 10, 2026"
 source: "Facebook Posts"
-source_url: ""
-archived_url: ""
+source_url: "https://www.irs.gov/newsroom/filing-season-statistics-for-week-ending-march-27-2026"
+archived_url: "https://web.archive.org/web/20260415205143/https://www.irs.gov/newsroom/filing-season-statistics-for-week-ending-march-27-2026"
 verdict: "MISLEADING"
 tags: ["taxes", "wftc", "irs", "social-security", "tips", "overtime", "obbba", "fact-check"]
 counties: ["district-wide"]

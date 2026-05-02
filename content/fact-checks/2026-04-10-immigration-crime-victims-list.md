@@ -5,8 +5,8 @@ draft: false
 topic: "Immigration"
 claim_date: "April 10, 2026"
 source: "Facebook Post"
-source_url: ""
-archived_url: ""
+source_url: "https://abcnews.com/US/undocumented-immigrant-arrested-killing-loyola-university-chicago-student/story?id=131319378"
+archived_url: "https://web.archive.org/web/20260325085741/https://abcnews.com/US/undocumented-immigrant-arrested-killing-loyola-university-chicago-student/story?id=131319378"
 verdict: "MISLEADING"
 tags: ["immigration", "ice", "crime", "megan-bos", "sheridan-gorman", "fact-check"]
 counties: ["district-wide"]

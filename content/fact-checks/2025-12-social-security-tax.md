@@ -5,8 +5,8 @@ draft: false
 topic: "Social Security / Tax Policy"
 claim_date: "July 11, 2025"
 source: "Press Release, Senior Center Visit"
-source_url: ""
-archived_url: ""
+source_url: "https://towerpointwealth.com/is-social-security-tax-free/"
+archived_url: "https://web.archive.org/web/20251209081307/https://towerpointwealth.com/is-social-security-tax-free/"
 verdict: "MISLEADING"
 tags: ["social-security", "taxes", "seniors", "misleading-claim"]
 counties: ["district-wide"]

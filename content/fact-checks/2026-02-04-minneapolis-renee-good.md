@@ -5,8 +5,8 @@ draft: false
 topic: "Immigration"
 claim_date: "February 4, 2026"
 source: "Constituent Letter Response"
-source_url: ""
-archived_url: ""
+source_url: "https://www.nbcnews.com/politics/politics-news/minneapolis-mayor-jacob-frey-emotional-voice-ice-shooting-rcna253585"
+archived_url: "https://web.archive.org/web/20260323155453/https://www.nbcnews.com/politics/politics-news/minneapolis-mayor-jacob-frey-emotional-voice-ice-shooting-rcna253585"
 verdict: "FALSE"
 tags: ["immigration", "ICE", "Minneapolis", "shooting", "false-claim", "constituent-letter"]
 counties: ["district-wide"]

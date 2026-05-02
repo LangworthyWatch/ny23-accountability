@@ -6,7 +6,7 @@ topic: "Energy / Utility Costs"
 claim_date: "Ongoing (2023–2026)"
 source: "PSC Rate Case Filings, FERC Form 1, EIA, SEC Proxy Statements, Census ACS"
 source_url: "https://dps.ny.gov/electric-gas-cases"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260324194221/https://dps.ny.gov/electric-gas-cases"
 verdict: "DOCUMENTED PATTERN"
 tags: ["energy", "utility-costs", "nyseg", "national-grid", "rate-hike", "clcpa", "data-investigation", "executive-compensation", "lobbying"]
 counties: ["steuben", "chemung", "allegany", "cattaraugus", "tioga", "schuyler", "chautauqua", "district-wide"]

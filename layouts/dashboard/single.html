@@ -106,7 +106,7 @@
     <p style="color:#718096;font-size:.875rem;margin:0 0 1.25rem;">From GovTrack.us (no API key required). "With majority" = voted with the winning side; since Republicans hold the House majority in both congresses he has served, this closely tracks party-line voting.</p>
   </div>
   <div class="stat-row" id="vote-stat-row" style="margin-bottom:1.5rem;"></div>
-  <div class="chart-grid">
+  <div class="chart-grid" id="vote-charts-grid">
     <div class="chart-card">
       <h2>Votes by Type</h2>
       <canvas id="chart-vote-categories" height="260"></canvas>
@@ -381,56 +381,23 @@
   // ── Voting Record charts ──────────────────────────────────────
   const vr = await fetch('/data/votes.json').then(r => r.json()).catch(() => null);
   if (vr && vr.total_votes > 0) {
-    // Stat cards
-    document.getElementById('vote-stat-row').innerHTML = [
-      { num: vr.total_votes.toLocaleString(),    lbl: 'Votes on Record' },
-      { num: vr.miss_pct + '%',                  lbl: 'Missed / Not Voting' },
-      { num: vr.with_winner_pct + '%',           lbl: 'Voted with Majority' },
-      { num: (100 - vr.with_winner_pct).toFixed(1) + '%', lbl: 'Against Majority' },
-    ].map(s => `<div class="stat-card"><div class="num">${s.num}</div><div class="lbl">${s.lbl}</div></div>`).join('');
+    // Stat cards + by-category and by-year charts are derived from data
+    // that currently runs only through November 2024. Until the underlying
+    // data is rebuilt from House Clerk roll-call records, we render a
+    // placeholder rather than misleading fresh-looking aggregates. The
+    // hand-curated key_votes table below is current and stays live.
+    document.getElementById('vote-stat-row').innerHTML =
+      `<div style="grid-column:1/-1;background:#FFFAF0;border:1px solid #FBD38D;border-radius:8px;padding:1rem 1.25rem;color:#744210;font-size:.9rem;line-height:1.5;">
+        <strong>Aggregate vote totals are being rebuilt.</strong>
+        The underlying <code>votes.json</code> aggregate data currently only covers through November 2024.
+        For the most recent published attendance numbers (data through December 2025), see
+        <a href="/missed-votes/" style="color:#744210;text-decoration:underline;">Missed Votes</a>.
+        The Key Votes table below is hand-curated and current.
+       </div>`;
+    const _votesGrid = document.getElementById('vote-charts-grid');
+    if (_votesGrid) _votesGrid.style.display = 'none';
 
-    // By category donut
-    const catEntries = Object.entries(vr.by_category)
-      .filter(([,v]) => v.total > 5)
-      .sort((a,b) => b[1].total - a[1].total)
-      .slice(0, 10);
-    new Chart(document.getElementById('chart-vote-categories'), {
-      type: 'doughnut',
-      data: {
-        labels: catEntries.map(([k]) => k),
-        datasets: [{
-          data: catEntries.map(([,v]) => v.total),
-          backgroundColor: TOPIC_COLORS,
-          borderWidth: 2, borderColor: '#F5F7FA',
-        }]
-      },
-      options: {
-        cutout: '55%',
-        plugins: { legend: { position: 'right', labels: { font: { size: 11 }, boxWidth: 12, padding: 8 } } },
-      }
-    });
-
-    // Year-over-year miss rate
-    const yrKeys = Object.keys(vr.by_year).sort();
-    new Chart(document.getElementById('chart-miss-rate'), {
-      type: 'bar',
-      data: {
-        labels: yrKeys,
-        datasets: [
-          { label: 'With Majority %', data: yrKeys.map(y => vr.by_year[y].with_winner_pct), backgroundColor: '#1E3A5F', borderRadius: 4 },
-          { label: 'Missed %',        data: yrKeys.map(y => vr.by_year[y].miss_pct),        backgroundColor: '#FC8181', borderRadius: 4 },
-        ]
-      },
-      options: {
-        plugins: { legend: { position: 'top', labels: { font: { size: 11 }, boxWidth: 12 } } },
-        scales: {
-          y: { max: 100, ticks: { callback: v => v+'%', font: { size: 11 } }, grid: { color: '#E2E8F0' } },
-          x: { grid: { display: false }, ticks: { font: { size: 12 } } },
-        },
-      }
-    });
-
-    // Key votes table
+    // Key votes table (hand-curated, current — keep rendering)
     document.getElementById('key-votes-body').innerHTML = (vr.key_votes || []).map(v => `
       <tr>
         <td style="white-space:nowrap;color:#718096">${v.date}</td>

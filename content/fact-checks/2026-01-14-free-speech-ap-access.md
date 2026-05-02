@@ -5,8 +5,8 @@ draft: false
 topic: "Civil Liberties"
 claim_date: "January 14, 2026"
 source: "Constituent Letter Response"
-source_url: ""
-archived_url: ""
+source_url: "https://www.congress.gov/bill/118th-congress/house-bill/140"
+archived_url: "https://web.archive.org/web/20260316221213/https://www.congress.gov/bill/118th-congress/house-bill/140"
 verdict: "DEFLECTION"
 tags: ["free-speech", "press-access", "constituent-letter", "deflection"]
 counties: ["district-wide"]

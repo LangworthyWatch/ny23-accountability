@@ -5,8 +5,8 @@ draft: false
 topic: "Economy / Taxes"
 claim_date: "April 16, 2026"
 source: "Facebook Post"
-source_url: ""
-archived_url: ""
+source_url: "https://www.irs.gov/newsroom/one-big-beautiful-bill-provisions"
+archived_url: "https://web.archive.org/web/20260425111808/https://www.irs.gov/newsroom/one-big-beautiful-bill-provisions"
 verdict: "MISSING CONTEXT"
 tags: ["one-big-beautiful-bill", "tax-policy", "child-tax-credit", "medicaid", "snap", "working-families", "budget", "fact-check"]
 counties: ["district-wide"]

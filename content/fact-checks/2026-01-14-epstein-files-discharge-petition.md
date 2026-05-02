@@ -5,8 +5,8 @@ draft: false
 topic: "Government Transparency"
 claim_date: "January 14, 2026 – February 18, 2026"
 source: "Constituent Letter Response"
-source_url: ""
-archived_url: ""
+source_url: "https://www.congress.gov/bill/119th-congress/house-bill/4405"
+archived_url: "https://web.archive.org/web/20260429084328/https://www.congress.gov/bill/119th-congress/house-bill/4405"
 verdict: "MISSING CONTEXT"
 tags: ["transparency", "Epstein", "voting-record", "constituent-letter", "oversight-committee", "wexner", "deposition"]
 counties: ["district-wide"]

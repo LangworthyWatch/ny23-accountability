@@ -5,8 +5,8 @@ draft: false
 topic: "Economy / Trade"
 claim_date: "February 22, 2026"
 source: "Newsletter, Facebook Post"
-source_url: ""
-archived_url: ""
+source_url: "https://taxfoundation.org/blog/obbba-largest-tax-cut-in-american-history/"
+archived_url: "https://web.archive.org/web/20260423021136/https://taxfoundation.org/blog/obbba-largest-tax-cut-in-american-history/"
 verdict: "FALSE"
 tags: ["taxes", "economy", "obbba", "reconciliation", "middle-class", "tax-cuts", "tcja"]
 counties: ["district-wide"]

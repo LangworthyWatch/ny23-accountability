@@ -5,8 +5,8 @@ draft: false
 topic: "Government Funding / Homeland Security"
 claim_date: "March 8, 2026"
 source: "Facebook Post (shared post)"
-source_url: ""
-archived_url: ""
+source_url: "https://fox17.com/news/local/nashville-tenn"
+archived_url: "https://web.archive.org/web/20260309122523/https://fox17.com/news/local/nashville-tenn"
 verdict: "MISLEADING"
 tags: ["dhs", "shutdown", "southwest-airlines", "tsa", "bomb-threat", "homeland-security", "fact-check"]
 counties: ["district-wide"]

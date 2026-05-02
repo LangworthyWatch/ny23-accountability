@@ -5,7 +5,7 @@ draft: false
 topic: "Government Oversight / Fraud"
 claim_date: "March 8, 2026"
 source: "Weekly Newsletter"
-source_url: ""
+source_url: "https://www.justice.gov/usao-mn/pr/77th-defendant-charged-feeding-our-future-fraud-scheme"
 archived_url: ""
 verdict: "MISLEADING"
 tags: ["minnesota", "fraud", "walz", "ellison", "feeding-our-future", "oversight", "whistleblowers", "fact-check"]

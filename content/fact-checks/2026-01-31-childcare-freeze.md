@@ -5,8 +5,8 @@ draft: false
 topic: "Social Services"
 claim_date: "January 31 - February 3, 2026"
 source: "Constituent Letter Responses"
-source_url: ""
-archived_url: ""
+source_url: "https://www.justice.gov/usao-mn/pr/federal-jury-finds-feeding-our-future-mastermind-and-co-defendant-guilty-250-million"
+archived_url: "https://web.archive.org/web/20260404234929/https://www.justice.gov/usao-mn/pr/federal-jury-finds-feeding-our-future-mastermind-and-co-defendant-guilty-250-million"
 verdict: "MISLEADING"
 tags: ["childcare", "Head-Start", "social-services", "local-impact", "deflection", "constituent-letter"]
 counties: ["chautauqua", "steuben", "allegany", "cattaraugus", "chemung", "schuyler", "tioga"]

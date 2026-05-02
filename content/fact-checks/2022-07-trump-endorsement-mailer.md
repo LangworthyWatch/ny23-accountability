@@ -5,7 +5,7 @@ draft: false
 topic: "Campaign"
 claim_date: "July 2022"
 source: "Campaign Mailer"
-source_url: ""
+source_url: "https://www.politico.com/news/2022/07/28/trump-endorsement-new-york-gop-primary-00048545"
 archived_url: ""
 verdict: "MISLEADING"
 tags: ["campaign", "endorsement", "misleading-claim"]

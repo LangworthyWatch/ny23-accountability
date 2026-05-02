@@ -5,8 +5,8 @@ draft: false
 topic: "Immigration / Homeland Security"
 claim_date: "March 8, 2026"
 source: "Weekly Newsletter"
-source_url: ""
-archived_url: ""
+source_url: "https://www.cbp.gov/newsroom/stats/nationwide-encounters-fy2024"
+archived_url: "https://web.archive.org/web/20260416091925/https://www.cbp.gov/newsroom/stats/nationwide-encounters-fy2024"
 verdict: "MISLEADING"
 tags: ["immigration", "dhs", "border", "terrorism", "watchlist", "fact-check", "biden"]
 counties: ["district-wide"]

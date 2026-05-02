@@ -5,8 +5,8 @@ draft: false
 topic: "Healthcare"
 claim_date: "Late 2025"
 source: "Public Statements"
-source_url: ""
-archived_url: ""
+source_url: "https://www.observertoday.com/opinion/commentary/2025/12/rural-hospital-funding-far-from-restored/"
+archived_url: "https://web.archive.org/web/20251222205213/https://www.observertoday.com/opinion/commentary/2025/12/rural-hospital-funding-far-from-restored/"
 verdict: "CONTRADICTION"
 tags: ["healthcare", "rural-hospitals", "medicaid", "contradiction"]
 counties: ["chautauqua"]

@@ -5,7 +5,7 @@ draft: false
 topic: "Energy / Utility Costs"
 claim_date: "February 20, 2026"
 source: "Conservation Club Appearance, Dunkirk, NY"
-source_url: ""
+source_url: "https://www3.dps.ny.gov/W/PSCWeb.nsf/All/C4A4CAEBB6CDB10A85257687006F39ED"
 archived_url: ""
 verdict: "MISLEADING"
 tags: ["energy", "environment", "natural-gas", "national-grid", "utility-costs", "campaign-finance", "nrg-dunkirk", "clcpa"]

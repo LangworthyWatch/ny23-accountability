@@ -5,8 +5,8 @@ draft: false
 topic: "Government Funding / Homeland Security"
 claim_date: "March 7, 2026"
 source: "Facebook Post, Official Statement"
-source_url: ""
-archived_url: ""
+source_url: "https://www.armed-services.senate.gov/subcommittees"
+archived_url: "https://web.archive.org/web/20260501030829/https://www.armed-services.senate.gov/subcommittees"
 verdict: "MISSING CONTEXT"
 tags: ["dhs", "shutdown", "markwayne-mullin", "armed-services-committee", "homeland-security", "fact-check"]
 counties: ["district-wide"]

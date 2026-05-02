@@ -5,8 +5,8 @@ draft: false
 topic: "Food Assistance / Healthcare"
 claim_date: "2025"
 source: "WGRZ Debate, Press Statements"
-source_url: ""
-archived_url: ""
+source_url: "https://www.cbo.gov/publication/61461"
+archived_url: "https://web.archive.org/web/20260502001948/https://www.cbo.gov/publication/61461"
 verdict: "FALSE"
 tags: ["food-assistance", "snap", "healthcare", "rural-impact", "steuben-county", "obbba", "work-requirements"]
 counties: ["steuben", "allegany", "cattaraugus", "chautauqua", "chemung"]

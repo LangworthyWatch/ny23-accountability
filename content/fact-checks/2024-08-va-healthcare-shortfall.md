@@ -5,7 +5,7 @@ draft: false
 topic: "Veterans"
 claim_date: "August 2024 - February 2025"
 source: "WGRZ, VA News, OIG Reports"
-source_url: ""
+source_url: "https://www.wgrz.com/article/news/health/langworthy-visits-buffalo-va-medical-center-patient-cancer-questions/71-ce69d55a-1be2-46d7-8b92-b7270c40c852"
 archived_url: ""
 verdict: "CONTRADICTION"
 tags: ["veterans", "va", "doge", "staffing", "bath-va", "healthcare", "rural-impact"]

@@ -5,8 +5,8 @@ draft: false
 topic: "Foreign Policy / Military"
 claim_date: "February 28 – March 1, 2026"
 source: "Official Statement, Facebook Post"
-source_url: ""
-archived_url: ""
+source_url: "https://www.centcom.mil/MEDIA/PRESS-RELEASES/"
+archived_url: "https://web.archive.org/web/20260414131813/https://www.centcom.mil/MEDIA/PRESS-RELEASES/"
 verdict: "MULTIPLE"
 tags: ["iran", "military", "epic-fury", "foreign-policy", "war-powers", "congress", "fact-check"]
 counties: ["district-wide"]

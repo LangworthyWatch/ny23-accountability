@@ -5,8 +5,8 @@ draft: false
 topic: "Constituent Access"
 claim_date: "February 2026"
 source: "Telephone Town Hall"
-source_url: ""
-archived_url: ""
+source_url: "https://www.congress.gov/bill/118th-congress/house-bill/10545/all-actions"
+archived_url: "https://web.archive.org/web/20260221023009/https://www.congress.gov/bill/118th-congress/house-bill/10545/all-actions"
 verdict: "MULTIPLE"
 tags: ["town-hall", "immigration", "shutdown", "epstein", "energy", "voter-id", "constituent-access", "ice"]
 counties: ["erie", "niagara", "chautauqua", "cattaraugus", "allegany", "steuben", "chemung", "schuyler", "tioga"]

@@ -6,7 +6,7 @@ topic: "Voting Record"
 claim_date: "April 16-23, 2026"
 source: "Facebook posts; House floor votes (Roll Calls 134, 138); local press"
 source_url: "https://www.facebook.com/RepLangworthy"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260425121433/https://www.facebook.com/RepLangworthy/"
 verdict: "DOCUMENTED PATTERN"
 tags: ["langworthy", "voting-record", "tourism", "manufacturing", "obbb", "labor", "tariffs", "clean-air-act", "fences-act", "hr-4690"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]

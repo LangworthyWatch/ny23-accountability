@@ -5,8 +5,8 @@ draft: false
 topic: "Agriculture / Economy"
 claim_date: "March 21–28, 2026"
 source: "Facebook Post"
-source_url: ""
-archived_url: ""
+source_url: "https://extension.okstate.edu/fact-sheets/one-big-beautiful-bill-act-obbba-tax-update-individual-and-farm-provisions.html"
+archived_url: "https://web.archive.org/web/20251111093057/https://extension.okstate.edu/fact-sheets/one-big-beautiful-bill-act-obbba-tax-update-individual-and-farm-provisions.html"
 verdict: "MISSING CONTEXT"
 tags: ["agriculture", "taxes", "obbba", "tariffs", "estate-tax", "family-farms", "rural", "dairy", "grapes", "fact-check"]
 counties: ["chautauqua", "allegany", "cattaraugus", "steuben"]

@@ -5,8 +5,8 @@ draft: false
 topic: "Congressional Ethics / Transparency"
 claim_date: "March 5, 2026"
 source: "Facebook Post, Press Release"
-source_url: ""
-archived_url: ""
+source_url: "https://clerk.house.gov/Votes/202683"
+archived_url: "https://web.archive.org/web/20260306145240/https://clerk.house.gov/Votes/202683"
 verdict: "MISSING CONTEXT"
 tags: ["ethics", "transparency", "sexual-misconduct", "house-vote", "nancy-mace", "fact-check"]
 counties: ["district-wide"]

@@ -6,7 +6,7 @@ topic: "Infrastructure / Transparency"
 claim_date: "January-February 2026"
 source: "Multiple Facebook Posts, Press Releases"
 source_url: "https://langworthy.house.gov"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260425051338/https://langworthy.house.gov/"
 verdict: "MISSING ATTRIBUTION"
 tags: ["infrastructure", "earmarks", "appropriations", "transparency", "water", "bipartisan", "newstead", "elmira-college"]
 counties: ["cattaraugus", "chautauqua", "chemung", "erie", "steuben", "allegany"]

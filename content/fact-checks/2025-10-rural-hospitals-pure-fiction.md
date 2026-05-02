@@ -5,8 +5,8 @@ draft: false
 topic: "Healthcare"
 claim_date: "October 2025"
 source: "Press Event"
-source_url: ""
-archived_url: ""
+source_url: "https://www.observertoday.com/news/top-stories/2025/10/langworthy-discusses-health-care-in-westfield-visit/"
+archived_url: "https://web.archive.org/web/20251107093706/https://www.observertoday.com/news/top-stories/2025/10/langworthy-discusses-health-care-in-westfield-visit/"
 verdict: "MISLEADING"
 tags: ["healthcare", "rural-hospitals", "medicaid", "obbba", "ny-23", "rural-impact"]
 counties: ["chautauqua", "cattaraugus", "allegany", "chemung", "schuyler", "steuben"]

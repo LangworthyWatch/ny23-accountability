@@ -5,7 +5,7 @@ draft: false
 topic: "Foreign Policy"
 claim_date: "January 20-25, 2026"
 source: "Constituent Letter Responses"
-source_url: ""
+source_url: "https://apnews.com/article/honduras-hernandez-trump-pardon-cocaine"
 archived_url: ""
 verdict: "INCONSISTENT"
 tags: ["foreign-policy", "Venezuela", "drug-trafficking", "pardon", "documented-pattern", "constituent-letter"]

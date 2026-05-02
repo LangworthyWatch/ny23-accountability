@@ -5,7 +5,7 @@ draft: false
 topic: "Rule of Law"
 claim_date: "January 21, 2026"
 source: "Constituent Letter Response"
-source_url: ""
+source_url: "https://apnews.com/article/honduras-hernandez-trump-pardon-cocaine"
 archived_url: ""
 verdict: "DEFLECTION"
 tags: ["rule-of-law", "pardons", "drug-trafficking", "deflection", "constituent-letter"]

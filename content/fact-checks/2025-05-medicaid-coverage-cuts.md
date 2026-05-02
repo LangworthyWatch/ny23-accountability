@@ -5,8 +5,8 @@ draft: false
 topic: "Healthcare"
 claim_date: "May 15, 2025"
 source: "Press Statement"
-source_url: ""
-archived_url: ""
+source_url: "https://www.btpm.org/local/2025-05-15/growing-number-of-politicians-organizations-speak-out-on-health-care-cuts"
+archived_url: "https://web.archive.org/web/20250720154117/https://www.btpm.org/local/2025-05-15/growing-number-of-politicians-organizations-speak-out-on-health-care-cuts"
 verdict: "FALSE"
 tags: ["healthcare", "Medicaid", "hospitals", "local-impact", "false-claim", "rural", "rural-impact"]
 counties: ["chautauqua", "cattaraugus", "allegany", "chemung", "schuyler", "steuben", "erie"]

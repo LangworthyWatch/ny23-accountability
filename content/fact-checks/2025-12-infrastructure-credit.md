@@ -5,8 +5,8 @@ draft: false
 topic: "Infrastructure / Transparency"
 claim_date: "2024-2025"
 source: "Multiple Press Releases"
-source_url: ""
-archived_url: ""
+source_url: "https://langworthy.house.gov/media/press-releases"
+archived_url: "https://web.archive.org/web/20260324194412/https://langworthy.house.gov/media/press-releases"
 verdict: "FALSE ATTRIBUTION"
 tags: ["infrastructure", "earmarks", "grants", "transparency", "biden-era"]
 counties: ["chemung", "steuben", "chautauqua", "allegany"]

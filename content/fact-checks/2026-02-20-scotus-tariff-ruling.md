@@ -5,8 +5,8 @@ draft: false
 topic: "Economy / Trade"
 claim_date: "February 20, 2026"
 source: "Facebook Statement"
-source_url: ""
-archived_url: ""
+source_url: "https://www.bea.gov/data/intl-trade-investment/international-trade-goods-and-services"
+archived_url: "https://web.archive.org/web/20260424153651/https://www.bea.gov/data/intl-trade-investment/international-trade-goods-and-services"
 verdict: "FALSE"
 tags: ["tariffs", "economy", "trade", "scotus", "manufacturing", "agriculture", "dairy", "wine", "finger-lakes"]
 counties: ["district-wide", "chautauqua", "cattaraugus", "steuben", "chemung"]

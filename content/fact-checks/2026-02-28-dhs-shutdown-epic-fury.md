@@ -5,8 +5,8 @@ draft: false
 topic: "Government Funding / Homeland Security"
 claim_date: "February 28, 2026"
 source: "Official Statement, Facebook Post"
-source_url: ""
-archived_url: ""
+source_url: "https://www.npr.org/2026/02/14/nx-s1-5713914/department-of-homeland-security-shutdown"
+archived_url: "https://web.archive.org/web/20260423185428/https://www.npr.org/2026/02/14/nx-s1-5713914/department-of-homeland-security-shutdown"
 verdict: "MISLEADING"
 tags: ["dhs", "shutdown", "homeland-security", "cisa", "cybersecurity", "ice", "funding", "epic-fury", "fact-check"]
 counties: ["district-wide"]

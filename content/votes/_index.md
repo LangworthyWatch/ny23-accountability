@@ -32,7 +32,7 @@ Rep. Langworthy's official voting record is maintained by Congress.gov.
 
 See our [fact-checks](/fact-checks/) section for documented instances where votes and public statements diverge.
 
-See [Missed Votes](/missed-votes/) for attendance record (3.9% missed vs. 2.0% House median).
+See [Missed Votes](/missed-votes/) for the most recently published attendance numbers (data through December 2025; refresh from House Clerk roll-call records pending).
 
 ---
 

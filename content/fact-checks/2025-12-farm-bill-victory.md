@@ -5,8 +5,8 @@ draft: false
 topic: "Agriculture / Legislative Process"
 claim_date: "May 24, 2024"
 source: "Press Releases, Public Statements"
-source_url: ""
-archived_url: ""
+source_url: "https://www.congress.gov/bill/118th-congress/house-bill/8467"
+archived_url: "https://web.archive.org/web/20260304140850/https://www.congress.gov/bill/118th-congress/house-bill/8467"
 verdict: "MISLEADING"
 tags: ["agriculture", "farm-bill", "legislative-process", "misleading-claim"]
 counties: ["chautauqua", "allegany", "cattaraugus", "steuben"]

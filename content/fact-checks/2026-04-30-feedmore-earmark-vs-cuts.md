@@ -6,7 +6,7 @@ topic: "Economy"
 claim_date: "March 2024"
 source: "Press Release"
 source_url: "https://www.post-journal.com/news/community/2024/03/langworthy-secures-3-million-for-feedmore-wny/"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20240312164959/https://www.post-journal.com/news/community/2024/03/langworthy-secures-3-million-for-feedmore-wny/"
 verdict: "DOCUMENTED PATTERN"
 tags: ["food-security", "feedmore", "earmarks", "documented-pattern", "trump-cuts"]
 counties: ["erie", "niagara", "cattaraugus", "chautauqua"]

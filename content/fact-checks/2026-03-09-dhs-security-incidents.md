@@ -5,8 +5,8 @@ draft: false
 topic: "Government Funding / Homeland Security"
 claim_date: "March 9, 2026"
 source: "Facebook Post"
-source_url: ""
-archived_url: ""
+source_url: "https://www.fbi.gov/contact-us/field-offices/sanantonio/news/fbi-provides-update-on-march-1-austin-shooting-investigation"
+archived_url: "https://web.archive.org/web/20260309090620/https://www.fbi.gov/contact-us/field-offices/sanantonio/news/fbi-provides-update-on-march-1-austin-shooting-investigation"
 verdict: "MISLEADING"
 tags: ["dhs", "shutdown", "austin-shooting", "bomb-scares", "gracie-mansion", "isis", "homeland-security", "fact-check"]
 counties: ["district-wide"]

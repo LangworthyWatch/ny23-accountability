@@ -5,8 +5,8 @@ draft: false
 topic: "Healthcare / Immigration"
 claim_date: "May 12, 2025"
 source: "Press Release, House Energy and Commerce Committee Reconciliation Bill"
-source_url: ""
-archived_url: ""
+source_url: "https://www.congress.gov/bill/104th-congress/house-bill/3734"
+archived_url: "https://web.archive.org/web/20260407064042/https://www.congress.gov/bill/104th-congress/house-bill/3734"
 verdict: "MISLEADING"
 tags: ["healthcare", "immigration", "medicaid", "misleading-claim"]
 counties: ["district-wide"]

@@ -5,7 +5,7 @@ draft: false
 topic: "Government Funding / Labor"
 claim_date: "March 21–28, 2026"
 source: "Facebook Posts"
-source_url: ""
+source_url: "https://www.audacy.com/wben/news/local/nearing-recess-langworthy-says-senate-holding-up-tsa-deal"
 archived_url: ""
 verdict: "CONTRADICTION"
 tags: ["tsa", "shutdown", "dhs", "labor", "pay-tsa-act", "aviation", "government-funding", "fact-check"]

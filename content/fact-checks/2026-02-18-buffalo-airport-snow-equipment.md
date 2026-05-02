@@ -5,8 +5,8 @@ draft: false
 topic: "Infrastructure / Transparency"
 claim_date: "February 18, 2026"
 source: "Facebook Live, Press Conference"
-source_url: ""
-archived_url: ""
+source_url: "https://appropriations.house.gov/sites/evo-subsites/republicans-appropriations.house.gov/files/evo-media-document/thud-fy26-cpf-table.pdf"
+archived_url: "https://web.archive.org/web/20260406011045/https://appropriations.house.gov/sites/evo-subsites/republicans-appropriations.house.gov/files/evo-media-document/thud-fy26-cpf-table.pdf"
 verdict: "MISSING CONTEXT"
 tags: ["infrastructure", "earmarks", "appropriations", "transparency", "buffalo-airport", "credit-claiming", "erie"]
 counties: ["erie"]

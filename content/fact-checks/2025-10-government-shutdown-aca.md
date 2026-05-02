@@ -5,8 +5,8 @@ draft: false
 topic: "Government Operations"
 claim_date: "September-November 2025"
 source: "Multiple statements"
-source_url: ""
-archived_url: ""
+source_url: "https://wlea.net/gop-rep-langworthy-voted-for-continuing-appropriations-bills/"
+archived_url: "https://web.archive.org/web/20231009031121/https://wlea.net/gop-rep-langworthy-voted-for-continuing-appropriations-bills/"
 verdict: "CONTRADICTION"
 tags: ["shutdown", "healthcare", "SNAP", "contradiction"]
 counties: ["district-wide"]

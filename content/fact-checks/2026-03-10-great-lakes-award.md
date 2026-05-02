@@ -5,7 +5,7 @@ draft: false
 topic: "Environment / Constituent Service"
 claim_date: "March 10, 2026"
 source: "Facebook Post"
-source_url: ""
+source_url: "https://professionalmariner.com/rep-langworthy-named-2026-champion-of-the-great-lakes/"
 archived_url: ""
 verdict: "MISSING CONTEXT"
 tags: ["great-lakes", "environment", "chamber-of-marine-commerce", "award", "shipping", "fact-check"]

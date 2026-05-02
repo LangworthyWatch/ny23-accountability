@@ -2,6 +2,18 @@
 <article class="pa3 pa4-ns nested-copy-line-height nested-links">
   <main class="cf ph3 ph5-l pv3 pv4-l f4 center mw7 lh-copy near-black">
     <h1 class="f2 fw7 mb3">{{ .Title }}</h1>
+
+    {{/* Stale-data caveat. Underlying data: data/missed_votes_stats.json was
+         generated 2025-12-22 and by_month runs only through 2025-12. A refresh
+         from House Clerk roll-call records is pending. */}}
+    <div style="background:#FFFAF0;border:1px solid #FBD38D;border-radius:8px;padding:1rem 1.25rem;margin:0 0 1.5rem;color:#744210;font-size:.95rem;line-height:1.5;">
+      <strong>Data through December 2025.</strong>
+      The aggregate numbers below are derived from a December 2025 snapshot and do not reflect
+      Rep. Langworthy's voting record for January 2026 onward. A refresh sourced from House Clerk
+      roll-call records is pending. Treat the totals on this page as a snapshot of late 2025, not
+      as current attendance.
+    </div>
+
     {{ .Content }}
 
     {{ with .Site.Data.missed_votes_stats }}

@@ -5,8 +5,8 @@ draft: false
 topic: "Agriculture / Immigration"
 claim_date: "2023-2025"
 source: "Multiple Press Releases, Committee Assignments"
-source_url: ""
-archived_url: ""
+source_url: "https://www.congress.gov/bill/119th-congress/house-bill/3227/text"
+archived_url: "https://web.archive.org/web/20260302034256/https://www.congress.gov/bill/119th-congress/house-bill/3227/text"
 verdict: "CONTRADICTION"
 counties: ["allegany", "steuben", "chemung", "cattaraugus", "schuyler"]
 ---

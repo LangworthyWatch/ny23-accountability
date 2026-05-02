@@ -5,8 +5,8 @@ draft: false
 topic: "Local Impact / Rural"
 claim_date: "2025"
 source: "CBO Analysis, County Government Records, Local News"
-source_url: ""
-archived_url: ""
+source_url: "https://www.cbo.gov/publication/61387"
+archived_url: "https://web.archive.org/web/20260402050000/https://www.cbo.gov/publication/61387"
 verdict: "FALSE"
 tags: ["food-assistance", "snap", "rural-impact", "steuben-county", "obbba", "work-requirements"]
 counties: ["steuben", "allegany", "cattaraugus", "chautauqua", "chemung"]

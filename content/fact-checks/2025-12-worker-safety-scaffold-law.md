@@ -5,8 +5,8 @@ draft: false
 topic: "Labor"
 claim_date: "2025"
 source: "Press Release"
-source_url: ""
-archived_url: ""
+source_url: "https://www.fingerlakes1.com/2025/05/21/scaffold-law-reform-infrastructure-bill/"
+archived_url: "https://web.archive.org/web/20250725063644/https://www.fingerlakes1.com/2025/05/21/scaffold-law-reform-infrastructure-bill/"
 verdict: "MISLEADING"
 tags: ["labor", "worker-safety", "construction", "campaign-finance"]
 counties: ["district-wide"]

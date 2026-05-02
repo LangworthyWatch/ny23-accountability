@@ -5,7 +5,7 @@ draft: false
 topic: "Legislative Process / Transparency"
 claim_date: "December 28, 2025"
 source: "Weekly Update from Congressman Nick Langworthy"
-source_url: ""
+source_url: "https://www.congress.gov/bill/119th-congress/house-bill/3699/all-info"
 archived_url: ""
 verdict: "DOCUMENTED PATTERN"
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
