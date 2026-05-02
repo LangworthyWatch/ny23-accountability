@@ -26,6 +26,18 @@
         </span>
         {{ end }}
       </div>
+
+      {{ if or .Params.source_url .Params.archived_url }}
+      <p class="factcheck-source-links" aria-label="Primary source links">
+        {{ with .Params.source_url }}
+        <a href="{{ . }}" rel="noopener nofollow">Original source &rarr;</a>
+        {{ end }}
+        {{ if and .Params.source_url .Params.archived_url }} &middot; {{ end }}
+        {{ with .Params.archived_url }}
+        <a href="{{ . }}" rel="noopener">Archived copy &rarr;</a>
+        {{ end }}
+      </p>
+      {{ end }}
     </header>
 
     <div class="content">

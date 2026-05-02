@@ -65,6 +65,11 @@ title = 'NY-23 Accountability Tracker'
     url = '/correspondence/'
     weight = 3
   [[menu.footer]]
+    identifier = 'financial-disclosures'
+    name = 'Financial Disclosures'
+    url = '/financial-disclosures/'
+    weight = 4
+  [[menu.footer]]
     identifier = 'open-data'
     name = 'Open Data'
     url = '/data/'

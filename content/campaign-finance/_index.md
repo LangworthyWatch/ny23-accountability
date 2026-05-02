@@ -14,6 +14,8 @@ Two distinct analyses are on this page. They cover different time periods, diffe
 
 **[→ Interactive Network Map](/network-map/)** — zoom, pan, and explore every node and connection in the IDA donor apparatus.
 
+**[→ Financial Disclosures & Sponsored Travel](/financial-disclosures/)** — Rep. Langworthy's House financial disclosure reports (2022, 2023, 2024) and all 15 sponsored-travel filings on record.
+
 ---
 
 ## Federal Campaign Finance (2023–2024)
