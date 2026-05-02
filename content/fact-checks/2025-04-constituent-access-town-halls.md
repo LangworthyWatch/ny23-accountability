@@ -5,8 +5,8 @@ draft: false
 topic: "Transparency"
 claim_date: "Multiple, 2023-2026"
 source: "WSKG, WGRZ, Post-Journal"
-source_url: ""
-archived_url: ""
+source_url: "https://www.wrfalp.com/rep-nick-langworthy-repeatedly-fails-to-inform-wrfa-about-news-conferences-being-held-in-chautauqua-county/"
+archived_url: "https://web.archive.org/web/20260220153709/https://www.wrfalp.com/rep-nick-langworthy-repeatedly-fails-to-inform-wrfa-about-news-conferences-being-held-in-chautauqua-county/"
 verdict: "FALSE"
 tags: ["transparency", "town-halls", "constituent-access", "accountability"]
 counties: ["erie", "steuben", "chemung", "chautauqua"]
@@ -163,10 +163,25 @@ Langworthy claims "monthly" telephone town halls reaching "100,000 phone numbers
 
 **What this means:**
 - The 100,000 figure refers to **outbound automated dials**, not actual participation
-- Telephone town halls are **not recorded or publicly posted**, per constituent reports
+- Telephone town halls are **not consistently recorded or publicly posted** in one official archive
 - They are **inaccessible to second-shift workers**
 - They do not allow the sustained, visible exchange that in-person forums provide
 - Citizens for a Better Southern Tier alleges **"half of his telephone town halls get canceled last minute"**
+
+### Telephone Town Hall Date and Cancellation Tracker
+
+A Facebook search export for "town hall" in Rep. Langworthy's official account documents at least **28 telephone-town-hall-related posts or events** from May 2023 through April 2026. The captured posts show regular announcements, several recordings posted in late 2025 and early 2026, and at least **four explicit postponements**:
+
+| Date | Status | Stated reason / evidence |
+|------|--------|--------------------------|
+| September 20, 2023 | Postponed | "Emergency Rules Committee meeting"; rescheduled for September 21 |
+| April 9, 2025 | Postponed | House budget-resolution vote running longer than expected; rescheduled for April 24 |
+| December 16, 2025 | Postponed | "Obligations of the House Rules Committee" |
+| April 28, 2026 | Postponed | Promoted at 12:31 PM for 7 PM that night; canceled at 6:49 PM citing "an unexpected Rules Committee meeting" |
+
+The tracker also identifies public recording posts for the **October 28, 2025**, **November 2025**, **January 7, 2026**, **February 10, 2026**, and **March 16, 2026** calls. This improves the earlier record: some recordings are publicly posted. The remaining gap is that there is still no single public calendar or archive listing all scheduled calls, cancellations, rescheduled dates, recordings, and transcripts.
+
+**Data file:** [/data/town_hall_tracker.csv](/data/town_hall_tracker.csv)
 
 ---
 
@@ -208,7 +223,7 @@ Constituents across **all seven NY-23 counties** have limited mechanisms to dire
 
 3. Why was the planned Elmira office abandoned, leaving Chemung County without representation?
 
-4. If telephone town halls are adequate, why aren't they recorded and posted publicly?
+4. If telephone town halls are adequate, why isn't there a single public archive listing scheduled calls, cancellations, rescheduled dates, recordings, and transcripts?
 
 5. When constituents organize their own forums, why characterize them as "Soros-funded" without evidence?
 
@@ -235,7 +250,7 @@ The East Aurora Advertiser editorial adds significant documentation:
 
 Whether telephone-only engagement constitutes adequate representation is a judgment call for constituents, but the **factual record is clear**.
 
-**Verdict: FALSE** — Claims of robust constituent access are contradicted by zero in-person town halls, abandoned office plans, characterization of constituent groups without evidence, and documented non-response to media offers to host public forums.
+**Verdict: FALSE** — Claims of robust constituent access are contradicted by zero in-person town halls, abandoned office plans, characterization of constituent groups without evidence, documented non-response to media offers to host public forums, and repeated last-minute postponements of the telephone-town-hall format offered as the substitute.
 
 ---
 
@@ -251,6 +266,8 @@ Whether telephone-only engagement constitutes adequate representation is a judgm
 * Post-Journal: ["Threats Force Closure of Langworthy's Jamestown Office"](https://www.post-journal.com/news/latest-news/2026/01/threats-force-closure-of-langworthys-jamestown-office/) (January 2026)
 * MyTwinTiers: ["Langworthy drops plan to lease space in Elmira City Hall"](https://www.mytwintiers.com/news-cat/local-news/u-s-rep-langworthy-drops-plan-to-lease-space-in-elmira-city-hall/)
 * Citizens for a Better Southern Tier: Official statement on organizational status
+* Facebook search export for "town hall" in Congressman Nick Langworthy's official account (PDF captured May 2026): `Congressman Nick Langworthy | Facebook.pdf`
+* House Rules Committee: [H.R. 7567 rule information](https://rules.house.gov/bill/119/hr-7567) and [April 28, 2026 Part II hearing video listing](https://rules.house.gov/media/videos/rules-committee-hearing-hr-7567-hr-2616-s-con-res-33-s-1318-part-ii)
 
 ---
 

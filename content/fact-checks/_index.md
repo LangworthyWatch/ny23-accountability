@@ -17,6 +17,12 @@ Each fact-check includes:
 
 ## Summary Table: Claim Verification Status
 
+### May 2026
+
+| Topic | Claim | Verdict |
+|-------|-------|---------|
+| [Telephone Town Halls: Notice, Postponements, Recordings](/fact-checks/2026-05-02-tele-town-hall-pattern/) | "Monthly telephone town hall ... call in to hear about my work to represent you in Washington" — 28 captured posts (2023–2026) show ≤2 days notice in 92% of cases, 4 explicit postponements (April 28, 2026 cited "unexpected" Rules Committee conflict that was publicly scheduled the prior day), and recordings only for the most recent 6 months | **DOCUMENTED PATTERN** |
+
 ### April 2026
 
 | Topic | Claim | Verdict |
