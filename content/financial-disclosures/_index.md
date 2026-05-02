@@ -144,13 +144,15 @@ The remaining trips are drawn from the House Clerk's separate Gift Travel Filing
 
 | Filer of Form | Role | Trips Filed |
 |---------------|------|-------------|
-| Jessica Catalfamo | Spouse | 3 (rows 1, 8, 10) |
-| Allen Garnes | (staff) | 3 (rows 5, 6, 7) |
+| Jessica Catalfamo | (filer; relationship not specified in the public Gift Travel Filings index) | 3 (rows 1, 8, 10) |
+| Allen Garnes | (filer; relationship not specified) | 3 (rows 5, 6, 7) |
 | Nicholas Langworthy | Member | 3 (rows 2, 9, 14) |
-| Grace Davis | (staff) | 2 (rows 3, 15 amendment) |
-| William Smith | (staff) | 2 (rows 11, 12) |
-| Hannah Jahreis | (staff) | 1 (row 4) |
-| Colin Witman | (staff) | 1 (row 13) |
+| Grace Davis | (filer; relationship not specified) | 2 (rows 3, 15 amendment) |
+| William Smith | (filer; relationship not specified) | 2 (rows 11, 12) |
+| Hannah Jahreis | (filer; relationship not specified) | 1 (row 4) |
+| Colin Witman | (filer; relationship not specified) | 1 (row 13) |
+
+The "Filer" field on a sponsored-travel form identifies the person who submitted the form to the Clerk's office; it is not necessarily the person who traveled. The form itself, downloadable from the Clerk's database for each individual trip, identifies who actually traveled and their relationship to the Member. Per public sources (Wikipedia, Buffalo News, the Congressman's official House.gov bio), Rep. Langworthy's spouse is **Erin Baker** (Erin Baker Langworthy), not any of the persons named above.
 
 ### Trip count by year and category
 
