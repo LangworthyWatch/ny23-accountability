@@ -21,6 +21,8 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [Sugar Industry Trips — Howard Center Local Angle](/fact-checks/2026-05-04-sugar-industry-trips-howard-center/) | Office took a Red River Valley Sugarbeet–sponsored trip to Fargo (Aug 27–29, 2024); RRVSEF Executive Director on record describing the trip program as "to build a new bench of loyal allies on Capitol Hill" (Howard Center / CNS Maryland investigation) | **DOCUMENTED PATTERN** |
+| [15 Trips on the Office Record. 1 Reaches the FD.](/fact-checks/2026-05-04-disclosure-asymmetry-schedule-h-vs-gift-travel/) | Constituents reading Langworthy's 2024 Annual Financial Disclosure see one industry-paid trip; the Gift Travel Filings database shows six on the office record. The gap is structural to the disclosure rules — staff-traveler trips don't appear on the Member's Schedule H. | **MISSING CONTEXT** |
 | [Telephone Town Halls: Notice, Postponements, Recordings](/fact-checks/2026-05-02-tele-town-hall-pattern/) | "Monthly telephone town hall ... call in to hear about my work to represent you in Washington" — 28 captured posts (2023–2026) show ≤2 days notice in 92% of cases, 4 explicit postponements (April 28, 2026 cited "unexpected" Rules Committee conflict that was publicly scheduled the prior day), and recordings only for the most recent 6 months | **DOCUMENTED PATTERN** |
 
 ### April 2026
