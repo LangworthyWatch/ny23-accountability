@@ -409,19 +409,24 @@ Remote is set to HTTPS: `https://github.com/LangworthyWatch/ny23-accountability.
 
 **The site is hosted on Netlify**, not GitHub Pages. (The repo still has a GitHub Pages config and a legacy `.github/workflows/hugo.yml` workflow file, but DNS for `langworthywatch.org` points at Netlify and the Netlify CDN is what serves the live site.)
 
-Two paths exist for getting a commit live:
+**⚠️ As of 2026-05-05, BOTH automatic deploy paths are broken:**
 
-1. **Automatic (preferred):** `.github/workflows/netlify-trigger.yml` runs on every push to `main` and POSTs to a Netlify build hook (URL stored in repo secret `NETLIFY_BUILD_HOOK_URL`). Netlify then builds from the latest commit and deploys.
-   - **Why this exists:** Netlify's GitHub-app webhook integration was unreliable in April–May 2026 — pushes weren't auto-triggering builds and the live site silently fell behind `main` by 10+ days. This workflow guarantees the build trigger fires regardless of the GitHub-app integration's state.
-   - **Verifying a deploy:** check `gh api repos/LangworthyWatch/ny23-accountability/actions/runs --jq '.workflow_runs[0]'` for the workflow run, then check `netlify api listSiteDeploys --data='{"site_id":"68d48ede-fc40-4afc-9fdb-cb9f72737f02","per_page":3}'` for the Netlify deploy.
+1. **Netlify's GitHub-app webhook integration is broken.** Pushes to main do not trigger Netlify auto-builds. The live site silently fell 10+ days behind `main` (April 25 → May 5) before the gap was caught.
+2. **GitHub Actions is disabled at the LangworthyWatch user account level.** API returns `HTTP 422: Actions has been disabled for this user.` This means no GitHub Actions workflow can run on this repo until the account is re-enabled. Likely fixes: verify email + enable 2FA + check for account flags at https://github.com/settings/security.
 
-2. **Manual fallback:** If for any reason the auto-trigger doesn't fire (e.g., GitHub Actions disabled, secret deleted, Netlify hook URL rotated), a local manual deploy still works:
-   ```bash
-   cd langworthy-tracker
-   hugo --gc --minify
-   netlify deploy --prod --dir=public
-   ```
-   The local Netlify CLI is authenticated as `langworthywatch@gmail.com` and the project is linked.
+A `.github/workflows/netlify-trigger.yml` workflow exists that POSTs to a Netlify build hook (URL stored in repo secret `NETLIFY_BUILD_HOOK_URL`, hook ID `69f9eee4d3347c8a2110b4a6`). It will start working as soon as Actions is re-enabled at the account level — no other change needed.
+
+**Until one of those paths is fixed, the only way to get a commit live is a manual deploy:**
+
+```bash
+cd /Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker
+hugo --gc --minify
+netlify deploy --prod --dir=public
+```
+
+The local Netlify CLI is authenticated as `langworthywatch@gmail.com` and the project is linked (state in `.netlify/state.json`).
+
+**Claude Code project hook:** A Stop hook in `.claude/settings.json` (project-scoped) automatically runs the manual deploy at the end of any Claude Code session that pushed to main. So when working in this project via Claude Code, deploy still happens automatically — just driven by the local Claude session rather than by GitHub Actions or the Netlify webhook.
 
 ### Verifying a page is live
 
@@ -430,7 +435,7 @@ curl -sSI -m 10 "https://langworthywatch.org/fact-checks/<slug>/" | head -1
 # Expect: HTTP/2 200
 ```
 
-**Do not assume `git push` is sufficient** — always verify the page is live afterward, especially if the GitHub Actions workflow is disabled or the Netlify webhook is broken again.
+**Do not assume `git push` is sufficient.** Always verify the page is live afterward via the curl above OR by checking the most recent Netlify deploy (`netlify api listSiteDeploys --data='{"site_id":"68d48ede-fc40-4afc-9fdb-cb9f72737f02","per_page":1}'` — `commit_ref` should match the latest pushed commit).
 
 ### Repository
 - Remote repo name: `LangworthyWatch/ny23-accountability` (not `langworthy-tracker`)
