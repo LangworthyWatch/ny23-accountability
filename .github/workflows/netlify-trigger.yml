@@ -1,0 +1,29 @@
+name: Trigger Netlify deploy
+
+# Why this exists:
+# The site is hosted on Netlify (langworthywatch.org). Netlify's GitHub-app
+# webhook integration was unreliable through April-May 2026 — pushes weren't
+# auto-triggering builds, and the live site silently fell behind main by
+# 10+ days. This workflow guarantees that every push to main triggers a
+# Netlify build via a dedicated build hook, independent of the GitHub-app
+# integration.
+#
+# The build hook URL is stored in the repo secret NETLIFY_BUILD_HOOK_URL.
+# It points at https://api.netlify.com/build_hooks/<hookid> and was
+# created via `netlify api createSiteBuildHook` on 2026-05-05.
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # allow manual re-trigger from the Actions tab
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: POST to Netlify build hook
+        run: |
+          curl -fsS -X POST -d '{}' "${NETLIFY_BUILD_HOOK_URL}"
+        env:
+          NETLIFY_BUILD_HOOK_URL: ${{ secrets.NETLIFY_BUILD_HOOK_URL }}

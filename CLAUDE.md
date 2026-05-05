@@ -10,7 +10,7 @@
 - Hugo static site generator
 - Custom theme (no Ananke dependency)
 - CSS in `assets/css/bundle.css` (concatenated custom properties system)
-- GitHub Pages deployment
+- **Netlify hosting** at langworthywatch.org (NOT GitHub Pages, despite legacy `.github/workflows/hugo.yml` and the GitHub Pages config that still exists for the repo). The DNS-active CDN is Netlify Edge.
 - Donorbox for donations
 - Google Analytics for traffic
 
@@ -404,6 +404,33 @@ git push origin main
 Remote is set to HTTPS: `https://github.com/LangworthyWatch/ny23-accountability.git`
 
 **Why not SSH:** The deploy key (`id_ed25519_langworthywatch` in `~/.ssh/config`) is read-only. Port 22 is currently unblocked but the `gh` credential helper (LangworthyWatch account, stored in keyring) is more reliable. Do not revert to SSH remote unless the credential helper stops working.
+
+### Deploy Path — Netlify (Updated 2026-05-05)
+
+**The site is hosted on Netlify**, not GitHub Pages. (The repo still has a GitHub Pages config and a legacy `.github/workflows/hugo.yml` workflow file, but DNS for `langworthywatch.org` points at Netlify and the Netlify CDN is what serves the live site.)
+
+Two paths exist for getting a commit live:
+
+1. **Automatic (preferred):** `.github/workflows/netlify-trigger.yml` runs on every push to `main` and POSTs to a Netlify build hook (URL stored in repo secret `NETLIFY_BUILD_HOOK_URL`). Netlify then builds from the latest commit and deploys.
+   - **Why this exists:** Netlify's GitHub-app webhook integration was unreliable in April–May 2026 — pushes weren't auto-triggering builds and the live site silently fell behind `main` by 10+ days. This workflow guarantees the build trigger fires regardless of the GitHub-app integration's state.
+   - **Verifying a deploy:** check `gh api repos/LangworthyWatch/ny23-accountability/actions/runs --jq '.workflow_runs[0]'` for the workflow run, then check `netlify api listSiteDeploys --data='{"site_id":"68d48ede-fc40-4afc-9fdb-cb9f72737f02","per_page":3}'` for the Netlify deploy.
+
+2. **Manual fallback:** If for any reason the auto-trigger doesn't fire (e.g., GitHub Actions disabled, secret deleted, Netlify hook URL rotated), a local manual deploy still works:
+   ```bash
+   cd langworthy-tracker
+   hugo --gc --minify
+   netlify deploy --prod --dir=public
+   ```
+   The local Netlify CLI is authenticated as `langworthywatch@gmail.com` and the project is linked.
+
+### Verifying a page is live
+
+```bash
+curl -sSI -m 10 "https://langworthywatch.org/fact-checks/<slug>/" | head -1
+# Expect: HTTP/2 200
+```
+
+**Do not assume `git push` is sufficient** — always verify the page is live afterward, especially if the GitHub Actions workflow is disabled or the Netlify webhook is broken again.
 
 ### Repository
 - Remote repo name: `LangworthyWatch/ny23-accountability` (not `langworthy-tracker`)
