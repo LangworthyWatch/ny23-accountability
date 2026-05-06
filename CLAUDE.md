@@ -316,6 +316,43 @@ Before committing new content:
 
 ---
 
+## Pre-Publish Review (CRITICAL — added 2026-05-06)
+
+**Why this section exists:** During a May 2026 audit pass, four recurring failure modes were caught in fact-check drafts *before* publication. Each had to be corrected after a careful reader spotted the issue. The patterns are predictable enough to enforce as a checklist. Run the `/fact-check-review <file>` slash command before committing any new fact-check, OR walk through this list manually.
+
+### The four failure modes to actively check for
+
+1. **Tool summaries treated as primary-source quotes.** When a WebFetch on the source article fails (timeout, 403, paywall), do **not** silently substitute a WebSearch tool's summary or paraphrase as if it were the actual quote. The right move is to retry, dispatch a research agent, or omit the specific number/quote. Search summaries are *paraphrases by an LLM* — they are not citations. Symptom to watch for: a number cited in the fact-check that you cannot point to in the actual primary document.
+
+2. **Inferred relationships from form fields that don't carry them.** The House Clerk's Gift Travel Filings index shows the *filer* of a sponsored-travel form, not the *traveler* and not the relationship to the Member. Inferring "spouse" or "staff" from the filer name is a guess. The authoritative source is the per-trip filing PDF itself. Symptom: any sentence that names a relationship (spouse, child, staff member) without an explicit source.
+
+3. **Atmospheric detail without a source.** Adding "the helicopter had been in service since the 1970s" or similar background-color claims to make an entry read better is a credibility liability if the detail is wrong. If you cannot point to a specific cited source for a date, age, or descriptive fact, either find one or remove the detail. Symptom: a date, vintage, age, or descriptor in the entry body that you didn't see in the linked sources.
+
+4. **Conflated numbers from different snapshots.** Subtracting an "original total invoice" from a "remaining balance after partial payments" produces a meaningless "shortfall." Always confirm that two numbers being compared (or used in arithmetic) refer to the same point in time and the same scope. Symptom: any derived figure (a difference, a ratio, a percentage) that requires combining two numbers from different sources or different time-points.
+
+### Internal-consistency check
+
+Before publishing, re-read the entry as a hostile copy editor:
+
+- For every numbered point in a verdict section, check that the math in Point N doesn't contradict the math in Point N+1. (Example: Point 1 says "county money alone covered the purchase," Point 3 then says "Burke's contribution was the reason the county had enough." Those contradict.)
+- For every quoted sentence, confirm the quote appears verbatim at the linked URL.
+- For every dollar figure, confirm it appears in the cited source AND is described the same way (gross vs net, total vs remaining, encumbered vs available).
+- For every "X days after Y" or "X months before Y" claim, do the date math by hand — these are easy to be off by one.
+
+### When in doubt, hedge
+
+If a finding rests on an inference (filer = staff, "almost certainly," "likely," "appears to be"), say so explicitly in the entry body. Inferences hedged honestly are defensible. Inferences stated as facts are credibility liabilities.
+
+### How to invoke the review
+
+```
+/fact-check-review content/fact-checks/2026-MM-DD-slug.md
+```
+
+The slash command (defined in `.claude/commands/fact-check-review.md`) walks an Explore-style verification agent through the four failure modes against the entry. Use it before every commit to `content/fact-checks/`.
+
+---
+
 ## Entry Types and Patterns
 
 ### 1. Single-Claim Fact-Checks
