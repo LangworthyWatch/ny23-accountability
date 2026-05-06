@@ -1,0 +1,35 @@
+FACT-CHECK PRE-PUBLISH CHECKLIST (auto-surfaced after fact-check edit)
+
+You just edited a fact-check file. Before committing, actively check for the four failure modes documented in CLAUDE.md "Pre-Publish Review":
+
+1. TOOL SUMMARIES vs PRIMARY-SOURCE QUOTES
+   For every dollar figure, percentage, count, date, and direct quote in the entry: did you fetch the actual primary document (WebFetch on the cited URL), or did you trust a WebSearch tool's paraphrase?
+   - WebSearch results are LLM-paraphrased summaries, not citations.
+   - If WebFetch on a cited URL failed earlier in the session: retry, dispatch a research agent, or omit the specific number — do NOT silently substitute the search summary.
+
+2. INFERRED RELATIONSHIPS FROM FORM FIELDS
+   The House Clerk Gift Travel Filings index shows the FILER, not the traveler and not the Member's relationship to the filer.
+   - Inferring "spouse," "child," or "staff" from a filer name without a separate sourced confirmation is a guess.
+   - Authoritative source for traveler+relationship is the per-trip filing PDF itself.
+
+3. ATMOSPHERIC DETAIL WITHOUT A SOURCE
+   For every date, vintage, age, or background descriptor in the body (e.g., "in service since the 1970s"): is there a specific cited URL that supports the claim?
+   - If no, either find one or remove the detail.
+   - Speculation that reads as confidently asserted fact is the worst possible credibility liability.
+
+4. CONFLATED NUMBERS FROM DIFFERENT SNAPSHOTS
+   For every derived figure (a difference, ratio, percentage, or "shortfall"): are the inputs all from the same point in time and the same scope?
+   - Subtracting a "total invoice" from a "remaining balance after partial payments" produces a meaningless figure.
+   - Confirm both numbers reference the same snapshot and the same accounting concept (gross vs. net, total vs. remaining, encumbered vs. available) before doing arithmetic.
+
+INTERNAL-CONSISTENCY PASS
+- For every numbered point in a verdict section, check that Point N's math doesn't contradict Point N+1's claim.
+- For every "X days after Y" or "X months before Y" claim, do the date math by hand.
+- For every quoted sentence, confirm the quote appears verbatim at the linked URL.
+
+WHEN IN DOUBT, HEDGE
+- Inferences hedged honestly ("almost certainly," "appears to be") are defensible.
+- Inferences stated as facts are credibility liabilities.
+
+For a thorough automated review, run:
+   /fact-check-review <path-to-this-file>

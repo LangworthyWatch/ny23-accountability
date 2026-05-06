@@ -17,3 +17,17 @@ Thumbs.db
 # Local development
 .env
 archive_log_*.txt
+
+# Local Netlify folder
+.netlify
+
+# Claude Code project artifacts — override global ~/.gitignore_global which excludes .claude/
+# Tracked: project-shared slash commands, scripts, hook configuration.
+# Untracked: .claude/launch.json (per-machine preferences) and anything else not explicitly listed.
+!.claude/
+!.claude/commands/
+!.claude/commands/fact-check-review.md
+!.claude/scripts/
+!.claude/scripts/auto-deploy.sh
+!.claude/scripts/fact-check-checklist.txt
+!.claude/settings.json
