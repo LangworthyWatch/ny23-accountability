@@ -68,7 +68,9 @@ WIVB's own headline on the announcement frames this precisely: ["Congressman Nic
 
 ### Assemblymember Pat Burke's $1 million
 
-NYS Assemblymember **Pat Burke (D)** sent **$1 million** in state aid to Erie County for this project. Combined with the $6.5M county capital appropriation, that brought total non-federal available funding to $7.5M — enough on its own to complete the helicopter purchase. Per [WIVB](https://www.wivb.com/news/local-news/erie-county/new-erie-county-sheriffs-office-helicopters-revealed/), Burke's contribution reduced the county's net cost.
+NYS Assemblymember **Pat Burke (D)** secured **$1 million** in state aid for this project. Because the $6.5M county capital appropriation alone already exceeded the $6.3M remaining purchase balance, Burke's $1M flows toward the *outfitting* phase — alongside (not duplicative of) the federal $4.2M. The total non-federal funding picture: county capital fully covers the helicopter purchase, and Burke's state aid contributes to outfitting costs.
+
+Per [WIVB](https://www.wivb.com/news/local-news/erie-county/new-erie-county-sheriffs-office-helicopters-revealed/), Burke's contribution is part of the multi-government funding stack that produced this outcome.
 
 Burke is a Democrat. He is not mentioned in Langworthy's Facebook post.
 
@@ -94,9 +96,9 @@ The dollar figure is real and the federal aid is real. The Member did secure it 
 
 The post is misleading on two counts:
 
-1. **Framing.** "$4.2 MILLION for not one, but TWO helicopters" implies the federal money is what put the helicopters in the air. In reality, the helicopter purchase itself was fully funded by Erie County's $6.5M capital appropriation plus Pat Burke's $1M in state aid — $7.5M total, sufficient on its own to cover the $6.3M remaining purchase balance per the Sheriff's Office statement to the Comptroller. The federal $4.2M is essentially entirely for outfitting equipment (cameras, autopilot, searchlights, hoists, avionics), not for buying the airframes themselves.
+1. **Framing.** "$4.2 MILLION for not one, but TWO helicopters" implies the federal money is what put the helicopters in the air. In reality, the helicopter purchase was fully funded by Erie County's $6.5M capital appropriation alone, which exceeded the $6.3M remaining balance owed to Davenport Aviation per the Sheriff's Office statement to the Comptroller. The federal $4.2M is essentially entirely for outfitting equipment (cameras, autopilot, searchlights, hoists, avionics), not for buying the airframes themselves.
 
-2. **Omitted partners.** Multi-government cooperation produced this outcome. Erie County funded the helicopter purchase, and Assemblymember Pat Burke (D) contributed $1M in state aid. Both are absent from the Member's post, which presents the federal contribution as the action that produced the helicopters.
+2. **Omitted partners.** Multi-government cooperation produced this outcome. Erie County's capital appropriation funded the helicopter purchase. Assemblymember Pat Burke (D) secured $1M in state aid that contributes toward outfitting costs alongside the federal $4.2M. The Sheriff's Office and county legislature steered the project for years before any federal money came through. The Member's post takes sole credit for an outcome that involved county capital funds, state legislative action, and federal appropriations — and omits the Democratic state legislator who contributed cash.
 
 This is the documented "Take Credit for Opposition's Work" pattern (see methodology), narrowly applied: the Member's contribution is real, but the post claims the entire result.
 
