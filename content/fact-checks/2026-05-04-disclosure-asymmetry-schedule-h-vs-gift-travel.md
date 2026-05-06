@@ -32,7 +32,7 @@ Snapshot taken from the [House Clerk Gift Travel Filings database](https://clerk
 | **2024 Annual Financial Disclosure**, Schedule H | **1** (American Israel Education Foundation, April 2024) |
 | **2025 Annual Financial Disclosure** (due May 2026, not yet filed) | — |
 
-The 14 trips that appear in the Gift Travel Filings database but not on the personal Financial Disclosure are not omissions. They are filings made by staff members who traveled in their own names, on the office's record. **Trips taken by staff are not required to be disclosed on the Member's personal Schedule H.** They are filed separately, under the staffer's name, in the same Clerk database — but the database is not part of the standard "financial disclosure" review.
+The 14 trips that appear in the Gift Travel Filings database but not on the personal Financial Disclosure are not omissions. They are filings made under names other than the Member's. The "Filer" field in the Gift Travel Filings database identifies who *submitted* the form to the Clerk's office — it is not necessarily the person who *traveled*. Per [analog filings on file at the Clerk for the same sponsors](https://disclosures-clerk.house.gov/gtimages/ST/2023/500027118.pdf) (the 2023 Red River Valley Sugarbeet trip, for example, was filed in the Clerk's ST/ — Staff Travel — directory rather than MT/ — Member Travel), this office's non-Schedule-H trips are almost certainly staff travel rather than Member travel. **Trips taken by staff are not required to be disclosed on the Member's personal Schedule H.** They are filed separately in the same Clerk database — but the database is not part of the standard "financial disclosure" review.
 
 ---
 
@@ -74,7 +74,7 @@ This is not a Langworthy-specific phenomenon. It is built into the House Ethics 
 
 A constituent reading Langworthy's 2024 Annual FD sees: **one industry-paid trip**, the AIEF Israel trip in April 2024.
 
-A constituent who knows to also query the Gift Travel Filings database sees: **six 2024 trips on the office record** (rows 2–7 above), only one of which Langworthy himself appears to have taken. Five of the six were taken by staff at industry expense.
+A constituent who knows to also query the Gift Travel Filings database sees: **six 2024 trips on the office record** (rows 2–7 above). Only one — the AIEF Israel trip — was filed by Langworthy himself. The other five were filed under staff names; per the Clerk's `ST/` (Staff Travel) directory pattern for analog trips by the same sponsors, those are almost certainly staff trips at industry expense. (Authoritative confirmation requires per-trip filings; the index database does not show traveler-vs-filer relationship.)
 
 ---
 

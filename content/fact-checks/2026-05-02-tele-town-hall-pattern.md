@@ -80,7 +80,13 @@ Four explicit postponements appear in the captured posts. Each cites a House Rul
 
 The 2025-04-09 postponement is consistent with the House calendar — H.Con.Res. 14 (the FY2026 budget resolution) saw final passage on April 10, 2025, with floor business running into the late evening of April 9. The other three cited reasons have not been independently checked against the day's roll-call record.
 
-**On the foreseeability of the April 28, 2026 conflict.** The House Rules Committee publishes its meeting notices in advance at <https://rules.house.gov> — by long-standing committee convention, regular meeting notices are posted at least one day in advance, with same-day "emergency" meetings flagged as such. The Rules Committee meeting cited as the cancellation reason for April 28, 2026 was on the publicly posted Rules Committee schedule on April 27. The 12:31 PM tele-town hall announcement on April 28 was therefore made *after* the conflicting Rules Committee meeting was already publicly scheduled. The "unexpected" framing in the 6:49 PM cancellation post is difficult to reconcile with that posting timeline.
+**On the foreseeability of the April 28, 2026 conflict.** The House Rules Committee publishes its meeting notices in advance at <https://rules.house.gov> — by long-standing committee convention, regular meeting notices are posted at least one day in advance, with same-day "emergency" meetings flagged as such. Wayback Machine snapshots of `rules.house.gov` show:
+
+- **April 22, 2026**: the April 27 meeting (considering H.R. 7567 Farm Bill, H.R. 2616, S.Con.Res. 33, and S. 1318) was publicly posted — six days' notice.
+- **April 27 afternoon**: the rules.house.gov homepage listed the 1 PM April 27 meeting as the only upcoming meeting.
+- **April 28**: that April 27 meeting reconvened at 1 PM April 28 in H-313 to continue consideration of those bills, per [Library of Congress / Congress.gov coverage](https://www.congress.gov/calendars-and-schedules).
+
+The April 28 Rules session was a **continuation/reconvening** of the publicly noticed April 27 meeting. Reconvenings on heavy-bill-load days are routine and typically scheduled when the prior day's meeting recesses. Rep. Langworthy is a member of the Rules Committee in the 119th Congress, so the obligation to attend is real. The narrow concern is the "unexpected" framing in the 6:49 PM cancellation post — a continuation of a six-days-noticed Rules meeting on a heavily-bill-loaded week is a foreseeable scheduling pattern, not an unexpected event.
 
 ---
 

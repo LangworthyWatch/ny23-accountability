@@ -46,7 +46,7 @@ The post links to a Fox News story headlined "RIDGLAN FARMS BEAGLES BEGIN LEAVIN
 | **January 2025** | Judge Lanford approved petition for a Special Prosecutor in a 23-page decision; appointed La Crosse County DA Tim Gruenke. | Dane County Judge Lanford |
 | **March 11, 2025** | Wisconsin Veterinary Examining Board approved a Stipulated Agreement with Ridglan's primary vet. | Wisconsin VEB |
 | **October 28, 2025** | Special Prosecutor DA Tim Gruenke reached a binding settlement with Ridglan Farms: surrender the license to sell beagles to outside researchers by **July 1, 2026** in exchange for avoiding criminal prosecution. | DA Tim Gruenke + Ridglan Farms |
-| **April 18, 2026** | Activist attempted "open rescue" at Ridglan ended with tear gas; subsequent federal lawsuit filed against Dane County sheriff's deputies. | Animal rights activists; Dane County Sheriff |
+| **April 18, 2026** | Activist "open rescue" attempt at Ridglan ended with Dane County sheriff's deputies deploying tear gas and rubber bullets; subsequent federal lawsuit filed against the deputies for excessive force. | Animal rights activists; Dane County Sheriff |
 | **April 24, 2026** | **Rep. Nick Langworthy sent a letter** to HHS Secretary Kennedy and NIH Director Bhattacharya asking them to suspend funding for research using Ridglan dogs and develop a phaseout timeline. | Rep. Nick Langworthy |
 | **April 29–30, 2026** | Deal announced between Ridglan Farms, Big Dog Ranch Rescue, and Center for a Humane Economy to transfer 1,500 of ~2,000 beagles to rescue organizations for an undisclosed price. | Ridglan + Big Dog Ranch Rescue + Center for a Humane Economy |
 | **May 2, 2026** | First 300 beagles depart Ridglan Farms in Marshall, WI. | Big Dog Ranch Rescue + Dane County Humane Society + Beagle Freedom Project + others |
@@ -107,7 +107,7 @@ The Ridglan beagle credit-claim fits the same template: a positive outcome produ
 1. Did Rep. Langworthy's office acknowledge in any public statement the October 28, 2025 Wisconsin settlement that legally produced this outcome?
 2. Did Langworthy's office acknowledge the role of Big Dog Ranch Rescue, the Center for a Humane Economy, Dane County Humane Society, the Beagle Freedom Project, Wayne Hsiung, or any of the other actors who built and executed the path to this release?
 3. Has HHS or NIH responded to the April 24 letter? If they have suspended any specific Ridglan-dog grants, that would constitute a real federal-action win attributable to the letter — separate from the underlying state-court outcome.
-4. The letter was sent six days after activists attempting an "open rescue" of Ridglan beagles were tear-gassed by Dane County deputies (April 18, 2026). Is there a connection between the press attention from that incident and the timing of the letter?
+4. The letter was sent six days after activists attempting an "open rescue" of Ridglan beagles were dispersed with tear gas and rubber bullets by Dane County deputies (April 18, 2026). Is there a connection between the press attention from that incident and the timing of the letter?
 
 ---
 

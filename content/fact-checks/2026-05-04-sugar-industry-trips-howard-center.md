@@ -84,7 +84,7 @@ The Howard Center investigation is the public-record anchor for this entry. Its 
 
 1. What did Langworthy's office produce — meetings with sugar-program stakeholders, statements on sugar policy, votes on related amendments — in the months after the Fargo trip?
 2. Of the 335+ trips the Howard Center counted since 2012, which other Western NY congressional offices participated, and how do their participation patterns compare?
-3. The trip filer Allen Garnes is Langworthy's Legislative Director. Per LegiStorm his portfolio likely includes ag policy. Is there a public record of which staff portfolio sugar-industry advocates engage with at the office?
+3. The trip filer Allen Garnes is identified by LegiStorm as Langworthy's senior legislative aide (Legislative Assistant / Legislative Director). Is there a public record of which staff portfolio sugar-industry advocates engage with at the office?
 
 ---
 
