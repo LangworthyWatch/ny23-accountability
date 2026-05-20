@@ -1,12 +1,12 @@
 {
-  "generated": "2026-05-02",
-  "total": 84,
+  "generated": "2026-05-20",
+  "total": 92,
   "top_verdict": "MISLEADING",
   "verdicts": {
-    "MISLEADING": 20,
-    "MISSING CONTEXT": 18,
-    "DOCUMENTED PATTERN": 12,
-    "CONTRADICTION": 12,
+    "MISLEADING": 23,
+    "MISSING CONTEXT": 20,
+    "DOCUMENTED PATTERN": 14,
+    "CONTRADICTION": 13,
     "FALSE": 9,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
@@ -19,13 +19,15 @@
     "Government Operations": 10,
     "Economy": 9,
     "Healthcare": 9,
+    "Transparency": 6,
     "Immigration": 6,
-    "Transparency": 5,
     "Local Impact": 5,
+    "Other": 4,
     "Energy": 4,
     "Infrastructure": 4,
     "Agriculture": 3,
     "Campaign Finance": 3,
+    "Ethics": 2,
     "Rule of Law": 2,
     "Legislative Record": 2,
     "Environment": 2,
@@ -33,7 +35,8 @@
     "Constituent Service": 2,
     "Social Services": 2,
     "Veterans": 2,
-    "Ethics": 1,
+    "Credit-Claiming": 1,
+    "Animal Welfare": 1,
     "Voting Record": 1,
     "Oversight": 1,
     "Defense": 1,
@@ -52,9 +55,65 @@
     "2026-02": 28,
     "2026-03": 15,
     "2026-04": 10,
-    "2026-05": 1
+    "2026-05": 9
   },
   "entries": [
+    {
+      "title": "Federal Funding: Four Announcements in One Week, Zero Earmarks \u2014 A Credit-Claiming Pattern",
+      "date": "2026-05-20",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Other",
+      "url": "/fact-checks/2026-05-20-federal-grants-credit-claiming-may2026/"
+    },
+    {
+      "title": "Prison Safety: Langworthy Blames HALT Act for Collins Attacks \u2014 The Data Points the Other Way",
+      "date": "2026-05-20",
+      "verdict": "MISLEADING",
+      "topic": "Other",
+      "url": "/fact-checks/2026-05-20-halt-act-collins-causal-claim/"
+    },
+    {
+      "title": "Medicaid: 'I'll Keep Working to Protect Critical Support Systems' \u2014 After Voting for $840 Billion in Cuts",
+      "date": "2026-05-18",
+      "verdict": "CONTRADICTION",
+      "topic": "Other",
+      "url": "/fact-checks/2026-05-18-aapd-medicaid-disability-contradiction/"
+    },
+    {
+      "title": "Infrastructure: Keynoting a High-Speed Rail Conference While His Party Cuts Amtrak",
+      "date": "2026-05-14",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Other",
+      "url": "/fact-checks/2026-05-14-high-speed-rail-infrastructure-missing-context/"
+    },
+    {
+      "title": "$4.2M for Two Helicopters? The Helicopters Were Already Delivered \u2014 and the Other Funders Aren't in the Post.",
+      "date": "2026-05-06",
+      "verdict": "MISLEADING",
+      "topic": "Credit-Claiming",
+      "url": "/fact-checks/2026-05-06-helicopter-funding-credit-claim/"
+    },
+    {
+      "title": "The Ridglan Beagle Settlement Was Reached in October 2025. His Letter Came in April 2026.",
+      "date": "2026-05-05",
+      "verdict": "MISLEADING",
+      "topic": "Animal Welfare",
+      "url": "/fact-checks/2026-05-05-ridglan-beagles-credit-claim/"
+    },
+    {
+      "title": "15 Sponsored Trips on the Office Record. 1 Reaches the Personal Financial Disclosure.",
+      "date": "2026-05-04",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Transparency",
+      "url": "/fact-checks/2026-05-04-disclosure-asymmetry-schedule-h-vs-gift-travel/"
+    },
+    {
+      "title": "Sugar Industry Pays for Congressional Trips to 'Build a Bench of Loyal Allies' \u2014 Langworthy's Office Took One",
+      "date": "2026-05-04",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Ethics",
+      "url": "/fact-checks/2026-05-04-sugar-industry-trips-howard-center/"
+    },
     {
       "title": "Telephone Town Halls: Same-Day Notice, Recurring Postponements, Selective Recordings",
       "date": "2026-05-02",
