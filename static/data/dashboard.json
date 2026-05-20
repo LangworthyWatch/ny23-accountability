@@ -1,12 +1,12 @@
 {
-  "generated": "2026-05-01",
-  "total": 83,
+  "generated": "2026-05-02",
+  "total": 84,
   "top_verdict": "MISLEADING",
   "verdicts": {
     "MISLEADING": 20,
     "MISSING CONTEXT": 18,
+    "DOCUMENTED PATTERN": 12,
     "CONTRADICTION": 12,
-    "DOCUMENTED PATTERN": 11,
     "FALSE": 9,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
@@ -20,9 +20,9 @@
     "Economy": 9,
     "Healthcare": 9,
     "Immigration": 6,
+    "Transparency": 5,
     "Local Impact": 5,
     "Energy": 4,
-    "Transparency": 4,
     "Infrastructure": 4,
     "Agriculture": 3,
     "Campaign Finance": 3,
@@ -51,9 +51,17 @@
     "2026-01": 8,
     "2026-02": 28,
     "2026-03": 15,
-    "2026-04": 10
+    "2026-04": 10,
+    "2026-05": 1
   },
   "entries": [
+    {
+      "title": "Telephone Town Halls: Same-Day Notice, Recurring Postponements, Selective Recordings",
+      "date": "2026-05-02",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Transparency",
+      "url": "/fact-checks/2026-05-02-tele-town-hall-pattern/"
+    },
     {
       "title": "\\\"Big Brother Has No Place Spying on You\\\" \u2014 Posted While Voting to Extend Warrantless Surveillance",
       "date": "2026-04-30",
