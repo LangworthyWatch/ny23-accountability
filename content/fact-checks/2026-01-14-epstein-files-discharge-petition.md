@@ -180,4 +180,29 @@ There are three parts to this story:
 
 The pattern: Langworthy voted YES when it was safe, cited his committee work to avoid the petition, and then did not show up when the committee questioned Epstein's most prominent financial patron.
 
-*Last updated: February 25, 2026*
+*Last updated: May 22, 2026*
+
+---
+
+## Update: May 12, 2026 — Democrats Hold Survivor Hearing Because Republicans Won't
+
+On May 12, 2026 — nearly three months after Langworthy skipped the Wexner deposition — House Oversight Democrats organized a field hearing in West Palm Beach, Florida, titled *"Survivors Fight for Justice: Exposing Epstein's Crimes in Palm Beach and Across the World."* Epstein survivors testified under oath.
+
+**Key facts:**
+
+- The hearing was organized by **Ranking Member Robert Garcia** and House Oversight Democrats — a minority-party "shadow hearing," not an official bipartisan committee hearing
+- Republicans on the committee were not invited, because **the Republican majority has not scheduled a single official hearing with Epstein survivors**
+- Langworthy did not attend — but as a Republican member, he was not invited to a Democratic minority hearing
+
+**What this adds to the pattern:**
+
+Langworthy told constituents in October 2025 that he didn't need to sign the discharge petition because he was "working with my House Oversight Committee colleagues to conduct the most comprehensive investigation to date." By May 2026:
+
+| Oversight Action | Republican Attendance |
+|---|---|
+| Les Wexner deposition (Feb 18, 2026) | Zero Republican members |
+| Survivor field hearing (May 12, 2026) | Democrats only — Republicans declined to schedule officially |
+
+The claim that the Republican Oversight Committee majority is conducting "the most comprehensive investigation to date" is difficult to square with a record that includes zero official hearings with survivors and zero Republican attendance at the Wexner deposition.
+
+**Note on framing:** Social media posts suggesting Langworthy "skipped" the May 12 hearing are not fully accurate — it was a Democratic minority hearing and Republicans were not invited. The more accurate story is that the Republican majority controls the committee and has not convened official survivor hearings. Democrats organized their own because Republicans would not.
