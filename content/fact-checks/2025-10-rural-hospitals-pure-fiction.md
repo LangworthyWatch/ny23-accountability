@@ -16,7 +16,7 @@ counties: ["chautauqua", "cattaraugus", "allegany", "chemung", "schuyler", "steu
 
 In NY-23, the nearest hospital isn't a convenience — it's the margin between life and death. When Arnot-Ogden in Elmira employs 2,200 people in a county where good jobs are scarce, and Cuba Memorial in Allegany County has 100 employees with no alternatives nearby, hospital closures don't just affect patients. They collapse local economies.
 
-Langworthy called concerns about rural hospital closures "pure fiction." New York leads the nation in at-risk rural hospitals, and six facilities in his own district are operating at deeply negative margins.
+Langworthy called concerns about rural hospital closures "pure fiction." According to the Fiscal Policy Institute (July 2025), **8 hospitals in NY-23 are at risk of closure — the most of any congressional district in New York State.** 8 of the district's 12 hospitals rely heavily on Medicaid. New York leads the nation in at-risk rural hospitals. As of May 2026, while Langworthy posted a dozen times about freeing beagles in Wisconsin, he posted nothing publicly about the hospital closure risk in his own district.
 
 ---
 

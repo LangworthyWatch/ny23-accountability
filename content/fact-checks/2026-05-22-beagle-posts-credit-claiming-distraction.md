@@ -73,6 +73,9 @@ The One Big Beautiful Bill Act that Langworthy voted for cuts SNAP by $186 billi
 ### NY-23 farmers (OBBBA farm provisions)
 Only about 20% of New York farms qualify for the ARC/PLC commodity support programs that OBBBA expands. Most NY-23 farms — including the grape belt in Chautauqua County and the dairy and specialty crop operations across the Southern Tier — will not benefit from the farm bill provisions in OBBBA, while facing the law's SNAP cuts that reduce food bank demand for local produce. **No Langworthy posts on this.**
 
+### Hospital closures (ongoing)
+NY-23 has **8 hospitals at risk of closure** — the most of any congressional district in New York State, according to the Fiscal Policy Institute. 8 of the district's 12 hospitals rely heavily on Medicaid funding. UPMC Chautauqua at WCA had a -17.4% operating margin with 37% of revenue from Medicaid. Westfield Memorial transitioned to a Rural Emergency Hospital — losing inpatient capacity — after Langworthy called closure warnings "pure fiction." The OBBBA Medicaid cuts he voted for are the primary driver of the financial pressure these hospitals now face. **No recent Langworthy posts acknowledging the 8-hospital at-risk figure or the Medicaid connection.** (See also: [Rural Hospitals: Calling Closure Warnings 'Pure Fiction'](/fact-checks/2025-10-rural-hospitals-pure-fiction/))
+
 ### Epstein survivors (May 12, 2026)
 House Oversight Democrats organized a field hearing in West Palm Beach because the Republican majority — on which Langworthy serves — has not scheduled official survivor hearings. Langworthy had told constituents his Oversight Committee work made the discharge petition unnecessary. **No Langworthy posts about the survivor hearing or committee inaction.**
 
