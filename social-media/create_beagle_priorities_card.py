@@ -43,18 +43,16 @@ draw = ImageDraw.Draw(img)
 draw.rectangle([(0, 0), (WIDTH, 48)], fill=NAVY)
 draw.text((WIDTH//2, 24), "LANGWORTHYWATCH.ORG", fill=WHITE, font=f_brand, anchor="mm")
 
-y = 62
+y = 68
 
-# ── Verdict badge ──
-tag = "DOCUMENTED PATTERN"
-tb = draw.textbbox((0, 0), tag, font=f_tag)
-tw, th = tb[2]-tb[0]+24, tb[3]-tb[1]+12
-draw.rounded_rectangle([((WIDTH-tw)//2, y), ((WIDTH+tw)//2, y+th)], radius=5, fill=PURPLE)
-draw.text((WIDTH//2, y+th//2), tag, fill=WHITE, font=f_tag, anchor="mm")
-y += th + 10
+# ── Verdict badge — full-width strip ──
+strip_h = 44
+draw.rectangle([(0, y), (WIDTH, y + strip_h)], fill=PURPLE)
+draw.text((WIDTH//2, y + strip_h//2), "DOCUMENTED PATTERN", fill=WHITE, font=f_tag, anchor="mm")
+y += strip_h + 16
 
 draw.text((WIDTH//2, y), "May 2026 — What He Posted About", fill=NAVY, font=f_topic, anchor="mm")
-y += 42
+y += 46
 draw.line([(60, y), (WIDTH-60, y)], fill=BORDER, width=2)
 y += 18
 
@@ -65,18 +63,20 @@ lx    = 32
 rx    = lx + col_w + gap
 
 # LEFT — beagles
-col_h = 420
+col_h = 490
 draw.rounded_rectangle([(lx, y), (lx+col_w, y+col_h)], radius=10,
                         fill="#EBF8F0", outline="#9AE6B4", width=3)
 draw.text((lx+col_w//2, y+20), "Wisconsin Beagles", fill=GREEN,
           font=font("Arial Bold.ttf", 24), anchor="mm")
 draw.line([(lx+20, y+46), (lx+col_w-20, y+46)], fill="#9AE6B4", width=1)
-draw.text((lx+col_w//2, y+150), "17", fill=GREEN, font=f_big, anchor="mm")
-draw.text((lx+col_w//2, y+292), "posts since May 1", fill=GREEN,
-          font=font("Arial Bold.ttf", 28), anchor="mm")
-draw.text((lx+col_w//2, y+330), "A Wisconsin facility.", fill=MUTED, font=f_sub, anchor="mm")
-draw.text((lx+col_w//2, y+356), "Not in his district.", fill=MUTED, font=f_sub, anchor="mm")
-draw.text((lx+col_w//2, y+382), "He didn't free them.", fill=MUTED, font=f_sub, anchor="mm")
+draw.text((lx+col_w//2, y+165), "17", fill=GREEN, font=f_big, anchor="mm")
+draw.text((lx+col_w//2, y+316), "posts since May 1", fill=GREEN,
+          font=font("Arial Bold.ttf", 30), anchor="mm")
+draw.text((lx+col_w//2, y+360), "A Wisconsin facility.", fill=MUTED, font=f_sub, anchor="mm")
+draw.text((lx+col_w//2, y+388), "Not in his district.", fill=MUTED, font=f_sub, anchor="mm")
+draw.text((lx+col_w//2, y+416), "He didn't free them.", fill=MUTED, font=f_sub, anchor="mm")
+draw.text((lx+col_w//2, y+454), "He wrote a letter. After.", fill=MUTED,
+          font=font("Arial Bold.ttf", 19), anchor="mm")
 
 # RIGHT — district issues
 draw.rounded_rectangle([(rx, y), (rx+col_w, y+col_h)], radius=10,
@@ -84,12 +84,14 @@ draw.rounded_rectangle([(rx, y), (rx+col_w, y+col_h)], radius=10,
 draw.text((rx+col_w//2, y+20), "His District", fill=RED,
           font=font("Arial Bold.ttf", 24), anchor="mm")
 draw.line([(rx+20, y+46), (rx+col_w-20, y+46)], fill="#FEB2B2", width=1)
-draw.text((rx+col_w//2, y+150), "0", fill=RED, font=f_big2, anchor="mm")
-draw.text((rx+col_w//2, y+292), "posts about:", fill=RED,
-          font=font("Arial Bold.ttf", 28), anchor="mm")
-draw.text((rx+col_w//2, y+330), "8 hospitals at risk of closing", fill=DARK, font=f_sub, anchor="mm")
-draw.text((rx+col_w//2, y+356), "Most of any NY district", fill=MUTED, font=font("Arial.ttf", 18), anchor="mm")
-draw.text((rx+col_w//2, y+382), "$840B Medicaid cuts he voted for", fill=DARK, font=font("Arial.ttf", 18), anchor="mm")
+draw.text((rx+col_w//2, y+165), "0", fill=RED, font=f_big2, anchor="mm")
+draw.text((rx+col_w//2, y+316), "posts about:", fill=RED,
+          font=font("Arial Bold.ttf", 30), anchor="mm")
+draw.text((rx+col_w//2, y+356), "8 hospitals at risk of closing", fill=DARK, font=f_sub, anchor="mm")
+draw.text((rx+col_w//2, y+382), "Most of any NY district", fill=MUTED, font=font("Arial.ttf", 18), anchor="mm")
+draw.text((rx+col_w//2, y+414), "$840B Medicaid cuts he voted for", fill=DARK, font=f_sub, anchor="mm")
+draw.text((rx+col_w//2, y+450), "400K disabled losing SSI payments", fill=DARK,
+          font=font("Arial.ttf", 18), anchor="mm")
 
 y += col_h + 16
 
