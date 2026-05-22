@@ -1,11 +1,11 @@
 {
   "generated": "2026-05-22",
-  "total": 92,
+  "total": 93,
   "top_verdict": "MISLEADING",
   "verdicts": {
     "MISLEADING": 23,
     "MISSING CONTEXT": 20,
-    "DOCUMENTED PATTERN": 14,
+    "DOCUMENTED PATTERN": 15,
     "CONTRADICTION": 13,
     "FALSE": 9,
     "MULTIPLE": 3,
@@ -21,8 +21,8 @@
     "Healthcare": 9,
     "Transparency": 6,
     "Immigration": 6,
+    "Other": 5,
     "Local Impact": 5,
-    "Other": 4,
     "Energy": 4,
     "Infrastructure": 4,
     "Agriculture": 3,
@@ -55,9 +55,16 @@
     "2026-02": 28,
     "2026-03": 15,
     "2026-04": 10,
-    "2026-05": 9
+    "2026-05": 10
   },
   "entries": [
+    {
+      "title": "Priorities: A Dozen Posts About Beagles He Didn't Free. Zero About the Cuts Hitting His District.",
+      "date": "2026-05-22",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Other",
+      "url": "/fact-checks/2026-05-22-beagle-posts-credit-claiming-distraction/"
+    },
     {
       "title": "Federal Funding: Four Announcements in One Week, Zero Earmarks \u2014 A Credit-Claiming Pattern",
       "date": "2026-05-20",

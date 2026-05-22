@@ -1,0 +1,114 @@
+---
+title: "Priorities: A Dozen Posts About Beagles He Didn't Free. Zero About the Cuts Hitting His District."
+date: 2026-05-22
+categories:
+  - "Government Transparency / Priorities"
+verdict: "DOCUMENTED PATTERN"
+source: "Multiple Facebook Posts, May 3–22, 2026"
+reported_by: "Wellsville Sun, WGRZ, Gateway Pundit, Lancaster Bee"
+county:
+  - "District-wide"
+  - "Chautauqua"
+  - "Allegany"
+  - "Cattaraugus"
+tags:
+  - "Accountability & Governance"
+slug: "2026-05-22-beagle-posts-credit-claiming-distraction"
+---
+
+## Overview
+
+Between May 3 and May 22, 2026, Congressman Langworthy published at least a dozen Facebook posts, constituent surveys, and press releases about the release of beagles from Ridglan Farms, a Wisconsin research breeding facility. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He called it a "quest."
+
+In the same three-week window, he posted nothing about:
+
+- A proposed Trump administration rule that would cut SSI checks by up to **$330/month** for 400,000 disabled Americans who live at home with family — reported April 29, 2026
+- **$840 billion** in Medicaid cuts he voted for, currently reducing home care access for disabled NY-23 residents
+- **$186 billion** in SNAP cuts he voted for in the One Big Beautiful Bill Act — directly hitting food banks, school meal programs, and rural families in Chautauqua, Allegany, and Cattaraugus counties
+- The Democratic minority's Epstein survivor hearing (May 12) — which Democrats had to organize themselves because the Republican Oversight Committee majority, on which he sits, has not scheduled official survivor hearings
+
+---
+
+## The Beagle Posts — What He Said
+
+| Date | Post |
+|------|------|
+| May 3, 2026 | "Congressman Langworthy Hails Release of 1,500 Beagles from Heinous Animal Abuse Following Letter to HHS Secretary" |
+| May 12, 2026 | "Congressman Langworthy continues quest to empty out animal medical research labs" |
+| May 20, 2026 | "Save the Beagles." (photo holding beagle) — Wellsville Sun: "Ridglan Farms was just the beginning. We won't stop until all dogs and cats are protected." |
+| May 21, 2026 | Press release: "Langworthy Pushes to End Federal Funding for Breeding Dogs and Cats for Research Experimentation" |
+| May 22, 2026 | Constituent survey: "Should Congress stop funding testing on cats and dogs?" |
+| May 22, 2026 | Facebook post: "I am fighting to end taxpayer-funded breeding and experimentation on dogs and cats. Full stop." |
+
+The posts consistently imply that Langworthy's actions drove the beagle release. The May 3 headline specifically credits his "letter to HHS Secretary."
+
+---
+
+## Who Actually Freed the Ridglan Beagles
+
+The 1,500 beagles began leaving Ridglan Farms on May 1, 2026. Here is the documented chain of events:
+
+1. **Animal rights activists** — Wayne Hsiung and local groups Dane4Dogs and Alliance for Animals filed criminal complaints and organized sustained pressure after the Dane County DA declined to prosecute
+2. **Court-appointed special prosecutor** — La Crosse County DA Tim Gruenke was appointed in February 2026 to investigate and prosecute Ridglan for felony animal cruelty
+3. **Wisconsin criminal deal** — Ridglan agreed in October 2025 to surrender its state breeding license by July 1 in exchange for avoiding felony prosecution
+4. **Center for a Humane Economy + Big Dog Ranch Rescue** — privately negotiated and purchased the 1,500 dogs; the deal was announced late April 2026
+
+**Langworthy's contribution:** A letter to RFK Jr. and NIH Director Bhattacharya urging them to cut NIH funding from Ridglan-sourced research — sent after the purchase deal was announced. NIH told Fox News directly: *"Ridglan Farms is a commercial dog breeder, not a research facility, and it does not receive NIH grants or funding."* His letter targeted a funding stream that did not exist. His current FY2027 appropriations request has not passed Congress.
+
+The beagles were freed by activists who faced criminal charges, a Wisconsin special prosecutor, and two nonprofit organizations that paid for them. Langworthy wrote a letter after it was over.
+
+---
+
+## What Was Happening While He Stayed Quiet
+
+### The SSI bedroom rule (April 29, 2026 — ProPublica)
+The Trump administration proposed cutting SSI checks for disabled adults living at home with family — deducting the imputed value of their bedroom even if the family qualifies for food stamps. Up to $330/month for 400,000 people. **No Langworthy post.**
+
+### Medicaid (July 2025 — still in effect)
+He voted YEA on Roll Call 190, cutting Medicaid by $840 billion — directly reducing home-based services for disabled NY-23 residents. **No new Langworthy post acknowledging the impact.** (He did meet with AAPD on May 18 and pledged to "protect critical support systems" — see related entry.)
+
+### SNAP / food security (OBBBA, enacted July 2025)
+The One Big Beautiful Bill Act that Langworthy voted for cuts SNAP by $186 billion over ten years. In New York, this threatens $340 million in school meal programs, $57.8 million for food pantries and soup kitchens, and $55 million for Nourish NY — a program connecting NY farms to food banks. Chautauqua, Allegany, and Cattaraugus counties have high rates of food insecurity and rural poverty. **No Langworthy posts on SNAP impact in his district.**
+
+### NY-23 farmers (OBBBA farm provisions)
+Only about 20% of New York farms qualify for the ARC/PLC commodity support programs that OBBBA expands. Most NY-23 farms — including the grape belt in Chautauqua County and the dairy and specialty crop operations across the Southern Tier — will not benefit from the farm bill provisions in OBBBA, while facing the law's SNAP cuts that reduce food bank demand for local produce. **No Langworthy posts on this.**
+
+### Epstein survivors (May 12, 2026)
+House Oversight Democrats organized a field hearing in West Palm Beach because the Republican majority — on which Langworthy serves — has not scheduled official survivor hearings. Langworthy had told constituents his Oversight Committee work made the discharge petition unnecessary. **No Langworthy posts about the survivor hearing or committee inaction.**
+
+---
+
+## Why the Pattern Matters
+
+Beagles are a uniquely high-engagement, low-political-risk issue. Animal welfare draws cross-partisan support — conservatives, progressives, and independents all respond to images of dogs being rescued. It generates likes and shares. It carries no political cost.
+
+The SSI bedroom rule, Medicaid cuts, SNAP reductions, and farm bill impacts are the inverse: low engagement, high political cost. They require acknowledging votes he cast. They involve constituents who are less visible on social media than beagle rescue fans.
+
+The documented pattern is not that Langworthy's support for ending beagle testing is insincere. The pattern is the ratio: a dozen posts celebrating an animal rescue he didn't lead, while the policies he voted for are cutting food assistance, disability support, and healthcare for the rural, low-income, and disabled residents of NY-23 — and he has posted nothing about those impacts.
+
+---
+
+## Assessment
+
+**Verdict: DOCUMENTED PATTERN**
+
+Between May 3 and May 22, 2026, Langworthy published at least a dozen posts taking credit for the Ridglan Farms beagle release — an outcome achieved by Wisconsin prosecutors, animal rights activists, and two nonprofit organizations, not by his letter to an agency that didn't fund the facility. In the same period he posted nothing about the SSI bedroom rule (threatening $330/month cuts to 400,000 disabled people), the Medicaid reductions from his own vote, SNAP cuts hitting NY-23 food banks, or the Republican Oversight Committee's failure to hold official Epstein survivor hearings. The beagle campaign is a textbook example of flooding a social media feed with popular, low-cost advocacy while staying silent on politically costly policy consequences.
+
+---
+
+## Sources
+
+1. [Wellsville Sun: Langworthy Hails Release of 1,500 Beagles Following Letter to HHS](https://wellsvillesun.com/blog/2026/05/03/congressman-langworthy-hails-release-of-1500-beagles-from-heinous-animal-abuse-following-letter-to-hhs-secretary/) — archive pending
+2. [Wisconsin Examiner: 1,500 Ridglan beagles purchased by animal welfare groups](https://wisconsinexaminer.com/2026/05/01/1500-ridglan-beagles-purchased-by-animal-welfare-groups-lead-activist-in-court/) — archive pending
+3. [PBS NewsHour: 1,500 beagles will find new homes after release from research facility](https://www.pbs.org/newshour/nation/1500-beagles-will-find-new-homes-after-release-from-research-facility) — archive pending
+4. [Fox News: NIH statement — "Ridglan Farms does not receive NIH grants or funding"](https://www.foxnews.com/us/ridglan-farms-beagles-begin-leaving-wisconsin-facility-rescue-groups-strike-deal-release) — archive pending
+5. [ProPublica: Trump SSI Rule Change Targets Disabled Adults Who Live With Families](https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children) — archive pending
+6. [NOFA-NY: The One Big Beautiful Bill — A Setback for Sustainable Farming in New York](https://nofany.org/policy-news/the-one-big-beautiful-bill-a-setback-for-sustainable-farming-and-food-justice-in-new-york/) — archive pending
+7. [CBO: Estimated Budgetary Effects of H.R. 1](https://www.cbo.gov/publication/61461) — archive pending
+
+## Related Entries
+
+- [Disability: 'I'll Keep Working to Protect Critical Support Systems'](/fact-checks/2026-05-18-aapd-medicaid-disability-contradiction/)
+- [Federal Funding: Four Announcements in One Week, Zero Earmarks](/fact-checks/2026-05-20-federal-grants-credit-claiming-may2026/)
+- [Feedmore Earmark vs. Cuts](/fact-checks/2026-04-30-feedmore-earmark-vs-cuts/)
+- [Epstein Files: 'Proudly Supported' Transparency](/fact-checks/2026-01-14-epstein-files-discharge-petition/)
