@@ -4,8 +4,8 @@ date: 2026-05-20
 categories:
   - "Criminal Justice / Public Safety"
 verdict: "MISLEADING"
-source: "Facebook Post, May 20, 2026"
-reported_by: "Buffalo News"
+source: "Facebook Posts, May 19–20, 2026"
+reported_by: "Buffalo News, Finger Lakes Daily News"
 county:
   - "Erie"
 tags:
@@ -13,14 +13,19 @@ tags:
 slug: "2026-05-20-halt-act-collins-causal-claim"
 ---
 
-## Statement
+## Statements
 
-**Source:** Facebook Post, May 20, 2026
-**Reported by:** Langworthy Facebook page; graphic sourced from Buffalo News
+Langworthy made the same causal claim in two posts on consecutive days.
+
+**Post 1 — May 19, 2026** (graphic sourced from Buffalo News)
 
 > "The attack at Collins Correctional is the result of Kathy Hochul and Albany Democrats' reckless, soft on crime policies like the HALT Act. They empowered violent criminals, stripped officers of control, and created chaos inside prisons. Repeal HALT before more officers get hurt."
 
-The Buffalo News reported eight Collins Correctional guards were injured — one hospitalized — in two altercations with inmates. A pull quote in Langworthy's graphic attributes the violence to the HALT Act based on union officials' statements.
+**Post 2 — May 20, 2026** (graphic sourced from Finger Lakes Daily News)
+
+> "Enough is enough. Eight Correction Officers injured because radical Albany politicians coddle violent criminals instead of protecting the men and women keeping our prisons safe. Repeal the disastrous HALT Act and stand with law enforcement before more lives are destroyed."
+
+The Buffalo News reported eight Collins Correctional guards were injured — one hospitalized — in two altercations with inmates. A pull quote in Langworthy's May 19 graphic attributes the violence to the HALT Act based on union officials' statements. His May 20 post repeats the same attribution using a Finger Lakes Daily News graphic of the Collins facility sign.
 
 ## What the HALT Act Actually Does
 
@@ -54,10 +59,11 @@ Langworthy's post asserts the Collins attack "is the result of" the HALT Act —
 
 ## Sources
 
-1. [NY Senate: HALT Solitary Confinement Act — passage and provisions](https://www.nysenate.gov/newsroom/press-releases/2021/senate-passes-halt-solitary-confinement-act) — nysenate.gov — archive pending
-2. [NYSBA: Impact of The HALT Act on Solitary Confinement in New York State](https://nysba.org/the-halt-act-and-solitary-confinement-in-new-york-state/) — nysba.org — archive pending
-3. [Prison Policy Initiative: Rolling Back Solitary Confinement Reforms Won't Make Prisons Safer](https://www.prisonpolicy.org/blog/2025/04/11/halt_rollback/) — prisonpolicy.org — archive pending
-4. Buffalo News: Eight Collins guards injured in two altercations — archive pending
+1. [NY Senate: HALT Solitary Confinement Act — passage and provisions](https://www.nysenate.gov/newsroom/press-releases/2021/senate-passes-halt-solitary-confinement-act) — archive pending
+2. [NYSBA: Impact of The HALT Act on Solitary Confinement in New York State](https://nysba.org/the-halt-act-and-solitary-confinement-in-new-york-state/) — archive pending
+3. [Prison Policy Initiative: Rolling Back Solitary Confinement Reforms Won't Make Prisons Safer](https://www.prisonpolicy.org/blog/2025/04/11/halt_rollback/) — archive pending
+4. Buffalo News: Eight Collins guards injured, one hospitalized in two altercations with inmates — May 19, 2026 — archive pending
+5. Finger Lakes Daily News: Rep. Langworthy Speaks Out on Attacks on COs in Erie County — May 20, 2026 — archive pending
 
 ## Related Entries
 
