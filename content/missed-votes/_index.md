@@ -7,17 +7,17 @@ description: "Tracking Rep. Langworthy's voting attendance record in Congress"
 
 ## Voting Attendance Record
 
-**Period:** January 3, 2023 – December 2025 *(data current through December 2025; 2026 figures pending data refresh — see GovTrack for current totals)*
+**Period:** January 3, 2023 – May 23, 2026 *(data current through May 23, 2026)*
 
-**Total Roll Call Votes:** 1,603 *(as of December 2025)*
-**Missed Votes:** 62
-**Missed Vote Rate:** 3.9%
+**Total Roll Call Votes:** 1,794
+**Missed Votes:** 66
+**Missed Vote Rate:** 3.7%
 
 ---
 
 ## Context
 
-Rep. Langworthy's missed vote rate of **3.9%** is **worse than the median of 2.0%** among currently serving representatives.
+Rep. Langworthy's missed vote rate of **3.7%** is **worse than the median of 2.0%** among currently serving representatives.
 
 We document missed votes as a matter of public record but do not speculate on reasons. Common reasons for missed votes include:
 - Medical absences or family emergencies
@@ -43,8 +43,8 @@ We document missed votes as a matter of public record but do not speculate on re
 | Apr 2025 - Jun 2025 | 2 | 163 | 1.2% | 35th |
 | Jul 2025 - Sep 2025 | 1 | 83 | 1.2% | 50th |
 | Oct 2025 - Dec 2025 | 0 | 45 | 0.0% | 0th |
-| Jan 2026 - Feb 2026 | 0 | 10 | 0.0% | 0th |
-| Mar 2026 | — | — | — | — |
+| Jan 2026 - Mar 2026 | 3 | 108 | 2.8% | — |
+| Apr 2026 - May 2026 | 1 | 83 | 1.2% | — |
 
 **Percentile explanation:** 0th = best attendance, 100th = worst attendance
 
@@ -59,7 +59,7 @@ During **April-June 2024**, Langworthy missed **15.2%** of votes - placing him i
 The **Jul-Dec 2024** period showed elevated absences (8.2-8.9%), coinciding with the general election campaign.
 
 ### 2025-2026 Improvement
-Attendance improved significantly in 2025-2026, with only 10 missed votes out of 535 total (1.9%).
+Attendance improved significantly in 2025-2026, with 14 missed votes out of 716 total (2.0%) — near the House median. The four 2026 absences were: H.R. 5184 (Affordable HOMES Act, Jan 9), two veterans benefits bills on Feb 2, and S. 1318 (Fallen Servicemembers Religious Heritage Restoration Act, Apr 29).
 
 ---
 
@@ -69,16 +69,16 @@ Each missed vote means constituents of NY-23 had no representation on that issue
 
 **For comparison:**
 - **House median:** 2.0% missed votes
-- **Langworthy:** 3.9% missed votes
+- **Langworthy:** 3.7% missed votes
 - **Difference:** Nearly 2x the median
 
 ---
 
 ## Data Source
 
-Vote attendance data compiled from [GovTrack](https://www.govtrack.us/congress/members/nick_langworthy/456858) and [Congress.gov](https://www.congress.gov/member/nicholas-langworthy/L000600) official roll call records.
+Vote attendance data compiled from [GovTrack](https://www.govtrack.us/congress/members/nick_langworthy/456927) and [Congress.gov](https://www.congress.gov/member/nicholas-langworthy/L000600) official roll call records.
 
-**Data current through:** December 22, 2025. For current figures, check [GovTrack](https://www.govtrack.us/congress/members/nick_langworthy/456858) directly.
+**Data current through:** May 23, 2026. For current figures, check [GovTrack](https://www.govtrack.us/congress/members/nicholas_langworthy/456927) directly.
 
 ---
 
@@ -86,7 +86,7 @@ Vote attendance data compiled from [GovTrack](https://www.govtrack.us/congress/m
 
 View the complete list of missed votes:
 
-- **[GovTrack - Missed Votes Analysis](https://www.govtrack.us/congress/members/nick_langworthy/456858)**
+- **[GovTrack - Missed Votes Analysis](https://www.govtrack.us/congress/members/nicholas_langworthy/456927)**
 - **[Congress.gov - All Votes (filter by "Not Voting")](https://www.congress.gov/member/nicholas-langworthy/L000600/all-votes)**
 
-*Note: Statistics on this page are based on data through December 22, 2025. For the most current information, check sources directly.*
+*Note: Statistics on this page are based on data through May 23, 2026. For the most current information, check sources directly.*
