@@ -17,9 +17,13 @@ slug: "2026-05-20-halt-act-collins-causal-claim"
 
 Langworthy made the same causal claim in two posts on consecutive days.
 
+{{< figure src="/images/fact-checks/2026-05-19-halt-act-collins-buffalo-news-fb-post.png" alt="Langworthy Facebook post May 19 blaming HALT Act for Collins Correctional attacks, sharing Buffalo News graphic" caption="Source: Congressman Nick Langworthy Facebook, May 19, 2026" >}}
+
 **Post 1 — May 19, 2026** (graphic sourced from Buffalo News)
 
 > "The attack at Collins Correctional is the result of Kathy Hochul and Albany Democrats' reckless, soft on crime policies like the HALT Act. They empowered violent criminals, stripped officers of control, and created chaos inside prisons. Repeal HALT before more officers get hurt."
+
+{{< figure src="/images/fact-checks/2026-05-20-halt-act-collins-fldailynews-fb-post.png" alt="Langworthy Facebook post May 20 demanding HALT Act repeal after Collins Correctional officer injuries, sharing Finger Lakes Daily News graphic" caption="Source: Congressman Nick Langworthy Facebook, May 20, 2026" >}}
 
 **Post 2 — May 20, 2026** (graphic sourced from Finger Lakes Daily News)
 

@@ -26,6 +26,8 @@ Construction is a significant employer across NY-23's rural and small-city econo
 **Source:** Facebook Post, May 20, 2026
 **Reported by:** Washington Examiner
 
+{{< figure src="/images/fact-checks/2026-05-20-scaffold-law-fb-post.png" alt="Langworthy Facebook post sharing Washington Examiner op-ed about the Infrastructure Expansion Act and NY Scaffold Law preemption" caption="Source: Congressman Nick Langworthy Facebook, May 20, 2026" >}}
+
 Langworthy shared a Washington Examiner op-ed with the pull quote:
 
 > "A promising solution is on the table, and Congress has an immediate way to act. Congressman Nick Langworthy's (R-NY) Infrastructure Expansion Act would introduce sanity by applying preemption to any project in New York that received federal funding. In other words, when Washington is paying the bill, New York's outdated absolute liability standard would not apply."

@@ -33,6 +33,8 @@ Between May 13 and May 20, 2026, Langworthy published four Facebook posts claimi
 
 ### Instance 2 — May 20, 2026: $7.7 million, early childhood education and behavioral health
 
+{{< figure src="/images/fact-checks/2026-05-19-grants-behavioral-health-fb-post.png" alt="Langworthy Facebook post May 19 announcing $7.7 million for early childhood education and behavioral health services" caption="Source: Congressman Nick Langworthy Facebook, May 19, 2026" >}}
+
 **Post:** "Every child deserves a strong start, and every family deserves access to mental health support. This $7.7 million investment for early childhood education and behavioral health services will help families across our 23rd Congressional District."
 
 **The grant:** Federal behavioral health and early childhood education funding through HHS/SAMHSA community grant programs. *(Program identification pending archival; award details in Spectrum News NY1 coverage.)*

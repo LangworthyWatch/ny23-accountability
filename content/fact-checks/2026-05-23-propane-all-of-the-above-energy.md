@@ -31,6 +31,8 @@ Propane is genuinely important infrastructure in rural NY-23. In areas without n
 
 > "Propane is a critically important lifeline for the taxpayers I represent. It keeps families warm, farms running, and small businesses alive. I'll always fight for an 'all-of-the-above' energy strategy that protects choice and keeps costs low for you."
 
+{{< figure src="/images/fact-checks/2026-05-23-propane-fb-post.png" alt="Langworthy Facebook post sharing Butane-Propane News feature calling propane a lifeline and pledging an all-of-the-above energy strategy" caption="Source: Congressman Nick Langworthy Facebook, May 23, 2026" >}}
+
 The post links to a Butane-Propane News feature quoting Langworthy calling propane "a lifeline for millions of Americans and businesses, particularly in rural communities like [his] district in western New York and the Southern Tier" and "the only option in many communities for reliable, affordable energy."
 
 ---
