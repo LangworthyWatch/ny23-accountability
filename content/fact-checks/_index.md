@@ -21,6 +21,13 @@ Each fact-check includes:
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
+| [Propane / "All-of-the-Above" Energy](/fact-checks/2026-05-23-propane-all-of-the-above-energy/) | "I'll always fight for an 'all-of-the-above' energy strategy that protects choice and keeps costs low" — voted NO on IRA ($391B in clean energy incl. rural solar/REAP), voted YES on OBBBA which repealed clean energy tax credits affecting 271+ rural projects | **MISSING CONTEXT** |
+| [Beagle Posts: Priorities](/fact-checks/2026-05-22-beagle-posts-credit-claiming-distraction/) | A dozen posts about beagles he didn't free; zero posts about SSI bedroom rule ($330/month cuts to 400K disabled), Medicaid reductions he voted for, $186B SNAP cuts, or Republican Oversight's failure to hold official Epstein survivor hearings | **DOCUMENTED PATTERN** |
+| [Scaffold Law / Infrastructure Expansion Act](/fact-checks/2026-05-20-scaffold-law-infrastructure-expansion-act/) | Bill framed as "saving tax dollars" by preempting NY's "outdated absolute liability standard" — omits that Labor Law §240 has protected construction workers from fall liability since 1885; construction unions oppose; bill not passed | **MISSING CONTEXT** |
+| [Federal Grants: $16.6M in One Week, Zero Earmarks](/fact-checks/2026-05-20-federal-grants-credit-claiming-may2026/) | Four posts in one week claiming personal credit for USDA water grant ($3.2M), FAA Airport Improvement Program ($5.7M Jamestown), HHS/SAMHSA behavioral health ($7.7M) — all automatic formula programs requiring no congressional direction | **DOCUMENTED PATTERN** |
+| [Prison Safety: HALT Act Blame](/fact-checks/2026-05-20-halt-act-collins-causal-claim/) | Two posts (May 19–20) claim Collins Correctional attacks "are the result of" the HALT Act — staff assaults were rising years before HALT existed; prisons were routinely violating the 15-day limit; research does not support the causal claim | **MISLEADING** |
+| [Disability: 'Protect Critical Support Systems'](/fact-checks/2026-05-18-aapd-medicaid-disability-contradiction/) | Pledged to "keep working to protect critical support systems" for disabled constituents on May 18 — same week the Trump administration proposed cutting SSI checks by up to $330/month for 400,000 disabled adults; his Medicaid vote already reduced home care access | **CONTRADICTION** |
+| [High-Speed Rail / Amtrak](/fact-checks/2026-05-14-high-speed-rail-infrastructure-missing-context/) | Keynoted a high-speed rail conference while his party's budget cuts Amtrak intercity rail funding — post does not mention the funding conflict | **MISSING CONTEXT** |
 | [Helicopter Funding Credit-Claim](/fact-checks/2026-05-06-helicopter-funding-credit-claim/) | "I'm proud to secure $4.2 MILLION for not one, but TWO helicopters" — federal $ is real but is essentially entirely for OUTFITTING equipment; the helicopter purchase was fully funded by $6.5M Erie County capital alone (exceeding the $6.3M remaining balance), with $1M state aid from Asm. Pat Burke (D) toward outfitting | **MISLEADING** |
 | [Ridglan Beagle Release Credit-Claim](/fact-checks/2026-05-05-ridglan-beagles-credit-claim/) | "I'm proud that our letter to Secretary Kennedy helped lead to this moment" — letter sent Apr 24, 2026; binding Wisconsin settlement that ended Ridglan's beagle-selling business was reached Oct 28, 2025 (178 days earlier) | **MISLEADING** |
 | [Sugar Industry Trips — Howard Center Local Angle](/fact-checks/2026-05-04-sugar-industry-trips-howard-center/) | Office took a Red River Valley Sugarbeet–sponsored trip to Fargo (Aug 27–29, 2024); RRVSEF Executive Director on record describing the trip program as "to build a new bench of loyal allies on Capitol Hill" (Howard Center / CNS Maryland investigation) | **DOCUMENTED PATTERN** |
@@ -208,7 +215,7 @@ Each fact-check includes:
 
 ## Documented Patterns
 
-Based on analysis of 70+ fact-checks, these patterns emerge:
+Based on analysis of 80+ fact-checks, these patterns emerge:
 
 ### Pattern 1: Create the Problem, Blame Someone Else
 - Votes for subsidy expiration (May 2025) → votes against restoring them (Jan 2026) → demands insurers explain premium increases (Jan 2026)
