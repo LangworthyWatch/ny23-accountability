@@ -45,16 +45,37 @@ TrumpRx.gov is not legislation. It does not involve a congressional vote. It is 
 
 These two figures describe **Round 2 of the Medicare Drug Price Negotiation Program**, created by **§11001 of the Inflation Reduction Act** (P.L. 117-169) and codified at Social Security Act §§ 1191–1198.
 
-- **15 drugs** were selected for Round 2 negotiation in 2025, including Ozempic, Rybelsus, Wegovy, and several oncology and cardiovascular drugs.
+- **15 drugs** were selected for Round 2 negotiation in 2025.
 - **CMS projects $12 billion in net savings** relative to 2024 prices across those 15 drugs.
-- The **average price reduction is 44%** ("Maximum Fair Price" vs. 2024 list price).
+- The **average price reduction is 44%** ("Maximum Fair Price" vs. 2024 list price); CMS estimates ~36% net of existing rebates.
 - **The negotiated prices take effect January 1, 2027** — not "already."
+- Approximately **1.8 million Medicare beneficiaries** are projected to be affected, with an estimated **$685 million** in Part D out-of-pocket savings in 2027 alone.
 
-For comparison, Round 1 covered 10 drugs and took effect January 1, 2026, producing approximately $6 billion in savings.
+### The 15 drugs (Maximum Fair Price effective January 1, 2027)
 
-*Sources: CMS press release, "CMS Delivers Savings for Seniors on 15 Major Drugs" (Nov. 2025); KFF, "Key Facts About Medicare Drug Price Negotiation"; Federal Register, "IRA Medicare Drug Price Negotiation Program Final Guidance" (Nov. 28, 2025).*
+| # | Brand | Manufacturer | Treats | List → MFP / 30-day | Discount |
+|---|-------|--------------|--------|---------------------|----------|
+| 1 | Ozempic / Rybelsus / Wegovy | Novo Nordisk | Type 2 diabetes / weight loss | $959 → $274 | **71%** |
+| 2 | Trelegy Ellipta | GSK | Asthma / COPD | $654 → $175 | 73% |
+| 3 | Breo Ellipta | GSK | Asthma / COPD | $397 → $67 | 83% |
+| 4 | Xtandi | Astellas / Pfizer | Prostate cancer | $13,480 → $7,004 | 48% |
+| 5 | Pomalyst | Bristol Myers Squibb | Multiple myeloma | $21,744 → $8,650 | 60% |
+| 6 | Ibrance | Pfizer | Breast cancer | $15,741 → $7,871 | 50% |
+| 7 | Calquence | AstraZeneca | Mantle-cell lymphoma / CLL | $14,228 → $8,600 | 40% |
+| 8 | Ofev | Boehringer Ingelheim | Idiopathic pulmonary fibrosis | $12,622 → $6,350 | 50% |
+| 9 | Linzess | AbbVie / Ironwood | IBS-C | $539 → $136 | 75% |
+| 10 | Xifaxan | Salix (Bausch Health) | IBS-D / hepatic encephalopathy | $2,696 → $1,000 | 63% |
+| 11 | Austedo / Austedo XR | Teva | Huntington's chorea / tardive dyskinesia | $6,623 → $4,093 | 38% |
+| 12 | Vraylar | AbbVie | Schizophrenia / bipolar / depression | $1,376 → $770 | 44% |
+| 13 | Otezla | Amgen | Psoriasis / psoriatic arthritis | $4,722 → $1,650 | 65% |
+| 14 | Tradjenta | Boehringer Ingelheim / Lilly | Type 2 diabetes | $488 → $78 | 84% |
+| 15 | Janumet / Janumet XR | Merck | Type 2 diabetes | $526 → $80 | 85% |
 
-**In plain language:** The $12 billion and 44% are real — and they come from the Inflation Reduction Act, a 2022 law every House Republican voted against. The savings on those 15 drugs do not begin until January 1, 2027 — about seven months from this post.
+For comparison, Round 1 covered 10 drugs and took effect **January 1, 2026**, producing approximately $6 billion in savings (~22% net).
+
+*Sources: CMS press release, "CMS Delivers Savings for Seniors on 15 Major Drugs for Cancer and Chronic Disease" (Nov. 25, 2025); CMS, "Selected Drugs and Negotiated Prices"; CMS Infographic, "Negotiated Prices IPAY 2027" (PDF); KFF, "Key Facts About Medicare Drug Price Negotiation"; Federal Register, "IRA Medicare Drug Price Negotiation Program Final Guidance" (Nov. 28, 2025).*
+
+**In plain language:** The $12 billion and 44% are real — and they come from the Inflation Reduction Act, a 2022 law every House Republican voted against. The savings on those 15 drugs do not begin until January 1, 2027 — about seven months from this post. Of particular note for an aging rural district like NY-23: three of the 15 drugs treat Type 2 diabetes (Ozempic/Wegovy, Tradjenta, Janumet), two are COPD/asthma inhalers (Trelegy, Breo), and three are major cancer treatments (Xtandi for prostate, Pomalyst for myeloma, Ibrance for breast).
 
 ---
 
@@ -123,6 +144,7 @@ A reader could reasonably conclude from the post that Langworthy or House Republ
 
 - CMS, "CMS Delivers Savings for Seniors on 15 Major Drugs," Nov. 2025: <https://www.cms.gov/newsroom/press-releases/cms-delivers-savings-seniors-15-major-drugs-cancer-chronic-disease>
 - CMS, "Selected Drugs and Negotiated Prices": <https://www.cms.gov/initiatives/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program/selected-drugs-negotiated-prices>
+- CMS Infographic, Negotiated Prices IPAY 2027 (PDF): <https://www.cms.gov/files/document/infographic-negotiated-prices-ipay-2027.pdf>
 - KFF, "Key Facts About Medicare Drug Price Negotiation": <https://www.kff.org/medicare/key-facts-about-medicare-drug-price-negotiation/>
 - Federal Register, IRA Drug Price Negotiation Program Final Guidance (Nov. 28, 2025): <https://www.federalregister.gov/documents/2025/11/28/2025-21501/medicare-program-inflation-reduction-act-ira-medicare-drug-price-negotiation-program-final-guidance>
 - U.S. News, "Trump to Announce Discount Drug Pricing Expansion," May 18, 2026: <https://www.usnews.com/news/top-news/articles/2026-05-18/trump-to-announce-discount-drug-pricing-expansion-white-house-official-says>
