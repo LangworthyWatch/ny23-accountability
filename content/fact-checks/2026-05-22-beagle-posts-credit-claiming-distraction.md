@@ -1,11 +1,11 @@
 ---
-title: "Priorities: Seventeen-Plus Posts About Beagles He Didn't Free. Zero About the District Closures Mounting Around Him."
+title: "Priorities: Twenty-Two Posts About Beagles He Didn't Free. Zero About the District Closures Mounting Around Him."
 date: 2026-05-22
 lastmod: 2026-06-02
 categories:
   - "Government Transparency / Priorities"
 verdict: "DOCUMENTED PATTERN"
-source: "Multiple Facebook Posts, May 3 – Jun 2, 2026"
+source: "Multiple Facebook Posts, May 1 – Jun 2, 2026"
 reported_by: "Wellsville Sun, WGRZ, Gateway Pundit, Lancaster Bee, Buffalo News"
 county:
   - "District-wide"
@@ -19,11 +19,11 @@ slug: "2026-05-22-beagle-posts-credit-claiming-distraction"
 
 ## Overview
 
-Between May 3 and June 2, 2026, Congressman Langworthy published **at least 17 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
+Between May 1 and June 2, 2026, Congressman Langworthy published **at least 22 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
 
-**The original five-month-long count of "a dozen" — updated June 2 — is now 17+, with five additional Marshall Farms / RFK Jr / animal testing posts in the May 27 – June 2 window alone.**
+**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to add five more Marshall Farms / RFK Jr / animal testing posts in the May 27 – June 2 window, for a running total of 22+.**
 
-In the same one-month window, he posted nothing about:
+In the same five-week window, he posted nothing about:
 
 - The **Jennie B. Richmond Nursing Home in Springville (Erie Co.)** — 80 beds — entering "orderly closure" beginning June 2026 per Bertrand Chaffee Hospital CEO (financial challenges, staffing, capital needs). *Buffalo News*, June 2026.
 - **Bradford Regional Medical Center** (operated by Kaleida; immediately across the PA line and the regional anchor for NY-23's Cattaraugus/Allegany patients) — formal February 2026 closure notice ending inpatient, emergency, and long-term care by mid-2026. Olean General is now the sole remaining acute-care anchor in that catchment.

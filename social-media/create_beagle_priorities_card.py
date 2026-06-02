@@ -51,7 +51,7 @@ draw.rectangle([(0, y), (WIDTH, y + strip_h)], fill=PURPLE)
 draw.text((WIDTH//2, y + strip_h//2), "DOCUMENTED PATTERN", fill=WHITE, font=f_tag, anchor="mm")
 y += strip_h + 16
 
-draw.text((WIDTH//2, y), "May 2026 — What He Posted About", fill=NAVY, font=f_topic, anchor="mm")
+draw.text((WIDTH//2, y), "May 1 – Jun 2, 2026 — What He Posted About", fill=NAVY, font=f_topic, anchor="mm")
 y += 46
 draw.line([(60, y), (WIDTH-60, y)], fill=BORDER, width=2)
 y += 18
@@ -69,7 +69,7 @@ draw.rounded_rectangle([(lx, y), (lx+col_w, y+col_h)], radius=10,
 draw.text((lx+col_w//2, y+20), "Wisconsin Beagles", fill=GREEN,
           font=font("Arial Bold.ttf", 24), anchor="mm")
 draw.line([(lx+20, y+46), (lx+col_w-20, y+46)], fill="#9AE6B4", width=1)
-draw.text((lx+col_w//2, y+165), "17", fill=GREEN, font=f_big, anchor="mm")
+draw.text((lx+col_w//2, y+165), "22+", fill=GREEN, font=f_big, anchor="mm")
 draw.text((lx+col_w//2, y+316), "posts since May 1", fill=GREEN,
           font=font("Arial Bold.ttf", 30), anchor="mm")
 draw.text((lx+col_w//2, y+360), "A Wisconsin facility.", fill=MUTED, font=f_sub, anchor="mm")
