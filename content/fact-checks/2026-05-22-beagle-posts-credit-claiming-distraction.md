@@ -1,11 +1,12 @@
 ---
-title: "Priorities: A Dozen Posts About Beagles He Didn't Free. Zero About the Cuts Hitting His District."
+title: "Priorities: Seventeen-Plus Posts About Beagles He Didn't Free. Zero About the District Closures Mounting Around Him."
 date: 2026-05-22
+lastmod: 2026-06-02
 categories:
   - "Government Transparency / Priorities"
 verdict: "DOCUMENTED PATTERN"
-source: "Multiple Facebook Posts, May 3–22, 2026"
-reported_by: "Wellsville Sun, WGRZ, Gateway Pundit, Lancaster Bee"
+source: "Multiple Facebook Posts, May 3 – Jun 2, 2026"
+reported_by: "Wellsville Sun, WGRZ, Gateway Pundit, Lancaster Bee, Buffalo News"
 county:
   - "District-wide"
   - "Chautauqua"
@@ -18,10 +19,15 @@ slug: "2026-05-22-beagle-posts-credit-claiming-distraction"
 
 ## Overview
 
-Between May 3 and May 22, 2026, Congressman Langworthy published at least a dozen Facebook posts, constituent surveys, and press releases about the release of beagles from Ridglan Farms, a Wisconsin research breeding facility. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He called it a "quest."
+Between May 3 and June 2, 2026, Congressman Langworthy published **at least 17 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
 
-In the same three-week window, he posted nothing about:
+**The original five-month-long count of "a dozen" — updated June 2 — is now 17+, with five additional Marshall Farms / RFK Jr / animal testing posts in the May 27 – June 2 window alone.**
 
+In the same one-month window, he posted nothing about:
+
+- The **Jennie B. Richmond Nursing Home in Springville (Erie Co.)** — 80 beds — entering "orderly closure" beginning June 2026 per Bertrand Chaffee Hospital CEO (financial challenges, staffing, capital needs). *Buffalo News*, June 2026.
+- **Bradford Regional Medical Center** (operated by Kaleida; immediately across the PA line and the regional anchor for NY-23's Cattaraugus/Allegany patients) — formal February 2026 closure notice ending inpatient, emergency, and long-term care by mid-2026. Olean General is now the sole remaining acute-care anchor in that catchment.
+- **Approximately 1,990 workers across 20 mass-layoff notices in Chautauqua County alone** through March 30, 2026, per the NY DOL WARN Dashboard.
 - A proposed Trump administration rule that would cut SSI checks by up to **$330/month** for 400,000 disabled Americans who live at home with family — reported April 29, 2026
 - **$840 billion** in Medicaid cuts he voted for, currently reducing home care access for disabled NY-23 residents
 - **$186 billion** in SNAP cuts he voted for in the One Big Beautiful Bill Act — directly hitting food banks, school meal programs, and rural families in Chautauqua, Allegany, and Cattaraugus counties
@@ -29,7 +35,9 @@ In the same three-week window, he posted nothing about:
 
 ---
 
-## The Beagle Posts — What He Said
+## The Beagle / Animal Testing Posts — What He Said
+
+### May 3 – May 22, 2026 (original count)
 
 | Date | Post |
 |------|------|
@@ -40,7 +48,34 @@ In the same three-week window, he posted nothing about:
 | May 22, 2026 | Constituent survey: "Should Congress stop funding testing on cats and dogs?" |
 | May 22, 2026 | Facebook post: "I am fighting to end taxpayer-funded breeding and experimentation on dogs and cats. Full stop." |
 
-The posts consistently imply that Langworthy's actions drove the beagle release. The May 3 headline specifically credits his "letter to HHS Secretary."
+### May 27 – June 2, 2026 (June 2 update)
+
+| Date | Post |
+|------|------|
+| May 31, 2026 | "Outside Marshall Farms. Huge rally. Save the Beagles. Stay tuned….." (multi-photo rally coverage at Marshall Farms in North Rose, NY) |
+| June 1, 2026 | *Quoted statement:* "Marshall Farms is a torture chamber. It is a stain on New York." Tagging USDA. Multi-photo / branded title card production. |
+| June 1, 2026 | Olean Times Herald repost: "Langworthy pushes for tighter control on funding, standards related to animal testing." |
+| June 1, 2026 | WLEA Southern Tier repost: "Langworthy Asks RFK Jr To Strengthen NIH Policy About Animal Testing" |
+| June 2, 2026 | "I'm leading a bipartisan push strengthen federal safeguards on animal testing funding…" (with newspaper repost graphic) |
+
+The posts consistently imply Langworthy's actions are driving outcomes. The May 3 headline specifically credits his "letter to HHS Secretary." The May 31 rally coverage at Marshall Farms includes high-production multi-angle imagery typical of campaign-style content production.
+
+---
+
+## Production-Value Observation: Polished Output, Contracted Service
+
+Beginning in late May 2026, a parallel observation emerged about *how* the office posts content, separate from *what* it says. The Marshall Farms rally, the Home Day in Horseheads firefighter coverage, the Memorial Day post from Lancaster, and the Corning-to-Elmira office relocation announcement were each produced with apparent professional camera-crew coverage: multi-angle video, branded title cards ("Save the Beagles," "Supporting Local First Responders," "Office Location Change"), color-graded outdoor footage, and the visual cadence of a campaign reel rather than a constituent-services update.
+
+This is not in itself a fact-check finding. Members of Congress are entitled to communicate with their constituents, and many produce video. The observation worth recording is the *pairing*: production value rising while the underlying institutional service contracts.
+
+- Memorial Day video at a community VFW post-style ceremony, while VA staffing and benefits face cuts under the same administration he supports
+- Multi-angle rally video at Marshall Farms, while $186 billion in SNAP cuts he voted for begin to land on the food banks 50 miles away in Chautauqua and Allegany
+- Home Day in Horseheads volunteer-firefighter coverage across four separate professionally-produced posts, while the Springville nursing home he passes en route enters orderly closure with no Langworthy mention
+- A WYDC ("Big Fox News") segment branded "Office Location Change" — accurate — paired with a Facebook caption framing the move as "strengthening" district presence
+
+The cumulative pattern echoes Rep. Joe Neguse's (D-CO) ongoing public critique of GOP "congratulatory resolutions" — measures passed to celebrate that something was done, when doing the something was the point. Here the equivalent is the polished video about visiting institutions whose underlying federal support is being cut.
+
+The output is real. The implied service-delivery story is what the record does not corroborate.
 
 ---
 
@@ -60,6 +95,18 @@ The beagles were freed by activists who faced criminal charges, a Wisconsin spec
 ---
 
 ## What Was Happening While He Stayed Quiet
+
+### Jennie B. Richmond Nursing Home, Springville (June 2026 — Buffalo News)
+Bertrand Chaffee Hospital, the small operator of the 80-bed Jennie B. Richmond Nursing Home in Springville (Erie County, NY-23), announced an "orderly closure" of the facility beginning June 2026. The CEO cited financial challenges, staffing shortages, and significant capital needs of the aging physical plant. Residents are being relocated. **No Langworthy post about the Springville closure**, even though Springville lies along the corridor he visited multiple times in the same window for Marshall Farms rally and Home Day in Horseheads coverage. *Source: Buffalo News.*
+
+### Bradford Regional Medical Center (February 2026 closure notice)
+Bradford Regional, operated by Kaleida and physically just across the Pennsylvania line in McKean County, is the regional hospital backbone for NY-23's Cattaraugus and Allegany counties. Its February 2026 closure notice ends inpatient, emergency, and long-term care services by mid-2026; OB had already been consolidated to Olean General in 2019. The effect makes Olean General the sole remaining acute-care anchor for the Olean–Bradford catchment. **No Langworthy post about the Bradford closure.** *Sources: WPSU; Bradford Era.*
+
+### Chautauqua County WARN Act layoffs (Jan–March 2026)
+NY DOL WARN Dashboard data shows **20 mass-layoff notices affecting approximately 1,990 workers in Chautauqua County alone** through March 30, 2026. **No Langworthy posts on the WARN figures or on the cumulative job-loss impact** — even as he closed the Jamestown office (the federal-services touchpoint for those workers' Social Security, unemployment, and trade-adjustment appeals) and announced the Corning office relocation in the same window. *Source: NY DOL WARN Dashboard.*
+
+### The "$7.7M behavioral health" framing (May 18, 2026 — May 20 fact-check)
+The single largest dollar figure Langworthy claimed credit for in May 2026 — "$7.7 million in federal funding for Western New York community services" — was approximately **95% Head Start re-up funding to Chautauqua Opportunities Inc.** ($7.4M) plus **approximately $357,754 to the Seneca Nation for behavioral health** (~4.6% of the headline number). Head Start grants are routine HHS/ACF formula awards, not appropriations Langworthy secured; the Seneca Nation behavioral health funding is similarly programmatic. The "$7.7M behavioral health" framing was the May press cycle's headline; the actual behavioral-health share would not by itself have made the same headline.
 
 ### The SSI bedroom rule (April 29, 2026 — ProPublica)
 The Trump administration proposed cutting SSI checks for disabled adults living at home with family — deducting the imputed value of their bedroom even if the family qualifies for food stamps. Up to $330/month for 400,000 people. **No Langworthy post.**
