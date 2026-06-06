@@ -122,13 +122,24 @@ In each case, the federal government is used to override state decisions. In eac
 
 ---
 
+## Update — June 2026: A Fourth Preemption Initiative
+
+On April 21, 2026, Rep. Langworthy signed on as an original cosponsor of **H.R. 8413, the SECURE Data Act**, a federal consumer-privacy bill that would preempt state privacy laws under a broad "relates to" preemption standard. The bill targets New York protections that include the SHIELD Act, the pending New York Privacy Act (S3044), and the data-broker registration/deletion bill (S9088A) — which **passed the New York State Senate 51-10 on June 3, 2026**, the same day the House subcommittee held its first hearing on H.R. 8413. The federal bill contains no private right of action and includes a 45-day right-to-cure provision that limits both FTC and state-AG enforcement.
+
+This extends the pattern documented above to four federal preemption initiatives since December 2025, all targeting New York State law or pending New York State legislation.
+
+See: [SECURE Data Act: Langworthy Cosponsors Federal Bill That Would Preempt the New York Privacy Law the State Senate Just Passed](/fact-checks/2026-06-06-langworthy-secure-data-act-hr8413/)
+
+---
+
 ## Summary Table
 
 | Bill/Action | State Law Targeted | Industry Beneficiaries | Langworthy's Framing |
 |-------------|-------------------|----------------------|---------------------|
-| Energy Choice Act | NY gas hookup ban | Fossil fuel, propane, homebuilders | "Extremist crusade" |
-| Dietary Supplements Act | NY minor supplement sales ban | Supplement manufacturers and retailers | "Baseless overregulation" |
-| AI regulation letter | NY RAISE Act, CO AI Act | Technology companies | "Patchwork" hindering innovation |
+| Energy Choice Act (H.R. 3699) | NY gas hookup ban | Fossil fuel, propane, homebuilders | "Extremist crusade" |
+| Dietary Supplements Act (H.R. 7366) | NY minor supplement sales ban | Supplement manufacturers and retailers | "Baseless overregulation" |
+| AI regulation letter (Feb 19, 2026) | NY RAISE Act, CO AI Act | Technology companies | "Patchwork" hindering innovation |
+| SECURE Data Act (H.R. 8413) | NY SHIELD Act, NY Privacy Act (S3044), NY S9088A | 57-association coalition: tech platforms, ad-tech, telecom, data brokers, retail | (no public Langworthy statement on this bill as of June 6, 2026) |
 
 ---
 
@@ -160,8 +171,17 @@ In each case, the federal government is used to override state decisions. In eac
 - [AI lobbying — Read Sludge](https://readsludge.com/2026/02/24/ai-boom-on-k-street-one-in-four-lobbyists-now-work-on-ai/)
 - [WRFA — Dietary Supplement bill](https://wrfalp.com/news/local-news/rep-langworthy-introduces-bill-to-prevent-states-from-regulating-dietary-supplements-beyond-fda-oversight/)
 
+**June 2026 update — SECURE Data Act:**
+
+- [H.R. 8413 introduced text — GPO PDF](https://www.govinfo.gov/content/pkg/BILLS-119hr8413ih/pdf/BILLS-119hr8413ih.pdf)
+- [Congress.gov — H.R. 8413](https://www.congress.gov/bill/119th-congress/house-bill/8413)
+- [NY S9088A — passed Senate June 3, 2026, 51-10](https://www.nysenate.gov/legislation/bills/2025/S9088)
+- [NY S3044 — New York Privacy Act, 2025-2026 session](https://www.nysenate.gov/legislation/bills/2025/S3044)
+- [California Privacy Protection Agency — opposition letter, April 27, 2026](https://privacy.ca.gov/wp-content/uploads/sites/357/2026/04/CalPrivacy-Letter-HR-8413-SECURE-Data-Act.pdf)
+- [U.S. Chamber of Commerce — 57-association support letter](https://www.uschamber.com/technology/business-associations-welcome-federal-data-privacy-legislation)
+
 ---
 
 **Note:** This entry documents publicly available legislative records, press releases, and industry endorsements. Readers may draw their own conclusions.
 
-*Last updated: February 25, 2026*
+*Last updated: February 25, 2026 (June 2026 update added — SECURE Data Act / H.R. 8413)*
