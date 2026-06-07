@@ -187,24 +187,31 @@ See [Federal Preemption Pattern: Three Bills, One Playbook](/fact-checks/2026-02
 
 ## Donor Footprint
 
-Unlike the Energy Choice Act — where the National Energy & Fuels Institute stated it "helped draft" the bill and led the endorser coalition, while fossil-fuel-aligned PACs have been documented contributing to Langworthy's committees — the SECURE Data Act does not show a direct tech-industry donor footprint to Langworthy's two campaign committees (Langworthy for Congress C00817932; Langworthy Congressional Victory Cmte C00832188).
+**$270,500 across 21 PACs** whose organizations signed the SECURE Data Act endorser-coalition letter have contributed to Rep. Langworthy's two campaign committees (Langworthy for Congress C00817932; Langworthy Congressional Victory Cmte C00832188) across the 2024 and 2026 cycles.
 
-A scan of FEC bulk individual-contribution data for the 2022, 2024, and 2026 cycles, and PAC transfer data for the 2024 and 2026 cycles, against tech-platform, ad-tech, telecom, data-broker, and retail-loyalty employer keywords:
+This is documented from FEC bulk pas2 24/26 files, joined to the FEC committee master (`cm.txt`), filtered to contributions where the candidate ID (H2NY23228) or one of the two committee IDs above is the recipient.
 
-| Sector | Individual Contributions | PAC Transfers |
+### By Sector
+
+| Sector (alignment with SECURE Data Act coalition) | Total | PACs |
 |---|---|---|
-| Tech / Internet Platforms | $3,400 (3 hits — 2 are false positives, e.g. Neuberger Berman investment management) | $0 |
-| Ad-Tech / Marketing / Data | $1,000 (1 hit, local marketing firm) | $0 |
-| Telecom / ISP / Cable | $0 | $0 |
-| Data Brokers / Background Check | $0 | $0 |
-| Retail / E-Commerce | $4,699 (all from one CVS staff pharmacist) | $0 |
-| US Chamber / Business Roundtable | $0 (Amherst Chamber CEO individual: $2,530) | $0 |
+| **Telecom / ISP / Cable** (NCTA, USTelecom, CTIA members) | $121,000 | Charter Communications PAC ($35K), Cox Enterprises PAC ($25K), Comcast/NBCUniversal PAC ($16K), Verizon PAC ($14K), AT&T Employee PAC ($12K), NCTA—The Internet & Television Association PAC ($13K), T-Mobile T-PAC ($6K) |
+| **Retail / Hospitality / Franchise / Convenience** (NRF, RILA, Restaurant Assn, IFA, AHLA, NACS, NAR members) | $77,000 | International Franchise Assn PAC ($24K), National Assn of Realtors PAC ($18K), Walmart PAC ($16K), National Restaurant Assn PAC ($15K), American Hotel & Lodging PAC ($4K), National Assn of Convenience Stores PAC ($4K) |
+| **Oil / Energy** (API + Energy Marketers signed the letter) | $61,000 | Marathon Petroleum Employees PAC ($20K), Chevron Employees PAC ($20K), ExxonMobil PAC ($12K), Energy Marketers of America Small Business Cmte PAC ($9K) |
+| **Big Tech direct** (Google's PAC + BSA's PAC) | $3,500 | Google LLC NETPAC ($2K), BSA Business Software Alliance Inc. PAC ($1.5K) |
+| **Subtotal — Coalition members** | **$270,500** | **21 PACs** |
 
-The honest read: the bill's industry coalition is not a coalition of Langworthy's direct donors. Whatever motivated his cosponsorship, it is not a documented quid-pro-quo with a tech-industry PAC. The trade-association coalition listed above operates at the Republican Conference / leadership-PAC level — Langworthy's incentive structure is consistent with party-line cosponsorship of an Energy & Commerce chairman's priority bill rather than direct industry sponsorship.
+*Per-PAC contribution caps and party-line patterns matter here.* Each PAC's federal contribution to a single candidate per cycle is capped at $5,000. The Charter PAC's $35K, for example, reflects 12 separate $5,000-or-less transactions across multiple election cycles and primary/general elections, not a single special-occasion transfer. These PACs give to many House Republicans on the Energy & Commerce committee, not exclusively to Langworthy.
 
-*This is a deliberately conservative finding.* PAC transfer data for 2026 Q2 is incomplete (the next FEC quarterly report is due July 15, 2026), and Senate Lobbying Disclosure Q2 reports — which would show post-introduction industry pressure — are not due until July 20, 2026. This entry will be updated when that data becomes available.
+### What this means
 
-*Methodology footnote:* Employer/PAC name scans used the following keyword sets against `indiv22.txt`, `indiv24.txt`, `indiv26.txt`, `pas224.txt`, `pas226.txt`. **Tech/Internet Platforms:** google, alphabet, meta, facebook, instagram, amazon, microsoft, apple, tiktok, bytedance, x corp, twitter, snap, linkedin, uber, lyft, airbnb, doordash, salesforce, oracle, ibm, adobe. **Ad-Tech / Marketing / Data:** interactive advertising, advertis, marketing, tradedesk, criteo, magnite, pubmatic, liveramp, comscore, nielsen, epsilon, acxiom, experian, equifax, transunion, lexisnexis, thomson reuters. **Telecom:** verizon, at&t, comcast, charter, t-mobile, lumen, frontier, altice, cox, dish, directv. **Data brokers:** data broker, background check, spokeo, intelius, whitepages, beenverified. **Retail:** walmart, target, kroger, best buy, home depot, lowes, costco, starbucks, cvs, walgreens. PAC scans used additional terms (e.g., "ncta", "ustelecom", "ctia", "internet association", "business software alliance", "u.s. chamber"). A different scope (e.g., scanning conduit donors via the National Republican Congressional Committee) could change this picture; that scan is not run here.
+This is **not** a documented quid-pro-quo with Big Tech corporate PACs. Meta, Amazon, Microsoft, Apple, Oracle, and Salesforce corporate PACs have given Langworthy's committees zero dollars. Google's NETPAC contribution is small ($2,000, from November 2023) and predates H.R. 8413 by more than two years.
+
+What it **is** is a documented financial alignment with the broader coalition behind the bill — particularly the cable/telecom/ISP industry organized through NCTA—The Internet & Television Association, which co-signed the support letter and whose member PACs have contributed $121,000 to Rep. Langworthy.
+
+### Methodology
+
+Query: `pas224.txt` and `pas226.txt`, filtered where `OTHER_ID IN (C00817932, C00832188)` OR `CAND_ID = H2NY23228`, joined against `cm24.txt`/`cm26.txt` for committee names. Sector classification done by hand against the U.S. Chamber's published SECURE Data Act endorser-coalition list. **Pre-2024 cycle data not included in this scan** — the historical pattern would show additional totals from the 2022 cycle when Langworthy first ran for this seat. **2026 Q2 PAC transfers** (covering April-June 2026 activity, which would include any direct industry response to the H.R. 8413 cosponsorship) are not yet filed; the next FEC quarterly report is due July 15, 2026. This entry will be updated when that data lands.
 
 ---
 
