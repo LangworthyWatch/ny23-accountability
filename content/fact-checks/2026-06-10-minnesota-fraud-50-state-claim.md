@@ -79,6 +79,15 @@ The House Oversight Committee's public investigation footprint on state-level fr
 
 **In plain language:** Three state investigations exist on the public record. Forty-seven do not.
 
+### Context: in those states, enforcement was already underway
+
+The "50 state effort" framing implies states are not policing their own programs. In the two states the post names as endpoints, the documented record the same week ran the other way:
+
+- **New York:** On June 9, 2026 — the same week as these posts — Attorney General James announced that New York, in a bipartisan coalition with 36 other attorneys general and the U.S. Department of Justice, secured **$36.5 million from CVS** for overbilling Medicaid for insulin from 2010 to 2020 (New York's share: $2,257,250.51).
+- **California:** On April 9, 2026, California's Department of Health Care Services and the state Department of Justice's Division of Medi-Cal Fraud and Elder Abuse announced criminal charges dismantling a Los Angeles hospice fraud scheme — **14 fraudulent providers and more than $267 million in improper Medi-Cal claims**, with licenses revoked and thousands of fraudulent enrollments removed.
+
+This mirrors the Minnesota pattern documented above: the prosecutions and audits came from the DOJ, the FBI, and state institutions.
+
 ---
 
 ## Overall Verdict: MISLEADING
@@ -122,6 +131,10 @@ Both claims contain a documented kernel — the committee's report did produce n
 **Vance referral coverage:**
 * CNN: [Vance recommends DOJ criminal investigation into Tim Walz and Minnesota AG](https://www.cnn.com/2026/06/08/politics/vance-criminal-referral-minnesota-fraud) (June 8, 2026)
 * The Hill: [Vance referring Walz, Ellison to DOJ](https://thehill.com/homenews/administration/5916038-jd-vance-tim-walz-keith-ellison-minnesota-fraud-doj-pr/)
+
+**State enforcement (primary):**
+* NY Attorney General: [AG James secures $36.5 million from CVS for defrauding Medicaid](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-365-million-cvs-defrauding-medicaid) (June 9, 2026)
+* Governor of California: [California stops major hospice fraud scheme in LA, brings criminal charges](https://www.gov.ca.gov/2026/04/09/california-stops-major-hospice-fraud-scheme-in-la-brings-criminal-charges-to-hold-fraudsters-accountable/) (April 9, 2026)
 
 **Other:**
 * CNN: [Takeaways from the January 7 hearing](https://www.cnn.com/2026/01/07/us/takeaways-minnesota-fraud-hearing)
