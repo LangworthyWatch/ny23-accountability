@@ -61,6 +61,8 @@ By the time the committee held its first hearing in January 2026, federal prosec
 
 **What the committee did add:** Its investigation produced testimony from more than 30 state whistleblowers and a June 8, 2026 report on what Minnesota officials knew about the fraud and when — findings that prompted Vice President Vance's DOJ referral of Walz and Ellison the same day. That is a genuine contribution, and it is the committee's own: examining state officials' conduct, not exposing the underlying fraud. The post's wording does not distinguish the two.
 
+**A referral is not a charge.** It is a request that the Justice Department investigate. Whether charges follow is decided by career prosecutors — at the same Department that has prosecuted the underlying fraud since 2022 without charging either official. Ellison has called the allegations "unfounded" and a "political stunt"; that characterization, like the referral itself, is a claim, not a finding.
+
 ---
 
 ## Claim 2: "This is a 50 state, coast to coast from NY to California effort"

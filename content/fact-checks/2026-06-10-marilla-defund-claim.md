@@ -104,6 +104,19 @@ There is a documented kernel: Democrats did vote against DHS appropriations at e
 
 ---
 
+**Archived copies (Wayback Machine, captured June 10, 2026):**
+* [Roll Call 42 — Clerk XML](https://web.archive.org/web/20260610223043/https://clerk.house.gov/evs/2026/roll042.xml)
+* [H.R. 7147 — Congress.gov](https://web.archive.org/web/20260609132249/https://www.congress.gov/bill/119th-congress/house-bill/7147) (June 9 capture)
+* [S. 2 — Congress.gov](https://web.archive.org/web/20260610223619/https://www.congress.gov/bill/119th-congress/senate-bill/2)
+* [WKBW — Marilla apprehensions](https://web.archive.org/web/20260610221558/https://www.wkbw.com/news/local-news/southtowns/border-patrol-apprehends-15-people-after-search-in-marilla-woods)
+* [CBS News — GOP moves to fund ICE without Democrats](https://web.archive.org/web/20260610223310/https://www.cbsnews.com/news/senate-vote-a-rama-gop-funding-ice-without-democrats/)
+* [NBC News — Republicans pass ICE/Border Patrol funding](https://web.archive.org/web/20260610223819/https://www.nbcnews.com/politics/congress/republicans-pass-bill-fund-ice-border-patrol-end-trumps-term-rcna349197)
+* [NPR — ICE funded through end of term](https://web.archive.org/web/20260610224026/https://www.npr.org/2026/06/09/nx-s1-5851664/house-reconciliation-vote-immigration-enforcement-ice-border-patrol)
+
+*Wayback submissions for Roll Call 214, the PBS NewsHour piece, and the White House release were accepted June 10 and are pending indexing.*
+
+---
+
 **Note:** This entry documents publicly available voting records, enacted law, and contemporaneous local reporting. It makes no claim about the Marilla operation itself, which is reported solely per CBP and WKBW.
 
 <!-- PUBLISHED 2026-06-10. Verification log:
