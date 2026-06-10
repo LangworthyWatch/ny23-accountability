@@ -127,6 +127,20 @@ Both claims contain a documented kernel — the committee's report did produce n
 * CNN: [Takeaways from the January 7 hearing](https://www.cnn.com/2026/01/07/us/takeaways-minnesota-fraud-hearing)
 * Energy & Commerce 10-state Medicaid letters (distinct committee): [coverage](https://www.hospitals-management.com/news/house-e-c-committee-leaders-expand-medicaid-fraud-investigation-targeting-10-states)
 
+**Archived copies (Wayback Machine, captured June 10, 2026 unless noted):**
+* [DOJ — 47 defendants charged (Sept. 2022 release)](https://web.archive.org/web/20260525025716/https://www.justice.gov/archives/opa/pr/us-attorney-announces-federal-charges-against-47-defendants-250-million-feeding-our-future) (May 25, 2026 capture)
+* [DOJ — ringleader sentenced to 500 months](https://web.archive.org/web/20260610191519/https://www.justice.gov/opa/pr/feeding-our-future-ringleader-sentenced-500-months)
+* [DOJ — 77th defendant charged](https://web.archive.org/web/20260610192540/https://www.justice.gov/usao-mn/pr/77th-defendant-charged-feeding-our-future-fraud-scheme)
+* [DOJ — Bock and co-defendant convicted at trial](https://web.archive.org/web/20260610192639/https://www.justice.gov/usao-mn/pr/federal-jury-finds-feeding-our-future-mastermind-and-co-defendant-guilty-250-million)
+* [FBI — Dozens charged in $250 million COVID fraud scheme](https://web.archive.org/web/20260610195047/https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122)
+* [House Oversight — June 8 report release](https://web.archive.org/web/20260610192347/https://oversight.house.gov/release/oversight-committee-releases-bombshell-report-exposing-rampant-fraud-plaguing-minnesotas-taxpayer-funded-social-programs/)
+* [House Oversight — NY Medicaid investigation launch](https://web.archive.org/web/20260610192147/https://oversight.house.gov/release/oversight-committee-launches-investigation-into-new-yorks-abuse-of-federal-funds-in-medicaid-program/)
+* [House Oversight — CA hospice investigation launch](https://web.archive.org/web/20260610192250/https://oversight.house.gov/release/oversight-committee-launches-investigation-into-rampant-taxpayer-fraud-in-california-hospice-programs/)
+* [House — Jan. 7, 2026 hearing notice (docs.house.gov)](https://web.archive.org/web/20260610192011/https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=118796)
+* [KSTP — Feeding Our Future recap](https://web.archive.org/web/20260610192101/https://kstp.com/tracking-your-tax-dollars/more-fraud-more-charges-more-drama-recapping-the-feeding-our-future-investigation/)
+* [MPR — Bock sentencing](https://web.archive.org/web/20260610192734/https://www.mprnews.org/story/2026/05/21/aimee-bock-feeding-our-future-fraud-sentencing)
+* [CNN — Vance referral](https://web.archive.org/web/20260610194832/https://www.cnn.com/2026/06/08/politics/vance-criminal-referral-minnesota-fraud) · [CNN — Jan. 7 hearing takeaways](https://web.archive.org/web/20260610194524/https://www.cnn.com/2026/01/07/us/takeaways-minnesota-fraud-hearing)
+
 ---
 
 **Note:** This entry documents publicly available information from Department of Justice press releases, House Oversight Committee publications, and contemporaneous news coverage. It makes no allegation of unlawful conduct.
