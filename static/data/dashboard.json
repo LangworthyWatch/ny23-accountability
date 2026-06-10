@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-22",
-  "total": 93,
-  "top_verdict": "MISLEADING",
+  "generated": "2026-06-10",
+  "total": 103,
+  "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISLEADING": 23,
-    "MISSING CONTEXT": 20,
-    "DOCUMENTED PATTERN": 15,
+    "MISSING CONTEXT": 25,
+    "MISLEADING": 24,
+    "DOCUMENTED PATTERN": 19,
     "CONTRADICTION": 13,
     "FALSE": 9,
     "MULTIPLE": 3,
@@ -16,25 +16,26 @@
     "INCONSISTENT": 1
   },
   "by_topic": {
+    "Healthcare": 12,
     "Government Operations": 10,
     "Economy": 9,
-    "Healthcare": 9,
+    "Other": 7,
     "Transparency": 6,
     "Immigration": 6,
-    "Other": 5,
+    "Campaign Finance": 5,
     "Local Impact": 5,
+    "Agriculture": 4,
     "Energy": 4,
     "Infrastructure": 4,
-    "Agriculture": 3,
-    "Campaign Finance": 3,
+    "Constituent Service": 3,
     "Ethics": 2,
     "Rule of Law": 2,
     "Legislative Record": 2,
     "Environment": 2,
     "Foreign Policy": 2,
-    "Constituent Service": 2,
     "Social Services": 2,
     "Veterans": 2,
+    "Consumer Protection": 1,
     "Credit-Claiming": 1,
     "Animal Welfare": 1,
     "Voting Record": 1,
@@ -55,11 +56,75 @@
     "2026-02": 28,
     "2026-03": 15,
     "2026-04": 10,
-    "2026-05": 10
+    "2026-05": 15,
+    "2026-06": 5
   },
   "entries": [
     {
-      "title": "Priorities: A Dozen Posts About Beagles He Didn't Free. Zero About the Cuts Hitting His District.",
+      "title": "SECURE Data Act: Langworthy Cosponsors Federal Bill That Would Preempt the New York Privacy Law the State Senate Just Passed",
+      "date": "2026-06-06",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Consumer Protection",
+      "url": "/fact-checks/2026-06-06-langworthy-secure-data-act-hr8413/"
+    },
+    {
+      "title": "Three Nursing Home Closures in Chautauqua County; One Was Failing the Federal Floor His Vote Blocked",
+      "date": "2026-06-02",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-06-02-chautauqua-snf-cluster/"
+    },
+    {
+      "title": "Two Offices Closed, One Moved: NY-23 District Presence in 2026 and the Donor Geography Behind It",
+      "date": "2026-06-02",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Constituent Service",
+      "url": "/fact-checks/2026-06-02-district-office-consolidation/"
+    },
+    {
+      "title": "126 Growers, 2,600 Acres, and the Federal Response After Refresco",
+      "date": "2026-06-02",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Agriculture",
+      "url": "/fact-checks/2026-06-02-grape-belt-refresco-federal-response/"
+    },
+    {
+      "title": "$212 Million for Rural Hospitals': What the December 2025 Announcement Said, and What It Left Out",
+      "date": "2026-06-02",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-06-02-rural-health-transformation-212m/"
+    },
+    {
+      "title": "Two Drug-Pricing Claims, Two Different Programs, and Savings That Don't Start Until 2027",
+      "date": "2026-05-30",
+      "verdict": "MISLEADING",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-05-30-drug-pricing-reform-claim/"
+    },
+    {
+      "title": "The Company in the District: Corning, the Reconciliation Bill, and $65,775 in Donations",
+      "date": "2026-05-29",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-05-29-corning-manufacturing-credits-obbba/"
+    },
+    {
+      "title": "Nursing Home Donations and the Staffing Rule That Disappeared",
+      "date": "2026-05-28",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-05-28-nursing-home-staffing-donations/"
+    },
+    {
+      "title": "Energy: 'All-of-the-Above' Framing Omits His Votes Against Clean Energy for Rural NY",
+      "date": "2026-05-23",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Other",
+      "url": "/fact-checks/2026-05-23-propane-all-of-the-above-energy/"
+    },
+    {
+      "title": "Priorities: Twenty-Two Posts About Beagles He Didn't Free. Zero About the District Closures Mounting Around Him.",
       "date": "2026-05-22",
       "verdict": "DOCUMENTED PATTERN",
       "topic": "Other",
@@ -78,6 +143,13 @@
       "verdict": "MISLEADING",
       "topic": "Other",
       "url": "/fact-checks/2026-05-20-halt-act-collins-causal-claim/"
+    },
+    {
+      "title": "Scaffold Law: Langworthy's Bill Would Strip Worker Fall Protections on Federally Funded Sites \u2014 Post Frames It Only as a Cost Issue",
+      "date": "2026-05-20",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Other",
+      "url": "/fact-checks/2026-05-20-scaffold-law-infrastructure-expansion-act/"
     },
     {
       "title": "Disability: 'I'll Keep Working to Protect Critical Support Systems' \u2014 While His Administration Moves to Cut Disabled Adults' Benefits for Living at Home",
