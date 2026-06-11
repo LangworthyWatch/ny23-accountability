@@ -57,12 +57,15 @@ This site documents the gap between what Rep. Langworthy says and what the recor
 
 **The program behind this award is on the table.** On May 7, 2026, the President's FEMA Review Council issued its final report recommending that the Public Assistance Program — the mechanism that produced this 90%-cost-share award — be replaced with fixed, parametric block grants to states ("RAPID"). Whether Rep. Langworthy supports that restructuring is not addressed in his post or, as of this writing, in any public statement we have located. His FEMA Act cosponsorship points in a different direction (a strengthened, independent FEMA), making his position on the Council's recommendations a fair and open question.
 
+**The rebuild is funded; the prevention program was canceled.** Jasper-Troupsburg's campus flooded twice in three years. On April 4, 2025, FEMA ended the Building Resilient Infrastructure and Communities (BRIC) program — the federal government's principal pre-disaster mitigation grant program, which had allocated more than $5 billion since 2020 for projects to reduce losses from floods and other disasters. FEMA's announcement called BRIC a "wasteful, politicized grant program"; the cancellation withdrew the $750 million fiscal year 2024 funding round and returned undistributed funds from the FY2020–2023 application cycles to the Disaster Relief Fund or the Treasury. The federal government is paying roughly $60.5 million to rebuild this campus after its second flood while the program designed to fund prevention of a third no longer exists. We have located no public statement from Rep. Langworthy on BRIC's cancellation.
+
 ---
 
 ## Questions This Raises
 
 1. The Review Council's May 7 report would replace the Public Assistance Program with fixed block grants. Does Rep. Langworthy support that recommendation, given that Jasper-Troupsburg's rebuild came through the existing program at a 90% cost share?
 2. Would a fixed block grant paid to New York State within 30 days of a declaration have produced $60.5 million for one small rural district's campus, or would the rebuild compete with every other project in the state's allocation?
+3. The campus flooded in 2021 and again in 2024. Does Rep. Langworthy support restoring BRIC or an equivalent pre-disaster mitigation program, so that flood-prone NY-23 communities are not limited to rebuilding after each loss?
 
 ---
 
@@ -89,6 +92,8 @@ This site documents the gap between what Rep. Langworthy says and what the recor
 * Congress.gov (CRS): [FEMA Review Council: Final Report](https://www.congress.gov/crs-product/IN12693)
 * NPR: [A Trump council recommends overhauling FEMA — 3 key changes](https://www.npr.org/2026/05/07/nx-s1-5803121/trump-fema-reform-wildfire-flood-hurricane) (May 7, 2026)
 * Bipartisan Policy Center: [FEMA Reform: Comparing the Review Council's Recommendations and Congressional Proposals](https://bipartisanpolicy.org/issue-brief/fema-reform-comparing-the-review-councils-recommendations-and-congressional-proposals/)
+* FEMA: [FEMA Ends Wasteful, Politicized Grant Program (BRIC)](https://www.fema.gov/press-release/20250404/fema-ends-wasteful-politicized-grant-program-returning-agency-core-mission) (April 4, 2025)
+* Association of State Floodplain Managers: [FEMA Ends BRIC Program, Leaving States in the Lurch](https://www.floods.org/news-views/fema-news/fema-ends-bric-program-leaving-states-in-the-lurch/) — $750M FY2024 round canceled; $5B+ allocated since 2020
 * Congress.gov: [H.R. 4669 — FEMA Act of 2025, cosponsors](https://www.congress.gov/bill/119th-congress/house-bill/4669/cosponsors) — Langworthy cosponsored Jan. 27, 2026
 
 ---
