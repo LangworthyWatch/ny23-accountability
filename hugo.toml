@@ -23,30 +23,35 @@ title = 'NY-23 Accountability Tracker'
     url = '/fact-checks/'
     weight = 2
   [[menu.main]]
+    identifier = 'state-of-the-district'
+    name = 'State of the District'
+    url = '/state-of-the-district/'
+    weight = 3
+  [[menu.main]]
     identifier = 'votes'
     name = 'Voting Record'
     url = '/votes/'
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = 'campaign-finance'
     name = 'Campaign Finance'
     url = '/campaign-finance/'
-    weight = 4
+    weight = 5
   [[menu.main]]
     identifier = 'dashboard'
     name = 'Scorecard'
     url = '/dashboard/'
-    weight = 5
+    weight = 6
   [[menu.main]]
     identifier = 'methodology'
     name = 'Methodology'
     url = '/methodology/'
-    weight = 6
+    weight = 7
   [[menu.main]]
     identifier = 'about'
     name = 'About'
     url = '/about/'
-    weight = 6
+    weight = 8
 
   # Footer navigation (secondary pages)
   [[menu.footer]]
