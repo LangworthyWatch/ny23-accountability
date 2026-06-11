@@ -39,7 +39,9 @@ Context: House Energy and Commerce and Ways and Means Committees joint hearings 
 - Eliminated automatic reenrollment for subsidized enrollees
 - Enhanced premium tax credits expired December 31, 2025
 
-### Vote 2: H.R. 6703 (ACA Subsidy Extension) — January 8, 2026: **NO**
+### Vote 2: H.R. 1834 (ACA Subsidy Extension) — January 8, 2026: **NO**
+
+*Correction (June 11, 2026): an earlier version of this entry cited the bill as H.R. 6703. The three-year subsidy-extension vote on January 8, 2026 was on H.R. 1834 (Roll Call 11); H.R. 6703 is a different bill. The vote details below are unchanged and verified against the House Clerk record.*
 
 - Three-year extension of enhanced premium tax credits
 - Passed 230-196 (17 Republicans joined all Democrats)
@@ -115,7 +117,7 @@ MAY 22, 2025      DEC 31, 2025       JAN 8, 2026        JAN 22, 2026       JAN 2
      |                  |                  |                  |                  |
   Langworthy         Enhanced ACA       Langworthy        Hearing with       Facebook post:
   votes YES          subsidies          votes NO on       insurance CEOs     "What are you
-  on OBBB            EXPIRE             H.R. 6703                            doing to control
+  on OBBB            EXPIRE             H.R. 1834                            doing to control
   (H.R. 1)                              (subsidy                             costs?"
                                         extension)
      |                  |                  |                                    |
@@ -156,7 +158,7 @@ Meanwhile, Erie County Medical Center laid off 150 employees citing "inadequate 
 ## Questions This Raises
 
 1. Does Langworthy acknowledge that the premium increases are partially caused by the subsidy expiration he voted for?
-2. Why did he vote NO on H.R. 6703 on January 8, then demand insurers explain premium increases on January 24?
+2. Why did he vote NO on H.R. 1834 on January 8, then demand insurers explain premium increases on January 24?
 3. How does he reconcile calling subsidies "trillions of taxpayer dollars" with demanding insurers lower premiums that rose because those subsidies ended?
 4. Is he aware that 6,300+ NY-23 residents face premium increases of $100-$212/month as a direct result of his votes?
 
@@ -178,7 +180,7 @@ Meanwhile, Erie County Medical Center laid off 150 employees citing "inadequate 
 * KFF: "How Much Will Health Insurance Premiums Increase in 2026?"
 * KFF: "What the End of Enhanced ACA Subsidies Means for Enrollees"
 * Congress.gov: H.R. 1 (OBBB) vote record — Langworthy: YES
-* Congress.gov: H.R. 6703 vote record — Langworthy: NO
+* Clerk of the House: [Roll Call 11 — H.R. 1834, On Passage (Jan. 8, 2026)](https://clerk.house.gov/evs/2026/roll011.xml) — 230–196 (R 17–196, D 213–0); Langworthy: Nay
 * WGRZ: "ECMC will cut about 3% of mostly non-clinical jobs" (January 29, 2026)
 * WIVB: "Around 150 employees of ECMC laid off" (January 29, 2026)
 * WKBW: "Healthcare workers from Western New York head to Albany" (January 12, 2026)
