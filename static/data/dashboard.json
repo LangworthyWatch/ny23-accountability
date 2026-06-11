@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-10",
-  "total": 103,
-  "top_verdict": "MISSING CONTEXT",
+  "generated": "2026-06-11",
+  "total": 106,
+  "top_verdict": "MISLEADING",
   "verdicts": {
+    "MISLEADING": 26,
     "MISSING CONTEXT": 25,
-    "MISLEADING": 24,
     "DOCUMENTED PATTERN": 19,
     "CONTRADICTION": 13,
     "FALSE": 9,
@@ -12,16 +12,17 @@
     "FALSE ATTRIBUTION": 3,
     "DEFLECTION": 3,
     "MISSING ATTRIBUTION": 2,
+    "MOSTLY TRUE": 1,
     "NON-RESPONSIVE": 1,
     "INCONSISTENT": 1
   },
   "by_topic": {
     "Healthcare": 12,
-    "Government Operations": 10,
+    "Government Operations": 11,
     "Economy": 9,
+    "Immigration": 7,
     "Other": 7,
     "Transparency": 6,
-    "Immigration": 6,
     "Campaign Finance": 5,
     "Local Impact": 5,
     "Agriculture": 4,
@@ -35,6 +36,7 @@
     "Foreign Policy": 2,
     "Social Services": 2,
     "Veterans": 2,
+    "Disaster Recovery": 1,
     "Consumer Protection": 1,
     "Credit-Claiming": 1,
     "Animal Welfare": 1,
@@ -57,9 +59,30 @@
     "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
-    "2026-06": 5
+    "2026-06": 8
   },
   "entries": [
+    {
+      "title": "Jasper-Troupsburg's $60.5 Million: A Claim That Mostly Holds Up",
+      "date": "2026-06-10",
+      "verdict": "MOSTLY TRUE",
+      "topic": "Disaster Recovery",
+      "url": "/fact-checks/2026-06-10-jasper-troupsburg-fema-award/"
+    },
+    {
+      "title": "Marilla Apprehensions: The Operation He Cites Happened Under the Funding Democrats Voted For",
+      "date": "2026-06-10",
+      "verdict": "MISLEADING",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-06-10-marilla-defund-claim/"
+    },
+    {
+      "title": "Minnesota Fraud: Who 'Pulled Back the Curtain,' and Is There Really a '50 State' Investigation?",
+      "date": "2026-06-10",
+      "verdict": "MISLEADING",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-06-10-minnesota-fraud-50-state-claim/"
+    },
     {
       "title": "SECURE Data Act: Langworthy Cosponsors Federal Bill That Would Preempt the New York Privacy Law the State Senate Just Passed",
       "date": "2026-06-06",

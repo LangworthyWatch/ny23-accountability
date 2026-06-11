@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: April 30, 2026*
+*Last updated: June 11, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 84 Fact-Checks Published
+## Content: 106 Fact-Checks Published
 
 ### Topics Covered
 
@@ -25,8 +25,9 @@
 | NY Utility Rates (data investigation) | 12 | Complete |
 | IDA donor-to-exemption pattern | 3 | Complete; 74 donors documented |
 | One Big Beautiful Bill / OBBBA | 4 | Complete (SNAP, working families, WFTC, real-cost framing) |
-| Minnesota fraud (hearing claims + comparative) | 2 | Complete |
-| Immigration framing | 3 | Complete |
+| Minnesota fraud (hearing claims + comparative + 50-state/stayed-buried) | 3 | Complete |
+| Immigration framing (incl. Marilla "voted to defund") | 4 | Complete |
+| FEMA / disaster recovery (Jasper-Troupsburg $60.5M, MOSTLY TRUE + BRIC context) | 1 | Complete — watching for his position on Review Council / BRIC |
 | Farm Bill (SNAP, House Ag, telehealth, USDA cuts) | 1 (4 sections) | Complete — update when Senate acts |
 | Scotland trip / "service over self" | 1 | Complete |
 | FeedMore WNY earmark vs. cuts | 1 | Complete — monitor for Langworthy statement |
@@ -58,6 +59,11 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 - Footer: navy bar, `langworthywatch.org · NY-23 Accountability · All sources public record`
 - Font: Arial Bold for headers/labels, Impact for large numbers, Arial for body
 
+**Active scripts (`social-media/`, June 10 batch):**
+- `create_minnesota_50state_card.py` → `minnesota_50state_claim.png`
+- `create_marilla_defund_card.py` → `marilla_defund_claim.png`
+- `create_jasper_troupsburg_card.py` → `jasper_troupsburg_fema_award.png` (first MOSTLY TRUE / green-badge card)
+
 **Active scripts (`~/Downloads/`):**
 - `create_scotland_service_graphic.py` → `langworthy_scotland_service.png`
 - `create_feedmore_graphic.py` → `langworthy_feedmore.png`
@@ -80,6 +86,9 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 | Blackstone → Huizenga | Research complete; NOT published | Needs reframe: carried interest vote + Basel III are clean claims; INVEST Act provision was Ann Wagner's bill, not Huizenga's |
 | Jamestown USCP RFI denial | Published | USCP appeal filed 2026-04-26; awaiting response |
 | County profiles | 2 of 8 done | Chemung, Cattaraugus, Chautauqua, Erie, Allegany, Schuyler remaining |
+| H.R. 6047 veterans loan fees | Drafted + verified; NOT published | Entry in repo as draft: true; needs archive pass + review + publish. Rules votes 342/343 + CBO figures all primary-sourced |
+| FEMA Review Council / BRIC | Watching | No Langworthy statement located (checked June 10) on May 7 report, BRIC cancellation, or staffing cuts; Jasper-Troupsburg entry carries the open questions |
+| June 10 FB post permalinks | Pending | Minnesota, Marilla, Jasper-Troupsburg entries quote posts verified from screenshots; need permalinks + screenshots archived to static/images/ |
 
 ---
 
