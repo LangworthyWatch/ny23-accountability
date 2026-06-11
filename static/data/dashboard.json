@@ -1,11 +1,11 @@
 {
   "generated": "2026-06-11",
-  "total": 106,
+  "total": 107,
   "top_verdict": "MISLEADING",
   "verdicts": {
     "MISLEADING": 26,
     "MISSING CONTEXT": 25,
-    "DOCUMENTED PATTERN": 19,
+    "DOCUMENTED PATTERN": 20,
     "CONTRADICTION": 13,
     "FALSE": 9,
     "MULTIPLE": 3,
@@ -19,7 +19,7 @@
   "by_topic": {
     "Healthcare": 12,
     "Government Operations": 11,
-    "Economy": 9,
+    "Economy": 10,
     "Immigration": 7,
     "Other": 7,
     "Transparency": 6,
@@ -59,9 +59,16 @@
     "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
-    "2026-06": 8
+    "2026-06": 9
   },
   "entries": [
+    {
+      "title": "230 Jobs in His Hometown: The Closure Whose Filing Names Tariffs, and the Silence Around It",
+      "date": "2026-06-11",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-06-11-esolutions-bush-industries-closure/"
+    },
     {
       "title": "Jasper-Troupsburg's $60.5 Million: A Claim That Mostly Holds Up",
       "date": "2026-06-10",
