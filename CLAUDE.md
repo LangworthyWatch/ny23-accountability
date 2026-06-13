@@ -357,16 +357,19 @@ The slash command (defined in `.claude/commands/fact-check-review.md`) walks an 
 
 ## Slash commands available in this project
 
-Six slash commands live under `.claude/commands/`. They work together as a fact-check pipeline:
+Nine slash commands live under `.claude/commands/` (plus `/wrap` at the project root). The core ones work together as a fact-check pipeline:
 
 | Command | When to use | Output |
 |---|---|---|
 | `/ny23-fact-check [topic]` | **Create** a new fact-check entry from a claim, statement, vote, or constituent letter | Drafted entry under `content/fact-checks/YYYY-MM-DD-slug.md` with `draft: true` and the right frontmatter / verdict structure |
 | `/source-attribution-check [file]` | **Find unsourced claims** in a draft — quotes without attribution, statistics without citations, "experts say" without naming experts | Structured list of attribution gaps; non-blocking |
 | `/tier-a-confirm [list-or-file]` | **Promote Tier-B claims to Tier-A** — parallelize verbatim-quote verification across 3-6 agents, each fetching a primary source. Run when a draft cites WebSearch summaries instead of primary documents | Per-claim status grid (CONFIRMED / PARTIAL / NEGATIVE / DEFERRED) + suggested edits to the draft entry |
-| `/fact-check-review [file]` | **Pre-publish verifier** — runs the four-failure-mode checklist (see section above) | Critical / Recommended / Nice-to-have findings list; do NOT auto-edit |
+| `/fact-check-review [file]` | **Pre-publish verifier** — runs the five-failure-mode checklist (see section above) | Critical / Recommended / Nice-to-have findings list; do NOT auto-edit |
 | `/fec-donor-scan [name-or-cmte]` | **FEC donor + committee lookup** via the shared DuckDB index at `~/data/public-ledger/federal/fec/fec_index.duckdb`. Sub-second queries replacing 3-8 min grep | Donor rollup tables with cycle / committee / amount / N transactions |
 | `/capture-findings [topic-or-mode]` | **Backlog tracking** for follow-ups that aren't doable now — Q2 FEC drops, Wayback retries, pending FOILs, story leads | Append to `FINDINGS_BACKLOG.md` with type / priority / action-date |
+| `/news-scan` | **Web relevance sweep** — scan for new Langworthy / NY-23 / federal-bill developments, triage vs. existing entries, keep only net-new on-mission items | Dated digest; actionable hits routed to `/capture-findings` |
+| `/campaign-graphic-brief [goal]` | **Accessible design spec** for a social card, produced before design work begins | Spec (not the graphic) for the `social-media/create_*_card.py` Pillow script |
+| `/accessibility-audit [path/url]` | **WCAG 2.1 AA audit** of the Hugo site + social cards, mapped back to source files | Findings by severity, mapped to templates / CSS / content / cards |
 | `/wrap` (project root) | Session wrap — closing summary | One-shot |
 
 ### Standard fact-check pipeline
@@ -375,7 +378,7 @@ Six slash commands live under `.claude/commands/`. They work together as a fact-
 2. Manual research + drafting in the entry
 3. `/source-attribution-check` → finds unsourced claims
 4. `/tier-a-confirm` → promotes Tier-B claims to Tier-A via parallel agents
-5. `/fact-check-review` → runs the four-failure-mode checklist
+5. `/fact-check-review` → runs the five-failure-mode checklist
 6. Apply Critical / Recommended findings; re-run `/fact-check-review` if substantive changes made
 7. `scripts/archive_sources.sh` → archive cited URLs to Wayback
 8. Update `content/fact-checks/_index.md` summary table

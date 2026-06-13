@@ -27,6 +27,14 @@ masters). Sub-second columnar scans replace the ad-hoc 3–8 min grep pattern.
 > shipped with a wrong "$0" donor finding because of this — the correction
 > ($270,500 from 21 endorser-coalition PACs) was pushed after the bug was caught.
 
+> **⚠️ oth / leadership-PAC gap (validated 2026-06-13).** PAC-to-candidate gifts
+> live in `pas2`; PAC-to-PAC gifts — including money to a **leadership PAC**
+> like Circle the Wagons (`C00827881`) — appear ONLY in `oth{cycle}.txt`, never
+> in `pas2`. An incoming sweep that queries `pas2` alone silently misses them.
+> Scan `pas2` **and** `oth`, filter recipient on all five Langworthy committees,
+> and dedupe (a candidate-committee gift is mirrored in both files). Caught when
+> NAHB BUILD-PAC's $5,000 to Circle the Wagons was invisible to a pas2-only scan.
+
 ## Langworthy-specific reference
 
 | Identifier | Value |
@@ -34,6 +42,13 @@ masters). Sub-second columnar scans replace the ad-hoc 3–8 min grep pattern.
 | Candidate ID | `H2NY23228` |
 | Principal campaign cmte (LfC) | `C00817932` |
 | JFC (LCVC) | `C00832188` |
+| Leadership PAC (Circle the Wagons) | `C00827881` |
+| JFC (Langworthy Molinaro Victory Cmte) | `C00888073` |
+| JFC (Langworthy Leadership & Accountability Fund) | `C00934109` |
+
+> **Sweep ALL five committees for incoming money, not just LfC + the JFC.** The
+> leadership PAC `C00827881` is a frequent recipient and is easy to miss — its
+> donations don't show under the principal committee.
 
 Sub-second queries for:
 - "What did X give, to whom, when, how much?" (donor rollup)
