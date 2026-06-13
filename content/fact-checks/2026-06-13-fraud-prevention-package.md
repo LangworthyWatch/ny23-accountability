@@ -47,6 +47,8 @@ On June 10, 2026, the House passed two relevant bills, both of which Langworthy 
 
 Both passed with unanimous Republican support and some Democratic votes (36 Democrats for H.R. 7892; 28 for H.R. 8312). H.R. 8312 is one of 11 anti-fraud measures the Oversight Committee moved that week.
 
+Both bills then went to the Senate, received June 11, 2026: H.R. 7892 was referred to the Senate Health, Education, Labor, and Pensions Committee, and H.R. 8312 awaits a committee referral. Neither has become law.
+
 ---
 
 ## Claim 2: "The federal government loses $233 billion to $521 billion to fraud"
@@ -82,7 +84,7 @@ None of this makes the bills bad or the figure false. It means the posts pair an
 
 ## Overall Verdict: MISSING CONTEXT
 
-Every discrete claim checks out: Langworthy voted for the bills, the bills passed the House, and the $233–$521B figure is a genuine GAO estimate. The missing context is what that figure can and cannot show — GAO says it cannot be attributed to any program — and that the bills are recently passed House measures, not yet law, that face an uncertain Senate.
+Every discrete claim checks out: Langworthy voted for the bills, the bills passed the House, and the $233–$521B figure is a genuine GAO estimate. The missing context is what that figure can and cannot show — GAO says it cannot be attributed to any program — and that the bills are recently passed House measures, received in the Senate June 11, 2026 and not yet law.
 
 ---
 
@@ -90,7 +92,7 @@ Every discrete claim checks out: Langworthy voted for the bills, the bills passe
 
 1. GAO says its $233–$521B estimate cannot be broken down by program. Which programs does Rep. Langworthy understand that figure to describe?
 2. The Fraud Prevention and Accountability Act extends anti-fraud analytics tools built for pandemic-era spending. How much of the cited fraud do those tools actually address?
-3. These bills passed the House but are not yet law. What is their status in the Senate?
+3. These bills are recently passed House measures awaiting Senate action. What is the estimated dollar amount of fraud they are projected to prevent or recover?
 
 ---
 
@@ -123,7 +125,7 @@ Every discrete claim checks out: Langworthy voted for the bills, the bills passe
 <!-- DRAFT 2026-06-13. Pre-publish checklist before flipping draft:false:
 1. Replace source_url with the three Facebook post permalinks; archive each + save screenshots to static/images/fact-checks/ (post text captured verbatim from user-supplied screenshots 2026-06-13).
 2. /tier-a-confirm the bill titles + roll-call details (congress.gov 403s to non-browser fetches; verified via clerk XML + Oversight release + govinfo + GovTrack in research pass).
-3. Confirm Senate status of H.R. 7892 and H.R. 8312 at publish time.
+3. Senate status confirmed 2026-06-13 (both received in Senate June 11; H.R. 7892 -> Senate HELP Cmte; H.R. 8312 awaiting referral) — re-confirm at publish.
 4. archive_sources.sh on all source URLs; add Wayback links to Sources.
 5. Update content/fact-checks/_index.md summary table.
 6. /fact-check-review before commit.
