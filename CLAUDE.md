@@ -318,9 +318,9 @@ Before committing new content:
 
 ## Pre-Publish Review (CRITICAL — added 2026-05-06)
 
-**Why this section exists:** During a May 2026 audit pass, four recurring failure modes were caught in fact-check drafts *before* publication. Each had to be corrected after a careful reader spotted the issue. The patterns are predictable enough to enforce as a checklist. Run the `/fact-check-review <file>` slash command before committing any new fact-check, OR walk through this list manually.
+**Why this section exists:** During a May 2026 audit pass, four recurring failure modes were caught in fact-check drafts *before* publication. Each had to be corrected after a careful reader spotted the issue. The patterns are predictable enough to enforce as a checklist. Run the `/fact-check-review <file>` slash command before committing any new fact-check, OR walk through this list manually. (A fifth mode — membership/affiliation claims taken from aggregators — was added after a June 13, 2026 review.)
 
-### The four failure modes to actively check for
+### The five failure modes to actively check for
 
 1. **Tool summaries treated as primary-source quotes.** When a WebFetch on the source article fails (timeout, 403, paywall), do **not** silently substitute a WebSearch tool's summary or paraphrase as if it were the actual quote. The right move is to retry, dispatch a research agent, or omit the specific number/quote. Search summaries are *paraphrases by an LLM* — they are not citations. Symptom to watch for: a number cited in the fact-check that you cannot point to in the actual primary document.
 
@@ -329,6 +329,8 @@ Before committing new content:
 3. **Atmospheric detail without a source.** Adding "the helicopter had been in service since the 1970s" or similar background-color claims to make an entry read better is a credibility liability if the detail is wrong. If you cannot point to a specific cited source for a date, age, or descriptive fact, either find one or remove the detail. Symptom: a date, vintage, age, or descriptor in the entry body that you didn't see in the linked sources.
 
 4. **Conflated numbers from different snapshots.** Subtracting an "original total invoice" from a "remaining balance after partial payments" produces a meaningless "shortfall." Always confirm that two numbers being compared (or used in arithmetic) refer to the same point in time and the same scope. Symptom: any derived figure (a difference, a ratio, a percentage) that requires combining two numbers from different sources or different time-points.
+
+5. **Membership/affiliation claims taken from aggregators or pattern-matching.** Any "X is a cosponsor of," "X serves on," "X signed the letter," or "X endorsed" claim must be verified against the *authoritative* roster — for cosponsors, the congress.gov bill **cosponsors** list; for letter signatories, the actual letter PDF — **not** a secondary aggregator (GovTrack, billsponsor) and **not** inferred because *similar* entities qualify. These errors are categorical (the person isn't on the list at all), not imprecisions, and they look plausible, which is why they survive a casual read. Symptom: a cosponsor/member/signatory claim that "fits the pattern" but was never checked against the primary roster. Caught June 13, 2026: a draft asserted Langworthy cosponsored H.R. 6644 (sourced to GovTrack, flagged MEDIUM confidence); the congress.gov cosponsor list showed sponsor French Hill + 31 cosponsors — two *other* NY Republicans, but not Langworthy. Fix: verify at draft-time (cosponsorship is one congress.gov `/cosponsors` call), hedge it in the body if unverified, or omit it — never state it flat at less-than-confirmed.
 
 ### Internal-consistency check
 
@@ -349,7 +351,7 @@ If a finding rests on an inference (filer = staff, "almost certainly," "likely,"
 /fact-check-review content/fact-checks/2026-MM-DD-slug.md
 ```
 
-The slash command (defined in `.claude/commands/fact-check-review.md`) walks an Explore-style verification agent through the four failure modes against the entry. Use it before every commit to `content/fact-checks/`.
+The slash command (defined in `.claude/commands/fact-check-review.md`) walks an Explore-style verification agent through the five failure modes against the entry. Use it before every commit to `content/fact-checks/`.
 
 ---
 

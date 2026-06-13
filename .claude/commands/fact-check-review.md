@@ -1,5 +1,5 @@
 ---
-description: Verify a fact-check entry against its cited primary sources. Catches the four failure modes documented in CLAUDE.md.
+description: Verify a fact-check entry against its cited primary sources. Catches the five failure modes documented in CLAUDE.md.
 ---
 
 # /fact-check-review
@@ -10,7 +10,7 @@ The argument to this command is the path to the fact-check markdown file. If no 
 
 ## What you are checking for
 
-Four specific failure modes that have caused real corrections in this project:
+Five specific failure modes that have caused real corrections in this project:
 
 1. **Tool summaries treated as primary-source quotes.** Any number, dollar figure, or quoted sentence in the entry that came from a WebSearch tool summary rather than the actual primary document is suspect. The fix is to fetch the primary document yourself and verify the cited number/quote appears there exactly as the entry says.
 
@@ -19,6 +19,8 @@ Four specific failure modes that have caused real corrections in this project:
 3. **Atmospheric detail without a source.** Any date, vintage, age, or background descriptor that isn't traceable to a specific cited URL is suspect. Examples: "the helicopter had been in service since the 1970s" was added without any source — it was speculation that turned out to be wrong.
 
 4. **Conflated numbers from different snapshots.** Any derived number (a difference, ratio, percentage, or "shortfall") that combines two numbers from different sources or different time-points is suspect. Examples: subtracting an "original total invoice" from a "remaining balance after partial payments" produces a meaningless shortfall figure.
+
+5. **Membership/affiliation claims taken from aggregators or pattern-matching.** Any "X is a cosponsor of," "X serves on," "X signed," or "X endorsed" claim must be verified against the authoritative roster (the congress.gov bill **cosponsors** list; the actual letter PDF) — not GovTrack/billsponsor, and not inferred because similar entities qualify. The fix is to fetch the authoritative roster yourself and confirm the named person is actually on it. Symptom: a cosponsor/member/signatory claim that "fits the pattern" (e.g., a NY Republican on a bipartisan NY bill) but was sourced to an aggregator at less-than-confirmed status. (Caught June 13, 2026 — a false H.R. 6644 cosponsorship claim.)
 
 ## Process
 
@@ -65,7 +67,7 @@ Four specific failure modes that have caused real corrections in this project:
 ## What success looks like
 
 A pre-publish review where:
-- All four failure modes have been actively checked for, with explicit notes on what was checked
+- All five failure modes have been actively checked for, with explicit notes on what was checked
 - Any number/quote/date that couldn't be verified is flagged for the user, not silently approved
 - Internal contradictions (the kind that tripped up the helicopter fact-check before publication) are surfaced clearly
 - Edits are proposed but not auto-applied
@@ -79,4 +81,4 @@ A pre-publish review where:
 
 ## Reference
 
-The four failure modes are documented in `CLAUDE.md` under the "Pre-Publish Review" section. See that section for the full context on why each one matters.
+The five failure modes are documented in `CLAUDE.md` under the "Pre-Publish Review" section. See that section for the full context on why each one matters.

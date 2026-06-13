@@ -319,3 +319,4 @@ When converting a constituent letter response into a fact-check:
 - Use DOCUMENTED PATTERN for fewer than 3 instances
 - Forget bidirectional cross-linking with related entries
 - Make accusations of criminal conduct or speculate about motives (per CLAUDE.md)
+- State a membership/cosponsorship/signatory/relationship claim ("X is a cosponsor," "X signed," "X serves on") as a flat fact unless verified against the *authoritative* roster (congress.gov `/cosponsors`, the actual letter PDF) — never an aggregator like GovTrack. If unverified, hedge it in the body or omit it (CLAUDE.md Pre-Publish Review, failure mode #5)
