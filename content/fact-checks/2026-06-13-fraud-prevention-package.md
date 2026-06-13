@@ -28,9 +28,15 @@ Rep. Langworthy sits on the House Oversight and Government Reform Committee, whi
 
 > "So-called 'ghost students' aren't students at all. They're fraudsters stealing and scamming taxpayer dollars meant for education. Stopping this fraud protects taxpayers, supports families, and ensures education funding reaches those who truly need it." *(linking WBNG: "Rep. Langworthy highlights fraud prevention legislation package passed by House of Representatives")*
 
+{{< figure src="/images/fact-checks/2026-06-13-fraud-prevention-package-ghost-students-post.png" alt="Facebook post from Rep. Nick Langworthy stating that 'ghost students' are fraudsters stealing education aid, sharing a WBNG story headlined 'Rep. Langworthy highlights fraud prevention legislation package passed by House of Representatives.'" caption="Facebook post — Rep. Nick Langworthy" >}}
+
 > "It's estimated that every year the federal government loses $233 billion to $521 billion to FRAUD. That's unacceptable. The Working Families Tax Cut put more money in Americans' pockets, but we must tackle the spending side of the ledger too."
 
+{{< figure src="/images/fact-checks/2026-06-13-fraud-prevention-package-233b-521b-fraud-post.png" alt="Facebook post from Rep. Nick Langworthy citing a $233 billion to $521 billion federal fraud estimate and the Working Families Tax Cut, over a video captioned 'But the Minnesota fraud.'" caption="Facebook, June 11, 2026" >}}
+
 > "The Fraud Prevention and Accountability Act is common sense. You wouldn't pay your mortgage, utility bill, or contractor without knowing the amount or verifying who gets the money. Washington shouldn't either. Verify first. Pay second. Protect taxpayers."
+
+{{< figure src="/images/fact-checks/2026-06-13-fraud-prevention-package-fraud-prevention-act-post.png" alt="Facebook post from Rep. Nick Langworthy describing the Fraud Prevention and Accountability Act as common sense — 'Verify first. Pay second. Protect taxpayers' — over a video reading 'Anti-fraud bills passed by...'" caption="Facebook post — Rep. Nick Langworthy" >}}
 
 ---
 
@@ -123,7 +129,7 @@ Every discrete claim checks out: Langworthy voted for the bills, the bills passe
 **Note:** This entry documents publicly available information from congressional records, House Clerk roll-call votes, and Government Accountability Office reports. It makes no allegation of unlawful conduct.
 
 <!-- DRAFT 2026-06-13. Pre-publish checklist before flipping draft:false:
-1. Replace source_url with the three Facebook post permalinks; archive each + save screenshots to static/images/fact-checks/ (post text captured verbatim from user-supplied screenshots 2026-06-13).
+1. Screenshots added to static/images/fact-checks/ 2026-06-13 and embedded via figure shortcodes. STILL NEEDED: the three Facebook post permalinks (the screenshots are cropped to the post card — no URL captured); replace the generic source_url + add archived_url when available. Publishing with the generic source_url (facebook.com/RepLangworthy) follows the Minnesota-entry precedent.
 2. /tier-a-confirm the bill titles + roll-call details (congress.gov 403s to non-browser fetches; verified via clerk XML + Oversight release + govinfo + GovTrack in research pass).
 3. Senate status confirmed 2026-06-13 (both received in Senate June 11; H.R. 7892 -> Senate HELP Cmte; H.R. 8312 awaiting referral) — re-confirm at publish.
 4. archive_sources.sh on all source URLs; add Wayback links to Sources.

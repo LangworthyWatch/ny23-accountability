@@ -28,6 +28,8 @@ Housing affordability is a live issue across NY-23. When a member touts an indus
 
 > "Honored to receive NAHB's 'Defender of Housing' Award. At a fireside chat, I shared how Congress is fighting to lower costs, protect energy choices, and make homeownership more attainable. Grateful for NAHB's partnership and support."
 
+{{< figure src="/images/fact-checks/2026-06-13-nahb-defender-of-housing-award-post.png" alt="Facebook post from Rep. Nick Langworthy announcing the National Association of Home Builders' Defender of Housing Award, with photos of him accepting the award at a fireside chat." caption="Facebook, June 11, 2026" >}}
+
 ---
 
 ## Context: who gives the award, and the donor relationship
@@ -132,7 +134,7 @@ The award is real and the "homeownership more attainable" claim has genuine supp
 **Note:** This entry documents publicly available information from FEC records, congressional roll-call votes, NAHB publications, and the Federal Register. It makes no allegation of unlawful conduct. Industry endorsements and PAC contributions are lawful and routine; this entry documents them as context for the member's public claim.
 
 <!-- DRAFT 2026-06-13. Pre-publish checklist:
-1. Replace source_url with the June 11 award post permalink; archive + screenshot to static/images/fact-checks/ (post text captured verbatim from user screenshot 2026-06-13; award post not independently re-located by research agent — treat as user-supplied premise until permalink secured).
+1. Screenshot added to static/images/fact-checks/ 2026-06-13 and embedded via figure shortcode. STILL NEEDED: the June 11 award post permalink (the screenshot is cropped to the post card — no URL captured); replace the generic source_url + add archived_url when available. Generic source_url follows the Minnesota-entry precedent.
 2. /tier-a-confirm DONE 2026-06-13 (pre-publish review): H.R. 3699 sponsorship + bill text, Roll 65/190 votes, NAHB $10,900 figure, and award definition all CONFIRMED against primary sources. FEC $16,500 across 5 gifts confirmed via live FEC API (Schedule B for C00000901), including the 2022 $2,500 gift — fully verified.
 3. CORRECTION applied 2026-06-13: removed an H.R. 6644 (ROAD to Housing) cosponsorship claim — Congress.gov shows sponsor French Hill + 31 cosponsors, Langworthy NOT among them. Remaining MEDIUM-confidence/optional: exact OBBBA energy-code repeal sections; HUD funding specifics.
 4. archive_sources.sh + add Wayback links.
