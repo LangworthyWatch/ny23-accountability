@@ -1,7 +1,7 @@
 ---
 title: "Langworthy's 'Defender of Housing' Award: The Donor Behind It, and the Tariff Vote It Doesn't Mention"
 date: 2026-06-13
-draft: true
+draft: false
 topic: "Housing / Campaign Finance"
 claim_date: "June 11, 2026"
 source: "Facebook Post"

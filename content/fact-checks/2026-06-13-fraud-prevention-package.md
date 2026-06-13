@@ -1,7 +1,7 @@
 ---
 title: "Langworthy's 'Fraud Prevention' Push: What the Bills Do, and What the $233–$521 Billion Figure Measures"
 date: 2026-06-13
-draft: true
+draft: false
 topic: "Government Oversight / Fraud"
 claim_date: "June 11–12, 2026"
 source: "Facebook Posts"
