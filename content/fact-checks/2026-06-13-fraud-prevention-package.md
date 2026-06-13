@@ -42,8 +42,8 @@ On June 10, 2026, the House passed two relevant bills, both of which Langworthy 
 
 | Bill | What it does | Vote | Langworthy |
 |---|---|---|---|
-| H.R. 8312 — Fraud Prevention and Accountability Act (Sessions) | Gives federal Inspectors General permanent access to the anti-fraud data-analytics tools developed by the Pandemic Response Accountability Committee | [Roll Call 218](https://clerk.house.gov/Votes/2026218): 240–181 | Yea |
-| H.R. 7892 — No Aid for Ghost Students Act (Owens) | Requires the Department of Education to run an identity-fraud screen on every FAFSA; flagged applicants must verify their identity before federal aid is released | [Roll Call 217](https://clerk.house.gov/Votes/2026217): 249–172 | Yea |
+| H.R. 8312 — Fraud Prevention and Accountability Act (Sessions) | Gives federal Inspectors General permanent access to the anti-fraud data-analytics tools developed by the Pandemic Response Accountability Committee | [Roll Call 218](https://clerk.house.gov/evs/2026/roll218.xml): 240–181 | Yea |
+| H.R. 7892 — No Aid for Ghost Students Act (Owens) | Requires the Department of Education to run an identity-fraud screen on every FAFSA; flagged applicants must verify their identity before federal aid is released | [Roll Call 217](https://clerk.house.gov/evs/2026/roll217.xml): 249–172 | Yea |
 
 Both passed with unanimous Republican support and some Democratic votes (36 Democrats for H.R. 7892; 28 for H.R. 8312). H.R. 8312 is one of 11 anti-fraud measures the Oversight Committee moved that week.
 
@@ -111,8 +111,8 @@ Every discrete claim checks out: Langworthy voted for the bills, the bills passe
 * House Oversight Committee: [House Passes 11 Oversight Committee Bills to Stop Fraud in Federal Programs](https://oversight.house.gov/release/house-passes-11-oversight-committee-bills-to-stop-fraud-in-federal-programs/) (June 11, 2026)
 
 **Votes (primary):**
-* [Roll Call 218](https://clerk.house.gov/Votes/2026218) — H.R. 8312, June 10, 2026 (Langworthy: Yea)
-* [Roll Call 217](https://clerk.house.gov/Votes/2026217) — H.R. 7892, June 10, 2026 (Langworthy: Yea)
+* [Roll Call 218](https://clerk.house.gov/evs/2026/roll218.xml) — H.R. 8312, June 10, 2026 (Langworthy: Yea)
+* [Roll Call 217](https://clerk.house.gov/evs/2026/roll217.xml) — H.R. 7892, June 10, 2026 (Langworthy: Yea)
 
 **GAO figure (primary):**
 * GAO: [Fraud Risk Management: 2018–2022 Data Show Federal Government Loses an Estimated $233 Billion to $521 Billion Annually to Fraud](https://www.gao.gov/products/gao-24-105833) (GAO-24-105833, April 16, 2024)

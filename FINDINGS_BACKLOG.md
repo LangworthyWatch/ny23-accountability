@@ -30,8 +30,8 @@
 - **Source:** background archive job (`/tmp/archive_drafts_2026-06-13.log`)
 - **Type:** archive-gap
 - **Priority:** medium
-- **Detail:** Source URLs for both drafts were submitted to web.archive.org/save/ on 2026-06-13. congress.gov URLs 403 to non-browser fetches and may not capture; clerk.house.gov XML, gao.gov, nahb.org, fec.gov, and govinfo should capture fine.
-- **Action:** review the log; for any non-200, retry once, and at publish populate each entry's `archived_url` + per-source Wayback links (use clerk XML / govinfo as the archivable primary for any congress.gov source).
+- **Detail:** 2026-06-13 Wayback run captured **7 of 20** (302): clerk evs XML roll065 + roll190, langworthy.house.gov press release, fec.gov C00000901, govinfo bill-text + Federal Register, nahb.org award page. **13 timed out** (000, 60s limit / archive.org throttling — not permanent): congress.gov ×2 (always blocks), gao.gov ×2, oversight.house.gov, govtrack, the clerk `/Votes/` human pages ×2, and 5 nahb.org blog/press URLs.
+- **Action:** at publish, re-run archiving for the 13 timeouts and populate each entry's `archived_url` + per-source Wayback links. **TIP (validated 2026-06-13):** the clerk `/Votes/2026NNN` human pages time out, but `/evs/YYYY/rollNNN.xml` archives reliably — cite the evs XML form (now done in both 2026-06-13 entries). For congress.gov (always blocked), archive the govinfo BILLSTATUS/bill-text equivalent instead.
 - **Status:** open
 
 ### congress.gov blocks non-browser fetches (recurring)
