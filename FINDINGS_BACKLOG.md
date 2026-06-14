@@ -14,7 +14,7 @@
 
 | Item | Card / text | Live entry? | Social status |
 |---|---|---|---|
-| State of the District — Q2 2026 | posted as link | yes | **POSTED** (confirmed by Zach, June 2026) |
+| State of the District — Q2 2026 | **card + text ready** (created 2026-06-14) | yes | posting now (digest card + post text built; Zach noted an earlier link share) |
 | Jasper-Troupsburg FEMA ($60.5M, MOSTLY TRUE) | card + text ready | corrected version pending deploy | **READY** — hold until the corrected entry deploys |
 | Minnesota 50-state fraud | card + text on disk | yes | UNCONFIRMED — verify whether posted |
 | Marilla "voted to defund" | card + text on disk | yes | UNCONFIRMED — verify whether posted |
