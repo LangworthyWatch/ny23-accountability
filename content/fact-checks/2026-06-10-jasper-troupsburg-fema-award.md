@@ -22,11 +22,15 @@ This site documents the gap between what Rep. Langworthy says and what the recor
 
 ---
 
-## Statement
+## Statements
 
 **Source:** Facebook Post, June 9, 2026
 
 > "Proud to have helped secure $60.5 million in @fema funds to rebuild Jasper-Troupsburg schools. After years of fighting for this community, a brighter future is within reach for NY23."
+
+**Source:** Facebook post recapping a WHAM 1180 radio interview, June 13, 2026
+
+> "We talked about the $60.5 million I helped secure with FEMA … for the Jasper-Troupsburg Central School District. Students can learn in a safe, modern school, and families won't have to worry about the next flood."
 
 ---
 
@@ -34,9 +38,10 @@ This site documents the gap between what Rep. Langworthy says and what the recor
 
 - **$60,493,661.51** awarded to the Jasper-Troupsburg Central School District through FEMA's **Public Assistance Program**, under the major disaster declaration for Tropical Storm Fred.
 - The total project is estimated at **$67.2 million**; FEMA's share is a **90% federal cost share**.
-- The funding replaces the district's junior/senior high school and related facilities — a campus flooded by the remnants of **Tropical Storm Fred in August 2021** and flooded again, mid-repair, by the remnants of **Tropical Storm Debby in August 2024**.
+- The award funds a new junior/senior high school for a campus flooded by the remnants of **Tropical Storm Fred in August 2021** and flooded again, mid-repair, by the remnants of **Tropical Storm Debby in August 2024**.
+- **The project relocates the school out of the floodplain.** Per Langworthy's office, the award "includes more than $5 million in hazard mitigation funding, allowing the district to rebuild outside the floodplain." The district is moving the campus to vacant land on Route 36/417 (which it has under purchase contract); local reporting describes the approved FEMA project as letting the district relocate and build at a nearby site with significantly lower flood risk, and Schumer said the district "met the federal criteria to move the school."
 
-**In plain language:** A small rural school district's campus was destroyed twice in three years. The federal government is paying 90 cents of every rebuild dollar — roughly $60.5 million — through FEMA's standard disaster-recovery program.
+**In plain language:** A small rural school district's campus was destroyed twice in three years. The federal government is paying 90 cents of every dollar — roughly $60.5 million — not just to rebuild but to **move the school off the floodplain**, with more than $5 million specifically for flood mitigation.
 
 ---
 
@@ -46,6 +51,7 @@ This site documents the gap between what Rep. Langworthy says and what the recor
 2. **"Helped secure" is careful phrasing.** The post claims a contributing role, not sole authorship. By comparison, Senator Schumer's office announced the identical award under the headline "SCHUMER SECURES $60 MILLION IN FEMA FUNDING," with Schumer saying "I'm proud and excited to deliver a whopping $60 million." Langworthy's "helped" is the more modest of the two framings.
 3. **"Years of fighting" is consistent with the record.** The disaster declaration dates to 2021; intermediate FEMA obligations to the district (over $5.6 million in 2022, $6.5 million subsequently) came with documented advocacy from multiple offices across that period.
 4. **His broader FEMA record supports the framing.** Langworthy cosponsored the bipartisan FEMA Act of 2025 (H.R. 4669) on January 27, 2026 — legislation to restructure FEMA as an independent, cabinet-level agency.
+5. **"Won't have to worry about the next flood" largely holds — the campus moves to significantly lower flood risk.** The project does not rebuild on the flooded site; it relocates the school out of the floodplain, with more than $5 million in hazard-mitigation funding. The protection is real and comes from siting (abandoning the flood-prone location), not from flood-proofing the old buildings. One precise note: the sources describe the new site as "significantly lower" flood risk, not zero — relocation reduces the risk substantially; it does not erase it.
 
 ---
 
@@ -57,7 +63,7 @@ This site documents the gap between what Rep. Langworthy says and what the recor
 
 **The program behind this award is on the table.** On May 7, 2026, the President's FEMA Review Council issued its final report recommending that the Public Assistance Program — the mechanism that produced this 90%-cost-share award — be replaced with fixed, parametric block grants to states ("RAPID"). Whether Rep. Langworthy supports that restructuring is not addressed in his post or, as of this writing, in any public statement we have located. His FEMA Act cosponsorship points in a different direction (a strengthened, independent FEMA), making his position on the Council's recommendations a fair and open question.
 
-**The rebuild is funded; the prevention program was canceled.** Jasper-Troupsburg's campus flooded twice in three years. On April 4, 2025, FEMA ended the Building Resilient Infrastructure and Communities (BRIC) program — the federal government's principal pre-disaster mitigation grant program, which had allocated more than $5 billion since 2020 for projects to reduce losses from floods and other disasters. FEMA's announcement called BRIC a "wasteful, politicized grant program"; the cancellation withdrew the $750 million fiscal year 2024 funding round and returned undistributed funds from the FY2020–2023 application cycles to the Disaster Relief Fund or the Treasury. The federal government is paying roughly $60.5 million to rebuild this campus after its second flood while the program designed to fund prevention of a third no longer exists. We have located no public statement from Rep. Langworthy on BRIC's cancellation.
+**This school is being moved out of harm's way; the broader prevention program was canceled.** This award rightly relocates Jasper-Troupsburg's campus out of the floodplain — but the school is one building. On April 4, 2025, FEMA ended the Building Resilient Infrastructure and Communities (BRIC) program — the federal government's principal *pre-disaster* mitigation grant program, which had allocated more than $5 billion since 2020 for projects to reduce losses from floods and other disasters. FEMA's announcement called BRIC a "wasteful, politicized grant program"; the cancellation withdrew the $750 million fiscal year 2024 funding round and returned undistributed funds from the FY2020–2023 application cycles to the Disaster Relief Fund or the Treasury. The Jasper-Troupsburg relocation protects this campus through *post*-disaster Public Assistance after two floods; the program that would help *other* flood-prone NY-23 homes, businesses, and facilities reduce risk *before* the next loss no longer exists. We have located no public statement from Rep. Langworthy on BRIC's cancellation.
 
 ---
 
@@ -65,7 +71,7 @@ This site documents the gap between what Rep. Langworthy says and what the recor
 
 1. The Review Council's May 7 report would replace the Public Assistance Program with fixed block grants. Does Rep. Langworthy support that recommendation, given that Jasper-Troupsburg's rebuild came through the existing program at a 90% cost share?
 2. Would a fixed block grant paid to New York State within 30 days of a declaration have produced $60.5 million for one small rural district's campus, or would the rebuild compete with every other project in the state's allocation?
-3. The campus flooded in 2021 and again in 2024. Does Rep. Langworthy support restoring BRIC or an equivalent pre-disaster mitigation program, so that flood-prone NY-23 communities are not limited to rebuilding after each loss?
+3. This school is being relocated out of the floodplain — genuine mitigation. Does Rep. Langworthy support restoring BRIC or an equivalent *pre-disaster* mitigation program, so that flood-prone NY-23 homes, businesses, and communities that don't qualify for a post-disaster relocation can also reduce risk before the next loss?
 
 ---
 
@@ -84,6 +90,11 @@ This site documents the gap between what Rep. Langworthy says and what the recor
 * WENY: [FEMA Awards $60.5 million to Help Rebuild Jasper-Troupsburg Schools](https://www.weny.com/news/fema-awards-60-5-million-to-help-rebuild-jasper-troupsburg-schools/article_3109a139-8cfb-47ad-94f1-3fbd49145ae0.html)
 * Schumer release (via Utica Phoenix): [After Years of Advocacy, Schumer Secures $60 Million in FEMA Funding](https://uticaphoenix.net/after-years-of-advocacy-schumer-secures-60-million-in-fema-funding/) — Schumer quote; Superintendent Oliver on Schumer's office
 
+**Relocation and mitigation:**
+* The Leader (Corning), via Yahoo: [FEMA awards Jasper-Troupsburg $60.5 million for new high school](https://www.yahoo.com/news/us/articles/fema-awards-jasper-troupsburg-60-152740163.html) — new site on Route 36/417 (vacant land, under purchase contract); Schumer on the district meeting federal criteria to move the school
+* Fingerlakes1: [$60 million secured for new Jasper-Troupsburg school after years of flood damage](https://www.fingerlakes1.com/2026/06/10/60-million-secured-for-new-jasper-troupsburg-school-after-years-of-flood-damage/) — relocation to a nearby site with significantly lower flood risk
+* Wellsville Sun: [Schumer/FEMA "We Secured" Puts Jasper-Troupsburg Community on the Path for a Safer Future](https://wellsvillesun.com/blog/2026/06/13/schumer-fema-we-secured-puts-jasper-troupsburg-community-on-the-path-for-a-safer-future/) (June 13, 2026)
+
 **Advocacy history:**
 * Schumer office: [2022 release — $5.6M+ for Jasper-Troupsburg emergency protective measures after the Fred disaster declaration](https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-after-fighting-to-secure-disaster-declaration-for-steuben-county-following-tropical-storm-fred-last-summer-we-are-pleased-to-announce-over-56-million-in-fema-funding-for-the-jasper-troupsburg-central-school-district-for-emergency-protective-measures-taken-during-the-flooding)
 * Schumer office: [$6.5M+ FEMA funding for Jasper-Troupsburg CSD and Steuben County](https://www.schumer.senate.gov/newsroom/press-releases/schumer-secures-65-million-in-fema-funding-for-jasper-troupsburg-central-school-district-and-steuben-county-to-bolster-ongoing-flood-recovery-and-help-community-rebuild-stronger)
@@ -100,10 +111,6 @@ This site documents the gap between what Rep. Langworthy says and what the recor
 
 **Note:** This entry documents publicly available information. The award, the advocacy, and the program mechanics are reported per FEMA, congressional offices, and the school district's public statements.
 
-<!-- PRE-PUBLISH TODO:
-1. Screenshot the June 9 Facebook post (text verified verbatim from user screenshot); permalink + archive.
-2. Archive all source URLs.
-3. Run /fact-check-review; update _index.md; flip draft: false.
--->
+<!-- UPDATED 2026-06-14: added the relocation + >$5M hazard-mitigation fact (the award moves the school out of the floodplain), prompted by a June 13 WHAM 1180 recap post claiming families "won't have to worry about the next flood" — verified accurate (relocation sourced to superintendent + FEMA + Schumer; $5M figure to Langworthy's office). Narrowed the BRIC framing to community-wide prevention. Re-ran /fact-check-review on the changed section. Pending: FB permalinks (June 9 + June 13 posts) + Wayback archive of sources (FINDINGS_BACKLOG). -->
 
-*Last updated: June 10, 2026*
+*Last updated: June 14, 2026*
