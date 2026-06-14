@@ -12,7 +12,7 @@ tags: ["disability", "education", "office-for-civil-rights", "restraint-and-secl
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
 
-**On May 18, 2026, Rep. Langworthy told disability advocates he would "keep working to protect critical support systems… for disabled Americans." In the same window, the federal office that investigates the abuse of disabled students collapsed — and NY-23 schools were restraining and secluding disabled children at rising rates.** The U.S. Department of Education's Office for Civil Rights (OCR) dismissed roughly 90% of complaints, closed its New York regional office, and reached zero resolution agreements on 172 pending restraint-and-seclusion cases. Langworthy — who sits on the Oversight Committee, endorsed devolving the Department, and declined to cosponsor the bipartisan bills to fund special education and curb restraint — has said nothing about any of it.
+**On May 18, 2026, Rep. Langworthy told disability advocates he would "keep working to protect critical support systems… for disabled Americans." In the same window, the federal office that investigates the abuse of disabled students collapsed — and NY-23 schools were restraining and secluding disabled children at rising rates.** The U.S. Department of Education's Office for Civil Rights (OCR) dismissed roughly 90% of complaints, closed its New York regional office, and reached zero resolution agreements on 172 pending restraint-and-seclusion cases nationally. Langworthy — who sits on the Oversight Committee, endorsed devolving the Department, and declined to cosponsor the bipartisan bills to fund special education and curb restraint — has said nothing about any of it.
 
 ---
 
@@ -41,7 +41,7 @@ In 2025–26, the Department of Education's Office for Civil Rights — the agen
 - **~90% of complaints dismissed.** Of 7,072 complaints resolved between March 11 and September 23, 2025, **6,353 were dismissed**; only **635 of 9,269 complaints (6.9%) were opened for investigation** (GAO-26-108320, Jan. 29, 2026).
 - **Half the offices closed — including New York's.** OCR closed **7 of its 12 regional offices**, among them the **New York (Region II) office**, whose ~350 open investigations were absorbed by an already-overloaded Metro DC office.
 - **$28–38 million** was paid to OCR staff placed on administrative leave and barred from working (GAO).
-- **Restraint and seclusion: 172 pending cases, zero resolutions.** The Senate HELP Committee's April 2026 "Justice Denied" report found OCR reached **0 resolution agreements** on the **172 pending restraint-and-seclusion cases** in 2025, and just **1 agreement on 595 pending disability-harassment cases.** Total enforceable agreements fell to **112 in 2025, down from 507 in 2024 (–78%)** — a 12-year low. **New York had 627 pending cases and 1 agreement.**
+- **Restraint and seclusion: 172 pending cases, zero resolutions.** The Senate HELP Committee's April 2026 "Justice Denied" report found OCR reached **0 resolution agreements** on the **172 pending restraint-and-seclusion cases** in 2025, and just **1 agreement on 595 pending disability-harassment cases.** Total enforceable agreements fell to **112 in 2025, down from 507 in 2024 (–78%)** — a 12-year low. Per the report's state-by-state data, **New York had 627 pending cases and 1 agreement.**
 
 **In plain language:** The federal office that is supposed to investigate when a disabled child is restrained or secluded stopped doing so — dismissing the overwhelming majority of complaints, closing the office that served New York, and resolving none of the restraint cases on its desk.
 
@@ -79,7 +79,7 @@ Against that backdrop, the record of what Langworthy did — and did not — do:
 In fairness to the record:
 
 - **Langworthy is not an abolitionist on the Department of Education.** He did not cosponsor the bill to terminate it (H.R. 899), which his NY colleague Rep. Tenney did. His stated position is the softer "devolve and streamline."
-- **He did not cast a floor vote to gut OCR.** The OCR layoffs and office closures were executive-branch actions (reductions in force), not a Langworthy vote. The FY2026 funding he did vote for ([Roll Call 45](https://clerk.house.gov/evs/2026/roll045.xml) and [Roll Call 53](https://clerk.house.gov/evs/2026/roll053.xml)) was a **bipartisan** omnibus that funded OCR and IDEA at roughly flat levels.
+- **He did not cast a floor vote to gut OCR.** The OCR layoffs and office closures were executive-branch actions (reductions in force), not a Langworthy vote — and those reductions were paused and partly rescinded in January 2026, after a year in which the dismissals, the office closures, and the unresolved restraint cases had already accrued. The FY2026 funding he did vote for ([Roll Call 45](https://clerk.house.gov/evs/2026/roll045.xml), Jan. 22, and [Roll Call 53](https://clerk.house.gov/evs/2026/roll053.xml), Feb. 3, 2026) was a **bipartisan** omnibus that funded OCR and IDEA at roughly flat levels.
 
 The accountability question is therefore not "did he vote to dismantle OCR." It is: with the federal protection for disabled students visibly collapsing, NY-23 children being restrained, a seat on the very committee charged with oversight, and a public pledge to "protect critical support systems" for disabled Americans — why the silence, and why decline the bipartisan bills that would actually fund and protect them?
 
@@ -118,7 +118,7 @@ Rep. Langworthy's stated commitment to "protect critical support systems… for 
 
 **Langworthy's record (primary):**
 * [Roll Call 190](https://clerk.house.gov/evs/2025/roll190.xml) — OBBBA / H.R. 1, July 3, 2025 (Langworthy: Aye)
-* [Roll Call 45](https://clerk.house.gov/evs/2026/roll045.xml) · [Roll Call 53](https://clerk.house.gov/evs/2026/roll053.xml) — Consolidated Appropriations Act, 2026 (Langworthy: Yea)
+* [Roll Call 45](https://clerk.house.gov/evs/2026/roll045.xml) (Jan. 22) · [Roll Call 53](https://clerk.house.gov/evs/2026/roll053.xml) (Feb. 3, 2026) — Consolidated Appropriations Act, 2026 (Langworthy: Yea)
 * H.R. 2598 — IDEA Full Funding Act, [cosponsors](https://www.congress.gov/bill/119th-congress/house-bill/2598/cosponsors) (Langworthy not among them; 13 Republicans incl. Lawler, Garbarino, LaLota)
 * H.R. 6617 — Keeping All Students Safe Act, [cosponsors](https://www.congress.gov/bill/119th-congress/house-bill/6617/cosponsors) (Langworthy not a cosponsor)
 * H.R. 899 — To Terminate the Department of Education, [cosponsors](https://www.congress.gov/bill/119th-congress/house-bill/899/cosponsors) (Langworthy not a cosponsor)
@@ -129,7 +129,7 @@ Rep. Langworthy's stated commitment to "protect critical support systems… for 
 **Note:** This entry documents publicly available information from Government Accountability Office and congressional records, the Department of Education's own Civil Rights Data Collection, House roll-call votes, and bill cosponsor records. It makes no allegation of unlawful conduct. The restraint-and-seclusion counts are school-reported to the Department of Education and are subject to documented undercounting.
 
 <!-- DRAFT 2026-06-14. Pre-publish checklist:
-1. /fact-check-review (five failure modes) — this entry leans on non-cosponsorship + silence; verify each "not a cosponsor" against the live congress.gov cosponsor list (the H.R. 6644 lesson) and confirm Lawler/Garbarino/LaLota are on H.R. 2598.
+1. /fact-check-review DONE 2026-06-14 — no Critical findings. All cosponsorships CONFIRMED via govinfo BILLSTATUS (Langworthy NOT on H.R. 2598/6617/899; Lawler/Garbarino/LaLota ARE on H.R. 2598; Tenney on H.R. 899); votes (Roll 190/45/53), committees (Oversight/E&C/Rules), the Elmira quote (verbatim, WENY), and GAO figures all confirmed. STILL TO DO: confirm the NY 627/1 state figure against the HELP report PDF (currently hedged "per the report's state-by-state data").
 2. /tier-a-confirm: GAO-26-108320 figures; Senate HELP "Justice Denied" 172/0 + 112-vs-507 + NY 627/1; CRDC BOCES counts (Catt-Alleg 474/55, SSCTA 73, Erie 1 271/15); WENY Elmira quote verbatim (do NOT use the unverified WGRZ March-2025 quote); clerk roll calls 190/45/53.
 3. FY2026 OCR/IDEA dollar figures are CRS/trade-press only — left qualitative ("roughly flat") here; confirm against P.L. 119-75 / CRS R48616 before adding any hard number.
 4. Add the live thepublicledgers.org link to the OCR-collapse investigation once it publishes (it is currently a Public Ledgers SCAFFOLD; do not scoop its district map — cite CRDC for the counts).
