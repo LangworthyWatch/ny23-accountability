@@ -382,7 +382,7 @@ Nine slash commands live under `.claude/commands/` (plus `/wrap` at the project 
 6. Apply Critical / Recommended findings; re-run `/fact-check-review` if substantive changes made
 7. `scripts/archive_sources.sh` → archive cited URLs to Wayback
 8. Update `content/fact-checks/_index.md` summary table
-9. Flip `draft: false`, commit (`feat(...)`), push — Stop hook deploys to Netlify
+9. Flip `draft: false`, commit (`feat(...)`), push — Stop hook deploys to Cloudflare Pages
 10. `/capture-findings` → log any follow-up items (Q2 data, Wayback retries, related leads)
 
 ### Notes on the ported commands (2026-06-08)
@@ -486,28 +486,28 @@ Remote is set to HTTPS: `https://github.com/LangworthyWatch/ny23-accountability.
 
 **Why not SSH:** The deploy key (`id_ed25519_langworthywatch` in `~/.ssh/config`) is read-only. Port 22 is currently unblocked but the `gh` credential helper (LangworthyWatch account, stored in keyring) is more reliable. Do not revert to SSH remote unless the credential helper stops working.
 
-### Deploy Path — Netlify (Updated 2026-05-05)
+### Deploy Path — Cloudflare Pages (migrated 2026-06-14)
 
-**The site is hosted on Netlify**, not GitHub Pages. (The repo still has a GitHub Pages config and a legacy `.github/workflows/hugo.yml` workflow file, but DNS for `langworthywatch.org` points at Netlify and the Netlify CDN is what serves the live site.)
+**The site is hosted on Cloudflare Pages** (project `langworthywatch`, served at `langworthywatch.pages.dev`), fronting `langworthywatch.org`. Migrated off Netlify on 2026-06-14 after Netlify hit a hard account credit/quota wall (deploys returned `JSONHTTPError: Forbidden`). Cloudflare Pages' free tier + `wrangler` **direct upload** sidesteps that **and** the flagged-GitHub-account problem — no Git integration; we build locally and upload `public/`.
 
-**⚠️ As of 2026-05-05, BOTH automatic deploy paths are broken:**
+**DNS:** `langworthywatch.org` is a Cloudflare-proxied CNAME → `langworthywatch.pages.dev` (zone in the Cloudflare account `airboat-webcast.5u@icloud.com`, ID `3b752cee282808bcfcebc84aaea9a1c3`). The MX/SPF/DKIM (Cloudflare Email Routing) + Google-verification TXT records are email-only — leave them.
 
-1. **Netlify's GitHub-app webhook integration is broken.** Pushes to main do not trigger Netlify auto-builds. The live site silently fell 10+ days behind `main` (April 25 → May 5) before the gap was caught.
-2. **GitHub Actions is disabled at the LangworthyWatch user account level.** API returns `HTTP 422: Actions has been disabled for this user.` This means no GitHub Actions workflow can run on this repo until the account is re-enabled. Likely fixes: verify email + enable 2FA + check for account flags at https://github.com/settings/security.
-
-A `.github/workflows/netlify-trigger.yml` workflow exists that POSTs to a Netlify build hook (URL stored in repo secret `NETLIFY_BUILD_HOOK_URL`, hook ID `69f9eee4d3347c8a2110b4a6`). It will start working as soon as Actions is re-enabled at the account level — no other change needed.
-
-**Until one of those paths is fixed, the only way to get a commit live is a manual deploy:**
+**Manual deploy:**
 
 ```bash
 cd /Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker
-hugo --gc --minify
-netlify deploy --prod --dir=public
+rm -rf public && hugo --gc --minify     # rm -rf: Hugo won't delete stale files; a prior `hugo -D` can leak draft pages into public/
+export CLOUDFLARE_ACCOUNT_ID=3b752cee282808bcfcebc84aaea9a1c3
+wrangler pages deploy public --project-name=langworthywatch --branch=main --commit-dirty=true
 ```
 
-The local Netlify CLI is authenticated as `langworthywatch@gmail.com` and the project is linked (state in `.netlify/state.json`).
+wrangler is authenticated via `wrangler login` (OAuth, user-level creds). Re-run `wrangler login` if it lapses.
 
-**Claude Code project hook:** A Stop hook in `.claude/settings.json` (project-scoped) automatically runs the manual deploy at the end of any Claude Code session that pushed to main. So when working in this project via Claude Code, deploy still happens automatically — just driven by the local Claude session rather than by GitHub Actions or the Netlify webhook.
+**Claude Code project hook:** the Stop hook (`.claude/scripts/auto-deploy.sh`) clean-builds + `wrangler pages deploy`s at session end when HEAD has changed (tracked in `.wrangler/last_deployed_sha`). So commits auto-deploy to Cloudflare Pages from the local session.
+
+**Migration gotchas (already handled):** Pages needs `layouts/404.html` (the custom theme emitted none, so missing paths soft-200'd to the homepage) and `static/_headers` (ports the old netlify.toml security headers). Always clean-build (`rm -rf public`) before deploy.
+
+*(Legacy/inert: Netlify site `68d48ede-fc40-4afc-9fdb-cb9f72737f02` is credit-blocked; the `.github/workflows/*` files no longer matter; `www.langworthywatch.org`'s CNAME may still point at Netlify and need repointing to Pages.)*
 
 ### Verifying a page is live
 

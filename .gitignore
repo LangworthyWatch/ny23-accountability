@@ -18,8 +18,11 @@ Thumbs.db
 .env
 archive_log_*.txt
 
-# Local Netlify folder
+# Local Netlify folder (legacy — migrated to Cloudflare Pages 2026-06-14)
 .netlify
+
+# Local Cloudflare / wrangler folder
+.wrangler/
 
 # Claude Code project artifacts — override global ~/.gitignore_global which excludes .claude/
 # Tracked: project-shared slash commands, scripts, hook configuration.
