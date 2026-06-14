@@ -277,6 +277,16 @@ Every external source link MUST be archived before publication. Run
 `https://web.archive.org/save/[URL]` for individual URLs. CLAUDE.md mandates
 this; missing `archived_url` should block publication.
 
+**Gov / Cloudflare-protected sources do not archive via curl.** `congress.gov`
+(CRS reports, bill pages) and `fema.gov` return Cloudflare `520` / Akamai `403`
+to both `curl` and the Wayback save endpoint — `archive_sources.sh` will silently
+fail to capture them. Archive these from a real **browser** (open in Chrome →
+submit via web.archive.org's Save Page Now), then confirm a fresh snapshot via
+`https://archive.org/wayback/available?url=<url>`. This is also how you should
+*read* these sources for verification: WebFetch/curl get 403, so open them in
+Chrome and confirm quotes/figures against the actual document — never cite a
+search-tool summary for a `congress.gov`/`fema.gov` fact.
+
 ## Step 6: Quality gate checklist
 
 Before flipping `draft: false`, verify:

@@ -52,7 +52,16 @@ Five specific failure modes that have caused real corrections in this project:
    - For every "X days after Y" or "X months before Y" claim, do the date math by hand
    - For every dollar figure, confirm it appears in the cited source AND is described the same way (gross vs. net, total vs. remaining, encumbered vs. available)
 
-6. **Report.** Output a structured findings list to the user:
+6. **Propagation sweep (when this review covers a CORRECTION).** If the entry changed a figure, date, quote, status, or framing that could appear elsewhere, grep the whole corpus for sibling copies *before* declaring the fix done. The single most common error class in `public-ledger/docs/governance/ERROR_LOG.md` is a corrected claim left **stale in a sibling file** (its examples: a wrong EIN propagated ~9× across the corpus; a matcher fix left stale in the book chapter). A live correction in one file plus the old version in another is an internal contradiction across the *published* site.
+
+   Sweep both prose and downstream consumers — the old value/phrasing AND the entity name:
+   ```bash
+   cd /Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker
+   grep -rin -E '<old figure>|<old phrasing>|<entity>' content/ social-media/
+   ```
+   Check `content/fact-checks/`, `content/state-of-the-district/`, `content/correspondence/`, the social-card generators in `social-media/`, and any generated graphic data. Ignore substring false positives (e.g. "fa**bric**" / "fa**bric**ated" matching a `BRIC` sweep — itself the un-IDF'd-matcher class the same ERROR_LOG warns about). Report every sibling carrying the old claim as a **Critical** finding (internal contradiction), with the exact file:line. Also run `/propagation-sweep` standalone for an ad-hoc sweep outside a full review.
+
+7. **Report.** Output a structured findings list to the user:
    - **Critical (must fix before publishing):** mismatches, unsourced claims, internal contradictions
    - **Recommended (should fix):** inferences stated as fact, missing hedging, unclear scoping
    - **Nice-to-have:** stylistic or organizational improvements
@@ -62,7 +71,7 @@ Five specific failure modes that have caused real corrections in this project:
    - What the source actually says (with quote + URL if a fetch was possible)
    - Suggested edit
 
-7. **Do NOT auto-edit the file.** Present findings and let the user decide which to apply. After they approve a set of edits, you can apply them.
+8. **Do NOT auto-edit the file.** Present findings and let the user decide which to apply. After they approve a set of edits, you can apply them. (Exception: once the user has approved a correction, applying the *same* verified fix to the stale siblings the propagation sweep found is part of completing that correction.)
 
 ## What success looks like
 
