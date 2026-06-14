@@ -1,13 +1,13 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: June 11, 2026*
+*Last updated: June 14, 2026*
 
 ---
 
 ## Site
 
 **Live at:** langworthywatch.org  
-**Deployment:** GitHub Actions → GitHub Pages (auto-deploys on push to `main`)  
+**Deployment:** Cloudflare Pages (project `langworthywatch`) via `wrangler` direct upload — auto-deploys at session end via the Stop hook. Migrated off Netlify 2026-06-14 (Netlify credit-wall). `langworthywatch.org` = Cloudflare-proxied CNAME → `langworthywatch.pages.dev`.  
 **Repository:** LangworthyWatch/ny23-accountability  
 **Git remote:** `https://github.com/LangworthyWatch/ny23-accountability.git`  
 **Push method:** `gh auth setup-git` credential helper (LangworthyWatch account, stored in keyring)
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 106 Fact-Checks Published
+## Content: 109 Fact-Checks Published
 
 ### Topics Covered
 

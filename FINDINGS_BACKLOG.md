@@ -8,6 +8,26 @@
 
 ---
 
+## Next Session — start here (3 carry-forward tasks)
+
+1. **Post the State of the District Q2 carousel + the FEMA card.**
+   - Carousel, in order: `social-media/state_of_district_q2_cover.png` → `state_of_district_q2_backbone.png` (federal squeeze) → `state_of_district_q2_counties.png` (county heat-ranking). Post text: `~/Desktop/state_of_district_q2_post_text.txt`. Links to the live `/state-of-the-district/2026-q2/` page.
+   - FEMA card: `social-media/jasper_troupsburg_fema_award.png` + `~/Desktop/jasper_troupsburg_post_text.txt`.
+   - **Pre-post lock:** the backbone card's "VOTED AYE ×2" (OBBBA twice) — Roll Call 145 (May 22 2025) was confirmed *by elimination*; read it verbatim from `clerk.house.gov/evs/2025/roll145.xml` first.
+
+2. **Draft the Schuyler county profile** (strongest standalone county fact-check).
+   - Source: `imported-from-public-ledger/ny23-county-dossier-2026-q2/2026-q2_ny23_county_dossier.md`. Hook = **Schuyler Hospital (Montour Falls), named on Public Citizen's at-risk list**, tied to OBBBA (his Aye on Roll 145 + 190).
+   - County Impact Profile format (template: `content/fact-checks/2026-02-08-steuben-rural-impact-summary.md`); `draft:true` → `/fact-check-review`.
+   - Reconcile RHTP framing with `2026-06-02-rural-health-transformation-212m.md` (no conflicting Medicaid figure); use his full committee list (Oversight + Energy & Commerce + Rules).
+
+3. **Finish the OCR entry's publish steps** (`content/fact-checks/2026-06-14-ocr-collapse-disabled-students.md`, `draft:true`; /fact-check-review already passed).
+   - (a) Confirm the **NY 627 pending / 1 agreement** figure vs the Senate HELP "Justice Denied" report PDF (currently hedged "per the report's state-by-state data").
+   - (b) Secure the **AAPD (May 18) + Elmira (Jan 9) permalinks** + Wayback-archive; populate `source_url` / `archived_url`.
+   - (c) Add the **thepublicledgers.org** OCR-investigation link once it publishes (CRDC is the cited primary meanwhile).
+   - Then flip `draft:false`, update `_index.md`, commit/push (auto-deploys via Cloudflare).
+
+---
+
 ## Posted to Social / Post Queue
 
 <!-- Running record of what's been shared to social vs. ready-but-unposted. Update as posts go out; "UNCONFIRMED" = post material exists on disk but posting not verified. -->
@@ -16,8 +36,8 @@
 |---|---|---|---|
 | State of the District — Q2 2026 | **text + carousel** (cover · by-the-numbers · federal-squeeze · county heat-ranking) | yes (live) | **READY to post** |
 | Jasper-Troupsburg FEMA ($60.5M, MOSTLY TRUE) | card + text ready | yes — corrected version **live** | **READY to post** |
-| Minnesota 50-state fraud | card + text on disk | yes | UNCONFIRMED — verify whether posted |
-| Marilla "voted to defund" | card + text on disk | yes | UNCONFIRMED — verify whether posted |
+| Minnesota 50-state fraud | card + text on disk | yes | **POSTED** (confirmed 2026-06-14) |
+| Marilla "voted to defund" | card + text on disk | yes | **POSTED** (confirmed 2026-06-14) |
 | Fraud-prevention package (MISSING CONTEXT) | none yet | yes (live) | needs card + text if sharing |
 | NAHB "Defender of Housing" (MISSING CONTEXT) | none yet | yes (live) | needs card + text if sharing |
 
