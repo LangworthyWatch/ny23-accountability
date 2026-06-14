@@ -4,7 +4,22 @@
 > sessions. Items here are unprocessed — once acted on, move to a fact-check
 > entry under content/fact-checks/ or close with a disposition note.
 
-**Last updated:** 2026-06-13
+**Last updated:** 2026-06-14
+
+---
+
+## Posted to Social / Post Queue
+
+<!-- Running record of what's been shared to social vs. ready-but-unposted. Update as posts go out; "UNCONFIRMED" = post material exists on disk but posting not verified. -->
+
+| Item | Card / text | Live entry? | Social status |
+|---|---|---|---|
+| State of the District — Q2 2026 | posted as link | yes | **POSTED** (confirmed by Zach, June 2026) |
+| Jasper-Troupsburg FEMA ($60.5M, MOSTLY TRUE) | card + text ready | corrected version pending deploy | **READY** — hold until the corrected entry deploys |
+| Minnesota 50-state fraud | card + text on disk | yes | UNCONFIRMED — verify whether posted |
+| Marilla "voted to defund" | card + text on disk | yes | UNCONFIRMED — verify whether posted |
+| Fraud-prevention package (MISSING CONTEXT) | none yet | pending deploy | needs card + text; live-blocked |
+| NAHB "Defender of Housing" (MISSING CONTEXT) | none yet | pending deploy | needs card + text; live-blocked |
 
 ---
 
@@ -12,14 +27,14 @@
 
 <!-- High-value leads that could become fact-check entries or unblock investigations -->
 
-### Two reviewed drafts ready to publish once Facebook permalinks are secured
-- **Date logged:** 2026-06-13
+### Two reviewed fact-checks published in repo; awaiting Netlify deploy to go live
+- **Date logged:** 2026-06-13 (updated 2026-06-14)
 - **Source:** June 11–12 Langworthy FB posts → /ny23-fact-check → /fact-check-review
 - **Type:** fact-check-lead
 - **Priority:** high
-- **Detail:** `2026-06-13-fraud-prevention-package.md` (MISSING CONTEXT) and `2026-06-13-nahb-defender-of-housing.md` (MISSING CONTEXT) are drafted, review-passed, and building clean. Both are `draft: true`.
-- **Action:** complete the publish steps under Follow-Up Tasks, then flip `draft: false`.
-- **Status:** open
+- **Detail:** `2026-06-13-fraud-prevention-package.md` and `2026-06-13-nahb-defender-of-housing.md` (both MISSING CONTEXT) are published (`draft: false`), added to the _index table, dashboard regenerated (109), committed + pushed. NOT live — Netlify deploy is 403-blocked (account billing). The Jasper-Troupsburg FEMA entry was also corrected (relocation + $5M mitigation) and is in the same deploy-pending state. source_url for the new entries is the generic facebook.com/RepLangworthy (Minnesota precedent) pending permalinks.
+- **Action:** (1) clear Netlify billing → re-run `cd langworthy-tracker && netlify deploy --prod --dir public --site 68d48ede-fc40-4afc-9fdb-cb9f72737f02`, then verify the three URLs live; (2) swap in FB permalinks + Wayback-archive sources; (3) make social cards + post text for the two new entries if they'll be shared.
+- **Status:** open — live-blocked on Netlify
 
 ## Source / Data Quality Issues
 
