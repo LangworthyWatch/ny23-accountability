@@ -1,7 +1,7 @@
 ---
 title: "The Federal Watchdog for Disabled Students Was Dismantled. NY-23 Schools Kept Restraining Them. Langworthy Pledged to 'Protect Critical Support Systems.'"
 date: 2026-06-14
-draft: true
+draft: false
 topic: "Disability & Education"
 claim_date: "May 18, 2026"
 source: "Facebook Post (AAPD meeting) + Press Appearance (Elmira)"
@@ -41,7 +41,7 @@ In 2025–26, the Department of Education's Office for Civil Rights — the agen
 - **~90% of complaints dismissed.** Of 7,072 complaints resolved between March 11 and September 23, 2025, **6,353 were dismissed**; only **635 of 9,269 complaints (6.9%) were opened for investigation** (GAO-26-108320, Jan. 29, 2026).
 - **Half the offices closed — including New York's.** OCR closed **7 of its 12 regional offices**, among them the **New York (Region II) office**, whose ~350 open investigations were absorbed by an already-overloaded Metro DC office.
 - **$28–38 million** was paid to OCR staff placed on administrative leave and barred from working (GAO).
-- **Restraint and seclusion: 172 pending cases, zero resolutions.** The Senate HELP Committee's April 2026 "Justice Denied" report found OCR reached **0 resolution agreements** on the **172 pending restraint-and-seclusion cases** in 2025, and just **1 agreement on 595 pending disability-harassment cases.** Total enforceable agreements fell to **112 in 2025, down from 507 in 2024 (–78%)** — a 12-year low. Per the report's state-by-state data, **New York had 627 pending cases and 1 agreement.**
+- **Restraint and seclusion: 172 pending cases, zero resolutions.** The Senate HELP Committee's April 2026 "Justice Denied" report found OCR reached **0 resolution agreements** on the **172 pending restraint-and-seclusion cases** in 2025, and just **1 agreement on 595 pending disability-harassment cases.** Total enforceable agreements fell to **112 in 2025, down from 507 in 2024 (–78%)** — a 12-year low. New York is one of the five states with the most pending OCR cases: per the report's Figure 2, **New York had 627 pending cases and just 1 resolution agreement in 2025** (its total across all discrimination types).
 
 **In plain language:** The federal office that is supposed to investigate when a disabled child is restrained or secluded stopped doing so — dismissing the overwhelming majority of complaints, closing the office that served New York, and resolving none of the restraint cases on its desk.
 
@@ -110,7 +110,7 @@ Rep. Langworthy's stated commitment to "protect critical support systems… for 
 
 **The enforcement collapse (primary):**
 * GAO: [Education's Office for Civil Rights (workforce reductions and complaint processing)](https://www.gao.gov/products/gao-26-108320) (GAO-26-108320, Jan. 29, 2026) — ~90% dismissal; 7 of 12 offices closed incl. New York; $28–38M idle-staff cost
-* U.S. Senate HELP Committee: "Justice Denied" minority staff report (April 2026) — 172 restraint/seclusion cases / 0 agreements; 112 agreements in 2025 vs. 507 in 2024; NY 627 pending / 1 agreement
+* U.S. Senate HELP Committee: ["Justice Denied: How Trump's Office for Civil Rights Reached a 12-Year Low in Protecting Students from Discrimination"](https://www.sanders.senate.gov/wp-content/uploads/04.24.26-Justice-Denied-How-Trumps-Office-for-Civil-Rights-Reached-a-12-Year-Low-in-Protecting-Students-from-Discrimination_FINAL.pdf) (HELP ranking-member staff report, April 2026) — 172 restraint/seclusion cases / 0 agreements (Table 1); 112 agreements in 2025 vs. 507 in 2024 (Figure 4); **NY 627 pending / 1 agreement (Figure 2)**
 
 **NY-23 incidence (primary):**
 * U.S. Department of Education: [Civil Rights Data Collection (CRDC), 2021–22](https://civilrightsdata.ed.gov) — restraint/seclusion of IDEA students by district/school (Cattaraugus-Allegany-Erie-Wyoming BOCES 474/55; Schuyler-Steuben-Chemung-Tioga-Allegany BOCES 73; Erie 1 BOCES 271/15)
@@ -122,14 +122,14 @@ Rep. Langworthy's stated commitment to "protect critical support systems… for 
 * H.R. 2598 — IDEA Full Funding Act, [cosponsors](https://www.congress.gov/bill/119th-congress/house-bill/2598/cosponsors) (Langworthy not among them; 13 Republicans incl. Lawler, Garbarino, LaLota)
 * H.R. 6617 — Keeping All Students Safe Act, [cosponsors](https://www.congress.gov/bill/119th-congress/house-bill/6617/cosponsors) (Langworthy not a cosponsor)
 * H.R. 899 — To Terminate the Department of Education, [cosponsors](https://www.congress.gov/bill/119th-congress/house-bill/899/cosponsors) (Langworthy not a cosponsor)
-* WENY: [Education Secretary's "Returning Education to the States" tour stop in Elmira](https://www.weny.com) (Jan. 9, 2026) — Langworthy devolution quote
+* WENY: ["Dept. of Education 'Returning Education to the States' Tour"](https://www.weny.com/news/dept-of-education-returning-education-to-the-states-tour/article_90989b40-2c71-4f4d-98d7-47abd8968530.html) (Jan. 9, 2026) — Langworthy devolution quote, verbatim; corroborated by [WBNG](https://www.wbng.com/2026/01/09/us-education-secretary-linda-mcmahon-visits-elmira-high-school-part-national-tour/) and the U.S. Dept. of Education [New York tour page](https://www.ed.gov/about/initiatives/returning-education-states/returning-education-states-tour/new-york-returning-education-states-tour)
 
 ---
 
 **Note:** This entry documents publicly available information from Government Accountability Office and congressional records, the Department of Education's own Civil Rights Data Collection, House roll-call votes, and bill cosponsor records. It makes no allegation of unlawful conduct. The restraint-and-seclusion counts are school-reported to the Department of Education and are subject to documented undercounting.
 
 <!-- DRAFT 2026-06-14. Pre-publish checklist:
-1. /fact-check-review DONE 2026-06-14 — no Critical findings. All cosponsorships CONFIRMED via govinfo BILLSTATUS (Langworthy NOT on H.R. 2598/6617/899; Lawler/Garbarino/LaLota ARE on H.R. 2598; Tenney on H.R. 899); votes (Roll 190/45/53), committees (Oversight/E&C/Rules), the Elmira quote (verbatim, WENY), and GAO figures all confirmed. STILL TO DO: confirm the NY 627/1 state figure against the HELP report PDF (currently hedged "per the report's state-by-state data").
+1. /fact-check-review DONE 2026-06-14 — no Critical findings. All cosponsorships CONFIRMED via govinfo BILLSTATUS (Langworthy NOT on H.R. 2598/6617/899; Lawler/Garbarino/LaLota ARE on H.R. 2598; Tenney on H.R. 899); votes (Roll 190/45/53), committees (Oversight/E&C/Rules), the Elmira quote (verbatim, WENY), and GAO figures all confirmed. NY 627/1 state figure CONFIRMED 2026-06-14 against the HELP "Justice Denied" report PDF (Figure 2, p.7 — NY = 627 pending, 1 agreement; now cited directly, hedge removed).
 2. /tier-a-confirm: GAO-26-108320 figures; Senate HELP "Justice Denied" 172/0 + 112-vs-507 + NY 627/1; CRDC BOCES counts (Catt-Alleg 474/55, SSCTA 73, Erie 1 271/15); WENY Elmira quote verbatim (do NOT use the unverified WGRZ March-2025 quote); clerk roll calls 190/45/53.
 3. FY2026 OCR/IDEA dollar figures are CRS/trade-press only — left qualitative ("roughly flat") here; confirm against P.L. 119-75 / CRS R48616 before adding any hard number.
 4. Add the live thepublicledgers.org link to the OCR-collapse investigation once it publishes (it is currently a Public Ledgers SCAFFOLD; do not scoop its district map — cite CRDC for the counts).

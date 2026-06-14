@@ -1,12 +1,12 @@
 {
   "generated": "2026-06-14",
-  "total": 109,
+  "total": 110,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 27,
     "MISLEADING": 26,
     "DOCUMENTED PATTERN": 20,
-    "CONTRADICTION": 13,
+    "CONTRADICTION": 14,
     "FALSE": 9,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
@@ -36,6 +36,7 @@
     "Foreign Policy": 2,
     "Social Services": 2,
     "Veterans": 2,
+    "Disability & Education": 1,
     "Housing": 1,
     "Disaster Recovery": 1,
     "Consumer Protection": 1,
@@ -60,9 +61,16 @@
     "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
-    "2026-06": 11
+    "2026-06": 12
   },
   "entries": [
+    {
+      "title": "The Federal Watchdog for Disabled Students Was Dismantled. NY-23 Schools Kept Restraining Them. Langworthy Pledged to 'Protect Critical Support Systems.",
+      "date": "2026-06-14",
+      "verdict": "CONTRADICTION",
+      "topic": "Disability & Education",
+      "url": "/fact-checks/2026-06-14-ocr-collapse-disabled-students/"
+    },
     {
       "title": "Langworthy's 'Fraud Prevention' Push: What the Bills Do, and What the $233\u2013$521 Billion Figure Measures",
       "date": "2026-06-13",

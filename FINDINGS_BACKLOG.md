@@ -8,23 +8,25 @@
 
 ---
 
-## Next Session — start here (3 carry-forward tasks)
+## Next Session — start here
 
-1. **Post the State of the District Q2 carousel + the FEMA card.**
-   - Carousel, in order: `social-media/state_of_district_q2_cover.png` → `state_of_district_q2_backbone.png` (federal squeeze) → `state_of_district_q2_counties.png` (county heat-ranking). Post text: `~/Desktop/state_of_district_q2_post_text.txt`. Links to the live `/state-of-the-district/2026-q2/` page.
-   - FEMA card: `social-media/jasper_troupsburg_fema_award.png` + `~/Desktop/jasper_troupsburg_post_text.txt`.
-   - **Pre-post lock:** the backbone card's "VOTED AYE ×2" (OBBBA twice) — Roll Call 145 (May 22 2025) was confirmed *by elimination*; read it verbatim from `clerk.house.gov/evs/2025/roll145.xml` first.
+**2026-06-14 (evening): all three prior carry-forward tasks advanced — OCR entry is LIVE; Schuyler drafted; SOTD/FEMA locked + staged.** Remaining carry-forward below.
 
-2. **Draft the Schuyler county profile** (strongest standalone county fact-check).
-   - Source: `imported-from-public-ledger/ny23-county-dossier-2026-q2/2026-q2_ny23_county_dossier.md`. Hook = **Schuyler Hospital (Montour Falls), named on Public Citizen's at-risk list**, tied to OBBBA (his Aye on Roll 145 + 190).
-   - County Impact Profile format (template: `content/fact-checks/2026-02-08-steuben-rural-impact-summary.md`); `draft:true` → `/fact-check-review`.
-   - Reconcile RHTP framing with `2026-06-02-rural-health-transformation-212m.md` (no conflicting Medicaid figure); use his full committee list (Oversight + Energy & Commerce + Rules).
+1. **Post the State of the District Q2 carousel + the FEMA card** — *only the human Facebook-posting step remains.*
+   - **Pre-post lock SATISFIED:** RC145 read verbatim — Langworthy = **Yea** (`clerk.house.gov/evs/2025/roll145.xml`, recorded-vote table L000600; only GOP Nays = Davidson-OH, Massie-KY). Backbone card "VOTED AYE ×2" + figures verified accurate.
+   - Assets confirmed present: carousel (cover · numbers · backbone · counties) + `jasper_troupsburg_fema_award.png` in `social-media/`; post text on Desktop (`state_of_district_q2_post_text.txt`, `jasper_troupsburg_post_text.txt`). **Just needs posting to Facebook** (no automation available).
 
-3. **Finish the OCR entry's publish steps** (`content/fact-checks/2026-06-14-ocr-collapse-disabled-students.md`, `draft:true`; /fact-check-review already passed).
-   - (a) Confirm the **NY 627 pending / 1 agreement** figure vs the Senate HELP "Justice Denied" report PDF (currently hedged "per the report's state-by-state data").
-   - (b) Secure the **AAPD (May 18) + Elmira (Jan 9) permalinks** + Wayback-archive; populate `source_url` / `archived_url`.
-   - (c) Add the **thepublicledgers.org** OCR-investigation link once it publishes (CRDC is the cited primary meanwhile).
-   - Then flip `draft:false`, update `_index.md`, commit/push (auto-deploys via Cloudflare).
+2. **Schuyler county profile — DRAFTED, pending review.**
+   - File: `content/fact-checks/2026-06-14-schuyler-county-hospital-at-risk.md` (`draft:true`). Hook confirmed: **Schuyler Hospital (Montour Falls, Cayuga Health) named on Public Citizen's at-risk list** — [Fingerlakes1, Apr 21 2026](https://www.fingerlakes1.com/2026/04/21/schuyler-newark-hospitals-flagged-as-at-risk-amid-looming-medicaid-cuts/) + [citizen.org/big-ugly-threat](https://www.citizen.org/article/big-ugly-threat/) (both Wayback-archived). Both Aye votes verbatim-confirmed; reconciled to the $212M RHTP entry (no conflicting Medicaid figure); full committee list (Oversight + E&C + Rules). Builds clean.
+   - **Next:** run `/fact-check-review`; then flip `draft:false`, add to `_index.md`, deploy.
+
+3. **OCR entry — PUBLISHED + LIVE** (`2026-06-14-ocr-collapse-disabled-students.md`, `draft:false`, deployed via wrangler 2026-06-14, **verified 200 on apex**; in `_index`).
+   - (a) ✅ **NY 627/1 CONFIRMED** vs the HELP "Justice Denied" PDF (Figure 2, p.7 — NY = 627 pending / 1 agreement, total across all types). Hedge removed; Figure 2 cited; [report PDF](https://www.sanders.senate.gov/wp-content/uploads/04.24.26-Justice-Denied-How-Trumps-Office-for-Civil-Rights-Reached-a-12-Year-Low-in-Protecting-Students-from-Discrimination_FINAL.pdf) linked + archived.
+   - (b) ✅ Elmira (Jan 9) permalink secured ([WENY](https://www.weny.com/news/dept-of-education-returning-education-to-the-states-tour/article_90989b40-2c71-4f4d-98d7-47abd8968530.html) + WBNG + ed.gov) + archived. **STILL TO DO (polish): the AAPD (May 18) Facebook permalink** — auth-gated, needs manual capture; then replace the generic `source_url`.
+   - (c) thepublicledgers.org OCR investigation **NOT yet published** — scaffold note kept; CRDC remains the cited primary; add the link when it lands.
+   - Per-source Wayback snapshots captured this session (log: `/tmp/wayback_archive_2026-06-14.log`): Justice Denied PDF, WENY, Fingerlakes1, citizen.org, roll145.xml. **GAO + WBNG blocked/pending — re-run.**
+
+**Uncommitted at session end (in `langworthy-tracker` submodule):** OCR entry (draft:false + NY 627/1 + WENY links), `_index.md` (OCR row), new Schuyler draft, this backlog update. Live site already updated via wrangler; git not yet committed/pushed (use `gh auth switch --user LangworthyWatch` before pushing).
 
 ---
 
