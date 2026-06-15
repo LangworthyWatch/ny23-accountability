@@ -1,7 +1,7 @@
 ---
 title: "Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record"
 date: 2026-02-02
-draft: false
+draft: true
 topic: "Immigration"
 claim_date: "February 2, 2026"
 source: "Facebook Post"
@@ -12,6 +12,7 @@ tags: ["immigration", "ICE", "shutdown", "Minneapolis", "voting-record", "DHS"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
 
+<!-- DRAFTED 2026-06-15 pending rewrite (site fact-check audit). The load-bearing Dec 2024 vote claim is FALSE: per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The 'doesn't always oppose shutdowns / voted NO on a Dec 2024 CR' argument is inverted and must be rewritten (or the claim dropped) before republishing. -->
 ## Statement
 
 **Source:** Facebook Post, February 2, 2026

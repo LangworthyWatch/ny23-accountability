@@ -184,8 +184,8 @@ This is the same rhetorical approach documented in prior entries (see Related Fa
 ## Related Fact-Checks
 
 - [DHS Shutdown Claim During Operation Epic Fury](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) — Using a wartime moment to pressure Democrats on DHS funding
-- [Pay TSA Act: "I Don't Support Shutdowns"](/fact-checks/2026-03-21-pay-tsa-act/) — Claiming opposition to shutdowns while introducing a bill premised on their recurrence
-- [Shutdown Statement: Multiple Misleading Claims](/fact-checks/2026-02-02-shutdown-defund-ice/) — Prior shutdown blame attributed to Democrats; "always opposed" rated FALSE
+- Pay TSA Act: "I Don't Support Shutdowns" — Claiming opposition to shutdowns while introducing a bill premised on their recurrence
+- Shutdown Statement: Multiple Misleading Claims — Prior shutdown blame attributed to Democrats; "always opposed" rated FALSE
 - [DHS Security Incidents: Chain-of-Incidents Blame](/fact-checks/2026-03-09-dhs-security-incidents/) — March 8-9 messaging cluster chaining loosely related incidents to the shutdown
 - ["10 Million Illegal Immigrants": Two Immigration Claims Examined](/fact-checks/2026-03-08-biden-immigration-10-million/) — How immigration statistics are framed to create false impressions
 - [Medicaid and Immigration: "Removing Illegal Aliens"](/fact-checks/2025-12-medicaid-immigration/) — Immigration rhetoric used to obscure $911B in Medicaid cuts affecting U.S. citizens

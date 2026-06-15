@@ -115,7 +115,7 @@ He blamed Senate Majority Leader Chuck Schumer and Democrats for "turning govern
 
 ## Related Entries
 
-* [Shutdown Statement: Misleading Claims About Democrats and His Own Record](/fact-checks/2026-02-02-shutdown-defund-ice/)
+* Shutdown Statement: Misleading Claims About Democrats and His Own Record
 * [Premium Tax Credits: Response to Constituent](/fact-checks/2026-01-14-ptc-pivot/)
 
 ## Sources

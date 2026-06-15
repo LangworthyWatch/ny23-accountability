@@ -98,7 +98,7 @@ Langworthy's framing:
 ## Related Entries
 
 * [Town Halls: No In-Person Events Since 2023](/fact-checks/2025-04-constituent-access-town-halls/)
-* [Telephone Town Hall: Multiple Claims Checked](/fact-checks/2026-02-telephone-town-hall/)
+* Telephone Town Hall: Multiple Claims Checked
 
 ## Sources
 

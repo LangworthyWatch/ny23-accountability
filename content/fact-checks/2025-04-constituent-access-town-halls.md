@@ -271,7 +271,7 @@ Whether telephone-only engagement constitutes adequate representation is a judgm
 
 ---
 
-**See also:** [February 2026 Telephone Town Hall](/fact-checks/2026-02-telephone-town-hall/) — Langworthy states "I am not committing to changing the format" when asked for an in-person town hall; two callers disconnected mid-exchange.
+**See also:** February 2026 Telephone Town Hall — Langworthy states "I am not committing to changing the format" when asked for an in-person town hall; two callers disconnected mid-exchange.
 
 **Note:** This entry documents publicly available information from news reports and official statements. Readers may draw their own conclusions.
 

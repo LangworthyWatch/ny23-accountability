@@ -1,7 +1,7 @@
 ---
 title: "SALT Tax Relief: Lobbying Trump While Voting Against Constituents"
 date: 2025-12-21
-draft: false
+draft: true
 topic: "Tax Policy"
 claim_date: "September 2025"
 source: "Public statements and meetings"
@@ -12,6 +12,7 @@ tags: ["taxes", "SALT", "contradiction"]
 counties: ["district-wide"]
 ---
 
+<!-- DRAFTED 2026-06-15 pending rewrite/removal (site fact-check audit). The central premise is FALSE: there was no 'September 2025 tax package vote.' The 2025 tax law was OBBBA (H.R. 1, passed May 22 and July 3 2025). OBBBA's actual SALT provision RAISED the cap (it did not 'preserve the $10,000 cap'), which inverts the CONTRADICTION verdict. Rebuild against the real OBBBA SALT provision, or remove, before republishing. -->
 ## Why This Matters for NY-23
 
 The $10,000 SALT cap costs NY-23 middle-class households **$2,000-$5,000 annually** in higher federal taxes. Langworthy met with Trump to lobby for SALT relief as a "top priority," then voted for a tax package that included corporate tax cuts but no SALT relief. Constituents got the promise; corporations got the tax cut.

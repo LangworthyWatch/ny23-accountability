@@ -79,7 +79,7 @@ There is a documented kernel: Democrats did vote against DHS appropriations at e
 
 ## Related Fact-Checks
 
-- [Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record](/fact-checks/2026-02-02-shutdown-defund-ice/) — the February version of the same "Democrats defund" framing, including his own December 2024 vote against a continuing resolution
+- Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record — the February version of the same "Democrats defund" framing, including his own December 2024 vote against a continuing resolution
 - [Minnesota Fraud: Who "Pulled Back the Curtain"](/fact-checks/2026-06-10-minnesota-fraud-50-state-claim/) — the same week's Oversight Committee claims
 
 ---

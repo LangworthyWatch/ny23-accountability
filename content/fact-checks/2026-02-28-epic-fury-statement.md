@@ -187,7 +187,7 @@ The statement also pivots to a domestic political attack on Democrats over DHS f
 ## Related Fact-Checks
 
 - [DHS Shutdown Claim During Operation Epic Fury](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) — The DHS pivot from this same statement
-- [Shutdown: "I Have Always Been Opposed to Shutdowns"](/fact-checks/2026-02-02-shutdown-defund-ice/) — Earlier DHS shutdown claims
+- Shutdown: "I Have Always Been Opposed to Shutdowns" — Earlier DHS shutdown claims
 - [Minneapolis Shooting: Renee Good](/fact-checks/2026-02-04-minneapolis-renee-good/) — Context for why Democrats blocked DHS funding
 
 ## Sources

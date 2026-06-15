@@ -1,7 +1,7 @@
 ---
 title: "February 2026 Telephone Town Hall: Claims vs. Record"
 date: 2026-02-25
-draft: false
+draft: true
 topic: "Constituent Access"
 claim_date: "February 2026"
 source: "Telephone Town Hall"
@@ -12,6 +12,7 @@ tags: ["town-hall", "immigration", "shutdown", "epstein", "energy", "voter-id", 
 counties: ["erie", "niagara", "chautauqua", "cattaraugus", "allegany", "steuben", "chemung", "schuyler", "tioga"]
 ---
 
+<!-- DRAFTED 2026-06-15 pending rewrite (site fact-check audit). The load-bearing Dec 2024 vote claim is FALSE: per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The 'doesn't always oppose shutdowns / voted NO on a Dec 2024 CR' argument is inverted and must be rewritten (or the claim dropped) before republishing. -->
 ## Statement
 
 In February 2026, Rep. Langworthy held a monthly telephone town hall broadcast to residents across NY-23's nine counties. The call covered government shutdowns, ICE enforcement, the Epstein files, the Energy Choice Act, the SAVE Act, and constituent access.

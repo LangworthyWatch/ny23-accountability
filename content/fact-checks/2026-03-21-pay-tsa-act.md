@@ -1,7 +1,7 @@
 ---
 title: "Pay TSA Act: 'I Don't Support Shutdowns.' Three in Six Months Tell a More Complex Story."
 date: 2026-03-21
-draft: false
+draft: true
 topic: "Government Funding / Labor"
 claim_date: "March 21–28, 2026"
 source: "Facebook Posts"
@@ -12,6 +12,7 @@ tags: ["tsa", "shutdown", "dhs", "labor", "pay-tsa-act", "aviation", "government
 counties: ["district-wide"]
 ---
 
+<!-- DRAFTED 2026-06-15 pending rewrite (site fact-check audit). The load-bearing Dec 2024 vote claim is FALSE: per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The 'doesn't always oppose shutdowns / voted NO on a Dec 2024 CR' argument is inverted and must be rewritten (or the claim dropped) before republishing. -->
 ## Why This Matters for NY-23
 
 TSA agents screen passengers at Buffalo Niagara International Airport every day. Three times in the past six months, those workers have reported to work without pay. Rep. Langworthy's new Pay TSA Act of 2026 acknowledges that pattern and proposes a structural fix. But his claim that he "doesn't support government shutdowns" — made while introducing a bill premised on their continued occurrence — runs directly into his own voting record and three consecutive funding lapses under unified Republican government.

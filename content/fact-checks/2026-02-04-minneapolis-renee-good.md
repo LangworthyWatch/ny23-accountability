@@ -135,7 +135,7 @@ Same hidden HTML tracking code as all other documented responses, indicating thi
 
 ## Related Fact-Checks
 
-- [Shutdown Statement: Multiple Misleading Claims](/fact-checks/2026-02-02-shutdown-defund-ice/)
+- Shutdown Statement: Multiple Misleading Claims
 
 ---
 
