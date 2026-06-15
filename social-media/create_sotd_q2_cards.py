@@ -106,7 +106,7 @@ for i, (fig, lbl, sub, c) in enumerate(marq):
 cta_y = 748
 d.rounded_rectangle(BOX(120, cta_y, W - 120, cta_y + 88), radius=P(10), fill=NAVY)
 d.text(XY(W // 2, cta_y + 32), "Read the full Q2 report", fill=WHITE, font=f_cta, anchor="mm")
-d.text(XY(W // 2, cta_y + 62), "9 conditions · 8 counties · sources + fact-check links", fill="#CBD5E0", font=f_marq_sub, anchor="mm")
+d.text(XY(W // 2, cta_y + 62), "conditions across 8 counties · sources + fact-check links", fill="#CBD5E0", font=f_marq_sub, anchor="mm")
 
 finish(img, "state_of_district_q2_cover.png")
 
