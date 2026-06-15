@@ -84,7 +84,7 @@ d.text(XY(W // 2, 232), "STATE OF THE DISTRICT", fill=NAVY, font=f_title, anchor
 d.text(XY(W // 2, 300), "Q2 2026  ·  NY-23", fill=DARK, font=f_sub, anchor="mm")
 d.line([XY(180, 340), XY(W - 180, 340)], fill=BORDER, width=P(2))
 d.text(XY(W // 2, 388), "Documented conditions in NY-23, set against the", fill=MUTED, font=f_tag, anchor="mm")
-d.text(XY(W // 2, 416), "representative's record — improvements reported", fill=MUTED, font=f_tag, anchor="mm")
+d.text(XY(W // 2, 416), "representative's record. Improvements reported", fill=MUTED, font=f_tag, anchor="mm")
 d.text(XY(W // 2, 444), "as prominently as harms. The record, not a verdict.", fill=MUTED, font=f_tag, anchor="mm")
 
 marq = [
@@ -112,19 +112,19 @@ finish(img, "state_of_district_q2_cover.png")
 
 # ── Slide 2 — by the numbers, grouped ────────────────────────────────────────
 img, d = base()
-d.text(XY(W // 2, 86), "STATE OF THE DISTRICT — Q2 2026", fill=NAVY, font=f_title_sm, anchor="mm")
+d.text(XY(W // 2, 86), "STATE OF THE DISTRICT · Q2 2026", fill=NAVY, font=f_title_sm, anchor="mm")
 d.text(XY(W // 2, 120), "By the numbers", fill=MUTED, font=f_method, anchor="mm")
 
 cost = [
-    ("230+", "jobs lost — eSolutions / Bush Industries, Jamestown"),
+    ("230+", "jobs lost: eSolutions / Bush Industries, Jamestown"),
     ("~450K", "lose Essential Plan eligibility on July 1 (NY DOH)"),
     ("~40%", "higher ACA premiums than they'd otherwise be (NY DOH)"),
-    ("$1.3M", "WSKG public-broadcasting cut — 21% of its budget"),
+    ("$1.3M", "WSKG public-broadcasting cut, 21% of its budget"),
     ("$0", "to any named NY-23 hospital yet (of $212M to the state)"),
-    ("+50%", "VA severe staffing shortages in a year — Bath VA"),
+    ("+50%", "VA severe staffing shortages in a year (Bath VA)"),
 ]
 gain = [
-    ("$60.5M", "FEMA award — Jasper-Troupsburg rebuild (MOSTLY TRUE)"),
+    ("$60.5M", "FEMA award: Jasper-Troupsburg rebuild (MOSTLY TRUE)"),
 ]
 
 

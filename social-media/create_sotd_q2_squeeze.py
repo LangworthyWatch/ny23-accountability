@@ -88,14 +88,14 @@ def chip(d, x_right, y_mid, text, color):
 # ── Slide 2 — the federal squeeze (backbone + his record) ────────────────────
 img, d = base()
 d.text(XY(W // 2, 84), "THE FEDERAL SQUEEZE ON NY-23", fill=NAVY, font=f_title, anchor="mm")
-d.text(XY(W // 2, 120), "District-wide federal actions — and how Langworthy voted", fill=MUTED, font=f_sub, anchor="mm")
+d.text(XY(W // 2, 120), "District-wide federal actions: how Langworthy voted", fill=MUTED, font=f_sub, anchor="mm")
 
 # (item, magnitude, tag, tag_color)
 rows = [
     ("One Big Beautiful Bill", "$911B Medicaid cut · ~$187B SNAP · +7.5M uninsured", "VOTED AYE ×2", RED),
-    ("Rural Health Transformation", "$212M one-time — vs. NY's ~$13.5B/yr hospital losses", "CREDIT-CLAIMED", ORANGE),
-    ("USDA farm bailout", "$12B, ~92% to row crops — NY-23 dairy/grape mostly excluded", "SILENT", MUTED),
-    ("Local Food for Schools", "~$1B cut — Broome-Tioga BOCES lost $289,630", "SILENT", MUTED),
+    ("Rural Health Transformation", "$212M one-time vs. NY's ~$13.5B/yr hospital losses", "CREDIT-CLAIMED", ORANGE),
+    ("USDA farm bailout", "$12B, ~92% to row crops (NY-23 dairy/grape mostly excluded)", "SILENT", MUTED),
+    ("Local Food for Schools", "~$1B cut: Broome-Tioga BOCES lost $289,630", "SILENT", MUTED),
     ("Rural Energy (REAP)", "grants re-frozen March 31, 2026", "SILENT", MUTED),
     ("Civil-rights office (OCR)", "ED civil-rights office gutted; NY office closed; ~90% dismissed", "SILENT", MUTED),
 ]
@@ -110,7 +110,7 @@ for item, mag, tag, tc in rows:
     chip(d, W - 64, y + 34, tag, tc)
     y += rh + gap
 
-d.text(XY(W // 2, y + 8), "One bill he voted for, one award he claims — and silence on the rest.",
+d.text(XY(W // 2, y + 8), "One bill he voted for, one award he claims. Silence on the rest.",
        fill=MUTED, font=f_note, anchor="mm")
 
 finish(img, "state_of_district_q2_backbone.png")
@@ -143,7 +143,7 @@ for i, (county, hook) in enumerate(counties, start=1):
     d.text(XY(150, y + 66), hook, fill=DARK, font=f_hook, anchor="lm")
     y += rh + gap
 
-d.text(XY(W // 2, y + 10), "Also: Steuben — Bath VA staffing cuts  ·  Tioga — Broome-Tioga's $289,630 food-program loss",
+d.text(XY(W // 2, y + 10), "Also: Steuben (Bath VA staffing cuts)  ·  Tioga (Broome-Tioga's $289,630 food-program loss)",
        fill=MUTED, font=f_note, anchor="mm")
 
 finish(img, "state_of_district_q2_counties.png")
