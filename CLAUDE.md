@@ -458,10 +458,12 @@ Reference these when entries fit established patterns:
 - Bump footer text contrast for mobile readability
 - $15/month or dominant stat should visually dominate the right column
 - Verdict tone: factual, not snarky — maximize cross-aisle shareability
+- **No em dashes (—) in rendered card text.** They read as an AI tell and undercut the hand-made, factual feel. Replace contextually with a colon, comma, parentheses, period, or the middle dot (·) the design already uses. Hyphens in compound modifiers ('Medicaid-exposed') and arrows (→) are fine; only the em dash is the problem. (June 2026: the SOTD Q2 carousel was scrubbed of all 13; verify new/edited cards with `grep -F "—" social-media/create_*.py` before regenerating.)
 
 ### Facebook Post Text
 - Lead with the popular/reasonable framing
 - Use arrow bullets (→) not dashes
+- **No em dashes (—) in post text**, for the same AI-tell reason; use a colon, comma, period, or parentheses instead
 - Include specific dollar figures and data points
 - End with full fact-check URL
 - Tone: factual, not partisan — goal is "I support X, but this bill goes further than people think"
