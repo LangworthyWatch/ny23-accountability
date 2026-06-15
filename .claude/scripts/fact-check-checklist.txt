@@ -22,6 +22,11 @@ You just edited a fact-check file. Before committing, actively check for the fou
    - Subtracting a "total invoice" from a "remaining balance after partial payments" produces a meaningless figure.
    - Confirm both numbers reference the same snapshot and the same accounting concept (gross vs. net, total vs. remaining, encumbered vs. available) before doing arithmetic.
 
+5. MISATTRIBUTION — CORRECT FACT, WRONG NEIGHBOR (recombination)
+   The most common error here is NOT a fabricated number; it is a true, correctly-sourced fact attached to the WRONG entity — a Medicaid detail labeled SNAP, a figure pinned to the wrong roll call, "five NY-23 counties" when one (Yates) is not NY-23, the wrong at-risk study cited.
+   - When the entry mixes confusable pairs (Medicaid/SNAP, RC145/RC190, Public Citizen vs. FPI hospital lists, multiple OBBBA programs, neighboring counties), verify each fact's program / district / vote / date / list attribution.
+   - Run /claim-audit (forced claim→entity table) and confirm scriptable joins with .claude/scripts/verify_fact.py (rollcall / county / cosponsor). Landmines reference: .claude/references/ny23-landmines.md.
+
 INTERNAL-CONSISTENCY PASS
 - For every numbered point in a verdict section, check that Point N's math doesn't contradict Point N+1's claim.
 - For every "X days after Y" or "X months before Y" claim, do the date math by hand.
@@ -31,5 +36,7 @@ WHEN IN DOUBT, HEDGE
 - Inferences hedged honestly ("almost certainly," "appears to be") are defensible.
 - Inferences stated as facts are credibility liabilities.
 
-For a thorough automated review, run:
-   /fact-check-review <path-to-this-file>
+For automated review, run (in order):
+   /claim-audit <path>        — claim→entity misattribution (recombination)
+   /fact-check-review <path>  — verify cited sources say what's claimed
+   /prepublish-lint <path>    — provisional-language scan before draft:false

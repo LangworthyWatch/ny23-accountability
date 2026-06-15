@@ -21,6 +21,12 @@
             "type": "command",
             "command": "jq -c --rawfile checklist /Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker/.claude/scripts/fact-check-checklist.txt 'if (.tool_input.file_path // \"\") | test(\"content/fact-checks/(2026|2027|2028)-.*\\\\.md$\") then {hookSpecificOutput: {hookEventName: \"PostToolUse\", additionalContext: $checklist}} else empty end'",
             "timeout": 5
+          },
+          {
+            "type": "command",
+            "command": "f=$(jq -r '.tool_input.file_path // \"\"'); echo \"$f\" | grep -qE 'content/fact-checks/(2026|2027|2028)-.*\\.md$' || exit 0; [ -f \"$f\" ] || exit 0; out=$(python3 /Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker/.claude/scripts/prepublish_lint.py \"$f\" 2>&1); echo \"$out\" | grep -qE '== (BLOCK|HEDGE)' || exit 0; jq -cn --arg c \"$out\" '{hookSpecificOutput:{hookEventName:\"PostToolUse\",additionalContext:(\"prepublish_lint flagged provisional language in this fact-check (confirm-or-cut before flipping draft:false):\\n\"+$c+\"\\n\\nAlso audit claim\u2192entity joins: run /claim-audit (recombination failure mode \u2014 a correct fact pinned to the WRONG program/district/vote/list).\")}}'",
+            "timeout": 15,
+            "statusMessage": "prepublish lint"
           }
         ]
       }
