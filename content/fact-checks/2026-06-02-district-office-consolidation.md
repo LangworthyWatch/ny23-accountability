@@ -48,7 +48,7 @@ The following table shows total contributions to Rep. Langworthy's two named fed
 
 *Source: FEC bulk individual contribution files (indiv22.txt, indiv24.txt, indiv26.txt), filtered to Langworthy's committee IDs and aggregated by donor city. City-to-county mapping covers the principal municipalities in each county.*
 
-Two-thirds of all individual-donor money to Langworthy ($843,783, or 74% of the $1.02M-county-mapped total) comes from **two counties — Erie and Niagara — only one of which is even inside the new NY-23**. The seven Southern Tier counties whose residents most depend on district-office access combine for $178,892 in donor totals — roughly the size of the Niagara County total alone.
+More than four-fifths of all individual-donor money to Langworthy ($843,783, or 83% of the $1.02M-county-mapped total) comes from **two counties — Erie and Niagara — only one of which is even inside the new NY-23**. The seven Southern Tier counties whose residents most depend on district-office access combine for $178,892 in donor totals — roughly the size of the Niagara County total alone.
 
 The offices being closed or moved are in three of the seven Southern Tier counties. The office remaining open is the one nearest his largest donor pool.
 
@@ -56,7 +56,7 @@ The offices being closed or moved are in three of the seven Southern Tier counti
 
 ## Why Elmira Specifically
 
-A look at the Chemung County donor list shows what the geography purchases. The single largest concentration of Chemung-resident donors — $16,255 — works for **Corning Incorporated**:
+A look at the Chemung County donor list shows what the geography purchases. The single largest concentration of Chemung-resident donors — $17,510 — works for **Corning Incorporated**:
 
 | Donor | Role | City (Chemung Co.) | Total |
 |---|---|---|---|

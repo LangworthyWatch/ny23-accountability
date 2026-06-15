@@ -97,7 +97,7 @@ Closing inpatient services while adding diagnostic imaging represents an **alter
 
 ---
 
-## C. The Math Problem: $155B in Cuts vs. $50B in Temporary Relief
+## C. The Math Problem: $137B in Cuts vs. $50B in Temporary Relief
 
 *Langworthy voted for the cuts, then celebrated the partial fix.*
 
@@ -111,7 +111,7 @@ Closing inpatient services while adding diagnostic imaging represents an **alter
 |----------|---------------|
 | Medicaid/CHIP cuts | **$1.02 trillion** |
 | Dually eligible losing Medicaid | **1.3 million** people |
-| Rural Medicaid spending decline | **$155 billion** |
+| Rural Medicaid spending decline | **$137 billion** |
 
 **Healthcare Association of New York State projects:**
 - **$8 billion** in cuts to New York hospitals
@@ -131,12 +131,12 @@ Closing inpatient services while adding diagnostic imaging represents an **alter
 
 **KFF Analysis:**
 * RHTP offsets only **37%** of the $137 billion in rural Medicaid spending cuts over a decade
-* Federal Medicaid spending in rural areas estimated to decline by **$155 billion** over 10 years under OBBBA
+* Federal Medicaid spending in rural areas estimated to decline by **$137 billion** over 10 years under OBBBA
 * RHTP represents about **$50 billion** temporary offset
 
 **Observer Today columnist Andrea Hatfield:** "Langworthy called the $50 Billion Rural Health Transformation Program 'one of the largest federal investments in our history to support rural healthcare.' Why was this bill necessary? Because the One Big Beautiful Bill Act, a bill Langworthy voted for, made drastic cuts to Medicaid."
 
-*In plain language: Langworthy voted for a bill that cuts $155 billion from rural healthcare, then celebrated a $50 billion temporary program that replaces only a third of what was cut. When the temporary money runs out, the permanent cuts remain. This is not a rescue — it's a down payment on a problem his vote created.*
+*In plain language: Langworthy voted for a bill that cuts $137 billion from rural healthcare, then celebrated a $50 billion temporary program that replaces only a third of what was cut. When the temporary money runs out, the permanent cuts remain. This is not a rescue — it's a down payment on a problem his vote created.*
 
 ---
 

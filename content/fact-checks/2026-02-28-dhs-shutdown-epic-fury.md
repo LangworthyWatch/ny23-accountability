@@ -187,7 +187,6 @@ This collapses three distinct issues (a foreign military conflict, a domestic bu
 ## Related Fact-Checks
 
 - [Operation Epic Fury Statement](/fact-checks/2026-02-28-epic-fury-statement/) — The full Epic Fury statement this DHS claim was embedded in
-- Shutdown: "I Have Always Been Opposed to Shutdowns" — Langworthy voted NO on Dec 2024 CR
 - [Minneapolis Shooting: Renee Good](/fact-checks/2026-02-04-minneapolis-renee-good/) — The killing that precipitated Democrats' demands
 - Telephone Town Hall — Earlier DHS shutdown claims
 - ['41 Days of Chaos': Shutdown Blame Paired with Immigration Fear](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) — March 28 messaging blitz combining shutdown blame and immigration scapegoating

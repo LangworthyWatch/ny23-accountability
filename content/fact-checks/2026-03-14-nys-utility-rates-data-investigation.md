@@ -12,7 +12,7 @@ tags: ["energy", "utility-costs", "nyseg", "national-grid", "rate-hike", "clcpa"
 counties: ["steuben", "chemung", "allegany", "cattaraugus", "tioga", "schuyler", "chautauqua", "district-wide"]
 ---
 
-**New York's electricity rates are 49.7% above the national average. Utilities are now requesting additional increases of 11–19% on top of already high prices. The dominant political explanation — that clean energy mandates are driving the increases — does not match the data from the utilities' own filings.** This investigation compiles rate case documents submitted to the Public Service Commission, federal financial filings, federal energy price data, and Census income data to show what is actually inside these rate increases, who benefits, and who bears the cost. All source documents are publicly available; data files are available for download below.
+**New York's electricity rates are 57.4% above the national average. Utilities are now requesting additional increases of 11–19% on top of already high prices. The dominant political explanation — that clean energy mandates are driving the increases — does not match the data from the utilities' own filings.** This investigation compiles rate case documents submitted to the Public Service Commission, federal financial filings, federal energy price data, and Census income data to show what is actually inside these rate increases, who benefits, and who bears the cost. All source documents are publicly available; data files are available for download below.
 
 *This entry is a companion to: [Langworthy Blames Clean Energy for Costs That Natural Gas and Utility Profits Actually Drive](/fact-checks/2026-02-20-energy-costs-dunkirk/), [The Energy Choice Act Would Benefit the Heating Fuel Industry That Drafted It](/fact-checks/2026-02-25-energy-choice-act/), and [NYSEG Requested a $450M Dividend While Seeking a Rate Hike](/fact-checks/2026-02-25-nyseg-rate-hike-silence/).*
 
@@ -64,7 +64,7 @@ The System Benefits Charge adds approximately **$3.36/month** to an average resi
 **In plain language:** The chart above compares New York residential electricity prices to U.S. inflation (CPI) and the national average price. Key findings:
 
 - NY residential rates grew **49.2%** from 2015 to 2025 vs. **34.7%** CPI inflation — running 1.06% per year faster than general inflation
-- NY pays **26.49 cents/kWh** vs. the U.S. average of **16.83 cents/kWh** — a gap of **49.7%**
+- NY pays **26.49 cents/kWh** vs. the U.S. average of **16.83 cents/kWh** — a gap of **57.4%**
 - Rate growth **accelerated sharply** after 2020 even as the System Benefits Charge (the clean energy surcharge) grew by only **0.14 cents/kWh** — accounting for just 1.8% of the total price increase over that period
 - NY households pay **$658/year more** than the national average at typical usage (7,200 kWh/year)
 

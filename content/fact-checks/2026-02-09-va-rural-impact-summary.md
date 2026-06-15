@@ -58,7 +58,7 @@ More veterans are entering the system. More veterans need appointments, evaluati
 
 ## What 501 VA clinicians are saying
 
-**"The Lincoln Declaration: A Statement of Concern about the Future of Veterans' Healthcare"** was signed by 501 current and former VA clinicians (271 named, 184 anonymous). The declaration warns of:
+**"The Lincoln Declaration: A Statement of Concern about the Future of Veterans' Healthcare"** was signed by 501 current and former VA clinicians. The declaration warns of:
 - Workforce reductions without impact assessments
 - Administrative authority expanding into clinical decisions
 - Rapid growth of community care diverting resources from VHA

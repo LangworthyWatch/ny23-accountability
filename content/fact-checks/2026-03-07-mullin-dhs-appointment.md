@@ -61,7 +61,6 @@ The claim that DHS is "shuttered" during "these volatile times" repeats the over
 ## Related Fact-Checks
 
 * [DHS Shutdown: Epic Fury](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) — Full analysis of DHS shutdown claims, including "shuttered" framing
-* DHS Shutdown: "I Have Always Been Opposed" — Langworthy voted NO on Dec 2024 CR
 * [Minneapolis Shooting: Renee Good](/fact-checks/2026-02-04-minneapolis-renee-good/) — The killing that precipitated Democratic demands
 
 ## Sources

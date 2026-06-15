@@ -187,13 +187,12 @@ Each fact-check includes:
 | [SNAP Cuts](/fact-checks/2025-12-snap-cuts/) | "Not a single dollar cut" from SNAP benefits | **FALSE** — CBO: $295B reduction; 30% cut; largest in 30 years |
 | [Social Security Tax](/fact-checks/2025-12-social-security-tax/) | "$31,500 tax free" Social Security claim | **MISSING CONTEXT** — 64% already paid no tax; top deductions benefit highest earners |
 | [Scaffold Law](/fact-checks/2025-12-worker-safety-scaffold-law/) | Scaffold Law reform framed as pro-worker | **MISSING CONTEXT** — Chamber-backed; reduces worker protections; preempts state law |
-| [Year-End Newsletter](/fact-checks/2025-12-year-end-newsletter/) | Year-end newsletter legislative claims | **DOCUMENTED PATTERN** — Multiple claims overstated or inaccurate |
 
 ### October–November 2025
 
 | Topic | Claim | Verdict |
 |-------|-------|---------|
-| [Government Shutdown / ACA](/fact-checks/2025-10-government-shutdown-aca/) | ACA subsidies at risk; voted against CR that kept them | **MISLEADING** — Voted NO on Dec 2024 CR; blamed Democrats for consequences |
+| [Government Shutdown / ACA](/fact-checks/2025-10-government-shutdown-aca/) | "Shutting down government is not the solution" — said during the 44-day FY2026 standoff over ACA subsidies | **CONTRADICTION** — participated in the longest shutdown in U.S. history while blaming Democrats |
 | [Rural Hospitals / Medicaid](/fact-checks/2025-11-rural-hospitals-medicaid/) | Medicaid cuts won't close rural hospitals | **FALSE** — 30+ rural hospitals in NY at elevated risk; NY ranks #1 in vulnerability |
 
 ### July–September 2025

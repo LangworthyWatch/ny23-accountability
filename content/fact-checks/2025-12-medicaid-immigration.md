@@ -97,7 +97,6 @@ This is not an isolated claim. Langworthy has repeatedly used immigration rhetor
 |------|-------|--------------|
 | May 2025 | "Removing illegal aliens from Medicaid" | $911B in cuts to program serving citizens |
 | May 2025 | "Not a single person" loses coverage | CBO: 1.3M+ dually eligible lose Medicaid |
-| Dec 2024 | Blamed "illegal immigrants" for healthcare costs | Voted for bill cutting rural hospital funding |
 
 ---
 

@@ -5,8 +5,8 @@ draft: false
 topic: "Legislative Record"
 claim_date: "May 22, 2025"
 source: "House Roll Call Vote"
-source_url: "https://www.govtrack.us/congress/votes/119-2025/h175"
-archived_url: "https://web.archive.org/web/20260321190450/https://www.govtrack.us/congress/votes/119-2025/h175"
+source_url: "https://clerk.house.gov/evs/2025/roll145.xml"
+archived_url: "http://web.archive.org/web/20260614234010/https://clerk.house.gov/evs/2025/roll145.xml"
 verdict: "DOCUMENTED PATTERN"
 tags: ["legislative-record", "ida", "obbba", "opportunity-zones", "economic-development", "taxes"]
 counties: ["district-wide"]

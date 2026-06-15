@@ -79,8 +79,7 @@ DHS and ICE have publicly characterized Bos as a murder victim. That characteriz
 
 The post presents all seven women as equivalent and interchangeable examples of the same pattern. They are not:
 
-- Five cases involve convictions for murder by an undocumented person.
-- One (Nungaray) involves pending charges.
+- These cases do not all share one label: some involve murder convictions, others involve pending charges (e.g., Nungaray, whose trial had not concluded as of writing), and one (Megan Bos) involves no murder charge at all — cause of death officially undetermined. See the case-by-case findings above.
 - One (Hamilton) involves someone who entered through formal CBP processing as a minor.
 - One (Bos) involves no murder charge and an officially undetermined cause of death.
 

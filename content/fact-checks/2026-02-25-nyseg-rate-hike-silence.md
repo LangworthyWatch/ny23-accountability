@@ -70,13 +70,13 @@ Riley's intervention is documented in detail because it shows the range of actio
 
 **Investigation and constituent survey** (April 2025): Riley launched a formal investigation into NYSEG billing practices. The survey received approximately 2,000 responses within 24 hours and approximately 5,000 total.
 
-**Three utility bills:**
+**Two bills introduced, one cosponsored:**
 
 | Bill | Introduced | Key Provision |
 |------|-----------|---------------|
 | **Keep the Lights Local Act** (H.R. 5487) | Sep 18, 2025 | Prohibits foreign corporations and foreign governments from owning American public utility companies |
 | **No Bonuses for Utility Executives Act** (H.R. 6590) | Dec 10, 2025 | Bipartisan (with Rep. Jeff Van Drew, R-NJ). Bans executive bonuses when utilities raise rates above inflation |
-| **Weatherization Enhancement and Readiness Act** (H.R. 1355) | Feb 2025 | Bipartisan. Reauthorizes DOE Weatherization Assistance Program at $300M/year |
+| **Weatherization Enhancement and Readiness Act** (H.R. 1355) — *cosponsor; sponsored by Rep. Paul Tonko (D-NY-20)* | Feb 2025 | Bipartisan. Reauthorizes DOE Weatherization Assistance Program at $300M/year |
 
 **Congressional Lowering Utility Bills Caucus** (January 22, 2026): Co-founded with Rep. Eugene Vindman (VA-07), with 16 founding members from 10 states. Langworthy is not a member.
 

@@ -52,7 +52,7 @@ The IRA included $391 billion in clean energy investments, including:
 - USDA Rural Energy for America Program (REAP) expansion — grants for farms and rural small businesses to install solar, wind, and energy efficiency systems
 - Residential clean energy credits available to rural homeowners
 
-Langworthy voted against the IRA. Every Republican in the House voted against it; every Democrat voted for it (House vote: 220–207, August 12, 2022).
+Langworthy was not yet in Congress when the IRA passed (House vote 220–207, August 12, 2022; he took office in January 2023). But he has consistently opposed its clean-energy provisions, and he voted YES on OBBBA, which repealed many of them.
 
 **One Big Beautiful Bill Act (H.R. 1, enacted July 4, 2025) — Voted YES.**
 The OBBBA, which Langworthy supported on the House floor and voted for, repealed or sharply curtailed the clean energy tax provisions from the IRA:
@@ -92,7 +92,7 @@ Propane is a real and important energy source for NY-23, and Langworthy's distri
 ## Sources
 
 1. [Butane-Propane News: Legislative challenges & economic booms have defined New York's propane industry](https://www.bpnews.com) — archive pending
-2. [House Roll Call 461 (August 12, 2022): Inflation Reduction Act — Langworthy voted Nay](https://clerk.house.gov/evs/2022/roll461.xml)
+2. [Inflation Reduction Act (H.R. 5376), House passage 220–207, August 12, 2022 (Roll Call 420)](https://clerk.house.gov/evs/2022/roll420.xml) — predates Langworthy's term; he took office January 2023
 3. [Langworthy floor remarks on H.R. 1 (OBBBA)](https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-gives-remarks-house-floor-support-one-big) — archive pending
 4. [Tax Foundation: How the One Big Beautiful Bill Changes Clean Energy Tax Credits](https://taxfoundation.org/blog/big-beautiful-bill-green-energy-tax-credit-changes/) — archive pending
 5. [Daily Yonder: Energy Cuts in OBBBA Raise Costs, Threaten Jobs in Rural Communities](https://dailyyonder.com/energy-cuts-in-one-big-beautiful-bill-raise-costs-threaten-jobs-investment-in-rural-communities-across-u-s/2025/07/14/) — archive pending

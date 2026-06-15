@@ -108,7 +108,7 @@ The Fiscal Policy Institute's June 27, 2025 analysis identified **eight NY-23 ho
 
 ## Langworthy's Vote on the Underlying Bill
 
-**Roll Call 190 — July 3, 2025.** Langworthy voted YES on H.R. 1, the One Big Beautiful Bill Act. The vote was 218–214; only two Republicans defected (Davidson, Massie). Langworthy was not among them. His July 3 X post celebrated *"The One, Big Beautiful Bill has passed the House"*; his July 8 Olean Times Herald op-ed touted the bill as a *"generational win."* His House-floor remarks urged passage on the floor.
+**Roll Call 190 — July 3, 2025.** Langworthy voted YES on H.R. 1, the One Big Beautiful Bill Act. The vote was 218–214; only two Republicans defected (Fitzpatrick, Massie). Langworthy was not among them. His July 3 X post celebrated *"The One, Big Beautiful Bill has passed the House"*; his July 8 Olean Times Herald op-ed touted the bill as a *"generational win."* His House-floor remarks urged passage on the floor.
 
 That vote enacted both §50301 (creating the $212M-to-NY RHTP award) and the Medicaid reductions that, by KFF's accounting, the RHTP only partially offsets.
 

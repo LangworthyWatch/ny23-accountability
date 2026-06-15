@@ -1,7 +1,7 @@
 ---
 title: "Year-End Newsletter: Legislative Claims vs. Congressional Record"
 date: 2025-12-30
-draft: false
+draft: true
 topic: "Legislative Process / Transparency"
 claim_date: "December 28, 2025"
 source: "Weekly Update from Congressman Nick Langworthy"
@@ -11,6 +11,7 @@ verdict: "DOCUMENTED PATTERN"
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
 
+<!-- DRAFTED 2026-06-15 pending rewrite (site fact-check audit). The central claim is FALSE: H.R. 4690 (Reliable Federal Infrastructure Act) WAS acted on in committee — the Energy & Commerce Committee held a markup and ordered it reported by a 27-21 vote on Dec 3 2025 (govinfo BILLSTATUS-119hr4690; formally Reported, H. Rept., Feb 4 2026). Langworthy's 'three of my bills were reported out of committee' claim was therefore substantially accurate, and this entry's 'only TWO / H.R. 4690 has NOT been reported out' rebuttal is inverted. Rewrite or remove before republishing. -->
 ## Statement
 
 **Source:** Weekly Update from Congressman Nick Langworthy, December 28, 2025

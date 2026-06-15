@@ -12,7 +12,9 @@ tags: ["immigration", "ICE", "shutdown", "Minneapolis", "voting-record", "DHS"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
 
-<!-- DRAFTED 2026-06-15 pending rewrite (site fact-check audit). The load-bearing Dec 2024 vote claim is FALSE: per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The 'doesn't always oppose shutdowns / voted NO on a Dec 2024 CR' argument is inverted and must be rewritten (or the claim dropped) before republishing. -->
+<!-- DRAFTED 2026-06-15 (site fact-check audit). The load-bearing Dec 2024 vote claim was FALSE and has been CORRECTED in the body (2026-06-15): per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The FALSE verdict on Claim 1 has been WITHDRAWN. Entry remains draft:true pending an editorial decision on whether to republish. -->
+> **Correction (June 15, 2026):** An earlier version of this entry stated that Rep. Langworthy voted **NO** on H.R. 10545 on December 19, 2024. That was incorrect. Per House Clerk roll-call records, Langworthy voted **YEA** on H.R. 10545 (the American Relief Act, 2025), which passed **366–34** on **December 20, 2024** (Roll Call 517) and became law — no government shutdown occurred. He also voted **YEA** on the earlier H.R. 10515 (Roll Call 516, December 19, 2024), which failed 174–235. The December 2024 record does not show Langworthy voting against a continuing resolution, so the **FALSE** verdict on Claim 1 has been withdrawn.
+
 ## Statement
 
 **Source:** Facebook Post, February 2, 2026
@@ -31,23 +33,21 @@ This shutdown affected federal workers throughout the district, delayed tax refu
 
 ### Claim 1: "Always have been" opposed to shutdowns
 
-**Verdict: FALSE**
+**Verdict: CORRECTION — prior FALSE rating withdrawn**
 
-**December 19, 2024:** Langworthy voted **NO** on H.R. 10545, a continuing resolution that would have prevented a Christmas shutdown.
+This entry originally rated the claim FALSE on the basis that Langworthy voted **NO** on H.R. 10545 in December 2024. That was a factual error (see the correction note above). The corrected record, from the House Clerk's roll calls:
 
-His stated reason: calling it a "bloated spending bill" with "wasteful spending."
-
-The bill passed **366-34** and kept the government open.
-
-**His own statement that day:** "I always believed it's critical that we do our job to keep the government open... **But that doesn't mean signing off on a bloated spending bill.**"
-
-This demonstrates his opposition to shutdowns is conditional, not absolute.
+- **December 19, 2024 — H.R. 10515** ("American Relief Act"): **FAILED 174–235.** Langworthy voted **YEA** (Roll Call 516).
+- **December 20, 2024 — H.R. 10545** ("American Relief Act, 2025"): **PASSED 366–34** and became law; no government shutdown occurred. Langworthy voted **YEA** (Roll Call 517).
 
 | Date | Bill | Langworthy's Vote | Outcome |
 |------|------|-------------------|---------|
-| December 19, 2024 | H.R. 10545 (CR) | **NO** | Passed 366-34 |
+| December 19, 2024 | H.R. 10515 (American Relief Act) | **YEA** | Failed 174–235 |
+| December 20, 2024 | H.R. 10545 (American Relief Act, 2025) | **YEA** | Passed 366–34 |
 | September 2025 | House CR | YES | Passed House, failed Senate |
-| November 2025 | Shutdown-ending bill | YES | Passed 222-209 |
+| November 2025 | Shutdown-ending bill | YES | Passed 222–209 |
+
+The December 2024 votes do not show Langworthy voting against a continuing resolution, so they do not support a FALSE rating on this claim. This site is not assigning a new verdict to the underlying "always opposed" statement on the current record.
 
 ---
 
@@ -140,7 +140,7 @@ Senator John Kennedy (R-LA): Negotiations would be "about as productive and effi
 
 | Claim | Verdict |
 |-------|---------|
-| "I have always been opposed to shutdowns" | **FALSE** — voted against CR in December 2024 |
+| "I have always been opposed to shutdowns" | **CORRECTION** — prior FALSE rating withdrawn; the December 2024 record shows YEA votes on both CRs (see correction note) |
 | Democrats "refused to fund" DHS | **MISLEADING** — accepted temporary funding pending reforms |
 | Democrats want to "defund ICE" | **MOSTLY FALSE** — seeking reforms; ICE has $75B already |
 | Tensions rose in Minnesota after "defund" push | **CAUSALLY REVERSED** — shootings caused the dispute |
@@ -150,10 +150,9 @@ Senator John Kennedy (R-LA): Negotiations would be "about as productive and effi
 
 ## Questions This Raises
 
-1. If Langworthy "always" opposes shutdowns, why did he vote NO on H.R. 10545 in December 2024?
-2. Does accepting a 2-week CR while funding five other agencies constitute "refusing to fund" DHS?
-3. If ICE already has $75 billion from reconciliation, is the current appropriations dispute really about "defunding"?
-4. Should the video evidence contradicting DHS claims about Renee Good inform how we evaluate the dispute?
+1. Does accepting a 2-week CR while funding five other agencies constitute "refusing to fund" DHS?
+2. If ICE already has $75 billion from reconciliation, is the current appropriations dispute really about "defunding"?
+3. Should the video evidence contradicting DHS claims about Renee Good inform how we evaluate the dispute?
 
 ---
 
@@ -167,7 +166,8 @@ Senator John Kennedy (R-LA): Negotiations would be "about as productive and effi
 ## Sources
 
 * Langworthy Facebook post (February 2, 2026)
-* [Congress.gov: H.R. 10545 vote record](https://www.congress.gov/bill/118th-congress/house-bill/10545) (December 19, 2024) — Langworthy: NO
+* [Congress.gov: H.R. 10545 — American Relief Act, 2025](https://www.congress.gov/bill/118th-congress/house-bill/10545) — Roll Call 517, December 20, 2024: passed 366–34, Langworthy voted YEA
+* [Congress.gov: H.R. 10515 — American Relief Act](https://www.congress.gov/bill/118th-congress/house-bill/10515) — Roll Call 516, December 19, 2024: failed 174–235, Langworthy voted YEA
 * [NPR: Minneapolis shootings and federal response](https://www.npr.org/2026/01/08/g-s1-42338/minneapolis-ice-shooting-renee-good) (January 2026)
 * Minneapolis Mayor Jacob Frey: Public statement on video evidence
 * [CBS News: Government shutdown coverage](https://www.cbsnews.com/news/government-shutdown-2026/) (January-February 2026)
@@ -178,4 +178,4 @@ Senator John Kennedy (R-LA): Negotiations would be "about as productive and effi
 
 **Note:** This entry documents publicly available information from congressional records and news coverage. Readers may draw their own conclusions.
 
-*Last updated: February 4, 2026*
+*Last updated: June 15, 2026 (corrected)*

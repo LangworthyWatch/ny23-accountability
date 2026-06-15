@@ -32,8 +32,8 @@ The motion before the House was a **motion to refer** — a procedural move that
 
 | Side | Yes (Buried Resolution) | No (Supported Release) |
 |------|------------------------|----------------------|
-| Republicans | 319 | 38 |
-| Democrats | 38 | 27 |
+| Republicans | 175 | 38 |
+| Democrats | 182 | 27 |
 | **Total** | **357** | **65** |
 
 Langworthy was among the **38 Republicans** who voted against their party leadership's position. His office also confirmed he voted in the **House Oversight Committee** to subpoena the Ethics Committee records — an additional step his Facebook post did not mention.
@@ -68,7 +68,7 @@ Voting to release Ethics Committee records of congressional sexual misconduct �
 
 ### This is the exception, but the exception proves the rule
 
-This is one of the rare instances where Langworthy's vote went against Republican leadership — 319 of his Republican colleagues voted to bury the resolution. That is worth noting. The concern is what's absent from his framing, not the vote itself.
+This is one of the rare instances where Langworthy's vote went against Republican leadership — 175 of his Republican colleagues voted to bury the resolution. That is worth noting. The concern is what's absent from his framing, not the vote itself.
 
 ---
 

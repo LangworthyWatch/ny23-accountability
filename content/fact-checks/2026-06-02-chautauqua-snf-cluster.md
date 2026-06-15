@@ -124,7 +124,7 @@ The pattern documented here is the public-record pattern: closures named, federa
 
 ## Verdict: DOCUMENTED PATTERN
 
-Three nursing home closures in one Chautauqua County window. Two displacement events totaling **106+ residents and 113+ jobs**. One of the closing facilities was operating below the federal RN staffing floor that §71111 of the One Big Beautiful Bill Act blocked. Langworthy voted YES on the bill containing §71111. He has made **no public statement on any of the three closures** in the searched window — while producing high-volume polished content on issues outside his district during the same period.
+Three nursing home closures in one Chautauqua County window. Two displacement events totaling **115+ residents and 219+ staff/jobs**. One of the closing facilities was operating below the federal RN staffing floor that §71111 of the One Big Beautiful Bill Act blocked. Langworthy voted YES on the bill containing §71111. He has made **no public statement on any of the three closures** in the searched window — while producing high-volume polished content on issues outside his district during the same period.
 
 ---
 

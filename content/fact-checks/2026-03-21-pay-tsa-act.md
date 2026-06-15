@@ -7,15 +7,17 @@ claim_date: "March 21–28, 2026"
 source: "Facebook Posts"
 source_url: "https://www.audacy.com/wben/news/local/nearing-recess-langworthy-says-senate-holding-up-tsa-deal"
 archived_url: ""
-verdict: "CONTRADICTION"
+verdict: "CORRECTION"
 tags: ["tsa", "shutdown", "dhs", "labor", "pay-tsa-act", "aviation", "government-funding", "fact-check"]
 counties: ["district-wide"]
 ---
 
-<!-- DRAFTED 2026-06-15 pending rewrite (site fact-check audit). The load-bearing Dec 2024 vote claim is FALSE: per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The 'doesn't always oppose shutdowns / voted NO on a Dec 2024 CR' argument is inverted and must be rewritten (or the claim dropped) before republishing. -->
+<!-- DRAFTED 2026-06-15 (site fact-check audit). The load-bearing Dec 2024 vote claim was FALSE and has been CORRECTED in the body (2026-06-15): per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The CONTRADICTION verdict on Claim 1 rested on that error and has been WITHDRAWN. Entry remains draft:true pending an editorial decision on whether to republish (the title/framing still lean on the retracted Claim 1). -->
+> **Correction (June 15, 2026):** An earlier version of this entry stated that Rep. Langworthy voted **NO** on H.R. 10545 on December 19, 2024. That was incorrect. Per House Clerk roll-call records, Langworthy voted **YEA** on H.R. 10545 (the American Relief Act, 2025), which passed **366–34** on **December 20, 2024** (Roll Call 517) and became law — no government shutdown occurred. He also voted **YEA** on the earlier H.R. 10515 (Roll Call 516, December 19, 2024), which failed 174–235. Because the **CONTRADICTION** verdict on Claim 1 rested on that error, it has been withdrawn.
+
 ## Why This Matters for NY-23
 
-TSA agents screen passengers at Buffalo Niagara International Airport every day. Three times in the past six months, those workers have reported to work without pay. Rep. Langworthy's new Pay TSA Act of 2026 acknowledges that pattern and proposes a structural fix. But his claim that he "doesn't support government shutdowns" — made while introducing a bill premised on their continued occurrence — runs directly into his own voting record and three consecutive funding lapses under unified Republican government.
+TSA agents screen passengers at Buffalo Niagara International Airport every day. Three times in the past six months, those workers have reported to work without pay. Rep. Langworthy's new Pay TSA Act of 2026 acknowledges that pattern and proposes a structural fix — one premised on shutdowns continuing to occur. The bill would change how TSA workers are paid *during* a shutdown without addressing the shutdowns themselves.
 
 ---
 
@@ -53,19 +55,20 @@ The bill creates a **Transportation Security Trust Fund** financed by the Aviati
 
 ## Claim 1: "I Don't Support Government Shutdowns"
 
-**Verdict: CONTRADICTION**
+**Verdict: CORRECTION — prior CONTRADICTION rating withdrawn**
 
-This is at least the third time in six months Langworthy has made a version of this statement. Each time, context has complicated the claim.
+This entry originally rated the claim a CONTRADICTION, citing a December 2024 vote against a continuing resolution. That was a factual error (see the correction note above).
 
 ### His Voting Record
 
-**December 19, 2024:** Langworthy voted **NO** on H.R. 10545, a continuing resolution that would have prevented a government shutdown. The bill passed **366–34** and the government stayed open despite his no vote.
+The corrected December 2024 record, from the House Clerk's roll calls:
 
-His stated reason: *"I always believed it's critical that we do our job to keep the government open... But that doesn't mean signing off on a bloated spending bill."*
+- **December 19, 2024 — H.R. 10515** ("American Relief Act"): **FAILED 174–235.** Langworthy voted **YEA** (Roll Call 516).
+- **December 20, 2024 — H.R. 10545** ("American Relief Act, 2025"): **PASSED 366–34** and became law; no government shutdown occurred. Langworthy voted **YEA** (Roll Call 517).
 
-That is a conditional position, not an absolute one — he opposes shutdowns unless the bill funding government contains spending he objects to.
+Langworthy voted in favor of both December 2024 continuing resolutions, so that record does not support a CONTRADICTION verdict on his "doesn't support shutdowns" statement. A companion entry that had rated a related claim FALSE on the same erroneous vote has also been corrected. See: [Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record](/fact-checks/2026-02-02-shutdown-defund-ice/).
 
-His earlier claim that he has *"always"* been opposed to shutdowns was rated **FALSE** by this site in February. See: [Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record](/fact-checks/2026-02-02-shutdown-defund-ice/).
+This site is not assigning a new verdict to the underlying "doesn't support shutdowns" statement on the current record.
 
 ### The FY2026 Shutdown Record
 
@@ -77,7 +80,7 @@ Langworthy's own House GOP graphic makes the damage plain: TSA officers worked w
 | DHS-only lapse | ~January 30 – February 3, 2026 | ~4 days | Senate Democrats blocked DHS bill over Minneapolis accountability demands |
 | DHS-only lapse (ongoing) | February 14, 2026 – present | 35+ days | Senate Democrats continue to block DHS funding |
 
-Langworthy voted **YES** on the November 2025 bill that ended the 43-day shutdown and supported subsequent DHS funding bills that Senate Democrats blocked. On the FY2026 votes, his position is more consistent with his stated opposition to shutdowns than his December 2024 vote was.
+Langworthy voted **YES** on the November 2025 bill that ended the 43-day shutdown and supported subsequent DHS funding bills that Senate Democrats blocked.
 
 **What he doesn't say:** The Democratic demands driving the two DHS-specific lapses followed the fatal shootings of two U.S. citizens by federal agents in Minneapolis — context Langworthy's posts omit entirely. See: [DHS Shutdown Claim During Operation Epic Fury](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) and [Minneapolis Shooting: Renee Good](/fact-checks/2026-02-04-minneapolis-renee-good/).
 
@@ -123,7 +126,6 @@ Both posts blame the shutdown on Democrats — consistent with Langworthy's stat
 
 **What neither post mentions:**
 
-- Langworthy's December 2024 no vote on a CR that would have prevented a shutdown
 - The congressional history of diverting aviation security fees into general deficit reduction — a practice Republicans have supported in budget negotiations
 - Whether Langworthy has pushed for any structural reforms to prevent future shutdowns, beyond managing their financial consequences
 - His silence as DOGE cut approximately 1,000 CISA employees — degrading the DHS cybersecurity mission that the shutdown putatively threatens — before the shutdown began
@@ -132,19 +134,17 @@ Both posts blame the shutdown on Democrats — consistent with Langworthy's stat
 
 ## Questions This Raises
 
-1. If Langworthy "doesn't support government shutdowns," why did he vote against a CR in December 2024 that would have kept the government open?
+1. The aviation security fee has been diverted to deficit reduction through bipartisan budget agreements. Has Langworthy previously opposed those diversions?
 
-2. The aviation security fee has been diverted to deficit reduction through bipartisan budget agreements. Has Langworthy previously opposed those diversions?
+2. The Pay TSA Act ensures workers are paid during shutdowns but doesn't prevent shutdowns. Is normalizing shutdown finance a step forward, or does it reduce the political cost of allowing future shutdowns to occur?
 
-3. The Pay TSA Act ensures workers are paid during shutdowns but doesn't prevent shutdowns. Is normalizing shutdown finance a step forward, or does it reduce the political cost of allowing future shutdowns to occur?
-
-4. Langworthy describes the Democratic position as purely obstructionist. The DHS-specific shutdowns were triggered by demands for accountability after federal agents shot two U.S. citizens. Why are those killings absent from his framing?
+3. Langworthy describes the Democratic position as purely obstructionist. The DHS-specific shutdowns were triggered by demands for accountability after federal agents shot two U.S. citizens. Why are those killings absent from his framing?
 
 ---
 
 ## Related Fact-Checks
 
-- [Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record](/fact-checks/2026-02-02-shutdown-defund-ice/) — "I have always been opposed to shutdowns" rated FALSE; December 2024 no vote documented
+- [Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record](/fact-checks/2026-02-02-shutdown-defund-ice/) — companion entry; its December 2024 vote claim was corrected June 15, 2026 (Langworthy voted YEA on both CRs)
 - [DHS Shutdown Claim During Operation Epic Fury](/fact-checks/2026-02-28-dhs-shutdown-epic-fury/) — Full breakdown of the current DHS funding lapse and TSA operational impact
 - [Minneapolis Shooting: Renee Good](/fact-checks/2026-02-04-minneapolis-renee-good/) — The context for Democratic demands that triggered DHS-specific shutdowns
 - ['41 Days of Chaos': Shutdown Blame Paired with Immigration Fear](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) — March 28 messaging blitz combining shutdown and immigration
@@ -178,7 +178,8 @@ The Trump directive may render the Pay TSA Act moot for the current shutdown —
 * [Wikipedia: 2026 United States Federal Government Shutdown](https://en.wikipedia.org/wiki/2026_United_States_federal_government_shutdown)
 * [CHDS: Early 2026 Government Shutdowns Timeline](https://www.chds.us/c/timeline/early-2026-government-shutdowns/)
 * [Government Executive: Travel Industry Rallies Support for TSA Staff Working Without Pay](https://www.govexec.com/pay-benefits/2026/03/travel-industry-rallies-support-tsa-staff-working-without-pay-amid-concern-delays-during-shutdown/411956/)
-* Congress.gov: H.R. 10545 vote record (December 19, 2024) — Langworthy: NO
+* [Congress.gov: H.R. 10545 — American Relief Act, 2025](https://www.congress.gov/bill/118th-congress/house-bill/10545) — Roll Call 517, December 20, 2024: passed 366–34, Langworthy voted YEA
+* [Congress.gov: H.R. 10515 — American Relief Act](https://www.congress.gov/bill/118th-congress/house-bill/10515) — Roll Call 516, December 19, 2024: failed 174–235, Langworthy voted YEA
 * [NPR: House Republicans Reject Senate DHS Bill, Trump Signs TSA Directive](https://www.npr.org/2026/03/27/g-s1-115366/senate-dhs-tsa-deal)
 * [Federal News Network: Trump Signs Order to Pay TSA Employees Amid Shutdown](https://federalnewsnetwork.com/government-shutdown/2026/03/trump-signs-order-to-pay-tsa-employees-amid-shutdown-standoff/)
 * [WBEN: Nearing Recess, Langworthy Says Senate Holding Up TSA Deal](https://www.audacy.com/wben/news/local/nearing-recess-langworthy-says-senate-holding-up-tsa-deal)
@@ -188,4 +189,4 @@ The Trump directive may render the Pay TSA Act moot for the current shutdown —
 
 **Note:** This entry documents publicly available information from official agency data, congressional vote records, news organizations, and the representative's own statements. Readers may draw their own conclusions.
 
-*Last updated: March 28, 2026*
+*Last updated: June 15, 2026 (corrected)*

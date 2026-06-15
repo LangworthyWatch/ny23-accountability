@@ -12,7 +12,9 @@ tags: ["town-hall", "immigration", "shutdown", "epstein", "energy", "voter-id", 
 counties: ["erie", "niagara", "chautauqua", "cattaraugus", "allegany", "steuben", "chemung", "schuyler", "tioga"]
 ---
 
-<!-- DRAFTED 2026-06-15 pending rewrite (site fact-check audit). The load-bearing Dec 2024 vote claim is FALSE: per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The 'doesn't always oppose shutdowns / voted NO on a Dec 2024 CR' argument is inverted and must be rewritten (or the claim dropped) before republishing. -->
+<!-- DRAFTED 2026-06-15 (site fact-check audit). The load-bearing Dec 2024 vote claim was FALSE and has been CORRECTED in the body (2026-06-15): per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred in December 2024. The FALSE verdict on Claim 1 has been WITHDRAWN. Entry remains draft:true pending an editorial decision on whether to republish. -->
+> **Correction (June 15, 2026):** An earlier version of this entry stated that Rep. Langworthy voted **NO** on H.R. 10545 on December 19, 2024, that the bill failed 174–235, and that the government shut down from December 21, 2024 to January 3, 2025. All three points were incorrect. Per House Clerk roll-call records, Langworthy voted **YEA** on H.R. 10545 (the American Relief Act, 2025), which passed **366–34** on **December 20, 2024** (Roll Call 517) and became law; the 174–235 failed vote was the prior day's H.R. 10515 (Roll Call 516, December 19, 2024), on which Langworthy also voted **YEA**. **No government shutdown occurred in December 2024.** Because the **FALSE** verdict on Claim 1 rested on a vote that did not happen, it has been withdrawn.
+
 ## Statement
 
 In February 2026, Rep. Langworthy held a monthly telephone town hall broadcast to residents across NY-23's nine counties. The call covered government shutdowns, ICE enforcement, the Epstein files, the Energy Choice Act, the SAVE Act, and constituent access.
@@ -33,19 +35,20 @@ When claims made during these calls are inaccurate or lack context, thousands of
 
 ### Claim 1: "I hope by now you know that I'm always against government shutdowns"
 
-**Verdict: FALSE**
+**Verdict: CORRECTION — prior FALSE rating withdrawn**
 
 > "I hope by now you know that I'm always against government shutdowns. They don't work. They harm the American people and they're just wrong."
 
 **The Record:**
 
-On December 19, 2024, Rep. Langworthy voted **NO** on H.R. 10545, the continuing resolution that would have prevented the government shutdown. The CR failed 174-235, and the government shut down from December 21, 2024 through January 3, 2025.
+This entry originally rated the claim FALSE, stating that Langworthy voted **NO** on H.R. 10545 and that the government shut down. Both points were factual errors (see the correction note above). The corrected record, from the House Clerk's roll calls:
 
 | Date | Vote | Bill | Result |
 |------|------|------|--------|
-| Dec 19, 2024 | **NO** | H.R. 10545 (Continuing Resolution) | Failed 174-235 → Shutdown |
+| Dec 19, 2024 | **YEA** | H.R. 10515 (American Relief Act) | Failed 174–235 (Roll Call 516) |
+| Dec 20, 2024 | **YEA** | H.R. 10545 (American Relief Act, 2025) | Passed 366–34 (Roll Call 517) |
 
-A vote against the continuing resolution is a vote that contributes to a government shutdown. Claiming to have "always been against" shutdowns while voting against the legislation that would have prevented one is contradicted by the voting record.
+Langworthy voted in favor of both the failed December 19 CR and the December 20 CR that passed and became law. No government shutdown occurred in December 2024. Because the prior verdict rested on a vote that did not happen, it has been withdrawn; this site is not assigning a new verdict to the "always against shutdowns" statement on the current record.
 
 **See also:** [Government Shutdown / "Defund ICE"](/fact-checks/2026-02-02-shutdown-defund-ice/)
 
@@ -235,9 +238,6 @@ This town hall reinforces several patterns documented across multiple fact-check
 **Pattern: Deflect to Previous Administrations**
 Every constituent concern about current ICE enforcement was met with references to Obama or Biden-era deportations. The documented differences in enforcement scope and methods were not addressed.
 
-**Pattern: Vote Record Contradicts Stated Position**
-Rep. Langworthy attributed the DHS shutdown to Democrats. He voted against the December 2024 CR that would have prevented it.
-
 **Pattern: Form Response / Non-Response**
 Multiple constituents who raised specific bill requests (H.R. 6130, H.R. 2036, H.R. 3747) were told "we'll get back to you" — consistent with the documented pattern of responses arriving after action has already been taken.
 
@@ -256,7 +256,7 @@ Multiple constituents who raised specific bill requests (H.R. 6130, H.R. 2036, H
 
 | Claim | Verdict |
 |-------|---------|
-| "I'm always against government shutdowns" | **FALSE** — Voted NO on Dec 2024 CR |
+| "I'm always against government shutdowns" | **CORRECTION** — prior FALSE rating withdrawn; he voted YEA on both Dec 2024 CRs (see correction note) |
 | "Obama alone deported more than three million" | **MISSING CONTEXT** — 3M over 8 years; 85% border removals; qualitatively different operations |
 | "Upwards of 20 million people came in four years" | **FALSE** — CBP data: ~10.8M encounters; ~12-13M including gotaways |
 | "That was a different era before social media was as prevalent" | **FALSE** — Biden term ended 4 weeks before this call; 5B+ social media users |
@@ -270,7 +270,6 @@ Multiple constituents who raised specific bill requests (H.R. 6130, H.R. 2036, H
 
 During his February telephone town hall, Rep. Langworthy made several claims that do not match the public record:
 
-- He said he has "always" opposed government shutdowns, but he voted against the bill that would have prevented the December 2024 shutdown.
 - He cited Obama-era deportation numbers in response to questions about current ICE operations, without noting that Obama's removals were overwhelmingly people caught at the border — not the interior enforcement operations constituents were asking about.
 - He claimed 20 million people entered the country under Biden. Official data shows roughly half that number, and not all of those individuals entered or remained.
 - He described the Biden presidency as a "different era" for social media. It ended four weeks before this call.
@@ -282,7 +281,7 @@ During his February telephone town hall, Rep. Langworthy made several claims tha
 
 ## Sources
 
-- [Congress.gov — H.R. 10545 Roll Call Vote (Dec 19, 2024)](https://www.congress.gov/bill/118th-congress/house-bill/10545/all-actions)
+- [Congress.gov — H.R. 10545, American Relief Act, 2025 (Roll Call 517, Dec 20, 2024: passed 366–34, Langworthy YEA)](https://www.congress.gov/bill/118th-congress/house-bill/10545/all-actions)
 - [CBP Nationwide Encounters](https://www.cbp.gov/document/stats/nationwide-encounters)
 - [House Homeland Security Committee — FY2024 Factsheet](https://homeland.house.gov/2024/10/24/startling-stats-factsheet-fiscal-year-2024-ends-with-nearly-3-million-inadmissible-encounters-10-8-million-total-encounters-since-fy2021/)
 - [Migration Policy Institute — Obama Record on Deportations](https://www.migrationpolicy.org/article/obama-record-deportations-deporter-chief-or-not)
@@ -297,4 +296,4 @@ During his February telephone town hall, Rep. Langworthy made several claims tha
 
 **Note:** This entry documents publicly available information from a telephone town hall recording, congressional voting records, CBP data, and independent reporting. All direct quotes are transcribed from the call. Readers may draw their own conclusions.
 
-*Last updated: February 25, 2026*
+*Last updated: June 15, 2026 (corrected)*

@@ -9,12 +9,12 @@ source_url: "https://www.wgrz.com/article/news/health/langworthy-visits-buffalo-
 archived_url: ""
 verdict: "CONTRADICTION"
 tags: ["veterans", "va", "doge", "staffing", "bath-va", "healthcare", "rural-impact"]
-counties: ["erie", "steuben", "allegany", "chemung", "schuyler", "yates"]
+counties: ["erie", "steuben", "allegany", "chemung", "schuyler"]
 ---
 
 ## Why this matters in a rural district
 
-Bath VA Medical Center isn't just a hospital — it is the healthcare lifeline for 33,000 veterans spread across seven counties in New York and Pennsylvania. For a veteran in Allegany County or Yates County, Bath is the closest VA facility for inpatient care, addiction treatment, and specialized services. When staff are cut at Bath, there is no nearby alternative. The next option is hours away.
+Bath VA Medical Center isn't just a hospital — it is the healthcare lifeline for 33,000 veterans spread across seven counties in New York and Pennsylvania. For a veteran in Allegany County or Steuben County, Bath is the closest VA facility for inpatient care, addiction treatment, and specialized services. When staff are cut at Bath, there is no nearby alternative. The next option is hours away.
 
 Langworthy called VA problems a "staffing problem." He then supported the initiative that cut VA staff.
 
@@ -71,7 +71,7 @@ When asked if politicians had made promises to veterans they couldn't keep, Lang
 
 ### VA Clinicians' Warning: The Lincoln Declaration
 
-In September-October 2025, approximately **170 current and former VA clinicians** signed **"The Lincoln Declaration: A Statement of Concern about the Future of Veterans' Healthcare"** (reported by CNN September 25, NPR October 1). By February 2026, signatories had grown to **501** (271 named, 184 anonymous). The letter, addressed to VA Secretary Doug Collins, warns of three risks:
+In September-October 2025, approximately **170 current and former VA clinicians** signed **"The Lincoln Declaration: A Statement of Concern about the Future of Veterans' Healthcare"** (reported by CNN September 25, NPR October 1). By February 2026, signatories had grown to **501**. The letter, addressed to VA Secretary Doug Collins, warns of three risks:
 1. Workforce reductions without impact assessments
 2. Administrative authority expanding into clinical decisions
 3. Rapid growth of community care diverting resources from VHA
@@ -205,7 +205,7 @@ These are not opposing interpretations of ambiguous data — they are **document
 * CNN (September 25, 2025) and NPR (October 1, 2025): Lincoln Declaration coverage
 * Newsweek: "Map shows VA medical centers hit worst by severe staffing shortage"
 * Fierce Healthcare: VA OIG staffing shortage report (August 2025)
-* [Congress.gov: H.R. 7256 — Federal Workforce Early Separation Incentives Act](https://www.congress.gov/bill/118th-congress/house-bill/7256) (Langworthy)
+* [Congress.gov: H.R. 7256 — Federal Workforce Early Separation Incentives Act](https://www.congress.gov/bill/119th-congress/house-bill/7256) (Langworthy)
 * [Roll Call: "Massive veterans budget gap rips hole in appropriations process"](https://rollcall.com/2024/07/26/massive-veterans-budget-gap-rips-hole-in-appropriations-process/) (July 2024)
 * [VA OIG: Leaders Failed to Address Community Care Consult Delays at Buffalo VA](https://www.vaoig.gov/sites/default/files/reports/2024-09/vaoig-23-03679-262.pdf) (September 2024)
 * Related: [Big Flats SSA/DOGE](/fact-checks/2026-02-08-big-flats-ssa-doge/)

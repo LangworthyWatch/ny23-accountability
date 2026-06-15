@@ -72,14 +72,13 @@ There is a documented kernel: Democrats did vote against DHS appropriations at e
 ## Questions This Raises
 
 1. The Marilla operation occurred June 8, before the Secure America Act passed the House (June 9) or was signed (June 10). What funding does the post suggest the operation lacked?
-2. If "voted to defund" refers to the June 9 vote against S. 2's supplemental $70 billion, does Rep. Langworthy consider any vote against a funding increase to be a vote to "defund"? By that standard, how would he characterize his own December 2024 vote against the continuing resolution he called a "bloated spending bill"?
+2. If "voted to defund" refers to the June 9 vote against S. 2's supplemental $70 billion, does Rep. Langworthy consider any vote against a funding increase to be a vote to "defund"?
 3. Democrats conditioned support for new enforcement funding on judicial warrants, mask restrictions, and body cameras. Does Rep. Langworthy support or oppose those specific conditions? His post does not mention them.
 
 ---
 
 ## Related Fact-Checks
 
-- Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record — the February version of the same "Democrats defund" framing, including his own December 2024 vote against a continuing resolution
 - [Minnesota Fraud: Who "Pulled Back the Curtain"](/fact-checks/2026-06-10-minnesota-fraud-50-state-claim/) — the same week's Oversight Committee claims
 
 ---

@@ -196,7 +196,7 @@ This is documented from FEC bulk pas2 24/26 files, joined to the FEC committee m
 | Sector (alignment with SECURE Data Act coalition) | Total | PACs |
 |---|---|---|
 | **Telecom / ISP / Cable** (NCTA, USTelecom, CTIA members) | $121,000 | Charter Communications PAC ($35K), Cox Enterprises PAC ($25K), Comcast/NBCUniversal PAC ($16K), Verizon PAC ($14K), AT&T Employee PAC ($12K), NCTA—The Internet & Television Association PAC ($13K), T-Mobile T-PAC ($6K) |
-| **Retail / Hospitality / Franchise / Convenience** (NRF, RILA, Restaurant Assn, IFA, AHLA, NACS, NAR members) | $77,000 | International Franchise Assn PAC ($24K), National Assn of Realtors PAC ($18K), Walmart PAC ($16K), National Restaurant Assn PAC ($15K), American Hotel & Lodging PAC ($4K), National Assn of Convenience Stores PAC ($4K) |
+| **Retail / Hospitality / Franchise / Convenience** (NRF, RILA, Restaurant Assn, IFA, AHLA, NACS, NAR members) | $81,000 | International Franchise Assn PAC ($24K), National Assn of Realtors PAC ($18K), Walmart PAC ($16K), National Restaurant Assn PAC ($15K), American Hotel & Lodging PAC ($4K), National Assn of Convenience Stores PAC ($4K) |
 | **Oil / Energy** (API + Energy Marketers signed the letter) | $61,000 | Marathon Petroleum Employees PAC ($20K), Chevron Employees PAC ($20K), ExxonMobil PAC ($12K), Energy Marketers of America Small Business Cmte PAC ($9K) |
 | **Big Tech direct** (Google's PAC + BSA's PAC) | $3,500 | Google LLC NETPAC ($2K), BSA Business Software Alliance Inc. PAC ($1.5K) |
 | **Subtotal — Coalition members** | **$270,500** | **21 PACs** |
