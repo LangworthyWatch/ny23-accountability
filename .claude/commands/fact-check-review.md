@@ -20,7 +20,7 @@ Five specific failure modes that have caused real corrections in this project:
 
 4. **Conflated numbers from different snapshots.** Any derived number (a difference, ratio, percentage, or "shortfall") that combines two numbers from different sources or different time-points is suspect. Examples: subtracting an "original total invoice" from a "remaining balance after partial payments" produces a meaningless shortfall figure.
 
-5. **Membership/affiliation claims taken from aggregators or pattern-matching.** Any "X is a cosponsor of," "X serves on," "X signed," or "X endorsed" claim must be verified against the authoritative roster (the congress.gov bill **cosponsors** list; the actual letter PDF) — not GovTrack/billsponsor, and not inferred because similar entities qualify. The fix is to fetch the authoritative roster yourself and confirm the named person is actually on it. Symptom: a cosponsor/member/signatory claim that "fits the pattern" (e.g., a NY Republican on a bipartisan NY bill) but was sourced to an aggregator at less-than-confirmed status. (Caught June 13, 2026 — a false H.R. 6644 cosponsorship claim.)
+5. **Membership/affiliation claims taken from aggregators or pattern-matching.** Any "X is a cosponsor of," "X serves on," "X signed," or "X endorsed" claim must be verified against the authoritative roster (the congress.gov bill **cosponsors** list; the actual letter PDF) — not GovTrack/billsponsor, and not inferred because similar entities qualify. The fix is to fetch the authoritative roster yourself and confirm the named person is actually on it. Symptom: a cosponsor/member/signatory claim that "fits the pattern" (e.g., a NY Republican on a bipartisan NY bill) but was sourced to an aggregator at less-than-confirmed status. (Caught June 13, 2026 — a false H.R. 6644 cosponsorship claim.) **Deterministic check:** `python .claude/scripts/verify_fact.py cosponsor <congress> <type> <num> <surname>` reads the govinfo BILLSTATUS roster directly — use it instead of an aggregator.
 
 ## Process
 
@@ -87,6 +87,16 @@ A pre-publish review where:
 - Trusting a WebSearch tool's summary as if it were a primary-source quote (this is what the four failure modes were caused by in the first place)
 - Auto-editing the file without showing the user the proposed changes first
 - Silently approving an unsourced atmospheric detail because it sounds plausible
+
+## Related skills
+
+This is the deep source-verification gate. Around it:
+
+- `/source-attribution-check` — finds claims missing citations (run **before** this).
+- `/claim-audit` — catches the *recombination* error class this review doesn't target: a correctly-sourced fact attached to the **wrong neighbor** (Medicaid labeled SNAP, a county that isn't NY-23, the wrong roll call). Run it on any entry that mixes confusable entities.
+- `/verify-fact` — deterministic primary-source checks (`verify_fact.py`) for roll-call votes, NY-23 county membership, and cosponsorship. Prefer it over "by elimination" and aggregators.
+- `/prepublish-lint` — quick provisional-language scan (`prepublish_lint.py`) before flipping `draft:false`.
+- `.claude/references/ny23-landmines.md` — the confusable-pairs + NY-23 county reference that `/claim-audit` walks.
 
 ## Reference
 
