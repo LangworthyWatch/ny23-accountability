@@ -90,7 +90,7 @@ d.text(XY(W // 2, 444), "as prominently as harms. The record, not a verdict.", f
 marq = [
     ("230+", "JOBS LOST", "eSolutions, Jamestown", NAVY),
     ("~450K", "ESSENTIAL PLAN CLIFF", "effective July 1", NAVY),
-    ("+25%", "INCOME, CHAUTAUQUA", "credit where due", GREEN),
+    ("$60.5M", "FEMA AWARD", "his claim checks out", GREEN),
 ]
 col_w = (W - 88) // 3
 top = 540
@@ -121,10 +121,10 @@ cost = [
     ("~40%", "higher ACA premiums than they'd otherwise be (NY DOH)"),
     ("$1.3M", "WSKG public-broadcasting cut — 21% of its budget"),
     ("$0", "to any named NY-23 hospital yet (of $212M to the state)"),
+    ("+50%", "VA severe staffing shortages in a year — Bath VA"),
 ]
 gain = [
     ("$60.5M", "FEMA award — Jasper-Troupsburg rebuild (MOSTLY TRUE)"),
-    ("+25%", "Chautauqua median household income since 2019 (nominal)"),
 ]
 
 
