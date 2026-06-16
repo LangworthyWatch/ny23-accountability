@@ -14,7 +14,7 @@ counties: ["chemung"]
 
 ## Why This Matters for NY-23
 
-The Big Flats Social Security office is the **only SSA office in Chemung County**. Seniors and disabled residents depend on it for retirement benefits, disability claims, and Medicare enrollment. When DOGE — a caucus Langworthy co-founded — targeted this office for lease non-renewal, staff reported "incredibly low morale" and community members feared losing access to essential services. Langworthy later said it was overblown, but the initial threat came from an initiative he publicly championed.
+The Big Flats Social Security office is the **only SSA office in Chemung County**. Seniors and disabled residents depend on it for retirement benefits, disability claims, and Medicare enrollment. When DOGE — a caucus Langworthy is a founding member of — targeted this office for lease non-renewal, staff reported "incredibly low morale" and community members feared losing access to essential services. Langworthy later said it was overblown, but the initial threat came from an initiative he publicly championed.
 
 ---
 

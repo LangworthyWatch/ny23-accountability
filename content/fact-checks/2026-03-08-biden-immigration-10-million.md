@@ -50,7 +50,7 @@ An "encounter" is a CBP interaction — a logged event, not a unique individual,
 
 **1. Repeat crossers inflate the count.** CBP's own data shows roughly one in three apprehensions involved someone on at least their second crossing attempt. A migrant who is expelled and re-apprehended five times appears five times in the statistics. The actual number of distinct people was substantially smaller than 10.8 million.
 
-**2. Most people encountered were not admitted.** The Biden administration conducted nearly **4.4 million total repatriations** (expulsions + removals + voluntary returns) — more than any single presidential term since George W. Bush. Across the full Biden-era encounter database:
+**2. Most people encountered were not admitted.** The Biden administration conducted nearly **4.4 million total repatriations** (expulsions + removals + voluntary returns) — reportedly more than any single presidential term since George W. Bush. (This 4.4 million figure is reported for the full Biden term, January 2021–January 2025; the source accessible for this entry, FactCheck.org, documents 3.7 million repatriations through October 2023.) Across the full Biden-era encounter database:
 
 | Outcome | Approximate Count |
 |---------|-----------------|

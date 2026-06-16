@@ -84,7 +84,7 @@ Even as the helicopters were delivered, the federal portion was not assured. Fro
 
 > "The purchase and upfitting of the two helicopters is contingent on the County receiving $4.5 million in federal aid via Congressman Nicholas Langworthy. That has not happened and there is no timetable for when, or if, such funds will actually be received."
 
-(The final secured amount came in $300,000 below the contingency target — $4.2M instead of $4.5M.)
+(The final secured amount was $4.2M. The "$4.5 million" figure above is as quoted in WGRZ's account of the Comptroller's November 2025 letter; other public reporting on the same letter — WKBW — references $4.2M as the federal figure throughout. Because the letter's exact figure could not be independently confirmed, the apparent "$300,000 below the contingency target" gap should be read with that discrepancy in mind rather than as a settled shortfall.)
 
 The credit-claim post in May 2026 frames this as a smoothly-secured win. The contemporaneous record from late 2025 shows months of uncertainty, with the county Comptroller publicly warning that the federal piece might never arrive.
 

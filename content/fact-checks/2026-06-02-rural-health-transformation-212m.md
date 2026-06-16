@@ -85,7 +85,7 @@ Mapped to the NY share:
 | **NY Year-1 RHTP award** | **$212,058,207** | NY DOH, CMS |
 | NY 10-year rural Medicaid loss estimate | not published facility-level | — |
 
-A Dunkirk Observer Today commentary in December 2025 — *"Rural hospital funding far from restored"* — observed that Langworthy called RHTP *"one of the largest federal investments in our history"* while noting that the same OBBBA's Medicaid cuts mean "RHTP temporarily replaces only one-third of funding lost to permanent cuts."
+A Dunkirk Observer Today commentary (Dec. 1, 2025) — *"Rural hospital funding far from restored"* — observed that Langworthy called RHTP *"one of the largest federal investments in our history"* while noting that the same OBBBA's Medicaid cuts mean "RHTP temporarily replaces only one-third of funding lost to permanent cuts." This commentary predates the December 29/30 RHTP award announcement by nearly four weeks; the Langworthy quote it discusses came from his earlier statements about OBBBA (July 2025), not the December press release, and the piece addressed the anticipated RHTP impact before the awards were made.
 
 ---
 

@@ -34,7 +34,7 @@ The CBO projects **10 million people** will lose health insurance by 2034 under 
 
 The bill exempts these groups from work requirements. It does not exempt them from the eligibility verification changes, provider cuts, and administrative procedures that actually cause most coverage losses.
 
-*What this means locally:* In Chemung County, where 36% of residents are enrolled in Medicaid, coverage losses cascade. Fewer insured patients means less revenue for hospitals that are already losing money. Governor Hochul's office projects **1.5 million New Yorkers** will lose Medicaid coverage.
+*What this means locally:* In Chemung County, where 36% of residents are enrolled in Medicaid, coverage losses cascade. Fewer insured patients means less revenue for hospitals that are already losing money. Governor Hochul's office projects **1.5 million New Yorkers** will lose health coverage.
 
 ### 2. Hospital viability — six district hospitals already in crisis
 

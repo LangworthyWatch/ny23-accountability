@@ -165,12 +165,12 @@ Langworthy's characterization of Buffalo's problems as "incompetence, not budget
 ## The Broader Context Langworthy Omitted
 
 **VA System-Wide Budget Crisis (July 2024):**
-* VA reported projected **$15 billion shortfall** for FY2025
+* VA reported a combined projected shortfall of approximately **$15 billion** — $2.9 billion for the remainder of FY2024 and $12 billion for FY2025
 * Shortfall attributed to:
   * PACT Act implementation (toxic exposure benefits)
   * 27% increase in veteran enrollment since 2019
   * Rising healthcare costs
-* Congress passed emergency $12 billion supplemental funding (September 2024)
+* Congress passed an emergency $2.9 billion supplemental for VA's FY2024 shortfall (September 2024). The FY2025 gap of $12 billion remained subject to the regular appropriations process.
 
 ---
 

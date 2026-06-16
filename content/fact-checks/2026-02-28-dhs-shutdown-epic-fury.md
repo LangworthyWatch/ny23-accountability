@@ -66,7 +66,7 @@ DHS experienced a real funding lapse — but "shuttered" substantially overstate
 | **Secret Service** | 94% on duty | Essential operations continued |
 | **Coast Guard** | Most of ~56,000 on duty | Essential missions maintained |
 | **FEMA** | ~84% retained | Disaster Relief Fund covered emergency response |
-| **CISA** | Only ~900 of ~2,200 working | Cybersecurity assessments, training, stakeholder engagement suspended |
+| **CISA** | Only ~900 of its ~2,200 post-DOGE staff working | Cybersecurity assessments, training, stakeholder engagement suspended |
 
 The Committee for a Responsible Federal Budget estimated roughly two-thirds of DHS's overall budget was covered by OBBBA funding. Sen. Fetterman (D-PA) noted: "This shutdown literally has zero impact on ICE functionality."
 
@@ -113,7 +113,7 @@ The definite article "the" significantly overstates DHS's role. U.S. counterterr
 - The **FBI** investigates cyber crimes
 - The **Office of the National Cyber Director** coordinates White House cyber policy
 
-**The irony:** If Langworthy is genuinely concerned about cybersecurity capacity, the most severe threat came from the administration's own decisions. **CISA lost approximately one-third of its workforce** (~1,000 of ~3,400 employees) through DOGE-driven layoffs and contract cancellations throughout 2025. The election security program was completely eliminated. Cyber defense training was cut by $45 million. As of late February 2026, CISA was operating at just **38% of optimal staffing** — a crisis created by executive branch decisions, not the funding lapse.
+**The irony:** If Langworthy is genuinely concerned about cybersecurity capacity, the most severe threat came from the administration's own decisions. **CISA lost approximately one-third of its pre-DOGE workforce** (~1,000 of a pre-DOGE total of ~3,400 employees) through DOGE-driven layoffs and contract cancellations throughout 2025, leaving roughly ~2,200 on the rolls. The election security program was reportedly eliminated and cyber defense training reportedly cut by $45 million. As of late February 2026, CISA was operating at just **38% of its pre-cut (optimal) staffing levels** — a crisis created by executive branch decisions, not the funding lapse.
 
 ---
 

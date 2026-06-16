@@ -67,7 +67,7 @@ This is one of several instances where Langworthy's national policy positions co
 |-------------------|-------------|
 | Supports ICE enforcement | Steuben residents oppose cooperation agreements |
 | Supports DOGE workforce cuts | Bath VA loses staff, Big Flats SSA office targeted |
-| Votes for OBBBA (SNAP/Medicaid cuts) | Steuben County warns of $5M loss |
+| Votes for OBBBA (SNAP/Medicaid cuts) | Steuben County warns of up to $5M loss in SNAP administration funds |
 | Champions agriculture | Immigration enforcement threatens agricultural workforce |
 
 ---

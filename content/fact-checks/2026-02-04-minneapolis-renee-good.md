@@ -34,7 +34,7 @@ Langworthy's response:
 
 - **Age:** 37 years old
 - **Occupation:** Mother
-- **Circumstance:** Had just dropped her son off at school
+- **Circumstance:** Reported to have just dropped her son off at school (this detail is not confirmed in the entry's currently cited sources)
 - **Status:** American citizen
 - **Criminal record:** None reported related to "rioting"
 
@@ -65,7 +65,7 @@ He was referring to DHS claims that Good tried to run over agents.
 
 | Claim | Evidence |
 |-------|----------|
-| "Violent rioter" | No evidence Good was involved in any riot or protest; she had just dropped her son at school |
+| "Violent rioter" | No evidence Good was involved in any riot or protest (she is reported to have just dropped her son at school, though this detail is not confirmed in the cited sources) |
 | "Weaponized her vehicle" | Contradicted by released video footage |
 | "Attempt to run over law enforcement" | Contradicted by released video footage |
 | "Self-defense" | Contradicted by released video footage |
@@ -75,7 +75,7 @@ He was referring to DHS claims that Good tried to run over agents.
 Langworthy's characterization of Renee Good as a "violent rioter" who "weaponized her vehicle" is contradicted by:
 1. The publicly released video footage of the incident
 2. Minneapolis Mayor Jacob Frey's assessment that the DHS narrative is "bullshit"
-3. The context: Good had just dropped her son at school
+3. The context: Good is reported to have just dropped her son at school (not confirmed in the cited sources)
 4. No evidence she was involved in any riot or protest
 
 ---
@@ -158,7 +158,7 @@ Same hidden HTML tracking code as all other documented responses, indicating thi
 
 ## In Plain Language
 
-Renee Good was a 37-year-old mother. She had just dropped her son at school. She was shot through her car window by an ICE agent.
+Renee Good was a 37-year-old mother, reported to have just dropped her son at school (a detail not confirmed in the cited sources). She was shot through her car window by an ICE agent.
 
 DHS claimed she "weaponized her vehicle" to run over agents. The Minneapolis Mayor watched the video and said that's "bullshit." The released footage contradicts DHS claims.
 

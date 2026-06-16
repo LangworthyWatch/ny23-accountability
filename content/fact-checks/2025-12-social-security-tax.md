@@ -49,9 +49,11 @@ A **$6,000 deduction** (not elimination) for seniors age 65+ on their Social Sec
 
 **Problem 1: Most seniors already don't pay federal tax on Social Security**
 
-According to Social Security Administration data and tax policy analysis:
+As reported by Newsweek (which states the figure without attributing it to a specific underlying source):
 - Approximately **64% of Social Security beneficiaries** already paid no federal income tax on their benefits before this law
 - Only about **36% of beneficiaries** paid any federal tax on Social Security
+
+*(Note: Newsweek presents the 64% figure without citing the primary source for it; the SSA page formerly used as a reference here is no longer reachable, so the figure should be read as Newsweek's reporting rather than a directly verified SSA statistic.)*
 
 **Problem 2: This is a $6,000 deduction, not full elimination**
 

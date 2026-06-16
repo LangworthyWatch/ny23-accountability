@@ -75,7 +75,7 @@ ActBlue responded to the April 14 letter by calling it "a desperate attempt to d
 
 ### No Mention of WinRed
 
-WinRed is the Republican equivalent of ActBlue — the dominant small-dollar fundraising platform for GOP candidates. It processes comparable donation volumes. The same legal framework (52 U.S.C. § 30121) that prohibits foreign donations to Democratic candidates applies equally to Republican ones. Langworthy's post does not mention whether WinRed has faced, or should face, equivalent scrutiny.
+WinRed is the Republican equivalent of ActBlue — the dominant small-dollar fundraising platform for GOP candidates. It processes substantial, though smaller, donation volumes. The same legal framework (52 U.S.C. § 30121) that prohibits foreign donations to Democratic candidates applies equally to Republican ones. Langworthy's post does not mention whether WinRed has faced, or should face, equivalent scrutiny.
 
 ---
 

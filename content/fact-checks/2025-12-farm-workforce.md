@@ -38,7 +38,7 @@ Langworthy has repeatedly emphasized his agricultural credentials:
 
 **Labor Reality:**
 
-Per USDA Labor Department data, approximately **49% of U.S. farmworkers are undocumented**. This percentage is higher for certain sectors like dairy and grape harvesting.
+Per U.S. Department of Labor, National Agricultural Workers Survey (NAWS), approximately **49% of U.S. farmworkers are undocumented**. This percentage is higher for certain sectors like dairy and grape harvesting.
 
 ---
 

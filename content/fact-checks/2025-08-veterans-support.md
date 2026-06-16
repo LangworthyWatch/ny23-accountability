@@ -16,7 +16,7 @@ counties: ["steuben", "cattaraugus"]
 
 ## Why This Matters for NY-23
 
-The Bath VA Medical Center in Steuben County serves **33,000+ veterans** across seven counties. During the 44-day shutdown, VA operations were strained, benefits processing was delayed, and active duty military families went without paychecks. When the congressman attends Veterans Day ceremonies and says "we must honor our commitment" to veterans — yet voted for the OBBB cuts veterans' groups warned would strain VA care — the disconnect between words and actions directly affects constituents who served.
+The Bath VA Medical Center in Steuben County serves **33,000+ veterans** across seven counties (four in NY-23, plus Yates County NY and two Pennsylvania counties). During the 44-day shutdown, VA operations were strained, benefits processing was delayed, and active duty military families went without paychecks. When the congressman attends Veterans Day ceremonies and says "we must honor our commitment" to veterans — yet voted for the OBBB cuts veterans' groups warned would strain VA care — the disconnect between words and actions directly affects constituents who served.
 
 ---
 

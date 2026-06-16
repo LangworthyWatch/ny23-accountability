@@ -72,7 +72,7 @@ These cost estimates reflect real insurance premium differentials. Whether the s
 
 ## Who Opposes the Bill
 
-The Building and Construction Trades Council of Greater New York, representing construction unions, opposes the Infrastructure Expansion Act. Council President Gary LaBarbera has argued the bill simultaneously attacks worker safety protections and state sovereignty over labor law — using federal funding as leverage to override a state standard that has protected workers for 140 years.
+The Building and Construction Trades Council of Greater New York, representing construction unions, opposes the Infrastructure Expansion Act. The Council has argued the bill simultaneously attacks worker safety protections and state sovereignty over labor law — using federal funding as leverage to override a state standard that has protected workers for 140 years.
 
 No House vote has occurred on H.R. 3548.
 

@@ -14,7 +14,7 @@ tags:
 slug: "2026-05-18-aapd-medicaid-disability-contradiction"
 ---
 
-*Updated May 21, 2026: Added the Trump administration's proposed SSI bedroom rule, reported by ProPublica on April 29, 2026 — 18 days before Langworthy's meeting with AAPD.*
+*Updated May 21, 2026: Added the Trump administration's proposed SSI bedroom rule, reported by ProPublica on April 29, 2026 — 19 days before Langworthy's meeting with AAPD.*
 
 ## Why This Matters for NY-23
 
@@ -40,13 +40,13 @@ For people with disabilities specifically, the cuts reduce home and community-ba
 
 ### Track 2 — The SSI bedroom rule (proposed April 2026)
 
-Eighteen days before Langworthy's meeting with AAPD, ProPublica reported that the Trump administration was developing a regulation to **deduct the imputed value of a disabled adult's bedroom from their monthly SSI check** — even if their family qualifies for food stamps.
+Nineteen days before Langworthy's meeting with AAPD, ProPublica reported that the Trump administration was developing a regulation to **deduct the imputed value of a disabled adult's bedroom from their monthly SSI check** — even if their family qualifies for food stamps.
 
 Under the current rule, a family that receives SNAP is presumed unable to financially support a disabled relative; that protection disappears under the proposal. Instead:
 
 - The bedroom's value, plus all family income and assets, would be calculated and deducted from the SSI check monthly
 - Families would face extensive recurring reporting requirements: property records, household bills, bank statements, pay stubs
-- Estimated impact: cuts of up to **$330/month** — approximately one-third of the average $994 benefit — for up to **400,000 SSI recipients** with Down syndrome, severe autism, dementia, and other intellectual disabilities
+- Estimated impact: cuts of up to **$330/month** — approximately one-third of a typical benefit — for up to **400,000 SSI recipients** with Down syndrome, severe autism, dementia, and other intellectual disabilities
 
 The typical affected household earns roughly $17,000 per year. Some 40 Down syndrome organizations sent a letter to SSA Commissioner Bisignano opposing the proposed rule before Langworthy's May 18 meeting.
 
@@ -64,7 +64,7 @@ The AAPD has maintained a Medicaid Defense Hub and opposed both the OBBBA Medica
 
 **Verdict: CONTRADICTION**
 
-On July 3, 2025, Langworthy voted for H.R. 1, which cuts Medicaid by $840 billion — reducing the home-based services that allow people with disabilities to live independently in their communities. On April 29, 2026 — 18 days before his AAPD meeting — ProPublica reported that the administration he supports is preparing a rule that would cut SSI checks for disabled adults simply because they live in a family home, affecting up to 400,000 people by up to $330/month. Langworthy made no public statement about that rule before or after his meeting. On May 18 he pledged to "keep working to protect critical support systems." The administration's simultaneous actions in both Medicaid and SSI are the documented record of what is happening to those systems.
+On July 3, 2025, Langworthy voted for H.R. 1, which cuts Medicaid by $840 billion — reducing the home-based services that allow people with disabilities to live independently in their communities. On April 29, 2026 — 19 days before his AAPD meeting — ProPublica reported that the administration he supports is preparing a rule that would cut SSI checks for disabled adults simply because they live in a family home, affecting up to 400,000 people by up to $330/month. Langworthy made no public statement about that rule before or after his meeting. On May 18 he pledged to "keep working to protect critical support systems." The administration's simultaneous actions in both Medicaid and SSI are the documented record of what is happening to those systems.
 
 ## Sources
 

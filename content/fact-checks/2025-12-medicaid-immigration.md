@@ -5,8 +5,8 @@ draft: false
 topic: "Healthcare / Immigration"
 claim_date: "May 12, 2025"
 source: "Press Release, House Energy and Commerce Committee Reconciliation Bill"
-source_url: "https://www.congress.gov/bill/104th-congress/house-bill/3734"
-archived_url: "https://web.archive.org/web/20260407064042/https://www.congress.gov/bill/104th-congress/house-bill/3734"
+source_url: "https://langworthy.house.gov/"
+archived_url: ""
 verdict: "MISLEADING"
 tags: ["healthcare", "immigration", "medicaid", "misleading-claim"]
 counties: ["district-wide"]
@@ -159,7 +159,7 @@ So what does the bill actually do? It adds paperwork requirements for citizens t
 - [Congress.gov: H.R. 1 (One Big Beautiful Bill Act)](https://www.congress.gov/bill/119th-congress/house-bill/1)
 
 **Healthcare Impact Analysis:**
-- [Center for Healthcare Quality and Payment Reform: Rural Hospital Risk Analysis](https://chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf)
+- [Center for Healthcare Quality and Payment Reform: Rural Hospital Risk Analysis](https://ruralhospitals.chqpr.org/)
 - [Kaiser Family Foundation: "Medicaid's Role in Rural America"](https://www.kff.org/medicaid/issue-brief/medicaids-role-in-rural-america/)
 
 ---

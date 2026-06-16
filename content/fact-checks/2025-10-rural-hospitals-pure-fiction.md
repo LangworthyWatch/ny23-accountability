@@ -166,7 +166,7 @@ The $50B Rural Health fund partially offsets but **does not reverse** the struct
 
 Whether individual hospitals close depends on multiple variables, but the fiscal pressure on already-negative-margin facilities is **documented, not fictional**.
 
-**Verdict: MOSTLY FALSE** — Data from CBO, state agencies, and independent analysts directly contradicts the "pure fiction" characterization.
+**Verdict: MISLEADING** — Data from CBO, state agencies, and independent analysts directly contradicts the "pure fiction" characterization.
 
 *For a shorter summary of what Medicaid changes mean for NY-23 healthcare access, see: [What Medicaid Cuts Mean for NY-23 Healthcare](/fact-checks/2026-02-09-medicaid-rural-impact-summary/)*
 

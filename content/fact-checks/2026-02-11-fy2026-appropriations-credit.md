@@ -69,7 +69,7 @@ When **both** a House CPF and Senate CDS exist for the same project, the funding
 
 | Bill | Public Law | Signed | Vote |
 |------|-----------|--------|------|
-| **H.R. 6938** | P.L. 119-74 | Jan 23, 2026 | House 397-28, Senate 80-13 |
+| **H.R. 6938** | P.L. 119-74 | Jan 23, 2026 | House 397-28, Senate 82-15 |
 | **H.R. 7148** | P.L. 119-75 | Feb 3, 2026 | Bipartisan |
 
 ---

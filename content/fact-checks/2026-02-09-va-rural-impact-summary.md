@@ -9,7 +9,7 @@ source_url: ""
 archived_url: ""
 verdict: "CONTRADICTION"
 tags: ["veterans", "va", "doge", "bath-va", "rural-impact", "staffing"]
-counties: ["steuben", "allegany", "chemung", "schuyler", "yates", "erie"]
+counties: ["steuben", "allegany", "chemung", "schuyler", "erie"]
 ---
 
 ## Why This Matters for NY-23

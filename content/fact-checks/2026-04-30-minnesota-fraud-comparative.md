@@ -52,11 +52,13 @@ CACFP and SFSP fraud predates Minnesota and has occurred in multiple states unde
 | **Arkansas** | CACFP/SFSP — same federal program as MN | **$10 million** | Republican (Hutchinson) |
 | **Texas** | Summer Food Service — 7-year fake meal count scheme | **$2.3 million** | Republican (Abbott) |
 
+*Note on the Georgia case: The $463 million genetic-testing fraud was a private-actor federal fraud (a private lab owner operating a kickback scheme), with no documented state oversight failure linked to Gov. Kemp's administration. It is listed here in the "Governor at Time" column for context, but it differs from the Arizona and Mississippi cases, which involved documented state-official failures.*
+
 Langworthy has not made Newsmax appearances about any of these.
 
 ### 2. Arizona's Scandal Is Six Times Larger
 
-The Arizona Medicaid fraud — fake sober living homes targeting Native Americans seeking addiction treatment — was **acknowledged by Arizona's own Medicaid agency at up to $2.5 billion**. Dozens of people died in fraudulent facilities. HHS called it "the largest fraud scheme to have targeted a single demographic group in recent U.S. history." Republican Gov. Doug Ducey's administration received warnings and did not act. The Minneapolis Star Tribune, ProPublica, and NPR all covered it extensively.
+The Arizona Medicaid fraud — fake sober living homes targeting Native Americans seeking addiction treatment — was **acknowledged by Arizona's own Medicaid agency at up to $2.5 billion**. Dozens of people died in fraudulent facilities. The scheme has been described as "the largest fraud scheme to have targeted a single demographic group in recent U.S. history" (this characterization could not be traced to a specific primary HHS source and is reported here without a confirmed attribution). Republican Gov. Doug Ducey's administration received warnings and did not act. The Minneapolis Star Tribune, ProPublica, and NPR all covered it extensively.
 
 Langworthy has made multiple Newsmax appearances about Minnesota. No comparable appearances about Arizona have been identified.
 
@@ -66,7 +68,7 @@ Mississippi's welfare fraud scandal diverted at least $77 million in TANF funds 
 
 ### 4. Minnesota Was Better Than Most States on COVID Unemployment Fraud
 
-Langworthy's framing implies Minnesota has a uniquely corrupt state government. The unemployment insurance data contradicts this. Minnesota's COVID-era unemployment fraud rate was **less than 1%** — among the lowest in the country. The national average was 11–15% (GAO). Republican-led states were worst: Kansas (25% fraudulent) and Louisiana (17% fraudulent).
+Langworthy's framing implies Minnesota has a uniquely corrupt state government. The unemployment insurance data contradicts this. Minnesota's COVID-era unemployment fraud rate was **less than 1%** — among the lowest in the country. The GAO citation below covers only the national range: 11–15% nationally. The state-specific figures cited by Republican-led states being worst — Kansas (25% fraudulent) and Louisiana (17% fraudulent) — come from separate state-level audits (Kansas Legislative Audit; Louisiana state officials), not the GAO report.
 
 ### 5. The "$9 Billion" Figure Is Disputed
 

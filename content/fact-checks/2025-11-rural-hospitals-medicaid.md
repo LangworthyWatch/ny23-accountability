@@ -58,7 +58,7 @@ He dismissed warnings that local hospitals might close as "all pure fiction," sp
 
 ### Local Impact
 
-According to healthcare analysts:
+According to Becker's Hospital Review data (as cited in the Observer Today):
 - **25 rural hospitals** in New York State (51%) are at risk of closure
 - **16 hospitals** could close within 2-3 years without sustained funding
 - **NY-23 facilities** including those Langworthy called "fiction" to worry about are among those at risk

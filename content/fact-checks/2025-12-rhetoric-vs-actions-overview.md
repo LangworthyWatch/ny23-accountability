@@ -74,9 +74,9 @@ On the Rural Health Transformation Fund:
 
 **Rural Health Transformation Fund Reality:**
 - $50 billion fund announced with eligibility restrictions
-- Analysis showed most Western New York hospitals would receive little or no funding
-- State and local formula constraints meant Langworthy's district hospitals weren't guaranteed benefits
-- **Source:** State health department analysis, local hospital eligibility reviews
+- The fund's eligibility restrictions meant not all of Langworthy's district hospitals were guaranteed to qualify
+- State and local formula constraints meant his district's hospitals weren't guaranteed benefits
+- **Source:** Rural Health Transformation Program eligibility criteria (specific district-level eligibility analysis not yet independently sourced)
 
 ### Context
 
@@ -86,11 +86,11 @@ On the Rural Health Transformation Fund:
 
 **What Actually Happened:**
 - No Medicaid or ACA funds go to undocumented immigrants (statutory prohibition)
-- Most NY-23 hospitals didn't qualify for the Rural Health Transformation Fund he touted
+- The fund's eligibility restrictions meant not all NY-23 hospitals he touted were guaranteed to qualify
 
 ### The Contradiction
 
-Langworthy portrayed the Rural Health Transformation Fund as a major win for his district while simultaneously making false claims about Democrats diverting those same funds to undocumented immigrants—even though federal law prohibits such diversion and most local hospitals wouldn't receive the funds anyway.
+Langworthy portrayed the Rural Health Transformation Fund as a major win for his district while simultaneously making false claims about Democrats diverting those same funds to undocumented immigrants—even though federal law prohibits such diversion and the fund's eligibility restrictions meant not all local hospitals were guaranteed to receive the funds.
 
 ---
 
@@ -206,7 +206,7 @@ Federal spending reductions **do not always result in net savings** for constitu
 
 | Federal Change | NY Impact |
 |----------------|-----------|
-| Administrative cost-sharing drops from 50% to 25% | ~$200M shifted to counties |
+| Administrative cost-sharing drops from 50% to 25% | Costs shifted to counties (Steuben County alone estimates up to $5M; statewide estimates vary and are not yet independently confirmed) |
 | Benefit costs shift to states with error rates above 6% | ~$1.2B annually to NY |
 | New York's county-based system | Costs land on local property taxes |
 

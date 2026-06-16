@@ -35,6 +35,8 @@ This entry examines Rep. Langworthy's campaign finance patterns using publicly a
 | Small donors (under $200) | ~$67,000 | **3.48%** |
 | **Total receipts** | $1,931,076 | 100% |
 
+*Note: The table shows the primary receipt categories; the individual, PAC, and small-donor rows do not sum to total receipts. The balance consists of approximately $167,256 in transfers from other authorized committees and roughly $8,658 in political party contributions and other receipts. All percentages are calculated against total receipts.*
+
 ### 2025-2026 Cycle (through 12/31/2025)
 
 | Source | Amount | Percentage |

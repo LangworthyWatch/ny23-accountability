@@ -96,7 +96,7 @@ Interactive scorecards for individual counties are available at The Public Ledge
 
 - [Erie County](https://thepublicledgers.org/ida/counties/ny/erie/)
 - [Tioga County](https://thepublicledgers.org/ida/counties/ny/tioga/) — highest per-household burden among district counties
-- [Greene County](https://thepublicledgers.org/ida/counties/ny/greene/) — highest per-household burden in New York State ($11,073)
+- [Greene County](https://thepublicledgers.org/ida/counties/ny/greene/) — highest per-household burden in New York State ($11,073, a derived figure from ACS household estimates divided into total exemptions)
 - [Nassau County](https://thepublicledgers.org/ida/counties/ny/nassau/)
 - [Rensselaer County](https://thepublicledgers.org/ida/counties/ny/rensselaer/)
 - [Onondaga County](https://thepublicledgers.org/ida/counties/ny/onondaga/)

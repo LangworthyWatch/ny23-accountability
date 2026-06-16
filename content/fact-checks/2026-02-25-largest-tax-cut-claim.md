@@ -47,8 +47,8 @@ The One Big Beautiful Bill Act reduces federal revenue by approximately **1.4% o
 | Economic Recovery Tax Act (Reagan) | 1981 | **2.89%** |
 | Revenue Act | 1945 | ~2.7% |
 | Revenue Act | 1948 | ~1.9% |
+| American Taxpayer Relief Act | 2012 | ~1.8% |
 | Revenue Act (JFK/LBJ) | 1964 | ~1.6% |
-| American Taxpayer Relief Act | 2012 | ~1.6% |
 | **One Big Beautiful Bill Act** | **2025** | **~1.4%** |
 
 Reagan's 1981 tax cut was roughly **twice as large** as the OBBBA as a share of GDP.

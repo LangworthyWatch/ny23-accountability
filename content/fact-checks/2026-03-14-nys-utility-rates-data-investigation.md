@@ -124,7 +124,7 @@ New York's utilities and energy trade associations are active participants in Al
 
 <iframe src="/graphics/viz_utility_donations.html" width="100%" height="550" frameborder="0" scrolling="no" title="Energy sector lobbying and political activity"></iframe>
 
-**In plain language:** Energy sector entities filed **1,754 lobbying registrations** between 2015 and 2024. Total reported lobbying spend: **$75.7 million** ($71.7M compensation + $4.0M reimbursement). Of that, **$62.9 million (87.7%)** was specifically identified as related to rate cases and energy policy.
+**In plain language:** Energy sector entities filed **1,754 lobbying registrations** between 2015 and 2024. Total reported lobbying spend: **$75.7 million** ($71.7M compensation + $4.0M reimbursement). Of that, **$62.9 million (83.1%)** was specifically identified as related to rate cases and energy policy.
 
 Top lobbying spenders among energy entities (from public COELIG/JCOPE disclosures):
 
@@ -139,7 +139,7 @@ Top lobbying spenders among energy entities (from public COELIG/JCOPE disclosure
 | PSEG | $4.53M | 160 filings |
 | Consolidated Edison | $4.06M | 65 filings, 92% rate-related |
 
-Annual lobbying spend by energy entities nearly **tripled** from $3.4 million (2011) to $8.4 million (2024).
+Annual lobbying spend by energy entities **more than doubled** from $3.4 million (2011) to $8.4 million (2024).
 
 The PSC commissioners who approve or reject these rate requests are appointed by the Governor and confirmed by the State Senate, with no more than three commissioners permitted to be members of the same political party. The PSC Chair, Rory M. Christian, previously worked at KeySpan Energy (now National Grid) and Exelon Energy — two regulated utilities currently before the PSC on rate cases — as well as the Environmental Defense Fund. Three of the seven current commissioners (Bright, Valova, and Sheehan) come from clean energy nonprofit or advocacy backgrounds. This revolving-door structure is a matter of public record; the commissioner biographies are posted on the PSC website.
 

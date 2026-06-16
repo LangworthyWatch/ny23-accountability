@@ -192,7 +192,7 @@ Langworthy has issued press releases "announcing" federal funding flowing into S
 
 **The record:**
 - Langworthy voted **Yes** on H.R. 1, which passed **218-214** on July 3, 2025
-- CBO estimates: **~$1.06 trillion** in Medicaid spending reductions, **~$186.7 billion** in SNAP reductions over ten years
+- CBO estimates (enacted-bill score, pub 61461): **~$1.02 trillion** in Medicaid/CHIP spending reductions, **~$295 billion** in SNAP reductions over the 2026–2034 window
 - SNAP work requirements expanded from ages 18-49 to **ages 18-64**
 - Federal SNAP administrative cost share cut from **50% to 25%** starting FY2027
 - Governor Hochul's office projects **1.5 million New Yorkers** losing Medicaid, **300,000+ households** losing SNAP
@@ -263,7 +263,7 @@ The most consequential verified facts are not about credit-claiming but about po
 * USDA: [Water and Waste Disposal Loan and Grant Program](https://www.rd.usda.gov/programs-services/water-environmental-programs/water-waste-disposal-loan-grant-program)
 * [WSKG](https://wskg.org/): CAREERS Act reporting (Natalie Abruzzo); flood map reporting (September 2021)
 * Steuben County Legislature: April 28, 2025 Risk MAP resolution; October 30, 2025 SNAP/HEAP letter
-* CBO: [H.R. 1 budgetary effects analysis](https://www.cbo.gov/publication/61387) (May 2025)
+* CBO: [Budgetary Effects of H.R. 1 (enacted-bill score)](https://www.cbo.gov/publication/61461)
 * Related: [Infrastructure: Earmarks vs. Formula Grants](/fact-checks/2025-12-infrastructure-credit/)
 * Related: [FY2026 Appropriations: What Langworthy 'Secured' vs. What Was Bipartisan](/fact-checks/2026-02-11-fy2026-appropriations-credit/)
 * Related: [Steuben County Flooding](/fact-checks/2026-02-07-steuben-flooding-mitigation/)

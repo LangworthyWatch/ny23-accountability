@@ -33,7 +33,7 @@ The Buffalo News reported eight Collins Correctional guards were injured — one
 
 ## What the HALT Act Actually Does
 
-The Humane Alternatives to Long-Term (HALT) Solitary Confinement Act was signed by Governor Cuomo in April 2021 and took effect March 31, 2022 (NY Correction Law § 137). It:
+The Humane Alternatives to Long-Term (HALT) Solitary Confinement Act was signed by Governor Cuomo on March 31, 2021 and took effect March 31, 2022 (NY Correction Law § 137). It:
 
 - Limits solitary confinement to **15 consecutive days** maximum, and no more than 20 days in any 60-day period
 - Requires persons held beyond 15 days be transferred to a Residential Rehabilitation Unit (RRU) providing at least **4 hours/day of out-of-cell time**, including 2 hours of therapeutic programming and 2 hours of recreation

@@ -48,7 +48,7 @@ Emergency declarations have covered Allegany, Chemung, Schuyler, and Steuben cou
 
 ### Infrastructure Context
 
-- **FEMA flood maps** for Woodhull specifically **have not been updated since 1991** (per WSKG, September 2021) — now 35 years old, despite being meant to be reassessed every five years
+- **FEMA flood maps** for Woodhull specifically **have not been updated since 1991** (per WSKG, September 2021) — now 35 years old. FEMA's Risk MAP program aims to update maps on a rolling basis
 - Other Steuben communities have maps dating to the **1978-1986 period** (per NYS DEC documentation)
 - **Chemung County** has been identified as the **single most flood-prone county in New York State**
 - The Southern Tier holds the **highest flood risk** in New York State

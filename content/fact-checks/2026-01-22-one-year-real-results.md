@@ -65,10 +65,10 @@ When representatives claim credit for economic trends that began before their po
 
 This decline occurred over **3.5 years** from June 2022 to November 2025.
 
-**During Trump's first year (Jan 2025 - Jan 2026):**
-- Starting point: ~2.7-2.8%
-- Ending point: 2.8%
-- **Actual change: Essentially flat** (maybe 0.1 percentage point)
+**During Trump's first year (Jan 2025 - Nov 2025):**
+- Starting point: ~3.0% (BLS CPI, January 2025)
+- Ending point: ~2.7% (BLS CPI, November 2025)
+- **Actual change: Roughly flat** (fell about 0.3 percentage points)
 
 **What Langworthy did:** Took credit for inflation decline that occurred **during Biden's presidency**, framing it as "One Year. Real Results." from Trump.
 
@@ -85,8 +85,10 @@ This decline occurred over **3.5 years** from June 2022 to November 2025.
 | Tax Cut | 10-Year Cost (% of GDP) | Nominal $ |
 |---------|-------------------------|-----------|
 | Reagan 1981 (ERTA) | **2.89%** | ~$750B (1981 dollars) |
-| Trump 2017 (TCJA) | **0.90%** | ~$1.5T |
+| Trump 2017 (TCJA) | **~0.7-0.9%** | ~$1.5T |
 | OBBB 2025 | **~1.2-1.5%** | ~$4T |
+
+*Note: The exact percentage-of-GDP figures vary depending on the scoring window, baseline, and GDP denominator used; the values above should be read as approximate ranges rather than single authoritative figures.*
 
 **By the economically meaningful measure (GDP share), Reagan's 1981 tax cut remains the largest.**
 
@@ -245,10 +247,10 @@ Reports during OBBB legislative development referenced "MAGA Accounts" (Money Ac
 | June 2022 | 9.1% (peak) | Biden |
 | January 2023 | 6.4% | Biden |
 | January 2024 | 3.4% | Biden |
-| January 2025 | ~2.7% | Biden to Trump |
-| November 2025 | 2.8% | Trump |
-| **Total decline under Biden** | **~6.3 percentage points** | |
-| **Change under Trump (first year)** | **~0.1 percentage points** | |
+| January 2025 | ~3.0% | Biden to Trump |
+| November 2025 | ~2.7% | Trump |
+| **Total decline under Biden** | **~6.1 percentage points** | |
+| **Change under Trump (first year)** | **~-0.3 percentage points** | |
 
 **Langworthy's post attributes the entire 70% decline to Trump's first year.**
 

@@ -61,7 +61,7 @@ The underlying concern is real: agricultural land values have risen sharply in r
 | Scenario | Farm Estates Owing Any Estate Tax |
 |----------|----------------------------------|
 | $13.99M exemption (2025 law, pre-OBBBA) | ~141 estates (0.3% of ~41,000 farm operator deaths annually) |
-| $7.2M exemption (if TCJA had expired) | ~424 estates (1.0% of ~40,883 projected deaths) |
+| $7.2M exemption (if TCJA had expired) | ~1.0% of farm operator deaths |
 | $15M exemption (OBBBA) | Fewer than 141 estates |
 
 The OBBBA's specific change — from $13.99 million to $15 million per person — provides marginal additional protection beyond existing law. The primary protection was already in place under TCJA. The OBBBA prevents a future cliff; it does not transform the estate tax landscape for most farmers.

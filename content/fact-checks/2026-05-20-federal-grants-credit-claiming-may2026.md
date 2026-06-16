@@ -39,7 +39,7 @@ Between May 13 and May 20, 2026, Langworthy published four Facebook posts claimi
 
 **The grant:** Federal behavioral health and early childhood education funding through HHS/SAMHSA community grant programs. *(Program identification pending archival; award details in Spectrum News NY1 coverage.)*
 
-**OBBBA context:** H.R. 1 (One Big Beautiful Bill Act, enacted July 4, 2025) — which Langworthy voted for — reduced SAMHSA community mental health block grants and restructured child care and development funding. The grants being announced this week were awarded under FY2026 appropriations enacted before those structural changes take full effect.
+**OBBBA context:** H.R. 1 (One Big Beautiful Bill Act, enacted July 4, 2025) — which Langworthy voted for — reportedly reduced SAMHSA community mental health block grants and restructured child care and development funding. The grants being announced this week were awarded under FY2026 appropriations enacted before those structural changes take full effect.
 
 ### Instance 3 — May 14, 2026: $5.7 million, Jamestown Airport runway rehabilitation
 

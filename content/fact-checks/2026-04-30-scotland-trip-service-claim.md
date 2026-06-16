@@ -57,13 +57,13 @@ Multiple blocks of "Executive Time" appear throughout the itinerary.
 
 ### The Shutdown Context
 
-The trip proceeded during a partial federal government shutdown in which the Department of Homeland Security lacked full appropriations. TSA agents — federal employees who screened Langworthy's departure — were working without pay.
+The trip proceeded during a partial federal government shutdown in which the Department of Homeland Security lacked full appropriations. Federal workers were going unpaid during this period, according to contemporaneous reporting.
 
 The trip was covered nationally by TMZ (April 1, 2026: "30 Members of Congress in Scotland on Taxpayers' Dime Amid Shutdown"), Political Wire ("30 Members of Congress on Scotland Junket"), and Semafor ("Lawmakers get TMZ treatment during DHS shutdown").
 
 ### The Sponsor: Republican Main Street Partnership
 
-RMSP is a 501(c)(4) social welfare organization — legally required to disclose nothing about its donors. Its CEO earns approximately $406,000 per year. In prior cycles, the organization's affiliated super PAC has been substantially funded by labor union PACs (International Union of Operating Engineers: $500,000; United Brotherhood of Carpenters: $500,000; LIUNA: $325,000). Its corporate membership base is not publicly disclosed.
+RMSP is a 501(c)(4) social welfare organization — legally required to disclose nothing about its donors. Its CEO earns approximately $406,000 per year. In prior cycles, the organization's affiliated super PAC has reportedly been substantially funded by labor union PACs (International Union of Operating Engineers: $500,000; United Brotherhood of Carpenters: $500,000; LIUNA: $325,000). These super PAC contribution figures would appear in FEC filings rather than the 501(c)(4)'s nonprofit return, and have not yet been matched to a specific FEC committee filing in this entry. Its corporate membership base is not publicly disclosed.
 
 ### The "Environment" Justification
 

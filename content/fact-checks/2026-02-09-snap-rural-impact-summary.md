@@ -5,8 +5,8 @@ draft: false
 topic: "Local Impact / Rural"
 claim_date: "2025"
 source: "CBO Analysis, County Government Records, Local News"
-source_url: "https://www.cbo.gov/publication/61387"
-archived_url: "https://web.archive.org/web/20260402050000/https://www.cbo.gov/publication/61387"
+source_url: "https://www.cbo.gov/publication/61461"
+archived_url: ""
 verdict: "FALSE"
 tags: ["food-assistance", "snap", "rural-impact", "steuben-county", "obbba", "work-requirements"]
 counties: ["steuben", "allegany", "cattaraugus", "chautauqua", "chemung"]
@@ -30,7 +30,7 @@ One in eight Steuben County residents receives SNAP. The representative who vote
 
 ### 1. Benefits fall behind food prices
 
-The One Big Beautiful Bill Act restricts USDA's ability to update SNAP benefit calculations to keep pace with rising food costs. The CBO projects this will reduce SNAP spending by **$186 billion over 10 years** — about a 20% reduction and the largest cut in nearly 30 years. *(This is CBO's score of the enacted, Senate-amended law; an earlier House-passed version had been scored at a higher $295 billion before the Senate revised the SNAP provisions.)*
+The One Big Beautiful Bill Act restricts USDA's ability to update SNAP benefit calculations to keep pace with rising food costs. The CBO projects this will reduce SNAP spending by **$186 billion over 2026–2034** — about a 20% reduction and the largest cut in nearly 30 years. *(This is CBO's score of the enacted, Senate-amended law; an earlier House-passed version had been scored at a higher $295 billion before the Senate revised the SNAP provisions.)*
 
 *What this means locally:* When grocery prices at the Tops in Bath or the Aldi in Hornell go up, benefits won't follow. The same card buys less food each year.
 
@@ -85,7 +85,7 @@ But the CBO — the nonpartisan agency whose job is to score what bills actually
 - **Eligibility cuts:** Millions lose access through expanded work requirements and tighter rules
 - **Administrative barriers:** Counties have less capacity to process applications
 
-If the government spends $186 billion less on food assistance over 10 years, and millions of people lose access, that is a cut — regardless of whether the maximum benefit level technically stays the same.
+If the government spends $186 billion less on food assistance over 2026–2034, and millions of people lose access, that is a cut — regardless of whether the maximum benefit level technically stays the same.
 
 **Verdict: FALSE** — The CBO documents $186 billion in SNAP spending reductions. The county's own government confirms the local impact.
 
@@ -109,7 +109,7 @@ If the government spends $186 billion less on food assistance over 10 years, and
 
 ## Sources
 
-* CBO: ["Budgetary Effects of H.R. 1, One Big Beautiful Bill Act"](https://www.cbo.gov/publication/61387) (May 2025)
+* CBO: ["Budgetary Effects of H.R. 1, One Big Beautiful Bill Act" (enacted-bill score)](https://www.cbo.gov/publication/61461)
 * Urban Institute: ["SNAP Work Requirements Analysis"](https://www.urban.org/) (2025)
 * Center on Budget and Policy Priorities: ["House Reconciliation Bill Would Cut SNAP for Millions"](https://www.cbpp.org/) (2025)
 * Steuben County HHS Committee: Jack Wheeler statement (August 7, 2025)

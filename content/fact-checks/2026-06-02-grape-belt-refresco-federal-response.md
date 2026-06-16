@@ -14,7 +14,7 @@ counties: ["chautauqua"]
 
 ## Why This Matters for NY-23
 
-The Lake Erie grape belt — running through northern Chautauqua County into Pennsylvania — is the single largest concentration of Concord grape acreage in the country. On **March 2026**, Refresco (the largest co-packer for major grape juice brands) announced it would discontinue sourcing Concord and Niagara grapes from **126 growers across approximately 2,600 acres** beginning with the fall 2026 harvest, citing "sustained grape market challenges and supply imbalances." Cornell Cooperative Extension's Andrew Holden flagged the announcement; one grower estimated 2025 economic impact at around $5 million.
+The Lake Erie grape belt — running through northern Chautauqua County into Pennsylvania — is the single largest concentration of Concord grape acreage in the country. On **March 2026**, Refresco (the largest co-packer for major grape juice brands) announced it would discontinue sourcing Concord and Niagara grapes from **126 growers across approximately 2,600 acres** beginning with the fall 2026 harvest, citing "sustained grape market challenges and supply imbalances." Cornell Cooperative Extension's Andrew Holden flagged the announcement.
 
 The Refresco cancellation is a fundamentally different problem from the 2024–2025 grape *oversupply* that preceded it. Oversupply is a price-floor problem federal commodity buys can soften. A single co-packer's exit is a buyer-concentration and price-discovery problem; the federal toolkit changes accordingly. This page documents what Rep. Langworthy did and did not do under each toolkit, before and after the March 2026 announcement.
 

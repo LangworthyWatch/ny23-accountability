@@ -65,7 +65,7 @@ Langworthy has announced multiple federal grants for Allegany County, including 
 
 ### $2.5 Million in Combined Grants
 
-**Local coverage:** The Olean Times Herald reported Langworthy announcing $2.5 million in combined grants for Allegany County, and WLEA covered additional grant announcements.
+**Local coverage:** The Olean Times Herald reported Langworthy announcing $2.5 million in combined grants for Allegany County, and WLEA covered additional grant announcements. This $2.5 million figure appears to reference a different announcement or set of grants than the itemized awards above (the Head Start grant alone is roughly $2.6 million); the two figures cover distinct announcement cycles and should not be read as a single combined total.
 
 ---
 

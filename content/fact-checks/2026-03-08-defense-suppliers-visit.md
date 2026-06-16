@@ -78,7 +78,7 @@ The "over 1,000" combined employment figure is substantially lower than the actu
 | Moog Inc. | East Aurora/Elma | Several thousand (one of Erie County's largest employers) |
 | Astronics Corporation | East Aurora | Several hundred+ |
 
-The actual combined WNY employment across these three companies likely exceeds **3,000–4,000 workers** — three to four times the "over 1,000" figure cited.
+The actual combined Western New York employment across these three companies is **substantially more than 1,000 workers**. (These are broader Buffalo-Niagara region workforce figures, which extend beyond NY-23; the "over 1,000" figure may be limited to NY-23 facilities or to employees connected to the specific programs discussed.)
 
 The understated number may reflect only employees in specific defense-related roles, employees who participated in the Washington visit, or a conservative estimate chosen for some other reason. But taken at face value, it significantly undersells these companies' contribution to the regional economy.
 
@@ -93,7 +93,7 @@ The understated number may reflect only employees in specific defense-related ro
 | SKF in Falconer | **ACCURATE** |
 | Moog in East Aurora | **ACCURATE** (minor address convention nuance) |
 | "Astonics in Elma" | **INCORRECT** — Astronics Corporation, East Aurora |
-| "Over 1,000 Western New Yorkers" | **UNDERSTATED** — likely 3,000–4,000+ combined |
+| "Over 1,000 Western New Yorkers" | **UNDERSTATED** — substantially more than 1,000 combined (broader Buffalo-Niagara region) |
 
 The overall thrust — three real WNY defense manufacturers visited Washington — is accurate. The factual errors (wrong company name, wrong city, understated employment) in a formal statement about companies that were present in the same room that week are harder to explain.
 

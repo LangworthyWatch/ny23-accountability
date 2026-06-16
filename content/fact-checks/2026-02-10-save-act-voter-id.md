@@ -14,7 +14,7 @@ counties: ["district-wide"]
 
 ## Why this matters in NY-23
 
-Voter ID sounds reasonable. Polling consistently shows that roughly 83% of Americans support requiring identification to vote. That number is real, and the intuition behind it is understandable — people want elections to be secure.
+Voter ID sounds reasonable. Polling consistently shows that roughly 83% of Americans support requiring identification to vote. That number is real — but it measures support for government-issued **photo ID**, not the SAVE Act's far higher bar of documentary **proof of citizenship** (birth certificate, passport, or naturalization papers). The intuition behind it is understandable: people want elections to be secure.
 
 The question isn't whether election integrity matters. It does. The question is whether the SAVE America Act — the specific bill Langworthy is promoting — actually addresses a real problem, and what it costs to implement.
 
@@ -47,7 +47,7 @@ The SAVE Act is premised on the idea that noncitizen voting is a meaningful thre
 | Source | Finding |
 |--------|---------|
 | Heritage Foundation Election Fraud Database | ~100 documented cases of noncitizen voting over 20+ years, out of billions of ballots cast |
-| Cato Institute (conservative/libertarian) | Rate is "infinitesimally small" |
+| Cato Institute (conservative/libertarian) | "No good evidence" of noncitizen voting; not occurring "in detectable numbers" |
 | Brennan Center for Justice | Incident rate of 0.0001% or fewer in studied jurisdictions |
 | States with strict voter ID laws | No meaningful increase in fraud detection after implementation |
 
@@ -65,7 +65,7 @@ Every voter who registers must attest, under penalty of perjury, that they are a
 
 **Verdict: TRUE — but MISSING CONTEXT**
 
-The polling is accurate. Multiple surveys — Pew Research Center, Gallup, and others — consistently find that roughly 80-85% of Americans support requiring some form of identification or proof of citizenship to vote. This is one of the most popular policy ideas in American polling.
+The polling is accurate, but it measures a different requirement than the SAVE Act imposes. The cited Pew Research Center survey (August 2025) found that roughly 83% of Americans support "requiring all voters to show government-issued photo identification to vote" — a photo-ID requirement, not the SAVE Act's documentary proof-of-citizenship requirement (birth certificate, passport, or naturalization certificate). Photo ID is one of the most popular policy ideas in American polling; polling on the SAVE Act's specific documentary-proof-of-citizenship requirement, a materially higher bar, has not been conducted in the same form. The two should not be treated as interchangeable.
 
 **What the polls don't ask** is how respondents feel when they learn the implementation details:
 

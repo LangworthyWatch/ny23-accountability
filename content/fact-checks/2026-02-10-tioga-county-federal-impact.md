@@ -160,7 +160,7 @@ The county legislature understood this. In late 2025, it allocated **$100,000 fr
 
 ## The representation gap
 
-Rep. Nick Langworthy voted for the OBBBA on May 22, 2025, calling it "a generational win for the American people." He stated that "not a single person" among seniors, the disabled, or pregnant women would lose coverage — a claim [rated misleading](/fact-checks/2025-05-medicaid-coverage-cuts/) based on CBO projections of 1.3 million dually eligible individuals losing Medicaid nationally.
+Rep. Nick Langworthy voted Aye on the OBBBA at both stages — original House passage on May 22, 2025 (RC145) and final passage concurring in the Senate amendment on July 3, 2025 (RC190, 218-214). In a July 8, 2025 Olean Times Herald op-ed following final passage, he called the law "a generational win for the American people." He stated that "not a single person" among seniors, the disabled, or pregnant women would lose coverage — a claim [rated FALSE](/fact-checks/2025-05-medicaid-coverage-cuts/) based on CBO projections of 1.3 million dually eligible individuals losing Medicaid nationally.
 
 Langworthy has held **no in-person town halls** since taking office in January 2023, conducting monthly telephone town halls instead. At the April 2025 telephone event — approximately 7,000 participants, 9 caller questions — none of the callers were from Tioga County. Requests for in-person constituent meetings were characterized as "a political astroturf move" by "leftist activists."
 

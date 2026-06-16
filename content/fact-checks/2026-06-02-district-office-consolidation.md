@@ -48,7 +48,7 @@ The following table shows total contributions to Rep. Langworthy's two named fed
 
 *Source: FEC bulk individual contribution files (indiv22.txt, indiv24.txt, indiv26.txt), filtered to Langworthy's committee IDs and aggregated by donor city. City-to-county mapping covers the principal municipalities in each county.*
 
-More than four-fifths of all individual-donor money to Langworthy ($843,783, or 83% of the $1.02M-county-mapped total) comes from **two counties — Erie and Niagara — only one of which is even inside the new NY-23**. The seven Southern Tier counties whose residents most depend on district-office access combine for $178,892 in donor totals — roughly the size of the Niagara County total alone.
+More than four-fifths of all individual-donor money to Langworthy ($843,783, or 83% of the $1.02M-county-mapped total) comes from **two counties — Erie and Niagara — and Niagara (Langworthy's home county) contributes only a small sliver, if any, to NY-23**. The seven Southern Tier counties whose residents most depend on district-office access combine for $178,892 in donor totals — roughly the size of the Niagara County total alone.
 
 The offices being closed or moved are in three of the seven Southern Tier counties. The office remaining open is the one nearest his largest donor pool.
 
@@ -96,7 +96,7 @@ The office-consolidation pattern has cumulative effects on rural in-person acces
 Active Southern Tier institutional distress in the same time window includes:
 
 - **Jennie B. Richmond Nursing Home (Springville, Erie Co.) — 80 beds, "orderly closure" beginning June 2026.** The operator, Bertrand Chaffee Hospital, cited financial challenges, staffing shortages, and capital needs (*Buffalo News*).
-- **Bradford Regional Medical Center (PA, serving NY-23's Cattaraugus and Allegany)** — formal closure notice filed February 2026 to end inpatient, emergency, and long-term care services by mid-2026; OB previously consolidated to Olean General in 2019.
+- **Bradford Regional Medical Center (PA, serving NY-23's Cattaraugus and Allegany)** — formal closure notice filed February 2026 to end inpatient, emergency, and long-term care services by mid-2026; OB and other services previously consolidated to Olean General.
 - **45 NY hospitals identified as at-risk of closure**, including St. James (Hornell, Steuben County).
 
 Constituent casework for residents affected by these closures — Medicare appeals, VA referrals, federal grant inquiries on rural-hospital transformation, SSDI claims for displaced workers — is the work district offices physically do.
@@ -126,7 +126,7 @@ The cumulative effect, on the record:
 **What is documented:**
 - Two district offices have closed or are closing in 2026 (Jamestown, Corning). One is being opened to replace one of them (Elmira). Net change: same count, different counties.
 - The county where the new office sits (Chemung) houses Langworthy's largest single donor cluster — Corning Inc. employees who live across the county line from the company's headquarters.
-- The closed offices were in counties that combined for less individual-donor money than a single neighboring county (Niagara) that does not even sit inside the current NY-23.
+- The closed offices were in counties that combined for less individual-donor money than a single neighboring county (Niagara, Langworthy's home county), which contributes only a small sliver, if any, to the current NY-23.
 
 **What is not documented:**
 - Any direct communication or trade-off between the donor base and the office-siting decision.

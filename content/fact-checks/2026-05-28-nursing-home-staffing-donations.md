@@ -86,6 +86,8 @@ CMS ownership records identify **106 facilities** across 10 states where Landa h
 
 More than half of Landa's facilities fall below the 0.55 RN hours-per-resident-per-day minimum that P.L. 119-21 blocked from being enforced. Every facility in the network carries CMS's abuse icon.
 
+*Note on the abuse icon: CMS displays a red abuse icon on a facility's Care Compare profile when it has been cited for abuse, neglect, or exploitation within roughly the past three years. Nationally, the icon appears on an estimated 15–20% of nursing homes, so a 100% rate across all 106 facilities in a single operator's network would be an unusually high incidence. This figure is drawn from the April 2026 Care Compare snapshot and cannot be re-verified against later snapshots; readers should treat the 100% figure as a point-in-time reading of that data.*
+
 *Source: CMS Care Compare April 2026 snapshot; CMS ownership file; verified against FEC indiv files for Landa ownership attribution.*
 
 ---

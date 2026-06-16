@@ -56,13 +56,13 @@ Context: House Energy and Commerce and Ways and Means Committees joint hearings 
 
 **2026 Gross Premium Increases:**
 - KFF: **26% average** (30% in Healthcare.gov states)
-- Commonwealth Fund: **21.7% average**
+- Urban Institute: **21.7% average** (benchmark silver plans)
 - Peterson-KFF Health System Tracker: **18% median** proposed increase
 
 **What Enrollees Actually Pay:**
 - KFF: **114% average increase** in what previously subsidized enrollees pay
 - Example: 60-year-old couple earning $85,000 → premiums increase **$22,600/year**
-- 725,000 people with incomes 400-500% FPL lose subsidy eligibility entirely
+- Approximately 1.6 million enrollees with incomes above 400% FPL lose enhanced subsidy eligibility entirely (KFF)
 
 **Why Premiums Rose — Insurers' Own Explanation:**
 1. Rising underlying healthcare costs

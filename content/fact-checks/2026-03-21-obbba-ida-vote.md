@@ -77,7 +77,7 @@ The NYS Comptroller has found zero-clawback, zero-evaluation-criteria governance
 
 ## The Donor Overlap
 
-74 IDA beneficiaries in NY-23 donated $246,951 to Langworthy-controlled party committees while holding $66.2 million in IDA exemptions — a return of $268 in public subsidy per $1 donated. Full methodology and county-level data are documented at [thepublicledgers.org/ida/states/ny/](https://thepublicledgers.org/ida/states/ny/).
+74 IDA beneficiaries in NY-23 donated $246,951 to Langworthy-controlled party committees while holding $66.2 million in IDA exemptions — a return of $268 in public subsidy per $1 donated. These district-specific figures derive from the cross-reference methodology documented in the companion entry, [IDA Tax Breaks and Political Donors: A District-Wide Pattern](/fact-checks/2026-03-21-ida-donor-exemption-pattern/), which links to the downloadable CSVs. Full methodology and county-level data are also available at [thepublicledgers.org/ida/states/ny/](https://thepublicledgers.org/ida/states/ny/).
 
 This analysis documents a correlation. It does not establish that donations influenced the OBBBA vote or any other legislative action.
 

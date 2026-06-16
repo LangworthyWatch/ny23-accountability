@@ -41,7 +41,7 @@ In November 2024, the **Howard Center for Investigative Journalism** at the Univ
 
 The Howard Center describes the program's purpose in its own narrative: "For the sugar industry, the trips are a chance to build a new bench of loyal allies on Capitol Hill for key policy battles every five years." That characterization — from the journalists who investigated the program — is the core of this fact-check.
 
-Weber, for his part, offers the industry's on-record response. **Harrison Weber, Executive Director of the Red River Valley Sugarbeet Growers Association**, is quoted directly in the piece:
+Weber, for his part, offers the industry's on-record response. **Harrison Weber, Director of the Red River Valley Sugarbeet Education Foundation and Executive Director of the Red River Valley Sugarbeet Growers Association** — the Education Foundation (RRVSEF) being the entity through which the trip program operates — is quoted directly in the piece:
 
 > "The trip[s] are designed for solely educational purposes."
 

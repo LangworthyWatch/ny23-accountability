@@ -54,6 +54,8 @@ And:
 **The Minnesota Fraud Case:**
 The "Feeding Our Future" fraud scandal in Minnesota involved a nonprofit that stole federal child nutrition program funds. This was a **criminal fraud scheme** prosecuted by the DOJ.
 
+*Note on the $8.5 billion figure:* Langworthy's quoted "$8.5 billion" does not match the DOJ's Feeding Our Future prosecution amount, which is approximately $250 million (the DOJ release cited below references the "$250 million" figure). The larger $8.5 billion number appears to come from the House Oversight Committee's broader investigation into multiple Minnesota government programs, not the Feeding Our Future criminal case specifically. Readers following the DOJ link will find the ~$250 million prosecution figure, not $8.5 billion.
+
 **Key differences:**
 - Minnesota fraud involved child **nutrition** programs, not CCDF/TANF/SSBG
 - The fraud was perpetrated by a specific nonprofit, not the state government

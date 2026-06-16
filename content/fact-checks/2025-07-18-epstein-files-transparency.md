@@ -40,7 +40,7 @@ Rep. Langworthy praised the House Rules Committee's advancement of H.Res. 589 (a
 **July 18, 2025 - H.Res. 589 (Non-binding Resolution)**
 - **Langworthy vote:** YES
 - **Action:** After blocking the binding amendment, Republicans drafted their own non-binding resolution requesting Epstein file release
-- **Result:** Resolution passed but "forces the release of NOTHING" according to Rep. Thomas Massie (R-KY), who called it a "stunt"
+- **Result:** Rules Committee voted 9-4 to advance H.Res. 589 for potential floor consideration; Rep. Thomas Massie (R-KY) called it a "stunt" that "forces the release of NOTHING"
 - **Source:** Congressional Record, WRFA-LP
 
 ---
@@ -83,7 +83,7 @@ The sequence:
 2. Files remain unreleased
 3. **July 18:** Republicans introduce a symbolic resolution with no enforcement power → Langworthy votes **YES** and issues press release "demanding full release"
 
-Rep. Thomas Massie (R-KY), who voted for actual release, called the Republican resolution a "stunt" that "forces the release of NOTHING."
+Rep. Thomas Massie (R-KY), who publicly criticized the resolution as insufficient, called the Republican resolution a "stunt" that "forces the release of NOTHING."
 
 Local media noticed: "After voting no earlier this week on an amendment to have DOJ release the Epstein files, Congressman Nick Langworthy has voted yes on moving a Republican resolution forward...."
 

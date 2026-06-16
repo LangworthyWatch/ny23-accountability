@@ -5,7 +5,7 @@ draft: false
 topic: "Labor"
 claim_date: "2025"
 source: "Press Release"
-source_url: "https://www.fingerlakes1.com/2025/05/21/scaffold-law-reform-infrastructure-bill/"
+source_url: "https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-introduces-bill-save-taxpayers-promote"
 archived_url: "https://web.archive.org/web/20250725063644/https://www.fingerlakes1.com/2025/05/21/scaffold-law-reform-infrastructure-bill/"
 verdict: "MISLEADING"
 tags: ["labor", "worker-safety", "construction", "campaign-finance"]
@@ -25,7 +25,7 @@ Construction workers in NY-23 build schools, roads, and homes. When they fall fr
 
 Langworthy's Infrastructure Expansion Act (H.R. 3548) would "save millions each year in construction costs" by reforming New York's Scaffold Law for federally-funded projects.
 
-"My hope is that this law, if enacted, will finally force Albany to reform this law, saving millions each year in construction costs to build schools, residential housing, and other projects."
+"My hope is that this law, if enacted, will finally force Albany to reform this law, saving millions each year in construction costs to build schools, residential housing, and other projects." *(This quote is from Langworthy's official press release, linked in Sources below. The FingerLakes1.com article quotes him separately as saying the bill "is urgently needed to preempt this broken liability standard on federally funded projects and get New York building again.")*
 
 ---
 

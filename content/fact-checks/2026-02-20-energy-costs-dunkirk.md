@@ -62,7 +62,7 @@ The 2025 Directors' Remuneration Policy **increased the maximum annual bonus opp
 
 ## Langworthy's energy record and financial ties
 
-His **lifetime League of Conservation Voters score is 3%**, with a **2024 score of 0%**. His reported **$66,466 in oil and gas industry campaign contributions** places him among the sector's notable congressional recipients. His Energy Choice Act (H.R. 3699) would **prohibit states or localities from restricting energy connections by type or source** — directly targeting New York's All-Electric Buildings Act.
+His **lifetime League of Conservation Voters score is 2%**, with a **2024 score of 0%**. His reported **$66,466 in oil and gas industry campaign contributions** places him among the sector's notable congressional recipients. His Energy Choice Act (H.R. 3699) would **prohibit states or localities from restricting energy connections by type or source** — directly targeting New York's All-Electric Buildings Act.
 
 ---
 

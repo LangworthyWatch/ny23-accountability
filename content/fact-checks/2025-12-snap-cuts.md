@@ -75,13 +75,13 @@ Langworthy's claim that "not a single dollar is cut from benefits" appears to re
 
 ### Expanded Work Requirements
 
-H.R. 1 extends work requirements from ages 18-49 to **ages 18-64**, and reduces exemptions for caregivers and people experiencing homelessness.
+H.R. 1 extends work requirements from ages 18-54 (the current ABAWD rule) to **ages 18-64**, adding roughly 1 million adults aged 55-64 who were previously exempt, and reduces exemptions for caregivers and people experiencing homelessness.
 
 **Center on Budget and Policy Priorities / Urban Institute Analysis:**
 
 - **40 million people** receive SNAP benefits nationally, including **17 million children**
 - Work requirement expansions could cause **5.4 million people to lose benefits monthly** (Urban Institute estimate)
-- CBO projects **2.4 million people nationally** will lose SNAP coverage in a typical month
+- CBO projects roughly **3.2 million adults nationally** will lose SNAP coverage in a typical month under the work requirement expansion (as cited in CBPP's analysis of the House-passed bill)
 
 **Who gets cut in NY-23:**
 - **Seasonal farm workers** between harvests — agricultural employment in the Southern Tier is not year-round
