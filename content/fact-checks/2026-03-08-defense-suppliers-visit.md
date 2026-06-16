@@ -3,9 +3,9 @@ title: "Defense Suppliers Visit: Wrong Company Name, Wrong City, Understated Emp
 date: 2026-03-08T12:00:00
 draft: false
 topic: "Defense / Economic Development"
-claim_date: "March 8, 2026"
+claim_date: "March 6, 2026"
 source: "Facebook Post"
-source_url: ""
+source_url: "https://www.facebook.com/share/p/1AxvTx7dX2/"
 archived_url: ""
 verdict: "MISLEADING"
 tags: ["defense", "skf", "moog", "astronics", "falconer", "east-aurora", "western-new-york", "jobs", "fact-check"]
@@ -14,7 +14,7 @@ counties: ["chautauqua", "erie"]
 
 ## Statement
 
-**Source:** Facebook Post, approximately March 8, 2026
+**Source:** [Facebook Post, March 6, 2026](https://www.facebook.com/share/p/1AxvTx7dX2/)
 
 > "It was great to welcome a few of our district's important employers to Washington this week. We are home to some of the nation's leading defense suppliers, such as SKF in Falconer, Moog in East Aurora, and Astonics in Elma. These companies are employing over 1,000 Western New Yorkers and providing critical components to the next generation of American military aircraft. I'm proud of our exceptional workforce who are helping to strengthen America's readiness and defense."
 

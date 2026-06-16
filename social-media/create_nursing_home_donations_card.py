@@ -92,7 +92,7 @@ draw.text((178, y+vote_h//2+12), "YES", fill=RED, font=f_stat, anchor="mm")
 vx = 288
 draw.text((vx, y+36), "One Big Beautiful Bill Act · §71111", fill=DARK, font=f_sub_b, anchor="lm")
 draw.text((vx, y+62), "Blocked CMS nursing home staffing rule until 2034", fill=DARK, font=f_sub, anchor="lm")
-draw.text((vx, y+86), "CBO: ~$23B cost to operators that won't be required", fill=MUTED, font=f_small, anchor="lm")
+draw.text((vx, y+86), "CMS RIA: ~$43B cost to operators that won't be required", fill=MUTED, font=f_small, anchor="lm")
 draw.text((vx, y+106), "UPenn est: ~13,000 preventable deaths/year", fill=MUTED, font=f_small, anchor="lm")
 
 y += vote_h + 16

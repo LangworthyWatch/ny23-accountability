@@ -74,7 +74,7 @@ Per Congressional Budget Office scoring:
 |------|--------|
 | SNAP cut (FY2025–FY2034) | $186.7 billion |
 | Americans projected to lose SNAP | ~4 million (terminated or cut substantially, per CBPP) |
-| NY-23 residents projected to lose SNAP | ~19,000 (CBPP estimate) |
+| NY-23 residents projected to lose SNAP | No published district-level estimate (CBO/CBPP figures are national) |
 
 Langworthy gave floor remarks explicitly supporting the One Big Beautiful Bill before the vote, calling it "economic relief, fiscal sanity, and basic fairness." He also publicly pressured colleagues to stop "delaying the vote."
 
@@ -83,6 +83,8 @@ When a constituent raised concerns about SNAP cuts, Langworthy stated: **"Not a 
 This statement is directly contradicted by the CBO score and the explicit $186.7 billion in savings the bill's own accounting attributes to the SNAP changes.
 
 **The Farm Bill's nutrition title does not reverse these cuts.** The SNAP program the Farm Bill reauthorizes has already been restructured by the reconciliation law Langworthy championed. The two votes — Farm Bill and One Big Beautiful Bill — are not in conflict; they are sequential. The Farm Bill reauthorizes a program that Langworthy's prior vote fundamentally changed.
+
+**A documented local dimension:** SNAP enrollment drives schools' eligibility for the Community Eligibility Provision (CEP), which lets high-poverty schools serve free meals to every student. NY-23 contains dozens of school districts with CEP-participating schools — among the largest are Elmira (5,378 students), Corning (4,573), Jamestown (4,561), Horseheads (4,088), Olean (1,909), and Hornell (1,653) — so eroding SNAP enrollment directly threatens free school meals across the district (FRAC & Center on Budget and Policy Priorities, *Community Eligibility Supports Children's Health and Learning — New York*, October 2025).
 
 ---
 
