@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: June 14, 2026*
+*Last updated: June 16, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 109 Fact-Checks Published
+## Content: 108 Fact-Checks Published
 
 ### Topics Covered
 
@@ -38,7 +38,7 @@
 | Healthcare / CEO hearing | 1 | Complete |
 | SAVE Act (voter ID) | 1 | Complete |
 | SW Flight 2094 | 1 | Complete |
-| County rural impact profiles | 2 | Steuben, Tioga complete; 6 counties not started |
+| County rural impact profiles | 3 | Steuben, Tioga, Schuyler complete; 5 counties not started |
 
 ### Verdict Distribution
 
@@ -85,7 +85,7 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 | FISA 702 | Published | Update at next reauthorization vote |
 | Blackstone → Huizenga | Research complete; NOT published | Needs reframe: carried interest vote + Basel III are clean claims; INVEST Act provision was Ann Wagner's bill, not Huizenga's |
 | Jamestown USCP RFI denial | Published | USCP appeal filed 2026-04-26; awaiting response |
-| County profiles | 2 of 8 done | Chemung, Cattaraugus, Chautauqua, Erie, Allegany, Schuyler remaining |
+| County profiles | 3 of 8 done | Chemung, Cattaraugus, Chautauqua, Erie, Allegany remaining |
 | H.R. 6047 veterans loan fees | Drafted + verified; NOT published | Entry in repo as draft: true; needs archive pass + review + publish. Rules votes 342/343 + CBO figures all primary-sourced |
 | FEMA Review Council / BRIC | Watching | No Langworthy statement located (checked June 10) on May 7 report, BRIC cancellation, or staffing cuts; Jasper-Troupsburg entry carries the open questions |
 | June 10 FB post permalinks | Pending | Minnesota, Marilla, Jasper-Troupsburg entries quote posts verified from screenshots; need permalinks + screenshots archived to static/images/ |

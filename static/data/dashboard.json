@@ -1,9 +1,9 @@
 {
-  "generated": "2026-06-15",
+  "generated": "2026-06-16",
   "total": 108,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 27,
+    "MISSING CONTEXT": 28,
     "MISLEADING": 26,
     "DOCUMENTED PATTERN": 19,
     "CONTRADICTION": 12,
@@ -13,19 +13,18 @@
     "DEFLECTION": 3,
     "MISSING ATTRIBUTION": 2,
     "MOSTLY TRUE": 1,
-    "PARTIALLY TRUE": 1,
     "NON-RESPONSIVE": 1,
     "INCONSISTENT": 1
   },
   "by_topic": {
-    "Government Operations": 12,
     "Healthcare": 12,
+    "Government Operations": 11,
     "Economy": 10,
     "Immigration": 7,
     "Other": 7,
+    "Local Impact": 6,
     "Transparency": 6,
     "Campaign Finance": 5,
-    "Local Impact": 5,
     "Agriculture": 4,
     "Energy": 4,
     "Infrastructure": 4,
@@ -58,10 +57,10 @@
     "2025-12": 20,
     "2026-01": 8,
     "2026-02": 28,
-    "2026-03": 15,
+    "2026-03": 14,
     "2026-04": 10,
     "2026-05": 15,
-    "2026-06": 12
+    "2026-06": 13
   },
   "entries": [
     {
@@ -70,6 +69,13 @@
       "verdict": "CONTRADICTION",
       "topic": "Disability & Education",
       "url": "/fact-checks/2026-06-14-ocr-collapse-disabled-students/"
+    },
+    {
+      "title": "Schuyler County's Hospital Is on a Federal At-Risk List. Langworthy Voted for the Bill Behind It \u2014 Twice \u2014 and Has Said Nothing.",
+      "date": "2026-06-14",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Local Impact",
+      "url": "/fact-checks/2026-06-14-schuyler-county-hospital-at-risk/"
     },
     {
       "title": "Langworthy's 'Fraud Prevention' Push: What the Bills Do, and What the $233\u2013$521 Billion Figure Measures",
@@ -350,13 +356,6 @@
       "verdict": "DOCUMENTED PATTERN",
       "topic": "Legislative Record",
       "url": "/fact-checks/2026-03-21-obbba-ida-vote/"
-    },
-    {
-      "title": "Pay TSA Act: A Partial Fix \u2014 Pays TSA Workers During Shutdowns, but Doesn't Prevent Them",
-      "date": "2026-03-21",
-      "verdict": "PARTIALLY TRUE",
-      "topic": "Government Operations",
-      "url": "/fact-checks/2026-03-21-pay-tsa-act/"
     },
     {
       "title": "Who's Really Driving Your Electric Bill? A Data Investigation into NY Utility Rates",
@@ -709,7 +708,7 @@
       "url": "/fact-checks/2025-12-medicaid-immigration/"
     },
     {
-      "title": "SNAP Benefits: Claiming 'Not a Single Dollar Cut' While CBO Documents $295 Billion in Reductions",
+      "title": "SNAP Benefits: Claiming 'Not a Single Dollar Cut' While CBO Documents $186 Billion in Reductions",
       "date": "2025-12-30",
       "verdict": "FALSE",
       "topic": "Food Security",
