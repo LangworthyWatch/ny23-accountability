@@ -57,7 +57,7 @@ Multiple blocks of "Executive Time" appear throughout the itinerary.
 
 ### The Shutdown Context
 
-The trip proceeded during a partial federal government shutdown in which the Department of Homeland Security lacked full appropriations. TSA agents — federal employees who screened Langworthy's departure — were working without pay. Speaker Johnson had canceled his own international trip during the same period.
+The trip proceeded during a partial federal government shutdown in which the Department of Homeland Security lacked full appropriations. TSA agents — federal employees who screened Langworthy's departure — were working without pay.
 
 The trip was covered nationally by TMZ (April 1, 2026: "30 Members of Congress in Scotland on Taxpayers' Dime Amid Shutdown"), Political Wire ("30 Members of Congress on Scotland Junket"), and Semafor ("Lawmakers get TMZ treatment during DHS shutdown").
 
@@ -87,7 +87,6 @@ Langworthy's filing states he attended to "study the environment and environment
 
 1. What specific environmental or energy policy content — meetings, briefings, reports — did Langworthy attend to or produce from this trip?
 2. What corporate interests fund the Republican Main Street Partnership's travel program?
-3. Why did Langworthy proceed with the trip when Speaker Johnson canceled his own international travel during the same shutdown?
 
 ---
 

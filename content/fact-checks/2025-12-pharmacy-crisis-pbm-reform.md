@@ -196,7 +196,7 @@ REFORM STATUS:     In bill →   REMOVED        In bill →    REMOVED        St
 
 ## In Plain Language
 
-PBM reform has been stripped from legislation **three times** — each time at Trump's direction. Here's the pattern:
+PBM reform has been stripped from legislation **twice** — each time at Trump's direction. Here's the pattern:
 
 1. **Trump publicly supports reform** → Langworthy makes supportive statements
 2. **Trump privately kills reform** → Langworthy says nothing

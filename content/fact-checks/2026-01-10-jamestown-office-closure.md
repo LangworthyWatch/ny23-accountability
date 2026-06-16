@@ -14,7 +14,7 @@ counties: ["chautauqua"]
 
 ## Why This Matters for NY-23
 
-On January 10, 2026, Rep. Langworthy announced his Jamestown District Office would close indefinitely, citing "repeated credible threats and calls for violence." The closure cut off in-person constituent access for Chautauqua County residents. When the office reopened approximately one week later, the Post-Journal reported it coincided with protests in the area subsiding. A FOIL request to the City of Jamestown for all incident reports, police reports, calls for service, and records of threats or security concerns at the office between December 1, 2025 and February 23, 2026 returned one record — a burglar alarm — with no reports of threats, intimidation, protests, or security incidents.
+On January 10, 2026, Rep. Langworthy announced his Jamestown District Office would close indefinitely, citing "repeated credible threats and calls for violence." The closure cut off in-person constituent access for Chautauqua County residents. When the office reopened approximately one week later, the Post-Journal reported it coincided with a protest in the area subsiding. A FOIL request to the City of Jamestown for all incident reports, police reports, calls for service, and records of threats or security concerns at the office between December 1, 2025 and February 23, 2026 returned one record — a burglar alarm — with no reports of threats, intimidation, protests, or security incidents.
 
 ---
 
@@ -34,7 +34,7 @@ After the office reopened, Langworthy provided additional details:
 
 > "When someone says they want to do harm or threaten the people that work for me, I take that extremely seriously."
 
-He described the threats as originating from social media and stated they were reported to Capitol Police. The Post-Journal reported the office reopened after "investigation concluded and protests in the area subsided."
+He described the threats as originating from social media and stated they were reported to Capitol Police. Per the Post-Journal, the office reopened "once the investigation had gone for about a week, and things had cooled down around a protest that was held in the area."
 
 > "We will continue to monitor these online comments, and any threats made to a member of my staff or myself...will be prosecuted to the fullest extent of the law."
 
@@ -77,7 +77,7 @@ Langworthy's office stated that phones were answered and constituent communicati
 | "Calls for violence" | No incident reports for threats or intimidation |
 | "Working closely with... local law enforcement" | No records of communication between JPD and Capitol Police or federal agencies |
 | Office closed Jan 10 for safety | Only police record: burglar alarm Feb 5 — no employee on site |
-| Reopened after "protests subsided" (Post-Journal) | No records of protests or demonstrations at the office |
+| Reopened after a protest in the area subsided (Post-Journal) | No records of protests or demonstrations at the office |
 
 ---
 
@@ -93,7 +93,7 @@ Langworthy's office stated that phones were answered and constituent communicati
 
 3. The only police response to the office during the entire December–February period was a burglar alarm on February 5, at which point no employee was on site.
 
-4. The Post-Journal's reporting that the office reopened after "protests in the area subsided" suggests the closure may have been related to constituent protests rather than — or in addition to — the stated "credible threats."
+4. The Post-Journal's reporting that the office reopened after a protest in the area subsided suggests the closure may have been related to a constituent protest rather than — or in addition to — the stated "credible threats."
 
 ---
 
@@ -116,7 +116,7 @@ The Jamestown vandalism — described by Langworthy's office during the reopenin
 
 2. If the threats were made on social media and reported to Capitol Police, has Capitol Police confirmed receiving these reports? Have any arrests or prosecutions resulted?
 
-3. The Post-Journal reported the office reopened after "protests in the area subsided." Was the closure related to constituent protests, social media threats, or both?
+3. The Post-Journal reported the office reopened after a protest in the area subsided. Was the closure related to a constituent protest, social media threats, or both?
 
 4. On February 5, 2026, police responded to a burglar alarm at the office and found no employee on site. Was the office still closed at that point, or had it reopened?
 
@@ -232,7 +232,7 @@ There were no police reports of threats. No records of protests. No records of a
 
 It is possible that threats were made on social media and reported only to Capitol Police, bypassing local law enforcement. Langworthy has said the threats came from social media. But his statement that he was "working closely with local law enforcement" is not reflected in the local police records.
 
-The Post-Journal reported the office reopened after "protests in the area subsided" — raising the question of whether the closure was prompted by constituent protests rather than the stated threats.
+The Post-Journal reported the office reopened after a protest in the area subsided — raising the question of whether the closure was prompted by a constituent protest rather than the stated threats.
 
 A second FOIL response covering earlier dates returned four additional records from February–March 2025: three false or accidental alarms and one criminal mischief report ($30 door handle damage, no suspect). Across the full year of JPD records, there are no reports of threats, violence, or protests at the office.
 

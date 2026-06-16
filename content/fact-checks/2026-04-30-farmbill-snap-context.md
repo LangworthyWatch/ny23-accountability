@@ -73,7 +73,7 @@ Per Congressional Budget Office scoring:
 | Item | Figure |
 |------|--------|
 | SNAP cut (FY2025–FY2034) | $186.7 billion |
-| Americans projected to lose SNAP | 3 million |
+| Americans projected to lose SNAP | ~4 million (terminated or cut substantially, per CBPP) |
 | NY-23 residents projected to lose SNAP | ~19,000 (CBPP estimate) |
 
 Langworthy gave floor remarks explicitly supporting the One Big Beautiful Bill before the vote, calling it "economic relief, fiscal sanity, and basic fairness." He also publicly pressured colleagues to stop "delaying the vote."

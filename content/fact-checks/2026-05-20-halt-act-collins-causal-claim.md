@@ -36,7 +36,7 @@ The Buffalo News reported eight Collins Correctional guards were injured — one
 The Humane Alternatives to Long-Term (HALT) Solitary Confinement Act was signed by Governor Cuomo in April 2021 and took effect March 31, 2022 (NY Correction Law § 137). It:
 
 - Limits solitary confinement to **15 consecutive days** maximum, and no more than 20 days in any 60-day period
-- Requires persons held beyond 15 days be transferred to a Residential Rehabilitation Unit (RRU) providing **6 hours/day of programming** and 1 hour of recreation
+- Requires persons held beyond 15 days be transferred to a Residential Rehabilitation Unit (RRU) providing at least **4 hours/day of out-of-cell time**, including 2 hours of therapeutic programming and 2 hours of recreation
 - Prohibits solitary confinement for vulnerable populations: under 21, over 55, pregnant, disabled, or with serious mental illness
 - Does **not** eliminate disciplinary measures — it limits their duration and requires therapeutic alternatives
 

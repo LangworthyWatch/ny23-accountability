@@ -14,7 +14,7 @@ counties: ["steuben", "chemung"]
 
 ## Why This Matters for NY-23
 
-Corning Incorporated — headquartered in Corning, NY, the largest private employer in Steuben County — was actively lobbying Congress on the reconciliation bill that became the One Big Beautiful Bill Act while that bill was being drafted. The legislation passed with specific provisions that directly benefit Corning's manufacturing operations: tax credits for the solar wafer plant it opened in Michigan in 2025, and an enhanced credit for the semiconductor polysilicon operation it co-owns in Tennessee. Sixty-two Corning employees, from the CEO to engineers, donated a combined **$65,775** to Langworthy's campaign committees across 2024–2025. Langworthy voted YES on Roll Call 190 — July 3, 2025 — and praised the outcome as "a generational win for the American people."
+Corning Incorporated — headquartered in Corning, NY, the largest private employer in Steuben County — was actively lobbying Congress on the reconciliation bill that became the One Big Beautiful Bill Act while that bill was being drafted. The legislation passed with specific provisions that directly benefit Corning's manufacturing operations: tax credits for the solar wafer plant it opened in Michigan in 2025, and an enhanced credit for the semiconductor polysilicon operation it co-owns in Michigan. Sixty-two Corning employees, from the CEO to engineers, donated a combined **$65,775** to Langworthy's campaign committees across 2024–2025. Langworthy voted YES on Roll Call 190 — July 3, 2025 — and praised the outcome as "a generational win for the American people."
 
 We cannot prove any connection between the donations and the vote. That's not what this page claims. What it documents is a sequence: a company lobbied, a member voted, and executives donated. Readers can evaluate it.
 
@@ -28,7 +28,7 @@ In recent years, Corning has expanded into two manufacturing lines with direct f
 
 **Solar wafer production.** Corning opened a solar wafer manufacturing plant in Hemlock, Michigan in Q3 2025. Solar wafers are eligible for the Section 45X Advanced Manufacturing Production Credit — $12 per square meter — under the Inflation Reduction Act. Corning's CEO confirmed on the company's Q2 2025 earnings call that the "advanced manufacturing tax credits remained in place" after the reconciliation vote.
 
-**Semiconductor polysilicon.** Hemlock Semiconductor — approximately 80% owned by Corning (80.5% per Corning's 2020 disclosure), with Shin-Etsu Chemical as a minority shareholder (~19.5%) — produces semiconductor-grade polysilicon in Hemlock, Michigan. Hemlock received $325 million in CHIPS Act funding in January 2025. The Section 45X manufacturing credit for semiconductors, boosted by OBBBA from 25% to 35%, applies to this operation.
+**Semiconductor polysilicon.** Hemlock Semiconductor — approximately 80% owned by Corning (80.5% per Corning's 2020 disclosure), with Shin-Etsu Chemical as a minority shareholder (~19.5%) — produces semiconductor-grade polysilicon in Hemlock, Michigan. Hemlock received $325 million in CHIPS Act funding in January 2025. The Section 48D Advanced Manufacturing Investment Credit (a CHIPS Act credit for investment in semiconductor fabrication facilities) was boosted by OBBBA from 25% to 35%.
 
 ---
 

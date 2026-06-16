@@ -1,5 +1,5 @@
 ---
-title: "Energy Policy: Pushing 'Choice' Bill While Taking $66,466 from Oil & Gas and Scoring 3% on Environment"
+title: "Energy Policy: Pushing 'Choice' Bill While Taking $66,466 from Oil & Gas and Scoring 2% on Environment"
 date: 2025-12-22
 draft: false
 topic: "Environment"
@@ -115,7 +115,7 @@ Langworthy frames his Energy Choice Act as protecting "freedom" and "pocketbooks
 
 Here's the context:
 - He's received **$66,466** from oil & gas companies (his 8th largest industry contributor)
-- His **lifetime environmental score is 3%** (League of Conservation Voters)
+- His **lifetime environmental score is 2%** (League of Conservation Voters)
 - In 2024 alone, he cast **28 anti-environment votes** and **zero** pro-environment votes
 - When asked about PFAS chemicals contaminating water supplies, he said he'd "await conversations with the incoming EPA administrator"
 

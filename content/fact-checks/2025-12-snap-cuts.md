@@ -124,7 +124,7 @@ Corning Democrat **Joe Tobia** criticized the OBBBA's Medicaid and SNAP provisio
 
 ### Food Bank Pressure
 
-FeedMore WNY (serving Western New York) reported a **16% increase** in food assistance need in 2024. SNAP cuts would increase pressure on food banks that are already struggling to meet demand.
+FeedMore WNY (serving Western New York) reported a **46% increase** in people served since 2021. SNAP cuts would increase pressure on food banks that are already struggling to meet demand.
 
 When SNAP contracts, food banks absorb the difference — with fewer resources and more demand.
 
@@ -177,7 +177,7 @@ The county's own government has warned of devastating local impacts from legisla
 
 **Local Context:**
 - [New York State OTDA: SNAP Data](https://otda.ny.gov/resources/caseload/) — participation data by district
-- [WKBW: FeedMore WNY Reports Increased Food Assistance Need](https://www.wkbw.com/news/local-news/feedmore-wny-reports-increased-food-assistance-need-throughout-wny) (2024, 16% increase)
+- [WKBW: FeedMore WNY Reports Increased Food Assistance Need](https://www.wkbw.com/news/local-news/feedmore-wny-reports-increased-food-assistance-need-throughout-wny) (46% increase in people served since 2021)
 - [WSKG: Southern Tier Organizations Say Proposed SNAP Changes Would Hurt Families](https://www.wskg.org/regional-news/2025-07-03/southern-tier-advocacy-organizations-say-proposed-changes-to-snap-would-hurt-families)
 - [WSKG: Steuben County Budget — $5M Admin Fund Loss](https://www.wskg.org/regional-news/2025-11-20/storm-clouds-on-the-horizon-steuben-county-proposes-277-million-budget-nearly-2-percent-tax-levy-increase)
 - Steuben County Legislature: Chair Fitzpatrick letter to federal representatives (October 30, 2025)
