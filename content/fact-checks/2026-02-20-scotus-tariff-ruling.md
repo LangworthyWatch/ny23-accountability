@@ -32,7 +32,7 @@ The **U.S. goods trade deficit hit an all-time record of $1.24 trillion in 2025*
 
 Manufacturing employment, the stated beneficiary of tariff protection, **declined by approximately 103,000–108,000 jobs** between January 2025 and January 2026, according to revised BLS data. The sector suffered **13 consecutive months of job losses** before a modest 5,000-job gain in January 2026.
 
-The economic consensus is overwhelming. A Stanford/SIEPR survey found **93% of economic experts disagreed** that steel and aluminum tariffs would improve Americans' welfare. The Tax Foundation calculated that Trump's tariffs constituted the **largest U.S. tax increase as a share of GDP since 1993**, costing the average household $1,000 in 2025 and a projected $1,300 in 2026. The New York Fed's February 12, 2026 analysis found a **94% pass-through rate**, meaning a 10% tariff resulted in foreign exporters cutting prices by just 0.6%.
+The economic consensus is overwhelming. A Stanford/SIEPR survey found **93% of economic experts disagreed** that steel and aluminum tariffs would improve Americans' welfare. The Tax Foundation calculated that Trump's tariffs constituted the **largest U.S. tax increase as a share of GDP since 1993**, costing the average household $1,000 in 2025 and a projected $700 in 2026 (reflecting only the remaining Section 232 and Section 122 tariffs after IEEPA tariffs were struck down). The New York Fed's February 12, 2026 analysis found a **94% pass-through rate**, meaning a 10% tariff resulted in foreign exporters cutting prices by just 0.6%.
 
 ---
 

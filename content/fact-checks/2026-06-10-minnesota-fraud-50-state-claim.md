@@ -100,7 +100,7 @@ Both claims contain a documented kernel — the committee's report did produce n
 
 ## Questions This Raises
 
-1. The DOJ indicted 79 defendants and secured roughly 65 convictions, including the scheme's organizer, before the committee's report was released. Why does the post credit the committee with pulling back the curtain rather than the federal prosecutors and FBI agents who did so in 2022?
+1. Federal prosecutors indicted at least 77 defendants and secured more than 50 convictions, including the scheme's organizer, before the committee's report was released. Why does the post credit the committee with pulling back the curtain rather than the federal prosecutors and FBI agents who did so in 2022?
 2. Which Oversight Committee investigations, beyond Minnesota, New York, and California, support the description of a "50 state" effort?
 3. Rep. Langworthy co-signed the committee's July 2025 letter investigating New York for withholding and clawing back Medicaid funds from low-income hospitals. He also voted for the One Big Beautiful Bill's federal Medicaid reductions affecting those same safety-net hospitals. How does he reconcile investigating the state's Medicaid funding decisions with his own vote on federal Medicaid funding?
 

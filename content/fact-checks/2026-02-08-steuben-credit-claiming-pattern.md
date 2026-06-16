@@ -193,7 +193,7 @@ Langworthy has issued press releases "announcing" federal funding flowing into S
 **The record:**
 - Langworthy voted **Yes** on H.R. 1, which passed **218-214** on July 3, 2025
 - CBO estimates: **~$1.06 trillion** in Medicaid spending reductions, **~$186.7 billion** in SNAP reductions over ten years
-- SNAP work requirements expanded from ages 18-54 to **ages 18-64**
+- SNAP work requirements expanded from ages 18-49 to **ages 18-64**
 - Federal SNAP administrative cost share cut from **50% to 25%** starting FY2027
 - Governor Hochul's office projects **1.5 million New Yorkers** losing Medicaid, **300,000+ households** losing SNAP
 - Steuben County poverty rate: ~16%; seasonal employment patterns make work requirement compliance particularly difficult

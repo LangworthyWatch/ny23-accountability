@@ -43,8 +43,8 @@ This is documented in public records. It is not a claim of illegality or of dire
 
 IDA board members are appointed by county legislatures. Every rural county legislature in NY-23 is Republican-controlled. Langworthy served as:
 
-- **Erie County Republican Chair (2010–2018)** — controlled the committee that shapes county legislative candidates who appoint ECIDA board members
-- **NYS Republican State Chair (2019–2022)** — oversaw all eight county Republican committees in the district
+- **Erie County Republican Chair (2010–2019)** — controlled the committee that shapes county legislative candidates who appoint ECIDA board members
+- **NYS Republican State Chair (2019–2023)** — oversaw all eight county Republican committees in the district
 - **U.S. Representative (January 2023–present)**
 
 The party committees he controlled are the same committees that received donations from IDA beneficiaries across the district.

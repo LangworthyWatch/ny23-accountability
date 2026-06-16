@@ -61,7 +61,7 @@ Six prior entries in this tracker document the same structure:
 
 | Entry | Program | Amount | Pattern |
 |-------|---------|--------|---------|
-| [Feedmore Earmark vs. Cuts](/fact-checks/2026-04-30-feedmore-earmark-vs-cuts/) | Community Project Funding | $250K | Claimed credit while cutting SNAP by $295B |
+| [Feedmore Earmark vs. Cuts](/fact-checks/2026-04-30-feedmore-earmark-vs-cuts/) | Community Project Funding | $3M | Claimed credit while cutting SNAP by $295B |
 | [Steuben Credit-Claiming](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/) | Multiple federal programs | Various | Sole credit for multi-agency federal awards |
 | [Allegany County Grants](/fact-checks/2026-02-08-allegany-county-grants-accord/) | USDA/HUD grants | Various | Formula grants framed as personal deliveries |
 | [FY2026 Appropriations Credit](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | FY2026 appropriations | Various | Credit for omnibus funds passed before taking the seat |

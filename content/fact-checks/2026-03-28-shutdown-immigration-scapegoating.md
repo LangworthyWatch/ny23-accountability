@@ -50,7 +50,7 @@ The current DHS-only funding lapse began on February 14, 2026. Langworthy says "
 
 ### What Langworthy omits
 
-The two DHS-specific shutdowns (January 30 and February 14 onward) were triggered by Democratic demands for ICE accountability following the fatal shootings of two U.S. citizens by federal agents in Minneapolis — Renee Good (killed January 7, 2026) and Alex Pretti (February). These killings and the accountability demands that followed are entirely absent from Langworthy's framing of why Democrats are blocking DHS funding.
+The two DHS-specific shutdowns (January 31 and February 14 onward) were triggered by Democratic demands for ICE accountability following the fatal shootings of two U.S. citizens by federal agents in Minneapolis — Renee Good (killed January 7, 2026) and Alex Pretti (killed January 24, 2026). These killings and the accountability demands that followed are entirely absent from Langworthy's framing of why Democrats are blocking DHS funding.
 
 See: [Minneapolis Shooting: Renee Good](/fact-checks/2026-02-04-minneapolis-renee-good/)
 

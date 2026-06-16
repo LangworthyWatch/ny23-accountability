@@ -44,7 +44,7 @@ Killed in February 2024. José Antonio Ibarra, a Venezuelan national who entered
 
 **Rachel Morin — CONFIRMED**
 
-Killed in August 2023 in Maryland. Victor Antonio Martinez-Hernandez, who crossed the border illegally while fleeing a murder warrant in El Salvador, was convicted of her rape and murder on April 14, 2026 — four days after this post.
+Killed in August 2023 in Maryland. Victor Antonio Martinez-Hernandez, who crossed the border illegally while fleeing a murder warrant in El Salvador, was convicted of her rape and murder on April 14, 2025 — nearly a year before this post.
 
 **Jocelyn Nungaray — CONFIRMED (trial pending)**
 

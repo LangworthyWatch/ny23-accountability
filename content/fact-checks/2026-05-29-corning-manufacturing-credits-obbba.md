@@ -28,7 +28,7 @@ In recent years, Corning has expanded into two manufacturing lines with direct f
 
 **Solar wafer production.** Corning opened a solar wafer manufacturing plant in Hemlock, Michigan in Q3 2025. Solar wafers are eligible for the Section 45X Advanced Manufacturing Production Credit — $12 per square meter — under the Inflation Reduction Act. Corning's CEO confirmed on the company's Q2 2025 earnings call that the "advanced manufacturing tax credits remained in place" after the reconciliation vote.
 
-**Semiconductor polysilicon.** Hemlock Semiconductor — approximately 50% co-owned by Corning, with Shin-Etsu Handotai as the other major partner — produces semiconductor-grade polysilicon in Clarksburg, Tennessee. Hemlock received $325 million in CHIPS Act funding in January 2025. The Section 45X manufacturing credit for semiconductors, boosted by OBBBA from 25% to 35%, applies to this operation.
+**Semiconductor polysilicon.** Hemlock Semiconductor — approximately 80% owned by Corning (80.5% per Corning's 2020 disclosure), with Shin-Etsu Chemical as a minority shareholder (~19.5%) — produces semiconductor-grade polysilicon in Hemlock, Michigan. Hemlock received $325 million in CHIPS Act funding in January 2025. The Section 45X manufacturing credit for semiconductors, boosted by OBBBA from 25% to 35%, applies to this operation.
 
 ---
 

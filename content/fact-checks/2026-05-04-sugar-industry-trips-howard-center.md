@@ -39,11 +39,13 @@ In November 2024, the **Howard Center for Investigative Journalism** at the Univ
 - Trips concentrate on House staff during the August recess, when staff have the most flexibility and Members are out of session.
 - The standard itinerary template includes presentations by RRVSEF executives and American Crystal Sugar Co. executives, on-site visits to growers' farms (Beau Farms northeast of Fargo is a recurring stop), a ride-along on a sugarbeet harvester, and a tour of the American Crystal Sugar factory in Moorhead, MN.
 
-The piece quotes **Harrison Weber, Executive Director of the Red River Valley Sugarbeet Growers Association**, on the program's purpose:
+The Howard Center describes the program's purpose in its own narrative: "For the sugar industry, the trips are a chance to build a new bench of loyal allies on Capitol Hill for key policy battles every five years." That characterization — from the journalists who investigated the program — is the core of this fact-check.
 
-> "to build a new bench of loyal allies on Capitol Hill"
+Weber, for his part, offers the industry's on-record response. **Harrison Weber, Executive Director of the Red River Valley Sugarbeet Growers Association**, is quoted directly in the piece:
 
-That quote — from the executive who runs the trip program — is the core of this fact-check. The sugar industry's own executive describes the trips as a relationship-building program intended to produce policy allies. Langworthy's office is one of the offices that participated in the 2024 cycle of that program.
+> "The trip[s] are designed for solely educational purposes."
+
+The Howard Center's framing and Weber's denial sit side by side in the same article. The documented pattern of 335+ staff trips over twelve years is the evidentiary basis for the Howard Center's characterization. Langworthy's office is one of the offices that participated in the 2024 cycle of that program.
 
 ---
 

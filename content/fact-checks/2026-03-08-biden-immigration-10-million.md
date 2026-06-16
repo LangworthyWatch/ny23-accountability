@@ -56,7 +56,7 @@ An "encounter" is a CBP interaction — a logged event, not a unique individual,
 |---------|-----------------|
 | Released into U.S. to await proceedings | ~2.5 million |
 | Removed, expelled, or detained at initial processing | ~2.8 million |
-| Title 42 expulsions alone (entire Biden term) | ~3 million |
+| Title 42 expulsions alone (entire Biden term) | ~2.5 million |
 
 In Biden's first year, 70.7% of encounters resulted in expulsion, deportation, or detention. "Flooded into our country" implies all 10 million entered and remained. The actual number released into the U.S. during Biden's term was approximately **2.5 million** — not 10 million. And that 2.5 million figure itself is not the final population: many subsequently received removal orders, departed voluntarily, or were later deported.
 

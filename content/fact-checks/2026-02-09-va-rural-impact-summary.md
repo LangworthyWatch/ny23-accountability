@@ -32,7 +32,7 @@ Langworthy called VA problems a "staffing problem." He then co-founded the caucu
 
 ### 1. Staff are being cut at a facility that was already short-staffed
 
-The VA shed approximately **30,000 positions** nationally between January and June 2025, primarily through hiring freezes and attrition. Bath VA experienced probationary staff dismissals in February 2025.
+The VA shed roughly **17,000 positions** nationally between January and June 2025, under a plan to reduce the total workforce by approximately 30,000 through attrition and hiring freezes. Bath VA experienced probationary staff dismissals in February 2025.
 
 The VA's own inspector general found **4,434 severe staffing shortages** across all 139 VHA facilities — a **50% increase** in one year. Medical officer shortages affect 94% of facilities. Nursing shortages affect 79%.
 

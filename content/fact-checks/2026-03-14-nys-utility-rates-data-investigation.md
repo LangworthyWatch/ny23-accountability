@@ -66,7 +66,7 @@ The System Benefits Charge adds approximately **$3.36/month** to an average resi
 - NY residential rates grew **49.2%** from 2015 to 2025 vs. **34.7%** CPI inflation — running 1.06% per year faster than general inflation
 - NY pays **26.49 cents/kWh** vs. the U.S. average of **16.83 cents/kWh** — a gap of **57.4%**
 - Rate growth **accelerated sharply** after 2020 even as the System Benefits Charge (the clean energy surcharge) grew by only **0.14 cents/kWh** — accounting for just 1.8% of the total price increase over that period
-- NY households pay **$658/year more** than the national average at typical usage (7,200 kWh/year)
+- NY households pay **$696/year more** than the national average at typical usage (7,200 kWh/year)
 
 The clean energy surcharge grew from approximately 0.38 cents/kWh to 0.52 cents/kWh over this period — a small fraction of the overall price trajectory.
 

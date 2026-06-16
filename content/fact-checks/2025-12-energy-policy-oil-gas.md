@@ -14,7 +14,7 @@ counties: ["district-wide"]
 
 ## Why This Matters for NY-23
 
-Energy costs affect every household. So does clean water. When a representative pushes legislation that benefits the fossil fuel industry while taking $66,466 from that industry, constituents deserve to know. When that same representative has a **3% lifetime environmental score** and declines to offer solutions on PFAS contamination affecting local water supplies, the pattern is worth documenting.
+Energy costs affect every household. So does clean water. When a representative pushes legislation that benefits the fossil fuel industry while taking $66,466 from that industry, constituents deserve to know. When that same representative has a **2% lifetime environmental score** and declines to offer solutions on PFAS contamination affecting local water supplies, the pattern is worth documenting.
 
 ---
 
@@ -46,7 +46,7 @@ When asked about PFAS "forever chemicals" contaminating water supplies, Langwort
 **League of Conservation Voters National Environmental Scorecard:**
 * 2024 Score: **0%** (28 anti-environment votes, 0 pro-environment)
 * 2023 Score: **6%** (2 pro-environment votes, 33 anti-environment)
-* **Lifetime Score: 3%**
+* **Lifetime Score: 2%**
 
 **Selected Anti-Environment Votes (2024):**
 * Voted to defund DOE's Office of Energy Efficiency and Renewable Energy
@@ -80,7 +80,7 @@ When asked about PFAS "forever chemicals" contaminating water supplies, Langwort
 
 Langworthy frames the Energy Choice Act as protecting consumer freedom while:
 1. Taking $66,466 from the fossil fuel industry whose interests the bill serves
-2. Maintaining a 3% lifetime environmental score
+2. Maintaining a 2% lifetime environmental score
 3. Consistently voting against renewable energy, clean air, and climate provisions
 4. Declining to offer specific solutions on PFAS contamination affecting NY communities
 

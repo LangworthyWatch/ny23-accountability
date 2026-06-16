@@ -78,7 +78,7 @@ The reconciliation bill Langworthy supported (which became part of H.R. 1, the O
 **What this rhetoric obscures:**
 
 While claiming to "remove illegal aliens," the bill Langworthy supported actually:
-- Cuts **$911 billion from Medicaid** over 10 years
+- Cuts **$911 billion from Medicaid** over 10 years (KFF estimate)
 - Reduces coverage for **1.3 million dually eligible** seniors and people with disabilities (per CBO)
 - Threatens rural hospitals already at risk of closure
 

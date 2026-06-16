@@ -49,7 +49,7 @@ These two figures describe **Round 2 of the Medicare Drug Price Negotiation Prog
 - **CMS projects $12 billion in net savings** relative to 2024 prices across those 15 drugs.
 - The **average price reduction is 44%** ("Maximum Fair Price" vs. 2024 list price); CMS estimates ~36% net of existing rebates.
 - **The negotiated prices take effect January 1, 2027** — not "already."
-- Approximately **1.8 million Medicare beneficiaries** are projected to be affected, with an estimated **$685 million** in Part D out-of-pocket savings in 2027 alone.
+- CMS estimates **$685 million** in Part D out-of-pocket savings for beneficiaries in 2027 alone. (A Round 2–specific beneficiary count has not been publicly reported by CMS or KFF; the 1.8 million figure cited in some sources refers to Round 3 drugs effective 2028.)
 
 ### The 15 drugs (Maximum Fair Price effective January 1, 2027)
 

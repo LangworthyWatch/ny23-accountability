@@ -64,7 +64,7 @@ No press releases, no floor statements, no constituent letters, no social media 
 | Press conference held | No public statement |
 | Press release issued | No press release |
 | Posed with FeedMore WNY staff | No documented contact with FeedMore WNY |
-| "Proud to deliver for WNY families" | Silence |
+| Stated he was "proud to secure" the earmark for FeedMore WNY | Silence |
 
 ---
 

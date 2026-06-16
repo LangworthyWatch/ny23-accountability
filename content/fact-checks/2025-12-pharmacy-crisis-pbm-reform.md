@@ -32,7 +32,7 @@ Langworthy has positioned himself as a leading advocate for Pharmacy Benefit Man
 
 **What Langworthy says:** PBM reform is urgent and he's fighting for it.
 
-**What the record shows:** Reform has been stripped from legislation three times at Trump's direction. Langworthy remained silent each time, only becoming vocal again after Trump launched his own branded initiative.
+**What the record shows:** Reform has been stripped from legislation twice at Trump's direction. Langworthy remained silent each time, only becoming vocal again after Trump launched his own branded initiative.
 
 ---
 
@@ -155,10 +155,7 @@ His press release stated:
 
 The caucus claims to address "rising rates of chronic diseases" and support "underserved and rural communities."
 
-**The contradiction:** Langworthy joined a caucus focused on "affordable healthcare" immediately after voting for a bill that:
-* Had PBM reform stripped out (raising drug costs)
-* Cut $911 billion from Medicaid (reducing healthcare access)
-* Let ACA subsidies expire (raising premiums for 6,300+ NY-23 residents)
+**The contradiction:** Langworthy joined a caucus focused on "affordable healthcare" immediately after voting for a bill that had PBM reform stripped out — the same reforms he describes as essential to addressing the rural pharmacy crisis. (The Medicaid cuts and ACA subsidy expirations that would affect NY-23 residents came later, when Langworthy voted for OBBB in July 2025.)
 
 Source: [Langworthy Press Release](https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-joins-make-america-healthy-again-caucus-founding)
 

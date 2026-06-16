@@ -74,7 +74,7 @@ The provision sunsets after 2028. Calling it a permanent change is misleading wh
 
 **Where does 88% come from?**
 
-The Tax Foundation and other groups estimated approximately 88% of Social Security recipients would see **some benefit** from the deduction.
+The White House and SSA estimated approximately 88% of Social Security recipients would see **some benefit** from the deduction (per Newsweek and Towerpoint Wealth, respectively).
 
 **"Some benefit" ≠ "will no longer pay federal tax"**
 
@@ -90,11 +90,11 @@ The 88% includes:
 ## Income Limits Create Coverage Gaps
 
 **Single seniors with income over $75,000:**
-- No benefit from this provision
+- Reduced or no benefit — the deduction phases out between $75,000–$175,000; fully eliminated above $175,000
 - Still pay federal tax on up to 85% of Social Security benefits
 
 **Married couples with income over $150,000:**
-- No benefit from this provision
+- Reduced or no benefit — the deduction phases out between $150,000–$250,000; fully eliminated above $250,000
 - Still pay federal tax on up to 85% of Social Security benefits
 
 **In NY-23:**

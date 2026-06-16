@@ -48,7 +48,7 @@ Under the current rule, a family that receives SNAP is presumed unable to financ
 - Families would face extensive recurring reporting requirements: property records, household bills, bank statements, pay stubs
 - Estimated impact: cuts of up to **$330/month** — approximately one-third of the average $994 benefit — for up to **400,000 SSI recipients** with Down syndrome, severe autism, dementia, and other intellectual disabilities
 
-The typical affected household earns roughly $17,000 per year. Forty disability organizations sent opposition letters before Langworthy's May 18 meeting.
+The typical affected household earns roughly $17,000 per year. Some 40 Down syndrome organizations sent a letter to SSA Commissioner Bisignano opposing the proposed rule before Langworthy's May 18 meeting.
 
 **Langworthy has made no public statement about this proposed rule.**
 

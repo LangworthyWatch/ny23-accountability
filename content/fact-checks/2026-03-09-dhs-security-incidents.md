@@ -32,7 +32,7 @@ The post included a graphic headlined **"The impacts of Democrats' DHS Shutdown"
 
 **Rating: MOSTLY TRUE — drops a critical qualifier**
 
-On **March 1, 2026**, a mass shooting on West Sixth Street in Austin killed three people and injured 15 others. The shooter, 53-year-old Ndiaga Diagne, opened fire from his SUV and then on foot before being killed by police. The FBI's Joint Terrorism Task Force joined the investigation based on indicators found on the suspect and in his vehicle, including clothing referencing Allah and an Iranian flag design.
+On **March 1, 2026**, a mass shooting on West Sixth Street in Austin killed three people and injured 14 others. The shooter, 53-year-old Ndiaga Diagne, opened fire from his SUV and then on foot before being killed by police. The FBI's Joint Terrorism Task Force joined the investigation based on indicators found on the suspect and in his vehicle, including clothing referencing Allah and an Iranian flag design.
 
 **What's missing:** Investigators have consistently described this as a *potential* terrorism nexus — not a confirmed one. FBI Acting Special Agent in Charge Alex Doran said on March 1: "Obviously it's still way too early in the process to determine an exact motivation." As of a March 6 FBI update, the investigation remained ongoing, with over 2,000 pieces of digital evidence collected and eight search warrants executed.
 

@@ -57,7 +57,7 @@ Langworthy's stated urgency in committee was not matched by any legislative outc
 On illegal immigrants and healthcare:
 > "[Democrats would] divert rural hospital funding to healthcare benefits for illegal immigrants"
 
-> "I will never let Americans go to the back of the line behind undocumented people"
+> "I'll be damned if the people of Western New York and the Southern Tier are put at the back of the line to people while people who aren't legally in this country are paid for in full."
 
 > "It is crystal clear that illegals have been funded through Medicaid funds"
 

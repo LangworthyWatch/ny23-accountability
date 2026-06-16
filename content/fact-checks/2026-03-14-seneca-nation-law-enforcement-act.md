@@ -74,7 +74,7 @@ FEC records show the Seneca Nation of Indians gives strategically to members of 
 | NRCC | $16,300 | Dec 2024 | Party committee |
 | DCCC (House Democrats) | $20,000 | Apr 2024 | Party committee |
 | DCCC | $5,000 | May 2024 | Party committee |
-| Sen. Jerry Moran (R-KS) | $8,500 | 2025 | Senate Indian Affairs Committee |
+| Sen. Jerry Moran (R-KS) | $10,000 | Jul 15, 2025 | Senate Indian Affairs Committee |
 | Rep. Bruce Westerman (R-AR) | $3,500 | Aug 2025 | House Natural Resources Committee (oversees Indian affairs) |
 | **Rep. Langworthy (R-NY-23)** | **$10,100** | **2024–2025** | **Represents Seneca Nation territory** |
 | Oneida Indian Nation | $3,500 | May 2025 | Separate tribe, same 1948 jurisdictional dispute |

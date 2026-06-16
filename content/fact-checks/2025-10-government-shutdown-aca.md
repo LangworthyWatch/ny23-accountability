@@ -96,8 +96,8 @@ He blamed Senate Majority Leader Chuck Schumer and Democrats for "turning govern
    - Military unpaid
    - SNAP threatened
    - Health insurance crisis looming
-4. **Dec 2025:** Langworthy votes against bipartisan ACA fix (fails by 1 vote)
-5. **Nov 14, 2025:** Finally votes to reopen government after extracting concessions
+4. **Nov 14, 2025:** Finally votes to reopen government after extracting concessions
+5. **Dec 2025:** Langworthy votes against bipartisan ACA fix (fails by 1 vote)
 
 ---
 

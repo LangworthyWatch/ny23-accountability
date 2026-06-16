@@ -136,8 +136,8 @@ MAY 22, 2025      DEC 31, 2025       JAN 8, 2026        JAN 22, 2026       JAN 2
 
 **The math:**
 - Enhanced ACA subsidies cost approximately $25-30 billion/year
-- OBBB added $4.5 trillion to the deficit over 10 years (primarily tax cuts)
-- Langworthy voted for the $4.5 trillion deficit increase while opposing the $25-30 billion that kept premiums affordable
+- OBBB reduced federal revenues by approximately $4.5 trillion over 10 years (primarily tax cuts), adding roughly $3.4 trillion to the deficit (CBO net score) after spending cuts partially offset the revenue loss
+- Langworthy voted for the bill producing a ~$3.4 trillion net deficit increase while opposing the $25-30 billion/year that kept premiums affordable
 
 ---
 

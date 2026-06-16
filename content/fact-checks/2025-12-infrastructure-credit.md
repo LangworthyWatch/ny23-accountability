@@ -62,7 +62,7 @@ Langworthy has announced multiple federal infrastructure grants for NY-23 commun
 | Dunkirk Harbor improvements | **$4,750,000** | Chautauqua County |
 | Cornell Cooperative Extension renovation | **$254,000** | Allegany County |
 
-These were included in appropriations **at his direction**. He can legitimately take credit for these.
+These were included in appropriations **at his direction**. He can legitimately take credit for these. **Note on Newstead:** The $5M Newstead Community Center earmark was a joint House-Senate effort — Senators Schumer and Gillibrand submitted matching Senate Congressionally Directed Spending requests, and the Town Supervisor publicly credited "a bi-partisan effort with Senator Schumer." Sole credit for Newstead is misleading. See: [FY2026 Appropriations: What Langworthy 'Secured' vs. What Was Bipartisan](/fact-checks/2026-02-11-fy2026-appropriations-credit/).
 
 ---
 
