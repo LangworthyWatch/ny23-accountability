@@ -187,7 +187,7 @@ See [Federal Preemption Pattern: Three Bills, One Playbook](/fact-checks/2026-02
 
 ## Donor Footprint
 
-**$270,500 across 21 PACs** whose organizations signed the SECURE Data Act endorser-coalition letter have contributed to Rep. Langworthy's two campaign committees (Langworthy for Congress C00817932; Langworthy Congressional Victory Cmte C00832188) across the 2024 and 2026 cycles.
+**$134,000 across 19 PACs** whose organizations signed the SECURE Data Act endorser-coalition letter have contributed to Rep. Langworthy's two campaign committees (Langworthy for Congress C00817932; Langworthy Congressional Victory Cmte C00832188) across the 2024 and 2026 cycles.
 
 This is documented from FEC bulk pas2 24/26 files, joined to the FEC committee master (`cm.txt`), filtered to contributions where the candidate ID (H2NY23228) or one of the two committee IDs above is the recipient.
 
@@ -195,19 +195,19 @@ This is documented from FEC bulk pas2 24/26 files, joined to the FEC committee m
 
 | Sector (alignment with SECURE Data Act coalition) | Total | PACs |
 |---|---|---|
-| **Telecom / ISP / Cable** (NCTA, USTelecom, CTIA members) | $121,000 | Charter Communications PAC ($35K), Cox Enterprises PAC ($25K), Comcast/NBCUniversal PAC ($16K), Verizon PAC ($14K), AT&T Employee PAC ($12K), NCTA—The Internet & Television Association PAC ($13K), T-Mobile T-PAC ($6K) |
-| **Retail / Hospitality / Franchise / Convenience** (NRF, RILA, Restaurant Assn, IFA, AHLA, NACS, NAR members) | $81,000 | International Franchise Assn PAC ($24K), National Assn of Realtors PAC ($18K), Walmart PAC ($16K), National Restaurant Assn PAC ($15K), American Hotel & Lodging PAC ($4K), National Assn of Convenience Stores PAC ($4K) |
-| **Oil / Energy** (API + Energy Marketers signed the letter) | $61,000 | Marathon Petroleum Employees PAC ($20K), Chevron Employees PAC ($20K), ExxonMobil PAC ($12K), Energy Marketers of America Small Business Cmte PAC ($9K) |
-| **Big Tech direct** (Google's PAC + BSA's PAC) | $3,500 | Google LLC NETPAC ($2K), BSA Business Software Alliance Inc. PAC ($1.5K) |
-| **Subtotal — Coalition members** | **$270,500** | **21 PACs** |
+| **Telecom / ISP / Cable** (NCTA, USTelecom, CTIA members) | $60,500 | Charter Communications PAC ($17.5K), Cox Enterprises PAC ($12.5K), Comcast/NBCUniversal PAC ($8K), Verizon PAC ($7K), AT&T Employee PAC ($6K), NCTA—The Internet & Television Association PAC ($6.5K), T-Mobile T-PAC ($3K) |
+| **Retail / Hospitality / Franchise / Convenience** (NRF, RILA, Restaurant Assn, IFA, AHLA, NACS, NAR members) | $40,500 | International Franchise Assn PAC ($12K), National Assn of Realtors PAC ($9K), Walmart PAC ($8K), National Restaurant Assn PAC ($7.5K), American Hotel & Lodging PAC ($2K), National Assn of Convenience Stores PAC ($2K) |
+| **Oil / Energy** (API + Energy Marketers signed the letter) | $30,500 | Marathon Petroleum Employees PAC ($10K), Chevron Employees PAC ($10K), ExxonMobil PAC ($6K), Energy Marketers of America Small Business Cmte PAC ($4.5K) |
+| **Big Tech direct** (Google's PAC + BSA's PAC) | $2,500 | Google LLC NETPAC ($1K), BSA Business Software Alliance Inc. PAC ($1.5K) |
+| **Subtotal — Coalition members** | **$134,000** | **19 PACs** |
 
-*Per-PAC contribution caps and party-line patterns matter here.* Each PAC's federal contribution to a single candidate per cycle is capped at $5,000. The Charter PAC's $35K, for example, reflects 12 separate $5,000-or-less transactions across multiple election cycles and primary/general elections, not a single special-occasion transfer. These PACs give to many House Republicans on the Energy & Commerce committee, not exclusively to Langworthy.
+*Per-PAC contribution caps and party-line patterns matter here.* Each PAC's federal contribution to a single candidate per cycle is capped at $5,000. The Charter PAC's $17.5K, for example, reflects multiple separate $5,000-or-less transactions across multiple election cycles and primary/general elections, not a single special-occasion transfer. These PACs give to many House Republicans on the Energy & Commerce committee, not exclusively to Langworthy.
 
 ### What this means
 
-This is **not** a documented quid-pro-quo with Big Tech corporate PACs. Meta, Amazon, Microsoft, Apple, Oracle, and Salesforce corporate PACs have given Langworthy's committees zero dollars. Google's NETPAC contribution is small ($2,000, from November 2023) and predates H.R. 8413 by more than two years.
+This is **not** a documented quid-pro-quo with Big Tech corporate PACs. Meta, Amazon, Microsoft, Apple, Oracle, and Salesforce corporate PACs have given Langworthy's committees zero dollars. Google's NETPAC contribution is small ($1,000, from November 2023) and predates H.R. 8413 by more than two years.
 
-What it **is** is a documented financial alignment with the broader coalition behind the bill — particularly the cable/telecom/ISP industry organized through NCTA—The Internet & Television Association, which co-signed the support letter and whose member PACs have contributed $121,000 to Rep. Langworthy.
+What it **is** is a documented financial alignment with the broader coalition behind the bill — particularly the cable/telecom/ISP industry organized through NCTA—The Internet & Television Association, which co-signed the support letter and whose member PACs have contributed $60,500 to Rep. Langworthy.
 
 ### Methodology
 

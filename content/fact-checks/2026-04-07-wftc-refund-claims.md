@@ -104,7 +104,7 @@ IRS data shows the average refund was $3,521 (week ending March 27) and $3,462 (
 
 **Verdict: OVERSTATED**
 
-IRS filing season statistics through early April 2026 show approximately **4.6 million** filers claimed the tips deduction — not 5.7 million. The figure Langworthy cited overstates confirmed IRS data by approximately 24%.
+Independent estimates put the number of beneficiaries well below Langworthy's figure — the Bipartisan Policy Center and Yale Budget Lab estimate roughly 4–6 million tipped workers. Langworthy's 5.7 million figure is not confirmable against any primary IRS source.
 
 ---
 
@@ -112,7 +112,7 @@ IRS filing season statistics through early April 2026 show approximately **4.6 m
 
 **Verdict: OVERSTATED**
 
-IRS data as of early April 2026 showed approximately **20 million** filers claimed the overtime deduction — not 23 million. The figure overstates confirmed IRS data by approximately 15%.
+Independent estimates (Tax Policy Center / Yale Budget Lab) put the overtime-deduction universe below Langworthy's 23 million figure. The 23 million figure is not confirmable against any primary IRS source.
 
 ---
 
@@ -152,8 +152,8 @@ Additionally, a higher average tax refund indicates taxpayers overwitheld — th
 | "Eliminated taxes on tips and overtime" | MISLEADING — deductions with caps; FICA still applies |
 | "Eliminated taxes on Social Security" | FALSE — $6,000 deduction for 65+; expires 2028 |
 | $3,400 average refund | ROUGHLY ACCURATE (actual: ~$3,462–$3,521) |
-| 5.7 million tips filers | OVERSTATED — IRS shows ~4.6 million |
-| 23 million overtime filers | OVERSTATED — IRS shows ~20 million |
+| 5.7 million tips filers | OVERSTATED — independent estimates (BPC, Yale Budget Lab) put tipped workers at ~4–6 million; figure not confirmable against primary IRS data |
+| 23 million overtime filers | OVERSTATED — independent estimates (TPC, Yale Budget Lab) put the overtime universe below 23 million; figure not confirmable against primary IRS data |
 | Top 1% paying >40% of "federal taxes" | SELECTIVELY FRAMED — income taxes only; wrong 2017 baseline |
 | $10,900 family of four | INFLATED — includes growth projections; not independent |
 

@@ -73,7 +73,7 @@ The polling is accurate. Multiple surveys — Pew Research Center, Gallup, and o
 
 | Group | Challenge |
 |-------|-----------|
-| **21+ million U.S. citizens** | Do not have readily accessible documentary proof of citizenship (passport, birth certificate, naturalization papers) |
+| **21.3 million voting-age U.S. citizens** | Do not have readily accessible documentary proof of citizenship (passport, birth certificate, naturalization papers) |
 | **Elderly voters** | Born in an era of inconsistent vital records; many delivered at home without hospital birth certificates |
 | **Rural residents** | Limited access to DMVs and government offices; may need to travel hours for documents |
 | **Low-income citizens** | Passport: $165; birth certificate replacement: $10-$50+ depending on state; plus travel and time costs |
@@ -154,7 +154,7 @@ See also: ["No SNAP cuts"](/fact-checks/2025-12-snap-cuts/) when $186B less will
 * Brennan Center for Justice: ["Noncitizen Voting Is Already Illegal — and Vanishingly Rare"](https://www.brennancenter.org/our-work/analysis-opinion/noncitizen-voting-already-illegal-and-vanishingly-rare)
 * Pew Research Center: ["Most Americans Back Expanded Early Voting, Voting by Mail, Voter ID"](https://www.pewresearch.org/politics/2025/08/22/majority-of-americans-continue-to-back-expanded-early-voting-voting-by-mail-voter-id/) (August 2025)
 * Congress.gov: [SAVE Act (H.R. 22)](https://www.congress.gov/bill/119th-congress/house-bill/22) — bill text
-* U.S. Census Bureau: Citizenship documentation accessibility data
+* [Brennan Center for Justice: 21.3 Million American Citizens of Voting Age Don't Have Ready Access to Citizenship Documents](https://www.brennancenter.org/our-work/analysis-opinion/213-million-american-citizens-voting-age-dont-have-ready-access) (June 2024 survey, SSRS/VoteRiders/Univ. of Maryland)
 * Illegal Immigration Reform and Immigrant Responsibility Act (1996): Federal penalties for noncitizen voting
 * Tioga County demographic data (Census/ACS): Age distribution, transit access
 

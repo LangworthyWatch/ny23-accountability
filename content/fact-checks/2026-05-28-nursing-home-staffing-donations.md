@@ -42,7 +42,7 @@ The nursing home industry opposed the rule from the start. The American Health C
 **Bill:** One Big Beautiful Bill Act (P.L. 119-21)
 **Langworthy vote: YES** — Langworthy made floor remarks in support of the bill before the vote and publicly called the outcome "a generational win for the American people." The vote passed 218–214. Official roll call: [clerk.house.gov/Votes/2025190](https://clerk.house.gov/Votes/2025190).
 
-Section 71111 of P.L. 119-21 prohibits CMS from implementing the nursing home minimum staffing rule until **September 30, 2034** — a 10-year moratorium. CBO estimated the provision's cost to operators at approximately $23 billion; that figure represents the staffing investment the industry would have been required to make.
+Section 71111 of P.L. 119-21 prohibits CMS from implementing the nursing home minimum staffing rule until **September 30, 2034** — a 10-year moratorium. CMS's Regulatory Impact Analysis for the rule (89 Fed. Reg. 40876) estimated the total cost at approximately $43 billion over 10 years — the staffing investment the industry would have been required to make.
 
 On **December 3, 2025**, CMS formally repealed the staffing standards by interim final rule, citing P.L. 119-21 as the legislative basis. The rule became void on February 2, 2026.
 

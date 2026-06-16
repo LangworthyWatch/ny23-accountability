@@ -36,7 +36,7 @@ Operation Epic Fury is the largest U.S. military offensive since the 2003 invasi
 
 On February 28, 2026 at approximately 1:15 AM ET, U.S. Central Command announced the start of Operation Epic Fury — coordinated U.S.-Israeli military strikes against Iran. The U.S. component involved B-2 bombers, Tomahawk cruise missiles launched from Navy destroyers, and one-way attack drones. Israel simultaneously conducted "Operation Lion's Roar," striking targets including sites in Tehran.
 
-U.S. targets included IRGC command centers, missile and drone manufacturing sites (Natanz, Fordow), air defense batteries, naval vessels, and military airfields. Over 1,000 Iranian targets were reportedly struck in the first 24 hours. Iranian Supreme Leader Ayatollah Ali Khamenei was confirmed killed.
+U.S. targets included IRGC command centers, missile and drone manufacturing sites (Natanz, Fordow), air defense batteries, naval vessels, and military airfields. Over 1,000 Iranian targets were reportedly struck in the first 24 hours. Iranian Supreme Leader Ayatollah Ali Khamenei was killed during the U.S.–Israeli strikes; Iranian state media confirmed his death ([New York Times, Feb. 28, 2026](https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html)).
 
 Iran retaliated with waves of missiles and drones targeting U.S. bases and allied cities across the Gulf and Israel, including strikes on civilian infrastructure — airports, hotels, and residential areas.
 

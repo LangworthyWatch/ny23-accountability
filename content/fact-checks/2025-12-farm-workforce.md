@@ -78,6 +78,8 @@ He has not advocated for its passage despite it being the primary bipartisan sol
 **What he HAS done:**
 
 - Introduced **H.R. 8359** (GRAPE Act, 118th Congress) / **H.R. 292** (119th Congress reintroduction) - crop insurance for freeze damage
+- Introduced **H.R. 295** (Fair Milk Pricing for Farmers Act) and **H.R. 294** (Dairy Farm Resiliency Act) — dairy pricing transparency and margin coverage (119th Congress)
+- Introduced **H.R. 293** (MAPLE Act) — adds maple syrup to the seniors' farmers' market program (119th Congress)
 - Cosponsored other agriculture bills focused on pricing, regulation, trade
 
 **All of these bills address symptoms of farm struggles. None address the workforce crisis that makes farming operations difficult to maintain.**

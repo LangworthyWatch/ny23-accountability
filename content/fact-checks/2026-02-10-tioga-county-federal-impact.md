@@ -42,7 +42,7 @@ This summary documents what federal policy changes mean for Tioga County using c
 
 ### What's changing
 
-The OBBBA introduces Medicaid work requirements of 80 hours per month. The precise number of Tioga County residents who will be disenrolled has not been modeled at the county level — the state has not yet finalized implementation. Governor Hochul's office estimates **66,000 people in Langworthy's district** will lose healthcare coverage under the law.
+The OBBBA introduces Medicaid work requirements of 80 hours per month. The precise number of Tioga County residents who will be disenrolled has not been modeled at the county level — the state has not yet finalized implementation. Statewide, an estimated **450,000 New Yorkers** are scheduled to lose Essential Plan coverage on July 1, 2026 under the OBBBA, including **42,587 consumers across the three congressional districts covering Western New York** (Buffalo News, citing NY State of Health). A district-specific NY-23 figure has not been published.
 
 ### Mental health is the county's top concern
 
@@ -191,7 +191,7 @@ Rural residents don't need to be told what to think. They need the full picture 
 * Congressional Budget Office: [H.R. 1 budgetary effects analysis](https://www.cbo.gov/publication/61387) (May 2025)
 * MIT Living Wage Calculator: [Tioga County estimates](https://livingwage.mit.edu/counties/36107)
 * FEMA: [Disaster records for Tioga County (DR-4031-NY, Tropical Storm Lee)](https://www.fema.gov/disaster/4031)
-* Governor Hochul's Office: OBBBA healthcare coverage impact estimates
+* [Buffalo News: Loss of health insurance looming for 450,000 New Yorkers, including tens of thousands in WNY](https://buffalonews.com/news/local/government-politics/article_194a55ee-89b8-4736-86fc-db4d19c83df9.html) — 42,587 across the three WNY congressional districts; ~450,000 statewide losing Essential Plan coverage July 1, 2026
 * Tioga County Legislature: $100,000 emergency Food Bank allocation (2025)
 * HRSA: [Health Professional Shortage Area designations](https://data.hrsa.gov/tools/shortage-area)
 

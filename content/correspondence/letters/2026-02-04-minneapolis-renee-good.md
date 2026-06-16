@@ -23,11 +23,7 @@ tracking_code: "YRWKLY-7LYJ2"
 
 **Tracking Code:** `[YRWKLY-7LYJ2]`
 
-> "Recently, disturbing footage emerged from Minneapolis showing the aftermath of a violent confrontation between ICE officers and a rioter who weaponized her vehicle against federal law enforcement officers conducting an operation to arrest an illegal alien."
-
-> "The individual, who is now in custody, chose to disrupt a lawful arrest by driving her vehicle into federal officers carrying out their duties."
-
-> "This was a violent rioter who threatened the lives of law enforcement officers with her vehicle."
+> "As you know, on January 7, 2026, ICE officers in Minneapolis, Minnesota, were conducting targeted operations when a violent rioter weaponized her vehicle in an attempt to run over law enforcement officers. An ICE officer, fearing for his life, acted in self-defense. Tragically, a life was lost in this incident."
 
 ---
 
@@ -89,4 +85,4 @@ Standard elements present:
 
 **Note:** This entry documents publicly available information from official correspondence. Personal constituent information has been redacted.
 
-*Last updated: February 4, 2026*
+*Last updated: June 16, 2026 (corrected: response quotes replaced with the verbatim text from the office's response PDF — the earlier version contained paraphrases not found in the actual letter)*

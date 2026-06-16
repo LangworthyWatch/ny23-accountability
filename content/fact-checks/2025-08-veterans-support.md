@@ -12,7 +12,7 @@ tags: ["veterans", "shutdown", "contradiction"]
 counties: ["steuben", "cattaraugus"]
 ---
 
-> **Correction (June 16, 2026):** An earlier version of this entry stated that Rep. Langworthy voted to *cause* the autumn 2025 shutdown. That was incorrect. Per the House clerk's record and sibling entries on this site, Langworthy voted **YES** on the House GOP "clean" continuing resolution — which funded military/VA operations but omitted the ACA subsidy extensions Senate Democrats demanded; the Senate's rejection of that CR, not Langworthy's vote, triggered the 44-day shutdown. This entry's accountability focus is the separate, documented fact that he voted **YES** on OBBB — which veterans' groups warned would strain VA care — while making pro-veteran statements. The shutdown-causation framing has been corrected throughout; the verdict is under review.
+> **Correction (June 16, 2026):** An earlier version of this entry stated that Rep. Langworthy voted to *cause* the autumn 2025 shutdown. That was incorrect. Per the House clerk's record and sibling entries on this site, Langworthy voted **YES** on the House GOP "clean" continuing resolution — which funded military/VA operations but omitted the ACA subsidy extensions Senate Democrats demanded; the Senate's rejection of that CR, not Langworthy's vote, triggered the 44-day shutdown. This entry's accountability focus is the separate, documented fact that he voted **YES** on OBBB — which veterans' groups warned would strain VA care — while making pro-veteran statements. The shutdown-causation framing has been corrected throughout; the entry's CONTRADICTION verdict now rests on that OBBB vote, not shutdown causation.
 
 ## Why This Matters for NY-23
 

@@ -4,8 +4,8 @@ date: 2026-02-08
 draft: false
 topic: "Immigration / Local Impact"
 claim_date: "2025"
-source: "Local News Coverage"
-source_url: ""
+source: "WSKG Public Radio"
+source_url: "https://wskg.org/regional-news/2026-02-06/we-are-all-afraid-steuben-county-residents-say-no-to-ice-cooperation-agreements-between-county-federal-government"
 archived_url: ""
 verdict: "MISSING CONTEXT"
 tags: ["immigration", "ice", "steuben-county", "constituent-voices", "local-impact"]
@@ -98,7 +98,7 @@ The tension between supporting agricultural interests and supporting immigration
 
 ## Sources
 
-* Local news: ["'We are all afraid' — Steuben County residents say no to ICE cooperation agreements between county, federal government"](https://www.mytwintiers.com/)
+* WSKG: ["'We are all afraid': Steuben County residents say no to ICE cooperation agreements between county, federal government"](https://wskg.org/regional-news/2026-02-06/we-are-all-afraid-steuben-county-residents-say-no-to-ice-cooperation-agreements-between-county-federal-government) (Feb. 6, 2026)
 * Langworthy press coverage: [Farm Bill visit to Mansfield dairy farm](https://langworthy.house.gov/)
 * Related: [Steuben County: Ten Federal Funding Claims Examined](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
 

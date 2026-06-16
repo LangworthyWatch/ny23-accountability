@@ -61,8 +61,8 @@ The federal government will contribute a one-time $1,000 deposit to Trump Accoun
 
 The OBBBA is the same legislation that:
 
-- **Medicaid:** Introduced new work reporting requirements, more frequent eligibility redeterminations, and restrictions on provider tax arrangements. The Congressional Budget Office estimated these provisions will result in approximately 10 million people losing health coverage by 2034. The American Medical Association called it legislation that "will worsen patient access to care."
-- **SNAP:** Expanded work requirements to cover adults through age 64, required parents of children 14 and older to meet work requirements to maintain benefits, and shifted a portion of benefit costs to states. The Urban Institute projected 22.3 million households would lose some or all SNAP benefits. The bill reduced nutrition program funding by approximately $186 billion over 10 years.
+- **Medicaid:** Introduced new work reporting requirements, more frequent eligibility redeterminations, and restrictions on provider tax arrangements. The Congressional Budget Office estimated the law will increase the number of uninsured by approximately 10 million by 2034 — about 7.5 million from Medicaid/CHIP and 2.4 million from the ACA marketplaces. The American Medical Association called it legislation that "will worsen patient access to care."
+- **SNAP:** Expanded work requirements to cover adults through age 64, required parents of children 14 and older to meet work requirements to maintain benefits, and shifted a portion of benefit costs to states. The Urban Institute projected 22.3 million families would lose some or all SNAP benefits. The bill reduced nutrition program funding by approximately $186 billion over 10 years.
 - **ACA Marketplace:** Enhanced premium tax credits that helped lower-income working families afford health insurance were allowed to expire.
 
 Brookings Institution concluded that because of these cuts, the OBBBA "will likely end up hurting roughly as many families with children as it helps."
