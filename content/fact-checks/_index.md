@@ -103,6 +103,7 @@ Each fact-check includes:
 | [Sexual Misconduct Vote](/fact-checks/2026-03-05-sexual-misconduct-vote/) | "Proud to be one of 65 members who stands for transparency" | **MISSING CONTEXT** — Vote confirmed; but resolution had legitimate survivor-protection concerns; selective given Epstein record |
 | [Seneca Nation Law Enforcement Act](/fact-checks/2026-03-14-seneca-nation-law-enforcement-act/) | Bill framed as drug trafficking / public safety measure | **MISSING CONTEXT** — $10,100 from Seneca Nation not disclosed; civil jurisdiction removal (affecting gaming operations) not addressed |
 | [Agriculture Week](/fact-checks/2026-03-21-agriculture-week-family-farms/) | "Fighting for family farms" during Agriculture Week / Agriculture Day | **MISSING CONTEXT** — Estate tax change affects &lt;1% of farm estates; tariff damage to dairy and grapes omitted |
+| [PAY TSA Act](/fact-checks/2026-03-21-pay-tsa-act/) | Bill pays TSA workers during shutdowns; "I don't support government shutdowns" | **PARTIALLY TRUE** — real structural fix but doesn't prevent shutdowns; the Dec 2024 "voted NO" claim was corrected (Langworthy voted YEA) |
 | [IDA Donor-Exemption Pattern](/fact-checks/2026-03-21-ida-donor-exemption-pattern/) | IDA tax breaks and political donors in NY-23 | **DOCUMENTED PATTERN** — 74 beneficiaries donated $246K to Langworthy apparatus; received $66.2M in exemptions |
 | [OBBBA / IDA Vote](/fact-checks/2026-03-21-obbba-ida-vote/) | Voted YES on OBBBA making IDA-friendly provisions permanent | **DOCUMENTED PATTERN** — OZ permanent, PAB framework maintained; zero IDA reform legislation introduced |
 | [Shutdown / Immigration](/fact-checks/2026-03-28-shutdown-immigration-scapegoating/) | "41 Days of chaos" — pairs shutdown blame with two murders by undocumented immigrants | **MISLEADING** — Both crimes predate shutdown; ICE fully funded and operational; implies false causal link |
@@ -145,6 +146,16 @@ Each fact-check includes:
 | [Voter ID / SAVE Act](/fact-checks/2026-02-10-save-act-voter-id/) | SAVE Act protects election integrity | **MISLEADING** - Primarily affects eligible citizens, not noncitizens |
 | [Tioga County](/fact-checks/2026-02-10-tioga-county-federal-impact/) | Federal policy impact on Tioga County | **MISSING CONTEXT** - Tax savings ~$42-50/mo; service losses substantially larger |
 | [Minneapolis Shooting](/fact-checks/2026-02-04-minneapolis-renee-good/) | Renee Good was a "violent rioter" who "weaponized her vehicle" | **FALSE** - Contradicted by video evidence per Minneapolis Mayor |
+| [Shutdown](/fact-checks/2026-02-02-shutdown-defund-ice/) | "I have always been opposed to shutdowns" | **CORRECTION** — prior FALSE withdrawn; voted YEA on both Dec 2024 CRs |
+| [Shutdown](/fact-checks/2026-02-02-shutdown-defund-ice/) | Democrats "refused to fund" DHS | **MISLEADING** - Accepted 2-week CR pending reforms |
+| [Shutdown](/fact-checks/2026-02-02-shutdown-defund-ice/) | Democrats want to "defund ICE" | **MOSTLY FALSE** - Seeking reforms; ICE has $75B from reconciliation |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | "I'm always against government shutdowns" | **CORRECTION** — prior FALSE withdrawn; voted YEA on both Dec 2024 CRs |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | "Obama deported more than three million" | **MISSING CONTEXT** — 3M over 8 years; 85% border removals; different operations |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | "Upwards of 20 million people came in four years" | **FALSE** — CBP data: ~10.8M encounters; ~12-13M including gotaways |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | Biden era was "before social media was as prevalent" | **FALSE** — Biden term ended 4 weeks before this call |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | Protester "was doing this professionally" (re: Renee Good) | **FALSE** — Contradicted by video evidence |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | Stephen Miller is merely "an advisor" | **MISLEADING** — Deputy Chief of Staff for Policy |
+| [Town Hall](/fact-checks/2026-02-telephone-town-hall/) | Monthly telephone town halls; refuses in-person | **MISSING CONTEXT** — No in-person since Jan 2023; constituents report cancellations |
 | [Preemption Pattern](/fact-checks/2026-02-state-preemption-pattern/) | Three bills using identical "patchwork" framing to override state laws | **DOCUMENTED PATTERN** — Energy, supplements, AI; all benefit regulated industries |
 | [Preemption Pattern](/fact-checks/2026-02-state-preemption-pattern/) | Dietary supplements bill protects consumers | **MISLEADING** — Preempts NY law banning supplement sales to minors; 4 trade groups endorsed |
 | [Constituent Access](/fact-checks/2025-04-constituent-access-town-halls/) | Local media access to press events | **DOCUMENTED PATTERN** — WRFA (Chautauqua County) reports repeated exclusion from press events |

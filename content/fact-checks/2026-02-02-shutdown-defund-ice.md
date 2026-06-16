@@ -1,7 +1,7 @@
 ---
 title: "Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record"
 date: 2026-02-02
-draft: true
+draft: false
 topic: "Immigration"
 claim_date: "February 2, 2026"
 source: "Facebook Post"
@@ -12,7 +12,7 @@ tags: ["immigration", "ICE", "shutdown", "Minneapolis", "voting-record", "DHS"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
 
-<!-- DRAFTED 2026-06-15 (site fact-check audit). The load-bearing Dec 2024 vote claim was FALSE and has been CORRECTED in the body (2026-06-15): per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The FALSE verdict on Claim 1 has been WITHDRAWN. Entry remains draft:true pending an editorial decision on whether to republish. -->
+<!-- CORRECTED & REPUBLISHED 2026-06-15 (site fact-check audit). The Dec 2024 H.R. 10545 "voted NO" claim was FALSE: Langworthy voted YEA on H.R. 10515 (Roll 516, failed 174-235) and YEA on H.R. 10545 (Roll 517, passed 366-34); no shutdown occurred. Claim 1's FALSE verdict was WITHDRAWN (see public correction note below). -->
 > **Correction (June 15, 2026):** An earlier version of this entry stated that Rep. Langworthy voted **NO** on H.R. 10545 on December 19, 2024. That was incorrect. Per House Clerk roll-call records, Langworthy voted **YEA** on H.R. 10545 (the American Relief Act, 2025), which passed **366–34** on **December 20, 2024** (Roll Call 517) and became law — no government shutdown occurred. He also voted **YEA** on the earlier H.R. 10515 (Roll Call 516, December 19, 2024), which failed 174–235. The December 2024 record does not show Langworthy voting against a continuing resolution, so the **FALSE** verdict on Claim 1 has been withdrawn.
 
 ## Statement
@@ -100,7 +100,7 @@ The timeline shows the Minneapolis shootings **caused** the funding dispute, not
 | **January 24, 2026** | Alex Jeffrey Pretti killed by CBP agents |
 | January 28, 2026 | Federal judge finds ICE violated 96+ court orders |
 | January 29, 2026 | Democrats block DHS funding bill |
-| January 30, 2026 | Shutdown begins |
+| January 31, 2026 | Shutdown begins |
 
 The "defund ICE" push was a **response to** the Minneapolis shootings, not a precursor. Before the shootings, government funding was reportedly on a "glide path" to passage.
 

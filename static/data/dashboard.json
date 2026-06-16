@@ -1,37 +1,37 @@
 {
   "generated": "2026-06-15",
-  "total": 106,
+  "total": 108,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 27,
-    "MISLEADING": 25,
-    "DOCUMENTED PATTERN": 20,
+    "MISLEADING": 26,
+    "DOCUMENTED PATTERN": 19,
     "CONTRADICTION": 12,
     "FALSE": 9,
+    "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
     "DEFLECTION": 3,
-    "MULTIPLE": 2,
     "MISSING ATTRIBUTION": 2,
     "MOSTLY TRUE": 1,
+    "PARTIALLY TRUE": 1,
     "NON-RESPONSIVE": 1,
     "INCONSISTENT": 1
   },
   "by_topic": {
+    "Government Operations": 12,
     "Healthcare": 12,
-    "Government Operations": 11,
     "Economy": 10,
+    "Immigration": 7,
     "Other": 7,
-    "Immigration": 6,
     "Transparency": 6,
     "Campaign Finance": 5,
     "Local Impact": 5,
     "Agriculture": 4,
     "Energy": 4,
     "Infrastructure": 4,
-    "Constituent Service": 2,
+    "Constituent Service": 3,
     "Ethics": 2,
     "Rule of Law": 2,
-    "Legislative Record": 2,
     "Environment": 2,
     "Foreign Policy": 2,
     "Social Services": 2,
@@ -44,6 +44,7 @@
     "Animal Welfare": 1,
     "Voting Record": 1,
     "Oversight": 1,
+    "Legislative Record": 1,
     "Defense": 1,
     "Congressional Ethics": 1,
     "Federal Programs": 1,
@@ -54,10 +55,10 @@
     "Labor": 1
   },
   "by_month": {
-    "2025-12": 21,
+    "2025-12": 20,
     "2026-01": 8,
-    "2026-02": 26,
-    "2026-03": 14,
+    "2026-02": 28,
+    "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 12
@@ -351,6 +352,13 @@
       "url": "/fact-checks/2026-03-21-obbba-ida-vote/"
     },
     {
+      "title": "Pay TSA Act: A Partial Fix \u2014 Pays TSA Workers During Shutdowns, but Doesn't Prevent Them",
+      "date": "2026-03-21",
+      "verdict": "PARTIALLY TRUE",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-03-21-pay-tsa-act/"
+    },
+    {
       "title": "Who's Really Driving Your Electric Bill? A Data Investigation into NY Utility Rates",
       "date": "2026-03-14",
       "verdict": "DOCUMENTED PATTERN",
@@ -484,6 +492,13 @@
       "url": "/fact-checks/2026-02-state-preemption-pattern/"
     },
     {
+      "title": "February 2026 Telephone Town Hall: Claims vs. Record",
+      "date": "2026-02-25",
+      "verdict": "MULTIPLE",
+      "topic": "Constituent Service",
+      "url": "/fact-checks/2026-02-telephone-town-hall/"
+    },
+    {
       "title": "Langworthy Blames Clean Energy for Costs That Natural Gas and Utility Profits Actually Drive",
       "date": "2026-02-20",
       "verdict": "MISLEADING",
@@ -603,6 +618,13 @@
       "url": "/fact-checks/2026-02-04-minneapolis-renee-good/"
     },
     {
+      "title": "Shutdown Statement: Multiple Misleading Claims About Democrats, ICE, and His Own Record",
+      "date": "2026-02-02",
+      "verdict": "MISLEADING",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-02-02-shutdown-defund-ice/"
+    },
+    {
       "title": "HHS Childcare Freeze: Defending Funding Pause by Citing Unrelated Minnesota Fraud",
       "date": "2026-01-31",
       "verdict": "MISLEADING",
@@ -699,13 +721,6 @@
       "verdict": "MISLEADING",
       "topic": "Social Services",
       "url": "/fact-checks/2025-12-social-security-tax/"
-    },
-    {
-      "title": "Year-End Newsletter: Legislative Claims vs. Congressional Record",
-      "date": "2025-12-30",
-      "verdict": "DOCUMENTED PATTERN",
-      "topic": "Legislative Record",
-      "url": "/fact-checks/2025-12-year-end-newsletter/"
     },
     {
       "title": "PBM Reform: Championing the Issue Publicly While Staying Silent When Trump Kills It\u2014Repeatedly",

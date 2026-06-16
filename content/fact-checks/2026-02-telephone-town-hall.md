@@ -1,7 +1,7 @@
 ---
 title: "February 2026 Telephone Town Hall: Claims vs. Record"
 date: 2026-02-25
-draft: true
+draft: false
 topic: "Constituent Access"
 claim_date: "February 2026"
 source: "Telephone Town Hall"
@@ -9,15 +9,15 @@ source_url: "https://www.congress.gov/bill/118th-congress/house-bill/10545/all-a
 archived_url: "https://web.archive.org/web/20260221023009/https://www.congress.gov/bill/118th-congress/house-bill/10545/all-actions"
 verdict: "MULTIPLE"
 tags: ["town-hall", "immigration", "shutdown", "epstein", "energy", "voter-id", "constituent-access", "ice"]
-counties: ["erie", "niagara", "chautauqua", "cattaraugus", "allegany", "steuben", "chemung", "schuyler", "tioga"]
+counties: ["erie", "chautauqua", "cattaraugus", "allegany", "steuben", "chemung", "schuyler", "tioga"]
 ---
 
-<!-- DRAFTED 2026-06-15 (site fact-check audit). The load-bearing Dec 2024 vote claim was FALSE and has been CORRECTED in the body (2026-06-15): per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred in December 2024. The FALSE verdict on Claim 1 has been WITHDRAWN. Entry remains draft:true pending an editorial decision on whether to republish. -->
+<!-- CORRECTED & REPUBLISHED 2026-06-15 (site fact-check audit). The Dec 2024 H.R. 10545 "voted NO" claim AND the claimed Dec 2024 shutdown were FALSE: Langworthy voted YEA on H.R. 10515 (Roll 516, failed 174-235) and YEA on H.R. 10545 (Roll 517, passed 366-34); no shutdown occurred. Claim 1's FALSE verdict was WITHDRAWN (see public correction note below). Also fixed pre-republish: the unsupported "271 already voted YES" tally (H.R. 4405 actually passed 427-1) and the Niagara county tag (Niagara is not an NY-23 county). -->
 > **Correction (June 15, 2026):** An earlier version of this entry stated that Rep. Langworthy voted **NO** on H.R. 10545 on December 19, 2024, that the bill failed 174–235, and that the government shut down from December 21, 2024 to January 3, 2025. All three points were incorrect. Per House Clerk roll-call records, Langworthy voted **YEA** on H.R. 10545 (the American Relief Act, 2025), which passed **366–34** on **December 20, 2024** (Roll Call 517) and became law; the 174–235 failed vote was the prior day's H.R. 10515 (Roll Call 516, December 19, 2024), on which Langworthy also voted **YEA**. **No government shutdown occurred in December 2024.** Because the **FALSE** verdict on Claim 1 rested on a vote that did not happen, it has been withdrawn.
 
 ## Statement
 
-In February 2026, Rep. Langworthy held a monthly telephone town hall broadcast to residents across NY-23's nine counties. The call covered government shutdowns, ICE enforcement, the Epstein files, the Energy Choice Act, the SAVE Act, and constituent access.
+In February 2026, Rep. Langworthy held a monthly telephone town hall broadcast to residents across NY-23's eight counties. The call covered government shutdowns, ICE enforcement, the Epstein files, the Energy Choice Act, the SAVE Act, and constituent access.
 
 This entry documents seven fact-checkable claims made during the call and cross-references them against the public record. A full transcript is available from an audio recording of the call.
 
@@ -225,7 +225,7 @@ He added: "When the resolution was a standalone measure on the floor, I voted fo
 This explanation does not address:
 - He did **not sign** the bipartisan discharge petition (H.Res. 867) to force a floor vote on H.R. 4405
 - He did **not attend** the February 18, 2026 Wexner deposition before the Oversight Committee, instead conducting a district-wide funding announcement tour
-- His standalone floor vote (H.R. 4405 on Nov 18, 2025) came only after 271 House members had already voted YES
+- His standalone floor vote on H.R. 4405 (Nov 18, 2025) came on a measure that passed 427–1 — a near-unanimous vote, not a contested stand
 
 **See also:** [Epstein Files / Discharge Petition](/fact-checks/2026-01-14-epstein-files-discharge-petition/)
 

@@ -1,18 +1,18 @@
 ---
-title: "Pay TSA Act: 'I Don't Support Shutdowns.' Three in Six Months Tell a More Complex Story."
+title: "Pay TSA Act: A Partial Fix — Pays TSA Workers During Shutdowns, but Doesn't Prevent Them"
 date: 2026-03-21
-draft: true
+draft: false
 topic: "Government Funding / Labor"
 claim_date: "March 21–28, 2026"
 source: "Facebook Posts"
 source_url: "https://www.audacy.com/wben/news/local/nearing-recess-langworthy-says-senate-holding-up-tsa-deal"
 archived_url: ""
-verdict: "CORRECTION"
+verdict: "PARTIALLY TRUE"
 tags: ["tsa", "shutdown", "dhs", "labor", "pay-tsa-act", "aviation", "government-funding", "fact-check"]
 counties: ["district-wide"]
 ---
 
-<!-- DRAFTED 2026-06-15 (site fact-check audit). The load-bearing Dec 2024 vote claim was FALSE and has been CORRECTED in the body (2026-06-15): per the Clerk's roll calls, Langworthy voted YEA on H.R. 10515 (Roll 516, Dec 19 2024, failed 174-235) AND YEA on H.R. 10545 (Roll 517, Dec 20 2024, American Relief Act, passed 366-34). He did NOT vote NO on either, and no government shutdown occurred. The CONTRADICTION verdict on Claim 1 rested on that error and has been WITHDRAWN. Entry remains draft:true pending an editorial decision on whether to republish (the title/framing still lean on the retracted Claim 1). -->
+<!-- CORRECTED & REPUBLISHED 2026-06-15 (site fact-check audit). The Dec 2024 H.R. 10545 "voted NO" claim was FALSE: Langworthy voted YEA on both H.R. 10515 (Roll 516, failed 174-235) and H.R. 10545 (Roll 517, passed 366-34); no shutdown occurred. Claim 1's CONTRADICTION verdict was WITHDRAWN (see public correction note below). Title and "Why This Matters" reframed around Claim 2 (the bill is a partial fix); headline verdict set to PARTIALLY TRUE. -->
 > **Correction (June 15, 2026):** An earlier version of this entry stated that Rep. Langworthy voted **NO** on H.R. 10545 on December 19, 2024. That was incorrect. Per House Clerk roll-call records, Langworthy voted **YEA** on H.R. 10545 (the American Relief Act, 2025), which passed **366–34** on **December 20, 2024** (Roll Call 517) and became law — no government shutdown occurred. He also voted **YEA** on the earlier H.R. 10515 (Roll Call 516, December 19, 2024), which failed 174–235. Because the **CONTRADICTION** verdict on Claim 1 rested on that error, it has been withdrawn.
 
 ## Why This Matters for NY-23
