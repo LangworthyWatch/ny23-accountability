@@ -143,7 +143,7 @@ The $212 million Langworthy announced is real, and Schuyler Hospital has not clo
 
 **Federal backbone (secondary / program):**
 * CBO: OBBBA SNAP reductions (~$186B, enacted law); FRAC: the administrative cost-shift to states/counties (2027)
-* USDA: $12B Farmer Bridge Assistance Program (row-crop tilt; ~$11B of $12B)
+* USDA: [Trump Administration Announces $12 Billion Farmer Bridge Payments](https://www.usda.gov/about-usda/news/press-releases/2025/12/08/trump-administration-announces-12-billion-farmer-bridge-payments-american-farmers-impacted-unfair) (Dec. 8, 2025) — up to **$11B to row crops**, **$1B** to specialty crops and sugar (≈92% / 8%)
 * USDA Rural Business-Cooperative Service: REAP award halt (Mar. 31, 2026)
 * VA OIG: FY2025 staffing-shortage report; Bath VA probationary-staff dismissals (Bath's catchment includes Schuyler County)
 * HANYS / GNYHA: ~$8–10B/yr (about $40–50B over eight years) statewide hospital impact at full OBBBA implementation — [HANYS H.R. 1 NYS hospital-exposure analysis](https://www.hanys.org/communications/publications/2026/nys-hospital-exposure-HR1-area-chart.pdf)
