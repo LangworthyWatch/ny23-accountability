@@ -1,12 +1,12 @@
 ---
 title: "Schuyler County's Hospital Is on a Federal At-Risk List. Langworthy Voted for the Bill Behind It — Twice — and Has Said Nothing."
 date: 2026-06-14
-draft: true
+draft: false
 topic: "Local Impact / Rural"
 claim_date: "April 21, 2026"
 source: "Public Citizen, Fiscal Policy Institute, CMS/NY DOH, House roll-call records, local news"
 source_url: "https://www.fingerlakes1.com/2026/04/21/schuyler-newark-hospitals-flagged-as-at-risk-amid-looming-medicaid-cuts/"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260616142707/https://www.fingerlakes1.com/2026/04/21/schuyler-newark-hospitals-flagged-as-at-risk-amid-looming-medicaid-cuts/"
 verdict: "MISSING CONTEXT"
 tags: ["schuyler-county", "rural-impact", "rural-hospitals", "medicaid", "obbba", "snap", "va", "rhtp", "fact-check"]
 counties: ["schuyler"]
@@ -65,7 +65,7 @@ In Schuyler County, federal programs are not abstractions. They are the emergenc
 
 ## What the $212 million announcement does — and doesn't — cover
 
-In December 2025, Langworthy credit-claimed New York's **$212 million** first-year award under the **Rural Health Transformation Program** — a fund created by the *same* One Big Beautiful Bill Act. No NY-23 facility, Schuyler Hospital included, has been named as a recipient at the state sub-allocation stage. By the state's own accounting, the one-time award is small against the roughly **$13.5 billion per year** in lost funding and increased costs New York hospitals face once OBBBA is fully implemented (HANYS / state officials).
+In December 2025, Langworthy credit-claimed New York's **$212 million** first-year award under the **Rural Health Transformation Program** — a fund created by the *same* One Big Beautiful Bill Act. No NY-23 facility, Schuyler Hospital included, has been named as a recipient at the state sub-allocation stage. By HANYS's accounting, the one-time award is small against the roughly **$8–10 billion a year** (about **$40–50 billion over eight years**) in lost funding and increased costs New York hospitals face once OBBBA is fully implemented (HANYS / GNYHA).
 
 The full offset analysis — and why a temporary fund does not match a permanent cut — is documented in the companion entry. This profile does not restate those figures; it notes only that the program Langworthy announced and the at-risk list he has not mentioned come from the **same bill and the same two votes.**
 
@@ -146,19 +146,11 @@ The $212 million Langworthy announced is real, and Schuyler Hospital has not clo
 * USDA: $12B Farmer Bridge Assistance Program (row-crop tilt; ~$11B of $12B)
 * USDA Rural Business-Cooperative Service: REAP award halt (Mar. 31, 2026)
 * VA OIG: FY2025 staffing-shortage report; Bath VA probationary-staff dismissals (Bath's catchment includes Schuyler County)
-* HANYS / NY state officials: ~$13.5B/yr statewide hospital impact at full OBBBA implementation
+* HANYS / GNYHA: ~$8–10B/yr (about $40–50B over eight years) statewide hospital impact at full OBBBA implementation — [HANYS H.R. 1 NYS hospital-exposure analysis](https://www.hanys.org/communications/publications/2026/nys-hospital-exposure-HR1-area-chart.pdf)
 
 ---
 
 **Note:** This entry documents publicly available information from a published hospital-risk report, federal program records, and House roll-call votes. The at-risk designation is a financial-exposure projection, not a filed closure; Schuyler Hospital has not announced a closure or service reduction. No allegation of unlawful conduct is made.
 
-<!-- DRAFT 2026-06-14. Pre-publish checklist:
-1. /fact-check-review COMPLETED 2026-06-14 (manual pass — slash command unavailable in harness). CONFIRMED: Schuyler Hospital on Public Citizen list (Fingerlakes1 Apr 21); method 446/45-NY/29-outside-NYC; RC145 Yea + RC190 Aye (verbatim clerk XML); committees Oversight+E&C+Rules (clerk L000600 + Ballotpedia); Schuyler Hospital = 25-bed CAH, sole hospital in the county (Cayuga Health); $212M = $212,058,207 (parent). FIXED 2 findings: (a) SNAP section had imported the MEDICAID "community engagement, 19-64, Dec 31 2026" requirement → corrected to SNAP work-req age-to-64; (b) "Bath VA serves five NY-23 counties" softened (catchment incl. Yates, non-NY-23).
-2. Reconciliation: uses $212M + HANYS ~$13.5B/yr statewide (consistent with backbone card + dossier); defers the KFF 37%/$137B rural-Medicaid offset math to the parent RHTP entry to avoid a conflicting figure (per backlog instruction).
-3. CONFIRMED 2026-06-14: Schuyler Hospital is the county's sole hospital (25-bed critical-access, Cayuga Health) — "only hospital" phrasing OK.
-4. Archive source URLs (Fingerlakes1, citizen.org, clerk XML ×2) via Wayback; populate archived_url.
-5. Confirm Langworthy's Oct 2025 "not at risk" remark applied to Westfield/UPMC (Chautauqua), not Schuyler — phrasing here keeps it general ("nearby hospitals").
-6. Update content/fact-checks/_index.md summary table; flip draft:false; deploy.
--->
 
 *Last updated: June 14, 2026*

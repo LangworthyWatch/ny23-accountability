@@ -24,10 +24,10 @@ both gained "work requirements," both have age bands — so details cross-contam
 | Six-month eligibility redeterminations (expansion pop.), begin **Jan 2027** | **Medicaid** | SNAP |
 | Work requirement age cap raised to **64** (from 54), narrowed exemptions | **SNAP** (ABAWD) | Medicaid |
 | Admin cost-shift **50% → 25% federal** (state/county pays more), begins **2027** | **SNAP** | Medicaid |
-| ~**$187B** national reduction (FRAC) | **SNAP** | Medicaid |
+| ~**$186B** national reduction (CBO, *enacted* law — the House-passed bill was scored at $295B; don't cite the superseded figure) | **SNAP** | Medicaid |
 | ~**$911B** federal Medicaid cut over 2025–34 (CBO via KFF); ~**$137B** *rural* Medicaid (KFF) | **Medicaid** | SNAP |
 
-Rule of thumb: "community engagement" = Medicaid; "ABAWD"/cost-shift/$187B = SNAP.
+Rule of thumb: "community engagement" = Medicaid; "ABAWD"/cost-shift/$186B = SNAP.
 
 ## 2. The two OBBBA roll calls (both H.R. 1, both Langworthy AYE)
 
@@ -58,7 +58,7 @@ fact. Don't merge the counts ("45" is NY-statewide, "8" is NY-23-only — not th
 
 - **$212M** = `$212,058,207`, New York's **Year-1 RHTP award** (CMS, Dec 2025), 12th-largest state. A one-time *inflow*.
 - The Medicaid **cuts** are a separate, larger *outflow* from the same bill (KFF: RHTP offsets ~**37%** of ~$137B rural Medicaid cuts; 64% of cuts land after FY2030 when RHTP ends).
-- Never describe the $212M as offsetting/covering the cuts without the KFF offset framing. Defer the cut math to `2026-06-02-rural-health-transformation-212m.md`; don't introduce a *new* conflicting Medicaid dollar figure in other entries (the HANYS ~$13.5B/yr is *statewide all-hospital annual*, a different denominator — label it as such).
+- Never describe the $212M as offsetting/covering the cuts without the KFF offset framing. Defer the cut math to `2026-06-02-rural-health-transformation-212m.md`; don't introduce a *new* conflicting Medicaid dollar figure in other entries (the HANYS NY-hospital loss is ~**$8–10B/yr**, about **$40–50B over eight years** — *statewide all-hospital annual*, a different denominator; label it as such). **Do NOT write "$13.5B" for hospital losses** — $13.5B is the NY **tariff-cost** figure (Hochul / Yale Budget Lab, in the `agriculture-week-family-farms` entry), an unrelated number that happens to share the digits. This exact collision already propagated to a card, a post, and a draft before it was caught.
 
 ## 5. OCR / "Justice Denied" numbers — national vs. New York
 

@@ -93,7 +93,7 @@ d.text(XY(W // 2, 120), "District-wide federal actions: how Langworthy voted", f
 # (item, magnitude, tag, tag_color)
 rows = [
     ("One Big Beautiful Bill", "$911B Medicaid cut · ~$186B SNAP · +7.5M uninsured", "VOTED AYE ×2", RED),
-    ("Rural Health Transformation", "$212M one-time vs. NY's ~$13.5B/yr hospital losses", "CREDIT-CLAIMED", ORANGE),
+    ("Rural Health Transformation", "$212M one-time vs. NY hospitals' ~$8-10B/yr (HANYS)", "CREDIT-CLAIMED", ORANGE),
     ("USDA farm bailout", "$12B, ~92% to row crops (NY-23 dairy/grape mostly excluded)", "SILENT", MUTED),
     ("Local Food for Schools", "~$1B cut: Broome-Tioga BOCES lost $289,630", "SILENT", MUTED),
     ("Rural Energy (REAP)", "grants re-frozen March 31, 2026", "SILENT", MUTED),
