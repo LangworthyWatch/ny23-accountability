@@ -60,7 +60,7 @@ The post doesn't mention specific legislation, votes, or actions on behalf of th
 
 **What the record shows:**
 
-- **LCV lifetime score: 6%.** The League of Conservation Voters, which scores congressional votes on conservation and environmental protection, gives Langworthy a 6% lifetime environmental voting score. This is one of the lowest scores in the House.
+- **LCV lifetime score: 2%.** The League of Conservation Voters, which scores congressional votes on conservation and environmental protection, gives Langworthy a 2% lifetime environmental voting score. This is one of the lowest scores in the House.
 
 - **Lakes Before Turbines Act (2023).** Langworthy introduced legislation to prohibit tax credits for offshore wind installations on the Great Lakes. He has stated: "Wind turbines do not belong on the shorelines of our great lakes. They are expensive, unreliable and would harm the lake's precious ecosystem." The bill's practical effect is to protect fossil fuel interests under an environmental rationale, not to fund environmental restoration.
 
@@ -80,7 +80,7 @@ The claim is accurate: Langworthy received this award from this organization. Bu
 
 2. **The CMC's policy agenda conflicts with Great Lakes ecological health**, particularly on ballast water regulations — the primary driver of invasive species in the Great Lakes.
 
-3. **Langworthy's overall environmental record is among the lowest in Congress** (6% LCV lifetime). His Lakes Before Turbines Act uses environmental language to protect fossil fuel interests. He has no documented positions on the key ecological threats to the Great Lakes (ballast water, GLRI funding).
+3. **Langworthy's overall environmental record is among the lowest in Congress** (2% LCV lifetime). His Lakes Before Turbines Act uses environmental language to protect fossil fuel interests. He has no documented positions on the key ecological threats to the Great Lakes (ballast water, GLRI funding).
 
 Framing a shipping industry award as "continuing my work" to ensure the Great Lakes "thrive...for future generations" implies an environmental stewardship record the documentation does not support.
 

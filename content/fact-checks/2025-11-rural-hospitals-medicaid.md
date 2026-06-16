@@ -14,7 +14,7 @@ counties: ["chautauqua"]
 
 ## Why This Matters for NY-23
 
-Westfield Memorial Hospital in Chautauqua County operates at a **-59.1% margin** — losing money on every patient. UPMC Jamestown and other regional hospitals face similar pressures. When the congressman who voted for $155 billion in permanent Medicaid cuts celebrates a $50 billion temporary fix as "historic investment," the math doesn't work for hospitals already on the edge. NY-23 could lose the emergency rooms and maternity wards that rural families depend on.
+Westfield Memorial Hospital in Chautauqua County operates at a **-59.1% margin** — losing money on every patient. UPMC Jamestown and other regional hospitals face similar pressures. When the congressman who voted for $137 billion in permanent Medicaid cuts celebrates a $50 billion temporary fix as "historic investment," the math doesn't work for hospitals already on the edge. NY-23 could lose the emergency rooms and maternity wards that rural families depend on.
 
 ---
 
@@ -36,13 +36,13 @@ He dismissed warnings that local hospitals might close as "all pure fiction," sp
 **2025 - "One Big Beautiful Bill" (Budget Legislation)**
 - **Langworthy vote:** YES
 - **Action:** Voted for sweeping budget bill that cut Medicaid funding to rural areas
-- **Impact:** Bill reduced federal health funding to rural areas by an estimated $155 billion over 10 years (Kaiser Family Foundation analysis)
+- **Impact:** Bill reduced federal health funding to rural areas by an estimated $137 billion over 10 years (Kaiser Family Foundation analysis)
 - **Result:** Created the crisis that required emergency Rural Health Transformation Program funding
 - **Source:** Observer Today, Western NY AFL-CIO analysis
 
 **Rural Health Transformation Program (RHTP)**
 - **Amount:** $50 billion in temporary relief
-- **Problem:** Replaces only one-third of the $155 billion in permanent cuts from the budget bill Langworthy supported
+- **Problem:** Replaces only one-third of the $137 billion in permanent cuts from the budget bill Langworthy supported
 - **Source:** Kaiser Family Foundation, Observer Today
 
 ---
@@ -51,7 +51,7 @@ He dismissed warnings that local hospitals might close as "all pure fiction," sp
 
 ### The Sequence
 
-1. Langworthy votes for budget bill with $155B in rural Medicaid cuts over 10 years
+1. Langworthy votes for budget bill with $137B in rural Medicaid cuts over 10 years
 2. Rural hospitals face financial crisis from reduced federal funding
 3. Congress passes $50B temporary Rural Health Transformation Program
 4. Langworthy touts RHTP as "historic investment" without mentioning his vote caused the need for it
@@ -74,9 +74,9 @@ Governor Kathy Hochul's office analyzed that the GOP bill would lead to **$8 bil
 
 ## The Math
 
-- **Permanent cuts** Langworthy voted for: -$155 billion over 10 years
+- **Permanent cuts** Langworthy voted for: -$137 billion over 10 years
 - **Temporary relief** he celebrated: +$50 billion
-- **Net impact**: -$105 billion to rural healthcare
+- **Net impact**: -$87 billion to rural healthcare
 
 ---
 
@@ -84,12 +84,12 @@ Governor Kathy Hochul's office analyzed that the GOP bill would lead to **$8 bil
 
 Here's what happened:
 
-1. Langworthy voted for a bill that cuts **$155 billion** from rural Medicaid over 10 years
+1. Langworthy voted for a bill that cuts **$137 billion** from rural Medicaid over 10 years
 2. Rural hospitals started struggling because they depend on Medicaid for 25-30% of revenue
 3. Congress passed a **$50 billion** temporary fix called the Rural Health Transformation Program
 4. Langworthy called this "historic investment" — without mentioning his vote caused the need for it
 
-The math: **-$155 billion + $50 billion = -$105 billion** net loss for rural healthcare.
+The math: **-$137 billion + $50 billion = -$87 billion** net loss for rural healthcare.
 
 When he calls concerns about Westfield Memorial and UPMC Jamestown "pure fiction," he's dismissing warnings about hospitals that were already struggling — and that his votes made worse.
 

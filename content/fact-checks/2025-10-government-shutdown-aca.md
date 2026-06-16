@@ -14,7 +14,7 @@ counties: ["district-wide"]
 
 ## Why This Matters for NY-23
 
-During the 44-day shutdown, **151,000 NY-23 households** on SNAP faced benefit disruptions. Military families went unpaid. Eight of twelve local hospitals were already financially stressed — and letting ACA subsidies lapse would increase uncompensated care costs. When a congressman says "responsible leadership" means "keeping the lights on" but then participates in the longest shutdown in U.S. history over policy priorities, the gap between rhetoric and action directly harms constituents.
+During the 44-day shutdown, **151,000 households across three NY-23 counties** on SNAP faced benefit disruptions. Military families went unpaid. Eight of twelve local hospitals were already financially stressed — and letting ACA subsidies lapse would increase uncompensated care costs. When a congressman says "responsible leadership" means "keeping the lights on" but then participates in the longest shutdown in U.S. history over policy priorities, the gap between rhetoric and action directly harms constituents.
 
 ---
 
@@ -40,7 +40,7 @@ Rep. Langworthy emphasized his commitment to "securing funding for the federal g
 - **Langworthy's role:** Voted against funding bill that included ACA subsidy extensions, contributing to the impasse
 - **Impact on constituents:**
   - Military service members went unpaid for weeks
-  - 151,000 NY-23 households on SNAP faced benefit disruptions
+  - 151,000 households across three NY-23 counties on SNAP faced benefit disruptions
   - New York State spent $65 million emergency funding for food banks
   - 24 million Americans faced health premium spikes averaging 113%
 
@@ -68,7 +68,7 @@ Rep. Langworthy emphasized his commitment to "securing funding for the federal g
 ### Local Impact in NY-23
 
 **SNAP (Food Assistance)**
-- 151,000 households in district rely on SNAP
+- 151,000 households across three NY-23 counties rely on SNAP
 - Program nearly ran out of funding during shutdown
 - New York declared emergency, spent $65 million on food banks
 
@@ -136,7 +136,7 @@ He blamed Senate Majority Leader Chuck Schumer and Democrats for "turning govern
 
 "Shutting down the government is not the solution," Langworthy said. "We must ensure military families don't miss a paycheck."
 
-Then the government shut down for 44 days. Military families missed paychecks. 151,000 NY-23 households on SNAP faced benefit disruptions. The shutdown was the longest in U.S. history.
+Then the government shut down for 44 days. Military families missed paychecks. 151,000 households across three NY-23 counties on SNAP faced benefit disruptions. The shutdown was the longest in U.S. history.
 
 What happened?
 1. House Republicans passed a spending bill **without** ACA subsidy extensions
