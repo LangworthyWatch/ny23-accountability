@@ -166,7 +166,7 @@ Each fact-check includes:
 | [Steuben ICE Cooperation](/fact-checks/2026-02-08-steuben-ice-cooperation/) | Steuben County 287(g) agreement framed as model | **MISSING CONTEXT** — 11 ICE transfers in 5 years; taxpayer cost not disclosed |
 | [Steuben Rural Impact](/fact-checks/2026-02-08-steuben-rural-impact-summary/) | Federal policy impact on Steuben County | **MISSING CONTEXT** — $2,847/household tax cut; Medicaid, SNAP, and SSA losses substantially larger |
 | [Rural Medicaid Impact](/fact-checks/2026-02-09-medicaid-rural-impact-summary/) | Medicaid changes won't hurt rural communities | **MISSING CONTEXT** — 17,000+ NY-23 enrollees affected; 3 rural hospitals at risk |
-| [Rural SNAP Impact](/fact-checks/2026-02-09-snap-rural-impact-summary/) | "Not a single dollar cut" from SNAP | **MISSING CONTEXT** — 22,000+ NY-23 recipients; $295B national reduction; rural counties disproportionately affected |
+| [Rural SNAP Impact](/fact-checks/2026-02-09-snap-rural-impact-summary/) | "Not a single dollar cut" from SNAP | **MISSING CONTEXT** — 22,000+ NY-23 recipients; $186B national reduction; rural counties disproportionately affected |
 | [Rural VA Impact](/fact-checks/2026-02-09-va-rural-impact-summary/) | Advocates for veterans while voting for VA budget cuts | **MISSING CONTEXT** — $15B VA shortfall; 28 rural NY facilities at risk |
 | [Dunkirk Energy Costs](/fact-checks/2026-02-20-energy-costs-dunkirk/) | Clean energy driving electricity costs in Dunkirk area | **MISSING CONTEXT** — National Grid profits +43%; gas costs +29%; clean energy = 4.7% of increases |
 | [SCOTUS Tariff Ruling](/fact-checks/2026-02-20-scotus-tariff-ruling/) | Tariffs "proven effective" after SCOTUS strikes them 6–3 | **MISSING CONTEXT** — NY-23 farm exports down; ruling declared unconstitutional; economic harm documented |
@@ -194,7 +194,7 @@ Each fact-check includes:
 | [Infrastructure Credit](/fact-checks/2025-12-infrastructure-credit/) | Announced infrastructure grants as personal deliveries | **MISSING ATTRIBUTION** — Formula grants available to all districts; Biden-era IIJA funding |
 | [Medicaid / Immigration](/fact-checks/2025-12-medicaid-immigration/) | "Removing illegal aliens from Medicaid" | **FALSE** — Non-citizens have been ineligible for Medicaid since 1996 |
 | [2025 Patterns Overview](/fact-checks/2025-12-rhetoric-vs-actions-overview/) | Year-end overview of documented rhetorical patterns | **DOCUMENTED PATTERN** — 5 recurring patterns across 40+ fact-checks |
-| [SNAP Cuts](/fact-checks/2025-12-snap-cuts/) | "Not a single dollar cut" from SNAP benefits | **FALSE** — CBO: $295B reduction; 30% cut; largest in 30 years |
+| [SNAP Cuts](/fact-checks/2025-12-snap-cuts/) | "Not a single dollar cut" from SNAP benefits | **FALSE** — CBO: $186B reduction; ~20% cut; largest in 30 years |
 | [Social Security Tax](/fact-checks/2025-12-social-security-tax/) | "$31,500 tax free" Social Security claim | **MISSING CONTEXT** — 64% already paid no tax; top deductions benefit highest earners |
 | [Scaffold Law](/fact-checks/2025-12-worker-safety-scaffold-law/) | Scaffold Law reform framed as pro-worker | **MISSING CONTEXT** — Chamber-backed; reduces worker protections; preempts state law |
 
@@ -244,7 +244,7 @@ Based on analysis of 80+ fact-checks, these patterns emerge:
 - Claims USDA grants while supporting 31.7% agency staff cuts
 
 ### Pattern 3: Semantic Deception ("Technically True" = Functionally False)
-- "No SNAP cuts" when $295B less will be spent and millions lose access
+- "No SNAP cuts" when $186B less will be spent and millions lose access
 - "88% won't pay Social Security tax" when 64% already didn't pay
 - "Remove illegal aliens from Medicaid" when they've been ineligible since 1996
 - "Three bills passed committee" when only two actually did

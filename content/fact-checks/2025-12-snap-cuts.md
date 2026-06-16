@@ -1,5 +1,5 @@
 ---
-title: "SNAP Benefits: Claiming 'Not a Single Dollar Cut' While CBO Documents $295 Billion in Reductions"
+title: "SNAP Benefits: Claiming 'Not a Single Dollar Cut' While CBO Documents $186 Billion in Reductions"
 date: 2025-12-30
 draft: false
 topic: "Food Assistance / Healthcare"
@@ -31,11 +31,11 @@ Langworthy has repeatedly defended the One Big Beautiful Bill Act (H.R. 1) again
 
 ---
 
-### The $295 Billion Reduction
+### The $186 Billion Reduction
 
 **Congressional Budget Office Analysis (May 2025):**
 
-The CBO estimates H.R. 1 would reduce SNAP spending by approximately **$295 billion over 2026-2034** — roughly a **30% reduction** and the **largest cut to SNAP in nearly 30 years**.
+The CBO estimates H.R. 1 would reduce SNAP spending by approximately **$186 billion over 2026-2034** — roughly a **20% reduction** and the **largest cut to SNAP in nearly 30 years**. *(This is CBO's score of the enacted, Senate-amended law; an earlier House-passed version had been scored at a higher $295 billion before the Senate revised the SNAP provisions.)*
 
 Langworthy voted **Yes** (218-214, July 3, 2025).
 
@@ -63,7 +63,7 @@ Langworthy's claim that "not a single dollar is cut from benefits" appears to re
 - Millions lose eligibility entirely → **direct cut**
 - Administrative barriers prevent eligible people from receiving benefits → **access cut**
 
-**Net result:** $295 billion less in SNAP spending over 10 years. The CBO does not call this "fear-mongering." It calls it a budget score.
+**Net result:** $186 billion less in SNAP spending over 10 years. The CBO does not call this "fear-mongering." It calls it a budget score.
 
 ---
 
@@ -149,13 +149,13 @@ Governor Hochul's office projects the OBBBA will cause:
 
 ## Assessment
 
-Langworthy's claim that "not a single dollar is cut from benefits" is contradicted by the CBO's $295 billion budget score.
+Langworthy's claim that "not a single dollar is cut from benefits" is contradicted by the CBO's $186 billion budget score.
 
 The bill reduces spending through three mechanisms — freezing benefit calculations, expanding work requirements, and tightening eligibility — each of which results in fewer people receiving less help. Whether the maximum benefit level technically stays the same is irrelevant to the families who lose access entirely.
 
 The county's own government has warned of devastating local impacts from legislation Langworthy voted for. The county manager says the county will lose money. The legislature chair wrote directly to Langworthy calling SNAP and HEAP "lifelines." No response has been documented.
 
-**Verdict: FALSE** — The CBO documents $295 billion in SNAP spending reductions. Calling documented budget analysis "lies" and "fear-mongering" does not change the numbers.
+**Verdict: FALSE** — The CBO documents $186 billion in SNAP spending reductions. Calling documented budget analysis "lies" and "fear-mongering" does not change the numbers.
 
 *For a shorter summary of what SNAP changes mean for NY-23 families, see: [What SNAP Changes Mean for NY-23 Families](/fact-checks/2026-02-09-snap-rural-impact-summary/)*
 

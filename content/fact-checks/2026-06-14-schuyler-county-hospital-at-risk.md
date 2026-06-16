@@ -45,7 +45,7 @@ In Schuyler County, federal programs are not abstractions. They are the emergenc
 
 *OBBBA does not only touch the hospital; it shifts costs onto a county budget with little room to absorb them.*
 
-- OBBBA (H.R. 1) enacts roughly **$187 billion in SNAP reductions** nationally (FRAC) and shifts a larger share of SNAP **administrative costs onto states and counties** beginning in 2027 — the federal share of administration drops from 50% toward 25%.
+- OBBBA (H.R. 1) enacts roughly **$186 billion in SNAP reductions** nationally (CBO, enacted law) and shifts a larger share of SNAP **administrative costs onto states and counties** beginning in 2027 — the federal share of administration drops from 50% toward 25%.
 - OBBBA also **expands SNAP work requirements** — raising the upper age limit to **64** and narrowing exemptions — in a county where seasonal tourism and agriculture make consistent year-round hours hard to document.
 - For a county of Schuyler's size, an administrative cost-shift is not a line item — it is a choice between raising local taxes and reducing the capacity to process the benefits residents are entitled to.
 
@@ -142,7 +142,7 @@ The $212 million Langworthy announced is real, and Schuyler Hospital has not clo
 * CMS / NY DOH: New York's $212,058,207 first-year RHTP award (Dec. 29–30, 2025) — see companion entry
 
 **Federal backbone (secondary / program):**
-* FRAC: OBBBA SNAP reductions (~$187B) and the administrative cost-shift to states/counties (2027)
+* CBO: OBBBA SNAP reductions (~$186B, enacted law); FRAC: the administrative cost-shift to states/counties (2027)
 * USDA: $12B Farmer Bridge Assistance Program (row-crop tilt; ~$11B of $12B)
 * USDA Rural Business-Cooperative Service: REAP award halt (Mar. 31, 2026)
 * VA OIG: FY2025 staffing-shortage report; Bath VA probationary-staff dismissals (Bath's catchment includes Schuyler County)

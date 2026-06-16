@@ -14,7 +14,7 @@ counties: ["steuben", "allegany", "cattaraugus", "chautauqua", "chemung"]
 
 ## Why This Matters for NY-23
 
-One in eight Steuben County residents receives SNAP. The CBO projects $295 billion in SNAP cuts over 10 years — the largest reduction in nearly 30 years. Work requirements are expanding to ages 18-64 in a county with 16% poverty, seasonal agricultural employment, and no public transit. Steuben County's own manager confirmed the bill "will result in Steuben County getting less money." When the representative who voted for this says "not a single dollar" was cut, someone isn't telling the full story.
+One in eight Steuben County residents receives SNAP. The CBO projects $186 billion in SNAP cuts over 10 years — the largest reduction in nearly 30 years. Work requirements are expanding to ages 18-64 in a county with 16% poverty, seasonal agricultural employment, and no public transit. Steuben County's own manager confirmed the bill "will result in Steuben County getting less money." When the representative who voted for this says "not a single dollar" was cut, someone isn't telling the full story.
 
 ---
 
@@ -30,7 +30,7 @@ One in eight Steuben County residents receives SNAP. The representative who vote
 
 ### 1. Benefits fall behind food prices
 
-The One Big Beautiful Bill Act restricts USDA's ability to update SNAP benefit calculations to keep pace with rising food costs. The CBO projects this will reduce SNAP spending by **$295 billion over 10 years** — a 30% reduction and the largest cut in nearly 30 years.
+The One Big Beautiful Bill Act restricts USDA's ability to update SNAP benefit calculations to keep pace with rising food costs. The CBO projects this will reduce SNAP spending by **$186 billion over 10 years** — about a 20% reduction and the largest cut in nearly 30 years. *(This is CBO's score of the enacted, Senate-amended law; an earlier House-passed version had been scored at a higher $295 billion before the Senate revised the SNAP provisions.)*
 
 *What this means locally:* When grocery prices at the Tops in Bath or the Aldi in Hornell go up, benefits won't follow. The same card buys less food each year.
 
@@ -79,15 +79,15 @@ No public response from Langworthy to the county's concerns has been documented.
 
 Langworthy's defense relies on a technical distinction: the maximum SNAP benefit level doesn't formally decrease.
 
-But the CBO — the nonpartisan agency whose job is to score what bills actually cost — documents $295 billion in reduced spending. That money disappears through three mechanisms:
+But the CBO — the nonpartisan agency whose job is to score what bills actually cost — documents $186 billion in reduced spending. That money disappears through three mechanisms:
 
 - **Benefit freeze:** Benefits don't keep pace with food prices
 - **Eligibility cuts:** Millions lose access through expanded work requirements and tighter rules
 - **Administrative barriers:** Counties have less capacity to process applications
 
-If the government spends $295 billion less on food assistance over 10 years, and millions of people lose access, that is a cut — regardless of whether the maximum benefit level technically stays the same.
+If the government spends $186 billion less on food assistance over 10 years, and millions of people lose access, that is a cut — regardless of whether the maximum benefit level technically stays the same.
 
-**Verdict: FALSE** — The CBO documents $295 billion in SNAP spending reductions. The county's own government confirms the local impact.
+**Verdict: FALSE** — The CBO documents $186 billion in SNAP spending reductions. The county's own government confirms the local impact.
 
 ---
 

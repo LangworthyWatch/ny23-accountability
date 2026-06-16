@@ -30,7 +30,7 @@ Langworthy publicly urged action on PBM reform, then stayed silent when the prov
 ## Food & Farm
 
 **SNAP**
-$295 billion reduction in food assistance over 10 years. Langworthy claims "no SNAP cuts."
+$186 billion reduction in food assistance over 10 years. Langworthy claims "no SNAP cuts."
 → [SNAP cuts](/fact-checks/2025-12-snap-cuts/) | [SNAP rural summary](/fact-checks/2026-02-09-snap-rural-impact-summary/)
 
 **Farm Bill**

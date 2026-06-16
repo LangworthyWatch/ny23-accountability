@@ -127,7 +127,7 @@ This fits a pattern documented across multiple Langworthy claims: **Semantic Dec
 
 "Election integrity" sounds like protecting voting. The bill's actual mechanism primarily affects eligible citizens, not noncitizens. The framing uses a universally popular idea (secure elections) to build support for a specific implementation that creates costs and barriers for the voters least able to absorb them — disproportionately elderly and rural residents in districts like NY-23.
 
-See also: ["No SNAP cuts"](/fact-checks/2025-12-snap-cuts/) when $295B less will be spent. ["Not a single person" loses Medicaid](/fact-checks/2025-05-medicaid-coverage-cuts/) when 1.3M+ are projected to. ["$31,500 is tax free"](/fact-checks/2026-01-22-one-year-real-results/#update-your-first-31500-is-tax-free-february-2026) when $30,000 was already law.
+See also: ["No SNAP cuts"](/fact-checks/2025-12-snap-cuts/) when $186B less will be spent. ["Not a single person" loses Medicaid](/fact-checks/2025-05-medicaid-coverage-cuts/) when 1.3M+ are projected to. ["$31,500 is tax free"](/fact-checks/2026-01-22-one-year-real-results/#update-your-first-31500-is-tax-free-february-2026) when $30,000 was already law.
 
 ---
 

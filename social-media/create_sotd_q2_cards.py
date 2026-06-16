@@ -121,7 +121,7 @@ cost = [
     ("~40%", "higher ACA premiums than they'd otherwise be (NY DOH)"),
     ("$1.3M", "WSKG public-broadcasting cut, 21% of its budget"),
     ("$0", "to any named NY-23 hospital yet (of $212M to the state)"),
-    ("+50%", "VA severe staffing shortages in a year (Bath VA)"),
+    ("+50%", "severe VA staffing shortages in a year (VA-wide, OIG)"),
 ]
 gain = [
     ("$60.5M", "FEMA award: Jasper-Troupsburg rebuild (MOSTLY TRUE)"),
