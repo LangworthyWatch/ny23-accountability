@@ -63,7 +63,7 @@ Langworthy's Infrastructure Expansion Act (H.R. 3548) would "save millions each 
 * Falls from heights account for 40%+ of fatalities
 * New York has among the lowest construction fatality rates per capita nationally
 
-**Industry argument:** Scaffold Law adds 5-10% to construction insurance costs; reform could save $2 billion
+**Langworthy's office estimates:** the Scaffold Law adds 5–10% to total construction costs, and reform could save at least $2 billion in federal tax dollars over 10 years (per his press release)
 
 **Labor counterargument:** Lower insurance costs would come from reduced payouts to injured workers and their families, not from improved safety
 
@@ -110,9 +110,9 @@ The Scaffold Law is simple: If a construction worker falls from a height due to 
 
 Langworthy's bill would change this for federally-funded projects. Under "comparative negligence," an injured worker could be found partially responsible for their own fall — reducing what they recover.
 
-**Industry says:** This could save $2 billion in insurance costs.
+**Langworthy's office says:** This could save at least $2 billion in federal tax dollars over 10 years.
 
-**Labor says:** That $2 billion comes from reduced payouts to injured workers and their families.
+**Labor says:** Weakening the Scaffold Law shifts injury costs onto workers and their families.
 
 **The numbers:**
 - 74 construction workers died in New York in 2023 (48% increase from prior year)

@@ -12,9 +12,11 @@ tags: ["veterans", "shutdown", "contradiction"]
 counties: ["steuben", "cattaraugus"]
 ---
 
+> **Correction (June 16, 2026):** An earlier version of this entry stated that Rep. Langworthy voted to *cause* the autumn 2025 shutdown. That was incorrect. Per the House clerk's record and sibling entries on this site, Langworthy voted **YES** on the House GOP "clean" continuing resolution — which funded military/VA operations but omitted the ACA subsidy extensions Senate Democrats demanded; the Senate's rejection of that CR, not Langworthy's vote, triggered the 44-day shutdown. This entry's accountability focus is the separate, documented fact that he voted **YES** on OBBB — which veterans' groups warned would strain VA care — while making pro-veteran statements. The shutdown-causation framing has been corrected throughout; the verdict is under review.
+
 ## Why This Matters for NY-23
 
-The Bath VA Medical Center in Steuben County serves **33,000+ veterans** across seven counties. During the 44-day shutdown, VA operations were strained, benefits processing was delayed, and active duty military families went without paychecks. When the congressman who voted to start that shutdown attends Veterans Day ceremonies and says "we must honor our commitment" to veterans, the disconnect between words and actions directly affects constituents who served.
+The Bath VA Medical Center in Steuben County serves **33,000+ veterans** across seven counties. During the 44-day shutdown, VA operations were strained, benefits processing was delayed, and active duty military families went without paychecks. When the congressman attends Veterans Day ceremonies and says "we must honor our commitment" to veterans — yet voted for the OBBB cuts veterans' groups warned would strain VA care — the disconnect between words and actions directly affects constituents who served.
 
 ---
 
@@ -38,7 +40,7 @@ He also promoted his votes for veterans legislation and appeared at Veterans Day
 
 **October-November 2025: Government Shutdown**
 - **Duration:** 44 days (longest in U.S. history)
-- **Langworthy's role:** Voted against funding bill, contributing to shutdown
+- **Langworthy's role:** Voted YES on the House GOP "clean" CR (military/VA funding, no ACA subsidy extensions); Senate Democrats blocked it, and the shutdown followed
 - **Impact on veterans:**
   - Active duty military went unpaid for weeks
   - VA operations strained with reduced staff
@@ -46,9 +48,9 @@ He also promoted his votes for veterans legislation and appeared at Veterans Day
   - Veterans hospitals faced funding uncertainty
 
 **September 2025: Initial Funding Vote**
-- **Langworthy vote:** NO (on bill that included full military/VA funding)
-- **Reason for NO vote:** Bill included ACA subsidy extensions (see related fact-check)
-- **Result:** Shutdown began when deadline passed
+- **Langworthy vote:** YES (on the House GOP "clean" CR that funded military/VA operations without ACA subsidy extensions)
+- **What happened:** Senate Democrats rejected the House CR over the omitted ACA subsidies
+- **Result:** Shutdown began when the deadline passed with no bicameral agreement
 - **Source:** Congressional Record, WSKG Public Radio
 
 **During Shutdown: Veterans Day Appearances**
@@ -86,6 +88,8 @@ Olean Times Herald interviewed local veterans:
 Veterans of Foreign Wars (VFW) Post 527 in Hornell:
 > "You can't claim to support the military and then vote to shut down their paychecks."
 
+*(Editor's note: these constituents' criticism assumed Langworthy voted to cause the shutdown. As the correction at the top notes, he voted for the House "clean" CR; the shutdown stemmed from the bicameral standoff. Their broader concern — pro-veteran rhetoric alongside his OBBB vote on VA cuts and a shutdown that delayed military pay — is what this entry documents.)*
+
 ### The Budget Cuts Context
 
 The same "One Big Beautiful Bill" that cut rural hospital funding (see related fact-check) also included provisions that veterans groups warned could:
@@ -99,7 +103,7 @@ The same "One Big Beautiful Bill" that cut rural hospital funding (see related f
 
 ## The Pattern
 
-1. **September:** Votes against funding that includes full military/VA operations
+1. **September:** Votes YES on the House clean CR (military/VA funding, no ACA subsidies); Senate Democrats reject it
 2. **October-November:** 44-day shutdown begins
    - Active duty troops unpaid
    - VA operations strained
@@ -113,9 +117,7 @@ The same "One Big Beautiful Bill" that cut rural hospital funding (see related f
 
 | Statement | Action |
 |-----------|--------|
-| "I will always stand with our veterans" | Voted to shut down government, delaying military pay |
-| "Service members shouldn't be political pawns" | Used shutdown as leverage for policy priorities |
-| "We must honor our commitment to them" | Voted for budget cuts veterans groups opposed |
+| "We must honor our commitment to them" | Voted for budget cuts veterans groups opposed (OBBB) |
 | Attended Veterans Day events during shutdown | Active duty members weren't receiving paychecks |
 
 ---
@@ -142,14 +144,14 @@ The same "One Big Beautiful Bill" that cut rural hospital funding (see related f
 ## In Plain Language
 
 Here's the sequence:
-1. **September 2025:** Langworthy votes NO on a funding bill that included full military and VA funding
+1. **September 2025:** Langworthy votes YES on the House clean CR (military/VA funding, no ACA subsidy extensions); Senate Democrats reject it, and the shutdown follows
 2. **October-November:** The government shuts down for 44 days — the longest in U.S. history
 3. **During shutdown:** Active duty troops go unpaid, VA benefits are delayed, Bath VA operates with reduced staff
 4. **November 11:** Langworthy attends Veterans Day events, thanks veterans for their service
-5. **November 14:** He finally votes to reopen — after extracting policy concessions
+5. **November 14:** He votes to reopen the government after 44 days
 
-"Service members shouldn't be used as political pawns," he said. But using a shutdown to gain policy leverage is exactly what using people as pawns looks like.
+"Service members shouldn't be used as political pawns," he said. The 44-day shutdown delayed their pay, and he separately voted for the OBBB cuts that veterans' groups warned would strain VA care and benefits.
 
 ---
 
-*Last updated: December 21, 2025*
+*Last updated: June 16, 2026 (corrected: Sept 2025 vote direction)*
