@@ -14,7 +14,7 @@ counties: ["chautauqua", "cattaraugus", "allegany", "chemung", "schuyler", "steu
 
 ## Why This Matters for NY-23
 
-Six hospitals in NY-23 are operating at negative margins, some losing 30-59 cents on every dollar. Many get 30-40% of their revenue from Medicaid. When the CBO projects 10 million Americans will lose health insurance under the bill Langworthy voted for, and the Kaiser Family Foundation estimates $155 billion in rural Medicaid cuts, the math for these hospitals is existential — not "pure fiction." If Cuba Memorial closes, every resident of northern Allegany County loses their nearest hospital.
+Six hospitals in NY-23 are operating at negative margins, some losing 30-59 cents on every dollar. Many get 30-40% of their revenue from Medicaid. When the CBO projects 10 million Americans will lose health insurance under the bill Langworthy voted for, and the Kaiser Family Foundation estimates $137 billion in rural Medicaid cuts, the math for these hospitals is existential — not "pure fiction." If Cuba Memorial closes, every resident of northern Allegany County loses their nearest hospital.
 
 ---
 
@@ -49,9 +49,9 @@ Six NY-23 hospitals are operating at deeply negative margins, and most depend on
 | Cuba Memorial | Allegany | Negative | **42%** |
 | Arnot-Ogden | Chemung | Negative | **42%** |
 
-**KFF estimates** federal Medicaid spending in rural areas will decline by **$155 billion** over 10 years. The $50 billion Rural Health Transformation Program Langworthy celebrated replaces only **37%** of what was cut — and it's temporary (5 years). The Medicaid cuts are permanent.
+**KFF estimates** federal Medicaid spending in rural areas will decline by **$137 billion** over 10 years. The $50 billion Rural Health Transformation Program Langworthy celebrated replaces only **37%** of what was cut — and it's temporary (5 years). The Medicaid cuts are permanent.
 
-*What this means locally:* When Cuba Memorial gets 42% of its revenue from Medicaid and federal Medicaid is cut by $155 billion in rural areas, closure isn't "pure fiction" — it's arithmetic. And if Cuba Memorial closes, every resident of northern Allegany County — not just Medicaid patients — loses their nearest hospital.
+*What this means locally:* When Cuba Memorial gets 42% of its revenue from Medicaid and federal Medicaid is cut by $137 billion in rural areas, closure isn't "pure fiction" — it's arithmetic. And if Cuba Memorial closes, every resident of northern Allegany County — not just Medicaid patients — loses their nearest hospital.
 
 ### 3. The jobs behind the hospitals
 
@@ -82,7 +82,7 @@ Hospitals are not just healthcare providers in rural NY-23. They are economic an
 
 | Need | Status |
 |------|--------|
-| Long-term rural hospital funding | $50B RHTP expires after 5 years; $155B in cuts are permanent |
+| Long-term rural hospital funding | $50B RHTP expires after 5 years; $137B in cuts are permanent |
 | Hospital closure prevention plan | No legislation specific to at-risk NY-23 hospitals |
 | Medicaid coverage protection | Representative voted for the bill causing losses |
 | Arnot-Ogden workforce stability | 2,200 jobs dependent on a hospital at negative margin |
@@ -93,7 +93,7 @@ Hospitals are not just healthcare providers in rural NY-23. They are economic an
 
 ## The bottom line
 
-Medicaid is not a separate issue from hospital access, employment, and rural economic survival in NY-23. When Medicaid is cut by $155 billion in rural areas and the temporary offset replaces only a third of the reduction, hospitals already losing money face an existential threat — and the communities that depend on them face consequences far beyond healthcare.
+Medicaid is not a separate issue from hospital access, employment, and rural economic survival in NY-23. When Medicaid is cut by $137 billion in rural areas and the temporary offset replaces only a third of the reduction, hospitals already losing money face an existential threat — and the communities that depend on them face consequences far beyond healthcare.
 
 Langworthy's claim that no one will lose coverage and that closure warnings are fiction is contradicted by every independent analysis available — from the nonpartisan CBO to healthcare finance analysts to the state's own projections.
 
@@ -126,4 +126,4 @@ Langworthy's claim that no one will lose coverage and that closure warnings are 
 
 **Note:** This summary draws from multiple sourced fact-checks on Medicaid coverage and rural hospital impacts. All findings are based on CBO data, state agency analysis, and independent healthcare research.
 
-*Last updated: February 9, 2026*
+*Last updated: June 16, 2026 (corrected: KFF rural Medicaid figure $155B → $137B)*

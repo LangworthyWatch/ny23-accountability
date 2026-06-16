@@ -1,6 +1,6 @@
 {
   "generated": "2026-06-16",
-  "total": 108,
+  "total": 109,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 28,
@@ -13,12 +13,13 @@
     "DEFLECTION": 3,
     "MISSING ATTRIBUTION": 2,
     "MOSTLY TRUE": 1,
+    "PARTIALLY TRUE": 1,
     "NON-RESPONSIVE": 1,
     "INCONSISTENT": 1
   },
   "by_topic": {
+    "Government Operations": 12,
     "Healthcare": 12,
-    "Government Operations": 11,
     "Economy": 10,
     "Immigration": 7,
     "Other": 7,
@@ -57,7 +58,7 @@
     "2025-12": 20,
     "2026-01": 8,
     "2026-02": 28,
-    "2026-03": 14,
+    "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 13
@@ -356,6 +357,13 @@
       "verdict": "DOCUMENTED PATTERN",
       "topic": "Legislative Record",
       "url": "/fact-checks/2026-03-21-obbba-ida-vote/"
+    },
+    {
+      "title": "Pay TSA Act: A Partial Fix \u2014 Pays TSA Workers During Shutdowns, but Doesn't Prevent Them",
+      "date": "2026-03-21",
+      "verdict": "PARTIALLY TRUE",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-03-21-pay-tsa-act/"
     },
     {
       "title": "Who's Really Driving Your Electric Bill? A Data Investigation into NY Utility Rates",
