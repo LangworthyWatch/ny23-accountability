@@ -4,7 +4,7 @@
 > sessions. Items here are unprocessed — once acted on, move to a fact-check
 > entry under content/fact-checks/ or close with a disposition note.
 
-**Last updated:** 2026-06-14
+**Last updated:** 2026-06-16
 
 ---
 
@@ -61,6 +61,58 @@
 ## Source / Data Quality Issues
 
 <!-- Wayback archive failures, FOIL responses pending, primary sources that need re-fetching -->
+
+### Audit 2026-06-15: ~48 source-gated findings (recommended tier) — need a primary source before fixing
+- **Date logged:** 2026-06-16
+- **Source:** `AUDIT_2026-06-15_fact-check.md` (RECOMMENDED section) + the 6-agent remediation pass
+- **Type:** source-gap (bulk)
+- **Priority:** low–medium (none are live falsehoods; each is an attribution/figure that needs a citation, a hedge already in place, or removal if no source surfaces)
+- **Context:** The audit's hard + soft + self-contained recommended fixes are DONE and live (commits `cee7d7d` → `0b98291`). These items were left unchanged by the remediation agents because the fix needs a primary source neither in the entry nor in the audit. For each: find the source → apply the audit's prescribed fix + Wayback-archive; OR hedge/remove per the group-C default if none surfaces. Full per-item issue/evidence/fix is in `AUDIT_2026-06-15_fact-check.md` under each `### <slug>`.
+
+  **A. Dead / homepage-only URLs → working link + Wayback archive:**
+  - `2025-12-energy-policy-oil-gas` — Langworthy quotes on bare homepages; need full-path URLs
+  - `2025-12-infrastructure-credit` — FingerLakes1 404 (dead-source); USDA RD 36% / 31.7% staffing-cut figures need a source
+  - `2026-02-08-big-flats-ssa-doge` — Buffalo News "I fully support Musk's mission" quote → Wayback URL
+  - `2026-02-08-steuben-rural-impact-summary` — WSKG $5M SNAP-admin / Wheeler quote / VA-OIG report URLs
+  - `2026-02-08-allegany-county-grants-accord` — ACCORD/Allegany Hope URL; "highest poverty rate in NY" Census/NYS cite
+  - `2026-03-08-defense-suppliers-visit` — Chautauqua County IDA SKF case study (600+ / $75M) URL + archive
+  - `2026-06-06-langworthy-secure-data-act-hr8413` — `archived_url` points to the wrong doc; archive the coalition support-letter page
+  - `2026-06-10-minnesota-fraud-50-state-claim` — empty `archived_url`; FB permalinks/screenshots
+  - `2026-02-09-snap-rural-impact-summary` — CBO pub 61461 Wayback snapshot for `archived_url`
+  - `2026-02-08-steuben-ice-cooperation` — `source_url` set to WSKG; `archived_url` still pending (Wayback `/save` timed out — retry)
+
+  **B. Figure attributed to an org but not in the cited doc → that org's specific report/release:**
+  - `2025-05-medicaid-coverage-cuts` — $185/mo MSP + "10% of enrollees"; per-hospital margins (Cuba 42%, Arnot-Ogden 42%, UPMC Chautauqua 37% / -17.4%, Westfield -59.1%) via Fiscal Policy Institute Fig 1 / Table 1
+  - `2025-11-aca-subsidies-false-claim` & `2026-01-14-ptc-pivot` — Chautauqua premium figures ($104.30 / $212.26) + 6,300 enrollees → Gillibrand press release (senate.gov 404s)
+  - `2026-02-25-largest-tax-cut-claim` — ITEP "over 70% to top quintile"
+  - `2026-03-21-agriculture-week-family-farms` — winery counts (11,450→11,107; 343 closures)
+  - `2026-05-30-drug-pricing-reform-claim` — CBO §71203 score ($4.9B→$8.8B, Oct 2025)
+  - `2026-05-29-corning-manufacturing-credits-obbba` — Hemlock $325M CHIPS Act funding (Jan 2025), NIST/Commerce
+  - `2026-05-20-scaffold-law-infrastructure-expansion-act` — insurance differential study (8–10% vs 2–4%)
+  - `2026-04-16-actblue-subpoena-compliance` — ActBlue ~$4B figure; subpoena timeline dates
+  - `2026-06-02-district-office-consolidation` — Public Citizen "45 NY hospitals at risk" / St. James report
+  - `2026-02-20-scotus-tariff-ruling` — NY Fed pass-through (94% / 0.6%); BEA deficit ($1.24T / $901.5B / 78%)
+  - `2026-02-state-preemption-pattern` — Meta $3.1M via CA Chamber; Harvard Chan PDF 404 → archive
+  - `2025-11-rural-hospitals-medicaid` — reattributed to Becker's-via-Observer-Today; add a direct Becker's link if available
+
+  **C. Quote → primary statement to verify:**
+  - `2025-12-worker-safety-scaffold-law` & `2026-05-20-scaffold-law-infrastructure-expansion-act` — Cilento (NYS AFL-CIO) / LaBarbera (Building & Construction Trades) statement URLs
+  - `2026-02-28-epic-fury-statement` — DNI 2025 ATA "not pursuing a nuclear weapon"; Oman FM "within reach"; Schumer/Jeffries "illegal regime-change war"
+  - `2026-03-07-mullin-dhs-appointment` — Blumenthal quote attribution
+  - `2026-03-05-sexual-misconduct-vote` — Massie / $17M attribution; Oversight subpoena vote record
+  - `2026-01-21-hernandez-pardon` — "at least 83 killed in Caribbean strikes" source (appears 3×)
+
+  **D. Vote / record confirmation → clerk.house.gov, CBO, bill text:**
+  - `2026-02-02-shutdown-defund-ice` — $75B ICE/reconciliation figure (CBO score / H.R.1 section)
+  - `2026-04-17-obbba-working-families` — $1,700 refundable CTC cap (IRS / bill text)
+  - `2026-04-30-bigbrother-fisa-car-surveillance` — OBBBA surveillance $ ($2.77B / $673M / $5.2B) per P.L. 119-21 / CBO
+  - `2025-10-government-shutdown-aca` — Langworthy non-signing of the Dec ACA discharge petition + "failed by one vote" margin (clerk roster)
+  - `2026-03-21-ida-donor-exemption-pattern` — ECIDA 30 vs 32 beneficiaries; OSC audit S9-15-70 (URL 404'd)
+  - `2026-03-08-biden-immigration-10-million` — FY2021 70.7% removal/expulsion/detention CBP/DHS stat
+  - `2025-12-farm-bill-victory` — mirror the farm-workforce fix (dairy = H.R. 295/294; maple = H.R. 293; drop "Market-Driven Inventory System")
+
+- **Action:** as sources surface (often the human's own press-release/news links), apply the audit's prescribed fix + Wayback-archive. The **A** group is the fastest (mostly just relocating a working URL). Operational leftover: regenerate the nursing-home social card PNG (`social-media/create_nursing_home_donations_card.py` script already corrected to "CMS RIA ~$43B"; the PNG still needs re-running, and that card carries ~6 pre-existing em-dashes to scrub on regen).
+- **Status:** open
 
 ### Wayback archive run for the two 2026-06-13 drafts
 - **Date logged:** 2026-06-13
