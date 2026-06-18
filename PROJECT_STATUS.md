@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: June 16, 2026*
+*Last updated: June 18, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 108 Fact-Checks Published
+## Content: 110 Fact-Checks Published
 
 ### Topics Covered
 
@@ -25,6 +25,7 @@
 | NY Utility Rates (data investigation) | 12 | Complete |
 | IDA donor-to-exemption pattern | 3 | Complete; 74 donors documented |
 | One Big Beautiful Bill / OBBBA | 4 | Complete (SNAP, working families, WFTC, real-cost framing) |
+| Iran war / Operation Epic Fury (Feb 28 statement, DHS pivot, cost vs. cuts) | 3 | Complete — cost-vs-cuts entry added 2026-06-18 (DOCUMENTED PATTERN) |
 | Minnesota fraud (hearing claims + comparative + 50-state/stayed-buried) | 3 | Complete |
 | Immigration framing (incl. Marilla "voted to defund") | 4 | Complete |
 | FEMA / disaster recovery (Jasper-Troupsburg $60.5M, MOSTLY TRUE + BRIC context) | 1 | Complete — watching for his position on Review Council / BRIC |
@@ -63,6 +64,7 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 - `create_minnesota_50state_card.py` → `minnesota_50state_claim.png`
 - `create_marilla_defund_card.py` → `marilla_defund_claim.png`
 - `create_jasper_troupsburg_card.py` → `jasper_troupsburg_fema_award.png` (first MOSTLY TRUE / green-badge card)
+- `create_epic_fury_cost_card.py` → `epic_fury_cost_vs_cuts.png` (house-style 1080×1080; Epic Fury cost vs. cuts, DOCUMENTED PATTERN — added 2026-06-18)
 
 **Active scripts (`~/Downloads/`):**
 - `create_scotland_service_graphic.py` → `langworthy_scotland_service.png`

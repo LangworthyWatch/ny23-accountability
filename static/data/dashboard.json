@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-16",
-  "total": 109,
+  "generated": "2026-06-18",
+  "total": 110,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 28,
     "MISLEADING": 26,
-    "DOCUMENTED PATTERN": 19,
+    "DOCUMENTED PATTERN": 20,
     "CONTRADICTION": 12,
     "FALSE": 9,
     "MULTIPLE": 3,
@@ -29,11 +29,11 @@
     "Agriculture": 4,
     "Energy": 4,
     "Infrastructure": 4,
+    "Foreign Policy": 3,
     "Constituent Service": 3,
     "Ethics": 2,
     "Rule of Law": 2,
     "Environment": 2,
-    "Foreign Policy": 2,
     "Social Services": 2,
     "Veterans": 2,
     "Disability & Education": 1,
@@ -61,9 +61,16 @@
     "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
-    "2026-06": 13
+    "2026-06": 14
   },
   "entries": [
+    {
+      "title": "Operation Epic Fury's Cost Meets the Cuts He Voted For: $132 Billion in War Costs, $911 Billion in Medicaid Cuts",
+      "date": "2026-06-18",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Foreign Policy",
+      "url": "/fact-checks/2026-06-18-epic-fury-cost-vs-cuts/"
+    },
     {
       "title": "The Federal Watchdog for Disabled Students Was Dismantled. NY-23 Schools Kept Restraining Them. Langworthy Pledged to 'Protect Critical Support Systems.",
       "date": "2026-06-14",
