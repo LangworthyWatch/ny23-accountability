@@ -83,7 +83,7 @@ We make **no allegation of wrongdoing.** The point is narrower: the disclosure r
 
 ## A note on sourcing and reply
 
-This entry is built from primary records: the four House financial-disclosure PDFs (Filing IDs 10054324, 10061049, 10068912, 10078337), FEC operating-expenditure data, the New York Department of State business-entity record for Liberty Strategies LLC, and the NYS Board of Elections campaign-finance database. Langworthy's office has not yet been asked to address the open questions above; this entry will be updated with any response provided.
+This entry is built from primary records: the four House financial-disclosure PDFs (Filing IDs 10054324, 10061049, 10068912, 10078337), FEC operating-expenditure data, the New York Department of State business-entity record for Liberty Strategies LLC, and the NYS Board of Elections campaign-finance database. LangworthyWatch submitted the questions above to the congressman's office through its official web contact form on June 24, 2026, and requested a response by July 1, 2026. This entry will be updated with the office's response, or to note that the office declined to comment or did not respond by the deadline.
 
 ---
 
