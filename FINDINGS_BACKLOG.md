@@ -4,7 +4,7 @@
 > sessions. Items here are unprocessed — once acted on, move to a fact-check
 > entry under content/fact-checks/ or close with a disposition note.
 
-**Last updated:** 2026-06-16
+**Last updated:** 2026-06-24
 
 ---
 
@@ -61,6 +61,17 @@
 ## Source / Data Quality Issues
 
 <!-- Wayback archive failures, FOIL responses pending, primary sources that need re-fetching -->
+
+### Scaffold-law entries — residual source gaps (2026-06-24)
+- **Date logged:** 2026-06-24
+- **Source:** /tier-a-confirm + /fact-check-review on the three scaffold entries
+- **Type:** archive-gap / quote-verification
+- **Priority:** medium
+- **Detail:** Two residuals after the 2026-06-24 hardening pass: (1) the **original Cilento (NYS AFL-CIO) and LaBarbera quotes** in `2025-12-worker-safety-scaffold-law.md` still lack direct URLs — they're now flanked by a verifiable LaBarbera "beacon" quote (The Real Deal) + a Finkelstein quote (NY State of Politics) and an honest "pending confirmation" note, but the originals are unverified. (2) The **`congress.gov/bill/119th-congress/house-bill/3548` link won't archive** (Wayback returned 520); congress.gov blocks non-browser fetches (see recurring item below). Bill facts themselves are Tier-A via the govinfo BILLSTATUS XML.
+- **Action:** (1) Search nysaflcio.org / Building & Construction Trades Council press releases (or news coverage) for the specific federal-bill Cilento/LaBarbera statements; add URLs or soften to the documented positions. (2) Retry the congress.gov Wayback save in a browser, or swap the citation to the govinfo BILLSTATUS URL (already archives cleanly). Everything else cited in the live entries is Wayback-archived (Washington Examiner, The Real Deal, NY State of Politics, Construction Dive, NYCOSH PDF).
+- **2026-06-24 UPDATE:** A submitted Cilento/LaBarbera joint statement (nysaflcio.org press release, **11 Mar 2026**) turned out to be about the **CLCPA / clean-energy costs**, NOT the Scaffold Law — it does not contain these quotes. The scaffold-specific Cilento/LaBarbera quotes remain unverified (likely from May 2025 bill-introduction coverage — Times Union — or a 2025 AFL-CIO release). **Recommend:** if the originals can't be located, replace them in the Dec entry with the now-verified Finkelstein (NYSTLA) + LaBarbera "beacon" quotes rather than keep them hedged indefinitely.
+- **2026-06-24 RESOLVED (quotes):** Submitter provided the actual source — [Dan Clark, "New York faces new pressure to scrap 140-year-old Scaffold Law," Times Union](https://www.scaffoldlaw.org/news/times-union-new-york-faces-new-pressure-to-scrap-140-year-old-scaffold-law) (reproduced on scaffoldlaw.org). ALL Cilento and LaBarbera quotes confirmed verbatim (incl. "beyond comprehension... undermine workers in his own state"). Hedge removed; the TU article is now cited in the Dec, May, and new entries, and Rep. Espaillat's City & State op-ed (Dec. 23, 2025) added as a sitting-member rebuttal.
+- **Status:** resolved (quotes confirmed + cited); only the congress.gov H.R. 3548 Wayback retry (520) is left
 
 ### Audit 2026-06-15: ~48 source-gated findings (recommended tier) — need a primary source before fixing
 - **Date logged:** 2026-06-16
@@ -150,6 +161,24 @@
 ## Fact-Check Leads
 
 <!-- New Langworthy statements, votes, or actions worth a standalone entry -->
+
+### Scaffold Law — June 16 2026 Facebook post (his own cost framing, on camera)
+- **Date logged:** 2026-06-24
+- **Source:** user-provided screenshot of Congressman Nick Langworthy FB page, posted **June 16, 2026, 3:00 PM**
+- **Type:** fact-check-lead
+- **Priority:** high
+- **Detail:** Standalone post (not an op-ed share) with Langworthy's own verbatim framing: *"1885. That when New York's old, outdated Scaffold Law was introduced. It causes costs to skyrocket. Families pay the price through higher housing costs, pricier infrastructure, and wasted tax dollars. I'm fighting to end it, and make New York more affordable for everyone."* Over a Spectrum News 1 (Capital Region / "Lake George" weather) clip captioned **"EXPANSION ACT BACK IN 2025."** This is the cleanest primary-source instance of the cost-only framing the three scaffold entries analyze (housing + infrastructure + tax dollars, zero mention of the 140-yr worker fall-protection standard or the 2023 fatality data) — fits the **Semantic Deception** pattern.
+- **Action:** **DONE 2026-06-24** — added as the Statement anchor of `2026-06-24-scaffold-law-surface-transportation-reauthorization.md` (verbatim quote + figure `static/images/fact-checks/2026-06-24-scaffold-law-june16-fb-post.png` + Assessment tie-in + Sources entry; builds clean). Permalink supplied by submitter and wired into the entry: `https://www.facebook.com/share/r/1DHMYp6SVZ/` (auth-gated, not independently fetch-verified — eyeball-confirm it opens the June 16 post).
+- **Status:** resolved (pending a visual confirm that the FB link opens the right post)
+
+### Scaffold Law — surface-transportation reauthorization watch (Sept 2026)
+- **Date logged:** 2026-06-24
+- **Source:** /tier-a-confirm + /fact-check-review session, 2026-06-24
+- **Type:** data-refresh / story-angle
+- **Priority:** high
+- **Detail:** Build More NY coalition is pushing to attach H.R. 3548's Scaffold Law preemption to the surface transportation reauthorization that replaces the IIJA, which **expires Sept 30, 2026**. If it gets folded into the must-pass reauth (vs. dying as a standalone in House Judiciary), that's a material status change for all three scaffold entries.
+- **Action:** ~Sept 2026, check congress.gov for H.R. 3548 movement and the surface-transportation reauth bill text for any §240/absolute-liability preemption language; update the new entry's Bill Status + verdict framing if it advances. Re-run `/news-scan` on "scaffold law reauthorization" around the IIJA deadline.
+- **Status:** open
 
 ### Ashford / West Valley Demonstration Project meeting (watch item)
 - **Date logged:** 2026-06-13
