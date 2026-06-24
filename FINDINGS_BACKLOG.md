@@ -62,6 +62,15 @@
 
 <!-- Wayback archive failures, FOIL responses pending, primary sources that need re-fetching -->
 
+### June-24 credit-claim entries (hospital + Jamestown) — permalinks + Wayback retries
+- **Date logged:** 2026-06-24
+- **Source:** publishing the hospital-radiology and Jamestown-tariffs fact-checks (commit 32cae56)
+- **Type:** archive-gap / permalink-pending
+- **Priority:** low
+- **Detail:** Both entries are live (`draft:false`). Outstanding: (1) **FB permalinks** for the source posts — UPMC/Arnot radiology (June 18-23) and Jamestown Advanced Products (June 22), both auth-gated, need manual capture (same as the scaffold June-16 post). (2) **Wayback retries:** `jamestownadvanced.com/about` and the WGRZ tariff interview both returned 520; the FY27 disclosure page, Post-Journal, and Woodall's archived OK (302). Both entries' `archived_url` frontmatter is still empty.
+- **Action:** capture the FB permalinks → add to each entry's Sources; retry the two 520 saves; fill `archived_url`.
+- **Status:** open
+
 ### Scaffold-law entries — residual source gaps (2026-06-24)
 - **Date logged:** 2026-06-24
 - **Source:** /tier-a-confirm + /fact-check-review on the three scaffold entries
@@ -201,6 +210,10 @@
 ## Closed / Resolved
 
 <!-- Findings acted on this session — kept for audit trail -->
+
+### American Legion Post 1280 IRS-casework post (June 19) — considered, DROPPED (do not re-draft)
+- **Date logged:** 2026-06-24 · **Type:** fact-check-lead · **Status:** closed (decided against)
+- **Why:** Drafted then dropped. The casework claim ($10K penalties waived for the Cassadaga post) is **single-sourced to Langworthy's own post** — no independent corroboration exists (casework isn't public record), so it can't be verified. And there is **no impropriety angle**: congressional IRS casework / penalty abatement is a routine, institutionalized function (IRS Congressional Affairs Program + Taxpayer Advocate Service handle exactly this), and 26 U.S.C. §7217 targets the *executive branch*, expressly exempting taxpayer-forwarded requests. The only fair, verified angle (relief is routine + he voted Yea on OBBBA/Roll 190 rescinding IRS funding) is too thin to carry a standalone entry and risks reading as petty. If ever revisited, do it the Big Flats way (lead with the documented IRS-funding contradiction, verdict CONTRADICTION) — but only with stronger sourcing.
 
 ### H.R. 6644 cosponsorship claim (false) — caught and removed
 - **Date logged:** 2026-06-13 · **Type:** verdict/source · **Status:** closed

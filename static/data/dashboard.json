@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-18",
-  "total": 110,
+  "generated": "2026-06-24",
+  "total": 114,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 28,
+    "MISSING CONTEXT": 31,
     "MISLEADING": 26,
-    "DOCUMENTED PATTERN": 20,
+    "DOCUMENTED PATTERN": 21,
     "CONTRADICTION": 12,
     "FALSE": 9,
     "MULTIPLE": 3,
@@ -18,14 +18,14 @@
     "INCONSISTENT": 1
   },
   "by_topic": {
+    "Healthcare": 13,
     "Government Operations": 12,
-    "Healthcare": 12,
-    "Economy": 10,
+    "Economy": 11,
+    "Other": 8,
     "Immigration": 7,
-    "Other": 7,
+    "Campaign Finance": 6,
     "Local Impact": 6,
     "Transparency": 6,
-    "Campaign Finance": 5,
     "Agriculture": 4,
     "Energy": 4,
     "Infrastructure": 4,
@@ -61,9 +61,37 @@
     "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
-    "2026-06": 14
+    "2026-06": 18
   },
   "entries": [
+    {
+      "title": "The Disclosure Gap: Donations, Legislation, and What the Announcements Leave Out",
+      "date": "2026-06-24",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-06-24-disclosure-gap-donor-pattern/"
+    },
+    {
+      "title": "\\\"Proud to Deliver\\\": $800K for Two Hospital Radiology Labs That Congress Has Not Yet Funded",
+      "date": "2026-06-24",
+      "verdict": "MISLEADING",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-06-24-hospital-radiology-credit-claim/"
+    },
+    {
+      "title": "Touring a Steel Manufacturer to Praise \\\"American Made\\\" While Voting to Keep the Tariffs on Its Materials",
+      "date": "2026-06-24",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-06-24-jamestown-advanced-manufacturing-tariffs/"
+    },
+    {
+      "title": "Scaffold Law Repeal Heads for the Highway Bill: An Industry Push to Attach Langworthy's Preemption to a Must-Pass Federal Bill",
+      "date": "2026-06-24",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Other",
+      "url": "/fact-checks/2026-06-24-scaffold-law-surface-transportation-reauthorization/"
+    },
     {
       "title": "Operation Epic Fury's Cost Meets the Cuts He Voted For: $132 Billion in War Costs, $911 Billion in Medicaid Cuts",
       "date": "2026-06-18",
@@ -802,7 +830,7 @@
     {
       "title": "Worker Safety: Targeting 140-Year-Old Scaffold Law While Unions Warn of Harm to Workers",
       "date": "2025-12-22",
-      "verdict": "MISLEADING",
+      "verdict": "MISSING CONTEXT",
       "topic": "Labor",
       "url": "/fact-checks/2025-12-worker-safety-scaffold-law/"
     },

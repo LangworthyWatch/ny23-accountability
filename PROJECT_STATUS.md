@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: June 18, 2026*
+*Last updated: June 24, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 110 Fact-Checks Published
+## Content: 114 Fact-Checks Published
 
 ### Topics Covered
 
@@ -40,6 +40,8 @@
 | SAVE Act (voter ID) | 1 | Complete |
 | SW Flight 2094 | 1 | Complete |
 | County rural impact profiles | 3 | Steuben, Tioga, Schuyler complete; 5 counties not started |
+| Scaffold Law §240 (worker safety, Infrastructure Expansion Act, reauthorization rider) | 3 | Complete — Dec/May entries hardened + reauthorization entry added 2026-06-24; primary-sourced (NYCOSH, Times Union/Dan Clark, City & State/Espaillat) |
+| Credit-claiming vs. record (FY27 hospital radiology *requests*; Jamestown tariff tour) | 2 | Added 2026-06-24 — MISLEADING + MISSING CONTEXT |
 
 ### Verdict Distribution
 
@@ -65,6 +67,7 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 - `create_marilla_defund_card.py` → `marilla_defund_claim.png`
 - `create_jasper_troupsburg_card.py` → `jasper_troupsburg_fema_award.png` (first MOSTLY TRUE / green-badge card)
 - `create_epic_fury_cost_card.py` → `epic_fury_cost_vs_cuts.png` (house-style 1080×1080; Epic Fury cost vs. cuts, DOCUMENTED PATTERN — added 2026-06-18)
+- `create_scaffold_cost_vs_safety_card.py` → `scaffold_cost_vs_safety.png` (house-style 1080×1080; Scaffold Law cost pitch vs. safety law, MISSING CONTEXT — added 2026-06-24)
 
 **Active scripts (`~/Downloads/`):**
 - `create_scotland_service_graphic.py` → `langworthy_scotland_service.png`
@@ -90,6 +93,7 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 | County profiles | 3 of 8 done | Chemung, Cattaraugus, Chautauqua, Erie, Allegany remaining |
 | H.R. 6047 veterans loan fees | Drafted + verified; NOT published | Entry in repo as draft: true; needs archive pass + review + publish. Rules votes 342/343 + CBO figures all primary-sourced |
 | FEMA Review Council / BRIC | Watching | No Langworthy statement located (checked June 10) on May 7 report, BRIC cancellation, or staffing cuts; Jasper-Troupsburg entry carries the open questions |
+| Scaffold Law reauthorization | Published (3 entries) | Watch ~Sept 2026: whether H.R. 3548 §240 preemption gets attached to the surface-transportation reauthorization before the IIJA expires Sep 30 (logged in FINDINGS_BACKLOG); also UPMC/Arnot FY27 CPF requests — revisit if a FY27 approps bill passes |
 | June 10 FB post permalinks | Pending | Minnesota, Marilla, Jasper-Troupsburg entries quote posts verified from screenshots; need permalinks + screenshots archived to static/images/ |
 | Economic attribution report (imported 2026-06-11) | Monitoring thresholds | Watch: OTDA county SNAP caseloads (June–Sept first benefit-loss window); NY DOH Medicaid Enrollment Databook; first RHTP disbursement to a named district hospital; NY PSC final NYSEG/RG&E rate orders (~24%/26% requests pending); NY DOL WARN for Jamestown/eSolutions; Essential Plan cliff July 1. Entry candidates remaining: WSKG/H.R. 4 rescissions (clean vote+quote), Essential Plan July 1 response prep |
 
