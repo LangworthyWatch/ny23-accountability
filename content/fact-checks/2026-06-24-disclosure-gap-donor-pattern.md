@@ -23,6 +23,7 @@ This is the framing post for a series on a single, narrow question: **what Rep. 
 | 3 | [Corning, the Reconciliation Bill, and $65,775 in Donations](/fact-checks/2026-05-29-corning-manufacturing-credits-obbba/) | 62 Corning employees, **$65,775** (mostly after the vote) | YES on OBBBA, which preserved/boosted manufacturing credits Corning relies on | DOCUMENTED PATTERN |
 | 4 | ["Defender of Housing" Award](/fact-checks/2026-06-13-nahb-defender-of-housing/) | NAHB BUILD-PAC, **$16,500** | Touted an industry award; the award is for "supporting NAHB positions" | MISSING CONTEXT |
 | 5 | [Energy Choice Act](/fact-checks/2026-02-25-energy-choice-act/) | Bill a fossil-fuel trade group says it "helped draft" | Sponsored and advanced the bill as consumer "choice" | MISLEADING |
+| 6 | [Two Offices Closed, One Moved: the Donor Geography](/fact-checks/2026-06-02-district-office-consolidation/) | Corning Inc. employees — his largest donor cluster ($17,510 living in Chemung) | Closed the Jamestown & Corning offices; opened Elmira, in the county where that cluster lives | MISSING CONTEXT |
 | — | [Campaign Finance: 44% PAC Dependency](/fact-checks/2026-02-07-campaign-finance-patterns/) | The baseline: where the money comes from | — | DOCUMENTED PATTERN |
 | — | [IDA Tax Breaks and Political Donors](/fact-checks/2026-03-21-ida-donor-exemption-pattern/) | District-wide donor/subsidy pattern (data via The Public Ledger) | — | DOCUMENTED PATTERN |
 
@@ -62,6 +63,8 @@ The through-line is not "money bought outcomes." It is narrower and fully docume
 
 **The Energy Choice Act.** His flagship energy bill is one a fossil-fuel trade association says it "helped draft," backed by 30-plus industry groups and no consumer organizations — framed to the public as protecting consumer "choice."
 
+**The district-office map.** In early 2026 he closed offices in Jamestown and Corning and opened one in Elmira, telling constituents he was "strengthening our presence in Chemung County." What the announcement left out: Chemung is where his largest single donor cluster — Corning Inc. employees — actually lives (Horseheads, Elmira, Big Flats), while the closed offices sat in the Southern Tier counties that give him the least. The fact-check weighs every innocent explanation (security, lease cost, staff geography) and notes the records can't resolve which it is; the documented point is only the geography the announcement didn't mention.
+
 ---
 
 ## What full disclosure would look like
@@ -75,8 +78,9 @@ Until then, the records are public and the connections are not. This series is t
 ## Questions This Raises
 
 1. Will Langworthy's office disclose, alongside future legislation, the contributions he has received from parties with a stake in it?
-2. Across these five examples, is there a single case in which the related donor relationship was acknowledged in the member's own announcement?
-3. What standard of disclosure would the member apply to *himself* that he has applied to others (e.g., his ActBlue and "fraud prevention" transparency pushes)?
+2. Across these six examples, is there a single case in which the related donor relationship was acknowledged in the member's own announcement?
+3. When he announced "strengthening our presence in Chemung County," did the public account note that the new office's county houses his single largest donor cluster?
+4. What standard of disclosure would the member apply to *himself* that he has applied to others (e.g., his ActBlue and "fraud prevention" transparency pushes)?
 
 ---
 
