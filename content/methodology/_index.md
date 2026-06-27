@@ -47,6 +47,10 @@ Every entry on this site must meet these criteria:
 - Use anonymous or unverifiable sources
 - Selectively edit quotes to change meaning
 
+### 5. How We Read Meetings and Photos
+
+A photograph or a meeting with the Representative is **not** an endorsement of him. Constituents, businesses, unions, and advocacy groups meet with their member of Congress constantly, because a sitting member is their pathway to federal action — often precisely when they disagree with his record. When we cite a meeting or a photo, the accountability attaches to **how the Member frames it in his own public messaging**, never to the party who showed up. We do not treat a group's willingness to meet as evidence that it shares his positions; where the group's own public record shows otherwise, we say so.
+
 ---
 
 ## Why This Site Exists: The Local Media Gap
@@ -168,4 +172,4 @@ Our fact-checks cite:
 
 ---
 
-*Last updated: February 7, 2026*
+*Last updated: June 27, 2026*

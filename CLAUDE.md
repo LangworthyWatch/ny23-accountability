@@ -35,6 +35,10 @@
 - Use anonymous or unverifiable sources
 - Selectively edit quotes to change meaning
 
+### Meetings and photos are not endorsements (fairness standard, added 2026-06-27)
+
+A constituent, business, union, or advocacy group meeting with — or photographed with — the Representative is exercising access to federal representation, **not** endorsing his record; groups often meet precisely because they disagree. Accountability attaches to how Langworthy *frames* the meeting in his own messaging, never to the party who showed up. Never imply a group endorses him from a meeting or photo. Where the group's own public record contradicts his framing (e.g., the Cystic Fibrosis Foundation publicly opposing the bill he voted for), cite that record. Public-facing version: `content/methodology/_index.md` §5.
+
 ### Verdict Labels (for fact-checks)
 Use these standardized verdicts:
 - **TRUE** - Claim is accurate
