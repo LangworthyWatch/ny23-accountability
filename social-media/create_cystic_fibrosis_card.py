@@ -58,7 +58,7 @@ tw, th = tb[2]-tb[0]+28, tb[3]-tb[1]+12
 draw.rounded_rectangle([((WIDTH-tw)//2, y), ((WIDTH+tw)//2, y+th)], radius=5,
                         fill="#744210", outline=GOLD, width=2)
 draw.text((WIDTH//2, y+th//2), tag, fill=GOLD, font=f_tag, anchor="mm")
-y += th + 12
+y += th + 30
 
 # -- Topic --
 draw.text((WIDTH//2, y), "Cystic Fibrosis: The Photo vs. the Vote", fill=NAVY, font=f_topic, anchor="mm")
