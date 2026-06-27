@@ -14,7 +14,7 @@ counties: ["erie"]
 
 ## Why this matters in NY-23
 
-The new Highmark Stadium sits in **Orchard Park**, in the Erie County Southtowns that are part of NY-23. Langworthy's constituents are on both sides of its ledger: as taxpayers they put **$850 million** of public money into it, and as fans, the "Bills Mafia," they bought **$263 million** in first-ever personal seat licenses. At the June 23 grand opening, Langworthy posted a video calling the stadium "for all of the Bills Mafia." This entry documents who actually paid, what they got in return, and how the celebration squares with his warnings, the same week, about "the alarming rise of socialism" and too much public money.
+The new Highmark Stadium sits in **Orchard Park**, in the Erie County Southtowns that are part of NY-23. Langworthy's constituents are on both sides of its ledger: as taxpayers they put **$850 million** of public money into it, and as fans, the "Bills Mafia," they bought **$263 million** in first-ever personal seat licenses. At the June 23 grand opening, Langworthy posted a video calling the stadium "for all of the Bills Mafia." But $850 million in public money raises a question the celebration skips: did it buy public *access*, or help finance a stadium many of those same fans can no longer afford to get into? This entry documents who actually paid, what they got in return, and how the celebration squares with his warnings, the same week, about "the alarming rise of socialism" and too much public money.
 
 ---
 

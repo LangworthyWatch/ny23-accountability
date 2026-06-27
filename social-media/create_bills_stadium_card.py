@@ -121,9 +121,9 @@ y += strip_h + 18
 # -- Kicker --
 kick_h = 96
 draw.rounded_rectangle([(44, y), (WIDTH-44, y+kick_h)], radius=8, fill=NAVY)
-draw.text((WIDTH//2, y+30), "He cast no vote on the subsidy. But the same week he warned of",
-          fill=LIGHTGRAY, font=font("Arial.ttf", 18), anchor="mm")
-draw.text((WIDTH//2, y+62), "'too much public money' elsewhere, then cheered $850M of it here.",
+draw.text((WIDTH//2, y+30), "Langworthy cast no vote on the subsidy. The real question is what the public bought:",
+          fill=LIGHTGRAY, font=font("Arial.ttf", 17), anchor="mm")
+draw.text((WIDTH//2, y+62), "public access, or a stadium much of the Mafia can no longer afford to enter?",
           fill=WHITE, font=font("Arial Bold.ttf", 21), anchor="mm")
 y += kick_h + 16
 
