@@ -63,6 +63,8 @@ The sequence is exact: the Foundation urged Congress to reject the Medicaid cuts
 
 *In plain language:* The post celebrates lifesaving CF treatments reaching families. For nearly 40% of CF patients, the thing that pays for those treatments is Medicaid. Langworthy voted for the bill that the CF Foundation said would cut that coverage off.
 
+**A meeting is not an endorsement.** Advocacy groups meet with their representatives constantly, because a sitting member is their pathway to federal action. The Cystic Fibrosis Foundation sitting down with Langworthy says nothing about whether it approves of his record, and it should not be read that way; patient and disease organizations meet with members precisely to press their case, often when they disagree. The Foundation's own statements show that is what happened here — it spent 2025 publicly urging Congress, including the votes he cast, to protect CF patients' coverage. The accountability is not on the Foundation for meeting its representative. It is on how Langworthy presents that meeting: using the photo to claim alignment with "lifesaving treatments for families" that his Medicaid votes work against.
+
 ---
 
 ## The research-disruption backdrop he did not oppose
