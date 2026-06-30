@@ -9,7 +9,7 @@ Here is the part the word "verification" hides:
 
 → A website cannot confirm your age by asking. It routes you to a private vendor that either scans a government ID you upload or runs a biometric face scan to estimate your age.
 → So proving you are an adult means handing a company your driver's license image or a scan of your face.
-→ Once collected, that data sits in commercial systems under company terms, not the stronger protections that cover public records. Verification vendors have themselves been breached.
+→ Once collected, that data sits in commercial systems under company terms, not the stronger protections that cover public records. As the libertarian Cato Institute puts it, age checks create "a trove of attractive data for hackers."
 
 This is what privacy researchers call data extraction, and it is why groups across the spectrum, from the libertarian Cato Institute to the EFF and the ACLU, warn that broad age mandates create privacy risk rather than privacy protection.
 

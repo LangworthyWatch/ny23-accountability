@@ -20,9 +20,9 @@ Langworthy, a member of the House Energy and Commerce Committee (which advanced 
 
 ## Statement
 
-**Source:** Facebook Post, June 2026
+**Source:** Statement on KIDS Act passage, June 30, 2026 (langworthy.house.gov)
 
-> "Tonight, the House passed the Kids Internet and Digital Safety Act with strong bipartisan support. As a father of two, I know parents — not Big Tech — should be in the driver's seat when it comes to protecting our kids online. … This bill gives parents more control, strengthens privacy protections for children, updates outdated online safety laws, and holds Big Tech accountable for putting profits ahead of our kids' well-being."
+> "Last night, the House passed the Kids Internet and Digital Safety Act with strong bipartisan support. As a father of two, I know parents — not Big Tech — should be in the driver's seat when it comes to protecting our kids online. … This bill gives parents more control, strengthens privacy protections for children, updates outdated online safety laws, and holds Big Tech accountable for putting profits ahead of our kids' well-being."
 
 ---
 
@@ -52,9 +52,9 @@ Langworthy, a member of the House Energy and Commerce Committee (which advanced 
 
 The privacy debate over this bill turns on a detail the word "verification" hides: **checking someone's age online is not a simple yes-or-no question — it requires collecting something from the user.** Understanding that collection (what privacy researchers call *data extraction*) is the key to understanding why digital-rights groups across the spectrum object.
 
-**How an age check actually works.** A website cannot confirm your age by asking. In practice it routes you to a third-party verification vendor (companies such as Persona, Yoti, or Onfido) that either (a) scans a government ID you upload, or (b) estimates your age from a **biometric face scan** ("facial age estimation"). Either way, proving you are an adult means handing a private company a driver's-license image or a scan of your face.
+**How an age check actually works.** A website cannot confirm your age by asking. In practice it routes you to a third-party verification vendor that either (a) scans a government ID you upload, or (b) estimates your age from a **biometric face scan** ("facial age estimation"). Either way, proving you are an adult means handing a private company a driver's-license image or a scan of your face.
 
-**Where that data goes.** Once collected, that ID image or facial-geometry data lives in commercial systems governed by company terms of service — not by the stronger public-law protections that cover, for example, federal records. Verification vendors have themselves been breached. The Cato Institute, a libertarian think tank, warns that online age-verification "could create more problems than it solves," and the Electronic Frontier Foundation notes the mandates force users "to reveal sensitive data" to use the internet. These are not partisan objections; they are about the mechanics of who holds your data after the check.
+**Where that data goes.** Once collected, that ID image or facial-geometry data lives in commercial systems governed by company terms of service — not by the stronger public-law protections that cover, for example, federal records. The Cato Institute, a libertarian think tank, warns that online age-verification "could create more problems than it solves" and that requiring it "creates a trove of attractive data for hackers that could put broader information about users, particularly young users, at risk," and the Electronic Frontier Foundation notes the mandates force users "to reveal sensitive data" to use the internet. These are not partisan objections; they are about the mechanics of who holds your data after the check.
 
 **What is at stake: the open internet.** The ability to read, search, and speak online *without first identifying yourself* is what makes the internet usable for whistleblowers, domestic-violence survivors, people researching a health diagnosis or addiction, and ordinary users who simply value privacy. Age-verification mandates push toward an internet where routine access is gated behind an ID or a face scan.
 
