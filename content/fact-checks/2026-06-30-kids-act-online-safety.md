@@ -14,7 +14,7 @@ counties: ["district-wide"]
 
 ## Why This Matters
 
-Langworthy, a member of the House Energy and Commerce Committee (which advanced the bill), celebrated House passage of the Kids Internet and Digital Safety Act (KIDS Act), framing it as holding "Big Tech accountable" and strengthening "privacy protections for children." The bill did pass with bipartisan support. But the version the House passed had its central accountability mechanism removed, and the privacy and digital-rights groups closest to the issue argue it does the opposite of what the post claims. Those omissions change the meaning.
+Langworthy, a member of the House Energy and Commerce Committee (which advanced the bill), voted for and celebrated House passage of the Kids Internet and Digital Safety Act (H.R. 7757), framing it as holding "Big Tech accountable" and strengthening "privacy protections for children." The bill did pass with bipartisan support. But the version the House passed had its central accountability mechanism removed, and the privacy and digital-rights groups closest to the issue argue it does the opposite of what the post claims. Those omissions change the meaning.
 
 ---
 
@@ -30,7 +30,7 @@ Langworthy, a member of the House Energy and Commerce Committee (which advanced 
 
 | Claim | Verdict | Detail |
 |---|---|---|
-| The House passed the KIDS Act | **TRUE** | Passed June 29, 2026, **267–117** |
+| The House passed the KIDS Act (H.R. 7757) | **TRUE** | Passed June 29, 2026, **267–117** (Roll Call 228); Langworthy voted **Yea** |
 | "Strong bipartisan support" | **TRUE** | A KOSA + COPPA 2.0 package negotiated by E&C Chair Guthrie (R) and Ranking Member Pallone (D) |
 | "Holds Big Tech accountable" | **MISSING CONTEXT** | The House version **dropped KOSA's "duty of care"** — the core requirement that platforms exercise reasonable care to prevent harms to minors |
 | "Strengthens privacy protections" | **CONTESTED** | EFF and other digital-rights groups say the bill **undermines** privacy: it pushes **age verification for all users** (not just children), government-directed moderation, and new rules on private/encrypted messaging |
@@ -39,8 +39,8 @@ Langworthy, a member of the House Energy and Commerce Committee (which advanced 
 
 ## Context
 
-- **The accountability piece was removed.** The bill the House passed stripped the "duty of care" provision that anchored the Senate's 2024 Kids Online Safety Act — the mechanism that would have most directly held platforms responsible for harms. Trade reporting framed the deal as "drops KOSA duty of care, adds age verification for all users." Calling the result a measure that "holds Big Tech accountable" omits that the strongest accountability tool was taken out.
-- **The groups closest to the issue oppose it.** The Electronic Frontier Foundation warned that provisions "buried inside the KIDS Act" would "push online services to verify all users' ages, require government-directed moderation policies for online speech, and even create new rules about private and encrypted communications" — at the expense of "privacy, free expression, and the ability of people of all ages to use the internet without revealing sensitive data." The ACLU has objected to the KOSA framework on free-speech grounds. A post that markets the bill as strengthening privacy omits that age verification requires *more* disclosure of sensitive data, which is the privacy concern.
+- **The accountability piece was scaled back.** The version the House passed removed KOSA's design-feature "duty of care" — the requirement that platforms exercise reasonable care to prevent harms to minors — and replaced it with a narrower "reasonable policies, practices, and procedures" standard tied to an enumerated harms list that omits several mental-health harms present in the Senate text. EFF describes the change as removing the "infamous 'duty of care' provision." Either way, calling the result a measure that "holds Big Tech accountable" omits that its most direct accountability tool was cut back.
+- **The groups closest to the issue oppose it.** The Electronic Frontier Foundation warned that provisions "buried inside the KIDS Act" would "push online services to verify all users' ages, require government-directed moderation policies for online speech, and even create new rules about private and encrypted communications" — at the expense of "privacy, free expression, and the ability of people of all ages to use the internet without revealing sensitive data." The ACLU said the KIDS Act "would threaten free speech for people of all ages and it would put our data at risk." A post that markets the bill as strengthening privacy omits that age verification requires *more* disclosure of sensitive data, which is the privacy concern.
 - **It faces a Senate fight.** The House removed provisions some senators considered essential, so the bill is not law; passage is one chamber.
 - **The privacy-protection framing sits against his own record.** Langworthy is a cosponsor of the SECURE Data Act (H.R. 8413), a federal bill that would *preempt* stronger state privacy laws — including the New York Privacy Act the State Senate passed. Claiming to "strengthen privacy protections" while backing federal preemption of stronger state protections is in tension. See the related entry.
 
@@ -71,10 +71,13 @@ Langworthy, a member of the House Energy and Commerce Committee (which advanced 
 - Common Dreams — privacy advocates raise alarm over age verification: <https://www.commondreams.org/news/did-the-kids-act-pass>
 - Roll Call — kids online safety push clouded by House-Senate divide: <https://rollcall.com/2026/06/29/kids-online-safety-push-clouded-by-house-senate-divide/>
 - Kids Online Safety Act (S.1748, 119th): <https://www.congress.gov/bill/119th-congress/senate-bill/1748>
+- H.R. 7757 (119th) — "Promoting a Safe Internet for Minors Act" / KIDS Act: <https://www.congress.gov/bill/119th-congress/house-bill/7757>
+- House Roll Call 228 (June 29, 2026; Langworthy: Yea): <https://clerk.house.gov/Votes/2026228>
+- ACLU — urges Congress to vote against the KIDS Act: <https://www.aclu.org/press-releases/aclu-urges-congress-to-vote-against-online-censorship-proposed-in-the-kids-act>
 - Langworthy statement (The Wellsville Sun): <https://wellsvillesun.com/blog/2026/06/30/langworthy-hails-passage-of-kids-act/>
 
 ---
 
-**Note:** This entry documents publicly available information and the public positions of named organizations. It does not allege wrongdoing; it documents what the post claims and the context it omits. Langworthy's specific legislative role is as an Energy and Commerce Committee member and supporter; this entry does not assert bill sponsorship. His individual floor vote should be confirmed against the roll call before that detail is cited as hard.
+**Note:** This entry documents publicly available information and the public positions of named organizations. It does not allege wrongdoing; it documents what the post claims and the context it omits. H.R. 7757 was introduced as the "Promoting a Safe Internet for Minors Act"; "Kids Internet and Digital Safety Act" / "KIDS Act" are short titles in the as-passed text. Langworthy's role is confirmed: a member of the Energy and Commerce Committee who voted Yea (Roll Call 228). He is **not** a sponsor or cosponsor of H.R. 7757 (sponsor: Rep. Guthrie; sole cosponsor: Rep. Pallone) — this entry does not characterize him as one.
 
 *Last updated: June 30, 2026*
