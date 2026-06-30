@@ -1,7 +1,7 @@
 ---
 title: "The 'Largest Tax Cut in History,' by the Deficit: $4.1 Trillion Added, the Bill Routed Up Now and the Cost Down Later"
 date: 2026-06-30
-draft: true
+draft: false
 topic: "Economy / Taxes"
 claim_date: "June 30, 2026"
 source: "Facebook Post"
