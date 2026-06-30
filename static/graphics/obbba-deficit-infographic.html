@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OBBBA — fiscal cost and who bears it</title>
+<style>
+  :root {
+    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-voice: Georgia, "Times New Roman", serif;
+    --radius: 8px; --gap-sm: 10px;
+    --text-primary: #1a1a1a; --text-secondary: #555; --text-muted: #888;
+    --text-danger: #b3261e; --text-success: #166534;
+    --surface-0: #ffffff; --surface-1: #f6f6f4;
+    --border: #e2e2dd; --border-strong: #cfcfc8;
+    --border-danger: #e7b9b5; --border-success: #b7d8be;
+    --bg-danger: #fbeceb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-primary: #ededed; --text-secondary: #b3b3b3; --text-muted: #888;
+      --text-danger: #f08a82; --text-success: #7fc995;
+      --surface-0: #1a1a1a; --surface-1: #242424;
+      --border: #383838; --border-strong: #4a4a4a;
+      --border-danger: #6e3b37; --border-success: #2f5236;
+      --bg-danger: #2c1a18;
+    }
+  }
+  body { background: var(--surface-0); margin: 0; padding: 28px; }
+  .obbba { font-family: var(--font-sans); color: var(--text-primary); line-height: 1.5; max-width: 760px; margin: 0 auto; }
+  .obbba h1 { font-size: 22px; font-weight: 500; margin: 0 0 4px; }
+  .obbba .sub { font-size: 14px; color: var(--text-secondary); margin: 0 0 20px; }
+  .obbba h2 { font-size: 15px; font-weight: 500; margin: 24px 0 10px; }
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: var(--gap-sm); }
+  .kpi { background: var(--surface-1); border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; }
+  .kpi .num { font-size: 32px; font-weight: 500; letter-spacing: -0.02em; }
+  .kpi .num.cost { color: var(--text-danger); }
+  .kpi .lbl { font-size: 13px; color: var(--text-secondary); margin-top: 4px; }
+  .eq { display: flex; flex-wrap: wrap; align-items: stretch; gap: 8px; }
+  .eq .chip { background: var(--surface-1); border: 1px solid var(--border); border-radius: var(--radius); padding: 10px 14px; flex: 1 1 auto; min-width: 120px; }
+  .eq .chip.minus { border-color: var(--border-success); }
+  .eq .chip.total { border-color: var(--border-danger); background: var(--bg-danger); }
+  .eq .chip .v { font-size: 20px; font-weight: 500; }
+  .eq .chip.minus .v { color: var(--text-success); }
+  .eq .chip.total .v { color: var(--text-danger); }
+  .eq .chip .k { font-size: 12px; color: var(--text-secondary); margin-top: 2px; }
+  .eq .op { align-self: center; font-size: 18px; color: var(--text-muted); padding: 0 2px; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: var(--gap-sm); }
+  @media (max-width: 520px) { .cols { grid-template-columns: 1fr; } }
+  .col { border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; }
+  .col .tag { font-size: 12px; font-weight: 500; color: var(--text-secondary); margin-bottom: 8px; }
+  .col.up { background: var(--surface-1); }
+  .col.down { background: var(--bg-danger); border-color: var(--border-danger); }
+  .col .big { font-size: 26px; font-weight: 500; letter-spacing: -0.02em; }
+  .col.down .big { color: var(--text-danger); }
+  .col ul { margin: 8px 0 0; padding-left: 18px; }
+  .col li { font-size: 13px; color: var(--text-secondary); margin-bottom: 5px; }
+  .quote { font-family: var(--font-voice); font-size: 16px; font-style: italic; color: var(--text-primary); border-left: 2px solid var(--border-danger); padding-left: 12px; margin: 18px 0 0; }
+  .quote span { display: block; font-family: var(--font-sans); font-style: normal; font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+  .foot { font-size: 12px; color: var(--text-muted); margin-top: 20px; line-height: 1.55; }
+  .foot b { font-weight: 500; color: var(--text-secondary); }
+</style>
+</head>
+<body>
+<div class="obbba">
+  <h1>What the One Big Beautiful Bill Act costs — and who pays</h1>
+  <p class="sub">10-year impact, 2025–2034. Hard CBO/JCT score, current-law baseline.</p>
+
+  <div class="kpis">
+    <div class="kpi"><div class="num cost">$3.4T</div><div class="lbl">added to the deficit (primary)</div></div>
+    <div class="kpi"><div class="num cost">$4.1T</div><div class="lbl">added to the debt, with interest</div></div>
+    <div class="kpi"><div class="num cost">$5.5T</div><div class="lbl">if the 2028 sunsets are extended</div></div>
+    <div class="kpi"><div class="num cost">+10 pts</div><div class="lbl">debt-to-GDP, toward ~124% by 2034</div></div>
+  </div>
+
+  <h2>The arithmetic</h2>
+  <div class="eq">
+    <div class="chip"><div class="v">$4.5T</div><div class="k">gross tax cuts</div></div>
+    <div class="op">−</div>
+    <div class="chip minus"><div class="v">$1.3T</div><div class="k">spending cuts (Medicaid $1.1T + SNAP $0.2T)</div></div>
+    <div class="op">+</div>
+    <div class="chip"><div class="v">$0.7T</div><div class="k">added interest</div></div>
+    <div class="op">=</div>
+    <div class="chip total"><div class="v">$4.1T</div><div class="k">added to the national debt</div></div>
+  </div>
+
+  <h2>Who gains, and who carries it</h2>
+  <div class="cols">
+    <div class="col up">
+      <div class="tag">Benefits flow up — now</div>
+      <div class="big">~70%</div>
+      <ul>
+        <li>of the law's value goes to the top 10% of households (Penn Wharton); ~80% by 2033.</li>
+        <li>the top quintile gains ~$65,000 over a lifetime; the middle, under $500.</li>
+      </ul>
+    </div>
+    <div class="col down">
+      <div class="tag">Costs flow down — later</div>
+      <div class="big">~$31,000</div>
+      <ul>
+        <li>in new debt per household (illustrative: $4.1T ÷ ~132M households).</li>
+        <li>the bottom 20% lose income by the early 2030s as Medicaid &amp; SNAP are cut to help pay for it.</li>
+        <li>$19 trillion total cost over 30 years as written.</li>
+      </ul>
+    </div>
+  </div>
+
+  <p class="quote">All future generations are worse off.<span>— Penn Wharton Budget Model, on the signed law</span></p>
+
+  <p class="foot">
+    <b>Growth doesn't pay for it:</b> every model finds offsets recoup only ~16–19% of the cost — and CBO's dynamic score comes in <i>higher</i> (~$4.7T), because added debt raises interest rates and crowds out investment.<br>
+    <b>Baseline caveat:</b> the $3.4T figure uses current-law scoring (the convention). A current-policy baseline treats extending the 2017 cuts as free, making the bill look near deficit-neutral — a ~$3.8T gap that even Republican budget hawks called "fairy dust." Always state which baseline a number uses.<br>
+    Sources: CBO (Pub. 61570, 61466, 61459, 61486), JCT, CRFB, Penn Wharton Budget Model, Tax Policy Center, Yale Budget Lab.
+  </p>
+</div>
+</body>
+</html>
