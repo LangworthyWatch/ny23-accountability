@@ -25,8 +25,10 @@ y=64
 tag="MISLEADING"; tb=draw.textbbox((0,0),tag,font=f_tag); tw,th=tb[2]-tb[0]+28,tb[3]-tb[1]+12
 draw.rounded_rectangle([((WIDTH-tw)//2,y),((WIDTH+tw)//2,y+th)],radius=5,fill="#744210",outline=GOLD,width=2)
 draw.text((WIDTH//2,y+th//2),tag,fill=GOLD,font=f_tag,anchor="mm"); y+=th+30
-draw.text((WIDTH//2,y),"'Socialist' or 'Communist'? The Label Check",fill=NAVY,font=f_topic,anchor="mm"); y+=44
-draw.line([(60,y),(WIDTH-60,y)],fill=BORDER,width=2); y+=18
+draw.text((WIDTH//2,y),"'Socialist' or 'Communist'? The Label Check",fill=NAVY,font=f_topic,anchor="mm"); y+=34
+draw.text((WIDTH//2,y),"A public option beside private markets (roads, a city grocery) is not communism.",
+          fill=MUTED,font=font("Arial.ttf",16),anchor="mm"); y+=24
+draw.line([(60,y),(WIDTH-60,y)],fill=BORDER,width=2); y+=16
 
 claim_h=124
 draw.rounded_rectangle([(44,y),(WIDTH-44,y+claim_h)],radius=8,fill="#FFFAF0",outline="#F6AD55",width=2)
@@ -47,8 +49,8 @@ draw.rounded_rectangle([(rx,y),(rx+col_w,y+col_h)],radius=8,fill="#FFF5F5",outli
 draw.text((rx+col_w//2,y+22),"THE LABEL  'COMMUNIST'",fill=RED,font=f_label_s,anchor="mm")
 draw.text((rx+col_w//2,y+92),"FALSE",fill=RED,font=f_big,anchor="mm")
 draw.text((rx+col_w//2,y+158),"PolitiFact + Al Jazeera",fill=DARK,font=f_sub_b,anchor="mm")
-draw.text((rx+col_w//2,y+188),"his program is social-democratic:",fill=DARK,font=f_sub,anchor="mm")
-draw.text((rx+col_w//2,y+216),"public options inside a market",fill=DARK,font=f_sub,anchor="mm")
+draw.text((rx+col_w//2,y+188),"Communism = the state owns the economy.",fill=DARK,font=font("Arial.ttf",15),anchor="mm")
+draw.text((rx+col_w//2,y+216),"His plan: public options in a market.",fill=DARK,font=font("Arial.ttf",16),anchor="mm")
 y+=col_h+18
 
 strip_h=150
