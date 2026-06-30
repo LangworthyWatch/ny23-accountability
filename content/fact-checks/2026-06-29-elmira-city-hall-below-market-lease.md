@@ -1,7 +1,7 @@
 ---
 title: "The $450 Office That Wasn't Signed: Elmira City Hall's Below-Market Lease Offer vs. the County's Commercial Rate"
 date: 2026-06-29
-draft: false
+draft: true
 topic: "Transparency"
 claim_date: "June 29, 2026"
 source: "Facebook Video (constituent)"
