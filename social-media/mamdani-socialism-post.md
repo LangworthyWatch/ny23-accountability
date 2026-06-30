@@ -18,7 +18,7 @@ Public help for working people gets called "communism." Permanent tax breaks for
 
 Sources: PolitiFact, Al Jazeera, Congressional Budget Office, Joint Committee on Taxation.
 
-Full fact-check: langworthywatch.org/fact-checks/2026-06-30-mamdani-primaries-socialist-claim/ (live once the entry is published)
+Full fact-check: langworthywatch.org/fact-checks/2026-06-30-mamdani-primaries-socialist-claim/
 
 ---
 
