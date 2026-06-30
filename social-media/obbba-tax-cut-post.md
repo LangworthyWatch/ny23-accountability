@@ -12,7 +12,7 @@ Two things the post leaves out: it isn't the largest, and it isn't paid for.
 
 → As a share of the economy (how economists compare tax cuts across eras), it's about the 6th largest since 1940. Reagan's 1981 cut was more than double the size.
 
-→ It adds $4.1 trillion to the national debt over ten years, and $5.5 trillion if the provisions set to expire in 2028 get extended (which is what happened with the 2017 cuts). Growth doesn't close the gap: every nonpartisan model says it recoups under a fifth of the cost.
+→ It adds $4.1 trillion to the national debt over ten years, and $5.5 trillion if the provisions set to expire in 2028 get extended (which is what happened with the 2017 cuts). That lands on a debt that already passed $39 trillion this year, near 130% of the economy. Growth doesn't close the gap: every nonpartisan model says it recoups under a fifth of the cost.
 
 → The "no tax on tips," "no tax on overtime," and auto-loan deductions he lists all expire in 2028. The business tax breaks and the estate-tax cut for estates over $15 million are permanent.
 
