@@ -38,9 +38,9 @@ This entry focuses on that fiscal question. (For the distribution and permanent-
 | Added debt service (interest) | +$718 billion | CBO Pub. 61466 |
 | **Total added to the debt, with interest** | **+$4.1 trillion** | CRFB |
 | If the 2028 sunsets are extended (as TCJA was) | **+$5.5 trillion** | CBO Pub. 61466; CRFB |
-| Debt-to-GDP by 2034 | **+~10 points** (toward ~124%); +13 if permanent | CBO Pub. 61466 |
+| Debt-to-GDP by 2034 | **+~10 points** (CRFB; CBO Pub. 61466 puts it at ~+9.5); +13 if permanent | CRFB / CBO |
 
-The arithmetic: ~$4.5T in gross tax cuts, partially offset by ~$1.3T in spending cuts (Medicaid ~$1.1T + SNAP ~$0.2T), nets to +$3.4T, plus ~$0.7T interest = **+$4.1T**.
+The arithmetic (CBO): lower revenues of ~$4.5 trillion against a net direct-spending cut of ~$1.1 trillion = **+$3.4 trillion**, plus ~$0.7 trillion interest = **+$4.1 trillion**. (The headline safety-net cuts — Medicaid/health ~$1.1T and SNAP ~$186B — are partly offset by *increases* elsewhere, e.g. border and defense, which is why the *net* direct-spending change is ~$1.1T.)
 
 **Growth does not pay for it.** Every nonpartisan model finds growth recoups only **16–19%** of the cost. CBO's *dynamic* score actually comes in *higher* — about **$4.7 trillion** — because the added debt pushes up interest rates and crowds out private investment. That is the direct rebuttal to "it pays for itself."
 
@@ -55,10 +55,10 @@ The arithmetic: ~$4.5T in gross tax cuts, partially offset by ~$1.3T in spending
 A deficit-financed tax cut does **not** shift onto *current* other taxpayers. The honest — and more damning — version is that it shifts in three specific directions:
 
 1. **To future taxpayers**, through ~$4.1T of added debt plus compounding interest. *(Illustratively, ~$31,000 per household — that is this entry's arithmetic on the CRFB debt total ÷ ~132M households, not a published CRFB figure. Treat it as illustrative, not a hard number.)*
-2. **To low-income people now.** The offsets are not abstract: ~$1.1 trillion in Medicaid/health cuts and ~$206 billion in SNAP cuts pay for part of the tax cut. The Penn Wharton Budget Model finds the bottom fifth of households loses income by 2030 — they pay in lost coverage and benefits, today.
-3. **To everyone later**, through slower growth. Penn Wharton projects GDP about 1.5% lower by year 30 from capital crowd-out, and concludes "all future generations are worse off."
+2. **To low-income people now.** The offsets are not abstract: ~$1.1 trillion in Medicaid/health cuts and ~$186 billion in SNAP cuts pay for part of the tax cut. The Penn Wharton Budget Model finds the bottom fifth of households loses income by 2030 (about −$885, −5.4%) — they pay in lost coverage and benefits, today.
+3. **To everyone later**, through slower growth. Penn Wharton projects GDP about 4.6% lower by 2054 from capital crowd-out, and concludes "all future generations are worse off."
 
-Meanwhile the gains *now* concentrate at the top. The Tax Policy Center finds roughly **60% of the benefit goes to the top quintile** and **over 35% to the top 5%**; CBO finds the **top 1% gain more than $50,000 a year** while the bottom decile is worse off on net once the paired Medicaid/SNAP cuts are counted.
+Meanwhile the gains *now* concentrate at the top. CBO's distributional analysis of the enacted law finds the **top tenth of households gains about $13,600 a year**, while the **lowest tenth loses about $1,200 (−3.1%)** once the paired Medicaid and SNAP cuts are counted.
 
 **In plain language:** present gains routed up; deferred debt and safety-net costs routed down. The anniversary post shows the first half and omits the second.
 
@@ -66,14 +66,14 @@ Meanwhile the gains *now* concentrate at the top. The Tax Policy Center finds ro
 
 ## The One Caveat You Must Carry: the Baseline
 
-The $3.4T figure uses **current-law** scoring (the longstanding convention). The bill's Senate authors used a **current-policy** baseline that treats extending the 2017 cuts as free, which makes the law look roughly deficit-neutral. The gap between the two is about **$3.8 trillion** — and that objection is not partisan: Republican budget hawks rejected current-policy scoring themselves (Rep. Chip Roy called it "fairy dust"; Budget Chairman Jodey Arrington, "an absolute non-starter"). The borrowing is real regardless of the label. Always state which baseline a number uses.
+The $3.4T figure uses **current-law** scoring (the longstanding convention). The bill's Senate authors used a **current-policy** baseline that treats extending the 2017 cuts as free, which makes the law look roughly deficit-neutral. The gap between the two is about **$3.8 trillion** — and that objection is not partisan: Republican budget hawks rejected current-policy scoring themselves (Rep. Chip Roy called it "magic fairy dust"; Budget Chairman Jodey Arrington called it "a non-starter"). The borrowing is real regardless of the label. Always state which baseline a number uses.
 
 ---
 
 ## Questions This Raises
 
 1. If the law adds $4.1 trillion to the debt ($5.5T if extended) and growth recoups under a fifth of the cost, on what basis is it a "tax cut" rather than a deferred tax increase?
-2. Why does the anniversary post omit the ~$1.1 trillion in Medicaid/health and ~$206 billion in SNAP cuts that fund part of it?
+2. Why does the anniversary post omit the ~$1.1 trillion in Medicaid/health and ~$186 billion in SNAP cuts that fund part of it?
 3. The provisions advertised to workers expire in 2028 while the business and estate provisions are permanent — who bears the cost, and when?
 
 ---
@@ -91,15 +91,15 @@ The $3.4T figure uses **current-law** scoring (the longstanding convention). The
 - CBO Pub. 61570 (final score): <https://www.cbo.gov/publication/61570>
 - CBO Pub. 61466 (permanent / debt-service): <https://www.cbo.gov/publication/61466>
 - CBO Pub. 61486 (dynamic score): <https://www.cbo.gov/publication/61486>
+- CBO Pub. 61367 (distributional analysis, by decile): <https://www.cbo.gov/publication/61367>
 - CRFB — current-policy baseline gimmick: <https://www.crfb.org/blogs/current-policy-baseline-gimmick-could-explode-debt>
 - CRFB — what's in the OBBBA: <https://www.crfb.org/blogs/whats-one-big-beautiful-bill-act>
 - Penn Wharton Budget Model — signed-bill analysis: <https://budgetmodel.wharton.upenn.edu/issues/2025/7/8/president-trump-signed-reconciliation-bill-budget-economic-and-distributional-effects>
-- Tax Policy Center — distribution: <https://taxpolicycenter.org/taxvox/tpc-finds-final-house-budget-bill-cuts-average-taxes-2900-mostly-high-income-households>
 - Tax Foundation — is OBBBA the largest tax cut?: <https://taxfoundation.org/blog/obbba-largest-tax-cut-in-american-history/>
 - Vote: House Roll Call 190 (July 3, 2025), passed 218–214 — Langworthy voted Yes (only Reps. Massie and Fitzpatrick voted no among Republicans).
 
 ---
 
-**Note:** This entry documents publicly available CBO/JCT scores and nonpartisan analyses. It does not allege wrongdoing; it documents what the anniversary post claims and what it omits. The $31,000-per-household figure is an illustrative derivation, not a published estimate.
+**Note:** This entry documents publicly available CBO/JCT scores and nonpartisan analyses. It does not allege wrongdoing; it documents what the anniversary post claims and what it omits. The $31,000-per-household figure is an illustrative derivation, not a published estimate. (P.L. 119-21's official short title was struck in the Senate; H.Res.1383 commemorates it as the "Working Families Tax Cuts," and it is commonly referred to as the One Big Beautiful Bill Act / OBBBA.)
 
 *Last updated: June 30, 2026*
