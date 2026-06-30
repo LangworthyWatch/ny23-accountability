@@ -22,7 +22,8 @@ The people who gain the least pay twice: in lost benefits now, and in debt later
 
 Sources: Congressional Budget Office, Joint Committee on Taxation, Tax Foundation, Committee for a Responsible Federal Budget.
 
-Full fact-check: langworthywatch.org/fact-checks/2026-06-30-largest-tax-cut-anniversary/ (live once the entry is published)
+Full fact-check: langworthywatch.org/fact-checks/2026-06-30-largest-tax-cut-anniversary/
+Graphic: langworthywatch.org/graphics/obbba-deficit-infographic
 
 ---
 

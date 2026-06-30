@@ -46,7 +46,7 @@ The arithmetic (CBO): lower revenues of ~$4.5 trillion against a net direct-spen
 
 **The "largest in history" boast is false on the standard metric.** As a share of GDP — how economists compare across eras — the Tax Foundation ranks it about **sixth largest since 1940** (1.40% of GDP); Reagan's 1981 cut was more than double. It leads only in raw nominal dollars.
 
-<iframe src="/graphics/obbba-deficit-infographic.html" width="100%" height="900" frameborder="0" scrolling="no" title="OBBBA fiscal cost and who bears it"></iframe>
+<iframe src="/graphics/obbba-deficit-infographic" width="100%" height="900" frameborder="0" scrolling="no" title="OBBBA fiscal cost and who bears it"></iframe>
 
 ---
 
