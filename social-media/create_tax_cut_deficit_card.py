@@ -41,8 +41,8 @@ hero_h=252
 draw.rounded_rectangle([(44,y),(WIDTH-44,y+hero_h)],radius=10,fill="#FFF5F5",outline="#FEB2B2",width=2)
 draw.text((WIDTH//2,y+30),"WHAT THE POST LEAVES OUT: IT ISN'T PAID FOR",fill=RED,font=f_label_s,anchor="mm")
 draw.text((WIDTH//2,y+112),"+$4.1T",fill=RED,font=f_hero,anchor="mm")
-draw.text((WIDTH//2,y+200),"added to the national debt over ten years",fill=DARK,font=f_sub_b,anchor="mm")
-draw.text((WIDTH//2,y+230),"$5.5 trillion if the 2028 breaks are extended  ·  growth recoups under 1/5 of the cost",
+draw.text((WIDTH//2,y+200),"added to a debt already past $39 trillion",fill=DARK,font=f_sub_b,anchor="mm")
+draw.text((WIDTH//2,y+230),"near 130% of GDP  ·  $5.5 trillion more if the 2028 breaks are extended",
           fill=MUTED,font=f_small,anchor="mm")
 y+=hero_h+18
 
@@ -53,7 +53,7 @@ draw.text((WIDTH//2,y+22),"WHO GAINS, AND WHO PAYS",fill=NAVY,font=f_label,ancho
 third=(WIDTH-88)//3
 for i,(val,l1,l2,c) in enumerate([
     ("+$13,600","top 10%, per year","gains now (CBO)",GREEN),
-    ("−$1,200","bottom 10%, per year","worse off now (CBO)",RED),
+    ("−$1,200","bottom 10%, per year","worse off, no tax cut (CBO)",RED),
     ("$4.1T","future taxpayers","inherit the debt, later",NAVY),
 ]):
     cx=44+i*third+third//2
@@ -65,9 +65,9 @@ y+=strip_h+16
 # -- Kicker --
 kick_h=92
 draw.rounded_rectangle([(44,y),(WIDTH-44,y+kick_h)],radius=8,fill=NAVY)
-draw.text((WIDTH//2,y+28),"Not the largest in history, and not paid for. Temporary breaks go to workers;",
+draw.text((WIDTH//2,y+28),"Sold as a family tax cut. For the lowest-income households it wasn't one at all:",
           fill=LIGHTGRAY,font=font("Arial.ttf",17),anchor="mm")
-draw.text((WIDTH//2,y+60),"permanent ones to capital. The cost shifts down to the poor now, and forward to everyone later.",
+draw.text((WIDTH//2,y+60),"after the Medicaid and SNAP cuts that pay for it, they come out behind, not ahead.",
           fill=WHITE,font=font("Arial Bold.ttf",18),anchor="mm")
 y+=kick_h+14
 draw.text((WIDTH//2,y),"Sources: CBO  ·  Joint Committee on Taxation  ·  Tax Foundation  ·  CRFB  ·  Penn Wharton",
