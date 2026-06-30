@@ -108,6 +108,16 @@ A cluster of smaller contributions from engineers, attorneys, and managers at th
 
 ---
 
+## The Office: A Relocation Into the County Where Many of These Donors Live
+
+In spring 2026, Langworthy closed his **Corning** district office — in Corning (Steuben County), Corning Incorporated's headquarters town — and opened a new district office in **Elmira** (Chemung County), effective June 1, 2026. A substantial share of Corning Inc.'s workforce, including senior executives, lives across the county line in Chemung County: in Elmira, Horseheads, and Big Flats. Several of the donors documented above are in that group.
+
+The result is a documented geographic overlap: the office moved from the company's headquarters town into the county where many of the company's employees — and several of its donors to Langworthy — actually live. The relocation, the donor geography, and Langworthy's "strengthening our presence in Chemung County" framing are documented in detail in [Two Offices Closed, One Moved](/fact-checks/2026-06-02-district-office-consolidation/).
+
+**What this does and does not say.** This is a geographic fact, not a motive. Langworthy's office cited operational and security considerations for the office changes, and the reasons could include real-estate cost, staff geography, or some combination; public records cannot resolve why the office moved. This entry notes only that the relocation placed the office nearer the Chemung-County residences of part of the Corning donor cluster.
+
+---
+
 ## The Timeline
 
 | Date | Event |
@@ -121,6 +131,7 @@ A cluster of smaller contributions from engineers, attorneys, and managers at th
 | Jul. 4, 2025 | OBBBA signed into law; 45X credits preserved; semiconductor credit raised to 35% |
 | Jul. 21, 2025 | Corning acquires JA Solar's Arizona factory, citing FEOC rules |
 | Sep.–Oct. 2025 | CEO, CFO, CTO, general counsel, government affairs staff donate to Langworthy |
+| May–Jun. 2026 | Langworthy closes the Corning (Steuben) district office and opens one in Elmira (Chemung), nearer many Corning employees' residences |
 
 ---
 
@@ -131,14 +142,26 @@ A cluster of smaller contributions from engineers, attorneys, and managers at th
 - OBBBA preserved the 45X solar wafer credit Corning's Michigan plant relies on, boosted the semiconductor manufacturing credit to 35%, and imposed FEOC restrictions that advantage Corning's domestic supply chain. Those are in the text of P.L. 119-21.
 - Langworthy voted YES on Roll Call 190 (July 3, 2025). That is a public congressional record.
 - 62 Corning employees donated $65,775 to Langworthy's committees, primarily in September–October 2025, after the vote. That is in public FEC filings.
+- In spring 2026 the district office relocated from Corning (Steuben County) to Elmira (Chemung County), the county where much of Corning's workforce — and several of these donors — live. That is in the announcements and FEC donor addresses (see the related office entry).
 
 **What is not documented:**
 - Any communication between Corning and Langworthy about the 45X provisions.
 - Any explicit connection between the lobbying, the vote, and the donations.
+- Why the district office moved — operational, security, cost, staff geography, or otherwise; public records cannot resolve the reason.
 - Any quid pro quo of any kind.
 
 A few clarifications worth noting: Langworthy represents the district where Corning is headquartered, so some level of constituent giving by employees is expected and routine. The post-vote timing of the largest donations — unlike the nursing home donations, which all arrived before the vote — means the pattern here is different: it resembles post-passage gratitude giving rather than pre-vote pressure giving. Whether it represents anything beyond a company whose hometown member voted for a bill that benefited it is not something public records can answer.
 
 ---
 
+## Related Entries
+
+- [Two Offices Closed, One Moved: NY-23 District Presence in 2026 and the Donor Geography Behind It](/fact-checks/2026-06-02-district-office-consolidation/)
+- [The 'Largest Tax Cut in History,' by the Deficit](/fact-checks/2026-06-30-largest-tax-cut-anniversary/) — the same law (P.L. 119-21), by its fiscal cost
+- [The Disclosure Gap: Donations, Legislation, and What the Announcements Leave Out](/fact-checks/2026-06-24-disclosure-gap-donor-pattern/)
+
+---
+
 *All data from public primary sources: FEC.gov bulk files, Senate lobbying disclosures, Congress.gov, P.L. 119-21. Methodology available on request.*
+
+*Updated June 30, 2026 to note the district-office relocation from Corning to Elmira.*
