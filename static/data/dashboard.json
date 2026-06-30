@@ -1,12 +1,12 @@
 {
-  "generated": "2026-06-24",
-  "total": 114,
+  "generated": "2026-06-30",
+  "total": 116,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 31,
-    "MISLEADING": 26,
+    "MISLEADING": 27,
     "DOCUMENTED PATTERN": 21,
-    "CONTRADICTION": 12,
+    "CONTRADICTION": 13,
     "FALSE": 9,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
@@ -18,9 +18,9 @@
     "INCONSISTENT": 1
   },
   "by_topic": {
-    "Healthcare": 13,
+    "Healthcare": 14,
+    "Economy": 12,
     "Government Operations": 12,
-    "Economy": 11,
     "Other": 8,
     "Immigration": 7,
     "Campaign Finance": 6,
@@ -61,9 +61,23 @@
     "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
-    "2026-06": 18
+    "2026-06": 20
   },
   "entries": [
+    {
+      "title": "\\\"For All of the Bills Mafia\\\": The $850 Million Public Stadium With Nearly 10,000 Fewer Seats",
+      "date": "2026-06-27",
+      "verdict": "MISLEADING",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-06-27-bills-stadium-public-money-mafia/"
+    },
+    {
+      "title": "He Met With the Cystic Fibrosis Foundation. He Voted for the Bill It Condemned.",
+      "date": "2026-06-27",
+      "verdict": "CONTRADICTION",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-06-27-cystic-fibrosis-nih-credit-claim/"
+    },
     {
       "title": "The Disclosure Gap: Donations, Legislation, and What the Announcements Leave Out",
       "date": "2026-06-24",
