@@ -48,6 +48,22 @@ Langworthy, a member of the House Energy and Commerce Committee (which advanced 
 
 ---
 
+## What "Age Verification" Actually Collects — and Why It Matters
+
+The privacy debate over this bill turns on a detail the word "verification" hides: **checking someone's age online is not a simple yes-or-no question — it requires collecting something from the user.** Understanding that collection (what privacy researchers call *data extraction*) is the key to understanding why digital-rights groups across the spectrum object.
+
+**How an age check actually works.** A website cannot confirm your age by asking. In practice it routes you to a third-party verification vendor (companies such as Persona, Yoti, or Onfido) that either (a) scans a government ID you upload, or (b) estimates your age from a **biometric face scan** ("facial age estimation"). Either way, proving you are an adult means handing a private company a driver's-license image or a scan of your face.
+
+**Where that data goes.** Once collected, that ID image or facial-geometry data lives in commercial systems governed by company terms of service — not by the stronger public-law protections that cover, for example, federal records. Verification vendors have themselves been breached. The Cato Institute, a libertarian think tank, warns that online age-verification "could create more problems than it solves," and the Electronic Frontier Foundation notes the mandates force users "to reveal sensitive data" to use the internet. These are not partisan objections; they are about the mechanics of who holds your data after the check.
+
+**What is at stake: the open internet.** The ability to read, search, and speak online *without first identifying yourself* is what makes the internet usable for whistleblowers, domestic-violence survivors, people researching a health diagnosis or addiction, and ordinary users who simply value privacy. Age-verification mandates push toward an internet where routine access is gated behind an ID or a face scan.
+
+**Why this connects to his other vote.** The bill that would govern what happens to all this newly extracted data — the **SECURE Data Act (H.R. 8413), which Langworthy cosponsors** — contains **no private right of action** (Section 12: enforcement only by the FTC and state attorneys general). A person whose ID or biometric data is misused could not sue the company directly. Its "relates to" preemption clause (Section 15) would also override stronger state privacy protections. So the same record that incentivizes *more* collection of sensitive data also backs *removing* an individual's ability to sue over its misuse.
+
+**In plain language:** "age verification" sounds like a yes/no gate, but it works by extracting sensitive ID or biometric data into private systems — and the companion bill he cosponsors would remove your ability to sue if that data is misused. That is why "strengthens privacy protections" omits the other half of the ledger.
+
+---
+
 ## Questions This Raises
 
 1. If the bill "holds Big Tech accountable," why did the House remove the "duty of care" provision that was the core accountability mechanism?
@@ -74,7 +90,9 @@ Langworthy, a member of the House Energy and Commerce Committee (which advanced 
 - H.R. 7757 (119th) — "Promoting a Safe Internet for Minors Act" / KIDS Act: <https://www.congress.gov/bill/119th-congress/house-bill/7757>
 - House Roll Call 228 (June 29, 2026; Langworthy: Yea): <https://clerk.house.gov/Votes/2026228>
 - ACLU — urges Congress to vote against the KIDS Act: <https://www.aclu.org/press-releases/aclu-urges-congress-to-vote-against-online-censorship-proposed-in-the-kids-act>
-- Langworthy statement (The Wellsville Sun): <https://wellsvillesun.com/blog/2026/06/30/langworthy-hails-passage-of-kids-act/>
+- Cato Institute — online age verification could create more problems than it solves: <https://www.cato.org/commentary/online-age-verification-could-create-more-problems-it-solves>
+- H.R. 8413 (SECURE Data Act), GPO-authenticated introduced text — Sec. 12 (no private right of action), Sec. 15 (preemption), Sec. 16(30) (biometric as "sensitive data"); cosponsor line lists "Mr. Langworthy": <https://www.govinfo.gov/content/pkg/BILLS-119hr8413ih/html/BILLS-119hr8413ih.htm>
+- Langworthy statement (official; also via The Wellsville Sun): <https://langworthy.house.gov/media/press-releases/statement-on-passage-kids-act>, <https://wellsvillesun.com/blog/2026/06/30/langworthy-hails-passage-of-kids-act/>
 
 ---
 
