@@ -42,6 +42,8 @@ This entry focuses on that fiscal question. (For the distribution and permanent-
 
 The arithmetic (CBO): lower revenues of ~$4.5 trillion against a net direct-spending cut of ~$1.1 trillion = **+$3.4 trillion**, plus ~$0.7 trillion interest = **+$4.1 trillion**. (The headline safety-net cuts — Medicaid/health ~$1.1T and SNAP ~$186B — are partly offset by *increases* elsewhere, e.g. border and defense, which is why the *net* direct-spending change is ~$1.1T.)
 
+**For scale.** That $4.1 trillion is added to a federal debt that had already reached roughly **$39.3 trillion** by June 2026 — about **$31.6 trillion** of it held by the public (U.S. Treasury, "Debt to the Penny"). Gross debt now runs near 130% of GDP; debt held by the public — the measure CBO uses — is about 104% and is projected to climb toward ~124% by 2034, a rise this law contributes to.
+
 **Growth does not pay for it.** Every nonpartisan model finds growth recoups only **16–19%** of the cost. CBO's *dynamic* score actually comes in *higher* — about **$4.7 trillion** — because the added debt pushes up interest rates and crowds out private investment. That is the direct rebuttal to "it pays for itself."
 
 **The "largest in history" boast is false on the standard metric.** As a share of GDP — how economists compare across eras — the Tax Foundation ranks it about **sixth largest since 1940** (1.40% of GDP); Reagan's 1981 cut was more than double. It leads only in raw nominal dollars.
@@ -92,6 +94,8 @@ The $3.4T figure uses **current-law** scoring (the longstanding convention). The
 - CBO Pub. 61466 (permanent / debt-service): <https://www.cbo.gov/publication/61466>
 - CBO Pub. 61486 (dynamic score): <https://www.cbo.gov/publication/61486>
 - CBO Pub. 61367 (distributional analysis, by decile): <https://www.cbo.gov/publication/61367>
+- U.S. Treasury — Debt to the Penny (total + public debt, June 2026): <https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/>
+- CRFB — gross national debt reaches $39 trillion: <https://www.crfb.org/press-releases/gross-national-debt-reaches-39-trillion>
 - CRFB — current-policy baseline gimmick: <https://www.crfb.org/blogs/current-policy-baseline-gimmick-could-explode-debt>
 - CRFB — what's in the OBBBA: <https://www.crfb.org/blogs/whats-one-big-beautiful-bill-act>
 - Penn Wharton Budget Model — signed-bill analysis: <https://budgetmodel.wharton.upenn.edu/issues/2025/7/8/president-trump-signed-reconciliation-bill-budget-economic-and-distributional-effects>
