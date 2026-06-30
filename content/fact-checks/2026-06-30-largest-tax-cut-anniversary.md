@@ -6,7 +6,7 @@ topic: "Economy / Taxes"
 claim_date: "June 30, 2026"
 source: "Facebook Post"
 source_url: "https://www.congress.gov/bill/119th-congress/house-resolution/1383"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260630154650/https://taxfoundation.org/blog/obbba-largest-tax-cut-in-american-history/"
 verdict: "MISLEADING"
 tags: ["one-big-beautiful-bill", "obbba", "deficit", "debt", "tax-policy", "medicaid", "snap", "distribution", "hres1383", "fact-check"]
 counties: ["district-wide"]

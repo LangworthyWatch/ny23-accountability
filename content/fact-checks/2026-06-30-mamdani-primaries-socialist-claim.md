@@ -1,12 +1,12 @@
 ---
 title: "'Socialist' Fits, 'Communist' Doesn't — and the Redistribution Langworthy Condemns in Mamdani He Made Permanent in His Own Tax Law"
 date: 2026-06-30
-draft: true
+draft: false
 topic: "Other"
 claim_date: "June 2026"
 source: "Facebook Post"
 source_url: "https://rollcall.com/2026/06/23/goldman-espaillat-lose-new-york-primaries-to-mamdani-backed-challengers/"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260630154713/https://www.politifact.com/factchecks/2025/jun/26/donald-trump/Zohran-Mamdani-democratic-socialist-communist-NYC/"
 verdict: "MISLEADING"
 tags: ["mamdani", "socialism", "communism", "rhetoric", "redistribution", "obbba", "corporate-subsidies", "framing", "fact-check"]
 counties: ["district-wide"]
@@ -85,10 +85,10 @@ The post's deeper claim is a principle: that when government decides who keeps w
 - PolitiFact — Mamdani 2021 "seizing the means of production" (aspiration, lacked support): <https://www.politifact.com/article/2025/jul/03/seizing-means-production-Zohran-Mamdani/>
 - DSA — program ("public ownership and democratic control" of "the largest corporations"): <https://platform.dsausa.org/program/>
 - Mamdani campaign platform (grocery pilot, rent freeze, childcare, fare-free buses): <https://www.zohranfornyc.com/platform>
-- St. Paul, KS municipal grocery (city-run since 2013) — Rural Grocery Initiative *(pin exact URL before publish)*
+- St. Paul, KS municipal grocery (city assumed operation 2013) — Rural Grocery Initiative case study: <https://www.ruralgrocery.org/learn/publications/case-studies/St_Paul_Success_Story.pdf>
 - CBO Pub. 61367 (OBBBA distributional analysis, by decile): <https://www.cbo.gov/publication/61367>
 - CRS R48611 (OBBBA provisions / JCT figures): <https://www.everycrsreport.com/reports/R48611.html>
-- Cato Institute — federal corporate welfare ~$181B (2024) *(pin exact URL before publish)*
+- Cato Institute — "Corporate Welfare in the Federal Budget" (~$181B, 2024; Chris Edwards): <https://www.cato.org/policy-analysis/corporate-welfare-federal-budget-0>
 - Good Jobs First — "as much as $90 billion" (state/local subsidies), archived: <https://web.archive.org/web/20260617124832/https://goodjobsfirst.org/about/>
 - Energy Choice Act (H.R. 3699) + State Energy Accountability Act (H.R. 3157): see related entries
 

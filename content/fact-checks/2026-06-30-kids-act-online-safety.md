@@ -1,12 +1,12 @@
 ---
 title: "\"Holds Big Tech Accountable\": The KIDS Act Langworthy Hailed Had Its Core Accountability Provision Stripped — and Civil-Liberties Groups Say It Weakens Privacy"
 date: 2026-06-30
-draft: true
+draft: false
 topic: "Consumer Protection / Privacy"
 claim_date: "June 30, 2026"
 source: "Facebook Post"
 source_url: "https://www.nbcnews.com/tech/tech-news/kids-internet-and-digital-safety-act-passes-house-free-speech-concerns-rcna352341"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260630142736/https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online"
 verdict: "MISSING CONTEXT"
 tags: ["kids-act", "kosa", "coppa", "online-safety", "privacy", "big-tech", "energy-commerce", "free-speech", "fact-check"]
 counties: ["district-wide"]

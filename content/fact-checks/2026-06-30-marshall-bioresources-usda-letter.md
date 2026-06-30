@@ -1,12 +1,12 @@
 ---
 title: "Langworthy and Malliotakis Press USDA on Marshall BioResources. The Letter's Facts Mostly Hold Up."
 date: 2026-06-30
-draft: true
+draft: false
 topic: "Animal Welfare"
 claim_date: "June 26, 2026"
 source: "Facebook Post"
 source_url: "https://www.congress.gov/bill/119th-congress/house-bill/349"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260630154823/https://riseforanimals.org/news/inside-marshall/"
 verdict: "MOSTLY TRUE"
 tags: ["animal-welfare", "marshall-bioresources", "usda", "aphis", "goldies-act", "oversight", "fact-check"]
 counties: []
