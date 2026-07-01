@@ -1,5 +1,5 @@
 ---
-title: "\"400,000 New Yorkers Lose Health Insurance Today\": The Essential Plan Cliff, the Affordability Trap, and Where the Money Went"
+title: "\"450,000 New Yorkers Lose Health Insurance Today\": The Essential Plan Cliff, the Affordability Trap, and Where the Money Went"
 date: 2026-07-01
 draft: false
 topic: "Healthcare"
@@ -14,7 +14,7 @@ counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler
 
 ## Why This Matters
 
-A claim circulating today — that roughly **400,000 New Yorkers lose health insurance on July 1, 2026** — is essentially accurate, and if anything it understates the number. Today New York's Section 1332 waiver terminates, and the **Essential Plan** (the state's $0-premium, low-cost-sharing coverage) stops covering people between 200% and 250% of the federal poverty level. The state's own health department puts the figure at about **450,000**; independent analysts put it at **462,000–470,000**.
+A claim circulating today — that roughly **450,000 New Yorkers lose health insurance on July 1, 2026** — matches the state's own count. Today New York's Section 1332 waiver terminates, and the **Essential Plan** (the state's $0-premium, low-cost-sharing coverage) stops covering people between 200% and 250% of the federal poverty level. The New York State Department of Health puts the figure at about **450,000**; independent analysts put it as high as **462,000–470,000**.
 
 Two things the headline number leaves out are the real story: **who these people are and whether they can afford the alternative**, and **why the funding disappeared in the first place**. The New York State Department of Health names the cause directly: H.R. 1, the "One Big Beautiful Bill Act" (Public Law 119-21) — the federal law **Rep. Langworthy voted for**. And the Congressional Budget Office documents where the money went.
 
@@ -24,7 +24,7 @@ Two things the headline number leaves out are the real story: **who these people
 
 **Source:** Widely circulating around the July 1 coverage cliff
 
-> "400,000 New Yorkers will lose their health insurance today."
+> "450,000 New Yorkers will lose their health insurance today."
 
 ---
 
@@ -32,11 +32,11 @@ Two things the headline number leaves out are the real story: **who these people
 
 | Element of the claim | Verdict | Detail |
 |---|---|---|
-| The number ("400,000") | **UNDERSTATED** | NY DOH: ~**450,000** become ineligible; Step Two Policy: **462,000**; Fiscal Policy Institute: **470,000** |
+| The number ("450,000") | **TRUE** | Matches NY DOH's own count (~**450,000** become ineligible); Step Two Policy: **462,000**; Fiscal Policy Institute: **470,000** |
 | The date ("today," July 1, 2026) | **TRUE** | The Section 1332 waiver terminates July 1, 2026; the Essential Plan income limit drops from 250% to 200% FPL |
 | "Lose their health insurance" | **MOSTLY TRUE (needs precision)** | They lose the **$0-premium Essential Plan** and become eligible to *buy* a subsidized marketplace plan; they are not all instantly uninsured — but the affordability evidence (below) shows most are unlikely to take up the alternative |
 
-**In plain language:** the scale and timing are right, and the real figure is higher than 400,000. The only imprecision is "lose insurance" — technically these New Yorkers lose their free plan and are offered a costlier one. Whether that counts as "losing insurance" depends on whether they can afford what's left, which is the next section.
+**In plain language:** the number and the timing are right — 450,000 is the state's own figure. The only imprecision is "lose insurance" — technically these New Yorkers lose their free plan today and are offered a costlier one. Whether that counts as "losing insurance" depends on whether they can afford what's left, which is the next section.
 
 ---
 
@@ -70,7 +70,7 @@ Two things the headline number leaves out are the real story: **who these people
 
 ## Where the Money Went (What the CBO Said)
 
-The Essential Plan funding did not simply vanish. New York's DOH states the loss is **"a direct result of H.R. 1 (Public Law No. 119-21), the federal budget legislation championed by Congressional Republicans that eliminated funding for the expanded Essential Plan"** — specifically by ending premium-tax-credit eligibility for most lawfully present immigrants, which erased about half of the program's roughly $14 billion in funding.
+The Essential Plan funding did not simply vanish. New York's DOH states the loss is **"a direct result of H.R. 1 (Public Law No. 119-21), the federal budget legislation championed by Congressional Republicans that eliminated funding for the expanded Essential Plan"** — specifically by ending premium-tax-credit eligibility for most lawfully present immigrants, which erased about half of the program's funding.
 
 Zoom out to the whole law, and the Congressional Budget Office documents the trade. In its **Distributional Effects of Public Law 119-21** (August 11, 2025), CBO finds that over **2026–2034**:
 
@@ -78,9 +78,9 @@ Zoom out to the whole law, and the Congressional Budget Office documents the tra
 - Federal **taxes and cash transfers will increase household resources by $3.3 trillion** — the tax cuts.
 - CBO notes states will use the resulting benefit reductions in part **"to reduce taxes."**
 
-**Who gains and who loses.** CBO's distributional analysis (as reported by the Center on Budget and Policy Priorities and Thomson Reuters) found the effect is skewed by income: households in the **lowest income decile lose about $1,600 per year (−3.9% of income)**, mainly from Medicaid and SNAP cuts, while households in the **highest decile gain about $12,000 per year (+2.3%)**, mainly from tax reductions.
+**Who gains and who loses.** CBO's distributional analysis of the enacted law (as reported by Thomson Reuters) found the effect is skewed by income: households in the **lowest income decile lose about $1,200 per year (−3.1% of income)**, mainly from Medicaid and SNAP cuts, while households in the **highest decile gain about $13,600 per year**, mainly from tax reductions.
 
-**On coverage nationally.** CBO estimated H.R. 1 would increase the number of uninsured Americans by about **10 million by 2034**, rising to **more than 14 million** once the expiration of the enhanced ACA premium tax credits is included.
+**On coverage nationally.** CBO estimated H.R. 1 would increase the number of uninsured Americans by about **10 million by 2034**; the Center on Budget and Policy Priorities estimates **roughly 15 million** once the expiration of the enhanced ACA premium tax credits and related marketplace changes are included.
 
 **In plain language:** the money that had covered ~450,000 New Yorkers' health care was part of roughly **$900 billion** CBO says the law takes out of Medicaid and SNAP nationwide — while the law increases household resources by **$3.3 trillion**, concentrated at the top, mainly through tax cuts. The coverage cut and the tax cut are two sides of the same law.
 
@@ -125,6 +125,6 @@ The law New York's health department names as the direct cause of ~450,000 resid
 
 ---
 
-**Note:** This entry documents publicly available information and the estimates of named organizations. The ~450,000 figure is New York State's own; independent estimates range to 470,000. The "up to 80%" uninsured figure is a projection (Step Two Policy's phrasing: "may well"), and Step Two argues the state's original 1.5-million total estimate is likely too high; the concrete anchors are the ~450,000–470,000 losing Essential Plan coverage, the ~$250/month + $2,500-deductible replacement cost, and the 78,000 (~17%) historical take-up. CBO's $900 billion / $3.3 trillion figures are from its distributional analysis of the enacted law; the by-decile figures are from CBO's distributional analysis as reported by CBPP and Thomson Reuters. This entry does not allege wrongdoing; it documents a documented policy change, its cost to constituents, and the recorded vote.
+**Note:** This entry documents publicly available information and the estimates of named organizations. The ~450,000 figure is New York State's own; independent estimates range to 470,000. The "up to 80%" uninsured figure is a projection (Step Two Policy's phrasing: "may well"), and Step Two argues the state's original 1.5-million total estimate is likely too high; the concrete anchors are the ~450,000–470,000 losing Essential Plan coverage, the ~$250/month + $2,500-deductible replacement cost, and the 78,000 (~17%) historical take-up. CBO's $900 billion / $3.3 trillion figures are from its distributional analysis of the enacted law; the by-decile figures are from that same CBO enacted-law analysis as reported by Thomson Reuters. This entry does not allege wrongdoing; it documents a documented policy change, its cost to constituents, and the recorded vote.
 
 *Last updated: July 1, 2026*

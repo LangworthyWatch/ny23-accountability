@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Social card: Essential Plan cliff, July 1 2026. ~450,000 NYers lose free coverage.
-Claim '400,000 lose insurance today' is MOSTLY TRUE (understated); affordability +
+Claim '450,000 lose insurance today' is MOSTLY TRUE (matches the state's own count); affordability +
 CBO money-shift context. Light house style, 1080x1080, no em dashes."""
 
 from PIL import Image, ImageDraw, ImageFont
@@ -35,8 +35,8 @@ draw.line([(60,y),(WIDTH-60,y)],fill=BORDER,width=2); y+=16
 claim_h=96
 draw.rounded_rectangle([(44,y),(WIDTH-44,y+claim_h)],radius=8,fill="#FFFAF0",outline="#F6AD55",width=2)
 draw.text((76,y+16),"THE CLAIM  ·  circulating today",fill=ORANGE,font=f_label_s,anchor="lm")
-draw.text((76,y+52),'"400,000 New Yorkers lose their health insurance today."',fill=DARK,font=f_sub,anchor="lm")
-draw.text((76,y+78),"Right event, right date. The real number is higher.",fill=MUTED,font=f_small,anchor="lm")
+draw.text((76,y+52),'"450,000 New Yorkers lose their health insurance today."',fill=DARK,font=f_sub,anchor="lm")
+draw.text((76,y+78),"Right event, right date, and it is the state's own count.",fill=MUTED,font=f_small,anchor="lm")
 y+=claim_h+16
 
 # two columns: claimed vs data

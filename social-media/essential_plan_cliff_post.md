@@ -3,7 +3,7 @@ Companion to essential_plan_cliff_card.png and the fact-check.
 
 ---
 
-Today, about 450,000 New Yorkers lose the Essential Plan, the free health coverage they had through the state. You may have seen the number "400,000." It is real, and it is actually a little low.
+Today, about 450,000 New Yorkers lose the Essential Plan, the free health coverage they had through the state. That is the New York State Department of Health's own count.
 
 Here is what the headline leaves out: who loses it, and whether they can afford what is left.
 
