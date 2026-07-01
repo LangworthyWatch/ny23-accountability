@@ -4,7 +4,7 @@ Pairs with `corning_convergence_card.png` or `corning_money_card.png`. Sourcing 
 
 ---
 
-## Finalized (house voice: no emoji, no em dash, arrow bullets)
+## Caption A — the convergence card (pairs with corning_convergence_card.png)
 
 Corning Incorporated is the largest private employer in NY-23, so its people backing their hometown congressman is not unusual. What the public record shows is a sequence worth seeing in one place.
 
@@ -21,4 +21,21 @@ Corning Incorporated is the largest private employer in NY-23, so its people bac
 We cannot prove a connection between the lobbying, the vote, and the money, and this does not claim one. It documents a sequence in the public record. You can decide what it means.
 
 Sources: FEC bulk files, Senate lobbying disclosures, House Clerk (Roll Call 190), P.L. 119-21.
+Full fact-check: langworthywatch.org/fact-checks/2026-05-29-corning-manufacturing-credits-obbba/
+
+---
+
+## Caption B — the "follow the money" card (pairs with corning_money_card.png)
+
+Corning Incorporated is NY-23's largest private employer, so its people giving to their hometown congressman is not unusual. But look at who gave, and when.
+
+→ 62 Corning employees gave Langworthy a combined $65,775.
+
+→ The largest checks came from the top: CEO Wendell Weeks ($5,000), the general counsel ($5,000), the CFO, the SVP controller, the head of government affairs, the CTO.
+
+→ Most of that money arrived in September and October 2025, after he voted (Roll Call 190) for the law that preserved Corning's manufacturing tax credits and raised its semiconductor credit from 25% to 35%.
+
+He represents Corning's hometown, so some employee giving is expected. Public records show the timing, not the reason. This does not claim a quid pro quo. It documents a sequence, and you can decide what it means.
+
+Sources: FEC bulk files, House Clerk (Roll Call 190), P.L. 119-21.
 Full fact-check: langworthywatch.org/fact-checks/2026-05-29-corning-manufacturing-credits-obbba/
