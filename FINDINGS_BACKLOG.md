@@ -171,6 +171,18 @@
 
 <!-- New Langworthy statements, votes, or actions worth a standalone entry -->
 
+### Elmira/Chemung Hazlett Building office lease — HELD (reframe-only, do not publish as a "giveaway")
+- **Date logged:** 2026-07-01
+- **Source:** Susan Wilkes (candidate, Chemung Co. Legislature D7) Facebook video, ~June 29–30 2026 (`https://www.facebook.com/share/v/1Bd5cyiK3K/`); reviewed for LW at a supporter's request. Transcript verified against the House lease docs.
+- **Type:** fact-check-lead
+- **Priority:** low (hold)
+- **Detail:** Two separate lease stories, both already assessed and **not** currently publishable:
+  - **(a) City Hall proposed below-market lease** — our entry `2026-06-29-elmira-city-hall-below-market-lease.md` (verdict MISSING CONTEXT) was **published then pulled** (commit `17f205b`; unpublished `b9a2614`; draft dropped `19b6628`; stale URL retired via `_redirects` 301 `4541300`). Recoverable from git history only. Reason it was pulled: the $13.50/sq ft City Hall offer was **withdrawn before signing** — a non-event, no money changed hands.
+  - **(b) Wilkes' executed-lease argument** (the video) — attacks the signed Hazlett Building lease ($855/mo, 510 sq ft, ~$20/sq ft): (1) armed guards + magnetometer are an uncharged amenity so the "bona fide arms-length marketplace transaction" certification is false; (2) a 1-yr term is impossible because the 119th Congress ends Jan 2, 2027 (only ~7 mo). **Numbers all verified** against Res. 26-218 (county's own "standard commercial rate" = $855/mo).
+- **Why held (not publishing):** The executed lease is **at market rate** (county's own label), so there's no below-market benefit to point at. Hazlett is the **county's own courthouse building** (5th-fl Legislature, 4th-fl courts) — the guards/magnetometer are **courthouse security** present regardless of Langworthy, and the county is the party *receiving* rent, so Wilkes' "reimburse the county for the guards" remedy is misdirected. No public lease listing exists for the space (checked LoopNet/OfficeSpace + county site) — placed by resolution, not a marketplace; that's the one durable *process* point, alongside the impossible 1-yr term. Amplifying a **candidate's** attack also risks LW's nonpartisan posture (same COI logic as the Erie/D11 pause).
+- **Action:** Do NOT restore/publish. Drafted a private correction to Wilkes (credit the term defect + no-real-marketplace point; correct the arms-length/reimbursement overstatements) — send that, not a post. If ever revisited, only as a narrow neutral *transparency/process* note (no-marketplace + defective term + existing donor-geography tie in `2026-06-02-district-office-consolidation`), explicitly NOT a giveaway claim.
+- **Status:** held
+
 ### Scaffold Law — June 16 2026 Facebook post (his own cost framing, on camera)
 - **Date logged:** 2026-06-24
 - **Source:** user-provided screenshot of Congressman Nick Langworthy FB page, posted **June 16, 2026, 3:00 PM**
@@ -210,6 +222,11 @@
 ## Closed / Resolved
 
 <!-- Findings acted on this session — kept for audit trail -->
+
+### SAVE Act — constituent vote question (Olean) + false "Feb 2026 re-passage" claim debunked
+- **Date logged:** 2026-07-01 · **Type:** verdict/source · **Status:** closed
+- **Detail:** Olean constituent asked whether Langworthy voted for the SAVE Act. **Verified via the official House Clerk roll-call XML** (`clerk.house.gov/evs/2025/roll102.xml`): H.R. 22, On Passage, **April 10, 2025, Roll Call 102, 220–208, Langworthy = Yea.** A widely-repeated web claim that the House **re-passed** SAVE on **Feb 11, 2026 (Roll Call 69, 218–213)** is **FALSE** — Roll 69/2026 is actually **S.1383, the Veterans Accessibility Advisory Committee Act** (confirmed via `clerk.house.gov/evs/2026/roll069.xml`). The SAVE Act's only 119th-Congress House passage is the April 2025 vote; June 2026 news is about it being **stalled in the Senate** (conservative push to force action; Langworthy quoted "It's a mess"). Reinforces CLAUDE.md failure mode #1 — an LLM search summary conflated two unrelated roll calls; only the Clerk XML resolved it.
+- **Disposition:** Live fact-check URL corrected — canonical slug is **`/fact-checks/2026-02-10-save-act-voter-id/`** (200); the un-dated `/fact-checks/save-act-voter-id/` **404s** (no permalink override; Hugo uses the dated filename). Constituent reply drafted with the dated URL.
 
 ### American Legion Post 1280 IRS-casework post (June 19) — considered, DROPPED (do not re-draft)
 - **Date logged:** 2026-06-24 · **Type:** fact-check-lead · **Status:** closed (decided against)
