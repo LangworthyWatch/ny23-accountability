@@ -39,3 +39,24 @@ He represents Corning's hometown, so some employee giving is expected. Public re
 
 Sources: FEC bulk files, House Clerk (Roll Call 190), P.L. 119-21.
 Full fact-check: langworthywatch.org/fact-checks/2026-05-29-corning-manufacturing-credits-obbba/
+
+---
+
+## Caption C — both cards in one post (convergence + follow-the-money together)
+
+Corning Incorporated is NY-23's largest private employer, so its people backing their hometown congressman is not unusual. But the public record lays out a sequence worth seeing in one place.
+
+→ While the 2025 reconciliation bill was being written, Corning spent more than $700,000 lobbying on it. Its own disclosures name the bill.
+
+→ The law that passed kept the manufacturing tax credit Corning's solar plant relies on, and raised its semiconductor credit from 25% to 35%.
+
+→ Langworthy voted yes (Roll Call 190) and called it "a generational win."
+
+→ Then 62 Corning employees gave him a combined $65,775. The biggest checks came from the top (CEO Wendell Weeks $5,000, the general counsel $5,000, the CFO, the SVP controller, the head of government affairs, the CTO), and most arrived in September and October 2025, after the vote.
+
+→ In spring 2026, his district office moved from Corning to Elmira, into the county where much of Corning's workforce lives.
+
+He represents Corning's hometown, so some employee giving is expected. Public records show the timing, not the reason. This does not claim a quid pro quo. It documents a sequence, and you can decide what it means.
+
+Sources: FEC bulk files, Senate lobbying disclosures, House Clerk (Roll Call 190), P.L. 119-21.
+Full fact-check: langworthywatch.org/fact-checks/2026-05-29-corning-manufacturing-credits-obbba/
