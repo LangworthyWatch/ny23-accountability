@@ -29,11 +29,12 @@ draw.text((WIDTH//2,y+th//2),tag,fill=GOLD,font=f_tag,anchor="mm"); y+=th+22
 draw.text((WIDTH//2,y),"The Consulting Firm on His Disclosures",fill=NAVY,font=f_topic,anchor="mm"); y+=38
 draw.line([(60,y),(WIDTH-60,y)],fill=BORDER,width=2); y+=16
 
-claim_h=110
+claim_h=136
 draw.rounded_rectangle([(44,y),(WIDTH-44,y+claim_h)],radius=8,fill="#FFFAF0",outline="#F6AD55",width=2)
-draw.text((76,y+18),"ON HIS FEDERAL DISCLOSURES  ·  2022, 2024, 2025",fill=ORANGE,font=f_label_s,anchor="lm")
-draw.text((76,y+50),"Spouse income source: Liberty Strategies LLC (Tonawanda, formed Jan 2019)",fill=DARK,font=f_sub,anchor="lm")
-draw.text((76,y+80),"Amount listed: N/A. House rules require the source, not the number.",fill=DARK,font=f_sub,anchor="lm")
+draw.text((76,y+18),"THE TIMELINE  ·  DOCUMENTED, NOT ALLEGED",fill=ORANGE,font=f_label_s,anchor="lm")
+draw.text((76,y+48),"His firm, Liberty Opinion Research: payments stop after 2018;",fill=DARK,font=f_sub,anchor="lm")
+draw.text((76,y+74),"\"closing the business\" announced July 2019 (Times Union).",fill=DARK,font=f_sub,anchor="lm")
+draw.text((76,y+104),"Jan 2019: similarly named Liberty Strategies LLC formed. On his filings: spouse income, amount N/A.",fill=DARK,font=f_small,anchor="lm")
 y+=claim_h+16
 
 col_w=(WIDTH-44*2-16)//2; col_h=340; lx=44; rx=lx+col_w+16
@@ -76,10 +77,10 @@ y+=strip_h+16
 
 kick_h=96
 draw.rounded_rectangle([(44,y),(WIDTH-44,y+kick_h)],radius=8,fill=NAVY)
-draw.text((WIDTH//2,y+32),"No allegation of wrongdoing. A spouse's career is normal and legal.",fill="#CBD5E0",font=font("Arial.ttf",17),anchor="mm")
-draw.text((WIDTH//2,y+64),"The gap is what disclosure rules leave invisible: amounts, clients, current work.",fill=WHITE,font=font("Arial Bold.ttf",17),anchor="mm")
+draw.text((WIDTH//2,y+32),"His town hall claim \"I don't trade stocks\" was checkable. We checked: true.",fill="#CBD5E0",font=font("Arial.ttf",17),anchor="mm")
+draw.text((WIDTH//2,y+64),"This income the rules let no one check. Not suspicion: a gap nobody can assess.",fill=WHITE,font=font("Arial Bold.ttf",17),anchor="mm")
 y+=kick_h+16
-draw.text((WIDTH//2,y),"Sources: House Clerk financial disclosures  ·  FEC  ·  NY Dept. of State  ·  NYS Board of Elections",
+draw.text((WIDTH//2,y),"Sources: House Clerk  ·  FEC  ·  NY Dept. of State  ·  NYS BOE  ·  Times Union  ·  June 25 town hall (20:30)",
           fill=MUTED,font=f_src,anchor="mm"); y+=24
 draw.text((WIDTH//2,y),"langworthywatch.org/fact-checks/2026-06-24-liberty-strategies-disclosure/",
           fill=NAVY,font=f_src,anchor="mm")

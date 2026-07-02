@@ -31,7 +31,19 @@ Rep. Langworthy's U.S. House financial disclosures list, under Schedule C (earne
 
 Under House rules, a filer must report the **source** of a spouse's earned income over $1,000, but **not the amount** — so every entry above lists the dollar figure as "N/A." The firm appears in three of these four reports; it is absent only from the 2023 report.
 
-**Liberty Strategies LLC** is a New York company formed **January 15, 2019**, based in Tonawanda. Langworthy's spouse, **Erin Baker Langworthy**, is the person listed as earning income from it. (Around the same period, Langworthy wound down a *separate* political polling firm he himself had run; a state GOP spokeswoman said in 2019 he was closing it as he became state party chair. The two firms have similar-sounding names but different principals and are not the same entity — a distinction worth stating because it is easy to conflate.)
+**Liberty Strategies LLC** is a New York company formed **January 15, 2019**, based in Tonawanda. Langworthy's spouse, **Erin Baker Langworthy**, is the person listed as earning income from it.
+
+---
+
+## Before Congress: the two Liberty firms
+
+The chronology matters, so here it is with sources — and with a caution against a conflation that has appeared in prior reporting.
+
+Before Congress, Langworthy ran **his own** polling and consulting firm, **Liberty Opinion Research**, started in 2016. His state financial disclosures reported it generating $20,000–$50,000 a year in 2016–2018 (Times Union, July 7, 2019), and New York State Board of Elections records show **$262,997.56 across 27 payments to the firm in the 2016–2018 election years — and none after 2018.** In July 2019, as he became state Republican chair, a state GOP spokeswoman told the Times Union: **"He is closing the business to devote his full energy to the state chairmanship role."**
+
+That same January — **January 15, 2019** — the similarly named **Liberty Strategies LLC** was formed in Tonawanda. Its documented clients were federal committees (below), and it appears on Langworthy's congressional filings as his wife's income source.
+
+**What this is and isn't:** the timing is documented — his firm's payments stop in 2018, the similarly named firm forms in January 2019, and the household consulting income continues. But these are **different firms with different principals**. Public records show no formal succession between them, and an August 2022 Investigative Post story that treated "Liberty Strategies" as the firm Langworthy said he would shut down conflated the two entities — the closure statement was about *Liberty Opinion Research*. We state only what the records show: the sequence in time.
 
 ---
 
@@ -73,6 +85,16 @@ We make **no allegation of wrongdoing.** The point is narrower: the disclosure r
 
 ---
 
+## The contrast: where the rules let you check, he checks out
+
+At his June 25, 2026 telephone town hall (official recording, 20:30), Langworthy told constituents: **"I don't trade stocks, I've never traded stocks since I've been in public office,"** describing his money as "mostly in the 401(k) system that the federal government has for employees and it's just in basic index funds."
+
+**We checked, because for stock trades the rules let anyone check.** The Clerk's filing indexes show he has never filed a Periodic Transaction Report (required within 45 days of any securities trade); his annual reports show one transaction ever — a July 2024 rollover of an old employer 401(k) into his federal Thrift Savings Plan — and his holdings are TSP funds and index funds. **The claim is true, and we say so.**
+
+That is precisely the point of this entry. Stock trading is checkable because Congress wrote rules that make it checkable — transaction reports, named assets, dated filings. Spouse consulting income is the opposite: a source with no amount, no clients, and no current-activity information. Where the disclosure regime allows verification, Langworthy's record verifies cleanly. Where it doesn't, neither confidence nor suspicion is possible — the record simply cannot be assessed. A member can be demonstrably above board on one side of the household ledger while the other side is invisible by design.
+
+---
+
 ## Questions This Raises
 
 1. Does Liberty Strategies have current clients, and who are they? Its last documented client payments were in 2022, yet it is listed as a 2024 and 2025 income source on the congressman's filings.
@@ -97,9 +119,12 @@ This entry is built from primary records: the four House financial-disclosure PD
 * FEC operating-expenditure data (Liberty Strategies LLC, Tonawanda, NY): <https://www.fec.gov/data/>
 * NY Department of State — Liberty Strategies LLC (DOS ID 5475707), formed 2019-01-15
 * NY State Board of Elections campaign-finance disclosure: <https://publicreporting.elections.ny.gov/>
+* Times Union (Chris Bragg), "Political power brokers are far from broke," July 7, 2019 — Liberty Opinion Research closure and income history: [archived](https://web.archive.org/web/20260119085719/https://www.timesunion.com/news/article/Political-power-brokers-are-far-from-broke-14069259.php)
+* Langworthy Telephone Town Hall, June 25, 2026 (official recording, stock-trading statement at 20:30): <https://www.youtube.com/watch?v=gxt8IJFyLJ8> · [machine transcript](/documents/2026-06-25-tele-town-hall-transcript.txt)
+* House Clerk financial-disclosure filing indexes 2023–2026 (no PTR filings): <https://disclosures-clerk.house.gov/FinancialDisclosure>
 
 ---
 
 **Note:** This entry documents publicly available financial-disclosure, FEC, and state records. It makes no allegation of unlawful conduct. Spouse employment and political consulting are lawful; the documented gap is between what the disclosure regime reveals (an income source) and what it leaves invisible (amount, clients, current activity).
 
-*Last updated: July 2, 2026*
+*Last updated: July 2, 2026 (chronology and town-hall contrast sections added same day)*
