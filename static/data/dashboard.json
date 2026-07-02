@@ -1,24 +1,24 @@
 {
-  "generated": "2026-06-30",
-  "total": 120,
+  "generated": "2026-07-02",
+  "total": 124,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 32,
-    "MISLEADING": 29,
+    "MISSING CONTEXT": 34,
+    "MISLEADING": 30,
     "DOCUMENTED PATTERN": 21,
     "CONTRADICTION": 13,
     "FALSE": 9,
+    "MOSTLY TRUE": 3,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
     "DEFLECTION": 3,
-    "MOSTLY TRUE": 2,
     "MISSING ATTRIBUTION": 2,
     "PARTIALLY TRUE": 1,
     "NON-RESPONSIVE": 1,
     "INCONSISTENT": 1
   },
   "by_topic": {
-    "Healthcare": 14,
+    "Healthcare": 17,
     "Economy": 13,
     "Government Operations": 12,
     "Other": 9,
@@ -38,6 +38,7 @@
     "Environment": 2,
     "Social Services": 2,
     "Veterans": 2,
+    "Financial Disclosure": 1,
     "Disability & Education": 1,
     "Housing": 1,
     "Disaster Recovery": 1,
@@ -61,9 +62,31 @@
     "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
-    "2026-06": 24
+    "2026-06": 25,
+    "2026-07": 3
   },
   "entries": [
+    {
+      "title": "Home Care: The Meeting Is Real, and So Is the Letter He Signed. The 'Stewardship' Framing Omits What His Vote Did.",
+      "date": "2026-07-02",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-07-02-home-care-association-meeting-stewardship/"
+    },
+    {
+      "title": "\\\"These Hospitals Aren't Going Anywhere\\\": At His June Town Hall, He Contradicted It Himself Three Minutes Later",
+      "date": "2026-07-02",
+      "verdict": "MISLEADING",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-07-02-town-hall-hospitals-not-going-anywhere/"
+    },
+    {
+      "title": "\\\"450,000 New Yorkers Lose Health Insurance Today\\\": The Essential Plan Cliff, the Affordability Trap, and Where the Money Went",
+      "date": "2026-07-01",
+      "verdict": "MOSTLY TRUE",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-07-01-essential-plan-cliff-450k/"
+    },
     {
       "title": "\\\"Holds Big Tech Accountable\\\": The KIDS Act Langworthy Hailed Had Its Core Accountability Provision Stripped \u2014 and Civil-Liberties Groups Say It Weakens Privacy",
       "date": "2026-06-30",
@@ -126,6 +149,13 @@
       "verdict": "MISSING CONTEXT",
       "topic": "Economy",
       "url": "/fact-checks/2026-06-24-jamestown-advanced-manufacturing-tariffs/"
+    },
+    {
+      "title": "The Consulting Firm on His Disclosures: What Liberty Strategies Reports, and What It Doesn't",
+      "date": "2026-06-24",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Financial Disclosure",
+      "url": "/fact-checks/2026-06-24-liberty-strategies-disclosure/"
     },
     {
       "title": "Scaffold Law Repeal Heads for the Highway Bill: An Industry Push to Attach Langworthy's Preemption to a Must-Pass Federal Bill",
@@ -261,7 +291,7 @@
       "url": "/fact-checks/2026-05-23-propane-all-of-the-above-energy/"
     },
     {
-      "title": "Priorities: Twenty-Two Posts About Beagles He Didn't Free. Zero About the District Closures Mounting Around Him.",
+      "title": "Priorities: Thirty Posts About Beagles He Didn't Free. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote.",
       "date": "2026-05-22",
       "verdict": "DOCUMENTED PATTERN",
       "topic": "Other",

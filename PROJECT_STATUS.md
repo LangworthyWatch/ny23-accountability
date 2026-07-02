@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: June 24, 2026*
+*Last updated: July 2, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 114 Fact-Checks Published
+## Content: 124 Fact-Checks Published
 
 ### Topics Covered
 
@@ -88,6 +88,12 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 
 | Thread | Status | Next step |
 |---|---|---|
+| Essential Plan cliff (July 1) | **Published 7/2** (MOSTLY TRUE) + cross-refs in beagle/town-hall entries | Watch Aug 30 QHP enrollment deadline; Hochul 127k-in-GOP-districts figure logged for possible add |
+| June 25 tele-town hall | **Published 7/2** (MISLEADING, "hospitals aren't going anywhere") + full disclaimered transcript in /documents/ | Remaining town-hall claims to check: 11% refunds, Virginia CDL crash attribution, 70k nurses figure |
+| Liberty Strategies | **Published 7/2** (MISSING CONTEXT; office no-response by 7/1 deadline noted; $1 FEC total corrected; two-firms chronology + stocks-TRUE contrast added) | COELIG FOIL arc continues; update entry if office responds |
+| Sponsored travel pattern | Research logged 7/2 (Israel 4/2024, Greece 4/2025, Ireland/UK 3-4/2026 — member-traveler, primary-confirmed) | Clerk gtimages PDF server 404s on all docs; retry for dollar amounts, then entry |
+| Beagle "475 by end of August" claim | Logged with Sept 1 action date | Verify transfer happened; entry count now 30 (manual, screenshot-archived) |
+| FB sweep leads (7/2) | Logged | Roswell/LUNGevity (commenters raising Medicaid contradiction), UPMC Chautauqua $300K x3, $2.3M airports, critical minerals, Air Methods |
 | Farm Bill — Senate action | Published; watching | Update when Senate moves |
 | FeedMore WNY | Published | Monitor for any Langworthy statement |
 | FISA 702 | Published | Update at next reauthorization vote |
