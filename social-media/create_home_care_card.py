@@ -54,8 +54,9 @@ draw.text((rx+col_w//2,y+100),"60%",fill=RED,font=f_big,anchor="mm")
 draw.text((rx+col_w//2,y+158),"of NY home care agencies losing money",fill=DARK,font=f_sub_b,anchor="mm")
 draw.text((rx+col_w//2,y+188),"20% of agencies closed in five years",fill=DARK,font=f_sub,anchor="mm")
 draw.text((rx+col_w//2,y+216),"200,000+ Medicaid patients unserved",fill=DARK,font=f_sub,anchor="mm")
-draw.text((rx+col_w//2,y+266),"His vote (Roll Call 190) cut the Medicaid",fill=MUTED,font=f_xs,anchor="mm")
-draw.text((rx+col_w//2,y+284),"program home care runs on (~$900B w/ SNAP)",fill=MUTED,font=f_xs,anchor="mm")
+draw.text((rx+col_w//2,y+262),"His vote (Roll Call 190) cut Medicaid ~$900B (w/ SNAP);",fill=MUTED,font=f_xs,anchor="mm")
+draw.text((rx+col_w//2,y+280),"1199SEIU, the healthcare workers' union: NY Republicans",fill=MUTED,font=f_xs,anchor="mm")
+draw.text((rx+col_w//2,y+298),"\"shamefully reneged\" on protecting Medicaid",fill=MUTED,font=f_xs,anchor="mm")
 y+=col_h+16
 
 strip_h=128
@@ -78,7 +79,7 @@ draw.rounded_rectangle([(44,y),(WIDTH-44,y+kick_h)],radius=8,fill=NAVY)
 draw.text((WIDTH//2,y+32),"The Medicare common ground is real. We say so.",fill="#CBD5E0",font=font("Arial.ttf",17),anchor="mm")
 draw.text((WIDTH//2,y+64),"The Medicaid cut, the erosion, and the dropped abuse cases go unmentioned.",fill=WHITE,font=font("Arial Bold.ttf",17),anchor="mm")
 y+=kick_h+16
-draw.text((WIDTH//2,y),"Sources: House Clerk  ·  Rep. Torres release  ·  Spectrum News / HCA-NYS  ·  ProPublica  ·  CBO",
+draw.text((WIDTH//2,y),"Sources: House Clerk  ·  Torres release  ·  Spectrum/HCA-NYS  ·  1199SEIU  ·  ProPublica  ·  CBO",
           fill=MUTED,font=f_src,anchor="mm"); y+=24
 draw.text((WIDTH//2,y),"langworthywatch.org/fact-checks/2026-07-02-home-care-association-meeting-stewardship/",
           fill=NAVY,font=f_src,anchor="mm")
