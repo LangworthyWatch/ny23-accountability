@@ -47,12 +47,13 @@ draw.rounded_rectangle([(rx,y),(rx+col_w,y+col_h)],radius=8,fill="#FFF5F5",outli
 draw.text((rx+col_w//2,y+24),"POSTS ABOUT YOUR HEALTH COVERAGE",fill=RED,font=f_label_s,anchor="mm")
 draw.text((rx+col_w//2,y+40),"same window, same page",fill=MUTED,font=f_xs,anchor="mm")
 draw.text((rx+col_w//2,y+146),"0",fill=RED,font=f_huge,anchor="mm")
-draw.text((rx+col_w//2,y+230),"mentions of the Essential Plan",fill=DARK,font=f_sub_b,anchor="mm")
-draw.text((rx+col_w//2,y+268),"450,000 New Yorkers lost it July 1",fill=DARK,font=f_sub,anchor="mm")
-draw.text((rx+col_w//2,y+298),"under H.R. 1, the law he voted for",fill=DARK,font=f_sub,anchor="mm")
-draw.text((rx+col_w//2,y+328),"(Roll Call 190, July 2025)",fill=DARK,font=f_sub,anchor="mm")
-draw.text((rx+col_w//2,y+372),"About 26,000 of them are",fill=MUTED,font=f_xs,anchor="mm")
-draw.text((rx+col_w//2,y+392),"in Western New York",fill=MUTED,font=f_xs,anchor="mm")
+draw.text((rx+col_w//2,y+230),"mentions of the Essential Plan or the closures",fill=DARK,font=f_sub_b,anchor="mm")
+draw.text((rx+col_w//2,y+264),"450,000 lost the Essential Plan July 1",fill=DARK,font=f_sub,anchor="mm")
+draw.text((rx+col_w//2,y+292),"under H.R. 1, his vote (Roll Call 190)",fill=DARK,font=f_sub,anchor="mm")
+draw.text((rx+col_w//2,y+320),"Springville's 80-bed nursing home: closing",fill=DARK,font=f_sub,anchor="mm")
+draw.text((rx+col_w//2,y+348),"Bradford Regional ER and inpatient: closing",fill=DARK,font=f_sub,anchor="mm")
+draw.text((rx+col_w//2,y+380),"His 10 hospital posts in the window were all",fill=MUTED,font=f_xs,anchor="mm")
+draw.text((rx+col_w//2,y+398),"funding announcements, tours, and LIVE streams",fill=MUTED,font=f_xs,anchor="mm")
 y+=col_h+20
 
 # sweep strip
@@ -61,7 +62,7 @@ draw.rounded_rectangle([(44,y),(WIDTH-44,y+strip_h)],radius=8,fill="#EDF2F7",out
 draw.text((WIDTH//2,y+20),"JULY 1 SWEEP OF @REPLANGWORTHY  ·  232 POSTS, MID-APRIL TO JULY 1",fill=NAVY,font=f_label_s,anchor="mm")
 third=(WIDTH-88)//3
 for i,(val,l1,c) in enumerate([
-    ("232","total page posts reviewed",NAVY),
+    ("10","hospital posts: all funding or tours",NAVY),
     ("0","Essential Plan or Medicaid",RED),
     ("0","in-person town halls (tele only)",RED),
 ]):
