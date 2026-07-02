@@ -42,7 +42,15 @@ Per this site's [methodology](/methodology/): a group meeting with its represent
 
 **2. The sector's own published numbers describe erosion, not slack.** As reported by Spectrum News (March 2026), citing the association he met with: **60% of New York home care and hospice agencies are losing money; 20% of agencies have closed over the past five years; more than 200,000 Medicaid patients have been unable to receive care.** HCA president Al Cardillo called it "a continuing trend of erosion." The letter Langworthy himself signed in 2024 carried the same picture on the Medicare side: a 24.6% decline in New York home-health admissions (2019–2023), more than 180,000 enrollees who needed but did not receive home health care, and combined wage-index cuts exceeding 8% in 21 New York counties.
 
-**3. The timing.** The post came one day after approximately 450,000 New Yorkers lost Essential Plan coverage under the same law ([documented here](/fact-checks/2026-07-01-essential-plan-cliff-450k/)) — a subject absent from his feed, his 71-minute June 25 town hall, and this post.
+**3. The enforcement record behind "root out abuse."** The post's stated method — rooting out abuse — sits alongside a documented record of narrowing the tools that do the rooting:
+
+- **His own vote:** the H.R. 1 package he supported (Roll Call 190) included a rider blocking the federal nursing-home minimum-staffing rule for ten years — the regulation designed to reduce neglect by requiring adequate staff ([documented here](/fact-checks/2026-06-24-disclosure-gap-donor-pattern/)).
+- **The administration finished the job:** on December 3, 2025, HHS/CMS published an Interim Final Rule rescinding the staffing standards outright.
+- **The abuse cases themselves:** a ProPublica analysis of Justice Department data found the DOJ dropped roughly **23,000 pending criminal investigations** in 2025 as it shifted resources to immigration — nearly **11,000 declinations in February 2025 alone, the most in any month since at least 2004** — and the closed cases included "an investigation into a Virginia nursing home with a recent record of patient abuse."
+
+Those are the actions of the administration and, in the rider's case, of Langworthy himself. A post promising to "root out fraud, waste, and abuse" in home care omits that the staffing rule is gone with his vote's help, and that federal prosecutors dropped a nursing-home abuse investigation amid record case closures.
+
+**4. The timing.** The post came one day after approximately 450,000 New Yorkers lost Essential Plan coverage under the same law ([documented here](/fact-checks/2026-07-01-essential-plan-cliff-450k/)) — a subject absent from his feed, his 71-minute June 25 town hall, and this post.
 
 **In plain language:** the meeting is real, the Medicare-side common ground is real, and we say so. But "root out fraud, waste, and abuse" describes a sector with 60% of agencies underwater and 200,000 patients unserved — numbers published by the very association in the photo — and the post never mentions that the biggest recent federal change to home care's funding stream is a cut he voted for.
 
@@ -75,6 +83,8 @@ Per this site's [methodology](/methodology/): a group meeting with its represent
 - KFF — "States' Management of Medicaid Home Care Spending Ahead of H.R. 1 Effects": <https://www.kff.org/medicaid/states-management-of-medicaid-home-care-spending-ahead-of-h-r-1-effects/>
 - CBO — Distributional Effects of Public Law 119-21 (−$900B Medicaid/SNAP, 2026–2034): <https://www.cbo.gov/publication/61367>
 - House Roll Call 190 (July 3, 2025; Langworthy: Aye): <https://clerk.house.gov/evs/2025/roll190.xml>
+- ProPublica — "Trump DOJ Dropped 23,000 Criminal Investigations in Shift to Immigration" (Feb. 2025 declinations record; Virginia nursing-home abuse probe among closed cases): <https://www.propublica.org/article/trump-doj-immigration-bondi-declinations-criminal-investigations>
+- Duane Morris — "Federal Agencies Rescind Previous Administration's Nursing Home Staffing Rule" (Interim Final Rule, Dec. 3, 2025): <https://www.duanemorris.com/alerts/federal_agencies_rescind_previous_administrations_nursing_home_staffing_rule_1225.html>
 
 ---
 
