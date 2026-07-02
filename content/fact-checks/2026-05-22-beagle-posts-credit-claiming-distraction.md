@@ -1,7 +1,7 @@
 ---
-title: "Priorities: Twenty-Two Posts About Beagles He Didn't Free. Zero About the District Closures Mounting Around Him."
+title: "Priorities: Twenty-Five Posts About Beagles He Didn't Free. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote."
 date: 2026-05-22
-lastmod: 2026-06-02
+lastmod: 2026-07-01
 categories:
   - "Government Transparency / Priorities"
 verdict: "DOCUMENTED PATTERN"
@@ -21,7 +21,9 @@ slug: "2026-05-22-beagle-posts-credit-claiming-distraction"
 
 Between May 1 and June 2, 2026, Congressman Langworthy published **at least 22 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
 
-**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to add five more Marshall Farms / RFK Jr / animal testing posts in the May 27 – June 2 window, for a running total of 22+.**
+**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to add five more Marshall Farms / RFK Jr / animal testing posts in the May 27 – June 2 window, for a running total of 22+. Updated July 1 to add three more posts in the June 3 – 29 window (the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter), for a running total of at least 25.**
+
+**Independent verification (July 1, 2026):** a systematic sweep of the @RepLangworthy Facebook page timeline — 232 posts loaded, covering approximately mid-April through July 1 — found **21 beagle / Marshall Farms / animal-testing posts still visible on the page** (some earlier posts in the documented count are press releases, surveys, or reposts that no longer surface on the timeline), and **zero posts mentioning the Essential Plan, Medicaid, or health coverage** in the same window.
 
 In the same five-week window, he posted nothing about:
 
@@ -58,7 +60,17 @@ In the same five-week window, he posted nothing about:
 | June 1, 2026 | WLEA Southern Tier repost: "Langworthy Asks RFK Jr To Strengthen NIH Policy About Animal Testing" |
 | June 2, 2026 | "I'm leading a bipartisan push strengthen federal safeguards on animal testing funding…" (with newspaper repost graphic) |
 
-The posts consistently imply Langworthy's actions are driving outcomes. The May 3 headline specifically credits his "letter to HHS Secretary." The May 31 rally coverage at Marshall Farms includes high-production multi-angle imagery typical of campaign-style content production.
+### June 3 – June 29, 2026 (July 1 update)
+
+| Date | Post |
+|------|------|
+| ~Mid-June (Facebook relative timestamp; exact date pending permalink capture) | "Today USDA Secretary Brooke Rollins and I secured a major win for animal welfare." |
+| ~Mid-June (same caveat) | "Together, we saved the Beagles. Incredible news. The expectation is that the remaining 475 beagles will be transferred to Big Dog Ranch Rescue by the end of August." |
+| June 29, 2026 | Facebook post announcing the USDA letter with Rep. Malliotakis on Marshall BioResources ("a facility housing more than 66,000 animals") — see the [dedicated fact-check](/fact-checks/2026-06-30-marshall-bioresources-usda-letter/), which found the letter's facts mostly hold up |
+
+The "475 beagles transferred by the end of August" claim is checkable on its own timeline and is logged for follow-up.
+
+The posts consistently imply Langworthy's actions are driving outcomes. The May 3 headline specifically credits his "letter to HHS Secretary." The May 31 rally coverage at Marshall Farms includes high-production multi-angle imagery typical of campaign-style content production. The June arc completes a narrative cycle: teasers ("Stay tuned…"), rally, villain quote ("torture chamber"), declared victory ("we saved the Beagles"), and an oversight letter after the announced resolution.
 
 ---
 
@@ -123,6 +135,10 @@ Only about 20% of New York farms qualify for the ARC/PLC commodity support progr
 ### Hospital closures (ongoing)
 NY-23 has **8 hospitals at risk of closure** — the most of any congressional district in New York State, according to the Fiscal Policy Institute. 8 of the district's 12 hospitals rely heavily on Medicaid funding. UPMC Chautauqua at WCA had a -17.4% operating margin with 37% of revenue from Medicaid. Westfield Memorial transitioned to a Rural Emergency Hospital — losing inpatient capacity — after Langworthy called closure warnings "pure fiction." The OBBBA Medicaid cuts he voted for are the primary driver of the financial pressure these hospitals now face. **No recent Langworthy posts acknowledging the 8-hospital at-risk figure or the Medicaid connection.** (See also: [Rural Hospitals: Calling Closure Warnings 'Pure Fiction'](/fact-checks/2025-10-rural-hospitals-pure-fiction/))
 
+### The Essential Plan cliff (July 1, 2026 — the day of this update)
+
+On July 1, 2026, approximately **450,000 New Yorkers** — the state's own count — lost Essential Plan coverage as the program's 200–250% FPL expansion terminated. The New York State Department of Health attributes the loss directly to **H.R. 1 (P.L. 119-21)**, the law Langworthy voted for (Roll Call 190). The Fiscal Policy Institute estimates **about 26,000 of those losing coverage are in Western New York**. The replacement marketplace plans cost up to ~$250/month plus a ~$2,500 deductible for people earning roughly $31,300–$40,000. **Zero posts on the @RepLangworthy page mention the Essential Plan, the coverage losses, or Medicaid** in the entire ~11-week window swept on July 1 (232 posts). See the full entry: [The Essential Plan Cliff](/fact-checks/2026-07-01-essential-plan-cliff-450k/).
+
 ### Epstein survivors (May 12, 2026)
 House Oversight Democrats organized a field hearing in West Palm Beach because the Republican majority — on which Langworthy serves — has not scheduled official survivor hearings. Langworthy had told constituents his Oversight Committee work made the discharge petition unnecessary. **No Langworthy posts about the survivor hearing or committee inaction.**
 
@@ -142,7 +158,7 @@ The documented pattern is not that Langworthy's support for ending beagle testin
 
 **Verdict: DOCUMENTED PATTERN**
 
-Between May 3 and May 22, 2026, Langworthy published at least a dozen posts taking credit for the Ridglan Farms beagle release — an outcome achieved by Wisconsin prosecutors, animal rights activists, and two nonprofit organizations, not by his letter to an agency that didn't fund the facility. In the same period he posted nothing about the SSI bedroom rule (threatening $330/month cuts to 400,000 disabled people), the Medicaid reductions from his own vote, SNAP cuts hitting NY-23 food banks, or the Republican Oversight Committee's failure to hold official Epstein survivor hearings. The beagle campaign is a textbook example of flooding a social media feed with popular, low-cost advocacy while staying silent on politically costly policy consequences.
+Between May 3 and June 29, 2026, Langworthy published at least 25 posts, surveys, and releases on the beagle / animal-testing campaign — a narrative arc running from teasers through rally, "torture chamber" villain quote, declared victory ("Together, we saved the Beagles"), and a post-resolution oversight letter. The Ridglan release itself was achieved by Wisconsin prosecutors, animal rights activists, and two nonprofit organizations, not by his letter to an agency that didn't fund the facility. In the same period he posted nothing about the SSI bedroom rule (threatening $330/month cuts to 400,000 disabled people), the Medicaid reductions from his own vote, SNAP cuts hitting NY-23 food banks, the Republican Oversight Committee's failure to hold official Epstein survivor hearings — or, as of the day of this update, the **450,000 New Yorkers losing Essential Plan coverage on July 1 under the law he voted for**. The beagle campaign is a textbook example of flooding a social media feed with popular, low-cost advocacy while staying silent on politically costly policy consequences.
 
 ---
 
@@ -158,6 +174,8 @@ Between May 3 and May 22, 2026, Langworthy published at least a dozen posts taki
 
 ## Related Entries
 
+- [The Essential Plan Cliff: 450,000 Lose Coverage July 1](/fact-checks/2026-07-01-essential-plan-cliff-450k/)
+- [Marshall BioResources USDA Letter (June 29 post)](/fact-checks/2026-06-30-marshall-bioresources-usda-letter/)
 - [Disability: 'I'll Keep Working to Protect Critical Support Systems'](/fact-checks/2026-05-18-aapd-medicaid-disability-contradiction/)
 - [Federal Funding: Four Announcements in One Week, Zero Earmarks](/fact-checks/2026-05-20-federal-grants-credit-claiming-may2026/)
 - [Feedmore Earmark vs. Cuts](/fact-checks/2026-04-30-feedmore-earmark-vs-cuts/)
