@@ -1,12 +1,12 @@
 ---
 title: "The Consulting Firm on His Disclosures: What Liberty Strategies Reports, and What It Doesn't"
 date: 2026-06-24
-draft: true
+draft: false
 topic: "Financial Disclosure / Transparency"
 claim_date: "2019–2026"
 source: "U.S. House financial disclosures, FEC, NY State records"
 source_url: "https://disclosures-clerk.house.gov/FinancialDisclosure"
-archived_url: ""
+archived_url: "https://web.archive.org/web/2026/https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078337.pdf"
 verdict: "MISSING CONTEXT"
 tags: ["financial-disclosure", "liberty-strategies", "fec", "transparency", "campaign-finance", "fact-check"]
 counties: ["district-wide"]
@@ -44,7 +44,7 @@ This part *is* visible, because the clients were political campaigns that file t
 | Tom Reed PAC | 2019–2020 | $17,569.18 |
 | Jacobs for Congress (Chris Jacobs, NY-27) | 2020–2022 | $71,034.81 |
 | Singletary 4 Congress (NY-25) | 2022 | $15,000.00 |
-| **Total** | **2019–2022** | **$103,604.99** |
+| **Total** | **2019–2022** | **$103,603.99** |
 
 So for its first stretch, the firm's work was documented through its clients' own filings.
 
@@ -83,7 +83,9 @@ We make **no allegation of wrongdoing.** The point is narrower: the disclosure r
 
 ## A note on sourcing and reply
 
-This entry is built from primary records: the four House financial-disclosure PDFs (Filing IDs 10054324, 10061049, 10068912, 10078337), FEC operating-expenditure data, the New York Department of State business-entity record for Liberty Strategies LLC, and the NYS Board of Elections campaign-finance database. LangworthyWatch submitted the questions above to the congressman's office through its official web contact form on June 24, 2026, and requested a response by July 1, 2026. This entry will be updated with the office's response, or to note that the office declined to comment or did not respond by the deadline.
+This entry is built from primary records: the four House financial-disclosure PDFs (Filing IDs 10054324, 10061049, 10068912, 10078337), FEC operating-expenditure data, the New York Department of State business-entity record for Liberty Strategies LLC, and the NYS Board of Elections campaign-finance database. The FEC client payments were re-verified line-by-line against the FEC API on July 2, 2026 (8 + 29 + 2 itemized disbursements; a $1.00 arithmetic error in an earlier draft total was corrected to $103,603.99).
+
+**Update, July 2, 2026:** LangworthyWatch submitted the questions above to the congressman's office through its official web contact form on June 24, 2026, and requested a response by July 1, 2026. **The office did not respond by the deadline.** No email, call, or written reply of any kind was received as of publication. This entry will be updated if a response arrives.
 
 ---
 
@@ -100,4 +102,4 @@ This entry is built from primary records: the four House financial-disclosure PD
 
 **Note:** This entry documents publicly available financial-disclosure, FEC, and state records. It makes no allegation of unlawful conduct. Spouse employment and political consulting are lawful; the documented gap is between what the disclosure regime reveals (an income source) and what it leaves invisible (amount, clients, current activity).
 
-*Last updated: June 24, 2026*
+*Last updated: July 2, 2026*
