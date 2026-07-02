@@ -93,6 +93,8 @@ Zoom out to the whole law, and the Congressional Budget Office documents the tra
 
 The law New York's health department names as the direct cause of ~450,000 residents losing Essential Plan coverage today is a law Rep. Langworthy voted to pass.
 
+- **He did not mention it to constituents.** Six days before the cliff, Langworthy held his monthly telephone town hall (June 25, 2026; 71 minutes; official recording on his YouTube channel). The words "Essential Plan" do not appear anywhere in the recording. See ["These Hospitals Aren't Going Anywhere"](/fact-checks/2026-07-02-town-hall-hospitals-not-going-anywhere/), which documents the call.
+
 ---
 
 ## Questions This Raises
@@ -105,6 +107,7 @@ The law New York's health department names as the direct cause of ~450,000 resid
 
 ## Related Entries
 
+- ["These Hospitals Aren't Going Anywhere": The June 25 Town Hall](/fact-checks/2026-07-02-town-hall-hospitals-not-going-anywhere/) — zero Essential Plan mentions, six days before this cliff
 - [The One Big Beautiful Bill and Working Families](/fact-checks/2026-04-17-obbba-working-families/)
 - [OBBBA / IDA Vote](/fact-checks/2026-03-21-obbba-ida-vote/)
 - [Medicaid Rural Impact Summary](/fact-checks/2026-02-09-medicaid-rural-impact-summary/)

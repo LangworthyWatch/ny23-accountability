@@ -139,7 +139,7 @@ NY-23 has **8 hospitals at risk of closure** — the most of any congressional d
 
 ### The Essential Plan cliff (July 1, 2026 — the day before this update)
 
-On July 1, 2026, approximately **450,000 New Yorkers** — the state's own count — lost Essential Plan coverage as the program's 200–250% FPL expansion terminated. The New York State Department of Health attributes the loss directly to **H.R. 1 (P.L. 119-21)**, the law Langworthy voted for (Roll Call 190). The Fiscal Policy Institute estimates **about 26,000 of those losing coverage are in Western New York**. The replacement marketplace plans cost up to ~$250/month plus a ~$2,500 deductible for people earning roughly $31,300–$40,000. **Zero posts on the @RepLangworthy page mention the Essential Plan, the coverage losses, or Medicaid** in the entire ~11-week window swept on July 2 (232 posts). See the full entry: [The Essential Plan Cliff](/fact-checks/2026-07-01-essential-plan-cliff-450k/).
+On July 1, 2026, approximately **450,000 New Yorkers** — the state's own count — lost Essential Plan coverage as the program's 200–250% FPL expansion terminated. The New York State Department of Health attributes the loss directly to **H.R. 1 (P.L. 119-21)**, the law Langworthy voted for (Roll Call 190). The Fiscal Policy Institute estimates **about 26,000 of those losing coverage are in Western New York**. The replacement marketplace plans cost up to ~$250/month plus a ~$2,500 deductible for people earning roughly $31,300–$40,000. **Zero posts on the @RepLangworthy page mention the Essential Plan, the coverage losses, or Medicaid** in the entire ~11-week window swept on July 2 (232 posts). The silence extends beyond Facebook: his 71-minute June 25 telephone town hall — six days before the cliff — contains zero mentions of the Essential Plan ([documented here](/fact-checks/2026-07-02-town-hall-hospitals-not-going-anywhere/)). See the full entry: [The Essential Plan Cliff](/fact-checks/2026-07-01-essential-plan-cliff-450k/).
 
 ### Epstein survivors (May 12, 2026)
 House Oversight Democrats organized a field hearing in West Palm Beach because the Republican majority — on which Langworthy serves — has not scheduled official survivor hearings. Langworthy had told constituents his Oversight Committee work made the discharge petition unnecessary. **No Langworthy posts about the survivor hearing or committee inaction.**
@@ -223,6 +223,7 @@ Between May 3 and June 29, 2026, Langworthy published 30 posts, surveys, and rel
 ## Related Entries
 
 - [The Essential Plan Cliff: 450,000 Lose Coverage July 1](/fact-checks/2026-07-01-essential-plan-cliff-450k/)
+- ["These Hospitals Aren't Going Anywhere": The June 25 Town Hall](/fact-checks/2026-07-02-town-hall-hospitals-not-going-anywhere/)
 - [Marshall BioResources USDA Letter (June 29 post)](/fact-checks/2026-06-30-marshall-bioresources-usda-letter/)
 - [Disability: 'I'll Keep Working to Protect Critical Support Systems'](/fact-checks/2026-05-18-aapd-medicaid-disability-contradiction/)
 - [Federal Funding: Four Announcements in One Week, Zero Earmarks](/fact-checks/2026-05-20-federal-grants-credit-claiming-may2026/)
