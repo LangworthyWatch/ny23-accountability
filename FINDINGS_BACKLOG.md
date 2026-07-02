@@ -261,3 +261,15 @@
 ### FB sweep gaps (July 1): Roswell/LUNGevity + UPMC Chautauqua $300K + $2.3M airports
 - **Date logged:** 2026-07-02 · **Type:** story-lead · **Status:** open
 - **Detail:** No corpus entries yet for: (1) June 29 Roswell Park/LUNGevity lung-screening post (commenters raising Medicaid-cut contradiction; Roswell heavily Medicaid-exposed); (2) UPMC Chautauqua $300K training investment (3 posts, "hospital where I was born" framing) vs rural-hospital Medicaid exposure; (3) $2.3M airport funding credit claim (check appropriation + his vote); (4) critical-minerals/China post (need bill number); (5) Air Methods air-ambulance post ("I'm working..." — what legislation?).
+
+### Greece trip: RMSP-paid Crete+Athens, April 11-18 2025 (FD Schedule H) — pull gift-travel filing
+- **Date logged:** 2026-07-02 · **Type:** story-lead · **Status:** open
+- **Detail:** Langworthy's CY2025 FD (filing 10078337, signed 5/15/2026) Schedule H discloses a Republican Main Street Partnership-sponsored trip: Toronto -> Crete -> Athens -> Toronto, 04/11-04/18/2025, lodging + food included, 0 days at own expense, no family. No news coverage found; not in corpus. Next: pull the per-trip Gift Travel filing from the Clerk (has dollar amounts + Ethics pre-approval), archive, and assess as entry. Per pre-publish rules: the per-trip PDF is the authoritative source for costs.
+
+### Hochul office figure: 127,000 of the Essential Plan losses in the 7 NY GOP districts
+- **Date logged:** 2026-07-02 · **Type:** enhancement · **Status:** open
+- **Detail:** Per City & State / Hochul's office: 127,000 of the ~450,000 losing Essential Plan coverage live in districts of the 7 NY Republicans who voted for H.R. 1 ("abandoning their own constituents"). Partisan-source figure; attribute clearly if added to 2026-07-01-essential-plan-cliff-450k. Also: final state budget contained NO Essential Plan fix (NYS Focus, 5/28). NY-23-specific number still unpublished; FPI's 26,000 WNY remains closest.
+
+### Liberty Strategies: spouse salary continues on CY2025 FD
+- **Date logged:** 2026-07-02 · **Type:** investigation-update · **Status:** open
+- **Detail:** New FD 10078337 (CY2025) Schedule C again lists spouse salary from LIBERTY STRATEGIES and STATE OF NEW YORK. Extends the Liberty Strategies FDS thread through CY2025. PDF saved to langworthywatch-staging.
