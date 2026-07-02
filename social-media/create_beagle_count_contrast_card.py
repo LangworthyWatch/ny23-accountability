@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Social card: beagle post count vs Essential Plan silence, July 1 2026.
-25+ beagle campaign posts (May 3 - Jun 29) vs 0 posts on 450,000 losing coverage.
+30 beagle campaign posts (May 3 - Jun 29, manual count) vs 0 posts on 450,000 losing coverage.
 DOCUMENTED PATTERN. Light house style, 1080x1080, no em dashes."""
 
 from PIL import Image, ImageDraw, ImageFont
@@ -35,7 +35,7 @@ col_w=(WIDTH-44*2-16)//2; col_h=430; lx=44; rx=lx+col_w+16
 draw.rounded_rectangle([(lx,y),(lx+col_w,y+col_h)],radius=8,fill="#EBF8F0",outline="#9AE6B4",width=2)
 draw.text((lx+col_w//2,y+24),"POSTS ABOUT BEAGLES",fill=GREEN,font=f_label_s,anchor="mm")
 draw.text((lx+col_w//2,y+40),"May 3 to June 29",fill=MUTED,font=f_xs,anchor="mm")
-draw.text((lx+col_w//2,y+146),"25+",fill=GREEN,font=f_huge,anchor="mm")
+draw.text((lx+col_w//2,y+146),"30",fill=GREEN,font=f_huge,anchor="mm")
 draw.text((lx+col_w//2,y+230),"posts, surveys, releases",fill=DARK,font=f_sub_b,anchor="mm")
 draw.text((lx+col_w//2,y+268),'"Huge rally. Save the Beagles."',fill=DARK,font=f_sub,anchor="mm")
 draw.text((lx+col_w//2,y+298),'"Marshall Farms is a torture chamber."',fill=DARK,font=f_sub,anchor="mm")
@@ -61,7 +61,7 @@ draw.rounded_rectangle([(44,y),(WIDTH-44,y+strip_h)],radius=8,fill="#EDF2F7",out
 draw.text((WIDTH//2,y+20),"JULY 1 SWEEP OF @REPLANGWORTHY  ·  232 POSTS, MID-APRIL TO JULY 1",fill=NAVY,font=f_label_s,anchor="mm")
 third=(WIDTH-88)//3
 for i,(val,l1,c) in enumerate([
-    ("21","beagle posts still visible",GREEN),
+    ("232","total page posts reviewed",NAVY),
     ("0","Essential Plan or Medicaid",RED),
     ("0","in-person town halls (tele only)",RED),
 ]):

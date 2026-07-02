@@ -1,5 +1,5 @@
 ---
-title: "Priorities: Twenty-Five Posts About Beagles He Didn't Free. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote."
+title: "Priorities: Thirty Posts About Beagles He Didn't Free. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote."
 date: 2026-05-22
 lastmod: 2026-07-01
 categories:
@@ -21,9 +21,9 @@ slug: "2026-05-22-beagle-posts-credit-claiming-distraction"
 
 Between May 1 and June 2, 2026, Congressman Langworthy published **at least 22 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
 
-**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to add five more Marshall Farms / RFK Jr / animal testing posts in the May 27 – June 2 window, for a running total of 22+. Updated July 1 to add three more posts in the June 3 – 29 window (the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter), for a running total of at least 25.**
+**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to 22+ with the May 27 – June 2 Marshall Farms / RFK Jr / animal testing posts. Updated July 1: a full manual count of the @RepLangworthy page found 30 beagle / Marshall Farms / animal-testing posts, the most recent being the June 29, 11:23 AM post announcing the USDA letter with Rep. Malliotakis.** The June 3 – 29 additions include the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter.
 
-**Independent verification (July 1, 2026):** a systematic sweep of the @RepLangworthy Facebook page timeline — 232 posts loaded, covering approximately mid-April through July 1 — found **21 beagle / Marshall Farms / animal-testing posts still visible on the page** (some earlier posts in the documented count are press releases, surveys, or reposts that no longer surface on the timeline), and **zero posts mentioning the Essential Plan, Medicaid, or health coverage** in the same window.
+**Verification (July 1, 2026):** two passes over the @RepLangworthy Facebook page. A **manual count found 30 beagle-campaign posts**; a systematic automated text sweep of the timeline (232 posts loaded, approximately mid-April through July 1) independently confirmed **21 with harvestable text bodies** (the automated method undercounts video-, reel-, and photo-only posts, so 21 is a floor consistent with the manual 30). The same automated sweep found **zero posts mentioning the Essential Plan, Medicaid, or health coverage** in the entire window.
 
 In the same five-week window, he posted nothing about:
 
@@ -66,7 +66,7 @@ In the same five-week window, he posted nothing about:
 |------|------|
 | ~Mid-June (Facebook relative timestamp; exact date pending permalink capture) | "Today USDA Secretary Brooke Rollins and I secured a major win for animal welfare." |
 | ~Mid-June (same caveat) | "Together, we saved the Beagles. Incredible news. The expectation is that the remaining 475 beagles will be transferred to Big Dog Ranch Rescue by the end of August." |
-| June 29, 2026 | Facebook post announcing the USDA letter with Rep. Malliotakis on Marshall BioResources ("a facility housing more than 66,000 animals") — see the [dedicated fact-check](/fact-checks/2026-06-30-marshall-bioresources-usda-letter/), which found the letter's facts mostly hold up |
+| June 29, 2026, 11:23 AM | Facebook post announcing the USDA letter (dated June 26) with Rep. Malliotakis on Marshall BioResources: "a facility housing more than 66,000 animals… We are working to lift the veil on this secretive facility to determine if any laws are being broken and we won't stop until we get answers and accountability." See the [dedicated fact-check](/fact-checks/2026-06-30-marshall-bioresources-usda-letter/), which found the letter's facts mostly hold up |
 
 The "475 beagles transferred by the end of August" claim is checkable on its own timeline and is logged for follow-up.
 
@@ -158,7 +158,7 @@ The documented pattern is not that Langworthy's support for ending beagle testin
 
 **Verdict: DOCUMENTED PATTERN**
 
-Between May 3 and June 29, 2026, Langworthy published at least 25 posts, surveys, and releases on the beagle / animal-testing campaign — a narrative arc running from teasers through rally, "torture chamber" villain quote, declared victory ("Together, we saved the Beagles"), and a post-resolution oversight letter. The Ridglan release itself was achieved by Wisconsin prosecutors, animal rights activists, and two nonprofit organizations, not by his letter to an agency that didn't fund the facility. In the same period he posted nothing about the SSI bedroom rule (threatening $330/month cuts to 400,000 disabled people), the Medicaid reductions from his own vote, SNAP cuts hitting NY-23 food banks, the Republican Oversight Committee's failure to hold official Epstein survivor hearings — or, as of the day of this update, the **450,000 New Yorkers losing Essential Plan coverage on July 1 under the law he voted for**. The beagle campaign is a textbook example of flooding a social media feed with popular, low-cost advocacy while staying silent on politically costly policy consequences.
+Between May 3 and June 29, 2026, Langworthy published 30 posts, surveys, and releases on the beagle / animal-testing campaign (manual count, July 1) — a narrative arc running from teasers through rally, "torture chamber" villain quote, declared victory ("Together, we saved the Beagles"), and a post-resolution oversight letter. The Ridglan release itself was achieved by Wisconsin prosecutors, animal rights activists, and two nonprofit organizations, not by his letter to an agency that didn't fund the facility. In the same period he posted nothing about the SSI bedroom rule (threatening $330/month cuts to 400,000 disabled people), the Medicaid reductions from his own vote, SNAP cuts hitting NY-23 food banks, the Republican Oversight Committee's failure to hold official Epstein survivor hearings — or, as of the day of this update, the **450,000 New Yorkers losing Essential Plan coverage on July 1 under the law he voted for**. The beagle campaign is a textbook example of flooding a social media feed with popular, low-cost advocacy while staying silent on politically costly policy consequences.
 
 ---
 
