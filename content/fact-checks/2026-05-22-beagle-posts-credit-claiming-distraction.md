@@ -1,7 +1,7 @@
 ---
 title: "Priorities: Thirty Posts About Beagles He Didn't Free. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote."
 date: 2026-05-22
-lastmod: 2026-07-01
+lastmod: 2026-07-02
 categories:
   - "Government Transparency / Priorities"
 verdict: "DOCUMENTED PATTERN"
@@ -21,9 +21,9 @@ slug: "2026-05-22-beagle-posts-credit-claiming-distraction"
 
 Between May 1 and June 2, 2026, Congressman Langworthy published **at least 22 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
 
-**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to 22+ with the May 27 – June 2 Marshall Farms / RFK Jr / animal testing posts. Updated July 1: a full manual count of the @RepLangworthy page found 30 beagle / Marshall Farms / animal-testing posts, the most recent being the June 29, 11:23 AM post announcing the USDA letter with Rep. Malliotakis.** The June 3 – 29 additions include the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter.
+**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to 22+ with the May 27 – June 2 Marshall Farms / RFK Jr / animal testing posts. Updated July 2: a full manual count of the @RepLangworthy page found 30 beagle / Marshall Farms / animal-testing posts, the most recent being the June 29, 11:23 AM post announcing the USDA letter with Rep. Malliotakis.** The June 3 – 29 additions include the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter.
 
-**Verification (July 1, 2026):** two passes over the @RepLangworthy Facebook page. A **manual count found 30 beagle-campaign posts**; a systematic automated text sweep of the timeline (232 posts loaded, approximately mid-April through July 1) independently confirmed **21 with harvestable text bodies** (the automated method undercounts video-, reel-, and photo-only posts, so 21 is a floor consistent with the manual 30). The same automated sweep found **zero posts mentioning the Essential Plan, Medicaid, or health coverage** in the entire window.
+**Verification (July 2, 2026):** two passes over the @RepLangworthy Facebook page. A **manual count found 30 beagle-campaign posts**; a systematic automated text sweep of the timeline (232 posts loaded, approximately mid-April through July 2) independently confirmed **21 with harvestable text bodies** (the automated method undercounts video-, reel-, and photo-only posts, so 21 is a floor consistent with the manual 30). The same automated sweep found **zero posts mentioning the Essential Plan, Medicaid, or health coverage** in the entire window.
 
 In the same five-week window, he posted nothing about:
 
@@ -60,7 +60,7 @@ In the same five-week window, he posted nothing about:
 | June 1, 2026 | WLEA Southern Tier repost: "Langworthy Asks RFK Jr To Strengthen NIH Policy About Animal Testing" |
 | June 2, 2026 | "I'm leading a bipartisan push strengthen federal safeguards on animal testing funding…" (with newspaper repost graphic) |
 
-### June 3 – June 29, 2026 (July 1 update)
+### June 3 – June 29, 2026 (July 2 update)
 
 | Date | Post |
 |------|------|
@@ -135,14 +135,60 @@ Only about 20% of New York farms qualify for the ARC/PLC commodity support progr
 ### Hospital closures (ongoing)
 NY-23 has **8 hospitals at risk of closure** — the most of any congressional district in New York State, according to the Fiscal Policy Institute. 8 of the district's 12 hospitals rely heavily on Medicaid funding. UPMC Chautauqua at WCA had a -17.4% operating margin with 37% of revenue from Medicaid. Westfield Memorial transitioned to a Rural Emergency Hospital — losing inpatient capacity — after Langworthy called closure warnings "pure fiction." The OBBBA Medicaid cuts he voted for are the primary driver of the financial pressure these hospitals now face. **No recent Langworthy posts acknowledging the 8-hospital at-risk figure or the Medicaid connection.** (See also: [Rural Hospitals: Calling Closure Warnings 'Pure Fiction'](/fact-checks/2025-10-rural-hospitals-pure-fiction/))
 
-**What the July 1 sweep shows about how he does post about hospitals:** the 232-post window contains **ten hospital posts, every one of them positive** — seven about UPMC Chautauqua ("the hospital where I was born," the $300,000 training investment, two LIVE streams, a tour) and three about Arnot Health (the $500,000 radiology announcement, a LIVE stream, a constituent-service story). Zero posts mention the Springville nursing home closure, Bradford Regional, the WARN layoffs, or the 8-hospital at-risk figure. The only closure of any kind he posted about in the window was Ridglan Farms — the beagle facility: "The closure of Ridglan Farms proved that real change is possible when elected officials of BOTH political parties, passionate activists, and rescuers unite." Hospitals appear on his feed when there is a check or a camera; the ones closing do not appear at all.
+**What the July 2 sweep shows about how he does post about hospitals:** the 232-post window contains **ten hospital posts, every one of them positive** — seven about UPMC Chautauqua ("the hospital where I was born," the $300,000 training investment, two LIVE streams, a tour) and three about Arnot Health (the $500,000 radiology announcement, a LIVE stream, a constituent-service story). Zero posts mention the Springville nursing home closure, Bradford Regional, the WARN layoffs, or the 8-hospital at-risk figure. The only closure of any kind he posted about in the window was Ridglan Farms — the beagle facility: "The closure of Ridglan Farms proved that real change is possible when elected officials of BOTH political parties, passionate activists, and rescuers unite." Hospitals appear on his feed when there is a check or a camera; the ones closing do not appear at all.
 
-### The Essential Plan cliff (July 1, 2026 — the day of this update)
+### The Essential Plan cliff (July 1, 2026 — the day before this update)
 
-On July 1, 2026, approximately **450,000 New Yorkers** — the state's own count — lost Essential Plan coverage as the program's 200–250% FPL expansion terminated. The New York State Department of Health attributes the loss directly to **H.R. 1 (P.L. 119-21)**, the law Langworthy voted for (Roll Call 190). The Fiscal Policy Institute estimates **about 26,000 of those losing coverage are in Western New York**. The replacement marketplace plans cost up to ~$250/month plus a ~$2,500 deductible for people earning roughly $31,300–$40,000. **Zero posts on the @RepLangworthy page mention the Essential Plan, the coverage losses, or Medicaid** in the entire ~11-week window swept on July 1 (232 posts). See the full entry: [The Essential Plan Cliff](/fact-checks/2026-07-01-essential-plan-cliff-450k/).
+On July 1, 2026, approximately **450,000 New Yorkers** — the state's own count — lost Essential Plan coverage as the program's 200–250% FPL expansion terminated. The New York State Department of Health attributes the loss directly to **H.R. 1 (P.L. 119-21)**, the law Langworthy voted for (Roll Call 190). The Fiscal Policy Institute estimates **about 26,000 of those losing coverage are in Western New York**. The replacement marketplace plans cost up to ~$250/month plus a ~$2,500 deductible for people earning roughly $31,300–$40,000. **Zero posts on the @RepLangworthy page mention the Essential Plan, the coverage losses, or Medicaid** in the entire ~11-week window swept on July 2 (232 posts). See the full entry: [The Essential Plan Cliff](/fact-checks/2026-07-01-essential-plan-cliff-450k/).
 
 ### Epstein survivors (May 12, 2026)
 House Oversight Democrats organized a field hearing in West Palm Beach because the Republican majority — on which Langworthy serves — has not scheduled official survivor hearings. Langworthy had told constituents his Oversight Committee work made the discharge petition unnecessary. **No Langworthy posts about the survivor hearing or committee inaction.**
+
+---
+
+## Evidence Archive (captured July 2, 2026)
+
+Facebook posts can be edited or deleted; this archive preserves the record. On July 2, 2026, all 30 beagle-campaign posts and the healthcare-related posts on @RepLangworthy were individually screenshotted during the manual count.
+
+{{< figure src="/images/fact-checks/beagle-campaign-archive-contact-sheet.png" alt="Contact sheet grid of 35 screenshots of Congressman Langworthy's Facebook posts from May 3 to June 29, 2026, documenting the beagle campaign posts and hospital funding posts" caption="The receipts: 35 screenshots of @RepLangworthy posts, May 3 to June 29, 2026. Captured July 2, 2026." >}}
+
+Full-resolution captures, in capture order (newest post first):
+
+- [Capture 01](/images/fact-checks/beagle-campaign-archive/capture-01.jpg)
+- [Capture 02](/images/fact-checks/beagle-campaign-archive/capture-02.jpg)
+- [Capture 03](/images/fact-checks/beagle-campaign-archive/capture-03.jpg)
+- [Capture 04](/images/fact-checks/beagle-campaign-archive/capture-04.jpg)
+- [Capture 05](/images/fact-checks/beagle-campaign-archive/capture-05.jpg)
+- [Capture 06](/images/fact-checks/beagle-campaign-archive/capture-06.jpg)
+- [Capture 07](/images/fact-checks/beagle-campaign-archive/capture-07.jpg)
+- [Capture 08](/images/fact-checks/beagle-campaign-archive/capture-08.jpg)
+- [Capture 09](/images/fact-checks/beagle-campaign-archive/capture-09.jpg)
+- [Capture 10](/images/fact-checks/beagle-campaign-archive/capture-10.jpg)
+- [Capture 11](/images/fact-checks/beagle-campaign-archive/capture-11.jpg)
+- [Capture 12](/images/fact-checks/beagle-campaign-archive/capture-12.jpg)
+- [Capture 13](/images/fact-checks/beagle-campaign-archive/capture-13.jpg)
+- [Capture 14](/images/fact-checks/beagle-campaign-archive/capture-14.jpg)
+- [Capture 15](/images/fact-checks/beagle-campaign-archive/capture-15.jpg)
+- [Capture 16](/images/fact-checks/beagle-campaign-archive/capture-16.jpg)
+- [Capture 17](/images/fact-checks/beagle-campaign-archive/capture-17.jpg)
+- [Capture 18](/images/fact-checks/beagle-campaign-archive/capture-18.jpg)
+- [Capture 19](/images/fact-checks/beagle-campaign-archive/capture-19.jpg)
+- [Capture 20](/images/fact-checks/beagle-campaign-archive/capture-20.jpg)
+- [Capture 21](/images/fact-checks/beagle-campaign-archive/capture-21.jpg)
+- [Capture 22](/images/fact-checks/beagle-campaign-archive/capture-22.jpg)
+- [Capture 23](/images/fact-checks/beagle-campaign-archive/capture-23.jpg)
+- [Capture 24](/images/fact-checks/beagle-campaign-archive/capture-24.jpg)
+- [Capture 25](/images/fact-checks/beagle-campaign-archive/capture-25.jpg)
+- [Capture 26](/images/fact-checks/beagle-campaign-archive/capture-26.jpg)
+- [Capture 27](/images/fact-checks/beagle-campaign-archive/capture-27.jpg)
+- [Capture 28](/images/fact-checks/beagle-campaign-archive/capture-28.jpg)
+- [Capture 29](/images/fact-checks/beagle-campaign-archive/capture-29.jpg)
+- [Capture 30](/images/fact-checks/beagle-campaign-archive/capture-30.jpg)
+- [Capture 31](/images/fact-checks/beagle-campaign-archive/capture-31.jpg)
+- [Capture 32](/images/fact-checks/beagle-campaign-archive/capture-32.jpg)
+- [Capture 33](/images/fact-checks/beagle-campaign-archive/capture-33.jpg)
+- [Capture 34](/images/fact-checks/beagle-campaign-archive/capture-34.jpg)
+- [Capture 35](/images/fact-checks/beagle-campaign-archive/capture-35.jpg)
 
 ---
 
@@ -160,7 +206,7 @@ The documented pattern is not that Langworthy's support for ending beagle testin
 
 **Verdict: DOCUMENTED PATTERN**
 
-Between May 3 and June 29, 2026, Langworthy published 30 posts, surveys, and releases on the beagle / animal-testing campaign (manual count, July 1) — a narrative arc running from teasers through rally, "torture chamber" villain quote, declared victory ("Together, we saved the Beagles"), and a post-resolution oversight letter. The Ridglan release itself was achieved by Wisconsin prosecutors, animal rights activists, and two nonprofit organizations, not by his letter to an agency that didn't fund the facility. In the same period he posted nothing about the SSI bedroom rule (threatening $330/month cuts to 400,000 disabled people), the Medicaid reductions from his own vote, SNAP cuts hitting NY-23 food banks, the Republican Oversight Committee's failure to hold official Epstein survivor hearings — or, as of the day of this update, the **450,000 New Yorkers losing Essential Plan coverage on July 1 under the law he voted for**. The beagle campaign is a textbook example of flooding a social media feed with popular, low-cost advocacy while staying silent on politically costly policy consequences.
+Between May 3 and June 29, 2026, Langworthy published 30 posts, surveys, and releases on the beagle / animal-testing campaign (manual count, July 2) — a narrative arc running from teasers through rally, "torture chamber" villain quote, declared victory ("Together, we saved the Beagles"), and a post-resolution oversight letter. The Ridglan release itself was achieved by Wisconsin prosecutors, animal rights activists, and two nonprofit organizations, not by his letter to an agency that didn't fund the facility. In the same period he posted nothing about the SSI bedroom rule (threatening $330/month cuts to 400,000 disabled people), the Medicaid reductions from his own vote, SNAP cuts hitting NY-23 food banks, the Republican Oversight Committee's failure to hold official Epstein survivor hearings — or, as of the day of this update, the **450,000 New Yorkers losing Essential Plan coverage on July 1 under the law he voted for**. The beagle campaign is a textbook example of flooding a social media feed with popular, low-cost advocacy while staying silent on politically costly policy consequences.
 
 ---
 

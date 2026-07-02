@@ -1,4 +1,4 @@
-# Facebook post: beagle count vs Essential Plan silence (July 1, 2026)
+# Facebook post: beagle count vs Essential Plan silence (July 2, 2026)
 Companion to beagle_count_contrast_card.png and the updated priorities fact-check.
 
 ---

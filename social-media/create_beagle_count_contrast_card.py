@@ -59,7 +59,7 @@ y+=col_h+20
 # sweep strip
 strip_h=150
 draw.rounded_rectangle([(44,y),(WIDTH-44,y+strip_h)],radius=8,fill="#EDF2F7",outline=BORDER,width=2)
-draw.text((WIDTH//2,y+20),"JULY 1 SWEEP OF @REPLANGWORTHY  ·  232 POSTS, MID-APRIL TO JULY 1",fill=NAVY,font=f_label_s,anchor="mm")
+draw.text((WIDTH//2,y+20),"JULY 2 SWEEP OF @REPLANGWORTHY  ·  232 POSTS, MID-APRIL TO JULY 1",fill=NAVY,font=f_label_s,anchor="mm")
 third=(WIDTH-88)//3
 for i,(val,l1,c) in enumerate([
     ("10","hospital posts: all funding or tours",NAVY),

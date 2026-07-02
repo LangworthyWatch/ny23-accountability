@@ -251,13 +251,13 @@
 - **Deploy cmd:** `rm -rf public && hugo --gc --minify && wrangler pages deploy public --project-name=langworthywatch --branch=main --commit-dirty=true`
 
 ### "475 beagles transferred to Big Dog Ranch Rescue by end of August" — verify the claim
-- **Date logged:** 2026-07-01 · **Type:** claim-verification · **Status:** open · **Action date:** 2026-09-01
+- **Date logged:** 2026-07-02 · **Type:** claim-verification · **Status:** open · **Action date:** 2026-09-01
 - **Detail:** Langworthy FB post (~mid-June 2026): "Together, we saved the Beagles... the expectation is that the remaining 475 beagles will be transferred to Big Dog Ranch Rescue by the end of August." Checkable on its own timeline. If the transfer did not happen by Sept. 1, the declared victory becomes a fact-check; if it did, note it for fairness in the beagle-priorities entry.
 
 ### Pin exact dates + permalinks for the June beagle posts (FB relative timestamps)
-- **Date logged:** 2026-07-01 · **Type:** sourcing · **Status:** open
+- **Date logged:** 2026-07-02 · **Type:** sourcing · **Status:** open
 - **Detail:** July 1 sweep counted 21 beagle posts still visible on @RepLangworthy (232-post window, ~mid-April–July 1) but Facebook shows relative dates ("4w", "7w"). The 2026-05-22 priorities entry hedges the two mid-June posts (~Rollins "major win", "Together we saved the Beagles"). Hover-capture the permalinks/timestamps in a browser pass and archive them; upgrade the hedged dates.
 
 ### FB sweep gaps (July 1): Roswell/LUNGevity + UPMC Chautauqua $300K + $2.3M airports
-- **Date logged:** 2026-07-01 · **Type:** story-lead · **Status:** open
+- **Date logged:** 2026-07-02 · **Type:** story-lead · **Status:** open
 - **Detail:** No corpus entries yet for: (1) June 29 Roswell Park/LUNGevity lung-screening post (commenters raising Medicaid-cut contradiction; Roswell heavily Medicaid-exposed); (2) UPMC Chautauqua $300K training investment (3 posts, "hospital where I was born" framing) vs rural-hospital Medicaid exposure; (3) $2.3M airport funding credit claim (check appropriation + his vote); (4) critical-minerals/China post (need bill number); (5) Air Methods air-ambulance post ("I'm working..." — what legislation?).
