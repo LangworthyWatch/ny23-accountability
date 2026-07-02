@@ -40,7 +40,7 @@ draw.text((lx+col_w//2,y+230),"posts, surveys, releases",fill=DARK,font=f_sub_b,
 draw.text((lx+col_w//2,y+268),'"Huge rally. Save the Beagles."',fill=DARK,font=f_sub,anchor="mm")
 draw.text((lx+col_w//2,y+298),'"Marshall Farms is a torture chamber."',fill=DARK,font=f_sub,anchor="mm")
 draw.text((lx+col_w//2,y+328),'"Together, we saved the Beagles."',fill=DARK,font=f_sub,anchor="mm")
-draw.text((lx+col_w//2,y+372),"The Ridglan release he claimed was won by",fill=MUTED,font=f_xs,anchor="mm")
+draw.text((lx+col_w//2,y+372),"The Ridglan (Wisconsin) release he claimed was won by",fill=MUTED,font=f_xs,anchor="mm")
 draw.text((lx+col_w//2,y+392),"prosecutors, activists, and two nonprofits",fill=MUTED,font=f_xs,anchor="mm")
 
 draw.rounded_rectangle([(rx,y),(rx+col_w,y+col_h)],radius=8,fill="#FFF5F5",outline="#FEB2B2",width=2)

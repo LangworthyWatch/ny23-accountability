@@ -16,7 +16,7 @@ Then we searched the same Facebook page for something else.
 
 Yesterday, about 450,000 New Yorkers lost the Essential Plan, the free health coverage the state provided. That is New York State's own count, and the state names the cause directly: H.R. 1, the federal law Rep. Langworthy voted for (Roll Call 190). About 26,000 of the people losing coverage are in Western New York.
 
-In fact, the only closure of any kind he posted about was Ridglan Farms, the beagle facility: "The closure of Ridglan Farms proved that real change is possible."
+In fact, the only closure of any kind he posted about was Ridglan Farms, the beagle facility in Wisconsin: "The closure of Ridglan Farms proved that real change is possible."
 
 The beagle rescue he celebrated? The Ridglan release was won by Wisconsin prosecutors, animal rights activists, and two nonprofits that paid for the dogs. His letter went to an agency that does not fund the facility.
 

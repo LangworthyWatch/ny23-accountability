@@ -12,7 +12,7 @@ We went through every post on Congressman Langworthy's official Facebook page, M
 → Posts about Springville's 80-bed nursing home entering closure, or Bradford Regional ending ER and inpatient care: 0.
 → Hospital posts: 10, every single one a funding announcement, a tour, or a LIVE stream.
 
-The only closure he posted about all spring? Ridglan Farms. The beagle facility.
+The only closure he posted about all spring? Ridglan Farms. The beagle facility. In Wisconsin.
 
 To be clear: nobody is against saving beagles. But beagle advocacy costs nothing. Explaining to 450,000 people why they lost their health coverage under your own vote costs something, and that is the post that never appears.
 
