@@ -4,9 +4,9 @@ Every member of Congress wants a seat on the committees that matter. Langworthy 
 
 So here is the record on the biggest rural-health bill of his term, straight from the official committee reports, with his name next to every vote:
 
-→ In the Energy & Commerce markup (May 13, 2025), he voted to advance the Medicaid cuts out of committee (work requirements, more frequent eligibility checks, a provider-tax freeze, new cost-sharing), voted down all 21 Democratic amendments to that section, and offered none of his own.
+→ In the Energy & Commerce markup (May 13, 2025), he voted to advance the Medicaid cuts out of committee (work requirements, more frequent eligibility checks, a provider-tax freeze, new cost-sharing), voted down all 21 Democratic amendments to that section, and offered none of his own. He said he would "fight relentlessly to protect rural hospitals" and was "proud to help lead that charge." The bill he helped lead out of committee is scored as cutting about $137 billion from rural Medicaid.
 
-→ On the Rules Committee, four separate times, he voted to report "closed rules" that stopped the full House from ever voting on amendments to soften the cuts: striking the Medicaid cuts, making the ACA premium tax credits permanent (the ones tied to New York's Essential Plan cliff that cost about 450,000 New Yorkers their coverage on July 1), a $35 insulin cap, and reversing $313 billion in SNAP cuts.
+→ On the Rules Committee, five separate times, he voted to report "closed rules" that stopped the full House from ever voting on amendments to soften the cuts: striking the Medicaid cuts, making the ACA premium tax credits permanent (the ones tied to New York's Essential Plan cliff that cost about 450,000 New Yorkers their coverage on July 1), a $35 insulin cap, reversing $313 billion in SNAP cuts, and striking the Planned Parenthood defunding. The most recent was in November 2025, nine months after the first.
 
 → Not one amendment of his own for a rural hospital, the Essential Plan, or anything specific to NY-23.
 
