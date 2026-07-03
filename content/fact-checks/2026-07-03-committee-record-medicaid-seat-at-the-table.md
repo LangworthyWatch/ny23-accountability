@@ -40,6 +40,10 @@ The markup votes were **recorded roll calls**, so Langworthy's position is docum
 
 *(The E&C report labels each Democratic amendment only by an internal code and its sponsor, not by policy topic, so this entry does not assign a specific subject to a specific Nay at the markup stage. What the record establishes is that he voted against every Democratic change to the subtitle and voted to send the cuts forward.)*
 
+**He was not a silent vote — he publicly led the charge.** The day before the markup, Langworthy issued a statement saying the E&C bill "achieves our top priorities: protecting Medicaid for those who genuinely need it," and added: "From day one, I made it clear that I would **fight relentlessly to protect rural hospitals** and safeguard access to care—and as the only Republican from New York serving on the Energy and Commerce Committee, I was **proud to help lead that charge**." He defended the work requirements and "removing illegal aliens from the Medicaid rolls." He repeated the case on the House floor during the July 2 rule debate — this is the official Congressional Record (H3043): the bill "takes a critical step to protect and strengthen Medicaid," "restoring the same commonsense work requirements that President Bill Clinton signed into law," while "for able-bodied adults without kids, yes, you should try to work." *(He also spoke during the May 13 markup itself; this entry quotes only statements verified against primary sources — his own release and the Congressional Record — not third-party transcripts.)*
+
+His own words are the measure. He said he would "fight relentlessly to protect rural hospitals" and was "proud to help lead that charge." The bill he led out of committee is scored by KFF as cutting roughly **$137 billion from rural Medicaid** over ten years — and in the committee that wrote it, he offered **no amendment** to shield a rural hospital, the Essential Plan, or any NY-23 interest.
+
 ---
 
 ## Where the Fixes Were Blocked: The Rules Committee
@@ -61,6 +65,18 @@ Among the specific amendments he voted to keep off the House floor (each describ
 - **Strike the $313 billion in SNAP cuts** (Rep. Craig) and **protect food aid for children as young as 7** (Rep. Brown) — voted Nay.
 
 **In plain language:** as an E&C member he voted to move the Medicaid cuts out of the committee that wrote them; as a Rules member he voted, four times, to report rules that prevented the full House from voting on amendments to soften them.
+
+---
+
+## The Same Pattern, Nine Months Later
+
+The closed-rule pattern did not end with reconciliation. The standalone FY2026 Labor-HHS-Education appropriations bill (H.R. 5304) never reached the House floor — it was reported from committee and then folded into a stopgap and an omnibus under closed rules. When the health-amendment fights reached the Rules Committee on the continuing-resolution minibus (H. Rept. 119-372, November 12, 2025), Langworthy voted the same way, by name:
+
+- **Nay** on making in order an amendment to **extend the enhanced ACA premium tax credits for three years** (record vote 199), and a companion measure appropriating $40 billion to extend them through 2027 (record vote 202) — the same subsidies whose expiration drives the [Essential Plan cliff](/fact-checks/2026-07-01-essential-plan-cliff-450k/) that cost roughly 450,000 New Yorkers their coverage.
+- **Nay** on making in order an amendment to **strike the Planned Parenthood defunding** (record vote 200).
+- **Yea** to report the closed rule (record vote 205).
+
+Nine months after the reconciliation votes, the same member cast the same kind of votes.
 
 ---
 
@@ -113,6 +129,9 @@ Langworthy's most-cited rural-health accomplishment from this law is New York's 
 - H. Rept. 119-152 (Rules report, H.Res.499 closed rule for H.R. 4 rescissions; Committee Votes): <https://www.govinfo.gov/content/pkg/CRPT-119hrpt152/pdf/CRPT-119hrpt152.pdf>
 - H. Rept. 119-179 (Rules report, H.Res.566 rule for final H.R. 1 concurrence; Committee Votes): <https://www.govinfo.gov/content/pkg/CRPT-119hrpt179/pdf/CRPT-119hrpt179.pdf>
 - Rules Committee bill pages: <https://rules.house.gov/bill/119/hr-ORH-one-big-beautiful-bill-act> · <https://rules.house.gov/bill/119/hr-1-sa>
+- H. Rept. 119-372 (Rules report, H.Res.873 closed rule for the CR minibus H.R. 5371; Committee Votes 195–205, incl. the ACA premium-tax-credit and Planned Parenthood motions): <https://www.govinfo.gov/content/pkg/CRPT-119hrpt372/pdf/CRPT-119hrpt372.pdf>
+- Rep. Langworthy — statement supporting the E&C reconciliation bill (May 12, 2025): <https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-releases-statement-supporting-house-energy-and>
+- Congressional Record, July 2, 2025 (Langworthy floor remarks on the H.R. 1 rule, p. H3043): <https://www.congress.gov/119/crec/2025/07/02/171/114/CREC-2025-07-02-house.pdf>
 - KFF — rural Medicaid reductions under H.R. 1 (~$137B; timing): as cited in the [$212M entry](/fact-checks/2026-06-02-rural-health-transformation-212m/)
 
 ---
