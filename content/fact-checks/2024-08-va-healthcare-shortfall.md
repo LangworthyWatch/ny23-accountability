@@ -180,6 +180,22 @@ The **Social Security office in Big Flats** (Chemung County) was also listed on 
 
 ---
 
+## Update — July 2026
+
+Three items since this entry was written sharpen the picture, including one point of fairness.
+
+**Secretary Collins's outreach framing.** On an April 30, 2026 podcast, VA Secretary Doug Collins said about **60% of veterans who die by suicide "have not had any contact with the VA"** — more precisely, VA's own data says they were not in VA care in the two years prior — and described reaching them through popular venues: *"We are going to use UFC, Major League Baseball, football, NFL, NBA, rodeos, singers, and hunters."* Read accurately, this is an **enrollment-outreach** strategy aimed at the unenrolled majority; VA says its 2026 "Choose VA" push drove tens of thousands of unenrolled veterans to sign up. The critique it draws — that outreach does not add clinical capacity for the veterans who *do* show up — is the same tension this entry documents.
+
+**The screening gap for veterans who do show up.** A VA Office of Inspector General report (**23-02939-13**, December 18, 2024) found that in FY2023 only **55%** of patients received the required annual suicide-risk screening, and **82%** received the required follow-up evaluation after a positive screen — deficiencies the OIG attributed to training gaps and weak oversight. VA has since reported screening completion rising toward ~88% by early 2026. This is a distinct problem from the unenrolled 60%: a gap for the veterans already in VA care.
+
+**For the record (fairness).** Langworthy's VA record is not only the workforce-cut side. He also voted **for** the VA's funding: **Yea** on H.R. 3944 (FY2026 Military Construction–VA appropriations; Roll Call 182, June 25, 2025) and **Yea** on H.R. 5371 (the continuing resolution / minibus funding the VA; Roll Call 281, Sept. 19, 2025, and the Senate-amendment concurrence that reopened the government, Roll Call 285, Nov. 12, 2025). The contradiction documented here is not that he defunded the VA — it is that he co-founded and champions the workforce-reduction drive, and authored H.R. 7256 to accelerate federal departures, while calling the VA's problems a "staffing problem."
+
+*A note on causation:* this entry does not claim, and the record does not show, that Langworthy's actions caused any veteran's death. The suicide data here is context on what VA capacity is for; accountability is limited to his documented positions and votes. The widely shared "44 veterans a day" figure comes from a single advocacy study (Operation Deep Dive) and is roughly double VA's official rate of ~17.6/day; it is mentioned only to be attributed correctly, not adopted.
+
+**If you or a veteran you know needs help, the Veterans/Military Crisis Line is 988, then Press 1** (or text 838255).
+
+---
+
 ## Assessment
 
 Langworthy describes VA problems as a **"staffing problem"** while actively supporting — as a founding DOGE Caucus member — the **workforce reduction initiative that reduces VA staff**.
@@ -208,6 +224,11 @@ These are not opposing interpretations of ambiguous data — they are **document
 * [Congress.gov: H.R. 7256 — Federal Workforce Early Separation Incentives Act](https://www.congress.gov/bill/119th-congress/house-bill/7256) (Langworthy)
 * [Roll Call: "Massive veterans budget gap rips hole in appropriations process"](https://rollcall.com/2024/07/26/massive-veterans-budget-gap-rips-hole-in-appropriations-process/) (July 2024)
 * [VA OIG: Leaders Failed to Address Community Care Consult Delays at Buffalo VA](https://www.vaoig.gov/sites/default/files/reports/2024-09/vaoig-23-03679-262.pdf) (September 2024)
+* [VA OIG 23-02939-13: Inadequate Staff Training and Lack of Oversight Contribute to VHA Suicide Risk Screening and Evaluation Deficiencies](https://www.vaoig.gov/sites/default/files/reports/2024-12/vaoig-23-02939-13.pdf) (December 18, 2024) — 55% annual screening adherence (FY2023)
+* Jedburgh Podcast #195 (Green Beret Foundation), Sec. Doug Collins interview (April 30, 2026) — the 60% figure and the UFC/rodeos outreach quote
+* [VA News: VA boosts veteran suicide-risk screening evaluations to record levels](https://news.va.gov/press-room/va-boosts-veteran-suicide-risk-screening-evaluations-to-record-levels/) — screening completion ~88% (2026)
+* House Clerk roll calls (Langworthy: Yea): [H.R. 3944, Roll 182 (June 25, 2025)](https://clerk.house.gov/evs/2025/roll182.xml) · [H.R. 5371, Roll 281 (Sept. 19, 2025)](https://clerk.house.gov/evs/2025/roll281.xml) · [Roll 285 (Nov. 12, 2025)](https://clerk.house.gov/evs/2025/roll285.xml)
+* America's Warrior Partnership / University of Alabama / Duke, "Operation Deep Dive" (Sept. 2022) — the contested "up to 44/day" figure (attributed, not adopted)
 * Related: [Big Flats SSA/DOGE](/fact-checks/2026-02-08-big-flats-ssa-doge/)
 * Related: [Steuben County: Ten Federal Funding Claims](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/)
 
@@ -215,4 +236,4 @@ These are not opposing interpretations of ambiguous data — they are **document
 
 **Note:** This entry documents publicly available information from official reports and news sources. Readers may draw their own conclusions.
 
-*Last updated: February 9, 2026*
+*Last updated: July 3, 2026*
