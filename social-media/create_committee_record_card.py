@@ -45,28 +45,29 @@ y+=claim_h+16
 
 # Two committees
 col_w=(WIDTH-44*2-16)//2; col_h=238; lx=44; rx=lx+col_w+16
+def bullets(x0, top, points, accent):
+    yy = top+84
+    for p in points:
+        draw.ellipse([(x0, yy-4),(x0+9, yy+5)], fill=accent)
+        draw.text((x0+20, yy), p, fill=DARK, font=f_body, anchor="lm")
+        yy += 42
 # left: E&C
 draw.rounded_rectangle([(lx,y),(lx+col_w,y+col_h)],radius=8,fill="#FFF5F5",outline="#FEB2B2",width=2)
 draw.text((lx+col_w//2,y+22),"ENERGY & COMMERCE",fill=RED,font=f_colh,anchor="mm")
 draw.text((lx+col_w//2,y+42),"where the cuts were written",fill=MUTED,font=font("Arial.ttf",14),anchor="mm")
-for i,(t) in enumerate([
-    "Voted YES to advance the",
-    "Medicaid cuts out of committee",
-    "NO on all 21 Democratic",
-    "health amendments",
-    "Offered ZERO of his own"]):
-    draw.text((lx+22,y+74+i*30),t,fill=DARK,font=f_body,anchor="lm")
+bullets(lx+26, y, [
+    "Voted YES to advance the cuts",
+    "NO on all 21 Democratic amendments",
+    "Offered ZERO of his own"], RED)
 # right: Rules
 draw.rounded_rectangle([(rx,y),(rx+col_w,y+col_h)],radius=8,fill="#FFF5F5",outline="#FEB2B2",width=2)
 draw.text((rx+col_w//2,y+22),"RULES COMMITTEE",fill=RED,font=f_colh,anchor="mm")
 draw.text((rx+col_w//2,y+42),"which amendments reach the floor",fill=MUTED,font=font("Arial.ttf",14),anchor="mm")
-for i,(t) in enumerate([
+bullets(rx+26, y, [
     "5 closed rules reported",
-    "Voted to block every floor",
-    "vote on softening the cuts",
+    "Blocked every floor vote to soften them",
     "YES to report each rule",
-    "By name, in the record"]):
-    draw.text((rx+22,y+74+i*30),t,fill=DARK,font=f_body,anchor="lm")
+    "By name, in the record"], RED)
 y+=col_h+16
 
 # strip — what he voted to keep off the floor
