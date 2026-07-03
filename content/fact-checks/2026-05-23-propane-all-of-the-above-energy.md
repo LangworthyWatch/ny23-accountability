@@ -67,6 +67,17 @@ The OBBBA extended the USDA Bioenergy Program for Advanced Biofuels through 2031
 
 ---
 
+## The Committee Record
+
+His energy record is not only floor votes. Langworthy sits on the Energy & Commerce **Energy Subcommittee**, the panel with jurisdiction over the energy title of the reconciliation law — so his position is recorded at the committee stage too, by name (H. Rept. 119-106, Part 1, committee vote sheets):
+
+- At the May 13, 2025 markup, he voted **Yea (Record Vote #5) to advance "Subtitle A — Energy"** — the rescissions of IRA clean-energy programs (the DOE Loan Programs Office, the Advanced Industrial Facilities Deployment program, transmission financing, the state home-energy-efficiency contractor training program, and more) — to the Budget Committee, and voted **Nay** on the Democratic amendments to that subtitle.
+- What he has affirmatively moved through his own committee on energy is not renewable access but **preemption**: he is the sponsor of the [Energy Choice Act (H.R. 3699)](/fact-checks/2026-02-25-energy-choice-act/), which E&C ordered reported on a 24–21 vote (Dec. 3, 2025), and the State Energy Accountability Act (H.R. 3157), reported 27–20 (June 25, 2025) — both using federal power to block state and local clean-energy rules.
+
+**In plain language:** on the committee where he actually helps write energy law, the record matches the floor — he voted to strip the federal clean-energy programs and has advanced bills to preempt state clean-energy rules, not to expand the renewable side of an "all-of-the-above" strategy. These committee votes broke on party lines, as most do; the point is what the record shows he used the seat *for*. See the fuller committee-record pattern in ['A Seat at the Table'](/fact-checks/2026-07-03-committee-record-medicaid-seat-at-the-table/).
+
+---
+
 ## The Tension
 
 Langworthy's advocacy for propane access is consistent with representing rural communities. His opposition to NY's all-electric building mandates (Energy Choice Act) is a defensible position on state overreach.
@@ -97,6 +108,9 @@ Propane is a real and important energy source for NY-23, and Langworthy's distri
 4. [Tax Foundation: How the One Big Beautiful Bill Changes Clean Energy Tax Credits](https://taxfoundation.org/blog/big-beautiful-bill-green-energy-tax-credit-changes/) — archive pending
 5. [Daily Yonder: Energy Cuts in OBBBA Raise Costs, Threaten Jobs in Rural Communities](https://dailyyonder.com/energy-cuts-in-one-big-beautiful-bill-raise-costs-threaten-jobs-investment-in-rural-communities-across-u-s/2025/07/14/) — archive pending
 6. [Langworthy: Energy Choice Act press release](https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-introduces-energy-choice-act-end-blue-state-wars-0) — archive pending
+7. [H. Rept. 119-106, Part 1 (E&C reconciliation recommendations; energy subtitle pp. 473–484; committee vote sheets, Record Votes #2–#5, #39)](https://www.govinfo.gov/content/pkg/CRPT-119hrpt106/pdf/CRPT-119hrpt106-pt1.pdf)
+8. [H.R. 3699 (Energy Choice Act) — all actions; E&C ordered reported 24–21, Dec. 3, 2025](https://www.congress.gov/bill/119th-congress/house-bill/3699/all-actions)
+9. [H.R. 3157 (State Energy Accountability Act) — all actions; E&C ordered reported 27–20, June 25, 2025](https://www.congress.gov/bill/119th-congress/house-bill/3157/all-actions)
 
 ## Related Entries
 
