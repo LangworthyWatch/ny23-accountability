@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-02",
-  "total": 124,
+  "generated": "2026-07-03",
+  "total": 128,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 34,
-    "MISLEADING": 30,
-    "DOCUMENTED PATTERN": 21,
+    "MISLEADING": 31,
+    "DOCUMENTED PATTERN": 24,
     "CONTRADICTION": 13,
     "FALSE": 9,
     "MOSTLY TRUE": 3,
@@ -18,10 +18,10 @@
     "INCONSISTENT": 1
   },
   "by_topic": {
-    "Healthcare": 17,
-    "Economy": 13,
+    "Healthcare": 18,
+    "Economy": 14,
     "Government Operations": 12,
-    "Other": 9,
+    "Other": 10,
     "Immigration": 7,
     "Campaign Finance": 6,
     "Local Impact": 6,
@@ -29,6 +29,7 @@
     "Agriculture": 4,
     "Energy": 4,
     "Infrastructure": 4,
+    "Veterans": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
     "Consumer Protection": 2,
@@ -37,7 +38,6 @@
     "Rule of Law": 2,
     "Environment": 2,
     "Social Services": 2,
-    "Veterans": 2,
     "Financial Disclosure": 1,
     "Disability & Education": 1,
     "Housing": 1,
@@ -63,9 +63,37 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 3
+    "2026-07": 7
   },
   "entries": [
+    {
+      "title": "A Seat at the Table': His Two Committees and What He Did With Them on the Medicaid Cuts",
+      "date": "2026-07-03",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-07-03-committee-record-medicaid-seat-at-the-table/"
+    },
+    {
+      "title": "On H.R. 9237, His Rules Vote Kept Off the Floor the Amendment That Would Have Dropped the Veterans' Benefit Cuts",
+      "date": "2026-07-03",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Veterans",
+      "url": "/fact-checks/2026-07-03-hr9237-rules-vote-veterans-benefit-cuts/"
+    },
+    {
+      "title": "Not a Calendar Day': The Committee Votes That Kept the House From Voting to End the Tariffs",
+      "date": "2026-07-03",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-07-03-rules-committee-tariff-vote-blockade/"
+    },
+    {
+      "title": "Fireworks, a Flag, and a Missing Launch Site: What Buffalo Actually Said About July 4",
+      "date": "2026-07-02",
+      "verdict": "MISLEADING",
+      "topic": "Other",
+      "url": "/fact-checks/2026-07-02-buffalo-fireworks-somali-flag/"
+    },
     {
       "title": "Home Care: The Meeting Is Real, and So Is the Letter He Signed. The 'Stewardship' Framing Omits What His Vote Did.",
       "date": "2026-07-02",

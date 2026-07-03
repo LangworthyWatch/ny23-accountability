@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 2, 2026*
+*Last updated: July 3, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 124 Fact-Checks Published
+## Content: 128 Fact-Checks Published
 
 ### Topics Covered
 
@@ -43,6 +43,8 @@
 | Scaffold Law §240 (worker safety, Infrastructure Expansion Act, reauthorization rider) | 3 | Complete — Dec/May entries hardened + reauthorization entry added 2026-06-24; primary-sourced (NYCOSH, Times Union/Dan Clark, City & State/Espaillat) |
 | Credit-claiming vs. record (FY27 hospital radiology *requests*; Jamestown tariff tour) | 2 | Added 2026-06-24 — MISLEADING + MISSING CONTEXT |
 | Disclosure Gap (donor→action series framing; ties Seneca/nursing-home/Corning/NAHB/Energy Choice + district-office geography) | 1 | Added 2026-06-24 — DOCUMENTED PATTERN |
+| Rules Committee closed-rule pattern (Medicaid "Seat at the Table" incl. E&C markup + 5 closed rules; tariff-termination blockade; HR 9237 veterans vote) | 3 | Added 2026-07-03 — DOCUMENTED PATTERN; by-name committee votes from H. Rept. 119-5/-106/-113/-152/-179/-372/-707; VA + propane entries updated with the committee record |
+| Buffalo July 4 fireworks / Somali flag | 1 | Added 2026-07-02 — MISLEADING |
 
 ### Verdict Distribution
 
@@ -105,6 +107,8 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 | Scaffold Law reauthorization | Published (3 entries) | Watch ~Sept 2026: whether H.R. 3548 §240 preemption gets attached to the surface-transportation reauthorization before the IIJA expires Sep 30 (logged in FINDINGS_BACKLOG); also UPMC/Arnot FY27 CPF requests — revisit if a FY27 approps bill passes |
 | June 10 FB post permalinks | Pending | Minnesota, Marilla, Jasper-Troupsburg entries quote posts verified from screenshots; need permalinks + screenshots archived to static/images/ |
 | Economic attribution report (imported 2026-06-11) | Monitoring thresholds | Watch: OTDA county SNAP caseloads (June–Sept first benefit-loss window); NY DOH Medicaid Enrollment Databook; first RHTP disbursement to a named district hospital; NY PSC final NYSEG/RG&E rate orders (~24%/26% requests pending); NY DOL WARN for Jamestown/eSolutions; Essential Plan cliff July 1. Entry candidates remaining: WSKG/H.R. 4 rescissions (clean vote+quote), Essential Plan July 1 response prep |
+| Rules Committee closed-rule pattern | **Published 7/3** (3 entries, DOCUMENTED PATTERN) | Complete: "Seat at the Table" (E&C markup — he voted to advance the Medicaid subtitle + spoke defending it, primary-verified quotes; 5 closed rules incl. Nov 2025 CR minibus RV 195/199/200/202/205), tariff-vote blockade (H.Res.211/313), HR 9237 veterans (RV 369/373). Backlog: browser-archive CRPT-119hrpt106-pt1 + 119-372 to Wayback |
+| HR 9237 attribution correction | **Fixed 7/3** | A House Veterans' Affairs Committee GOP post was initially misattributed to Langworthy; pulled the live entry (_redirects 301) + reframed around his actual Rules vote. Lesson logged to shared LESSONS.md (verify a quote's author before publishing) |
 | Liberty Strategies / Erin Langworthy FDS (donor-disclosure) | Held draft + right-of-reply sent | Entry `2026-06-24-liberty-strategies-disclosure` is **draft:true**; right-of-reply submitted via the House web form June 24 (response requested July 1); scheduled task `publish-liberty-strategies-disclosure` finalizes + publishes **July 2** (asks for the response status first). Federal-only client revenue (Reed/Jacobs/Singletary, $103,604.99); NYS BOE shows no vendor income; Liberty Opinion Research (Nick's prior firm, Erie clients) is COI-paused and stays out. **Do NOT publish before the reply window.** Workspace: `imported-from-public-ledger/erin-baker-2026-05-02/` |
 
 ---
