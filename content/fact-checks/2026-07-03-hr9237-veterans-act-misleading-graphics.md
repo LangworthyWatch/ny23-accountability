@@ -1,7 +1,7 @@
 ---
 title: "'Misleading Veterans'? The Groups Warning About H.R. 9237 Are the VFW, DAV, and IAVA"
 date: 2026-07-03
-draft: false
+draft: true
 topic: "Veterans"
 claim_date: "June 2026"
 source: "Facebook Post"
