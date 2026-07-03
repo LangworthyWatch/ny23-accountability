@@ -61,7 +61,7 @@ draw.rounded_rectangle([(rx,y),(rx+col_w,y+col_h)],radius=8,fill="#FFF5F5",outli
 draw.text((rx+col_w//2,y+22),"RULES COMMITTEE",fill=RED,font=f_colh,anchor="mm")
 draw.text((rx+col_w//2,y+42),"which amendments reach the floor",fill=MUTED,font=font("Arial.ttf",14),anchor="mm")
 for i,(t) in enumerate([
-    "4 closed rules reported",
+    "5 closed rules reported",
     "Voted to block every floor",
     "vote on softening the cuts",
     "YES to report each rule",
@@ -81,13 +81,13 @@ y+=strip_h+16
 # kicker
 kick_h=92
 draw.rounded_rectangle([(44,y),(WIDTH-44,y+kick_h)],radius=8,fill=NAVY)
-draw.text((WIDTH//2,y+28),"He markets these seats as the district's leverage. On the biggest rural-health",
+draw.text((WIDTH//2,y+28),"He said he would 'fight relentlessly to protect rural hospitals.'",
           fill=LIGHTGRAY,font=font("Arial.ttf",17),anchor="mm")
-draw.text((WIDTH//2,y+58),"bill of his term, the seat at the table produced no amendment of his own.",
-          fill=WHITE,font=font("Arial Bold.ttf",18),anchor="mm")
+draw.text((WIDTH//2,y+58),"On the biggest rural-health bill of his term, he offered no amendment of his own.",
+          fill=WHITE,font=font("Arial Bold.ttf",17),anchor="mm")
 y+=kick_h+14
 
-draw.text((WIDTH//2,y),"Sources: official House committee reports (H. Rept. 119-5, -106, -113, -152, -179)",
+draw.text((WIDTH//2,y),"Sources: official House committee reports (H. Rept. 119-5, -106, -113, -152, -179, -372)",
           fill=MUTED,font=f_src,anchor="mm"); y+=24
 draw.text((WIDTH//2,y),"langworthywatch.org/fact-checks/2026-07-03-committee-record-medicaid-seat-at-the-table/",
           fill=NAVY,font=font("Arial.ttf",14),anchor="mm")
