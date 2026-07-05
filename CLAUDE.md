@@ -472,6 +472,21 @@ Reference these when entries fit established patterns:
 - End with full fact-check URL
 - Tone: factual, not partisan — goal is "I support X, but this bill goes further than people think"
 
+### Roundup / multi-claim post format (added July 2026, from supporter feedback)
+
+Multi-claim and "scorecard" posts were burying the lede behind an appearance of precision. Lead with the verdict; the post's job is to be legible in ~10 seconds, with the receipts one click away on the entry.
+
+- **Headline first** — the takeaway in one line (e.g., "128 fact-checks. His claims held up as accurate 4 times.").
+- **Then scannable triplets:**
+  ```
+  CLAIM: <his quoted words>
+  VERDICT: <label>
+  <one sentence of the documented reality>
+  ```
+- **Verdict labels MUST match the published entry.** Never upgrade "Misleading" to "False" for punch — the mismatch is exactly what a hostile reader clicks through to catch, and the project's pitch is "check the record." Consistency is the credibility armor.
+- **Framing precision:** say "held up as accurate N times," NOT "only X% completely accurate" ("not completely accurate" misreads as "false"; most verdicts are Missing Context / Misleading, not False).
+- **Close** with "don't take our word for it, check his own votes and words" + the URL.
+
 ---
 
 ## Git and Deployment
