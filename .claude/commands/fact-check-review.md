@@ -1,5 +1,5 @@
 ---
-description: Verify a fact-check entry against its cited primary sources. Catches the five failure modes documented in CLAUDE.md.
+description: Verify a fact-check entry against its cited primary sources. Catches the six failure modes documented in CLAUDE.md.
 ---
 
 # /fact-check-review
@@ -10,7 +10,7 @@ The argument to this command is the path to the fact-check markdown file. If no 
 
 ## What you are checking for
 
-Five specific failure modes that have caused real corrections in this project:
+Six specific failure modes that have caused real corrections in this project:
 
 1. **Tool summaries treated as primary-source quotes.** Any number, dollar figure, or quoted sentence in the entry that came from a WebSearch tool summary rather than the actual primary document is suspect. The fix is to fetch the primary document yourself and verify the cited number/quote appears there exactly as the entry says.
 
@@ -21,6 +21,8 @@ Five specific failure modes that have caused real corrections in this project:
 4. **Conflated numbers from different snapshots.** Any derived number (a difference, ratio, percentage, or "shortfall") that combines two numbers from different sources or different time-points is suspect. Examples: subtracting an "original total invoice" from a "remaining balance after partial payments" produces a meaningless shortfall figure.
 
 5. **Membership/affiliation claims taken from aggregators or pattern-matching.** Any "X is a cosponsor of," "X serves on," "X signed," or "X endorsed" claim must be verified against the authoritative roster (the congress.gov bill **cosponsors** list; the actual letter PDF) — not GovTrack/billsponsor, and not inferred because similar entities qualify. The fix is to fetch the authoritative roster yourself and confirm the named person is actually on it. Symptom: a cosponsor/member/signatory claim that "fits the pattern" (e.g., a NY Republican on a bipartisan NY bill) but was sourced to an aggregator at less-than-confirmed status. (Caught June 13, 2026 — a false H.R. 6644 cosponsorship claim.) **Deterministic check:** `python .claude/scripts/verify_fact.py cosponsor <congress> <type> <num> <surname>` reads the govinfo BILLSTATUS roster directly — use it instead of an aggregator.
+
+6. **Quote attributed to a named person without confirmed authorship.** Any sentence that puts words in a specific person's mouth ("X posted," "X said," "X wrote") must have the *author* confirmed from a primary artifact — the actual post or a clear screenshot of it, an archived URL, or the official account handle — **not** inferred because it "reads like their post" or sounds like their politics. Symptom: a quoted statement attributed to the subject whose only source is a third-party-forwarded screenshot, a search summary, or an assumption about who is speaking. The fix: confirm the account/author before publishing; if unconfirmed, hold the entry or attribute it generically (e.g., "a post circulating from [best-known source]"). When a research agent explicitly flags authorship as unconfirmed, treat that as **blocking**. (Caught July 3, 2026 — a "misleading veterans" post attributed to the Representative was actually the House Veterans' Affairs Committee GOP account; he is not even on that committee. The published entry had to be pulled, 301'd, and reframed.) See the shared LESSONS.md entry "Verify a quote's AUTHOR before attributing it and publishing."
 
 ## Process
 
@@ -76,7 +78,7 @@ Five specific failure modes that have caused real corrections in this project:
 ## What success looks like
 
 A pre-publish review where:
-- All five failure modes have been actively checked for, with explicit notes on what was checked
+- All six failure modes have been actively checked for, with explicit notes on what was checked
 - Any number/quote/date that couldn't be verified is flagged for the user, not silently approved
 - Internal contradictions (the kind that tripped up the helicopter fact-check before publication) are surfaced clearly
 - Edits are proposed but not auto-applied
@@ -100,4 +102,4 @@ This is the deep source-verification gate. Around it:
 
 ## Reference
 
-The five failure modes are documented in `CLAUDE.md` under the "Pre-Publish Review" section. See that section for the full context on why each one matters.
+The six failure modes are documented in `CLAUDE.md` under the "Pre-Publish Review" section. See that section for the full context on why each one matters.
