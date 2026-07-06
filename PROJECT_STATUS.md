@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 3, 2026*
+*Last updated: July 6, 2026*
 
 ---
 
@@ -55,6 +55,8 @@ MISLEADING (most common) · MISSING CONTEXT · CONTRADICTION · DOCUMENTED PATTE
 ## Graphics Pipeline
 
 Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posting.
+
+**Card toolkit (added July 2026):** new cards import `social-media/lib/card.py` — shared house-style primitives (brand bar, gold verdict badge, panel, bulleted column, kicker, footer, photo hero), logical-1080 coordinates with optional supersampling, and an em-dash guard in `save()`. The `/social-post` command builds a caption + card together in the scorecard format (headline-first, verdict-matched) with the ≤2200-char and em-dash checks. Canonical cards are **light 1080×1080**; the "1200×1100" spec below is legacy.
 
 **Standard format:**
 - Size: 1200 × 1100–1220px
