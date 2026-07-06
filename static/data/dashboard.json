@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-03",
+  "generated": "2026-07-06",
   "total": 128,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
@@ -17,6 +17,58 @@
     "NON-RESPONSIVE": 1,
     "INCONSISTENT": 1
   },
+  "verdicts_normalized": [
+    {
+      "label": "MISSING CONTEXT",
+      "count": 36,
+      "pct": 28.1
+    },
+    {
+      "label": "MISLEADING",
+      "count": 31,
+      "pct": 24.2
+    },
+    {
+      "label": "DOCUMENTED PATTERN",
+      "count": 24,
+      "pct": 18.8
+    },
+    {
+      "label": "CONTRADICTION",
+      "count": 14,
+      "pct": 10.9
+    },
+    {
+      "label": "FALSE",
+      "count": 9,
+      "pct": 7.0
+    },
+    {
+      "label": "MOSTLY TRUE",
+      "count": 4,
+      "pct": 3.1
+    },
+    {
+      "label": "MULTIPLE",
+      "count": 3,
+      "pct": 2.3
+    },
+    {
+      "label": "FALSE ATTRIBUTION",
+      "count": 3,
+      "pct": 2.3
+    },
+    {
+      "label": "DEFLECTION",
+      "count": 3,
+      "pct": 2.3
+    },
+    {
+      "label": "NON-RESPONSIVE",
+      "count": 1,
+      "pct": 0.8
+    }
+  ],
   "by_topic": {
     "Healthcare": 18,
     "Economy": 14,

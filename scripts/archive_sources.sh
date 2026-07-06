@@ -44,18 +44,32 @@ archive_url() {
         return 0
     fi
 
-    # Submit to Wayback Machine
-    response=$(curl -s -w "%{http_code}" -o /dev/null "https://web.archive.org/save/$url" 2>/dev/null || echo "000")
+    # Gov sources that block both curl AND the Wayback "save" endpoint (Cloudflare 520 /
+    # Akamai 403). These must be captured from a real browser via Save Page Now — flag,
+    # don't waste retries. (Documented in the /wrap skill.)
+    case "$url" in
+        *congress.gov*|*fema.gov*|*clerk.house.gov*|*rules.house.gov*|*energycommerce.house.gov*|*oversight.house.gov*)
+            echo "  [MANUAL] gov source blocks the save endpoint — capture from a browser (Save Page Now)"
+            echo "$(date): MANUAL - $url" >> "$LOG_FILE"
+            return 0
+            ;;
+    esac
 
-    if [[ "$response" == "200" ]] || [[ "$response" == "302" ]]; then
-        echo "  [OK] Submitted successfully"
-        echo "$(date): OK - $url" >> "$LOG_FILE"
-    else
-        echo "  [WARN] Response code: $response"
-        echo "$(date): WARN ($response) - $url" >> "$LOG_FILE"
-    fi
-
-    # Rate limit to avoid overwhelming archive.org
+    # Submit to Wayback with retry/backoff on transient failures (000 / 429 / 5xx).
+    local attempt response
+    for attempt in 1 2 3; do
+        response=$(curl -s -m 40 -w "%{http_code}" -o /dev/null "https://web.archive.org/save/$url" 2>/dev/null || echo "000")
+        if [[ "$response" == "200" ]] || [[ "$response" == "302" ]]; then
+            echo "  [OK] Submitted (attempt $attempt)"
+            echo "$(date): OK - $url" >> "$LOG_FILE"
+            sleep 2
+            return 0
+        fi
+        echo "  [retry $attempt/3] response $response"
+        sleep $((attempt * 5))
+    done
+    echo "  [WARN] gave up after 3 attempts (last: $response) — retry later or capture from a browser"
+    echo "$(date): WARN ($response after 3 tries) - $url" >> "$LOG_FILE"
     sleep 2
 }
 

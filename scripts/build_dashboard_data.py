@@ -92,6 +92,23 @@ verdict_counts = {}
 for e in entries:
     verdict_counts[e["verdict"]] = verdict_counts.get(e["verdict"], 0) + 1
 
+# Normalized verdict buckets — collapse off-standard/legacy labels onto the standard
+# vocabulary so charts/stats don't fragment into one-off slices. (Mapping documented in
+# CLAUDE.md's verdict-label list; used by the "verdict breakdown" social card.)
+VERDICT_NORMALIZE = {
+    "PARTIALLY TRUE":      "MOSTLY TRUE",
+    "MISSING ATTRIBUTION": "MISSING CONTEXT",
+    "INCONSISTENT":        "CONTRADICTION",
+}
+norm_counts = {}
+for v, n in verdict_counts.items():
+    norm_counts[VERDICT_NORMALIZE.get(v, v)] = norm_counts.get(VERDICT_NORMALIZE.get(v, v), 0) + n
+_ntot = sum(norm_counts.values()) or 1
+verdicts_normalized = [
+    {"label": k, "count": n, "pct": round(n / _ntot * 100, 1)}
+    for k, n in sorted(norm_counts.items(), key=lambda x: -x[1])
+]
+
 # By topic
 topic_counts = {}
 for e in entries:
@@ -115,6 +132,7 @@ out = {
     "total":         len(entries),
     "top_verdict":   top_verdict,
     "verdicts":      dict(sorted(verdict_counts.items(), key=lambda x: -x[1])),
+    "verdicts_normalized": verdicts_normalized,
     "by_topic":      dict(sorted(topic_counts.items(), key=lambda x: -x[1])),
     "by_month":      month_counts,
     "entries":       entries,
@@ -124,4 +142,7 @@ OUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 OUT_FILE.write_text(json.dumps(out, indent=2), encoding="utf-8")
 print(f"Written {len(entries)} entries → {OUT_FILE}")
 print(f"Verdicts: {verdict_counts}")
+print("Normalized:")
+for row in verdicts_normalized:
+    print(f"  {row['label']:<22}{row['count']:>4}  {row['pct']:>5.1f}%")
 print(f"Topics:   {topic_counts}")

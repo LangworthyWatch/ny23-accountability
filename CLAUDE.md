@@ -363,7 +363,7 @@ The slash command (defined in `.claude/commands/fact-check-review.md`) walks an 
 
 ## Slash commands available in this project
 
-Nine slash commands live under `.claude/commands/` (plus `/wrap` at the project root). The core ones work together as a fact-check pipeline:
+Ten slash commands live under `.claude/commands/` (plus `/wrap` at the project root). The core ones work together as a fact-check pipeline:
 
 | Command | When to use | Output |
 |---|---|---|
@@ -375,6 +375,7 @@ Nine slash commands live under `.claude/commands/` (plus `/wrap` at the project 
 | `/capture-findings [topic-or-mode]` | **Backlog tracking** for follow-ups that aren't doable now — Q2 FEC drops, Wayback retries, pending FOILs, story leads | Append to `FINDINGS_BACKLOG.md` with type / priority / action-date |
 | `/news-scan` | **Web relevance sweep** — scan for new Langworthy / NY-23 / federal-bill developments, triage vs. existing entries, keep only net-new on-mission items | Dated digest; actionable hits routed to `/capture-findings` |
 | `/campaign-graphic-brief [goal]` | **Accessible design spec** for a social card, produced before design work begins | Spec (not the graphic) for the `social-media/create_*_card.py` Pillow script |
+| `/social-post [entry-or-topic]` | **Caption + card** for a fact-check in the house scorecard format (headline-first, verdict-consistent); runs the ≤2200-char and em-dash checks; builds the card on `social-media/lib/card.py` | A ready-to-post caption (with char count) + a rendered PNG (Desktop copy) |
 | `/accessibility-audit [path/url]` | **WCAG 2.1 AA audit** of the Hugo site + social cards, mapped back to source files | Findings by severity, mapped to templates / CSS / content / cards |
 | `/wrap` (project root) | Session wrap — closing summary | One-shot |
 
