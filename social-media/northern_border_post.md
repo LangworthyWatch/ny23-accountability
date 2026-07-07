@@ -1,5 +1,7 @@
 # FB Post: Northern Border Security Enhancement and Review Act (MISSING CONTEXT)
 
+VERDICT: MISSING CONTEXT. A border bill branded as "Security and Enforcement" that adds no agents, no funding, and no new enforcement authority.
+
 Securing the northern border is a real issue, and Rep. Langworthy is right that it deserves attention. He is promoting his "Northern Border Security and Enforcement Act," saying it "will ensure we are protected on all fronts."
 
 Here is the context worth knowing before you share it:
