@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 6, 2026*
+*Last updated: July 7, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 128 Fact-Checks Published
+## Content: 129 Fact-Checks Published
 
 ### Topics Covered
 
@@ -45,6 +45,7 @@
 | Disclosure Gap (donor→action series framing; ties Seneca/nursing-home/Corning/NAHB/Energy Choice + district-office geography) | 1 | Added 2026-06-24 — DOCUMENTED PATTERN |
 | Rules Committee closed-rule pattern (Medicaid "Seat at the Table" incl. E&C markup + 5 closed rules; tariff-termination blockade; HR 9237 veterans vote) | 3 | Added 2026-07-03 — DOCUMENTED PATTERN; by-name committee votes from H. Rept. 119-5/-106/-113/-152/-179/-372/-707; VA + propane entries updated with the committee record |
 | Buffalo July 4 fireworks / Somali flag | 1 | Added 2026-07-02 — MISLEADING |
+| Northern Border Security Enhancement and Review Act (H.R. 5517: reporting/review bill vs. "enforcement" branding; GAO staffing findings) | 1 | Added 2026-07-06 — MISSING CONTEXT; verified vs. govinfo BILLSTATUS + GAO testimony |
 
 ### Verdict Distribution
 

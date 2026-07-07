@@ -1,9 +1,9 @@
 {
-  "generated": "2026-07-06",
-  "total": 128,
+  "generated": "2026-07-07",
+  "total": 129,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 34,
+    "MISSING CONTEXT": 35,
     "MISLEADING": 31,
     "DOCUMENTED PATTERN": 24,
     "CONTRADICTION": 13,
@@ -20,18 +20,18 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 36,
-      "pct": 28.1
+      "count": 37,
+      "pct": 28.7
     },
     {
       "label": "MISLEADING",
       "count": 31,
-      "pct": 24.2
+      "pct": 24.0
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 24,
-      "pct": 18.8
+      "pct": 18.6
     },
     {
       "label": "CONTRADICTION",
@@ -74,7 +74,7 @@
     "Economy": 14,
     "Government Operations": 12,
     "Other": 10,
-    "Immigration": 7,
+    "Immigration": 8,
     "Campaign Finance": 6,
     "Local Impact": 6,
     "Transparency": 6,
@@ -115,9 +115,16 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 7
+    "2026-07": 8
   },
   "entries": [
+    {
+      "title": "Northern Border Bill: What H.R. 5517 Does, and What the Watchdog Actually Found",
+      "date": "2026-07-06",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-07-06-northern-border-security-review-act/"
+    },
     {
       "title": "A Seat at the Table': His Two Committees and What He Did With Them on the Medicaid Cuts",
       "date": "2026-07-03",
