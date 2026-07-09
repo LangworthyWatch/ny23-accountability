@@ -1,5 +1,5 @@
 ---
-title: "He Says He \"Secured\" $1M for Olean Police. It Only Passed the House."
+title: "He Says He \"Secured\" $1M for Olean Police. It Only Cleared a Committee."
 date: 2026-07-09
 draft: true
 topic: "Public Safety / Public Spending"
@@ -7,16 +7,20 @@ claim_date: "July 2026"
 source: "Facebook Post"
 source_url: "https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy27"
 archived_url: ""
-verdict: "MISSING CONTEXT"
+verdict: "MISLEADING"
 tags: ["Public Safety", "Economy", "Government Transparency"]
 county: ["Cattaraugus"]
 ---
 
-> **DRAFT — not for publication.** Olean PD project confirmed on his official FY27
-> appropriations-request disclosure. **Before `draft:false`:** (1) capture a
-> permalink + archive for the Facebook post quoted below; (2) confirm the FY2027
-> CJS (or T-HUD) bill carrying it actually passed the House and when (his post
-> says "last month"); (3) run `/fact-check-review`; (4) Wayback-archive sources.
+> **DRAFT — not for publication.** Olean PD project confirmed on his FY27
+> disclosure. Congress.gov confirms the FY2027 CJS bill (H.R. 8845) has **not**
+> passed the House (committee-reported May 15; status "Introduced"), so his
+> "passed the House" appears to describe committee passage. **Before
+> `draft:false`:** (1) confirm which bill/account carries the Olean PD project
+> (CJS H.R. 8845 vs T-HUD) and that no FY2027 vehicle it rides has passed the House
+> floor — if confirmed, verdict likely firms to **MISLEADING**; (2) capture a
+> permalink + archive for the Facebook post; (3) pull the Olean Times Herald
+> article body; (4) run `/fact-check-review`; (5) Wayback-archive.
 
 ## Why this matters
 
@@ -43,18 +47,23 @@ word matters.
 ## The Facts
 
 The **City of Olean Police Department Modernization Project** is real and is on
-Langworthy's official **FY2027** Community Project Funding disclosure. But it is a
-**request that passed one chamber**, not secured funding:
+Langworthy's official **FY2027** Community Project Funding disclosure. But
+"secured" — and even his "passed the House" — runs ahead of the record:
 
-- His own post says the money **"passed the House"** and **"now the Senate must
-  act."** It is not law, and no dollars are obligated. "Secured" describes a step
-  he has not yet completed.
+- The FY2027 Commerce-Justice-Science appropriations bill (**H.R. 8845**), the
+  usual vehicle for police-facility earmarks, was **reported by the House
+  Appropriations Committee on May 15, 2026 and placed on the Union Calendar.** Its
+  status on Congress.gov is **"Introduced"** — it has **not passed the House
+  floor**, the Senate, or become law. The Olean Times Herald described it, more
+  carefully, as **"House movement."** So even his "passed the House last month"
+  runs ahead of the record — the bill cleared a *committee*, not the floor — and
+  "I secured $1 million" is several steps from any dollars reaching Olean.
 - **This is exactly what evaporated last time.** For **FY2025**, Congress never
-  passed full-year appropriations; it enacted a **full-year continuing
-  resolution that funded zero Community Project Funding.** Every House-passed CPF
-  item for FY2025 — Langworthy's included (Newstead, the water/sewer projects,
-  the sheriff's helicopters) — received **nothing** and had to be **re-requested
-  for FY2026** to survive. House passage did not "secure" any of it.
+  passed full-year appropriations; it enacted a **full-year continuing resolution
+  (P.L. 119-4) that funded zero Community Project Funding.** Every FY2025 earmark
+  sitting in the House and Senate bills — **Langworthy's own included** — received
+  **nothing**, and he had to **re-file the same projects for FY2026** to get them
+  enacted. Being in a bill did not "secure" any of it.
 
 **In plain language:** He announced money as "secured" that his own post admits
 still needs the Senate, in a process that erased an identical batch of his
@@ -66,10 +75,12 @@ earmarks one year ago.
 
 To be fair: the request is genuine, the project (a 67-year-old police facility) is
 real, filing earmarks is a legitimate part of the job, and Langworthy **did
-disclose** in the same post that "the Senate must act." The issue is the lead
-verb. "I secured $1 million" is the headline; "the Senate must act" is the
-footnote — and for a House-passed earmark, the footnote is the fact that decides
-whether Olean ever sees the money.
+disclose** in the same post that "the Senate must act." But the disclosure does
+not cure the lead verbs. "I secured $1 million" and "passed the House" are the
+headline; the reality is a project that has cleared a **committee** — not the
+floor, not the Senate, not a signed law, with no dollars obligated. And the
+context he leaves out entirely is the one that matters most: **his own identical
+earmarks were wiped out at this very stage a year ago.**
 
 ---
 
@@ -86,7 +97,9 @@ whether Olean ever sees the money.
 ## Sources
 
 * FY2027 Community Project Funding requests (lists "City of Olean Police Department Modernization Project"): [langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy27](https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy27)
-* FY2025 continuing resolution funded no CPF; his FY2025 requests were re-submitted for FY2026 (see companion entries on his earmark record).
+* FY2027 CJS bill status — committee-reported May 15, 2026, placed on the Union Calendar, not passed the House: [Congress.gov H.R. 8845 — All Actions](https://www.congress.gov/bill/119th-congress/house-bill/8845/all-actions)
+* Local reporting: [Langworthy touts House *movement* on aid to 911 system, Olean police projects](https://www.oleantimesherald.com/2026/07/09/langworthy-touts-house-movement-aid-911-system-olean-police-projects/) (Olean Times Herald, July 9, 2026)
+* FY2025 full-year continuing resolution (P.L. 119-4) funded no Community Project Funding; his FY2025 requests were re-filed for FY2026: [CRS R48517 (P.L. 119-4 section-by-section)](https://www.congress.gov/crs-product/R48517)
 
 **Related:** [What "I Secured" Leaves Out](/fact-checks/2026-07-09-earmark-credit-shared-out-of-district/) · [Where Langworthy's Earmarks Go](/fact-checks/2026-07-09-earmark-distribution-vs-need/)
 
