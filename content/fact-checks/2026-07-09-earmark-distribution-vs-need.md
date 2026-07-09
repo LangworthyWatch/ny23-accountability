@@ -12,14 +12,15 @@ tags: ["Economy", "Infrastructure", "Public Spending"]
 county: ["Chemung", "District-wide"]
 ---
 
-> **DRAFT — not for publication.** Review pass done (2026-07-09): all 10 dollar
-> figures verified against primary/press sources; cycle labeling corrected
-> (FY2025 funded no CPF — a full-year CR); Statement + counting methodology added;
-> Newstead noted as a joint request with the senators. **Remaining before
-> `draft:false`:** (1) resolve "did Chemung/Elmira apply?" — needs a call to the
-> county or his office, not desk-resolvable; (2) confirm Friendship / Portville /
-> South Dayton were enacted as directed CPF vs. separate EPA SRF awards; (3)
-> Wayback-retry the ~5 sources that rate-limited.
+> **DRAFT — not for publication.** Review pass done (2026-07-09): all dollar
+> figures verified against primary sources incl. the **FY2024 enacted
+> Interior-Environment CPF table**; cycle labeling corrected (FY2025 funded no
+> CPF); two missing water earmarks (NCLSD/Mayville $2M, Gowanda $1.25M) found in
+> that table and added, moving the need-correlation from r=+0.01 to **r=+0.19**.
+> **Remaining before `draft:false`:** (1) resolve "did Chemung/Elmira apply?" —
+> needs a call to the county or his office; (2) sweep the remaining FY24
+> (THUD/CJS/Ag) and FY26 subcommittee CPF tables for any other earmarks; (3)
+> Wayback-retry the ~5 rate-limited sources.
 
 ## Why this matters
 
@@ -56,17 +57,18 @@ and **FY2026** (P.L. 119-74). **FY2025 funded none** — Congress passed a
 full-year continuing resolution that carried no Community Project Funding, so the
 projects he requested for FY2025 were re-submitted and funded (if at all) in
 FY2026. Across the two enacted cycles, his office accounts for roughly
-**$28 million** in in-district CPF. Set against U.S. Census ACS 2024 county data
-(poverty rate, population), the per-resident distribution is:
+**$31 million** in in-district CPF (verified against the FY2024 enacted
+Interior-Environment CPF table and his FY2026 releases). Set against U.S. Census
+ACS 2024 county data (poverty rate, population), the per-resident distribution is:
 
 | County | Poverty rate | CPF projects | CPF $ | $ per resident |
 |---|---:|---:|---:|---:|
 | Erie (NY-23 portion) | 13.9% | 5 | $14.4M | **$93.09** |
 | Allegany | 16.2% | 4 | $3.93M | $83.34 |
+| Cattaraugus | 19.1% | 5 | $5.00M | $65.66 |
 | Schuyler | 14.8% | 1 | $1.00M | $56.94 |
-| Cattaraugus | 19.1% | 4 | $3.75M | $49.25 |
+| Chautauqua | 17.4% | 3 | $4.25M | $33.85 |
 | Steuben | 13.8% | 2 | $2.23M | $24.13 |
-| Chautauqua | 17.4% | 2 | $2.25M | $17.92 |
 | **Chemung** | 16.3% | 1 | $0.48M | **$5.84** |
 | Tioga | 13.4% | 0 | $0 | $0.00 |
 
@@ -76,16 +78,19 @@ appropriations-request disclosures. Water and sewer earmarks are obligated
 through EPA's State Revolving Fund / STAG account, and his office has announced
 some of them as "EPA grants" — it is the same directed money. Formula and
 competitive grants he announced but did not direct (FAA, FEMA, ARC, USDA Rural
-Development) are excluded. Dollar figures were verified against his releases and
-local reporting; Portville is $1,250,000 (his release rounds it to "over $1.2M").*
+Development) are excluded. The water/sewer earmarks were verified against the
+**FY2024 enacted Interior-Environment CPF table**, which lists each with
+"Langworthy" as requester (including NCLSD/Mayville $2M and Gowanda $1.25M); the
+rest against his releases and local reporting. Portville is $1,250,000 (his
+release rounds it to "over $1.2M").*
 
 Two findings:
 
-1. **The dollars do not track community need.** The statistical correlation
-   between a county's earmark dollars-per-resident and its poverty rate is
-   **r = +0.01** — effectively zero. Earmark money is neither concentrated in
-   the poorest counties nor withheld from them; it tracks which localities
-   applied and which projects Langworthy chose to prioritize.
+1. **The dollars modestly track need — with one exception.** Earmark
+   dollars-per-resident show a weak *positive* correlation with county poverty
+   (Pearson **r = +0.19**): the two poorest counties, Cattaraugus (19.1%) and
+   Allegany (16.2%), rank among the highest per resident. The distribution is
+   broadly need-oriented, not need-blind. The exception is Chemung (below).
 
 2. **Two large discretionary picks sit in his home county.** His two biggest
    single earmarks — a **$5 million Newstead community center** (a joint request
@@ -95,17 +100,19 @@ Two findings:
    project *count*, however, his requests are spread across the district, and
    poor rural Allegany ranks second on a per-resident basis.
 
-**In plain language:** He does spread earmark *projects* across the district,
-and poorer rural counties like Allegany do well per person. But the money is not
-allocated by a need formula, and the largest single items are close to home.
+**In plain language:** His earmark dollars broadly favor poorer rural counties —
+Cattaraugus and Allegany, the two poorest, do well per person. Two things stand
+out against that pattern: his two single biggest earmarks sit in his home county,
+and one populous, higher-poverty county, Chemung, is left almost entirely out.
 
 ---
 
 ## The Chemung gap
 
 The clearest outlier is **Chemung County** — the district's 2nd-most-populous
-county and 3rd-highest in poverty (16.3%), yet last in earmark dollars per
-resident ($5.84) and tied for fewest projects. Chemung sits **entirely within
+county and 3rd-highest in poverty (16.3%), yet lowest in earmark dollars per
+resident ($5.84) among counties that received any — only Tioga, the district's
+lowest-poverty county, got none. Chemung sits **entirely within
 NY-23** — Langworthy is its only member of the House, and Elmira is one of the
 district's two largest cities — so this is not a split-representation artifact.
 Yet across all three request cycles, Langworthy's *only* Chemung CPF selection
@@ -150,7 +157,8 @@ county/city, or the member's office) is required before any stronger framing.
 ## Sources
 
 * Community Project Funding / appropriations requests (FY24, FY25, FY26): [langworthy.house.gov/services/appropriations-requests](https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy26)
-* Grant announcements (enacted amounts, incl. Friendship $2M, Portville $1.2M, South Dayton $500K, Hornell $1.25M, West Seneca $1.23M, FeedMore $3M, Chemung ARC $248,815): [langworthy.house.gov/issues/grant-announcements](https://langworthy.house.gov/issues/grant-announcements)
+* FY2024 enacted Community Project Funding, Interior-Environment table (lists Langworthy's EPA STAG water/sewer earmarks: Hornell $1.25M, NCLSD/Mayville $2M, Gowanda $1.25M, South Dayton $500K, Friendship $2M, Portville $1.25M, West Seneca $1,229,360): [House Appropriations FY24 Interior-Environment CPF table (PDF)](https://appropriations.house.gov/sites/evo-subsites/appropriations.house.gov/files/evo-media-document/fy24-interior-environment-and-related-agencies-cpf-table.pdf)
+* Grant announcements (FeedMore $3M, Allegany fairgrounds $425,850, Chemung ARC $248,815, and the FY2026 items): [langworthy.house.gov/issues/grant-announcements](https://langworthy.house.gov/issues/grant-announcements)
 * County demographics: U.S. Census, American Community Survey 2024 5-year estimates (population B01003, poverty B17001).
 
 ---
