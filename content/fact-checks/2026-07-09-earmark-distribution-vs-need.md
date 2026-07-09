@@ -84,9 +84,11 @@ lowest-poverty county, got none). Chemung sits **entirely within NY-23**
 (Langworthy is its only House member, and Elmira is one of the district's two
 largest cities), so this is not a split-representation artifact.
 
-Across all three request cycles, his *only* Chemung CPF selection was a
-**$480,000 award to Elmira College** — a private institution, not a municipal
-water, sewer, or public-safety project of the kind he directed elsewhere.
+Across his first three request cycles (FY2024–2026), his *only* Chemung CPF
+selection was a **$480,000 award to Elmira College** — a private institution, not
+a municipal water, sewer, or public-safety project of the kind he directed
+elsewhere. (For **FY2027**, still pending, he has since requested a Chemung County
+hospital radiology project — his first county request there.)
 
 And the need was real and fundable: **Sens. Schumer and Gillibrand secured a
 $1,000,000 Community Project Funding award for a Chemung County wastewater
