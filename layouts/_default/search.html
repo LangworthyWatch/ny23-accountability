@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="section">
+  <div class="container container--narrow">
+    <header class="factcheck-header">
+      <h1 class="factcheck-title">{{ .Title }}</h1>
+      <div class="content">
+        <p>Full-text search across every fact-check and catalogued post: his own words and our analysis. Use the filters to narrow by type or verdict.</p>
+      </div>
+    </header>
+
+    {{/* Pagefind UI assets are generated post-build by `npx pagefind --site public`.
+         They do not exist during `hugo server`; the box below is inert until a real build runs. */}}
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <div id="search" class="pagefind-search"></div>
+    <noscript><p>Search requires JavaScript. Browse the <a href="/fact-checks/">fact-checks index</a> instead.</p></noscript>
+    <script src="/pagefind/pagefind-ui.js"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', function () {
+        if (typeof PagefindUI === 'undefined') return;
+        new PagefindUI({
+          element: "#search",
+          showSubResults: true,
+          showImages: false,
+          showEmptyFilters: false,
+          excerptLength: 25
+        });
+      });
+    </script>
+  </div>
+</article>
+{{ end }}

@@ -38,6 +38,15 @@ build_output=$(rm -rf public && hugo --gc --minify 2>&1) || {
   exit 0
 }
 
+# Generate the Pagefind static full-text search index over the built site (powers /search/).
+# Must run after Hugo and before deploy so public/pagefind/ ships with the upload.
+pagefind_output=$(npx -y pagefind --site public 2>&1) || {
+  err_summary=$(echo "$pagefind_output" | tail -3 | tr '\n' '|')
+  jq -nc --arg err "$err_summary" \
+    '{systemMessage: ("✗ Pagefind index failed at session end: " + $err), suppressOutput: true}'
+  exit 0
+}
+
 deploy_output=$(wrangler pages deploy public --project-name=langworthywatch --branch=main --commit-dirty=true 2>&1) || {
   err_summary=$(echo "$deploy_output" | tail -3 | tr '\n' '|')
   jq -nc --arg err "$err_summary" \

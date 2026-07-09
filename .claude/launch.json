@@ -6,6 +6,12 @@
       "runtimeExecutable": "/opt/homebrew/bin/hugo",
       "runtimeArgs": ["server", "--buildDrafts", "--source", "/Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker"],
       "port": 1313
+    },
+    {
+      "name": "built-public",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8791", "--directory", "/Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker/public"],
+      "port": 8791
     }
   ]
 }

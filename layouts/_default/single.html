@@ -1,7 +1,7 @@
 {{ define "main" }}
-<article class="section">
+<article class="section" data-pagefind-body data-pagefind-filter="type:{{ .Section }}">
   <div class="container container--narrow">
-    <nav class="back-nav" aria-label="Breadcrumb">
+    <nav class="back-nav" aria-label="Breadcrumb" data-pagefind-ignore>
       <a href="{{ .Parent.Permalink }}">&larr; Back to {{ .Parent.Title }}</a>
     </nav>
 
@@ -18,7 +18,7 @@
         <span class="factcheck-meta-item">{{ . }}</span>
         {{ end }}
         {{ with .Params.verdict }}
-        <span class="factcheck-meta-item">
+        <span class="factcheck-meta-item" data-pagefind-filter="verdict:{{ . }}">
           {{ partial "verdict-badge.html" . }}
         </span>
         {{ end }}
@@ -29,7 +29,7 @@
       {{ .Content }}
     </div>
 
-    <nav class="back-nav mt-10" aria-label="Navigation">
+    <nav class="back-nav mt-10" aria-label="Navigation" data-pagefind-ignore>
       <a href="{{ .Parent.Permalink }}">&larr; Back to {{ .Parent.Title }}</a>
     </nav>
   </div>

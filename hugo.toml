@@ -23,6 +23,16 @@ title = 'NY-23 Accountability Tracker'
     url = '/fact-checks/'
     weight = 2
   [[menu.main]]
+    identifier = 'tracker'
+    name = 'Tracker'
+    url = '/tracker/'
+    weight = 9
+  [[menu.main]]
+    identifier = 'search'
+    name = 'Search'
+    url = '/search/'
+    weight = 10
+  [[menu.main]]
     identifier = 'state-of-the-district'
     name = 'State of the District'
     url = '/state-of-the-district/'

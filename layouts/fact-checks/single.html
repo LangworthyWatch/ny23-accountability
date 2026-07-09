@@ -1,7 +1,7 @@
 {{ define "main" }}
-<article class="section">
+<article class="section" data-pagefind-body data-pagefind-filter="type:{{ .Section }}">
   <div class="container container--narrow">
-    <nav class="back-nav" aria-label="Breadcrumb">
+    <nav class="back-nav" aria-label="Breadcrumb" data-pagefind-ignore>
       <a href="/fact-checks/">&larr; Back to all fact-checks</a>
     </nav>
 
@@ -21,7 +21,7 @@
         <span class="factcheck-meta-item">Source: {{ . }}</span>
         {{ end }}
         {{ with .Params.verdict }}
-        <span class="factcheck-meta-item">
+        <span class="factcheck-meta-item" data-pagefind-filter="verdict:{{ . }}">
           {{ partial "verdict-badge.html" . }}
         </span>
         {{ end }}
@@ -47,7 +47,7 @@
     {{/* Related fact-checks */}}
     {{ $related := .Site.RegularPages.Related . | first 3 }}
     {{ with $related }}
-    <aside class="mt-10 pt-8" style="border-top: 1px solid var(--color-border);">
+    <aside class="mt-10 pt-8" data-pagefind-ignore style="border-top: 1px solid var(--color-border);">
       <h2 class="mb-6">Related documentation</h2>
       <div class="card-grid">
         {{ range . }}
@@ -57,7 +57,7 @@
     </aside>
     {{ end }}
 
-    <nav class="back-nav mt-10" aria-label="Navigation">
+    <nav class="back-nav mt-10" aria-label="Navigation" data-pagefind-ignore>
       <a href="/fact-checks/">&larr; Back to all fact-checks</a>
     </nav>
   </div>

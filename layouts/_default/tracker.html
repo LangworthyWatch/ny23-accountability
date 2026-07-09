@@ -1,0 +1,197 @@
+{{ define "main" }}
+<article class="section">
+  <div class="container">
+    <header class="factcheck-header">
+      <h1 class="factcheck-title">{{ .Title }}</h1>
+      <div class="content">
+        <p>Every Langworthy post and funding announcement we have catalogued, in one filterable list. Fact-checked entries link to the full analysis; items marked <em>backlog</em> or <em>captured</em> are logged but not yet analyzed. For full-text search of his own words, use <a href="/search/">Search</a>.</p>
+      </div>
+    </header>
+
+    {{/* ---- Build a normalized row set from two sections ----
+         Each row carries display lists (topicsDisp/countiesDisp) for the columns
+         and lowercased-trimmed key lists (topicKeys/countyKeys) for filtering, so
+         "Allegany", "allegany " and "allegany" collapse to one filter value. */}}
+    {{ $rows := slice }}
+
+    {{ range (where .Site.RegularPages "Section" "fact-checks") }}
+      {{/* Coarsen the compound `topic` field into segments: "Economy / Taxes" -> Economy, Taxes */}}
+      {{ $raw := slice }}
+      {{ with .Params.topic }}
+        {{ range (split (replace . "|" "/") "/") }}{{ $raw = $raw | append . }}{{ end }}
+      {{ else }}
+        {{ with .Params.tags }}{{ if reflect.IsSlice . }}{{ $raw = . }}{{ else }}{{ $raw = slice . }}{{ end }}{{ end }}
+      {{ end }}
+      {{ $cRaw := slice }}
+      {{ with .Params.county }}{{ if reflect.IsSlice . }}{{ $cRaw = . }}{{ else }}{{ $cRaw = slice . }}{{ end }}{{ end }}
+      {{ if not $cRaw }}{{ with .Params.counties }}{{ if reflect.IsSlice . }}{{ $cRaw = . }}{{ else }}{{ $cRaw = slice . }}{{ end }}{{ end }}{{ end }}
+      {{ $rows = $rows | append (dict
+        "date" .Date "title" .Title "url" .RelPermalink "type" "fact-check"
+        "rawTopics" $raw "rawCounties" $cRaw
+        "status" "fact-checked" "verdict" (.Params.verdict | default "")) }}
+    {{ end }}
+
+    {{ range (where .Site.RegularPages "Section" "posts") }}
+      {{ $raw := slice }}
+      {{ with .Params.tags }}{{ if reflect.IsSlice . }}{{ $raw = . }}{{ else }}{{ $raw = slice . }}{{ end }}{{ end }}
+      {{ $cRaw := slice }}
+      {{ with .Params.county }}{{ if reflect.IsSlice . }}{{ $cRaw = . }}{{ else }}{{ $cRaw = slice . }}{{ end }}{{ end }}
+      {{ $rows = $rows | append (dict
+        "date" .Date "title" .Title "url" .RelPermalink "type" "post"
+        "rawTopics" $raw "rawCounties" $cRaw
+        "status" (.Params.status | default "captured") "verdict" (.Params.verdict | default "")) }}
+    {{ end }}
+
+    {{ $rows = sort $rows "date" "desc" }}
+
+    {{/* ---- Distinct, normalized filter values ---- */}}
+    {{ $topicSet := slice }}
+    {{ $countySet := slice }}
+    {{ $verdictSet := slice }}
+    {{ range $rows }}
+      {{ range .rawTopics }}{{ $k := lower (trim (printf "%v" .) " ") }}{{ if and $k (ne $k "etc") }}{{ $topicSet = $topicSet | append $k }}{{ end }}{{ end }}
+      {{ range .rawCounties }}{{ $k := lower (trim (printf "%v" .) " ") }}{{ if $k }}{{ $countySet = $countySet | append $k }}{{ end }}{{ end }}
+      {{ with .verdict }}{{ $verdictSet = $verdictSet | append . }}{{ end }}
+    {{ end }}
+    {{ $topicSet = $topicSet | uniq | sort }}
+    {{ $countySet = $countySet | uniq | sort }}
+    {{ $verdictSet = $verdictSet | uniq | sort }}
+
+    {{/* ---- Coverage counters ---- */}}
+    {{ $total := len $rows }}
+    {{ $fc := len (where $rows "status" "fact-checked") }}
+    {{ $backlog := len (where $rows "status" "backlog") }}
+    {{ $captured := len (where $rows "status" "captured") }}
+
+    <div class="tracker-stats" role="group" aria-label="Coverage summary">
+      <div class="tracker-stat"><span class="tracker-stat-num">{{ $total }}</span><span class="tracker-stat-label">catalogued</span></div>
+      <div class="tracker-stat"><span class="tracker-stat-num">{{ $fc }}</span><span class="tracker-stat-label">fact-checked</span></div>
+      {{ if $backlog }}<div class="tracker-stat"><span class="tracker-stat-num">{{ $backlog }}</span><span class="tracker-stat-label">backlog</span></div>{{ end }}
+      {{ if $captured }}<div class="tracker-stat"><span class="tracker-stat-num">{{ $captured }}</span><span class="tracker-stat-label">captured</span></div>{{ end }}
+    </div>
+
+    {{/* ---- Filter controls ---- */}}
+    <div class="tracker-filters">
+      <input id="tf-q" class="tracker-search" type="search" placeholder="Filter by title..." aria-label="Filter by title">
+      <select class="tf-select" data-key="type" aria-label="Filter by type">
+        <option value="">All types</option>
+        <option value="fact-check">Fact-check</option>
+        <option value="post">Logged post</option>
+      </select>
+      <select class="tf-select" data-key="topics" aria-label="Filter by topic">
+        <option value="">All topics</option>
+        {{ range $topicSet }}<option value="{{ . }}">{{ title . }}</option>{{ end }}
+      </select>
+      <select class="tf-select" data-key="counties" aria-label="Filter by county">
+        <option value="">All counties</option>
+        {{ range $countySet }}<option value="{{ . }}">{{ title . }}</option>{{ end }}
+      </select>
+      <select class="tf-select" data-key="status" aria-label="Filter by status">
+        <option value="">All statuses</option>
+        <option value="fact-checked">Fact-checked</option>
+        <option value="backlog">Backlog</option>
+        <option value="captured">Captured</option>
+      </select>
+      <select class="tf-select" data-key="verdict" aria-label="Filter by verdict">
+        <option value="">All verdicts</option>
+        {{ range $verdictSet }}<option value="{{ . | lower }}">{{ . }}</option>{{ end }}
+      </select>
+    </div>
+
+    <p class="tracker-count"><span id="tf-count">{{ $total }}</span> of {{ $total }} shown</p>
+
+    <div class="tracker-table-wrap">
+      <table class="tracker-table" id="tracker-table">
+        <thead>
+          <tr>
+            <th scope="col">Date</th>
+            <th scope="col">Post / Announcement</th>
+            <th scope="col">Type</th>
+            <th scope="col">Topics</th>
+            <th scope="col">Counties</th>
+            <th scope="col">Status</th>
+            <th scope="col">Verdict</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{ range $rows }}
+            {{/* Normalize per-row lists for display + data attributes */}}
+            {{ $tDisp := slice }}{{ $tKey := slice }}
+            {{ range .rawTopics }}{{ $d := trim (printf "%v" .) " " }}{{ if and $d (ne (lower $d) "etc") }}{{ $tDisp = $tDisp | append $d }}{{ $tKey = $tKey | append (lower $d) }}{{ end }}{{ end }}
+            {{ $cDisp := slice }}{{ $cKey := slice }}
+            {{ range .rawCounties }}{{ $d := trim (printf "%v" .) " " }}{{ if $d }}{{ $cDisp = $cDisp | append $d }}{{ $cKey = $cKey | append (lower $d) }}{{ end }}{{ end }}
+          <tr
+            data-text="{{ .title | lower }}"
+            data-topics="{{ delimit ($tKey | uniq) "|" }}"
+            data-counties="{{ delimit ($cKey | uniq) "|" }}"
+            data-status="{{ .status | lower }}"
+            data-verdict="{{ .verdict | lower }}"
+            data-type="{{ .type | lower }}">
+            <td class="tracker-date">{{ .date.Format "2006-01-02" }}</td>
+            <td><a href="{{ .url }}">{{ .title }}</a></td>
+            <td>{{ if eq .type "fact-check" }}Fact-check{{ else }}Logged post{{ end }}</td>
+            <td>{{ delimit ($tDisp | uniq) ", " }}</td>
+            <td>{{ delimit ($cDisp | uniq) ", " }}</td>
+            <td><span class="tracker-status tracker-status--{{ .status | lower }}">{{ .status }}</span></td>
+            <td>{{ with .verdict }}{{ . }}{{ end }}</td>
+          </tr>
+          {{ end }}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</article>
+
+<style>
+  .tracker-stats { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0; }
+  .tracker-stat { display: flex; flex-direction: column; padding: 0.75rem 1.25rem; border: 1px solid var(--color-border, #ddd); border-radius: 6px; min-width: 6rem; }
+  .tracker-stat-num { font-size: 1.75rem; font-weight: 700; line-height: 1; }
+  .tracker-stat-label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.03em; opacity: 0.75; margin-top: 0.25rem; }
+  .tracker-filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
+  .tracker-search, .tf-select { padding: 0.5rem 0.6rem; border: 1px solid var(--color-border, #ccc); border-radius: 4px; font-size: 0.95rem; background: #fff; }
+  .tracker-search { flex: 1 1 14rem; min-width: 12rem; }
+  .tracker-count { font-size: 0.9rem; opacity: 0.8; margin: 0.5rem 0 1rem; }
+  .tracker-table-wrap { overflow-x: auto; }
+  .tracker-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  .tracker-table th, .tracker-table td { text-align: left; padding: 0.55rem 0.6rem; border-bottom: 1px solid var(--color-border, #eee); vertical-align: top; }
+  .tracker-table th { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.03em; opacity: 0.7; white-space: nowrap; }
+  .tracker-date { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .tracker-status { display: inline-block; font-size: 0.75rem; padding: 0.15rem 0.5rem; border-radius: 999px; white-space: nowrap; border: 1px solid var(--color-border, #ccc); }
+  .tracker-status--fact-checked { background: #e7f3e7; border-color: #b6d7b6; }
+  .tracker-status--backlog { background: #fff3d9; border-color: #e6cf92; }
+  .tracker-status--captured { background: #eef0f4; border-color: #c9cfda; }
+</style>
+
+<script>
+  (function () {
+    var q = document.getElementById('tf-q');
+    var selects = Array.prototype.slice.call(document.querySelectorAll('.tf-select'));
+    var rows = Array.prototype.slice.call(document.querySelectorAll('#tracker-table tbody tr'));
+    var countEl = document.getElementById('tf-count');
+
+    function apply() {
+      var text = (q.value || '').toLowerCase().trim();
+      var filters = selects.map(function (s) { return { key: s.getAttribute('data-key'), val: (s.value || '').toLowerCase() }; });
+      var shown = 0;
+      rows.forEach(function (tr) {
+        var ok = true;
+        if (text && tr.getAttribute('data-text').indexOf(text) === -1) ok = false;
+        if (ok) {
+          for (var i = 0; i < filters.length; i++) {
+            var f = filters[i];
+            if (!f.val) continue;
+            var attr = tr.getAttribute('data-' + f.key) || '';
+            if (attr.split('|').indexOf(f.val) === -1) { ok = false; break; }
+          }
+        }
+        tr.style.display = ok ? '' : 'none';
+        if (ok) shown++;
+      });
+      countEl.textContent = shown;
+    }
+
+    q.addEventListener('input', apply);
+    selects.forEach(function (s) { s.addEventListener('change', apply); });
+  })();
+</script>
+{{ end }}

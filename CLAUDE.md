@@ -521,6 +521,7 @@ Remote is set to HTTPS: `https://github.com/LangworthyWatch/ny23-accountability.
 ```bash
 cd /Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker
 rm -rf public && hugo --gc --minify     # rm -rf: Hugo won't delete stale files; a prior `hugo -D` can leak draft pages into public/
+npx -y pagefind --site public           # builds the /search/ full-text index into public/pagefind/ (must run after hugo, before deploy)
 export CLOUDFLARE_ACCOUNT_ID=3b752cee282808bcfcebc84aaea9a1c3
 wrangler pages deploy public --project-name=langworthywatch --branch=main --commit-dirty=true
 ```
