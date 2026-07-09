@@ -457,7 +457,7 @@ Reference these when entries fit established patterns:
 - Footer: LangworthyWatch.org + sources + full fact-check URL
 
 ### Design Principles (from iterative feedback)
-- Lead with what sounds reasonable before revealing the gap
+- Lead with what sounds reasonable before revealing the gap — but note this governs the **card's internal argument structure** (the assumption list, then the gap). It is **not** license to open the caption soft; the **caption/post text leads with the punch** (see "Facebook Post Text" below).
 - Use neutral dashes (not red X marks) for assumption labels
 - Soften language in assumption lists (e.g., "seems straightforward" not "everyone can easily comply")
 - Desaturate tradeoff/impact boxes to maintain visual hierarchy
@@ -468,7 +468,7 @@ Reference these when entries fit established patterns:
 - **No em dashes (—) in rendered card text.** They read as an AI tell and undercut the hand-made, factual feel. Replace contextually with a colon, comma, parentheses, period, or the middle dot (·) the design already uses. Hyphens in compound modifiers ('Medicaid-exposed') and arrows (→) are fine; only the em dash is the problem. (June 2026: the SOTD Q2 carousel was scrubbed of all 13; verify new/edited cards with `grep -F "—" social-media/create_*.py` before regenerating.)
 
 ### Facebook Post Text
-- Lead with the popular/reasonable framing
+- **Lead with the punch, not the setup (do NOT bury the lede).** Open on the verdict or the single sharpest, hardest-to-rebut fact — a number ("$5.84 per resident, lowest in NY-23"), or a line like "the senators he attacks asked first" / "it's not even his district." Do **not** open with the exculpatory/reasonable framing, a warm-up question ("what does 'I secured' really mean?"), or "here's what we found." **Even when the overall finding is favorable-with-an-asterisk, lead with the asterisk** (the accountability point); put the fair/reasonable context lower. Prefer concrete, un-hedged facts for the first line; keep hedged findings (open questions, "did they apply") out of the opener. This applies to **single-entry captions too**, not just roundups. *(Added July 2026: the two earmark posts were first drafted leading with "his earmarks track need" and "what does 'I secured' mean" — both buried the real story; re-cut to open on "the Democratic senators asked first / it's not even his district" and "$5.84 per resident.")*
 - Use arrow bullets (→) not dashes
 - **No em dashes (—) in post text**, for the same AI-tell reason; use a colon, comma, period, or parentheses instead
 - Include specific dollar figures and data points
