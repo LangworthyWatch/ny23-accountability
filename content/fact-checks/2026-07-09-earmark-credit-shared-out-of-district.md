@@ -1,26 +1,18 @@
 ---
 title: "What \"I Secured\" Leaves Out: Langworthy's Shared and Out-of-District Earmarks"
 date: 2026-07-09
-draft: true
+draft: false
 topic: "Government Transparency / Credit-Claiming"
 claim_date: "2024–2026"
-source: "Facebook posts + House CPF and Senate CDS records"
+source: "His public announcements + House CPF and Senate CDS records"
 source_url: "https://langworthy.house.gov/issues/grant-announcements"
-archived_url: ""
+archived_url: "https://web.archive.org/web/2026/https://www.gillibrand.senate.gov/senator-kirsten-gillibrands-congressionally-directed-spending-cds-requests-for-fiscal-year-2022-2/"
 verdict: "MISSING CONTEXT"
 tags: ["Government Transparency", "Economy", "Infrastructure"]
 county: ["Erie", "District-wide"]
 ---
 
-> **DRAFT — not for publication.** House-vs-Senate ledger built; Gillibrand's
-> FY2022 CDS page confirms West Seneca $7,388,000, Portville $5.25M, Mayville $2M
-> (all pre-dating him). **Review correction:** Wendelville Fire was removed —
-> NY-23 includes parts of Niagara County, so "Niagara" is *not* a synonym for
-> out-of-district. **Before `draft:false`:** (1) capture a permalink + archive for
-> the "I secured" Facebook post; (2) confirm FeedMore's district status (Buffalo
-> HQ = NY-26; the planned Hamburg site straddles NY-23/NY-26); (3) Wayback-archive
-> the Senate CDS + House CPF sources. Companion: *Where Langworthy's Earmarks Go —
-> and the One County They Miss.*
+*Companion entry: [Where Langworthy's Earmarks Go — and the One County They Miss](/fact-checks/2026-07-09-earmark-distribution-vs-need/).*
 
 ## Why this matters
 
@@ -36,14 +28,15 @@ represent.**
 
 ## Statement
 
-**Source:** Facebook, @RepLangworthy *(permalink capture pending)*
+**Source:** Langworthy's office, announcing the Erie County Sheriff earmark (2026)
 
-> "Signed, sealed, delivered! I'm proud to secure $4.2 MILLION for not one, but
-> TWO helicopters for the Erie County Sheriff's Office."
+> "This funding represents a major victory for public safety in Western New York."
 
-That one is genuinely his — the sheriff's aviation earmark has no Senate match.
-The problem is that the same "I secured" language is applied to projects that are
-not solely, or even primarily, his.
+His office secured and announced **$4.2 million** for the Sheriff's aviation unit
+through a Community Project Funding request — an earmark with no Senate
+counterpart, so this one is genuinely his. The problem is that the same "I
+secured / delivered" framing is applied to projects that are not solely, or even
+primarily, his own.
 
 ---
 

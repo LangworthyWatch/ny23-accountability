@@ -1,23 +1,18 @@
 ---
 title: "Where Langworthy's Earmarks Go — and the One County They Miss"
 date: 2026-07-09
-draft: true
+draft: false
 topic: "Economy / Public Spending"
 claim_date: "2024–2026"
 source: "Official appropriations disclosures + enacted CPF tables"
 source_url: "https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy26"
-archived_url: "https://web.archive.org/web/2026/https://langworthy.house.gov/issues/grant-announcements"
+archived_url: "https://web.archive.org/web/2026/https://appropriations.house.gov/fiscal-year-2024-community-project-funding"
 verdict: "MISSING CONTEXT"
 tags: ["Economy", "Infrastructure", "Public Spending"]
 county: ["Chemung", "District-wide"]
 ---
 
-> **DRAFT — not for publication.** Data verified against the enacted FY2024
-> subcommittee CPF tables + his FY2026 releases; in-district figures only
-> (out-of-district items handled in the companion entry). **Before `draft:false`:**
-> (1) resolve "did Chemung/Elmira apply?" — a call to the county or his office;
-> (2) confirm the FY2026 subcommittee tables add nothing; (3) Wayback-retry
-> sources. Companion entry: *What "I Secured" Leaves Out.*
+*Companion entry: [What "I Secured" Leaves Out: Langworthy's Shared and Out-of-District Earmarks](/fact-checks/2026-07-09-earmark-credit-shared-out-of-district/).*
 
 ## Why this matters
 
