@@ -37,12 +37,16 @@ these earmarks, Congress **wiped out every one of them.**
 
 **It is a request, not secured funding.** The **City of Olean Police Department
 Modernization Project** is on Langworthy's official **FY2027** Community Project
-Funding disclosure — a request he filed, not money that exists. By his own words,
-"the Senate must act." No FY2027 appropriations bill has become law; as of late
-June the House was still moving its twelve FY2027 bills through **committee**, one
-at a time (the FY2027 Commerce-Justice-Science bill, H.R. 8845, was committee-
-reported May 15 and has not passed the House floor). The Olean Times Herald
-described it, accurately, as **"House movement."**
+Funding disclosure — a request he filed, not money that exists. His own
+**federal-nexus letter** (March 19, 2026) shows the money would flow through the
+**USDA Rural Development Community Facilities program** (7 U.S.C. §1926(a)) — that
+is, the **FY2027 Agriculture-Rural Development appropriations bill**, one of the
+twelve FY2027 bills the House has been moving through **committee**, one at a
+time. No FY2027 appropriations bill has become law. By his own words, "the Senate
+must act." The Olean Times Herald described it, accurately, as **"House
+movement."** (The nexus letter also confirms this is a **single federal request**
+to modernize a 1959 facility that has "reached critical failure" — there is no
+separate, already-secured funding stream for it.)
 
 **This is the third documented instance of the same past-tense framing** — after
 the [FY2026 appropriations credit-claim](/fact-checks/2026-02-11-fy2026-appropriations-credit/)
@@ -90,7 +94,7 @@ not, not yet.
 ## Sources
 
 * FY2027 CPF requests (lists "City of Olean Police Department Modernization Project"): [langworthy.house.gov appropriations requests FY27](https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy27)
-* FY2027 CJS bill status (committee-reported May 15, 2026; not passed the House): [Congress.gov H.R. 8845 — All Actions](https://www.congress.gov/bill/119th-congress/house-bill/8845/all-actions)
+* Federal-nexus letter for the Olean project — routed through USDA Rural Development / Community Facilities (7 U.S.C. §1926(a)); a single federal request, dated March 19, 2026: [langworthy.house.gov (PDF)](https://langworthy.house.gov/sites/evo-subsites/langworthy.house.gov/files/evo-media-document/city-of-olean-police-1.pdf)
 * Local reporting: [Langworthy touts House *movement* on aid to 911 system, Olean police projects](https://www.oleantimesherald.com/2026/07/09/langworthy-touts-house-movement-aid-911-system-olean-police-projects/) (Olean Times Herald, July 9, 2026)
 * FY2025 full-year CR (P.L. 119-4) funded no CPF: [CRS R48517](https://www.congress.gov/crs-product/R48517)
 
