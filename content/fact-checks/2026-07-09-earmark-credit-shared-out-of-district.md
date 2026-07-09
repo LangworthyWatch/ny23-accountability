@@ -12,12 +12,15 @@ tags: ["Government Transparency", "Economy", "Infrastructure"]
 county: ["Erie", "District-wide"]
 ---
 
-> **DRAFT — not for publication.** House-vs-Senate ledger built and verified
-> (Gillibrand FY2022 CDS page confirmed West Seneca $7,388,000). **Before
-> `draft:false`:** (1) capture a permalink + archive for the "I secured" Facebook
-> post quoted below; (2) confirm Newstead/Hamburg NY-23-vs-NY-26 district lines;
-> (3) keep the "co-requesting is normal" fairness framing intact. Companion entry:
-> *Where Langworthy's Earmarks Go — and the One County They Miss.*
+> **DRAFT — not for publication.** House-vs-Senate ledger built; Gillibrand's
+> FY2022 CDS page confirms West Seneca $7,388,000, Portville $5.25M, Mayville $2M
+> (all pre-dating him). **Review correction:** Wendelville Fire was removed —
+> NY-23 includes parts of Niagara County, so "Niagara" is *not* a synonym for
+> out-of-district. **Before `draft:false`:** (1) capture a permalink + archive for
+> the "I secured" Facebook post; (2) confirm FeedMore's district status (Buffalo
+> HQ = NY-26; the planned Hamburg site straddles NY-23/NY-26); (3) Wayback-archive
+> the Senate CDS + House CPF sources. Companion: *Where Langworthy's Earmarks Go —
+> and the One County They Miss.*
 
 ## Why this matters
 
@@ -52,31 +55,34 @@ projects Sens. Schumer and Gillibrand also fund; about **$14.9M (46%)** is
 genuinely solo — led by the $4.2M sheriff's helicopters. On the shared projects,
 all three offices announce the same dollars as their own.
 
-**2. On the shared projects, the senators were first — and larger.** Langworthy
-took office in January 2023, so his earliest possible earmark cycle was FY2024.
-The senators had already requested and funded the same communities in FY2022:
+**2. On the shared projects, the senators were first — years before he took
+office.** Langworthy's earliest possible earmark cycle was FY2024 (he took office
+January 2023). The senators had already *requested* the same communities in
+FY2022. Their FY2022 figures below are **requests**; Langworthy's are **FY2024
+enacted** amounts — so read the table as "who was pursuing it first," not a
+like-for-like size comparison:
 
-| Shared project | Senators (first) | Langworthy (later) |
+| Shared project | Senators — FY2022 CDS request | Langworthy — FY2024 enacted |
 |---|---|---|
-| West Seneca water *(NY-26)* | FY2022 request: **$7,388,000** | FY2024: $1,229,360 |
-| Portville water | FY2022 request: **$5,250,000** | FY2024: $1,250,000 |
-| Mayville / N. Chautauqua Lake Sewer | FY2022: $2,000,000 | FY2024: $2,000,000 |
+| West Seneca water *(NY-26)* | **$7,388,000** | $1,229,360 |
+| Portville water | **$5,250,000** | $1,250,000 |
+| Mayville / N. Chautauqua Lake Sewer | $2,000,000 | $2,000,000 |
 
 On the overlapping work he is the follow-on partner, not the originator. The
 senators also independently fund NY-23 projects he has **no part in** — including
 a $1M Chemung County wastewater project and roughly $3.1M across Tioga County, the
 two counties his own earmarks most neglect.
 
-**3. Some of what he claims is outside NY-23.** Several earmarks he requested or
-announced are for his home Western New York region but **outside his district** —
-in NY-26 (Rep. Tim Kennedy) or Niagara County:
+**3. Some of what he claims is outside NY-23.** Two of his enacted earmarks are
+for his home Western New York region but **outside his district**, in neighboring
+NY-26 (Rep. Tim Kennedy):
 
 - **Town of West Seneca — $1,229,360** (FY2024): a water district in **NY-26**.
 - **Buffalo Niagara International Airport — $1,482,000** (FY2026): the facility is
   in Cheektowaga, **NY-26**.
-- **Wendelville Fire Company** (FY2026 request): **Niagara County**.
-- **FeedMore WNY — $3,000,000**: a regional food bank whose facility is in
-  Buffalo/Hamburg (**NY-26**), though it serves NY-23 counties.
+- **FeedMore WNY — $3,000,000** is a borderline case: a regional food bank whose
+  headquarters is in Buffalo (**NY-26**), though it serves NY-23 counties and its
+  planned new site is in Hamburg (which straddles the NY-23/NY-26 line).
 
 ---
 
@@ -101,7 +107,7 @@ sheriff's helicopters); the missing context is everything the word "I" omits.
 1. When Langworthy says "I secured," how much of the project's funding did his
    office originate versus the senators who requested it first?
 2. Why does he request and claim earmarks for communities outside NY-23 (West
-   Seneca and the Buffalo airport in NY-26; Wendelville Fire in Niagara County)?
+   Seneca and the Buffalo airport, both in NY-26)?
 3. Does his messaging acknowledge the bipartisan, House-and-Senate nature of the
    projects he most prominently claims?
 
@@ -110,8 +116,9 @@ sheriff's helicopters); the missing context is everything the word "I" omits.
 ## Sources
 
 * House CPF (Langworthy): [FY2024 enacted subcommittee tables](https://appropriations.house.gov/fiscal-year-2024-community-project-funding) + [his FY24–26 disclosures](https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy26)
-* Senate CDS (Schumer/Gillibrand): [FY2022 CDS requests](https://www.gillibrand.senate.gov/senator-kirsten-gillibrands-congressionally-directed-spending-cds-requests-for-fiscal-year-2022-2/) (West Seneca $7,388,000; Portville $5.25M; Mayville $2M); [FY2026 WNY $9.275M](https://www.gillibrand.senate.gov/news/press/release/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york/)
-* District boundaries: West Seneca and Cheektowaga (Buffalo airport) are in NY-26 (Rep. Tim Kennedy).
+* Senate CDS (Schumer/Gillibrand): [FY2022 CDS requests](https://www.gillibrand.senate.gov/senator-kirsten-gillibrands-congressionally-directed-spending-cds-requests-for-fiscal-year-2022-2/) (West Seneca $7,388,000; Portville $5.25M; Mayville $2M — all confirmed on the primary FY2022 disclosure); [FY2023 Southern Tier $8.5M](https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-deliver-over-85-million-for-southern-tier-infrastructure-and-community-development-projects-from-creating-a-nonprofit-hub-in-tioga-county-to-flood-prevention-and-critical-water-system-upgrades-funding-will-lay-foundation-for-more-resilient-future-in-the-southern-tier) (Chemung wastewater $1M; Tioga: Racker $750K + Upper Susquehanna $1.58M); [FY2026 WNY $9.275M](https://www.gillibrand.senate.gov/news/press/release/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york/)
+* Shared-vs-solo split (≈$17.7M shared / ≈$14.9M solo of ≈$32M): a tally cross-referencing the House CPF tables above against these Senate CDS releases (working ledger on file).
+* District boundaries: West Seneca and Cheektowaga (Buffalo airport) are in NY-26 (Rep. Tim Kennedy). Note: NY-23 *includes* parts of Niagara County (e.g., Pendleton), so a Niagara-County location is not by itself out-of-district.
 * "I secured" quote: Rep. Langworthy Facebook post (Erie County Sheriff helicopters) — *permalink + archive to be captured.*
 
 ---

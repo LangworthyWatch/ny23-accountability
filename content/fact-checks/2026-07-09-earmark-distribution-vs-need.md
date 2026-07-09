@@ -5,7 +5,7 @@ draft: true
 topic: "Economy / Public Spending"
 claim_date: "2024–2026"
 source: "Official appropriations disclosures + enacted CPF tables"
-source_url: "https://langworthy.house.gov/issues/grant-announcements"
+source_url: "https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy26"
 archived_url: "https://web.archive.org/web/2026/https://langworthy.house.gov/issues/grant-announcements"
 verdict: "MISSING CONTEXT"
 tags: ["Economy", "Infrastructure", "Public Spending"]
@@ -45,7 +45,8 @@ underserved communities." This entry measures the result against that standard.
 ## The Facts
 
 Two appropriations laws funded his earmarks: **FY2024** (P.L. 118-42) and
-**FY2026** (P.L. 119-74). FY2025 funded none (a full-year continuing resolution).
+**FY2026** (enacted early 2026). FY2025 funded none (a full-year continuing
+resolution).
 Across those cycles, his **in-district** CPF totals roughly **$31 million**. Set
 against U.S. Census ACS 2024 data, the per-resident distribution is:
 
@@ -60,10 +61,11 @@ against U.S. Census ACS 2024 data, the per-resident distribution is:
 | **Chemung** | 16.3% | 1 | $0.48M | **$5.84** |
 | Tioga | 13.4% | 0 | $0 | $0.00 |
 
-**The distribution mostly tracks need.** Earmark dollars-per-resident correlate
-positively with county poverty (Pearson **r = +0.33**): the three best-served
-counties per resident are his home Erie ($85) and the district's **two poorest**,
-Allegany ($83) and Cattaraugus ($82) — a near three-way tie. This is *not* a
+**The distribution leans toward need.** Across the eight counties, earmark
+dollars-per-resident show a weak positive correlation with poverty (Pearson
+**r = +0.33**, n = 8 — directional, not statistically strong). The three
+best-served per resident are Erie ($85), Allegany ($83), and the district's
+**poorest** county, Cattaraugus ($82) — a near three-way tie. This is *not* a
 story about funneling money to well-off areas or ignoring the poor. With one
 exception.
 
@@ -80,9 +82,10 @@ grants (FAA, FEMA, ARC, USDA-RD) and out-of-district items are excluded.*
 
 ## The Chemung gap
 
-**Chemung County** is the district's 2nd-most-populous county and 3rd-highest in
-poverty (16.3%) — yet dead last in earmark dollars per resident (**$5.84**), the
-only funded county in single digits. Chemung sits **entirely within NY-23**
+**Chemung County** is one of the district's larger counties (about 82,000
+residents) and its 3rd-highest in poverty (16.3%) — yet lowest in earmark dollars
+per resident (**$5.84**) among the counties that received any (only Tioga, the
+lowest-poverty county, got none). Chemung sits **entirely within NY-23**
 (Langworthy is its only House member, and Elmira is one of the district's two
 largest cities), so this is not a split-representation artifact.
 
@@ -119,7 +122,7 @@ county/city or his office) before any stronger framing.
 
 ## Questions This Raises
 
-1. Why is Chemung — 2nd-most-populous, 3rd-poorest, entirely in NY-23 — last in
+1. Why is Chemung — populous, 3rd-poorest, entirely in NY-23 — last in
    earmark dollars per resident, its only earmark to a private college?
 2. Did Elmira or other Chemung municipalities submit CPF requests that were not
    forwarded?
@@ -132,7 +135,8 @@ county/city or his office) before any stronger framing.
 
 * CPF / appropriations requests (FY24–26): [langworthy.house.gov/services/appropriations-requests](https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy26)
 * FY2024 enacted CPF tables, House Appropriations (each lists "Langworthy" as requester): [Interior-Environment/EPA STAG](https://appropriations.house.gov/sites/evo-subsites/appropriations.house.gov/files/evo-media-document/fy24-interior-environment-and-related-agencies-cpf-table.pdf), [CJS](https://appropriations.house.gov/sites/evo-subsites/republicans-appropriations.house.gov/files/evo-media-document/fy24-commerce-justice-science-and-related-agencies-cpf-table-updated-10.31.23.pdf), [THUD (index)](https://appropriations.house.gov/fiscal-year-2024-community-project-funding)
-* Chemung wastewater CDS: [Schumer/Gillibrand FY2023 Southern Tier release](https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-deliver-over-85-million-for-southern-tier-infrastructure-and-community-development-projects-from-creating-a-nonprofit-hub-in-tioga-county-to-flood-prevention-and-critical-water-system-upgrades-funding-will-lay-foundation-for-more-resilient-future-in-the-southern-tier)
+* Chemung wastewater CDS ($1,000,000, Milton St / Lake St consolidation): [Schumer/Gillibrand FY2023 Southern Tier release ($8.5M)](https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-deliver-over-85-million-for-southern-tier-infrastructure-and-community-development-projects-from-creating-a-nonprofit-hub-in-tioga-county-to-flood-prevention-and-critical-water-system-upgrades-funding-will-lay-foundation-for-more-resilient-future-in-the-southern-tier) *(verified verbatim)*
+* Chemung ARC canal-connector grant ($248,815, July 2025): [langworthy.house.gov/issues/grant-announcements](https://langworthy.house.gov/issues/grant-announcements)
 * County demographics: U.S. Census, ACS 2024 5-year (population B01003, poverty B17001).
 
 ---
