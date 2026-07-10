@@ -4,7 +4,9 @@ Pairs with olean_secured_card.png. Verdict DOCUMENTED PATTERN.
 
 Nick Langworthy told the Olean Police Department he "secured" $1 million to fix their 67-year-old facility. He did not. He requested it.
 
-It is an FY2027 Community Project Funding request on his own disclosure. By his own words in the same post: "the Senate must act." No FY2027 funding bill has become law. The Olean Times Herald called it, accurately, "House movement."
+It is an FY2027 Community Project Funding request on his own disclosure, routed through USDA Rural Development. By his own words in the same post: "the Senate must act." No FY2027 funding bill has become law. The Olean Times Herald called it, accurately, "House movement."
+
+His own federal-nexus letter confirms it: a single federal request for the 1959 police station, with no other funding stream behind it.
 
 This is the third time in 2026 he has announced not-yet-funded earmarks in the past tense:
 
@@ -14,7 +16,7 @@ This is the third time in 2026 he has announced not-yet-funded earmarks in the p
 
 And here is why the word matters: for FY2025, Congress passed a stopgap that funded zero Community Project Funding. Every one of his FY2025 earmarks, at this exact stage, got wiped out, and he had to re-file them the next year.
 
-To be fair: the project is real, filing the request is legitimate work, and he did note the Senate still has to act. The issue is the headline verb.
+To be fair: the project is real, the old facility genuinely needs the work, and he did note the Senate still has to act. The issue is the headline verb.
 
 Verdict: DOCUMENTED PATTERN. "Requested" would be accurate. "Secured" is not.
 
