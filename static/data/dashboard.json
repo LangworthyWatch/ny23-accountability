@@ -1,11 +1,11 @@
 {
-  "generated": "2026-07-07",
-  "total": 129,
+  "generated": "2026-07-10",
+  "total": 132,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 35,
+    "MISSING CONTEXT": 37,
     "MISLEADING": 31,
-    "DOCUMENTED PATTERN": 24,
+    "DOCUMENTED PATTERN": 25,
     "CONTRADICTION": 13,
     "FALSE": 9,
     "MOSTLY TRUE": 3,
@@ -20,33 +20,33 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 37,
-      "pct": 28.7
+      "count": 39,
+      "pct": 29.5
     },
     {
       "label": "MISLEADING",
       "count": 31,
-      "pct": 24.0
+      "pct": 23.5
     },
     {
       "label": "DOCUMENTED PATTERN",
-      "count": 24,
-      "pct": 18.6
+      "count": 25,
+      "pct": 18.9
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 10.9
+      "pct": 10.6
     },
     {
       "label": "FALSE",
       "count": 9,
-      "pct": 7.0
+      "pct": 6.8
     },
     {
       "label": "MOSTLY TRUE",
       "count": 4,
-      "pct": 3.1
+      "pct": 3.0
     },
     {
       "label": "MULTIPLE",
@@ -71,8 +71,8 @@
   ],
   "by_topic": {
     "Healthcare": 18,
-    "Economy": 14,
-    "Government Operations": 12,
+    "Economy": 15,
+    "Government Operations": 13,
     "Other": 10,
     "Immigration": 8,
     "Campaign Finance": 6,
@@ -90,6 +90,7 @@
     "Rule of Law": 2,
     "Environment": 2,
     "Social Services": 2,
+    "Public Safety": 1,
     "Financial Disclosure": 1,
     "Disability & Education": 1,
     "Housing": 1,
@@ -115,9 +116,30 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 8
+    "2026-07": 11
   },
   "entries": [
+    {
+      "title": "What \\\"I Secured\\\" Leaves Out: Langworthy's Shared and Out-of-District Earmarks",
+      "date": "2026-07-09",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-07-09-earmark-credit-shared-out-of-district/"
+    },
+    {
+      "title": "Where Langworthy's Earmarks Go \u2014 and the One County They Miss",
+      "date": "2026-07-09",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-07-09-earmark-distribution-vs-need/"
+    },
+    {
+      "title": "He Did It Again: \\\"$1M Secured\\\" for Olean Police That Congress Has Not Funded",
+      "date": "2026-07-09",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Public Safety",
+      "url": "/fact-checks/2026-07-09-olean-police-secured-house-passed/"
+    },
     {
       "title": "Northern Border Bill: What H.R. 5517 Does, and What the Watchdog Actually Found",
       "date": "2026-07-06",

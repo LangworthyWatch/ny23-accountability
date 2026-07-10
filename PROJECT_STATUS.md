@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 7, 2026*
+*Last updated: July 10, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 129 Fact-Checks Published
+## Content: 132 Fact-Checks Published
 
 ### Topics Covered
 
@@ -112,6 +112,7 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 | Economic attribution report (imported 2026-06-11) | Monitoring thresholds | Watch: OTDA county SNAP caseloads (June–Sept first benefit-loss window); NY DOH Medicaid Enrollment Databook; first RHTP disbursement to a named district hospital; NY PSC final NYSEG/RG&E rate orders (~24%/26% requests pending); NY DOL WARN for Jamestown/eSolutions; Essential Plan cliff July 1. Entry candidates remaining: WSKG/H.R. 4 rescissions (clean vote+quote), Essential Plan July 1 response prep |
 | Rules Committee closed-rule pattern | **Published 7/3** (3 entries, DOCUMENTED PATTERN) | Complete: "Seat at the Table" (E&C markup — he voted to advance the Medicaid subtitle + spoke defending it, primary-verified quotes; 5 closed rules incl. Nov 2025 CR minibus RV 195/199/200/202/205), tariff-vote blockade (H.Res.211/313), HR 9237 veterans (RV 369/373). Backlog: browser-archive CRPT-119hrpt106-pt1 + 119-372 to Wayback |
 | HR 9237 attribution correction | **Fixed 7/3** | A House Veterans' Affairs Committee GOP post was initially misattributed to Langworthy; pulled the live entry (_redirects 301) + reframed around his actual Rules vote. Lesson logged to shared LESSONS.md (verify a quote's author before publishing) |
+| "Secured" earmark credit-claiming (CPF, past-tense) | **Published 7/9** (Olean PD, DOCUMENTED PATTERN) + card/post | Third instance of announcing not-yet-funded FY27 CPF requests as "secured/delivered" (Feb FY2026 credit-claim → June UPMC/Arnot radiology → July Olean $1M). Olean corrected 7/9 to **USDA Rural Development** vehicle (not CJS); single federal request, 1959 station. Revisit all three if a FY27 approps bill passes or gets zeroed |
 | Liberty Strategies / Erin Langworthy FDS (donor-disclosure) | Held draft + right-of-reply sent | Entry `2026-06-24-liberty-strategies-disclosure` is **draft:true**; right-of-reply submitted via the House web form June 24 (response requested July 1); scheduled task `publish-liberty-strategies-disclosure` finalizes + publishes **July 2** (asks for the response status first). Federal-only client revenue (Reed/Jacobs/Singletary, $103,604.99); NYS BOE shows no vendor income; Liberty Opinion Research (Nick's prior firm, Erie clients) is COI-paused and stays out. **Do NOT publish before the reply window.** Workspace: `imported-from-public-ledger/erin-baker-2026-05-02/` |
 
 ---
