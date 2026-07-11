@@ -120,7 +120,7 @@ img, d = base()
 d.text(XY(W // 2, 84), "NY-23 COUNTY HEAT RANKING", fill=NAVY, font=f_title, anchor="mm")
 d.text(XY(W // 2, 120), "Q2 2026 · by federal-policy exposure (not yet closures)", fill=MUTED, font=f_sub, anchor="mm")
 
-# (county, hook)
+# (county, hook) — all eight NY-23 counties, ranked by federal-policy exposure
 counties = [
     ("CHAUTAUQUA", "grape belt left out of the farm bailout; hospitals Medicaid-exposed"),
     ("CHEMUNG", "Arnot Health, the regional safety-net, exposed to the Medicaid cuts"),
@@ -128,11 +128,13 @@ counties = [
     ("CATTARAUGUS", "Seneca Nation tribal health + Salamanca's local-food cut"),
     ("ALLEGANY", "Jones & Cuba Memorial Medicaid-fragile; BRIC flood funds in limbo"),
     ("ERIE SOUTHTOWNS", "Eden & Collins farms excluded from the row-crop bailout"),
+    ("STEUBEN", "Bath VA staffing cuts hit the district's largest veterans hub"),
+    ("TIOGA", "Broome-Tioga BOCES lost $289,630 in school food money"),
 ]
 
-y = 156
+y = 150
 rh = 96
-gap = 8
+gap = 7
 for i, (county, hook) in enumerate(counties, start=1):
     d.rounded_rectangle(BOX(44, y, W - 44, y + rh), radius=P(8), fill=ROW, outline=BORDER, width=P(2))
     # rank circle
@@ -142,9 +144,6 @@ for i, (county, hook) in enumerate(counties, start=1):
     d.text(XY(150, y + 34), county, fill=NAVY, font=f_county, anchor="lm")
     d.text(XY(150, y + 66), hook, fill=DARK, font=f_hook, anchor="lm")
     y += rh + gap
-
-d.text(XY(W // 2, y + 10), "Also: Steuben (Bath VA staffing cuts)  ·  Tioga (Broome-Tioga's $289,630 food-program loss)",
-       fill=MUTED, font=f_note, anchor="mm")
 
 finish(img, "state_of_district_q2_counties.png")
 print("Saved backbone + counties (3x supersampled).")
