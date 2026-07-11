@@ -1,9 +1,9 @@
 {
   "generated": "2026-07-11",
-  "total": 132,
+  "total": 133,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 37,
+    "MISSING CONTEXT": 38,
     "MISLEADING": 31,
     "DOCUMENTED PATTERN": 25,
     "CONTRADICTION": 13,
@@ -20,23 +20,23 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 39,
-      "pct": 29.5
+      "count": 40,
+      "pct": 30.1
     },
     {
       "label": "MISLEADING",
       "count": 31,
-      "pct": 23.5
+      "pct": 23.3
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 25,
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "label": "FALSE",
@@ -84,6 +84,7 @@
     "Veterans": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
+    "Housing": 2,
     "Consumer Protection": 2,
     "Animal Welfare": 2,
     "Ethics": 2,
@@ -93,7 +94,6 @@
     "Public Safety": 1,
     "Financial Disclosure": 1,
     "Disability & Education": 1,
-    "Housing": 1,
     "Disaster Recovery": 1,
     "Credit-Claiming": 1,
     "Voting Record": 1,
@@ -116,9 +116,16 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 11
+    "2026-07": 12
   },
   "entries": [
+    {
+      "title": "\\\"On the President's Desk\\\": The Housing Bill His Own Party's President Refused to Sign",
+      "date": "2026-07-10",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Housing",
+      "url": "/fact-checks/2026-07-10-housing-bill-presidents-desk/"
+    },
     {
       "title": "What \\\"I Secured\\\" Leaves Out: Langworthy's Shared and Out-of-District Earmarks",
       "date": "2026-07-09",

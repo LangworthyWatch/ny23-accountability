@@ -50,6 +50,16 @@ movement."** (The nexus letter also confirms this is a **single federal request*
 to modernize a 1959 facility that has "reached critical failure" — there is no
 separate, already-secured funding stream for it.)
 
+**The same announcement bundled a second not-yet-funded request.** On the same
+day, he also touted the **Cattaraugus County Emergency 911 Center Modernization
+and Upgrade Project** (303 Court St., Little Valley) — another item on his
+official FY2027 CPF disclosure, part of what the Olean Times Herald summarized as
+**"House movement"** on more than **$2 million** in local public-safety requests.
+Like the police facility, the 911 upgrade has passed no chamber into law; it is a
+request awaiting the same Senate action. His Facebook post says the money "will
+strengthen our 911 system" for Cattaraugus County — future tense doing the work
+the past-tense headline ("secured") skips.
+
 **This is the third documented instance of the same past-tense framing** — after
 the [FY2026 appropriations credit-claim](/fact-checks/2026-02-11-fy2026-appropriations-credit/)
 and the [June 2026 hospital-radiology posts](/fact-checks/2026-06-24-hospital-radiology-credit-claim/)
