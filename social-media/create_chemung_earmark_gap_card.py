@@ -7,7 +7,7 @@ from lib.card import Card, NAVY, RED, GREEN, MUTED, DARK, ORANGE
 c = Card(scale=3)
 c.brand_bar()
 y = c.badge(70, "MISSING CONTEXT")
-y = c.title(y, "The County His Earmarks Skip", size=34)
+y = c.title(y, "The County He Barely Funds", size=34)
 y = c.subtitle(y + 6, "Langworthy's directed funding (earmarks), dollars per resident", size=15)
 y = c.divider(y + 18)
 
@@ -17,9 +17,9 @@ rows = [
     ("Cattaraugus", 81.62, GREEN),
     ("Schuyler", 56.94, MUTED),
     ("Chautauqua", 34.65, MUTED),
+    ("Tioga", 30.96, MUTED),
     ("Steuben", 24.13, MUTED),
-    ("Chemung", 5.84, ORANGE),
-    ("Tioga", 0.00, RED),
+    ("Chemung", 5.84, RED),
 ]
 py0 = y + 10
 row_h = 62
@@ -39,11 +39,11 @@ for label, val, color in rows:
     yy += row_h
 
 y = panel_bot + 26
-c.text(c.w / 2, y, "The dollars broadly track need, with two counties at the bottom.",
+c.text(c.w / 2, y, "The dollars broadly track need, with one county far below the rest.",
        size=15, fill=MUTED, anchor="mm")
 
 c.kicker(c.h - 210,
-         "Seven of the eight counties got earmark dollars. Tioga got zero.",
-         "Chemung, populous and poorer, got the least of the rest: one college.")
+         "Every other county got at least $24 per resident.",
+         "Chemung, populous and poorer, got $5.84: one earmark, to a college.")
 c.footer_bar()
 c.save("social-media/chemung_earmark_gap_card.png", to_desktop=True)

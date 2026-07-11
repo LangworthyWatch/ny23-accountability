@@ -63,8 +63,9 @@ like-for-like size comparison:
 
 On the overlapping work he is the follow-on partner, not the originator. The
 senators also independently fund NY-23 projects he has **no part in** — including
-a $1M Chemung County wastewater project and roughly $3.1M across Tioga County, the
-two counties his own earmarks most neglect.
+a $1M Chemung County wastewater project (Chemung being **the county his own
+earmarks most neglect**, at $5.84 per resident) and roughly $3.1M across Tioga
+County.
 
 **3. Some of what he claims is outside NY-23.** Two of his enacted earmarks are
 for his home Western New York region but **outside his district**, in neighboring
