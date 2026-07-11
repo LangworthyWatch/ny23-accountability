@@ -24,12 +24,14 @@ these earmarks, Congress **wiped out every one of them.**
 
 ## Statement
 
-**Source:** Facebook, Rep. Nick Langworthy, July 2026 *(permalink capture pending)*
+**Source:** Facebook, Rep. Nick Langworthy, July 2026 *(screenshot archived below)*
 
 > "Proud to be in Olean today to announce I secured $1 million through Community
 > Project Funding for the Police Department to upgrade their 67 year old facility.
 > … This funding passed the House last month and now the Senate must act so we
 > can get this worthy project moving."
+
+{{< figure src="/images/fact-checks/2026-07-09-olean-police-secured-fb-post.jpg" alt="Screenshot of Rep. Nick Langworthy's Facebook post announcing he 'secured $1 million through Community Project Funding' for the Olean Police Department, adding that 'this funding passed the House last month and now the Senate must act.'" caption="Rep. Langworthy's July 2026 Facebook post. He says he 'secured' the money in the same sentence that says the Senate has not yet acted. Captured July 2026." >}}
 
 ---
 
