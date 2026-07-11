@@ -2,12 +2,12 @@
 """Card A — the Chemung earmark gap. House style, 1080x1080."""
 import sys, os
 sys.path.insert(0, os.path.dirname(__file__))
-from lib.card import Card, NAVY, RED, GREEN, MUTED, DARK
+from lib.card import Card, NAVY, RED, GREEN, MUTED, DARK, ORANGE
 
 c = Card(scale=3)
 c.brand_bar()
 y = c.badge(70, "MISSING CONTEXT")
-y = c.title(y, "One County His Earmarks Skip", size=34)
+y = c.title(y, "The County His Earmarks Skip", size=34)
 y = c.subtitle(y + 6, "Langworthy's directed funding (earmarks), dollars per resident", size=15)
 y = c.divider(y + 18)
 
@@ -18,7 +18,8 @@ rows = [
     ("Schuyler", 56.94, MUTED),
     ("Chautauqua", 34.65, MUTED),
     ("Steuben", 24.13, MUTED),
-    ("Chemung", 5.84, RED),
+    ("Chemung", 5.84, ORANGE),
+    ("Tioga", 0.00, RED),
 ]
 py0 = y + 10
 row_h = 62
@@ -38,11 +39,11 @@ for label, val, color in rows:
     yy += row_h
 
 y = panel_bot + 26
-c.text(c.w / 2, y, "The dollars broadly track need. One populous, poorer county is the exception.",
+c.text(c.w / 2, y, "The dollars broadly track need, with two counties at the bottom.",
        size=15, fill=MUTED, anchor="mm")
 
 c.kicker(c.h - 210,
-         "Chemung is populous, higher-poverty, and entirely in NY-23.",
-         "Senators funded its wastewater plant. His one Chemung earmark: a college.")
+         "Seven of the eight counties got earmark dollars. Tioga got zero.",
+         "Chemung, populous and poorer, got the least of the rest: one college.")
 c.footer_bar()
 c.save("social-media/chemung_earmark_gap_card.png", to_desktop=True)
