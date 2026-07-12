@@ -43,7 +43,7 @@ c.text(c.w / 2, y, "The dollars broadly track need, with one county far below th
        size=15, fill=MUTED, anchor="mm")
 
 c.kicker(c.h - 210,
-         "Every other county got at least $24 per resident.",
-         "Chemung, populous and poorer, got $5.84: one earmark, to a college.")
+         "Chemung is populous, higher-poverty, and entirely in NY-23.",
+         "Senators funded its wastewater plant. His one Chemung earmark: a college.")
 c.footer_bar()
 c.save("social-media/chemung_earmark_gap_card.png", to_desktop=True)
