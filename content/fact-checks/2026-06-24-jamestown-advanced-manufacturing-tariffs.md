@@ -9,7 +9,7 @@ source_url: "https://www.jamestownadvanced.com/about"
 archived_url: ""
 verdict: "MISSING CONTEXT"
 tags: ["economy", "manufacturing", "tariffs", "jobs", "chautauqua"]
-counties: ["chautauqua"]
+counties: ["chautauqua", "cattaraugus"]
 ---
 
 ## Why this matters in NY-23
@@ -54,11 +54,21 @@ The contradiction is not abstract in Jamestown. Seven weeks before this tour, **
 
 ---
 
+## A Second Tour (July 2026): The Other Side of Steel
+
+On July 9, 2026 — three weeks after the Jamestown Advanced tour — Langworthy visited **Cimolai-HY** in Olean (Cattaraugus County), the structural-steel fabricator that produced steel for the Buffalo Bills' new Highmark Stadium, and praised "American manufacturing and steel production… in the heart of NY-23."
+
+This one calls for precision, not a gotcha. Cimolai-HY is a **structural-steel fabricator**, and that industry sits on the *favorable* side of the Section 232 tariffs: its trade group, the American Institute of Steel Construction, [publicly applauds](https://www.aisc.org/news/aisc-applauds-strengthened-section-232-tariffs-supporting-domestic-industry/) the 50% steel tariffs because they shield domestic fabricators from imported *fabricated* steel. Unlike Jamestown Advanced Products — a steel *consumer* whose input costs the tariffs raise — Cimolai is a company the policy tends to help.
+
+That contrast is the point. Neither the Cimolai post nor the Jamestown Advanced post mentions tariffs at all, yet the Section 232 tariffs Langworthy votes to keep create clear **winners** (domestic fabricators like Cimolai) and **losers** (steel-buyers like Jamestown Advanced, the dairy barns absorbing a documented ~$21,000 in added steel cost, and eSolutions/Bush Industries, which closed in April citing tariffs). Langworthy stages celebratory tours across both sides of that ledger while never engaging the trade-off his own votes drive.
+
+---
+
 ## Assessment
 
 **Verdict: MISSING CONTEXT**
 
-The tour and the praise are fine on their own terms — Jamestown Advanced Products is a real manufacturing success. What the post omits is that the company's core material is steel, that Langworthy voted to keep the tariffs raising metal input costs, and that a nearby Jamestown manufacturer closed weeks earlier citing those same tariffs. The "3rd-generation" descriptor is also unsupported; the company's own history runs two generations, founder to daughter, not three. The post's "bring jobs home" message sits in tension with the record on the policy that most directly affects this kind of business.
+The tour and the praise are fine on their own terms — Jamestown Advanced Products is a real manufacturing success. What the post omits is that the company's core material is steel, that Langworthy voted to keep the tariffs raising metal input costs, and that a nearby Jamestown manufacturer closed weeks earlier citing those same tariffs. The "3rd-generation" descriptor is also unsupported; the company's own history runs two generations, founder to daughter, not three. The post's "bring jobs home" message sits in tension with the record on the policy that most directly affects this kind of business. A second tour three weeks later (Cimolai-HY, a steel fabricator the tariffs protect) applied the same celebratory framing to the other side of the policy — confirming that the tours showcase steel, and never the trade-off his tariff votes drive.
 
 ---
 
@@ -78,6 +88,10 @@ The tour and the praise are fine on their own terms — Jamestown Advanced Produ
 * [WGRZ: Langworthy on Trump tariffs](https://www.wgrz.com/article/news/local/langworthy-trump-tariffs-canada-51st-state/71-1f43426a-05db-4b1d-bca2-bacbee6053ea) — tariff defense quote
 * [The Post-Journal: eSolutions cites tariffs in bankruptcy](https://www.post-journal.com/news/top-stories/2026/05/esolutions-says-market-tariffs-are-reasons-for-bankruptcy/)
 * Congressman Nick Langworthy, Facebook post, June 22, 2026 (permalink pending)
+* Cimolai-HY tour: Langworthy Facebook post, July 9, 2026 ("American manufacturing and steel production… in the heart of NY-23") — screenshot archived at [feed-archive-2026-07](/images/fact-checks/feed-archive-2026-07/2026-07-09_steel-cimolai-highmark.jpg)
+* [Cimolai-HY — About](https://www.cimolai-hy.com/about) (Olean structural-steel fabricator; Highmark Stadium steel)
+* [AISC applauds strengthened Section 232 tariffs](https://www.aisc.org/news/aisc-applauds-strengthened-section-232-tariffs-supporting-domestic-industry/) (fabrication industry supports the tariffs)
+* Steel input costs (up ~21% YoY, 2026): [steel/aluminum tariff price analysis](https://ramsteelco.com/blogs/news/how-steel-aluminum-tariffs-are-affecting-prices-in-2026-and-how-to-keep-your-project-on-budget)
 
 ## Related Fact-Checks
 
@@ -87,4 +101,4 @@ The tour and the praise are fine on their own terms — Jamestown Advanced Produ
 
 **Note:** This entry documents publicly available information from official records, company materials, and local news. Readers may draw their own conclusions.
 
-*Last updated: June 24, 2026*
+*Last updated: July 12, 2026 (added the July 9 Cimolai-HY tour as a second instance).*

@@ -21,7 +21,7 @@ slug: "2026-05-22-beagle-posts-credit-claiming-distraction"
 
 Between May 1 and June 2, 2026, Congressman Langworthy published **at least 22 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
 
-**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to 22+ with the May 27 – June 2 Marshall Farms / RFK Jr / animal testing posts. Updated July 2: a full manual count of the @RepLangworthy page found 30 beagle / Marshall Farms / animal-testing posts, the most recent being the June 29, 11:23 AM post announcing the USDA letter with Rep. Malliotakis.** The June 3 – 29 additions include the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter.
+**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to 22+ with the May 27 – June 2 Marshall Farms / RFK Jr / animal testing posts. Updated July 2: a full manual count of the @RepLangworthy page found 30 beagle / Marshall Farms / animal-testing posts, the most recent being the June 29, 11:23 AM post announcing the USDA letter with Rep. Malliotakis.** The June 3 – 29 additions include the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter. **Updated July 10, 2026: a 31st post** — a video thanking WENY TV News for its "Born to Be Tested" segment, in which he says the research facilities involve "horrific abuse & inhumane conditions" and "we won't rest until we put a stop to these barbaric practices."
 
 **Verification (July 2, 2026):** two passes over the @RepLangworthy Facebook page. A **manual count found 30 beagle-campaign posts**; a systematic automated text sweep of the timeline (232 posts loaded, approximately mid-April through July 2) independently confirmed **21 with harvestable text bodies** (the automated method undercounts video-, reel-, and photo-only posts, so 21 is a floor consistent with the manual 30). The same automated sweep found **zero posts mentioning the Essential Plan, Medicaid, or health coverage** in the entire window.
 
@@ -67,6 +67,12 @@ In the same five-week window, he posted nothing about:
 | ~Mid-June (Facebook relative timestamp; exact date pending permalink capture) | "Today USDA Secretary Brooke Rollins and I secured a major win for animal welfare." |
 | ~Mid-June (same caveat) | "Together, we saved the Beagles. Incredible news. The expectation is that the remaining 475 beagles will be transferred to Big Dog Ranch Rescue by the end of August." |
 | June 29, 2026, 11:23 AM | Facebook post announcing the USDA letter (dated June 26) with Rep. Malliotakis on Marshall BioResources: "a facility housing more than 66,000 animals… We are working to lift the veil on this secretive facility to determine if any laws are being broken and we won't stop until we get answers and accountability." See the [dedicated fact-check](/fact-checks/2026-06-30-marshall-bioresources-usda-letter/), which found the letter's facts mostly hold up |
+
+### July 2026 (update)
+
+| Date | Post |
+|------|------|
+| July 10, 2026 | Video thanking WENY TV News for its "Born to Be Tested" segment: "…protect these dogs from the horrific abuse & inhumane conditions that have been going on in research facilities like Ridglan and Marshall Farms. We won't rest until we put a stop to these barbaric practices." (31st beagle / animal-testing post since May 1.) |
 
 The "475 beagles transferred by the end of August" claim is checkable on its own timeline and is logged for follow-up.
 
