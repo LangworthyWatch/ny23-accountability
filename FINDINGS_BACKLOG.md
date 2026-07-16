@@ -4,7 +4,30 @@
 > sessions. Items here are unprocessed — once acted on, move to a fact-check
 > entry under content/fact-checks/ or close with a disposition note.
 
-**Last updated:** 2026-07-09
+**Last updated:** 2026-07-16
+
+---
+
+## Epstein / Oversight follow-ups (logged 2026-07-16)
+
+Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-discharge-petition.md`) with the full recorded-vote + participation record. The entry is LIVE and primary-verified; these are the open threads around it.
+
+**Verifications (launched + resolved 2026-07-16; folded into the live entry):**
+- **A2 — DONE (confirmed ABSENT).** Transcript "Present:" rosters (curl'd from oversight.house.gov) show Langworthy absent from **Lutnick** (May 6), **Gates** (Jun 10), and **Groff** (Jun 9). Ruemmler (Jul 15, no transcript yet) and Maxwell (video only) remain NOT DETERMINABLE. Entry updated + at-a-glance row added.
+- **A3 — DONE (CONFIRMED per-member).** [H.Rept. 119-209](https://www.govinfo.gov/content/pkg/CRPT-119hrpt209/html/CRPT-119hrpt209.htm) (Jul 17) and [H.Rept. 119-232](https://www.govinfo.gov/content/pkg/CRPT-119hrpt232/html/CRPT-119hrpt232.htm) (Sep 2) give verbatim Yea/Nay. Langworthy: Nay on the H.R. 4405 forcing motions AND on Garcia's AG-contempt motion (RV165); Yea to report both rules. Hedge dropped.
+- **A1 — NOT OBTAINABLE (kept hedged).** No published per-member roll for the Mar 4 Bondi subpoena; only the 5 GOP yeses are named anywhere. The true per-member record is the C-SPAN roll-call read ([program 674772](https://www.c-span.org/program/house-committee/house-oversight-committee-votes-to-subpoena-attorney-general-pam-bondi/674772)), now behind a paywall (HTTP 402), or the committee's biennial Activity Report (~Jan 2027). **Follow-up:** transcribe the C-SPAN roll segment to nail down NO vs. absent.
+
+**New lead surfaced by A2:** the committee has posted a **`Final-Bondi-Transcript.pdf`** (oversight.house.gov, Jun 2026) plus **Barr, Tova Noel, and Waitt** transcripts. A Bondi transcript implies she may actually have sat for an Oversight interview after the subpoena (earlier research thought it was postponed once she was no longer AG). **Action:** verify whether/when Bondi was interviewed and whether Langworthy attended (roster check); extend attendance analysis to Barr/Noel/Waitt if useful.
+
+**Monitors (time-sensitive):**
+- **Dershowitz transcribed interview — July 20, 2026.** Does Langworthy attend and question him, as he did Bill Clinton (Feb 27)? Direct participation data point for the "he chooses which proceedings to attend" frame. **Action-date: 2026-07-20.**
+- **DOJ July 2 defiance of the court's unredaction order (+ appeal).** Has Langworthy — an Oversight member — said anything about DOJ withholding ~half the files / defying Judge Sullivan? His engagement or silence here is the "does he push when it points at the administration" test. **Action: targeted statement check.**
+- **Lesley Groff "lied to Congress" (survivors, July 9).** Watch whether Oversight refers Groff and whether Langworthy weighs in.
+
+**Investigate / content leads:**
+- **The alleged Trump "birthday letter" / Epstein estate book.** Langworthy grilled Clinton hard on the hot-tub photo; has he applied any comparable scrutiny to Trump-adjacent evidence? Asymmetry angle.
+- **"Sole NY member of the Rules Committee = gatekeeper"** — potential standalone entry. His procedural tabling role isn't Epstein-only; the same gatekeeping power recurs across other bills. Strong recurring frame if the pattern holds beyond Epstein.
+- **Post the two Epstein social cards** (`epstein_oversight_record_card.png` attendance-contrast + `epstein_votes_card.png` votes-ledger) + caption (`epstein_oversight_record_post.md`) — ready on disk / Desktop, human posting step only.
 
 ---
 

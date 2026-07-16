@@ -24,7 +24,7 @@ c.text(74, p1 + 22, "VOTES THAT BLOCKED THE BINDING PATH", size=17, bold=True,
 c.bullets(74, p1 + 80, [
     "Jul 14, 2025: NO on the amendment to force file release (Rules Cmte)",
     "Jul 15, 2025: YES on previous question, foreclosing a floor vote (RC 194)",
-    "Sep 2, 2025: NO on motions to force the bill up (Rules Cmte)",
+    "Sep 2, 2025: NO on holding the AG in contempt over withheld files",
     "Nov 18, 2025: YES on the rule that tabled the discharge petition",
 ], accent=RED, step=44, size=15)
 
@@ -40,7 +40,7 @@ c.bullets(74, p2 + 84, [
 ], accent=GREEN, step=44, size=15)
 
 c.text(c.w / 2, p2 + p2h + 52,
-       "Every roll call above is confirmed from the House Clerk's records.",
+       "Every vote above is confirmed from House Clerk and Rules Committee records.",
        size=15, fill=MUTED, anchor="mm")
 
 c.kicker(c.h - 176,
