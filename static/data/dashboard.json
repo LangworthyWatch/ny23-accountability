@@ -1,11 +1,11 @@
 {
   "generated": "2026-07-16",
-  "total": 133,
+  "total": 134,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 38,
     "MISLEADING": 31,
-    "DOCUMENTED PATTERN": 25,
+    "DOCUMENTED PATTERN": 26,
     "CONTRADICTION": 13,
     "FALSE": 9,
     "MOSTLY TRUE": 3,
@@ -21,27 +21,27 @@
     {
       "label": "MISSING CONTEXT",
       "count": 40,
-      "pct": 30.1
+      "pct": 29.9
     },
     {
       "label": "MISLEADING",
       "count": 31,
-      "pct": 23.3
+      "pct": 23.1
     },
     {
       "label": "DOCUMENTED PATTERN",
-      "count": 25,
-      "pct": 18.8
+      "count": 26,
+      "pct": 19.4
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "label": "FALSE",
       "count": 9,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "label": "MOSTLY TRUE",
@@ -51,22 +51,22 @@
     {
       "label": "MULTIPLE",
       "count": 3,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "label": "FALSE ATTRIBUTION",
       "count": 3,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "label": "DEFLECTION",
       "count": 3,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "label": "NON-RESPONSIVE",
       "count": 1,
-      "pct": 0.8
+      "pct": 0.7
     }
   ],
   "by_topic": {
@@ -84,6 +84,7 @@
     "Veterans": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
+    "Accountability & Governance": 2,
     "Housing": 2,
     "Consumer Protection": 2,
     "Animal Welfare": 2,
@@ -105,7 +106,6 @@
     "Civil Liberties": 1,
     "Food Security": 1,
     "Campaign": 1,
-    "Accountability & Governance": 1,
     "Labor": 1
   },
   "by_month": {
@@ -116,9 +116,16 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 12
+    "2026-07": 13
   },
   "entries": [
+    {
+      "title": "The Gatekeeper: He Holds New York's Only Seat on the Committee That Decides What the House Votes On",
+      "date": "2026-07-16",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Accountability & Governance",
+      "url": "/fact-checks/2026-07-16-rules-committee-gatekeeper-pattern/"
+    },
     {
       "title": "\\\"On the President's Desk\\\": The Housing Bill His Own Party's President Refused to Sign",
       "date": "2026-07-10",

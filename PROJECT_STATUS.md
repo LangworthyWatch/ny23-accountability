@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 10, 2026*
+*Last updated: July 16, 2026*
 
 ---
 
@@ -16,12 +16,13 @@
 
 ---
 
-## Content: 132 Fact-Checks Published
+## Content: 134 Fact-Checks Published
 
 ### Topics Covered
 
 | Series / Topic | Entries | Status |
 |---|---|---|
+| Rules Committee gatekeeper (synthesis: Medicaid, tariffs, veterans, Epstein) | 1 | Complete 2026-07-16 (DOCUMENTED PATTERN); Epstein oversight-record entry also expanded w/ full vote + attendance record |
 | NY Utility Rates (data investigation) | 12 | Complete |
 | IDA donor-to-exemption pattern | 3 | Complete; 74 donors documented |
 | One Big Beautiful Bill / OBBBA | 4 | Complete (SNAP, working families, WFTC, real-cost framing) |
