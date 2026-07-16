@@ -61,7 +61,7 @@ Langworthy's framing — "Congress has shielded their identities and used precio
 Langworthy's transparency language here sits uncomfortably alongside his record on the Epstein files, where the calculus was reversed:
 
 - He did **not** sign the discharge petition to force a floor vote on Epstein file release, despite publicly saying he supports transparency.
-- He did **not** attend the House Oversight Committee deposition of Jeffrey Epstein's former associate Alan Dershowitz.
+- He did **not** attend the House Oversight Committee deposition of Les Wexner — Epstein's primary financial patron — on February 18, 2026; zero Republican members attended.
 - He received **criticism** from constituents and press for these omissions, documented in a [prior fact-check](/fact-checks/2026-01-14-epstein-files-discharge-petition/).
 
 Voting to release Ethics Committee records of congressional sexual misconduct — a vote that went against his own party leadership — is a genuine transparency position. But it arrives in the context of a member who has been publicly criticized for selective transparency, and the framing invites the inference that Langworthy is a consistent transparency advocate when the record is more complicated.

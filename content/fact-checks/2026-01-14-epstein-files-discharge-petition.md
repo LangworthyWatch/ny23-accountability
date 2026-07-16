@@ -206,3 +206,77 @@ Langworthy told constituents in October 2025 that he didn't need to sign the dis
 The claim that the Republican Oversight Committee majority is conducting "the most comprehensive investigation to date" is difficult to square with a record that includes zero official hearings with survivors and zero Republican attendance at the Wexner deposition.
 
 **Note on framing:** Social media posts suggesting Langworthy "skipped" the May 12 hearing are not fully accurate — it was a Democratic minority hearing and Republicans were not invited. The more accurate story is that the Republican majority controls the committee and has not convened official survivor hearings. Democrats organized their own because Republicans would not.
+
+---
+
+## Update: July 16, 2026 — The Full Participation Record: He Chose Which Epstein Proceedings to Attend
+
+A review of the House Oversight Committee's Epstein docket through July 16, 2026 corrects an oversimplified version of this story. Langworthy did not skip *every* Epstein proceeding. He showed up for some and not others — and the pattern of which ones is the point.
+
+**Where he participated:**
+
+- **He attended and personally questioned former President Bill Clinton** at Clinton's closed-door, transcribed deposition on **February 27, 2026**, in Chappaqua, NY. It was Langworthy who asked Clinton about the infamous "hot tub" photograph. Clinton told him: *"I sat in the hot tub for five minutes or whatever it was, and I got up and went to bed."* Afterward, Langworthy characterized the former president as *"quite candid, probably more candid than his attorneys were comfortable with"* (attributed to Langworthy in Fox News and CNN coverage of the deposition).
+- **He voted YES** on final passage of the Epstein Files Transparency Act, H.R. 4405 (Nov 18, 2025, 427–1) — though, as documented above, only after President Trump reversed his opposition, and without signing the discharge petition that forced the vote.
+- **He stated he opposes a pardon for Ghislaine Maxwell.** In an April 2026 *Forbes* survey of the committee's roughly 25 Republicans, only a handful responded; Langworthy was among those who said Maxwell should not be pardoned.
+
+**Where he did not:**
+
+- **He did not attend the February 18, 2026 deposition of Les Wexner** — Epstein's primary financial patron. Zero Republican members attended (documented above). Nine days later he was in the room for Bill Clinton.
+- **He was not among the five Republicans who voted to subpoena Attorney General Pam Bondi.** On **March 4, 2026**, the full committee voted **24–19** to subpoena Bondi over the Justice Department's failure to produce roughly half of the Epstein files it holds. Five Republicans crossed party lines to force her testimony — Nancy Mace, Tim Burchett, Lauren Boebert, Michael Cloud, and Scott Perry. Langworthy was not one of them. *(His individual vote is documented by his absence from the named crossover list; the committee did not publish a per-member roll and he may have voted no or been absent. We state only what the record confirms: he did not join the bipartisan group that voted to compel Bondi to testify.)*
+- **Attendance not documented, either way:** the transcribed interviews of Ghislaine Maxwell (Feb, pleaded the Fifth), Commerce Secretary Howard Lutnick (May 6), Bill Gates (June 10), Epstein assistant Lesley Groff (June), and Kathy Ruemmler (July 15). Per-member attendance at closed interviews is generally not reported; we make no claim about these.
+
+**The structural fact that has not changed:** As of July 16, 2026, the Republican Oversight majority — on which Langworthy sits — **has still never held an official public hearing with Epstein survivors.** Chairman Comer said on July 1 that he "would like to have a public hearing" and has invited survivors, but none has been scheduled. The only survivor hearing to date remains the Democratic minority's May 12 field hearing in West Palm Beach. Meanwhile the Justice Department has released roughly 3.5 million heavily redacted pages of the roughly 6 million it says it collected, characterizing the remainder as duplicates, unrelated, or privileged — a characterization critics dispute; on June 26 a federal judge ordered more material unredacted, and on July 2 DOJ refused and signaled an appeal.
+
+### His Recorded Votes on Epstein
+
+Langworthy sits on the **House Rules Committee** — the panel that decides what reaches the floor and under what terms. That makes his Epstein record less a story about missing votes than about *procedural* ones. The pattern the record supports: he repeatedly voted to block or foreclose the binding, Democrat-driven mechanisms that would have forced the files out earlier in 2025, then voted YES on final passage of H.R. 4405 in November — after President Trump dropped his opposition days before the vote. He never cast a vote against final release itself.
+
+**Floor votes (each individually confirmed from the House Clerk's roll-call records):**
+
+| Date | Vote | Roll Call | Langworthy |
+|---|---|---|---|
+| Jul 15, 2025 | Previous question on the rule (H.Res. 580) — foreclosed the Democratic effort to force a floor vote on the binding Khanna amendment | [RC 194](https://clerk.house.gov/Votes/2025194) (211–210) | **YEA** |
+| Nov 18, 2025 | Previous question on the rule (H.Res. 879) | [RC 290](https://clerk.house.gov/Votes/2025290) (217–211) | **YEA** |
+| Nov 18, 2025 | Adopting the rule (H.Res. 879), which laid the discharge-petition resolution (H.Res. 581) on the table | [RC 291](https://clerk.house.gov/Votes/2025291) (217–210) | **AYE** |
+| Nov 18, 2025 | **H.R. 4405, Epstein Files Transparency Act — final passage** | [RC 289](https://clerk.house.gov/Votes/2025289) (427–1) | **AYE** |
+
+*Ordering the "previous question" is the procedural tool the majority uses to cut off the minority and keep control of the floor. On the same day he voted for final passage (RC 289), Langworthy first voted for the rule (RC 290 and RC 291) that set aside the discharge-petition resolution — the very mechanism Reps. Massie and Khanna had used to force the bill up. Both facts are true at once: he supported final passage, and he supported the procedural moves leadership used to control how it got there. The lone "nay" on final passage was Rep. Clay Higgins (R-LA); Langworthy was among the 427 yeas, under suspension of the rules.*
+
+**Rules Committee votes (committee record votes; per-member tallies are not always published inline, so these rest on the committee reports and contemporaneous reporting):**
+
+- **Jul 14, 2025** — Voted **NO** on the Khanna amendment to attach binding Epstein-file release to the CLARITY Act (H.R. 3633); defeated 5–7, with Rep. Ralph Norman the lone Republican to cross over. His office called it "a pointless political gimmick, not a path to justice."
+- **Jul 17, 2025** — Voted with the majority to defeat motions that would have substituted the binding H.R. 4405 for the non-binding GOP resolution; the rule for H.Res. 589 was reported 9–4.
+- **Sept 2, 2025** — Voted with the majority to defeat motions that would have forced consideration of H.R. 4405 and held the Attorney General in contempt for non-compliance; the rule for H.Res. 668 was reported 9–4. Massie filed the discharge petition the same day.
+
+**Oversight Committee:**
+
+- **Mar 4, 2026** — Was **not** among the five Republicans (Mace, Burchett, Boebert, Cloud, Perry) who joined the Democrats to subpoena AG Pam Bondi over the withheld files (24–19). The committee did not publish a per-member roll, so we report only that he did not join the crossover majority.
+
+**Not a vote:** the **Massie discharge petition** (Sept–Nov 2025) is a signature, not a vote. Langworthy **did not sign** it (only 4 Republicans did).
+
+**His framing, in his own words:** Langworthy has consistently said he supports "full transparency" and cast his procedural "no" votes as opposition to Democratic "gimmicks," not to release. On final passage he said he stood "for full justice for all of Jeffrey Epstein's victims." The record does not show him ever voting against releasing the files; it shows him voting, on at least five occasions, against the binding procedural vehicles that would have forced release earlier in 2025 — and then for final passage once Trump's reversal had made it a near-unanimous, low-risk vote.
+
+### The Participation Record at a Glance
+
+| Proceeding / Vote | Date | Langworthy | Confidence |
+|---|---|---|---|
+| Massie discharge petition | Sept 2025 | Did NOT sign | Confirmed |
+| H.R. 4405 floor passage (427–1) | Nov 18, 2025 | Voted YES (after Trump reversed) | Confirmed |
+| Wexner deposition (Epstein's patron) | Feb 18, 2026 | Did NOT attend (zero Rs did) | Confirmed |
+| Bill Clinton deposition | Feb 27, 2026 | ATTENDED, questioned Clinton | Reported (CNN, PBS) |
+| Subpoena AG Bondi over withheld files (24–19) | Mar 4, 2026 | NOT among 5 R crossover votes | Confirmed by omission |
+| Position on pardoning Maxwell | Apr 2026 | Opposes pardon | Reported (Forbes) |
+| Official GOP survivor hearing | (none as of Jul 16, 2026) | Majority has not scheduled one | Confirmed |
+
+**In plain language:** The clearest fact in this update is not that Langworthy avoids Epstein proceedings. It's that he can and does attend them — he spent hours questioning Bill Clinton and left praising his candor. He was simply not in the room when the committee deposed the billionaire who bankrolled Epstein, and he did not join the five Republicans who voted to make Trump's Attorney General explain the files she withheld. He supports transparency where it points at Democrats; he is quieter where it points at the administration or at Epstein's own network. And the majority he belongs to still has not given survivors a hearing of their own.
+
+**Sources for this update:**
+- [CNN: "House Oversight Committee releases video of Clinton depositions on Epstein"](https://www.cnn.com/2026/03/02/politics/clinton-depositions-epstein-video) (March 2, 2026) — Langworthy questioning Clinton; hot-tub exchange
+- [PBS NewsHour: "Republicans finally questioned the Clintons about Epstein"](https://www.pbs.org/newshour/nation/republicans-finally-questioned-the-clintons-about-epstein-they-also-asked-about-ufos-and-pizzagate) — Langworthy "quite candid" characterization
+- [CNN: "House Oversight panel votes to subpoena AG Pam Bondi in Epstein probe"](https://www.cnn.com/2026/03/04/politics/bondi-epstein-files-subpoena-oversight-committee) (March 4, 2026) — 24–19 vote; the five Republican crossover votes
+- [CBS News: "House Oversight Committee votes to subpoena Attorney General Pam Bondi"](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) (March 4, 2026)
+- [Forbes: "Only 6 Of 25 GOP Committee Members Say Ghislaine Maxwell Shouldn't Be Pardoned"](https://www.forbes.com/sites/saradorn/2026/04/25/only-6-of-25-gop-committee-members-say-ghislaine-maxwell-shouldnt-be-pardoned/) (April 25, 2026)
+- [NOTUS: "James Comer says Oversight will hold public hearings on Epstein"](https://www.notus.org/james-comer-says-oversight-will-hold-public-hearings-on-epstein) (July 1, 2026)
+- [The Hill: "Alan Dershowitz set for House Oversight Committee interview"](https://thehill.com/homenews/house/5934847-dershowitz-house-epstein-interview/) (July 2026) — Dershowitz interview scheduled July 20, 2026
+
+*Last updated: July 16, 2026*
