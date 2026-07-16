@@ -244,7 +244,7 @@ Langworthy sits on the **House Rules Committee** — the panel that decides what
 
 **Rules Committee votes (committee record votes; per-member tallies are not always published inline, so these rest on the committee reports and contemporaneous reporting):**
 
-- **Jul 14, 2025** — Voted **NO** on the Khanna amendment to attach binding Epstein-file release to the CLARITY Act (H.R. 3633); defeated 5–7, with Rep. Ralph Norman the lone Republican to cross over. His office called it "a pointless political gimmick, not a path to justice."
+- **Jul 14, 2025** — Voted **NO** on the Khanna amendment to attach binding Epstein-file release to the CLARITY Act (H.R. 3633); defeated 5–7, with Rep. Ralph Norman the lone Republican to cross over. In his own [statement](https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-applauds-president-trumps-order-full-transparency) days later, Langworthy said he "voted no because it was a gimmick—not a path to justice," and called the Democratic effort "a cynical political stunt that wouldn't have released a single file."
 - **Jul 17, 2025** — Voted with the majority to defeat motions that would have substituted the binding H.R. 4405 for the non-binding GOP resolution; the rule for H.Res. 589 was reported 9–4.
 - **Sept 2, 2025** — Voted with the majority to defeat motions that would have forced consideration of H.R. 4405 and held the Attorney General in contempt for non-compliance; the rule for H.Res. 668 was reported 9–4. Massie filed the discharge petition the same day.
 
@@ -278,5 +278,7 @@ Langworthy sits on the **House Rules Committee** — the panel that decides what
 - [Forbes: "Only 6 Of 25 GOP Committee Members Say Ghislaine Maxwell Shouldn't Be Pardoned"](https://www.forbes.com/sites/saradorn/2026/04/25/only-6-of-25-gop-committee-members-say-ghislaine-maxwell-shouldnt-be-pardoned/) (April 25, 2026)
 - [NOTUS: "James Comer says Oversight will hold public hearings on Epstein"](https://www.notus.org/james-comer-says-oversight-will-hold-public-hearings-on-epstein) (July 1, 2026)
 - [The Hill: "Alan Dershowitz set for House Oversight Committee interview"](https://thehill.com/homenews/house/5934847-dershowitz-house-epstein-interview/) (July 2026) — Dershowitz interview scheduled July 20, 2026
+- [Rep. Langworthy press release: "Applauds President Trump's Order for Full Transparency on Epstein Files"](https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-applauds-president-trumps-order-full-transparency) (July 2025) — his own "gimmick / cynical political stunt" wording
+- House Clerk roll-call records: [RC 194](https://clerk.house.gov/Votes/2025194), [RC 289](https://clerk.house.gov/Votes/2025289), [RC 290](https://clerk.house.gov/Votes/2025290), [RC 291](https://clerk.house.gov/Votes/2025291); [H.Res. 879 text (§8 tabling H.Res. 581)](https://www.govinfo.gov/content/pkg/BILLS-119hres879rh/html/BILLS-119hres879rh.htm)
 
 *Last updated: July 16, 2026*
