@@ -1,5 +1,5 @@
 ---
-title: "The Gatekeeper: He Holds NY-23's Only Seat on the Committee That Decides What the House Votes On"
+title: "The Gatekeeper: He Holds New York's Only Seat on the Committee That Decides What the House Votes On"
 date: 2026-07-16
 draft: false
 topic: "Accountability & Governance"
@@ -16,7 +16,7 @@ counties: ["district-wide"]
 
 Most of what the full House gets to vote on is decided before the floor ever opens. A single panel — the **Committee on Rules** — writes the "special rule" for nearly every major bill: how long it is debated, and, crucially, **which amendments (if any) the full House may even vote on**. It can bar all amendments (a "closed rule"), and it can switch off statutory clocks that would otherwise guarantee a vote. That is why Rules is often called the gatekeeper of the House, and why its majority seats are among the most closely held by leadership.
 
-Rep. Nick Langworthy holds **NY-23's only seat** on that committee. He is the sole New Yorker among its 13 members (9 Republicans, 4 Democrats), and on his own House website he describes his committee seats as the way he gives "our rural communities a seat at the table on major legislation." This entry does not re-argue any single bill. It documents one thing: **what his recorded, by-name votes on that gatekeeping committee show he does with the seat — across four unrelated subjects.** The answer is uniform.
+Rep. Nick Langworthy is the **only New Yorker on that committee** — of New York's 26 House members, he is the single one who sits on Rules. He is one of its 13 members (9 Republicans, 4 Democrats), and on his own House website he describes his committee seats as the way he gives "our rural communities a seat at the table on major legislation." This entry does not re-argue any single bill. It documents one thing: **what his recorded, by-name votes on that gatekeeping committee show he does with the seat — across four unrelated subjects.** The answer is uniform.
 
 ---
 
@@ -65,7 +65,7 @@ The accountability point is narrower and survives all of that. Langworthy market
 
 1. Langworthy describes his Rules seat as giving rural NY-23 "a seat at the table." On four major bills, that seat was used to keep the full House from voting on the popular fix. How is that reconciled with the marketing?
 2. Is there a recorded instance this term in which he voted, on Rules, to *open* a rule so the House could vote on an amendment that leadership opposed?
-3. The Rules Committee is the one lever where a single NY-23 vote carries outsized weight — 1 of 9. Why has that weight been used uniformly to advance leadership's terms rather than to secure a floor vote on a district priority?
+3. The Rules Committee is the one lever where a single New York vote carries outsized weight — he is 1 of 9 majority members, and the state's only member on the panel. Why has that weight been used uniformly to advance leadership's terms rather than to secure a floor vote on a district priority?
 
 ---
 
