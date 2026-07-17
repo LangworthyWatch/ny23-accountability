@@ -200,6 +200,46 @@ management appropriation.
 
 ---
 
+## The forest management he demands of Canada, his own side is cutting at home
+
+Set the climate science aside and take the post on its own terms — its specific
+charge is that Canada underinvests in "forest management" (thinning, fuel
+reduction, prescribed burns). The administration Langworthy champions spent
+2025 cutting exactly those capacities inside the United States.
+
+- **DOGE gutted the U.S. Forest Service's fire and fuels workforce.** Of roughly
+  2,000 to 3,400 Forest Service employees terminated in early 2025, about **700
+  held "red card" wildfire qualifications** — the staff who run **prescribed
+  burns and fuel-reduction** projects and provide logistical support on fires.
+  ProPublica documented that the cuts led **directly** to the "cancellation of
+  some training programs and prescribed burns," with thousands of firefighting
+  positions left vacant heading into a fire season experts warned could be among
+  the worst on record. Prescribed burns and fuel reduction are the precise
+  interventions the "just manage the forests" demand rests on.
+- **FEMA terminated its pre-disaster mitigation program.** On April 4, 2025,
+  FEMA ended **BRIC** (Building Resilient Infrastructure and Communities) — its
+  flagship program for *preventing* disasters rather than only cleaning up after
+  them — halting **$882 million** in awarded funds. A federal court ruled the
+  termination **unlawful** and barred it (summary judgment, December 11, 2025;
+  *Washington v. FEMA*).
+- **Langworthy is a founding member of the House DOGE Caucus** — the initiative
+  behind the federal-workforce cuts — as this site documented when DOGE targeted
+  the [Big Flats Social Security office](/fact-checks/2026-02-08-big-flats-ssa-doge/).
+  His own disaster record is **reactive, not preventive**: the
+  [Steuben County flooding entry](/fact-checks/2026-02-07-steuben-flooding-mitigation/)
+  found he announces FEMA *recovery* funding after each flood but has "no
+  documented advocacy for structural mitigation to prevent the next one."
+
+**Fair caveat:** these Forest Service and FEMA cuts were **executive and DOGE
+actions, not Langworthy floor votes** — this entry found no specific roll-call
+vote of his against wildfire-prevention funding. The connection is that he
+co-founded the caucus built around the cutting effort, champions the
+administration carrying it out, and has no documented record of advocating the
+preventive investment he now demands of Canada. He asks another country to do
+what his own side is dismantling at home.
+
+---
+
 ## Questions This Raises
 
 1. If the primary driver of the escalating fires is climate change (per the
@@ -212,6 +252,10 @@ management appropriation.
 3. How does demanding Canada urgently address wildfire risk square with his own
    votes against the clean-energy and climate measures aimed at the warming
    that scientists identify as the primary driver?
+4. He demands Canada invest in forest thinning, fuel reduction, and prescribed
+   burns. How does that square with the DOGE effort he co-founded a caucus
+   around cutting ~700 Forest Service staff who do exactly that work, and with
+   FEMA's termination of its pre-disaster mitigation program?
 
 ---
 
@@ -221,20 +265,26 @@ Langworthy is right that Canadian wildfire smoke is a serious, recurring hazard
 for Western New York. He is misleading in attributing it to a Canadian "policy
 choice" rather than the climate-driven escalation that attribution scientists —
 and Canadian officials — identify as the primary driver, and he omits that the
-U.S. is running its own severe fire season whose smoke crosses into Canada. The
-demand for "consequences" rests on a causal story the evidence does not support.
+U.S. is running its own severe fire season whose smoke crosses into Canada. And
+the "forest management" he demands of Canada is the very capacity the DOGE
+effort he co-founded a caucus around has been cutting at home. The demand for
+"consequences" rests on a causal story the evidence does not support — and on a
+standard his own side does not meet.
 
 ---
 
 ## Sources
 
-*(Research-packet source registry, to be link-verified before publish; the
-attribution study S6 has been confirmed directly by this site.)*
+*(Load-bearing claims below were verified directly by this site against primary
+or authoritative sources; the aging live-event figures carry a re-verify note.)*
 
 * **Attribution science (confirmed):** Kirchmeier-Young et al., peer-reviewed, on 2023 Canadian fires and climate change — [PMC11661968](https://pmc.ncbi.nlm.nih.gov/articles/PMC11661968/) (15M ha; area burned ≥2× more likely; season >5× more likely; emissions ~8× the 1985–2022 mean; "most extreme fire weather year since at least 1940")
 * Michigan delegation letter to PM Carney, July 15, 2026 (James/Bergman/Moolenaar/McClain) — [bergman.house.gov PDF](https://bergman.house.gov/uploadedfiles/canadian_wildfires_summer_2026.pdf) *(verified; Langworthy not a signatory)*
 * Tiffany/Finstad letter urging Canada to mitigate wildfire risk — [tiffany.house.gov press release](https://tiffany.house.gov/media/press-releases/tiffany-finstad-lead-letter-urging-canada-mitigate-wildfire-risk) *(Langworthy not listed)*
 * **U.S. smoke into Canada, 2020 (confirmed):** [CBC — "Smoke from U.S. wildfires spreads to at least 5 Canadian provinces"](https://www.cbc.ca/news/canada/smoke-u-s-wildfires-spreads-several-canadian-provinces-1.5724449) (Vancouver: Canada Post suspended delivery; smoke reached Alberta, Toronto, Ottawa)
+* **DOGE cuts to the U.S. Forest Service (confirmed):** [ProPublica — "How Trump's Forest Service Cuts Could Affect Wildland Firefighting"](https://www.propublica.org/article/trump-doge-cuts-forest-service-firefighting) (~700 red-card staff terminated; prescribed burns and training programs cancelled) · [CBS News](https://www.cbsnews.com/news/trump-washington-oregon-parks-workers-funding-cuts-challenge-wildfires/) · [GovExec on unfilled firefighting jobs](https://www.govexec.com/workforce/2025/07/forest-service-claims-its-fully-staffed-worsening-fire-season-data-shows-thousands-unfilled-jobs/406991/)
+* **FEMA BRIC termination (confirmed):** [Harvard Environmental & Energy Law Program tracker](https://eelp.law.harvard.edu/tracker/fema-issued-new-building-resilient-infrastructure-and-communities-bric-policy/) (terminated April 4, 2025; $882M halted; ruled unlawful Dec 11, 2025, *Washington v. FEMA*) · [CRS — BRIC recent developments](https://www.congress.gov/crs-product/IN12609)
+* **Langworthy + DOGE / reactive-not-preventive record (this site):** [Big Flats SSA office / DOGE Caucus founding member](/fact-checks/2026-02-08-big-flats-ssa-doge/) · [Steuben County flooding: relief without mitigation](/fact-checks/2026-02-07-steuben-flooding-mitigation/)
 * Additional cross-border / bidirectional and current-event coverage (to link-verify at publish): CNN, CBS News, Global News, NBC News — registry retained in the analyst packet on file.
 
 ---
