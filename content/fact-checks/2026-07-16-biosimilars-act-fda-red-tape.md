@@ -1,14 +1,13 @@
 ---
 title: "The Biosimilars Bill Checks Out — \"Cuts Red Tape\" Is a Fair Description of What FDA's Own Research Supports"
 date: 2026-07-16
-draft: true
+draft: false
 topic: "Healthcare"
 claim_date: "July 15, 2026"
 source: "Facebook Post"
 source_url: "https://www.facebook.com/RepLangworthy/posts/pfbid08bvJGLB78kjSdv312jQvwZUKpxbpDpPb64Dz73E64RmdmGvvcQZ4ic3ut38xsCH6l"
 archived_url: ""
 archive_note: "Wayback/archive.today cannot capture login-walled Facebook posts; screenshot on file is the preservation artifact"
-hold_reason: "PRE-PUBLISH: verify Langworthy is the HOUSE sponsor of the Expedited Access to Biosimilars Act against the primary govinfo BILLSTATUS roster (the entry currently rests on news coverage — Failure Mode 5). Confirm the House bill number and sponsorship, then publish."
 verdict: "MOSTLY TRUE"
 tags: ["Healthcare", "FDA", "Prescription Drugs"]
 county: ["District-wide"]
@@ -37,9 +36,13 @@ either way.
 
 ## The Facts
 
-**1. The bill is real and bipartisan.** Langworthy introduced the Expedited
-Access to Biosimilars Act with Rep. Kim Schrier (D-WA) on July 15, 2026. A
-companion Senate bill, S. 1414, exists in the 119th Congress.
+**1. The bill is real, bipartisan, and he is the sponsor.** The House bill is
+**H.R. 9661**, the Expedited Access to Biosimilars Act, introduced July 14,
+2026 and referred to Energy & Commerce. The primary govinfo BILLSTATUS roster
+lists **Rep. Nicholas A. Langworthy [R-NY-23] as the sponsor**, co-led with
+Rep. Kim Schrier (D-WA) — so "I'm proud to introduce" is accurate (verified
+against the primary roster, not news coverage). A companion Senate bill, S.
+1414, exists in the 119th Congress.
 
 **2. What it actually changes:** current law generally requires biosimilar
 manufacturers to run clinical studies assessing immunogenicity,
@@ -80,8 +83,16 @@ necessary for approval.
 
 ## Sources
 
+* House bill + sponsor (primary roster): [H.R. 9661, 119th Congress (congress.gov)](https://www.congress.gov/bill/119th-congress/house-bill/9661) — sponsor confirmed via the [govinfo BILLSTATUS roster](https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9661.xml) (Rep. Langworthy, sponsor; co-led with Rep. Schrier)
 * Bill introduction coverage: [Fingerlakes1.com](https://www.fingerlakes1.com/2026/07/15/langworthy-schrier-introduce-bill-to-speed-biosimilar-approvals/), [WBNG](https://www.wbng.com/2026/07/15/proposed-legislation-aims-lower-prescription-drug-costs-reduce-barriers-drug-manufacturers/)
 * Senate companion bill text: [S.1414, 119th Congress](https://www.congress.gov/bill/119th-congress/senate-bill/1414/text)
 * FDA research on biosimilar switching safety: [FDA — Safety Outcomes When "Switching" Between Biosimilars and Reference Products](https://www.fda.gov/drugs/spotlight-cder-science/safety-outcomes-when-switching-between-biosimilars-and-reference-products)
 
-*Last updated: July 16, 2026.*
+---
+
+**Note:** House sponsorship was verified against the primary govinfo
+BILLSTATUS roster (H.R. 9661), not an aggregator, per this site's
+sponsor-verification standard. The Facebook post itself cannot be archived to
+Wayback (login wall); see `archive_note` in the frontmatter.
+
+*Last updated: July 17, 2026.*

@@ -1,14 +1,14 @@
 {
-  "generated": "2026-07-16",
-  "total": 134,
+  "generated": "2026-07-17",
+  "total": 142,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 38,
-    "MISLEADING": 31,
-    "DOCUMENTED PATTERN": 26,
+    "MISSING CONTEXT": 40,
+    "MISLEADING": 32,
+    "DOCUMENTED PATTERN": 27,
     "CONTRADICTION": 13,
     "FALSE": 9,
-    "MOSTLY TRUE": 3,
+    "MOSTLY TRUE": 7,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
     "DEFLECTION": 3,
@@ -20,48 +20,48 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 40,
-      "pct": 29.9
+      "count": 42,
+      "pct": 29.6
     },
     {
       "label": "MISLEADING",
-      "count": 31,
-      "pct": 23.1
+      "count": 32,
+      "pct": 22.5
     },
     {
       "label": "DOCUMENTED PATTERN",
-      "count": 26,
-      "pct": 19.4
+      "count": 27,
+      "pct": 19.0
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 10.4
+      "pct": 9.9
     },
     {
       "label": "FALSE",
       "count": 9,
-      "pct": 6.7
+      "pct": 6.3
     },
     {
       "label": "MOSTLY TRUE",
-      "count": 4,
-      "pct": 3.0
+      "count": 8,
+      "pct": 5.6
     },
     {
       "label": "MULTIPLE",
       "count": 3,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "label": "FALSE ATTRIBUTION",
       "count": 3,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "label": "DEFLECTION",
       "count": 3,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "label": "NON-RESPONSIVE",
@@ -70,17 +70,18 @@
     }
   ],
   "by_topic": {
-    "Healthcare": 18,
+    "Healthcare": 20,
+    "Government Operations": 15,
     "Economy": 15,
-    "Government Operations": 13,
     "Other": 10,
     "Immigration": 8,
     "Campaign Finance": 6,
     "Local Impact": 6,
     "Transparency": 6,
-    "Agriculture": 4,
+    "Agriculture": 5,
     "Energy": 4,
     "Infrastructure": 4,
+    "Environment": 3,
     "Veterans": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
@@ -90,8 +91,9 @@
     "Animal Welfare": 2,
     "Ethics": 2,
     "Rule of Law": 2,
-    "Environment": 2,
     "Social Services": 2,
+    "Transportation": 1,
+    "Trade": 1,
     "Public Safety": 1,
     "Financial Disclosure": 1,
     "Disability & Education": 1,
@@ -116,15 +118,71 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 13
+    "2026-07": 21
   },
   "entries": [
+    {
+      "title": "Canada's Smoke Is Real. Calling It a 'Policy Choice' Is Not What the Science Says.",
+      "date": "2026-07-17",
+      "verdict": "MISLEADING",
+      "topic": "Environment",
+      "url": "/fact-checks/2026-07-17-canada-wildfire-smoke-policy-choice/"
+    },
+    {
+      "title": "The Farm Numbers Check Out, and He Really Did Sponsor the CAREERS Act",
+      "date": "2026-07-17",
+      "verdict": "MOSTLY TRUE",
+      "topic": "Agriculture",
+      "url": "/fact-checks/2026-07-17-ffa-farms-careers-act/"
+    },
+    {
+      "title": "The Same $1.25 Million, Announced a Third Time \u2014 Still Without Mentioning the Senators",
+      "date": "2026-07-16",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-07-16-allegany-water-funding-third-announcement/"
+    },
+    {
+      "title": "The Biosimilars Bill Checks Out \u2014 \\\"Cuts Red Tape\\\" Is a Fair Description of What FDA's Own Research Supports",
+      "date": "2026-07-16",
+      "verdict": "MOSTLY TRUE",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-07-16-biosimilars-act-fda-red-tape/"
+    },
+    {
+      "title": "The BUSES Act Cleared Subcommittee. It's Narrower Than \\\"National Standard for Bus Operators\\\" Sounds.",
+      "date": "2026-07-16",
+      "verdict": "MOSTLY TRUE",
+      "topic": "Transportation",
+      "url": "/fact-checks/2026-07-16-buses-act-idling-bounty-subcommittee/"
+    },
+    {
+      "title": "China's Mineral-Processing Dominance Is Real \u2014 and So Is the Bill's Narrow Fix",
+      "date": "2026-07-16",
+      "verdict": "MOSTLY TRUE",
+      "topic": "Trade",
+      "url": "/fact-checks/2026-07-16-critical-minerals-china-hearing-question/"
+    },
+    {
+      "title": "He Amplified a Video Whose Own Host Says Both 'Korean and Chinese Mafias' and 'Nothing to Do With' Them",
+      "date": "2026-07-16",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-07-16-nick-shirley-fraud-video-amplification/"
+    },
     {
       "title": "The Gatekeeper: He Holds New York's Only Seat on the Committee That Decides What the House Votes On",
       "date": "2026-07-16",
       "verdict": "DOCUMENTED PATTERN",
       "topic": "Accountability & Governance",
       "url": "/fact-checks/2026-07-16-rules-committee-gatekeeper-pattern/"
+    },
+    {
+      "title": "Rural Hospitals \\\"Aren't Going Anywhere\\\" for a Second Reason: The $50 Billion Fund, Touted Again Without the Medicaid Offset",
+      "date": "2026-07-16",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-07-16-rural-health-fund-centralus-repeat/"
     },
     {
       "title": "\\\"On the President's Desk\\\": The Housing Bill His Own Party's President Refused to Sign",

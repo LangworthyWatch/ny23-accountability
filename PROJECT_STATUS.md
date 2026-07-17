@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 16, 2026*
+*Last updated: July 17, 2026*
 
 ---
 
@@ -16,12 +16,13 @@
 
 ---
 
-## Content: 134 Fact-Checks Published
+## Content: 142 Fact-Checks Published
 
 ### Topics Covered
 
 | Series / Topic | Entries | Status |
 |---|---|---|
+| July 16-17 Facebook-post batch (transcript-verified) | 8 | Complete 2026-07-17 — Nick Shirley fraud-video amplification (MISSING CONTEXT), Canada wildfire smoke "policy choice" (MISLEADING), BUSES Act (MOSTLY TRUE), critical-minerals hearing (MOSTLY TRUE), biosimilars H.R. 9661 (MOSTLY TRUE), FFA/CAREERS Act (MOSTLY TRUE), Allegany water 3rd-announcement (DOCUMENTED PATTERN), rural-health-fund Centralus repeat (MISSING CONTEXT). Established FB-reel + YouTube transcription workflow (yt-dlp + Whisper / youtube-transcript-api); transcripts under research/transcripts/ |
 | Rules Committee gatekeeper (synthesis: Medicaid, tariffs, veterans, Epstein) | 1 | Complete 2026-07-16 (DOCUMENTED PATTERN); Epstein oversight-record entry also expanded w/ full vote + attendance record |
 | NY Utility Rates (data investigation) | 12 | Complete |
 | IDA donor-to-exemption pattern | 3 | Complete; 74 donors documented |
