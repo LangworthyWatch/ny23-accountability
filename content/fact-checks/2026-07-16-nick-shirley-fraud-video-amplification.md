@@ -16,7 +16,7 @@ county: ["District-wide"]
 ## Why this matters
 
 This is not a claim Langworthy made himself — it is content he **amplified**.
-He shared a viral video by independent creator Nick Shirley with the caption
+He shared a viral video by conservative influencer Nick Shirley with the caption
 "New York should take him up on his offer to help uncover fraud, waste, and
 abuse," without repeating Shirley's specific dollar figure. That distinction
 matters for how this entry is framed: the underlying problem Shirley is
@@ -167,6 +167,19 @@ similar unverified-statistic-plus-ethnic-framing structure now applied to
 NYC — a prior instance where the claims were specifically checked by
 government officials and did not hold up as presented.
 
+**10. Worth stating plainly: Shirley is a social-media content creator, not a
+credentialed journalist.** He calls himself an "independent journalist," but
+reliable outlets — the Associated Press, NPR, and the Christian Science Monitor
+(cited below) among them — describe him as a conservative or "MAGA" influencer,
+and traditional media have pushed back on the journalist label. That
+distinction is the point. The methods on display in this video — a headline
+number never stated on camera, an elderly woman's non-answer treated as a
+"confession," ethnic framing the host himself contradicts 40 minutes later —
+are not journalistic verification. None of it makes him automatically wrong,
+but it is exactly why an unconfirmed $190 million figure warranted checking
+before a member of Congress passed it to constituents as something New York
+"should take him up on."
+
 ---
 
 ## Context
@@ -230,6 +243,7 @@ up. None of that is visible from Langworthy's caption alone.
 * TAG24's independent reporting of the same "mafias" quote, corroborating this site's own transcript pull: [TAG24](https://www.tag24.com/en/news/politics/politicians/dr-oz-and-maga-journalist-nick-shirley-launch-war-on-fraud-in-nyc-senior-daycares-korean-and-chinese-mafias-3515340), and a second independent account: [X/Twitter post citing the same broadcast](https://x.com/EricLDaugh/status/2077542279649136749)
 * Shirley's Minnesota video and its aftermath (Walz reelection, VP Vance amplification): [NPR — "Despite ICE surge, Minnesota Republicans don't regret fraud videos"](https://www.npr.org/2026/02/17/nx-s1-5716113/minnesota-nick-shirley-fraud-ice-minneapolis), [NPR — "Pro-Trump influencers take a victory lap"](https://www.npr.org/2026/01/07/nx-s1-5668189/nick-shirley-tim-walz-influencers-trump)
 * Minnesota state officials' on-site check finding claims unsubstantiated: [Christian Science Monitor — "How an influencer's unverified report on Minnesota fraud sparked White House action"](https://www.csmonitor.com/USA/Politics/2026/0108/minneapolis-fraud-somalia-nick-shirley)
+* Shirley's characterization (conservative/"MAGA" influencer, not a credentialed journalist; self-describes as an "independent journalist," a label traditional media dispute; documented pattern of unsubstantiated claims): AP, NPR, and CSM as cited above; overview and sourcing at [Wikipedia — Nick Shirley](https://en.wikipedia.org/wiki/Nick_Shirley)
 
 ---
 
