@@ -94,6 +94,22 @@ from the framing.
   thinning interventions that help in some drier U.S. forests are not
   practically deployable across millions of hectares of remote terrain — which
   undercuts the "just manage it" premise.
+- **"Refuses to properly manage its forests" is contradicted by Canada's own
+  spending since 2023.** The post's sharpest word is "refuses." But Canada has
+  committed substantial new money to exactly the prevention and mitigation the
+  post says it neglects. The federal **Wildfire Resilient Futures Initiative**
+  provides **up to $285 million over five years, starting in 2023-24**,
+  including **up to $150.7 million** for community prevention and the expansion
+  of FireSmart, **$48 million** for foundational wildfire-knowledge research,
+  and **$11.75 million** for a new Centre of Excellence for Wildland Fire
+  Innovation and Resilience (figures confirmed against Natural Resources
+  Canada). Ottawa has separately announced federal wildfire-equipment
+  agreements with the provinces and territories and, in February 2026, funding
+  to expand pan-Canadian aerial-firefighting capacity. One can fairly argue the
+  response is still insufficient — BC outlets report some FireSmart funding
+  streams running dry — but "refuses to" is not what the record shows. The
+  honest critique is "not enough, not fast enough," which is a very different
+  claim than a deliberate policy of neglect.
 
 Langworthy's phrasing is careful — "we can all accept that nature is
 unpredictable, but repeated failures... are a policy choice" — so he is not
@@ -123,12 +139,17 @@ American forests burn, it is Canadians who breathe it.
   conditions "unsafe," and reached Alberta, Toronto, and Ottawa. By the post's
   own logic, that would make Americans responsible for hazardous air Canadians
   "had no role in creating."
-- **The U.S. is having its own severe season right now.** During the same
-  mid-July 2026 smoke event, U.S. fires were part of the mix — including fires
-  in northern Minnesota and scores of large fires across multiple western
-  states — with air quality degrading on **both sides of the border**. The
-  smoke reaching the Northeast in this very event was not purely Canadian in
-  origin.
+- **The U.S. is having its own severe seasons — and 2020 was not a one-off.**
+  Per the National Interagency Fire Center, the U.S. burned **8,924,884 acres
+  in 2024** — above both the five- and ten-year averages — and recorded
+  **77,850 wildfires in 2025**, well above the average count. (2023, the
+  catastrophic Canadian year, was a mild U.S. year at ~2.7M acres — which is
+  exactly why the smoke ran mostly one way *that* year, not a permanent
+  asymmetry.) During the same mid-July 2026 smoke event, U.S. fires were part
+  of the mix — including fires in northern Minnesota and scores of large fires
+  across multiple western states — with air quality degrading on **both sides
+  of the border**. The smoke reaching the Northeast in this very event was not
+  purely Canadian in origin.
 - The honest description is a shared, warming-driven fire regime that neither
   country has "solved," not one nation victimizing another. Langworthy's post
   briefly gestures at this ("protect both Canadians and Americans") but its
@@ -282,6 +303,8 @@ or authoritative sources; the aging live-event figures carry a re-verify note.)*
 * Michigan delegation letter to PM Carney, July 15, 2026 (James/Bergman/Moolenaar/McClain) — [bergman.house.gov PDF](https://bergman.house.gov/uploadedfiles/canadian_wildfires_summer_2026.pdf) *(verified; Langworthy not a signatory)*
 * Tiffany/Finstad letter urging Canada to mitigate wildfire risk — [tiffany.house.gov press release](https://tiffany.house.gov/media/press-releases/tiffany-finstad-lead-letter-urging-canada-mitigate-wildfire-risk) *(Langworthy not listed)*
 * **U.S. smoke into Canada, 2020 (confirmed):** [CBC — "Smoke from U.S. wildfires spreads to at least 5 Canadian provinces"](https://www.cbc.ca/news/canada/smoke-u-s-wildfires-spreads-several-canadian-provinces-1.5724449) (Vancouver: Canada Post suspended delivery; smoke reached Alberta, Toronto, Ottawa)
+* **Recent U.S. fire seasons (confirmed):** [National Interagency Fire Center — Wildfires and Acres](https://www.nifc.gov/fire-information/statistics/wildfires) (2023: 56,580 fires / 2,693,910 acres; **2024: 64,897 fires / 8,924,884 acres**, above 5- and 10-yr averages; **2025: 77,850 fires** / 5,131,474 acres)
+* **Canada's post-2023 wildfire-prevention spending (confirmed):** [Natural Resources Canada — Wildfire Resilient Futures Initiative](https://natural-resources.canada.ca/forests-forestry/wildland-fires/wildfire-resilient-futures-initiative) (up to $285M over 5 years from 2023-24; up to $150.7M for FireSmart/community prevention; $48M knowledge; $11.75M Centre of Excellence) · [Canada.ca — "Major Investments to Improve Resilience Against Wildfires" (June 2025)](https://www.canada.ca/en/natural-resources-canada/news/2025/06/canada-announces-major-investments-to-improve-resilience-against-wildfires.html) · [Public Safety Canada — pan-Canadian aerial firefighting capacity (Feb 2026)](https://www.canada.ca/en/public-safety-canada/news/2026/02/government-of-canada-invests-in-bolstering-pan-canadian-aerial-wildfire-firefighting-capacity.html) · fair caveat: [CBC — some BC FireSmart funding running dry](https://www.cbc.ca/news/canada/british-columbia/firesmart-wildfire-funding-cuts-b-c-9.7081800)
 * **DOGE cuts to the U.S. Forest Service (confirmed):** [ProPublica — "How Trump's Forest Service Cuts Could Affect Wildland Firefighting"](https://www.propublica.org/article/trump-doge-cuts-forest-service-firefighting) (~700 red-card staff terminated; prescribed burns and training programs cancelled) · [CBS News](https://www.cbsnews.com/news/trump-washington-oregon-parks-workers-funding-cuts-challenge-wildfires/) · [GovExec on unfilled firefighting jobs](https://www.govexec.com/workforce/2025/07/forest-service-claims-its-fully-staffed-worsening-fire-season-data-shows-thousands-unfilled-jobs/406991/)
 * **FEMA BRIC termination (confirmed):** [Harvard Environmental & Energy Law Program tracker](https://eelp.law.harvard.edu/tracker/fema-issued-new-building-resilient-infrastructure-and-communities-bric-policy/) (terminated April 4, 2025; $882M halted; ruled unlawful Dec 11, 2025, *Washington v. FEMA*) · [CRS — BRIC recent developments](https://www.congress.gov/crs-product/IN12609)
 * **Langworthy + DOGE / reactive-not-preventive record (this site):** [Big Flats SSA office / DOGE Caucus founding member](/fact-checks/2026-02-08-big-flats-ssa-doge/) · [Steuben County flooding: relief without mitigation](/fact-checks/2026-02-07-steuben-flooding-mitigation/)
