@@ -57,6 +57,32 @@ Use these standardized verdicts:
 ### NY-23 Counties (for county tags)
 Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Schuyler, Steuben, Tioga
 
+### Frontmatter: `archive_note` and `hold_reason` (added 2026-07-17)
+
+Two optional frontmatter fields, both added after a run of Facebook-sourced entries.
+
+**`archive_note`** — use when a source genuinely **cannot** be archived. Wayback and archive.today
+both fail on login-walled Facebook posts: Save Page Now returns a 302 with a plausible-looking
+snapshot URL, **but no capture is stored, and that URL 404s**. Never paste a Wayback URL you have
+not confirmed resolves — a dead link that looks like an archive is worse than an honest empty
+field. Verify with:
+
+```bash
+curl -s "https://archive.org/wayback/available?url=<url>"   # "archived_snapshots":{} = no capture
+```
+
+When it can't be archived, leave `archived_url: ""` and set `archive_note` naming the actual
+preservation artifact (screenshot on file, transcript under `research/transcripts/`). This is an
+accepted pattern — several published entries carry it — and it satisfies the "archive your sources"
+standard by disclosure rather than pretense. `prepublish_lint.py` scores a documented empty archive
+as SOFT, an undocumented one as HEDGE.
+
+**`hold_reason`** — a deliberate "do not publish yet" flag that carries the *specific* open item
+(e.g. "confirm the House sponsor against the govinfo BILLSTATUS roster"). It pairs with
+`draft: true`. Resolve the item, then **delete the field** before flipping `draft: false` —
+`prepublish_lint.py` **BLOCKs** on `hold_reason` + `draft:false`, because that combination means an
+entry went live with a known-open question.
+
 ---
 
 ## Directory Structure
@@ -377,6 +403,8 @@ Ten slash commands live under `.claude/commands/` (plus `/wrap` at the project r
 | `/campaign-graphic-brief [goal]` | **Accessible design spec** for a social card, produced before design work begins | Spec (not the graphic) for the `social-media/create_*_card.py` Pillow script |
 | `/social-post [entry-or-topic]` | **Caption + card** for a fact-check in the house scorecard format (headline-first, verdict-consistent); runs the ≤2200-char and em-dash checks; builds the card on `social-media/lib/card.py` | A ready-to-post caption (with char count) + a rendered PNG (Desktop copy) |
 | `/accessibility-audit [path/url]` | **WCAG 2.1 AA audit** of the Hugo site + social cards, mapped back to source files | Findings by severity, mapped to templates / CSS / content / cards |
+| `/transcribe-video [url]` | **Primary-source transcript** of a YouTube or public Facebook video/reel (`youtube-transcript-api`; `yt-dlp` + Whisper `base.en`). Use whenever a claim turns on what someone actually *said* on camera — quoting the audio beats quoting the coverage | Saved transcript under `research/transcripts/`, plus the methodology note to paste into the entry |
+| `/prepublish-lint [file]` | **Provisional-language scan** (`prepublish_lint.py`) — "by elimination", `[link to be added]`, TODO, plus publish-gate checks on `archived_url` / `archive_note` / `hold_reason` / generic `source_url`. Run right before flipping `draft:false` | BLOCK / HEDGE / SOFT punch list; exit 0=clean, 1=findings |
 | `/wrap` (project root) | Session wrap — closing summary | One-shot |
 
 ### Standard fact-check pipeline

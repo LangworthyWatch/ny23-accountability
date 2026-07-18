@@ -80,11 +80,27 @@ def main():
 
     # frontmatter publish-gate checks
     is_published = re.search(r"^draft:\s*false", fm, re.MULTILINE)
+    has_archive_note = re.search(r'^archive_note:\s*"?\S', fm, re.MULTILINE)
+
+    # hold_reason is a deliberate "do not publish yet" flag — it must be
+    # resolved and the field deleted before draft:false, never shipped with it.
+    if is_published and re.search(r'^hold_reason:\s*"?\S', fm, re.MULTILINE):
+        findings.append(("BLOCK", 0, "hold_reason present", "(frontmatter)",
+                         "draft:false but hold_reason is still set — resolve the hold, then delete the field"))
+
     if is_published:
         if re.search(r'^archived_url:\s*""\s*$', fm, re.MULTILINE):
-            findings.append(("HEDGE", 0, "archived_url: \"\"", "(frontmatter)",
-                             "draft:false but archived_url empty — archive sources first"))
-        if re.search(r'source_url:\s*"https://www\.facebook\.com/RepLangworthy"', fm):
+            if has_archive_note:
+                # Documented-unarchivable case (login-walled FB, etc.). The
+                # project ships these; archive_note is the honest disclosure.
+                findings.append(("SOFT", 0, 'archived_url: "" (+ archive_note)', "(frontmatter)",
+                                 "empty archive is documented via archive_note — confirm the note names the "
+                                 "preservation artifact (screenshot / transcript on file)"))
+            else:
+                findings.append(("HEDGE", 0, 'archived_url: ""', "(frontmatter)",
+                                 "draft:false, archived_url empty, and no archive_note — archive the source, or "
+                                 "add archive_note explaining why it cannot be archived"))
+        if re.search(r'source_url:\s*"https://www\.facebook\.com/RepLangworthy/?"', fm):
             findings.append(("HEDGE", 0, "generic source_url", "(frontmatter)",
                              "draft:false but source_url is the generic FB page — use the post permalink"))
         if re.search(r"Pre-publish checklist", body):
