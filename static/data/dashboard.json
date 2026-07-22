@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-18",
-  "total": 142,
+  "generated": "2026-07-22",
+  "total": 143,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 40,
-    "MISLEADING": 32,
+    "MISLEADING": 33,
     "DOCUMENTED PATTERN": 27,
     "CONTRADICTION": 13,
     "FALSE": 9,
@@ -21,22 +21,22 @@
     {
       "label": "MISSING CONTEXT",
       "count": 42,
-      "pct": 29.6
+      "pct": 29.4
     },
     {
       "label": "MISLEADING",
-      "count": 32,
-      "pct": 22.5
+      "count": 33,
+      "pct": 23.1
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 27,
-      "pct": 19.0
+      "pct": 18.9
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "label": "FALSE",
@@ -81,6 +81,7 @@
     "Agriculture": 5,
     "Energy": 4,
     "Infrastructure": 4,
+    "Ethics": 3,
     "Environment": 3,
     "Veterans": 3,
     "Foreign Policy": 3,
@@ -89,7 +90,6 @@
     "Housing": 2,
     "Consumer Protection": 2,
     "Animal Welfare": 2,
-    "Ethics": 2,
     "Rule of Law": 2,
     "Social Services": 2,
     "Transportation": 1,
@@ -118,9 +118,16 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 21
+    "2026-07": 22
   },
   "entries": [
+    {
+      "title": "He Says Members \\\"Shouldn't Run From a Briefing to a Broker.\\\" His Bill's Own Sponsor Calls That Framing \\\"Accurate but Misleading.\\",
+      "date": "2026-07-21",
+      "verdict": "MISLEADING",
+      "topic": "Ethics",
+      "url": "/fact-checks/2026-07-21-stock-trading-ban-sell-loophole/"
+    },
     {
       "title": "Canada's Smoke Is Real. Calling It a 'Policy Choice' Is Not What the Science Says.",
       "date": "2026-07-17",

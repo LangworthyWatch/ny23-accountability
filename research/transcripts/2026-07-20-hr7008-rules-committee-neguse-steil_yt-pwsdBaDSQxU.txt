@@ -1,0 +1,162 @@
+Source: YouTube, Aaron Rupar upload of House Rules Committee hearing on H.R. 7008
+URL: https://www.youtube.com/watch?v=pwsdBaDSQxU
+Video ID: pwsdBaDSQxU
+Pulled via: youtube-transcript-api (YouTube's own captions), 2026-07-22
+Hearing: House Rules Committee, July 20, 2026 — testimony of Rep. Bryan Steil (R-WI,
+Chairman, House Administration Committee; sponsor of H.R. 7008) and Rep. Joseph
+Morelle (D-NY, Ranking Member, House Administration Committee), questioned by
+Rep. Joe Neguse (D-CO), a Rules Committee member.
+NOTE: Auto-captions render "Steil" as "Styles" throughout; corrected in entry
+prose to "Steil." Speaker labels below are inferred from context (Neguse's
+questions vs. Steil's/Morelle's answers), not from diarized captions.
+
+Full transcript (auto-captions, lightly reformatted for readability):
+
+Chairman [Foxx] recognizes the gentleman from Colorado, Mr. Neguse, for his time
+of questioning.
+
+NEGUSE: Thank you. Thank you, Mr. Chairman. Thank you, Chairman Steil and Ranking
+Member Morelle, for being here and for your testimony. Chairman Steil, so the name
+of your bill is the Stop Insider Trading Act, correct?
+STEIL: That's correct.
+NEGUSE: Okay. You think that's an accurate description of the bill?
+STEIL: Yeah.
+NEGUSE: Okay. What does trading mean to you?
+STEIL: The buying and selling for profit.
+NEGUSE: The buying and selling for profit. I couldn't agree with you more. I look
+at Webster's dictionary defines it as the business of buying and selling. This
+bill, as you said, bans the buying of individual shares of stock, right?
+STEIL: That's correct.
+NEGUSE: It does not ban the selling.
+STEIL: It reforms the selling, of course. It makes changes.
+NEGUSE: The selling, right? You're allowed to sell as much stock as you would
+like as a member of Congress under this bill. Is that wrong?
+STEIL: I think it's insufficient to describe it that way, but what you said is
+accurate but misleading.
+NEGUSE: Yes.
+STEIL: [confirms]
+NEGUSE: Accurate but misleading, yes.
+STEIL: Correct. Yes, it is accurate.
+NEGUSE: Accurate but misleading, yes. So, let's say there's a Republican senator
+who decides that they're going to sell millions of dollars of stock the week
+before the COVID-19 pandemic begins in earnest. That's legal under your bill,
+right?
+STEIL: Of course, they would have provided a minimum of 7 days advance notice.
+I'm not sure that you could do that in the timeline you just proposed.
+NEGUSE: This isn't a hypothetical. A Republican senator, 7, 8, 9 days before the
+COVID-19 pandemic began in earnest, sold millions of dollars of stock. Under
+this bill, that would not be illegal, right?
+STEIL: But of course, they would provide notice. That's the part that you don't
+want to discuss.
+NEGUSE: [pressing] You could defend it on the merits. You've clearly decided
+that the buying of stock is a practice that you don't believe should be
+permitted by members of Congress. I agree. But for some reason you've decided
+that the sale of individual stocks is completely fine but for the notice
+requirements you've now imposed in this bill, and I don't quite understand that
+disconnect, because there are many bills — including a bill I introduced 7
+years ago with Chip Roy and other members of this body that has 140
+co-sponsors — that would ensure that the sale AND the purchase of stocks is
+banned. And this bill does not do that. I'm just trying to understand why
+you've decided that it's permissible on one end but not the other.
+STEIL: [responds re: preventing profit from insider information; the
+pre-disclosure requirement is meant to make any advance sale "market moving"
+so the profit is eliminated once disclosed]
+NEGUSE: If you're the chairman of the Intel Committee and today you come across
+information that compels you to sell $500,000 worth of stock in a particular
+company that you own, you make that disclosure under the Steil bill, right?
+7 days notice?
+STEIL: Minimum 7.
+NEGUSE: [continues questioning why the same disclosure logic isn't applied to
+purchases] Then why not do that on the purchase?
+STEIL: [explains the bill's rationale: members entering Congress with
+pre-existing holdings — e.g., shares bought before taking office, for a home
+down payment or similar — should be able to divest without being forced to
+hold; the goal is to stop NEW purchases while allowing existing holders to
+sell with advance, market-moving notice]
+NEGUSE: [closing on this point] ...140 members of this body, Republicans and
+Democrats, have clearly, unambiguously said we should ban the sale or purchase
+of stocks, period, full stop. There's a bill by one of the members of this
+committee — I look forward to making an amendment to this bill to consider
+substituting Mr. Roy's bill, which would accomplish what I've described.
+
+[Neguse then asks about scope]
+NEGUSE: Under this bill, can you purchase crypto holdings?
+STEIL: It makes no changes to the House rules in that regard.
+NEGUSE: So current House rules still apply — you're allowed to buy crypto.
+[confirmed] Individual placements — can you do individual placement of stock
+under this bill?
+STEIL: Individual shares of stock, no. Private placements, yes — current House
+rules would apply.
+NEGUSE: Under current House rules, members of Congress can buy crypto holdings,
+and under your bill that does not change, right?
+STEIL: No change.
+NEGUSE: Can buy stocks through private placements, and that does not change?
+STEIL: No change.
+NEGUSE: Can buy industry-specific mutual funds?
+STEIL: That's accurate. No change.
+NEGUSE: Can buy bonds?
+STEIL: [confirms]
+
+[Prediction markets]
+NEGUSE: The House Administration Committee has jurisdiction over member
+participation in prediction markets, right? You're the chair, you've got
+principal jurisdiction.
+STEIL: Yes.
+NEGUSE: Four months ago, the United States Senate, on a bipartisan basis, on a
+voice vote, said no senator is allowed to make bets on prediction markets —
+every Republican, every Democrat agreed to it. Why can't we? We could do a
+one-page resolution, cut and paste the Senate resolution, and pass it
+tomorrow. Will you help us with that?
+STEIL: Yes, I've been supportive of making restrictions on prediction markets...
+NEGUSE: Why isn't it in this bill?
+STEIL: We have two different pieces of legislation moving; prediction markets
+are reasonably new and novel...
+MORELLE: [interjecting] We can do it by resolution, apply it to House members
+and their families/dependents, exactly what the Senate did. The alternative is
+to do it in a bill, which isn't even in front of us for reasons that completely
+escape my understanding. There should be a provision in this bill, as bad as
+this bill is, [for] prediction markets. But yes, to your point, we could do a
+resolution today.
+
+[Voter ID / Section 3]
+NEGUSE: I want to ask about the vote — the "Save Vote Act," or [asking for the
+correct title] — what's this new version called? The voter ID, or Section 3
+of the bill?
+STEIL: [confirms it is voter ID / Section 3]
+NEGUSE: My understanding is that in Wisconsin, voters approved by constitutional
+amendment essentially a codification of the voter ID law already on the books.
+STEIL: That's accurate.
+NEGUSE: NCSL has described Wisconsin's constitutional measure — same as the
+statutory measure — as the most restrictive in the country. Have you seen
+that?
+STEIL: I haven't seen that term, but it's a reasonably good photo ID law.
+NEGUSE: Reasonably good photo ID law. Under that law, you can use a college ID.
+STEIL: [confirms]
+NEGUSE: And under your bill, you can't.
+STEIL: Correct.
+NEGUSE: I'm trying to understand why, if that "reasonably good" standard is
+good enough for your own constituents in Wisconsin — many of whom comply with
+what's been described as the most strict voter ID law in the country by using
+a college ID — their own congressman is championing a bill that would tell
+them they no longer can do that.
+STEIL: Universities across the country, including in my home state, issue IDs
+to non-citizens, including illegal immigrants — as do many states, including
+Illinois with driver's licenses. This is a standard to protect the integrity
+of elections, and we believe the best way to do that is through the forms of
+ID listed in the bill.
+NEGUSE: So the Wisconsin standard you called "reasonably good" five minutes ago
+doesn't meet the bar here at the federal level?
+STEIL: The Wisconsin standard is way better than a lot of other states — a lot
+of states have nothing. Minnesota, for instance, lets you vouch for eight
+people; I think that's disastrous.
+NEGUSE: What's the cure period under this bill if you vote provisionally
+without photo ID?
+STEIL: [after some back-and-forth] 72 hours / 3 days.
+NEGUSE: And if you don't cure within that window, your vote doesn't count?
+STEIL: Correct, you would not have cured your ballot.
+NEGUSE: Do you know what that cure period is in Wisconsin?
+STEIL/MORELLE: It's a lot longer — Wisconsin also has many weeks of early
+voting, so a voter could go in person, day after day, to fix it.
+NEGUSE: [closing] I believe Colorado has the gold standard, but if [72 hours]
+is good enough for the people of Wisconsin... [time expires]
+CHAIR: Gentleman yields back.
