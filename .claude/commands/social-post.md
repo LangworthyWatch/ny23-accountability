@@ -44,11 +44,19 @@ This command exists so social posts start from the canonical format instead of b
    ```
    `save()` auto-rejects em dashes in rendered text and drops a Desktop copy. Keep the card scannable — the caption carries the detail; the card carries the punch.
 
-5. **Commit** the card script + PNG and the post `.md` (house practice), EXCEPT do **not** commit third-party/AP-copyrighted photos or composites built from them (milestone/photo cards stay on the Desktop only). Then present the caption (with its character count) and the card image to the user.
+5. **Card audit (required, before committing).** Read the actual rendered PNG (not just the script) and check it against the two strongest house precedents — `beagle_count_contrast_card.png` (30 vs. 0) and `shared_earmarks_card.png` (54%/46% split bar + $17.7M/$14.9M). Both lead with one **big glanceable number**, not paragraphs. Verify:
+   - **Stat-first, not quote-dense.** Is there one number, percentage, or two-word contrast a reader gets in ~2 seconds without reading a full sentence? If the card's main content is quote panels or prose blocks with no hero stat, that's a fail — find the number in the entry (a count, a dollar gap, a day-count, a percentage) and redesign around it; demote the quotes to short supporting snippets underneath.
+   - **No dead space.** Look at the gap between the last content block and the footer bar. A large empty gray band means spacing wasn't distributed — enlarge panels/gaps proportionally (see the two Chautauqua-card iterations in git history for the before/after) rather than leaving it.
+   - **Color logic.** Red/green (or red/navy) panels signal an adversarial contrast (claim vs. reality); plain navy-outlined panels signal parallel/chronological items (same thing said twice). Gold is for the verdict-reinforcing callout, not a primary panel color.
+   - **Verdict badge and every rendered figure match the published entry** (re-check against the frontmatter, not memory).
+   If any check fails, revise and re-render before moving to step 6 — don't present or commit a card that hasn't passed this pass.
+
+6. **Commit** the card script + PNG and the post `.md` (house practice), EXCEPT do **not** commit third-party/AP-copyrighted photos or composites built from them (milestone/photo cards stay on the Desktop only). Then present the caption (with its character count) and the card image to the user.
 
 ## Guardrails
 - Verdict labels match the published entry, always.
 - No em dashes in rendered card text or caption body (the toolkit enforces the card; grep the caption).
 - Caption <= 2200 characters.
 - Quotes attributed to a named person need confirmed authorship (failure mode #6).
+- Every card passes the Step 5 audit (stat-first, no dead space, correct color logic) before it's committed or shown to the user.
 - Present, don't auto-post — the user posts to Facebook themselves.
