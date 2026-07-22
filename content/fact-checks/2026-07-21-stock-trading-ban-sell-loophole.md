@@ -108,20 +108,27 @@ under the bill's own notice-based framework would not have been prevented by
 it, per Steil's own answer in the same exchange ("of course, they would have
 provided a minimum of 7 days advance notice").
 
-**5. The bill Langworthy is promoting also carries a Voter ID rider, unrelated
-to stock trading, that his post does not mention.** The version of H.R. 7008
-teed up for the floor also incorporates voter-ID provisions (referred to in
-the hearing as "Section 3" / the Voter ID Act). Steil confirmed under
-questioning that the bill's photo-ID standard is stricter than his own home
-state's: Wisconsin's constitutional voter-ID law (which he called "reasonably
-good") accepts a college ID, but the bill's federal standard does not. Rep.
-Alexandria Ocasio-Cortez (D-NY) publicly objected to this pairing the same
-week, writing that Republicans "say we are voting on an 'insider trading'
-bill, but have snuck in massive SAVE Act-style voter suppression measures to
-it," and announcing she would vote no. The House approved the procedural rule
-bundling both measures, H.Res. 1438, by a **214-211** vote (Roll Call No. 254, July 21, 2026, 2:39 PM).
-Langworthy's video does not mention the voter-ID provisions at all — the post
-is framed entirely as a clean anti-corruption message.
+**5. The bill Langworthy is promoting also carries a Voter ID mandate, unrelated
+to stock trading, that his post does not mention — and this is not a separate
+bill folded in by the floor rule, it is literally Section 3 of the same
+document.** This site pulled the actual bill text: the House Rules Committee
+Print of H.R. 7008 (RCP2, July 17, 2026) contains, verbatim, **"SEC. 3.
+REQUIRING VOTERS TO PROVIDE PHOTO IDENTIFICATION,"** adding a new Section 303A
+to the Help America Vote Act of 2002. Sections 1-2 are the stock-trading
+restrictions; Section 3 is the photo-ID mandate — one bill, one document.
+The accepted forms of ID it lists are a state driver's license or ID card, a
+U.S. passport, a DoD or VA photo ID, and tribal ID — **no college ID**, which
+matches what Steil confirmed under questioning: the bill's federal photo-ID
+standard is stricter than his own home state's. Wisconsin's constitutional
+voter-ID law (which he called "reasonably good") accepts a college ID; this
+bill's standard does not. Rep. Alexandria Ocasio-Cortez (D-NY) publicly
+objected to this pairing the same week, writing that Republicans "say we are
+voting on an 'insider trading' bill, but have snuck in massive SAVE Act-style
+voter suppression measures to it," and announcing she would vote no. The
+House approved the procedural rule for floor consideration, H.Res. 1438, by a
+**214-211** vote (Roll Call No. 254, July 21, 2026, 2:39 PM). Langworthy's
+video does not mention Section 3 at all — the post is framed entirely as a
+clean anti-corruption message.
 
 **6. Also unaddressed by the bill, per the same hearing:** members remain
 free to bet on prediction markets. The Senate banned that practice for its
@@ -176,6 +183,7 @@ sponsor's own on-record description of the same provision.
 * House Rules Committee, July 20, 2026 hearing (Steil/Morelle testimony, Neguse questioning) — video: [YouTube (Aaron Rupar upload)](https://www.youtube.com/watch?v=pwsdBaDSQxU) — archived: [Wayback](https://web.archive.org/web/20260722114014/https://www.youtube.com/watch?v=pwsdBaDSQxU)
 * This site's transcript of the hearing: `research/transcripts/2026-07-20-hr7008-rules-committee-neguse-steil_yt-pwsdBaDSQxU.txt`
 * AOC statement on the bundled bill (X/Twitter, July 21, 2026), reported via [2paragraphs.com](https://2paragraphs.com/2026/07/aoc-accuses-republicans-of-hiding-save-act-measure-in-insider-trading-bill-trying-to-pull-a-trick/)
+* Bill text (primary): [House Rules Committee Print of H.R. 7008 (RCP2, July 17, 2026)](https://docs.house.gov/billsthisweek/20260720/RCP2_STOPINSIDERTRADING_xml.pdf) - Sections 1-2 are the stock-trading restrictions, Section 3 is "Requiring Voters to Provide Photo Identification" (new HAVA Sec. 303A) - archived: [Wayback](http://web.archive.org/web/20260719234438/https://docs.house.gov/billsthisweek/20260720/RCP2_STOPINSIDERTRADING_xml.pdf)
 * Procedural rule vote (primary): [congress.gov H.Res. 1438](https://www.congress.gov/bill/119th-congress/house-resolution/1438) - agreed to by recorded vote, 214-211, Roll Call No. 254, July 21, 2026, 2:39 PM - archived: [Wayback](https://web.archive.org/web/20260722115142/https://www.congress.gov/bill/119th-congress/house-resolution/1438)
 * Bill actions/status confirming no final-passage vote as of this entry's last update (primary): [congress.gov H.R. 7008, all actions](https://www.congress.gov/bill/119th-congress/house-bill/7008/all-actions) - archived: [Wayback](https://web.archive.org/web/20260722115023/https://www.congress.gov/bill/119th-congress/house-bill/7008/all-actions)
 
