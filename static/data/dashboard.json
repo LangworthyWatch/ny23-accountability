@@ -1,9 +1,9 @@
 {
   "generated": "2026-07-22",
-  "total": 143,
+  "total": 144,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 40,
+    "MISSING CONTEXT": 41,
     "MISLEADING": 33,
     "DOCUMENTED PATTERN": 27,
     "CONTRADICTION": 13,
@@ -20,28 +20,28 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 42,
-      "pct": 29.4
+      "count": 43,
+      "pct": 29.9
     },
     {
       "label": "MISLEADING",
       "count": 33,
-      "pct": 23.1
+      "pct": 22.9
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 27,
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "label": "FALSE",
       "count": 9,
-      "pct": 6.3
+      "pct": 6.2
     },
     {
       "label": "MOSTLY TRUE",
@@ -70,7 +70,7 @@
     }
   ],
   "by_topic": {
-    "Healthcare": 20,
+    "Healthcare": 21,
     "Government Operations": 15,
     "Economy": 15,
     "Other": 10,
@@ -118,9 +118,16 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 22
+    "2026-07": 23
   },
   "entries": [
+    {
+      "title": "The $1M Chautauqua Mental-Health Grant: The County Won It by Applying. A Congressman Doesn't Pick the Winner.",
+      "date": "2026-07-21",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-07-17-chautauqua-mental-health-grant-credit/"
+    },
     {
       "title": "He Says Members \\\"Shouldn't Run From a Briefing to a Broker.\\\" His Bill's Own Sponsor Calls That Framing \\\"Accurate but Misleading.\\",
       "date": "2026-07-21",

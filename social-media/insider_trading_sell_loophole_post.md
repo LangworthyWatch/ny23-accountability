@@ -14,7 +14,7 @@ Here's what H.R. 7008 (Stop Insider Trading Act), the bill Langworthy cosponsors
 → Bans buying new individual stock.
 → Does not ban selling. Members can sell as much as they want, with 7 days' notice.
 → Crypto, private-placement stock, industry mutual funds, and bonds: all untouched.
-→ The same bill carries Voter ID provisions stricter than Steil's own home state of Wisconsin, unmentioned in Langworthy's post. AOC called the pairing "a trick."
+→ Section 3 of that same bill text is a Voter ID mandate, stricter than Steil's own home state of Wisconsin, unmentioned in Langworthy's post. AOC called it "a trick."
 
 Rep. Neguse pressed the sponsor further: a Republican senator sold millions in stock 7 to 9 days before COVID hit in earnest. Under this bill, that stays legal, with notice.
 
