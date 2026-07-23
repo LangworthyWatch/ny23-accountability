@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 17, 2026*
+*Last updated: July 22, 2026*
 
 ---
 
@@ -16,12 +16,13 @@
 
 ---
 
-## Content: 142 Fact-Checks Published
+## Content: 144 Fact-Checks Published
 
 ### Topics Covered
 
 | Series / Topic | Entries | Status |
 |---|---|---|
+| July 21-22 Facebook-post batch (transcript-verified) | 2 | Complete 2026-07-22 — Stock trading ban sell-loophole (MISLEADING: H.R. 7008 cosponsor bans buying, not selling; bill sponsor Steil conceded "accurate but misleading" at the Rules Cmte. hearing; Section 3 Voter ID rider confirmed against the actual RCP2 bill text); Chautauqua mental-health grant announced twice, 1,037 days apart (MISSING CONTEXT, resolved from a 7/17 draft). Both used direct video/hearing transcription (yt-dlp+Whisper, youtube-transcript-api) rather than news paraphrase |
 | July 16-17 Facebook-post batch (transcript-verified) | 8 | Complete 2026-07-17 — Nick Shirley fraud-video amplification (MISSING CONTEXT), Canada wildfire smoke "policy choice" (MISLEADING), BUSES Act (MOSTLY TRUE), critical-minerals hearing (MOSTLY TRUE), biosimilars H.R. 9661 (MOSTLY TRUE), FFA/CAREERS Act (MOSTLY TRUE), Allegany water 3rd-announcement (DOCUMENTED PATTERN), rural-health-fund Centralus repeat (MISSING CONTEXT). Established FB-reel + YouTube transcription workflow (yt-dlp + Whisper / youtube-transcript-api); transcripts under research/transcripts/ |
 | Rules Committee gatekeeper (synthesis: Medicaid, tariffs, veterans, Epstein) | 1 | Complete 2026-07-16 (DOCUMENTED PATTERN); Epstein oversight-record entry also expanded w/ full vote + attendance record |
 | NY Utility Rates (data investigation) | 12 | Complete |
@@ -60,6 +61,8 @@ MISLEADING (most common) · MISSING CONTEXT · CONTRADICTION · DOCUMENTED PATTE
 Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posting.
 
 **Card toolkit (added July 2026):** new cards import `social-media/lib/card.py` — shared house-style primitives (brand bar, gold verdict badge, panel, bulleted column, kicker, footer, photo hero), logical-1080 coordinates with optional supersampling, and an em-dash guard in `save()`. The `/social-post` command builds a caption + card together in the scorecard format (headline-first, verdict-matched) with the ≤2200-char and em-dash checks. Canonical cards are **light 1080×1080**; the "1200×1100" spec below is legacy.
+
+**Card audit step (added 2026-07-22):** `/social-post` Step 5 now requires reading the actual rendered PNG and checking it against the two strongest precedent cards (`beagle_count_contrast_card.png`, `shared_earmarks_card.png`) for stat-first design (one big glanceable number, not quote-dense panels), no dead space before the footer, and correct color logic. Added after a first-pass Chautauqua-grant card led with two paragraph-of-quotes panels and had to be redesigned around a hero stat ("1,037 days apart"). New scripts: `create_insider_trading_sell_loophole_card.py`, `create_chautauqua_grant_repeat_card.py`.
 
 **Standard format:**
 - Size: 1200 × 1100–1220px
