@@ -72,7 +72,7 @@ c.text(c.w / 2, y + 30, "He sits on the Oversight Committee.",
        size=25, bold=True, fill=WHITE, anchor="mm")
 c.text(c.w / 2, y + 62, "The committee that investigates federal agencies. He is in the majority.",
        size=16, fill="#CBD5E0", anchor="mm")
-c.text(c.w / 2, y + 92, "Sixteen senators had to send a letter. He could call a hearing.",
+c.text(c.w / 2, y + 92, "Twelve senators had to send a letter. He could call a hearing.",
        size=18, bold=True, fill=GOLD, anchor="mm")
 c.text(c.w / 2, y + 115, "No hearing request, committee letter, or statement located.",
        size=15, fill="#93A9C4", anchor="mm")
@@ -87,7 +87,7 @@ y += 50
 
 # ── Sources + URL ──
 c.text(c.w / 2, y + 6,
-       "Sources: clerk.house.gov  ·  DoD Inspector General  ·  VA Workforce Dashboard  ·  VBA  ·  16-senator letter",
+       "Sources: clerk.house.gov  ·  DoD Inspector General  ·  VA Workforce Dashboard  ·  VBA  ·  12-senator letter",
        size=13, fill=MUTED, anchor="mm")
 c.text(c.w / 2, y + 28, "langworthywatch.org", size=17, bold=True, fill=NAVY, anchor="mm")
 

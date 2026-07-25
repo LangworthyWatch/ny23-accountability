@@ -98,7 +98,7 @@ On **July 20, 2026**, chief Pentagon spokesman Sean Parnell said that "nearly 10
 
 On **July 21**, the Defense Casualty Analysis System — the Department's official public casualty database — showed **zero wounded in action for the month of July**. It listed 14 killed, against 18 deaths that had been publicly reported.
 
-On **July 23**, sixteen senators wrote to Secretary Hegseth. The signers include **Sen. Kirsten Gillibrand of New York**, along with Hirono, Reed, Shaheen, Duckworth, Blumenthal, Kelly, Warren, Peters, Kaine, Rosen and Slotkin. Their letter states:
+On **July 23**, twelve senators wrote to Secretary Hegseth. The signers include **Sen. Kirsten Gillibrand of New York**, along with Hirono, Reed, Shaheen, Duckworth, Blumenthal, Kelly, Warren, Peters, Kaine, Rosen and Slotkin. Their letter states:
 
 > "We are concerned that DCAS is not being maintained at the granular level and calls into serious question the completeness and reliability of the aggregate totals."
 
@@ -167,7 +167,7 @@ The **Blast Overpressure Safety Act** (H.R. 8025, 118th Congress) would have req
 
 That Congress was still legislating in July 2026 to *create* per-service-member TBI logs is itself the clearest evidence that they do not yet exist.
 
-*Sources: Letter from 16 U.S. Senators to Secretary of War Hegseth, Jul. 23, 2026; Stars and Stripes, Jul. 21, 2026; ABC News, Jul. 24, 2026; DODIG-2022-006, Nov. 2021; DODIG-2023-059, Mar. 2023; DCPD-202000008 and DCPD-202000032; GPO BILLSTATUS for H.R. 8025 (118th); H.R. 8800 §756; clerk.house.gov Roll Call 278; Roll Call, Jul. 20, 2026 (VA Polytrauma Registry).*
+*Sources: Letter from 12 U.S. Senators to Secretary of War Hegseth, Jul. 23, 2026; Stars and Stripes, Jul. 21, 2026; ABC News, Jul. 24, 2026; DODIG-2022-006, Nov. 2021; DODIG-2023-059, Mar. 2023; DCPD-202000008 and DCPD-202000032; GPO BILLSTATUS for H.R. 8025 (118th); H.R. 8800 §756; clerk.house.gov Roll Call 278; Roll Call, Jul. 20, 2026 (VA Polytrauma Registry).*
 
 ---
 
@@ -319,7 +319,7 @@ Consider what that means against the record documented above:
 
 Every one of those is a federal agency performance question. That is the Oversight Committee's subject matter.
 
-**Sixteen senators wrote a letter instead.** They are in the minority, in the other chamber, and they cannot compel an answer. A majority member of House Oversight can request a hearing, sign a committee letter, or put the question to a witness under oath.
+**Twelve senators wrote a letter instead.** They are in the minority, in the other chamber, and they cannot compel an answer. A majority member of House Oversight can request a hearing, sign a committee letter, or put the question to a witness under oath.
 
 **We found no public record of Langworthy doing any of those things** on casualty reporting, VA staffing, the claims backlog, or TBI tracking. We searched all 436 press releases in his House archive, his committee pages, and the Congressional Record. He has issued no statement, and we located no committee letter bearing his name on any of it.
 
@@ -339,7 +339,7 @@ On **May 24, 2026**, Langworthy told AM 1480 WLEA in Hornell:
 
 In the same period he cast seven votes against ending an unauthorized war, seven votes preserving the benefit offsets in H.R. 9237, and **made no floor remarks in the entire H.R. 9237 debate.** His office issued **no press release** on veterans, the VA, or any veterans measure between May and July 2026. His official veterans issue page's most recent tagged item is from **August 25, 2025**. There was no Memorial Day release.
 
-On **July 23, 2026** — the same day the House passed its second resolution to end the war, and the same day sixteen senators questioned the casualty count — he posted about veterans:
+On **July 23, 2026** — the same day the House passed its second resolution to end the war, and the same day twelve senators questioned the casualty count — he posted about veterans:
 
 {{< figure src="/images/fact-checks/2026-07-25-vva-meeting-post.png" alt="Facebook post from the verified page of Congressman Nick Langworthy dated July 23 at 1:00 PM, reading: It was an honor to meet with the Vietnam Veterans of America in DC. We talked about important issues facing those who served, from toxic exposure to improving the VA. I thank these heroes, and to every man and woman who wore the uniform, for serving the greatest nation on earth." caption="Facebook, verified official page, July 23, 2026. The post is login-walled and has no Wayback capture; this screenshot is the preservation artifact." >}}
 
@@ -369,7 +369,7 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 
 **Documented:**
 - Seven votes against ending hostilities Congress never authorized; two of those measures passed the House anyway, and one passed the Senate as well.
-- The Pentagon's published wounded count fell while officials described roughly 100 new injuries; sixteen senators, including New York's, have formally questioned it.
+- The Pentagon's published wounded count fell while officials described roughly 100 new injuries; twelve senators, including New York's, have formally questioned it.
 - The Defense Department's own Inspector General found TBI reporting failures after the last Iran strike and warned they could cost service members VA benefits.
 - Seven votes preserving offsets that tighten future disability ratings for sleep apnea and tinnitus and raise VA home loan fees; the decisive motion failed by one vote.
 - ~2,400 VA probationary employees dismissed in February 2025; vacancies then left unfilled by policy; 1,102 fewer VBA claims examiners; 67,849 claims beyond 125 days.
@@ -390,9 +390,9 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 
 ## Verdict: DOCUMENTED PATTERN
 
-The United States is producing new veterans in an operation Congress has twice voted to end and never authorized. The count of who is being hurt in it is formally disputed by sixteen senators, and the Pentagon's own published numbers went down. The disability ratings those service members will one day claim under are the ones H.R. 9237 would tighten, and Langworthy voted seven times to keep that provision alive, including on a motion that failed by a single vote. The VA workforce that will process their claims is smaller by policy, and the research that would prove what this war did to them is budgeted to shrink again.
+The United States is producing new veterans in an operation Congress has twice voted to end and never authorized. The count of who is being hurt in it is formally disputed by twelve senators, and the Pentagon's own published numbers went down. The disability ratings those service members will one day claim under are the ones H.R. 9237 would tighten, and Langworthy voted seven times to keep that provision alive, including on a motion that failed by a single vote. The VA workforce that will process their claims is smaller by policy, and the research that would prove what this war did to them is budgeted to shrink again.
 
-**And he sits on the committee that investigates exactly this.** A majority member of House Oversight, at a moment when a federal department's own casualty database contradicts its own spokesman, has tools that sixteen senators in the minority do not: hearings, subpoenas, witnesses under oath. He has used committee power decisively before, sponsoring and floor-managing a closed rule to move an arms bill. On this, we found no hearing request, no committee letter, and no public statement.
+**And he sits on the committee that investigates exactly this.** A majority member of House Oversight, at a moment when a federal department's own casualty database contradicts its own spokesman, has tools that twelve senators in the minority do not: hearings, subpoenas, witnesses under oath. He has used committee power decisively before, sponsoring and floor-managing a closed rule to move an arms bill. On this, we found no hearing request, no committee letter, and no public statement.
 
 Rep. Langworthy voted to increase toxic exposure funding and for the appropriations bill that raised VA research above last year's level. He has said nothing publicly about any of the rest.
 
@@ -411,7 +411,7 @@ Rep. Langworthy voted to increase toxic exposure funding and for the appropriati
 
 - House Clerk roll call XML, rolls 85, 114, 170, 199, 201, 232, 282 (2026): <https://clerk.house.gov/evs/2026/>
 - U.S. Senate Roll Call Vote 184, Jun. 23, 2026 (H.Con.Res. 86): <https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm>
-- Letter from 16 U.S. Senators to Secretary Hegseth on casualty reporting, Jul. 23, 2026
+- Letter from 12 U.S. Senators to Secretary Hegseth on casualty reporting, Jul. 23, 2026
 - DoD Inspector General, DODIG-2022-006, "Evaluation of Traumatic Brain Injuries in the U.S. Central Command Area of Responsibility," Nov. 3, 2021: <https://www.dodig.mil/>
 - H.R. 9237 as introduced: <https://www.govinfo.gov/content/pkg/BILLS-119hr9237ih/html/BILLS-119hr9237ih.htm>
 - House Rules Committee record votes: <https://rules.house.gov/bill/119/hr-9237>
