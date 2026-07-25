@@ -296,7 +296,42 @@ A **July 18, 2025 letter** from Senators Blumenthal, Murray and Gallego to Secre
 
 ---
 
-## F. The Representation Gap
+## F. He Sits on the Committee That Investigates This
+
+*This is the part that distinguishes a member who voted a certain way from a member who holds the power to do something about it.*
+
+Per the House Clerk's official member roster, Rep. Langworthy holds three committee assignments in the 119th Congress:
+
+| Committee | His rank | Note |
+|---|---|---|
+| **Committee on Oversight and Government Reform** | 20 | The House's government-wide investigative committee |
+| Committee on Energy and Commerce | 25 | Including the **Health** subcommittee |
+| Committee on Rules | 6 | **Chairs** the Subcommittee on Legislative and Budget Process |
+
+**The Oversight Committee exists to investigate how federal agencies perform.** It is the committee with the broadest investigative jurisdiction in the House, and Langworthy sits on it as a member of the **majority** — the party that controls its hearing schedule, its witness list, and its subpoena power.
+
+Consider what that means against the record documented above:
+
+- The Defense Department's public casualty database showed **zero wounded** for July while its own chief spokesman described roughly 100 injuries.
+- Then the published death toll was **revised downward**, from 18 to 14, and the wounded count from 482 to 420, and left uncorrected.
+- The Department's own Inspector General has twice found it cannot accurately track traumatic brain injuries, and has not received required reports from Central Command **since October 2014**.
+- VA's claims workforce shrank by 1,102 examiners while its Secretary told appropriators there was "no hiring freeze of anybody" — a statement in tension with VA's own internal guidance and with field testimony collected by a Senate committee.
+
+Every one of those is a federal agency performance question. That is the Oversight Committee's subject matter.
+
+**Sixteen senators wrote a letter instead.** They are in the minority, in the other chamber, and they cannot compel an answer. A majority member of House Oversight can request a hearing, sign a committee letter, or put the question to a witness under oath.
+
+**We found no public record of Langworthy doing any of those things** on casualty reporting, VA staffing, the claims backlog, or TBI tracking. We searched all 436 press releases in his House archive, his committee pages, and the Congressional Record. He has issued no statement, and we located no committee letter bearing his name on any of it.
+
+**This is not a claim that he is a passive member.** The opposite is documented. In May 2024 he personally sponsored H.Res. 1227, the closed rule governing an Israel arms bill, reported it from the Rules Committee, and floor-managed it himself. He chairs a Rules subcommittee. He knows how to use an institutional lever when he wants a result.
+
+**In fairness:** rank 20 is junior, and a junior member does not set a committee's agenda. Oversight is also not the *primary* committee for these questions — Armed Services handles military casualty policy and Veterans' Affairs handles VA operations, and he sits on neither. What Oversight has is general investigative jurisdiction over executive branch performance, which is precisely what is in question here.
+
+*Source: U.S. House Clerk, official Member Data roster (comcodes GO00, IF00, RU00; subcommittee RU02, leadership "Chair"): <https://clerk.house.gov/xml/lists/MemberData.xml>*
+
+---
+
+## G. The Representation Gap
 
 On **May 24, 2026**, Langworthy told AM 1480 WLEA in Hornell:
 
@@ -323,6 +358,8 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 | How many Bath VA employees were dismissed in Feb. 2025 | VA has said only "a small number" |
 | Whether VA facilities in NY-23 are operating under FTE caps today | Not disclosed at facility level |
 | Why no veterans communication was issued May–July 2026 | Unexplained |
+| Whether he has raised the casualty-reporting discrepancy in the Oversight Committee | No hearing request, committee letter, or statement located |
+| Whether he has raised VA staffing caps or the claims backlog in Oversight | None located |
 | Whether he will sign the discharge petition on the Major Richard Star Act | Has not signed; 215 of 218 signatures |
 | CBO score for H.R. 9237 | Does not exist; no markup, no committee report |
 
@@ -354,6 +391,8 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 ## Verdict: DOCUMENTED PATTERN
 
 The United States is producing new veterans in an operation Congress has twice voted to end and never authorized. The count of who is being hurt in it is formally disputed by sixteen senators, and the Pentagon's own published numbers went down. The disability ratings those service members will one day claim under are the ones H.R. 9237 would tighten, and Langworthy voted seven times to keep that provision alive, including on a motion that failed by a single vote. The VA workforce that will process their claims is smaller by policy, and the research that would prove what this war did to them is budgeted to shrink again.
+
+**And he sits on the committee that investigates exactly this.** A majority member of House Oversight, at a moment when a federal department's own casualty database contradicts its own spokesman, has tools that sixteen senators in the minority do not: hearings, subpoenas, witnesses under oath. He has used committee power decisively before, sponsoring and floor-managing a closed rule to move an arms bill. On this, we found no hearing request, no committee letter, and no public statement.
 
 Rep. Langworthy voted to increase toxic exposure funding and for the appropriations bill that raised VA research above last year's level. He has said nothing publicly about any of the rest.
 
