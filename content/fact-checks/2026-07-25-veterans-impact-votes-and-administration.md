@@ -2,15 +2,15 @@
 title: "Making Veterans Faster Than We Care For Them: The War, the Count, and the System Waiting for Them"
 date: 2026-07-25
 draft: true
-hold_reason: "Four items. (1) Send the standard request for comment to Langworthy's office on the seven war powers votes, the seven H.R. 9237 votes, and the absence of veterans communication in the May-July 2026 window. (2) The Hirono letter response is due July 30, 2026; update Section B once DoD answers or fails to. (3) Pull the Statement of Administration Policy on H.R. 9237, currently search-result-only. (4) Run scripts/archive_sources.sh."
+hold_reason: "Five items. (1) Send the standard request for comment to Langworthy's office on the seven war powers votes, the seven H.R. 9237 votes, the section 104(b) loan fee increases against the decade-high VA foreclosure rate, and the absence of veterans communication in the May-July 2026 window. (2) The Hirono letter response is due July 30, 2026; update Section B once DoD answers or fails to. (3) Pull the Statement of Administration Policy on H.R. 9237, currently search-result-only. (4) The 10,000 foreclosure figure is ICE Mortgage Technology data as reported by NPR on April 2, 2026 and is now three months stale; refresh it before publish, and check whether ICE or VA has issued a post-June-15 figure now that the Partial Claim Program has launched. (5) Run scripts/archive_sources.sh."
 topic: "Veterans"
 claim_date: "February 2025 – July 2026"
-source: "House and Senate roll calls, GPO bill text, DoD IG, VA budget submissions, VA Workforce Dashboard, Senate Veterans' Affairs Committee, VA OIG"
+source: "House and Senate roll calls, GPO bill text and BILLSTATUS, DoD IG, Senate casualty-reporting letter, VA budget submissions, VA Workforce Dashboard, VA Loan Guaranty circulars, Senate Veterans' Affairs Committee, VA OIG, ICE Mortgage Technology data via NPR"
 source_url: "https://clerk.house.gov/Votes/2026282"
 archived_url: ""
 archive_note: "Federal sources are live at stable institutional URLs (clerk.house.gov, senate.gov, govinfo.gov, dodig.mil, department.va.gov, veterans.senate.gov). The July 23, 2026 Facebook post is login-walled with no Wayback capture; the preservation artifact is the screenshot at static/images/fact-checks/2026-07-25-vva-meeting-post.png, captured from the verified official page. Wayback captures pending via scripts/archive_sources.sh."
 verdict: "DOCUMENTED PATTERN"
-tags: ["veterans", "war-powers", "iran", "hr9237", "va-staffing", "va-research", "tbi", "casualty-reporting", "toxic-exposure", "rules-committee", "pattern"]
+tags: ["veterans", "war-powers", "iran", "hr9237", "va-staffing", "va-research", "tbi", "casualty-reporting", "toxic-exposure", "rules-committee", "va-home-loans", "foreclosure", "vasp", "pattern"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
 
@@ -18,15 +18,16 @@ counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler
 
 Every war produces veterans. The question a district like this one should ask is whether the system that will care for them is being built up or worn down at the same time the war is producing them.
 
-Between February 2025 and July 2026, five things happened at once:
+Between February 2025 and July 2026, six things happened at once:
 
-1. American forces entered a conflict with Iran that Congress never authorized, and that the House twice voted to end.
+1. American forces entered a conflict with Iran that Congress never authorized, that the House twice voted to end, and that the administration declared "terminated" in May while the strikes continued.
 2. The Defense Department's public count of wounded service members went **down** while officials described roughly a hundred new injuries.
 3. A bill advanced that would tighten the disability ratings future claimants receive for two of the most commonly claimed conditions.
-4. The VA workforce that processes those claims shrank, with facilities barred from refilling vacancies.
-5. VA research staffing — the thing that eventually proves a war made people sick — declined for the second straight year.
+4. VA cancelled the backstop that kept veterans behind on VA-backed mortgages out of foreclosure, and took thirteen months to stand up the replacement Congress authorized. Foreclosures on VA loans hit their highest rate in a decade.
+5. The VA workforce that processes disability claims shrank, with facilities barred from refilling vacancies.
+6. VA research staffing — the thing that eventually proves a war made people sick — declined for the second straight year.
 
-Rep. Langworthy cast recorded votes on the first, third, and fifth. This page documents all five, and it documents the places where the criticism of him is wrong.
+Rep. Langworthy cast recorded votes on the first, third, and sixth. This page documents all six, and it documents the places where the criticism of him is wrong — including on the fourth, where there is no vote of his to point to at all.
 
 ---
 
@@ -52,7 +53,7 @@ Rep. Langworthy cast recorded votes on the first, third, and fifth. This page do
 
 ## A. The War That Is Making the Next Generation of Veterans
 
-Operation Epic Fury began **February 28, 2026**. It is ongoing. A ceasefire period collapsed in early July, and Central Command conducted a further wave of strikes on **July 13, 2026**.
+Operation Epic Fury began **February 28, 2026**. American forces are still striking Iran today, though whether that is legally the *same* operation is now contested by the administration itself — see "The operation was declared over in May" below. A ceasefire period collapsed in early July, and Central Command conducted a further wave of strikes on **July 13, 2026**.
 
 **There is no authorization for the use of military force covering it.** The administration relies on the President's Article II authority and on the 60-day window in the War Powers Resolution.
 
@@ -84,7 +85,32 @@ The vehicle that *would* bind — a **joint** resolution — was voted on repeat
 
 Whether the concurrent resolutions bind is genuinely contested — Rep. Gregory Meeks argued on the floor that the measure *is* binding under the War Powers Resolution; the administration regards the War Powers Resolution itself as unconstitutional. We report the dispute rather than resolve it.
 
-*Sources: clerk.house.gov roll call XML for rolls 85, 114, 170, 199, 201, 232, 282; senate.gov Vote 184 (Jun. 23, 2026); INS v. Chadha, 462 U.S. 919 (1983).*
+### The operation was declared over in May, and the strikes continued
+
+This is the part that connects the votes above to the casualty count below, and it has not been widely reported as a single sequence.
+
+| Date | What happened |
+|---|---|
+| May 1, 2026 | In a letter to Congress, President Trump wrote that Operation Epic Fury had been **"terminated"** |
+| May 5, 2026 | Secretary of State Marco Rubio told reporters at a White House briefing that Epic Fury **"was over"** |
+| June 2026 | The U.S. and Iran signed a memorandum of understanding opening a 60-day negotiating period |
+| July 6, 2026 | The ceasefire collapsed; near-daily airstrikes resumed |
+
+U.S. strikes conducted since the May declaration are, per a U.S. official quoted by ABC News, "referred to as 'overseas operations'" — which ABC noted "would be an unconventional label for a war."
+
+**Why this bears on the seven votes.** The War Powers Resolution's 60-day clock runs from the introduction of forces into hostilities. If the fighting that resumed in July is a *new* operation rather than a continuation of the one that began in February, the clock restarts — and the resolutions Langworthy voted against were aimed at an operation the administration had already declared finished.
+
+**The objection here is bipartisan.** On July 23, Rep. Thomas Massie, a Kentucky Republican, wrote:
+
+> "The Pentagon is pretending there have been two Iran wars separated by a brief cease-fire."
+
+Massie called that an **"absurd ruse"** intended to avoid the 60-day deadline.
+
+ABC News reported that major U.S. conflicts have historically moved through distinct phases, but that "those shifts have not resulted in separate casualty categories being treated as separate wars," and that splitting a war this way "would be unprecedented."
+
+**In plain language:** the same relabeling that would restart the war powers clock also governs which operation a dead or wounded service member gets counted under. That is the subject of the next section.
+
+*Sources: clerk.house.gov roll call XML for rolls 85, 114, 170, 199, 201, 232, 282; senate.gov Vote 184 (Jun. 23, 2026); INS v. Chadha, 462 U.S. 919 (1983); ABC News, "Pentagon lowers count of Iran war dead and wounded," Beynon and Martinez, Jul. 24, 2026.*
 
 ---
 
@@ -92,19 +118,50 @@ Whether the concurrent resolutions bind is genuinely contested — Rep. Gregory 
 
 *This section is about whether we will even know how many veterans this war creates.*
 
-### What happened in July 2026
+### What the database showed, day by day
 
-On **July 20, 2026**, chief Pentagon spokesman Sean Parnell said that "nearly 100 service members were deemed to have some degree of injury since July 7, 2026," and that 96% had returned to duty.
+The Defense Casualty Analysis System (DCAS) is the Defense Department's primary public repository for U.S. military casualties and, in the senators' words, "the federal government's authoritative public record of war dead." Here is what it displayed over five days, with the observer for each reading:
 
-On **July 21**, the Defense Casualty Analysis System — the Department's official public casualty database — showed **zero wounded in action for the month of July**. It listed 14 killed, against 18 deaths that had been publicly reported.
+| Date | Reading | Observed by |
+|---|---|---|
+| Jul. 20 | Chief Pentagon spokesman Sean Parnell: "nearly 100 service members were deemed to have some degree of injury since July 7, 2026," 96% returned to duty | @SeanParnellASW, cited in the Senate letter |
+| Jul. 21 (Tue.) | **14 killed** (against 18 deaths widely reported), 447 injured, and **zero wounded in action for the month of July** | Senate letter; Stars and Stripes |
+| Jul. 22 (Wed.) | **482 wounded** | ABC News |
+| Jul. 23 (Thu.) | **18 deaths**, 447 total casualties, as of the letter's delivery | Senate letter, footnote i |
+| Jul. 23 (Thu.) | Deaths fell **18 → 14**; wounded fell **482 → 420** | ABC News |
+| Jul. 24 (Fri.) | "As of Friday evening, those figures remain uncorrected" | ABC News |
+
+**These readings do not reconcile with one another, and we are not going to pretend they do.** The letter records 447 total casualties on both July 21 and July 23, while ABC News records 482 wounded on July 22 — and the same letter shows the death count at 14 on July 21 but 18 on July 23, before ABC recorded it falling back to 14. The categories being counted ("injured," "total casualties," "wounded") are not defined identically across the sources, and DCAS itself was changing underneath them. The instability *is* the finding. It is also precisely what the senators asked about: their Question 5 requests the Department's own definitions of "injury," "wounded in action," and "casualty" for this operation.
+
+The drop from 18 to 14, ABC reported, "effectively remov[ed] the four U.S. service members killed in Jordan and Iraq since daily fighting renewed."
+
+Acting Pentagon Press Secretary Joel Valdez said the site was experiencing technical issues:
+
+> "The Department of Defense is aware of temporary data disruptions on the Defense Casualty Analysis System (DCAS) website. These site anomalies are currently being resolved in coordination with the military services."
+
+ABC reported that the Pentagon did not respond to detailed questions about how such a data issue was possible or why the numbers had not been corrected.
+
+### The letter
 
 On **July 23**, twelve senators wrote to Secretary Hegseth. The signers include **Sen. Kirsten Gillibrand of New York**, along with Hirono, Reed, Shaheen, Duckworth, Blumenthal, Kelly, Warren, Peters, Kaine, Rosen and Slotkin. Their letter states:
 
 > "We are concerned that DCAS is not being maintained at the granular level and calls into serious question the completeness and reliability of the aggregate totals."
 
-The letter cites reporting that Central Command **is not required to publicly disclose injured service members**, particularly when they return to duty quickly, and asks how often that discretion has been used. **Question 6 asks directly** how many service members have been screened for and diagnosed with concussion or traumatic brain injury, whether those are counted in the wounded-in-action total, and what the process is for updating casualty counts as delayed TBI diagnoses emerge. A response is due **July 30, 2026**.
+The letter cites *The New York Times* reporting that Central Command **is not required to publicly disclose injured service members**, particularly when they return to duty quickly, and asks how often that discretion has been used. **Question 6 asks directly** how many service members have been screened for and diagnosed with concussion or traumatic brain injury, whether those are counted in the wounded-in-action total, and what the process is for updating casualty counts as delayed TBI diagnoses emerge. A response is due **July 30, 2026**.
 
-On **July 24**, the Pentagon's published count went **down**: deaths from 18 to 14, wounded from 482 to 420. Acting Press Secretary Joel Valdez attributed it to "temporary data disruptions" on the DCAS website. Objections came from Gov. Kathy Hochul, Senate Armed Services Democrats, and **Rep. Thomas Massie, a Republican** — this is not a one-party concern.
+**The senators also raise the alternative explanation themselves.** Question 3 asks whether service members killed or wounded while deployed under *another* named operation — they name Operation Inherent Resolve, the anti-ISIS campaign that predates this war — are being left out of the Epic Fury accounting. ABC reported the same possibility: troops already in the region under that mission "may technically fall under a separate operation on paper, including some of the soldiers killed in recent days." **That is a real and innocent explanation for part of the discrepancy, and it should be weighed.** It does not explain a published count moving downward, and it is the Department, not its critics, that is positioned to resolve it.
+
+### A New York name came off the list
+
+One of the four soldiers killed in the recent attacks, **Sgt. Angel Rampersad**, was a New York native. Gov. Kathy Hochul said she was "outraged" to see her name removed from the database:
+
+> "The Trump administration does not get to revise the human cost of this war because it has become politically inconvenient. Sgt. Rampersad gave her life in service to this country. Changing a website does not rewrite the truth of her sacrifice."
+
+The three other service members killed in those attacks were **Pfc. Isabella Gonzales, 1st Lt. Tyler Feehan and Sgt. Michael Emmanuel Swinton.**
+
+Days before the database showed 14, the President posted a comparison of U.S. fatalities in Afghanistan, Iraq, Vietnam and Korea alongside this conflict. **His post said 18 American troops had died.**
+
+Objections have come from Gov. Hochul, Senate Armed Services Democrats, and **Rep. Thomas Massie, a Republican.** This is not a one-party concern.
 
 ### Why this specific thing has happened before, and what it cost veterans
 
@@ -167,7 +224,7 @@ The **Blast Overpressure Safety Act** (H.R. 8025, 118th Congress) would have req
 
 That Congress was still legislating in July 2026 to *create* per-service-member TBI logs is itself the clearest evidence that they do not yet exist.
 
-*Sources: Letter from 12 U.S. Senators to Secretary of War Hegseth, Jul. 23, 2026; Stars and Stripes, Jul. 21, 2026; ABC News, Jul. 24, 2026; DODIG-2022-006, Nov. 2021; DODIG-2023-059, Mar. 2023; DCPD-202000008 and DCPD-202000032; GPO BILLSTATUS for H.R. 8025 (118th); H.R. 8800 §756; clerk.house.gov Roll Call 278; Roll Call, Jul. 20, 2026 (VA Polytrauma Registry).*
+*Sources: [Letter from 12 U.S. Senators to Secretary of Defense Hegseth, Jul. 23, 2026](https://www.hirono.senate.gov/imo/media/doc/senator_hirono_iran_oefu_casualty_reporting_letter_f9smy2742sbw.pdf); Stars and Stripes, Jul. 21, 2026; ABC News, "Pentagon lowers count of Iran war dead and wounded," Beynon and Martinez, Jul. 24, 2026; DODIG-2022-006, Nov. 2021; DODIG-2023-059, Mar. 2023; DCPD-202000008 and DCPD-202000032; GPO BILLSTATUS for H.R. 8025 (118th); H.R. 8800 §756; clerk.house.gov Roll Call 278; Roll Call, Jul. 20, 2026 (VA Polytrauma Registry).*
 
 ---
 
@@ -182,7 +239,16 @@ H.R. 9237, the Take Care of America's Veterans Act, expands some benefits and pa
 
 More than **760,000** veterans are currently rated for sleep apnea and more than **3.5 million** for tinnitus. Both are signature conditions of blast exposure and aircraft noise.
 
-**Section 103(b)** separately raises VA home loan fees, amending the fee table from 0.50 to **1.42** and from 0.50 to **1.0**.
+**Section 104(b)** separately raises two VA home loan fees, amending the loan fee table at 38 U.S.C. §3729(b)(2):
+
+| Type of loan | Fee today | Under H.R. 9237 |
+|---|---|---|
+| Interest rate reduction refinancing loan (IRRRL) — subparagraph (E) | 0.50% | **1.42%** |
+| Loan assumption under §3714 — subparagraph (I) | 0.50% | **1.0%** |
+
+Both categories are ways of restructuring or transferring an existing VA loan rather than originating a new purchase. Section D explains why the timing of that increase is worth noting.
+
+**An important limit, stated plainly:** under **38 U.S.C. §3729(c)**, no loan fee is collected at all from a veteran receiving compensation for a service-connected disability, from certain surviving spouses, or from an active-duty Purple Heart recipient. H.R. 9237 does **not** amend that waiver. So this increase falls on veterans *without* a compensable service-connected disability — a large group, but not the most disabled one. Anyone claiming the bill raises fees on disabled veterans is wrong.
 
 **Who pays.** The bill applies to "claims filed after the date of the enactment," and existing compensation cannot be reduced. Supporters emphasize this and it is accurate. But DAV argues the criteria would also govern reassessments of existing claims, since a rated veteran seeking an increase files a new claim — and the supporting organizations' own letter concedes the ambiguity by urging application "only to future claims **or future requests for increased ratings**."
 
@@ -205,11 +271,80 @@ More than **760,000** veterans are currently rated for sleep apnea and more than
 
 **On the $57 billion figure:** it is **not a CBO score.** No CBO estimate for H.R. 9237 exists — the bill received no markup and no committee report, going straight from introduction to the Rules Committee. The figure is VFW's, attributed to VA estimates; the American Legion cites a range of $19–58 billion.
 
-*Sources: H.R. 9237 as introduced, §§103(b), 108; 38 C.F.R. §4.97 DC 6847 and §4.87 DC 6260; rules.house.gov record votes 369, 373, 385, 389; clerk.house.gov Roll Calls 236, 237, 249.*
+*Sources: H.R. 9237 as introduced, §§104(b), 108; 38 U.S.C. §3729(b)(2) and §3729(c); 38 C.F.R. §4.97 DC 6847 and §4.87 DC 6260; rules.house.gov record votes 369, 373, 385, 389; clerk.house.gov Roll Calls 236, 237, 249.*
 
 ---
 
-## D. The Workforce That Would Process Their Claims
+## D. The Homes Veterans Are Losing While This Is Being Debated
+
+*The fee increase above is a small provision in a large bill. It reads differently once you know what has been happening to VA home loans since May 2025.*
+
+### What was taken away, and when
+
+The VA home loan program has a backstop for borrowers who fall behind. In May 2024, VA launched the **Veterans Affairs Servicing Purchase program (VASP)** — the final option in what VA called its Home Retention Waterfall. VA would buy the delinquent loan and re-issue it at a fixed **2.5%** interest rate. It reached **more than 33,000 veterans.**
+
+On **April 23, 2025**, VA issued **Circular 26-25-2**. Its operative sentence:
+
+> "As of May 1, 2025, VA rescinds the VA Home Retention Waterfall and will stop accepting VASP submissions."
+
+No VASP payments were issued after **September 30, 2025.**
+
+**The warning was on the record before the decision.** At a March 2025 hearing before the House Committee on Veterans' Affairs, Elizabeth Balce, representing the Mortgage Bankers Association, was asked what would happen if VA scuttled VASP:
+
+> "Foreclosure. Period. That's really where it's gonna come to."
+
+She also testified: "Without VASP, VA would have foreclosed on tens of thousands of borrowers." **Less than two months later, VASP was shut down.**
+
+### The gap
+
+Congress did authorize a replacement. **H.R. 1815, the VA Home Loan Program Reform Act**, creates a five-year Partial Claim Program letting VA cover a portion of the debt to cure a default. It became **P.L. 119-31**. But look at the calendar:
+
+| Date | Event |
+|---|---|
+| May 1, 2025 | VASP stops accepting submissions; the Home Retention Waterfall is rescinded |
+| May 19, 2025 | House passes H.R. 1815 |
+| Jul. 30, 2025 | Signed into law as P.L. 119-31 |
+| **Jun. 15, 2026** | **VA actually launches the Partial Claim Program** |
+
+**Thirteen and a half months separate the removal of the backstop from the arrival of its replacement** — and ten and a half months separate the replacement being signed into law from its being available to a veteran.
+
+### What happened in the gap
+
+From industry data reported by NPR on April 2, 2026:
+
+- **More than 10,000 veterans** lost their homes through foreclosure sales after VASP shut down. This figure NPR attributes specifically to **ICE Mortgage Technology**, which tracks such data.
+- That is **the highest pace of foreclosures for VA loans in a decade.**
+- **90,000 more veterans** are currently behind on their mortgages or in the foreclosure process.
+
+NPR reported that "VA officials did not respond to NPR's questions about why the agency shut down VASP without first replacing it with anything else."
+
+**What is honestly uncertain:** NPR states plainly that "it's unclear how many of those veterans could have avoided foreclosure through" VASP. We are not claiming 10,000 foreclosures were caused by the shutdown. Mortgage industry insiders told NPR it is clear that *some* of those veterans had enough disability pay or other income to have kept their homes had VASP survived. The verifiable facts are the dates, the decade-high rate, and the warning given in advance at a congressional hearing.
+
+**Also in fairness:** this problem did not begin with this administration. NPR's investigation, now three years old, traces it to 2022, when a COVID-era mortgage relief program was ended abruptly under the Biden administration, trapping veterans who were then told they could not resume normal payments without repaying everything missed at once. The Biden VA took **two years** to build the fix. VASP was the fix. It was cancelled roughly a year after it became fully operational.
+
+**In plain language:** a veteran who fell behind on a VA-backed mortgage in, say, the fall of 2025 had no backstop program to be referred to. The one that had existed was gone, and the one Congress had already authorized would not exist for months.
+
+### Where Langworthy sits on this one
+
+**We want to be careful here, because the easy version of this claim is wrong.**
+
+- **There is no Langworthy vote to cite on H.R. 1815.** The House passed it on May 19, 2025 **under suspension of the rules, by voice vote.** No recorded vote exists, for him or for anyone. The Senate also passed it by voice vote.
+- **He is not a cosponsor — but neither is anyone else.** We checked the govinfo BILLSTATUS roster directly: H.R. 1815 was introduced by Rep. Derrick Van Orden of Wisconsin with **zero cosponsors.**
+- **He does not sit on the House Committee on Veterans' Affairs**, so he was not at the March 2025 hearing where the warning was delivered.
+
+**What is his is the fee vote, and we are going to state its limits carefully.** The bill Langworthy voted seven times to keep intact would raise the fee on a rate-reduction refinance from 0.50% to 1.42% and on a loan assumption from 0.50% to 1.0%. The decisive motion to strip that increase, along with the rating changes, **failed by one vote**, and he voted No.
+
+**What that does not mean.** The loan fee is charged at origination, not on a delinquency, so it is not a charge levied on a veteran who is already behind. An interest rate reduction refinancing loan generally requires a loan to be current, so it is not a remedy for default. And veterans receiving service-connected disability compensation pay no loan fee at all. **This fee increase did not cause anyone's foreclosure, and we are not suggesting it did.**
+
+**What it does mean** is narrower and still worth saying: at a moment when VA-backed lending is under the most stress it has seen in a decade, the one recorded position Langworthy has taken anywhere near this subject is a vote to make two categories of VA loan transaction more expensive, in order to pay for benefits elsewhere in the bill.
+
+**And we found no public statement from him on any of it** — not on VASP's termination, not on the decade-high foreclosure rate, not on the thirteen-month gap. We searched his House press release archive and found nothing on VA home loans or veteran foreclosures.
+
+*Sources: [VA Circular 26-25-2, Apr. 23, 2025](https://www.benefits.va.gov/HOMELOANS/documents/circulars/26-25-02.pdf); [NPR, "Trump's VA killed a home loan program. Vets are now losing their homes because of it," Chris Arnold and Quil Lawrence, Apr. 2, 2026](https://www.npr.org/2026/04/02/nx-s1-5750814/veterans-mortgages-foreclosure-va-rescue); [govinfo BILLSTATUS, H.R. 1815 (119th)](https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1815.xml); P.L. 119-31; [VA, "VA launches Partial Claim Program to help Veterans avoid home foreclosure," Jun. 15, 2026](https://news.va.gov/press-room/va-launches-partial-claim-program-to-help-veterans-avoid-home-foreclosure/); 38 U.S.C. §3729.*
+
+---
+
+## E. The Workforce That Would Process Their Claims
 
 ### What was done
 
@@ -260,7 +395,7 @@ VA's Inspector General found **4,434 severe occupational staffing shortages** ac
 
 ---
 
-## E. The Research That Decides Whether the Next PACT Act Ever Happens
+## F. The Research That Decides Whether the Next PACT Act Ever Happens
 
 *This is the real connection between this war and the PACT Act, and it does not require a vote he never cast.*
 
@@ -296,7 +431,7 @@ A **July 18, 2025 letter** from Senators Blumenthal, Murray and Gallego to Secre
 
 ---
 
-## F. He Sits on the Committee That Investigates This
+## G. He Sits on the Committee That Investigates This
 
 *This is the part that distinguishes a member who voted a certain way from a member who holds the power to do something about it.*
 
@@ -331,7 +466,7 @@ Every one of those is a federal agency performance question. That is the Oversig
 
 ---
 
-## G. The Representation Gap
+## H. The Representation Gap
 
 On **May 24, 2026**, Langworthy told AM 1480 WLEA in Hornell:
 
@@ -354,7 +489,12 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 | Why he voted against all seven measures to end an unauthorized war | No public explanation; no floor remarks located |
 | Whether he believes an AUMF is required for Operation Epic Fury | No statement |
 | Whether the wounded count is accurate | Senate response due Jul. 30, 2026 |
+| Whether casualties since July 6 are being counted under a separate operation | Asked by 12 senators (Question 3); unanswered |
+| Whether the administration considers the July fighting a new operation for War Powers purposes | No statement from the administration or from Langworthy |
 | How many TBI screenings and diagnoses have occurred in this operation | Asked by 12 senators; unanswered |
+| Why VA cancelled VASP before its replacement existed | VA did not respond to NPR's questions |
+| How many NY-23 veterans lost homes in the 13-month gap | No district-level figure published |
+| Whether he supports the fee increases in §104(b) given the foreclosure rate | No statement |
 | How many Bath VA employees were dismissed in Feb. 2025 | VA has said only "a small number" |
 | Whether VA facilities in NY-23 are operating under FTE caps today | Not disclosed at facility level |
 | Why no veterans communication was issued May–July 2026 | Unexplained |
@@ -371,7 +511,9 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 - Seven votes against ending hostilities Congress never authorized; two of those measures passed the House anyway, and one passed the Senate as well.
 - The Pentagon's published wounded count fell while officials described roughly 100 new injuries; twelve senators, including New York's, have formally questioned it.
 - The Defense Department's own Inspector General found TBI reporting failures after the last Iran strike and warned they could cost service members VA benefits.
-- Seven votes preserving offsets that tighten future disability ratings for sleep apnea and tinnitus and raise VA home loan fees; the decisive motion failed by one vote.
+- Seven votes preserving offsets that tighten future disability ratings for sleep apnea and tinnitus and raise two VA home loan fees; the decisive motion failed by one vote.
+- VASP was rescinded effective May 1, 2025, after the mortgage industry warned a House committee in March 2025 that the result would be "foreclosure"; the replacement Congress authorized in July 2025 did not launch until June 15, 2026.
+- More than 10,000 veterans lost homes to foreclosure in that window, the highest pace for VA loans in a decade, with roughly 90,000 more behind or in the foreclosure process.
 - ~2,400 VA probationary employees dismissed in February 2025; vacancies then left unfilled by policy; 1,102 fewer VBA claims examiners; 67,849 claims beyond 125 days.
 - VA research staffing down 5.1% in the FY2027 request, following a ~3% decline.
 
@@ -383,14 +525,17 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 - Any mass firing of VA employees after February 2025. The later decline is attrition plus unfilled vacancies.
 - Any Inspector General or GAO finding of casualty undercounting in the current operation. That question is open.
 - Any NY-23 facility closure. The Bath VA story is February **2025** and carries no published number.
+- **Any Langworthy vote on the VASP replacement.** H.R. 1815 passed both chambers by voice vote; no recorded vote exists for anyone. He is not a cosponsor, and neither is any other member — the bill was introduced with zero.
+- Any claim that 10,000 foreclosures were *caused* by the VASP shutdown. NPR states it is unclear how many could have been prevented, and we adopt that limit.
+- Any claim that the §104(b) fee increase raises costs for disabled veterans. Veterans receiving service-connected disability compensation are exempt from VA loan fees, and the bill does not change that.
 
-**On fairness:** none of these votes is unusual for a member of his party, and several — the toxic exposure increase, the research funding the House passed, his original cosponsorship of the Major Richard Star Act — cut against the simple story. What this page documents is the accumulation: a war he voted seven times to continue, a casualty count under formal question, a rating change aimed squarely at the people fighting it, a claims workforce shrinking by policy, and a research budget request that would slow the proof of the next generation's injuries. And no public explanation of any of it.
+**On fairness:** none of these votes is unusual for a member of his party, and several — the toxic exposure increase, the research funding the House passed, his original cosponsorship of the Major Richard Star Act — cut against the simple story. The home loan collapse is not his doing in any votable sense, and its origins predate this administration. What this page documents is the accumulation: a war he voted seven times to continue and that was declared over while it continued, a casualty count under formal question, a rating change aimed squarely at the people fighting it, a foreclosure backstop removed thirteen months before its replacement arrived, a claims workforce shrinking by policy, and a research budget request that would slow the proof of the next generation's injuries. And no public explanation of any of it.
 
 ---
 
 ## Verdict: DOCUMENTED PATTERN
 
-The United States is producing new veterans in an operation Congress has twice voted to end and never authorized. The count of who is being hurt in it is formally disputed by twelve senators, and the Pentagon's own published numbers went down. The disability ratings those service members will one day claim under are the ones H.R. 9237 would tighten, and Langworthy voted seven times to keep that provision alive, including on a motion that failed by a single vote. The VA workforce that will process their claims is smaller by policy, and the research that would prove what this war did to them is budgeted to shrink again.
+The United States is producing new veterans in an operation Congress has twice voted to end and never authorized — one the administration told Congress was "terminated" in May while the strikes went on, under a label a Republican member calls an "absurd ruse." The count of who is being hurt in it is formally disputed by twelve senators, and the Pentagon's own published numbers went down, taking a New York soldier's name off the list. The disability ratings those service members will one day claim under are the ones H.R. 9237 would tighten, and Langworthy voted seven times to keep that provision alive, including on a motion that failed by a single vote. The mortgage backstop that keeps veterans in their homes was cancelled thirteen months before its replacement opened, and VA-loan foreclosures ran at their highest rate in a decade in the gap. The VA workforce that will process their claims is smaller by policy, and the research that would prove what this war did to them is budgeted to shrink again.
 
 **And he sits on the committee that investigates exactly this.** A majority member of House Oversight, at a moment when a federal department's own casualty database contradicts its own spokesman, has tools that twelve senators in the minority do not: hearings, subpoenas, witnesses under oath. He has used committee power decisively before, sponsoring and floor-managing a closed rule to move an arms bill. On this, we found no hearing request, no committee letter, and no public statement.
 
@@ -411,7 +556,8 @@ Rep. Langworthy voted to increase toxic exposure funding and for the appropriati
 
 - House Clerk roll call XML, rolls 85, 114, 170, 199, 201, 232, 282 (2026): <https://clerk.house.gov/evs/2026/>
 - U.S. Senate Roll Call Vote 184, Jun. 23, 2026 (H.Con.Res. 86): <https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm>
-- Letter from 12 U.S. Senators to Secretary Hegseth on casualty reporting, Jul. 23, 2026
+- Letter from 12 U.S. Senators to Secretary of Defense Hegseth on casualty reporting, Jul. 23, 2026: <https://www.hirono.senate.gov/imo/media/doc/senator_hirono_iran_oefu_casualty_reporting_letter_f9smy2742sbw.pdf>
+- ABC News, "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage," Steven Beynon and Luis Martinez, Jul. 24, 2026
 - DoD Inspector General, DODIG-2022-006, "Evaluation of Traumatic Brain Injuries in the U.S. Central Command Area of Responsibility," Nov. 3, 2021: <https://www.dodig.mil/>
 - H.R. 9237 as introduced: <https://www.govinfo.gov/content/pkg/BILLS-119hr9237ih/html/BILLS-119hr9237ih.htm>
 - House Rules Committee record votes: <https://rules.house.gov/bill/119/hr-9237>
@@ -423,6 +569,11 @@ Rep. Langworthy voted to increase toxic exposure funding and for the appropriati
 - VBA Monday Morning Workload Report, Jul. 18, 2026: <https://www.benefits.va.gov/REPORTS/mmwr/2026/MMWR-07-18-2026.xlsx>
 - VA OIG Report 25-01135-196, Aug. 12, 2025
 - VA FY2027 Budget in Brief: <https://department.va.gov/wp-content/uploads/2026/04/2027-BiB.pdf>
+- VA Circular 26-25-2, "Veterans Affairs Servicing Purchase (VASP) Program Wind Down," Apr. 23, 2025: <https://www.benefits.va.gov/HOMELOANS/documents/circulars/26-25-02.pdf>
+- NPR, "Trump's VA killed a home loan program. Vets are now losing their homes because of it," Chris Arnold and Quil Lawrence, Apr. 2, 2026: <https://www.npr.org/2026/04/02/nx-s1-5750814/veterans-mortgages-foreclosure-va-rescue>
+- govinfo BILLSTATUS, H.R. 1815 (119th Congress), enacted as P.L. 119-31: <https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1815.xml>
+- VA, "VA launches Partial Claim Program to help Veterans avoid home foreclosure," Jun. 15, 2026: <https://news.va.gov/press-room/va-launches-partial-claim-program-to-help-veterans-avoid-home-foreclosure/>
+- 38 U.S.C. §3729 (loan fee table and waiver): <https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3729&num=0&edition=prelim>
 - Langworthy on WLEA, May 24, 2026: <https://wlea.net/langworthys-memorial-day-thoughts/>
 
 ---
