@@ -92,6 +92,29 @@ Whether Mamdani's statements were antisemitic is a contested judgment, and this 
 
 **Verdict on that clause: NOT SUPPORTED.**
 
+### The comparison, set out plainly
+
+Langworthy's charge is that Mamdani engages in "incendiary rhetoric & division." Both men made statements in July that went beyond what their evidence supported. The useful question is not who is louder. It is **what each was pointing at, and how far past the record each went.**
+
+| | Mamdani, Jul. 21–22 | Langworthy, Jul. 1–3 | Langworthy, Jul. 25 |
+|---|---|---|---|
+| **Subject** | Benjamin Netanyahu, a named head of government | A flag-raising ceremony for Buffalo's Somali community, and the mayor | Mamdani |
+| **Documented basis** | An **ICC arrest warrant**, issued Nov. 2024 | The fireworks cancellation | Mamdani's statements; the Jul. 23 stabbing |
+| **The overstatement** | Calling him a **"war criminal."** The ICC found "reasonable grounds to believe," a charging standard. A charge is not a conviction | That the cancellation had **"nothing to do with logistics,"** tagged #facts, when the city gave a written logistical reason and three other facts go unmentioned | That the rhetoric **"made every Jewish New Yorker less safe"** |
+| **Evidence for the overstatement** | The warrant exists, but does not establish guilt | **None identified** | **None identified** |
+
+**The distinction that matters, and it is not a matter of tone.** Mamdani overstated the status of a real legal document about a specific individual. Langworthy's two claims assert *causation* — that a ceremony caused a cancellation, and that speech caused danger — and neither has anything behind it. An overstated characterization of a court filing and an invented causal chain are not the same category of error, and this entry does not treat them as equivalent.
+
+**What is fairly said against Mamdani** is also in the record and belongs here: he condemned the July 23 attack without naming antisemitism, and the Anti-Defamation League's chief executive and Israel's ambassador to the UN both criticized him for it. That criticism is not partisan invention.
+
+### The part that closes the loop
+
+Three weeks before accusing Mamdani of rhetoric that endangered people, Langworthy was himself the subject of that exact claim. Mayor Ryan said remarks by Langworthy and Kracker "helped fuel threats and harassment at City Hall," including a bomb threat.
+
+His answer, on July 3: **"Sean Ryan can call me whatever he wants. I'm not backing down."**
+
+He was right to reject it — as Section D explains, Ryan's claim is not established either. The record simply shows him rejecting, when aimed at himself, the same inference he asserted as fact about someone else twenty-two days later.
+
 ---
 
 ## D. What This Entry Refuses To Do
