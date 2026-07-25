@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 22, 2026*
+*Last updated: July 25, 2026*
 
 ---
 
@@ -22,6 +22,8 @@
 
 | Series / Topic | Entries | Status |
 |---|---|---|
+| July 25 donor + veterans batch (**3 held for right of reply**) | 3 | Drafted 2026-07-25, all `draft:true` + `hold_reason` — Landa donor public record (DOCUMENTED PATTERN; 2 ProPublica investigations, 2 NY AG fraud suits naming him, HHS OIG audit, his own dismissed defamation suit); AIPAC money and record (DOCUMENTED PATTERN; $25K direct + $76,016 bundled = $101,016 from AIPAC's own Schedule B, **zero** super-PAC independent expenditures ever, and he personally sponsored + floor-managed H.Res. 1227, the closed rule for an Israel arms bill); veterans impact (DOCUMENTED PATTERN; 7 war-powers votes all Nay, DCAS casualty count revised *downward*, H.R. 9237 §108 future-claim rating cuts, VA backfill freeze, research staffing −5.1%, and his seat on Oversight). **Three published figures corrected this session** — see below |
+| **Corrections issued 2026-07-25** | 2 | Landa contribution total **$68,700 → $55,000** (FEC memo entries were being summed as separate gifts; propagated to 8 files incl. 3 live entries + 2 cards). Missed-votes page rebuilt: its table summed to 69 against a header of 66, and a "Late 2024 Spike (8.2–8.9%)" was fabricated from bad data when the real figures were 0.8% and 0.0%; two causal claims about campaign season removed as speculation. Both carry dated public Correction sections |
 | July 21-22 Facebook-post batch (transcript-verified) | 2 | Complete 2026-07-22 — Stock trading ban sell-loophole (MISLEADING: H.R. 7008 cosponsor bans buying, not selling; bill sponsor Steil conceded "accurate but misleading" at the Rules Cmte. hearing; Section 3 Voter ID rider confirmed against the actual RCP2 bill text); Chautauqua mental-health grant announced twice, 1,037 days apart (MISSING CONTEXT, resolved from a 7/17 draft). Both used direct video/hearing transcription (yt-dlp+Whisper, youtube-transcript-api) rather than news paraphrase |
 | July 16-17 Facebook-post batch (transcript-verified) | 8 | Complete 2026-07-17 — Nick Shirley fraud-video amplification (MISSING CONTEXT), Canada wildfire smoke "policy choice" (MISLEADING), BUSES Act (MOSTLY TRUE), critical-minerals hearing (MOSTLY TRUE), biosimilars H.R. 9661 (MOSTLY TRUE), FFA/CAREERS Act (MOSTLY TRUE), Allegany water 3rd-announcement (DOCUMENTED PATTERN), rural-health-fund Centralus repeat (MISSING CONTEXT). Established FB-reel + YouTube transcription workflow (yt-dlp + Whisper / youtube-transcript-api); transcripts under research/transcripts/ |
 | Rules Committee gatekeeper (synthesis: Medicaid, tariffs, veterans, Epstein) | 1 | Complete 2026-07-16 (DOCUMENTED PATTERN); Epstein oversight-record entry also expanded w/ full vote + attendance record |
@@ -98,6 +100,9 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 
 | Thread | Status | Next step |
 |---|---|---|
+| Landa / nursing-home donor | **Drafted 7/25**, held | Send right of reply to Benjamin Landa's representatives (spokesman of record: Mark Weiss) + Langworthy's office; 10 business days. Excluded-as-unverified list is in FINDINGS_BACKLOG — do not reintroduce from a search summary |
+| AIPAC money and record | **Drafted 7/25**, held | Request for comment + Wayback archiving. Also decide whether to rescope `content/campaign-finance/_index.md`, whose OpenSecrets AIPAC figure ($31,550, 2024 only) is ~1/3 of the primary-source cross-cycle total |
+| Veterans: war, casualty count, VA system | **Drafted 7/25**, held | **DoD response to the 12-senator Hirono letter due 7/30** — could move the 18→14 / 482→420 figures in both the entry and the card. Also unintegrated: the ABC News "rebranding" thread (Epic Fury declared terminated 5/1, resumed 7/6, strikes now called "overseas operations"; Massie calls it an "absurd ruse" to dodge the 60-day clock) — this is the connective tissue between the war-powers votes and the casualty count. Full writeup in FINDINGS_BACKLOG |
 | Essential Plan cliff (July 1) | **Published 7/2** (MOSTLY TRUE) + cross-refs in beagle/town-hall entries | Watch Aug 30 QHP enrollment deadline; Hochul 127k-in-GOP-districts figure logged for possible add |
 | June 25 tele-town hall | **Published 7/2** (MISLEADING, "hospitals aren't going anywhere") + full disclaimered transcript in /documents/ | Remaining town-hall claims to check: 11% refunds, Virginia CDL crash attribution, 70k nurses figure |
 | Liberty Strategies | **Published 7/2** (MISSING CONTEXT; office no-response by 7/1 deadline noted; $1 FEC total corrected; two-firms chronology + stocks-TRUE contrast added) | COELIG FOIL arc continues; update entry if office responds |
