@@ -69,7 +69,7 @@ money_h = 185
 draw.rounded_rectangle([(44, y), (WIDTH-44, y+money_h)], radius=8,
                         fill="#EBF8F0", outline="#9AE6B4", width=2)
 draw.text((76, y+16), "THE MONEY — FEC BULK FILINGS", fill=GREEN, font=f_label, anchor="lm")
-draw.text((240, y+money_h//2+12), "$60,000", fill=GREEN, font=f_big, anchor="mm")
+draw.text((240, y+money_h//2+12), "$55,000", fill=GREEN, font=f_big, anchor="mm")
 
 rx = 490
 draw.text((rx, y+38), "Benjamin + Judy Landa", fill=DARK, font=f_sub_b, anchor="lm")
@@ -110,7 +110,7 @@ s2x = s1x + s_w + s_gap
 s3x = s2x + s_w + s_gap
 
 for sx, num, line1, line2, color in [
-    (s1x, "1", "2022–2025", "Landa donates $60K", GREEN),
+    (s1x, "1", "2022–2025", "Landa donates $55K", GREEN),
     (s2x, "2", "July 3, 2025", "Langworthy votes YES", RED),
     (s3x, "3", "Dec. 3, 2025", "CMS formally repeals rule", ORANGE),
 ]:

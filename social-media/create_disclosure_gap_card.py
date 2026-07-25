@@ -73,7 +73,7 @@ y += 64
 rows = [
     ("Seneca Nation",          "$10,100", "in the 2 years before the bill",
      ["Introduced a bill to strip New York's", "jurisdiction over Seneca Nation lands"]),
-    ("Nursing-home operator",  "$68,700", "every dollar before the vote",
+    ("Nursing-home operator",  "$55,000", "every dollar before the vote",
      ["Voted to block the federal nursing-", "home staffing rule for ten years"]),
     ("Corning employees (62)", "$65,775", "around the reconciliation bill",
      ["Voted for the bill that preserved its", "manufacturing tax credits"]),

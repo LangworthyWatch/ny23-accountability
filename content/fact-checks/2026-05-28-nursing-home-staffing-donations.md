@@ -14,7 +14,7 @@ counties: ["district-wide"]
 
 ## Why This Matters for NY-23
 
-In 2024, the federal government finalized the first-ever minimum staffing standard for nursing homes. University of Pennsylvania researchers estimated the rule would prevent approximately **13,000 nursing home resident deaths per year**. In July 2025, Langworthy voted to block it for a decade. In the years surrounding that vote, a Long Island nursing home operator — whose 106-facility network includes more than 50 facilities below the staffing standard the rule would have required — contributed **at least $68,700** in directly traceable donations to Langworthy's campaign committees.
+In 2024, the federal government finalized the first-ever minimum staffing standard for nursing homes. University of Pennsylvania researchers estimated the rule would prevent approximately **13,000 nursing home resident deaths per year**. In July 2025, Langworthy voted to block it for a decade. In the years surrounding that vote, a Long Island nursing home operator — whose 106-facility network includes more than 50 facilities below the staffing standard the rule would have required — contributed **$55,000** in directly traceable donations to Langworthy's campaign committees.
 
 We cannot prove any connection between the donations and the vote. That's not what this page claims. What it documents — from public FEC filings, CMS data, and congressional records — is a pattern. Readers can evaluate it.
 
@@ -54,17 +54,19 @@ On **December 3, 2025**, CMS formally repealed the staffing standards by interim
 
 FEC bulk contribution records (indiv22.txt, indiv24.txt, indiv26.txt, and committee transfer files) show the following contributions to Langworthy's affiliated committees from **Benjamin Landa and Judy Landa** of Lawrence, NY, across the 2022–2026 election cycles:
 
-Directly traceable contributions to Langworthy's two named committees — **Langworthy for Congress** (C00817932) and the **Langworthy Congressional Victory Committee** (C00832188) — total **at least $68,700** across the 2022–2025 cycles. Landa appears in FEC records under two employer listings: "The Premier Network" (his management company) and individual nursing home entities.
+Directly traceable contributions to Langworthy's two named committees — **Langworthy for Congress** (C00817932) and the **Langworthy Congressional Victory Committee** (C00832188) — total **$55,000** across the 2022–2025 cycles. Landa appears in FEC records under two employer listings: "The Premier Network" (his management company) and individual nursing home entities.
 
 | Date | Donor | Amount | Committee |
 |---|---|---|---|
-| Jun.–Aug. 2022 | Benjamin Landa | $12,100 | Langworthy for Congress |
-| Jun. 2023 | Benjamin + Judy Landa | $19,800 | Langworthy for Congress |
+| Jun. 2022 | Benjamin Landa | $5,000 | Langworthy for Congress |
+| Jun. 2023 | Benjamin + Judy Landa | $13,200 | Langworthy for Congress |
 | Jun. 2023 | Benjamin + Judy Landa | $11,800 | Langworthy Congressional Victory Committee |
 | Mar. 2025 | Benjamin + Judy Landa | $25,000 | Langworthy Congressional Victory Committee |
-| **Total** | | **$68,700** | |
+| **Total** | | **$55,000** | |
 
 **Every dollar was contributed before the July 3, 2025 vote.** The largest single tranche — $25,000 combined ($12,500 each from Benjamin and Judy Landa) — arrived March 31, 2025, three months before Roll Call 190.
+
+**How this total was counted.** FEC itemization files contain memo entries that restate money already reported, and totaling every row double-counts them. Excluded here: a $5,000 line from June 2022 flagged `memo_code = X` with the memo text "SEE REDESIGNATION BELOW" (the redesignated $5,000 is counted); two offsetting −$2,100/+$2,100 and −$3,300/+$3,300 redesignation pairs that net to zero; and four $3,500 lines from March 2025 (`receipt_type` 15J) that are joint-fundraising allocations *of* the $25,000 already counted, not additional money. The $55,000 figure counts only non-memo receipts. Verified against the OpenFEC API, `/schedules/schedule_a/`, for committees C00817932 and C00832188.
 
 Landa is a nursing home operator. His total federal political giving across all recipients from 2019 through 2026 exceeds **$5.2 million**, including $5,000,000 to MAGA Inc. (a Trump Super PAC) contributed in August 2025, after the OBBBA vote.
 
@@ -96,7 +98,7 @@ More than half of Landa's facilities fall below the 0.55 RN hours-per-resident-p
 
 **What is documented:**
 - Langworthy voted YES to block federal nursing home staffing standards for 10 years (Roll Call 190, July 3, 2025). That is a public congressional record.
-- Benjamin and Judy Landa contributed at least $68,700 to Langworthy's named campaign committees across 2022–2025, all before the vote. That is in public FEC filings.
+- Benjamin and Judy Landa contributed $55,000 to Langworthy's named campaign committees across 2022–2025, all before the vote. That is in public FEC filings.
 - 55% of Landa's 106 facilities fall below the RN staffing floor the vote blocked; every facility in the network carries CMS's abuse icon. That is in public CMS Care Compare data.
 
 **What is not documented:**
@@ -108,4 +110,14 @@ Campaign contributions from the nursing home industry to members of Congress who
 
 ---
 
-*All data from public primary sources: FEC.gov bulk files, CMS data.cms.gov, Congress.gov. Methodology available on request.*
+## Correction
+
+**July 25, 2026.** This entry originally reported the Landa contribution total as **$68,700**. The correct figure is **$55,000**.
+
+The error came from summing every Landa row in the FEC itemization files without excluding memo entries. FEC records restate certain transactions as memo lines — redesignations and joint-fundraising allocations — that report money already counted elsewhere. Adding those lines to the total counted the same contributions more than once. The itemized breakdown of what was excluded is in "How this total was counted" above.
+
+Nothing else in this entry changed. Every contribution was still made before the July 3, 2025 vote, and the $25,000 tranche of March 31, 2025 is unaffected by the correction. The error was found and corrected by this site during a review of the underlying FEC records on July 25, 2026, and verified against the OpenFEC API.
+
+---
+
+*All data from public primary sources: FEC.gov bulk files, OpenFEC API, CMS data.cms.gov, Congress.gov. Methodology available on request.*

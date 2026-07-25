@@ -1,7 +1,7 @@
 Follow the money: what Langworthy's donors gave, and what his votes did next.
 
 DONOR: Nursing-home operator Benjamin Landa
-GAVE: $68,700 to his committees, much of it before the vote.
+GAVE: $55,000 to his committees, much of it before the vote.
 THEN: Langworthy voted to block the first-ever federal nursing-home staffing rule until 2034. More than 50 of Landa's 106 facilities fall below the standard that rule would enforce.
 
 DONOR: 62 Corning employees, from the CEO and CFO to engineers

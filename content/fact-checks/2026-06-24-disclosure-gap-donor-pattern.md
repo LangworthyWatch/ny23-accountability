@@ -19,7 +19,7 @@ This is the framing post for a series on a single, narrow question: **what Rep. 
 | # | Installment | The donor relationship | The action | Verdict |
 |---|---|---|---|---|
 | 1 | [Seneca Nation Law Enforcement Act](/fact-checks/2026-03-14-seneca-nation-law-enforcement-act/) | Seneca Nation of Indians, **$10,100** (2024–2025) | Bill to remove NY jurisdiction over Seneca lands (Jan 16, 2026) | MISSING CONTEXT |
-| 2 | [Nursing Home Donations and the Staffing Rule That Disappeared](/fact-checks/2026-05-28-nursing-home-staffing-donations/) | A nursing-home operator, **$68,700** (all before the vote) | YES on OBBBA, which blocked the federal staffing rule for 10 years (Roll Call 190) | DOCUMENTED PATTERN |
+| 2 | [Nursing Home Donations and the Staffing Rule That Disappeared](/fact-checks/2026-05-28-nursing-home-staffing-donations/) | A nursing-home operator, **$55,000** (all before the vote) | YES on OBBBA, which blocked the federal staffing rule for 10 years (Roll Call 190) | DOCUMENTED PATTERN |
 | 3 | [Corning, the Reconciliation Bill, and $65,775 in Donations](/fact-checks/2026-05-29-corning-manufacturing-credits-obbba/) | 62 Corning employees, **$65,775** (mostly after the vote) | YES on OBBBA, which preserved/boosted manufacturing credits Corning relies on | DOCUMENTED PATTERN |
 | 4 | ["Defender of Housing" Award](/fact-checks/2026-06-13-nahb-defender-of-housing/) | NAHB BUILD-PAC, **$16,500** | Touted an industry award; the award is for "supporting NAHB positions" | MISSING CONTEXT |
 | 5 | [Energy Choice Act](/fact-checks/2026-02-25-energy-choice-act/) | Bill a fossil-fuel trade group says it "helped draft" | Sponsored and advanced the bill as consumer "choice" | MISLEADING |
@@ -55,7 +55,7 @@ The through-line is not "money bought outcomes." It is narrower and fully docume
 
 **Seneca Nation Law Enforcement Act.** Langworthy introduced a bill to strip New York's 1948 jurisdiction over Seneca Nation lands, framing it entirely as drug-trafficking and public safety. FEC records show the Seneca Nation gave his campaign **$10,100** in the two years before introduction. The press release does not mention it. (The fact-check also notes the bill has a legitimate policy case and that the Seneca Nation gives across both parties — context that belongs in the record.)
 
-**The nursing-home staffing rule.** Langworthy voted YES on the 2025 reconciliation law, which blocked the first federal nursing-home minimum-staffing standard for a decade. In the cycles before that vote, a nursing-home operator whose network runs more than 50 facilities below that very standard gave his committees **at least $68,700 — every dollar before the vote.**
+**The nursing-home staffing rule.** Langworthy voted YES on the 2025 reconciliation law, which blocked the first federal nursing-home minimum-staffing standard for a decade. In the cycles before that vote, a nursing-home operator whose network runs more than 50 facilities below that very standard gave his committees **$55,000 — every dollar before the vote.**
 
 **Corning and the reconciliation bill.** The same vote preserved and boosted manufacturing tax credits that Corning — the district's largest private employer — was lobbying on. Sixty-two Corning employees, from the CEO down, gave **$65,775**, most of it in the two to three months *after* the bill became law.
 

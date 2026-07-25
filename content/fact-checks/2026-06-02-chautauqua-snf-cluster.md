@@ -64,7 +64,7 @@ Closure announcement: **January 28, 2026.** Roughly **<40 residents in a ~100-ca
 
 **Roll Call 190 — July 3, 2025.** Langworthy voted **YES** on H.R. 1, the One Big Beautiful Bill Act (P.L. 119-21). Section 71111 of that law prohibits CMS from implementing the nursing home minimum staffing rule (89 Fed. Reg. 40876, May 10, 2024) until September 30, 2034 — a 10-year moratorium. On December 3, 2025, CMS formally repealed the staffing standard by interim final rule, citing P.L. 119-21 as the legislative basis; the rule was void as of February 2, 2026.
 
-Documented in the prior fact-check: [Nursing Home Donations and the Staffing Rule That Disappeared](/fact-checks/2026-05-28-nursing-home-staffing-donations/) — which documents Long Island operator Benjamin Landa's $68,700 in pre-vote contributions to Langworthy's committees and his 106-facility network's relationship to the staffing standards.
+Documented in the prior fact-check: [Nursing Home Donations and the Staffing Rule That Disappeared](/fact-checks/2026-05-28-nursing-home-staffing-donations/) — which documents Long Island operator Benjamin Landa's $55,000 in pre-vote contributions to Langworthy's committees and his 106-facility network's relationship to the staffing standards.
 
 Chronology of the §71111 moratorium relative to the Chautauqua closures:
 

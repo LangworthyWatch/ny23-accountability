@@ -32,7 +32,7 @@ d.text((W//2,y),"What his donors gave, and what his votes did next.",fill=MUTED,
 d.line([(60*SS,y),(W-60*SS,y)],fill=BORDER,width=2*SS); y+=14*SS
 
 rows=[
- ("$68,700",["Nursing-home operator","Benjamin Landa"],
+ ("$55,000",["Nursing-home operator","Benjamin Landa"],
    ["Voted to block the first federal nursing-","home staffing rule until 2034. 50+ of his","106 facilities fall below that standard."]),
  ("$65,775",["62 Corning employees","(incl. the CEO and CFO)"],
    ["The law he voted for preserved the tax","credits that benefit Corning's plants;","much of the money came after the vote."]),
