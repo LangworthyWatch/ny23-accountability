@@ -22,9 +22,13 @@ The Take Care of America's Veterans Act (H.R. 9237) is a large veterans package 
 
 H.R. 9237 (sponsored by House Veterans' Affairs Committee Chairman Mike Bost; introduced June 10, 2026; consolidating more than 60 bills) contains genuine expansions — caregiver reforms including a new bowel-and-bladder care program (Secs. 302, 332), student-veteran support (Title II), and a new allowance for catastrophically disabled veterans (Sec. 104). Its centerpiece is the **Major Richard Star Act** (Sec. 101), a popular bipartisan measure letting certain combat-disabled retirees receive both retirement pay and disability compensation.
 
-The controversy is the **pay-for**. Section 108 rewrites VA rating rules so that, **for claims filed after enactment**, sleep apnea controlled by a CPAP machine is rated 0% and tinnitus loses its separate compensable rating. About 1.3 million veterans currently receive compensation for sleep apnea and roughly 1.5 million for tinnitus. According to a **VA analysis cited by the DAV, VFW, and IAVA**, the changes would reduce future disability payments by about **$57 billion over ten years** (no Congressional Budget Office score was located; this figure is attributed to that analysis, not asserted as CBO). **Existing ratings are protected** — Sec. 108(c)(2) bars reducing compensation already in effect, so no current veteran's benefit is cut.
+The controversy is the **pay-for**. Section 108 rewrites the VA rating schedule for two conditions, **for claims filed after enactment**. For sleep apnea it sets four tiers: **0%** when the syndrome is asymptomatic with or without treatment, **10%** when treatment yields incomplete relief, **50%** only when treatment is ineffective (or cannot be used) *and* there is no end-organ damage, and **100%** with end-organ damage. Today the schedule assigns a flat **50%** whenever a breathing assistance device such as a CPAP is required (38 C.F.R. §4.97, DC 6847). Tinnitus, rated a flat **10%** today (38 C.F.R. §4.87, DC 6260), would lose its separate compensable rating except when paired with otherwise-noncompensable service-connected hearing loss.
 
-The **major veterans service organizations oppose the bill** over that offset: the **VFW** ("A grateful nation pays its debts to veterans; it does not send them the invoice"), the **DAV** ("condemns congressional proposal to cut disability benefits for 1.5 million veterans"), and **IAVA**, along with the **AFGE** and **AFL-CIO**. It also has supporters, including the **American Legion** and the **Elizabeth Dole Foundation**. As opposition mounted, **House leadership pulled the bill from the floor** around June 25, 2026; it has not received a passage vote.
+Per VA's **FY2025 Annual Benefits Report**, **763,763** veterans held service-connected disability ratings for sleep apnea and **3,583,295** for tinnitus as of September 30, 2025. According to a **VA analysis cited by the DAV, VFW, and IAVA**, the changes would reduce future disability payments by about **$57 billion over ten years** (no Congressional Budget Office score was located; this figure is attributed to that analysis, not asserted as CBO). **Existing ratings are protected** — Sec. 108(c)(2) bars reducing compensation already in effect, so no current veteran's benefit is cut.
+
+The **veterans service organizations split over that offset.** Opposing it: the **VFW** ("A grateful nation pays its debts to veterans; it does not send them the invoice"), the **DAV** ("condemns congressional proposal to cut disability benefits for 1.5 million veterans" — DAV's count of veterans it says would be affected, which is not the same measure as the rating totals above), **IAVA**, the **Jewish War Veterans** and the **Marine Corps League**, along with the **AFGE** and **AFL-CIO**. Backing passage anyway, in a **June 29, 2026 letter signed by more than 20 organizations**: the **American Legion**, **MOAA**, **Wounded Warrior Project**, **Vietnam Veterans of America**, **AMVETS**, **TAPS** and the **Elizabeth Dole Foundation** — while conceding in that same letter that legislating rating-schedule changes "is not an approach we would support" under ordinary circumstances.
+
+As opposition mounted, **House leadership pulled the bill from the floor** around June 25, 2026. It returned under a **new closed rule (H.Res. 1423)**, adopted July 14, 2026. On **July 16** a motion to recommit failed **210–211**, after which further consideration was **postponed by the Chair** under clause 1(c) of rule XIX. **H.R. 9237 has not passed the House.**
 
 ---
 
@@ -82,8 +86,23 @@ The narrower point stands. The clean, on-the-record choice in front of the Rules
 
 ---
 
+## Correction
+
+**July 25, 2026.** A source-verification pass against primary documents found three errors in this entry, all now corrected.
+
+- The entry reported that "about 1.3 million veterans currently receive compensation for sleep apnea and roughly 1.5 million for tinnitus." **Both figures were wrong.** VA's FY2025 Annual Benefits Report records **763,763** sleep apnea ratings and **3,583,295** tinnitus ratings as of September 30, 2025 — tinnitus was understated by more than two million. The "1.5 million" appears to have been carried over from DAV's headline figure for veterans it says would be *affected* by the change, which is a different measure. Both numbers have been replaced and the DAV figure is now labeled as DAV's own.
+- The entry described Section 108 as rating "sleep apnea controlled by a CPAP machine at 0%." **Section 108 creates four tiers, not one**, including a 10% rating when treatment yields incomplete relief; the 0% rating attaches to an asymptomatic condition. The full schedule is now stated, alongside current law.
+- The entry ended with the bill having been pulled around June 25, 2026. **That was accurate when published and is no longer complete.** The bill returned under a new closed rule on July 14, 2026, a motion to recommit failed 210–211 on July 16, and consideration was then postponed by the Chair. The bill still has not passed the House.
+
+The entry's account of Langworthy's own Rules Committee votes was verified and is unchanged.
+
+---
+
 ## Sources
 
+- VA, FY2025 Annual Benefits Report (Compensation), service-connected disability totals as of Sept. 30, 2025: <https://www.benefits.va.gov/REPORTS/abr/>
+- 38 C.F.R. §4.97 (DC 6847, sleep apnea) and §4.87 (DC 6260, tinnitus), current rating schedule: <https://www.ecfr.gov/current/title-38/chapter-I/part-4>
+- VSO letter of support for H.R. 9237, June 29, 2026 (signatories incl. VVA, MOAA, AMVETS, TAPS): <https://www.legion.org/getmedia/55ca767e-ba69-4845-8967-99f8faa7fd45/Take-Care-of-Americas-Veterans-Act_VSO-Letter-of-Support_June-29-2026-v2.pdf>
 - H. Rept. 119-707 (Rules report for H.Res.1377; closed rule; Committee Votes 368–373, incl. Langworthy by name): <https://www.govinfo.gov/content/pkg/CRPT-119hrpt707/pdf/CRPT-119hrpt707.pdf>
 - H.R. 9237 bill text (Secs. 101, 104, 108, 302, 332): <https://www.govinfo.gov/content/pkg/BILLS-119hr9237ih/xml/BILLS-119hr9237ih.xml>
 - H.R. 9237 status and cosponsors: <https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9237.xml>
@@ -98,4 +117,4 @@ The narrower point stands. The clean, on-the-record choice in front of the Rules
 
 **Note:** The "misleading veterans / dangerous graphics" statement quoted above was posted by the **House Committee on Veterans' Affairs GOP** account (the committee majority), not by Rep. Langworthy, who does not serve on that committee; this entry does not attribute it to him and includes it only as context. Accountability here attaches to his own recorded Rules Committee votes (H. Rept. 119-707). The entry credits the bill's genuine expansions and the fact that existing ratings are protected (Sec. 108(c)(2)); the "$57 billion" figure is attributed to a VA analysis cited by the veterans groups, not a CBO estimate. The committee votes are procedural — on whether the House may consider an amendment under a closed rule.
 
-*Last updated: July 3, 2026*
+*Last updated: July 25, 2026 (see Correction above).*
