@@ -1,133 +1,103 @@
 ---
-title: "Two Flags, Three Weeks Apart: The Causal Claims He Makes and the Ones He Would Reject"
+title: "The Causal Claims He Makes, and the One He Rejected When It Was Aimed at Him"
 date: 2026-07-25
 draft: true
-hold_reason: "Three items. (1) Save the three Facebook screenshots supplied by a reader to static/images/fact-checks/ as 2026-07-25-buffalo-flag-post-jul1.png, -jul2.png and -jul3.png, and the July 25 Mamdani post as 2026-07-25-mamdani-post.png; the figure shortcodes below reference them and the entry must not publish with broken images. (2) Send the standard request for comment to Langworthy's office on the causal claim in the July 2 post and on the July 25 post, and record the response or non-response. (3) Confirm whether the August 2 replacement fireworks show took place, and whether the Somali flag raising had in fact occurred in prior years as Mayor Ryan states, which is currently his assertion only."
+hold_reason: "Verification pass completed 2026-07-25; Section B corrections applied. Three items remain. (1) Save the reader-supplied screenshots to static/images/fact-checks/ as 2026-07-25-buffalo-flag-post-jul3.png and 2026-07-25-mamdani-post.png. The July 25 post screenshot is the ONLY evidence for that post: no press release, no secondary coverage and no archive capture could be located, so the screenshot must be filed before publish. (2) Send the standard request for comment to Langworthy's office on the July 25 post. (3) Attempt once more to corroborate the July 25 Newsmax appearance itself; Newsmax ran Mamdani segments that week but his was not located."
 topic: "Rhetoric"
-claim_date: "July 1-25, 2026"
+claim_date: "July 2-25, 2026"
 source: "Facebook posts, verified official page"
-source_url: "https://www.facebook.com/share/p/1XyHochJPn/"
+source_url: "https://www.facebook.com/share/p/1EjNgHJN7k/"
 archived_url: ""
-archive_note: "The four Facebook posts are login-walled. Facebook serves logged-out visitors a single post before a login wall, and Wayback holds no capture of the page. The preservation artifacts are reader-supplied screenshots showing the verified page, timestamps and share permalinks, filed under static/images/fact-checks/. The July 1 and July 3 posts are additionally quoted verbatim by WKBW, which is archivable and cited below."
-verdict: "MISSING CONTEXT"
-tags: ["rhetoric", "buffalo", "flag-raising", "causal-claims", "immigration", "antisemitism", "out-of-district", "pattern"]
+archive_note: "The Facebook posts are login-walled; Facebook serves logged-out visitors a single post before a login wall and Wayback holds no capture of the page. Preservation artifacts are reader-supplied screenshots showing the verified page, timestamps and share permalinks, filed under static/images/fact-checks/. The July 2 post is additionally quoted verbatim by WKBW. The July 25 post has NO independent corroboration: no press release, no secondary coverage, no X or Wayback capture was located, so it rests solely on the reader screenshot showing the verified page."
+verdict: "NOT SUPPORTED"
+tags: ["rhetoric", "causal-claims", "buffalo", "antisemitism", "pattern"]
 counties: ["erie"]
 ---
 
 ## Why This Matters for NY-23
 
-Over three weeks in July 2026, Rep. Langworthy made two public arguments that share a structure. In the first, a flag raising at Buffalo City Hall caused the cancellation of a fireworks show. In the second, a New York City mayor's rhetoric made "every Jewish New Yorker less safe."
+Twice in July 2026, Rep. Langworthy asserted that one thing had caused another. Both assertions were offered as established fact. Neither has evidence behind it.
 
-Neither is a matter of opinion. Both are claims that one thing caused another, and both can be checked. This entry checks them.
+Then a third party made the same kind of claim about *his* rhetoric, and he rejected it.
 
-It does not evaluate whether the underlying criticisms are reasonable. Buffalo residents were genuinely disappointed to lose a fireworks show on the country's 250th birthday, and that is a fair thing for an elected official to raise. Antisemitic violence in New York is real, and it happened. What is examined here is narrower: whether the causal link he asserted in each case is supported by the record.
+This entry is not about whether his underlying criticisms were fair. Buffalo residents were genuinely disappointed about the Fourth of July, and that is a legitimate thing for an elected official to raise. Antisemitic violence in New York is real, and in July it was lethal in intent. This entry is about a narrower and more checkable thing: the causal link asserted in each case, and whether the standard he applies to others is the one he accepts for himself.
 
----
-
-## A. The Buffalo Posts
-
-Somalia's Independence Day is **July 1**, the anniversary of the 1960 union that formed the republic. On July 1, 2026, Buffalo held a flag-raising ceremony at Niagara Square for the city's Somali community. Rep. Langworthy posted three times in three days.
-
-**July 1, 4:22 PM** — shared over a post from the account @EndWokeness, above photographs of identifiable members of Buffalo's Somali community at the ceremony:
-
-> "Buffalo's leaders claimed they 'couldn't find a site' to celebrate America's 250th birthday with fireworks. Yet they somehow had no trouble finding the time and space to raise a Somali flag.
->
-> That wasn't a logistical challenge. It was a choice.
->
-> At a moment when our nation should be celebrating 250 years of freedom, those in charge sent a clear message about what they value, and it wasn't America."
-
-**Overnight, July 1–2**, vandals broke the flagpole's access panel, cut the cable and stole the flag. Buffalo police also began investigating an online threat to blow up City Hall.
-
-**July 2, 1:10 PM** — posted over a WGRZ story about the city's explanation:
-
-> "Here's the only clarity you need: Democrats are nominating anti-America socialist candidates across the country--including right here in Buffalo. The decision to cancel fireworks for our nation's 250th birthday while simultaneously raising the Somali flag has everything to with THAT and nothing to do with logistics. #facts"
-
-**July 3, 7:11 PM:**
-
-> "Sean Ryan can call me whatever he wants. I'm not backing down… the Mayor canceled that celebration while presiding over a ceremony honoring a foreign flag… Those were his priorities. Mine are clear: I'll always stand for America, celebrate our flag, honor our history, and never apologize for believing that America should come first."
+The Buffalo claims are fact-checked in full in a separate entry. **[Fireworks, a Flag, and a Missing Launch Site: What Buffalo Actually Said About July 4](/fact-checks/2026-07-02-buffalo-fireworks-somali-flag/)** establishes the record: the city's stated safety-and-site reason, that Buffalo had not held a city July 4 fireworks display since 2015, that the America 250 show remained on the calendar for August 2, and that the flag raising was an annual event run by the nonprofit Heal International. This entry does not re-litigate any of that. It takes up what happened next.
 
 ---
 
-## B. What the Record Shows
+## A. Buffalo: "nothing to do with logistics"
 
-*Four facts, none of which appear in the three posts.*
+**July 2, 2026, 1:10 PM**, posted over a news report of the city's explanation:
 
-**1. Flag raisings at Niagara Square are a standing municipal practice.** WKBW: "Flag-raising ceremonies are a longstanding tradition at Niagara Square, where politicians and communities gather for speeches and photos as they hoist the flags of other countries and causes," and "the city regularly hosts flag-raising ceremonies for various organizations and communities throughout the year." Flags flown there have included Ukraine, Greece, Ireland, Puerto Rico, Italy, Poland, Bangladesh, the Karen community and the Haudenosaunee.
+> "The decision to cancel fireworks for our nation's 250th birthday while simultaneously raising the Somali flag has everything to with THAT and nothing to do with logistics. **#facts**"
 
-**2. No American flag was lowered or displaced.** Niagara Square has **two** flagpoles. One flies the American flag continuously. The second was dedicated in 1986, presented by the AMVETS to then-Mayor Jimmy Griffin and originally intended for the Canadian flag; it has been rotated for other flags ever since. The Somali flag went on the second pole.
+That is a claim about *why* a decision was made, tagged as fact. The city had given a written, logistical reason. No evidence has been offered, then or since, that the two decisions were connected.
 
-**3. The date was fixed by the calendar, not chosen.** July 1 is Somalia's Independence Day. Mayor Sean Ryan says the flag "was hung on Niagara Square on July 1st as it has been for several years." *(That is the mayor's statement; we have not independently confirmed prior years, and it is flagged for verification.)* The fireworks cancellation was announced separately, before the ceremony.
-
-**4. The city gave a stated reason, and it was logistical.** From the Ryan administration's statement, released earlier the same Wednesday:
-
-> "The administration had been in discussions with local business leaders to plan a Fourth of July fireworks event for the City of Buffalo. After exploring potential locations, an appropriate site could not be identified that would provide a safe and widely accessible viewing experience for residents. As a result, the City will not be hosting a downtown fireworks display this year."
-
-A donor, restaurateur Russ Salvatore, had offered to fund a downtown show. A replacement display was scheduled for August 2 at the Naval and Military Park.
-
-**In plain language:** a routine flag raising, on a fixed anniversary, on a pole set aside for rotating flags, while the American flag flew beside it. Described as a mayor "presiding over a ceremony honoring a foreign flag" instead of the country's birthday.
-
-### The claim that fails
-
-You can argue the city's explanation is unconvincing. Erie County Republican Chairman Michael Kracker did exactly that, and it is a fair argument: "if the mayor wanted to make the fireworks happen, he would have made it happen."
-
-That is not what the July 2 post says. It says the cancellation "has everything to with THAT" — the flag raising and "anti-America socialist candidates" — "and nothing to do with logistics," tagged **#facts**. That is an assertion about why a decision was made, offered as established fact. **No evidence supports it.** The two decisions were announced separately, the flag date was fixed, and the city's stated reason concerns sites and vendor safety.
-
-**Verdict on the Buffalo posts: MISSING CONTEXT**, and on the July 2 causal claim specifically, **NOT SUPPORTED**.
+**Verdict: NOT SUPPORTED.**
 
 ---
 
-## C. Three Weeks Later, The Same Structure
+## B. New York: "made every Jewish New Yorker less safe"
 
-On **July 21–22**, New York City Mayor Zohran Mamdani said the city lacked authority to execute the International Criminal Court's arrest warrant for Israeli Prime Minister Benjamin Netanyahu, called on the federal government to join the ICC and enforce it, and said Netanyahu was not welcome in New York.
+Three weeks later, the same construction, in a far more serious setting.
 
-**A precision point that cuts against the easy version of this story:** the ICC has **not** convicted Netanyahu of anything. In November 2024 its Pre-Trial Chamber found "reasonable grounds to believe" he bears criminal responsibility and issued a warrant. That is a charging threshold, not a finding of guilt. Mamdani's "war criminal" is his own characterization, going beyond what the court found.
+On **July 21**, in a video posted to X, New York City Mayor Zohran Mamdani said: "It is clear that we do not have the independent legal authority to enforce this warrant. The federal government however does and I call on them to join the ICC and execute this warrant." He added: "Benjamin Netanyahu is not welcome in New York City, nor is any other war criminal at large."
 
-On **July 23**, a man stabbed two people near West 84th Street and Central Park West — a 57-year-old Jewish man and a 50-year-old Asian man — reportedly while shouting "Allahu Akbar." Police investigated it as a possible hate crime. **This attack was real.** Mamdani condemned it as "hateful and despicable" but did not use the word antisemitism, and cited an initial police assessment that mental health may have been a factor. That response drew criticism from the Anti-Defamation League's chief executive and Israel's ambassador to the United Nations, among others. **The criticism of him was not confined to one party.**
+**Two precision points, and the first cuts against the easy version of this story.** The ICC has **not** convicted Netanyahu. On November 21, 2024, its Pre-Trial Chamber I "found reasonable grounds to believe" that Netanyahu and former defense minister Yoav Gallant "each bear criminal responsibility" for alleged war crimes and crimes against humanity. That is the charging threshold, not a finding of guilt. Mamdani's "war criminal" goes beyond what the court found. **Second, and in his favor:** in that same video he *retreated* from his campaign pledge to have the NYPD arrest Netanyahu, conceding the city has no such power.
+
+On **July 23**, a man carried out two separate attacks on the Upper West Side. He stabbed **Chok Sung, 57, who is Asian**, in the torso near West 84th Street and Central Park West, then stabbed **Moshe Yezhak Grunhaus, 50, who is Jewish**, about two blocks away as he left The Jewish Center on Tisha B'Av. Per NYPD Commissioner Jessica Tisch, victims and witnesses said the attacker "yelled 'Allahu Akbar' during both attacks." **Raul Morales, 51, has since been charged with assault and attempted murder as hate crimes**, along with weapons possession.
+
+Mamdani condemned the attacks that evening as "hateful and despicable," and relayed Tisch's assessment. Her full formulation matters: the suspect "has **no known mental health history with the NYPD**," but "the initial investigation suggests that mental health may have been a factor."
+
+**His initial statement did not use the word antisemitism, and he was criticized for it. The next day he did.** On July 24 Mamdani said: "There's no tolerance for antisemitism or hatred of any kind in this city," and that anyone "perpetrating that kind of a bigotry, that kind of a hatred, they will be held fully accountable." He also said his criticisms of Netanyahu "are critiques of a political leader, not of people of a specific faith or a religion or a background."
+
+**The criticism of him genuinely was not confined to one party.** At a July 24 gathering at The Jewish Center: **Micah Lasher**, a Democratic assemblymember who had endorsed Mamdani, asked "all those in power, including our mayor… to please help take the temperature down." **Eric Goldstein** of the nonpartisan UJA-Federation said: "Mayor Mamdani, stop fanning the flames of hatred and division. The consequences are not abstract." **Mark Treyger** of the JCRC put it carefully: "No elected official is responsible for every act of hate, but every leader is responsible for helping shape the climate in which we all live."
+
+**And the counterweight, which belongs here too.** Comptroller Brad Lander defended Mamdani. Attorney General Letitia James and Public Advocate Jumaane Williams declined to draw conclusions. NY1 reported that the politicians at the rally largely avoided criticizing the mayor directly.
 
 On **July 25**, Rep. Langworthy posted:
 
-> "Mamdani has chosen to fan the flames of antisemitism with incendiary rhetoric & division that has made every Jewish New Yorker less safe. I joined NEWSMAX to discuss this growing cancer in the Democrat Party."
+> "Mamdani has chosen to fan the flames of antisemitism with incendiary rhetoric & division that **has made every Jewish New Yorker less safe.** I joined NEWSMAX to discuss this growing cancer in the Democrat Party."
 
-Whether Mamdani's statements were antisemitic is a contested judgment, and this entry does not resolve it. One clause is not a judgment: **"has made every Jewish New Yorker less safe"** asserts that Mamdani's words caused a change in physical safety. Nothing in the record establishes it. No evidence ties the attacker to anything Mamdani said, and the police cited mental health.
+Whether Mamdani's statements were antisemitic is a contested judgment, and this entry does not resolve it. **The phrasing was also in circulation:** Eric Goldstein had said "stop fanning the flames of hatred and division" the day before, so the framing was not invented for the post.
 
-**Verdict on that clause: NOT SUPPORTED.**
+One clause is not a judgment. "Has made every Jewish New Yorker less safe" asserts that speech caused a change in physical safety. **No law enforcement official or charging document has drawn that connection.** amNY reported that "investigators had not established a motive or any connection between the attacks and the mayor's statements," and that the suspect "had no known connection to either victim."
 
-### The comparison, set out plainly
+**One foreign official did make the claim**, and a fair reading has to note it: Israeli Foreign Minister Gideon Sa'ar said on July 23 that "this violence did not happen in a vacuum. Months of incitement against the Jewish state from Mamdani have helped create a climate in which Jews are targeted." He offered no evidence, and he is not law enforcement. The assertion exists; the support for it does not.
 
-Langworthy's charge is that Mamdani engages in "incendiary rhetoric & division." Both men made statements in July that went beyond what their evidence supported. The useful question is not who is louder. It is **what each was pointing at, and how far past the record each went.**
-
-| | Mamdani, Jul. 21–22 | Langworthy, Jul. 1–3 | Langworthy, Jul. 25 |
-|---|---|---|---|
-| **Subject** | Benjamin Netanyahu, a named head of government | A flag-raising ceremony for Buffalo's Somali community, and the mayor | Mamdani |
-| **Documented basis** | An **ICC arrest warrant**, issued Nov. 2024 | The fireworks cancellation | Mamdani's statements; the Jul. 23 stabbing |
-| **The overstatement** | Calling him a **"war criminal."** The ICC found "reasonable grounds to believe," a charging standard. A charge is not a conviction | That the cancellation had **"nothing to do with logistics,"** tagged #facts, when the city gave a written logistical reason and three other facts go unmentioned | That the rhetoric **"made every Jewish New Yorker less safe"** |
-| **Evidence for the overstatement** | The warrant exists, but does not establish guilt | **None identified** | **None identified** |
-
-**The distinction that matters, and it is not a matter of tone.** Mamdani overstated the status of a real legal document about a specific individual. Langworthy's two claims assert *causation* — that a ceremony caused a cancellation, and that speech caused danger — and neither has anything behind it. An overstated characterization of a court filing and an invented causal chain are not the same category of error, and this entry does not treat them as equivalent.
-
-**What is fairly said against Mamdani** is also in the record and belongs here: he condemned the July 23 attack without naming antisemitism, and the Anti-Defamation League's chief executive and Israel's ambassador to the UN both criticized him for it. That criticism is not partisan invention.
-
-### The part that closes the loop
-
-Three weeks before accusing Mamdani of rhetoric that endangered people, Langworthy was himself the subject of that exact claim. Mayor Ryan said remarks by Langworthy and Kracker "helped fuel threats and harassment at City Hall," including a bomb threat.
-
-His answer, on July 3: **"Sean Ryan can call me whatever he wants. I'm not backing down."**
-
-He was right to reject it — as Section D explains, Ryan's claim is not established either. The record simply shows him rejecting, when aimed at himself, the same inference he asserted as fact about someone else twenty-two days later.
+**Verdict: NOT SUPPORTED.**
 
 ---
 
-## D. What This Entry Refuses To Do
+## C. The Comparison
 
-*This section is the point of the entry, and it is not a formality.*
+Langworthy's charge is that Mamdani traffics in "incendiary rhetoric & division." Both men said things in July that outran their evidence. The question worth asking is not who was louder, but **what each was pointing at, and how far past the record each went.**
 
-Mayor Ryan told reporters that remarks by Langworthy and Kracker, shared widely online, "helped fuel threats and harassment at City Hall," including a bomb threat, and described "hundreds and hundreds of phone calls from across America… the cesspool of the Internet in a fact-free environment."
+| | Mamdani, Jul. 21–22 | Langworthy, Jul. 2 | Langworthy, Jul. 25 |
+|---|---|---|---|
+| **Subject** | A named head of government | A municipal flag ceremony and the mayor | Mamdani |
+| **Documented basis** | An **ICC arrest warrant** for Netanyahu and Gallant, Nov. 21, 2024 | The absence of a downtown fireworks show | Mamdani's statements; the Jul. 23 attacks |
+| **The overstatement** | Calling him a **"war criminal"** — the ICC found "reasonable grounds to believe," a charging standard. In the same video he *walked back* his arrest pledge | That the decision had **"nothing to do with logistics,"** tagged #facts | That the rhetoric **"made every Jewish New Yorker less safe"** |
+| **Evidence for it** | The warrant is real but establishes no guilt | **None identified** | **None identified** |
 
-**We are not adopting that claim.** It is a causal assertion of exactly the kind examined above, and it is not established either. The July 1 post did precede the overnight vandalism, and that sequence is a fact. It is not evidence that one produced the other, and this site will not say that it was. Kracker, asked directly whether the vandalism was justified, said: "No, no, I don't think it is, and I don't think it ever should be."
+**These are not the same category of error, and we are not going to pretend otherwise.** Mamdani overstated the status of a real legal document about a specific individual. Langworthy's two claims assert *causation* — that a ceremony caused a cancellation, and that speech caused danger — with nothing behind either.
 
-The mayor also said: "I never heard Nick Langworthy or Michael Kracker complain when we hung a flag of a European white nation. But when we hang the flag of an African nation with brown people in it, suddenly there's big complaints." **That is the mayor's characterization of motive, reported here as his statement and not adopted as a finding.** This site does not assert what is in anyone's head. Whether Langworthy objected to any of the other flag raisings at Niagara Square is a documentable question, and it is listed below as unresolved.
+---
 
-The standard has to run in both directions or it is not a standard.
+## D. The Claim He Rejected
+
+On **July 3**, Buffalo Mayor Sean Ryan said remarks by Langworthy and Erie County Republican Chairman Michael Kracker, spread widely online, "helped fuel threats and harassment at City Hall," including a threat to blow up the building. The flag had been stolen and the flagpole cut overnight on July 1–2.
+
+Langworthy's response the same day:
+
+> "Sean Ryan can call me whatever he wants. I'm not backing down."
+
+**He was right to reject it.** Ryan's claim is a causal assertion of exactly the kind this entry examines, and it is not established either. This site does not say his posts caused the vandalism or the threat. The sequence is a fact; the inference is not, and refusing it is the whole point of the entry. Kracker, asked directly whether the vandalism was justified, said: "No, no, I don't think it is, and I don't think it ever should be."
+
+Ryan also said: "I never heard Nick Langworthy or Michael Kracker complain when we hung a flag of a European white nation. But when we hang the flag of an African nation with brown people in it, suddenly there's big complaints." **That is the mayor's characterization of motive, reported as his statement and not adopted as a finding.** This site does not assert what is in anyone's head.
+
+**Twenty-two days after refusing that inference for himself, he asserted it as fact about someone else.**
 
 ---
 
@@ -135,63 +105,47 @@ The standard has to run in both directions or it is not a standard.
 
 | Question | Status |
 |---|---|
-| What evidence supports "nothing to do with logistics" | None offered; no response to the city's stated reason |
-| Whether he objected to prior Niagara Square flag raisings for other nations | Not researched; no statements located either way |
+| What evidence supports "nothing to do with logistics" | None offered |
 | What evidence supports "made every Jewish New Yorker less safe" | None offered |
-| Whether he accepts that a member's rhetoric can contribute to threats | No statement; he rejects the inference when applied to himself |
-| Whether the August 2 replacement fireworks show took place | Not confirmed |
-| Whether the Somali flag was raised in prior years | Asserted by Mayor Ryan; not independently confirmed |
+| Whether he objected to any of the other flags flown at Niagara Square | No statements located either way |
+| Whether he accepts that a member's rhetoric can contribute to threats | Rejected when applied to himself; asserted about others |
+| Whether the July 25 post has any corroboration beyond the screenshot | None located: no press release, no secondary coverage, no archive |
 
 ---
 
 ## A Note on What the Record Does — and Doesn't — Show
 
-**Documented:**
-- Three posts on July 1, 2 and 3, 2026, from the verified page, with timestamps and permalinks.
-- Niagara Square flag raisings are a standing practice; the square has two poles and the American flag flies continuously on one.
-- July 1 is Somalia's Independence Day, a fixed anniversary.
-- The city gave a written, logistical reason for the cancellation, and a donor had offered to fund a show.
-- The July 2 post asserts a causal link between the flag raising and the cancellation, tagged #facts.
-- The July 25 post asserts that Mamdani's rhetoric made "every Jewish New Yorker less safe."
-- Buffalo is **not in NY-23**. WKBW notes his "district does not include the city of Buffalo," consistent with [the Buffalo airport entry](/fact-checks/2026-02-18-buffalo-airport-snow-equipment/) and [the earmark entry](/fact-checks/2026-07-09-earmark-credit-shared-out-of-district/).
+**Documented:** the posts, from the verified page, with timestamps and permalinks; the city's written reason (see the companion entry); the ICC warrant of Nov. 21, 2024 and its legal standard; the two July 23 attacks and the hate-crime charges against Raul Morales; Mamdani's statements on July 21, 23 and 24; the criticism from Democratic and nonpartisan figures and the defenses from others; Ryan's causal claim and Langworthy's rejection of it.
 
-**Not documented, and not claimed:**
-- That any post caused the vandalism, the theft or the bomb threat. The sequence is stated; the inference is refused.
-- That Mayor Ryan's causal claim about online rhetoric is established. It is not.
-- Any finding about Langworthy's motives, including the mayor's characterization of them.
-- Any judgment about whether Mamdani's statements were antisemitic.
-- Any suggestion the July 23 stabbing was not a real antisemitic attack, or that criticism of Mamdani's response was purely partisan. It was neither.
+**Not documented, and not claimed:** that any post caused the vandalism, the theft or the threat; that Ryan's causal claim is established; any finding about anyone's motives, including the mayor's characterization of Langworthy's; any judgment on whether Mamdani's statements were antisemitic; any suggestion that criticism of Mamdani's response was merely partisan, since it plainly was not. **Nor do we suggest Mamdani failed to address antisemitism** — his first statement did not use the word and his second did, and both are quoted above.
 
 ---
 
-## Verdict: MISSING CONTEXT
+## Verdict: NOT SUPPORTED
 
-The Buffalo posts describe a routine municipal ceremony, held on a fixed anniversary, on a pole reserved for rotating flags, beneath a continuously flying American flag, as a mayor choosing a foreign flag over his own country's birthday. Four material facts are absent, and the city's written explanation goes unmentioned. The July 2 post goes further and asserts, as **#facts**, a causal link between the two decisions that no evidence supports.
+Two causal claims, three weeks apart, both offered as established and neither supported by anything in the record. In between, the same kind of claim was made about his own rhetoric, and he rejected it — correctly, because it was not established either.
 
-Three weeks later the same construction reappears in a different setting: a public figure's words are said to have made an entire population "less safe," with nothing offered to connect them.
-
-A member of Congress is entitled to criticize a mayor, to object to a cancelled celebration, and to condemn antisemitism. What the record does not support is the specific causal claim advanced in each case — a standard he applies to others and, when the Buffalo mayor turned it on him, rejected.
+A member of Congress is entitled to criticize a mayor, to be angry about a cancelled celebration, and to condemn antisemitism. What the record does not support is the causal chain asserted in each case, or the asymmetry in when that standard is thought to apply.
 
 ---
 
 ## Related Entries
 
+- [Fireworks, a Flag, and a Missing Launch Site: What Buffalo Actually Said About July 4](/fact-checks/2026-07-02-buffalo-fireworks-somali-flag/)
 - [Buffalo Airport Snow Equipment: Credit Claimed in Another Member's District](/fact-checks/2026-02-18-buffalo-airport-snow-equipment/)
-- [Earmark Credit, Shared and Out of District](/fact-checks/2026-07-09-earmark-credit-shared-out-of-district/)
-- [Constituent Access: No In-Person Town Halls in 3+ Years](/fact-checks/2025-04-constituent-access-town-halls/)
 
 ---
 
 ## Sources
 
-- Facebook, verified page of Rep. Nick Langworthy, posts of Jul. 1 (4:22 PM), Jul. 2 (1:10 PM) and Jul. 3 (7:11 PM), 2026: <https://www.facebook.com/share/p/1XyHochJPn/> · <https://www.facebook.com/share/p/1EjNgHJN7k/> · <https://www.facebook.com/share/p/1J5vMvTogg/>
-- WKBW, "Somali flag stolen from Buffalo flagpole, BPD investigating City Hall threat" (city statement; Langworthy and Kracker quotes; "district does not include the city of Buffalo"): <https://www.wkbw.com/news/local-news/somali-flag-stolen-from-city-of-buffalo-flagpole-in-niagara-square>
-- WKBW, Maki Becker, "Buffalo mayor defends Somali flag ceremony at Niagara Square amid threats, harassment" (two flagpoles, 1986 AMVETS dedication, Ryan quotes): <https://www.wkbw.com/news/local-news/buffalo/buffalo-mayor-defends-somali-flag-ceremony-at-niagara-square-amid-threats-harassment>
-- Buffalo Toronto Public Media, "Flagpole vandalized, Somali flag stolen amid city fireworks outrage," Jul. 2, 2026: <https://www.btpm.org/local/2026-07-02/somali-flag-cut-down-and-stolen-from-niagara-square-amid-city-fireworks-outrage>
+- Facebook, verified page of Rep. Nick Langworthy, posts of Jul. 2 (1:10 PM), Jul. 3 (7:11 PM) and Jul. 25, 2026: <https://www.facebook.com/share/p/1EjNgHJN7k/> · <https://www.facebook.com/share/p/1J5vMvTogg/>
+- WKBW, "Somali flag stolen from Buffalo flagpole, BPD investigating City Hall threat": <https://www.wkbw.com/news/local-news/somali-flag-stolen-from-city-of-buffalo-flagpole-in-niagara-square>
+- WKBW, Maki Becker, "Buffalo mayor defends Somali flag ceremony at Niagara Square amid threats, harassment": <https://www.wkbw.com/news/local-news/buffalo/buffalo-mayor-defends-somali-flag-ceremony-at-niagara-square-amid-threats-harassment>
 - NPR, "Mamdani says New York City can't arrest Netanyahu but the federal government should," Jul. 22, 2026: <https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu>
-- International Criminal Court, warrants of arrest in the Situation in the State of Palestine, Nov. 21, 2024: <https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-israels-challenges-jurisdiction-and>
-- Jewish Insider, "Jewish man stabbed in Manhattan by assailant allegedly yelling 'Allahu Akbar'": <https://jewishinsider.com/2026/07/jewish-man-stabbed-upper-west-side-new-york/>
+- International Criminal Court, "Situation in the State of Palestine: ICC Pre-Trial Chamber I rejects the State of Israel's challenges to jurisdiction and issues warrants of arrest," Nov. 21, 2024: <https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-rejects-state-israels-challenges>
+- NYPD Commissioner Jessica Tisch, public statements on the Jul. 23 attacks; charges against Raul Morales reported by NY1 and Gothamist, Jul. 24, 2026
+- amNY, on the absence of any established connection between the attacks and the mayor's statements: <https://www.amny.com/politics/jewish-mamdani-israel-upper-westside-stab/>
 
 ---
 
-*All quotations are from the posts themselves or from named reporting. Causal claims are identified as such and evaluated against the available record, including causal claims made about Rep. Langworthy. Where a statement reflects someone's characterization of another person's motives, it is attributed and not adopted.*
+*Causal claims are identified as such and evaluated against the record, including causal claims made about Rep. Langworthy. Where a statement reflects one person's characterization of another's motives, it is attributed and not adopted.*

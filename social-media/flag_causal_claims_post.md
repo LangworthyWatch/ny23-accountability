@@ -1,44 +1,43 @@
-# Facebook post: flag raising and causal claims (July 25, 2026)
+# Facebook post: the causal-claim pattern (July 25, 2026)
 Companion to 2026-07-25-flag-raising-posts-causal-claims.
 
 NOTE: the fact-check is still draft:true and held. Do not post until it
-publishes, or the closing URL will 404. Hard rules for this one:
-- Do NOT suggest his posts caused the vandalism, the theft or the bomb
-  threat. The entry explicitly refuses that inference, and a caption that
-  makes it would destroy the entry's whole argument.
-- Do NOT call the posts racist or race-baiting. The entry documents a
-  causal-claim pattern and imputes no motive.
-- Mayor Ryan's "European white nation" line is his characterization. If it
-  is used at all it must be attributed to him, not adopted. It is left out
-  of this draft on purpose.
-- Verdict label must stay MISSING CONTEXT to match the entry.
+publishes. Hard rules for this one:
+- Do NOT suggest his posts caused the Buffalo vandalism or the bomb threat.
+  The entry explicitly refuses that inference; a caption that makes it would
+  destroy the entry's argument.
+- Do NOT call the posts racist or race-baiting. No motive is imputed.
+- Do NOT say Mamdani failed to address antisemitism. His first statement did
+  not use the word; the next day he did. Both are in the entry.
+- The victims: the 57-year-old is Asian, the 50-year-old is Jewish. An
+  earlier draft had these reversed. Do not reintroduce that error.
+- The Buffalo fireworks facts belong to the separate July 2 entry and its own
+  caption. This one is about the pattern.
 
 ---
 
-Buffalo has two flagpoles at Niagara Square. The American flag flies on one of them, always.
+Twice this month Nick Langworthy said one thing caused another. Neither claim has anything behind it.
 
-The second one rotates. It was donated by the AMVETS in 1986, and over the years it has flown the flags of Ukraine, Greece, Ireland, Puerto Rico, Italy, Poland, Bangladesh and the Haudenosaunee.
+July 2, on Buffalo's missing fireworks show: the decision "has everything to with THAT and nothing to do with logistics," tagged #facts. The city had already given a written reason involving launch sites and vendor safety. No evidence has ever been offered that the flag raising had anything to do with it.
 
-On July 1 it flew the Somali flag, for Somalia's Independence Day. July 1 is the date of that anniversary. Nobody picked it to make a point.
+July 25, on the mayor of New York: Mamdani's rhetoric "has made every Jewish New Yorker less safe."
 
-Nick Langworthy posted about it three times in three days, describing the mayor as "presiding over a ceremony honoring a foreign flag" instead of celebrating America's 250th birthday.
+Two men were stabbed on the Upper West Side on July 23, one Asian and one Jewish, and a man has been charged with assault and attempted murder as hate crimes. It was serious and it was real. But no law enforcement official and no charging document has connected it to anything Mamdani said. Investigators have not established a motive, and the suspect had no known connection to either victim.
 
-Here is what the posts leave out:
+Here is the part that makes this worth writing down.
 
-→ The city gave a written reason for cancelling the fireworks: after exploring locations, no site was found that offered "a safe and widely accessible viewing experience." A donor had offered to pay. A replacement show was set for August 2.
+On July 3, Buffalo's mayor said Langworthy's own remarks helped fuel threats against City Hall, including a threat to blow the building up. Langworthy's answer: "Sean Ryan can call me whatever he wants. I'm not backing down."
 
-→ Flag raisings at Niagara Square are a longstanding city tradition, held all year for many communities.
+He was right to reject it. That claim isn't established either, and we are not making it. We do not say his posts caused the vandalism or the threat.
 
-→ No American flag was lowered. Different pole.
+Twenty-two days later he asserted exactly that kind of inference as fact about someone else.
 
-The July 2 post goes further and says the cancellation "has everything to with THAT and nothing to do with logistics," tagged #facts. That is a claim about why a decision was made, offered as established. Nothing supports it.
+→ Rhetoric causing danger is a serious charge. It requires evidence.
+→ Nobody has produced any, in either direction.
+→ He knows this, because he said so when it was pointed at him.
 
-Three weeks later he wrote that Mamdani's rhetoric "has made every Jewish New Yorker less safe." Same construction. The July 23 stabbing in Manhattan was real and horrific, and criticism of Mamdani's response came from the ADL too, not just Republicans. But no evidence ties the attacker to anything Mamdani said, and police cited mental health.
+To be fair on all sides: criticism of Mamdani's first statement was real and came from Democrats and nonpartisan Jewish community leaders, not just Republicans. And the phrase Langworthy used was already circulating, from a UJA-Federation leader, the day before.
 
-And we are holding the line in both directions. Buffalo's mayor said Langworthy's remarks helped fuel threats against City Hall. We are not saying that either. It is the same kind of claim, and it is not proven. Langworthy rejected it when it was aimed at him, and he was right to.
-
-He is entitled to criticize a mayor and to condemn antisemitism. What the record does not support is the specific causal claim he made each time.
-
-Don't take our word for it. Read the posts and the city's statement yourself.
+None of that supplies the missing link.
 
 Full fact-check: langworthywatch.org

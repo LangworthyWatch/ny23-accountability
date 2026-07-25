@@ -14,17 +14,27 @@ counties: ["erie"]
 
 ## Why This Matters
 
-In two July 1 posts, Rep. Langworthy tied Buffalo's lack of a downtown Fourth of July fireworks show to the city raising the Somali flag the same week, and told readers the decision "has everything to [do] with THAT and nothing to do with logistics." The second post is blunter: "That wasn't a logistical challenge. It was a choice … those in charge sent a clear message about what they value, and it wasn't America." Two things did happen in the same week. The question this entry takes up is whether the connection Langworthy draws between them survives the public record — the mayor's stated reason, the nature of the flag event, and what Buffalo is in fact doing for America's 250th.
+Across three posts on July 1, 2 and 3, Rep. Langworthy tied Buffalo's lack of a downtown Fourth of July fireworks show to the city raising the Somali flag the same week, telling readers the decision "has everything to [do] with THAT and nothing to do with logistics." Two things did happen in the same week. The question this entry takes up is whether the connection Langworthy draws between them survives the public record — the mayor's stated reason, the nature of the flag event, and what Buffalo is in fact doing for America's 250th.
 
 ---
 
 ## Statement
 
-**Source:** Facebook Posts, July 1, 2026
+**Source:** Facebook posts, verified official page, July 1–3, 2026
+
+**July 1, 4:22 PM**, posted above photographs of the flag-raising ceremony:
+
+> "Buffalo's leaders claimed they 'couldn't find a site' to celebrate America's 250th birthday with fireworks. Yet they somehow had no trouble finding the time and space to raise a Somali flag. That wasn't a logistical challenge. It was a choice … those in charge sent a clear message about what they value, and it wasn't America."
+
+**July 2, 1:10 PM**, posted over a WGRZ report on the city's explanation:
 
 > "Here's the only clarity you need: Democrats are nominating anti-America socialist candidates across the country—including right here in Buffalo. The decision to cancel fireworks for our nation's 250th birthday while simultaneously raising the Somali flag has everything to with THAT and nothing to do with logistics. #facts"
 
-> "Buffalo's leaders claimed they 'couldn't find a site' to celebrate America's 250th birthday with fireworks. Yet they somehow had no trouble finding the time and space to raise a Somali flag. That wasn't a logistical challenge. It was a choice … those in charge sent a clear message about what they value, and it wasn't America."
+**July 3, 7:11 PM**, after Mayor Ryan responded publicly:
+
+> "Sean Ryan can call me whatever he wants. I'm not backing down. I believe a city as great as Buffalo should proudly celebrate America's 250th birthday. Instead, the Mayor canceled that celebration while presiding over a ceremony honoring a foreign flag… Those were his priorities. Mine are clear: I'll always stand for America, celebrate our flag, honor our history, and never apologize for believing that America should come first."
+
+*(On the July 3 post's "canceled that celebration": as Claim 1 and Claim 4 below set out, Buffalo had not held a city July 4 fireworks display since 2015, and the America 250 show remained on the calendar. There was no standing celebration to cancel.)*
 
 ---
 
@@ -83,6 +93,17 @@ The posts leave the impression that Buffalo declined to celebrate the nation's 2
 **Documented:** the city's stated safety/site reason for not adding a downtown show; the vendor (Salvatore) and the debris/fallout concern; Buffalo's absence of a July 4 city fireworks display since 2015; the Aug. 2 Canalside America 250 fireworks with Erie County; the Somali flag-raising as an annual Heal International / community event; the city's use of the same poles for many nations' flags; the overnight theft of the flag and a reported threat to City Hall.
 
 **Not established (and asserted anyway in the posts):** that the fireworks decision was made for ideological rather than logistical reasons; that the flag-raising and the fireworks decision were connected acts by "those in charge"; that Buffalo is not celebrating the 250th.
+
+---
+
+## Correction and Update
+
+**July 25, 2026.** A reader supplied screenshots of the posts from the verified page, with timestamps and share permalinks. They establish two things this entry originally got wrong or lacked.
+
+- **The dates were wrong.** This entry described "two July 1 posts" and sourced both to July 1. Only the first is from July 1 (4:22 PM). The "Here's the only clarity you need" post is from **July 2 at 1:10 PM**, published after the city's explanation had been reported. Both are now dated and shown in the order they were written.
+- **A third post has been added.** On **July 3 at 7:11 PM**, after Mayor Ryan responded publicly, Langworthy posted again. That post is now included, along with a note on its "canceled that celebration" framing.
+
+The entry's four claim verdicts are unchanged.
 
 ---
 
