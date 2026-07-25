@@ -38,58 +38,60 @@ STAGES = [
     ("7", RED, "votes to keep an unauthorized war going",
      "Two passed the House anyway. One failed on a 212 to 212 tie."),
     ("18→14", ORANGE, "the Pentagon's death count went DOWN",
-     "Wounded fell 482 to 420. Zero July wounded recorded."),
+     "A New York soldier's name came off the list."),
+    ("10,000", RED, "veterans lost their homes to foreclosure",
+     "VA ended the backstop 13 months before its replacement opened."),
     ("50%→0%", RED, "sleep apnea rating, for future claims",
-     "Tinnitus loses its standalone rating. He voted 7 times to keep it in."),
+     "Tinnitus loses its standalone rating too. He voted 7 times to keep it in."),
     ("1,102", ORANGE, "fewer VBA claims examiners",
-     "67,849 claims already past 125 days. Vacancies unfilled by policy."),
+     "67,849 claims already sitting past 125 days."),
     ("5.1%", BRONZE, "cut to VA research staffing",
      "Research is how the next PACT Act ever gets proven."),
 ]
 
 LX, SX, RIGHT = 44, 248, c.w - 60
 for i, (stat, accent, head, detail) in enumerate(STAGES, 1):
-    dl = wrap(detail, 15, False, RIGHT - SX)
-    row_h = 98
+    dl = wrap(detail, 14, False, RIGHT - SX)
+    row_h = 80
     c.rect(LX, y, LX + 5, y + row_h, fill=accent)
     c.rect(LX + 5, y, c.w - 44, y + row_h, fill=WHITE, outline=BORDER, radius=0)
-    c.d.ellipse([c._p(LX + 20), c._p(y + 36), c._p(LX + 46), c._p(y + 62)], fill=NAVY)
-    c.text(LX + 33, y + 49, str(i), size=14, bold=True, fill=WHITE, anchor="mm")
-    c.text(LX + 60, y + 50, stat, size=(42 if len(stat) <= 5 else 33),
+    c.d.ellipse([c._p(LX + 20), c._p(y + 29), c._p(LX + 44), c._p(y + 53)], fill=NAVY)
+    c.text(LX + 32, y + 41, str(i), size=13, bold=True, fill=WHITE, anchor="mm")
+    c.text(LX + 56, y + 42, stat, size=(38 if len(stat) <= 5 else 30),
            impact=True, fill=accent, anchor="lm")
-    c.text(SX, y + 34, head, size=17, bold=True, fill=DARK, anchor="lm")
-    yy = y + 58
+    c.text(SX, y + 29, head, size=16, bold=True, fill=DARK, anchor="lm")
+    yy = y + 52
     for ln in dl:
-        c.text(SX, yy, ln, size=15, fill="#4A5568", anchor="lm")
-        yy += 19
-    y += row_h + 8
+        c.text(SX, yy, ln, size=14, fill="#4A5568", anchor="lm")
+        yy += 18
+    y += row_h + 6
 
 # ── Closing panel: the oversight seat ──
-y += 8
-pan_h = 132
+y += 6
+pan_h = 118
 c.panel(44, y, c.w - 44, y + pan_h, fill=NAVY, outline=None, radius=8)
-c.text(c.w / 2, y + 30, "He sits on the Oversight Committee.",
-       size=25, bold=True, fill=WHITE, anchor="mm")
-c.text(c.w / 2, y + 62, "The committee that investigates federal agencies. He is in the majority.",
-       size=16, fill="#CBD5E0", anchor="mm")
-c.text(c.w / 2, y + 92, "Twelve senators had to send a letter. He could call a hearing.",
-       size=18, bold=True, fill=GOLD, anchor="mm")
-c.text(c.w / 2, y + 115, "No hearing request, committee letter, or statement located.",
-       size=15, fill="#93A9C4", anchor="mm")
-y += pan_h + 16
+c.text(c.w / 2, y + 27, "He sits on the Oversight Committee.",
+       size=24, bold=True, fill=WHITE, anchor="mm")
+c.text(c.w / 2, y + 56, "The committee that investigates federal agencies. He is in the majority.",
+       size=15, fill="#CBD5E0", anchor="mm")
+c.text(c.w / 2, y + 83, "Twelve senators had to send a letter. He could call a hearing.",
+       size=17, bold=True, fill=GOLD, anchor="mm")
+c.text(c.w / 2, y + 104, "No hearing request, committee letter, or statement located.",
+       size=14, fill="#93A9C4", anchor="mm")
+y += pan_h + 12
 
 # ── Fairness line (kept, compressed) ──
-c.text(c.w / 2, y + 9, "What cuts the other way: he voted to RAISE toxic exposure funding, and he has",
-       size=15, fill=GREEN, anchor="mm")
-c.text(c.w / 2, y + 30, "no PACT Act votes at all. That law passed before he took office.",
-       size=15, fill=GREEN, anchor="mm")
-y += 50
+c.text(c.w / 2, y + 8, "What cuts the other way: he voted to RAISE toxic exposure funding, and he has",
+       size=14, fill=GREEN, anchor="mm")
+c.text(c.w / 2, y + 27, "no PACT Act votes at all. That law passed before he took office.",
+       size=14, fill=GREEN, anchor="mm")
+y += 52
 
 # ── Sources + URL ──
 c.text(c.w / 2, y + 6,
-       "Sources: clerk.house.gov  ·  DoD Inspector General  ·  VA Workforce Dashboard  ·  VBA  ·  12-senator letter",
-       size=13, fill=MUTED, anchor="mm")
-c.text(c.w / 2, y + 28, "langworthywatch.org", size=17, bold=True, fill=NAVY, anchor="mm")
+       "Sources: clerk.house.gov  ·  DoD Inspector General  ·  VA circulars  ·  ICE Mortgage Technology via NPR  ·  12-senator letter",
+       size=12, fill=MUTED, anchor="mm")
+c.text(c.w / 2, y + 30, "langworthywatch.org", size=17, bold=True, fill=NAVY, anchor="mm")
 
 c.footer_bar()
 c.save(os.path.join(os.path.dirname(os.path.abspath(__file__)), "veterans_pipeline_card.png"),

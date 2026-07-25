@@ -2,31 +2,37 @@
 Companion to veterans_pipeline_card.png and the fact-check.
 
 NOTE: the fact-check is still draft:true. Do not post until it publishes,
-or the closing URL will 404. Also: DoD's response to the 12-senator letter
-is due July 30 and could change the 18 to 14 figure.
+or the closing URL will 404. Two other pre-post checks:
+- DoD's response to the 12-senator letter is due July 30 and could move the
+  18 to 14 figure.
+- The 10,000 foreclosure figure is ICE Mortgage Technology data as reported
+  by NPR on April 2, 2026. Refresh it before posting; it is months old and
+  VA's replacement program opened June 15.
 
 ---
 
-The Pentagon's published death count for the Iran war went down last week. From 18 to 14. Wounded fell from 482 to 420. For most of July its database recorded zero wounded at all, the day after its own spokesman described roughly 100 injuries.
+The Pentagon's public death count for the Iran war went down last week. From 18 to 14. One of the names that came off belonged to Sgt. Angel Rampersad, a New Yorker.
 
-Twelve senators sent a letter demanding answers. They are in the minority, in the other chamber, and cannot compel one.
+Gov. Hochul: "Changing a website does not rewrite the truth of her sacrifice."
 
-Nick Langworthy sits on the House Oversight Committee, in the majority. That is the committee that investigates federal agencies. He could request a hearing. We found no hearing request, no committee letter, and no statement.
+The Pentagon calls it a technical fault. Here is what is not in dispute: the administration told Congress on May 1 that the operation was "terminated." Strikes since are being called "overseas operations." Rep. Thomas Massie, a Republican, calls that an "absurd ruse" to dodge the 60-day war powers clock. The same relabeling that stops the clock also decides which war a casualty gets counted under.
 
-Here is the rest of the record.
+Nick Langworthy sits on the House Oversight Committee, in the majority. That is the committee that investigates federal agencies. He could request a hearing. We found none, and no statement.
+
+The rest of the record:
 
 → 7 votes to keep an unauthorized war going. Two of those measures passed the House anyway. One failed on a 212 to 212 tie.
 
-→ Sleep apnea pays a 50% disability rating today for a veteran who needs a CPAP. Under the bill he voted 7 times to protect, future claims get 0% if treatment works, and tinnitus loses its standalone rating entirely. Current ratings are safe. The people who pay are the ones deployed right now, who have not filed yet.
+→ More than 10,000 veterans lost their homes after VA ended its mortgage rescue program in May 2025. The mortgage industry had told a House committee two months earlier exactly what would happen: "Foreclosure. Period." Congress authorized a replacement that July. VA did not open it until June 15, 2026. Foreclosures on VA loans hit a decade high in the gap.
 
-→ 1,102 fewer VBA claims examiners, vacancies left unfilled by policy, and 67,849 claims already sitting past 125 days.
+→ Sleep apnea pays a 50% rating today for a veteran who needs a CPAP. Under the bill he voted 7 times to protect, future claims get 0% if treatment works. Existing ratings are safe. The people who pay are deployed right now.
+
+→ 1,102 fewer VBA claims examiners, with 67,849 claims already past 125 days.
 
 → VA research staffing down 5.1% in the FY2027 request. Research is how the next PACT Act ever gets proven.
 
-This is not new. After Iran hit al-Asad in 2020, the official line was that no Americans were harmed. The traumatic brain injury count was revised upward six times, ending at 110. The Pentagon's own Inspector General later found it had not filed required brain-injury reports since 2014, and warned that undocumented injuries can leave veterans ineligible for VA care.
+What cuts the other way: he voted to RAISE toxic exposure funding, and for the bill that put VA research above last year. He has no PACT Act votes at all, that law passed before he took office. And he has no vote on the mortgage program either, it passed both chambers by voice vote.
 
-What cuts the other way, and we will say it plainly: he voted to RAISE toxic exposure funding, and for the bill that put VA research above last year. He has no PACT Act votes at all, because that law passed before he took office. Anyone telling you he voted against the PACT Act is wrong.
-
-Every figure traces to a roll call, an Inspector General report, or a VA filing you can open yourself.
+Don't take our word for it. Every figure traces to a roll call, an IG report, or a VA filing you can open yourself.
 
 Full fact-check: langworthywatch.org
