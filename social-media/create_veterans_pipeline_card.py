@@ -35,14 +35,14 @@ y = c.divider(y + 10, margin=48, pad=14)
 
 # ── Pipeline stages ──
 STAGES = [
-    ("7", RED, "votes to keep an unauthorized war going",
+    ("5", RED, "votes to keep an unauthorized Iran war going",
      "Two passed the House anyway. One failed on a 212 to 212 tie."),
     ("18→14", ORANGE, "the Pentagon's death count went DOWN",
      "A New York soldier's name came off the list."),
     ("10,000", RED, "veterans lost their homes to foreclosure",
      "Highest VA foreclosure rate since 2017. Backstop gone 13 months."),
-    ("50%→0%", RED, "sleep apnea rating, for future claims",
-     "Tinnitus loses its standalone rating too. He voted 7 times to keep it in."),
+    ("50%→10%", RED, "sleep apnea rating, for future claims",
+     "0% if asymptomatic. Tinnitus loses its rating. He voted 7 times to keep it."),
     ("1,102", ORANGE, "fewer VBA claims examiners",
      "67,849 claims already sitting past 125 days."),
     ("5.1%", BRONZE, "cut to VA research staffing",
