@@ -329,3 +329,36 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 - **Deliberately EXCLUDED as unverified — do not add without primary confirmation:** (a) Cold Spring Hills outcome — a $500K personal restitution figure, a Justice Lisa Cairo ruling, an Oct 2023 $2.65M benefits order, an April 2024 contempt finding, and a Jan 2025 Chapter 11 all surfaced only via 403-blocked secondary sources; (b) Villages of Orleans Dec 2024 Caruso ruling and the 16.66% Telegraph Realty interest (Buffalo News, paywalled); (c) Far Rockaway sale at $47.3M (Crain's / The Real Deal, both 403); (d) Skilled Nursing News headlines on the $31.2M OIG audit (403 — the OIG report itself IS confirmed and cited); (e) a reported Feb dismissal of Landa's libel suit against ProPublica freelancers; (f) the Paguirigan settlement amount and nurse count. CourtListener's opinion corpus does NOT contain the Gershon or Cairo orders; PACER would be needed.
 - **Attribution traps baked into the draft — preserve them on any edit:** the HHS OIG audit names only Pinnacle Multicare, NOT Landa (ownership link is ProPublica's); the four Erie County homes are **Judy** Landa's and his spokesman denies his involvement in running them; the AG matters are civil ALLEGATIONS, not findings; the 2019 Paguirigan TVPA liability ruling was **vacated** on joint motion ~May 2022 (footnote 3 of the Landa v. American Prospect opinion) and must never be cited as standing; much SentosaCare coverage centers on Bent/Avi Philipson, not Landa.
 - **Open question worth its own pull:** ProPublica's affiliate DB shows 49 facilities (FL/KY/NJ/NY) vs. the CMS ownership file's 106 across 10 states used in the 2026-05-28 entry. Different scoping thresholds. Reconciling the two would let the site state one defensible facility count instead of citing both.
+
+### SESSION STATE 2026-07-25 — Landa / AIPAC / missed votes / veterans (read before continuing any of these)
+- **Date logged:** 2026-07-25 · **Type:** session-handoff · **Status:** open · **Priority:** high
+
+**Shipped (9 commits, all on main, nothing pushed to GitHub):**
+| Item | State |
+|---|---|
+| `content/missed-votes/_index.md` | **draft:false — PUBLISHES on next deploy.** Rebuilt; old table summed to 69 vs header 66, and a "Late 2024 Spike" was fabricated from bad data. Carries a dated Correction |
+| `2026-07-25-landa-donor-public-record.md` | draft:true + hold_reason (right of reply) |
+| `2026-07-25-aipac-money-and-record.md` | draft:true + hold_reason (comment + archiving) |
+| `2026-07-25-veterans-impact-votes-and-administration.md` | draft:true + hold_reason (4 items) |
+| Cards/captions | landa, aipac, veterans_pipeline all built + committed |
+| `research/sources/aipac_fec_verified_2026-07-25.md` | verified FEC pull, do NOT re-query (DEMO_KEY = 40 calls/hr) |
+
+**NOT YET INTEGRATED — user supplied two PDFs late in session (on their Desktop):**
+1. ABC News, "Pentagon lowers count of Iran war dead and wounded," Beynon & Martinez, **Jul 24 2026 8:55 PM**. Confirms 18→14 dead, 482→420 wounded, "as of Friday evening, those figures remain uncorrected." **The big unintegrated thread: the REBRANDING.** Trump wrote Congress **May 1** that Epic Fury was "terminated"; Rubio said **May 5** it "was over"; fighting resumed **Jul 6**; strikes since are called "overseas operations." Lawmakers say this skirts the **60-day War Powers limit**. **Rep. Thomas Massie (R-KY): "The Pentagon is pretending there have been two Iran wars separated by a brief cease-fire,"** an "absurd ruse." ABC: such a split "would be unprecedented." **This connects Section A (war powers votes) to Section B (the count) — the same rebranding that dodges the clock is what makes casualties uncountable.** Also: **Gov. Hochul** on **Sgt. Angel Rampersad** (NY native, name removed from DCAS): "Changing a website does not rewrite the truth of her sacrifice." Other three dead: Pfc. Isabella Gonzales, 1st Lt. Tyler Feehan, Sgt. Michael Emmanuel Swinton. **Trump posted that 18 troops died** days before the database said 14. Alex Wagner (ex-Asst Sec AF) quote on casualty reporting available.
+2. MilitarySpend.org "Iran War Casualties Tracker" — **AGGREGATOR, do not cite.** Useful only as a lead to **CRS R48887** and **CRS IN12692** (May 13 2026, equipment losses), which are citable.
+
+**VERIFICATION TRAPS LEARNED TODAY — do not re-make these:**
+- **FEC memo entries**: never `SUM()` all rows. Exclude `memo_cd='X'`, offsetting +/- redesignation pairs, and `15J` JFC allocations. Published Landa figure was $68,700; truth is **$55,000**. See the memory file.
+- **Committee marks vs passed bills**: FY2027 VA research was **$900M in committee, $996M as PASSED** (floor amendment +$94M). "The House cut VA research" is FALSE. The cut is in the **President's request** ($945M→$922M).
+- **Two-column signature blocks**: the Hirono casualty letter is **12** senators, not 16. A research pass misread the columns. Always parse the PDF.
+- **He has NO PACT Act votes** — P.L. 117-168 signed Aug 10 2022; sworn in Jan 3 2023.
+- **War powers = SEVEN votes, all Nay**, not six. H.Con.Res. 86 cleared BOTH chambers but concurrent resolutions are near-certainly non-binding post-*Chadha*; every JOINT resolution failed.
+- **VVA SUPPORTED H.R. 9237** — never frame the Jul 23 VVA meeting post as betrayal. Opponents were DAV/VFW/IAVA.
+- **$57B is not a CBO score** — no CBO estimate exists; no markup, no committee report.
+- **Bath VA**: only "a small number" is on record. **The firings story is Feb 2025**, misdated to 2026 by search engines.
+- **VA workforce decline is attrition + unfilled vacancies, not firings.** VA's "no positions eliminated" and the 4,842 drop are both true.
+- **DODIG-2022-006 does NOT prove al-Asad undercounting** — its EHR figure (87) was LOWER than the public one (110). It documents a records failure in both directions.
+- Never juxtapose cumulative TBI diagnosis totals (~533k/556k) against DCAS WIA counts — incompatible systems.
+- **Committee assignments verified** from `clerk.house.gov/xml/lists/MemberData.xml`: Oversight (GO00, rank 20), Energy & Commerce (IF00, rank 25, incl. Health), Rules (RU00, rank 6) + **CHAIR of RU02** Legislative & Budget Process.
+
+**Open gates:** DoD response to the 12-senator letter due **Jul 30 2026** (could move 18→14). Requests for comment not yet sent on any of the three held entries. 3 pre-existing broken internal links in `correspondence/letters/` (epstein/iran/usps `-submission` targets don't exist).
