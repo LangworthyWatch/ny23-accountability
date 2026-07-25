@@ -98,7 +98,7 @@ On **July 20, 2026**, chief Pentagon spokesman Sean Parnell said that "nearly 10
 
 On **July 21**, the Defense Casualty Analysis System — the Department's official public casualty database — showed **zero wounded in action for the month of July**. It listed 14 killed, against 18 deaths that had been publicly reported.
 
-On **July 23**, twelve senators wrote to Secretary Hegseth. The signers include **Sen. Kirsten Gillibrand of New York**, along with Hirono, Reed, Shaheen, Duckworth, Blumenthal, Kelly, Warren, Peters, Kaine, Rosen and Slotkin. Their letter states:
+On **July 23**, sixteen senators wrote to Secretary Hegseth. The signers include **Sen. Kirsten Gillibrand of New York**, along with Hirono, Reed, Shaheen, Duckworth, Blumenthal, Kelly, Warren, Peters, Kaine, Rosen and Slotkin. Their letter states:
 
 > "We are concerned that DCAS is not being maintained at the granular level and calls into serious question the completeness and reliability of the aggregate totals."
 
@@ -108,17 +108,66 @@ On **July 24**, the Pentagon's published count went **down**: deaths from 18 to 
 
 ### Why this specific thing has happened before, and what it cost veterans
 
-In January 2020, Iran struck the al-Asad air base in Iraq. The initial public statement was that no Americans were harmed. The traumatic brain injury count was then revised upward repeatedly over the following weeks, ending at **more than 100 diagnosed cases**.
+In January 2020, Iran struck the al-Asad air base in Iraq. On **January 8, 2020**, in remarks entered in the official *Daily Compilation of Presidential Documents*, President Trump said:
 
-The Defense Department's own Inspector General examined that failure. **Report DODIG-2022-006**, released **November 3, 2021**, found that Central Command did not properly report and track traumatic brain injuries, using electronic health records instead of the required separate tally, and concluded that **"the DoD cannot determine whether all Service members are being properly diagnosed and treated for TBIs in deployed settings."**
+> "The American people should be extremely grateful and happy no Americans were harmed in last night's attack by the Iranian regime. We suffered no casualties, all of our soldiers are safe."
 
-The finding that matters most for a veterans page is this: the Inspector General warned that without proper documentation, **service members "may not be eligible to receive disability benefits or care"** from VA after they separate.
+The traumatic brain injury count was then revised upward **six times**:
+
+| Date announced | TBI cases |
+|---|---|
+| Jan. 16, 2020 | 11 |
+| Jan. 24, 2020 | 34 |
+| Jan. 28, 2020 | 50 |
+| Jan. 30, 2020 | 64 |
+| Feb. 10, 2020 | 109 |
+| **Feb. 21, 2020** | **110** |
+
+Of those, 35 were evacuated to Landstuhl and 25 sent on to the United States. Asked at Davos on January 22 about troops airlifted with head injuries, the President said: "I heard that they had headaches, and a couple of other things… I do not consider them very serious injuries." The **VFW demanded an apology two days later**, saying "TBI is a serious injury and one that cannot be taken lightly."
+
+### What the Pentagon's own auditors found
+
+**DODIG-2022-006** (November 2021) examined how Central Command tracked those injuries. Its findings:
+
+- CENTCOM and its component commands **"did not track or report"** potentially concussive events as required.
+- **CENTCOM had not filed the required monthly tracking reports since October 2014** — a seven-year gap in the theater where most blast exposure occurred.
+- Of 261 service members involved in the al-Asad event, CENTCOM reported 110 TBIs to DoD leadership while health records identified only 87 — meaning the Department's own systems could not reconcile who had been hurt.
+- The warning that matters most here: without adequate records, **service members "may not be eligible to receive disability benefits or care"** from VA after separating.
+
+A second review, **DODIG-2023-059** (March 2023), found the problem was not fixed and was not specific to one attack:
+
+- **Only 2 of 14** military treatment facilities sampled followed required TBI screening guidance.
+- **41%** of patients diagnosed with mild TBI did not receive the required 72-hour follow-up; in 2021 only 33% did.
+- Conclusion: **"the MHS is unable to accurately identify, treat, and track the number of TBIs across the DoD."**
+- The recommendations went unanswered at issuance and **two remain open.**
+
+**An honesty note:** the 87-versus-110 discrepancy runs in both directions. These reports document a records failure, not a proven undercount. We are not claiming the Inspector General proved al-Asad was undercounted — we are citing what it actually found, which is that the Department cannot tell.
 
 **In plain language:** an injury that is not recorded at the time is an injury the veteran may spend years trying to prove later. Undercounting at the front end becomes claim denials at the back end. That is not speculation about this war — it is the documented consequence of the last one, in the Pentagon's own words.
 
-**What we are not claiming:** we found no Inspector General or GAO finding on casualty reporting in the current operation. It is too recent; the senators' letter is the active oversight vehicle and the response is not yet due. We also found no documented discrepancy between DoD casualty announcements and VA claims data for this conflict. The link between undercounting and lost benefits is the Inspector General's 2021 warning, not an observed 2026 finding.
+### There is no official TBI count for this war
 
-*Sources: Letter from 12 U.S. Senators to Secretary of War Hegseth, Jul. 23, 2026; Stars and Stripes, Jul. 21, 2026; ABC News, Jul. 24, 2026; DODIG-2022-006, Nov. 3, 2021.*
+The Defense Department publishes deaths and an aggregate "wounded/injured" figure. **It publishes no traumatic brain injury count for Operation Epic Fury at all.** Under Defense Department policy, blast concussion *is* reportable as a wound — but only once a medical authority classifies the injury, which requires that it be screened and diagnosed first. The Inspector General findings above describe exactly where that chain breaks.
+
+In March 2026, ABC News reported more than 200 wounded with roughly 140 TBI-related, attributed to an unnamed official. The Pentagon has provided no figure of its own.
+
+Meanwhile VA's own Polytrauma Registry recorded **441,639** veterans with TBI cases in 2021 and **556,502** by 2025 — a 26% rise in four years. Veterans' advocates caution this may reflect better screening rather than more injury. Over the same period, DoD's brain injury research budget fell **77%** between FY2024 and FY2026.
+
+**A comparison we are deliberately not making:** cumulative TBI diagnosis totals and battlefield casualty counts come from incompatible reporting systems, and juxtaposing them would be misleading. We are not doing it.
+
+**What we are not claiming:** no completed Inspector General, GAO, or congressional investigation has **found** that injuries in this operation were undercounted. A Lead Inspector General for Operation Epic Fury was designated **May 12, 2026**, and its first quarterly report is not due until **fall 2026**. No hearing has been held. What exists today is the senators' letter, reporting based on anonymous officials, and the Pentagon's own published data contradicting its own spokesman. The last of those is the verifiable one, and it is the one this page rests on. Claims that any undercount is deliberate trace to anonymous sources; the Pentagon calls it a technical fault.
+
+### Where Langworthy sits on this specific question
+
+Congress has been trying to build the tracking system the Inspector General says is missing.
+
+The **Blast Overpressure Safety Act** (H.R. 8025, 118th Congress) would have required the Defense Department to log blast exposure and screen for its effects. It never advanced. Its 27 cosponsors included **five New York members — Stefanik, Morelle, LaLota, Kennedy and Ryan.** We checked the cosponsor roster directly: **Langworthy was not among them.**
+
+**In his favor:** he voted **Yes** on the FY2027 National Defense Authorization Act (H.R. 8800, Roll Call 278, July 22, 2026), and **Section 756 of that bill** would newly require blast overpressure and traumatic brain injury logs for every service member, baseline neurocognitive testing at accession, and reassessment at least every three years.
+
+That Congress was still legislating in July 2026 to *create* per-service-member TBI logs is itself the clearest evidence that they do not yet exist.
+
+*Sources: Letter from 16 U.S. Senators to Secretary of War Hegseth, Jul. 23, 2026; Stars and Stripes, Jul. 21, 2026; ABC News, Jul. 24, 2026; DODIG-2022-006, Nov. 2021; DODIG-2023-059, Mar. 2023; DCPD-202000008 and DCPD-202000032; GPO BILLSTATUS for H.R. 8025 (118th); H.R. 8800 §756; clerk.house.gov Roll Call 278; Roll Call, Jul. 20, 2026 (VA Polytrauma Registry).*
 
 ---
 
@@ -255,7 +304,7 @@ On **May 24, 2026**, Langworthy told AM 1480 WLEA in Hornell:
 
 In the same period he cast seven votes against ending an unauthorized war, seven votes preserving the benefit offsets in H.R. 9237, and **made no floor remarks in the entire H.R. 9237 debate.** His office issued **no press release** on veterans, the VA, or any veterans measure between May and July 2026. His official veterans issue page's most recent tagged item is from **August 25, 2025**. There was no Memorial Day release.
 
-On **July 23, 2026** — the same day the House passed its second resolution to end the war, and the same day twelve senators questioned the casualty count — he posted about veterans:
+On **July 23, 2026** — the same day the House passed its second resolution to end the war, and the same day sixteen senators questioned the casualty count — he posted about veterans:
 
 {{< figure src="/images/fact-checks/2026-07-25-vva-meeting-post.png" alt="Facebook post from the verified page of Congressman Nick Langworthy dated July 23 at 1:00 PM, reading: It was an honor to meet with the Vietnam Veterans of America in DC. We talked about important issues facing those who served, from toxic exposure to improving the VA. I thank these heroes, and to every man and woman who wore the uniform, for serving the greatest nation on earth." caption="Facebook, verified official page, July 23, 2026. The post is login-walled and has no Wayback capture; this screenshot is the preservation artifact." >}}
 
@@ -283,7 +332,7 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 
 **Documented:**
 - Seven votes against ending hostilities Congress never authorized; two of those measures passed the House anyway, and one passed the Senate as well.
-- The Pentagon's published wounded count fell while officials described roughly 100 new injuries; twelve senators, including New York's, have formally questioned it.
+- The Pentagon's published wounded count fell while officials described roughly 100 new injuries; sixteen senators, including New York's, have formally questioned it.
 - The Defense Department's own Inspector General found TBI reporting failures after the last Iran strike and warned they could cost service members VA benefits.
 - Seven votes preserving offsets that tighten future disability ratings for sleep apnea and tinnitus and raise VA home loan fees; the decisive motion failed by one vote.
 - ~2,400 VA probationary employees dismissed in February 2025; vacancies then left unfilled by policy; 1,102 fewer VBA claims examiners; 67,849 claims beyond 125 days.
@@ -304,7 +353,7 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 
 ## Verdict: DOCUMENTED PATTERN
 
-The United States is producing new veterans in an operation Congress has twice voted to end and never authorized. The count of who is being hurt in it is formally disputed by twelve senators, and the Pentagon's own published numbers went down. The disability ratings those service members will one day claim under are the ones H.R. 9237 would tighten, and Langworthy voted seven times to keep that provision alive, including on a motion that failed by a single vote. The VA workforce that will process their claims is smaller by policy, and the research that would prove what this war did to them is budgeted to shrink again.
+The United States is producing new veterans in an operation Congress has twice voted to end and never authorized. The count of who is being hurt in it is formally disputed by sixteen senators, and the Pentagon's own published numbers went down. The disability ratings those service members will one day claim under are the ones H.R. 9237 would tighten, and Langworthy voted seven times to keep that provision alive, including on a motion that failed by a single vote. The VA workforce that will process their claims is smaller by policy, and the research that would prove what this war did to them is budgeted to shrink again.
 
 Rep. Langworthy voted to increase toxic exposure funding and for the appropriations bill that raised VA research above last year's level. He has said nothing publicly about any of the rest.
 
@@ -323,7 +372,7 @@ Rep. Langworthy voted to increase toxic exposure funding and for the appropriati
 
 - House Clerk roll call XML, rolls 85, 114, 170, 199, 201, 232, 282 (2026): <https://clerk.house.gov/evs/2026/>
 - U.S. Senate Roll Call Vote 184, Jun. 23, 2026 (H.Con.Res. 86): <https://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm>
-- Letter from 12 U.S. Senators to Secretary Hegseth on casualty reporting, Jul. 23, 2026
+- Letter from 16 U.S. Senators to Secretary Hegseth on casualty reporting, Jul. 23, 2026
 - DoD Inspector General, DODIG-2022-006, "Evaluation of Traumatic Brain Injuries in the U.S. Central Command Area of Responsibility," Nov. 3, 2021: <https://www.dodig.mil/>
 - H.R. 9237 as introduced: <https://www.govinfo.gov/content/pkg/BILLS-119hr9237ih/html/BILLS-119hr9237ih.htm>
 - House Rules Committee record votes: <https://rules.house.gov/bill/119/hr-9237>
