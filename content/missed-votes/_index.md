@@ -1,92 +1,127 @@
 ---
 title: "Missed Votes"
-date: 2026-03-21
+date: 2026-07-25
 draft: false
 description: "Tracking Rep. Langworthy's voting attendance record in Congress"
 ---
 
 ## Voting Attendance Record
 
-**Period:** January 3, 2023 – May 23, 2026 *(data current through May 23, 2026)*
+**Period:** January 3, 2023 – July 21, 2026
 
-**Total Roll Call Votes:** 1,794
-**Missed Votes:** 66
-**Missed Vote Rate:** 3.7%
+| | |
+|---|---|
+| Total roll call votes eligible | **1,875** |
+| Missed votes | **66** |
+| Missed vote rate | **3.5%** |
+| Median for currently serving representatives | 2.1% |
+
+Langworthy's 3.5% missed-vote rate is worse than the 2.1% median among the lifetime records of representatives currently serving.
+
+**But that headline number is misleading on its own, and the rest of this page explains why.**
 
 ---
 
-## Context
+## The Finding: One Quarter Accounts for More Than Half of It
 
-Rep. Langworthy's missed vote rate of **3.7%** is **worse than the median of 2.0%** among currently serving representatives.
+**35 of his 66 missed votes — 53% — fall in a single quarter, April through June 2024.**
 
-We document missed votes as a matter of public record but do not speculate on reasons. Common reasons for missed votes include:
-- Medical absences or family emergencies
-- Official congressional travel or delegation trips
-- Campaigning for higher office
-- Scheduling conflicts with district events
+Remove that one quarter and his record looks entirely different:
+
+| | Missed | Eligible | Rate |
+|---|---|---|---|
+| Full record | 66 | 1,875 | 3.5% |
+| **Excluding Apr–Jun 2024** | **31** | **1,644** | **1.9%** |
+| House median | | | 2.1% |
+
+**In plain language:** outside of one stretch in spring 2024, Langworthy's attendance is *better* than the median representative's. He is not a chronic absentee. He had one concentrated episode.
+
+Year by year makes the same point:
+
+| Year | Missed | Eligible | Rate |
+|---|---|---|---|
+| 2023 | 11 | 724 | 1.5% |
+| **2024** | **45** | **517** | **8.7%** |
+| 2025 | 6 | 362 | 1.7% |
+| 2026 (through Jul. 21) | 4 | 272 | 1.5% |
 
 ---
 
 ## Quarterly Breakdown
 
-| Time Period | Missed Votes | Total Votes | Percent | Percentile |
-|-------------|-------------|-------------|---------|------------|
-| Jan 2023 - Mar 2023 | 2 | 168 | 1.2% | 33rd |
-| Apr 2023 - Jun 2023 | 6 | 196 | 3.1% | 69th |
-| Jul 2023 - Sep 2023 | 1 | 182 | 0.5% | 14th |
-| Oct 2023 - Dec 2023 | 5 | 126 | 4.0% | 64th |
-| Jan 2024 - Mar 2024 | 5 | 93 | 5.4% | 71st |
-| **Apr 2024 - Jun 2024** | **14** | **92** | **15.2%** | **94th** |
-| Jul 2024 - Sep 2024 | 4 | 45 | 8.9% | 74th |
-| Oct 2024 - Dec 2024 | 18 | 219 | 8.2% | 74th |
-| Jan 2025 - Mar 2025 | 7 | 234 | 3.0% | 63rd |
-| Apr 2025 - Jun 2025 | 2 | 163 | 1.2% | 35th |
-| Jul 2025 - Sep 2025 | 1 | 83 | 1.2% | 50th |
-| Oct 2025 - Dec 2025 | 0 | 45 | 0.0% | 0th |
-| Jan 2026 - Mar 2026 | 3 | 108 | 2.8% | — |
-| Apr 2026 - May 2026 | 1 | 83 | 1.2% | — |
+| Time Period | Votes Eligible | Missed | Percent | Percentile |
+|---|---|---|---|---|
+| 2023 Jan–Mar | 182 | 1 | 0.5% | 40th |
+| 2023 Apr–Jun | 107 | 1 | 0.9% | 38th |
+| 2023 Jul–Sep | 224 | 5 | 2.2% | 81st |
+| 2023 Oct–Dec | 211 | 4 | 1.9% | 60th |
+| 2024 Jan–Mar | 104 | 9 | 8.7% | 89th |
+| **2024 Apr–Jun** | **231** | **35** | **15.2%** | **94th** |
+| 2024 Jul–Sep | 120 | 1 | 0.8% | 23rd |
+| 2024 Nov–Dec | 62 | 0 | 0.0% | 0th |
+| 2025 Jan–Mar | 85 | 0 | 0.0% | 0th |
+| 2025 Apr–Jun | 100 | 4 | 4.0% | 69th |
+| 2025 Jul–Sep | 97 | 2 | 2.1% | 60th |
+| 2025 Nov–Dec | 80 | 0 | 0.0% | 0th |
+| 2026 Jan–Mar | 108 | 3 | 2.8% | 65th |
+| 2026 Apr–Jun | 125 | 1 | 0.8% | 30th |
+| 2026 Jul | 39 | 0 | 0.0% | 0th |
 
-**Percentile explanation:** 0th = best attendance, 100th = worst attendance
+**Percentile:** 0th = best attendance, 100th = worst.
 
 ---
 
-## Notable Patterns
+## The Spring 2024 Episode, Day by Day
 
-### 2024 Campaign Period: 15.2% Missed (94th Percentile)
-During **April-June 2024**, Langworthy missed **15.2%** of votes - placing him in the **94th percentile** (worse than 94% of representatives). This period coincided with primary campaign season.
+We pulled every 2024 roll call from the House Clerk's electronic voting records and matched Langworthy's vote (bioguide ID L000600) to each. All 35 missed votes in the April–June quarter fall on just eight days:
 
-### Late 2024 Spike: 8.2-8.9% Missed
-The **Jul-Dec 2024** period showed elevated absences (8.2-8.9%), coinciding with the general election campaign.
+| Date | Votes held | Missed | |
+|---|---|---|---|
+| Apr. 9 | 2 | 2 | entire day |
+| Apr. 17 | 6 | 6 | entire day |
+| Apr. 18 | 1 | 1 | entire day |
+| Apr. 29 | 2 | 2 | entire day |
+| **Apr. 30** | **17** | **17** | **entire day** |
+| May 1 | 5 | 5 | entire day |
+| May 7 | 8 | 1 | partial |
+| Jun. 26 | 14 | 1 | partial |
+| **Total** | | **35** | |
 
-### 2025-2026 Improvement
-Attendance improved significantly in 2025-2026, with 14 missed votes out of 716 total (2.0%) — near the House median. The four 2026 absences were: H.R. 5184 (Affordable HOMES Act, Jan 9), two veterans benefits bills on Feb 2, and S. 1318 (Fallen Servicemembers Religious Heritage Restoration Act, Apr 29).
+**Six of those eight are complete absences** — he missed every vote held that day. April 30 alone accounts for 17 missed votes, the single largest day in his record.
+
+**Why this distinction matters.** Because the absences are whole-day rather than scattered, no individual missed vote can fairly be read as a decision to duck a particular bill. This bears directly on one claim that circulates: that he deliberately sat out the Antisemitism Awareness Act (H.R. 6090) on May 1, 2024. He missed **all five** votes that day, and the two session days before it. It was an absence, not an abstention.
+
+**We do not know why he was absent, and we are not going to guess.** GovTrack, the source of the aggregate figures, states plainly that it does not track reasons, and notes that common explanations include medical absences, major life events, and running for higher office. Langworthy has not publicly explained these dates, and we located no reporting that asked him.
+
+One thing we *can* rule out: his sponsored trip to Israel, April 1–8, 2024, did not cause any missed votes. **The House held no roll call votes between March 22 and April 9, 2024** — the trip fell entirely within a period when the House was not voting.
 
 ---
 
 ## Why This Matters
 
-Each missed vote means constituents of NY-23 had no representation on that issue. While some absences are unavoidable, voters have a right to know their representative's attendance record.
+Each missed vote means NY-23 had no recorded position on that question. Some absences are unavoidable, and an overall record of 3.5% still means he voted on more than 96% of questions put to the House.
 
-**For comparison:**
-- **House median:** 2.0% missed votes
-- **Langworthy:** 3.7% missed votes
-- **Difference:** Nearly 2x the median
+The fair summary is this: his attendance is ordinary-to-good in three of his four years, and there is one unexplained stretch in spring 2024 during which he missed 35 votes, including every vote on six separate days. That stretch is the entire reason his career average sits above the House median.
 
 ---
 
-## Data Source
+## Correction
 
-Vote attendance data compiled from [GovTrack](https://www.govtrack.us/congress/members/nick_langworthy/456927) and [Congress.gov](https://www.congress.gov/member/nicholas-langworthy/L000600) official roll call records.
+**July 25, 2026.** This page previously reported figures that were incorrect in several places, and they have been replaced in full.
 
-**Data current through:** May 23, 2026. For current figures, check [GovTrack](https://www.govtrack.us/congress/members/nicholas_langworthy/456927) directly.
+- The quarterly table listed vote counts that did not match the underlying source, and its own missed-vote column **summed to 69 while the page's header said 66**.
+- The page reported a "Late 2024 Spike" of 8.2–8.9% missed votes for July through December 2024, and attributed it to "the general election campaign." **No such spike occurred.** The actual figures are 0.8% for July–September and 0.0% for November–December 2024, among the best quarters in his record.
+- The page attributed the April–June 2024 absences to "primary campaign season." That was speculation about a cause we cannot document, and it has been removed. This site does not speculate about why votes are missed.
+- Headline figures were updated from 3.7% of 1,794 votes (through May 23, 2026) to 3.5% of 1,875 (through July 21, 2026), and the comparison median from 2.0% to 2.1%.
+
+The 66 missed-vote total was correct and did not change. The errors were in the distribution, the fabricated late-2024 pattern, and the causal claims.
 
 ---
 
-## Full Record
+## Data Sources
 
-View the complete list of missed votes:
+- Aggregate and quarterly figures: [GovTrack](https://www.govtrack.us/congress/members/nicholas_langworthy/456927), current through July 21, 2026
+- Day-by-day 2024 verification: U.S. House Clerk electronic roll call records, `clerk.house.gov/evs/2024/rollNNN.xml`, matched on bioguide ID L000600
+- [Congress.gov — all votes, filterable by "Not Voting"](https://www.congress.gov/member/nicholas-langworthy/L000600/all-votes)
 
-- **[GovTrack - Missed Votes Analysis](https://www.govtrack.us/congress/members/nicholas_langworthy/456927)**
-- **[Congress.gov - All Votes (filter by "Not Voting")](https://www.congress.gov/member/nicholas-langworthy/L000600/all-votes)**
-
-*Note: Statistics on this page are based on data through May 23, 2026. For the most current information, check sources directly.*
+*Percentile and median comparisons are GovTrack's, computed against the lifetime records of currently serving representatives.*
