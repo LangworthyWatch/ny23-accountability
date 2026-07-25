@@ -40,7 +40,7 @@ STAGES = [
     ("18→14", ORANGE, "the Pentagon's death count went DOWN",
      "A New York soldier's name came off the list."),
     ("10,000", RED, "veterans lost their homes to foreclosure",
-     "VA ended the backstop 13 months before its replacement opened."),
+     "Highest VA foreclosure rate since 2017. Backstop gone 13 months."),
     ("50%→0%", RED, "sleep apnea rating, for future claims",
      "Tinnitus loses its standalone rating too. He voted 7 times to keep it in."),
     ("1,102", ORANGE, "fewer VBA claims examiners",
@@ -89,7 +89,7 @@ y += 52
 
 # ── Sources + URL ──
 c.text(c.w / 2, y + 6,
-       "Sources: clerk.house.gov  ·  DoD Inspector General  ·  VA circulars  ·  ICE Mortgage Technology via NPR  ·  12-senator letter",
+       "Sources: clerk.house.gov  ·  DoD Inspector General  ·  VA circulars  ·  Mortgage Bankers Association  ·  ICE via NPR  ·  12-senator letter",
        size=12, fill=MUTED, anchor="mm")
 c.text(c.w / 2, y + 30, "langworthywatch.org", size=17, bold=True, fill=NAVY, anchor="mm")
 

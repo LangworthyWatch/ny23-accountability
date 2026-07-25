@@ -2,7 +2,7 @@
 title: "Making Veterans Faster Than We Care For Them: The War, the Count, and the System Waiting for Them"
 date: 2026-07-25
 draft: true
-hold_reason: "Five items. (1) Send the standard request for comment to Langworthy's office on the seven war powers votes, the seven H.R. 9237 votes, the section 104(b) loan fee increases against the decade-high VA foreclosure rate, and the absence of veterans communication in the May-July 2026 window. (2) The Hirono letter response is due July 30, 2026; update Section B once DoD answers or fails to. (3) Pull the Statement of Administration Policy on H.R. 9237, currently search-result-only. (4) The 10,000 foreclosure figure is ICE Mortgage Technology data as reported by NPR on April 2, 2026 and is now three months stale; refresh it before publish, and check whether ICE or VA has issued a post-June-15 figure now that the Partial Claim Program has launched. (5) Run scripts/archive_sources.sh."
+hold_reason: "Five items. (1) Send the standard request for comment to Langworthy's office on the seven war powers votes, the seven H.R. 9237 votes, the section 104(b) loan fee increases against the decade-high VA foreclosure rate, and the absence of veterans communication in the May-July 2026 window. (2) The Hirono letter response is due July 30, 2026; update Section B once DoD answers or fails to. (3) Pull the Statement of Administration Policy on H.R. 9237, currently search-result-only. (4) The 10,000 foreclosure figure is ICE Mortgage Technology data via NPR, April 2, 2026, and no newer public cumulative count exists as of July 25, 2026; it is corroborated in direction by MBA's Q1 2026 National Delinquency Survey (VA foreclosure inventory rate highest since Q2 2017). Refresh at the MBA Q2 2026 release, expected mid-August 2026, and check for any VA Partial Claim uptake figures, which VA had not published as of July 25. (5) Run scripts/archive_sources.sh."
 topic: "Veterans"
 claim_date: "February 2025 – July 2026"
 source: "House and Senate roll calls, GPO bill text and BILLSTATUS, DoD IG, Senate casualty-reporting letter, VA budget submissions, VA Workforce Dashboard, VA Loan Guaranty circulars, Senate Veterans' Affairs Committee, VA OIG, ICE Mortgage Technology data via NPR"
@@ -304,19 +304,41 @@ Congress did authorize a replacement. **H.R. 1815, the VA Home Loan Program Refo
 | May 1, 2025 | VASP stops accepting submissions; the Home Retention Waterfall is rescinded |
 | May 19, 2025 | House passes H.R. 1815 |
 | Jul. 30, 2025 | Signed into law as P.L. 119-31 |
-| **Jun. 15, 2026** | **VA actually launches the Partial Claim Program** |
+| Jun. 1, 2026 | VA publishes the final Partial Claim policy |
+| **Jun. 15, 2026** | **VA begins accepting Partial Claim submissions** |
+| Nov. 28, 2026 | Deadline for mortgage servicers to finish implementing it |
 
-**Thirteen and a half months separate the removal of the backstop from the arrival of its replacement** — and ten and a half months separate the replacement being signed into law from its being available to a veteran.
+**Thirteen and a half months separate the removal of the backstop from the arrival of its replacement** — and ten and a half months separate the replacement being signed into law from VA opening it.
+
+**And June 15 is not the date it reached every veteran.** Per VA's own servicer FAQ, "Servicers have 180 days to implement, from the date the final policy was published on June 1, 2026" — that is, until **November 28, 2026**. VA also states the Partial Claim "can only be offered to a borrower when directed to the option through the VA Loss Mitigation Waterfall," and that the two "must be implemented together, as neither can operate independently." Until a given veteran's servicer has finished implementing, the option is not available to that veteran.
 
 ### What happened in the gap
 
-From industry data reported by NPR on April 2, 2026:
+From industry data reported by NPR on **April 2, 2026** — the most recent public cumulative figure we could locate, and now some months old:
 
 - **More than 10,000 veterans** lost their homes through foreclosure sales after VASP shut down. This figure NPR attributes specifically to **ICE Mortgage Technology**, which tracks such data.
 - That is **the highest pace of foreclosures for VA loans in a decade.**
 - **90,000 more veterans** are currently behind on their mortgages or in the foreclosure process.
 
 NPR reported that "VA officials did not respond to NPR's questions about why the agency shut down VASP without first replacing it with anything else."
+
+### Independent corroboration from the mortgage industry's own survey
+
+The 10,000 figure comes from one data vendor via one news organization. The **Mortgage Bankers Association's National Delinquency Survey** is a separate, industry-run quarterly measure, and it points the same direction. From its **first-quarter 2026 release, published May 14, 2026** (data through March 31), Marina Walsh, MBA's Vice President of Industry Analysis:
+
+> "We also saw movement of some delinquent FHA and VA loans into later stages of delinquency and into foreclosure. While the overall foreclosure rate remains well below historical averages, the first quarter's foreclosure inventory rate for FHA loans reached its highest level since the fourth quarter of 2018, and the foreclosure rate for VA loans reached the highest level since the second quarter of 2017."
+
+| MBA National Delinquency Survey, Q1 2026 | VA loans |
+|---|---|
+| Total delinquency rate (seasonally adjusted) | **4.99%** |
+| Change from Q4 2025 | **+39 basis points** |
+| Change from one year earlier | **+36 basis points** |
+| Seriously delinquent, change from one year earlier | +10 basis points |
+| Foreclosure inventory rate | **Highest since Q2 2017** |
+
+Walsh also noted that the VA delinquency rate was "almost 225 basis points higher than the conventional delinquency rate," calling the FHA and VA gaps "the widest spreads since 2021." And in the same May 2026 release, she recorded that the industry "awaits the final guidance and implementation of the VA partial claim program to help veterans avoid foreclosure by covering missed payments" — a trade association confirming, thirteen months after VASP closed and nine months after the law passed, that the replacement still was not running.
+
+**Why this matters for how much weight to give the 10,000.** MBA measures *rates*, not a cumulative count of homes lost, so it does not confirm that specific number. What it independently confirms is the direction and the severity: VA-loan foreclosures at a nine-year high, VA delinquencies rising faster than conventional, and the replacement program still not operational as of mid-May 2026.
 
 **What is honestly uncertain:** NPR states plainly that "it's unclear how many of those veterans could have avoided foreclosure through" VASP. We are not claiming 10,000 foreclosures were caused by the shutdown. Mortgage industry insiders told NPR it is clear that *some* of those veterans had enough disability pay or other income to have kept their homes had VASP survived. The verifiable facts are the dates, the decade-high rate, and the warning given in advance at a congressional hearing.
 
@@ -340,7 +362,7 @@ NPR reported that "VA officials did not respond to NPR's questions about why the
 
 **And we found no public statement from him on any of it** — not on VASP's termination, not on the decade-high foreclosure rate, not on the thirteen-month gap. We searched his House press release archive and found nothing on VA home loans or veteran foreclosures.
 
-*Sources: [VA Circular 26-25-2, Apr. 23, 2025](https://www.benefits.va.gov/HOMELOANS/documents/circulars/26-25-02.pdf); [NPR, "Trump's VA killed a home loan program. Vets are now losing their homes because of it," Chris Arnold and Quil Lawrence, Apr. 2, 2026](https://www.npr.org/2026/04/02/nx-s1-5750814/veterans-mortgages-foreclosure-va-rescue); [govinfo BILLSTATUS, H.R. 1815 (119th)](https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1815.xml); P.L. 119-31; [VA, "VA launches Partial Claim Program to help Veterans avoid home foreclosure," Jun. 15, 2026](https://news.va.gov/press-room/va-launches-partial-claim-program-to-help-veterans-avoid-home-foreclosure/); 38 U.S.C. §3729.*
+*Sources: [VA Circular 26-25-2, Apr. 23, 2025](https://www.benefits.va.gov/HOMELOANS/documents/circulars/26-25-02.pdf); [NPR, "Trump's VA killed a home loan program. Vets are now losing their homes because of it," Chris Arnold and Quil Lawrence, Apr. 2, 2026](https://www.npr.org/2026/04/02/nx-s1-5750814/veterans-mortgages-foreclosure-va-rescue); [Mortgage Bankers Association, "Mortgage Delinquencies Increase in the First Quarter of 2026," May 14, 2026](https://www.mba.org/news-and-research/newsroom/news/2026/05/14/mortgage-delinquencies-increase-in-the-first-quarter-of-2026); [govinfo BILLSTATUS, H.R. 1815 (119th)](https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1815.xml); P.L. 119-31; [VA, "VA launches Partial Claim Program to help Veterans avoid home foreclosure," Jun. 15, 2026](https://news.va.gov/press-room/va-launches-partial-claim-program-to-help-veterans-avoid-home-foreclosure/); [VA Partial Claims Program and Loss Mitigation Waterfall FAQs for Servicers, updated Jun. 16, 2026](https://www.benefits.va.gov/HOMELOANS/partial-claims-servicer-faqs.asp); 38 U.S.C. §3729.*
 
 ---
 
@@ -526,6 +548,7 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 - Any Inspector General or GAO finding of casualty undercounting in the current operation. That question is open.
 - Any NY-23 facility closure. The Bath VA story is February **2025** and carries no published number.
 - **Any Langworthy vote on the VASP replacement.** H.R. 1815 passed both chambers by voice vote; no recorded vote exists for anyone. He is not a cosponsor, and neither is any other member — the bill was introduced with zero.
+- Any refreshed foreclosure count. The 10,000 figure is dated April 2, 2026, and no newer public cumulative number exists; MBA's Q1 2026 survey corroborates the direction, not that specific figure.
 - Any claim that 10,000 foreclosures were *caused* by the VASP shutdown. NPR states it is unclear how many could have been prevented, and we adopt that limit.
 - Any claim that the §104(b) fee increase raises costs for disabled veterans. Veterans receiving service-connected disability compensation are exempt from VA loan fees, and the bill does not change that.
 
@@ -569,6 +592,8 @@ Rep. Langworthy voted to increase toxic exposure funding and for the appropriati
 - VBA Monday Morning Workload Report, Jul. 18, 2026: <https://www.benefits.va.gov/REPORTS/mmwr/2026/MMWR-07-18-2026.xlsx>
 - VA OIG Report 25-01135-196, Aug. 12, 2025
 - VA FY2027 Budget in Brief: <https://department.va.gov/wp-content/uploads/2026/04/2027-BiB.pdf>
+- Mortgage Bankers Association, "Mortgage Delinquencies Increase in the First Quarter of 2026," May 14, 2026: <https://www.mba.org/news-and-research/newsroom/news/2026/05/14/mortgage-delinquencies-increase-in-the-first-quarter-of-2026>
+- VA, Partial Claims Program and Loss Mitigation Waterfall FAQs for Servicers, updated Jun. 16, 2026: <https://www.benefits.va.gov/HOMELOANS/partial-claims-servicer-faqs.asp>
 - VA Circular 26-25-2, "Veterans Affairs Servicing Purchase (VASP) Program Wind Down," Apr. 23, 2025: <https://www.benefits.va.gov/HOMELOANS/documents/circulars/26-25-02.pdf>
 - NPR, "Trump's VA killed a home loan program. Vets are now losing their homes because of it," Chris Arnold and Quil Lawrence, Apr. 2, 2026: <https://www.npr.org/2026/04/02/nx-s1-5750814/veterans-mortgages-foreclosure-va-rescue>
 - govinfo BILLSTATUS, H.R. 1815 (119th Congress), enacted as P.L. 119-31: <https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1815.xml>
