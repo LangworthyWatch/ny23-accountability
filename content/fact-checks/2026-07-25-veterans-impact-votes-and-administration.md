@@ -2,7 +2,7 @@
 title: "Making Veterans Faster Than We Care For Them: The War, the Count, and the System Waiting for Them"
 date: 2026-07-25
 draft: true
-hold_reason: "Source verification completed 2026-07-25 across all sections; critical findings applied. Four items remain. (1) Send the standard request for comment to Langworthy's office on the war powers votes, the seven H.R. 9237 votes, the section 104(b) loan fee increases against the decade-high VA foreclosure rate, and the absence of veterans communication in the May-July 2026 window. (2) The Hirono letter response is due July 30, 2026; update Section B once DoD answers or fails to. (3) Two operational facts remain UNVERIFIED and must be sourced or cut before publish: the February 28, 2026 start date for Operation Epic Fury, and the July 13, 2026 strike wave (ABC describes the post-July-6 period as nearly two weeks of consecutive nightly strikes, so singling out July 13 may mislead unless CENTCOM marked it). Also unsourced: that the administration relies on Article II and the 60-day window, and that it regards the War Powers Resolution as unconstitutional. Still outstanding from the earlier list: the Statement of Administration Policy on H.R. 9237, and Collins April 2026 MilCon-VA testimony, quoted in two sections but never fetched from a transcript. (4) The 10,000 foreclosure figure is ICE data via NPR, April 2, 2026, with no newer public cumulative count; refresh at the MBA Q2 2026 release, mid-August 2026. Then run scripts/archive_sources.sh, noting dodig.mil and media.defense.gov 403 all bots and must go through Wayback."
+hold_reason: "Source verification completed 2026-07-25 across all sections; critical findings applied. Four items remain. (1) Send the standard request for comment to Langworthy's office on the war powers votes, the seven H.R. 9237 votes, the section 104(b) loan fee increases against the decade-high VA foreclosure rate, and the absence of veterans communication in the May-July 2026 window. (2) The Hirono letter response is due July 30, 2026; update Section B once DoD answers or fails to. (3) Two operational facts remain UNVERIFIED and must be sourced or cut before publish: the February 28, 2026 start date for Operation Epic Fury, and the July 13, 2026 strike wave (ABC describes the post-July-6 period as nearly two weeks of consecutive nightly strikes, so singling out July 13 may mislead unless CENTCOM marked it). Also unsourced: that the administration relies on Article II and the 60-day window, and that it regards the War Powers Resolution as unconstitutional. Still outstanding from the earlier list: the Statement of Administration Policy on H.R. 9237. The Collins April 2026 testimony has now been resolved from the committee's own video (no printed transcript exists); if govinfo later publishes a CHRG transcript, replace our unofficial transcription with it. (4) The 10,000 foreclosure figure is ICE data via NPR, April 2, 2026, with no newer public cumulative count; refresh at the MBA Q2 2026 release, mid-August 2026. Then run scripts/archive_sources.sh, noting dodig.mil and media.defense.gov 403 all bots and must go through Wayback."
 topic: "Veterans"
 claim_date: "February 2025 – July 2026"
 source: "House and Senate roll calls, GPO bill text and BILLSTATUS, DoD IG, Senate casualty-reporting letter, VA budget submissions, VA Workforce Dashboard, VA Loan Guaranty circulars, Senate Veterans' Affairs Committee, VA OIG, ICE Mortgage Technology data via NPR"
@@ -388,13 +388,15 @@ Secretary Collins said of the February dismissals: *"These moves will not hurt V
 The mechanism was not mass firing. It was preventing vacancies from being filled.
 
 - **NPR, December 19, 2025:** VA avoided layoffs "… by offering early retirement, deferred resignations and a hiring freeze to simply not refill positions that became vacant."
-- **Senate Veterans' Affairs Committee minority report, January 22, 2026**, quoting a VHA human-resources employee in field testimony: *"We cannot backfill because of the hiring freeze… Some services have lost up to 11 staff members and cannot backfill the positions because of the hiring freeze."*
+- **Senate Veterans' Affairs Committee minority report, January 22, 2026**, quoting a VHA human-resources employee in field testimony: *"We cannot backfill because of the hiring freeze… Some services have lost up to 11 staff members [almost a whole service] and cannot backfill the positions because of the hiring freeze."* (The bracketed phrase is the report's own.)
 - Removing about 25,000 unfilled positions removes the budgeted authority — the position no longer exists to be filled without new approval.
 - After the freeze lifted in January 2026, facilities remained under allocated FTE ceilings requiring committee approval to exceed.
 
 **Set against that, Secretary Collins told the Senate Appropriations MilCon-VA Subcommittee in April 2026:**
 
-> "Right now, we're hiring every position that needs to be hired. There's no hiring shortage, no hiring freeze of anybody."
+> "Right now we're hiring every position that needs to be hired. There's no hiring shortage, no hiring freeze of anybody **that needs to be hired**. If they need the people, they're going to hire the people."
+
+*A note on that quote.* It is widely reproduced ending at "no hiring freeze of anybody," and we had it that way too. No printed transcript of the April 30, 2026 hearing exists yet; transcribing the official Senate video (at roughly 1:41:20) shows he kept going, and the clause he added — "that needs to be hired" — is self-limiting in a way the short version is not. We quote it in full. The transcription is ours, from the committee's own video, not an official record.
 
 ### What it produced
 
@@ -441,9 +443,11 @@ Floor amendments added a net **$96 million** to the committee mark: $94 million 
 | Total research FTE (incl. Toxic Exposures Fund) | 3,828 | 3,706 | **3,518** |
 | Appropriation-funded research FTE | 3,723 | 3,565 | **3,368** |
 
-On the total-FTE line — the one VA labels itself — that is a **5.1% reduction**, on top of a 3.2% decline the year before. The appropriation-funded line falls further, 5.5%. Testifying to the Senate Veterans' Affairs Committee on **July 22, 2026**, Dr. Glenn D. Graham, president of the Association of VA Neurology Services, noted that with biomedical inflation projected at 2.7%, a 2.4% nominal cut is "approximately a 5 percent loss of real purchasing power."
+On the total-FTE line — the one VA labels itself — that is a **5.1% reduction**, on top of a 3.2% decline the year before. The appropriation-funded line falls further, 5.5%. Testifying to the Senate Veterans' Affairs Committee on **July 22, 2026**, Dr. Glenn D. Graham, president of the Association of VA Neurology Services, noted that with NIH projecting roughly **2.7%** biomedical research inflation for FY2027, a 2.4% nominal cut is "approximately a 5 percent loss of real purchasing power, even before accounting for the disproportionate 5.1 percent reduction in research personnel."
 
-Researchers are also structurally exposed: many work on term-limited or without-compensation appointments that are normally renewed. The Senate committee report describes researchers "whose terms were ending" being "shown the door," with positions "unable to be backfilled." VA issued extensions in March, May and August 2025 — but not retroactively for those already gone.
+Researchers are also structurally exposed: many work on term-limited or without-compensation appointments that are normally renewed. The Senate committee report describes researchers "whose terms were ending" being "shown the door," with positions "unable to be backfilled."
+
+VA did act, though later and more narrowly than "extensions" suggests. Per Secretary Collins' **November 25, 2025** response to Sen. Blumenthal, VA "approved hiring freeze **exemptions** for certain occupational series for VA researchers" on **May 30, 2025**, and on **August 1, 2025** "extended existing employees supporting research through the end of the fiscal year." The same letter says VA "is in the process of rehiring researchers whose terms expired in February 2025 and March 2025" — those are expiration months, not extension months. None of it reached researchers already gone.
 
 A **July 18, 2025 letter** from Senators Blumenthal, Murray and Gallego to Secretary Collins documents specific consequences: a dementia and heart-disease trial that "had to turn veterans away from enrollment," a substance-use study paused, a stroke-risk study halted, and delayed enrollment in advanced-cancer trials.
 
@@ -472,7 +476,7 @@ Consider what that means against the record documented above:
 - The Defense Department's public casualty database showed **zero wounded** for July while its own chief spokesman described roughly 100 injuries.
 - Then the published death toll was **revised downward**, from 18 to 14, and the wounded count from 482 to 420, and left uncorrected.
 - The Department's own Inspector General has twice found it cannot accurately track traumatic brain injuries, and has not received required reports from Central Command **since October 2014**.
-- VA's claims workforce shrank by 1,102 examiners while its Secretary told appropriators there was "no hiring freeze of anybody" — a statement in tension with VA's own internal guidance and with field testimony collected by a Senate committee.
+- VA's claims workforce shrank by 1,102 examiners while its Secretary told appropriators there was "no hiring freeze of anybody that needs to be hired" — a statement in tension with VA's own internal guidance and with field testimony collected by a Senate committee, though his qualifier does real work.
 
 Every one of those is a federal agency performance question. That is the Oversight Committee's subject matter.
 
@@ -597,6 +601,10 @@ Rep. Langworthy voted to increase toxic exposure funding and for the appropriati
 - VA, "VA dismisses more than 1,000 employees," Feb. 13, 2025: <https://news.va.gov/press-room/va-dismisses-more-than-1000-employees/>
 - VA, "VA dismisses more than 1,400 probationary employees," Feb. 24, 2025: <https://news.va.gov/press-room/va-dismisses-more-than-1400-probationary-employees/>
 - Senate Veterans' Affairs Committee minority report, "Breaking the PACT," Jan. 22, 2026: <https://www.veterans.senate.gov/services/files/A08A4C86-DB56-4A01-B98F-6ED1CF3F2B7A>
+- Secretary Collins' response to Sen. Blumenthal on research staffing, Nov. 25, 2025: <https://www.veterans.senate.gov/services/files/59B1A8A6-26A6-44ED-8138-BB57C8A1E87B>
+- Senate Appropriations MilCon-VA hearing on the FY2027 VA budget request, Apr. 30, 2026 (official committee video; no printed transcript published): <https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fiscal-year-2027-budget-request-for-the-department-of-veterans-affairs>
+- Testimony of Dr. Glenn D. Graham, Senate Veterans' Affairs Committee, Jul. 22, 2026: <https://www.veterans.senate.gov/services/files/E0CFC10F-54D2-48E4-90BE-73A9F4268669>
+- Letter of Sens. Blumenthal, Murray and Gallego to Secretary Collins, Jul. 18, 2025: <https://www.murray.senate.gov/wp-content/uploads/2025/07/2025-07-18-Letter-to-SecVA-re-Research.pdf>
 - VA Workforce Dashboard: <https://department.va.gov/employees/va-workforce-dashboard/>
 - VBA Monday Morning Workload Report, Jul. 18, 2026: <https://www.benefits.va.gov/REPORTS/mmwr/2026/MMWR-07-18-2026.xlsx>
 - VA OIG Report 25-01135-196, Aug. 12, 2025
