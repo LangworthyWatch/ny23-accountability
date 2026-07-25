@@ -110,6 +110,24 @@ Massie called it an **"absurd ruse."** ABC framed the maneuver as an attempt to 
 
 ABC News reported that major U.S. conflicts have historically moved through distinct phases, but that "those shifts have not resulted in separate casualty categories being treated as separate wars," and that splitting a war this way "would be unprecedented."
 
+### What legal scholars say about the theory
+
+*We are not the ones to judge whether this war is lawful. Here is what people who do this for a living have written. Note that both assessments were published in early May and address the May 1 letter, before the July resumption.*
+
+**The administration's actual theory is narrower than it is usually described.** It did **not** argue that the War Powers Resolution is unconstitutional, and it did not invoke the provision allowing a 30-day extension for safe withdrawal. It argued that the hostilities begun February 28 had **"terminated"** with the April 7 ceasefire, after which there had "been no exchange of fire" — so the duty to withdraw had lapsed.
+
+**Jack Goldsmith**, a Harvard law professor who ran the Justice Department's Office of Legal Counsel under President George W. Bush, assessed that theory on May 4:
+
+> "I find this interpretation of the WPR implausible. But it is far from the first time presidents have relied on implausible WPR interpretations to skirt the statute."
+
+Goldsmith flags the letter's factual premise — that there had been "no exchange of fire" — as **"highly misleading."** He also declines the simple version of the story: presidents of both parties have stretched the statute for fifty years, a lineage he traces from a 1975 opinion by Antonin Scalia, then head of OLC, through Reagan in Lebanon and Obama in Libya, where the State Department's legal adviser testified that an air campaign did not amount to "hostilities." Trump's claim that the Resolution has "never been adhered to," Goldsmith writes, is "not right here, but he is not entirely wrong." His conclusion still cuts the other way: it is "wrong to say that the WPR is irrelevant or toothless."
+
+**Tess Bridgeman**, a former deputy legal adviser at the National Security Council, and **Oona Hathaway** of Yale Law School put it far more strongly, writing on the day the clock expired. They argue the war was "doubly illegal" before the deadline — under the Constitution, which assigns the war power to Congress, and under Article 2(4) of the UN Charter, which they say makes it "a war of aggression" — and that blowing the 60-day deadline makes it "triply illegal." They also close the escape hatch Goldsmith notes was unused: the 30-day extension requires a presidential certification that was never filed.
+
+**Where they agree is the part worth noticing.** A Bush administration OLC head and two of the administration's sharpest critics independently reach the same word — *implausible* — about the legal theory. They also agree it belongs to a bipartisan tradition of stretching this statute, which is why this entry does not present it as unprecedented behavior by one party.
+
+**In fairness, and stated plainly:** we did not locate a defense of the administration's position from a scholar of comparable standing. There is a serious, mainstream argument that Article II gives presidents broad latitude for limited strikes, and OLC has applied a two-part test to that effect across administrations of both parties. But the published defenses of *this* operation that we found came from advocacy outlets rather than from the legal academy, and we are not going to manufacture a balance the record does not show.
+
 **In plain language:** the same relabeling that would restart the war powers clock also governs which operation a dead or wounded service member gets counted under. That is the subject of the next section.
 
 *Sources: clerk.house.gov roll call XML for rolls 85, 114, 170, 199, 201, 232, 282; senate.gov Vote 184 (Jun. 23, 2026); INS v. Chadha, 462 U.S. 919 (1983); ABC News, "Pentagon lowers count of Iran war dead and wounded," Beynon and Martinez, Jul. 24, 2026.*
@@ -587,6 +605,8 @@ Rep. Langworthy voted to increase toxic exposure funding and for the appropriati
 
 - House Clerk roll call XML, rolls 85, 114, 170, 199, 201, 232, 282 (2026): <https://clerk.house.gov/evs/2026/>
 - U.S. Department of War, "Operation Epic Fury" spotlight (start date; Jul. 13, 2026 strike-wave news item): <https://www.war.gov/Spotlights/Operation-Epic-Fury/>
+- Jack Goldsmith, "Trump's Interpretation of the War Powers Resolution Is Wrong But Not Crazy," Executive Functions, May 4, 2026: <https://www.execfunctions.org/p/trumps-interpretation-of-the-war>
+- Tess Bridgeman and Oona A. Hathaway, "At the 60-Day Mark, the Iran War is Triply Illegal," Just Security, May 1, 2026: <https://www.justsecurity.org/137669/60-day-mark-iran-war-triply-illegal/>
 - U.S. Senate Roll Call Vote 184, Jun. 23, 2026 (H.Con.Res. 86): <https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00184.htm>
 - U.S. Senate Roll Call Vote 207, Jul. 23, 2026 (motion to discharge S.J.Res. 180, rejected 47-49): <https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00207.htm>
 - ABC News, "Pentagon lowers count of Iran war dead and wounded, sparking questions and outrage," Steven Beynon and Luis Martinez, Jul. 24, 2026: <https://abcnews.go.com/Politics/pentagon-lowers-count-iran-war-dead-wounded-sparking/story?id=125421887>
