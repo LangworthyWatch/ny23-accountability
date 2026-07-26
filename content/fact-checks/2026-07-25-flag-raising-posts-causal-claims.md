@@ -87,7 +87,7 @@ Langworthy's charge is that Mamdani traffics in "incendiary rhetoric & division.
 
 ## D. The Claim He Rejected
 
-On **July 3**, Buffalo Mayor Sean Ryan said remarks by Langworthy and Erie County Republican Chairman Michael Kracker, spread widely online, "helped fuel threats and harassment at City Hall," including a threat to blow up the building. The flag had been stolen and the flagpole cut overnight on July 1–2.
+On **July 3**, WKBW reported that Mayor Sean Ryan told reporters remarks by Langworthy and Erie County Republican Chairman Michael Kracker, shared widely on social media, had helped fuel threats and harassment at City Hall, including an online threat to blow up the building. *(That formulation is the reporter's, not a direct quote from Ryan.)* Ryan did say on the record that among "hundreds and hundreds of phone calls from across America" there were "threats against city property, threats against city hall, you know, bomb threats." The flag had been stolen and the flagpole cut overnight on July 1.
 
 Langworthy's response the same day:
 
@@ -107,9 +107,11 @@ Ryan also said: "I never heard Nick Langworthy or Michael Kracker complain when 
 |---|---|
 | What evidence supports "nothing to do with logistics" | None offered |
 | What evidence supports "made every Jewish New Yorker less safe" | None offered |
-| Whether he objected to any of the other flags flown at Niagara Square | No statements located either way |
+| Whether he objected to any of the other flags flown at Niagara Square | **No objection to any municipal flag raising was located** in 436 House press releases (Jan. 2023 to Jul. 2026), the Congressional Record, or state and county GOP archives. Two gaps remain: his X account and Facebook, and the July posts were themselves on social media. See the note below |
 | Whether he accepts that a member's rhetoric can contribute to threats | Rejected when applied to himself; asserted about others |
 | Whether the July 25 post has any corroboration beyond the screenshot | None located: no press release, no secondary coverage, no archive |
+
+**A note on that third row, because absence of evidence is not evidence of absence.** A dedicated search of his House press releases, the Congressional Record, and state and county Republican archives found no instance of him objecting to a ceremonial flag raising by any city. It did surface three adjacent items a fair reader should have: a November 2, 2023 floor statement condemning "colleagues who have joined anti-Semitic rallies and waved Palestinian flags"; a July 2024 press release on protesters "hoisting Hamas flags while burning American ones"; and his original cosponsorship of two resolutions barring foreign flags from the House floor. Those concern protest flags and chamber decorum rather than municipal ceremonies, so they do not answer the question — but they are the closest thing in the record, and we are not going to claim he has never raised the subject of a flag.
 
 ---
 

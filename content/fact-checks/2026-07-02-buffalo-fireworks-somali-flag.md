@@ -84,6 +84,8 @@ Buffalo's flagpoles are regularly used this way. The mayor's office noted the sa
 
 The posts leave the impression that Buffalo declined to celebrate the nation's 250th. It did not. Buffalo and Erie County are hosting an **America 250 fireworks show on Aug. 2 at Canalside**, launched from a barge on the river — the same barge method that sidesteps the downtown fallout concern. Ryan's stated preference was a *separate* downtown show to draw people into the city center; when a safe downtown site didn't materialize, the Canalside event remained on the calendar.
 
+Ryan said as much in his own words, explaining why he did not simply move the July 4 show onto the water: **"I didn't want to do them on the barge in the river because we're already doing them August 2 on the barge in the river."**
+
 **In plain language:** the choice on the table was not "fireworks vs. no fireworks." It was "an added downtown show vs. the barge show already planned for August." The 250th is still being marked with fireworks in Erie County.
 
 ---
