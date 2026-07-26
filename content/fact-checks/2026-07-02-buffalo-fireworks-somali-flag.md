@@ -6,7 +6,8 @@ topic: "Other"
 claim_date: "July 1, 2026"
 source: "Facebook Post"
 source_url: "https://www.facebook.com/share/p/1Dmy8zLn7U/"
-archived_url: "https://web.archive.org/web/2026/https://www.facebook.com/share/p/1Dmy8zLn7U/"
+archived_url: ""
+archive_note: "The Facebook posts are login-walled and Wayback holds no capture: archive.org/wayback/available returns an empty archived_snapshots object for these share URLs, checked 2026-07-25. An earlier version of this entry carried a constructed web.archive.org URL that resolved to nothing; it has been removed. The preservation artifacts are screenshots of the verified page with timestamps, at static/images/fact-checks/2026-07-25-buffalo-flag-post-jul1.png, -jul2.png and -jul3.png. The July 1 screenshot is cropped below the shared post to avoid republishing identifiable photographs of private individuals at the ceremony; the cropped image retains the full text and the sharing attribution."
 verdict: "MISLEADING"
 tags: ["buffalo", "fireworks", "america-250", "somali-flag", "framing", "culture-war", "erie", "fact-check"]
 counties: ["erie"]
@@ -22,7 +23,7 @@ Across three posts on July 1, 2 and 3, Rep. Langworthy tied Buffalo's lack of a 
 
 **Source:** Facebook posts, verified official page, July 1–3, 2026
 
-**July 1, 4:22 PM**, posted above photographs of the flag-raising ceremony:
+**July 1, 4:22 PM**, posted above photographs of the flag-raising ceremony shared from the account @EndWokeness:
 
 > "Buffalo's leaders claimed they 'couldn't find a site' to celebrate America's 250th birthday with fireworks. Yet they somehow had no trouble finding the time and space to raise a Somali flag. That wasn't a logistical challenge. It was a choice … those in charge sent a clear message about what they value, and it wasn't America."
 
@@ -33,6 +34,12 @@ Across three posts on July 1, 2 and 3, Rep. Langworthy tied Buffalo's lack of a 
 **July 3, 7:11 PM**, after Mayor Ryan responded publicly:
 
 > "Sean Ryan can call me whatever he wants. I'm not backing down. I believe a city as great as Buffalo should proudly celebrate America's 250th birthday. Instead, the Mayor canceled that celebration while presiding over a ceremony honoring a foreign flag… Those were his priorities. Mine are clear: I'll always stand for America, celebrate our flag, honor our history, and never apologize for believing that America should come first."
+
+{{< figure src="/images/fact-checks/2026-07-25-buffalo-flag-post-jul1.png" alt="Facebook post from the verified page of Nick Langworthy dated July 1 at 4:22 PM, reading that Buffalo's leaders claimed they could not find a site to celebrate America's 250th birthday with fireworks yet had no trouble finding the time and space to raise a Somali flag, that this was not a logistical challenge but a choice, and that those in charge sent a clear message about what they value. Below it, the shared post from the account End Wokeness headlined that Buffalo City Hall raises a Somalia flag one day after canceling July 4th fireworks." caption="July 1, 4:22 PM. Cropped below the shared post: the original embeds photographs of identifiable private individuals at the ceremony, which this site does not republish." >}}
+
+{{< figure src="/images/fact-checks/2026-07-25-buffalo-flag-post-jul2.png" alt="Facebook post from the verified page of Nick Langworthy dated July 2 at 1:10 PM, reading that Democrats are nominating anti-America socialist candidates across the country including in Buffalo, and that the decision to cancel fireworks while simultaneously raising the Somali flag has everything to do with that and nothing to do with logistics, tagged hashtag facts. It is posted over a WGRZ story headlined Mayor Ryan adds clarity to city's decision to cancel downtown Buffalo fireworks show." caption="July 2, 1:10 PM, posted over the WGRZ report of the city's explanation." >}}
+
+{{< figure src="/images/fact-checks/2026-07-25-buffalo-flag-post-jul3.png" alt="Facebook post from the verified page of Nick Langworthy dated July 3 at 7:11 PM, beginning Sean Ryan can call me whatever he wants, I am not backing down, and stating that the Mayor canceled the 250th birthday celebration while presiding over a ceremony honoring a foreign flag." caption="July 3, 7:11 PM, after Mayor Ryan responded publicly." >}}
 
 *(On the July 3 post's "canceled that celebration": as Claim 1 and Claim 4 below set out, Buffalo had not held a city July 4 fireworks display since 2015, and the America 250 show remained on the calendar. There was no standing celebration to cancel.)*
 

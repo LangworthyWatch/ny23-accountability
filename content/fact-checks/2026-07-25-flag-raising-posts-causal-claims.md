@@ -2,13 +2,13 @@
 title: "The Causal Claims He Makes, and the One He Rejected When It Was Aimed at Him"
 date: 2026-07-25
 draft: true
-hold_reason: "Verification pass completed 2026-07-25; Section B corrections applied. Three items remain. (1) Save the reader-supplied screenshots to static/images/fact-checks/ as 2026-07-25-buffalo-flag-post-jul3.png and 2026-07-25-mamdani-post.png. The July 25 post screenshot is the ONLY evidence for that post: no press release, no secondary coverage and no archive capture could be located, so the screenshot must be filed before publish. (2) Send the standard request for comment to Langworthy's office on the July 25 post. (3) Attempt once more to corroborate the July 25 Newsmax appearance itself; Newsmax ran Mamdani segments that week but his was not located."
+hold_reason: "Verification pass completed 2026-07-25; Section B corrections applied. Three items remain. (1) BLOCKING: file the July 25 Mamdani post screenshot to static/images/fact-checks/2026-07-25-mamdani-post.png. It is the only evidence that post exists, no press release, secondary coverage or archive capture could be located, and it is not yet on disk. The three Buffalo screenshots are filed. (2) Send the standard request for comment to Langworthy's office on the July 25 post. (3) Attempt once more to corroborate the July 25 Newsmax appearance itself; Newsmax ran Mamdani segments that week but his was not located."
 topic: "Rhetoric"
 claim_date: "July 2-25, 2026"
 source: "Facebook posts, verified official page"
 source_url: "https://www.facebook.com/share/p/1EjNgHJN7k/"
 archived_url: ""
-archive_note: "The Facebook posts are login-walled; Facebook serves logged-out visitors a single post before a login wall and Wayback holds no capture of the page. Preservation artifacts are reader-supplied screenshots showing the verified page, timestamps and share permalinks, filed under static/images/fact-checks/. The July 2 post is additionally quoted verbatim by WKBW. The July 25 post has NO independent corroboration: no press release, no secondary coverage, no X or Wayback capture was located, so it rests solely on the reader screenshot showing the verified page."
+archive_note: "The Facebook posts are login-walled and Wayback holds no capture; archive.org/wayback/available returns an empty archived_snapshots object for these share URLs, checked 2026-07-25. Preservation artifacts are screenshots of the verified page with timestamps: static/images/fact-checks/2026-07-25-buffalo-flag-post-jul2.png and -jul3.png (the July 1 post is filed with the companion entry, cropped to avoid republishing photographs of identifiable private individuals). The July 2 post is additionally quoted verbatim by WKBW. The July 25 Mamdani post has NO independent corroboration and NO screenshot on file yet: no press release, no secondary coverage and no archive capture was located, so that post currently rests on a screenshot that exists only in correspondence. It MUST be filed before publish."
 verdict: "NOT SUPPORTED"
 tags: ["rhetoric", "causal-claims", "buffalo", "antisemitism", "pattern"]
 counties: ["erie"]
