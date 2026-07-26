@@ -2,13 +2,13 @@
 title: "The Causal Claims He Makes, and the One He Rejected When It Was Aimed at Him"
 date: 2026-07-25
 draft: true
-hold_reason: "Verification pass completed 2026-07-25; Section B corrections applied. Three items remain. (1) BLOCKING: file the July 25 Mamdani post screenshot to static/images/fact-checks/2026-07-25-mamdani-post.png. It is the only evidence that post exists, no press release, secondary coverage or archive capture could be located, and it is not yet on disk. The three Buffalo screenshots are filed. (2) Send the standard request for comment to Langworthy's office on the July 25 post. (3) Attempt once more to corroborate the July 25 Newsmax appearance itself; Newsmax ran Mamdani segments that week but his was not located."
+hold_reason: "Verification pass completed 2026-07-25; Section B corrections applied; all four post screenshots now filed. Two items remain. (1) Send the standard request for comment to Langworthy's office on the July 25 post. (2) The Mamdani screenshot carries only a relative timestamp (5h), so the July 25 date is not established by the artifact itself. Either capture the post again with an absolute date visible, or confirm the date from the Newsmax segment, which the screenshot shows aired at 8:14 ET under the chyron MAMDANI ON HOT SEAT AFTER NYC STABBINGS. Until one of those lands, do not state the date more precisely than the record supports."
 topic: "Rhetoric"
 claim_date: "July 2-25, 2026"
 source: "Facebook posts, verified official page"
 source_url: "https://www.facebook.com/share/p/1EjNgHJN7k/"
 archived_url: ""
-archive_note: "The Facebook posts are login-walled and Wayback holds no capture; archive.org/wayback/available returns an empty archived_snapshots object for these share URLs, checked 2026-07-25. Preservation artifacts are screenshots of the verified page with timestamps: static/images/fact-checks/2026-07-25-buffalo-flag-post-jul2.png and -jul3.png (the July 1 post is filed with the companion entry, cropped to avoid republishing photographs of identifiable private individuals). The July 2 post is additionally quoted verbatim by WKBW. The July 25 Mamdani post has NO independent corroboration and NO screenshot on file yet: no press release, no secondary coverage and no archive capture was located, so that post currently rests on a screenshot that exists only in correspondence. It MUST be filed before publish."
+archive_note: "The Facebook posts are login-walled and Wayback holds no capture; archive.org/wayback/available returns an empty archived_snapshots object for these share URLs, checked 2026-07-25. Preservation artifacts are screenshots of the verified page: static/images/fact-checks/2026-07-25-buffalo-flag-post-jul2.png and -jul3.png (both carry absolute timestamps; the July 1 post is filed with the companion entry, cropped to avoid republishing photographs of identifiable private individuals), and 2026-07-25-mamdani-post.png. The July 2 post is additionally quoted verbatim by WKBW. LIMITATION on the Mamdani screenshot: it shows a RELATIVE timestamp (5h), not an absolute date, so the artifact alone does not self-date the post; the July 25 date rests on when the screenshot was supplied. Its embedded video does independently corroborate the Newsmax appearance, showing the chyron MAMDANI ON HOT SEAT AFTER NYC STABBINGS at 8:14 ET."
 verdict: "NOT SUPPORTED"
 tags: ["rhetoric", "causal-claims", "buffalo", "antisemitism", "pattern"]
 counties: ["erie"]
@@ -59,6 +59,8 @@ Mamdani condemned the attacks that evening as "hateful and despicable," and rela
 On **July 25**, Rep. Langworthy posted:
 
 > "Mamdani has chosen to fan the flames of antisemitism with incendiary rhetoric & division that **has made every Jewish New Yorker less safe.** I joined NEWSMAX to discuss this growing cancer in the Democrat Party."
+
+{{< figure src="/images/fact-checks/2026-07-25-mamdani-post.png" alt="Facebook post from the verified page of Congressman Nick Langworthy reading: Mamdani has chosen to fan the flames of antisemitism with incendiary rhetoric and division that has made every Jewish New Yorker less safe. I joined NEWSMAX to discuss this growing cancer in the Democrat Party. Below the text is a video of a Newsmax broadcast showing two anchors at a desk and Langworthy on a remote feed, under a chyron reading BLUE CITY CHAOS and MAMDANI ON HOT SEAT AFTER NYC STABBINGS, timestamped 8:14 ET live, with the caption IT'S DIVIDING overlaid." caption="The post carries a relative timestamp, five hours, rather than an absolute date. The embedded video confirms the Newsmax appearance and its chyron." >}}
 
 Whether Mamdani's statements were antisemitic is a contested judgment, and this entry does not resolve it. **The phrasing was also in circulation:** Eric Goldstein had said "stop fanning the flames of hatred and division" the day before, so the framing was not invented for the post.
 
