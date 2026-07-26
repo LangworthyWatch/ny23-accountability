@@ -13,6 +13,9 @@ publishes. Hard rules for this one:
   earlier draft had these reversed. Do not reintroduce that error.
 - The Buffalo fireworks facts belong to the separate July 2 entry and its own
   caption. This one is about the pattern.
+- Do NOT assert what he knows, believes or intends. An earlier draft had "he
+  knows this, because he said so" — that is mind-reading and the entry's own
+  standard forbids it. State what he did, not what he understood.
 
 ---
 
@@ -34,7 +37,7 @@ Twenty-two days later he asserted exactly that kind of inference as fact about s
 
 → Rhetoric causing danger is a serious charge. It requires evidence.
 → Nobody has produced any, in either direction.
-→ He knows this, because he said so when it was pointed at him.
+→ He rejected exactly that inference when it was aimed at him.
 
 To be fair on all sides: criticism of Mamdani's first statement was real and came from Democrats and nonpartisan Jewish community leaders, not just Republicans. And the phrase Langworthy used was already circulating, from a UJA-Federation leader, the day before.
 
