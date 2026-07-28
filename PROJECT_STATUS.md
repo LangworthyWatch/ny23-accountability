@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 25, 2026*
+*Last updated: July 26, 2026*
 
 ---
 
@@ -102,7 +102,8 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 |---|---|---|
 | Landa / nursing-home donor | **Drafted 7/25**, held | Send right of reply to Benjamin Landa's representatives (spokesman of record: Mark Weiss) + Langworthy's office; 10 business days. Excluded-as-unverified list is in FINDINGS_BACKLOG — do not reintroduce from a search summary |
 | AIPAC money and record | **Drafted 7/25**, held | Request for comment + Wayback archiving. Also decide whether to rescope `content/campaign-finance/_index.md`, whose OpenSecrets AIPAC figure ($31,550, 2024 only) is ~1/3 of the primary-source cross-cycle total |
-| Veterans: war, casualty count, VA system | **Drafted 7/25**, held | **DoD response to the 12-senator Hirono letter due 7/30** — could move the 18→14 / 482→420 figures in both the entry and the card. Also unintegrated: the ABC News "rebranding" thread (Epic Fury declared terminated 5/1, resumed 7/6, strikes now called "overseas operations"; Massie calls it an "absurd ruse" to dodge the 60-day clock) — this is the connective tissue between the war-powers votes and the casualty count. Full writeup in FINDINGS_BACKLOG |
+| Veterans: war, casualty count, VA system | **Drafted 7/25**, held. Full source-verification pass run 7/26 across all sections; ~15 corrections applied (see below) | **DoD response to the 12-senator Hirono letter due 7/30** — reminder scheduled. Then request for comment; MBA Q2 foreclosure refresh mid-Aug. Rebranding thread and a new VA home-loan foreclosure section are now INTEGRATED, not pending |
+| Buffalo flag posts / causal-claim pattern | **Drafted 7/26**, held (`2026-07-25-flag-raising-posts-causal-claims`, NOT SUPPORTED) | Deduped against the live 7/2 Buffalo entry after a propagation sweep found it already covered the same posts. Remaining gate: request for comment. All four post screenshots filed |
 | Essential Plan cliff (July 1) | **Published 7/2** (MOSTLY TRUE) + cross-refs in beagle/town-hall entries | Watch Aug 30 QHP enrollment deadline; Hochul 127k-in-GOP-districts figure logged for possible add |
 | June 25 tele-town hall | **Published 7/2** (MISLEADING, "hospitals aren't going anywhere") + full disclaimered transcript in /documents/ | Remaining town-hall claims to check: 11% refunds, Virginia CDL crash attribution, 70k nurses figure |
 | Liberty Strategies | **Published 7/2** (MISSING CONTEXT; office no-response by 7/1 deadline noted; $1 FEC total corrected; two-firms chronology + stocks-TRUE contrast added) | COELIG FOIL arc continues; update entry if office responds |
