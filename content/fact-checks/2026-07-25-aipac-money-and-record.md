@@ -1,6 +1,7 @@
 ---
 title: "AIPAC and Langworthy: What the Records Actually Show"
 date: 2026-07-25
+slug: "aipac-record"
 draft: true
 hold_reason: "Two items before publish. (1) Send the standard request for comment to Langworthy's office on the trip sponsorship and the bundled contributions, and record the response or the non-response. (2) Run scripts/archive_sources.sh; the Clerk gift-travel PDF and the FEC API queries need Wayback captures. Also decide whether to update content/campaign-finance/_index.md, whose OpenSecrets-sourced AIPAC figure is roughly a third of the primary-source total documented here."
 topic: "Campaign Finance"

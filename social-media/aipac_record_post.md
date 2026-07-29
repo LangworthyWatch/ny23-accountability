@@ -29,4 +29,4 @@ Bundled fundraising, advocacy money, and Ethics-approved travel are all legal. W
 
 Don't take our word for it. Every figure traces to a filing you can open yourself.
 
-Full fact-check: langworthywatch.org/fact-checks/2026-07-25-aipac-money-and-record/
+Full fact-check: langworthywatch.org/fact-checks/aipac-record/

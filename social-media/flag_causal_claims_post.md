@@ -43,4 +43,4 @@ To be fair on all sides: criticism of Mamdani's first statement was real and cam
 
 None of that supplies the missing link.
 
-Full fact-check: langworthywatch.org
+Full fact-check: langworthywatch.org/fact-checks/flag-claims/

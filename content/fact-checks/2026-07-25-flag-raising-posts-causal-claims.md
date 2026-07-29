@@ -1,6 +1,7 @@
 ---
 title: "The Causal Claims He Makes, and the One He Rejected When It Was Aimed at Him"
 date: 2026-07-25
+slug: "flag-claims"
 draft: true
 hold_reason: "Verification pass completed 2026-07-25; Section B corrections applied; all four post screenshots now filed. Two items remain. (1) Send the standard request for comment to Langworthy's office on the July 25 post. (2) The Mamdani screenshot carries only a relative timestamp (5h), so the July 25 date is not established by the artifact itself. Either capture the post again with an absolute date visible, or confirm the date from the Newsmax segment, which the screenshot shows aired at 8:14 ET under the chyron MAMDANI ON HOT SEAT AFTER NYC STABBINGS. Until one of those lands, do not state the date more precisely than the record supports."
 topic: "Rhetoric"

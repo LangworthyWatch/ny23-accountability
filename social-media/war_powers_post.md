@@ -30,4 +30,4 @@ In fairness, and we will say it plainly: presidents of both parties have stretch
 
 Don't take our word for it. Every vote is a roll call you can open yourself.
 
-Full fact-check: langworthywatch.org
+Full fact-check: langworthywatch.org/fact-checks/veterans-record/

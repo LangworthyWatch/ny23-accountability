@@ -35,4 +35,4 @@ There is also no Langworthy vote to point to here. The replacement passed both c
 
 Don't take our word for it. VA's own circular ending the program is public.
 
-Full fact-check: langworthywatch.org
+Full fact-check: langworthywatch.org/fact-checks/veterans-record/

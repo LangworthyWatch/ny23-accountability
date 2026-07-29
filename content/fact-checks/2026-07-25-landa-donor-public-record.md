@@ -1,6 +1,7 @@
 ---
 title: "Who Benjamin Landa Is: The Public Record of Langworthy's Nursing Home Donor"
 date: 2026-07-25
+slug: "landa-donors"
 draft: true
 hold_reason: "Right-of-reply not yet sent to Benjamin Landa. Per the investigation checklist in LANGWORTHY_CROSSREF.md, this entry names a private individual in connection with pending civil fraud allegations and must not publish until a request for comment has been sent and the 10-business-day response window has elapsed. Add his response, or a note that none was received, before flipping draft:false."
 topic: "Campaign Finance"

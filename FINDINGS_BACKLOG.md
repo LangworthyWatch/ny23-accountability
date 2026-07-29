@@ -4,7 +4,7 @@
 > sessions. Items here are unprocessed — once acted on, move to a fact-check
 > entry under content/fact-checks/ or close with a disposition note.
 
-**Last updated:** 2026-07-25
+**Last updated:** 2026-07-28
 
 ---
 
@@ -196,6 +196,29 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 ## Fact-Check Leads
 
 <!-- New Langworthy statements, votes, or actions worth a standalone entry -->
+
+### Four bipartisan-bill credit claims, July 21–22 2026 — no coverage at all
+- **Date logged:** 2026-07-28
+- **Source:** Facebook captures filed at `static/images/fact-checks/feed-archive-2026-07/` (window 2). Surfaced by the Desktop screenshot sweep of 2026-07-28, which found that the capture log stops at 2026-07-08 and the feed archive stopped at 2026-07-11 — so the whole July 11–27 window had never been logged.
+- **Type:** fact-check-lead
+- **Priority:** medium
+- **Detail:** Four "proud to introduce / co-lead a bipartisan bill" posts in a 48-hour run. All four are absent from `content/` **and** from this backlog; checked under bill name, bill number, acronym, and cosponsor name (the only grep hits were substring false positives: "DERA" inside "federal", "FLOWS" inside "flows"). They share the shape of the published Biosimilars entry, which makes that entry the working template.
+  - **FDA Modernization Act 3.0 (H.R. 2821)** — July 21, 1:55 PM. *"Pleased to see the FDA Modernization Act 3.0 pass the House. As a proud cosponsor…"* Ties to the existing beagle / Marshall Farms thread (animal-testing alternatives). `2026-07-21_fda-modernization-3.jpg`
+  - **Diesel Emissions Reduction Act** — July 21, 12:38 PM. Co-lead with Rep. Doris O. Matsui; *"we just passed it out of the Environment subcommittee."* `2026-07-21_diesel-emissions-reduction.jpg`
+  - **Recycled Materials Attribution Act (RMAA)** — July 22, 2:34 PM, via a RealClear Policy piece. `2026-07-22_recycled-materials-attribution.jpg`
+  - **FLOWS Act** (Fair Licensing for Operations of Water Structures) — July 22, 11:33 AM, with Rep. Kim Schrier; hydropower permitting. Same Schrier pairing as the Biosimilars bill — a possible "bipartisan partner" pattern worth noting if a third turns up. `2026-07-22_flows-act-hydropower.jpg`
+- **Verify first (blocking on the FDA one):** the post claims *"as a proud cosponsor"* of H.R. 2821. Check the congress.gov `/cosponsors` roster before restating it — pre-publish failure mode 5, and the same claim shape already failed once on H.R. 6644 in June 2026. For the other three, confirm sponsor/co-lead status and the actual committee action against govinfo BILLSTATUS rather than the press framing.
+- **Also pending for the whole window:** permalinks and Wayback archives. Facebook posts routinely cannot be archived — expect to use `archived_url: ""` plus `archive_note` naming the screenshot, not a Wayback URL that 404s.
+- **Action:** decide whether these are worth one combined entry on the bipartisan-bill credit-claim pattern or four standalone entries. One combined entry is probably the stronger unit given they fall in a 48-hour run.
+- **Status:** open
+
+### Cimolai-HY — is there a third post? (verification, small)
+- **Date logged:** 2026-07-28
+- **Type:** verification
+- **Priority:** low
+- **Detail:** `2026-06-24-jamestown-advanced-manufacturing-tariffs` cites a **July 9** Cimolai-HY post quoting *"American manufacturing and steel production… in the heart of NY-23."* The feed archive holds two Cimolai images from window 1 (07-09, 07-10). A window-2 capture (`2026-07-11_steel-cimolai-beams.jpg`) carries a **different** caption — *"one beam at a time… also helped build the new Highmark Stadium"* — and a relative timestamp putting it on **July 11**.
+- **Action:** confirm whether this is a third distinct post. If so, the entry's "A Second Tour (July 2026)" section is describing a series, not a single follow-up, and the source line should reflect that.
+- **Status:** open
 
 ### Elmira/Chemung Hazlett Building office lease — HELD (reframe-only, do not publish as a "giveaway")
 - **Date logged:** 2026-07-01

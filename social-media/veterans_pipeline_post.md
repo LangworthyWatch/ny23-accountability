@@ -37,4 +37,4 @@ What cuts the other way: he voted to RAISE toxic exposure funding, and for the b
 
 Don't take our word for it. Every figure traces to a roll call, an IG report, or a VA filing.
 
-Full fact-check: langworthywatch.org
+Full fact-check: langworthywatch.org/fact-checks/veterans-record/

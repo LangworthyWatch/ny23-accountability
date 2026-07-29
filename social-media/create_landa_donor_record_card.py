@@ -94,7 +94,7 @@ y += pan_h + 18
 # ── Sources + URL ──
 c.text(c.w / 2, y + 10, "Sources: ProPublica  ·  Buffalo News  ·  ag.ny.gov  ·  oig.hhs.gov  ·  E.D.N.Y.  ·  FEC",
        size=15, fill=MUTED, anchor="mm")
-c.text(c.w / 2, y + 38, "langworthywatch.org/fact-checks/2026-07-25-landa-donor-public-record/",
+c.text(c.w / 2, y + 38, "langworthywatch.org/fact-checks/landa-donors/",
        size=16, bold=True, fill=NAVY, anchor="mm")
 
 c.footer_bar()

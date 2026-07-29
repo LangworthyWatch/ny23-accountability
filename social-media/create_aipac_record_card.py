@@ -108,7 +108,7 @@ y += pan_h + 18
 # ── Sources + URL ──
 c.text(c.w / 2, y + 8, "Sources: FEC OpenFEC API  ·  clerk.house.gov roll calls  ·  GPO BILLSTATUS  ·  House Clerk gift travel",
        size=14, fill=MUTED, anchor="mm")
-c.text(c.w / 2, y + 32, "langworthywatch.org/fact-checks/2026-07-25-aipac-money-and-record/",
+c.text(c.w / 2, y + 32, "langworthywatch.org/fact-checks/aipac-record/",
        size=16, bold=True, fill=NAVY, anchor="mm")
 
 c.footer_bar()

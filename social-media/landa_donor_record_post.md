@@ -25,4 +25,4 @@ And a court did once find him liable under the trafficking statute, in 2019. Tha
 
 We are not claiming a deal, and we say so in the entry. What we are saying is that this is the public record of the man whose money helped fund the campaign, and Langworthy has never been asked about it.
 
-Full fact-check, every document linked: langworthywatch.org/fact-checks/2026-07-25-landa-donor-public-record/
+Full fact-check, every document linked: langworthywatch.org/fact-checks/landa-donors/
