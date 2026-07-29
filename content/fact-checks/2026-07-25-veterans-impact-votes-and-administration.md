@@ -2,8 +2,7 @@
 title: "Making Veterans Faster Than We Care For Them: The War, the Count, and the System Waiting for Them"
 date: 2026-07-25
 slug: "veterans-record"
-draft: true
-hold_reason: "Source verification completed 2026-07-25 across all sections; critical findings applied. Three items remain, all external. (1) Send the standard request for comment to Langworthy's office on the war powers votes, the seven H.R. 9237 votes, the section 104(b) loan fee increases against the decade-high VA foreclosure rate, and the absence of veterans communication in the May-July 2026 window. (2) The Hirono letter response is due July 30, 2026; update Section B once DoD answers or fails to. (3) The 10,000 foreclosure figure is ICE data via NPR, April 2, 2026, with no newer public cumulative count; refresh at the MBA Q2 2026 release, mid-August 2026. Then run scripts/archive_sources.sh, noting dodig.mil and media.defense.gov 403 all bots and must go through Wayback. RESOLVED since the review: the Feb 28 2026 start date and the Jul 13 2026 strike wave are both confirmed from the Department of War Epic Fury spotlight page (the July 13 news item is headlined 'Centcom Completes Another Wave of Strikes Against Iran', so 'wave' is the Department's own word); the Collins April 2026 testimony is transcribed from the committee video; and the claim that the administration regards the War Powers Resolution as unconstitutional was WRONG and has been corrected, it has not argued the 60-day clock is unconstitutional and the quote belongs to VP Vance in January 2026. The Statement of Administration Policy on H.R. 9237 remains search-result-only and is cited nowhere in the entry, so it is no longer a publish gate."
+draft: false
 topic: "Veterans"
 claim_date: "February 2025 – July 2026"
 source: "House and Senate roll calls, GPO bill text and BILLSTATUS, DoD IG, Senate casualty-reporting letter, VA budget submissions, VA Workforce Dashboard, VA Loan Guaranty circulars, Senate Veterans' Affairs Committee, VA OIG, ICE Mortgage Technology data via NPR"
@@ -551,6 +550,16 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 | Whether he has raised VA staffing caps or the claims backlog in Oversight | None located |
 | Whether he will sign the discharge petition on the Major Richard Star Act | Has not signed; 215 of 218 signatures |
 | CBO score for H.R. 9237 | None located; the bill's record shows no markup and no committee report |
+
+*Editorial status at publication.* This entry was published on July 29, 2026 with three
+items still open, and we would rather say so than leave the impression they are settled.
+A request for comment had not yet been sent to Rep. Langworthy's office on the war powers
+votes, the seven H.R. 9237 votes, the §104(b) fee increases against the foreclosure rate,
+or the May–July 2026 communication gap; if the office responds, this entry will be updated
+to carry it. The Senate casualty-reporting response is due July 30, 2026 and could change
+the killed and wounded figures in Section B. The 10,000 foreclosure count is ICE Mortgage
+Technology data reported by NPR on April 2, 2026, the most recent public cumulative figure;
+the next refresh point is the Mortgage Bankers Association's Q2 2026 survey in mid-August.
 
 ---
 

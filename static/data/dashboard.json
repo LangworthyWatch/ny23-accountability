@@ -1,11 +1,11 @@
 {
   "generated": "2026-07-29",
-  "total": 144,
+  "total": 145,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 41,
     "MISLEADING": 33,
-    "DOCUMENTED PATTERN": 27,
+    "DOCUMENTED PATTERN": 28,
     "CONTRADICTION": 13,
     "FALSE": 9,
     "MOSTLY TRUE": 7,
@@ -21,17 +21,17 @@
     {
       "label": "MISSING CONTEXT",
       "count": 43,
-      "pct": 29.9
+      "pct": 29.7
     },
     {
       "label": "MISLEADING",
       "count": 33,
-      "pct": 22.9
+      "pct": 22.8
     },
     {
       "label": "DOCUMENTED PATTERN",
-      "count": 27,
-      "pct": 18.8
+      "count": 28,
+      "pct": 19.3
     },
     {
       "label": "CONTRADICTION",
@@ -46,7 +46,7 @@
     {
       "label": "MOSTLY TRUE",
       "count": 8,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "label": "MULTIPLE",
@@ -79,11 +79,11 @@
     "Local Impact": 6,
     "Transparency": 6,
     "Agriculture": 5,
+    "Veterans": 4,
     "Energy": 4,
     "Infrastructure": 4,
     "Ethics": 3,
     "Environment": 3,
-    "Veterans": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
     "Accountability & Governance": 2,
@@ -118,9 +118,16 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 23
+    "2026-07": 24
   },
   "entries": [
+    {
+      "title": "Making Veterans Faster Than We Care For Them: The War, the Count, and the System Waiting for Them",
+      "date": "2026-07-25",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Veterans",
+      "url": "/fact-checks/2026-07-25-veterans-impact-votes-and-administration/"
+    },
     {
       "title": "The $1M Chautauqua Mental-Health Grant: The County Won It by Applying. A Congressman Doesn't Pick the Winner.",
       "date": "2026-07-21",
