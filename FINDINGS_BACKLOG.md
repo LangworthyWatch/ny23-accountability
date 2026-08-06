@@ -443,3 +443,45 @@ on ADVERTISEMENTS** (Front Porch Strategies $217,962 across 7 payments, includin
 absence of in-person town halls. **Not yet examined:** what the advertising bought, and whether
 later quarters hold the ratio. Re-check when Apr-Jun 2026 SOD publishes.
 
+
+---
+
+## 2026-08-06 — LEAD: "State of the District" address, private audience, undisclosed location
+
+**Single-source, unverified, do not publish yet.** The Wellsville Sun (Jul. 30, 2026,
+<https://wellsvillesun.com/blog/2026/07/30/congressional-candidate-aaron-gies-announces-100-town-hall-tour/>)
+states: *"Rep. Langworthy delivers a State of the District address to a private audience at a
+location undisclosed to the public"* on **August 6, 2026**, contrasted against challenger Aaron
+Gies's public town hall the same day.
+
+**Why it matters:** it would be a fresh, dated instance of the constituent-access pattern already
+carried by `2025-04-constituent-access-town-halls.md` (FALSE) and
+`2026-05-02-tele-town-hall-pattern.md` (DOCUMENTED PATTERN) — and a far sharper one than a standing
+absence, because it is an affirmative act on a specific date.
+
+**Why it is NOT usable as it stands:**
+1. Single outlet, and the article is *about the challenger* — Langworthy's event is a passing line.
+2. The sentence is forward-looking scheduling copy, not a report that the event occurred as
+   described. Confirm it actually happened, and in that form.
+3. The adjacent criticism ("Private meetings behind closed doors and screened telephone town halls
+   are quite frankly unacceptable") is **Gies's** quote — an opponent's characterization, not
+   documentation. Do not launder it into a finding.
+4. "Private" and "undisclosed location" are the load-bearing words and neither is sourced to
+   Langworthy's office.
+
+**To promote this to publishable:**
+- Find his office's own announcement (press release, RepLangworthy post, or media advisory) and
+  check whether it named a venue, an audience, or an RSVP path.
+- Look for coverage by a second outlet that attended or was excluded (WSKG, WGRZ, Post-Journal,
+  Olean Times Herald, WENY). WRFA has separately reported not being informed of his Chautauqua
+  news conferences — see the tele-town hall entry's cross-reference.
+- Distinguish a *State of the District* address (a speech) from a *town hall* (Q&A). They are not
+  the same thing, and the entry must not imply they are.
+- If confirmed, it belongs as a dated update to the constituent-access entry, not a new entry.
+
+**Verified while checking this (and worth recording):** the "no in-person town halls since January
+2023" claim was **re-confirmed current as of Aug. 2026**. The source entry is dated Dec. 22, 2025,
+so eight months were unchecked; 2026 reporting holds it up, including his non-attendance at the
+January 2026 Owego town hall featuring his challengers and no response to February 2026
+non-partisan town hall invitations.
+

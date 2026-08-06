@@ -1,4 +1,4 @@
-One advertising buy cost his office more than twenty tele-town halls.
+Digging into Congressman Nick Langworthy's office expenses, your tax dollars: one advertising buy ($150,000) cost his office more than twenty tele-town halls ($7,416 each, his own filings).
 
 We pulled thirteen quarters of his office's own spending records, January 2023 through March 2026, and published the whole dataset.
 

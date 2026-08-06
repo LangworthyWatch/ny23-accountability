@@ -178,7 +178,7 @@ Before the numbers, two checks that came back **negative**, because they bear di
 
 ### The per-event cost, and why this entry does not lead with it
 
-The average is **$7,416**, ranging from **$5,852** (2023 Q3) to **$14,140** (2025 Q2) — a per-event cost that roughly doubled over three years.
+The average across all 38 billed events is **$7,416**. **Two different ranges matter here, and conflating them would be an error.** The *quarterly averages* in the table above run from **$5,852** (2023 Q3) to **$14,140** (2025 Q2). *Individual line items* vary far more widely — from **$200** to **$17,579** — because a single event can be billed across more than one line. Any per-event figure quoted from this dataset should say which of the two it is.
 
 **A number that size invites an obvious reaction, and readers deserve the other side of it.** A tele-town hall dials tens of thousands of households at once. Following his May 2023 event, the office's own post said **"tens of thousands tuned in"** (see the tracker dataset). If an event reaches 30,000 people, $7,416 is about **25 cents per constituent reached** — cheaper per contact than franked mail. **This entry does not assert that any individual tele-town hall was overpriced**, and no such finding is made.
 
