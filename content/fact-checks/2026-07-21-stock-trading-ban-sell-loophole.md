@@ -166,7 +166,30 @@ Set that against the bill's operative text, quoted directly from the House-passe
 
 **In plain language:** respondents were asked about prohibiting trading in individual stocks. The bill prohibits *buying* them and permits *selling* them on advance public notice. That is not the same policy, and the 86% figure measures the broader one.
 
-**The fair counterweight, and it is a real one.** A 7-day advance notice requirement is a meaningful constraint, not a free pass. A member who learns something in a closed briefing cannot quietly dump a position that afternoon; they must announce the intent to sell a week ahead, in public. This entry does not claim the notice provision is meaningless. It claims the poll measured a prohibition and the bill delivers an asymmetry.
+**The fair counterweight, and it is a real one.** A 7-day advance notice requirement is a meaningful constraint, not a free pass. A member who learns something in a closed briefing cannot quietly dump a position that afternoon; they must announce the intent to sell a week ahead, in public, and that announcement is itself a market signal. This entry does not claim the notice provision is meaningless. It claims the poll measured a prohibition and the bill delivers an asymmetry.
+
+#### What happens to a member who sells without giving notice
+
+The bill's enforcement section (new 5 U.S.C. § 13153) creates a **civil fee, not a criminal penalty**. The fee is the sum of two parts:
+
+> "(1) **$2,000 or ten percent of the value of the transaction** in the covered investment which violates section 13152, **whichever is greater**; and (2) **the net gain realized, if any**, from the covered investment during the period beginning on the most recent date on which the individual became a covered individual and ending on the date of disposition..."
+
+Two collection provisions give this real force. The **Member pays personally**, including when the violation was caused by a spouse or dependent child. And § 13153(c) bars paying the fee from the Members' Representational Allowance, the Senators' Official Personnel and Office Expense Account, or **campaign contributions**. The money goes to the Treasury's general fund. For an improper *purchase*, the member can also be forced to sell the investment; there is no equivalent unwind for an improper sale.
+
+**How the formula behaves, worked from the text:**
+
+| Undisclosed sale | Fee under § 13153(b) |
+|---|---|
+| $10M sale, $8M gain accrued in office | 10% ($1M) **plus** the $8M gain = **$9M** |
+| $10M sale, made to avoid a loss, no gain | **$1M** (the 10% term only) |
+| $50,000 sale, made to avoid a loss | **$5,000** |
+| $15,000 sale, made to avoid a loss | **$2,000** (the floor) |
+
+**In plain language:** on a profitable sale the disgorgement term is designed to take essentially the whole gain, and that is aggressive. But the term reaches **gains realized**, not **losses avoided** — and avoiding a loss is the classic fact pattern in these cases. Selling ahead of bad news therefore collapses the fee to the 10% term. The $2,000 floor governs only transactions below $20,000, the exact point at which the 10% term overtakes it.
+
+**Two limits on reading too much into that.** First, this entire schedule applies only to a member who **skips the notice**. A member who files it may sell any amount and owes nothing under this bill. Second, and importantly, **the fee is an additional civil layer, not a ceiling.** Trading on material nonpublic information remains securities fraud under existing law and the STOCK Act, which is what produced a 26-month prison sentence in the Collins case described below. Nothing here should be read as "the penalty for congressional insider trading is now $2,000."
+
+Enforcement is discretionary: the fee is imposed "at the direction of the supervising ethics office," which "may consider mitigating or aggravating circumstances." The section takes effect **180 days after enactment**.
 
 ### 3. Who the bill covers, and who it does not
 

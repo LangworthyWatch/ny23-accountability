@@ -11,7 +11,7 @@ What the post leaves out:
 
 → The poll printed on his own graphic asks about prohibiting Members from TRADING individual stocks. The bill bans buying them and permits selling them, with 7 to 14 days of advance public notice. Those are two different policies, and the 86% measures the broader one.
 
-→ That notice requirement is a real constraint and we are not calling it meaningless. A member cannot quietly dump a position the afternoon of a closed briefing. It is still not a prohibition.
+→ File the notice and the sale costs nothing. No fee, no cap, no size limit. The notice is a real constraint (a public filing a week ahead is itself a signal) but full compliance is free.
 
 → The bill's covered persons are Members of Congress, spouses, and dependent children. That is the whole list. A Cabinet secretary could buy and sell individual stocks the day it became law and nothing in it would reach them.
 
