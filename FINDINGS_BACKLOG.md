@@ -399,3 +399,47 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 - **Committee assignments verified** from `clerk.house.gov/xml/lists/MemberData.xml`: Oversight (GO00, rank 20), Energy & Commerce (IF00, rank 25, incl. Health), Rules (RU00, rank 6) + **CHAIR of RU02** Legislative & Budget Process.
 
 **Open gates:** DoD response to the 12-senator letter due **Jul 30 2026** (could move 18→14). Requests for comment not yet sent on any of the three held entries. 3 pre-existing broken internal links in `correspondence/letters/` (epstein/iran/usps `-submission` targets don't exist).
+
+---
+
+## 2026-08-06 — Official vs. campaign vendor overlap: NULL RESULT (do not re-run blind)
+
+**Question asked:** Langworthy's official-page videos look stylistically identical to his campaign
+videos. Does the spending record show official resources being used for campaign work?
+
+**Answer: no overlap found.** Style similarity alone is not a finding and should not be published
+as one. Recording it here so the check isn't repeated from scratch.
+
+**Method.** Official side: House Statement of Disbursements detail grid, **Jan-Mar 2026** (the only
+quarter published as of this date), filtered to `2026/2025 HON. NICHOLAS A. LANGWORTHY` — 310 rows,
+76 vendors. Campaign side: OpenFEC Schedule B for **C00817932** (Langworthy for Congress), 2026
+two-year period — **879 unique transactions, 168 vendors, $972,998**.
+
+**Result:** zero vendors in common on normalized-name match. Direct per-vendor checks against the
+committee's full filing history:
+- **Front Porch Strategies** (official: **$217,962** Q1, "ADVERTISEMENTS") — **0** campaign payments ever.
+  Checked specifically because it is a known Republican consulting firm.
+- **IndigoVern LLC** (official: $24,600, tech contracts) — **0**.
+- **Coefficient** (official: $19,787, "FRANKABLE TELECOM/TELETOWNHALL") — one near-match that does
+  **not** hold: "The Coefficient Group LLC," **$7,500, 2022-07-13, SURVEY RESEARCH** — different
+  entity name, different service, and predates him taking office.
+
+**Limits (why this is not proof of compliance):** only one official quarter is published, against a
+full two-year campaign cycle; name matching misses DBAs, subsidiaries, and shared subcontractors; a
+freelance editor working for two firms would not appear in either dataset.
+
+**METHOD TRAP — cost an hour.** The first OpenFEC pull used `sort=-disbursement_amount` with page
+numbers and returned **900 rows whose per-vendor transaction counts were all multiples of 9** —
+duplicates from unstable pagination, inflating the top vendor to **$2.69M** against a true
+**$302,784**. Use the API's keyset pagination (`pagination.last_indexes` fed back as params) and
+dedupe on `sub_id`. `sort=sub_id` returns **422**. DEMO_KEY rate-limits fast; the real key lives at
+`~/projects/public-ledger/.env` as `FEC_API_KEY`.
+
+**Also noted, and a live lead rather than a null:** Q1 2026 official spending includes **~$222,000
+on ADVERTISEMENTS** (Front Porch Strategies $217,962 across 7 payments, including a single
+**$95,360** on Jan 14; The Franking Group $2,000 x2) against **$19,787 for three tele-town halls**
+(Jan 7 $5,009.90; Feb 10 $7,398.80; Mar 16 $7,378.30 — single-day performance periods, so roughly
+**$6,600 per event**). Worth pairing with the existing tele-town-hall entry and the documented
+absence of in-person town halls. **Not yet examined:** what the advertising bought, and whether
+later quarters hold the ratio. Re-check when Apr-Jun 2026 SOD publishes.
+
