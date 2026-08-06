@@ -136,6 +136,65 @@ The full normalized tracker is at [/data/town_hall_tracker.csv](/data/town_hall_
 
 ---
 
+## Update — August 6, 2026: What the Tele-Town Halls Cost, and What the Office Spent Talking the Other Direction
+
+*Added after pulling every House Statement of Disbursements detail grid covering Rep. Langworthy's tenure, January 2023 through March 2026 — thirteen quarters, 3,233 line items for his office. The communications subset is published at [/data/office_communications_spending.csv](/data/office_communications_spending.csv). All figures below are official Members' Representational Allowance spending, not campaign money.*
+
+### Two things this section does not find, stated first
+
+Before the numbers, two checks that came back **negative**, because they bear directly on how this section should be read.
+
+**1. No franking blackout violation.** House Communications Standards Manual rules bar "any unsolicited mass communication, including mass e-mails... and **any digital advertisement regardless of cost**" during the **60-day period** ending on an election in which the Member is a candidate. For the November 5, 2024 general election that window opened **September 6, 2024**. The office's large 2024 advertising buys ran **July 24 to August 12**, **August 15 to September 2**, and **August 27 to September 3** — all of them **outside** the blackout, the closest by three days. **No violation is alleged or found.**
+
+**2. No overlap between official and campaign vendors.** The office's advertising vendors — **The Scioto Group**, **Front Porch Strategies**, and **The Franking Group** — show **zero** payments from Langworthy's campaign committee (FEC C00817932) across its full filing history. The same is true of **IndigoVern LLC**. Comparing all 76 official vendors in the most recent quarter against 168 campaign vendors produced no matches. **This entry makes no claim that official resources were used for campaign purposes.**
+
+### The thirteen-quarter record
+
+| Quarter | Tele-town halls | Events | Per event | Advertising |
+|---|---|---|---|---|
+| 2023 Q2 | $12,060 | 2 | $6,030 | $5,000 |
+| 2023 Q3 | $52,664 | 9 | $5,852 | $4,682 |
+| 2023 Q4 | $13,680 | 2 | $6,840 | $1,014 |
+| 2024 Q1 | $20,520 | 3 | $6,840 | $23,169 |
+| 2024 Q2 | $23,060 | 2 | $11,530 | $6,438 |
+| **2024 Q3** | $38,731 | 6 | $6,455 | **$272,847** |
+| **2024 Q4** | **$0** | **0** | — | $5,013 |
+| 2025 Q1 | $20,017 | 2 | $10,008 | $80,258 |
+| 2025 Q2 | $28,281 | 2 | **$14,140** | $2,000 |
+| 2025 Q3 | $17,659 | 2 | $8,830 | $1,500 |
+| 2025 Q4 | $35,335 | 5 | $7,067 | $0 |
+| **2026 Q1** | $19,787 | 3 | $6,596 | **$221,962** |
+| **Total** | **$281,795** | **38** | **$7,416 avg** | **$623,882** |
+
+*In plain language: over thirteen quarters the office spent about **$282,000** on the tele-town halls and about **$624,000** on advertising. The tele-town hall is, by his office's own framing, the primary way constituents reach him. It received roughly **45 cents for every dollar** spent on communications aimed the other way.*
+
+### Three things the series shows
+
+**1. A single ad buy cost more than twenty tele-town halls.** On September 25, 2024 the office paid The Scioto Group **$150,000** for advertising that ran August 15 to September 2. At the $7,416 average, that one payment exceeds the cost of **twenty** tele-town halls. The office held **38 in three years**.
+
+**2. Advertising is concentrated, and it clusters before elections.** Two quarters — 2024 Q3 and 2026 Q1 — account for **79%** of all advertising in the period. Four quarters recorded under $2,000. The 2024 concentration falls in the ten weeks before the blackout of a year in which he was on the ballot. That timing is lawful, as established above, and it is also unmistakable in the record.
+
+**3. No tele-town halls at all in the quarter containing the 2024 election.** October through December 2024 shows **zero**, following the largest advertising quarter on record.
+
+### The per-event cost, and why this entry does not lead with it
+
+The average is **$7,416**, ranging from **$5,852** (2023 Q3) to **$14,140** (2025 Q2) — a per-event cost that roughly doubled over three years.
+
+**A number that size invites an obvious reaction, and readers deserve the other side of it.** A tele-town hall dials tens of thousands of households at once. Following his May 2023 event, the office's own post said **"tens of thousands tuned in"** (see the tracker dataset). If an event reaches 30,000 people, $7,416 is about **25 cents per constituent reached** — cheaper per contact than franked mail. **This entry does not assert that any individual tele-town hall was overpriced**, and no such finding is made.
+
+The documented point is the **allocation**, not the unit price: the channel where constituents can ask questions is funded at a fraction of the channel that speaks at them, and it operates alongside **no in-person town halls since January 2023**.
+
+### What is still unaddressed
+
+| Question | Status |
+|---|---|
+| What the 2024 and 2026 advertising bought | **Not established.** The disbursement lines say only "ADVERTISEMENTS"; no creative, placement, or medium is disclosed |
+| Actual participation figures per event | **Not published.** The only figure located is the office's own "tens of thousands" |
+| Whether the ratio holds after March 2026 | Apr–Jun 2026 disbursements not yet published |
+| Why no tele-town hall was billed in 2024 Q4 | No explanation located |
+
+---
+
 ## Questions This Raises
 
 1. Are tele-town hall recordings from before October 2025 publicly accessible anywhere? If they are on YouTube, why were they not linked back to the Facebook feed where the events were promoted?
@@ -166,3 +225,13 @@ The full normalized tracker is at [/data/town_hall_tracker.csv](/data/town_hall_
 **Note:** This entry documents publicly available information from a verified social-media account and the Congressman's House Schedule H disclosures. The dataset reflects only what was visible in the Facebook search snapshot taken on May 2, 2026 and may underrepresent the full set of events.
 
 *Last updated: May 2, 2026.*
+
+---
+
+## Sources Added in the August 6, 2026 Update
+
+* House Statement of Disbursements, detail transaction grids, 2023 Q1 through 2026 Q1 (thirteen quarters), filtered to `HON. NICHOLAS A. LANGWORTHY`: <https://www.house.gov/the-house-explained/open-government/statement-of-disbursements> and the [quarterly archive](https://www.house.gov/the-house-explained/open-government/statement-of-disbursements/archive)
+* Communications subset published by this site: [/data/office_communications_spending.csv](/data/office_communications_spending.csv) — 116 line items, every tele-town hall and advertising transaction in the period, with vendor, transaction date, and performance dates
+* House Communications Standards Manual, "Moratoria (Blackout Dates)" — the 60-day pre-election prohibition on unsolicited mass communications including "any digital advertisement regardless of cost": <https://cha.house.gov/>
+* Campaign disbursements checked against FEC committee **C00817932** (Langworthy for Congress) via the OpenFEC API, Schedule B, deduplicated on transaction ID
+
