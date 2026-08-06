@@ -139,6 +139,59 @@ but did not include them in this bill.
 
 ---
 
+## Update — August 2026: The Bill Passed, and the Poll He Is Now Citing
+
+*Added after an August 4, 2026 post from Langworthy's verified congressional page. This section resolves the open question flagged below about final passage, and examines the polling graphic he posted.*
+
+### 1. The bill passed the House. That question is now closed.
+
+The entry previously noted that final House passage had not been confirmed. It has been. **H.R. 7008 passed the House 232-198 on July 22, 2026** (Roll Call 280). **Langworthy voted Yea.** A motion to recommit failed 211-218 immediately before (Roll Call 279); Langworthy voted Nay. His August 4 statement that "it passed the House and now it's time for the Senate to act" is **accurate**.
+
+### 2. The poll he cites asks about a broader ban than his bill enacts
+
+The August 4 post reads:
+
+> "Americans from across the political spectrum overwhelmingly support banning members of Congress from trading stocks because they believe like I do that it's a clear conflict of interest. I've been fighting to get this done from day one. It passed the House and now it's time for the Senate to act."
+
+The attached graphic shows support of 86% national, 87% Republican, 88% Democratic, 81% independent. **Those numbers are not in dispute here.** The question wording, printed on his own graphic, is:
+
+> "Do you favor or oppose the proposal to prohibit Members of Congress (in the House and Senate) and the family that lives with them, from **trading stocks in individual companies**. They would still be allowed to buy or sell shares of mutual funds or index funds...?"
+
+Set that against the bill's operative text, quoted directly from the House-passed version (new 5 U.S.C. § 13152):
+
+| | What the bill does |
+|---|---|
+| **Buying** | "no covered individual may **purchase** a covered investment" |
+| **Selling** | "No covered individual shall **sell** a covered investment, **unless** a notice of intent to sell... is publicly disclosed at least **7 calendar days, and no more than 14 calendar days, prior to the sale**" |
+
+**In plain language:** respondents were asked about prohibiting trading in individual stocks. The bill prohibits *buying* them and permits *selling* them on advance public notice. That is not the same policy, and the 86% figure measures the broader one.
+
+**The fair counterweight, and it is a real one.** A 7-day advance notice requirement is a meaningful constraint, not a free pass. A member who learns something in a closed briefing cannot quietly dump a position that afternoon; they must announce the intent to sell a week ahead, in public. This entry does not claim the notice provision is meaningless. It claims the poll measured a prohibition and the bill delivers an asymmetry.
+
+### 3. Who the bill covers, and who it does not
+
+From the bill's definitions section (new 5 U.S.C. § 13151), "covered individual" means:
+
+> "(A) A Member of Congress... (B) A dependent child... or a spouse of a Member of Congress."
+
+That is the entire list. This site searched the full House-passed text: the words **"President," "Vice President," and "executive branch" appear zero times.** The bill reaches the legislative branch only.
+
+This is a design choice with consequences, and it is worth stating plainly because the bill is being promoted as a general answer to officials profiting from nonpublic information. **It is not.** A Cabinet secretary, the Vice President, or the President could buy and sell individual stocks the day H.R. 7008 became law and be entirely unaffected by it.
+
+**One documented, non-allegational illustration.** In July 2026, Trump Media announced **"Truth API,"** a paid data feed selling Wall Street trading firms millisecond-speed access to Truth Social posts ahead of ordinary push notifications. The company's interim CEO said markets "already move on Truth Social posts" and that the company expects the product to become "a meaningful, ongoing source of revenue." President Trump owns roughly 41% of Trump Media. **This is a publicly announced commercial product, not an accusation**, and nothing in H.R. 7008 addresses it.
+
+**What this entry is not doing.** A number of contested insider-trading allegations involving executive-branch figures were in circulation during 2026. This site takes no position on any of them, adopts none of them, and none is necessary to the point above, which rests entirely on the bill's own definitions section.
+
+### 4. Local context: the Collins case, and why it is context rather than a finding
+
+Western New York has the most prominent recent congressional insider-trading prosecution in the country. **Rep. Chris Collins (R-NY-27)**, whose district covered the Buffalo area where Langworthy now keeps his Clarence district office, sat on the board of Innate Immunotherapeutics. In June 2017 he learned from the White House lawn that the company's multiple sclerosis drug had failed its trial and called his **son, Cameron Collins**. Cameron sold and tipped **Stephen Zarsky, the father of his fiancée**. The two avoided more than **$700,000** in losses. Collins pleaded guilty to conspiracy to commit securities fraud and to lying to the FBI, was sentenced to **26 months** in January 2020, and was **pardoned by President Trump in December 2020**.
+
+Under H.R. 7008's definitions, **neither Cameron Collins (an adult son, not a dependent child) nor Stephen Zarsky (a prospective in-law) would be a covered individual.**
+
+**This entry does not present that as a loophole, and readers should understand why.** Collins's conduct was already illegal under existing securities law, and he was prosecuted and convicted for it. H.R. 7008 is a holding-and-trading restriction, not an anti-tipping statute; it was never designed to reach that conduct. And no stock-trading ban could realistically forbid an adult child from trading their own money. The Collins case is offered as local context for why this subject matters in this district, **not** as evidence of a defect in this bill.
+
+---
+
 ## What This Does — and Doesn't — Show
 
 **Established from primary sources:** Langworthy's cosponsorship (govinfo
@@ -149,12 +202,24 @@ voter-ID rule vote (214-211, H.Res. 1438); AOC's public objection (her own
 verified social post).
 
 **Not claimed:** that Langworthy personally has traded stock, that he
-supports the voter-ID rider specifically, that the Republican senator in
-Neguse's example was definitively named, or that H.R. 7008 has passed final
-House floor consideration — that vote had not been confirmed as of this
-entry's last update. This entry does not allege wrongdoing by Langworthy; it
-documents a gap between his description of the bill's effect and the bill's
-sponsor's own on-record description of the same provision.
+supports the voter-ID rider specifically, or that the Republican senator in
+Neguse's example was definitively named. This entry does not allege
+wrongdoing by Langworthy; it documents a gap between his description of the
+bill's effect and the bill's sponsor's own on-record description of the same
+provision.
+
+**Added in the August 2026 update, and equally not claimed:** that any
+executive-branch official has committed insider trading — this site adopts
+no such allegation and none is needed for the scope finding, which rests on
+the bill's own definitions section; that the bill's 7-day notice requirement
+is meaningless, which it is not; that H.R. 7008 contains a defect because it
+would not have covered Cameron Collins or Stephen Zarsky, since that conduct
+was already criminal, was prosecuted, and lies outside what a
+holding-and-trading restriction is designed to do.
+
+**Resolved since the last update:** H.R. 7008 passed the House 232-198 on
+July 22, 2026 (Roll Call 280), Langworthy voting Yea. His statement that the
+bill passed the House is accurate.
 
 ---
 
@@ -185,7 +250,15 @@ sponsor's own on-record description of the same provision.
 * AOC statement on the bundled bill (X/Twitter, July 21, 2026), reported via [2paragraphs.com](https://2paragraphs.com/2026/07/aoc-accuses-republicans-of-hiding-save-act-measure-in-insider-trading-bill-trying-to-pull-a-trick/)
 * Bill text (primary): [House Rules Committee Print of H.R. 7008 (RCP2, July 17, 2026)](https://docs.house.gov/billsthisweek/20260720/RCP2_STOPINSIDERTRADING_xml.pdf) - Sections 1-2 are the stock-trading restrictions, Section 3 is "Requiring Voters to Provide Photo Identification" (new HAVA Sec. 303A) - archived: [Wayback](http://web.archive.org/web/20260719234438/https://docs.house.gov/billsthisweek/20260720/RCP2_STOPINSIDERTRADING_xml.pdf)
 * Procedural rule vote (primary): [congress.gov H.Res. 1438](https://www.congress.gov/bill/119th-congress/house-resolution/1438) - agreed to by recorded vote, 214-211, Roll Call No. 254, July 21, 2026, 2:39 PM - archived: [Wayback](https://web.archive.org/web/20260722115142/https://www.congress.gov/bill/119th-congress/house-resolution/1438)
-* Bill actions/status confirming no final-passage vote as of this entry's last update (primary): [congress.gov H.R. 7008, all actions](https://www.congress.gov/bill/119th-congress/house-bill/7008/all-actions) - archived: [Wayback](https://web.archive.org/web/20260722115023/https://www.congress.gov/bill/119th-congress/house-bill/7008/all-actions)
+* Bill actions/status (primary): [congress.gov H.R. 7008, all actions](https://www.congress.gov/bill/119th-congress/house-bill/7008/all-actions) - archived: [Wayback](https://web.archive.org/web/20260722115023/https://www.congress.gov/bill/119th-congress/house-bill/7008/all-actions)
+
+**Added in the August 2026 update:**
+
+* Final passage (primary): [House Roll Call 280, July 22, 2026](https://clerk.house.gov/evs/2026/roll280.xml) - H.R. 7008 On Passage, Passed 232-198, Langworthy Yea. Motion to Recommit: [Roll Call 279](https://clerk.house.gov/evs/2026/roll279.xml), Failed 211-218, Langworthy Nay
+* Bill text as passed by the House (primary): [BILLS-119hr7008eh, govinfo](https://www.govinfo.gov/content/pkg/BILLS-119hr7008eh/xml/BILLS-119hr7008eh.xml) - new 5 U.S.C. Sec. 13151 (definition of "covered individual") and Sec. 13152(a)-(b) (purchase prohibition; sale permitted on 7-to-14-day advance public notice). The words "President," "Vice President," and "executive branch" do not appear in this text
+* Trump Media "Truth API" announcement, July 17, 2026: [TIME](https://time.com/article/2026/07/17/truth-social-api-wall-street-trump-media/)
+* Chris Collins prosecution and sentence (primary): [U.S. Attorney, S.D.N.Y., sentencing release](https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying); [SEC litigation release, Christopher Collins et al.](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24687)
+* Collins pardon, December 2020: [Roll Call](https://rollcall.com/2020/12/22/trump-pardons-ex-reps-duncan-hunter-chris-collins/)
 
 ---
 
@@ -194,6 +267,12 @@ Facebook video, the official cosponsor record, and a direct transcript of
 committee testimony. It does not allege criminal conduct or speculate
 about Langworthy's motives. The characterization of the bill's sell-side
 provisions rests on the bill sponsor's own on-record answers, not on this
-site's interpretation.
+site's interpretation. The August 2026 update's scope finding rests on the
+bill's own definitions section, quoted verbatim from the House-passed text.
+The Collins matter is a matter of public record: a guilty plea, a sentence,
+and a presidential pardon, described here without inference about anyone
+else.
 
-*Last updated: July 22, 2026.*
+*Last updated: August 2026 (added the House passage result, the August 4
+polling post, the bill's coverage scope, and local context; the July
+claim-by-claim findings and the MISLEADING verdict are unchanged).*
