@@ -296,6 +296,6 @@ The Collins matter is a matter of public record: a guilty plea, a sentence,
 and a presidential pardon, described here without inference about anyone
 else.
 
-*Last updated: August 2026 (added the House passage result, the August 4
+*Last updated: August 6, 2026 (added the House passage result, the August 4
 polling post, the bill's coverage scope, and local context; the July
 claim-by-claim findings and the MISLEADING verdict are unchanged).*

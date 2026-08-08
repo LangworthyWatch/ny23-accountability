@@ -224,7 +224,7 @@ The documented point is the **allocation**, not the unit price: the channel wher
 
 **Note:** This entry documents publicly available information from a verified social-media account and the Congressman's House Schedule H disclosures. The dataset reflects only what was visible in the Facebook search snapshot taken on May 2, 2026 and may underrepresent the full set of events.
 
-*Last updated: May 2, 2026.*
+*Last updated: August 6, 2026 (spending update added; the May 2 notice, postponement and recording findings are unchanged).*
 
 ---
 
