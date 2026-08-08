@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: July 26, 2026*
+*Last updated: August 8, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 144 Fact-Checks Published
+## Content: 145 Fact-Checks Published
 
 ### Topics Covered
 
@@ -109,6 +109,10 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 | Liberty Strategies | **Published 7/2** (MISSING CONTEXT; office no-response by 7/1 deadline noted; $1 FEC total corrected; two-firms chronology + stocks-TRUE contrast added) | COELIG FOIL arc continues; update entry if office responds |
 | Sponsored travel pattern | Research logged 7/2 (Israel 4/2024, Greece 4/2025, Ireland/UK 3-4/2026 — member-traveler, primary-confirmed) | Clerk gtimages PDF server 404s on all docs; retry for dollar amounts, then entry |
 | Beagle "475 by end of August" claim | Logged with Sept 1 action date | Verify transfer happened; entry count now 30 (manual, screenshot-archived) |
+| Newstead $5M shared earmark | **Drafted 8/6**, held (`2026-08-06-newstead-community-center-shared-earmark`, MISSING CONTEXT) | Schumer/Gillibrand announced the identical $5,000,000 the SAME DAY (2/4/26). Gates: Facebook permalinks, request for comment on whether the CPF request was joint with the Senate offices, and Wayback capture of both press releases (availability API was rate-limiting 8/8, status undetermined) |
+| Local Cops ICE quote | **Drafted 7/31**, held (`2026-07-31-local-cops-law-sheriff-quote`, MISSING CONTEXT) | Quote is Sheriff Todd Hood's, not Langworthy's, and accurately reproduced; the same interview has Hood saying operations do not change. Gates: no absolute timestamp established (relative timestamps only), request for comment. Source confirmed as the CAMPAIGN page, ChairmanNickLangworthy |
+| Office communications spending | **Published 8/6** as an update to the tele-town hall entry; dataset at `/data/office_communications_spending.csv` | 13 quarters of House disbursements: $623,882 advertising vs $281,795 on 38 tele-town halls. Re-check when Apr-Jun 2026 SOD publishes. NEGATIVE findings recorded: no franking blackout violation (60-day rule, all buys outside), no official/campaign vendor overlap |
+| State of the District, 8/6/26 | **LEAD, single-source, unverified** (FINDINGS_BACKLOG 8/6) | Wellsville Sun says he delivered it "to a private audience at a location undisclosed to the public." Now retrospectively checkable. Needs his office's own announcement + a second outlet before use; a State of the District address is a speech, not a town hall |
 | FB sweep leads (7/2) | Logged | Roswell/LUNGevity (commenters raising Medicaid contradiction), UPMC Chautauqua $300K x3, $2.3M airports, critical minerals, Air Methods |
 | Farm Bill — Senate action | Published; watching | Update when Senate moves |
 | FeedMore WNY | Published | Monitor for any Langworthy statement |
