@@ -485,3 +485,52 @@ so eight months were unchecked; 2026 reporting holds it up, including his non-at
 January 2026 Owego town hall featuring his challengers and no response to February 2026
 non-partisan town hall invitations.
 
+
+---
+
+## 2026-08-14 — LEAD: "I've fought to bring home millions for Moog"
+
+**Source:** two posts on the verified congressional page, Aug. 14 2026, from Moog Inc.'s
+75th-anniversary event and the opening of its Advanced Integrated Manufacturing facility.
+Post 1: *"I've fought to bring home millions for Moog and other critical defense projects,
+strengthening our national security and creating good-paying jobs."* Post 2 (narrower and more
+defensible): *"Proud to fight for investments in trusted photonics, next-gen control systems and
+NASA Artemis."*
+
+**VERIFIED SO FAR**
+
+1. **Moog HQ (East Aurora) is in NY-23.** "Right here in NY23" is accurate. Not a finding.
+2. **Community Project Funding bars for-profit recipients.** House Appropriations rule since the
+   2021 earmark revival: only state/local governments and eligible non-profits. Moog Inc. is
+   publicly traded (NYSE: MOG.A). **So "bring home millions for Moog" cannot mean an earmark. It is
+   structurally impossible under the rules he works within.**
+3. **Moog's federal money is competitively awarded.** USASpending, contract awards 2023 to date,
+   top eight by value: $43.3M, $38.2M, $29.9M, $24.9M, $24.2M, $19.6M, $18.9M (all DoD, mostly
+   MOOG MILITARY AIRCRAFT LLC) and $17.3M (NASA). Procurement won on bids, not member-directed.
+
+**WHY THIS IS NOT YET AN ENTRY**
+
+His wording is **"fought to bring home,"** not "secured" or "delivered." That can fairly describe
+advocacy for program accounts, and post 2 explicitly frames it that way. Advocating for a *program*
+is a real thing a member does and is different from directing money to a *company*. An entry that
+elides that difference would be unfair and easy to rebut.
+
+**WHAT TO PULL BEFORE DRAFTING** (this is the real work, ~a session on its own)
+- His documented Moog-adjacent actions: letters signed, report language requested, amendment votes,
+  committee testimony, appropriations requests naming photonics / control systems / Artemis lines.
+  Start with his FY24-FY27 appropriations-request pages (already on his House site) and the
+  Congressional Record.
+- Whether any Moog-relevant program line moved after his advocacy, or whether the claim rests on
+  votes for bills that would have passed regardless.
+- The ALPA award citation credits him with championing **ADS-B In** requirements and **two letters**
+  on Rotorcraft Operations Transparency and Oversight Reform Act provisions, and he founded the
+  **Aviation Safety Caucus**. That is documented advocacy and belongs in any fair entry.
+
+**LIKELY SHAPE IF IT HOLDS:** the Chautauqua construction applied to a defense contractor. The
+recipient won it by competing; a member does not pick the winner. Probable verdict MISSING CONTEXT,
+**not** a credit-claiming pattern finding, because the advocacy is plausibly real.
+
+**DO NOT** frame this as "he took credit for money he had nothing to do with" without the record
+above. And do not imply anything improper about Moog: a district employer winning defense contracts
+is ordinary and lawful.
+
