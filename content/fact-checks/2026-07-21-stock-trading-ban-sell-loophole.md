@@ -143,6 +143,39 @@ but did not include them in this bill.
 
 *Added after an August 4, 2026 post from Langworthy's verified congressional page. This section resolves the open question flagged below about final passage, and examines the polling graphic he posted.*
 
+### First: his personal claim, checked against his own filings
+
+*This section was added because the entry has quoted "I'm not a millionaire, and I don't trade stocks" since July without testing it. It has now been tested against the primary record, and it holds.*
+
+**Filing history, from the Clerk of the House disclosure index, 2023 through 2026:**
+
+| Report year | Filing type | Filed | Doc ID |
+|---|---|---|---|
+| 2023 | Annual | May 15, 2024 | 10061049 |
+| 2024 | Annual | May 15, 2025 | 10068912 |
+| 2025 | Annual | May 15, 2026 | 10078337 |
+| 2026 | *(annual not due until May 2027)* | | |
+
+**He has filed no Periodic Transaction Reports.** A PTR is the form a member must file within 30 to 45 days of a securities transaction over $1,000. The 2025 index alone contains 515 of them, and the 2026 index another 345. **None are his,** in any of the four years examined.
+
+**His 2025 annual report, Schedule B (Transactions): "None disclosed."**
+
+**Schedule A shows no individual-company stock.** The holdings are cash accounts, retirement funds, and one broad-market ETF:
+
+- IRA: Vanguard Total Stock Market ($50,001 to $100,000), Vanguard Total International, iShares Core MSCI Emerging Markets
+- Thrift Savings Plan G Fund ($100,001 to $250,000), plus TSP C, S and I holdings
+- **SPDR S&P 500 (SPY), $1,001 to $15,000** — an index ETF, not shares in any single company
+- Citizens Bank checking and savings, a college savings account, an E*TRADE cash account, and a $1 to $1,000 Israel Bond held by a dependent child
+- **Liability:** a JP Morgan Chase mortgage on his personal residence, $250,001 to $500,000
+
+**On "not a millionaire."** Summing the maximum of every disclosed range gives roughly **$521,000** in assets; summing the minimums gives about **$173,000** — against a mortgage of up to $500,000. **Two caveats belong with that arithmetic.** House disclosure reports values in broad bands rather than exact amounts, so any total is an envelope and not a figure. And they exclude a member's personal residence and certain federal retirement interests, so this is *disclosed assets*, not net worth. Within those limits, nothing in the filing approaches a million dollars.
+
+**Verdict on this claim: accurate.** He does not trade individual stocks, he does not hold them, and his disclosed holdings are not those of a millionaire. **This site says so plainly**, and it is the reason the findings below are about the *bill*, not about him.
+
+**What this does not establish:** that no transaction occurred that should have been reported — an absence of PTRs is the standard public evidence of no trading, not proof of it; anything about assets outside the disclosure requirements; or anything about his spouse's or dependent child's holdings beyond what the filing itself discloses.
+
+---
+
 ### 1. The bill passed the House. That question is now closed.
 
 The entry previously noted that final House passage had not been confirmed. It has been. **H.R. 7008 passed the House 232-198 on July 22, 2026** (Roll Call 280). **Langworthy voted Yea.** A motion to recommit failed 211-218 immediately before (Roll Call 279); Langworthy voted Nay. His August 4 statement that "it passed the House and now it's time for the Senate to act" is **accurate**.
@@ -242,7 +275,11 @@ holding-and-trading restriction is designed to do.
 
 **Resolved since the last update:** H.R. 7008 passed the House 232-198 on
 July 22, 2026 (Roll Call 280), Langworthy voting Yea. His statement that the
-bill passed the House is accurate.
+bill passed the House is accurate. **Also resolved:** his personal claim, "I'm
+not a millionaire, and I don't trade stocks," was tested against his own
+financial disclosures and **holds** - no Periodic Transaction Reports in four
+years, Schedule B "None disclosed," no individual-company stock, and disclosed
+assets topping out near $521,000. See the first section of the August update.
 
 ---
 
@@ -282,6 +319,8 @@ bill passed the House is accurate.
 * Trump Media "Truth API" announcement, July 17, 2026: [TIME](https://time.com/article/2026/07/17/truth-social-api-wall-street-trump-media/)
 * Chris Collins prosecution and sentence (primary): [U.S. Attorney, S.D.N.Y., sentencing release](https://www.justice.gov/usao-sdny/pr/former-congressman-christopher-collins-sentenced-insider-trading-scheme-and-lying); [SEC litigation release, Christopher Collins et al.](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-24687)
 * Collins pardon, December 2020: [Roll Call](https://rollcall.com/2020/12/22/trump-pardons-ex-reps-duncan-hunter-chris-collins/)
+* Financial disclosures (primary): Clerk of the House disclosure index, annual bulk files [2023FD](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2023FD.zip), [2024FD](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2024FD.zip), [2025FD](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025FD.zip), [2026FD](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2026FD.zip) - searched for every filing under "Langworthy": three annual reports, zero Periodic Transaction Reports
+* Rep. Langworthy, 2025 Annual Report, filed May 15, 2026, Filing ID 10078337: <https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078337.pdf> - Schedule A (assets), Schedule B ("None disclosed"), Schedule D (liability)
 
 ---
 
@@ -296,6 +335,6 @@ The Collins matter is a matter of public record: a guilty plea, a sentence,
 and a presidential pardon, described here without inference about anyone
 else.
 
-*Last updated: August 6, 2026 (added the House passage result, the August 4
+*Last updated: August 14, 2026 (added the financial-disclosure check of his personal claim; earlier in August added the House passage result, the August 4
 polling post, the bill's coverage scope, and local context; the July
 claim-by-claim findings and the MISLEADING verdict are unchanged).*
