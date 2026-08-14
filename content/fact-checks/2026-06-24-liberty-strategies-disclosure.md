@@ -24,12 +24,15 @@ Rep. Langworthy's U.S. House financial disclosures list, under Schedule C (earne
 
 | Filing (ID) | Spouse-income line | In the filing? |
 |---|---|---|
+| 2022 Candidate Report (10049859, filed Jul. 2022) | Liberty Strategies — **spouse self employment income** | **Yes** |
 | 2022 New Filer Report (10054324, filed May 2023) | Liberty Strategies — spouse salary | **Yes** |
 | 2023 Annual Report (10061049, filed May 2024) | — | **No** |
 | 2024 Annual Report (10068912, filed May 2025) | Liberty Strategies — spouse salary | **Yes** |
 | 2025 Annual Report (10078337, filed May 2026) | Liberty Strategies — spouse salary | **Yes** |
 
-Under House rules, a filer must report the **source** of a spouse's earned income over $1,000, but **not the amount** — so every entry above lists the dollar figure as "N/A." The firm appears in three of these four reports; it is absent only from the 2023 report.
+Under House rules, a filer must report the **source** of a spouse's earned income over $1,000, but **not the amount** — so every entry above lists the dollar figure as "N/A." **That is compliance, not omission**, and should not be read as a withheld figure. The firm appears in four of these five reports; it is absent only from the 2023 report.
+
+**The income type changed once, and the change is on the face of the filings.** The earliest report — the Candidate Report filed July 6, 2022, before he took office — records the Liberty Strategies line as **"spouse self employment income."** The next filing, the New Filer Report of May 14, 2023, records the same source as **"spouse salary,"** and every filing since has used that label. These are two different selections on the House form: self-employment income describes earnings from a business the filer's spouse operates; salary describes being paid by an employer. **This entry does not assert why the characterization changed, or that either label is incorrect.** It records that the change happened, between July 2022 and May 2023, on the filer's own reports.
 
 **Liberty Strategies LLC** is a New York company formed **January 15, 2019**, based in Tonawanda. Langworthy's spouse, **Erin Baker Langworthy**, is the person listed as earning income from it.
 
@@ -112,6 +115,7 @@ This entry is built from primary records: the four House financial-disclosure PD
 ---
 
 ## Sources
+* Rep. Langworthy, **2022 Candidate Report**, filed July 6, 2022, Filing ID 10049859: <https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2022/10049859.pdf> - Schedule C records Liberty Strategies as "spouse self employment income"
 
 * U.S. House Financial Disclosure search: <https://disclosures-clerk.house.gov/FinancialDisclosure>
 * Langworthy CY2025 Annual Report (Filing ID 10078337): [House Clerk PDF](https://disclosures-clerk.house.gov/public_disc/financial-pdfs/2025/10078337.pdf)
@@ -127,4 +131,4 @@ This entry is built from primary records: the four House financial-disclosure PD
 
 **Note:** This entry documents publicly available financial-disclosure, FEC, and state records. It makes no allegation of unlawful conduct. Spouse employment and political consulting are lawful; the documented gap is between what the disclosure regime reveals (an income source) and what it leaves invisible (amount, clients, current activity).
 
-*Last updated: July 2, 2026 (chronology and town-hall contrast sections added same day)*
+*Last updated: August 14, 2026 (added the 2022 Candidate Report and the income-type change it records; the July 2 chronology and town-hall contrast sections are unchanged)*
