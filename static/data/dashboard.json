@@ -1,9 +1,9 @@
 {
   "generated": "2026-08-14",
-  "total": 145,
+  "total": 146,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 41,
+    "MISSING CONTEXT": 42,
     "MISLEADING": 33,
     "DOCUMENTED PATTERN": 28,
     "CONTRADICTION": 13,
@@ -20,23 +20,23 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 43,
-      "pct": 29.7
+      "count": 44,
+      "pct": 30.1
     },
     {
       "label": "MISLEADING",
       "count": 33,
-      "pct": 22.8
+      "pct": 22.6
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 28,
-      "pct": 19.3
+      "pct": 19.2
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "label": "FALSE",
@@ -71,7 +71,7 @@
   ],
   "by_topic": {
     "Healthcare": 21,
-    "Government Operations": 15,
+    "Government Operations": 16,
     "Economy": 15,
     "Other": 10,
     "Immigration": 8,
@@ -118,9 +118,17 @@
     "2026-04": 10,
     "2026-05": 15,
     "2026-06": 25,
-    "2026-07": 24
+    "2026-07": 24,
+    "2026-08": 1
   },
   "entries": [
+    {
+      "title": "The Newstead Community Center: Real Money, Announced Twice, and Two Senators Who Secured the Same $5 Million",
+      "date": "2026-08-06",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Government Operations",
+      "url": "/fact-checks/2026-08-06-newstead-community-center-shared-earmark/"
+    },
     {
       "title": "Making Veterans Faster Than We Care For Them: The War, the Count, and the System Waiting for Them",
       "date": "2026-07-25",

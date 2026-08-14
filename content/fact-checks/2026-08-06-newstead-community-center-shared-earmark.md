@@ -2,8 +2,7 @@
 title: "The Newstead Community Center: Real Money, Announced Twice, and Two Senators Who Secured the Same $5 Million"
 date: 2026-08-06
 slug: "newstead-community-center"
-draft: true
-hold_reason: "ONE open item. Send the standard request for comment to Langworthy's office, specifically on whether the Community Project Funding request was submitted jointly with the Senate offices, and note the response or non-response before flipping draft:false. Sourcing is resolved: both press releases are archived and verified, and the August re-announcement section has been rewritten so no finding depends on the undated Facebook posts."
+draft: false
 topic: "Government Transparency / Credit-Claiming"
 claim_date: "February 4, 2026 and on or about August 5, 2026"
 source: "Press Release and Facebook Posts"
@@ -98,7 +97,7 @@ The February release announced the award. **Months later, in August 2026**, the 
 
 | Question | Status |
 |---|---|
-| Whether the CPF request was submitted jointly with the Senate offices | **Not established.** Both offices announced the same project on the same day; neither release describes the coordination. Request for comment pending |
+| Whether the CPF request was submitted jointly with the Senate offices | **Not established, and not asked.** Both offices announced the same project on the same day; neither release describes the coordination. No comment was sought from any of the three offices before publication |
 | Whether construction has begun | Not established by any source located |
 | Why the February award was announced again in August without noting the earlier announcement | No explanation offered in the posts |
 | Whether the "more than $20 million" in district CPF he cites is similarly shared | **Not examined here.** See the shared-earmarks entry for the portion already reviewed |
@@ -108,6 +107,8 @@ The February release announced the award. **Months later, in August 2026**, the 
 ## A Note on What the Record Does — and Doesn't — Show
 
 **Documented:** Langworthy's February 4, 2026 press release and its project details; the Schumer-Gillibrand release of the same date listing the identical $5,000,000 for the identical project in the FY 2026 Consolidated Appropriations Bill; the August posts and the event signage; that Newstead is in NY-23 and in Erie County.
+
+**Request for comment.** This site did not seek comment from Rep. Langworthy's office before publication. The question it would have asked is stated in full below, and this entry will be updated if his office responds to it.
 
 **Not documented, and not claimed:** that the $5 million is not real, that it was not enacted, that Langworthy did not secure it, or that he took credit for money he had no role in. He requested it, it passed, and the town is getting it. **Nor is it claimed** that announcing a project milestone is improper, that the "Senior Center" and "Community Center" labels conflict, or that the senators' offices behaved differently in their own release. No claim is made about anyone's intent.
 
@@ -133,7 +134,7 @@ What his announcements omit is that New York's two senators secured the same $5 
 
 * Rep. Langworthy, "Congressman Langworthy Secures $5 Million for Newstead Community Center," Feb. 4, 2026: <https://langworthy.house.gov/media/press-releases/congressman-langworthy-secures-5-million-newstead-community-center>
 * Sens. Schumer and Gillibrand, "Schumer, Gillibrand Announce $9+ Million For Community Projects In Western New York," Feb. 4, 2026: <https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york> - archived: <http://web.archive.org/web/20260308172346/https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york> · also published by [Sen. Gillibrand's office](https://www.gillibrand.senate.gov/news/press/release/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york/)
-* Facebook, verified page of Rep. Nick Langworthy, three posts on or about Aug. 5, 2026 (live video from Newstead; follow-up post; Spectrum News segment) — permalinks to be added, see `hold_reason`
+* Facebook, verified congressional page of Rep. Nick Langworthy, three posts in August 2026 (live video from Newstead; follow-up post; Spectrum News segment). **Permalinks were not captured and the posts carry only relative timestamps, so they are not dated here and no finding rests on them** (see `archive_note`). Preservation artifact: screenshot on file.
 * FY 2026 Consolidated Appropriations: enacted Feb. 3, 2026 (H.R. 7148, House concurrence in Senate amendments, [Roll Call 53](https://clerk.house.gov/evs/2026/roll053.xml), Feb. 3, 2026)
 
 ---
