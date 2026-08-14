@@ -3,13 +3,13 @@ title: "The Newstead Community Center: Real Money, Announced Twice, and Two Sena
 date: 2026-08-06
 slug: "newstead-community-center"
 draft: true
-hold_reason: "Two open items. (1) SOURCE URLs: this entry rests on screenshots of three Facebook posts from the verified congressional page (RepLangworthy). Capture the permalinks and file the screenshots at static/images/fact-checks/2026-08-06-newstead-*.png before publishing. The posts carry RELATIVE timestamps (1h, 23h) rather than absolute dates, so the August 5 date rests on when the screenshots were supplied; either recapture with an absolute date visible or leave the hedge in place. (2) Send the standard request for comment to Langworthy's office, specifically on whether the Community Project Funding request was submitted jointly with the Senate offices."
+hold_reason: "ONE open item. Send the standard request for comment to Langworthy's office, specifically on whether the Community Project Funding request was submitted jointly with the Senate offices, and note the response or non-response before flipping draft:false. Sourcing is resolved: both press releases are archived and verified, and the August re-announcement section has been rewritten so no finding depends on the undated Facebook posts."
 topic: "Government Transparency / Credit-Claiming"
 claim_date: "February 4, 2026 and on or about August 5, 2026"
 source: "Press Release and Facebook Posts"
 source_url: "https://langworthy.house.gov/media/press-releases/congressman-langworthy-secures-5-million-newstead-community-center"
-archived_url: ""
-archive_note: "The February 4, 2026 press release is a public house.gov page and should be captured to Wayback before publication (scripts/archive_sources.sh). The three August Facebook posts are login-walled and have historically not archived via Wayback on this project; preservation artifacts are screenshots supplied 2026-08-06, to be filed under static/images/fact-checks/. The Schumer/Gillibrand release of the same date is a public senate.gov page and is independently archivable."
+archived_url: "http://web.archive.org/web/20260808134544/https://langworthy.house.gov/media/press-releases/congressman-langworthy-secures-5-million-newstead-community-center"
+archive_note: "RESOLVED for the core finding. Both press releases that carry it are now captured and each snapshot was confirmed to resolve and contain the Newstead content: Langworthy's release at http://web.archive.org/web/20260808134544/ (captured 2026-08-08) and the Schumer/Gillibrand release at http://web.archive.org/web/20260308172346/ (captured 2026-03-08). STILL UNARCHIVED, and flagged in the body rather than papered over: the three August Facebook posts. They are login-walled, they carry only RELATIVE timestamps (1h, 23h), and no permalinks were captured, so this entry does NOT date them precisely and does not rest any finding on them. Preservation artifact is a screenshot supplied 2026-08-06."
 verdict: "MISSING CONTEXT"
 tags: ["earmarks", "community-project-funding", "credit-claiming", "appropriations", "newstead", "erie"]
 counties: ["erie"]
@@ -84,7 +84,9 @@ Neither Langworthy release nor the August posts mention Sens. Schumer or Gillibr
 
 ## D. The Second Announcement
 
-The February release announced the award. Roughly six months later, on or about **August 5, 2026**, the same $5 million was announced again across three posts on the verified congressional page: a live video from Newstead with the same Town Supervisor, a follow-up post reading *"I'm proud to secure $5 million in Community Project Funding to help make it a reality,"* and coverage from Spectrum News. The event featured a check-style sign reading **"CONGRESSMAN NICK LANGWORTHY / FIGHTING FOR OUR COMMUNITY / SECURED $5,000,000 FOR THE TOWN OF NEWSTEAD SENIOR CENTER."**
+The February release announced the award. **Months later, in August 2026**, the same $5 million was announced again: a live event in Newstead with the same Town Supervisor, a follow-up post reading *"I'm proud to secure $5 million in Community Project Funding to help make it a reality,"* an oversized check-style sign reading **"SECURED $5,000,000 FOR THE TOWN OF NEWSTEAD SENIOR CENTER,"** and Spectrum News coverage.
+
+**A sourcing limit, stated plainly, because it constrains what this section can claim.** The August posts were supplied to this site as screenshots from the verified congressional page. They carry **relative timestamps ("1h", "23h") rather than absolute dates**, and no permalinks were captured. **This entry therefore does not fix the exact date of the second announcement, and no finding here rests on it.** What is documented from the archived primary record is the February 4 award and the three-office announcement; that the money was publicly re-presented in August is evident from the artifacts, but the precise day is not established and is not asserted.
 
 **In fairness:** marking a project milestone months after an award is ordinary constituent communication, and there is nothing improper about holding an event for a real project. Local officials generally want them.
 
@@ -130,7 +132,7 @@ What his announcements omit is that New York's two senators secured the same $5 
 ## Sources
 
 * Rep. Langworthy, "Congressman Langworthy Secures $5 Million for Newstead Community Center," Feb. 4, 2026: <https://langworthy.house.gov/media/press-releases/congressman-langworthy-secures-5-million-newstead-community-center>
-* Sens. Schumer and Gillibrand, "Schumer, Gillibrand Announce $9+ Million For Community Projects In Western New York," Feb. 4, 2026: <https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york> · also published by [Sen. Gillibrand's office](https://www.gillibrand.senate.gov/news/press/release/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york/)
+* Sens. Schumer and Gillibrand, "Schumer, Gillibrand Announce $9+ Million For Community Projects In Western New York," Feb. 4, 2026: <https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york> - archived: <http://web.archive.org/web/20260308172346/https://www.schumer.senate.gov/newsroom/press-releases/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york> · also published by [Sen. Gillibrand's office](https://www.gillibrand.senate.gov/news/press/release/schumer-gillibrand-announce-9-million-for-community-projects-in-western-new-york/)
 * Facebook, verified page of Rep. Nick Langworthy, three posts on or about Aug. 5, 2026 (live video from Newstead; follow-up post; Spectrum News segment) — permalinks to be added, see `hold_reason`
 * FY 2026 Consolidated Appropriations: enacted Feb. 3, 2026 (H.R. 7148, House concurrence in Senate amendments, [Roll Call 53](https://clerk.house.gov/evs/2026/roll053.xml), Feb. 3, 2026)
 
