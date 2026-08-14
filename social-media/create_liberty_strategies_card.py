@@ -1,91 +1,87 @@
 #!/usr/bin/env python3
-"""Social card: Liberty Strategies disclosure gap, July 2 2026. MISSING CONTEXT.
-What the public can see vs cannot; office no-response strip. No em dashes."""
+"""Social card: what the disclosure rules make checkable, and what they do not.
 
-from PIL import Image, ImageDraw, ImageFont
+Anchored to content/fact-checks/2026-06-24-liberty-strategies-disclosure.md
+(published verdict: MISSING CONTEXT).
 
-WIDTH, HEIGHT = 1080, 1080
-FONT_DIR = "/System/Library/Fonts/Supplemental/"
-BG="#F5F7FA"; NAVY="#1E3A5F"; DARK="#1A202C"; GREEN="#276749"; RED="#E53E3E"
-ORANGE="#C05621"; GOLD="#D69E2E"; MUTED="#718096"; BORDER="#E2E8F0"; WHITE="#FFFFFF"
+DESIGN NOTE ON COLOR: the right-hand panel is deliberately NOT red. The entry
+makes no allegation of wrongdoing, and red in this house style signals an
+adversarial contrast. The gap here is in the disclosure regime, not in his
+conduct, so the panel is neutral amber. Green on the left is used because that
+side genuinely verifies in his favor.
+Light house style, 1080x1080, no em dashes (enforced by Card.save).
+"""
+import sys, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from lib.card import (Card, NAVY, DARK, GREEN, BRONZE, MUTED, BORDER, WHITE, LIGHTGRAY)
 
-def font(n,s):
-    try: return ImageFont.truetype(f"{FONT_DIR}{n}", s)
-    except Exception: return ImageFont.load_default()
-f_brand=font("Arial Bold.ttf",22); f_tag=font("Arial Bold.ttf",20); f_topic=font("Arial Bold.ttf",29)
-f_label=font("Arial Bold.ttf",20); f_label_s=font("Arial Bold.ttf",16); f_big=font("Impact.ttf",62)
-f_stat=font("Impact.ttf",36); f_sub_b=font("Arial Bold.ttf",19); f_sub=font("Arial.ttf",17)
-f_small=font("Arial.ttf",16); f_xs=font("Arial.ttf",14); f_xs_b=font("Arial Bold.ttf",14)
-f_src=font("Arial.ttf",15); f_footer=font("Arial Bold.ttf",20)
+c = Card(scale=2)
+c.brand_bar()
 
-img=Image.new("RGB",(WIDTH,HEIGHT),BG); draw=ImageDraw.Draw(img)
-draw.rectangle([(0,0),(WIDTH,48)],fill=NAVY)
-draw.text((WIDTH//2,24),"LANGWORTHYWATCH.ORG",fill=WHITE,font=f_brand,anchor="mm")
-y=62
+y = c.badge(60, "MISSING CONTEXT")
+y = c.title(y, "Where the Rules Let You Check, He Checks Out", size=29)
+y = c.subtitle(y + 6, "And where they do not, no one can. Both halves are his own filings.", size=16)
+y = c.divider(y + 12)
 
-tag="MISSING CONTEXT"; tb=draw.textbbox((0,0),tag,font=f_tag); tw,th=tb[2]-tb[0]+28,tb[3]-tb[1]+12
-draw.rounded_rectangle([((WIDTH-tw)//2,y),((WIDTH+tw)//2,y+th)],radius=5,fill="#744210",outline=GOLD,width=2)
-draw.text((WIDTH//2,y+th//2),tag,fill=GOLD,font=f_tag,anchor="mm"); y+=th+22
-draw.text((WIDTH//2,y),"The Consulting Firm on His Disclosures",fill=NAVY,font=f_topic,anchor="mm"); y+=38
-draw.line([(60,y),(WIDTH-60,y)],fill=BORDER,width=2); y+=16
+# ---- hero ---------------------------------------------------------------
+hero_h = 116
+c.panel(44, y + 2, c.w - 44, y + 2 + hero_h, fill="#FFFAF0", outline="#F6C177")
+c.text(140, y + 2 + hero_h / 2, "N/A", size=58, impact=True, fill=BRONZE, anchor="mm")
+c.text(250, y + 38, "is the amount of spouse consulting income his", size=18, bold=True, fill=DARK, anchor="lm")
+c.text(250, y + 66, "filings report. Every year. That is the rule,", size=18, bold=True, fill=DARK, anchor="lm")
+c.text(250, y + 94, "not an omission: the House form asks for the source, never the amount.", size=13, fill=MUTED, anchor="lm")
+y = y + 2 + hero_h + 12
 
-claim_h=136
-draw.rounded_rectangle([(44,y),(WIDTH-44,y+claim_h)],radius=8,fill="#FFFAF0",outline="#F6AD55",width=2)
-draw.text((76,y+18),"THE TIMELINE  ·  DOCUMENTED, NOT ALLEGED",fill=ORANGE,font=f_label_s,anchor="lm")
-draw.text((76,y+48),"His firm, Liberty Opinion Research: payments stop after 2018;",fill=DARK,font=f_sub,anchor="lm")
-draw.text((76,y+74),"\"closing the business\" announced July 2019 (Times Union).",fill=DARK,font=f_sub,anchor="lm")
-draw.text((76,y+104),"Jan 2019: similarly named Liberty Strategies LLC formed. On his filings: spouse income, amount N/A.",fill=DARK,font=f_small,anchor="lm")
-y+=claim_h+16
+# ---- two columns --------------------------------------------------------
+col_w = (c.w - 44 * 2 - 16) // 2
+col_h = 352
+lx, rx = 44, 44 + col_w + 16
+top = y
 
-col_w=(WIDTH-44*2-16)//2; col_h=340; lx=44; rx=lx+col_w+16
-draw.rounded_rectangle([(lx,y),(lx+col_w,y+col_h)],radius=8,fill="#EBF8F0",outline="#9AE6B4",width=2)
-draw.text((lx+col_w//2,y+22),"WHAT THE PUBLIC COULD SEE",fill=GREEN,font=f_label_s,anchor="mm")
-draw.text((lx+col_w//2,y+38),"through 2022, via FEC filings",fill=MUTED,font=f_xs,anchor="mm")
-draw.text((lx+col_w//2,y+104),"$103,604",fill=GREEN,font=f_big,anchor="mm")
-draw.text((lx+col_w//2,y+164),"from 3 NY GOP campaign committees",fill=DARK,font=f_sub_b,anchor="mm")
-draw.text((lx+col_w//2,y+196),"Jacobs for Congress: $71,035",fill=DARK,font=f_sub,anchor="mm")
-draw.text((lx+col_w//2,y+224),"Tom Reed PAC: $17,569",fill=DARK,font=f_sub,anchor="mm")
-draw.text((lx+col_w//2,y+252),"Singletary 4 Congress: $15,000",fill=DARK,font=f_sub,anchor="mm")
-draw.text((lx+col_w//2,y+292),"39 itemized payments, 2019 to 2022,",fill=MUTED,font=f_xs,anchor="mm")
-draw.text((lx+col_w//2,y+310),"re-verified against the FEC API",fill=MUTED,font=f_xs,anchor="mm")
+c.panel(lx, top, lx + col_w, top + col_h, fill="#EBF8F0", outline="#9AE6B4")
+c.text(lx + col_w / 2, top + 32, "CHECKABLE BY DESIGN", size=16, bold=True, fill=GREEN, anchor="mm")
+c.text(lx + col_w / 2, top + 56, "his stock trading", size=14, fill=MUTED, anchor="mm")
+c.text(lx + col_w / 2, top + 122, "0", size=64, impact=True, fill=GREEN, anchor="mm")
+c.text(lx + col_w / 2, top + 184, "transaction reports filed,", size=17, bold=True, fill=DARK, anchor="mm")
+c.text(lx + col_w / 2, top + 210, "in four years.", size=17, bold=True, fill=DARK, anchor="mm")
+c.text(lx + col_w / 2, top + 248, "Named assets. Dated filings.", size=15, fill=DARK, anchor="mm")
+c.text(lx + col_w / 2, top + 274, "Index funds and TSP.", size=15, fill=DARK, anchor="mm")
+c.text(lx + col_w / 2, top + 312, "His claim is true. We say so.", size=15, bold=True, fill=GREEN, anchor="mm")
 
-draw.rounded_rectangle([(rx,y),(rx+col_w,y+col_h)],radius=8,fill="#FFF5F5",outline="#FEB2B2",width=2)
-draw.text((rx+col_w//2,y+22),"WHAT IT CANNOT SEE",fill=RED,font=f_label_s,anchor="mm")
-draw.text((rx+col_w//2,y+38),"2023 to today",fill=MUTED,font=f_xs,anchor="mm")
-draw.text((rx+col_w//2,y+104),"N/A",fill=RED,font=f_big,anchor="mm")
-draw.text((rx+col_w//2,y+164),"the amount, every single year",fill=DARK,font=f_sub_b,anchor="mm")
-draw.text((rx+col_w//2,y+196),"Clients since 2022: none appear in",fill=DARK,font=f_sub,anchor="mm")
-draw.text((rx+col_w//2,y+224),"FEC or NY State election databases",fill=DARK,font=f_sub,anchor="mm")
-draw.text((rx+col_w//2,y+252),"2023: absent from his filing entirely",fill=DARK,font=f_sub,anchor="mm")
-draw.text((rx+col_w//2,y+292),"Yet the firm reappears as an income",fill=MUTED,font=f_xs,anchor="mm")
-draw.text((rx+col_w//2,y+310),"source on the 2024 and 2025 filings",fill=MUTED,font=f_xs,anchor="mm")
-y+=col_h+16
+c.panel(rx, top, rx + col_w, top + col_h, fill="#FFFAF0", outline="#F6C177")
+c.text(rx + col_w / 2, top + 32, "NOT CHECKABLE BY DESIGN", size=16, bold=True, fill=BRONZE, anchor="mm")
+c.text(rx + col_w / 2, top + 56, "spouse consulting income", size=14, fill=MUTED, anchor="mm")
+c.text(rx + col_w / 2, top + 122, "1 line", size=54, impact=True, fill=BRONZE, anchor="mm")
+c.text(rx + col_w / 2, top + 184, "on 4 of his 5 filings.", size=17, bold=True, fill=DARK, anchor="mm")
+c.text(rx + col_w / 2, top + 210, "No amount. No clients.", size=17, bold=True, fill=DARK, anchor="mm")
+c.text(rx + col_w / 2, top + 248, "Last documented client", size=15, fill=DARK, anchor="mm")
+c.text(rx + col_w / 2, top + 274, "payments were in 2022.", size=15, fill=DARK, anchor="mm")
+c.text(rx + col_w / 2, top + 312, "Nothing here is assessable.", size=15, bold=True, fill=BRONZE, anchor="mm")
+y = top + col_h + 14
 
-strip_h=104
-draw.rounded_rectangle([(44,y),(WIDTH-44,y+strip_h)],radius=8,fill="#EDF2F7",outline=BORDER,width=2)
-draw.text((WIDTH//2,y+22),"WE ASKED HIS OFFICE",fill=NAVY,font=f_label,anchor="mm")
-third=(WIDTH-88)//3
-for i,(val,l1,c) in enumerate([
-    ("June 24","six questions submitted",NAVY),
-    ("July 1","deadline we gave them",NAVY),
-    ("Nothing","response received",RED),
-]):
-    cx=44+i*third+third//2
-    draw.text((cx,y+56),val,fill=c,font=f_stat,anchor="mm")
-    draw.text((cx,y+86),l1,fill=DARK,font=f_xs_b,anchor="mm")
-y+=strip_h+16
+# ---- fairness strip -----------------------------------------------------
+strip_h = 112
+c.panel(44, y, c.w - 44, y + strip_h, fill="#EDF2F7", outline=BORDER)
+c.text(c.w / 2, y + 26, "WHAT THIS IS NOT", size=15, bold=True, fill=NAVY, anchor="mm")
+third = (c.w - 88) // 3
+for i, (val, lab) in enumerate([("No wrongdoing", "none alleged, and none found"),
+                                ("Not concealment", "the rules ask source, not amount"),
+                                ("A career is normal", "a spouse working is lawful and ordinary")]):
+    cx = 44 + i * third + third / 2
+    c.text(cx, y + 62, val, size=18, bold=True, fill=NAVY, anchor="mm")
+    c.text(cx, y + 90, lab, size=12, fill=DARK, anchor="mm")
+y += strip_h + 14
 
-kick_h=96
-draw.rounded_rectangle([(44,y),(WIDTH-44,y+kick_h)],radius=8,fill=NAVY)
-draw.text((WIDTH//2,y+32),"His town hall claim \"I don't trade stocks\" was checkable. We checked: true.",fill="#CBD5E0",font=font("Arial.ttf",17),anchor="mm")
-draw.text((WIDTH//2,y+64),"This income the rules let no one check. Not suspicion: a gap nobody can assess.",fill=WHITE,font=font("Arial Bold.ttf",17),anchor="mm")
-y+=kick_h+16
-draw.text((WIDTH//2,y),"Sources: House Clerk  ·  FEC  ·  NY Dept. of State  ·  NYS BOE  ·  Times Union  ·  June 25 town hall (20:30)",
-          fill=MUTED,font=f_src,anchor="mm"); y+=24
-draw.text((WIDTH//2,y),"langworthywatch.org/fact-checks/2026-06-24-liberty-strategies-disclosure/",
-          fill=NAVY,font=f_src,anchor="mm")
-draw.rectangle([(0,HEIGHT-50),(WIDTH,HEIGHT)],fill=NAVY)
-draw.text((WIDTH//2,HEIGHT-25),"langworthywatch.org  ·  NY-23 Accountability",fill=WHITE,font=f_footer,anchor="mm")
+# ---- kicker -------------------------------------------------------------
+kick_h = 98
+c.panel(44, y, c.w - 44, y + kick_h, fill=NAVY, outline=None)
+c.text(c.w / 2, y + 32, "Congress wrote rules that make stock trading checkable. It did not write them here.",
+       size=16, fill=LIGHTGRAY, anchor="mm")
+c.text(c.w / 2, y + 66, "The gap is in the disclosure regime, not in his answer.", size=18, bold=True, fill=WHITE, anchor="mm")
+y += kick_h + 20
 
-out="/Users/zachbeaudoin/projects/Langworthywatch/langworthy-tracker/social-media/liberty_strategies_card.png"
-img.save(out,"PNG",dpi=(144,144)); print(f"Saved: {out}")
+c.text(c.w / 2, y, "Sources: five House financial disclosures, 2022 to 2026  ·  FEC operating expenditures  ·  NYS Board of Elections", size=13, fill=MUTED, anchor="mm")
+c.text(c.w / 2, y + 20, "No payments to the firm were located in either database for 2023 to 2025", size=13, fill=MUTED, anchor="mm")
+
+c.footer_bar()
+c.save(os.path.join(os.path.dirname(os.path.abspath(__file__)), "liberty_strategies_card.png"), to_desktop=True)
