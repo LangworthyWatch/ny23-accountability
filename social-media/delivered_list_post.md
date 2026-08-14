@@ -1,10 +1,14 @@
-Congressman Langworthy posted a list of ten things he is "proud to have delivered." We had already fact-checked three of them.
+Congressman Langworthy posted a list of ten things he is "proud to have delivered." We had already fact-checked four of them.
 
 One came back clean. We are saying that first, because it is true.
 
 CLAIM: $60.5 Million to rebuild Jasper-Troupsburg School Campus
 VERDICT: Mostly true
 The award is real, his advocacy is documented, and the district superintendent credits him by name. Context completes the picture, but the claim holds.
+
+CLAIM: $5 Million for Newstead Community Center
+VERDICT: Missing context
+Senators Schumer and Gillibrand announced the identical $5,000,000 for the identical project on the same day, February 4, as one of seven items in a $9,275,000 Western New York package. It is one appropriation, not his $5 million plus their $5 million. Neither of his announcements mentions them.
 
 CLAIM: $1.25 Million for Allegany County Water System
 VERDICT: Documented pattern
@@ -18,7 +22,7 @@ His framing is fair, and we will quote it rather than twist it: "I want Washingt
 
 The narrower question is who else secured the money, and who actually applied for it.
 
-Seven items on his list we have not checked. When we do, we will report what we find in either direction, the same way we did with Jasper-Troupsburg.
+Six items on his list we have not checked. When we do, we will report what we find in either direction, the same way we did with Jasper-Troupsburg.
 
-Don't take our word for it. Read the three entries and check the receipts.
+Don't take our word for it. Read the four entries and check the receipts.
 https://langworthywatch.org/fact-checks/
