@@ -55,6 +55,24 @@ Between May 13 and May 20, 2026, Langworthy published four Facebook posts claimi
 
 **Context:** The Give Kids a Chance Act is a genuine legislative accomplishment. It is included here for completeness — the post is a legitimate claim of legislative credit, distinguishable from the formula-grant announcements above. *(Verdict for this post: does not meet DOCUMENTED PATTERN threshold on its own; see note below.)*
 
+## Update — August 15, 2026: Two More Instances, From His Own Releases, Now on His "Delivered" List
+
+*Added after his August 12, 2026 post listing ten items he is "proud to have delivered." Two of the ten are the same two programs this entry documents, classified here from his office's own press releases.*
+
+### Instance 5 — July 2, 2026: $3.1 million, Southern Tier airports
+
+His release identifies the program itself: "more than $3.1 million in Federal Aviation Administration (FAA) **Airport Improvement Program (AIP)** grants" for the Cattaraugus County-Olean, Chautauqua County Jamestown, and Chautauqua County Dunkirk airports. That is the same FAA formula program as Instance 3 above: airports apply, the FAA distributes by formula and safety status, and no member of Congress directs the award.
+
+### Instance 6 — July 29, 2026: $1.4 million, Schuyler Head Start
+
+His release: "Schuyler Head Start, Inc. **has been awarded** a $1,373,892 federal grant from the U.S. Department of Health and Human Services... through the Head Start Projects program." An HHS award to a grantee organization, the same structure as Instance 2 above.
+
+**The release-versus-list gap, and it is worth naming.** Both press releases are careful — "announced," "has been awarded." The **August 12 list** is not: it presents both items under "I'm proud to have delivered." The distance between how his office describes a grant on the record and how the social post frames it is the same construction this site documented on the Moog anniversary posts, where his on-the-record quote made no funding claim and the caption did.
+
+**In plain language:** the airports and Schuyler Head Start applied for and won this money from federal agencies. Announcing it is ordinary constituent communication. "Delivered" is not what happened, by his own releases' wording.
+
+---
+
 ## The Pattern
 
 Six prior entries in this tracker document the same structure:
@@ -91,3 +109,14 @@ Across at least six prior entries and four additional posts in the week of May 1
 - [Allegany County Grants](/fact-checks/2026-02-08-allegany-county-grants-accord/)
 - [FY2026 Appropriations Credit](/fact-checks/2026-02-11-fy2026-appropriations-credit/)
 - [Buffalo Airport Snow Equipment](/fact-checks/2026-02-18-buffalo-airport-snow-equipment/)
+
+---
+
+**Sources added in the August 15, 2026 update:**
+
+- [Congressman Langworthy Announces More Than $3.1 Million in FAA Grants for Southern Tier Airports (Jul. 2, 2026)](https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-more-31-million-faa-grants-southern-tier) — names the FAA Airport Improvement Program in its own text
+- [Congressman Langworthy Announces Nearly $1.4 Million for Schuyler Head Start (Jul. 29, 2026)](https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-nearly-14-million-schuyler-head-start-expand) — "Schuyler Head Start, Inc. has been awarded a $1,373,892 federal grant"
+- His August 12, 2026 Facebook post listing both items under "I'm proud to have delivered" (screenshot on file; login-walled, see this site's archive practice)
+
+*Last updated: August 15, 2026 (added Instances 5 and 6 from the August 12 "delivered" list; the May findings and DOCUMENTED PATTERN verdict are unchanged).*
+
