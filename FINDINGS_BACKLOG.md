@@ -570,3 +570,48 @@ appropriations request (his site runs a programmatic request **form** but publis
 *Do not assert:* that the photonics amendment was for Moog. Its operative text is a bare account
 transfer and names no recipient. Moog's July 2025 **COTSWORKS** acquisition ($63M, defense
 fiber-optic transceivers) is adjacency, not documentation.
+
+---
+
+## 2026-08-15 — Aug 12 "delivered" list: all ten items now classified
+
+The two previously unchecked items are classified from HIS OWN press releases (both fetched
+directly, 200s):
+
+- **$3.1M Southern Tier Airports** (release Jul. 2, 2026): his release names the program itself —
+  "Federal Aviation Administration (FAA) Airport Improvement Program (AIP) grants" to
+  Cattaraugus County-Olean, Chautauqua County Jamestown, and Chautauqua County Dunkirk airports.
+  Identical program to Instance 3 of `2026-05-20-federal-grants-credit-claiming-may2026.md`
+  (DOCUMENTED PATTERN), which established AIP is formula/application money the FAA distributes;
+  airports apply, no member directs it.
+- **$1.4M Schuyler Head Start** (release Jul. 29, 2026): "Schuyler Head Start, Inc. **has been
+  awarded** a $1,373,892 federal grant from the U.S. Department of Health and Human Services...
+  through the Head Start Projects program." Same structure as Instance 2 of the May 20 entry
+  ($7.7M HHS award). Note the release itself is careful ("has been awarded") — the "proud to have
+  delivered" framing exists in the Aug 12 LIST, not the release. Same release-vs-caption gap the
+  Moog draft documents.
+
+**Full ten-item scorecard** (the Aug 12 post, "I'm proud to have delivered"):
+
+| Item | Money type | Site status |
+|---|---|---|
+| $60.5M Jasper-Troupsburg | FEMA disaster aid, advocacy documented | MOSTLY TRUE (entry) |
+| $7.7M Early Childhood/Behavioral | HHS award | DOCUMENTED PATTERN (May 20 entry, inst. 2) |
+| $5.7M Jamestown Airport | FAA AIP formula | DOCUMENTED PATTERN (May 20 entry, inst. 3) |
+| $5M Newstead | CPF earmark, senators parallel | MISSING CONTEXT (entry) |
+| $3.2M Pomfret water | agency grant | DOCUMENTED PATTERN (May 20 entry, inst. 1) |
+| $3.1M Southern Tier Airports | FAA AIP formula (his release) | classified 8/15, no entry |
+| $1.4M Schuyler Head Start | HHS award to grantee (his release) | classified 8/15, no entry |
+| $1.25M Allegany water | CPF earmark, joint request, 3rd announcement | DOCUMENTED PATTERN (entry) |
+| $1M Chautauqua Mental Hygiene | competitive SAMHSA, county applied | MISSING CONTEXT (entry) |
+| $480K Elmira College | CPF earmark, HIS SOLO REQUEST | claim-level ACCURATE (Feb 11 entry) |
+
+**The aggregate line, if a full-list roundup is ever cut:** six of the ten are agency-awarded
+grants no member of Congress directs; three are CPF earmarks he requested (one solo and clean,
+two shared with the senators he does not mention); one is FEMA aid where his advocacy is
+documented and credited. Two of ten hold up as personal deliveries without an asterisk
+(Jasper-Troupsburg, Elmira College) — and the site has said BOTH of those plainly.
+
+**Next-step options, not started:** (a) add the two new instances as a dated update to the May 20
+DOCUMENTED PATTERN entry (cheapest, they are the same two programs it already documents), or
+(b) re-cut the roundup card/caption from 4-of-10 to a full 10-of-10 scorecard.
