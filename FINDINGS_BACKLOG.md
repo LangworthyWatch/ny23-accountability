@@ -534,3 +534,39 @@ recipient won it by competing; a member does not pick the winner. Probable verdi
 above. And do not imply anything improper about Moog: a district employer winning defense contracts
 is ordinary and lawful.
 
+
+**STATUS 2026-08-14 (same day): drafted, held.** Entry at
+`content/fact-checks/2026-08-14-moog-defense-credit-claim.md`, `draft: true`, verdict
+**MISSING CONTEXT**. The research above is now done; do not redo it.
+
+*What the record turned out to hold:* the post-2 advocacy is **real and primary-source verified**.
+Langworthy + Kennedy (D, NY-26) offered a bipartisan amendment to H.R. 4016 (FY26 DoD
+Appropriations) transferring **$7 million to Navy RDT&E "to close a gap and establish a trusted
+process for Photonic Integrated Circuit production."** Made in order (Rules amendment 29), and
+**adopted July 16, 2025** inside Calvert en bloc No. 4 (Daily Digest lists it under "Agreed to,"
+as floor amendment No. 172). He also co-sponsored the Trahan throwable-camera amendment. So
+"fought for trusted photonics" is supported, and the entry says so first.
+
+*What did not hold:* his four published project-request lists (FY24-FY27, 65 requests: 15/15/15/20)
+contain **zero** defense contractors and zero photonics/Artemis/control-systems lines — every
+recipient is a municipality, county, sheriff, fire company, college, hospital, Cooperative
+Extension, the Seneca Nation, or the Army Corps. Closest adjacency is FY27 **Corning Community
+College Optical Systems Technology Project** (workforce, not Moog). The AIM facility he was
+celebrating is a **$150M Moog capital investment** with **state/local** help only ($16.4M Excelsior
+2023, NYPA 8,000 kW, ECIDA ~$3M) — Hochul's Aug. 14 2026 release names no federal money and no
+member of Congress. Committee-wise he is on **Rules, E&C, Oversight** — not Approps, Armed
+Services, or Science/Space.
+
+*Open items carried in `hold_reason`:* (1) FB permalinks + screenshots; (2) whether the $7M survived
+into enacted FY26 defense funding — P.L. 119-75 §4 points to an explanatory statement printed in
+the House section of the CR "on or about January 21, 2026," which could not be located (main CREC
+PDFs for Jan 21 and Jan 22, 2026 contain zero instances of "photonic"; the defense explanatory
+statement is in a separate book/granule not yet found); (3) Wayback saves failed for
+rules.house.gov, the Lockheed Owego release, the ALPA article, and governor.ny.gov — retry;
+(4) give the office a chance to produce any Artemis / control-systems action and any programmatic
+appropriations request (his site runs a programmatic request **form** but publishes no programmatic
+**list**, so that category is invisible to us — the entry says so).
+
+*Do not assert:* that the photonics amendment was for Moog. Its operative text is a bare account
+transfer and names no recipient. Moog's July 2025 **COTSWORKS** acquisition ($63M, defense
+fiber-optic transceivers) is adjacency, not documentation.
