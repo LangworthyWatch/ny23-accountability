@@ -17,6 +17,12 @@ Each fact-check includes:
 
 ## Summary Table: Claim Verification Status
 
+### August 2026
+
+| Topic | Claim | Verdict |
+|-------|-------|---------|
+| ["Albany Pushes Wind Turbines in Lake Erie": There Is No State Lake Erie Wind Project. The Turbines in His Photo Are on Land.](/fact-checks/2026-08-19-lake-erie-wind-albany-utility-bills/) | Campaign-page posts from an Aug 18 Hamburg rally with Bruce Blakeman and CAWTILE blame "sky-high utility bills" on Albany "choking off natural gas" and "pushing wind turbines in Lake Erie." NYSERDA recommended against Great Lakes wind in 2022, the Governor's office said "no plans" in July 2025 and again Aug 18, and the only proposal is a Westchester senator's bill stalled in committee; the turbines in the photo are the onshore Steel Winds project (2007/2012). The All-Electric Buildings Act has never taken effect and covers new construction only; DEC approved the NESE gas pipeline in Nov 2025 and Albany rolled back the Climate Act in May 2026. DPS puts climate policy at 7.7% of a NYSEG bill; the winter spike was wholesale gas (+81%). H.R. 3699 has had no floor vote and touches none of the bill's cost drivers, while H.R. 1 (his Aye) repealed wind/solar credits that independent estimates price at $78 to $192 per household by 2035. The candidate endorsed would rescind the data center permitting pause the Governor tied to utility bills | **MISLEADING** |
+
 ### June 2026
 
 | Topic | Claim | Verdict |
