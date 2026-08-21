@@ -1,9 +1,9 @@
 {
   "generated": "2026-08-21",
-  "total": 148,
+  "total": 149,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 43,
+    "MISSING CONTEXT": 44,
     "MISLEADING": 34,
     "DOCUMENTED PATTERN": 28,
     "CONTRADICTION": 13,
@@ -20,28 +20,28 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 45,
-      "pct": 30.4
+      "count": 46,
+      "pct": 30.9
     },
     {
       "label": "MISLEADING",
       "count": 34,
-      "pct": 23.0
+      "pct": 22.8
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 28,
-      "pct": 18.9
+      "pct": 18.8
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "label": "FALSE",
       "count": 9,
-      "pct": 6.1
+      "pct": 6.0
     },
     {
       "label": "MOSTLY TRUE",
@@ -71,8 +71,8 @@
   ],
   "by_topic": {
     "Healthcare": 21,
+    "Economy": 16,
     "Government Operations": 16,
-    "Economy": 15,
     "Other": 10,
     "Immigration": 9,
     "Campaign Finance": 6,
@@ -119,7 +119,7 @@
     "2026-05": 15,
     "2026-06": 25,
     "2026-07": 24,
-    "2026-08": 3
+    "2026-08": 4
   },
   "entries": [
     {
@@ -128,6 +128,13 @@
       "verdict": "MISSING CONTEXT",
       "topic": "Immigration",
       "url": "/fact-checks/2026-08-20-ny-harbor-capsizing-immigration-framing/"
+    },
+    {
+      "title": "\\\"Accounts for Every American Child\\\": The Account Is Open to Nearly Every Child. The $1,000 Is Not.",
+      "date": "2026-08-20",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-08-20-trump-accounts-every-child/"
     },
     {
       "title": "\\\"Albany Pushes Wind Turbines in Lake Erie\\\": There Is No State Lake Erie Wind Project. The Turbines in His Photo Are on Land.",

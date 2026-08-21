@@ -1,15 +1,15 @@
 ---
 title: "\"Accounts for Every American Child\": The Account Is Open to Nearly Every Child. The $1,000 Is Not."
 date: 2026-08-20
-draft: true
+draft: false
 topic: "Economy / Tax Policy"
 claim_date: "August 20, 2026"
 source: "Facebook Post (verified congressional page)"
 source_url: "https://www.facebook.com/RepLangworthy/posts/pfbid02qCwpUj5qN5pUXYiS2C9zGjMknvhnGeXaxndYsjJDt6jVqW3zWi22if4VndQf8g3El"
 archived_url: "https://web.archive.org/web/20260821184208/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRepLangworthy%2Fposts%2Fpfbid02qCwpUj5qN5pUXYiS2C9zGjMknvhnGeXaxndYsjJDt6jVqW3zWi22if4VndQf8g3El"
-archive_note: "Wayback capture of the post via the Facebook embed endpoint, playback-verified August 21, 2026. Statutory facts are cited to the enrolled text of P.L. 119-21 on govinfo.gov and to IRS publications."
+archive_note: "Wayback capture of the post via the Facebook embed endpoint, playback-verified August 21, 2026. Statutory facts are cited to the enrolled text of P.L. 119-21 on govinfo.gov and to IRS publications. Source archive status: research/sources/archive_log_2026-08-21_three-entries.tsv (all cited sources captured except the health.ny.gov canonical URL, which is archived at its healthweb-back mirror)."
 verdict: "MISSING CONTEXT"
-hold_reason: "Three open items. (1) Archive and playback-verify the non-Facebook sources (govinfo enrolled text, IRS pages, Urban, FactCheck.org, CNBC, Treasury release). (2) Pull the JCT score for Sec. 70204 directly; secondary sources disagree ($2.3B per Brookings vs. $15B elsewhere) and this entry does not cite a cost figure until that is resolved. (3) CRS R48910 and the Tax Notes piece on the online tool's ITIN gap were not retrievable this session; confirm before adding either."
+publication_note: "Published August 21, 2026. Verified that day: statutory text (P.L. 119-21 Sec. 70204, govinfo enrolled text) for the eligibility window, citizenship test, age limit, and $5,000 cap; IRS IR-2026-42 figures; FactCheck.org and Urban Institute figures verbatim; NY DOH 2023 Table 7 county births (healthweb-back mirror, archived); JCT JCX-35-25 score (local copy in research/sources). CRS R48910 and the Tax Notes piece on the online tool's ITIN gap were not retrievable and are not cited."
 tags: ["trump-accounts", "obbba", "tax-policy", "children", "semantic-framing", "hr1"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "schuyler", "steuben", "tioga", "erie"]
 ---
@@ -139,6 +139,15 @@ the cohort the federal $1,000 excludes.
 
 ---
 
+## What it costs
+
+The Joint Committee on Taxation scored Section 70204 at a $15.2 billion
+revenue loss over 2025–2034 (JCX-35-25, present-law baseline). $14.6 billion
+of that is the outlay for the $1,000 deposits, concentrated in 2025–2028. The
+contribution and employer provisions account for the remainder.
+
+---
+
 ## Enrollment so far
 
 IRS reported on March 31, 2026 that taxpayers had signed up more than 4
@@ -192,7 +201,8 @@ July 2026. Contributions opened July 4, 2026.
 - PolitiFact, growth projections, Feb 3, 2026: https://www.politifact.com/article/2026/feb/03/trump-account-savings-investment-returns/
 - White House, Dell pledge, Dec 2, 2025: https://www.whitehouse.gov/releases/2025/12/landmark-dell-gift-supercharges-trump-accounts-for-americas-kids/
 - CBS News, Dell pledge eligibility, Dec 3, 2025: https://www.cbsnews.com/news/michael-dell-25-million-children-250-each-trump-accounts/
-- NY DOH Vital Statistics 2023, Table 7 (live births by county of residence): https://www.health.ny.gov/statistics/vital_statistics/2023/table07.htm
+- NY DOH Vital Statistics 2023, Table 7 (live births by county of residence): https://www.health.ny.gov/statistics/vital_statistics/2023/table07.htm (archived mirror: https://web.archive.org/web/20260821205038/https://healthweb-back.health.ny.gov/statistics/vital_statistics/2023/table07.htm)
+- Joint Committee on Taxation, JCX-35-25, estimated revenue effects of H.R. 1 as passed, July 1, 2025: https://www.jct.gov/getattachment/eb21dc77-6439-4fc3-8f5d-fc23a8c377e0/x-35-25.pdf
 - Census Bureau, county population by age, Vintage 2024 (cc-est2024-agesex-36.csv): https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/counties/asrh/cc-est2024-agesex-36.csv
 
 ---
