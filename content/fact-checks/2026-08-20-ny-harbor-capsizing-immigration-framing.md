@@ -7,9 +7,9 @@ claim_date: "August 20, 2026"
 source: "Facebook Post (verified congressional page)"
 source_url: "https://www.facebook.com/RepLangworthy/posts/pfbid02132LBshYtEN4vE7FujMU7Xqa13yJWGY1rE4a4qPxgDtFFZ7vSQ8tewmZ5TGRBv4Zl"
 archived_url: "https://web.archive.org/web/20260821184148/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRepLangworthy%2Fposts%2Fpfbid02132LBshYtEN4vE7FujMU7Xqa13yJWGY1rE4a4qPxgDtFFZ7vSQ8tewmZ5TGRBv4Zl"
-archive_note: "Wayback capture of the post via the Facebook embed endpoint, playback-verified August 21, 2026 (post text present in snapshot). Every load-bearing fact below rests on the sworn federal complaint (26 MAG 3226, S.D.N.Y.), the SDNY and DHS press releases, or wire reporting of the court record."
+archive_note: "Wayback capture of the post via the Facebook embed endpoint, playback-verified August 21, 2026 (post text present in snapshot). Every quoted passage below was checked verbatim on August 21, 2026 against the sworn complaint (local copy in research/sources), the SDNY and DHS releases, and the June 3 press release. Roll Calls 218 and 320 were read from clerk.house.gov XML; the H.R. 2772 cosponsor roster from govinfo BILLSTATUS; the Zeus Luxury Rental Inc. record from the NY DOS entity API. Source archive status: research/sources/archive_log_2026-08-21_three-entries.tsv."
 verdict: "MISSING CONTEXT"
-hold_reason: "Two open items before publishing. (1) Archive the remaining non-Facebook sources (justice.gov release and complaint PDF, dhs.gov release, AP/CNN/NBC NY pieces) and playback-verify each. (2) Give the office a documented chance to say whether the Congressman has taken any position on Coast Guard illegal-charter enforcement or passenger-vessel safety legislation, since this entry reports finding none."
+hold_reason: "One open item: the office comment request (research/briefs/2026-08-21-office-request-capsizing.md) has been drafted but not sent. Send it, wait the 3-business-day window, then publish with any response. The NY Post article the post links to could not be archived (crawler-blocked); its only quoted source is the DHS release, which is archived."
 tags: ["immigration", "public-safety", "coast-guard", "new-york-harbor", "dhs", "presumption-of-innocence", "documented-pattern"]
 counties: ["district-wide"]
 ---
@@ -122,15 +122,17 @@ weeks. The Coast Guard did not comment.
 
 Unlicensed passenger charters are a Coast Guard enforcement matter. Langworthy
 voted Yea on the Coast Guard Authorization Act of 2025 (Roll Call 218, July 23,
-2025, 399-12) and on the FY2026 NDAA that carried it (Roll Call 320, Dec. 10,
-2025). Both were broad bipartisan votes.
+2025, 399-12) and on passage of S. 1071, the vehicle for the FY2026 NDAA that
+carried it (Roll Call 320, Dec. 10, 2025). Both were broad bipartisan votes.
 
 This review found no Langworthy cosponsorship of passenger-vessel safety
 legislation in the 119th Congress, including H.R. 2772, the Brianna Lieneck
 Boating Safety Act, sponsored by fellow New York Republican Andrew Garbarino.
-It found no press release or statement from his office on Coast Guard
-illegal-charter enforcement, before or after August 8. This is a search-based
-finding; see the hold note above.
+The cosponsor roster was read from the govinfo BILLSTATUS record: sponsor
+Garbarino and three cosponsors (LaLota, Gillen, Gottheimer). The review also
+found no press release or statement from his office on Coast Guard
+illegal-charter enforcement, before or after August 8; the office has been
+asked to identify any (see the note below).
 
 ---
 
@@ -176,8 +178,8 @@ is addressed by removal.
 - U.S. v. Hernandez, 26 MAG 3226 (S.D.N.Y.), sworn complaint, Aug 10, 2026: https://www.justice.gov/usao-sdny/media/1457226/dl (local copy: research/sources/2026-08-10-sdny-us-v-hernandez-complaint-26mag3226.pdf)
 - SDNY press release 26-233, "Unlicensed Tour Operator Charged...," Aug 10, 2026: https://www.justice.gov/usao-sdny/pr/unlicensed-tour-operator-charged-causing-deaths-five-month-old-infant-and-27-year-old
 - DHS press release, "Coast Guard Investigation Leads to Arrest of Illegal Alien After Boat Capsizes in New York," Aug 19, 2026: https://www.dhs.gov/news/2026/08/19/coast-guard-investigation-leads-arrest-illegal-alien-after-boat-capsizes-new-york
-- AP (Sisak), "Speedboat driver in fatal New York Harbor capsizing was in the US illegally, authorities say," Aug 20, 2026: https://www.local10.com/news/national/2026/08/20/speedboat-driver-in-fatal-new-york-harbor-capsizing-was-in-the-us-illegally-authorities-say/
-- AP, "Feds charge speedboat operator after mother and infant are killed," Aug 10, 2026: https://www.newsnationnow.com/us-news/ap-us-news/ap-feds-charge-speedboat-operator-after-mother-and-infant-are-killed-in-new-york-harbor-capsizing/
+- AP (Sisak), "Speedboat driver in fatal New York Harbor capsizing was in the US illegally, authorities say," Aug 20, 2026 (Pittsburgh Post-Gazette syndication): https://www.post-gazette.com/news/nation/2026/08/20/speedboat-driver-new-york-harbor-us-manuel-hernandez/stories/202608200063
+- AP, "Boat driver charged after capsizing on Statue of Liberty tour" (prior June 2025 fire; company identification), Aug 11, 2026 (WFLX syndication): https://www.wflx.com/2026/08/11/boat-driver-charged-after-capsizing-statue-liberty-tour-killing-mother-baby/
 - CNN, "ICE detains captain of boat that capsized in NYC harbor," Aug 20, 2026: https://www.cnn.com/2026/08/20/us/ice-detains-captain-nyc-boat-capsize-hnk
 - CNN, Aug 9, 2026 (NYPD reckless endangerment arrest): https://www.cnn.com/2026/08/09/us/new-york-boat-capsized-hnk
 - NBC New York, "Boat operator federally charged in Statue of Liberty capsizing," Aug 10, 2026: https://www.nbcnewyork.com/new-york-city/liberty-island-boat-capsize-manuel-hernandez-federal-custody/6535147/
@@ -186,10 +188,10 @@ is addressed by removal.
 - NBC News, 2022 Hudson River case charges, Mar 8, 2024: https://www.nbcnews.com/news/us-news/2-charged-hudson-river-capsize-deaths-woman-7-year-old-nephew-rcna142409
 - SDNY, 2022 case sentencing, Jan 2025: https://www.justice.gov/usao-sdny/pr/new-jersey-man-sentenced-18-months-prison-causing-death-seven-year-old-boy-and-48-year
 - CBS New York, 2022 case sentencing, Jan 30, 2025: https://www.cbsnews.com/newyork/news/deadly-2022-hudson-river-boat-capsized-prison-sentence/
-- NY Department of State, Zeus Luxury Rental Inc., DOS ID 7687378 (pulled Aug 21, 2026)
+- NY Department of State, Corporation and Business Entity Database, Zeus Luxury Rental Inc., DOS ID 7687378, domestic business corporation, Active, initial filing Aug 15, 2025 (entity API, pulled Aug 21, 2026): https://apps.dos.ny.gov/publicInquiry/
 - House Clerk, Roll Call 218 (H.R. 4275), July 23, 2025: https://clerk.house.gov/evs/2025/roll218.xml
 - House Clerk, Roll Call 320 (S. 1071, FY26 NDAA), Dec 10, 2025: https://clerk.house.gov/evs/2025/roll320.xml
-- H.R. 2772 cosponsors: https://www.govtrack.us/congress/bills/119/hr2772/cosponsors
+- H.R. 2772, Brianna Lieneck Boating Safety Act, BILLSTATUS (govinfo, sponsor and cosponsor roster): https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2772.xml
 - Langworthy statement on Cattaraugus County stabbing, June 3, 2026: https://langworthy.house.gov/media/press-releases/statement-on-violent-stabbing-cattaraugus-county
 
 ---
