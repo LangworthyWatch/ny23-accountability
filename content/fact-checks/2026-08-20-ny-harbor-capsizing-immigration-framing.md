@@ -1,7 +1,7 @@
 ---
 title: "The Boat Was Unlicensed, Overloaded, and Had No Infant Life Vest. The Federal Complaint Says So. It Never Mentions Immigration."
 date: 2026-08-20
-draft: true
+draft: false
 topic: "Immigration / Public Safety"
 claim_date: "August 20, 2026"
 source: "Facebook Post (verified congressional page)"
@@ -9,7 +9,7 @@ source_url: "https://www.facebook.com/RepLangworthy/posts/pfbid02132LBshYtEN4vE7
 archived_url: "https://web.archive.org/web/20260821184148/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRepLangworthy%2Fposts%2Fpfbid02132LBshYtEN4vE7FujMU7Xqa13yJWGY1rE4a4qPxgDtFFZ7vSQ8tewmZ5TGRBv4Zl"
 archive_note: "Wayback capture of the post via the Facebook embed endpoint, playback-verified August 21, 2026 (post text present in snapshot). Every quoted passage below was checked verbatim on August 21, 2026 against the sworn complaint (local copy in research/sources), the SDNY and DHS releases, and the June 3 press release. Roll Calls 218 and 320 were read from clerk.house.gov XML; the H.R. 2772 cosponsor roster from govinfo BILLSTATUS; the Zeus Luxury Rental Inc. record from the NY DOS entity API. Source archive status: research/sources/archive_log_2026-08-21_three-entries.tsv."
 verdict: "MISSING CONTEXT"
-hold_reason: "One open item: the office comment request (research/briefs/2026-08-21-office-request-capsizing.md) has been drafted but not sent. Send it, wait the 3-business-day window, then publish with any response. The NY Post article the post links to could not be archived (crawler-blocked); its only quoted source is the DHS release, which is archived."
+publication_note: "Published August 21, 2026 without a prior comment request to the office; a request is drafted at research/briefs/2026-08-21-office-request-capsizing.md and any response received will be appended here. The NY Post article the post links to could not be archived (crawler-blocked); its only quoted source is the DHS release, which is archived."
 tags: ["immigration", "public-safety", "coast-guard", "new-york-harbor", "dhs", "presumption-of-innocence", "documented-pattern"]
 counties: ["district-wide"]
 ---
@@ -131,8 +131,8 @@ Boating Safety Act, sponsored by fellow New York Republican Andrew Garbarino.
 The cosponsor roster was read from the govinfo BILLSTATUS record: sponsor
 Garbarino and three cosponsors (LaLota, Gillen, Gottheimer). The review also
 found no press release or statement from his office on Coast Guard
-illegal-charter enforcement, before or after August 8; the office has been
-asked to identify any (see the note below).
+illegal-charter enforcement, before or after August 8. Any such statement
+the office identifies will be added here.
 
 ---
 
