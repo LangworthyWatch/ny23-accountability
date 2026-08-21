@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: August 15, 2026*
+*Last updated: August 21, 2026*
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 146 Fact-Checks Published
+## Content: 150 Fact-Checks Published
 
 ### Topics Covered
 
@@ -115,6 +115,10 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 | State of the District, 8/6/26 | **LEAD, single-source, unverified** (FINDINGS_BACKLOG 8/6) | Wellsville Sun says he delivered it "to a private audience at a location undisclosed to the public." Now retrospectively checkable. Needs his office's own announcement + a second outlet before use; a State of the District address is a speech, not a town hall |
 | Moog "millions for Moog" | **Drafted 8/14 via background agent, verified 8/15, held** (`2026-08-14-moog-defense-credit-claim`, MISSING CONTEXT). Card+caption built, caption carries DO-NOT-POST | Gates: FB permalinks; whether the $7M photonics transfer survived into the P.L. 119-75 explanatory statement (printed ~Jan 21 2026, not yet located); ALPA article archive (Cloudflare 520); office chance to produce Artemis/control-systems documentation |
 | Aug 12 "delivered" list, 10-of-10 | **Complete 8/15.** All ten classified; instances 5-6 added to the May 20 grants entry (live); full scorecard card+caption cut and committed | Post-ready. Aggregate: 6 of 10 agency grants, 2 clean (Jasper-Troupsburg, Elmira College), 2 shared earmarks |
+| Lake Erie wind / utility bills | **Published 8/21** (MISLEADING) + card/caption | Campaign-page posts from the 8/18 Hamburg rally with Blakeman and CAWTILE. Gates carried forward: permalinks for the 8/19 3:01 PM and 8/20 posts (screenshots only); campaign never asked which Lake Erie project the posts mean. Blakeman data-center-moratorium section added from his own NY1 quotes |
+| NY Harbor capsizing / immigration framing | **Published 8/21** (MISSING CONTEXT) + card/caption | Built on the sworn SDNY complaint (26 MAG 3226, local copy in research/sources). Complaint never mentions immigration and "reckless" is not the charge. Office comment request drafted at `research/briefs/2026-08-21-office-request-capsizing.md` but **not sent**; append any response |
+| Trump Accounts "every American child" | **Published 8/21** (MISSING CONTEXT) + card/caption | $1,000 is citizen children born 2025-2028 only; NY-23 birth-cohort table from NY DOH Table 7 + Census. JCT score resolved to $15.2B via JCX-35-25 (Brookings' $2.3B was contributions only). CRS R48910 and the Tax Notes ITIN piece were unretrievable and are not cited |
+| CHECK Act "price tags" | **Published 8/21** (MISSING CONTEXT) + card/caption | H.R. 9117: zero cosponsors, no action since 6/3, absent from both E&C markups. Nothing in it posts a price before care. Contrast is Roll Call 11 (Nay) + NY State of Health premium data. Open: whether CHECK Act text was folded into the H.R. 9393 substitute — reported text not yet published on govinfo; recheck when it is |
 | FB sweep leads (7/2) | Logged | Roswell/LUNGevity (commenters raising Medicaid contradiction), UPMC Chautauqua $300K x3, $2.3M airports, critical minerals, Air Methods |
 | Farm Bill — Senate action | Published; watching | Update when Senate moves |
 | FeedMore WNY | Published | Monitor for any Langworthy statement |
