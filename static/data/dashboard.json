@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-21",
-  "total": 150,
+  "generated": "2026-08-26",
+  "total": 151,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 45,
+    "MISSING CONTEXT": 46,
     "MISLEADING": 34,
     "DOCUMENTED PATTERN": 28,
     "CONTRADICTION": 13,
@@ -20,18 +20,18 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 47,
-      "pct": 31.3
+      "count": 48,
+      "pct": 31.8
     },
     {
       "label": "MISLEADING",
       "count": 34,
-      "pct": 22.7
+      "pct": 22.5
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 28,
-      "pct": 18.7
+      "pct": 18.5
     },
     {
       "label": "CONTRADICTION",
@@ -75,7 +75,7 @@
     "Government Operations": 16,
     "Other": 10,
     "Immigration": 9,
-    "Campaign Finance": 6,
+    "Campaign Finance": 7,
     "Local Impact": 6,
     "Transparency": 6,
     "Energy": 5,
@@ -119,9 +119,16 @@
     "2026-05": 15,
     "2026-06": 25,
     "2026-07": 24,
-    "2026-08": 5
+    "2026-08": 6
   },
   "entries": [
+    {
+      "title": "The Only Outside Money in This Race Is $95,900 from the Chemical Industry. His Bill Contains Their Top Regulatory Ask.",
+      "date": "2026-08-26",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-08-26-acc-independent-expenditure-recycled-materials-act/"
+    },
     {
       "title": "The Boat Was Unlicensed, Overloaded, and Had No Infant Life Vest. The Federal Complaint Says So. It Never Mentions Immigration.",
       "date": "2026-08-20",

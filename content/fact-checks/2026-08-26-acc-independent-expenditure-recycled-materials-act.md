@@ -1,7 +1,7 @@
 ---
 title: "The Only Outside Money in This Race Is $95,900 from the Chemical Industry. His Bill Contains Their Top Regulatory Ask."
 date: 2026-08-26
-draft: true
+draft: false
 topic: "Campaign Finance / Environment"
 claim_date: "August 21, 2026"
 source: "American Chemistry Council independent expenditure advertisement and FEC Form 5"
@@ -9,7 +9,7 @@ source_url: "https://www.americanchemistry.com/chemistry-in-america-industry-inn
 archived_url: ""
 archive_note: "Every figure in this entry is drawn from a primary federal record retrieved and saved on August 26, 2026: the FEC Form 5 filing itself (research/sources/fec-f5-acc-langworthy-2026-08-21.fec, filing 2009256), the OpenFEC Schedule E API, FEC bulk file itpas2 for the 2026 cycle, Senate LDA filings, the House Clerk's MemberData.xml, and the as-introduced text and BILLSTATUS record for H.R. 7502. Archive status for web sources: research/sources/archive_log_2026-08-26-acc.tsv."
 verdict: "MISSING CONTEXT"
-hold_reason: "Three open items. (1) Request for comment to Langworthy's office and to the American Chemistry Council on the questions at the bottom of this entry; neither has been asked. (2) Archive the ACC press release, the ACC YouTube ad, the Recycling Leadership Council statement, and the July 22 hearing page, and playback-verify each. (3) The ad's own transcript is currently sourced to auto-generated captions on ACC's YouTube upload; confirm the wording against the video before quoting it as verbatim."
+publication_note: "Published August 26, 2026. Two disclosures. (1) No request for comment was sent to Rep. Langworthy's office or to the American Chemistry Council before publication; the questions at the bottom of this entry stand open to both, and any response received will be published here in full. (2) The ad transcript is not quoted in this entry because the only available text is auto-generated captions on the sponsor's own upload; the ad is characterized from the sponsor's written press release instead. Archive status for cited web sources: research/sources/archive_log_2026-08-26-acc.tsv."
 tags: ["campaign-finance", "independent-expenditure", "american-chemistry-council", "recycling", "plastics", "mass-balance", "hr7502", "energy-and-commerce", "preemption", "fec"]
 counties: ["district-wide"]
 ---
@@ -266,7 +266,8 @@ law on the subject.
 **Note:** This entry documents publicly available information from federal
 disclosure records. Independent expenditures are made independently of
 candidates as a matter of law, and no coordination is alleged. Neither
-Rep. Langworthy's office nor the American Chemistry Council has been asked for
-comment as of this writing; see the hold note.
+Rep. Langworthy's office nor the American Chemistry Council was asked for
+comment before publication. The questions above stand open to both, and any
+response either provides will be published here in full.
 
 *Last updated: August 26, 2026*
