@@ -16,8 +16,8 @@ counties: ["district-wide"]
 
 ## Why this matters
 
-On August 27 the New York Teamsters endorsed Rep. Langworthy, one of only four
-Republicans among the state's 26 congressional districts. He posted that it was
+On August 27 the New York Teamsters endorsed Rep. Langworthy, one of five
+Republicans on a twenty-candidate slate. He posted that it was
 "about action, not just words," and that the union had "recognized my record of
 results."
 
@@ -42,6 +42,14 @@ sharing WETM's story on the endorsement.
 > middle class, and standing up for workers will always be my top priorities
 > but it's about action, not just words, and I'm honored that they have
 > recognized my record of results."
+
+He made the same claim in an official news release the same day, provided to
+WETM:
+
+> "I have always believed in the power of a good-paying career and a strong
+> middle class, but we need leaders who do more than talk, but actually get
+> results, and I'm so proud to have the Teamsters' endorsement in my
+> reelection."
 
 ---
 
@@ -75,17 +83,25 @@ months after introduction, as one of 110 cosponsors.
 
 ## What the endorsement was actually for
 
-The Teamsters were explicit. Their announcement stated that **every endorsed
-candidate voted for the Faster Labor Contracts Act**, and Teamsters Joint
-Council 16 President Thomas Gesualdi framed the whole slate around that one
-bill:
+The Teamsters were explicit. Teamsters Joint Council 16 President Thomas
+Gesualdi framed the entire slate around that one bill, and named it as the
+sole test:
 
 > "It's an honor to support this bipartisan group of incumbents, because the
 > Faster Labor Contracts Act is a game-changer, and it will empower workers
-> more than any federal law that's been passed since the New Deal."
+> more than any federal law that's been passed since the New Deal. Support for
+> this bill is a litmus test for whether a member of Congress actually supports
+> the American worker, and every one of our endorsed candidates passed that
+> test with flying colors."
 
-Twenty candidates were endorsed across New York, most of them Democrats,
-including the House Minority Leader. Langworthy was one of four Republicans.
+Twenty candidates were endorsed across New York, fifteen Democrats and five
+Republicans: Nick LaLota (NY-1), Andrew Garbarino (NY-2), Nicole Malliotakis
+(NY-11), Mike Lawler (NY-17), and Langworthy. The slate is headed by House
+Minority Leader Hakeem Jeffries and includes Alexandria Ocasio-Cortez.
+
+*A note on a figure in circulation: WETM's report describes Langworthy as "one
+of only 4 Republicans" endorsed. The endorsement list published in the same
+article contains five Republicans, counted above. This entry uses the list.*
 
 **In plain language:** the union named the criterion itself, and the criterion
 was a single roll-call vote. "Record of results" describes a body of work. The
@@ -153,6 +169,22 @@ Trucking PAC $3,000, and FedEx's PAC $2,000.
 
 ---
 
+## The opponent's response
+
+WETM asked both candidates for comment. Aaron Gies, Langworthy's Democratic
+opponent, disputed the premise and cited competing labor support:
+
+> "I am proud to have won the endorsement of the NY AFL-CIO, the UAW, NYSUT and
+> other labor groups."
+
+He also argued that Langworthy's votes and his tariff and DOGE Caucus positions
+have hurt union members. Those are campaign assertions from an opponent, and
+this entry does not adopt or verify them; they are recorded because the same
+article carries both statements. The two are scheduled to debate live on WETM
+at 7:00 p.m. on October 6, 2026.
+
+---
+
 ## What this entry does not establish
 
 - **The vote was not bought, and nothing here suggests it was.** The union that
@@ -211,7 +243,7 @@ Trucking PAC $3,000, and FedEx's PAC $2,000.
 
 **The endorsement**
 - New York Teamsters 2026 congressional endorsements, PR Newswire, Aug 27, 2026: https://www.prnewswire.com/news-releases/new-york-teamsters-announce-2026-endorsements-for-congress-302861491.html
-- WETM / MyTwinTiers, "Rep. Langworthy gets Teamsters Union endorsement," Aug 27, 2026: https://www.mytwintiers.com/news-cat/rep-langworthy-gets-teamsters-union-endorsement/
+- WETM / MyTwinTiers (Jim Turpin), "Rep. Langworthy gets Teamsters Union endorsement," Aug 27, 2026, updated 12:46 p.m. (full endorsement list, Gesualdi quote, and statements from both candidates): https://www.mytwintiers.com/news-cat/rep-langworthy-gets-teamsters-union-endorsement/
 - Observer Today, "Teamsters give backing to Langworthy," Aug 2026: https://www.observertoday.com/news/local-region/2026/08/teamsters-give-backing-to-langworthy/
 - International Brotherhood of Teamsters, "Faster Labor Contracts Act Passes U.S. House," June 2026: https://teamster.org/2026/06/teamsters-led-faster-labor-contracts-act-passes-u-s-house-with-bipartisan-support/
 
