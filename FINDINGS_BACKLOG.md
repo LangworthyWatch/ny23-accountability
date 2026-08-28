@@ -615,3 +615,9 @@ documented and credited. Two of ten hold up as personal deliveries without an as
 **Next-step options, not started:** (a) add the two new instances as a dated update to the May 20
 DOCUMENTED PATTERN entry (cheapest, they are the same two programs it already documents), or
 (b) re-cut the roundup card/caption from 4-of-10 to a full 10-of-10 scorecard.
+
+## 2026-08-28 — NYCBS oncology bundle × biosimilars bill (lead, verified in FEC bulk)
+- **Finding:** 56 contributions totaling **$40,137** to Langworthy for Congress from donors employed by **NYCBS / New York Cancer & Blood Specialists** (Port Jefferson Station–based community oncology network, CEO Jeff Vacirca — himself a donor). Three waves: 7/26/2024 ($10,305), 2/25–26/2025 ($22,582), 5/6–11/2026 ($7,000). Occupations: 38 "physician," 11 "MD," 4 "CEO." **All out-of-district (Long Island/NYC).**
+- **Alignment:** Langworthy introduced **H.R. 9661** (biosimilar licensure streamlining — oncology-heavy drug class; community oncology buy-and-bill economics) on **7/14/2026**, two months after the May wave. His **CHECK Act** PBM provisions (6/3/2026) also match community oncology's top ask. No causation alleged; chart the dates like the ACC entry.
+- **Verify before entry:** what NYCBS/COA lobbied for on biosimilars; whether H.R. 9661 has a Senate companion (a "Read twice / referred to Senate HELP 7/21/2026" line in BILLSTATUS needs untangling — may belong to a related bill, since no House-passage action exists); Vacirca's individual giving history; whether any NYCBS entity gave at org level.
+- **Source data:** fresh itcont stream-filter, `research/sources/` pending; analysis session 2026-08-28.
