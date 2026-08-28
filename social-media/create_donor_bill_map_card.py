@@ -23,7 +23,7 @@ c = Card(scale=2)
 c.brand_bar()
 
 y = c.badge(56, "DOCUMENTED PATTERN")
-y = c.title(y, 'Four Bills He Sponsored. Four Industries That Fund Him.', size=30)
+y = c.title(y, 'Five Bills He Sponsored. Five Interests That Fund Him.', size=30)
 y = c.subtitle(y + 6, 'The money and the dates, from FEC filings. No claim that one caused the other.', size=15)
 y = c.divider(y + 10)
 
@@ -48,30 +48,35 @@ ROWS = [
      "$10,100",
      "from the Seneca Nation of Indians in the two years before introduction.",
      "The bill removes state civil as well as criminal jurisdiction."),
+    ("Expedited Access to Biosimilars Act",
+     "H.R. 9661, introduced July 2026",
+     "$55,137",
+     "from one Long Island oncology network's doctors and PAC. The PAC's last",
+     "$5,000 came 15 days before introduction. No network location is in NY-23."),
 ]
 
-row_h = 122
+row_h = 106
 for i, (bill, sub, amt, l1, l2) in enumerate(ROWS):
-    top = y + i * (row_h + 10)
+    top = y + i * (row_h + 8)
     c.panel(44, top, c.w - 44, top + row_h, fill="#FFFFFF" if i % 2 == 0 else "#F7FAFC", outline=BORDER)
-    c.text(64, top + 30, bill, size=17, bold=True, fill=NAVY, anchor="lm")
-    c.text(64, top + 54, sub, size=12, fill=MUTED, anchor="lm")
-    c.text(64, top + 86, l1, size=12, fill=DARK, anchor="lm")
-    c.text(64, top + 105, l2, size=12, fill=DARK, anchor="lm")
-    c.text(c.w - 70, top + 52, amt, size=34, impact=True, fill=RED, anchor="rm")
-y = y + len(ROWS) * (row_h + 10) + 8
+    c.text(64, top + 26, bill, size=17, bold=True, fill=NAVY, anchor="lm")
+    c.text(64, top + 47, sub, size=12, fill=MUTED, anchor="lm")
+    c.text(64, top + 74, l1, size=12, fill=DARK, anchor="lm")
+    c.text(64, top + 92, l2, size=12, fill=DARK, anchor="lm")
+    c.text(c.w - 70, top + 46, amt, size=31, impact=True, fill=RED, anchor="rm")
+y = y + len(ROWS) * (row_h + 8) + 6
 
 # ---- the fair reading, on the card ---------------------------------------
-fr_h = 104
+fr_h = 96
 c.panel(44, y, c.w - 44, y + fr_h, fill="#EBF8F0", outline="#9AE6B4")
 c.text(c.w / 2, y + 24, "THE FAIR READING, BECAUSE IT BELONGS HERE", size=14, bold=True, fill=GREEN, anchor="mm")
 c.text(c.w / 2, y + 48, "This pattern is normal. Members sponsor bills for industries in their districts, and those", size=13, fill=DARK, anchor="mm")
 c.text(c.w / 2, y + 68, "industries give to members who already agree with them. Nothing here shows a payment for a", size=13, fill=DARK, anchor="mm")
-c.text(c.w / 2, y + 88, "vote, and none is alleged. Two of the four rows are union money.", size=13, fill=DARK, anchor="mm")
+c.text(c.w / 2, y + 88, "vote, and none is alleged. One of the five rows is union money.", size=13, fill=DARK, anchor="mm")
 y += fr_h + 12
 
 # ---- kicker -------------------------------------------------------------
-kick_h = 86
+kick_h = 80
 c.panel(44, y, c.w - 44, y + kick_h, fill=NAVY, outline=None)
 c.text(c.w / 2, y + 26, "Disclosure is the point. His press releases announcing these bills name the policy.",
        size=14, fill=LIGHTGRAY, anchor="mm")
