@@ -1,7 +1,7 @@
 ---
 title: "One Long Island Cancer Network's Doctors and PAC Have Given Him $55,137. The Last Check Came 15 Days Before His Biosimilars Bill."
 date: 2026-08-28
-draft: true
+draft: false
 topic: "Campaign Finance / Healthcare"
 claim_date: "2024–2026"
 source: "FEC bulk files, govinfo BILLSTATUS, Senate LDA, Politico"
@@ -9,7 +9,7 @@ source_url: "https://langworthy.house.gov/media/press-releases/expedited-access-
 archived_url: ""
 archive_note: "Every dollar figure is computed from FEC bulk files (itcont streamed fresh 2026-08-28; itpas2 for the PAC side; memo entries and refunds excluded), with the full row-level extract saved at research/sources/nycbs-contributions-langworthy-2024-2026.txt. Bill facts are from govinfo BILLSTATUS bulk XML and the as-introduced text (local copy in research/sources). The Conquering Cancer PAC dates were verified against itpas2 directly. Web sources pending Wayback capture; see hold."
 verdict: "DOCUMENTED PATTERN"
-hold_reason: "Three open items. (1) Archive and playback-verify the web sources (Langworthy press release, FDA Oct 29 2025 announcement, Politico/Yahoo syndication, Biosimilars Council statements, nycancer.com locations page). (2) The reported claim that H.R. 9661 was marked up by full E&C on July 20, 2026 could not be confirmed in the bill's own BILLSTATUS action list, which shows only introduction and referral; this entry omits it — recheck BILLSTATUS before publication in case the record has caught up. (3) No comment request has been sent to Langworthy's office, NYCBS, or COA; the questions below stand open to all three."
+publication_note: "Published August 28, 2026. Three disclosures. (1) No comment request was sent to Rep. Langworthy's office, NYCBS, or the Community Oncology Alliance before publication; the questions below stand open to all three and any response will be published here in full. (2) Reporting elsewhere states H.R. 9661 was marked up by the full Energy and Commerce Committee on July 20, 2026; the bill's own BILLSTATUS action record retrieved August 28 shows only introduction and referral, so this entry does not assert the markup either way. (3) Archive status for web sources is logged at research/sources/archive_log_2026-08-28-nycbs.tsv; the FEC and govinfo primary records are saved locally in research/sources."
 tags: ["campaign-finance", "healthcare", "oncology", "biosimilars", "nycbs", "conquering-cancer-pac", "hr9661", "fec", "documented-pattern"]
 counties: ["district-wide"]
 ---
