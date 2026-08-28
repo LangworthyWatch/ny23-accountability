@@ -1,6 +1,7 @@
 ---
 title: "Seneca Nation Law Enforcement Act: Public Safety Bill or Undisclosed Donor Benefit?"
 date: 2026-03-14
+lastmod: 2026-08-28
 draft: false
 topic: "Campaign Finance / Legislation"
 claim_date: "January 16, 2026"
@@ -61,6 +62,36 @@ FEC filings show the following contributions from **Seneca Nation of Indians** t
 The bill was introduced January 16, 2026 — seven months after the most recent donation.
 
 The press release does not disclose the donor relationship.
+
+### Three Seneca-territory businesses, one day, $7,500
+
+*Added August 28, 2026.* A further review of Schedule A receipts found a second
+set of contributions in the same window, from businesses rather than from the
+Nation:
+
+| Date | Contributor | Address | Amount |
+|---|---|---|---|
+| Aug 7, 2025 | Sweet Seneca Smokes | 137 S Main St, Salamanca | $2,500 |
+| Aug 7, 2025 | Seneca Store Sales | 14411 NY-438, Gowanda | $2,500 |
+| Aug 7, 2025 | Seneca Direct | 597 Milestrip Rd, Irving | $2,500 |
+| | | **Total** | **$7,500** |
+
+All three are filed as ORGANIZATION-type contributions, all on the same day,
+from three different addresses on or adjacent to Seneca Nation territory. That
+is **five months before** the bill was introduced, and it is in addition to the
+$10,100 from the Nation itself.
+
+**What we could not establish, stated plainly:** we do not know whether these
+businesses are owned by the Seneca Nation, by individual Seneca members, or by
+others, and this entry does not assert that they are Nation enterprises. None
+appears in the New York Department of State corporate registry, but that is not
+evidence either way: businesses chartered under Seneca law do not appear there,
+and Seneca Gaming Corporation, which is unambiguously Nation-owned, is likewise
+absent from that registry. The Nation's own enterprises generally carry
+different branding (Seneca Holdings, Seneca Gaming, Seneca One Stop), and the
+publicly visible footprint of at least one of these three is that of a retail
+tobacco business. We report the contributions, the dates and the addresses as
+filed, and leave the ownership question open.
 
 ---
 

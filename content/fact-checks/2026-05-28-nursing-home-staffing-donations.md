@@ -5,7 +5,7 @@ draft: false
 topic: "Campaign Finance"
 claim_date: "2022–2026"
 source: "FEC bulk files, CMS Care Compare, Congress.gov"
-source_url: "https://www.fec.gov/data/candidate/H2NY23133/"
+source_url: "https://www.fec.gov/data/candidate/H2NY23228/"
 archived_url: ""
 verdict: "DOCUMENTED PATTERN"
 tags: ["campaign-finance", "nursing-homes", "obbba", "healthcare", "fec", "pattern"]
