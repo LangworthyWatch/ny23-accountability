@@ -1,5 +1,5 @@
 ---
-title: "The Teamsters Endorsed Him for One Vote, and They Said So. He Called It a \"Record of Results.\""
+title: "He Voted Against Letting the Teamsters Bill Reach the Floor. Ninety Minutes Later, He Voted For It."
 date: 2026-08-28
 draft: true
 topic: "Labor / Campaign Finance"
@@ -9,7 +9,7 @@ source_url: "https://www.facebook.com/ChairmanNickLangworthy"
 archived_url: ""
 archive_note: "The August 27, 2026 post is recorded from a screenshot on file, captured from the campaign page 'Nick Langworthy' (the personal/campaign page, not the RepLangworthy congressional page); the permalink was not captured and Facebook posts do not archive via Save Page Now. Every other fact in this entry rests on a primary federal record retrieved August 28, 2026: House Clerk roll-call XML for Roll Calls 216 (2026), 332 (2025) and 010 (2024); the govinfo BILLSTATUS record for H.R. 5408; and FEC bulk files itpas2 and cm for the 2022, 2024 and 2026 cycles."
 verdict: "MISSING CONTEXT"
-hold_reason: "Three open items. (1) Capture the post permalink and screenshot both the campaign-page post and the linked WETM story. (2) He sits on the Rules Committee, and H.R. 5408 reached the floor under H. Res. 1140; pull the Rules Committee record for that rule to see whether he acted on it there, which would be a second documented action and belongs in this entry either way. (3) The AFL-CIO annual scores are cited secondhand in circulating research and are not used in this entry; if they are to be added, pull them from the AFL-CIO's own scorecard rather than a summary."
+hold_reason: "Two open items. (1) Capture the post permalink and screenshot both the campaign-page post and the linked WETM story. (2) The signature list for discharge petition 119-19 was not retrievable from clerk.house.gov (the page returned HTTP 400), so this entry makes no claim about whether Langworthy signed it; pull it before adding one. Separately, the AFL-CIO annual scores circulating in secondhand research are deliberately not used here."
 tags: ["labor", "teamsters", "endorsement", "faster-labor-contracts-act", "hr5408", "campaign-finance", "rhetoric-vs-record"]
 counties: ["district-wide"]
 ---
@@ -25,9 +25,11 @@ The vote behind that endorsement is real, and it deserves to be said plainly
 before anything else: he broke with his own conference to cast it. Only 20 of
 the 212 Republicans voting supported the bill. That is not a free vote.
 
-The context the post leaves out is that the Teamsters described the endorsement
-as resting on that single vote, in as many words, and that his other recorded
-labor votes went the other way.
+What the post leaves out is that he cast two votes on that bill the same day.
+Ninety-five minutes before voting for it, he voted against the rule that allowed
+it to be considered, which passed only because eleven other Republicans crossed
+over. The Teamsters also described the endorsement as resting on that single
+bill, in as many words, and his other recorded labor votes went the other way.
 
 ---
 
@@ -60,17 +62,71 @@ Labor Relations Act to require employers to begin bargaining shortly after a
 union wins recognition, with mediation and then binding arbitration if no first
 contract is reached. It is the Teamsters' marquee legislative priority.
 
-On **June 9, 2026** the House passed it **230 to 193** (Roll Call 216).
-**Langworthy voted Yea.**
+On **June 9, 2026** the House passed it **230 to 193** (Roll Call 216, taken at
+7:05 p.m.). **Langworthy voted Yea**, one of only 20 Republicans out of 212
+voting.
 
-| | Yea | Nay |
+| Roll Call 216, the bill | Yea | Nay |
 |---|---|---|
 | Republicans | **20** | 192 |
 | Democrats | 210 | 0 |
 
-He was one of twenty Republicans out of 212 voting. Whatever else is in this
-entry, that vote is the thing he was endorsed for, and he cast it against the
-overwhelming weight of his own conference.
+That vote is real, it is the thing he was endorsed for, and he cast it against
+the overwhelming weight of his own conference.
+
+**It was also the second of two votes he cast on this bill that day, and the
+first one went the other way.**
+
+---
+
+## The vote that decided whether the bill could pass
+
+H.R. 5408 sat in the Education and Workforce Committee from September 2025
+without action. To force it out, Rep. Norcross filed **discharge petition
+119-19** on April 20, 2026, aimed at **H. Res. 1140**, the special rule
+providing for the bill's consideration. That rule was itself sitting in the
+**Rules Committee, on which Langworthy serves**. The petition reached the
+required signatures and the resolution moved to the Discharge Calendar on
+May 20.
+
+On June 9 the House had to agree to that discharged rule before it could touch
+the bill. **Roll Call 215, taken at 5:30 p.m.: agreed to, 221 to 201.
+Langworthy voted Nay.**
+
+| Roll Call 215, the rule | Yea | Nay |
+|---|---|---|
+| Republicans | **11** | 200 |
+| Democrats | 210 | 0 |
+
+The rule passed only because **eleven Republicans** crossed over: Bacon,
+Bresnahan, Fitzpatrick, Joyce (OH), LaLota, Lawler, Miller (OH), Moore (WV),
+Smith (NJ), Van Drew and Van Orden. Langworthy was not among them.
+
+**In plain language:** the rule vote is the one that determined whether the
+Teamsters' bill could be considered at all. Had it failed, there would have been
+no bill to vote on. Langworthy voted against it at 5:30 p.m., then voted for the
+bill at 7:05 p.m., after other members had supplied the votes that made passage
+possible.
+
+**The fair reading, stated plainly.** Voting against a rule and then for the
+underlying bill is common, and there is a principled version of it: many members
+oppose discharge petitions on institutional grounds, because they bypass the
+committee process, whatever the bill says. Langworthy has not publicly explained
+this vote, so that reading remains available to him and this entry does not rule
+it out. He is also not alone among the endorsed group.
+
+**How the five endorsed Republicans voted on each:**
+
+| Member | Rule (RC 215) | Bill (RC 216) |
+|---|---|---|
+| Nick LaLota (NY-1) | Yea | Yea |
+| Mike Lawler (NY-17) | Yea | Yea |
+| Andrew Garbarino (NY-2) | Nay | Yea |
+| Nicole Malliotakis (NY-11) | Nay | Yea |
+| **Nick Langworthy (NY-23)** | **Nay** | **Yea** |
+
+Three of the five did what Langworthy did. Two, LaLota and Lawler, voted both to
+let the bill be considered and to pass it.
 
 **One correction to the record now circulating:** he is a cosponsor of H.R.
 5408, but he is **not** an original cosponsor. The govinfo BILLSTATUS record
@@ -123,11 +179,55 @@ House Clerk's roll call shows him as **Not Voting**. He did not vote on it. His
 Rules Committee action on that resolution is a separate matter and is not a
 floor vote; this entry does not characterize it as one.
 
-**A third.** That same research states the bill reached the floor only after a
-successful discharge petition. The official action list for H.R. 5408 shows it
-was "considered under the provisions of rule H. Res. 1140," the ordinary path,
-and contains no discharge petition entry. This entry does not repeat the
-discharge claim.
+**On the discharge petition, a note on our own checking.** The action list for
+H.R. 5408 records only that the bill was "considered under the provisions of
+rule H. Res. 1140," which reads like the ordinary path and shows no discharge
+entry. The discharge was filed against the rule, not the bill: petition 119-19
+appears on H. Res. 1140's own action list. Anyone checking only the bill's
+record will miss it, as we did on a first pass.
+
+---
+
+## What he has done for drivers
+
+The Teamsters are, among other things, a drivers' union. To test the
+"record of results" claim against legislation rather than a single vote, we
+pulled every measure Langworthy has sponsored or cosponsored in the 119th
+Congress from the govinfo BILLSTATUS bulk data, the authoritative record:
+**47 sponsored and 311 cosponsored, 358 in all.**
+
+**None of them is a trucking or commercial-driver bill.**
+
+Thirteen fall under the Transportation and Public Works policy area. Every one
+is aviation, maritime, transit or general infrastructure:
+
+| Measure | Role |
+|---|---|
+| Safer Skies Act (H.R. 2353) | Sponsor |
+| Infrastructure Expansion Act (H.R. 3548) | Sponsor |
+| Pay TSA Act (H.R. 7941) | Sponsor |
+| Bus Operator Safety and Security Act (H.R. 6635) | Cosponsor |
+| SHIPS for America Act (H.R. 2429) | Cosponsor |
+| American Shipyard Investment Act (H.R. 3151) | Cosponsor |
+| Aviation Funding Stability Act (H.R. 5455) | Cosponsor |
+| Red Light Act (H.R. 203), ROTOR Act, No Flight No Fight Act, Safe Flights for Passengers and Flight Crews Act, DEFENSE Act, and one commendation resolution | Cosponsor |
+
+A search of the subject terms attached to all 358 measures for *truck*,
+*motor carrier*, *commercial driver*, *hours of service*, *freight*, *drayage*
+and *highway safety* returns **zero** matches.
+
+**The closest thing to a driver bill in the list**, and it is worth crediting,
+is H.R. 6635, the Bus Operator Safety and Security Act, which he cosponsored.
+It sets requirements for operator workstations on fixed-route buses, a
+protection for transit drivers. Transit operators are represented by other
+unions; it is not freight.
+
+**In plain language:** on the specific policy areas that govern the working
+lives of the freight and package drivers the Teamsters represent, hours of
+service, driver licensing, truck parking, speed limiters, owner-operator
+classification, he has not sponsored or cosponsored anything in this Congress.
+He is not on Transportation and Infrastructure, the committee where most of
+that legislation moves, which is part of the explanation.
 
 ---
 
@@ -210,9 +310,15 @@ at 7:00 p.m. on October 6, 2026.
 2. He voted Nay on restoring collective bargaining for federal workers in
    December 2025 and Yea for private-sector first-contract arbitration six
    months later. What distinguishes the two for him?
-3. He sits on the Rules Committee, which handled the rule that brought H.R.
-   5408 to the floor. What was his position there?
-4. Thousands of Teamsters freight, package and pension constituents live in and
+3. He voted against H. Res. 1140, the rule that allowed H.R. 5408 to be
+   considered, and the rule his own Rules Committee had not reported. What was
+   his objection, and does he consider the bill's passage a result he helped
+   produce?
+4. Across 358 measures in this Congress he has sponsored or cosponsored no
+   trucking or commercial-driver legislation. Does he intend to, and does his
+   office have a position on hours of service, truck parking, or driver
+   classification?
+5. Thousands of Teamsters freight, package and pension constituents live in and
    near NY-23. Has his office taken any action on the 2023 Yellow Corporation
    closure or on the New York State Teamsters Conference Pension Fund?
 
@@ -230,12 +336,17 @@ at 7:00 p.m. on October 6, 2026.
 ## Sources
 
 **Roll calls (House Clerk XML)**
-- Roll Call 216, June 9, 2026, H.R. 5408 (Langworthy: Yea): https://clerk.house.gov/evs/2026/roll216.xml
+- Roll Call 215, June 9, 2026, H. Res. 1140, the discharged rule (Langworthy: Nay, agreed to 221-201): https://clerk.house.gov/evs/2026/roll215.xml
+- Roll Call 216, June 9, 2026, H.R. 5408 (Langworthy: Yea, passed 230-193): https://clerk.house.gov/evs/2026/roll216.xml
+- H. Res. 1140 BILLSTATUS, govinfo (discharge petition 119-19, Discharge Calendar): https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1140.xml
 - Roll Call 332, Dec 11, 2025, H.R. 2550 (Langworthy: Nay): https://clerk.house.gov/evs/2025/roll332.xml
 - Roll Call 010, Jan 12, 2024, H.J. Res. 98 (Langworthy: Not Voting): https://clerk.house.gov/evs/2024/roll010.xml
 
 **Bill record**
 - H.R. 5408 BILLSTATUS, govinfo (sponsorship date, cosponsor list, action list): https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr5408.xml
+
+**Legislative record**
+- govinfo BILLSTATUS bulk data, 119th Congress, all measure types (complete sponsorship and cosponsorship record, retrieved August 28, 2026): https://www.govinfo.gov/bulkdata/BILLSTATUS/119
 
 **Campaign finance (FEC bulk files, retrieved August 28, 2026)**
 - Committee-to-candidate contributions, itpas2, cycles 2022, 2024, 2026: https://www.fec.gov/data/browse-data/?tab=bulk-data
