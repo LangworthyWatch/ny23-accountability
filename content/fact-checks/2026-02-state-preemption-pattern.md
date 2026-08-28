@@ -1,6 +1,7 @@
 ---
 title: "Federal Preemption Pattern: Three Bills, One Playbook"
 date: 2026-02-25
+lastmod: 2026-08-28
 draft: false
 topic: "Transparency"
 claim_date: "February 2026"
@@ -63,6 +64,8 @@ The rhetorical framing across all three efforts is nearly identical:
 **Industry support:** Four major trade associations — the Natural Products Association, Council for Responsible Nutrition, American Herbal Products Association, and Consumer Healthcare Products Association — publicly endorsed H.R. 7366.
 
 **A relevant distinction:** The FDA does not pre-approve dietary supplements for safety or efficacy before they reach the market. States that enacted supplement regulations did so because federal oversight does not include pre-market review — the gap these state laws were designed to address.
+
+**The money, added August 28, 2026:** FEC bulk filings show the **Natural Products Association PAC gave Langworthy for Congress $5,000 on March 26, 2026** — seven weeks after he introduced the bill the association had endorsed on day one, and its only contribution to him in the 2022, 2024 or 2026 cycles. NPA is also the trade group that **sued New York in December 2023** to strike down the very law this bill would preempt; that suit was dismissed and the law took effect in April 2024. The Consumer Healthcare Products Association PAC, another endorser, gave $2,000 across the 2026 cycle and $2,500 in 2024. No agreement or exchange is alleged; the contributions are lawful and publicly disclosed. The sequence is recorded here for the same reason as the rest of this entry: the bill's press release quotes the trade associations as policy validators and does not note that they are also donors — and in NPA's case, a litigant that lost in court and gained a sponsor in Congress.
 
 **Sources:** [Congress.gov — H.R. 7366](https://www.congress.gov/bill/119th-congress/house-bill/7366/text), [NY Senate — S5823C](https://www.nysenate.gov/legislation/bills/2023/S5823/amendment/C), [CRN endorsement](https://www.crnusa.org/newsroom/crn-applauds-introduction-dietary-supplement-regulatory-uniformity-act), [Harvard T.H. Chan SPH](https://content.sph.harvard.edu/wwwhsph/sites/1267/2021/02/Restricting-Sale-of-Weight-Loss-and-Muscle-Building-Supplements.pdf)
 
