@@ -1,9 +1,9 @@
 {
-  "generated": "2026-08-26",
-  "total": 151,
+  "generated": "2026-08-28",
+  "total": 152,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 46,
+    "MISSING CONTEXT": 47,
     "MISLEADING": 34,
     "DOCUMENTED PATTERN": 28,
     "CONTRADICTION": 13,
@@ -20,28 +20,28 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 48,
-      "pct": 31.8
+      "count": 49,
+      "pct": 32.2
     },
     {
       "label": "MISLEADING",
       "count": 34,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 28,
-      "pct": 18.5
+      "pct": 18.4
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "label": "FALSE",
       "count": 9,
-      "pct": 6.0
+      "pct": 5.9
     },
     {
       "label": "MOSTLY TRUE",
@@ -86,6 +86,7 @@
     "Environment": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
+    "Labor": 2,
     "Accountability & Governance": 2,
     "Housing": 2,
     "Consumer Protection": 2,
@@ -107,8 +108,7 @@
     "Federal Programs": 1,
     "Civil Liberties": 1,
     "Food Security": 1,
-    "Campaign": 1,
-    "Labor": 1
+    "Campaign": 1
   },
   "by_month": {
     "2025-12": 20,
@@ -119,9 +119,16 @@
     "2026-05": 15,
     "2026-06": 25,
     "2026-07": 24,
-    "2026-08": 6
+    "2026-08": 7
   },
   "entries": [
+    {
+      "title": "He Voted Against Letting the Teamsters Bill Reach the Floor. Ninety Minutes Later, He Voted For It.",
+      "date": "2026-08-28",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Labor",
+      "url": "/fact-checks/2026-08-28-teamsters-endorsement-labor-record/"
+    },
     {
       "title": "The Only Outside Money in This Race Is $95,900 from the Chemical Industry. His Bill Contains Their Top Regulatory Ask.",
       "date": "2026-08-26",

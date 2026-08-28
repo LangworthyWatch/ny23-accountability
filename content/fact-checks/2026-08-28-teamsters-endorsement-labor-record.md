@@ -1,7 +1,7 @@
 ---
 title: "He Voted Against Letting the Teamsters Bill Reach the Floor. Ninety Minutes Later, He Voted For It."
 date: 2026-08-28
-draft: true
+draft: false
 topic: "Labor / Campaign Finance"
 claim_date: "August 27, 2026"
 source: "Facebook Post (campaign page)"
@@ -9,7 +9,7 @@ source_url: "https://www.facebook.com/ChairmanNickLangworthy"
 archived_url: ""
 archive_note: "The August 27, 2026 post is recorded from a screenshot on file, captured from the campaign page 'Nick Langworthy' (the personal/campaign page, not the RepLangworthy congressional page); the permalink was not captured and Facebook posts do not archive via Save Page Now. Every other fact in this entry rests on a primary federal record retrieved August 28, 2026: House Clerk roll-call XML for Roll Calls 216 (2026), 332 (2025) and 010 (2024); the govinfo BILLSTATUS record for H.R. 5408; and FEC bulk files itpas2 and cm for the 2022, 2024 and 2026 cycles."
 verdict: "MISSING CONTEXT"
-hold_reason: "Two open items. (1) Capture the post permalink and screenshot both the campaign-page post and the linked WETM story. (2) The signature list for discharge petition 119-19 was not retrievable from clerk.house.gov (the page returned HTTP 400), so this entry makes no claim about whether Langworthy signed it; pull it before adding one. Separately, the AFL-CIO annual scores circulating in secondhand research are deliberately not used here."
+publication_note: "Published August 28, 2026. Three disclosures. (1) The August 27 campaign-page post is preserved as a screenshot; the permalink was not captured and Facebook posts do not archive via Save Page Now. (2) The signature list for discharge petition 119-19 was not retrievable from clerk.house.gov, which returned HTTP 400, so this entry makes no claim about whether Langworthy signed it. (3) No request for comment was sent to the Congressman's office before publication; the questions at the bottom stand open and any response will be published here in full. Correction of record: an earlier draft of this entry stated that H.R. 5408 reached the floor without a discharge petition. That was wrong. The petition was filed against the rule, H. Res. 1140, not the bill, and appears on the resolution's action list rather than the bill's. The entry was corrected before publication and the correction is described in the body."
 tags: ["labor", "teamsters", "endorsement", "faster-labor-contracts-act", "hr5408", "campaign-finance", "rhetoric-vs-record"]
 counties: ["district-wide"]
 ---
