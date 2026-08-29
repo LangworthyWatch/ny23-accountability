@@ -9,7 +9,7 @@ source_url: "https://www.facebook.com/ChairmanNickLangworthy"
 archived_url: ""
 archive_note: "The August 27, 2026 post is recorded from a screenshot on file, captured from the campaign page 'Nick Langworthy' (the personal/campaign page, not the RepLangworthy congressional page); the permalink was not captured and Facebook posts do not archive via Save Page Now. Every other fact in this entry rests on a primary federal record retrieved August 28, 2026: House Clerk roll-call XML for Roll Calls 216 (2026), 332 (2025) and 010 (2024); the govinfo BILLSTATUS record for H.R. 5408; and FEC bulk files itpas2 and cm for the 2022, 2024 and 2026 cycles."
 verdict: "MISSING CONTEXT"
-publication_note: "Published August 28, 2026. Three disclosures. (1) The August 27 campaign-page post is preserved as a screenshot; the permalink was not captured and Facebook posts do not archive via Save Page Now. (2) The signature list for discharge petition 119-19 was not retrievable from clerk.house.gov, which returned HTTP 400, so this entry makes no claim about whether Langworthy signed it. (3) No request for comment was sent to the Congressman's office before publication; the questions at the bottom stand open and any response will be published here in full. Correction of record: an earlier draft of this entry stated that H.R. 5408 reached the floor without a discharge petition. That was wrong. The petition was filed against the rule, H. Res. 1140, not the bill, and appears on the resolution's action list rather than the bill's. The entry was corrected before publication and the correction is described in the body."
+publication_note: "Published August 28, 2026; updated the same day. Two disclosures. (1) The August 27 campaign-page post is preserved as a screenshot; the permalink was not captured and Facebook posts do not archive via Save Page Now. (2) No request for comment was sent to the Congressman's office before publication; the questions at the bottom stand open and any response will be published here in full. Update, August 28: the signature list for discharge petition 119-19, initially unretrievable (a malformed URL on our end), was obtained from clerk.house.gov (DischargePetition/2026042019) and the entry now states that Langworthy did not sign; 218 signatures, 211 Democratic and 7 Republican. Correction of record retained from before publication: an earlier draft stated the bill reached the floor without a discharge petition, which was wrong; the petition targeted the rule, H. Res. 1140, not the bill."
 tags: ["labor", "teamsters", "endorsement", "faster-labor-contracts-act", "hr5408", "campaign-finance", "rhetoric-vs-record"]
 counties: ["district-wide"]
 ---
@@ -85,9 +85,16 @@ H.R. 5408 sat in the Education and Workforce Committee from September 2025
 without action. To force it out, Rep. Norcross filed **discharge petition
 119-19** on April 20, 2026, aimed at **H. Res. 1140**, the special rule
 providing for the bill's consideration. That rule was itself sitting in the
-**Rules Committee, on which Langworthy serves**. The petition reached the
-required signatures and the resolution moved to the Discharge Calendar on
-May 20.
+**Rules Committee, on which Langworthy serves**.
+
+The petition was open for signatures for a month. It reached the required 218
+on **May 20**, when Rep. LaLota provided the final signature, and under the
+House's discharge rules the motion then ripened on the Discharge Calendar
+until it could be called up on June 9. The Clerk's signature list shows **211
+Democrats and 7 Republicans**: Lawler, Max Miller, Bresnahan, Fitzpatrick,
+Bacon, Riley Moore, and LaLota. **Langworthy did not sign**, a fact verified
+against the Clerk's published list, on which his endorsed New York colleagues
+Lawler and LaLota both appear.
 
 On June 9 the House had to agree to that discharged rule before it could touch
 the bill. **Roll Call 215, taken at 5:30 p.m.: agreed to, 221 to 201.
@@ -126,7 +133,8 @@ it out. He is also not alone among the endorsed group.
 | **Nick Langworthy (NY-23)** | **Nay** | **Yea** |
 
 Three of the five did what Langworthy did. Two, LaLota and Lawler, voted both to
-let the bill be considered and to pass it.
+let the bill be considered and to pass it, and both also signed the discharge
+petition that forced the question.
 
 **One correction to the record now circulating:** he is a cosponsor of H.R.
 5408, but he is **not** an original cosponsor. The govinfo BILLSTATUS record
@@ -339,6 +347,7 @@ at 7:00 p.m. on October 6, 2026.
 - Roll Call 215, June 9, 2026, H. Res. 1140, the discharged rule (Langworthy: Nay, agreed to 221-201): https://clerk.house.gov/evs/2026/roll215.xml
 - Roll Call 216, June 9, 2026, H.R. 5408 (Langworthy: Yea, passed 230-193): https://clerk.house.gov/evs/2026/roll216.xml
 - H. Res. 1140 BILLSTATUS, govinfo (discharge petition 119-19, Discharge Calendar): https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hres/BILLSTATUS-119hres1140.xml
+- House Clerk, Discharge Petition 119-19 signature list (218 signatures; Langworthy absent): https://clerk.house.gov/DischargePetition/2026042019
 - Roll Call 332, Dec 11, 2025, H.R. 2550 (Langworthy: Nay): https://clerk.house.gov/evs/2025/roll332.xml
 - Roll Call 010, Jan 12, 2024, H.J. Res. 98 (Langworthy: Not Voting): https://clerk.house.gov/evs/2024/roll010.xml
 
