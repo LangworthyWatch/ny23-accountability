@@ -19,9 +19,7 @@ Medicaid, SNAP and the ACA credits are the same three subjects from the first ti
 
 He then sponsored the rule, managed the hour of debate, and moved the previous question, the motion that ends debate and forecloses the alternative. Both floor votes went party line: 214 to 211, then 213 to 211.
 
-Fair context, and it is in the entry too: closed rules are routine, majority members are expected to back leadership's rules, and managing one on the floor is a rotating duty. These are procedural votes about what the House may consider, not up or down votes on the fixes themselves.
-
-That is the point. The seat is marketed as the district's leverage. On five unrelated fights now, the record of how it gets used runs one direction.
+The seat is marketed as the district's leverage. On five unrelated fights now, the record of how it gets used runs one direction.
 
 Don't take our word for it. Check his own votes and words:
 https://langworthywatch.org/fact-checks/2026-07-16-rules-committee-gatekeeper-pattern/
