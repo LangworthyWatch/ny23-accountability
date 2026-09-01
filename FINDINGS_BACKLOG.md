@@ -847,3 +847,104 @@ cosponsorship, and an absence on the one on-point vote. That is defensible. What
 - Related IP reporting worth pulling: ["Program pays local police to help Border Patrol arrest
   immigrants"](https://investigativepost.org/2026/08/25/program-pays-cops-to-help-border-patrol-arrest-immigrants/)
   (Aug 25) and ["Buffalo businesses admit to using facial recognition"](https://investigativepost.org/2026/08/27/companies-acknowledge-using-face-scans-on-customers/) (Aug 27).
+
+### 2026-09-01 addendum — two more IP pieces, and a NEW verified preemption hook
+
+Two further Investigative Post stories (PDFs supplied by ZB, read in full). Both sharpen the lead
+above; the second produces a finding that is stronger than the Flock material itself.
+
+#### A. Operation Stonegarden — the federal money that buys the plate readers
+
+["Program pays local cops to arrest immigrants"](https://investigativepost.org/2026/08/25/program-pays-cops-to-help-border-patrol-arrest-immigrants/)
+(Aug 25, 2026, Isabelle Taft / **New York Focus**, republished by IP).
+
+**This closes the federal-jurisdiction gap in the Flock lead.** Operation Stonegarden is a **federal
+DHS program that pays local law enforcement to work with US Border Patrol**, run through NY's
+Division of Homeland Security and Emergency Services. Since 2009 it has sent about **$30 million to
+New York's border counties**. Critically:
+
+> "The counties also use Stonegarden funds to buy equipment, particularly surveillance technology
+> like automatic license plate readers."
+
+So the ALPR buildout documented in the July series is **partly federally funded through a DHS grant
+program** — the same category of federal spending H.R. 9800 would bar, and squarely inside the
+jurisdiction of a member who sits on Rules and votes DHS approps.
+
+**NY-23 specifics:**
+- **Chautauqua County deputies turned over at least one person to Border Patrol in 2023.**
+- **Sheriff James Quattrone** (written responses to NY Focus): Border Patrol has *not* directed
+  Stonegarden departments to enforce immigration law; but department policy *does* call for
+  contacting Border Patrol when officers encounter undocumented immigrants during criminal
+  investigations or arrests. He says the funding is mainly useful for Lake Erie patrols, marine
+  emergencies and search-and-rescue, plus federal partners "when activity on the lake raises
+  legitimate border-security concerns." **Carry his explanation if the county is named.**
+- Statewide: NY deputies on Stonegarden detail reported turning over **at least 24 immigrants** to
+  Border Patrol since 2023 — an acknowledged undercount (records from 5 of 13 participating
+  counties; excludes 21 more turned over for unexplained reasons). Most were after traffic stops.
+- Every NY border county gets **$100,000–$325,000** this year; $90,000 for the St. Regis Mohawk
+  Tribe. Hochul touted a $2.7M award as "counterterrorism and emergency preparedness."
+- **Oversight hook:** a **2017 DHS Office of Inspector General report** found weak oversight of
+  Stonegarden spending and little effort to measure results — *"Border Patrol is unable to
+  accurately depict how border security has been enhanced by program funds."* This pairs directly
+  with `2026-07-06-northern-border-security-review-act.md` (MISSING CONTEXT, counties chautauqua +
+  erie), which is already built around what the watchdog actually found on northern-border spending.
+  **Stonegarden is the natural second instance for that entry.**
+- Context that must travel with it: NY banned 287(g) agreements ("local cops, local crimes"), but
+  the law left local police free to work with immigration agents through programs like Stonegarden.
+  Sheriffs in five counties, including Erie, told NY Focus their Stonegarden work does not involve
+  immigration enforcement.
+
+#### B. Erie County biometric law vs. H.R. 8413 — NEW, and the strongest thread here
+
+["Companies acknowledge using face scans on customers"](https://investigativepost.org/2026/08/27/companies-acknowledge-using-face-scans-on-customers/)
+(Aug 27, 2026, J. Dale Shoemaker).
+
+**Erie County has banned facial recognition and requires companies that used it to disclose and
+destroy the data.** Passed 7-3 in April, in effect **June 5, 2026**; up to $6,000/day in fines.
+Disclosures so far: Wegmans (Amherst Street, Buffalo — disabled, data destroyed), Rich Products
+(destroyed), Delaware North / Hamburg Gaming (**continuing**, plans to seek the Gaming Commission
+exemption). Only 7 businesses have disclosed holding biometric data; only 30 have filed at all.
+Walmart, Target and Macy's disclose biometric collection elsewhere and operate in Erie County but
+have filed nothing. Macy's website: *"We may sell your biometric personal information."*
+
+**The finding:** Langworthy is an **original cosponsor of H.R. 8413 (SECURE Data Act)** — see
+`2026-06-06-langworthy-secure-data-act-hr8413.md`, which documents its preemption of **New York
+State** privacy law. Verified today against the introduced bill text
+(`BILLS-119hr8413ih`), **Section 15 reaches counties, not just states**, verbatim and complete:
+
+> "SEC. 15. RELATIONSHIP TO STATE LAWS. No State **or political subdivision of a State** may
+> prescribe, maintain, or enforce any law, rule, regulation, requirement, standard, or other
+> provision having the force and effect of law, if such law, rule, regulation, requirement,
+> standard, or other provision relates to the provisions of this Act."
+
+And the Act **does** cover biometrics: § 16(4) defines "biometric data" as "data generated by
+automatic measurements of the biological characteristics of an individual," and treats genetic or
+biometric data "processed for the purpose of uniquely identifying a specific individual" as
+sensitive data.
+
+So a federal bill he co-sponsored would, on its face, reach a biometric ordinance his own region
+enacted three months ago. **This is a fifth preemption instance and the first at the county level.**
+
+**Hedges that are mandatory:**
+1. **The bill has not passed.** This is preemption on the face of the text, not in force.
+2. **Whether Erie County's ordinance "relates to the provisions of this Act" is a legal judgment**,
+   not a certainty. State the plain text; do not assert the outcome. Note that § 15's operative
+   phrase is "relates to the provisions of this Act" — broader and vaguer than a personal-data
+   scope clause, which cuts both ways.
+3. **Erie County is a partial-overlap county for NY-23.** The ordinance is county-wide.
+4. There is no evidence Langworthy was aware of the Erie County law when he cosponsored (the bill
+   was introduced 2026-04-21; the ordinance passed in April and took effect June 5). **Do not imply
+   he targeted it.** The point is effect, not intent.
+
+**Also federal, also his region:** the piece notes "the U.S. government scans your face whenever you
+cross the **Peace Bridge** from Canada" (CBP biometric entry-exit, Buffalo). The FISA entry already
+documents that he voted for OBBBA's **$673 million for biometric entry-exit systems**. UB law
+professor Mark Bartholomew's third concern is that biometric data "winds up in the hands of law
+enforcement," letting police "track a person's movements even more precisely than they can with
+license plate readers" — which ties the two IP threads together.
+
+**Revised promote path (supersedes the ordering above):** the Erie County / H.R. 8413 preemption
+item is the most publishable of everything in this lead, because it needs no new reporting and no
+comment from his office — it is bill text against a local ordinance, both primary. It belongs as a
+**dated update to the SECURE Data Act entry**, not a new entry. Stonegarden is second, as an update
+to the Northern Border entry. The Flock silence item stays last and still needs his office asked.
