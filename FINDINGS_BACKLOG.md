@@ -628,3 +628,13 @@ DOCUMENTED PATTERN entry (cheapest, they are the same two programs it already do
 - **Sources:** WKBW, Buffalo News, WIVB, BTPM (Aug 28), Fox News; Kaler + Poloncarz quotes in WKBW/Buffalo News.
 - **Action:** HOLD for a second post on the same event (pattern instance) or the expo actually occurring Sept 1-2; then MISSING CONTEXT mini-entry. Also log as an official-page partisan-content instance ("the left hates...") for the official-vs-campaign pattern. Erie-machine COI note: Poloncarz angle stays out; this is Langworthy's own statement, cleanly LW-side.
 - **Action date:** 2026-09-02 (after the relocated expo runs).
+
+## 2026-08-31 — September House-watch digest (manual first run of september-house-watch)
+- **House is back:** first post-recess votes tonight, Aug 31 (Rolls 284 S.307 Prison Staff Safety, 285 S.32 Local Access to Courts; Langworthy Yea on both, routine suspensions). **No CR vote yet** — watch for the suspension CR (through Dec 11) this week.
+- **CHANGE — H.Con.Res. 89 (Iran War Powers, sec. 5(c) removal): PASSED the House July 23** (Langworthy **Nay**; Republicans 4 Yea / 207 Nay; clerk roll 282). This is his **eighth** vote against ending unauthorized hostilities; the published veterans entry (veterans-record) counts seven (five Iran, two Lebanon) → now six Iran, eight total, and the resolution PASSING is new context. ACTION: update the veterans entry count + add roll 282.
+- **NO CHANGE (verified, relatedBills stripped from BILLSTATUS parses):**
+  - H.R. 1834: still Senate Calendar 319 (since Feb 10). H.R. 9393: still only ordered reported Jul 21, no reported text on govinfo yet (so the CHECK-Act-folded-in question stays open). H.R. 5408: received in Senate Jun 10, nothing since. S. 1414: Senate Calendar 520. H.R. 9661: BILLSTATUS still shows only intro/referral (the claimed Jul 20 markup still unconfirmed in the record; NYCBS entry note stands).
+  - H.R. 7008 final passage (Roll 280, Jul 22, Langworthy Yea) — already covered by the Aug 4 addendum on the stock-trading entry.
+  - DHS expo: runs Sept 1-2 at USCG Sector Buffalo; check after (existing action date 2026-09-02).
+  - IIJA/Scaffold rider + FY27 approps: no floor action found in the roll-call sweep through 285.
+- Roll 283 (H.R. 8884, Removing Barriers to Work for Disabled Americans, Jul 23, Langworthy Yea, passed) — possible positive-record note for disability/work topics; low priority.
