@@ -2,31 +2,96 @@
 # Archive Sources Script for LangworthyWatch
 # Submits URLs from fact-check sources to Archive.org Wayback Machine
 #
-# Usage: ./scripts/archive_sources.sh [--dry-run]
+# Usage:
+#   ./scripts/archive_sources.sh [--dry-run] [PATH ...]
 #
-# This script extracts URLs from fact-check markdown files and submits them
-# to the Wayback Machine for archival. Run with --dry-run first to see URLs.
+#   PATH  One or more markdown files, or directories to scan for *.md.
+#         Omit to scan every entry in content/fact-checks (the old behavior).
+#
+# Examples:
+#   ./scripts/archive_sources.sh --dry-run
+#       Preview every URL across all fact-checks.
+#
+#   ./scripts/archive_sources.sh content/fact-checks/2026-07-16-rules-committee-gatekeeper-pattern.md
+#       Archive only the URLs cited by that one entry. Use this after editing a
+#       single entry — archiving the whole corpus every time exhausts the
+#       Wayback rate limit and gets the run 429'd partway through.
+#
+#   ./scripts/archive_sources.sh --dry-run content/correspondence/letters
+#       Preview URLs under a directory.
 
 set -e
 
-CONTENT_DIR="content/fact-checks"
+DEFAULT_DIR="content/fact-checks"
 LOG_FILE="archive_log_$(date +%Y%m%d_%H%M%S).txt"
 DRY_RUN=false
+TARGETS=()
 
-if [[ "$1" == "--dry-run" ]]; then
-    DRY_RUN=true
-    echo "=== DRY RUN MODE - No URLs will be submitted ==="
+usage() { sed -n '2,22p' "$0" | sed 's/^# \{0,1\}//'; }
+
+# ---- argument parsing ----------------------------------------------------
+# --dry-run may appear anywhere; everything else is treated as a path.
+for arg in "$@"; do
+    case "$arg" in
+        --dry-run) DRY_RUN=true ;;
+        -h|--help) usage; exit 0 ;;
+        -*)        echo "ERROR: unknown option: $arg" >&2
+                   echo "Run with --help for usage." >&2
+                   exit 2 ;;
+        *)         TARGETS[${#TARGETS[@]}]="$arg" ;;
+    esac
+done
+
+# ---- resolve targets to a concrete file list -----------------------------
+FILES=()
+add_md_under() {   # $1 = directory
+    local f
+    while IFS= read -r f; do
+        [[ -n "$f" ]] && FILES[${#FILES[@]}]="$f"
+    done < <(find "$1" -type f -name '*.md' | sort)
+}
+
+if [[ ${#TARGETS[@]} -eq 0 ]]; then
+    if [[ ! -d "$DEFAULT_DIR" ]]; then
+        echo "ERROR: default directory '$DEFAULT_DIR' not found." >&2
+        echo "Run this from the repo root, or pass explicit paths." >&2
+        exit 2
+    fi
+    add_md_under "$DEFAULT_DIR"
+    SCOPE="all entries in $DEFAULT_DIR"
+else
+    for t in "${TARGETS[@]}"; do
+        if [[ -d "$t" ]]; then
+            add_md_under "$t"
+        elif [[ -f "$t" ]]; then
+            FILES[${#FILES[@]}]="$t"
+        else
+            echo "ERROR: no such file or directory: $t" >&2
+            exit 2
+        fi
+    done
+    SCOPE="${#FILES[@]} file(s) you named"
+fi
+
+if [[ ${#FILES[@]} -eq 0 ]]; then
+    echo "ERROR: no markdown files matched." >&2
+    exit 2
 fi
 
 echo "LangworthyWatch Source Archival Script"
 echo "========================================"
+echo "Scope:    $SCOPE"
 echo "Log file: $LOG_FILE"
 echo ""
+if [[ ${#FILES[@]} -le 10 ]]; then
+    echo "Scanning:"
+    for f in "${FILES[@]}"; do echo "  - $f"; done
+    echo ""
+fi
 
-# Extract URLs from markdown files
+# Extract URLs from the resolved file list
 extract_urls() {
-    # Find URLs in Sources sections and throughout files
-    grep -oh 'https://[^)"<>[:space:]]*' "$CONTENT_DIR"/*.md 2>/dev/null | \
+    grep -oh 'https://[^)"<>[:space:]]*' "${FILES[@]}" 2>/dev/null | \
     grep -v 'archive.org' | \
     grep -v 'localhost' | \
     grep -v 'example.com' | \
@@ -74,12 +139,22 @@ archive_url() {
 }
 
 # Main execution
-echo "Extracting URLs from $CONTENT_DIR..."
+echo "Extracting URLs..."
 urls=$(extract_urls)
-url_count=$(echo "$urls" | wc -l | tr -d ' ')
+
+if [[ -z "$urls" ]]; then
+    url_count=0
+else
+    url_count=$(printf '%s\n' "$urls" | wc -l | tr -d ' ')
+fi
 
 echo "Found $url_count unique URLs to archive"
 echo ""
+
+if [[ "$url_count" -eq 0 ]]; then
+    echo "Nothing to do."
+    exit 0
+fi
 
 if [[ "$DRY_RUN" == "true" ]]; then
     echo "URLs that would be archived:"
@@ -106,8 +181,10 @@ echo ""
 echo "=== Summary ==="
 echo "Total URLs processed: $url_count"
 if [[ -f "$LOG_FILE" ]]; then
-    ok_count=$(grep -c "^.*: OK" "$LOG_FILE" 2>/dev/null || echo "0")
-    warn_count=$(grep -c "^.*: WARN" "$LOG_FILE" 2>/dev/null || echo "0")
+    ok_count=$(grep -c ": OK" "$LOG_FILE" 2>/dev/null || echo "0")
+    warn_count=$(grep -c ": WARN" "$LOG_FILE" 2>/dev/null || echo "0")
+    manual_count=$(grep -c ": MANUAL" "$LOG_FILE" 2>/dev/null || echo "0")
     echo "Successful: $ok_count"
     echo "Warnings: $warn_count"
+    echo "Manual (gov, browser capture needed): $manual_count"
 fi
