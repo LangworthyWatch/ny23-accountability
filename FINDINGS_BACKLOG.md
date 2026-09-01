@@ -756,7 +756,16 @@ enabled; the CR vote is the single most valuable thing it is positioned to catch
 
 ---
 
-## 2026-09-01 — LEAD: Flock / license plate readers saturate NY-23, and he has no position
+## 2026-09-01 — LEAD: Flock / license plate readers in WNY, and he has no position
+
+> **CORRECTED 2026-09-01 (same day, during wrap).** This lead was first written claiming the ALPR
+> network saturates NY-23. **That was wrong** and is fixed below. I wrote it without checking
+> `.claude/references/ny23-landmines.md` §7, which states plainly that NY-23's Erie share is the
+> **Southtowns only** (Eden, Boston, Collins, Orchard Park, Gowanda) and that **Buffalo,
+> Cheektowaga, West Seneca and Lackawanna are NY-26.** Nearly every ALPR jurisdiction the
+> Investigative Post series names is therefore **outside NY-23**. The verified NY-23 ALPR numbers
+> are small (Cattaraugus 16, Chautauqua 12), and the strong NY-23 hook is Stonegarden, not Flock.
+> Read the corrected framing in "Why this is a lead" below before building anything on this.
 
 **Origin.** Asked directly whether Langworthy has a stance on Flock Safety or has voted on ALPR
 issues. Answer, after a primary-source sweep: **no stance found, and almost nothing to have voted
@@ -799,7 +808,13 @@ Part 2: ["License plate readers are everywhere in WNY"](https://investigativepos
   Nassau 331, Queens 307, New York 299 exceed it), Niagara 49, **Cattaraugus 16**, Genesee 13,
   **Chautauqua 12**, Orleans 10, Wyoming 4, **Allegany no data**. Chemung/Schuyler/Steuben/Tioga
   are outside the series' WNY scope.
-  **Erie is only a partial-overlap county for NY-23 — do not repeat 291 as "in his district."**
+  **CRITICAL GEOGRAPHY (landmines §7):** NY-23's Erie share is the **Southtowns only** — Eden,
+  Boston, Collins, Orchard Park, Gowanda. **Buffalo, Cheektowaga, West Seneca and Lackawanna are
+  NY-26.** So the 291 is overwhelmingly *not* NY-23, and neither are most of the named agencies
+  (Buffalo, Cheektowaga, Amherst, Town of Tonawanda, Kenmore, Buffalo State, NFTA, and almost
+  certainly Lancaster). **The only solidly-NY-23 ALPR figures in the series are Cattaraugus 16 and
+  Chautauqua 12.** Verify any Erie-County agency against the district line before naming it:
+  `python .claude/scripts/verify_fact.py county <name>`.
 - **218,000+ Flock searches** by 20 Erie/Niagara agencies, Jan 2025 - Jun 2026 (~423/day, one every
   three minutes). Cheektowaga alone ~48,000.
 - **THE FEDERAL HOOK: 107 searches of local Flock networks to assist ICE, Border Patrol or DHS** —
@@ -808,18 +823,29 @@ Part 2: ["License plate readers are everywhere in WNY"](https://investigativepos
   searches for migrants that hit Cheektowaga cameras.** NFTA also logged 1,700 FBI-related searches.
 - Funding mix includes **federal pandemic aid** (Buffalo bought a $366,000 Genetec batch that way)
   and state GIVE grants — i.e. the federal dollars H.R. 9800 would bar.
-- **Town of Hamburg: 4 Flock cameras, $12,000/yr**, and a heavy search user. Hamburg is *probably*
-  NY-23 (he filed a Jun 10 Extension honoring the Hamburg Volunteer Fire Dept) — **district line
-  NOT confirmed; verify before use.**
+- **Town of Hamburg: 4 Flock cameras, $12,000/yr**, and a heavy search user. Hamburg is a Southtown
+  but is **not** on the landmines' named NY-23 list, so it is genuinely unresolved. Note the
+  earmark lead earlier in this file carries the *same* open question ("Verify before publish:
+  Newstead/Hamburg NY-23-vs-NY-26 district lines") — **resolve it once and record it in
+  `ny23-landmines.md` §7 so it stops recurring.** The Erie County Sheriff's Office is county-wide
+  and does cover the NY-23 Southtowns.
 - Oversight is thin by the outlet's own reporting: only 3 of 20 departments granted interviews;
   Lancaster is deploying Flock **drones** with a village trustee saying his oversight was "minimal."
 
 ### Why this is a lead and not yet an entry
 
-The strongest available frame is **jurisdictional silence**: his district is among the most
-ALPR-saturated in the state, local networks are being queried on behalf of ICE and Border Patrol,
-the funding runs partly through federal grants, and the sitting member has no position, no
-cosponsorship, and an absence on the one on-point vote. That is defensible. What is NOT established:
+**The ALPR-saturation frame does not survive the district line.** The dense Flock deployment, the
+218,000 searches and the 107 ICE-assist searches are almost entirely NY-26 — Rep. Tim Kennedy's
+district, not Langworthy's. An entry claiming NY-23 is blanketed in plate readers would be false on
+the geography and is exactly the "correct fact, wrong neighbor" failure mode (#5).
+
+**What does survive**, and is the real lead: (a) NY-23's own counties do have readers
+(Cattaraugus 16, Chautauqua 12, Allegany unknown) with no federal position from their
+representative; (b) **Operation Stonegarden is the stronger NY-23 hook by far** — it is a *federal*
+grant program, Chautauqua is a **whole** NY-23 county, and Chautauqua deputies turned at least one
+person over to Border Patrol in 2023 under it; and (c) the federal-money angle is real either way,
+since Stonegarden funds are used to buy ALPRs and H.R. 9800 would bar federal ALPR funding.
+Build on (b), not on the WNY saturation numbers. What is NOT established:
 
 1. **No evidence he knows or has been asked about Flock.** No reporter appears to have put the
    question to him. An entry premised on silence is much stronger if his office declined to comment.
@@ -838,7 +864,9 @@ cosponsorship, and an absence on the one on-point vote. That is defensible. What
   piece. A non-response is itself the finding, and the correspondence section is built for it.
 - **Check RepLangworthy on Facebook** for any surveillance/Flock post (same browser-only blocker as
   the DHS expo item).
-- **Confirm whether Hamburg, Cheektowaga and Lancaster are in NY-23** before naming them.
+- **Hamburg / Lancaster district lines still open.** Cheektowaga is **resolved: NY-26** (landmines
+  §7), so drop it from any NY-23 framing. Hamburg and Lancaster remain unverified — settle Hamburg
+  once and add the answer to `ny23-landmines.md` §7, since two separate leads now depend on it.
 - **Re-pull county counts closer to publication** — Amherst is leaving Flock for Axon and Tonawanda
   is ending its contract, so the vendor mix is moving.
 - **Watch H.R. 9800.** It sits in Oversight. If it is ever reported, it goes to **Rules**, where he
