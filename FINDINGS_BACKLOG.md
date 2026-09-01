@@ -4,7 +4,7 @@
 > sessions. Items here are unprocessed — once acted on, move to a fact-check
 > entry under content/fact-checks/ or close with a disposition note.
 
-**Last updated:** 2026-07-28
+**Last updated:** 2026-09-01
 
 ---
 
@@ -638,3 +638,212 @@ DOCUMENTED PATTERN entry (cheapest, they are the same two programs it already do
   - DHS expo: runs Sept 1-2 at USCG Sector Buffalo; check after (existing action date 2026-09-02).
   - IIJA/Scaffold rider + FY27 approps: no floor action found in the roll-call sweep through 285.
 - Roll 283 (H.R. 8884, Removing Barriers to Work for Disabled Americans, Jul 23, Langworthy Yea, passed) — possible positive-record note for disability/work topics; low priority.
+
+## 2026-09-01 — September House-watch digest (run 2; baseline = Aug 31 run, roll 285)
+
+**Roll-call state: no new votes.** Latest 2026 roll is still **285** (Aug 31). Roll 286 returns a
+clean 404 across five trials with roll 285 returning 200 as control (an intermittent `000` on the
+first probe was network flake, not signal — re-verified). Next run resumes from **roll 285**.
+
+### CHANGE 1 — The CR is text-public and on the floor calendar, and it carries the IIJA extension
+
+**H.R. 6500, Continuing Appropriations and Extensions Act, 2027** is posted on docs.house.gov for the
+week of Aug. 31 (added 08/26/2026, schedule last updated 09/01/2026 11:07 AM). **No House vote yet.**
+Procedurally this is *not* a fresh House bill: the Senate **passed H.R. 6500 with an amendment on
+Aug. 8, 2026, 90-6 (Senate Record Vote 228)**, and the message reached the House Aug. 10. The
+scheduled text is therefore the **Senate-engrossed-amendment version (`eas`)** — the same file
+docs.house.gov links.
+
+Structure (parsed from BILLS-119hr6500eas):
+- **Division A — Continuing Appropriations Act, 2027:** FY26 rate for operations, **through December 11, 2026** (the date appears 43 times).
+- **Division B — Authorizing Extensions**
+- **Division C — Surface Transportation Extension Act of 2026**
+- **Division D — Department of Veterans Affairs Extenders**
+
+**This resolves item 6 (IIJA expiry) — and it resolves it as a short-term patch, not a
+reauthorization.** Division C §3101 extends the requirements, authorities, conditions, eligibilities
+and limitations of the "covered laws" — IIJA divisions A/B/C, FAST Act, MAP-21, SAFETEA-LU, ISTEA,
+title 23 — that "would otherwise expire on or cease to apply after September 30, 2026," through an
+extension period of **Oct. 1, 2026 – Dec. 11, 2026**, funded at a pro-rated "extension fraction" of
+FY26 authorized levels. §3201 pushes Highway Trust Fund / Sport Fish / LUST expenditure authority
+from Oct. 1, 2026 to **Dec. 12, 2026**. So: **no surface-transportation reauthorization is moving —
+the IIJA is being carried on the CR to the same December cliff as appropriations.**
+
+**Scaffold Law: verified negative.** The CR text contains **zero** instances of "scaffold" and zero
+of "Labor Law" — H.R. 3548's NY Labor Law 240 preemption is **not** riding on this CR. (H.R. 3548
+itself is unchanged: referred to House Judiciary 2025-05-21, three actions total, nothing since.)
+Scaffold Law thread stays open but this was the most likely vehicle and it is clean.
+
+**Also verified absent from the CR:** any ACA enhanced-premium-credit extension ("premium tax
+credit," "cost-sharing," "enhanced" — zero hits), and any CHECK Act transparency language
+("ADMINISTRATIVE SERVICE PROVIDERS," "EXPLANATION OF BENEFITS," "ITEMIZED BILL" — zero hits). The
+CR extends surface transportation and VA extenders but not the health items the site is tracking.
+
+**Affects:** the Scaffold Law thread (negative result, worth recording); the CHECK Act entry's
+open contrast (`2026-08-11-check-act-price-tags-transparency.md`) — unchanged but now with a
+documented "not in the CR either" data point. **Watch for the House vote and Langworthy's position
+this week — that will be the first CR roll call.**
+
+### CHANGE 2 — Grape Belt entry has a newly stale line: a SECOND post-Refresco USDA purchase
+
+His office published **"Congressman Langworthy Announces $20 Million USDA Purchase of Concord Grape
+Juice Following Advocacy to Support Lake Erie Growers," Aug. 25, 2026** (fetched 200):
+<https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-20-million-usda-purchase-concord-grape-juice>
+
+**This is a new purchase, not a re-announcement of the January buy** — checked specifically because
+the dollar figure ($20M) is identical to the Jan. 14, 2026 Section 32 purchase the entry already
+documents. The release distinguishes itself three ways: it cites a **June 2026** letter (the earlier
+one was late-2025), it is framed as responding to **Refresco's** contract cancellation, and it states
+**"This is the third federal buyback purchase Congressman Langworthy has facilitated with amounts
+totaling $85 million."**
+
+**Why this matters:** `content/fact-checks/2026-06-02-grape-belt-refresco-federal-response.md`
+(MISSING CONTEXT) currently carries, in its "what is still unaddressed" table, the line
+"**No new USDA grape purchase announced** in response to the Refresco exit," and says a second
+Section 32 buy "is a viable ask" and that "This entry will be updated if further documented federal
+action arises before the fall 2026 harvest." **That condition has now been met.** Checked the entry
+per rule (B) before flagging — the Aug. 25 action is genuinely absent from it.
+
+**VERIFY BEFORE ANY UPDATE IS PUBLISHED (do not assert these yet):**
+1. **USDA-side confirmation was NOT obtained this run.** ams.usda.gov purchase/news paths 404'd and
+   usda.gov press releases returned 403. The only source so far is his own release. Get the AMS
+   Section 32 pre-solicitation / purchase announcement before publishing, exactly as the January
+   item was sourced.
+2. **The "$85 million across three purchases" arithmetic does not close on known figures.** Jan 2026
+   ($20M) + Aug 2026 ($20M) = $40M. The third purchase and the remaining ~$45M are unidentified.
+   Do not repeat "$85 million" or "third purchase" as fact until each buy is separately sourced —
+   this is the same aggregate-inflation failure mode as the FEC memo-entry lesson.
+3. Whether the Aug. buy is Section 32 specifically (the release says he *pressed* for Section 32;
+   it does not quite say the purchase was made under it).
+
+**Likely shape:** the entry's core MISSING CONTEXT verdict is about the Refresco/buyer-concentration
+gap, which a commodity buy does not close — but the "no new purchase" line is now factually stale
+and the advocacy-worked column got stronger. This is a correction-grade update, not a re-cut.
+
+### LEAD (low priority) — American Quantum Competitiveness Act, introduced Aug. 31, 2026
+Release: <https://langworthy.house.gov/media/press-releases/congressman-langworthy-introduces-american-quantum-competitiveness-act>
+Would make Commerce the federal lead for commercial quantum tech and build a national
+manufacturing/supply-chain strategy; release ties it to the "I-90 tech corridor" and Southern Tier
+advanced manufacturing. **No bill number published in the release and none assigned in the record
+yet** — get the H.R. number before citing. Adjacent to the **held Moog/photonics draft**
+(`2026-08-14-moog-defense-credit-claim.md`), which turns on WNY advanced-manufacturing advocacy;
+if that draft is ever revisited this is a same-thread data point on the advocacy side.
+
+### NO CHANGE (all re-verified this run, `<relatedBills>` stripped before parsing per rule (A))
+- **H.R. 1834** (ACA enhanced premium credits): still Senate Calendar 319, latest action 2026-02-10. No Senate floor action.
+- **H.R. 9393** (Lower Costs, More Transparency): still "Ordered to be Reported in the Nature of a Substitute, 45-0," 2026-07-21, 11 actions. **Reported text still not on govinfo** — `BILLS-119hr9393rh` 302s, only `ih` resolves. The CHECK-Act-folded-in question stays open and cannot be answered until `rh` publishes.
+- **H.R. 5408** (Faster Labor Contracts): still "Received in the Senate," 2026-06-10. No Senate action. Teamsters entry's durability test unresolved.
+- **S. 1414**: still Senate Calendar 520, 2026-07-27. No floor vote.
+- **H.R. 9661** (Langworthy, Expedited Access to Biosimilars Act): BILLSTATUS **still shows only three actions — Introduced/Referred to E&C, all 2026-07-14.** The July 20 E&C markup is still NOT in the action record. The NYCBS entry's `publication_note` correctly declines to assert it; **do not update.**
+  - **Resolves a standing "verify before entry" question on the NYCBS entry:** the Senate bill is **S. 1414, `Expedited Access to Biosimilars Act` — identical title, but sponsored by Sen. Rand Paul (R-KY) and introduced 2025-04-10, fifteen months BEFORE** Langworthy's H.R. 9661 (2026-07-14). So the phantom "Read twice / referred to Senate HELP" line was S. 1414 bleeding through `<relatedBills>`, as suspected. Describe S. 1414 as the same-titled Senate bill that predates his; **"his Senate companion" would be backwards.**
+- **FY27 appropriations (item 7):** no House action funding or zeroing his announced CPF requests. The CR's Division A continues FY26 rates and contains **zero** instances of "community project," "congressionally directed," or "earmark" — so the FY27 CPF requests are **neither funded nor zeroed**, just deferred to Dec. 11. The three "secured/delivered" earmark entries are **not** due a revisit yet.
+- **Item 9 sweep:** no new Langworthy roll-call votes exist to scan (nothing past 285).
+
+### UNRESOLVED — DHS career expo second post (item 8)
+**Could not verify this run.** No press release on langworthy.house.gov mentions the expo, the ICE
+job fair, or "law and order" (his newest releases are the Aug. 31 quantum bill and the Aug. 25 grape
+purchase). The post in question lives on **Facebook (RepLangworthy, the official page)**, and
+facebook.com/mbasic.facebook.com both return **400** to scripted fetches — the page is not
+machine-readable without a logged-in browser. **This is an unchecked item, not a negative finding:**
+the expo ran Sept. 1-2 at USCG Sector Buffalo, so a second post is plausible and the existing action
+date (2026-09-02) is now live. **Needs a manual/browser check of RepLangworthy for Sept. 1-2 posts**
+before the MISSING CONTEXT mini-entry trigger can be called either way.
+
+### Self-expiry check
+**Not yet due.** It is Sept. 1, 2026 (before the Oct. 6 cutoff) and the House is actively in session
+with a live floor calendar for the week of Aug. 31 — including the CR. Keep `september-house-watch`
+enabled; the CR vote is the single most valuable thing it is positioned to catch.
+
+---
+
+## 2026-09-01 — LEAD: Flock / license plate readers saturate NY-23, and he has no position
+
+**Origin.** Asked directly whether Langworthy has a stance on Flock Safety or has voted on ALPR
+issues. Answer, after a primary-source sweep: **no stance found, and almost nothing to have voted
+on.** Recording it because the district-side facts are now solid and the federal hook is real.
+
+### What is verified (primary or named-outlet)
+
+**He has no public position.** No LangworthyWatch entry mentions Flock or ALPRs. Across all 45
+Congressional Record issues Jun 1 - Aug 27, 2026 (full-issue PDF sweep, see
+`research/briefs/2026-09-01-floor-record-jun-aug-2026.md`), "Flock" / "license plate reader" /
+"ALPR" appears **4 times, all on June 3, 2026**, in a Fourth Amendment special order led by
+Reps. Keith Self (R-TX) and Scott Perry (R-PA). Langworthy did not participate; his only June 3
+items were two ceremonial Extensions of Remarks.
+*Caveat: this is absence of a FOUND statement. His Facebook feed was not checked and is not
+machine-readable (see the DHS-expo item above for the same blocker).*
+
+**There has been almost nothing to vote on.**
+- **H.R. 9800** (Burchett, Protection Against Mass Surveillance Act — bans federal purchase and
+  federal funding of ALPR cameras). Introduced 2026-07-21, referred to Oversight, **never
+  reported**. Cosponsors verified against the govinfo BILLSTATUS roster: Spartz, Brecheen, Wied,
+  Burlison. **Langworthy is NOT among them; no New Yorker is.**
+- **Perry-Garcia amendment** (ALPRs for tolling only, for federal highway-fund recipients) —
+  offered in T&I committee markup 2026-05-21. Langworthy is not on T&I.
+- No comprehensive federal ALPR statute exists ([CRS IF13068](https://www.congress.gov/crs-product/IF13068)).
+
+**The one on-point vote he had, he missed.** H.R. 4639, **Fourth Amendment Is Not For Sale Act** —
+closes the loophole letting agencies BUY broker data instead of getting a warrant, which is the
+exact mechanism in the Flock/ICE controversy. Passed the House **219-199, 2024-04-17**
+([Roll 136](https://clerk.house.gov/evs/2024/roll136.xml)). **Langworthy: Not Voting.**
+**MANDATORY FAIRNESS CARRY:** he missed **all four** votes that day (rolls 135-138, including two
+Iran/Houthi measures he would predictably have backed). That is a full-day absence, not a targeted
+dodge, and any entry using this MUST say so in the same breath.
+
+### The district-side facts (Investigative Post, J. Dale Shoemaker, two-part series)
+
+Part 1: ["Drivers beware: Police are tracking your movements"](https://investigativepost.org/2026/07/16/drivers-beware-police-are-tracking-your-movements/) (Jul 16, 2026)
+Part 2: ["License plate readers are everywhere in WNY"](https://investigativepost.org/2026/07/17/license-plate-readers-are-everywhere-in-wny/) (Jul 17, 2026)
+
+- **395 ALPRs across WNY.** By county: **Erie 291** (most of any upstate county; statewide only
+  Nassau 331, Queens 307, New York 299 exceed it), Niagara 49, **Cattaraugus 16**, Genesee 13,
+  **Chautauqua 12**, Orleans 10, Wyoming 4, **Allegany no data**. Chemung/Schuyler/Steuben/Tioga
+  are outside the series' WNY scope.
+  **Erie is only a partial-overlap county for NY-23 — do not repeat 291 as "in his district."**
+- **218,000+ Flock searches** by 20 Erie/Niagara agencies, Jan 2025 - Jun 2026 (~423/day, one every
+  three minutes). Cheektowaga alone ~48,000.
+- **THE FEDERAL HOOK: 107 searches of local Flock networks to assist ICE, Border Patrol or DHS** —
+  30 by Buffalo PD, ~12 each by Cheektowaga and Lancaster, plus NFTA, State Police and the NYS
+  Crime Analysis Center. Separately, in April **60 agencies (mostly TX and FL) ran 600+ nationwide
+  searches for migrants that hit Cheektowaga cameras.** NFTA also logged 1,700 FBI-related searches.
+- Funding mix includes **federal pandemic aid** (Buffalo bought a $366,000 Genetec batch that way)
+  and state GIVE grants — i.e. the federal dollars H.R. 9800 would bar.
+- **Town of Hamburg: 4 Flock cameras, $12,000/yr**, and a heavy search user. Hamburg is *probably*
+  NY-23 (he filed a Jun 10 Extension honoring the Hamburg Volunteer Fire Dept) — **district line
+  NOT confirmed; verify before use.**
+- Oversight is thin by the outlet's own reporting: only 3 of 20 departments granted interviews;
+  Lancaster is deploying Flock **drones** with a village trustee saying his oversight was "minimal."
+
+### Why this is a lead and not yet an entry
+
+The strongest available frame is **jurisdictional silence**: his district is among the most
+ALPR-saturated in the state, local networks are being queried on behalf of ICE and Border Patrol,
+the funding runs partly through federal grants, and the sitting member has no position, no
+cosponsorship, and an absence on the one on-point vote. That is defensible. What is NOT established:
+
+1. **No evidence he knows or has been asked about Flock.** No reporter appears to have put the
+   question to him. An entry premised on silence is much stronger if his office declined to comment.
+2. **The June 9 S. 2 connection is adjacent, not direct.** He managed the closed rule for the
+   ICE/CBP funding bill and voted Nay on RV 364 (Scanlon's Fourth Amendment home-search amendment) —
+   but RV 364 is about **home searches, not ALPRs**. Do not conflate. See
+   `2026-07-16-rules-committee-gatekeeper-pattern.md`.
+3. **His actual surveillance record already has two live entries** and this should probably extend
+   one rather than start fresh: `2026-04-30-bigbrother-fisa-car-surveillance.md` (CONTRADICTION —
+   "Big Brother has no place spying on you" posted the same day he voted to extend warrantless 702)
+   and `2026-06-06-langworthy-secure-data-act-hr8413.md` (preemption of NY privacy law).
+
+### To promote
+
+- **Ask his office.** A direct question about Flock, ALPR oversight, and H.R. 9800 is the missing
+  piece. A non-response is itself the finding, and the correspondence section is built for it.
+- **Check RepLangworthy on Facebook** for any surveillance/Flock post (same browser-only blocker as
+  the DHS expo item).
+- **Confirm whether Hamburg, Cheektowaga and Lancaster are in NY-23** before naming them.
+- **Re-pull county counts closer to publication** — Amherst is leaving Flock for Axon and Tonawanda
+  is ending its contract, so the vendor mix is moving.
+- **Watch H.R. 9800.** It sits in Oversight. If it is ever reported, it goes to **Rules**, where he
+  is one of nine. That would convert this from silence into a recorded gatekeeping vote, and it is
+  the single highest-value trigger here. **Action-date: check quarterly.**
+- Related IP reporting worth pulling: ["Program pays local police to help Border Patrol arrest
+  immigrants"](https://investigativepost.org/2026/08/25/program-pays-cops-to-help-border-patrol-arrest-immigrants/)
+  (Aug 25) and ["Buffalo businesses admit to using facial recognition"](https://investigativepost.org/2026/08/27/companies-acknowledge-using-face-scans-on-customers/) (Aug 27).
