@@ -29,6 +29,15 @@
             "statusMessage": "prepublish lint"
           }
         ]
+      },
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=$(jq -r '.tool_input.file_path // \"\"'); echo \"$f\" | grep -qE '(FINDINGS_BACKLOG\\.md|research/briefs/.*\\.md)$' || exit 0; [ -f \"$f\" ] || exit 0; grep -qiE '\\b(erie|niagara|monroe|genesee|wyoming|yates|seneca|ontario|tompkins|cortland|broome|livingston|buffalo|cheektowaga|amherst|tonawanda|kenmore|lancaster|hamburg|west seneca|lackawanna|orchard park)\\b' \"$f\" || exit 0; printf '%b' 'NY-23 GEOGRAPHY CHECK (auto-surfaced: this file now names a partial/trap county or a WNY municipality)\\n\\nNY-23 Erie = SOUTHTOWNS ONLY (Eden, Boston, Collins, Orchard Park, Gowanda).\\nNOT NY-23: Buffalo, Cheektowaga, West Seneca, Lackawanna (all NY-26). Also not NY-23: Yates, Wyoming,\\nSeneca, Ontario, Tompkins, Cortland, Broome, Monroe, Livingston, Genesee, Niagara (mostly NY-26).\\nWhole NY-23 counties: Chemung, Allegany, Cattaraugus, Chautauqua, Tioga. Partial: Erie, Schuyler, Steuben.\\n\\nA county-wide total is NOT a district total. Verify before asserting:\\n  python .claude/scripts/verify_fact.py county <name> [name...]\\nFull reference: .claude/references/ny23-landmines.md section 7.\\n(Added 2026-09-01 after a backlog lead claimed ALPR saturation of NY-23 using Erie-County-wide figures\\n that are overwhelmingly NY-26. The fact-check hooks do not cover this path.)\\n'"
+          }
+        ]
       }
     ]
   }
