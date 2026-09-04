@@ -3,13 +3,13 @@ title: "Three Law-and-Order Posts in Three Days. No Mention of the $87 Million i
 date: 2026-09-03
 draft: false
 topic: "Rule of Law / Public Safety"
-claim_date: "August 26–28, 2026"
+claim_date: "August 26–28, 2026; updated September 2, 2026"
 source: "Facebook Posts (campaign and official pages)"
 source_url: "https://www.facebook.com/RepLangworthy"
 archived_url: "https://web.archive.org/web/20260903130158/https://www.governor.ny.gov/news/governor-hochul-calls-trump-administration-stop-defunding-police-and-deliver-87-million"
-archive_note: "The three Facebook posts are preserved as screenshots on file (captured August 28 and September 3, 2026); the August 28 official-page post's permalink could not be captured at Wayback (login-walled). All twelve web sources were archived and playback-verified September 3, 2026; snapshot URLs in research/sources/archive_log_2026-09-03-hsgp.tsv."
+archive_note: "The three Facebook posts are preserved as screenshots on file (captured August 28 and September 3, 2026); the August 28 official-page post's permalink could not be captured at Wayback (login-walled). All twelve web sources were archived and playback-verified September 3, 2026; snapshot URLs in research/sources/archive_log_2026-09-03-hsgp.tsv. The September 2 post added in the September 4 update was read from its own permalink (text and creation timestamp retained); like the others it is login-walled and could not be captured at Wayback."
 verdict: "MISSING CONTEXT"
-publication_note: "Published September 3, 2026. Two disclosures. (1) No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response will be published here in full. (2) The finding that no public Langworthy statement on the HSGP cuts exists reflects a search of his House press archive and both of his Facebook pages as of September 3, 2026; if a statement is located, this entry will be corrected."
+publication_note: "Published September 3, 2026; updated September 4, 2026. Two disclosures. (1) No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response will be published here in full. (2) The finding that no public Langworthy statement on the HSGP cuts exists reflects a search of his House press archive and both of his Facebook pages, re-checked September 4, 2026; if a statement is located, this entry will be corrected."
 tags: ["law-and-order", "hsgp", "shsp", "uasi", "counterterrorism-funding", "ice", "dhs-expo", "sheriffs", "facebook"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
@@ -149,6 +149,40 @@ withheld and unmentioned.
 
 ---
 
+## Update — September 4, 2026: A Fourth Post, and a More Accurate Description of the Expo
+
+On September 2, 2026 at 1:10 PM, while the expo was running, the official
+office page posted about it again:
+
+> "Chalk one up for the good guys. The radical left could not stop the
+> Department of Homeland Security Job Fair in WNY. Going on right now. Here's
+> details if you're looking for noble work that pays well and protects the
+> homeland."
+
+The post links to the DHS expo page. Three things follow from it.
+
+**This time he described the event accurately.** Question 3 below asks why the
+August 28 official-page post called a DHS-wide career expo an "ICE job fair."
+The September 2 post calls it "the Department of Homeland Security Job Fair,"
+which matches the record. The question stands as to the earlier post, but the
+later description is the correct one and this entry credits it.
+
+**"Going on right now" was accurate.** The expo ran September 1–2 at U.S. Coast
+Guard Sector Eastern Great Lakes, and the post went up midday on the second
+day.
+
+**The framing and the omission are unchanged.** "The radical left could not
+stop" restates the characterization of the August 28 post on the official
+office page. The convention center operator's account is also unchanged: it
+said it had offered to host the expo with every other law enforcement agency
+participating, and objected to one. And as of September 4, 2026, no public
+statement from Rep. Langworthy on the withheld $87 million — including the
+$17.7 million in SHSP funding that flows to sheriffs and police departments in
+all eight NY-23 counties — could be located in his House press archive or on
+either Facebook page.
+
+---
+
 ## Questions this raises
 
 1. Does the Congressman support release of the remaining $87 million,
@@ -157,9 +191,10 @@ withheld and unmentioned.
 2. His August 26 post says sheriffs "should be supported." Has his office
    contacted DHS or FEMA about the withheld SHSP funds on behalf of NY-23's
    sheriffs and police departments?
-3. Why does the official-office post describe a DHS-wide career expo —
-   Coast Guard, CBP, TSA, Secret Service, FEMA and more — as an "ICE job
-   fair"?
+3. Why does the August 28 official-office post describe a DHS-wide career
+   expo — Coast Guard, CBP, TSA, Secret Service, FEMA and more — as an "ICE
+   job fair"? (The September 2 post described it accurately; see the
+   September 4 update above.)
 4. Several New York Republican colleagues publicly pressed the
    administration in October 2025. Did he make any appeal, public or
    private, and will his office say so?
@@ -196,6 +231,8 @@ withheld and unmentioned.
 
 **The posts**
 - Screenshots on file (campaign page, Aug 26, 2026, 1:55 PM and 10:54 AM; official page, Aug 28, 2026); see archive note.
+- Official page, Sept 2, 2026, 1:10 PM ("Chalk one up for the good guys..."), permalink: https://www.facebook.com/RepLangworthy/posts/pfbid02W78H96Zq6SqbLGqWFcN2B2DiYd6ShDfVE1za3Dk9iHayPyJhqsoEdWSVeHF5oHUBl
+- WKBW, "Homeland Security career fair draws thousands of job seekers after move to Coast Guard station" (expo ran Sept 1–2 at USCG Sector Eastern Great Lakes): see The expo, above.
 - H.R. 1 ICE funding and Roll Call 190: see the [February 2026 shutdown entry](/fact-checks/2026-02-02-shutdown-defund-ice/) and House Clerk Roll 190 (July 3, 2025).
 
 ---
@@ -208,4 +245,4 @@ publication date; see the publication note. Rep. Langworthy's office has not
 been asked for comment as of this writing, and any response will be
 published in full.
 
-*Last updated: September 3, 2026*
+*Last updated: September 4, 2026*
