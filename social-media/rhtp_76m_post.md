@@ -1,4 +1,4 @@
-DRAFT (not yet posted). Card: rhtp_76m_card.png. Entry addendum: /fact-checks/2026-06-02-rural-health-transformation-212m/
+POSTED: September 4, 2026 (Facebook, with rhtp_76m_card.png). Entry addendum: /fact-checks/2026-06-02-rural-health-transformation-212m/
 
 ---
 
