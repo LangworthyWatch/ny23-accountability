@@ -7,7 +7,7 @@ claim_date: "September 3, 2026"
 source: "Facebook Post (official page), with video clip from the September 2 Energy and Commerce markup"
 source_url: "https://www.facebook.com/reel/1628785145429833/"
 archived_url: "https://web.archive.org/web/20260904143457/https://energycommerce.house.gov/posts/e-and-c-advances-10-bills-to-house-floor-to-unleash-american-energy-and-lower-prices"
-archive_note: "The Facebook post (reel 1628785145429833) is preserved as a screenshot on file, as a Whisper transcript of the posted clip at research/transcripts/2026-09-03-fb-reel-1628785145429833-buses-act-clip.txt, and as a Wayback capture of the post's public embed (https://web.archive.org/web/20260904150433/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1628785145429833%2F). The committee markup is preserved as the committee's own YouTube recording (oCB-R-SFu2M) with the auto-generated caption track saved at research/transcripts/2026-09-02-ec-full-committee-markup-oCB-R-SFu2M.en.vtt; timestamps below refer to that recording. Bill text, filed amendments, the majority markup memorandum, and retained page texts are saved at research/sources/ec-markup-2026-09-02/. All web sources were archived and playback-verified September 4, 2026 (the NYC DEP page would not accept a new capture; its August 25, 2026 snapshot plays back and its text is retained locally); snapshot URLs in research/sources/archive_log_2026-09-04-buses.tsv."
+archive_note: "The Facebook post (reel 1628785145429833) is preserved as a screenshot on file, as a Whisper transcript of the posted clip at research/transcripts/2026-09-03-fb-reel-1628785145429833-buses-act-clip.txt, and as a Wayback capture of the post's public embed (https://web.archive.org/web/20260904150433/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1628785145429833%2F). The second clip (reel 1360137656288257) is preserved the same way: transcript at research/transcripts/2026-09-04-fb-reel-1360137656288257-buses-act-clip-2.txt and embed capture https://web.archive.org/web/20260904181000/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1360137656288257%2F. The committee markup is preserved as the committee's own YouTube recording (oCB-R-SFu2M) with the auto-generated caption track saved at research/transcripts/2026-09-02-ec-full-committee-markup-oCB-R-SFu2M.en.vtt; timestamps below refer to that recording. Bill text, filed amendments, the majority markup memorandum, and retained page texts are saved at research/sources/ec-markup-2026-09-02/. All web sources were archived and playback-verified September 4, 2026 (the NYC DEP page would not accept a new capture; its August 25, 2026 snapshot plays back and its text is retained locally); snapshot URLs in research/sources/archive_log_2026-09-04-buses.tsv."
 verdict: "MISLEADING"
 publication_note: "Published September 4, 2026. Two disclosures. (1) No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response will be published here in full. (2) Quotations from the markup are taken from the committee's official video via its auto-generated captions, lightly cleaned for punctuation and speaker names, with the timestamp given for each so readers can check the recording. Where a member's own press release or the committee's recap carries the same words, that text is used instead."
 tags: ["buses-act", "hr9317", "idling", "nyc", "citizens-air-complaint-program", "energy-and-commerce", "markup", "ocasio-cortez", "school-buses", "facebook"]
@@ -163,6 +163,40 @@ hunt" his post says the bill "ends" would continue under his own bill.
 description of what opponents want is contradicted by the rules and by the
 opponents' own words in the clip he posted, and the description of what his
 bill does is contradicted by the amendment he asked the committee to adopt.
+
+---
+
+## Update, later on September 4: a second clip, and the "ends" claim disappears
+
+Hours after this entry was published, the official page posted a second
+71-second clip from the same markup (reel 1360137656288257), captioned:
+
+> "NYC liberals love forcing their radical agenda on rural communities like
+> NY23, including banning gas stoves, and coming for our 2nd Amendment
+> rights. But the second we try to stop their asinine bus-driver bounty
+> scheme that is dangerous and detached from reality, the socialists all of
+> a sudden want local control. Rules for thee, not for me."
+
+The clip is his reply at the 119-minute mark: "I'm very familiar with your
+city and its laws and how bad they are and how contagious they become to
+other copycats around the country. And that's why we have to take federal
+action... it doesn't stop you from opining about how we should heat our
+homes in my district."
+
+Three things to note. First, the claim that his bill "ends this Big Brother
+bounty hunt" does not appear in the second caption; the bill is now
+something to "stop" the scheme. Second, the "local control" charge runs in
+both directions in his own words: the clip argues for federal preemption of
+a city ordinance ("we have to take federal action"), while the caption
+objects to state policy reaching rural counties. His Energy Choice Act,
+H.R. 3699, likewise uses federal authority to override state and local
+building-energy rules; see [that entry](/fact-checks/2026-02-25-energy-choice-act/).
+Third, "banning gas stoves" refers to New York's All-Electric Buildings Act,
+which restricts natural-gas hookups in most **new** construction starting
+in 2026 and 2029; it does not ban existing stoves. The Second Amendment
+reference has no referent in the clip or the markup. (Transcript:
+research/transcripts/2026-09-04-fb-reel-1360137656288257-buses-act-clip-2.txt;
+embed capture in the archive log.)
 
 ---
 
