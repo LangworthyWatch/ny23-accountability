@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-04",
-  "total": 155,
+  "total": 156,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 48,
@@ -8,7 +8,7 @@
     "DOCUMENTED PATTERN": 29,
     "CONTRADICTION": 13,
     "FALSE": 9,
-    "MOSTLY TRUE": 7,
+    "MOSTLY TRUE": 8,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
     "DEFLECTION": 3,
@@ -21,17 +21,17 @@
     {
       "label": "MISSING CONTEXT",
       "count": 50,
-      "pct": 32.3
+      "pct": 32.1
     },
     {
       "label": "MISLEADING",
       "count": 35,
-      "pct": 22.6
+      "pct": 22.4
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 29,
-      "pct": 18.7
+      "pct": 18.6
     },
     {
       "label": "CONTRADICTION",
@@ -39,14 +39,14 @@
       "pct": 9.0
     },
     {
-      "label": "FALSE",
+      "label": "MOSTLY TRUE",
       "count": 9,
       "pct": 5.8
     },
     {
-      "label": "MOSTLY TRUE",
-      "count": 8,
-      "pct": 5.2
+      "label": "FALSE",
+      "count": 9,
+      "pct": 5.8
     },
     {
       "label": "MULTIPLE",
@@ -80,9 +80,9 @@
     "Transparency": 6,
     "Energy": 5,
     "Agriculture": 5,
+    "Rule of Law": 4,
     "Veterans": 4,
     "Infrastructure": 4,
-    "Rule of Law": 3,
     "Ethics": 3,
     "Environment": 3,
     "Foreign Policy": 3,
@@ -120,7 +120,7 @@
     "2026-06": 25,
     "2026-07": 24,
     "2026-08": 8,
-    "2026-09": 2
+    "2026-09": 3
   },
   "entries": [
     {
@@ -129,6 +129,13 @@
       "verdict": "MISLEADING",
       "topic": "Transportation",
       "url": "/fact-checks/2026-09-04-buses-act-bounty-post-vs-committee-record/"
+    },
+    {
+      "title": "He Listed Four DSA Positions in a Post About the Socialism Resolution. DSA's Own Platform Backs All Four, With One Word Swapped.",
+      "date": "2026-09-04",
+      "verdict": "MOSTLY TRUE",
+      "topic": "Rule of Law",
+      "url": "/fact-checks/2026-09-04-dsa-planks-socialism-resolution-clip/"
     },
     {
       "title": "Three Law-and-Order Posts in Three Days. No Mention of the $87 Million in Police Funding Still Withheld From New York.",

@@ -1,0 +1,501 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ H. Res. 1490 – Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes. | House of Representatives Committee on Rules 
+ 
+ 
+ {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/208281","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJx1jl1uxDAIhC9kxS-t1NtY2GEdWmwswFH29t1uf6Ru0xc08w1oWHUOYN-w4fNLUhwzMxXolnQyWjS_MgbcJRmCli251MoY_5DPHSkEnKhIt_gIAh7O1N_ieu9cvmyoIrf75FBjvY1Hv8ArHL9hCw1XgnghdtSlwHCSHhRWOp5iFnFzhfENOuwZNNgcqBeyLf6oM5Y22VGpO3Y_za0BsxVF7Of5h7KZ7b90iNH9YbuaY4sZDN8BvX-bqQ","theme":"drupaltheme58_republicans_rules","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_environment":false},"tagIds":["GTM-TQX94K2"]},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":true,"extNofollow":true,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":true,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"www.house.gov\r\ndemocrats-rules.house.gov\r\nwww.govinfo.gov\r\nrules.house.gov","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"mailto","telClass":"0","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa-solid fa-arrow-up-right-from-square","extFaMailtoClasses":"fa-regular fa-envelope","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":["www.house.gov","democrats-rules.house.gov","rules.house.gov"],"extExcludeNoreferrer":""}},"evo_accessibility_helper":{"EvoAccessibilityHelperJS":{"high_contrast_button_enabled":null,"match_os_settings":null,"high_contrast_logo_url":null,"button_position_y":null,"grayscale_social_feeds":null,"high_contrast_theme":null,"text_zoom_amount":null}},"evo_displayer":{"evo_displayer_drupal_settings":[{"newsletter_webform_id":"webform_225","slideup_custom_block_html":"","popup_custom_block_html":"","slideup_block_selection":"1","popup_block_selection":null,"slideup_style":"evo-displayer-slideup-style-1","popup_style":"","add_block_id":"","add_block_id_slideup":"","media_slideup_url":"","media_popup_url":"","slideup_bg_color":"#f5f5f5","slideup_text_color":"#000000","slideup_btn_bg_color":"#007bff","slideup_btn_text_color":"#ffffff","popup_bg_color":"#f5f5f5","popup_text_color":"#000000","popup_btn_bg_color":"#007bff","popup_btn_text_color":"#ffffff","popup_dim_bg_color":"#000000","popup_dim_bg_opacity":"20","add_custom_title":null,"add_custom_description":null}]},"evo_map":{"evoMapJS":{"drupal_variables":[{"map_style":"http:\/\/services.arcgisonline.com\/arcgis\/rest\/services\/World_Street_Map\/MapServer\/tile\/{z}\/{y}\/{x}","map_line_color":"#696b6d","map_line_weight":"2","map_height":"250px","map_width":"100%","shape_override":"","map_image_override":"","ie_only_static_img":0,"map_only":0,"ssdd":"RU00","siteURL":"http:\/\/rules.house.gov\/"}],"office_nids":[],"office_nodes":[]}},"evo_search_toggle":{"EvoSearchToggleJS":{"search_toggle":1,"alignment":"center"}},"evo_social_icons":{"EvoSocialIconsJS":{"social_icon_family":"tc_circle_solid_fill","social_icon_color":"#ffffff","social_icon_size":"","social_icon_spacing":"","social_icon_alignment":"flex-start","facebook_checkbox":null,"instagram_checkbox":null,"x_checkbox":null,"youtube_checkbox":null,"bluesky_checkbox":null,"behance_checkbox":null,"flickr_checkbox":null,"threads_checkbox":null,"reddit_checkbox":null,"snapchat_checkbox":null,"tumblr_checkbox":null,"linkedin_checkbox":null,"medium_checkbox":null,"mail_checkbox":null,"parler_checkbox":null,"truthsocial_checkbox":null,"gettr_checkbox":null,"rumble_checkbox":null,"tiktok_checkbox":null,"custom1_checkbox":null,"custom2_checkbox":null,"icon_pos_1":null,"icon_pos_2":null,"icon_pos_3":null,"icon_pos_4":null,"icon_pos_5":null,"icon_pos_6":null,"icon_pos_7":null,"icon_pos_8":null,"icon_pos_9":null,"icon_pos_10":null,"icon_pos_11":null,"icon_pos_12":null,"icon_pos_13":null,"icon_pos_14":null,"icon_pos_15":null,"icon_pos_16":null,"icon_pos_17":null,"icon_pos_18":null,"icon_pos_19":null,"icon_pos_20":null,"facebook_url":null,"instagram_url":null,"x_url":null,"youtube_url":null,"bluesky_url":null,"behance_url":null,"flickr_url":null,"threads_url":null,"reddit_url":null,"snapchat_url":null,"tumblr_url":null,"linkedin_url":null,"medium_url":null,"mail_url":null,"parler_url":null,"truthsocial_url":null,"gettr_url":null,"rumble_url":null,"tiktok_url":null,"custom1_url":null,"custom2_url":null,"custom1_image":null,"custom2_image":null,"custom1_alt":null,"custom2_alt":null,"custom1_title":null,"custom2_title":null,"evo_social_icons":null,"order":{"-10":{"X":{"checkbox":"1","url":"http:\/\/twitter.com\/RulesReps\/","weight":"-10"}},"-9":{"Instagram":{"checkbox":"1","url":"http:\/\/instagram.com\/rulesreps\/","weight":"-9"}},"-8":{"YouTube":{"checkbox":"1","url":"http:\/\/www.youtube.com\/user\/RulesReps","weight":"-8"}},"-7":{"Facebook":{"weight":"-7","checkbox":0,"url":"https:\/\/facebook.com"}},"-6":{"Behance":{"weight":"-6","checkbox":0,"url":""}},"-5":{"Flickr":{"weight":"-5","checkbox":0,"url":""}},"-4":{"Threads":{"weight":"-4","checkbox":0,"url":""}},"-3":{"Reddit":{"weight":"-3","checkbox":0,"url":""}},"-2":{"Snapchat":{"weight":"-2","checkbox":0,"url":""}},"-1":{"Tumblr":{"weight":"-1","checkbox":0,"url":""}},"0":{"LinkedIn":{"weight":"0","checkbox":0,"url":""}},"1":{"Medium":{"weight":"1","checkbox":0,"url":""}},"2":{"Mail":{"weight":"2","checkbox":0,"url":""}},"3":{"Parler":{"weight":"3","checkbox":0,"url":""}},"4":{"Truth Social":{"weight":"4","checkbox":0,"url":""}},"5":{"GETTR":{"weight":"5","checkbox":0,"url":""}},"6":{"Rumble":{"weight":"6","checkbox":0,"url":""}},"7":{"TikTok":{"weight":"7","checkbox":0,"url":""}},"8":{"Custom 1":{"weight":"8","checkbox":0,"url":"","custom1_image":"","custom1_alt":"","custom1_title":""}},"9":{"Custom 2":{"weight":"9","checkbox":0,"url":"","custom2_image":"","custom2_alt":"","custom2_title":""}},"10":{"Bluesky":{"weight":"10","checkbox":0,"url":"https:\/\/bsky.app"}}}}},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false,"dropShadows":true},"plugins":{"smallscreen":{"cloneParent":0,"mode":"window_width","accordionButton":0,"title":"Menu"},"supposition":true,"supersubs":true}}},"user":{"uid":0,"permissionsHash":"b079dc0178a53ae2d93cd2d339277108c9e477d63415f80d0823ebac3ec7e186"}} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQX94K2"
+ height="0" width="0" style="display:none;visibility:hidden"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Image 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rules Committee Members 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subcommittees 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Special Rule Process 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Special Rule Types 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ History of the Chairs of the Standing House Committee on Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hearing Room Committee Chair Portraits 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amendments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Submission Form 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Adding Cosponsors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Withdrawing Amendments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Submitting Revisions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Amendment Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Legislation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Special Rules 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Original Jurisdiction Matters 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rules and Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rules of the House of Representatives 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rules and Manuals of the House for Prior Congresses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rules of the Committees of the House of Representatives 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Surveys and Journals of Activities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Additional Volumes 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rules Committee Protocols 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 119th Congress Regulations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Constitutional Authority Statement 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rules Committee Prints 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Media 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Announcements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Videos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Minority Site 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ Legislation 
+ 
+ 
+ 
+ 
+ 
+ H. Res. 1490 – Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes. 
+ 
+ H. Res.
+ 1490 - Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes.
+ Hearing Information Meeting Announcement Monday, August 31, 2026 - 4:00pm
+ H-313, The Capitol
+ View Announcement » Video Rules Committee Hearing H.R. 1501, H.R. 9436, H.R. 4795, H. Res. 1490 Bill Text Text of H. Res. 1490 
+ PDF
+ (as introduced) Hearing Documents Rule 
+ PDF
+ H. Res. 1499 PDF XML H. Rept. 119-785 PDF Rule Information COMMITTEE ACTION: REPORTED BY A RECORD VOTE of 7-4 on August 31, 2026. FLOOR ACTION ON H. RES. 1499: Agreed to by a record vote of&nbsp; 210-208 , &nbsp;after agreeing to the previous question by a record vote of 212-205 ,&nbsp;on Tuesday, September 1, 2026. MANAGERS:&nbsp; Foxx/McGovern 1. Closed rule for H.R. 1501. 2. Waives all points of order against consideration of the bill. 3. Provides that the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill shall be considered as adopted and the bill, as amended, shall be considered as read. 4. Waives all points of order against provisions in the bill, as amended. 5. Provides one hour of general debate equally divided and controlled by the chair and ranking minority member of the Committee on Natural Resources or their respective designees. 6. Provides one motion to recommit. 7. Closed rule for H.R. 9436. 8. Waives all points of order against consideration of the bill. 9. Provides that, in lieu of the amendment in the nature of a substitute recommended by the Committee on Natural Resources now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 119-40 shall be considered as adopted and the bill, as amended, shall be considered as read. 10. Waives all points of order against provisions in the bill, as amended. 11. Provides one hour of general debate equally divided and controlled by the chair and ranking minority member of the Committee on Natural Resources or their respective designees. 12. Provides one motion to recommit. 13. Closed rule for H. Res. 1490. 14. Provides that upon adoption of the resolution it shall be in order without intervention of any point of order to consider H. Res. 1490. 15. Provides that H. Res. 1490 shall be considered as read. 16. Provides one hour of general debate equally divided and controlled by the chair and ranking minority member of the Committee on House Administration or their respective designees. 17. Closed rule for H.R. 4795. 18. Waives all points of order against consideration of the bill. 19. Provides that, in lieu of the amendment in the nature of a substitute recommended by the Committee on Education and Workforce now printed in the bill, an amendment in the nature of a substitute consisting of the text of Rules Committee Print 119-39 shall be considered as adopted and the bill, as amended, shall be considered as read. 20. Waives all points of order against provisions in the bill, as amended. 21. Provides one hour of general debate equally divided and controlled by the chair and ranking minority member of the Committee on Education and Workforce or their respective designees. 22. Provides one motion to recommit. 23. Provides that debate on motions that the House suspend the rules, under clause 1 of rule XV, relating to H.J. Res. 1, shall be extended to one hour. Amendments ( click each header to sort table ▲ ▼ by that column ) # Version # Sponsor(s) Party Summary Status 1 Version 1 Morelle (NY) Democrat SUBSTITUTE Prohibits Members, officers, and employees of the House from participating in prediction markets and from owning or trading stocks. Submitted 2 Version 1 Tran (CA) Democrat Adds to the preamble a section regarding the impacts of the socialist regime in Vietnam and Ho Chi Minh as one of the socialist idealogues. Submitted 3 Version 1 Pettersen (CO) Democrat Adds language acknowledging that the implementation of the proposed USPS Rule pursuant to the mail in ballot EO threatens access and undermines the confidence in our election systems. Submitted 4 Version 1 Pettersen (CO) Democrat Adds language acknowledging that the Administration has continually engaged with and provided financial/institutional support to figures who promote unfounded claims about our election system, undermining confidence in election systems. Submitted 5 Version 1 Gottheimer (NJ) , Scholten (MI), Moskowitz (FL), Suozzi (NY) Democrat SUBSTITUTE Refocuses the resolution on denouncing socialism and striking unrelated topics. Submitted Committee Votes Rules Committee Record Vote No. 406 Motion by Mr. McGovern to add a section to the rule providing for immediate consideration of H.R. 7206, the Farm and Family Relief Act, introduced by Representative Craig, under a closed rule, debatable for one hour equally divided between the chair and ranking member of the Committee on Agriculture. Defeated: 3–8 Majority Members Vote Minority Members Vote Mrs. Fischbach Nay Mr. Norman No Vote Mr. Roy Nay Mrs. Houchin Nay Mr. Langworthy Nay Mr. Austin Scott Nay Mr. Griffith Nay Mr. Jack Nay Ms. Foxx Nay Mr. McGovern Yea Ms. Scanlon Yea Mr. Neguse No Vote Ms. Leger Fernández Yea Rules Committee Record Vote No. 407 Motion by Mr. McGovern to add a section to the rule providing for immediate consideration of H.R. 6088, the Restoring Food Security for American Families and Farmers Act of 2025, introduced by Representative Hayes, under a closed rule, debatable for one hour equally divided between the chair and ranking member of the Committee on Agriculture. Defeated: 3–8 Majority Members Vote Minority Members Vote Mrs. Fischbach Nay Mr. Norman No Vote Mr. Roy Nay Mrs. Houchin Nay Mr. Langworthy Nay Mr. Austin Scott Nay Mr. Griffith Nay Mr. Jack Nay Ms. Foxx Nay Mr. McGovern Yea Ms. Scanlon Yea Mr. Neguse No Vote Ms. Leger Fernández Yea Rules Committee Record Vote No. 408 Motion by Mr. McGovern to add a section to the rule providing for immediate consideration of H.R. 8707, the No Funds for Iran War Act, introduced by Representative Ryan, under a closed rule, debatable for one hour equally divided between the chair and ranking member of the Committee on Foreign Affairs. Defeated: 3–8 Majority Members Vote Minority Members Vote Mrs. Fischbach Nay Mr. Norman No Vote Mr. Roy Nay Mrs. Houchin Nay Mr. Langworthy Nay Mr. Austin Scott Nay Mr. Griffith Nay Mr. Jack Nay Ms. Foxx Nay Mr. McGovern Yea Ms. Scanlon Yea Mr. Neguse No Vote Ms. Leger Fernández Yea Rules Committee Record Vote No. 409 Motion by Mr. McGovern to add a section to the rule providing for immediate consideration of H.R. 7977, the Energy Bills Relief Act, introduced by Representative Casten, under a closed rule, debatable for one hour equally divided between the chair and ranking member of the Committee on Energy and Commerce. Defeated: 3–8 Majority Members Vote Minority Members Vote Mrs. Fischbach Nay Mr. Norman No Vote Mr. Roy Nay Mrs. Houchin Nay Mr. Langworthy Nay Mr. Austin Scott Nay Mr. Griffith Nay Mr. Jack Nay Ms. Foxx Nay Mr. McGovern Yea Ms. Scanlon Yea Mr. Neguse No Vote Ms. Leger Fernández Yea Rules Committee Record Vote No. 410 Motion by Mr. Griffith to report the rule. Adopted: 7–4 Majority Members Vote Minority Members Vote Mrs. Fischbach Yea Mr. Norman No Vote Mr. Roy Nay Mrs. Houchin Yea Mr. Langworthy Yea Mr. Austin Scott Yea Mr. Griffith Yea Mr. Jack Yea Ms. Foxx Yea Mr. McGovern Nay Ms. Scanlon Nay Mr. Neguse No Vote Ms. Leger Fernández Nay 
+ 
+ 
+ 
+ 
+ 
+ Contact Us 
+ H-312, The Capitol 
+Washington, D.C. 20515 
+Phone: (202) 225-9191 
+Fax: (202) 226-1508 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chairwoman Virginia Foxx 5th District of North Carolina 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Accessibility 
+ 
+ 
+ Copyright 
+ 
+ 
+ Privacy 
+ 
+ 
+ House.gov 
+ 
+ 
+ RSS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+td.col-1, td.col-2, td.col-3, td.col-4, td.col-5/*, td.col-6*/{
+padding-left: 0;
+padding-right: 0;
+}
+td.col-1, td.col-2, td.col-3, td.col-4, td.col-5, td.col-6{
+font-size: small;
+}
+.featured-video{ color: white; }&lt;/body&gt; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
