@@ -666,6 +666,14 @@ Post text: "I battled Alexandria Ocasio-Cortez over a sick and twisted cash grab
 
 ## 2026-09-01 — September House-watch digest (run 2; baseline = Aug 31 run, roll 285)
 
+> **CORRECTED 2026-09-04 — see "Roll/CR correction" at the bottom of this file before relying on
+> anything below.** This entry is **misdated**: it was written on **Sept 4**, not Sept 1 (the run
+> read the date wrong, so its "it is Sept. 1" self-expiry check is wrong too). Two substantive
+> errors follow from that: it says the **latest roll is 285 / no new votes** (rolls 286-295 existed)
+> and that there was **no CR vote yet** (the CR passed Sept 1 and was signed Sept 2). The CR **text**
+> analysis below — divisions, the Dec 11 date, and the verified absence of Scaffold Law, ACA
+> premium-credit and CHECK Act language — is accurate and now describes **enacted law**.
+
 **Roll-call state: no new votes.** Latest 2026 roll is still **285** (Aug 31). Roll 286 returns a
 clean 404 across five trials with roll 285 returning 200 as control (an intermittent `000` on the
 first probe was network flake, not signal — re-verified). Next run resumes from **roll 285**.
@@ -1008,3 +1016,115 @@ to the Northern Border entry. The Flock silence item stays last and still needs 
 - **Davids-Langworthy tribal economic development bill (official page, 9/2):** new bipartisan bill w/ Rep. Sharice Davids (davids.house.gov release) on tribal access to federal economic development programs; his post cites "strong partnership with the Seneca Nation." SECOND Seneca-relevant bill; bill number not yet in BILLSTATUS. ACTION: pull number/text when posted; assess for addendum to the Seneca entry (donor record: $10,100 Nation + $7,500 businesses).
 - **Quantum bill promotion:** H.R. 10163 = "American Quantum Competitiveness Act" (intro 8/31), pitched as WNY jobs. Corning pairing previously assessed weak (hometown employer); hold.
 - **Roll sweep 286-294 (9/1-9/2):** no CR vote yet. Notable: H.J.Res. 1 (Biggs term-limits amendment) FAILED on suspension 9/2, Langworthy Yea; H.R. 1501 (FAST Act minerals permitting) passed, Yea; H.R. 9436 (Lawler), H.R. 6500 (AGOA) passed; H.Res. 1498 (Ethics, Rep. Edwards) agreed.
+
+## 2026-09-04 — Roll/CR correction: H.R. 6500 is the CR, and it is now Public Law 119-103
+
+**Corrects two backlog entries, and answers september-house-watch item 1 (CR) and item 6 (IIJA).**
+
+### The error
+
+Both the `2026-09-01` House-watch digest ("no CR vote yet") and the `2026-09-02` post-triage roll
+sweep ("**Roll sweep 286-294: no CR vote yet.** ... H.R. 9436 (Lawler), **H.R. 6500 (AGOA)**
+passed") logged **H.R. 6500 as an AGOA bill and concluded no CR vote had happened.** It had.
+
+**H.R. 6500 *is* the continuing resolution.** It began life as Jason Smith's AGOA Extension Act
+(introduced 2025-12-09), and the **Senate used it as the CR vehicle** — it "Passed Senate with an
+amendment **and an amendment to the Title**" 90-6 on Aug. 8, 2026 (Senate Record Vote 228),
+becoming the **Continuing Appropriations and Extensions Act, 2027**. The clerk's roll-call XML
+still shows the bill's *original* House title, which is what the sweep read:
+
+- **Roll 286, Sept. 1, 2026** — "On Motion to Suspend the Rules and **Concur in the Senate
+  Amendments**," `vote-desc` "AGOA Extension Act," `legis-num` **H R 6500**. Passed **370-48**
+  (2/3 required). **Langworthy: Yea.**
+- **Sept. 2, 2026 — Presented to President, Signed by President, Became Public Law No: 119-103.**
+
+**Lesson (worth generalizing):** the clerk's `vote-desc` reflects the measure's title *as the House
+knew it*, which goes stale the moment the Senate amends the title. When a roll call is "Concur in
+the Senate Amendments," the `vote-desc` is **not** a reliable description of what was voted on —
+pull the BILLSTATUS for the `legis-num` before naming the bill. This is a second-order cousin of the
+existing `<relatedBills>` rule.
+
+### What that makes true
+
+**The IIJA question (item 6) is resolved, and resolved as enacted law.** P.L. 119-103's four
+divisions: **A** Continuing Appropriations Act, 2027 (FY26 rate for operations **through Dec. 11,
+2026**); **B** Authorizing Extensions; **C** **Surface Transportation Extension Act of 2026**;
+**D** VA Extenders. Division C §3101 carries the IIJA/FAST/MAP-21/SAFETEA-LU/title-23 authorities
+that would otherwise have lapsed after Sept. 30, 2026 through **Oct. 1 - Dec. 11, 2026** at a
+pro-rated fraction of FY26 levels; §3201 moves Highway Trust Fund, Sport Fish and LUST expenditure
+authority to **Dec. 12, 2026**. So there is **no surface-transportation reauthorization** — the IIJA
+was carried on the CR to the same December cliff as appropriations, and Langworthy voted for it.
+
+**Scaffold Law: verified negative, in enacted text.** The enacted text (BILLS-119hr6500eas, the
+version docs.house.gov scheduled) contains **zero** instances of "scaffold" and zero of "Labor Law"
+— H.R. 3548's NY Labor Law 240 preemption did **not** ride on the CR. H.R. 3548 itself is unmoved
+(referred to House Judiciary 2025-05-21; three actions total). The Scaffold Law thread stays open,
+but the likeliest vehicle of the cycle came and went clean.
+
+**Also verified absent from the enacted text:** any ACA enhanced-premium-credit extension, and any
+CHECK Act transparency language ("ADMINISTRATIVE SERVICE PROVIDERS," "EXPLANATION OF BENEFITS,"
+"ITEMIZED BILL" — all zero). The CR extended surface transportation and VA extenders but none of
+the health items this site tracks. Relevant to the open contrast in
+`2026-08-11-check-act-price-tags-transparency.md`.
+
+### Roll sweep extended: 295 (last checked **295**, Sept. 3)
+
+The Sept. 2 sweep stopped at 294. One further roll exists:
+
+- **Roll 295, Sept. 3, 2026** — H.R. 4795, **Protect Economic and Academic Freedom Act**, On
+  Passage, passed **237-169**, **Langworthy Yea**. Not yet assessed; no entry.
+
+*(Caution for the next run: on Sept. 4 `clerk.house.gov/evs/2026/roll286.xml` returned a clean 404
+across **five** trials with roll 285 returning 200 as control, then served 200 minutes later. The
+clerk's edge serves stale 404s. A 404 there is **not** evidence a roll does not exist — cross-check
+BILLSTATUS or docs.house.gov before concluding the House has not voted.)*
+
+### H.Res. 1490 is not only a socialism resolution — it calls for enacting the SAVE America Act
+
+The `2026-09-02` entry logs Roll 289 as a "messaging vote; no entry." Worth adding, because his own
+post describes only part of it. His Sept. 1 official-page post (creation_time 2026-09-02T20:00:10Z):
+"Socialism has no place in America. Full stop... **I proudly voted to condemn this dangerous
+ideology.**"
+
+The resolution's operative text (BILLS-119hres1490eh, retained) has **five** clauses, and only the
+first is about socialism. It also "(2) reaffirms its support for free, fair, and secure elections;
+(3) reiterates the notion that American elections are for American citizens only; ... and **(5)
+calls for enactment of the SAVE America Act** to ensure election security... and close loopholes in
+order to prevent noncitizens from voting in elections." The whereas clauses run heavily to
+noncitizen voting, photo ID and the SAVE Act (sponsor: Rep. Jeff Crank, R-CO-5; introduced
+2026-08-27; passed 220-192, Langworthy Yea).
+
+This is the same bundling a commenter flagged on the post itself. It connects directly to the
+published `2026-02-10-save-act-voter-id.md`. **Possible MISSING CONTEXT addendum** to that entry —
+he voted for a resolution calling for the SAVE America Act's enactment and described it publicly as
+a vote against socialism. Do **not** overstate: the condemnation of socialism is genuinely clause
+(1), so the post is not false, it is partial.
+
+### DHS expo: the second post exists, and is not in the published entry
+
+Checked `content/fact-checks/2026-09-03-law-and-order-posts-withheld-hsgp-funding.md` first (rule B)
+— it quotes the **Aug. 28** post only. The second post, the trigger the Aug. 28 lead was holding
+for, is on the **official** page:
+
+- **Sept. 2, 2026, 1:10 PM EDT** (creation_time 2026-09-02T17:10:09Z), permalink
+  `facebook.com/RepLangworthy/posts/pfbid02W78H96Zq6SqbLGqWFcN2B2DiYd6ShDfVE1za3Dk9iHayPyJhqsoEdWSVeHF5oHUBl`
+  — "**Chalk one up for the good guys. The radical left could not stop the Department of Homeland
+  Security Job Fair in WNY. Going on right now.** Here's details if you're looking for noble work
+  that pays well and protects the homeland," linking the DHS expo page. 143 reactions, 307 comments.
+
+Two things the published entry would gain: (a) "Going on right now" is **accurate** — the expo ran
+Sept. 1-2 at USCG Sector Eastern Great Lakes and this posted midday on day two; (b) notably, this
+post calls it "the **Department of Homeland Security** Job Fair," **not** the "ICE job fair" of the
+Aug. 28 post — which is the entry's central accuracy criticism, so he got that right the second
+time. The "radical left could not stop" framing on the official page is a further instance for the
+official-vs-campaign partisan-content thread. **ACTION: dated addendum, not a new entry.**
+
+### Unchanged, re-verified 2026-09-04 (relatedBills stripped)
+H.R. 1834 (Senate Calendar 319, since Feb 10) · H.R. 9393 (ordered reported Jul 21; reported text
+still not on govinfo, `rh` 302s) · H.R. 5408 (received in Senate Jun 10) · S. 1414 (Senate Calendar
+520) · **H.R. 9661 (still only intro/referral, 3 actions — the Sept. 2 E&C markup did not include
+it, so the NYCBS entry's publication_note still stands; do not update).**
+
+The Sept. 2 E&C markup (announced Aug. 31, retained) was the ten energy/nuclear/red-tape bills —
+including **his own H.R. 2140 (DERA, with Matsui) and H.R. 9317 (BUSES Act, with Gottheimer)** —
+and contained **no** health bills. Confirms the "ten great bills" item independently.
