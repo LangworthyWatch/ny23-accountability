@@ -1,0 +1,1100 @@
+ 
+ 
+ 
+ 
+ 
+ USDA Agrees To Purchase $20 Million In Surplus Concord Grape Juice From WNY, PA Farmers 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+		 
+							 
+			 
+				var mi_version = '11.2.0';
+				var mi_track_user = true;
+				var mi_no_track_reason = '';
+								var MonsterInsightsDefaultLocations = {"page_location":"https:\/\/www.wrfalp.com\/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers\/"};
+								if ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter( MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations );
+				} else {
+					var MonsterInsightsLocations = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsExcludeQuery : MonsterInsightsDefaultLocations;
+				}
+								var disableStrs = [
+										'ga-disable-G-4Q5W3PTMPJ',
+									];
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+					return false;
+				}
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+				window.MonsterInsightsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (mi_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+						if (type === 'event') {
+														parameters.send_to = monsterinsights_frontend.v4_id;
+							var hookName = name;
+							if (typeof parameters['event_category'] !== 'undefined') {
+								hookName = parameters['event_category'] + ':' + name;
+							}
+							if (typeof MonsterInsightsDualTracker.trackers[hookName] !== 'undefined') {
+								MonsterInsightsDualTracker.trackers[hookName](parameters);
+							} else {
+								__gtagDataLayer('event', name, parameters);
+							}
+							
+						} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dZGIzZG': true,
+											});
+					if ( MonsterInsightsLocations.page_location ) {
+						__gtagTracker('set', MonsterInsightsLocations);
+					}
+										__gtagTracker('config', 'G-4Q5W3PTMPJ', {"forceSSL":"true","link_attribution":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+									'referrer' : 'page_referrer',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			 
+							 
+		 
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+ 
+ 
+ 
+ 
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+ 
+ 
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+ 
+ 
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+ 
+ 
+ 
+ 
+ 
+var related_posts_js_options = {"post_heading":"h4"};
+//# sourceURL=jetpack_related-posts-js-extra
+ 
+ 
+ 
+ /* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.wrfalp.com","hash_tracking":"false","v4_id":"G-4Q5W3PTMPJ"};/* ]]> */
+ 
+ 
+ 
+ 
+ 
+ 
+var BackStretchImg = {"src":"https://wrfalp.net/wp-content/uploads/2023/05/background-wrfa-edited.jpg"};
+//# sourceURL=metro-pro-backstretch-set-js-extra
+ 
+ 
+ 
+ 
+ 
+ 
+	.g { margin:0px; padding:0px; overflow:hidden; line-height:1; zoom:1; }
+	.g img { height:auto; }
+	.g-col { position:relative; float:left; }
+	.g-col:first-child { margin-left: 0; }
+	.g-col:last-child { margin-right: 0; }
+	.g-1 { min-width:0px; max-width:300px; margin: 0 auto; }
+	.b-1 { margin:1px 0px 0px 0px; }
+	.g-2 { min-width:1px; max-width:302px; margin: 0 auto; }
+	.b-2 { margin:1px; }
+	.g-3 { min-width:0px; max-width:300px; margin: 0 auto; }
+	.b-3 { margin:0px 0px 0px 0px; }
+	@media only screen and (max-width: 480px) {
+		.g-col, .g-dyn, .g-single { width:100%; margin-left:0; margin-right:0; }
+	}
+ 
+ 
+ 
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.wrfalp.com/?wordfence_lh=1&hid=5FD7FFD057F632F6A917DC98AAB2F770');
+ 	 img#wpstats{display:none} 
+		 
+ 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-41909719-1', 'wrfalp.com');
+ga('send', 'pageview');
+ 
+ .site-title a { background: url(https://wrfalp.net/wp-content/uploads/2015/03/WRFA-Banner-2015.jpg.jpg) no-repeat !important; } 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WRFA-LP 107.9 FM A listener supported, non-commercial, low power FM radio station in Jamestown, NY. 			 
+ 
+ 
+ 
+		 
+ Home 
+ News 
+ 
+	 Local News 
+	 WRFA Election Coverage 2025 
+	 Local Arts and Entertainment 
+	 Station News and Events 
+	 Audio Posts 
+	 Video 
+ 
+ 
+ Listen 
+ Programming Guide 
+ 
+	 Interactive Schedule 
+	 I Remember 
+	 YWCA Jamestown Broadscast 
+	 Arts on Fire LIVE 
+ 
+ 
+ Local Shows 
+ 
+	 Alex’s Variety Hour 
+	 Arts on Fire 
+	 Arts on Fire LIVE 
+	 Chautauqua Lectures 
+	 Chautauqua Sunrise with Doc Hamels 
+	 Community Matters 
+	 Da Platform 
+	 Da Unwind 
+	 Diamond Run Radio 
+	 The Latin Inspiration 
+	 Local Rush Hour 
+	 Power Chord Hour 
+	 Remembering Rock n Roll 
+	 Small Things Considered 
+	 Stormin Norman’s Prime Time Sports Show 
+	 The Swedish Hour 
+	 Third Street Garage 
+	 YWCA Jamestown Broadscast 
+ 
+ 
+ Audio Vault 
+ About 
+ 
+	 Join the WRFA Team 
+	 E-Newsletter Sign Up 
+ 
+ 
+ Donate 
+ 
+	 WRFA Supporters 
+ 
+ 
+ Contact 
+ You are here: Home / News / Local News / USDA Agrees To Purchase $20 Million In Surplus Concord Grape Juice From WNY, PA Farmers USDA Agrees To Purchase $20 Million In Surplus Concord Grape Juice From WNY, PA Farmers 
+ August 26, 2026 By WRFA Radio Leave a Comment <img data-recalc-dims="1" decoding="async" aria-describedby="caption-attachment-77228" data-attachment-id="77228" data-permalink="https://www.wrfalp.com/u-s-senators-schumer-gillibrand-calling-on-usda-to-purchase-concord-grape-juice/schumer-grapes-portland-8-10-26/" data-orig-file="https://i0.wp.com/www.wrfalp.com/wp-content/uploads/2026/08/Schumer-Grapes-Portland-8-10-26.jpg?fit=673%2C556&amp;ssl=1" data-orig-size="673,556" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="Schumer Grapes Portland 8-10-26" data-image-description="" data-image-caption="&lt;p&gt;U.S. Senator Chuck Schumer (D, NY) visits the Cornell Lake Erie Research and Extension Laboratory in the town of Portland to request the USDA buy concord grape juice products (August, 17, 2026)&lt;/p&gt;
+" data-large-file="https://i0.wp.com/www.wrfalp.com/wp-content/uploads/2026/08/Schumer-Grapes-Portland-8-10-26.jpg?fit=673%2C556&amp;ssl=1" class=" wp-image-77228" src="https://i0.wp.com/www.wrfalp.com/wp-content/uploads/2026/08/Schumer-Grapes-Portland-8-10-26.jpg?resize=375%2C310&#038;ssl=1" alt="" width="375" height="310" srcset="https://i0.wp.com/www.wrfalp.com/wp-content/uploads/2026/08/Schumer-Grapes-Portland-8-10-26.jpg?w=673&amp;ssl=1 673w, https://i0.wp.com/www.wrfalp.com/wp-content/uploads/2026/08/Schumer-Grapes-Portland-8-10-26.jpg?resize=300%2C248&amp;ssl=1 300w" sizes="(max-width: 375px) 100vw, 375px" /> U.S. Senator Chuck Schumer (D, NY) visits the Cornell Lake Erie Research and Extension Laboratory in the town of Portland to request the USDA buy concord grape juice products (August, 17, 2026) 
+ The U.S. Department of Agriculture has agreed to purchase $20 million in surplus concord grape juice for use by domestic nutrition programs across the country. 
+ This comes after both U.S. Senators Chuck Schumer and Kirsten Gillibrand along with Congressman Nick Langworthy called on the USDA to help the approximately 126 farmers across New York and Pennsylvania following the cancellation of a purchase contract by Refresco Beverages in March. 
+ The senators said Monday’s announcement provides much-needed relief for Western New York grape farmers who were facing growing uncertainty amid rising costs and the loss of a major client. 
+ Section 32 funds, which are the source of funding for the grape buy, are authorized by the Agricultural Adjustment Act of 1933 and used by USDA to purchase agricultural products. These products are then used for nutrition programs such as the school lunch program. These “bonus buys” have been used by USDA in the past to stabilize agricultural markets, support communities, and deliver nutritious food to those who need it most. Section 32 has also been deployed successfully for Concord grapes in 2006, 2007, 2009, 2014, 2017, and 2024. 
+ Chautauqua County is the  leading grape-producing county in the state  and the  largest grape-growing county  in the country outside of California. Every year, about 800 growers produce 150,000 tons or more of grapes on more than 22,000 acres on the Lake Erie Plain across northern Pennsylvania and Western New York. Products like juices and jellies that come from Concord grapes are processed locally and sold across the world. The Cornell Cooperative Extension  estimates  that the Lake Erie Grape Belt region supports about 2,000 jobs, contributes upwards of $300 million in economic impact, and supports a fruit and vegetable processing industry that employs over 5,000 workers. 
+ Share this: <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-facebook-77364"
+				class="share-facebook sd-button share-icon no-text"
+				href="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/?share=facebook"
+				target="_blank"
+				aria-labelledby="sharing-facebook-77364"
+				>
+				 Share on Facebook (Opens in new window) 
+				 Facebook 
+			 <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-email-77364"
+				class="share-email sd-button share-icon no-text"
+				href="mailto:?subject=%5BShared%20Post%5D%20USDA%20Agrees%20To%20Purchase%20%2420%20Million%20In%20Surplus%20Concord%20Grape%20Juice%20From%20WNY%2C%20PA%20Farmers&#038;body=https%3A%2F%2Fwww.wrfalp.com%2Fusda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers%2F&#038;share=email"
+				target="_blank"
+				aria-labelledby="sharing-email-77364"
+				data-email-share-error-title="Do you have email set up?" data-email-share-error-text="If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself." data-email-share-nonce="5dafc8bc60" data-email-share-track-url="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/?share=email">
+				 Email a link to a friend (Opens in new window) 
+				 Email 
+			 <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-bluesky-77364"
+				class="share-bluesky sd-button share-icon no-text"
+				href="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/?share=bluesky"
+				target="_blank"
+				aria-labelledby="sharing-bluesky-77364"
+				>
+				 Share on Bluesky (Opens in new window) 
+				 Bluesky 
+			 <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-threads-77364"
+				class="share-threads sd-button share-icon no-text"
+				href="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/?share=threads"
+				target="_blank"
+				aria-labelledby="sharing-threads-77364"
+				>
+				 Share on Threads (Opens in new window) 
+				 Threads 
+			 <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-reddit-77364"
+				class="share-reddit sd-button share-icon no-text"
+				href="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/?share=reddit"
+				target="_blank"
+				aria-labelledby="sharing-reddit-77364"
+				>
+				 Share on Reddit (Opens in new window) 
+				 Reddit 
+			 <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-linkedin-77364"
+				class="share-linkedin sd-button share-icon no-text"
+				href="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/?share=linkedin"
+				target="_blank"
+				aria-labelledby="sharing-linkedin-77364"
+				>
+				 Share on LinkedIn (Opens in new window) 
+				 LinkedIn 
+			 <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-tumblr-77364"
+				class="share-tumblr sd-button share-icon no-text"
+				href="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/?share=tumblr"
+				target="_blank"
+				aria-labelledby="sharing-tumblr-77364"
+				>
+				 Share on Tumblr (Opens in new window) 
+				 Tumblr 
+			 <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-pinterest-77364"
+				class="share-pinterest sd-button share-icon no-text"
+				href="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/?share=pinterest"
+				target="_blank"
+				aria-labelledby="sharing-pinterest-77364"
+				>
+				 Share on Pinterest (Opens in new window) 
+				 Pinterest 
+			 <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-twitter-77364"
+				class="share-twitter sd-button share-icon no-text"
+				href="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/?share=twitter"
+				target="_blank"
+				aria-labelledby="sharing-twitter-77364"
+				>
+				 Share on X (Opens in new window) 
+				 X 
+			 <a rel="nofollow noopener noreferrer"
+				data-shared="sharing-print-77364"
+				class="share-print sd-button share-icon no-text"
+				href="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/#print?share=print"
+				target="_blank"
+				aria-labelledby="sharing-print-77364"
+				>
+				 Print (Opens in new window) 
+				 Print 
+			 
+ 
+	
+ <!--<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			xmlns:dc="http://purl.org/dc/elements/1.1/"
+			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+		<rdf:Description rdf:about="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/"
+ dc:identifier="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/"
+ dc:title="USDA Agrees To Purchase $20 Million In Surplus Concord Grape Juice From WNY, PA Farmers"
+ trackback:ping="https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/trackback/" />
+ -->
+ Filed Under: Local News Tagged With: Agricultural Adjustment Act of 1933 , Chuck Schumer , concord grape , Kirsten Gillibrand , Nick Langworthy , Refresco Beverages , U.S. Department of Agriculture 			 Donate to WRFA and help support Community Radio in Jamestown, NY. 
+ 
+		 
+ 
+		 
+			 Leave a Reply Cancel reply 			 
+				<iframe
+					title="Comment Form"
+					src="https://jetpack.wordpress.com/jetpack-comment/?blogid=58712206&#038;postid=77364&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=1&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Leave+a+Reply&#038;jetpack_comments_nonce=30308453fe&#038;greeting_reply=Leave+a+Reply+to+%25s&#038;color_scheme=light&#038;lang=en_US&#038;jetpack_version=16.1.3&#038;iframe_unique_id=1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;is_current_user_subscribed=0&#038;token_key=%3Bnormal%3B&#038;sig=dc9564e024c4bca552440296ff4564a6b07a1a83#parent=https%3A%2F%2Fwww.wrfalp.com%2Fusda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers%2F"
+											name="jetpack_remote_comment"
+						style="width:100%; height: 430px; border:0;"
+										class="jetpack_remote_comment"
+					id="jetpack_remote_comment"
+					sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"
+				>
+									 
+									 
+					 
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = false;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					 
+					 
+							 
+		 
+		
+		 
+		 This site uses Akismet to reduce spam. Learn how your comment data is processed. 
+ Licensed by Reg Lenna Center for the Arts 
+			 
+		 
+ Donate 
+ 
+ 
+ On Air Now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Food Sleuth Radio
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 			 
+ 
+ 
+		 
+ Corporate Support 
+ 
+ 
+ 			 
+ 
+ 
+		 
+ 
+ 			 
+ 
+ 
+
+
+ 
+		 
+ 
+		 
+		 Recent News 
+		 
+											 
+					 [LISTEN] Community Matters &#8211; Kim Ecklund &#8211; September 3, 2026 
+									 
+											 
+					 [LISTEN] Community Matters &#8211; Chautauqua County Humane Society &#8211; September 3, 2026 
+									 
+											 
+					 Jamestown Sees 26% Decrease In Index Crimes From Jan-May 2017 To Same Period For 2026 
+									 
+					 
+		 
+ 			 WRFA LP 107.9 FM is licensed by the Reg Lenna Center for the Arts in Jamestown, NY. 
+		 
+ Copyright &#xA9;&nbsp;2026 WRFALP.com 107.9 FM 
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/PRO-Metro2014/*","/wp-content/themes/genesis/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+ 
+ 		 
+			 
+				 
+			 
+		 
+		 
+		 
+			 
+			<div
+				class="jp-carousel-wrap swiper jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				 
+				 
+					 
+						 
+							 
+						 
+						 
+							 
+						 
+					 
+				 
+				 
+					 
+						 
+							 
+						 
+						 
+							 
+						 
+					 
+				 
+			 
+			 
+			 
+				 
+					 
+						 
+					 
+					 
+						 
+					 
+				 
+			 
+			 
+			 
+				 
+					 
+						 
+						 
+					 
+					 
+						 
+					 
+					 
+						 
+							 
+								 
+									 
+										 
+									 
+									 
+										 
+									 
+								 
+							 
+						 
+												 
+							 
+								 
+									 
+										 
+									 
+									 
+										 
+									 
+								 
+								 
+							 
+						 
+											 
+				 
+				 
+					 
+						 
+							 
+						 
+						 
+															 
+									 Loading Comments... 
+								 
+								 
+								 
+									 
+									 
+																														 
+												 Write a Comment... 
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												> 
+												 
+													 
+																													 
+																 Email (Required) 
+																 
+															 
+															 
+																 Name (Required) 
+																 
+															 
+															 
+																 Website 
+																 
+															 
+																											 
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												 
+											 
+																											 
+													 
+						 
+							 
+								 
+									 
+								 
+								 
+							 
+							 
+								 
+									 
+										 
+									 
+									 
+										 
+									 
+								 
+								 
+							 
+							 
+						 
+					 
+				 
+			 
+		 
+		 
+		
+	 
+		window.WPCOM_sharing_counts = {"https://www.wrfalp.com/usda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers/":77364};
+	 
+						 
+ 
+ 
+ 
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+ 
+ 
+var click_object = {"ajax_url":"https://www.wrfalp.com/wp-admin/admin-ajax.php"};
+//# sourceURL=adrotate-clicker-js-extra
+ 
+ 
+ 
+ 
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+//# sourceURL=moment-js-after
+ 
+ 
+ 
+var radio = {}; radio.timezone = {}; radio.time = {}; radio.labels = {}; radio.units = {}; radio.sep = ':';radio.ajax_url = 'https://www.wrfalp.com/wp-admin/admin-ajax.php';
+radio.clock_format = '12';
+matchmedia = window.matchMedia || window.msMatchMedia;
+radio.touchscreen = !matchmedia('(any-pointer: fine)').matches;
+radio.debug = false;
+radio.clock_debug = false;
+radio.timezone.location = 'America/New_York';
+radio.timezone.offset = -14400;
+radio.timezone.code = 'EDT';
+radio.timezone.utc = 'UTC-4';
+radio.timezone.utczone = false;
+radio.timezone.adjusted = true;
+radio.timezone.useroffset = (new Date()).getTimezoneOffset() * 60;
+radio.labels.months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December');
+radio.labels.smonths = new Array('Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+radio.labels.days = new Array('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday');
+radio.labels.sdays = new Array('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat');
+radio.labels.showstarted = 'This Show has started.';
+radio.labels.showended = 'This Show has ended.';
+radio.labels.playlistended = 'This Playlist has ended.';
+radio.labels.timecommencing = 'Commencing in';
+radio.labels.timeremaining = 'Remaining Time';
+radio.labels.showwith = 'with';
+radio.labels.showand = 'and';
+radio.units.am = 'am'; radio.units.pm = 'pm'; radio.units.second = 'Second'; radio.units.seconds = 'Seconds'; radio.units.minute = 'Minute'; radio.units.minutes = 'Minutes'; radio.units.hour = 'Hour'; radio.units.hours = 'Hours'; radio.units.day = 'Day'; radio.units.days = 'Days'; 
+radio.moment_map = {'d':'D', 'j':'D', 'w':'e', 'D':'e', 'l':'e', 'N':'e', 'S':'Do', 'F':'M', 'm':'M', 'n':'M', 'M':'M', 'Y':'YYYY', 'y':'YY','a':'a', 'A':'a', 'g':'h', 'G':'H', 'g':'h', 'H':'H', 'i':'m', 's':'s'}
+radio.convert_show_times = false;
+//# sourceURL=radio-station-js-after
+ 
+ 
+ 
+_stq = window._stq || [];
+_stq.push([ "view", {"v":"ext","blog":"58712206","post":"77364","tz":"-4","srv":"www.wrfalp.com","j":"1:16.1.3"} ]);
+_stq.push([ "clickTrackerInit", "58712206", "77364" ]);
+//# sourceURL=jetpack-stats-js-before
+ 
+ 
+ 
+var jetpackSwiperLibraryPath = {"url":"https://www.wrfalp.com/wp-content/plugins/jetpack/_inc/blocks/swiper.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https://www.wrfalp.com/wp-admin/admin-ajax.php","nonce":"1345defed6","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","image_label":"Open image in full-screen.","download_original":"View full size \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https://www.wrfalp.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.wrfalp.com%2Fusda-agrees-to-purchase-20-million-in-surplus-concord-grape-juice-from-wny-pa-farmers%2F","blog_id":"1","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"]};
+//# sourceURL=jetpack-carousel-js-extra
+ 
+ 
+ 
+ 
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+//# sourceURL=sharing-js-js-extra
+ 
+ 
+ 
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+					var el;
+					if ( matches( event.target, 'a.share-facebook' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-facebook' ) ) {
+						el = event.target.parentNode;
+					}
+					if ( el ) {
+						event.preventDefault();
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+					var el;
+					if ( matches( event.target, 'a.share-bluesky' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-bluesky' ) ) {
+						el = event.target.parentNode;
+					}
+					if ( el ) {
+						event.preventDefault();
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcombluesky', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+					var el;
+					if ( matches( event.target, 'a.share-threads' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-threads' ) ) {
+						el = event.target.parentNode;
+					}
+					if ( el ) {
+						event.preventDefault();
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomthreads', 'menubar=1,resizable=1,width=600,height=400' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+					var el;
+					if ( matches( event.target, 'a.share-linkedin' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-linkedin' ) ) {
+						el = event.target.parentNode;
+					}
+					if ( el ) {
+						event.preventDefault();
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomlinkedin', 'menubar=1,resizable=1,width=580,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+					var el;
+					if ( matches( event.target, 'a.share-tumblr' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-tumblr' ) ) {
+						el = event.target.parentNode;
+					}
+					if ( el ) {
+						event.preventDefault();
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtumblr', 'menubar=1,resizable=1,width=450,height=450' );
+						return false;
+					}
+				} );
+			} )();
+var windowOpen;
+			( function () {
+				function matches( el, sel ) {
+					return !! (
+						el.matches && el.matches( sel ) ||
+						el.msMatchesSelector && el.msMatchesSelector( sel )
+					);
+				}
+				document.body.addEventListener( 'click', function ( event ) {
+					if ( ! event.target ) {
+						return;
+					}
+					var el;
+					if ( matches( event.target, 'a.share-twitter' ) ) {
+						el = event.target;
+					} else if ( event.target.parentNode && matches( event.target.parentNode, 'a.share-twitter' ) ) {
+						el = event.target.parentNode;
+					}
+					if ( el ) {
+						event.preventDefault();
+						// If there's another sharing window open, close it.
+						if ( typeof windowOpen !== 'undefined' ) {
+							windowOpen.close();
+						}
+						windowOpen = window.open( el.getAttribute( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+						return false;
+					}
+				} );
+			} )();
+//# sourceURL=sharing-js-js-after
+ 
+		 
+			(function () {
+				const iframe = document.getElementById( 'jetpack_remote_comment' );
+								const watchReply = function() {
+					// Check addComment._Jetpack_moveForm to make sure we don't monkey-patch twice.
+					if ( 'undefined' !== typeof addComment && ! addComment._Jetpack_moveForm ) {
+						// Cache the Core function.
+						addComment._Jetpack_moveForm = addComment.moveForm;
+						const commentParent = document.getElementById( 'comment_parent' );
+						const cancel = document.getElementById( 'cancel-comment-reply-link' );
+						function tellFrameNewParent ( commentParentValue ) {
+							const url = new URL( iframe.src );
+							if ( commentParentValue ) {
+								url.searchParams.set( 'replytocom', commentParentValue )
+							} else {
+								url.searchParams.delete( 'replytocom' );
+							}
+							if( iframe.src !== url.href ) {
+								iframe.src = url.href;
+							}
+						};
+						cancel.addEventListener( 'click', function () {
+							tellFrameNewParent( false );
+						} );
+						addComment.moveForm = function ( _, parentId ) {
+							tellFrameNewParent( parentId );
+							return addComment._Jetpack_moveForm.apply( null, arguments );
+						};
+					}
+				}
+				document.addEventListener( 'DOMContentLoaded', watchReply );
+				// In WP 6.4+, the script is loaded asynchronously, so we need to wait for it to load before we monkey-patch the functions it introduces.
+				document.querySelector('#comment-reply-js')?.addEventListener( 'load', watchReply );
+								
+				const commentIframes = document.getElementsByClassName('jetpack_remote_comment');
+				window.addEventListener('message', function(event) {
+					if (event.origin !== 'https://jetpack.wordpress.com') {
+						return;
+					}
+					if (!event?.data?.iframeUniqueId && !event?.data?.height) {
+						return;
+					}
+					const eventDataUniqueId = event.data.iframeUniqueId;
+					// Change height for the matching comment iframe
+					for (let i = 0; i < commentIframes.length; i++) {
+						const iframe = commentIframes[i];
+						const url = new URL(iframe.src);
+						const iframeUniqueIdParam = url.searchParams.get('iframe_unique_id');
+						if (iframeUniqueIdParam == event.data.iframeUniqueId) {
+							iframe.style.height = event.data.height + 'px';
+							return;
+						}
+					}
+				});
+			})();
+		 
+		 
+ 
