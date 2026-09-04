@@ -1,0 +1,3914 @@
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* */ 
+ /* */ 
+ /*<![CDATA[*/ window['gtag_enable_tcf_support'] = true;
+ window.consentLoaded = false;
+ function lee_consentUpdated(c){
+ if(!window.consentLoaded){
+ window.consentLoaded = true;
+ console.debug('[OSANO] Update signal:', c);
+ dataLayer.push({'event':'consent_updated'});
+ if(c==='new'){
+ console.log('[OSANO] obj:', Osano.cm.getConsent());
+ }const fsScript = document.createElement('script');
+ if(Osano.cm.getConsent().MARKETING === 'ACCEPT'){
+ fsScript.src = 'https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/fs.js?_dc=1786086016';
+ } else {
+ fsScript.src = 'https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.npa.js?_dc=1786086016';
+ }
+ document.body.appendChild(fsScript);
+ }
+ }
+ function gtag(){ 
+ dataLayer.push(arguments);
+ if(arguments && (arguments[0] === 'consent' && arguments[1] === 'update')){
+ document.addEventListener('DOMContentLoaded', (e) => lee_consentUpdated('returning'));
+ }
+ }
+ gtag('consent','default',{
+ 'ad_storage':'denied',
+ 'analytics_storage':'denied',
+ 'ad_user_data':'denied',
+ 'ad_personalization':'denied',
+ 'personalization_storage':'denied',
+ 'functionality_storage':'granted',
+ 'security_storage':'granted',
+ 'wait_for_update': 1000
+ });
+ gtag('set', 'ads_data_redaction', true); /*]]>*/ 
+ 
+ /* {
+ setTimeout(() => { 
+ lee_consentUpdated('new');
+ }, 1000);
+ }); /*]]>*/ 
+ 
+ 
+ 
+ /* oResp.json()) .then(oData => { oJSON = oData; if (!oJSON.success && oJSON.msg) { console.error(oJSON.msg); } if (oJSON.audiences && oJSON.audiences.length ) { for (let iIndex = 0; iIndex { console.error('TNCMS.DMP: ', oError); }); } catch(oException) { if (console && console.warn) { console.warn('TNCMS.DMP: Failed to add audiences to segment session storage'); console.debug(oException); } } }); }); } } })(function(aAudiences) { window.TNCMS.Access.push(function() { TNCMS.Access.setAudiences(aAudiences); });}); /*]]>*/ 
+ /* */ 
+ /*<![CDATA[*/ window.__tnt || (window.__tnt = {});
+ __tnt.video || (__tnt.video = {});__tnt.video.vastUrl = 'https://pubads.g.doubleclick.net/gampad/ads?env=instream&correlator=%%timestamp%%&description_url=https%3A%2F%2Fbuffalonews.com%2Fnews%2Flocal%2Fbusiness%2Fhealth-care%2Farticle_82e4f28e-b318-4cb2-80d2-790ce98af53b.html&gdfp_req=1&iu=/8438/buffalonews.com/news/local/business/health-care&output=vast&sz=640x480%7C640x360%7C400x300%7C1920x1080%7C426x240%7C1290x720&unviewed_position_start=1&url=https%3A%2F%2Fbuffalonews.com%2Fnews%2Flocal%2Fbusiness%2Fhealth-care%2Farticle_82e4f28e-b318-4cb2-80d2-790ce98af53b.html&cust_params=k%3Drural%20health%20transformation%20program%2C%20james%20mcdonald%2C%20nys%20health%20department%20rural%20health%2C%20rural%20health%2C%20new%20york%20%28state%29%2C%20medicaid%2C%20service%20economy%2C%20social%20programs%2C%20health%20care%2C%20health%2C%20public%20services%2C%20health%20economics%2C%20bn-soc%26v%3Dfield59%26version%3D0823&hl=en&wta=0&is_lat=0&plcmt=1&vpmute=1&ad_rule=0&ad_type=video&trt=2&gdfp_req=1';if(window.localStorage){
+ var sVastPPID = window.localStorage.getItem('_us_master_id');
+ if(sVastPPID){ __tnt.video.vastUrl = __tnt.video.vastUrl +'&rdid='+sVastPPID; }
+ } /*]]>*/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*<![CDATA[*/ // bc for af
+ var __tnt = __tnt || {};
+ __tnt.ads = {dfp: {}};
+ 
+ 
+ (() => {
+ if(__tnt.user.services && __tnt.user.services != '0' && !Cookies.get('leefalcon_membership')){
+ let bMatched,iLastID;
+ const oPackages = {"k_15504":"iap-adfree","k_17919":"iap-adfree-annual","k_9753":"COMP\/NIE","k_15336":"DOPAF","k_13330":"Falcon DOP","k_13333":"Falcon DOPL","k_15741":"Falcon GOLD","k_15738":"Falcon PLAT","k_13336":"Falcon SILV","k_17922":"IAP-Annual","k_9747":"IAP-Monthly","k_16614":"LeeSSTemp","k_17067":"Unlimited Digital","k_17163":"Unlimited Digital + digital-adfree"};
+ const oServices = __tnt.user.services.split(',');
+ oServices.forEach((id) => {
+ if(parseInt(id) > 0){
+ id = `k_${id}`;
+ if(oPackages[id].match('-adfree') || oPackages[id].match('DOPAF')){
+ bMatched = true;
+ Cookies.set('leefalcon_membership', oPackages[id], {path:'/'});
+ return false;
+ } else {
+ iLastID = id;
+ }
+ }
+ });
+ if(!bMatched && oPackages[iLastID]){
+ Cookies.set('leefalcon_membership', oPackages[iLastID], {path:'/'});
+ }
+ }
+ 
+ let ils,uad;
+ if(!__tnt.user.services && window.localStorage.getItem('lee.iaf')){
+ ils = true;
+ if(!window.sessionStorage.getItem('lee.afc')){
+ uad = window.localStorage.getItem('lee.segment.aud') || window.sessionStorage.getItem('lee.segment.aud');
+ }
+ }
+ if((__tnt.user.services && Cookies.get('leefalcon_membership') && (Cookies.get('leefalcon_membership').match('DOPAF') || Cookies.get('leefalcon_membership').match('-adfree'))) || ils){
+ __tnt.log('[FS]: AF');
+ __tnt.ads.dfp.af = true; // bc
+ if(!window.localStorage.getItem('lee.iaf')){ window.localStorage.setItem('lee.iaf', true); }
+ jQuery(' .dfp-ad,.item-ad,#gallery-ad,.tnt-ads,.tnt-ads-container div:first-child { display:none; } ').appendTo('head');
+ }
+ if(uad){
+ window.sessionStorage.setItem('lee.afc', true);
+ m = false;
+ uad = uad.split(',');
+ uad.forEach((sAud) => {
+ if(sAud === 'subscriber'){
+ m = true;
+ return;
+ }
+ });
+ if(!m){
+ window.localStorage.removeItem('lee.iaf');
+ }
+ }
+ })();
+ 
+ var freestar = {queue: [], config: {enabled_slots: []}, __lee:{targeting: {}}};
+ freestar.__lee.af = __tnt?.ads?.dfp?.af;
+ 
+ if(!freestar.__lee.af){
+ /** FS Init */
+ freestar.__lee.domain = 'buffalonews-com';
+ freestar.config.channel = 'buffalonews.com/news/local/business/health-care'; 
+ freestar.__lee.section = '/news/local/business/health-care';
+ freestar.__lee.sticky_unit = 'buffalonews-com_sticky-footer';
+ freestar.config.targeting = [{
+ 'buffalonews-com_sticky-footer': {
+ 'pos': ['fixed-impact-bottom', 'btf']
+ }
+ }];
+ 
+ if(window.localStorage && window.sessionStorage){
+ if(window.localStorage.getItem('_us_master_id') || __tnt.user.loggedIn){
+ freestar.__lee.ppid = window.localStorage.getItem('_us_master_id') || window.sessionStorage.getItem('lee_uuid');
+ }
+ const sLas = window.localStorage.getItem('lee.segment.aud') || window.sessionStorage.getItem('lee.segment.aud');
+ if(sLas){
+ freestar.__lee.targeting.las = sLas.split(',');
+ }
+ }
+ 
+ if(window.Osano?.cm && window.Osano.cm?.getConsent().MARKETING != 'ACCEPT') {
+ freestar.__lee.npa = true;
+ freestar.config.setNonPersonalizedAds = true;
+ __tnt.log('[FS]: NPA mode');
+ }
+ 
+ freestar.__lee.targeting.media_topics = ["07000000"];
+ if(dataLayer[0]?.townnews?.content?.taxonomies?.iab_content?.items){
+ freestar.__lee.targeting.iab = dataLayer[0].townnews.content.taxonomies.iab_content.items;
+ }
+ 
+ freestar.__lee.targeting.k = ["rural health transformation program","james mcdonald","nys health department rural health","rural health","new york (state)","medicaid","service economy","social programs","health care","health"];
+ freestar.__lee.targeting.sub = (__tnt?.user?.loggedIn && __tnt?.user?.services) ? 'yes' : 'no';
+ freestar.__lee.targeting.page = ["asset","article","app-editorial"];
+ }
+ 
+ if(freestar.__lee.af || freestar.__lee.npa){
+ window.__SPOTIM_ADS_DISABLED__ = true;
+ } /*]]>*/ 
+ /* ');
+ window.MSInputMethodContext && document.documentMode && window.addEventListener('load', function() { cssVars({ include:'style,link[href*="lee.ds.css"]' })}); /*]]>*/ 
+ /*<![CDATA[*/ jQuery(document).ready(function($){
+ if(window.Osano?.cm?.getConsent().MARKETING === 'ACCEPT' && !__tnt?.ads?.dfp?.af){
+ if(__tnt.user.loggedIn && __tnt.user.services){
+ const oSearch = $('.main-site-search');
+ const sSearchAction = $(oSearch).attr('action');
+ const sSearchPlaceholder = $(oSearch).find('.search-term').attr('placeholder');
+ let sLabel,bNoResults,sActive = 'site';
+ 
+ function toggleSearch(sType){
+ if(sActive != sType){
+ $(oSearch).removeClass(sActive);
+ sActive = sType;
+ if(sType === 'ai'){
+ $(oSearch).attr('action', sSearchAction + 'ai/').addClass(sActive);
+ $(oSearch).find('input[type="hidden"]').attr('disabled', true);
+ $(oSearch).find('.search-term').attr('placeholder', 'What are you looking for?');
+ $(oSearch).find('.site-icon').hide();
+ $(oSearch).find('.ai-icon').show();
+ sLabel = 'AI';
+ sLabelB = 'Answers';
+ window.localStorage.removeItem('lee_tradtional_search');
+ 
+ } else {
+ $(oSearch).attr('action', sSearchAction).addClass(sActive);
+ $(oSearch).find('input[type="hidden"]').attr('disabled', false);
+ $(oSearch).find('.search-term').attr('placeholder', sSearchPlaceholder);
+ $(oSearch).find('.site-icon').show();
+ $(oSearch).find('.ai-icon').hide();
+ sLabel = 'Site';
+ sLabelB = 'Search';
+ window.localStorage.setItem('lee_tradtional_search', 'true');
+ }
+ 
+ $(oSearch).find('.type-label .a').text(sLabel);
+ $(oSearch).find('.type-label .b').text(sLabelB);
+ }
+ }
+ 
+ $(oSearch).addClass('ai-mode');
+ 
+ if (!window.sessionStorage.getItem('lee_tradtional_search') && !window.localStorage.getItem('lee_tradtional_search')) { 
+ toggleSearch('ai');
+ }
+ 
+ $('.toggle-search-menu a').on('click', function(e){
+ e.preventDefault();
+ toggleSearch($(this).data('type'));
+ return false;
+ });
+ }
+ }
+ }); /*]]>*/ 
+ 
+ 
+ 
+ 
+ /* */ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* */ 
+ 
+ 
+ /*<![CDATA[*/ __tnt.recentFive = {
+ /*
+ * Gets the data stored in 'tnt:recent:five'
+ * Returns Array
+ */
+ get:function(){
+ if(window.localStorage && localStorage.getItem('tnt:recent:five')!=null){
+ try{ return JSON.parse(localStorage.getItem('tnt:recent:five')); } catch {}
+ }
+
+ return [];
+ },
+
+ /*
+ * Sets the 'tnt:recent:five' localStorage item
+ * Returns boolean
+ */
+ set:function(data){
+ if(window.localStorage){
+ try{ 
+ localStorage.setItem('tnt:recent:five', JSON.stringify(data));
+ return true;
+ } catch {}
+ }
+
+ return false;
+ },
+
+ /*
+ * Adds the most recent item, prunes any duplicates, and trims the array down to 5 items
+ * Returns Array on success, false on fail 
+ */
+ add:function(asset){
+ var assets = __tnt.recentFive.get();
+ assets.unshift(asset);
+
+ if(assets.length > 1){
+ assets = assets.filter(function(item, index, a){ return a.indexOf(item) == index });
+
+ while(assets.length>5){
+ assets.pop();
+ }
+ }
+
+ if(__tnt.recentFive.set(assets)){ return assets; }
+ return false;
+ }
+ }; /*]]>*/ 
+ 
+
+ 
+ WNY rural health groups can apply for $76 million in funds 
+ 
+ :root { --lee-blox-link-color: #2a5caa; --lee-blox-link-color-light: #89ABE1; --lee-blox-accent-color: #2E589B; --lee-blox-accent-color-secondary: #21314A; --lee-blox-masthead-color: #090E15; --lee-blox-nav-color: #000000; } div[id*="IL_INSEARCH"] { z-index: 100!important; } #fs-sticky-footer { z-index: 1001!important; width: auto!important; } .grecaptcha-badge { visibility: hidden; } .osano-cm-widget { display: none; } .asset .asset-tags { display: none; } 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	 
+	 
+	<!--
+	if (typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('buffalonews.com'); TNTracker.trackPageView(); }
+	// -->
+	 
+	 
+ Skip to main content Skip to main content 
+ 
+ 
+ 
+ 
+ var dataLayer = window.dataLayer || [];
+ dataLayer.push({"ga_ua":"UA-54716522-2","taxonomy_1":"news","taxonomy_2":"local","taxonomy_3":"business","taxonomy_4":"health-care","taxonomy_5":null,"blox_platform":"desktop","blox_page_type":"asset","blox_domain":"buffalonews.com","blox_skin":"flex-editorial","blox_application":"editorial","blox_template_version":"dsv3","groups":{"content":"1","advertising":"2","utility":"3"},"content_group":"1","content_group_id":"news","blox_sections":"news,local,business,health-care","weather_temp":78,"weather_conditions":"Mostly Cloudy","asset_source":"local","source_app":"editorial","blox_asset_type":"article","asset_section":"news\/local\/business\/health-care","asset_sections":"news\/local\/business\/health-care","asset_id":"82e4f28e-b318-4cb2-80d2-790ce98af53b","asset_headline":"WNY rural health groups can apply for $76 million in funds","asset_byline":"Jon Harris \nNews Staff Reporter","asset_authors":"Jon Harris","asset_pub_date":"07\/03\/2026","asset_pub_time":"10:30 am","asset_pub_iso8601":"2026-07-03T10:30:00-04:00","asset_canonical":"https:\/\/buffalonews.com\/news\/local\/business\/health-care\/article_82e4f28e-b318-4cb2-80d2-790ce98af53b.html","asset_content_length":5853,"asset_related_length":2,"asset_has_video":"no","asset_tag_1":"rural health transformation program","asset_tag_2":"james mcdonald","asset_tag_3":"nys health department rural health","asset_tag_4":"rural health","asset_tag_5":"new york (state)","asset_tag_6":"medicaid","asset_tag_7":"service economy","asset_tag_8":"social programs","asset_tag_9":"health care","asset_tag_10":"health","asset_flag_1":"spotlight","asset_media_topics":"07000000","asset_source_type":"staff"});
+ 
+ var sUserUUID = false;
+ var sUserPPID = false;
+ var sGAid = false;
+ var sUserAud = false;
+ 
+ if(__tnt.user.loggedIn){ 
+ if(window.sessionStorage){
+ var sUserUUID = window.sessionStorage.getItem('lee_uuid');
+ if(!sUserUUID){
+ sUserUUID = getUserToken().sub;
+ window.sessionStorage.setItem('lee_uuid', sUserUUID);
+ }
+ }
+ if (TNCMS.User) {
+ dataLayer.push({'user_data.sha256_email_address': TNCMS.User.getClaim('user', 'eml').sha256});
+ }
+ }
+ if(window.localStorage){ var sUserPPID = window.localStorage.getItem('_us_master_id'); }
+ 
+ sGAid = sUserUUID || sUserPPID;
+ if(sGAid == '0'){ sGAid = ''; }
+ 
+ dataLayer.push(
+ {'user_id': __tnt.user.screenName},
+ {'user_state': __tnt.user.loggedIn ? 'logged in' : 'anonymous'},
+ {'user_subscription': __tnt.user.services ? 'Yes' : 'No'},
+ {'user_uuid': sUserUUID},
+ {'user_ppid': sUserPPID},
+ {'ga_userid': sGAid},
+ {'utm_label': __tnt.urlHash('utm_label')}
+ );
+ 
+ if(typeof window.falconOffer != 'undefined'){
+ dataLayer.push(
+ {'subscriptions_enabled': 'yes'},
+ {'subscriptions_provider': 'falcon'}
+ );
+ } else {
+ dataLayer.push({'subscriptions_enabled': 'no'});
+ }
+ 
+ if(__tnt.user.services){
+ var falcon_sub_name = Cookies.get('leefalcon_membership');
+ dataLayer.push({
+ 'tncms': {
+ 'subscription': {
+ 'falcon_service': falcon_sub_name ? falcon_sub_name : '',
+ 'user_service_ids': __tnt.user.services
+ }
+ }
+ });
+ 
+ var lee_clus = Cookies.get('lee-clus');
+ if(!lee_clus){
+ if(typeof Storage !== 'undefined'){
+ var lee_ulli = new Date().toLocaleString('en-us', {year: 'numeric', month: '2-digit', day: '2-digit'}).replace(/(\d+)\/(\d+)\/(\d+)/, '$3$1$2');
+ window.localStorage.setItem('lee_ulld', lee_ulli);
+ var lee_ulld_iso8601 = new Date().toISOString();
+ window.localStorage.setItem('lee_ulld_iso8601', lee_ulld_iso8601);
+ }
+ var lee_clus = Cookies.set('lee-clus', 'true', {path:'/'});
+ }
+ } 
+ if(dataLayer[0]?.townnews?.content?.taxonomies?.iab_content?.items){
+ dataLayer.push({
+ 'asset_iab': dataLayer[0].townnews.content.taxonomies.iab_content.items.join(',')
+ });
+ }
+ 
+ if(typeof Storage !== 'undefined'){
+ var lee_glus = window.localStorage.getItem('lee_ulld');
+ if(lee_glus){
+ // IE hack
+ if(lee_glus.match('/')){
+ var lee_glusIE = lee_glus.split('/');
+ lee_glus = lee_glusIE[2]+lee_glusIE[0]+lee_glusIE[1];
+ }
+ dataLayer.push({'sub_last_login': lee_glus});
+ }
+ var sub_last_login_iso8601 = window.localStorage.getItem('lee_ulld_iso8601');
+ if(sub_last_login_iso8601){
+ dataLayer.push({'sub_last_login_iso8601': sub_last_login_iso8601});
+ }
+ 
+ var lee_segments = window.localStorage.getItem('lee.segment.aud');
+ if(lee_segments){
+ dataLayer.push({'user_audience': lee_segments});
+ }
+ }
+ 
+ 
+ 
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-TDWDC2');
+ 
+ 
+ __tnt.googleEvent = function(obj) {
+ dataLayer.push({
+ 'event': 'gaTriggerEvent',
+ 'gaEventCategory': obj.category,
+ 'gaEventAction': obj.action,
+ 'gaEventLabel': obj.label,
+ 'gaEventValue': obj.value
+ });
+ }
+ __tnt.googleSocial = function(obj) {
+ dataLayer.push({
+ 'event': 'socialEvent',
+ 'socialNetwork': obj.network,
+ 'socialAction': obj.socialAction,
+ 'socialTarget': obj.url
+ });
+ }
+ __tnt.googlePageView = function(obj) {
+ var sURL = obj.url.replace(/^.*\/\/[^\/]+/, '');
+ dataLayer.push({
+ 'event': 'VirtualPageview',
+ 'virtualPageURL': sURL,
+ 'virtualPageTitle': obj.title
+ });
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ You are the owner of this article. 
+ 
+ Edit Article 
+ 
+ Add New Article 
+ 
+ Close 
+ 
+ 
+ 
+ You have permission to edit this article. 
+ 
+ Edit 
+ Close 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 78&deg; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log In
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ Guest 
+ 
+ 
+ Logout 
+ 
+ Read Today's E-edition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Site 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI Answers 
+ 
+ 
+ 
+ 
+ 
+ Site Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ Local 
+ 
+ 
+ 
+ Police & Courts 
+ 
+ 
+ 
+ Business 
+ 
+ 
+ 
+ Politics 
+ 
+ 
+ 
+ State & Regional 
+ 
+ 
+ 
+ History 
+ 
+ 
+ 
+ National & World 
+ 
+ 
+ 
+ Markets & Stocks 
+ 
+ 
+ 
+ News Tip 
+ 
+ 
+ 
+ Photo Galleries 
+ 
+ 
+ 
+ 
+ 
+ Obituaries 
+ 
+ 
+ Featured Obituaries 
+ 
+ 
+ 
+ In Memoriam 
+ 
+ 
+ 
+ Celebration of Life 
+ 
+ 
+ 
+ Share a story 
+ 
+ 
+ 
+ Find an Obituary 
+ 
+ 
+ 
+ 
+ 
+ Opinion 
+ 
+ 
+ Submit a letter 
+ 
+ 
+ 
+ Letters 
+ 
+ 
+ 
+ Editorial 
+ 
+ 
+ 
+ Guest/Columnists 
+ 
+ 
+ 
+ Zyglis cartoons 
+ 
+ 
+ 
+ 
+ 
+ Sports 
+ 
+ 
+ Bills 
+ 
+ 
+ 
+ Sabres 
+ 
+ 
+ 
+ High School 
+ 
+ 
+ 
+ College 
+ 
+ 
+ 
+ Bisons & Baseball 
+ 
+ 
+ 
+ Outdoors 
+ 
+ 
+ 
+ 
+ 
+ Gusto 
+ 
+ 
+ Event Calendar 
+ 
+ 
+ 
+ Food & Drink 
+ 
+ 
+ 
+ Music 
+ 
+ 
+ 
+ Movies & TV 
+ 
+ 
+ 
+ Arts & Theatre 
+ 
+ 
+ 
+ Contests 
+ 
+ 
+ 
+ Comics 
+ 
+ 
+ 
+ Puzzmo 
+ 
+ 
+ 
+ Puzzles 
+ 
+ 
+ 
+ Play 
+ 
+ 
+ 
+ Podcasts 
+ 
+ 
+ 
+ 
+ 
+ Lifestyles 
+ 
+ 
+ Announcements 
+ 
+ 
+ 
+ Parenting 
+ 
+ 
+ 
+ Health 
+ 
+ 
+ 
+ Home & Garden 
+ 
+ 
+ 
+ Travel 
+ 
+ 
+ 
+ Fashion 
+ 
+ 
+ 
+ Pets 
+ 
+ 
+ 
+ Faith 
+ 
+ 
+ 
+ 
+ 
+ Join the community 
+ 
+ 
+ News tip 
+ 
+ 
+ 
+ Share video 
+ 
+ 
+ 
+ Brand Ave. Studios 
+ 
+ 
+ 
+ 
+ 
+ Print Edition 
+ 
+ 
+ E-edition 
+ 
+ 
+ 
+ [BN] Ads 
+ 
+ 
+ 
+ E-edition Archives 
+ 
+ 
+ 
+ 
+ 
+ Special Sections 
+ 
+ 
+ Buffalo Magazine 
+ 
+ 
+ 
+ [BN] Home 
+ 
+ 
+ 
+ Wellness WNY 
+ 
+ 
+ 
+ Best of 716 
+ 
+ 
+ 
+ Destination Education 
+ 
+ 
+ 
+ WNY Nurses 
+ 
+ 
+ 
+ WNY Weddings 
+ 
+ 
+ 
+ Voices of Vision 
+ 
+ 
+ 
+ Sponsored Content 
+ 
+ 
+ 
+ 
+ Buy & Sell 
+ 
+ 
+ Place an Ad 
+ 
+ 
+ 
+ Jobs 
+ 
+ 
+ 
+ Marketplace 
+ 
+ 
+ 
+ Public Notices 
+ 
+ 
+ 
+ Pets Place 
+ 
+ 
+ 
+ Contests 
+ 
+ 
+ 
+ The Buffalo News Store 
+ 
+ 
+ 
+ Shop Local 
+ 
+ 
+ 
+ West Herr Autos 
+ 
+ 
+ 
+ Shopping 
+ 
+ 
+ 
+ 
+ Customer Service 
+ 
+ 
+ Activate 
+ 
+ 
+ 
+ Manage subscription 
+ 
+ 
+ 
+ Newsletters 
+ 
+ 
+ 
+ Subscribe Now 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ Deliver Us 
+ 
+ 
+ 
+ Help Center 
+ 
+ 
+ 
+ Gift Subscriptions 
+ 
+ 
+ Mobile Apps 
+ 
+ 
+ Weather: Live Radar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bluesky 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ YouTube 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{ "@context" : "https://schema.org",
+ "@type" : "Organization",
+ "url" : "http://buffalonews.com",
+ "sameAs" : ["\/facebook","\/twitter","\/bluesky","\/youtube"]
+}
+ 
+ 
+ 
+ 
+ &copy; 2026 Lee Enterprises 
+ Terms of Service | Privacy Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Site 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI Answers 
+ 
+ 
+ 
+ 
+ 
+ Site Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.logo-flp {
+ position: relative;
+ z-index:1;
+}
+.masthead .logo-flp, 
+.masthead .logo-flp .front, 
+.masthead .logo-flp .back {
+ width: 300px;
+ height: 40px;
+}
+.navbar-brand .logo-flp, 
+.navbar-brand .logo-flp .front, 
+.navbar-brand .logo-flp .back {
+ width: 140px;
+ height: 40px;
+}
+@media (max-width: 374px){
+ #main-navigation .navbar-brand .logo-flp .front img,
+ #main-navigation .navbar-brand .logo-flp .back img {
+ max-width: 140px;
+ }
+}
+@media (min-width: 375px){
+ .navbar-brand .logo-flp, 
+ .navbar-brand .logo-flp .front, 
+ .navbar-brand .logo-flp .back {
+ width: 200px;
+ }
+}
+.logo-flp .wrap {
+ transition: 1.5s;
+ position: relative;
+ transform-style: preserve-3d;
+}
+.logo-flp .front, 
+.logo-flp .back {
+ -webkit-backface-visibility: hidden;
+ backface-visibility: hidden;
+ transition: 1.5s;
+ /*transform-style: preserve-3d;*/
+ position: absolute;
+ top: 0;
+ left: 0;
+}
+.logo-flp .front {
+ z-index: 2;
+ animation: flip-front 8s infinite;
+}
+.logo-flp .back,
+.navbar-brand .logo-flp .front {
+ display: flex;
+ align-items: center;
+}
+.logo-flp .back {
+ transform: rotateX(180deg);
+ animation: flip-back 8s infinite;
+}
+@keyframes flip-front {
+ 0%,40%,100% {
+ transform: rotateX(0deg);
+ } 
+ 60%,80% {
+ transform: rotateX(180deg);
+ }
+}
+@keyframes flip-back {
+ 0%,40%,100% {
+ transform: rotateX(180deg);
+ }
+ 60%,80% {
+ transform: rotateX(0deg);
+ }
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Site 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AI Answers 
+ 
+ 
+ 
+ 
+ 
+ Site Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscribe 
+ jQuery(document).ready(function($){
+ if(!__tnt.user.services && window.falconOffer){
+ try {
+ var sSubUrl = 'https://subscriberservices.lee.net/subscriberservices/Content/paymentpagesingle.aspx?Domain=buffalonews.com&SubscriberLevel={{level}}&Return=https%3A%2F%2Fbuffalonews.com%2Fnews%2Flocal%2Fbusiness%2Fhealth-care%2Farticle_82e4f28e-b318-4cb2-80d2-790ce98af53b.html'.replace('{{level}}', window.falconOffer.level);
+ if($('.lee-featured-subscription-head').length > 0){
+ $('.lee-featured-subscription-head').each(function(){
+ var ts = $(this).data('tracking-source') ? $(this).data('tracking-source') : 'header';
+ var sUrl = `${sSubUrl}#tracking-source=${ts}&ir=true`;
+ 
+ $(this).attr('href', sUrl);
+ //.html(` Subscribe ${window.falconOffer.display_title} `)
+ //.addClass('has-falcon-package');
+ });
+ }
+ if($('#join-btn-mobile-link').length > 0){
+ var sUrl = `${sSubUrl}#tracking-source=mobile-header&ir=true`;
+ $('#join-btn-mobile-link').attr('href', sUrl);
+ }
+ } catch (e) {
+ if(window.console) console.warn(e);
+ }
+ }
+ });
+ 
+ Read Today's E-edition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscribe
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log In
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Welcome, Guest 
+ 
+ 
+ My Subscription 
+ See Benefits 
+ Members Only -->
+ Help Center 
+ My Account 
+ Dashboard 
+ Profile 
+ Saved items 
+ 
+ Logout 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ E-edition 
+ 
+ 
+ News 
+ 
+ 
+ Obituaries 
+ 
+ 
+ Opinion 
+ 
+ 
+ Sports 
+ 
+ 
+ Puzzmo 
+ 
+ 
+ Puzzles 
+ 
+ 
+ Podcasts 
+ 
+ 
+ Gusto 
+ 
+ 
+ Lifestyles 
+ 
+ 
+ Business 
+ 
+ 
+ Public Notices 
+ 
+ 
+ Jobs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 78&deg; 
+ Mostly Cloudy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share This 
+ 
+ .lee-chat-fab, 
+ .lee-chat-fab .tnt-svg,
+ .lee-chat-fab.loading .open-chat-icon, 
+ .lee-chat-fab.open .open-chat-icon { display: none; }
+ .lee-chat-fab.inst-corner {
+ position: fixed;
+ bottom: 30px;
+ right: 30px;
+ border-radius: 30px;
+ height: 60px;
+ width: 60px;
+ padding: 15px;
+ text-align: center;
+ box-shadow: 0 0 15px rgba(0,0,0,.5);
+ z-index: 1060;
+ }
+ .lee-chat-fab.inst-corner .tnt-svg { font-size: 28px; }
+ .lee-chat-fab.inst-btn .tnt-svg { height: 15px; width: 15px; float: left; margin-top: 3px; margin-right: 5px; }
+ .lee-chat-fab img.open-chat-icon { margin-top: -5px; width: 100%; }
+ .lee-chat-fab svg { fill: #fff; }
+ .lee-chat-fab.loading .loading-icon,
+ .lee-chat-fab.open .close-chat-icon { display: inline-block; }
+ #fixed-article-header .lee-chat-fab.inst-btn { margin-left: 10px; }
+ #fixed-article-header .lee-chat-fab.inst-btn img.open-chat-icon { width: 15px; margin-right: 2px; }
+ #lee-mobile-share .lee-chat-fab.inst-btn { background:transparent!important; border:0; outline:0; margin-top: 10px; opacity:.8; }
+ #lee-mobile-share .lee-chat-fab.inst-btn .open-chat-icon,
+ #lee-mobile-share .lee-chat-fab.inst-btn .tnt-svg { height: 24px; width: 24px; font-size: 24px; float: none; margin: 0; }
+ #genesys-mxg-frame { display: none!important; }
+ @media (min-width: 600px) { #genesys-mxg-container-frame { bottom: 95px!important; } }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twitter 
+ 
+ 
+ <a
+ href="https://bsky.app/intent/compose?text=WNY%20rural%20health%20groups%20can%20apply%20for%20%2476%20million%20in%20funds%20https%3A%2F%2Fbuffalonews.com%2Fnews%2Flocal%2Fbusiness%2Fhealth-care%2Farticle_82e4f28e-b318-4cb2-80d2-790ce98af53b.html%3Futm_medium%3Dsocial%26utm_source%3Dbluesky%26utm_campaign%3Duser-share"
+ class="tnt-share-link bsky"
+ target="_blank"
+ rel="noopener nofollow"
+ title="Share on Bluesky"
+ 
+ data-toggle="new-window"
+ data-new-window-width="500"
+ data-new-window-height="300"
+ data-track='{"network":"Bluesky","socialAction":"post","url":"/news/local/business/health-care/article_82e4f28e-b318-4cb2-80d2-790ce98af53b.html"}' data-tncms-track-event='{"app":"editorial","metric":"social_share","uuid":"82e4f28e-b318-4cb2-80d2-790ce98af53b"}' data-tncms-track-dmp='Social Media Share'>
+ 
+ 
+ Bluesky 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ WNY rural health groups can apply for $76 million in funds 
+ 
+ 
+ 
+ 
+ 
+ Live chat
+ 
+ 
+ 0 Comments
+ 
+ 
+ fetch("https://open-api.spot.im/v1/messages-count?spot_id=sp_CDo5xdS1&posts_ids=82e4f28e-b318-4cb2-80d2-790ce98af53b")
+ .then(function(response) {
+ return response.json();
+ })
+ .then(function(openWeb) {
+ if (openWeb && openWeb.messages_count) {
+ document.getElementById("openWeb-count-82e4f28e-b318-4cb2-80d2-790ce98af53b-top").innerHTML = openWeb.messages_count['82e4f28e-b318-4cb2-80d2-790ce98af53b'];
+ }
+ });
+ 
+ Share this 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twitter 
+ 
+ 
+ <a
+ href="https://bsky.app/intent/compose?text=WNY%20rural%20health%20groups%20can%20apply%20for%20%2476%20million%20in%20funds%20https%3A%2F%2Fbuffalonews.com%2Fnews%2Flocal%2Fbusiness%2Fhealth-care%2Farticle_82e4f28e-b318-4cb2-80d2-790ce98af53b.html%3Futm_medium%3Dsocial%26utm_source%3Dbluesky%26utm_campaign%3Duser-share"
+ class="tnt-share-link bsky"
+ target="_blank"
+ rel="noopener nofollow"
+ title="Share on Bluesky"
+ 
+ data-toggle="new-window"
+ data-new-window-width="500"
+ data-new-window-height="300"
+ data-track='{"network":"Bluesky","socialAction":"post","url":"/news/local/business/health-care/article_82e4f28e-b318-4cb2-80d2-790ce98af53b.html"}' data-tncms-track-event='{"app":"editorial","metric":"social_share","uuid":"82e4f28e-b318-4cb2-80d2-790ce98af53b"}' data-tncms-track-dmp='Social Media Share'>
+ 
+ 
+ Bluesky 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Print 
+ 
+ 
+ <button
+ class="copy btn-link"
+ onclick="copyLink('https://buffalonews.com/news/local/business/health-care/article_82e4f28e-b318-4cb2-80d2-790ce98af53b.html', '[data-copy-inline-82e4f28e-b318-4cb2-80d2-790ce98af53b]')"
+ data-container="body"
+ data-toggle="manual"
+ data-placement="top"
+ data-content="Article link copied to clipboard"
+ data-copy-inline-82e4f28e-b318-4cb2-80d2-790ce98af53b
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ Copy article link 
+ 
+ 
+ <a class="save-list-82e4f28e-b318-4cb2-80d2-790ce98af53b-btn save-asset "
+ title="Save to list"
+ onclick="tnSaveAsset(event, this)"
+ href="#"
+ role="button"
+ rel="nofollow"
+ data-asset-uuid="82e4f28e-b318-4cb2-80d2-790ce98af53b"
+ data-tncms-track-dmp='is_saved_items_user'>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Save 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #lee-holiday-banner {
+ background-color: #1674d1;
+ color: #fff;
+ display: flex;
+ align-items: stretch;
+ font-weight: 300;
+ width: 100%;
+ }
+ #lee-holiday-banner strong { font-weight: 700; }
+ #lee-holiday-banner > div { 
+ display: flex;
+ align-items: center;
+ }
+ #lee-holiday-banner > div.h-grow { flex-grow: 1; }
+ #lee-holiday-banner > div.h-content { 
+ display: flex; 
+ padding: 8px;
+ column-gap: 8px;
+ align-items: center;
+ justify-content: space-between;
+ background-image: linear-gradient(90deg, #0166cc, #7fb2e5);
+ }
+ #lee-holiday-banner .h-content img { max-height: 45px; }
+ #lee-holiday-banner .h-logo {
+ background-color: #fff;
+ text-align: center;
+ max-width: 25%;
+ padding: 10px;
+ }
+ #lee-holiday-banner .h-logo a { margin: 0 auto; }
+ #lee-holiday-banner .h-logo img {
+ max-width: 100px;
+ max-height: 100px;
+ display: block;
+ margin: 0 auto;
+ }
+ #lee-holiday-banner .h-center { 
+ display: flex; 
+ column-gap: 20px;
+ align-items: center;
+ }
+ #lee-holiday-banner .h-text { font-size: 32px; font-weight: 700; }
+ @media screen and (max-width: 1201px) {
+ #lee-holiday-banner > div.h-content { padding-left: 15px; }
+ }
+ @media screen and (max-width: 767px) {
+ #lee-holiday-banner .h-text { font-size: 16px; }
+ #lee-holiday-banner .h-logo { max-width: 120px; }
+ #lee-holiday-banner .h-content img { max-height: 35px; }
+ }
+ 
+ 
+ 
+ 
+ 
+ LABOR DAY WEEKEND 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Javascript is required to use this website. 
+ 
+ document.getElementById('main-page-container').style.display='block'; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.blox-asset #main-page-container,.asset-header { max-width: 1150px; }
+@media (min-width: 768px) { #article-related-bottom-container { padding: 0 30px; } }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spotlight 
+ 
+ 
+ 
+ 
+ 
+ WNY rural health groups can apply for $76 million in funds 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jon Harris
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jul 3, 2026
+ 
+ 
+ Jul 3, 2026 
+ 
+ 
+ 
+ 
+ 0 
+ 
+ 
+ fetch("https://open-api.spot.im/v1/messages-count?spot_id=sp_CDo5xdS1&posts_ids=82e4f28e-b318-4cb2-80d2-790ce98af53b")
+ .then(function(response) {
+ return response.json();
+ })
+ .then(function(openWeb) {
+ if (openWeb && openWeb.messages_count) {
+ document.getElementById("openWeb-count-82e4f28e-b318-4cb2-80d2-790ce98af53b-default").innerHTML = openWeb.messages_count['82e4f28e-b318-4cb2-80d2-790ce98af53b'];
+ }
+ });
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gift this article
+ 
+ 
+ 
+ New subscriber benefit!
+ 
+ 
+ 
+ Copied to clipboard
+ 
+ 
+ Out of gifts for the month
+ 
+ 
+ Unfortunately you've used all of your gifts this month. Your counter will reset on the first day of next month.
+ 
+ 
+ Share this article paywall-free
+ 
+ 
+ 
+ 
+ Email
+ 
+ 
+ 
+ 
+ 
+ 
+ Copy Link
+ 
+ 
+ 
+ 
+ 
+ 
+ <a 
+ class="btn btn-default" 
+ title="Add us as a preferred news source to see more of our stories on Google"
+ href="https://www.google.com/preferences/source?q=buffalonews.com"
+ rel="nofollow"
+ target="_blank"
+ role="link"
+ aria-label="Link to Google Preferences"
+ >
+ 
+ Prefer us on Google
+ 
+ <button
+ class="btn btn-default btn-icon"
+ type="button"
+ data-content="Add The Buffalo News as a preferred news source to see more of our stories on Google." 
+ data-html="true"
+ data-toggle="source-popover"
+ data-placement="top"
+ role="button"
+ data-trigger="focus"
+ aria-label="Tooltip explaining what this link does"
+ tabindex="0"
+ >
+ 
+ Learn More 
+ 
+ 
+ #preferredSource {
+ display:inline-flex;
+ }
+ #preferredSource .btn {
+ display:inline-flex;
+ align-items: center;
+ gap: 0.5rem;
+ }
+ #preferredSource .popover {
+ min-width: 30ch;
+ color: #222;
+ }
+ 
+ #preferredSource .btn-bordered {
+ background: transparent;
+ border: 1px solid white;
+ opacity: 1;
+ color: white;
+ }
+ #preferredSource .btn-bordered:hover {
+ background: #285e8e;
+ color:white;
+ }
+ 
+ .blox-asset:not(.type-article) #asset-content #preferredSource + div {
+ margin-top: 1em;
+ }
+ #site-footer #preferredSource {
+ margin: 0 0 2em;
+ }
+ 
+ 
+ $(function () {
+ $('[data-toggle="source-popover"]').popover({container: 'body'});
+ })
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twitter 
+ 
+ 
+ <a
+ href="https://bsky.app/intent/compose?text=WNY%20rural%20health%20groups%20can%20apply%20for%20%2476%20million%20in%20funds%20https%3A%2F%2Fbuffalonews.com%2Fnews%2Flocal%2Fbusiness%2Fhealth-care%2Farticle_82e4f28e-b318-4cb2-80d2-790ce98af53b.html%3Futm_medium%3Dsocial%26utm_source%3Dbluesky%26utm_campaign%3Duser-share"
+ class="tnt-share-link bsky"
+ target="_blank"
+ rel="noopener nofollow"
+ title="Share on Bluesky"
+ 
+ data-toggle="new-window"
+ data-new-window-width="500"
+ data-new-window-height="300"
+ data-track='{"network":"Bluesky","socialAction":"post","url":"/news/local/business/health-care/article_82e4f28e-b318-4cb2-80d2-790ce98af53b.html"}' data-tncms-track-event='{"app":"editorial","metric":"social_share","uuid":"82e4f28e-b318-4cb2-80d2-790ce98af53b"}' data-tncms-track-dmp='Social Media Share'>
+ 
+ 
+ Bluesky 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WhatsApp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Print 
+ 
+ 
+ <button
+ class="copy btn-link"
+ onclick="copyLink('https://buffalonews.com/news/local/business/health-care/article_82e4f28e-b318-4cb2-80d2-790ce98af53b.html', '[data-copy-inline-82e4f28e-b318-4cb2-80d2-790ce98af53b]')"
+ data-container="body"
+ data-toggle="manual"
+ data-placement="top"
+ data-content="Article link copied to clipboard"
+ data-copy-inline-82e4f28e-b318-4cb2-80d2-790ce98af53b
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ Copy article link 
+ 
+ 
+ <a class="save-list-82e4f28e-b318-4cb2-80d2-790ce98af53b-btn save-asset "
+ title="Save to list"
+ onclick="tnSaveAsset(event, this)"
+ href="#"
+ role="button"
+ rel="nofollow"
+ data-asset-uuid="82e4f28e-b318-4cb2-80d2-790ce98af53b"
+ data-tncms-track-dmp='is_saved_items_user'>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Save 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (() => {
+ if(window.Osano?.cm?.getConsent().ANALYTICS === 'ACCEPT'){
+ if (window.TRINITY_PLAYER && TRINITY_PLAYER.players['article-body-82e4f28e-b318-4cb2-80d2-790ce98af53b']) {
+ TRINITY_PLAYER.api.createPlayer('article-body-82e4f28e-b318-4cb2-80d2-790ce98af53b');
+ 
+ } else {
+ let id = '2900013015';
+ if(__tnt?.ads?.dfp?.af || window.Osano?.cm?.getConsent().MARKETING != 'ACCEPT') id = '2900017379';
+ const text = encodeURIComponent(btoa('#article-body'));
+ 
+ var js = document.createElement('script');
+ js.setAttribute('data-player-id', 'article-body-82e4f28e-b318-4cb2-80d2-790ce98af53b');
+ js.src = `https://trinitymedia.ai/player/trinity/${id}/?pageURL=https://buffalonews.com/news/local/business/health-care/article_82e4f28e-b318-4cb2-80d2-790ce98af53b.htmlpoweredBy&partner=Flex&textSelector=${text}&FAB=1`;
+ document.body.appendChild(js);
+ }
+ } else {
+ document.getElementById('lee-trinity-player').style.display='none';
+ }
+ })();
+ For rural health providers in Western New York, it’s time to get those applications ready. At stake: Millions of dollars in federal funding to enhance healthcare coordination in rural areas, ideally increasing primary care and screening efforts while reducing preventable emergency visits and hospital re-admissions. The $76.2 million in funding allocated for the Rural Community Health Integration initiative is just the first slice of the more than $212 million that New York State is receiving this year under the federal Rural Health Transformation Program. This round has an application deadline of July 14, and more funding opportunities for additional rural health initiatives are expected later this year. 
+ “This initial round of funding is vital to helping rural hospitals and providers build integrative partnerships, deliver coordinated care and improve health outcomes for the communities they serve,” State Health Commissioner Dr. James McDonald said in a statement. 
+ 
+ 
+ 
+ 
+ People are also reading&hellip; 
+ 
+ 
+ 
+ 
+ 
+ 
+ Highmark Stadium's natural grass to be replaced before Bills' home opener 
+ 
+ Buffalo Bills trim roster to 53; QB Buechele, RB Gore Jr. among 21 cuts Sunday 
+ 
+ Longtime Marilla town supervisor dies in farming accident 
+ 
+ Two teens killed in car that crashed while being chased by West Seneca police 
+ 
+ Severe thunderstorms, reported tornadoes cause chaos Wednesday night 
+ 
+ Judge sentences homeless man recruited for bank fraud: 'He was able to trick the tellers' 
+ 
+ Church deacon gets prison for Social Security fraud that led to 'spigot of extra money' 
+ 
+ Most Catholic parishes are in the red, but court documents show they can pay for settlement 
+ 
+ Shaq Thompson, Greg Dortch headline Bills' 17-player practice squad 
+ 
+ West Seneca man, 25, latest victim in rash of summer motorcycle crashes 
+ 
+ Lawsuit against West Seneca police chief in line with rape allegations made to police 
+ 
+ So which local news is most watchable? My choice might surprise you | Alan Pergament 
+ 
+ Driver who killed 2 in '22 Lancaster crash gets trial date, seeks Court of Appeals review 
+ 
+ Ford to pay $2.3M in harassment settlement at Hamburg plant 
+ 
+ Homeland Security job fair moves to new Buffalo location, but political outcry continues 
+ 
+ 
+ 
+ 
+ 
+ 
+ randomizeChildren('inline-article-recommend-items', 4);
+ 
+ Per federal definitions, 47 out of New York’s 62 counties, including Allegany, Cattaraugus, Chautauqua, Genesee, Orleans and Wyoming, are classified as rural and are eligible for the program. While Erie and Niagara counties are not considered rural, the state Health Department said healthcare facilities in the two counties can still partner with entities in the defined rural areas on projects in the program. 
+ For instance, it is possible that Buffalo-based Kaleida Health could be involved in program projects in Chautauqua County, where it is a close partner of Brooks-TLC Hospital System in Dunkirk, or in Cattaraugus County, where Olean General Hospital is closely affiliated with Kaleida. Where is it coming from? 
+ 
+ The Rural Health Transformation Program is a five-year, $50 billion fund that was added last year to the One Big Beautiful Bill Act after politicians from both sides of the aisle expressed concerns about how the bill's reduction in Medicaid spending could affect struggling rural hospitals. 
+ Many concerns remain about whether the $50 billion nationwide fund will be enough to offset the Medicaid reduction. For its part, the Rural Health Transformation Program is making $10 billion available among states each year from 2026 to 2030. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg=="
+ alt="New York gets $212 million from feds for rural health. Is it enough to offset Medicaid cuts?"
+ class="img-responsive lazyload full default"
+ width="1763"
+ height="1175"
+ data-sizes="auto"
+ data-srcset="https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=150%2C100 150w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=200%2C133 200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=225%2C150 225w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=300%2C200 300w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=400%2C267 400w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=540%2C360 540w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=640%2C427 640w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=750%2C500 750w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=990%2C660 990w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=1035%2C690 1035w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=1200%2C800 1200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=1333%2C888 1333w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg?resize=1476%2C984 1476w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/4b/b4bf127c-715a-4448-837f-78134d7afe7b/695448672af1c.preview.jpg 2008w" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New York gets $212 million from feds for rural health. Is it enough to offset Medicaid cuts? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Many health care analysts say the five-year, $50 billion Rural Health Transformation Program will not be enough to offset the upcoming reduction in federal Medicaid spending nationwide. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In the first funding year, the U.S. Centers for Medicare and Medicaid Services awarded $212 million from the rural health fund to New York – the 12th most of all states. New York has estimated the cost of its plan at $200 million per year, meaning around $1 billion in federal funds could come to New York over five years if the state lands similar annual awards in the years ahead. New York’s application it submitted to CMS in November focused on four key areas: establishing rural health partnerships to boost care coordination and patient access; strengthening rural communities with access to technology-enhanced primary care; building a sustainable rural healthcare workforce; and investing in technology innovation and cybersecurity improvements. 
+ 
+ What does this aim to accomplish? The initial round, which the state Health Department is calling the Rural Community Health Integration initiative, is focused on establishing rural health partnerships that bolster care coordination and patient access. 
+ 
+ There are two funding opportunities within the initial $76.2 million round: planning and implementation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg=="
+ alt="A rural hospital in Allegany County continues century-long fight for survival"
+ class="img-responsive lazyload full default"
+ width="1734"
+ height="975"
+ data-sizes="auto"
+ data-srcset="https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=150%2C84&order=crop%2Cresize 150w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=200%2C112&order=crop%2Cresize 200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=225%2C127&order=crop%2Cresize 225w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=300%2C169&order=crop%2Cresize 300w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=400%2C225&order=crop%2Cresize 400w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=540%2C304&order=crop%2Cresize 540w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=640%2C360&order=crop%2Cresize 640w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=750%2C422&order=crop%2Cresize 750w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=990%2C557&order=crop%2Cresize 990w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=1035%2C582&order=crop%2Cresize 1035w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=1200%2C675&order=crop%2Cresize 1200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=1333%2C750&order=crop%2Cresize 1333w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6&resize=1476%2C830&order=crop%2Cresize 1476w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2a/62aee9e4-9bf2-462e-a7d9-749ecc7ecce9/68e98cffc04e8.preview.jpg?crop=1734%2C975%2C13%2C6 2008w" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A rural hospital in Allegany County continues century-long fight for survival 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The path ahead for small, rural hospitals such as Cuba Memorial, which serves a high percentage of Medicaid patients, is about to get more difficult or, at minimum, more uncertain. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Each county will be allocated up to $500,000 to develop collaborative plans that result in networks that enhance healthcare delivery, coordination and outcomes in rural areas. 
+ The second funding opportunity is for implementation projects. For those, an applicant can submit up to three projects with total funding not to exceed $3 million. Each of those projects, the state said, should be “transformative within the budget period or prepare organizations for transformation” in years two through five. 
+ For those applicants that land funding in the initial round, their contracts will run from Sept. 1 to June 30, 2027. To apply, the lead applicant must be a registered nonprofit or municipal hospital in a rural county and must have at least a three-year history of regulatory compliance. In addition, each application must include at least one general hospital or rural emergency hospital. 
+ <gist-search-widget 
+ style="margin:40px 0;display:none;"
+ id="buffalo-news-widget-1"
+ api-key="pk_a5a9d77e28541d4a44267cf0713901092b484e8ad415e62e1e343dcec22519ed" 
+ user-id="lee.net"
+ ref-name="buffalonews.com"
+ target-url="/search/ai/"
+ default-placeholder="What are you looking for?"
+ > 
+ 
+ 
+ if(__tnt.user.services && !__tnt?.ads?.dfp?.af && !window.localStorage.getItem('lee_tradtional_search') && window.Osano?.cm?.getConsent().MARKETING === 'ACCEPT'){
+ var openGistTopics = false;
+ var throttledGistTopics = throttleFunction(function(){
+ if(!openGistTopics){
+ openGistTopics = __tnt.elementOnScreen('#gist-topics-container');
+ if(openGistTopics){
+ document.getElementById('buffalo-news-widget-1').style.display='block';
+ var s = document.createElement('script');
+ s.setAttribute('src', 'https://cdn.gist.ai/searchWidget.js');
+ s.setAttribute('type', 'module');
+ document.body.appendChild(s);
+ window.removeEventListener('scroll', throttledGistTopics);
+ }
+ } 
+ }, 100);
+ window.addEventListener('scroll', throttledGistTopics);
+ }
+ 
+ 
+ if(__tnt.user.services && typeof freestar !== 'undefined' && !(freestar.__lee.af || freestar.__lee.npa)){
+ const fsContainer = document.getElementById('fs-outstream-pending');
+ fsContainer.innerHTML = ' ';
+ }
+ 
+ Jon Harris covers healthcare at The Buffalo News. Reach him at jharris@buffnews.com 
+ 
+ 
+ 
+ 
+ if(window.Osano?.cm?.getConsent().ANALYTICS === 'ACCEPT'){
+ var openWebLoaded = false;
+ var throttledOpenWeb = throttleFunction(function(){
+ if(!openWebLoaded){
+ openWebLoaded = __tnt.elementOnScreen('#lee-comments-area');
+ if(openWebLoaded){
+ var s = document.createElement('script');
+ s.setAttribute('src', 'https://launcher.spot.im/spot/sp_CDo5xdS1');
+ s.setAttribute('data-spotim-module', 'spotim-launcher');
+ s.setAttribute('data-post-id', 'homepage');
+ s.setAttribute('data-spotim-autorun', 'false');
+ document.body.appendChild(s);
+ window.removeEventListener('scroll', throttledOpenWeb);
+ }
+ } 
+ }, 100);
+ window.addEventListener('scroll', throttledOpenWeb);
+ }
+ 
+ 
+ 0 Comments
+ 
+ 
+ fetch("https://open-api.spot.im/v1/messages-count?spot_id=sp_CDo5xdS1&posts_ids=82e4f28e-b318-4cb2-80d2-790ce98af53b")
+ .then(function(response) {
+ return response.json();
+ })
+ .then(function(openWeb) {
+ if (openWeb && openWeb.messages_count) {
+ document.getElementById("openWeb-count-82e4f28e-b318-4cb2-80d2-790ce98af53b-bottom").innerHTML = openWeb.messages_count['82e4f28e-b318-4cb2-80d2-790ce98af53b'];
+ }
+ });
+ 
+ 
+ 
+ #lee-rev-content { margin:0 -5px; }
+ #lee-rev-content h3 {
+ font-family: inherit!important;
+ font-weight: 700!important;
+ border-left: 8px solid var(--lee-blox-link-color);
+ text-indent: 7px;
+ font-size: 24px!important;
+ line-height: 24px;
+ }
+ #lee-rev-content .rc-provider { 
+ font-family: inherit!important; 
+ }
+ #lee-rev-content h4 { 
+ line-height: 24px!important;
+ font-family: "serif-ds",Times,"Times New Roman",serif!important; 
+ margin-top: 10px!important;
+ }
+ @media (max-width: 991px) {
+ #lee-rev-content h3 {
+ font-size: 18px!important;
+ line-height: 18px;
+ }
+ }
+ 
+ 
+ 
+ if(!__tnt?.ads?.dfp?.af && window.Osano?.cm?.getConsent().MARKETING === 'ACCEPT' && window.Osano?.cm?.getConsent().ANALYTICS === 'ACCEPT'){
+ var revContentLoaded = false;
+ var throttledRevContent = throttleFunction(function(){
+ if(!revContentLoaded){
+ revContentLoaded = __tnt.elementOnScreen('#lee-rev-content');
+ if(revContentLoaded){
+ $('#lee-rev-content').append(' ');
+ var s = document.createElement('script');
+ s.setAttribute('src', 'https://assets.revcontent.com/master/delivery.js');
+ document.body.appendChild(s);
+ window.removeEventListener('scroll', throttledRevContent);
+ __tnt.log('Load Rev Content');
+ }
+ } 
+ }, 100);
+ window.addEventListener('scroll', throttledRevContent);
+ }
+ 
+ 
+ #pu-email-form-business-email-article {
+ clear: both;
+ 
+ background-color: #fff;
+ 
+ 
+ 
+ color: #222;
+ 
+ background-position: bottom;
+ background-repeat: no-repeat;
+ padding: 15px 0 20px;
+ margin-bottom: 40px;
+ border-top: 4px solid rgba(0,0,0,.8);
+ border-bottom: 1px solid rgba(0,0,0,.2);
+ 
+ display: none;
+ 
+ }
+ #pu-email-form-business-email-article,
+ #pu-email-form-business-email-article p {
+ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+ }
+ #pu-email-form-business-email-article h2 {
+ font-size: 24px;
+ margin: 15px 0 5px 0;
+ font-family: "serif-ds", Times, "Times New Roman", serif; 
+ }
+ #pu-email-form-business-email-article .lead { 
+ margin-bottom: 5px; 
+ }
+ #pu-email-form-business-email-article .email-desc {
+ font-size: 16px;
+ line-height: 20px;
+ margin-bottom: 5px;
+ opacity: 0.7;
+ }
+ #pu-email-form-business-email-article form {
+ padding: 10px 30px 5px 30px;
+ }
+ #pu-email-form-business-email-article .disclaimer {
+ opacity: 0.7;
+ margin-bottom: 0;
+ line-height: 100%;
+ }
+ #pu-email-form-business-email-article .disclaimer a {
+ color: #222;
+ text-decoration: underline;
+ }
+ #pu-email-form-business-email-article .email-hammer {
+ 
+ border-bottom: 3px solid #222;
+ 
+ opacity: .7;
+ display: inline-block;
+ padding: 0 10px 5px 10px;
+ margin-bottom: -5px;
+ font-size: 16px;
+ }
+ @media (max-width: 991px) {
+ #pu-email-form-business-email-article form {
+ padding: 10px 0 5px 0;
+ }
+ }
+ .grecaptcha-badge { visibility: hidden; }
+ 
+ 
+ The business news you need 
+ Get the latest local business news delivered FREE to your inbox weekly. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sign up! 
+ 
+ 
+ 
+ 
+ 
+ 
+ * I understand and agree that registration on or use of this site constitutes agreement to its user agreement and privacy policy . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ jQuery(document).ready(function($){
+ var xDomain = 'buffalonews.com';
+ var xListName = 'business';
+ var xList = false;
+ if( typeof Lee_WC_Data[xDomain] != 'undefined' ){
+ if( typeof Lee_WC_Data[xDomain][xListName] != 'undefined' && Lee_WC_Data[xDomain][xListName] != ''){
+ var xList = Lee_WC_Data[xDomain][xListName];
+ } else if(typeof Lee_WC_Data[xDomain]['breaking'] != 'undefined'){
+ var xList = Lee_WC_Data[xDomain]['breaking'];
+ $('#pu-email-form-business-email-article .email-title').html('Be the first to know');
+ $('#pu-email-form-business-email-article .email-desc').html('Get local news delivered to your inbox!');
+ }
+ if(xList){
+ $('#pu-list-business-email-article').val(xList);
+ $('#pu-email-form-business-email-article').fadeIn();
+ 
+ __tnt.trackEvent({
+ 'category': 'newsletter-widget',
+ 'action': 'impression',
+ 'label': 'business-email-article',
+ 'value': 1
+ });
+ }
+ }
+ 
+ $('#pu-email-form-business-email-article .pu-form').submit(function(e){
+ if( $('#hp-business-email-article').val() === '') {
+ $('#hp-business-email-article').attr('disabled', 'disabled');
+ $('#pu-btn-business-email-article').attr('disabled', 'disabled');
+ grecaptcha.enterprise.ready(function(){
+ grecaptcha.enterprise.execute('6Ld6fd4kAAAAAAcAv_L6oFNqZ5F578zkT4b6AbFY', {action: 'newsletter_signup'}).then(function(token) {
+ 
+ var oData = {
+ 'subscribe[]': $('#pu-list-business-email-article').val(),
+ 'email': $('#pu-email-business-email-article').val(),
+ 'source': $('#pu-source-business-email-article').val(),
+ 'notify': Cookies.get('lee_pu_notify') ? '' : 'true',
+ 'recaptcha_token': token,
+ 'brand': 'buffalonews.com',
+ };
+ if(typeof Lee_WC_Data[xDomain]['subscription_offers'] != 'undefined'){
+ oData['subscribe[1]'] = Lee_WC_Data[xDomain]['subscription_offers'];
+ }
+ 
+ $.ajax({ 
+ type: 'GET', 
+ url: 'https://leeaws.com/cio/subscribe/',
+ data: oData, 
+ dataType: 'jsonp'
+ 
+ }).done(function(result){
+ if (result.status && result.status === 'error') {
+ $('#email-error-business-email-article').html(' An error occured. ' + result.data.message).fadeIn();
+ $('#pu-btn-business-email-article').attr('disabled', false);
+ 
+ } else if(result.subscribed) {
+ $('#email-success-business-email-article').html(' Thank you! ' + result.email + ' has been subscribed.').fadeIn();
+ $('#pu-email-form-business-email-article .pu-form').fadeOut();
+ Cookies.set('lee_pu_notify', 'true', {path:'/'});
+ 
+ __tnt.trackEvent({
+ 'category': 'newsletter-widget',
+ 'action': 'submit',
+ 'label': 'business-email-article',
+ 'value': 1
+ });
+ }
+ 
+ }).fail(function(){
+ $('#email-error-business-email-article').html(' An error occured. Please try again later').fadeIn();
+ $('#pu-btn-business-email-article').attr('disabled', false);
+ });
+ });
+ });
+ e.preventDefault();
+ }
+ return false;
+ });
+ });
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jon Harris 
+ Healthcare reporter 
+ 
+ 
+ 
+ Author linkedin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Author twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Author email 
+ 
+ 
+ 
+ 
+ 
+ Follow Jon Harris
+ 
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ Get email notifications on {{subject}} daily! 
+ 
+ 
+ 
+ Your notification has been saved.
+ 
+ 
+ There was a problem saving your notification.
+ 
+ {{description}} 
+ Email notifications are only sent once a day, and only if there are new matching items. 
+ 
+ 
+ 
+ 
+ 
+ Save
+ 
+ 
+ 
+ Manage followed notifications 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close 
+ 
+ Followed notifications 
+ 
+ 
+ 
+ Please log in to use this feature 
+ Log In 
+ 
+ 
+ Don't have an account? Sign Up Today 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related to this story 
+ 
+ 
+ 
+ 
+ 
+ Most Popular 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAQAAACRI2S5AAAAEklEQVR42mM8U8+AFzCOKgADAHdUC60wg0dkAAAAAElFTkSuQmCC"
+ alt="Kaleida consolidating Amherst children’s psychiatry clinic as part of larger plan"
+ class="img-responsive lazyload full default"
+ width="1763"
+ height="992"
+ data-sizes="auto"
+ data-srcset="https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=150%2C84&order=crop%2Cresize 150w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=200%2C113&order=crop%2Cresize 200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=225%2C127&order=crop%2Cresize 225w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=300%2C169&order=crop%2Cresize 300w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=400%2C225&order=crop%2Cresize 400w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=540%2C304&order=crop%2Cresize 540w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=640%2C360&order=crop%2Cresize 640w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=750%2C422&order=crop%2Cresize 750w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=990%2C557&order=crop%2Cresize 990w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1035%2C582&order=crop%2Cresize 1035w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1200%2C675&order=crop%2Cresize 1200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1333%2C750&order=crop%2Cresize 1333w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1476%2C830&order=crop%2Cresize 1476w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/6/2c/62c71614-70ce-45c1-b05d-dc8120f57658/6a91b2b6600db.preview.jpg?crop=1763%2C992%2C0%2C91 2008w" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kaleida consolidating Amherst children’s psychiatry clinic as part of larger plan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kaleida is consolidating services at the Amherst site into the Children’s Psychiatry Clinic at 1028 Main St. in Buffalo. The long-term goal is&hellip; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAQAAACRI2S5AAAAEklEQVR42mM8U8+AFzCOKgADAHdUC60wg0dkAAAAAElFTkSuQmCC"
+ alt="Roswell Park reviewing bids for new electronic health record"
+ class="img-responsive lazyload full default"
+ width="1763"
+ height="992"
+ data-sizes="auto"
+ data-srcset="https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=150%2C84&order=crop%2Cresize 150w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=200%2C113&order=crop%2Cresize 200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=225%2C127&order=crop%2Cresize 225w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=300%2C169&order=crop%2Cresize 300w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=400%2C225&order=crop%2Cresize 400w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=540%2C304&order=crop%2Cresize 540w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=640%2C360&order=crop%2Cresize 640w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=750%2C422&order=crop%2Cresize 750w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=990%2C557&order=crop%2Cresize 990w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1035%2C582&order=crop%2Cresize 1035w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1200%2C675&order=crop%2Cresize 1200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1333%2C750&order=crop%2Cresize 1333w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1476%2C830&order=crop%2Cresize 1476w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/ac/9acc534d-57a5-4acd-8111-37089e3f6c17/6a908d911b6e0.preview.jpg?crop=1763%2C992%2C0%2C91 2008w" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Roswell Park reviewing bids for new electronic health record 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The news of Roswell Park seeking to modernize its electronic health record comes at a time when other major Western New York hospitals also ar&hellip; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAQAAACRI2S5AAAAEklEQVR42mM8U8+AFzCOKgADAHdUC60wg0dkAAAAAElFTkSuQmCC"
+ alt="Chautauqua County reports first measles infection in 30 years. It’s one of 41 cases statewide"
+ class="img-responsive lazyload full default"
+ width="1763"
+ height="992"
+ data-sizes="auto"
+ data-srcset="https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=150%2C84&order=crop%2Cresize 150w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=200%2C113&order=crop%2Cresize 200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=225%2C127&order=crop%2Cresize 225w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=300%2C169&order=crop%2Cresize 300w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=400%2C225&order=crop%2Cresize 400w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=540%2C304&order=crop%2Cresize 540w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=640%2C360&order=crop%2Cresize 640w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=750%2C422&order=crop%2Cresize 750w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=990%2C557&order=crop%2Cresize 990w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1035%2C582&order=crop%2Cresize 1035w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1200%2C675&order=crop%2Cresize 1200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1333%2C750&order=crop%2Cresize 1333w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91&resize=1476%2C830&order=crop%2Cresize 1476w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/8/87/887772f8-c936-4ed9-9f2c-f9edee8ab459/6a96e6b274c77.preview.jpg?crop=1763%2C992%2C0%2C91 2008w" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chautauqua County reports first measles infection in 30 years. It’s one of 41 cases statewide 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chautauqua County reported its first lab-confirmed measles case in a resident in more than three decades. That’s just one of many confirmed ca&hellip; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAQAAACRI2S5AAAAEklEQVR42mM8U8+AFzCOKgADAHdUC60wg0dkAAAAAElFTkSuQmCC"
+ alt="New medical aid-in-dying law brings choices – and complexities – to Western New York"
+ class="img-responsive lazyload full default"
+ width="640"
+ height="360"
+ data-sizes="auto"
+ data-srcset="https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/d1/bd126839-7a65-407d-a230-91b5e99dee6c/6a877ce22b331.preview.jpg?crop=640%2C360%2C0%2C34&resize=150%2C84&order=crop%2Cresize 150w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/d1/bd126839-7a65-407d-a230-91b5e99dee6c/6a877ce22b331.preview.jpg?crop=640%2C360%2C0%2C34&resize=200%2C113&order=crop%2Cresize 200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/d1/bd126839-7a65-407d-a230-91b5e99dee6c/6a877ce22b331.preview.jpg?crop=640%2C360%2C0%2C34&resize=225%2C127&order=crop%2Cresize 225w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/d1/bd126839-7a65-407d-a230-91b5e99dee6c/6a877ce22b331.preview.jpg?crop=640%2C360%2C0%2C34&resize=300%2C169&order=crop%2Cresize 300w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/d1/bd126839-7a65-407d-a230-91b5e99dee6c/6a877ce22b331.preview.jpg?crop=640%2C360%2C0%2C34&resize=400%2C225&order=crop%2Cresize 400w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/d1/bd126839-7a65-407d-a230-91b5e99dee6c/6a877ce22b331.preview.jpg?crop=640%2C360%2C0%2C34&resize=540%2C304&order=crop%2Cresize 540w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/b/d1/bd126839-7a65-407d-a230-91b5e99dee6c/6a877ce22b331.preview.jpg?crop=640%2C360%2C0%2C34 640w" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New medical aid-in-dying law brings choices – and complexities – to Western New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The state’s controversial Medical Aid in Dying Act took effect Aug. 5 after the state Health Department established guidance for healthcare fa&hellip; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Watch Now: Related Video
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <div class="tnt-video-container"
+ data-provider="field59"
+ data-projection=""
+ > 
+ {
+ "@context": "https://schema.org",
+ "@type": "VideoObject",
+ "name": "How engineers build better bridges",
+ "description": "Eric Watson, executive vice president at RJ Watson, explains how engineers build bridges to better withstand movement and pressure.",
+ "thumbnailUrl": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/f/5f/f5f4f798-414b-579c-96ab-a83c95460133/6a84e495a97d6.image.jpg",
+ "uploadDate": "2026-09-04T09:00:00-04:00",
+ "contentUrl": "https://cdn.field59.com/BUFFALONEWS/0f1d4224474d052c2b9cb31452df99a084c0e374_fl9-1080p.mp4"
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How engineers build better bridges 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAQAAACRI2S5AAAAEklEQVR42mM8U8+AFzCOKgADAHdUC60wg0dkAAAAAElFTkSuQmCC"
+ alt="Ken-Ton Superintendent Cimato updates status of redistricting proposal"
+ class="img-responsive lazyload full default"
+ width="1920"
+ height="1080"
+ data-sizes="auto"
+ data-srcset="https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=150%2C84 150w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=200%2C113 200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=225%2C127 225w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=300%2C169 300w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=400%2C225 400w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=540%2C304 540w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=640%2C360 640w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=750%2C422 750w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=990%2C557 990w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=1035%2C582 1035w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=1200%2C675 1200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=1333%2C750 1333w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg?resize=1476%2C830 1476w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/6c/56cdf5c7-5b5d-5b8c-a877-c2c6cb4f6183/6a971d40e0e47.image.jpg 2008w" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ken-Ton Superintendent Cimato updates status of redistricting proposal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ken-Ton Superintendent Cimato updates status of redistricting proposal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAQAAACRI2S5AAAAEklEQVR42mM8U8+AFzCOKgADAHdUC60wg0dkAAAAAElFTkSuQmCC"
+ alt="Behind The Lens: The visual feast of the Buffalo Wing Festival"
+ class="img-responsive lazyload full default"
+ width="1920"
+ height="1080"
+ data-sizes="auto"
+ data-srcset="https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=150%2C84 150w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=200%2C113 200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=225%2C127 225w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=300%2C169 300w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=400%2C225 400w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=540%2C304 540w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=640%2C360 640w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=750%2C422 750w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=990%2C557 990w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=1035%2C582 1035w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=1200%2C675 1200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=1333%2C750 1333w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg?resize=1476%2C830 1476w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/1/6f/16f0337b-2d0f-534f-a33a-6912e174c2fa/6a95f2e71865b.image.jpg 2008w" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Behind The Lens: The visual feast of the Buffalo Wing Festival 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Behind The Lens: The visual feast of the Buffalo Wing Festival 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAQAAACRI2S5AAAAEklEQVR42mM8U8+AFzCOKgADAHdUC60wg0dkAAAAAElFTkSuQmCC"
+ alt="Buffalo State president on new beginnings"
+ class="img-responsive lazyload full default"
+ width="1920"
+ height="1080"
+ data-sizes="auto"
+ data-srcset="https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=150%2C84 150w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=200%2C113 200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=225%2C127 225w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=300%2C169 300w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=400%2C225 400w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=540%2C304 540w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=640%2C360 640w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=750%2C422 750w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=990%2C557 990w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=1035%2C582 1035w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=1200%2C675 1200w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=1333%2C750 1333w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg?resize=1476%2C830 1476w, https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/9/60/9605fbb2-2d97-57c9-bffc-198d583bfcdd/6a88bfe94fa03.image.jpg 2008w" />
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Buffalo State president on new beginnings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Buffalo State president on new beginnings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .bottom-ads-row > .ad-col { margin-bottom: 15px; }
+ .bottom-ads-row > .ad-col .tnt-ads { border:0!important; }
+ @media (min-width: 992px) {
+ .bottom-ads-row {
+ display: flex;
+ flex-wrap: wrap;
+ margin: 30px auto 0 auto;
+ column-gap: 15px;
+ max-width: 930px;
+ }
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &times; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Bluesky 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ YouTube 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+{ "@context" : "https://schema.org",
+ "@type" : "Organization",
+ "url" : "http://buffalonews.com",
+ "sameAs" : ["\/facebook","\/twitter","\/bluesky","\/youtube"]
+}
+ 
+ 
+ <a 
+ class="btn btn-bordered" 
+ title="Add us as a preferred news source to see more of our stories on Google"
+ href="https://www.google.com/preferences/source?q=buffalonews.com"
+ rel="nofollow"
+ target="_blank"
+ role="link"
+ aria-label="Link to Google Preferences"
+ >
+ 
+ Prefer us on Google
+ 
+ <button
+ class="btn btn-bordered btn-icon"
+ type="button"
+ data-content="Add The Buffalo News as a preferred news source to see more of our stories on Google." 
+ data-html="true"
+ data-toggle="source-popover"
+ data-placement="top"
+ role="button"
+ data-trigger="focus"
+ aria-label="Tooltip explaining what this link does"
+ tabindex="0"
+ >
+ 
+ Learn More 
+ 
+ 
+ #preferredSource {
+ display:inline-flex;
+ }
+ #preferredSource .btn {
+ display:inline-flex;
+ align-items: center;
+ gap: 0.5rem;
+ }
+ #preferredSource .popover {
+ min-width: 30ch;
+ color: #222;
+ }
+ 
+ #preferredSource .btn-bordered {
+ background: transparent;
+ border: 1px solid white;
+ opacity: 1;
+ color: white;
+ }
+ #preferredSource .btn-bordered:hover {
+ background: #285e8e;
+ color:white;
+ }
+ 
+ .blox-asset:not(.type-article) #asset-content #preferredSource + div {
+ margin-top: 1em;
+ }
+ #site-footer #preferredSource {
+ margin: 0 0 2em;
+ }
+ 
+ 
+ $(function () {
+ $('[data-toggle="source-popover"]').popover({container: 'body'});
+ })
+ 
+ 
+ 
+ 
+ Sites &amp; Partners 
+ 
+ 
+ Buffalo Job Finder 
+ 
+ 
+ BN Home 
+ 
+ 
+ [BN] Ads 
+ 
+ 
+ Buffalo Magazine 
+ 
+ 
+ WNY Weddings 
+ 
+ 
+ Classifieds 
+ 
+ 
+ The Buffalo News Store 
+ 
+ 
+ 
+ 
+ 
+ Services 
+ 
+ 
+ Activate 
+ 
+ 
+ Manage Subscription 
+ 
+ 
+ Advertise With Us 
+ 
+ 
+ Work Here 
+ 
+ 
+ Contests 
+ 
+ 
+ Newsletters 
+ 
+ 
+ Contact Us 
+ 
+ 
+ Become a Carrier 
+ 
+ 
+ Licensing 
+ 
+ 
+ Shopping 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &copy; Copyright 2026
+ The Buffalo News , 726 Exchange St. Buffalo, NY 14210
+ 
+ A Lee Enterprises , Incorporated newspaper. Majority shareholder: David Hoffmann, Hoffmann Media Group. 
+ 
+ 
+ 
+ Terms of Use 
+ | 
+ Privacy Policy 
+ | 
+ Advertising Terms of Use 
+ | 
+ Do Not Sell My Info 
+ | 
+ Cookie Preferences 
+ 
+ 
+ Powered by BLOX Content Management System from bloxdigital.com .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {{title}} 
+ {{summary}} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Notifications 
+ Settings 
+ 
+ 
+ 
+ 
+ 
+ 
+ You don't have any notifications. 
+ 
+ 
+ 
+ Get up-to-the-minute news sent straight to your device. 
+ 
+ 
+ Topics 
+ 
+ 
+ News Alerts 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Breaking News 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ window.__tnt = window.__tnt || {};
+ __tnt.compatibility = __tnt.compatibility || {};
+ __tnt.compatibility.status = '';
+ __tnt.compatibility.check = function() {
+ if (typeof __tnt.advertisements == 'undefined') {
+ __tnt.compatibility.status = 'FAIL: object 0 undefined';
+ return false;
+ }
+ return true;
+ };
+ __tnt.compatibility.notification = function() {
+ };
+ (function() {
+ function compatibilityCheck() {
+ if (!__tnt.compatibility.check()) {
+ __tnt.trackEvent({
+ 'category':'subscription',
+ 'action':'adblock',
+ 'label':'adblock detected',
+ 'value':'1'
+ });
+ __tnt.compatibility.notification();
+ }
+ }
+ if (document.readyState != 'loading') {
+ compatibilityCheck();
+ } else {
+ document.addEventListener('DOMContentLoaded', compatibilityCheck);
+ }
+ })();
+ 
+ 
+ 
+ 
+ jQuery(function() {
+ if(typeof TNCMS.Tracking != 'undefined'){
+ jQuery(TNCMS.Tracking.trackDeclarativeEvents);
+ }dataLayer.push({'tncms.client.recent_five':__tnt.recentFive.add("82e4f28e-b318-4cb2-80d2-790ce98af53b")});});
+ 
+ 
+ __tnt.trackEvent = function(obj) {
+ if (typeof obj === 'object') {
+ if (obj.category && obj.action) {
+ __tnt.googleEvent(obj);
+ } else if (obj.network && obj.socialAction) {
+ __tnt.googleSocial(obj);
+ } else if (obj.url) {
+ __tnt.googlePageView(obj);
+ }
+ if (typeof TNCMS.Tracking != 'undefined' && obj.metric) {
+ TNCMS.Tracking.addEvent({
+ app: obj.app,
+ metric: obj.metric,
+ id: obj.uuid
+ });
+ }
+ }
+ };
+ if (__tnt.trackEventLater.length > 0) {
+ __tnt.trackEventLater.forEach(function(obj) {
+ __tnt.trackEvent(obj);
+ });
+ }
+ Array.from(document.querySelectorAll('body [data-track]')).forEach(function(el) {
+ el.addEventListener(__tnt.client.clickEvent, function() {
+ __tnt.trackEvent(JSON.parse(el.dataset.track));
+ });
+ });
+ Array.from(document.querySelectorAll('body [data-tncms-track-event]')).forEach(function(el) {
+ el.addEventListener(__tnt.client.clickEvent, function() {
+ __tnt.trackEvent(JSON.parse(el.dataset.tncmsTrackEvent));
+ });
+ });
+ 
+ Array.from(document.querySelectorAll('body [data-tncms-track-dmp]')).forEach(function(el) {
+ el.addEventListener(__tnt.client.clickEvent, function() {
+ var dmpData = el.dataset.tncmsTrackDmp;
+ 
+ });
+ });
+ 
+ 
+ 
+ 
+ (function(){
+ if(window.Osano?.cm?.getConsent().ANALYTICS === 'ACCEPT'){
+ var d = document.createElement('div');
+ d.style.display = 'none'; 
+ d.innerHTML = ' ';
+ document.body.appendChild(d);
+ }
+ })();
+ 
+ 
+ 
+ 
+ 
+ 
+ /*<![CDATA[*/ if(window.Osano?.cm?.getConsent().ANALYTICS === 'ACCEPT' && window.Osano?.cm?.getConsent().PERSONALIZATION === 'ACCEPT'){
+ !function(){var i="cioanalytics", cio_analytics=(window[i]=window[i]||[]);if(!cio_analytics.initialize)if(cio_analytics.invoked)window.console&&console.error&&console.error("Snippet included twice.");else{cio_analytics.invoked=!0;cio_analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];cio_analytics.factory=function(e){return function(){var t=Array.prototype.slice.call(arguments);t.unshift(e);cio_analytics.push(t);return cio_analytics}};for(var e=0;e<cio_analytics.methods.length;e++){var key=cio_analytics.methods[e];cio_analytics[key]=cio_analytics.factory(key)}cio_analytics.load=function(key,e){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.setAttribute('data-global-customerio-analytics-key', i);t.src="https://cdp.customer.io/v1/analytics-js/snippet/" + key + "/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);cio_analytics._writeKey=key;cio_analytics._loadOptions=e};cio_analytics.SNIPPET_VERSION="4.15.3";
+ cio_analytics.load('ac9226aa9ca562a05b67', {
+ user: {
+ persist: false,
+ cookie: {
+ key: 'cio_user_id'
+ },
+ localStorage: {
+ key: 'cio_user_traits'
+ }
+ },
+ 'integrations': {
+ 'Customer.io In-App Plugin': { 
+ anonymousInApp: true
+ }
+ }
+ });
+ 
+ const sUserId = window.sessionStorage.getItem('lee_uuid');
+ const sUserAud = window.localStorage.getItem('lee.segment.aud') || window.sessionStorage.getItem('lee.segment.aud');
+ if(__tnt.user.services || (sUserAud && sUserId)){
+ const rgx = /registered_users/i;
+ if(rgx.test(sUserAud)){
+ cioanalytics.identify(sUserId, {});
+ }
+ }
+ }}();} /*]]>*/ 
+ /*<![CDATA[*/ window.lee_chat_open = false;
+ jQuery(document).ready(function($){
+ if(window.Osano?.cm?.getConsent().PERSONALIZATION === 'ACCEPT'){
+ $('.lee-chat-fab').show();
+ if(!window.lee_meter_loaded && !window.lee_regwall_loaded){ $('.lee-chat-fab.inst-corner').hide(); }
+ let gen_ready,
+ gen_loaded,
+ gen_disconnected,
+ gen_observed,
+ gen_sent;
+ $('.lee-chat-fab').on('click', function(){
+ const btn = $(this);
+ if(typeof Genesys === 'undefined'){
+ $(btn).addClass('loading');
+ (function(g, e, n, es, ys) {
+ g['_genesysJs'] = e;
+ g[e] = g[e] || function() {
+ (g[e].q = g[e].q || []).push(arguments)
+ };
+ g[e].t = 1 * new Date();
+ g[e].c = es;
+ ys = document.createElement('script');
+ ys.async = 1;
+ ys.src = n;
+ ys.charset = 'utf-8';
+ document.head.appendChild(ys);
+ })(window, 'Genesys', 'https://apps.mypurecloud.com/genesys-bootstrap/genesys.min.js', {
+ environment: 'prod',
+ deploymentId: '0fbfec3d-5d87-4a16-a338-dcb7a52ed556'
+ });
+ 
+ Genesys('subscribe', 'Messenger.ready', (e) => {
+ if(!gen_ready){
+ gen_ready = true;
+ if(console) console.log('[Genesys] Init messenger...');
+ Genesys('command', 'Database.set', {
+ messaging: {
+ customAttributes: {
+ WebpageURL: String(window.location.href),
+ }
+ }
+ });
+ Genesys('command', 'Messenger.open');
+ }
+ });
+ 
+ Genesys('subscribe', 'Messenger.opened', (e) => {
+ if(console) console.log('[Genesys] Opening messenger...');
+ if($(btn).hasClass('loading')){
+ $(btn).removeClass('loading');
+ }
+ $(btn).addClass('open');
+ $('.lee-chat-fab.inst-corner').addClass('open').show();
+ window.lee_chat_open = true;
+ });
+ 
+ Genesys('subscribe', 'Messenger.closed', (e) => {
+ if(console) console.log('[Genesys] Closing messenger...');
+ $(btn).removeClass('open');
+ if(!window.lee_meter_loaded) {
+ $('.lee-chat-fab.inst-corner').hide();
+ }
+ window.lee_chat_open = false;
+ });
+ } else {
+ if(!window.lee_chat_open){
+ Genesys('command', 'Messenger.open');
+ } else {
+ Genesys('command', 'Messenger.close');
+ }
+ }
+ });
+ }
+ }); /*]]>*/ 
+ 
+ /*<![CDATA[*/ window.document.addEventListener('TownnewsSegmentLoaded', function(oEvent) {
+ try {
+ if(oEvent.detail && oEvent.detail.user_id && window.localStorage){
+ window.localStorage.setItem('_us_master_id', oEvent.detail.user_id);
+ __tnt.log('UserStitch ID: ' + oEvent.detail.user_id);
+ }
+ } catch(oError){}
+ });
+ window.addEventListener('DOMContentLoaded', function() {
+ (function(fnCallback) { var oStorage; var bFired = false; try { oStorage = JSON.parse(sessionStorage.getItem('tncms.dmp.segment.audiences')); if (!oStorage || !oStorage.audiences || !oStorage.expired) { console.debug('TNCMS.DMP: Audience session storage empty'); throw "Not in session storage"; } if (oStorage.expired oResp.json()) .then(oData => { oJSON = oData; if (!oJSON.success && oJSON.msg) { console.error(oJSON.msg); } if (oJSON.audiences && oJSON.audiences.length ) { for (let iIndex = 0; iIndex { console.error('TNCMS.DMP: ', oError); }); } catch(oException) { if (console && console.warn) { console.warn('TNCMS.DMP: Failed to add audiences to segment session storage'); console.debug(oException); } } }); }); } } })(lee_segment_audience);
+ });
+ function lee_segment_audience(e){
+ if(typeof e === 'object'){
+ const sAud = window.localStorage.getItem('lee.segment.aud') || window.sessionStorage.getItem('lee.segment.aud');
+ const sSeg = e.join(',');
+ if(sAud != sSeg){
+ window.localStorage.setItem('lee.segment.aud', sSeg);
+ }
+ }
+ } /*]]>*/ 
+ /*<![CDATA[*/ jQuery(document).ready(function($){
+ $('#lee-cookie-pref').on('click', function(){
+ if(window.Osano){
+ window.Osano.cm.showDrawer('osano-cm-dom-info-dialog-open');
+ } else {
+ $('#global-modal-body').html(' Your browser settings are preventing cookie preferences from loading. Some features of this website may not function as expected. ');
+ $('#global-modal').modal({show: true});
+ }
+ });
+ }); /*]]>*/ 
+ /* {
+ if(window.Osano?.cm?.getConsent().MARKETING === 'ACCEPT' && !__tnt?.ads?.dfp?.af){
+ const scr = document.createElement('script');
+ scr.type = 'text/javascript';
+ scr.src = 'https://s.skimresources.com/js/270280X1756433.skimlinks.js';
+ document.body.appendChild(scr);
+ }
+ })(); /*]]>*/ 
+ 
+ 
+ /*<![CDATA[*/ 
+ /* Copy url to clipboard */
+ function copyLink(url, copyTarget) {
+ /* Populate clipboard */
+ navigator.clipboard.writeText(url);
+ 
+ /* Bootstrap popover */
+ $(copyTarget).popover().popover("show").prop("disabled", true);
+ 
+ /* Hide popover after timeout */
+ setTimeout(
+ function() {
+ $(copyTarget).popover("hide").popover("destroy").prop("disabled", false);
+ }, 2000);
+ } /*]]>*/ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*<![CDATA[*/ 
+ if(window.innerWidth >= 992 && window.Osano?.cm?.getConsent().MARKETING === 'ACCEPT'){
+ jQuery(document).ready(function($){
+ $('.lee-sticky-ad').stick_in_parent({
+ 'parent': $('.lee-text-row'),
+ 'offset_top': 75,
+ 'spacer': false
+ });
+ });
+ } /*]]>*/ 
+ /*<![CDATA[*/ function messagingCallback(oPayload) {
+ __tnt.notify({
+ title: oPayload.title,
+ message: oPayload.body,
+ url: oPayload.url,
+ image: oPayload.icon,
+ duration: 6000,
+ utm: {
+ 'utm_source':'BLOX Broadcast',
+ 'utm_campaign':'Push Notification',
+ 'utm_medium':'referral',
+ 'utm_content':'in-page notification'
+ }
+ }).showNotification();
+ } /*]]>*/ 
+ /*<![CDATA[*/ 
+ jQuery(document).ready(function($){
+ var iqLogin = Cookies.get('tnt-iq-login') || false;
+ if (__tnt.user.loggedIn && iqLogin == false) {
+ if (__tnt.user.services) {
+ var userServices = __tnt.user.services.split(',');
+ for (i = 0; i < userServices.length; i++) { 
+ var serviceData = 'has_subservice: ' + userServices[i];
+ 
+ }
+ }
+ Cookies.set('tnt-iq-login', 1);
+ }
+ });
+ 
+ if (window.location.hash){
+ var hashSet = ['tncms_source','utm_source','utm_campaign','utm_medium','utm_content','utm_term'],
+ urlHash = window.location.hash.replace('#','').split('&');
+ for (var i = 0; i < urlHash.length; i++) {
+ var data = urlHash[i].split('='),
+ param = data[0].replace('-','_');
+ if (hashSet.indexOf(param) != -1){
+ var dmpData = param + ': ' + data[1];
+ 
+ }
+ }
+ }
+ /*]]>*/ 
+ 
+ 
+.lee-article-text .highlight {
+ background-color: #ffffa7;
+}
+#gist-text-menu {
+ position: absolute;
+ display: none;
+ z-index: 5;
+ --gradAngle: 90deg;
+ background-image: linear-gradient(var(--gradAngle), #FFAD00, #F05443, #9678D3);
+ background-size: cover;
+ padding: 3px;
+ border-radius: 30px;
+ box-shadow: 0px 0px 4px rgb(0 0 0 / 77%);
+}
+#gist-text-menu-submit { 
+ display: flex; 
+ align-items: center; 
+ background-color: var(--lee-blox-masthead-color)!important;
+ border-color: var(--lee-blox-masthead-color)!important;
+ border-radius: 30px;
+ cursor: pointer;
+ color: #fff;
+ padding: 8px 20px;
+ font-weight: 500;
+}
+#gist-text-menu-submit svg { margin-right: 8px; }
+ 
+ 
+ 
+ 
+ 
+ 
+ Search AI Answers 
+ 
+ 
+(() => {
+ const aiDisabled = window.sessionStorage.getItem('lee_tradtional_search') || window.localStorage.getItem('lee_tradtional_search');
+ 
+ if(__tnt.user.services && !__tnt?.ads?.dfp?.af && !aiDisabled && window.Osano?.cm?.getConsent().MARKETING === 'ACCEPT'){
+ let selectionTimer = null;
+ let activeHighlight = null;
+ let selectedText = null;
+ 
+ const articleContent = document.getElementById('article-body');
+ const menu = document.getElementById('gist-text-menu');
+ const submitSearch = document.getElementById('gist-text-menu-submit');
+ 
+ articleContent.addEventListener('mouseup', () => {
+ clearTimeout(selectionTimer);
+ selectionTimer = setTimeout(() => {
+ const selection = document.getSelection();
+ if (!selection.rangeCount) return;
+ 
+ selectedText = selection.toString().trim();
+ if (!selectedText) {
+ menu.style.display = 'none';
+ return;
+ }
+ 
+ const range = selection.getRangeAt(0);
+ const startNode = range.startContainer.nodeType === 1 ? range.startContainer : range.startContainer.parentElement;
+ const endNode = range.endContainer.nodeType === 1 ? range.endContainer : range.endContainer.parentElement;
+ const startP = startNode.closest('.lee-article-text p');
+ const endP = endNode.closest('.lee-article-text p');
+ 
+ if (!startP || !endP || startP !== endP) {
+ menu.style.display = 'none';
+ return;
+ }
+ 
+ const rect = range.getBoundingClientRect();
+ 
+ menu.style.display = 'block';
+ menu.style.top = window.scrollY + rect.top + 40 + "px";
+ menu.style.left = window.scrollX + rect.left + rect.width / 2 + "px";
+ }, 50);
+ });
+ 
+ function openSearch(q){
+ const p = encodeURIComponent(q);
+ const url = '/search/ai/?modal_doc=true&q='+p;
+ jQuery('#global-modal-body').html(' ');
+ jQuery('#global-modal').modal({show: true});
+ }
+ 
+ submitSearch.addEventListener('click', () => {
+ if(selectedText){
+ openSearch(selectedText);
+ }
+ });
+ 
+ document.addEventListener('click', (e) => {
+ if (!menu.contains(e.target)) {
+ menu.style.display = 'none';
+ }
+ });
+ }
+})();
+ 

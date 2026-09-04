@@ -25,6 +25,69 @@ Langworthy's announcement neither identifies any NY-23 facility receiving funds 
 
 ---
 
+## Update, September 4, 2026: the third announcement of the same award
+
+On September 4, 2026, Rep. Langworthy posted on his official page, linking
+a CMS release headlined "Trump Administration Announces $76 Million to
+Strengthen Regional Coordination and Modernize Healthcare Technology for
+New York":
+
+> "One size most definitely does not fit all when it comes to rural health
+> care. That's why we created the Rural Health Transformation Program. Rural
+> communities like many I represent in NY23 face unique challenges that
+> demand unique solutions and this $76 million statewide investment delivers
+> on that promise. It will strengthen ties between rural hospitals, health
+> centers, and providers so Southern Tier families get the quality care and
+> access they deserve."
+
+**The $76 million is not a new award.** The CMS release he linked says so
+itself: "Today's announcement is just one part of the larger overall
+funding amount awarded to New York for fiscal year 2026." The state's own
+funding guidance for its Rural Community Health Integration initiative,
+issued before applications opened, reads: "This funding guidance is to
+allocate $76,190,022 for Budget Period 1 of the Rural Health Transformation
+Program," drawn from "a financial assistance award totaling $212,058,207.80
+in Budget Period 1." That is the December award this entry documents.
+Applications for the money opened June 12 and closed July 14, 2026; the
+guidance states that contracts "will begin on September 1, 2026." The post
+presents, as a delivery on a promise, a slice of the December award whose
+application window had closed seven weeks earlier.
+
+That makes three announcements of one award: the December 30, 2025 press
+release ($212 million), the July 15, 2026 Centralus Health event (see the
+[companion entry](/fact-checks/2026-07-16-rural-health-fund-centralus-repeat/)),
+and the September 4 post ($76 million).
+
+**"We created."** The fund was not a House creation. KFF's account: "just
+prior to passage, the Senate added $50 billion in funding for a new 'rural
+health transformation program,'" as an offset to the Medicaid reductions in
+the same bill. The House then passed the Senate's version on Roll Call 190.
+
+**Still no NY-23 facility named.** Fingerlakes1's September 4 report on the
+announcement notes it "did not identify individual provider awards, project
+sites or a timetable." Southern Tier Health Care System in Cattaraugus
+County wrote on July 10 that it was "entering the final stretch of
+completing our application" for a planning grant under the initiative, so
+NY-23 organizations did apply; none has yet been publicly named as funded.
+
+**The loss side has not changed.** The comparison figures in this entry
+stand: the same law cuts roughly $137 billion from rural Medicaid over ten
+years nationally (KFF), New York hospitals face roughly $8–10 billion a year
+at full implementation (HANYS/GNYHA), and New York's entire first-year award
+is $212 million. The $76 million in the September 4 post is about a third of
+that.
+
+*Update sources: CMS release, Sept 4, 2026 (archived); NY DOH, "Rural
+Community Health Integration" funding guidance (research/sources/rhtp-76m-2026-09/rchi_funding_guidance.pdf);
+Buffalo News, "WNY rural health groups can apply for $76 million in funds";
+COPE Health Solutions RCHI summary; Fingerlakes1, "Seven NY-23 counties
+targeted in $76.2 million rural health initiative," Sept 4, 2026; Southern
+Tier Health Care System CEO update, July 10, 2026; KFF, "A Closer Look at the
+$50 Billion Rural Health Fund." The Facebook post is archived via its public
+embed (archive log: research/sources/archive_log_2026-09-04-rhtp.tsv).*
+
+---
+
 ## The Announcement
 
 **December 29, 2025 — CMS press release:** *"CMS Announces $50 Billion in Awards to Strengthen Rural Health in All 50 States."* RHTP is structured as $10 billion per year for fiscal years 2026 through 2030; 50% of the fund is distributed equally across all 50 states (~$100M per year per state baseline); the other 50% is distributed by rural-health metrics and the quality of each state's submitted plan.
@@ -169,3 +232,5 @@ A reader of the December 30 announcement could reasonably conclude that NY-23 ru
 ---
 
 *All data from public primary sources. Methodology available on request.*
+
+*Last updated: September 4, 2026 (addendum on the $76 million post).*

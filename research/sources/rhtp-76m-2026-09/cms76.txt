@@ -1,0 +1,680 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ "@context": "https://schema.org",
+ "@graph": [
+ {
+ "@type": "NewsArticle",
+ "@id": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-76-million-strengthen-regional-coordination-modernize-healthcare#article",
+ "url": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-76-million-strengthen-regional-coordination-modernize-healthcare",
+ "headline": "Trump Administration Announces $76 Million to Strengthen Regional Coordination and Modernize Healthcare Technology for New York",
+ "about": "Rural health",
+ "description": "Trump Administration Announces $76 Million to Strengthen Regional Coordination and Modernize Healthcare Technology for New YorkThis federal investment will strengthen regional partnerships, improve coordination of care, and expand access to healthcare services for rural New Yorkers",
+ "image": {
+ "@type": "ImageObject",
+ "representativeOfPage": "False",
+ "url": "https://www.cms.gov/themes/custom/cms_evo/logo.svg",
+ "width": "600"
+ },
+ "datePublished": "2026-09-04T08:00:00-04:00",
+ "dateModified": "2026-09-04T08:00:17-04:00",
+ "author": {
+ "@type": "GovernmentOrganization",
+ "@id": "https://www.cms.gov/#organization",
+ "name": "Centers for Medicare and Medicaid Services",
+ "url": "https://www.cms.gov/",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://www.cms.gov/themes/custom/cms_evo/logo.svg",
+ "width": "600"
+ }
+ },
+ "publisher": {
+ "@type": "GovernmentOrganization",
+ "@id": "https://www.cms.gov/#organization",
+ "name": "Centers for Medicare and Medicaid Services",
+ "url": "https://www.cms.gov/",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://www.cms.gov/themes/custom/cms_evo/logo.svg",
+ "width": "600"
+ }
+ },
+ "articleSection": "Press Releases",
+ "mainEntityOfPage": "https://www.cms.gov/newsroom/press-releases/trump-administration-announces-76-million-strengthen-regional-coordination-modernize-healthcare"
+ }
+ ]
+} 
+ 
+ 
+ 
+ Trump Administration Announces $76 Million to Strengthen Regional Coordination and Modernize Healthcare Technology for New York | CMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Centers for Medicare &amp; Medicaid Services
+ 
+ 
+ 
+ CMS Newsroom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CMS Global Secondary Menu 
+ 
+ 
+ 
+ 
+ About CMS 
+ 
+ 
+ Newsroom 
+ 
+ 
+ Data &amp; Research 
+ 
+ 
+ 
+ 
+ 
+ Search the Newsroom 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newsroom 
+ 
+ 
+ Newsroom Menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newsroom 
+ 
+ 
+ Press Kit 
+ 
+ 
+ Data 
+ 
+ 
+ Contact 
+ 
+ 
+ CMS.gov Home 
+ 
+ 
+ About CMS 
+ 
+ 
+ Data &amp; Research 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newsroom 
+ 
+ 
+ Press Kit 
+ 
+ 
+ Data 
+ 
+ 
+ Contact 
+ 
+ 
+ CMS.gov Home 
+ 
+ 
+ About CMS 
+ 
+ 
+ Data &amp; Research 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newsroom Homepage 
+ 
+ 
+ 
+ Press Releases
+ 
+ 
+ 
+ Trump Administration Announces $76 Million To Strengthen Regional Coordination and Modernize Healthcare Technology For New York
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Press Releases 
+ Sep 04, 2026 
+ 
+ 
+ Trump Administration Announces $76 Million to Strengthen Regional Coordination and Modernize Healthcare Technology for New York 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Rural health 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trump Administration Announces $76 Million to Strengthen Regional Coordination and Modernize Healthcare Technology for New York This federal investment will strengthen regional partnerships, improve coordination of care, and expand access to healthcare services for rural New Yorkers The Trump Administration announced today that a $76 million investment is being delivered to improve regional healthcare networks and deliver technology-enhanced primary care for New Yorkers through the federal Rural Health Transformation Program (RHTP). This investment will support coordinated care to expand access to healthcare services, allowing rural hospitals and community providers to build and grow integrated care networks. The funds will also help address rural healthcare workforce needs through the expansion of enhanced clinical rotations, employer-based training programs, and remote-supported training technologies. “President Trump understands that every American deserves high-quality healthcare, no matter where they live,”&nbsp; said Health and Human Services Secretary Robert F. Kennedy, Jr. &nbsp;“We are putting resources directly into rural communities to strengthen the health workforce, modernize infrastructure, expand access, and bring care closer to home. We are giving states the flexibility to build solutions around the people they serve, while demanding accountability for results. That is how we strengthen rural health, improve the lives of patients and families, and Make America Healthy Again.” “President Trump made a historic commitment to rural America, and these investments are turning that commitment into better care for patients in communities across New York,”&nbsp; said Centers for Medicare &amp; Medicaid Services Administrator Dr. Mehmet Oz. &nbsp;“This is what rural health transformation should look like: federal investment that is putting patients first, driving lasting improvements and expanding healthcare for the hardworking Americans who call these communities home.” Today’s investment was made possible through the Working Families Tax Cuts Act — passed by Republicans in Congress and unanimously opposed by Democrats — delivering a historic $50 billion investment to help states transform the way healthcare is delivered in America. “The Working Families Tax Cuts are delivering meaningful investments to communities across New York. Through this historic legislation, the Rural Health Transformation Program represents a significant commitment to strengthening rural communities, which remain an essential part of our state’s economy, character, and identity,” said Rep. Nick LaLota. “This investment will help rural hospitals, health centers, and community providers across New York better coordinate care and ensure patients can access the services they need. I thank President Trump and CMS for delivering more than $76 million through New York’s Rural Community Health Integration Initiative to strengthen health care in communities across our state," said Rep. Andrew Garbarino. “I’m pleased to see more than $76 million in new federal funding made possible by the Working Families Tax Cuts coming to New York to strengthen healthcare services. More investments like this strengthen New York’s broader healthcare system and ensure there’s enough funding to support better care for patients across the state,” said Rep. Nicole Malliotakis. “This funding will help rural hospitals and community providers work together so New Yorkers can get the care they need closer to home. That’s what the Rural Health Transformation Program is supposed to deliver, and I’m glad New York is putting $76 million to work now and more than $200 million this year for families across the state,” said Rep. Mike Lawler. &nbsp; Rep. Nick Langworthy said, “When we created the Rural Health Transformation Program, it was to acknowledge that our rural communities face unique healthcare challenges and demand a unique approach to improving access and quality of care. This significant $76 million investment in New York is proof that we are delivering on that promise. By strengthening partnerships among rural hospitals, health centers, and community providers, we are breaking down barriers to care, improving coordination, and building a stronger rural health care system that improves health outcomes, expands access, and delivers the kind of care that Americans in rural communities deserve just as much as those in urban and suburban settings. Delivering on this commitment will continue to be one of my top priorities for the residents of Western New York and the Southern Tier." “Across Upstate New York, rural families too often face provider shortages, long travel times, and barriers to receiving timely medical care,” said Rep. Claudia Tenney.&nbsp; “This $76 million investment will strengthen the safety net hospitals, health centers, and community providers on the front lines, improve care coordination, and expand access to critical health and social services where they are needed most. I remain committed to ensuring these resources deliver meaningful results for patients and that our rural communities are never left behind.” These investments reflect the state’s commitment to create lasting improvements in healthcare access, quality, and sustainability across rural communities. Today’s announcement is just one part of the&nbsp; larger overall funding amount &nbsp;awarded to New York for fiscal year 2026.&nbsp; Projects supported by this funding include:&nbsp; Strengthening rural health partnerships and care coordination: Improving coordination among rural hospitals, primary care providers, Federally Qualified Health Centers, behavioral health providers, and other community-based organizations that will help patients navigate care more seamlessly across providers and settings. Expanding access to comprehensive healthcare:&nbsp; Enabling rural &nbsp; New Yorkers to receive more of the care and support they need closer to home to help address gaps in local services and connect patients with appropriate health and community resources. Strengthening transitions and connections across the continuum of care:&nbsp; Creating more integrated regional networks and improving coordination among hospitals, health centers, behavioral health providers, and community organizations to make it easier for patients to access services and move among providers and care settings. Supporting collaborative models that improve health outcomes:&nbsp; Bringing rural healthcare and community partners together to better address patients’ health needs and improve health outcomes. These partnerships will help communities develop more coordinated approaches tailored to the needs of rural populations. Building a more sustainable rural health care system: Increasing the long-term sustainability of rural healthcare providers and the communities they serve by investing in stronger regional partnerships and integrated health networks to create lasting improvements in rural healthcare access, quality, and sustainability. The Trump Administration is delivering on its commitment to strengthen rural America by investing in solutions that modernize technology to&nbsp;promote health and well-being for rural communities.&nbsp;Led by CMS,&nbsp;the RHTP is moving beyond the failed one-size-fits-all approach and giving rural communities the tools to build stronger, more innovative, and more sustainable health systems that deliver better care and better outcomes for the Americans they serve. For more information about the RHTP, visit:&nbsp; https://www.medicaid.gov/resources-for-states/rural-health . ### Get CMS news at&nbsp; cms.gov/newsroom , sign up for CMS news  via email  and follow CMS on X&nbsp; @CMSgov 
+ 
+ 
+ Previous Newsroom Article 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related Releases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Press Releases 
+ Sep 03, 2026 
+ Trump Administration Announces $120 Million to Expand Maternal and Infant Health Services, Increase Primary Care Access and Grow the Healthcare Workforce Across Indiana 
+ 
+ Press Releases 
+ Sep 01, 2026 
+ Trump Administration Announces $58 million to Deliver New Ambulances and Upgrade Emergency Communications Systems Across Hawaii 
+ 
+ Press Releases 
+ Aug 31, 2026 
+ Trump Administration Announces $149.3 Million to Expand Telehealth and Increase Access to Specialty Care and Preventive Screenings in Rural Arkansas 
+ 
+ Press Releases 
+ Aug 28, 2026 
+ Trump Administration Announces $122 Million to Expand Healthcare Access, Workforce and Innovation Across Virginia 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact us 
+ 
+ 
+ CMS News and Media Group 
+Catherine Howden, Director 
+ 
+ Media Inquiries Form 
+202-690-6145 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get email updates 
+ Sign up to get the latest information about your choice of CMS topics. You can decide how often to receive updates. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ Sign up - opens in a new window 
+ Sign up 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CMS &amp; HHS Websites 
+ CMS &amp; HHS Websites 
+ 
+ 
+ 
+ 
+ 
+ 
+ Medicare.gov 
+ 
+ 
+ Medicaid.gov 
+ 
+ 
+ InsureKidsNow.gov 
+ 
+ 
+ HealthCare.gov 
+ 
+ 
+ HHS.gov 
+ 
+ 
+ HHS.gov/Open 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About CMS 
+ About CMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us 
+ 
+ 
+ Careers 
+ 
+ 
+ Newsroom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tools 
+ Tools 
+ 
+ 
+ 
+ 
+ 
+ 
+ Acronyms 
+ 
+ 
+ Archive 
+ 
+ 
+ Contacts 
+ 
+ 
+ Glossary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Helpful Links 
+ Helpful Links 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Plain Language 
+ 
+ 
+ Privacy Settings 
+ 
+ 
+ Nondiscrimination &amp; Accessibility 
+ 
+ 
+ Developer Information 
+ 
+ 
+ Vulnerability Disclosure Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ USA Government Sites 
+ USA Government Sites 
+ 
+ 
+ 
+ 
+ 
+ 
+ Freedom of Information Act 
+ 
+ 
+ No Fear Act 
+ 
+ 
+ Inspector General 
+ 
+ 
+ USA.gov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Connect with CMS 
+ 
+ 
+ 
+ 
+ Linkedin link 
+ 
+ 
+ 
+ 
+ 
+ Youtube link 
+ 
+ 
+ 
+ 
+ 
+ Facebook link 
+ 
+ 
+ 
+ 
+ 
+ Twitter link 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A federal government website managed and paid for by the U.S. Centers for Medicare &amp; Medicaid Services. 
+ 7500 Security Boulevard, Baltimore, MD 21244 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2121011","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"tealiumiq":{"tealiumiq":{"utagurl":"https:\/\/tealium-tags.cms.gov\/cms-www\/prod\/utag.js","async":true,"utagData":{"page_name":"Trump Administration Announces $76 Million to Strengthen Regional Coordination and Modernize Healthcare Technology for New York","page_url":"https:\/\/www.cms.gov\/newsroom\/press-releases\/trump-administration-announces-76-million-strengthen-regional-coordination-modernize-healthcare","site_section":"newsroom","sub_section":"press-releases","site_environment":"prod","site_domain":"www.cms.gov","logged_in":"anonymous","content_type":"Newsroom Article","cms_group":"33131"}}},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0,"allowHtmlInTitles":0}},"mapboxToken":"[MAPBOX-TOKEN-REDACTED]","mapboxStyle":"mapbox:\/\/styles\/mapbox\/streets-v10","ajaxTrustedUrl":{"\/newsroom\/search":true},"user":{"uid":0,"permissionsHash":"1edc0dd35930ac5d95fd19e30cab2ae641f5e7df7de7d71ab6c9b7b47a84f133"}} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

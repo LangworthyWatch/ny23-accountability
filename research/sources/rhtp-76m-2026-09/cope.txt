@@ -1,0 +1,828 @@
+ 
+ 
+ 
+	 
+	 
+	 
+	 FIVE THINGS TO KNOW: New York’s Rural Community Health Integration (RCHI) Funding Opportunity - COPE Health Solutions 
+		 
+	 
+	 
+	 
+	 
+	 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BlogPosting","@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#blogposting","name":"FIVE THINGS TO KNOW: New York\u2019s Rural Community Health Integration (RCHI) Funding Opportunity - COPE Health Solutions","headline":"FIVE THINGS TO KNOW: New York&#8217;s Rural Community Health Integration (RCHI) Funding Opportunity","author":{"@id":"https:\/\/copehealthsolutions.com\/author\/pswainecopehealthsolutions-com\/#author"},"publisher":{"@id":"https:\/\/copehealthsolutions.com\/#organization"},"image":{"@type":"ImageObject","url":"https:\/\/copehealthsolutions.com\/wp-content\/uploads\/2025\/12\/logo.png","@id":"https:\/\/copehealthsolutions.com\/#articleImage","width":304,"height":86},"datePublished":"2026-06-11T16:11:43+00:00","dateModified":"2026-06-26T21:42:46+00:00","inLanguage":"en-US","mainEntityOfPage":{"@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#webpage"},"isPartOf":{"@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#webpage"},"articleSection":"Health Plans, New York State Department of Health, Rural Health Transformation Program, New York"},{"@type":"BreadcrumbList","@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/copehealthsolutions.com#listItem","position":1,"name":"Home","item":"https:\/\/copehealthsolutions.com","nextItem":{"@type":"ListItem","@id":"https:\/\/copehealthsolutions.com\/category\/health_plans\/#listItem","name":"Health Plans"}},{"@type":"ListItem","@id":"https:\/\/copehealthsolutions.com\/category\/health_plans\/#listItem","position":2,"name":"Health Plans","item":"https:\/\/copehealthsolutions.com\/category\/health_plans\/","nextItem":{"@type":"ListItem","@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#listItem","name":"FIVE THINGS TO KNOW: New York&#8217;s Rural Community Health Integration (RCHI) Funding Opportunity"},"previousItem":{"@type":"ListItem","@id":"https:\/\/copehealthsolutions.com#listItem","name":"Home"}},{"@type":"ListItem","@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#listItem","position":3,"name":"FIVE THINGS TO KNOW: New York&#8217;s Rural Community Health Integration (RCHI) Funding Opportunity","previousItem":{"@type":"ListItem","@id":"https:\/\/copehealthsolutions.com\/category\/health_plans\/#listItem","name":"Health Plans"}}]},{"@type":"Organization","@id":"https:\/\/copehealthsolutions.com\/#organization","name":"COPE Health Solutions","url":"https:\/\/copehealthsolutions.com\/","logo":{"@type":"ImageObject","url":"https:\/\/copehealthsolutions.com\/wp-content\/uploads\/2025\/12\/logo.png","@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#organizationLogo","width":304,"height":86},"image":{"@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#organizationLogo"}},{"@type":"Person","@id":"https:\/\/copehealthsolutions.com\/author\/pswainecopehealthsolutions-com\/#author","url":"https:\/\/copehealthsolutions.com\/author\/pswainecopehealthsolutions-com\/","name":"Paul Swaine","image":{"@type":"ImageObject","@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#authorImage","url":"https:\/\/secure.gravatar.com\/avatar\/73b24bd6fac77a7854b89c6867227e9840a357f73de13d49aa97544d56583fe3?s=96&d=mm&r=g","width":96,"height":96,"caption":"Paul Swaine"}},{"@type":"WebPage","@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#webpage","url":"https:\/\/copehealthsolutions.com\/five-things-to-know\/","name":"FIVE THINGS TO KNOW: New York\u2019s Rural Community Health Integration (RCHI) Funding Opportunity - COPE Health Solutions","description":"New York State has launched a landmark funding initiative under its Rural Health Transformation Program (RHTP), backed by a $212 million federal CMS award. The Rural Community Health Integration (RCHI) initiative, the first of four program tracks, is designed to catalyze coordinated rural health partnerships across 48 eligible counties in New York State. For health","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/copehealthsolutions.com\/#website"},"breadcrumb":{"@id":"https:\/\/copehealthsolutions.com\/five-things-to-know\/#breadcrumblist"},"author":{"@id":"https:\/\/copehealthsolutions.com\/author\/pswainecopehealthsolutions-com\/#author"},"creator":{"@id":"https:\/\/copehealthsolutions.com\/author\/pswainecopehealthsolutions-com\/#author"},"datePublished":"2026-06-11T16:11:43+00:00","dateModified":"2026-06-26T21:42:46+00:00"},{"@type":"WebSite","@id":"https:\/\/copehealthsolutions.com\/#website","url":"https:\/\/copehealthsolutions.com\/","name":"COPE Health Solutions","inLanguage":"en-US","publisher":{"@id":"https:\/\/copehealthsolutions.com\/#organization"}}]}
+		 
+		 
+ 
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NS8B2LCK'); 
+ 
+		 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+ 
+ 
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+ 
+ 
+ 
+ 
+ 
+ 
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-icon svg){width: 24px;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["copehealthsolutions.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "GT-K5LVCDG");
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+ 
+ 
+ 
+ 
+ 			 
+			 
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "blog-post"]);
+			 
+			 
+			 
+			 
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			 
+			 
+ 
+ 
+ 
+ 
+ 
+ 
+ <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NS8B2LCK"
+height="0" width="0" style="display:none;visibility:hidden"> 
+ 
+		
+ Skip to content 
+		 
+			 
+					 
+		 
+		 
+				 
+		 
+				 
+		 
+				 
+				 
+		 
+		 
+				 
+											 
+			 				 
+											 
+				 
+		 
+				 
+							 
+					 
+			 
+				 			 
+			 
+				 			 
+		 
+					 
+				 
+								 
+				 
+					 												 
+							Solutions						 
+					 											 
+							 
+								 								 Close Solutions 
+							 
+							 
+								 								 Open Solutions 
+							 
+						 
+									 
+									 
+						 
+					 
+		 
+		 
+					 
+		 
+				 
+					 Our Offerings 				 
+				 
+		 
+		 
+				 
+							 
+			 
+			 			 
+		 
+						 
+		 
+				 
+					 For Providers 				 
+				 
+					 Full enablement to power performance. We equip providers with the expertise, data, platform, and complete operational coverage to succeed in value-based care, improve quality and maximize financial upside. 				 
+				 
+										 
+						 
+						 
+				 			 
+									 Explore all VBC enablement solutions 
+					 
+					 
+								 
+				 
+				 
+		 
+				 
+							 
+			 
+			 			 
+		 
+						 
+		 
+				 
+					 For Health Plans 				 
+				 
+					 One partner. Less fragmentation. Lower costs. Our fully integrated, end-to-end solution drives complete operational alignment across clinical, administrative, and financial performance. 				 
+				 
+										 
+						 
+						 
+				 			 
+									 Drive performance across the value chain 
+					 
+					 
+								 
+				 
+				 
+				 
+		 
+				 
+					 State &amp; Federal Programs 				 
+		 
+				 
+							 
+			 
+			 			 
+		 
+						 
+		 
+				 
+					 State &amp; Federal Programs 				 
+				 
+					 Navigate the complexities of value-based payment models and evolving state and federal programs. 				 
+				 
+										 
+						 
+						 
+				 			 
+									 Chart your path forward with clarity 
+					 
+					 
+								 
+				 
+				 
+				 
+					 
+				 
+				 
+					 
+				 
+							 
+							 
+					 
+				 
+					 												 
+							Platform						 
+					 									 
+							 
+					 
+				 
+					 												 
+							Insights						 
+					 											 
+							 
+								 								 Close Insights 
+							 
+							 
+								 								 Open Insights 
+							 
+						 
+									 
+									 
+						 
+					 
+		 
+					 
+		 
+					 
+		 
+				 
+							 
+			 
+			 			 
+		 
+						 
+		 
+				 
+					 Insights 				 
+				 
+					 Insights and analysis to guide your value-based care strategy. 				 
+				 
+										 
+						 
+						 
+				 			 
+									 Read the Latest 
+					 
+					 
+								 
+				 
+				 
+		 
+				 
+							 
+			 
+			 			 
+		 
+						 
+		 
+				 
+					 Impact 				 
+				 
+					 Case studies and success stories highlighting real-world success in value-based care. 				 
+				 
+										 
+						 
+						 
+				 			 
+									 Explore Results 
+					 
+					 
+								 
+				 
+				 
+		 
+				 
+							 
+			 
+			 			 
+		 
+						 
+		 
+				 
+					 Webinars &amp; Events 				 
+				 
+					 Expert-led sessions and industry events unpacking the future of the industry. 				 
+				 
+										 
+						 
+						 
+				 			 
+									 Join Us 
+					 
+					 
+								 
+				 
+				 
+					 
+				 
+					 
+				 
+					 
+				 
+							 
+							 
+					 
+				 
+					 												 
+							About Us						 
+					 											 
+							 
+								 								 Close About Us 
+							 
+							 
+								 								 Open About Us 
+							 
+						 
+									 
+									 
+						 
+					 
+		 
+					 
+		 
+		 
+				 
+							 
+			 
+			 			 
+		 
+						 
+		 
+				 
+					 About Us 				 
+				 
+					 Get to know COPE Health Solutions, our people, and our mission. 				 
+				 
+										 
+						 
+						 
+				 			 
+									 Who We Are 
+					 
+					 
+								 
+				 
+				 
+		 
+				 
+							 
+			 
+			 			 
+		 
+						 
+		 
+				 
+					 Careers 				 
+				 
+					 Do meaningful work shaping the future of healthcare alongside smart, mission-driven teams. 				 
+				 
+										 
+						 
+						 
+				 			 
+									 Join Our Team 
+					 
+					 
+								 
+				 
+				 
+		 
+				 
+							 
+			 
+			 			 
+		 
+						 
+		 
+				 
+					 Press &amp; In the News 				 
+				 
+					 See how our work and insights are shaping conversations across value-based care nationwide. 				 
+				 
+										 
+						 
+						 
+				 			 
+									 See Coverage 
+					 
+					 
+								 
+				 
+				 
+				 
+					 
+				 
+					 
+				 
+							 
+							 
+					 
+				 
+					 												 
+							Contact Us						 
+					 									 
+							 
+						 
+			 
+		 
+						 
+				 
+		 
+				 
+										 
+						 
+									 FREE 3-min Assessment 
+					 
+					 
+								 
+				 
+				 
+					 
+				 
+				 
+				 
+			 
+					 
+				 
+					 Insight 				 
+				 
+					 FIVE THINGS TO KNOW: New York&#8217;s Rural Community Health Integration (RCHI) Funding Opportunity 				 
+				 
+					 By Allison Blakemore and Bridgette Wiefling 
+ 				 
+				 
+									June 11, 2026								 
+				 
+							 
+			 
+		 
+						 
+				 
+							 
+			 
+				 Prev Previous 			 
+						 
+				 Next Next 			 
+		 
+						 
+					 
+				 
+		 
+					 
+				 
+					
+ New York State has launched a landmark funding initiative under its Rural Health Transformation Program (RHTP), backed by a $212 million federal CMS award . The Rural Community Health Integration (RCHI) initiative, the first of four program tracks, is designed to catalyze coordinated rural health partnerships across 48 eligible counties in New York State. For health care providers and community-based organizations operating in rural communities, this represents a time-sensitive, multi-year opportunity to secure meaningful federal resources, build durable partnerships, and position your organization for sustained program participation. [1] 
+ Important Application Timeline: Applications  for the RCHI initiative officially opened on June 12, 2026, and are scheduled to close on July 14, 2026. Given the short application window, eligible entities should act quickly to understand the program structure, evaluate partnership opportunities, and develop application strategies to take advantage of this significant grant funding opportunity. 
+ TOTAL CMS AWARD $212 Million 100% federally funded, Budget Period 1 RCHI ALLOCATION $76.2 Million Available under Initiative 1 PLANNING FUNDS Up to $500,000 Per eligible county IMPLEMENTATION Up to $3,000,000 Per application; up to 3 projects 
+ 
+ 1. This Is a Multi-Year Strategic Opportunity, Not a One-Time Grant 
+ RCHI is not a standalone grant program, it is the entry point into a five-year, multi-budget-period state-federal demonstration, funded by the Centers for Medicare &amp; Medicaid Services (CMS). Budget Period 1 funding (the current opportunity) is structured to establish the partnerships, data infrastructure, governance structures, and community engagement frameworks that will be prerequisite for future implementation funding in Budget Periods 2 through 5. 
+ Organizations that secure Budget Period 1 awards gain a significant first-mover advantage: they will enter subsequent funding cycles with established coalitions, documented baseline data, and proven relationships with NYSDOH — all of which will be essential for competitive positioning in future rounds. For providers and CBOs evaluating whether to engage, the strategic calculus extends well beyond the immediate grant period. 
+ 
+ 2. Planning and Implementation Funds Are Available — With Distinct Scopes 
+ RCHI funds are available under two project types, each with defined scopes and funding ceilings: 
+ Planning (up to $500,000 per county): Planning awards are designed to build the foundation for integrated rural health systems. Eligible activities include community health needs assessments, feasibility studies, governance structure development, clinical workflow design, financial modeling, and development of implementation-ready partnership plans. Multiple applicants serving the same county will be asked to collaborate, or awards may be reduced — making early coalition-building a strategic priority. 
+ Implementation (up to $3,000,000 per application; up to 3 projects): Implementation awards support evidence-based initiatives that can be completed by June 30, 2027. Priority will be given to projects addressing maternity services and maternal-child health, behavioral health integration, and substance use disorder prevention. All implementation activities must include defined baseline measures and improvement targets, and must lay demonstrable groundwork for the program&#8217;s future phases. 
+ 
+ 3. Coalition Structure Is Mandatory — and Strategically Critical 
+ Every RCHI application must be jointly submitted by a Lead Applicant and one or more Partner Organizations, and at least one General Hospital or Rural Emergency Hospital must be included — either as Lead or Partner. The Lead Applicant must be a 501(c)(3) nonprofit or municipal hospital, located in an eligible rural county, with a minimum three-year documented history of regulatory compliance with DOH requirements. 
+ Eligible Partner types span the full care continuum, creating a genuine opportunity for cross-sector coalition-building. Eligible entities include FQHCs, CCBHCs, rural health networks, primary care and specialty practices, long-term care and hospice providers, emergency medical services agencies, behavioral health and substance use disorder providers, developmental disability service providers, ambulatory surgery centers, independent practice associations, and community-based organizations. Local Health Departments are specifically called out as strongly encouraged Partners. 
+ For CBOs and smaller provider organizations without a hospital affiliation, the path to participation runs through partnership with a qualifying hospital anchor. Advisory support in identifying and structuring these relationships early will be essential. 
+ 
+ 4. Performance Metrics Are Defined — and Measurement Infrastructure Is Non-Negotiable 
+ RCHI is a performance-oriented program. Applications must commit to addressing at least one of three statewide key result areas, with progress benchmarked against county-level baseline data: 
+ 
+ Potentially Preventable Emergency Visits: Reducing avoidable ER utilization through improved care access and care coordination. 
+ Hospital-Wide Unplanned Readmissions: Decreasing readmissions through high-quality discharge planning and post-acute care coordination. 
+ Colorectal Cancer Screening Rates: Increasing preventive screening access across primary and specialty care settings. 
+ 
+ All grantees must participate in statewide learning collaboratives (both in-person and virtual), establish baseline measures at program launch, define quantitative improvement targets, and report progress quarterly. Specific metrics will be distributed with executed contracts and may evolve per CMS requirements — underscoring the importance of flexible, robust data infrastructure from day one. 
+ Organizations that lack mature data collection and reporting capabilities should account for this in their project design and budget. Grantees will be expected to demonstrate measurable progress against targets by June 30, 2027. 
+ 
+ 5. Allowable Cost Rules Are Strict — Expert Budget Design Is Essential 
+ The RCHI cost framework reflects the program&#8217;s federal stewardship obligations under CMS. Several limitations require careful attention during budget development: 
+ 
+ 5% administrative cap: Direct and indirect administrative costs combined cannot exceed 5% of the total project budget — a ceiling that is significantly lower than most federal programs. 
+ No supplanting: Funds cannot replace existing state, local, Tribal, or private funding sources. Existing staff salaries cannot be funded through RCHI unless the position is new and directly tied to program activities. 
+ No direct clinical services: Reimbursement for direct clinical care that could be covered by insurance is not allowable. 
+ No major construction: Building acquisition, expansion, demolition, and significant retrofitting are ineligible. Minor renovations linked to program goals require prior written approval from both DOH and CMS. 
+ EMR restriction: Organizations that already had a HITECH-certified EHR system in place as of September 1, 2025 may not use RCHI funds for EMR replacement. 
+ Sustainability requirement: Ongoing operating expenses are only allowable if the application demonstrates a clear path to financial sustainability beyond the grant period. 
+ 
+ Reimbursement is deliverable-based and cost reimbursable. Advance payments may be available for qualifying nonprofit organizations under State Finance Law. Budgets should be structured around defined, verifiable deliverables — not time-and-effort estimates alone. 
+ 
+ KEY DATES 
+ Milestone Date Release Date June 11, 2026 Questions Due June 18, 2026 Q&amp;A Posted Online On or about June 25, 2026 Application Deadline July 9, 2026, by 4:00 PM EST Contract Start September 1, 2026 Contract End June 30, 2027 Final Voucher Deadline July 31, 2027 
+ 
+ ELIGIBILITY AT A GLANCE 
+ Requirement Detail Lead Applicant Structure Must be a registered 501(c)(3) nonprofit or a municipal hospital. Regulatory Track Record Minimum three-year history of documented compliance with NYS DOH requirements. Geographic Location Lead Applicant must be physically located in one of 48 designated eligible rural counties. A County is the minimum geographic unit. Hospital Requirement Every application must include at least one General Hospital or Rural Emergency Hospital — as Lead or Partner. Project Timeline All funded activities must be completable by June 30, 2027; fully vouchered by July 31, 2027. Performance Commitment Application must address at least one of three key result areas: Preventable ER Visits, Unplanned Readmissions, or Colorectal Screening. 
+ Organizations serving any of New York State&#8217;s 48 designated rural counties are eligible to apply. Multi-county partnerships are encouraged to promote regional collaboration and impact. Full county list available in RCHI Funding Guidance: https://health.ny.gov/facilities/transforming_rural_healthcare/docs/rchi_funding_guidance.pdf 
+ 
+ HOW WE CAN HELP 
+ COPE Health Solutions specializes in enabling health care providers and community-based organizations to translate complex state and federal funding opportunities into actionable, sustainable, award-winning strategies. In the prior New York Medicaid Waiver, our firm supported organizations across the State in designing, implementing and managing waiver funds amounting to nearly $3 billion over five years. We offer comprehensive support across the full RCHI lifecycle: 
+ 
+ Partnership identification and coalition structuring 
+ Eligibility assessment and application strategy 
+ Application writing, budget development, and compliance review 
+ Post-award reporting, performance measurement, and contract management 
+ Proven, AI-enabled, technology and workflow solutions to power healthcare integration, population health management and success in value based care. 
+ 
+ Learn more on our Rural Health Transformation Hub . 
+ Contact us for a free consult. 
+ 
+ [1] NYSDOH, Rural Community Health Integration Funding Guidance, June 2026. https://health.ny.gov/facilities/transforming_rural_healthcare/docs/rchi_funding_guidance.pdf 
+ 
+ 
+ 
+				 
+					 
+				 
+		 
+					 
+				 
+					 Share this: 				 
+				 
+							 
+								 
+						 
+															 
+								 							 
+																						 
+																			 
+										LinkedIn									 
+																	 
+													 
+					 
+									 
+						 
+															 
+								 							 
+																						 
+																			 
+										X									 
+																	 
+													 
+					 
+									 
+						 
+															 
+								 							 
+																						 
+																			 
+										Facebook									 
+																	 
+													 
+					 
+									 
+						 
+															 
+								 							 
+																						 
+																			 
+										Email									 
+																	 
+													 
+					 
+									 
+						 
+															 
+								 							 
+																						 
+																			 
+										WhatsApp									 
+																	 
+													 
+					 
+						 
+						 
+					 
+				 
+				 
+				 
+			 
+					 
+		 
+				 
+					 We are a national technology-enabled platform and services company powering payer and provider performance in risk arrangements. 				 
+				 
+							 
+							 
+					 
+						 Linkedin 
+						 					 
+				 
+							 
+					 
+						 Youtube 
+						 					 
+				 
+					 
+						 
+				 
+		 
+				 
+					 Our Solutions 				 
+				 
+							 
+							 
+											 
+											 For Providers 
+											 
+									 
+								 
+											 
+											 For Health Plans 
+											 
+									 
+								 
+											 
+											 Platform 
+											 
+									 
+								 
+											 
+											 State &amp; Federal Programs 
+											 
+									 
+						 
+						 
+				 
+		 
+				 
+					 Quick Links 				 
+				 
+							 
+							 
+											 
+											 Insights 
+											 
+									 
+								 
+											 
+											 About Us 
+											 
+									 
+								 
+											 
+											 Careers 
+											 
+									 
+								 
+											 
+											 Contact Us 
+											 
+									 
+								 
+											 
+											 Privacy Policy 
+											 
+									 
+						 
+						 
+				 
+					 
+				 
+		 
+					 
+				 
+					 © 2026 COPE Health Solutions 				 
+					 
+				 
+				 
+		
+ 
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+ 
+			 
+				( () => {
+					const lazyloadRunObserver = () => {
+						const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+						const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+							entries.forEach( ( entry ) => {
+								if ( entry.isIntersecting ) {
+									let lazyloadBackground = entry.target;
+									if( lazyloadBackground ) {
+										lazyloadBackground.classList.add( 'e-lazyloaded' );
+									}
+									lazyloadBackgroundObserver.unobserve( entry.target );
+								}
+							});
+						}, { rootMargin: '200px 0px 200px 0px' } );
+						lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+							lazyloadBackgroundObserver.observe( lazyloadBackground );
+						} );
+					};
+					const events = [
+						'DOMContentLoaded',
+						'elementor/lazyload/observe',
+					];
+					events.forEach( ( event ) => {
+						document.addEventListener( event, lazyloadRunObserver );
+					} );
+				} )();
+			 
+			 
+var leadin_wordpress = {"userRole":"visitor","pageType":"post","leadinPluginVersion":"11.3.65"};
+//# sourceURL=leadin-script-loader-js-js-extra
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnX":"Share on X","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},
+"hasCustomBreakpoints":false},"version":"4.2.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"container":true,"e_optimized_markup":true,"e_panel_promotions":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"e_pro_free_trial_popup":true,"nested-elements":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true,"e_pro_atomic_form":true,"e_pro_collection_loop":true,"mega-menu":true,"e_pro_variables":true,"e_pro_interactions":true},"urls":{"assets":"https:\/\/copehealthsolutions.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/copehealthsolutions.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/copehealthsolutions.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"6b6dd40ffa","atomicFormsSendForm":"6a43b69b06"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"logo","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":6724,"title":"FIVE%20THINGS%20TO%20KNOW%3A%20New%20York%E2%80%99s%20Rural%20Community%20Health%20Integration%20%28RCHI%29%20Funding%20Opportunity%20-%20COPE%20Health%20Solutions","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+ 
+ 
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/copehealthsolutions.com\/wp-admin\/admin-ajax.php","nonce":"c819a595c8","urls":{"assets":"https:\/\/copehealthsolutions.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/copehealthsolutions.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},
+"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/copehealthsolutions.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+ 
+ 
+ 
+ 
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://copehealthsolutions.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0.4"}}
+ 
+ 
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e {o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf() {i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://copehealthsolutions.com/wp-includes/js/wp-emoji-loader.min.js
+ 
+ 
+ 
