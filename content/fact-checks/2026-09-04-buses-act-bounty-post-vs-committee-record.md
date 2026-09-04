@@ -5,9 +5,9 @@ draft: false
 topic: "Transportation / Environment"
 claim_date: "September 3, 2026"
 source: "Facebook Post (official page), with video clip from the September 2 Energy and Commerce markup"
-source_url: "https://www.facebook.com/RepLangworthy"
+source_url: "https://www.facebook.com/reel/1628785145429833/"
 archived_url: "https://web.archive.org/web/20260904143457/https://energycommerce.house.gov/posts/e-and-c-advances-10-bills-to-house-floor-to-unleash-american-energy-and-lower-prices"
-archive_note: "The Facebook post is preserved as a screenshot on file (captured September 3, 2026); its permalink was not captured. The committee markup is preserved as the committee's own YouTube recording (oCB-R-SFu2M) with the auto-generated caption track saved at research/transcripts/2026-09-02-ec-full-committee-markup-oCB-R-SFu2M.en.vtt; timestamps below refer to that recording. Bill text, filed amendments, the majority markup memorandum, and retained page texts are saved at research/sources/ec-markup-2026-09-02/. All web sources were archived and playback-verified September 4, 2026 (the NYC DEP page would not accept a new capture; its August 25, 2026 snapshot plays back and its text is retained locally); snapshot URLs in research/sources/archive_log_2026-09-04-buses.tsv."
+archive_note: "The Facebook post (reel 1628785145429833) is preserved as a screenshot on file, as a Whisper transcript of the posted clip at research/transcripts/2026-09-03-fb-reel-1628785145429833-buses-act-clip.txt, and as a Wayback capture of the post's public embed (https://web.archive.org/web/20260904150433/https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1628785145429833%2F). The committee markup is preserved as the committee's own YouTube recording (oCB-R-SFu2M) with the auto-generated caption track saved at research/transcripts/2026-09-02-ec-full-committee-markup-oCB-R-SFu2M.en.vtt; timestamps below refer to that recording. Bill text, filed amendments, the majority markup memorandum, and retained page texts are saved at research/sources/ec-markup-2026-09-02/. All web sources were archived and playback-verified September 4, 2026 (the NYC DEP page would not accept a new capture; its August 25, 2026 snapshot plays back and its text is retained locally); snapshot URLs in research/sources/archive_log_2026-09-04-buses.tsv."
 verdict: "MISLEADING"
 publication_note: "Published September 4, 2026. Two disclosures. (1) No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response will be published here in full. (2) Quotations from the markup are taken from the committee's official video via its auto-generated captions, lightly cleaned for punctuation and speaker names, with the timestamp given for each so readers can check the recording. Where a member's own press release or the committee's recap carries the same words, that text is used instead."
 tags: ["buses-act", "hr9317", "idling", "nyc", "citizens-air-complaint-program", "energy-and-commerce", "markup", "ocasio-cortez", "school-buses", "facebook"]
@@ -41,6 +41,16 @@ September 3, 2026, with a video clip captioned "MUST SEE VIDEO":
 > snitch. Some cowards pocket almost $1 million. I'm done watching this scam.
 > My BUSES Act ends this Big Brother bounty hunt. Watch our full fight over
 > this right here:"
+
+The clip itself runs about seventeen and a half minutes and is drawn from
+the committee's recording. It includes his opening statement, his exchange
+with Rep. Ocasio-Cortez, and, at the 3:50 mark, his own words on the
+amendment discussed below: "I want to thank Mr. Peters and his staff for
+their work on a bipartisan compromise... I urge my colleagues to vote in
+favor of this amendment." It omits Rep. Peters' description of what that
+amendment does, the ranking member's statement that the city program
+"already includes an idling exception for loading and unloading passengers,"
+and all of the votes. (Transcript: research/transcripts/2026-09-03-fb-reel-1628785145429833-buses-act-clip.txt.)
 
 The same day he posted separately that "Ten great bills cleared our House
 Commerce Committee that unleash American energy, cuts Washington red tape,
