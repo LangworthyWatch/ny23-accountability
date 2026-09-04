@@ -1,0 +1,1800 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Internists join Campaign for Sustainable Rx Pricing | ACP Online 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PLSLVT'); 
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K6XTMPF'); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <iframe aria-hidden="true" src="https://www.googletagmanager.com/ns.html?id=GTM-PLSLVT"
+height="0" width="0" style="display:none;visibility:hidden"> 
+ <iframe aria-hidden="true" src="https://www.googletagmanager.com/ns.html?id=GTM-K6XTMPF"
+height="0" width="0" style="display:none;visibility:hidden"> 
+ 
+ 
+ var _elqQ = _elqQ || [];
+ _elqQ.push(['elqSetSiteId', '698935272']); _elqQ.push(['elqUseFirstPartyCookie', 'fpc.acponline.org']);
+ _elqQ.push(['elqTrackPageView']);
+ (function () {
+ function async_load() {
+ var s = document.createElement('script'); s.type = 'text/javascript';
+ s.async = true; s.src = '//img.en25.com/i/elqCfg.min.js';
+ var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+ }
+ if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+ else if (window.attachEvent) window.attachEvent('onload', async_load);
+ })();
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About ACP 
+ 
+ 
+ Donate 
+ 
+ 
+ 
+ Log In
+ 
+ 
+ 
+ Join Now 
+ 
+ 
+ 
+ 
+ Search ACP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Membership 
+ 
+ 
+ 
+ Benefits for 
+ 
+ 
+ Physicians</a
+ >
+ 
+ 
+ Residents</a
+ >
+ 
+ 
+ Medical
+ Students</a
+ >
+ 
+ 
+ International</a
+ >
+ 
+ 
+ Non-physician
+ Affiliate</a
+ >
+ 
+ 
+ 
+ 
+ Become a Fellow 
+ 
+ <strong
+ > Interested in Becoming a Fellow?</a
+ ></strong
+ > 
+ Join a distinguished group of over 31,000 internists and leaders
+ who already share this honor.
+ 
+ 
+ <strong
+ ><a
+ href="https://forms.acponline.org/webform/fellowship-sponsoring-form"
+ target="_blank"
+ >Sponsor a Fellow</a
+ ></strong
+ > 
+ Continue the tradition of Fellowship by sharing your own
+ experience and offering to support other members' candidacies.
+ 
+ 
+ 
+ For Members 
+ 
+ 
+ <a
+ href="https://store.acponline.org/ebiz/acp-pay-dues/paymentcode/paydues"
+ target="_blank"
+ > Pay Dues</a
+ >
+ 
+ 
+ <a
+ href="https://store.acponline.org/ebiz/my-account/purchase-history"
+ target="_blank"
+ > Check Orders</a
+ >
+ 
+ 
+ <a href="/about-acp/who-we-are/get-engaged"
+ > Get Engaged</a
+ >
+ 
+ 
+ Visit MyACP (dashboard) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CME &amp; MOC 
+ 
+ 
+ 
+ Online Learning Center NEW --> 
+ 
+ Search hundreds of CME and MOC activities&mdash;free or discounted
+ for ACP members&mdash;by topic, format, and state CME requirements
+ to find education that matches your needs.
+ 
+ 
+ Browse Activities</a
+ >
+ 
+ 
+ 
+ Industry Leading Tools &amp; Resources 
+ 
+ 
+ <a class="vertical-align" href="/featured-products/acp-mksap"
+ ><img
+ alt="ACP MKSAP icon"
+ src="/themes/acp_scratch/images/product_pages/acpmksap-app-icon.svg"
+ style="width: 57px; margin-right: 0.5em"
+ />
+ ACP MKSAP</a
+ >
+ 
+ 
+ <a
+ class="vertical-align"
+ href="/featured-products/annals-of-internal-medicine"
+ ><img
+ alt="Annals of Internal Medicine icon"
+ src="/themes/acp_scratch/images/annals_icon.png"
+ style="margin-right: 0.5em"
+ />
+ Annals of IM</a
+ >
+ 
+ Internal Medicine Meeting -->
+ 
+ 
+ 
+ In this Section 
+ 
+ 
+ <a href="/cme-moc/online-learning-center"
+ >Online Learning Center</a
+ >
+ 
+ 
+ <a
+ href="/cme-moc/internal-medicine-board-review-certification-prep"
+ >Certification Preparation</a
+ >
+ 
+ 
+ About CME 
+ 
+ 
+ About MOC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <a href="/meetings-courses" aria-haspopup="true" aria-expanded="false"
+ >Meetings &amp; Courses</a
+ >
+ 
+ 
+ <div
+ class="col-1-3 border-dotted padding right"
+ style="display: block"
+ >
+ <img
+ alt="ACP Internal Medicine Meeting 2027"
+ src="/themes/acp_scratch/images/imm2027-stacked-4c.png"
+ style="max-width: 100%; width: 350px"
+ />
+ 
+ Claim CME/MOC from Internal Medicine Meeting 2026, or register for Internal Medicine Meeting 2027 in Los Angeles, CA.
+ 
+ 
+ <a
+ class="button small split-right"
+ href="http://annualmeeting.acponline.org/"
+ target="_blank"
+ >INTERNAL MEDICINE MEETING </i
+ > 
+ 
+ 
+ 
+ ACP Courses &amp; Recordings 
+ Explore our virtual course offerings and learn from anywhere. 
+ 
+ <a
+ class="button"
+ href="https://www.acponline.org/meetings-courses/acp-courses-recordings"
+ >Learn More</a
+ >
+ 
+ 
+ 
+ In this Section 
+ 
+ 
+ <a href="/meetings-courses/internal-medicine-meeting"
+ >Internal Medicine Meeting</a
+ >
+ 
+ 
+ <a
+ href="/meetings-courses/acp-chapter-meetings/domestic-and-international"
+ >Upcoming Chapter Meetings</a
+ >
+ 
+ 
+ <a href="/meetings-courses/acp-courses-recordings"
+ >Courses &amp; Recordings</a
+ >
+ 
+ 
+ Focused Topics 
+ 
+ Webinars 
+ 
+ <a href="/meetings-courses/medical-educator-resources"
+ >Medical Educator Resources</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clinical Information 
+ 
+ 
+ 
+ 
+ ACP Clinical Search 
+ 
+ Treating a patient? Researching a topic? Get answers now.
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Clinical Terms or Conditions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ alt="Annals of Internal Medicine"
+ src="/themes/acp_scratch/images/logo-annals3.png"
+ />
+ 
+ 
+ <a
+ class="button small split-right no-icon"
+ href="https://www.annals.org"
+ target="_blank"
+ >Visit Annals </i
+ > 
+ 
+ 
+ 
+ 
+ <img
+ alt="ACP MKSAP"
+ src="/themes/acp_scratch/images/product_pages/acp-mksap-logo-registered-600x90.png"
+ style="width: 188px"
+ />
+ 
+ 
+ <a
+ class="button small split-right no-icon"
+ href="https://mksap.acponline.org/"
+ target="_blank"
+ >Visit ACP MKSAP </i
+ > 
+ 
+ 
+ 
+ 
+ <img
+ alt="DynaMedex"
+ src="/sites/default/files/images/clinical_information/dynamed_plus/dynamedex-logo.png"
+ style="width: 150px; padding-right: 0"
+ />
+ 
+ 
+ <a
+ class="button small"
+ href="/clinical-information/clinical-resources-products/dynamed"
+ >Visit DynaMedex</a
+ >
+ Learn More -->
+ 
+ 
+ 
+ 
+ 
+ In this Section 
+ 
+ 
+ <a
+ href="/clinical-information/clinical-guidelines-recommendations"
+ >Clinical Guidelines &amp; Recommendations</a
+ >
+ 
+ 
+ <a href="/clinical-information/performance-measures"
+ >Performance Measures</a
+ >
+ 
+ 
+ <a href="/clinical-information/journals-publications"
+ >Journals &amp; Publications</a
+ >
+ 
+ 
+ <a href="/clinical-information/clinical-resources-products"
+ >Clinical Resources &amp; Products</a
+ >
+ 
+ 
+ <a href="/clinical-information/high-value-care"
+ >High Value Care</a
+ >
+ 
+ 
+ <a href="/clinical-information/ethics-and-professionalism"
+ >Ethics &amp; Professionalism</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Practice &amp; Career 
+ 
+ 
+ 
+ 
+ 
+ Financial Well-being 
+ 
+ Navigate your financial future with ACP’s tools and resources
+ to help you plan and make wise financial decisions.
+ 
+ 
+ Financial Well-being</a
+ >
+ 
+ 
+ 
+ Telehealth 
+ 
+ Offering guidance on clinical use cases, technology,
+ regulations and waivers, and billing and coding.
+ 
+ 
+ Telehealth Resources</a
+ >
+ 
+ 
+ 
+ Quick Links 
+ 
+ 
+ Physician &amp; Practice Timeline</a
+ >
+ 
+ 
+ Payment</a
+ >
+ 
+ 
+ Coding</a
+ >
+ 
+ 
+ Office Management</a
+ >
+ 
+ 
+ Medical Educator Resources</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ In this Section 
+ 
+ 
+ <a href="/practice-career/career-and-professional-development"
+ >Career &amp; Professional Development</a
+ >
+ 
+ 
+ <a href="/practice-career/business-resources"
+ >Business Resources</a
+ >
+ 
+ 
+ <a href="/practice-career/regulatory-resources"
+ >Regulatory Resources</a
+ >
+ 
+ 
+ <a
+ href="/practice-career/quality-improvement-in-healthcare-acp-resources-and-programs"
+ >Quality Improvement</a
+ >
+ 
+ 
+ <a
+ href="/practice-career/patient-and-interprofessional-education"
+ >Patient and Interprofessional Education</a
+ >
+ 
+ 
+ <a
+ href="/practice-career/physician-well-being-and-professional-fulfillment"
+ >Physician Well-being &amp; Professional Fulfillment</a
+ >
+ 
+ 
+ <a href="/practice-career/independent-practice-resources"
+ >Independent Practice Resources</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advocacy 
+ 
+ 
+ 
+ Where We Stand 
+ 
+ ACP advocates on behalf of internal medicine physicians and their
+ patients on a number of timely issues. Learn about where ACP
+ stands on the following areas:
+ 
+ 
+ 
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/access-to-care"
+ >Access to Care</a
+ >
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/improving-medicare"
+ >Improving Medicare</a
+ >
+ 
+ 
+ <a class="button" href="/advocacy/where-we-stand/medicaid"
+ >Medicaid</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/payments-and-profit"
+ >Payments and Profit</a
+ >
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/health-information-technology"
+ >Health Information Technology</a
+ >
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/reducing-administrative-burdens-patients-before-paperwork"
+ >Reducing Administrative Burdens</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ In this Section 
+ 
+ Where We Stand 
+ 
+ ACP Advocate Newsletter 
+ 
+ 
+ <a href="/advocacy/get-involved-advocacy-in-action"
+ >Get Involved: Advocacy in Action</a
+ >
+ 
+ 
+ State Health Policy 
+ 
+ 
+ <a href="/advocacy/current-public-policy-papers"
+ >Current Public Policy Papers</a
+ >
+ 
+ 
+ <a href="/advocacy/acp_policy_library/search"
+ >Search the ACP Policy Library</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Store 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Membership 
+ 
+ 
+ 
+ Benefits for 
+ 
+ 
+ Physicians</a
+ >
+ 
+ 
+ Residents</a
+ >
+ 
+ 
+ Medical
+ Students</a
+ >
+ 
+ 
+ International</a
+ >
+ 
+ 
+ Non-physician
+ Affiliate</a
+ >
+ 
+ 
+ 
+ 
+ Become a Fellow 
+ 
+ <strong
+ > Interested in Becoming a Fellow?</a
+ ></strong
+ > 
+ Join a distinguished group of over 31,000 internists and leaders
+ who already share this honor.
+ 
+ 
+ <strong
+ ><a
+ href="https://forms.acponline.org/webform/fellowship-sponsoring-form"
+ target="_blank"
+ >Sponsor a Fellow</a
+ ></strong
+ > 
+ Continue the tradition of Fellowship by sharing your own
+ experience and offering to support other members' candidacies.
+ 
+ 
+ 
+ For Members 
+ 
+ 
+ <a
+ href="https://store.acponline.org/ebiz/acp-pay-dues/paymentcode/paydues"
+ target="_blank"
+ > Pay Dues</a
+ >
+ 
+ 
+ <a
+ href="https://store.acponline.org/ebiz/my-account/purchase-history"
+ target="_blank"
+ > Check Orders</a
+ >
+ 
+ 
+ <a href="/about-acp/who-we-are/get-engaged"
+ > Get Engaged</a
+ >
+ 
+ 
+ Visit MyACP (dashboard) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CME &amp; MOC 
+ 
+ 
+ 
+ Online Learning Center NEW --> 
+ 
+ Search hundreds of CME and MOC activities&mdash;free or discounted
+ for ACP members&mdash;by topic, format, and state CME requirements
+ to find education that matches your needs.
+ 
+ 
+ Browse Activities</a
+ >
+ 
+ 
+ 
+ Industry Leading Tools &amp; Resources 
+ 
+ 
+ <a class="vertical-align" href="/featured-products/acp-mksap"
+ ><img
+ alt="ACP MKSAP icon"
+ src="/themes/acp_scratch/images/product_pages/acpmksap-app-icon.svg"
+ style="width: 57px; margin-right: 0.5em"
+ />
+ ACP MKSAP</a
+ >
+ 
+ 
+ <a
+ class="vertical-align"
+ href="/featured-products/annals-of-internal-medicine"
+ ><img
+ alt="Annals of Internal Medicine icon"
+ src="/themes/acp_scratch/images/annals_icon.png"
+ style="margin-right: 0.5em"
+ />
+ Annals of IM</a
+ >
+ 
+ Internal Medicine Meeting -->
+ 
+ 
+ 
+ In this Section 
+ 
+ 
+ <a href="/cme-moc/online-learning-center"
+ >Online Learning Center</a
+ >
+ 
+ 
+ <a
+ href="/cme-moc/internal-medicine-board-review-certification-prep"
+ >Certification Preparation</a
+ >
+ 
+ 
+ About CME 
+ 
+ 
+ About MOC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <a href="/meetings-courses" aria-haspopup="true" aria-expanded="false"
+ >Meetings &amp; Courses</a
+ >
+ 
+ 
+ <div
+ class="col-1-3 border-dotted padding right"
+ style="display: block"
+ >
+ <img
+ alt="ACP Internal Medicine Meeting 2027"
+ src="/themes/acp_scratch/images/imm2027-stacked-4c.png"
+ style="max-width: 100%; width: 350px"
+ />
+ 
+ Claim CME/MOC from Internal Medicine Meeting 2026, or register for Internal Medicine Meeting 2027 in Los Angeles, CA.
+ 
+ 
+ <a
+ class="button small split-right"
+ href="http://annualmeeting.acponline.org/"
+ target="_blank"
+ >INTERNAL MEDICINE MEETING </i
+ > 
+ 
+ 
+ 
+ ACP Courses &amp; Recordings 
+ Explore our virtual course offerings and learn from anywhere. 
+ 
+ <a
+ class="button"
+ href="https://www.acponline.org/meetings-courses/acp-courses-recordings"
+ >Learn More</a
+ >
+ 
+ 
+ 
+ In this Section 
+ 
+ 
+ <a href="/meetings-courses/internal-medicine-meeting"
+ >Internal Medicine Meeting</a
+ >
+ 
+ 
+ <a
+ href="/meetings-courses/acp-chapter-meetings/domestic-and-international"
+ >Upcoming Chapter Meetings</a
+ >
+ 
+ 
+ <a href="/meetings-courses/acp-courses-recordings"
+ >Courses &amp; Recordings</a
+ >
+ 
+ 
+ Focused Topics 
+ 
+ Webinars 
+ 
+ <a href="/meetings-courses/medical-educator-resources"
+ >Medical Educator Resources</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clinical Information 
+ 
+ 
+ 
+ 
+ ACP Clinical Search 
+ 
+ Treating a patient? Researching a topic? Get answers now.
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Clinical Terms or Conditions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <img
+ alt="Annals of Internal Medicine"
+ src="/themes/acp_scratch/images/logo-annals3.png"
+ />
+ 
+ 
+ <a
+ class="button small split-right no-icon"
+ href="https://www.annals.org"
+ target="_blank"
+ >Visit Annals </i
+ > 
+ 
+ 
+ 
+ 
+ <img
+ alt="ACP MKSAP"
+ src="/themes/acp_scratch/images/product_pages/acp-mksap-logo-registered-600x90.png"
+ style="width: 188px"
+ />
+ 
+ 
+ <a
+ class="button small split-right no-icon"
+ href="https://mksap.acponline.org/"
+ target="_blank"
+ >Visit ACP MKSAP </i
+ > 
+ 
+ 
+ 
+ 
+ <img
+ alt="DynaMedex"
+ src="/sites/default/files/images/clinical_information/dynamed_plus/dynamedex-logo.png"
+ style="width: 150px; padding-right: 0"
+ />
+ 
+ 
+ <a
+ class="button small"
+ href="/clinical-information/clinical-resources-products/dynamed"
+ >Visit DynaMedex</a
+ >
+ Learn More -->
+ 
+ 
+ 
+ 
+ 
+ In this Section 
+ 
+ 
+ <a
+ href="/clinical-information/clinical-guidelines-recommendations"
+ >Clinical Guidelines &amp; Recommendations</a
+ >
+ 
+ 
+ <a href="/clinical-information/performance-measures"
+ >Performance Measures</a
+ >
+ 
+ 
+ <a href="/clinical-information/journals-publications"
+ >Journals &amp; Publications</a
+ >
+ 
+ 
+ <a href="/clinical-information/clinical-resources-products"
+ >Clinical Resources &amp; Products</a
+ >
+ 
+ 
+ <a href="/clinical-information/high-value-care"
+ >High Value Care</a
+ >
+ 
+ 
+ <a href="/clinical-information/ethics-and-professionalism"
+ >Ethics &amp; Professionalism</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Practice &amp; Career 
+ 
+ 
+ 
+ 
+ 
+ Financial Well-being 
+ 
+ Navigate your financial future with ACP’s tools and resources
+ to help you plan and make wise financial decisions.
+ 
+ 
+ Financial Well-being</a
+ >
+ 
+ 
+ 
+ Telehealth 
+ 
+ Offering guidance on clinical use cases, technology,
+ regulations and waivers, and billing and coding.
+ 
+ 
+ Telehealth Resources</a
+ >
+ 
+ 
+ 
+ Quick Links 
+ 
+ 
+ Physician &amp; Practice Timeline</a
+ >
+ 
+ 
+ Payment</a
+ >
+ 
+ 
+ Coding</a
+ >
+ 
+ 
+ Office Management</a
+ >
+ 
+ 
+ Medical Educator Resources</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ In this Section 
+ 
+ 
+ <a href="/practice-career/career-and-professional-development"
+ >Career &amp; Professional Development</a
+ >
+ 
+ 
+ <a href="/practice-career/business-resources"
+ >Business Resources</a
+ >
+ 
+ 
+ <a href="/practice-career/regulatory-resources"
+ >Regulatory Resources</a
+ >
+ 
+ 
+ <a
+ href="/practice-career/quality-improvement-in-healthcare-acp-resources-and-programs"
+ >Quality Improvement</a
+ >
+ 
+ 
+ <a
+ href="/practice-career/patient-and-interprofessional-education"
+ >Patient and Interprofessional Education</a
+ >
+ 
+ 
+ <a
+ href="/practice-career/physician-well-being-and-professional-fulfillment"
+ >Physician Well-being &amp; Professional Fulfillment</a
+ >
+ 
+ 
+ <a href="/practice-career/independent-practice-resources"
+ >Independent Practice Resources</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Advocacy 
+ 
+ 
+ 
+ Where We Stand 
+ 
+ ACP advocates on behalf of internal medicine physicians and their
+ patients on a number of timely issues. Learn about where ACP
+ stands on the following areas:
+ 
+ 
+ 
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/access-to-care"
+ >Access to Care</a
+ >
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/improving-medicare"
+ >Improving Medicare</a
+ >
+ 
+ 
+ <a class="button" href="/advocacy/where-we-stand/medicaid"
+ >Medicaid</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/payments-and-profit"
+ >Payments and Profit</a
+ >
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/health-information-technology"
+ >Health Information Technology</a
+ >
+ 
+ 
+ <a
+ class="button"
+ href="/advocacy/where-we-stand/reducing-administrative-burdens-patients-before-paperwork"
+ >Reducing Administrative Burdens</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ In this Section 
+ 
+ Where We Stand 
+ 
+ ACP Advocate Newsletter 
+ 
+ 
+ <a href="/advocacy/get-involved-advocacy-in-action"
+ >Get Involved: Advocacy in Action</a
+ >
+ 
+ 
+ State Health Policy 
+ 
+ 
+ <a href="/advocacy/current-public-policy-papers"
+ >Current Public Policy Papers</a
+ >
+ 
+ 
+ <a href="/advocacy/acp_policy_library/search"
+ >Search the ACP Policy Library</a
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Store 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About ACP 
+ 
+ 
+ Donate 
+ 
+ 
+ 
+ Log In
+ 
+ 
+ 
+ Join Now 
+ 
+ 
+ 
+ 
+ Search ACP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Us Privacy Policy Governors/Regents Chapters Career Connection Jobs at ACP Donate @media (min-width: 780px) {
+#myacp-header li:nth-last-child(2) .captioned-icon a {margin-right: 0;}
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © Copyright 2026 American College of Physicians, Inc. All Rights Reserved. 190 North Independence Mall West, Philadelphia, PA 19106-1572 800-ACP-1915 (800-227-1915) or 215-351-2600 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ACP Newsroom 
+ 
+ 
+ 
+ 
+ Media Contacts 
+ 
+ 
+ Multimedia 
+ 
+ 
+ News Releases 
+ 
+ 
+ ACP Facts 
+ 
+ 
+ ACP in the News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Breadcrumb 
+ 
+ 
+ Home 
+ 
+ 
+ ACP Newsroom 
+ 
+ 
+ Internists join Campaign for Sustainable Rx Pricing
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ If you are unable to login, please try clearing your cookies . We apologize for the inconvenience. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Internists join Campaign for Sustainable Rx Pricing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Broad-based coalition working for solutions to skyrocketing
+prescription medicine prices 
+ 
+ February 3, 2015 
+ (Washington)-The American College of Physicians (ACP), the
+largest medical-specialty organization and second-largest physician
+group in the United States, has joined the Campaign for Sustainable
+Rx Pricing (CSRxP), a broad-based coalition working for solutions
+to skyrocketing prescription medicine prices. 
+ "ACP members work on the front lines of our health care delivery
+system and have witnessed firsthand the harm caused to patient
+health and personal finances by unsustainable pharmaceutical drug
+prices, especially those for new specialty drugs," says John
+Rother, president and CEO of the National Coalition on Health Care,
+which leads CSRxP. "Exorbitant drug prices deny patients access to
+life-enhancing medicines and result in higher out-of-pocket costs,
+premiums, and taxes. To prevent our health care system from going
+bankrupt, we need to establish a drug pricing structure based on
+value and data-driven evidence and balance between the interests of
+innovative drug manufacturers and those of society and our health
+care system." 
+ "The pricing of specialty drugs increasingly lacks transparency
+and rationality," says ACP President, David A. Fleming, MD, MA,
+MACP. "We're seeing the introduction of many patent-protected drugs
+with monopolistic pricing power that fail to demonstrate a
+relationship between their price and their value to the health care
+system. Though many of these medications offer great promise, the
+price tag for health care clinicians and patients is simply too
+much to bear. We look forward to working with the Campaign for
+Sustainable Rx Pricing to address these challenges." 
+ In 2013 specialty drugs accounted for less than 1 percent of
+U.S. prescriptions but for more than 25 percent of prescription
+spending. By the end of the decade, just 2 to 3 percent of all
+prescribed medications will be specialty drugs, but they will
+account for roughly 50 percent of the total drug spending,
+according to CVS Health. 
+ The Campaign for Sustainable Rx Pricing (CSRxP) is a project of
+the National Coalition on Health Care, the oldest and most diverse
+group working to achieve comprehensive health system reform
+representing more than 80 participating organizations, including
+medical societies, businesses, unions, health care providers,
+faith-based associations, pension and health funds, insurers and
+groups representing consumers, patients, women, minorities and
+persons with disabilities. Member organizations collectively
+represent - as employees, members, or congregants - over 100
+million Americans. CSRxP aims to spark a national dialogue about
+the need to find market-driven solutions to the problems caused by
+the onslaught of new high-priced prescription medicines. Visit
+ www.csrxp.org 
+and follow CSRxP on Twitter. 
+ About the American College of Physicians 
+ The American College of Physicians is
+the largest medical specialty organization and the second-largest
+physician group in the United States. ACP members include 130,000
+internal medicine physicians (internists), related subspecialists,
+and medical students. Internists specialize in the prevention,
+detection, and treatment of illness in adults. Follow ACP on
+ Twitter and Facebook . 
+ Contact: 
+Kelly Peuquet, (202) 638-7151, kpeuquet@nchc.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Us Governors/Regents Chapters Career Connection Jobs at ACP Donate #block-search, #block-search--2 {z-index:999;}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Us Privacy Policy Governors/Regents Chapters Career Connection Jobs at ACP Donate @media (min-width: 780px) {
+#myacp-header li:nth-last-child(2) .captioned-icon a {margin-right: 0;}
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Custom Big Footer Menu 
+ 
+ 
+ 
+ 
+ ACP Newsroom 
+ 
+ 
+ Advertising Information 
+ 
+ 
+ About this Site 
+ 
+ 
+ ACP Privacy Policy 
+ 
+ 
+ Accessibility Statement 
+ 
+ 
+ Site Map 
+ 
+ 
+ 
+ 
+ 
+ About ACP 
+ 
+ 
+ Who We Are 
+ 
+ 
+ Chapters &amp; Regions 
+ 
+ 
+ ACP Global Engagement 
+ 
+ 
+ Awards, Masterships &amp; Competitions 
+ 
+ 
+ ACP Services 
+ 
+ 
+ Working at ACP 
+ 
+ 
+ About Internal Medicine 
+ 
+ 
+ 
+ 
+ 
+ Advocacy 
+ 
+ 
+ Where We Stand 
+ 
+ 
+ The ACP Advocate Newsletter 
+ 
+ 
+ State Health Policy 
+ 
+ 
+ Get Involved: Advocacy in Action 
+ 
+ 
+ Current Public Policy Papers 
+ 
+ 
+ Search the ACP Policy Library 
+ 
+ 
+ 
+ 
+ 
+ Clinical Information 
+ 
+ 
+ Clinical Guidelines &amp; Recommendations 
+ 
+ 
+ Performance Measures 
+ 
+ 
+ Journals &amp; Publications 
+ 
+ 
+ Clinical Resources &amp; Products 
+ 
+ 
+ High Value Care 
+ 
+ 
+ Ethics &amp; Professionalism 
+ 
+ 
+ 
+ 
+ 
+ CME &amp; MOC 
+ 
+ 
+ CME 
+ 
+ 
+ MOC 
+ 
+ 
+ Certification Preparation 
+ 
+ 
+ Online Learning Center 
+ 
+ 
+ 
+ 
+ 
+ Meetings &amp; Courses 
+ 
+ 
+ Internal Medicine Meeting 
+ 
+ 
+ ACP Chapter Meetings 
+ 
+ 
+ Courses &amp; Recordings 
+ 
+ 
+ Focused Topics 
+ 
+ 
+ Medical Educator Resources 
+ 
+ 
+ Order and Registration Information/FAQ 
+ 
+ 
+ 
+ 
+ 
+ Membership 
+ 
+ 
+ Physicians 
+ 
+ 
+ Residents 
+ 
+ 
+ Medical Students 
+ 
+ 
+ International Membership 
+ 
+ 
+ Affiliate Membership 
+ 
+ 
+ More on Membership Dues/Fees 
+ 
+ 
+ 
+ 
+ 
+ Practice &amp; Career 
+ 
+ 
+ Business Resources 
+ 
+ 
+ Regulatory Resources 
+ 
+ 
+ Quality Improvement 
+ 
+ 
+ Career and Professional Development 
+ 
+ 
+ Independent Practice Resources 
+ 
+ 
+ Patient and Interprofessional Education 
+ 
+ 
+ Physician Well-being and Professional Fulfillment 
+ 
+ 
+ 
+ 
+ 
+ Featured Products 
+ 
+ 
+ All Products 
+ 
+ 
+ Annals of Internal Medicine 
+ 
+ 
+ ACP MKSAP 
+ 
+ 
+ Refund &amp; Cancellation FAQs 
+ 
+ 
+ Important Sales Tax Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © Copyright 2026 American College of Physicians, Inc. All Rights Reserved. 190 North Independence Mall West, Philadelphia, PA 19106-1572 800-ACP-1915 (800-227-1915) or 215-351-2600 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ if (window.location.href.indexOf("check_logged_in") > -1) 
+ {
+ //alert("your url contains the name check_logged_in");
+ var elem = document.querySelector('#login_help');
+ elem.style.display = 'block';
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	window.addEventListener("load", function(){
+	window.cookieconsent.initialise({
+	 "palette": {
+	 "popup": {
+	 "background": "#141414",
+	 "text": "#ffffff"
+	 },
+	 "button": {
+	 "background": "#0063be",
+	 "text": "#ffffff"
+	 }
+	 },
+	 "theme": "classic",
+	 "content": {
+	 "dismiss": "OK",
+	 "href": "/acp-privacy-policy"
+	 }
+	})});
+ 
+ {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/290239","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxti0kKwDAMAz_k4icFJTVJSjZqQ5vfd7v2Io0YhDCchh0WEsfSPcpyzzxMCT_KZsktEjacLvRapZnyA2irUp33h990SbDKTjrVpLKHCh3iMTJ_dQFFdS8i","theme":"acp_scratch","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"myacp":{"iconPathBase":"https:\/\/www.acponline.org\/sites\/default\/files\/images\/myacp\/recommendation_icons"},"algolia":{"appId":"HLTV9IBNNN","apiKey":"63a6d265d1370f228c0e68097d39e36a"},"user":{"uid":0,"permissionsHash":"bad2ab96148735aa2f5371e7cc96d27afee51e9592d2e6ac18f794a4ce8dbc8f"}} 
+ 
+ (function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a3604dd54d2aa629',t:'MTc4ODU1OTYxNA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})(); 
+ 
