@@ -1,0 +1,462 @@
+ 
+ 
+ 
+ 
+ Citizens Air Complaint Program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<!--
+					ls:begin[pre-head-injection]
+				--><!--
+					ls:end[pre-head-injection]
+				--><!--
+					ls:begin[social_media_injection]
+				--><!--
+					ls:end[social_media_injection]
+				--> --> 
+ !function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="QMXLB-WG9C2-LTK58-FW2PB-6ST8X",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"QMXLB-WG9C2-LTK58-FW2PB-6ST8X",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write(" '),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="eyabaf5rnora2jqacqemiaapsrvjvvon-f-d11bf1d5a-clienttons-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"41","ak.cp":"1071053","ak.ai":parseInt("181928",10),"ak.ol":"0","ak.cr":229,"ak.ipv":6,"ak.proto":"h2","ak.rid":"17db5ddd","ak.r":41489,"ak.a2":e,"ak.m":"dscb","ak.n":"essl","ak.cport":58674,"ak.gh":"23.220.106.142","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1788532173","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==K0FH/6s8TqAqHEP76hgVIwaToLTQJ8rXsuB09ixycsaKa5IuqiarklNz3m1jlhooT6V7cSJRstM9SifyezEYPVM7oqhjBJvtl64ozO7LYrl6/TxFoFfm5l4COQDZ9Ik8qTP9PSTLFXw5q+qfOr5w+RLXAqgKjUh155Bo9tbszbu6MhiM9kKGjVbGPjaPD2hvbPYdhvwVNAlyc2CrvwKr1r7ioFriwp9YvSsMqPRPpmXjCOt5V/Nt85aTPPnWc4dOBhXh5N//oB4zpVMeexMi4kjyyN9SSKf8zbVpY0VzgWQYD6BJsY7h5GxFLqs5vfkHokNaxr1ZStGtYk4PfUjuGlfN1H505T6GmIObHowhQ4U0gJxdES/PlzzYULBztJQkyycNmSTGdOHnFU/Bbje6zsixb/FsR6wq7NpgoVD3gAE=","ak.pv":"119","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Environmental Protection 311 Search all NYC.gov websites 
+ 
+ 
+ 
+ 
+ 
+ 
+ Menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Text-Size 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ Pay My Bills 
+ 
+ 
+ About 
+ 
+ 
+ Water 
+ 
+ 
+ Environment 
+ 
+ 
+ Recreation 
+ 
+ 
+ What&rsquo;s New 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Transportation Emissions 
+ 
+ Citizens Air Complaint Program 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Share
+ 
+ 
+ Print 
+ 
+ 
+ 
+ 
+ Citizens Air Complaint Program --> 
+	 New Submissions Requirements for the Idling Complaint System effective Monday, February 13, 2023 : There will be a 24 hour hold pattern where all submissions will remain to allow the citizen to make edits to their submission . Read more . 
+ -->
+ Idling emissions from gasoline and diesel motor vehicle engines are known contributors to health-related impacts, including asthma, respiratory and cardiovascular harm. Idling for longer than three minutes or more than one minute while next to a school or park is illegal. If you see a vehicle idling illegally, you can anonymously contact 311 or file a complaint online . 
+ Air Complaint System 
+ If you would like to potentially receive a reward for your enforcement efforts, you can also participate in our Citizens Air Complaint Program. To participate, login to our Air Complaint System to file and track your complaint. The online application enables you to file an idling complaint pursuant to Section 24-163; a dust complaint pursuant to Section 24-146; an air complaint for emission of an air contaminant from a vehicle pursuant to Section 24-143; and submitting false and misleading documents pursuant to Section 24-112. Learn about the required documentation to submit a complaint . 
+ Access the Air Complaint System 
+ Please Note the Following 
+ 
+ Questions and comments submitted to NYCIdling@dep.nyc.gov will be answered in 10 business days. 
+ Submissions are reviewed by at least two reviewers, including a supervisor, before a decision is made. Please do not send requests for DEP to review your submissions after receiving a determination by email. 
+ 
+ 
+ 
+ Expand All Collapse All 
+ Citizens Air Complaint Program FAQs 
+ 
+ 
+ What vehicles can a citizen file an idling complaint against? 
+ 
+ 
+ 
+ Trucks that are used or maintained primarily for the transportation of property.* The factors used for the transportation of property that are contained in 34 RCNY 4-01 shall be used by the department. Property includes but is not limited to valuables and cash. 
+ Buses that have seating capacity of 15 or more passengers in addition to the driver and used for the transportation of persons.* 
+ A citizen may not file a complaint against a passenger car. 
+ 
+ *There are exceptions to when a citizen can file a complaint against a truck and bus. Citizens may only submit idling complaints about trucks and buses as defined in paragraph 1 and 2 below. There are additional exceptions which are explained below in subdivisions a and/ or b. 
+ 
+ Trucks are defined to include any vehicle that is designed, used or maintained primarily for the transportation of property as defined in the NYS Vehicle and Traffic Law and 34 RCNY 4-01. This would include a van that primarily transports property. 
+ Buses are defined as any motor vehicles having a seating capacity of fifteen or more passengers in addition to the driver and used for the transportation of persons. 
+ 
+ Exceptions to Paragraphs 1 and 2: 
+ 
+ Trucks that use the motor vehicle engine or a secondary motor to run a piece of equipment including but not limited to the refrigeration unit on a delivery truck, an ice cream truck, a truck ACTIVELY using a lift gate to load and unload product, etc. are allowed to keep that engine running. If you submit a complaint regarding a refrigeration truck, you must document that the engine that moves the vehicle was on and was not being used to run the refrigeration unit. 
+ City and/or State Vehicles are not subject to OATH penalties. 
+ 
+ 
+ 
+ When can a citizen file a dust complaint? 
+ 
+ A citizen may submit a dust complaint when dust becomes airborne as provided in 24-146(b). If the dust is emitted due to a construction activity, please issue under 24-246(c). So long as the dust is visible, you may submit a video showing the dust in the air. The video must be time and date stamped. The video should not be any longer than five minutes. 
+ 
+ When can a citizen file for emission from a motor vehicle? 
+ 
+ A citizen may submit a complaint under 24-143(a) if there is visible emission of an air contaminant from a motor vehicle stationary longer than ten seconds. A citizen may also submit a complaint under 24-143(b) for a motor vehicle if the emission of air contaminant (such as dust, smoke or soot) from the vehicle is visible and the vehicle moved continuously for more than ninety yards. A time and date stamped video must be submitted for the duration of time as provided in (a) or (b). 
+ 
+ When can a citizen file for a false and misleading statement? 
+ 
+ A citizen must submit a time and date stamped picture of the vehicle and any supporting evidence to support the allegation that a document is false and misleading or altered or reproduced. An example is idling related stickers purporting as having been issued by DEP. 
+ 
+ When can a truck legally idle? 
+ 
+ 
+ 
+ Trucks that use the motor vehicle engine to run a truck&rsquo;s lift gate when being used to ACTIVELY load and unload product or a processing device (as defined below) are allowed to keep the engine running. 
+ 
+ If you submit a complaint regarding a refrigeration truck, you must document that the engine that moves the vehicle was on and was not being used to run the refrigeration unit. 
+ Section 39&ndash;01 of 15 RCNY has been to define &ldquo;processing device&rdquo; for the purposes of section 24-163 of the Administrative Code: 
+ 
+ 
+ 
+ a device that accomplishes the function for which the vehicle or equipment was designed, other than transporting goods or people, via a mechanical connection to the engine, including but not limited to operating a lift, crane, pump, drill, hoist, or mixer; or a system that controls the environment of temperature-sensitive cargo or substances, provided that such cargo or substances are being transported in a vehicle designed for the transportation of such materials. 
+ The term &ldquo;processing device&rdquo; shall not include a heater or air conditioner operated for cabin comfort. 
+ 
+ 
+ 
+ 
+ 
+ When can a bus legally idle? 
+ 
+ 
+ 
+ If the bus is being used to actively load/unload passengers. There is no violation of a bus that idles for longer than three minutes if there are passengers actively boarding during part of that idle period. This is based on the VTL definition of parking and standing. 
+ A bus may not idle for any length of time at a terminal point when the temperature is over 40&deg;F. 
+ 
+ 
+ 
+ How is a legally authorized vehicle defined? 
+ 
+ 
+ 
+ Every ambulance, police vehicle or bicycle, correction vehicle, fire vehicle, civil defense emergency vehicle, emergency ambulance service vehicle, blood delivery vehicle, county emergency medical services vehicle, environmental emergency response vehicle, sanitation patrol vehicle, cooling bus, hazardous materials emergency vehicle and ordnance disposal vehicle of the armed forces of the United States. 
+ 
+ 
+ 
+ How long does the truck or bus have to be idling for in order to file a complaint? 
+ 
+ 
+ 
+ When a truck or bus is not allowed to idle for longer than three (3) minutes, the video duration must be for at least three (3) minutes and 4 seconds, but the observation of the idling truck or bus must be three (3) minutes and one second. When a truck or bus is not allowed to idle for longer than one (1) minute, the video duration must be for at least one (1) minute and 4 seconds, but the observation of the idling truck or bus must be one (1) minute and one second. 
+ 
+ Example: Observing a vehicle idling from 1:00:00 pm to 1:03:00 pm does not meet the requirement of more than 3 minutes as it is not longer than three minutes. 
+ 
+ 
+ When do you use the one-minute standard? 
+ 
+ 
+ 
+ When a vehicle is found idling adjacent to a public or non-public school (pre-K&ndash;12) or public park or inside a public park (except for parking lots located within a park), then the idling limit is no longer than one (1) minute for commercial trucks. 
+ A school shall include any building or structure, playground, athletic field or other property that is part of the school (15 RCNY &sect;39&ndash;02). 
+ Colleges, Universities, post graduate schools, etc. are not included in the one (1) minute rule and you would have to document more than three (3) minutes of idling. 
+ Following recent appeals decisions at the Office of Administrative Trials and Hearings related to the idling of school buses adjacent to schools (DEP vs Lessel (January 26, 2023), DEP vs Selby Transportation (February 23, 2023), and DEP vs B&amp;F Skilled, Inc. (December 21, 2023), and with the goal of reducing idling adjacent to schools, DEP is updating its best practices to clarify what is required for complaints to be pursued against idling school buses). The best practice is as follows:
+ 
+ Within 15 min of the drop off/pick up times posted by the school there will be a presumption that school buses are idling to maintain passenger comfort and would therefore be exempt from the idling law. However, this presumption is only applicable when the school bus is adjacent to a school. At any other times and/or locations, it will be the respondent&rsquo;s burden to prove that the bus was idling to maintain passenger comfort. For citizens to pursue cases for school buses adjacent to schools, submissions will require inclusion of a screenshot of the drop off/pick up times from the school website or an alternative verifiable source that shows the school schedule. 
+ 
+ 
+ 
+ 
+ 
+ Are there any situations where a respondent does not have to pay the penalty? 
+ 
+ 
+ City vehicles are subject to idling restrictions, but without monetary penalties imposed by OATH. If you observe idling by a City vehicle, you may send the name of the agency and the license plate number to nycidling@dep.nyc.gov , so we may bring the matter to the attention of that agency. 
+ 
+ 
+ What documentation is required to submit the citizen idling complaint? 
+ 
+ 
+ EFFECTIVE January 27, 2025 : &ldquo;If issuing an idling summons for idling when adjacent to a school or a park, you need to show the park or school in the video and you should show the school or park signage in the video. Under Air Code 24-163(f) the respondent can raise as an affirmative defense that the school or park was not easily identifiable.&rdquo; See 24-163(f) . No person shall cause or permit the engine of a motor vehicle, other than a legally authorized emergency motor vehicle, to idle for longer than one minute if such motor vehicle is adjacent, as determined by rule, to any public school under the jurisdiction of the New York city department of education or to any non-public school that provides educational instruction to students in any grade from pre-kindergarten to the twelfth grade level, or is adjacent to, as determined by rule, or within, any park under the jurisdiction of the New York city department of parks and recreation, while parking as defined in section one hundred twenty-nine of the vehicle and traffic law, standing as defined in section one hundred forty-five of the vehicle and traffic law, or stopping as defined in section one hundred forty-seven of the vehicle and traffic law, unless the engine is used to operate a loading, unloading or processing device, and provided that idling of an engine of a school bus may be permitted to the extent necessary: (1) for mechanical work; (2) to maintain an appropriate temperature for passenger comfort; or (3) in emergency evacuations where necessary to operate wheelchair lifts. It shall be an affirmative defense that any such school or park was not easily identifiable as a school or park by signage or otherwise at the time a violation of this subdivision occurred. For purposes of this subdivision, &ldquo;park&rdquo; means a park that has been designated with a name and is identified as a park on the website of the department of parks and recreation and does not include any parking lot located within such park. 
+ The following pieces of evidence are required: 
+ 
+ A time and date stamped video taken during the time of your observation that captures the truck or bus continuously idling for more than one (1) minute next to a K&ndash;12 school or within a park or more than three (3) minutes. The sound of the idling engine must be clearly audible and verified by recording the sound either from the front of the truck or the image of smoke plume from exhaust pipe must be clearly evident on the video. EFFECTIVE 11/21/23 : The video must also capture all identifying information including the license plate. The name of the company must be clearly identifiable on the truck or bus. 
+ A time and date stamped still picture or screengrab clearly showing the license plate of the vehicle. If the vehicle is a truck with a separate trailer, the license plate of the truck (cab) and the name on the truck and address is also needed. We ask that you exercise caution as the license plate can be located in front of the vehicle or the rear of the truck (cab) underneath the trailer to get the license plate information. The information on the side of the truck should be the information on the complainant form unless you provide a screen shot of where the different mailing address was obtained. 
+ EFFECTIVE October 17, 2022 : the video must include the side of the vehicle facing the sidewalk, the front of the truck and the back of the truck where practicable. 
+ A time and date stamped still picture or screengrab clearly showing the company name and address, if available. 
+ If the bus is idling at a terminal point, please provide evidence that the bus was at either end of its route as well as a still picture or screengrab from a weather agency clearly showing that the temperature was above 40&deg;F at the time of the observation. 
+ EFFECTIVE October 17, 2022 : from posting, a separate affirmation or affidavit is no longer mandatory. The citizen may choose to submit such document. The checkbox on the application wherein may be used in place of the affirmation or affidavit. You attest and understand that false statements are punishable as a Class A Misdemeanor pursuant to section 210.34 of the Penal Law. 
+ 
+ To produce a video or photo with a time and date stamp, you can download an application to your device . View an example of what the time and date stamp should look like . &ldquo;Timestamp Camera Enterprise&rdquo; is an example of a free app that will produce the required information. You can download it using the links below: 
+ 
+ Download Timestamp Camera Enterprise for Android 
+ Download Timestamp Camera Enterprise for iOS 
+ 
+ 
+ 
+ How do I submit my air complaint? 
+ 
+ 
+ By website only. Video evidence effective July 14, air complaints must be submitted using the Air Complaint System. The evidence must include a video that depicts the alleged violation of the air code. This must be a time and date stamped video or the submission will be deemed frivolous. 
+ EFFECTIVE JANUARY 1, 2022 : you must submit your completed complaint and all supporting evidence using the Air Complaint System within 90 days from the date of observation. Submissions after 90 days from the date of observation MAY be rejected. 
+ You can download instructions for using the Idling Complaint System in English , Espa&ntilde;ol , 简体中文 , русский , Krey&ograve;l ayisyen , 한국어 , বাংলা , Polski , العربية , Fran&ccedil;ais , اردو , ײִדיש , Italiano . 
+ 
+ 
+ If there is no license plate, what should I include on the form? 
+ 
+ 
+ EFFECTIVE 11/21/23 : The complaint may not be submitted. 
+ 
+ 
+ What happens after I submit my complaint? 
+ 
+ 
+ Where DEP issues the summons, you will be informed of the summons number and hearing date. You may need to be available in person or by phone to testify. If the summons is upheld, the respondent must pay the penalty in order for you to receive payment for your complaint. You should submit your request for payment to OATH. If the summons is dismissed, you are not entitled to any payment. 
+ 
+ 
+ How do I request payment if entitled? 
+ 
+ 
+ You should submit your request to OATH using this e-mail address, penaltyprocessing@OATH.nyc.gov . Include in your e-mail, your name and address, the summons number and that you are the citizen who submitted the complaint to DEP. 
+ 
+ 
+ Can I track the progress of the summons? 
+ 
+ 
+ OATH has a site where you can see the status of your summons. The website is: http://a820-ecbticketfinder.nyc.gov/getViolationbyID.action . 
+ In order to find your summons, you need to enter three zeros before the actual summons number. An example of this format is 000123456A. The image of the actual summons will be available approximately two weeks before the hearing date. 
+ 
+ 
+ What constitutes a second and third offense for idling? 
+ 
+ 
+ The respondent has to be found in violation once before anything could be cited as a second or third offense. Once they&rsquo;re found in violation, the three years goes back to the date of occurrence of the first summons as per 15 RCNY 43&ndash;01(5). A third offense occurs after one finding of violation and there are two prior offenses that occur within three years of the first summons. 
+ 
+ 
+ What constitutes a second and third offense for violations other than idling? 
+ 
+ 
+ The respondent has to be found in violation once before anything could be cited as a second or third offense. Once they&rsquo;re found in violation, the two years goes back to the date of occurrence of the first summons as per 15 RCNY 43&ndash;01(5). A third offense occurs after one finding of violation and there are two prior offenses that occur within two years of the first summons. 
+ 
+ 
+ Should I note in my comments if there is a second or third offense and provide the previous summons numbers? 
+ 
+ 
+ Yes, it is beneficial to DEP to see that notation as well as the summons numbers for DEP to conduct further review. If the information is not provided, DEP will be unable at this time to submit the summons as a second or third offense. 
+ 
+ 
+ Can DEP confiscate the vehicle that idles? 
+ 
+ 
+ No. Avoid Scams! Please note that all emails that come from DEP have the email address of @dep.nyc.gov. Any other communications that come from other email addresses like ones that have a gmail.com or other commercial email address are not from DEP and should not be considered a communication from DEP. If you were contacted by someone misrepresenting themselves as a DEP employee, please contact DEP by email, at nycidling@dep.nyc.gov . 
+ 
+ 
+ Can DEP pursue Canadian or other license plates out of the USA? 
+ 
+ 
+ DEP will serve the summons based upon the documentation from the citizen. 
+ 
+ 
+ Does a citizen have an expectation of privacy? 
+ 
+ 
+ No, but if the citizen does not want their identity revealed at the hearing, DEP will not disclose. Documents are FOILable. DEP will not disclose the name of the citizen at the hearing unless the ALJ requires DEP to disclose. The complaint and other information is part of the record and may be disclosed. DEP will remind the ALJ officer that the focus of the hearing should be on DEP&rsquo;s summons and case. 
+ 
+ 
+ How does a Citizen Pursue a Complaint on his/her Own? 
+ 
+ 
+ Please do not email DEP prior to receiving an email from the DEP that you may self-pursue . 
+ After the citizen receives an email from DEP advising that the complaint(s) may be pursued on your own, the citizen should email nycidling@dep.nyc.gov , and provide the complaint number(s) that you are allowed to pursue. DEP will then notify the citizen of a date and time to pick up the summons or summonses as well as the information that is needed to pursue this complaint. 
+ Instructions will be provided to you when you pick up your summons or summonses. 
+ 
+ 
+<!-- Linked from the Foot Includes: Page Specific Javascript section in the Page Metadata component.
+ --> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <!--
+ Do not display agency programs. 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nyc.gov home Services Events Your government 311 Contact NYC government Register to vote Emergency alerts Careers Website feedback Accessibility resources Privacy policy Terms of use About nyc.gov content 
+ 
+ 
+ NYC 
+ 
+ Search Search 
+ 
+ 
+ &copy; City of New York. 2025 All Rights Reserved. NYC is a trademark and service mark of the City of New York. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ function googleTranslateElementInit() { new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element'); } 

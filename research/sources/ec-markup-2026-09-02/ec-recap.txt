@@ -1,0 +1,162 @@
+ E&amp;C Advances 10 Bills to House Floor to Unleash American Energy and Lower Prices window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '6075483252', {
+page_path: window.location.pathname ,
+});
+gtag('config', 'G-7TMNJQB9BQ', {
+page_path: window.location.pathname ,
+});
+ :root{
+--ig-h1-global-font-size: 5rem;
+--ig-h1-global-font-line-height: 1.5;
+--ig-h1-global-font-weight: 500;
+--ig-h1-global-font-letter-spacing: 0;
+--ig-h2-global-font-size: 2.875rem;
+--ig-h2-global-font-line-height: 1.5;
+--ig-h2-global-font-weight: 500;
+--ig-h2-global-font-letter-spacing: 0.005em;
+--ig-h3-global-font-size: 1.625rem;
+--ig-h3-global-font-line-height: 1.5;
+--ig-h3-global-font-letter-spacing: 0.005em;
+--ig-h3-global-font-weight: 500;
+--ig-h4-global-font-size: 1.3125rem;
+--ig-h4-global-font-line-height: 1.5;
+--ig-h4-global-font-letter-spacing: 0.025em;
+--ig-h4-global-font-weight: 500;
+--ig-h5-global-font-size: 1.1875rem;
+--ig-h5-global-font-line-height: 1.5;
+--ig-h5-global-font-letter-spacing: 0.03em;
+--ig-h5-global-font-weight: 500;
+--ig-h6-global-font-weight: 600;
+--ig-h6-global-font-size: 0.9375rem;
+--ig-h6-global-font-line-height: 1.5;
+--ig-h6-global-font-letter-spacing: 0.05em;
+--ig-h6-global-font-text-transform: uppercase;
+--ig-body-global-font-family: Barlow Semi Condensed;
+--ig-body-global-font-style: normal;
+--ig-body-global-font-weight: 400;
+--ig-body-global-font-size: 1.125rem;
+--ig-body-global-font-line-height: 1.5;
+--ig-body-global-font-letter-spacing: 0.03em;
+--ig-cta-global-font-weight: 600;
+--ig-cta-global-font-size: 1.25rem;
+--ig-cta-global-font-line-height: 1.5;
+--ig-cta-global-font-letter-spacing: 0.05em;
+--ig-cta-global-font-text-transform: uppercase;
+--ig-link-global-font-weight: 400;
+--ig-link-global-font-size: 1.125rem;
+--ig-link-global-font-line-height: 1.5;
+--ig-link-global-font-letter-spacing: 0.03em;
+--ig-link-global-font-text-decoration-line: underline;
+--ig-label-global-font-weight: 500;
+--ig-label-global-font-size: 1rem;
+--ig-label-global-font-line-height: 1.5;
+--ig-label-global-font-letter-spacing: 0.025em;
+--ig-caption-global-font-weight: 500;
+--ig-caption-global-font-size: 0.875rem;
+--ig-caption-global-font-line-height: 1.5;
+--ig-caption-global-font-letter-spacing: 0.025em;
+--ig-h1-brand-font-family: Montserrat;
+--ig-h1-brand-font-weight: 600;
+--ig-h1-brand-font-size: 5rem;
+--ig-h1-brand-font-line-height: 1.5;
+--ig-h2-brand-font-family: Montserrat;
+--ig-h2-brand-font-weight: 600;
+--ig-h2-brand-font-size: 2.875rem;
+--ig-h2-brand-font-line-height: 1.5;
+--ig-h3-brand-font-family: Montserrat;
+--ig-h3-brand-font-weight: 600;
+--ig-h3-brand-font-size: 1.5rem;
+--ig-h3-brand-font-line-height: 1.5;
+--ig-h3-brand-font-letter-spacing: 0.005em;
+--ig-h4-brand-font-family: Montserrat;
+--ig-h4-brand-font-weight: 600;
+--ig-h4-brand-font-size: 1.3125rem;
+--ig-h4-brand-font-line-height: 1.5;
+--ig-h4-brand-font-letter-spacing: 0.01em;
+--ig-h5-brand-font-family: Montserrat;
+--ig-h5-brand-font-weight: 600;
+--ig-h5-brand-font-size: 1.125rem;
+--ig-h5-brand-font-line-height: 1.5;
+--ig-h5-brand-font-letter-spacing: 0.01em;
+--ig-h6-brand-font-family: Montserrat;
+--ig-h6-brand-font-weight: 600;
+--ig-h6-brand-font-size: 0.875rem;
+--ig-h6-brand-font-line-height: 1.5;
+--ig-h6-brand-font-letter-spacing: 0.05em;
+--ig-h6-brand-font-text-transform: uppercase;
+--ig-h5-utility-font-size: 1.125rem;
+--ig-h5-utility-font-letter-spacing: 0.01em;
+--ig-h6-utility-font-weight: 500;
+--ig-h6-utility-font-size: 0.875rem;
+--ig-h6-utility-font-line-height: 1.5;
+--ig-h6-utility-font-letter-spacing: 0.06em;
+--ig-h6-utility-font-text-transform: uppercase;
+--ig-body-utility-font-family: Roboto !important;
+--ig-body-utility-font-style: normal;
+--ig-body-utility-font-weight: 400;
+--ig-body-utility-font-size: 1rem;
+--ig-body-utility-font-line-height: 1.5;
+--ig-body-utility-font-letter-spacing: 0.015em;
+--ig-cta-utility-font-size: 1.125rem;
+--ig-cta-utility-font-line-height: 1.5;
+--ig-cta-utility-font-letter-spacing: 0.03em;
+--ig-cta-utility-font-text-transform: uppercase;
+--ig-cta-utility-font-weight: 500;
+--ig-link-utility-font-weight: 500;
+--ig-link-utility-font-text-decoration-line: underline;
+--ig-label-utility-font-size: 0.875rem;
+--ig-label-utility-font-line-height: 1.5;
+--ig-label-utility-font-letter-spacing: 0.02em;
+--ig-label-medium-utility-font-weight: 500;
+--ig-label-medium-utility-font-size: 0.875rem;
+--ig-label-medium-utility-font-line-height: 1.5;
+--ig-label-medium-utility-font-letter-spacing: 0.02em;
+--ig-caption-utility-font-weight: 500;
+--ig-caption-utility-font-size: 0.75rem;
+--ig-caption-utility-font-line-height: 1.5;
+--ig-caption-utility-font-letter-spacing: 0.02em;
+} Skip to main content Subscribe Members Subcommittees Calendar News &amp; Media About Members Subcommittees Calendar News &amp; Media About News / Press Release Share on X Twitter Logo Streamline Icon: https://streamlinehq.com E&amp;C Advances 10 Bills to House Floor to Unleash American Energy and Lower Prices Sep 02, 2026 Press Release WASHINGTON, D.C. – Today, Congressman Brett Guthrie (KY-02), Chairman of the House Committee on Energy and Commerce, led a markup of 10 bills. 
+ “We took up several bills that highlight the Committee’s effort to support energy innovation, cut burdensome red tape, and lower costs for hardworking American families,” said Chairman Guthrie. “We know that success for the nuclear industry—from the fuels, manufacturers, and reactors to the operators and workers—will be essential for long term American technological leadership globally and for reliable and abundant energy here at home. We also examined legislation that would provide needed updates to the Clean Air Act. Outdated provisions in the law have created counterintuitive and burdensome policies that increase costs and negatively impact quality of life across this country.” 
+ Legislative Vote Summary: 
+ 
+ 
+ H.R. 3978 , Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act was reported to the full House by a roll call vote of 44 yeas - 0 nays 
+ 
+ 
+ H.R. 9612 , American Enrichment Deployment Act was reported to the full House by a roll call vote of 43 yeas - 0 nays 
+ 
+ 
+ H.R. 5549 , Efficient Nuclear Licensing Hearings Act was reported to the full House by a roll call vote of 44 yeas - 0 nays 
+ 
+ 
+ H.R. 9613 , Nuclear Advisory Committee Reform Act was reported to the full House by a roll call vote of 41 yeas - 0 nays 
+ 
+ 
+ H.R. 9614 , NRC Staff Pay Alignment Act was reported to the full House by a roll call vote of 42 yeas - 0 nays 
+ 
+ 
+ H.R. 9084 , Department of Energy Nuclear Transparency Act was reported to the full House by a roll call vote of 41 yeas - 0 nays 
+ 
+ 
+ H.R. 2140 , Diesel Emissions Reduction Act of 2025 was reported to the full House by a roll call vote of 43 yeas - 0 nays 
+ 
+ 
+ H.R. 3194 , Lifting Overburdensome Commerce Obstructions and Motives (LOCOMOTIVES) Act was reported to the full House by a roll call vote of 26 yeas - 23 nays 
+ 
+ 
+ H.R. 9317 , Buses Utilizing Safety and Environmental Standards (BUSES) Act was reported to the full House by a roll call vote of 26 yeas - 22 nays 
+ 
+ 
+ H.R. 9615 , Battery Recycling for America’s Competitive Economy (BRACE) Act was reported to the full House by a roll call vote of 46 yeas - 0 nays 
+ 
+ 
+ Watch the full markup here . 
+ Below are key excerpts from today’s markup: 
+ 
+ Congressman Gabe Evans (CO-08) on H.R. 3194, the Lifting Overburdensome Commerce Obstructions and Motives (LOCOMOTIVES) Act : “I represent the heart of Colorado&#x27;s rail economy, with hundreds of miles of track running through my district and thousands of jobs relying on the industry. This bill helps to protect those jobs by closing a Clean Air Act loophole that allows radical states like California and Colorado to require trains that pass through their states to abide by stricter environmental standards than those set by the federal government. Like their counterparts in Sacramento, Denver Democrats have long used the Clean Air Act as cover to regulate industries they don&#x27;t like. This is part of the reason we have a 40 percent commercial vacancy rate in downtown Denver. From targeting America&#x27;s vital oil and gas industry, to restricting the use of lawn equipment, to mandating the sale of more expensive gasoline, these antics drive up the cost of living for my constituents and hurt jobs. If California&#x27;s 2023 waiver request had been approved, it would have effectively shut off two of the largest ports in America from being serviced by 60% of our nation&#x27;s rail fleet, inflating the price of basic goods and hurting the wallets of working Colorado and American families.” 
+ 
+ Congressman Nick Langworthy (NY-23) on H.R. 9317, the Buses Utilizing Safety and Environmental Standards (BUSES) Act : “The Buses Utilizing Safety and Environmental Standards Act, or the BUSES Act, comes down to one simple principle: passenger safety should come before an arbitrary stopwatch. Look at what&#x27;s happening in New York City. The general idling limit is three minutes. Next to a school, it drops to one minute. Now think about that. Three minutes to safely prepare a bus carrying dozens of passengers. One minute outside of a school. Anyone who has watched a school bus load children knows how unrealistic those numbers can be. Kids aren&#x27;t cargo. Drivers may be helping younger children, waiting for a student to safely cross the street, or assisting a child with disabilities. And passenger safety starts before anyone even boards. Drivers must conduct pre-trip safety checks, inspect critical systems, and make sure that the vehicle is safe before putting passengers on the road.” 
+ 
+ Congressman Tom Kean (NJ-07) on H.R. 5549, the Efficient Nuclear Licensing Hearings Act : “This legislation represents an opportunity to modernize outdated and burdensome government regulation by allowing the NRC to operate within the reality of current regulatory needs, not decades-old regulation. This bipartisan bill will allow us to get more clean, safe power on the grid quicker and at a lower cost, while still including opportunities for public engagement and expert review. I support commonsense steps to get more power on the grid safely and as soon as possible to lower costs, to improve stability, and to increase reliability for New Jersey families. I stand ready to continue to support good government regulatory approaches like this bill that will reduce costs, strengthen the grid, and improve service for all Americans.” Share on X Twitter Logo Streamline Icon: https://streamlinehq.com Office 2125 Rayburn House Office Building Washington, D.C. 20515 Phone Main: (202) 225-3641 Press: (202) 226-4972 X Twitter Logo Streamline Icon: https://streamlinehq.com Minority Website Privacy Accessibility {"props":{"pageProps":{"global":{"accent":"Gradient","metadata":{"__typename":"ComponentGlobalMetadata","title":"House Committee on Energy and Commerce","description":"The Committee on Energy and Commerce is the oldest standing legislative committee in the U.S. House of Representatives and is vested with the broadest jurisdiction of any congressional authorizing committee.","shareImage":{"__typename":"UploadFile","name":"ENERGY AND COMMERCE SQUARE LOGO.png","caption":null,"url":"https://d1dth6e84htgma.cloudfront.net/ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","formats":{"large":{"ext":".png","url":"https://d1dth6e84htgma.cloudfront.net/large_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","hash":"large_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f","mime":"image/png","name":"large_ENERGY AND COMMERCE SQUARE LOGO.png","path":null,"size":48.35,"width":1000,"height":1000,"sizeInBytes":48348},"small":{"ext":".png","url":"https://d1dth6e84htgma.cloudfront.net/small_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","hash":"small_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f","mime":"image/png","name":"small_ENERGY AND COMMERCE SQUARE LOGO.png","path":null,"size":18.86,"width":500,"height":500,"sizeInBytes":18856},"medium":{"ext":".png","url":"https://d1dth6e84htgma.cloudfront.net/medium_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","hash":"medium_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f","mime":"image/png","name":"medium_ENERGY AND COMMERCE SQUARE LOGO.png","path":null,"size":31.61,"width":750,"height":750,"sizeInBytes":31608},"thumbnail":{"ext":".png","url":"https://d1dth6e84htgma.cloudfront.net/thumbnail_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","hash":"thumbnail_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f","mime":"image/png","name":"thumbnail_ENERGY AND COMMERCE SQUARE LOGO.png","path":null,"size":4.66,"width":156,"height":156,"sizeInBytes":4655}},"alternativeText":null,"height":2160,"width":2160},"defaultHeader":{"__typename":"UploadFile","name":"Guthrie District 2.jpg","caption":null,"url":"https://d1dth6e84htgma.cloudfront.net/Guthrie_District_2_e5be489714.jpg","formats":{"large":{"ext":".jpg","url":"https://d1dth6e84htgma.cloudfront.net/large_Guthrie_District_2_e5be489714.jpg","hash":"large_Guthrie_District_2_e5be489714","mime":"image/jpeg","name":"large_Guthrie District 2.jpg","path":null,"size":164.16,"width":1000,"height":537,"sizeInBytes":164162},"small":{"ext":".jpg","url":"https://d1dth6e84htgma.cloudfront.net/small_Guthrie_District_2_e5be489714.jpg","hash":"small_Guthrie_District_2_e5be489714","mime":"image/jpeg","name":"small_Guthrie District 2.jpg","path":null,"size":43.06,"width":500,"height":269,"sizeInBytes":43062},"medium":{"ext":".jpg","url":"https://d1dth6e84htgma.cloudfront.net/medium_Guthrie_District_2_e5be489714.jpg","hash":"medium_Guthrie_District_2_e5be489714","mime":"image/jpeg","name":"medium_Guthrie District 2.jpg","path":null,"size":95.8,"width":750,"height":403,"sizeInBytes":95800},"thumbnail":{"ext":".jpg","url":"https://d1dth6e84htgma.cloudfront.net/thumbnail_Guthrie_District_2_e5be489714.jpg","hash":"thumbnail_Guthrie_District_2_e5be489714","mime":"image/jpeg","name":"thumbnail_Guthrie District 2.jpg","path":null,"size":10.84,"width":245,"height":132,"sizeInBytes":10840}},"alternativeText":null,"height":550,"width":1024},"favicon":{"__typename":"UploadFile","name":"ENERGY AND COMMERCE SQUARE LOGO.png","caption":null,"url":"https://d1dth6e84htgma.cloudfront.net/ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","formats":{"large":{"ext":".png","url":"https://d1dth6e84htgma.cloudfront.net/large_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","hash":"large_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f","mime":"image/png","name":"large_ENERGY AND COMMERCE SQUARE LOGO.png","path":null,"size":48.35,"width":1000,"height":1000,"sizeInBytes":48348},"small":{"ext":".png","url":"https://d1dth6e84htgma.cloudfront.net/small_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","hash":"small_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f","mime":"image/png","name":"small_ENERGY AND COMMERCE SQUARE LOGO.png","path":null,"size":18.86,"width":500,"height":500,"sizeInBytes":18856},"medium":{"ext":".png","url":"https://d1dth6e84htgma.cloudfront.net/medium_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","hash":"medium_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f","mime":"image/png","name":"medium_ENERGY AND COMMERCE SQUARE LOGO.png","path":null,"size":31.61,"width":750,"height":750,"sizeInBytes":31608},"thumbnail":{"ext":".png","url":"https://d1dth6e84htgma.cloudfront.net/thumbnail_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f.png","hash":"thumbnail_ENERGY_AND_COMMERCE_SQUARE_LOGO_a093c47e5f","mime":"image/png","name":"thumbnail_ENERGY AND COMMERCE SQUARE LOGO.png","path":null,"size":4.66,"width":156,"height":156,"sizeInBytes":4655}},"alternativeText":null,"height":2160,"width":2160}},"fallbacks":null,"footer":{"__typename":"ComponentGlobalFooter","title":null,"location":[{"__typename":"ComponentElementLocation","title":"Office","address":"2125 Rayburn House Office Building","address2":"Washington, D.C. 20515","phone":null,"richText":"\u003cp\u003e\u003cbr\u003e\u003c/p\u003e"},{"__typename":"ComponentElementLocation","title":"Phone","address":"Main: (202) 225-3641 ","address2":"Press: (202) 226-4972 ","phone":null,"richText":null}],"subscribeTitle":null,"seal":null,"sealText":null,"districtMap":{"__typename":"UploadFile","name":"Chairman_Footer.svg","caption":null,"url":"https://d1dth6e84htgma.cloudfront.net/Chairman_Footer_47a235a489.svg","formats":null,"alternativeText":null,"height":194,"width":1037},"social":{"__typename":"ComponentGlobalSocial","twitter":"https://x.com/HouseCommerce","facebook":"https://www.facebook.com/energyandcommerce","instagram":"https://www.instagram.com/energyandcommerce/","linkedin":"house-committee-on-energy-and-commerce","youtube":"https://www.youtube.com/energyandcommerce"},"auxButtons":[{"__typename":"ComponentElementButton","id":"9","label":"Minority Website","target":"blank","route":"https://democrats-energycommerce.house.gov/","iconLocation":"startIcon","icon":"ExternalSite","Variant":null,"Size":null}]},"header":{"nav":{"__typename":"ComponentGlobalNav","logo":{"__typename":"UploadFile","name":"Chairman_Header.svg","caption":null,"url":"https://d1dth6e84htgma.cloudfront.net/Chairman_Header_536b5f3e52.svg","formats":null,"alternativeText":null,"height":194,"width":1037},"buttonContact":{"__typename":"ComponentElementButton","id":"1","label":"Subscribe","target":"self","route":"https://energycommerce.house.gov/subscribe","iconLocation":null,"icon":null,"Variant":null,"Size":null},"isTitleCase":null},"navGroup":[{"__typename":"ComponentGlobalNavGroup","label":"Members","route":"/representatives","target":null,"link":[]},{"__typename":"ComponentGlobalNavGroup","label":"Subcommittees","route":"/committees","target":null,"link":[{"__typename":"ComponentElementLink","label":"Commerce, Manufacturing, and Trade","route":"/committees/subcommittee/Commerce","target":null},{"__typename":"ComponentElementLink","label":"Communications \u0026 Technology","route":"/committees/subcommittee/communications-technology","target":null},{"__typename":"ComponentElementLink","label":"Energy","route":"/committees/subcommittee/energy","target":null},{"__typename":"ComponentElementLink","label":"Environment","route":"/committees/subcommittee/environment","target":null},{"__typename":"ComponentElementLink","label":"Health","route":"/committees/subcommittee/health","target":null},{"__typename":"ComponentElementLink","label":"Oversight \u0026 Investigations","route":"/committees/subcommittee/oversight-investigations","target":null},{"__typename":"ComponentElementLink","label":"View All","route":"/committees","target":null}]},{"__typename":"ComponentGlobalNavGroup","label":"Calendar","route":"/calendars","target":null,"link":[]},{"__typename":"ComponentGlobalNavGroup","label":"News \u0026 Media","route":"/news","target":null,"link":[{"__typename":"ComponentElementLink","label":"Press Releases","route":"/news/press-release","target":null},{"__typename":"ComponentElementLink","label":"Letters","route":"/news/letter","target":null},{"__typename":"ComponentElementLink","label":"Blogs","route":"https://energycommerce.house.gov/news/blog","target":null},{"__typename":"ComponentElementLink","label":"On the House Floor","route":"/news/on-the-house-floor","target":null}]},{"__typename":"ComponentGlobalNavGroup","label":"About","route":"/about","target":null,"link":[{"__typename":"ComponentElementLink","label":"About the Committee","route":"/about","target":null},{"__typename":"ComponentElementLink","label":"Meet the Chairman","route":"/meet-the-chairman","target":null},{"__typename":"ComponentElementLink","label":"Internships","route":"/internship-program","target":null},{"__typename":"ComponentElementLink","label":"Jursidiction","route":"https://energycommerce.house.gov/energy-and-commerce-jursidiction","target":null}]}]},"headerVariant":null,"searchPriorities":null,"searchSuggestions":null,"type":"committee","calendar":{"__typename":"ComponentGlobalCalendar","displayIssueFilter":false,"defaultTimeframe":"thisWeek"}},"post":{"__typename":"Post","title":"E\u0026C Advances 10 Bills to House Floor to Unleash American Energy and Lower Prices","slug":"e-and-c-advances-10-bills-to-house-floor-to-unleash-american-energy-and-lower-prices","content":"**WASHINGTON, D.C.** – Today, Congressman Brett Guthrie (KY-02), Chairman of the House Committee on Energy and Commerce, led a markup of 10 bills.\n\n*“We took up several bills that highlight the Committee’s effort to support energy innovation, cut burdensome red tape, and lower costs for hardworking American families,”* **said Chairman Guthrie.** *“We know that success for the nuclear industry—from the fuels, manufacturers, and reactors to the operators and workers—will be essential for long term American technological leadership globally and for reliable and abundant energy here at home. We also examined legislation that would provide needed updates to the Clean Air Act. Outdated provisions in the law have created counterintuitive and burdensome policies that increase costs and negatively impact quality of life across this country.”*\n\n**Legislative Vote Summary:**\n- [**H.R. 3978**](https://d1dth6e84htgma.cloudfront.net/H_R_3978_Nuclear_REFUEL_Act_a5212f0dac.pdf), *Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act* was reported to the full House by a roll call vote of 44 yeas - 0 nays\n\n- [**H.R. 9612**](https://d1dth6e84htgma.cloudfront.net/H_R_9612_American_Enrichment_Deployment_Act_c3a6d893e6.pdf), *American Enrichment Deployment Act* was reported to the full House by a roll call vote of 43 yeas - 0 nays\n\n- [**H.R. 5549**](https://d1dth6e84htgma.cloudfront.net/H_R_5549_Efficient_Nuclear_Licensing_Hearings_Act_5e1ae0191f.pdf), *Efficient Nuclear Licensing Hearings Act* was reported to the full House by a roll call vote of 44 yeas - 0 nays\n\n- [**H.R. 9613**](https://d1dth6e84htgma.cloudfront.net/H_R_9613_Nuclear_Advisory_Committee_Reform_Act_adac4f580c.pdf), *Nuclear Advisory Committee Reform Act* was reported to the full House by a roll call vote of 41 yeas - 0 nays\n\n- [**H.R. 9614**](https://d1dth6e84htgma.cloudfront.net/H_R_9614_NRC_Staff_Pay_Alignment_Act_a70a3ff692.pdf), *NRC Staff Pay Alignment Act* was reported to the full House by a roll call vote of 42 yeas - 0 nays\n\n- [**H.R. 9084**](https://d1dth6e84htgma.cloudfront.net/H_R_9084_Department_of_Energy_Nuclear_Transparency_Act_efbf7dbefa.pdf), *Department of Energy Nuclear Transparency Act* was reported to the full House by a roll call vote of 41 yeas - 0 nays\n\n- [**H.R. 2140**](https://d1dth6e84htgma.cloudfront.net/H_R_2140_Diesel_Emissions_Reduction_Act_of_2025_1_ea9d248059.pdf), *Diesel Emissions Reduction Act of 2025* was reported to the full House by a roll call vote of 43 yeas - 0 nays\n\n- [**H.R. 3194**](https://d1dth6e84htgma.cloudfront.net/H_R_3194_Lifting_Overburdensome_Commerce_Obstructions_and_Motives_LOCOMOTIVES_Act_bc4cb1f9a8.pdf), *Lifting Overburdensome Commerce Obstructions and Motives (LOCOMOTIVES) Act* was reported to the full House by a roll call vote of 26 yeas - 23 nays\n\n- [**H.R. 9317**](https://d1dth6e84htgma.cloudfront.net/H_R_9317_Buses_Utilizing_Safety_and_Environmental_Standards_BUSES_Act_0ae1c046f4.pdf), *Buses Utilizing Safety and Environmental Standards (BUSES) Act* was reported to the full House by a roll call vote of 26 yeas - 22 nays\n\n- [**H.R. 9615**](https://d1dth6e84htgma.cloudfront.net/H_R_9615_Battery_Recycling_for_America_s_Competitive_Economy_BRACE_Act_1_16a2c256e6.pdf), *Battery Recycling for America’s Competitive Economy (BRACE) Act* was reported to the full House by a roll call vote of 46 yeas - 0 nays\n\n**Watch the full markup [here](https://www.youtube.com/watch?v=oCB-R-SFu2M).**\n\n**Below are key excerpts from today’s markup:**\n\n![Congressman Gabe Evans (CO-08)](https://d1dth6e84htgma.cloudfront.net/09_02_Evans_a1b7b60b08.png)\n\n**Congressman Gabe Evans (CO-08) on H.R. 3194, the *Lifting Overburdensome Commerce Obstructions and Motives (LOCOMOTIVES) Act*:** *“I represent the heart of Colorado's rail economy, with hundreds of miles of track running through my district and thousands of jobs relying on the industry. This bill helps to protect those jobs by closing a Clean Air Act loophole that allows radical states like California and Colorado to require trains that pass through their states to abide by stricter environmental standards than those set by the federal government. Like their counterparts in Sacramento, Denver Democrats have long used the Clean Air Act as cover to regulate industries they don't like. This is part of the reason we have a 40 percent commercial vacancy rate in downtown Denver. From targeting America's vital oil and gas industry, to restricting the use of lawn equipment, to mandating the sale of more expensive gasoline, these antics drive up the cost of living for my constituents and hurt jobs. If California's 2023 waiver request had been approved, it would have effectively shut off two of the largest ports in America from being serviced by 60% of our nation's rail fleet, inflating the price of basic goods and hurting the wallets of working Colorado and American families.”*\n\n![Congressman Nick Langworthy (NY-23)](https://d1dth6e84htgma.cloudfront.net/09_02_Langworthy_8de11f3307.png)\n\n**Congressman Nick Langworthy (NY-23) on H.R. 9317, the *Buses Utilizing Safety and Environmental Standards (BUSES) Act*:** *“The Buses Utilizing Safety and Environmental Standards Act, or the BUSES Act, comes down to one simple principle: passenger safety should come before an arbitrary stopwatch. Look at what's happening in New York City. The general idling limit is three minutes. Next to a school, it drops to one minute. Now think about that. Three minutes to safely prepare a bus carrying dozens of passengers. One minute outside of a school. Anyone who has watched a school bus load children knows how unrealistic those numbers can be. Kids aren't cargo. Drivers may be helping younger children, waiting for a student to safely cross the street, or assisting a child with disabilities. And passenger safety starts before anyone even boards. Drivers must conduct pre-trip safety checks, inspect critical systems, and make sure that the vehicle is safe before putting passengers on the road.”*\n\n![Congressman Tom Kean (NJ-07)](https://d1dth6e84htgma.cloudfront.net/09_02_Kean_0c10701dfc.png)\n\n**Congressman Tom Kean (NJ-07) on H.R. 5549, the *Efficient Nuclear Licensing Hearings Act*:** *“This legislation represents an opportunity to modernize outdated and burdensome government regulation by allowing the NRC to operate within the reality of current regulatory needs, not decades-old regulation. This bipartisan bill will allow us to get more clean, safe power on the grid quicker and at a lower cost, while still including opportunities for public engagement and expert review. I support commonsense steps to get more power on the grid safely and as soon as possible to lower costs, to improve stability, and to increase reliability for New Jersey families. I stand ready to continue to support good government regulatory approaches like this bill that will reduce costs, strengthen the grid, and improve service for all Americans.”*","contentWidth":"Standard","publishedAt":"2026-09-02T22:30:15.725Z","published":"2026-09-02","categories":[{"__typename":"Category","documentId":"ncq8msn8klfpyl85p82wi1qi","title":"Press Release","slug":"press-release","icon":{"__typename":"ComponentElementIcon","variant":"Messages"},"fallbackImg":{"__typename":"UploadFile","name":"roman-kraft-_Zua2hyvTBk-unsplash.jpg","caption":"roman-kraft-_Zua2hyvTBk-unsplash.jpg","url":"https://d1dth6e84htgma.cloudfront.net/roman_kraft_Zua2hyv_T_Bk_unsplash_27c2b46d53.jpg","formats":{"large":{"ext":".jpg","url":"https://d1dth6e84htgma.cloudfront.net/large_roman_kraft_Zua2hyv_T_Bk_unsplash_27c2b46d53.jpg","hash":"large_roman_kraft_Zua2hyv_T_Bk_unsplash_27c2b46d53","mime":"image/jpeg","name":"large_roman-kraft-_Zua2hyvTBk-unsplash.jpg","path":null,"size":95.63,"width":1000,"height":668},"small":{"ext":".jpg","url":"https://d1dth6e84htgma.cloudfront.net/small_roman_kraft_Zua2hyv_T_Bk_unsplash_27c2b46d53.jpg","hash":"small_roman_kraft_Zua2hyv_T_Bk_unsplash_27c2b46d53","mime":"image/jpeg","name":"small_roman-kraft-_Zua2hyvTBk-unsplash.jpg","path":null,"size":30.69,"width":500,"height":334},"medium":{"ext":".jpg","url":"https://d1dth6e84htgma.cloudfront.net/medium_roman_kraft_Zua2hyv_T_Bk_unsplash_27c2b46d53.jpg","hash":"medium_roman_kraft_Zua2hyv_T_Bk_unsplash_27c2b46d53","mime":"image/jpeg","name":"medium_roman-kraft-_Zua2hyvTBk-unsplash.jpg","path":null,"size":59.98,"width":750,"height":501},"thumbnail":{"ext":".jpg","url":"https://d1dth6e84htgma.cloudfront.net/thumbnail_roman_kraft_Zua2hyv_T_Bk_unsplash_27c2b46d53.jpg","hash":"thumbnail_roman_kraft_Zua2hyv_T_Bk_unsplash_27c2b46d53","mime":"image/jpeg","name":"thumbnail_roman-kraft-_Zua2hyvTBk-unsplash.jpg","path":null,"size":9.2,"width":234,"height":156}},"alternativeText":"roman-kraft-_Zua2hyvTBk-unsplash.jpg","height":4016,"width":6016}}],"featuredImg":null,"pageBlocks":[],"seo":null},"seal":null,"url":"https://energycommerce.house.gov/posts/e-and-c-advances-10-bills-to-house-floor-to-unleash-american-energy-and-lower-prices"},"__N_SSP":true},"page":"/posts/[...slug]","query":{"slug":["e-and-c-advances-10-bills-to-house-floor-to-unleash-american-energy-and-lower-prices"]},"buildId":"-9D9JTEUzQgq_dO7u5hTG","isFallback":false,"isExperimentalCompile":false,"gssp":true,"scriptLoader":[]} 

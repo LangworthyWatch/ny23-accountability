@@ -1,0 +1,25 @@
+url	spn_status	spn_location
+https://langworthy.house.gov/media/press-releases/congressman-langworthy-and-gottheimer-introduce-buses-act	302	https://web.archive.org/web/20260904143313/https://langworthy.house.gov/media/press-releases/congressman-langworthy-and-gottheimer-introduce-buses-act
+https://energycommerce.house.gov/posts/e-and-c-advances-10-bills-to-house-floor-to-unleash-american-energy-and-lower-prices	000	
+https://energycommerce.house.gov/posts/chairman-guthrie-announces-full-committee-markup-of-10-bills	000	
+https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-opposition-buses-act-what-i-am-requesting-us-preserve-our	302	https://web.archive.org/web/20260904143800/https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-opposition-buses-act-what-i-am-requesting-us-preserve-our
+https://gottheimer.house.gov/posts/release-gottheimer-announces-bipartisan-buses-act-to-end-nycs-bus-bounty-hunter-scheme-protect-seniors-and-passengers-with-disabilities	000	
+https://www.nyc.gov/site/dep/environment/idling-citizens-air-complaint-program.page	520	
+https://www.aol.com/news/nyc-bounty-hunters-making-almost-000036809.html	000	
+https://ag.ny.gov/press-release/2024/attorney-general-james-stops-four-school-bus-companies-illegal-idling-and	302	https://web.archive.org/web/20260904144301/https://ag.ny.gov/press-release/2024/attorney-general-james-stops-four-school-bus-companies-illegal-idling-and
+https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119518	302	https://web.archive.org/web/20260904144425/https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119518
+https://www.govinfo.gov/content/pkg/BILLS-119hr9317ih/html/BILLS-119hr9317ih.htm	302	https://web.archive.org/web/20260904144553/https://www.govinfo.gov/content/pkg/BILLS-119hr9317ih/html/BILLS-119hr9317ih.htm
+https://www.youtube.com/watch?v=oCB-R-SFu2M	302	https://web.archive.org/web/20260904144711/https://www.youtube.com/watch?v=oCB-R-SFu2M
+retry	https://energycommerce.house.gov/posts/e-and-c-advances-10-bills-to-house-floor-to-unleash-american-energy-and-lower-prices	302
+retry	https://energycommerce.house.gov/posts/chairman-guthrie-announces-full-committee-markup-of-10-bills	302
+retry	https://gottheimer.house.gov/posts/release-gottheimer-announces-bipartisan-buses-act-to-end-nycs-bus-bounty-hunter-scheme-protect-seniors-and-passengers-with-disabilities	302
+retry	https://www.nyc.gov/site/dep/environment/idling-citizens-air-complaint-program.page	520
+retry	https://www.aol.com/news/nyc-bounty-hunters-making-almost-000036809.html	302
+== playback
+playback	https://energycommerce.house.gov/posts/e-and-c-advances-10-bills-to-house-floor-to-unleash-american-energy-and-lower-prices	200 https://web.archive.org/web/20260904143457/https://energycommerce.house.gov/posts/e-and-c-advances-10-bills-to-house-floor-to-unleash-american-energy-and-lower-prices
+playback	https://energycommerce.house.gov/posts/chairman-guthrie-announces-full-committee-markup-of-10-bills	200 https://web.archive.org/web/20260904143634/https://energycommerce.house.gov/posts/chairman-guthrie-announces-full-committee-markup-of-10-bills
+playback	https://gottheimer.house.gov/posts/release-gottheimer-announces-bipartisan-buses-act-to-end-nycs-bus-bounty-hunter-scheme-protect-seniors-and-passengers-with-disabilities	200 https://web.archive.org/web/20260904143941/https://gottheimer.house.gov/posts/release-gottheimer-announces-bipartisan-buses-act-to-end-nycs-bus-bounty-hunter-scheme-protect-seniors-and-passengers-with-disabilities
+playback	https://www.nyc.gov/site/dep/environment/idling-citizens-air-complaint-program.page	200 https://web.archive.org/web/20260825050341/https://www.nyc.gov/site/dep/environment/idling-citizens-air-complaint-program.page
+playback	https://www.aol.com/news/nyc-bounty-hunters-making-almost-000036809.html	200 https://web.archive.org/web/20260904144126/https://www.aol.com/news/nyc-bounty-hunters-making-almost-000036809.html
+playback	https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-opposition-buses-act-what-i-am-requesting-us-preserve-our	200 https://web.archive.org/web/20260904143800/https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-opposition-buses-act-what-i-am-requesting-us-preserve-our
+playback	https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119518	200 https://web.archive.org/web/20260904144425/https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119518
