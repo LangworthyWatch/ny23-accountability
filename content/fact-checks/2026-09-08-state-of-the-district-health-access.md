@@ -1,14 +1,13 @@
 ---
 title: "State of the District: Eight Hospitals on a Federal At-Risk List, 28 Pharmacies Gone Since 2023, and a Congressman Who Says They 'Aren't Going Anywhere'"
 date: 2026-09-08
-draft: true
-hold_reason: "Review draft. Before publishing: Wayback pass on web sources (FPI, NYSNA, Feeding America county pages, Cornell), confirm archive log, and user sign-off on the ZIP-proxy framing for pharmacy access."
+draft: false
 topic: "Local Impact"
 claim_date: "June 2026 (town hall); September 4, 2026 (RHTP post)"
 source: "District profile: NYSED pharmacy registry, Fiscal Policy Institute, NYSNA, Cornell Program on Applied Demographics, Feeding America, and the record on this site"
 source_url: "https://langworthywatch.org/fact-checks/2026-07-02-town-hall-hospitals-not-going-anywhere/"
-archived_url: ""
-archive_note: "Primary data retained in the repository: NYSED registry pull (research/data/pharmacies-2026-09-08/, with README on method), FPI report PDF, NYSNA list PDF, Cornell PAD slides PDF, GoodRx white paper PDF, and Feeding America county pages (research/sources/state-of-district-2026-09/). Wayback captures of the web sources to be logged at research/sources/archive_log_2026-09-08-state-of-district.tsv before publication."
+archived_url: "https://web.archive.org/web/20260826104913/https://fiscalpolicy.org/wp-content/uploads/2025/07/2025.06.27-hospital-closures-FINAL.pdf"
+archive_note: "Primary data retained in the repository: NYSED registry pull (research/data/pharmacies-2026-09-08/, with README on method), FPI report PDF (byte-identical to the web copy, SHA-256 verified), NYSNA list PDF, Cornell PAD slides PDF, GoodRx white paper PDF, and Feeding America county pages (research/sources/state-of-district-2026-09/). Wayback captures playback-verified Sept 8, 2026 for the FPI report and page, NYSNA, NYSED verification search, KFF, House Clerk Roll 190, and all eight Feeding America county pages; logged at research/sources/archive_log_2026-09-08-state-of-district.tsv. Two sources have no web capture: the Cornell deck (no public URL located; retained PDF only) and the GoodRx white paper (site rejects Wayback; retained PDF; used for definitions only)."
 verdict: "MISSING CONTEXT"
 publication_note: "District profile, September 2026. This entry assembles a baseline from public records and links to the entries on this site that carry verdicts on specific statements; the verdict here attaches to the June 2026 town-hall generalization and the September 4 funding post, both documented in linked entries. No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response will be published here in full."
 tags: ["district-profile", "healthcare", "rural-hospitals", "pharmacies", "pharmacy-deserts", "food-insecurity", "medicaid", "rhtp", "obbba", "rite-aid"]
@@ -256,15 +255,15 @@ facility to show for it.
 ## Sources
 
 **Hospitals**
-- Fiscal Policy Institute, Emily Eisner and Michael Kinnucan, "New York Hospitals will Close Under 'One Big Beautiful Bill Act': 70 hospitals at risk of closure from federal Medicaid cuts," June 27, 2025 (PDF retained: research/sources/state-of-district-2026-09/fpi-hospital-closures-2025-06-27.pdf)
-- New York State Nurses Association, "Hospital Closures Since 2000" (retained: nysna-hospital-closures-since-2000.pdf)
+- Fiscal Policy Institute, Emily Eisner and Michael Kinnucan, "New York Hospitals will Close Under 'One Big Beautiful Bill Act': 70 hospitals at risk of closure from federal Medicaid cuts," June 27, 2025: https://fiscalpolicy.org/new-york-hospitals-will-close-under-the-one-big-beautiful-bill-act (PDF: https://fiscalpolicy.org/wp-content/uploads/2025/07/2025.06.27-hospital-closures-FINAL.pdf; retained copy: research/sources/state-of-district-2026-09/fpi-hospital-closures-2025-06-27.pdf)
+- New York State Nurses Association, "Hospital Closures Since 2000": https://www.nysna.org/resources/hospital-closures-2000 (retained: nysna-hospital-closures-since-2000.pdf)
 - Leslie Reynolds, Cornell University Program on Applied Demographics, "Access Denied: Hospital Closures and Emergency Care Deserts in New York State," 2026 (retained: leslie-reynolds-consequences-of-hospital-closures.pdf)
 - KFF, "A Closer Look at the $50 Billion Rural Health Fund in the New Reconciliation Law"
 - House Clerk, Roll Call 190, July 3, 2025: https://clerk.house.gov/Votes/2025190
 
 **Pharmacies**
 - NYSED Office of the Professions, Online Verification Search, Pharmacy Establishment (020): https://eservices.nysed.gov/professions/verification-search (full registry pull, method, and derived tables: research/data/pharmacies-2026-09-08/)
-- GoodRx Research, "Healthcare Deserts" white paper (definitions: pharmacy desert = most residents more than 15 minutes' drive; hospital desert = more than 30 minutes) (retained: goodrx-healthcare-deserts-white-paper.pdf)
+- GoodRx Research, "Healthcare Deserts" white paper: https://www.goodrx.com/healthcare-access/research/healthcare-deserts-80-percent-of-country-lacks-adequate-healthcare-access (definitions: pharmacy desert = most residents more than 15 minutes' drive; hospital desert = more than 30 minutes) (retained: goodrx-healthcare-deserts-white-paper.pdf)
 - WGRZ, "Rite Aid closing list nears 500 locations," June 3, 2025, and Newsweek, "Rite Aid Announces Further Closures," July 9, 2025 (retained: research/data/)
 
 **Food**

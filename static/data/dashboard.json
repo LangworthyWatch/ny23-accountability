@@ -1,9 +1,9 @@
 {
   "generated": "2026-09-08",
-  "total": 156,
+  "total": 157,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 48,
+    "MISSING CONTEXT": 49,
     "MISLEADING": 35,
     "DOCUMENTED PATTERN": 29,
     "CONTRADICTION": 13,
@@ -20,33 +20,33 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 50,
-      "pct": 32.1
+      "count": 51,
+      "pct": 32.5
     },
     {
       "label": "MISLEADING",
       "count": 35,
-      "pct": 22.4
+      "pct": 22.3
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 29,
-      "pct": 18.6
+      "pct": 18.5
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 9.0
+      "pct": 8.9
     },
     {
       "label": "MOSTLY TRUE",
       "count": 9,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "label": "FALSE",
       "count": 9,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "label": "MULTIPLE",
@@ -76,7 +76,7 @@
     "Other": 10,
     "Immigration": 9,
     "Campaign Finance": 8,
-    "Local Impact": 6,
+    "Local Impact": 7,
     "Transparency": 6,
     "Energy": 5,
     "Agriculture": 5,
@@ -120,9 +120,16 @@
     "2026-06": 25,
     "2026-07": 24,
     "2026-08": 8,
-    "2026-09": 3
+    "2026-09": 4
   },
   "entries": [
+    {
+      "title": "State of the District: Eight Hospitals on a Federal At-Risk List, 28 Pharmacies Gone Since 2023, and a Congressman Who Says They 'Aren't Going Anywhere",
+      "date": "2026-09-08",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Local Impact",
+      "url": "/fact-checks/2026-09-08-state-of-the-district-health-access/"
+    },
     {
       "title": "His Post Says the BUSES Act 'Ends' New York's Idling Bounty Program. The Amendment He Backed a Day Earlier Lets It Continue.",
       "date": "2026-09-04",
