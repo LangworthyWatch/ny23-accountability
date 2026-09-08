@@ -63,7 +63,7 @@ kick_h = 108
 c.panel(44, y, c.w - 44, y + kick_h, fill=NAVY, outline=None)
 c.text(c.w / 2, y + 30, 'June 2026 town hall: "every rural hospital that I\'ve met is not on the verge of closure', size=14, fill=LIGHTGRAY, anchor="mm")
 c.text(c.w / 2, y + 52, 'no matter what people are trying to sell you."', size=14, fill=LIGHTGRAY, anchor="mm")
-c.text(c.w / 2, y + 84, "He voted for the law the at-risk analyses model. Eight of those hospitals are in his district.", size=16, bold=True, fill=WHITE, anchor="mm")
+c.text(c.w / 2, y + 84, "He voted for the One Big Beautiful Bill Act, the law those analyses model. Eight of the hospitals are his.", size=15, bold=True, fill=WHITE, anchor="mm")
 y += kick_h + 14
 
 c.text(c.w / 2, y, "Sources: Fiscal Policy Institute, June 27 2025  ·  NYSED pharmacy registry, pulled Sept 8 2026  ·  NYSNA  ·  Cornell Program on Applied Demographics", size=11, fill=MUTED, anchor="mm")

@@ -12,7 +12,7 @@ We built a baseline for the district from public records. State of the district,
 
 The fair reading, stated plainly: rural hospital and pharmacy loss is national and decades old. The pharmacies closed in a corporate bankruptcy, not by any vote, and we attribute none of that to him. The $212 million rural health award is real.
 
-The documented gap is narrower and sharper. He voted for the law the at-risk analyses are modeled on (Roll Call 190). He told constituents the hospitals on that list are not at risk. He has announced the offset fund's money three times, and no NY-23 facility has been named to receive any of it.
+The documented gap is narrower and sharper. He voted for the One Big Beautiful Bill Act, the law the at-risk analyses are modeled on (Roll Call 190, July 3, 2025). He told constituents the hospitals on that list are not at risk. He has announced the offset fund's money three times, and no NY-23 facility has been named to receive any of it.
 
 VERDICT: Missing Context
 
