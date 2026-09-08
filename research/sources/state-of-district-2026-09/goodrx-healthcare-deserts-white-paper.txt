@@ -1,0 +1,526 @@
+M APPINGHEALTHCAREDES ERTS
+S eptem ber 2021
+The G oodRx Research Team
+Amanda Nguyen, Ph.D, J eroen van M eijgaard,
+Ph.D, S ara K im, M S , and Tori M arsh, M PH
+ 
+80% of the Country LacksAdequate Access to Healthcare
+ 
+PAG E 2HEALTHCARE DES ERTS //
+OVERVIEW
+M ore than 80% of counties across the U .S . lack proper access to the
+services needed to maintain health, according to new  research from
+G oodRx. 
+Access to healthcare can be defined as having an adequate supply of
+services to help people maintain or improve their health. These services
+span many dimensions of healthcare, including medications, primary
+care providers, hospitals, emergency services, and community health
+centers. Access is also affected by socioeconomic factors like
+affordability, internet access, and health literacy. In an ideal w orld,
+everyone w ould have equal access to necessary health services and the
+means to gain access to these services. But this just isn’t the case.
+The G oodRx Research team set out to identify areas that lack the proper
+infrastructure to ensure a healthy community and understand just how
+socioeconomic factors play a role in people’s ability to take advantage of
+healthcare services.
+W e did this by identifying “healthcare deserts,” or areas across the U .S .
+w here people lack adequate access to six key healthcare services: (1)
+pharmacies, (2) primary care providers, (3) hospitals, (4) hospital beds,
+(5) trauma centers, and (6) low -cost health centers. W e then looked at
+how  personal and financial barriers can make it even harder to access
+care in a healthcare desert and perpetuate health disparities.
+In this report, G oodRx Research dives into how  healthcare infrastructure
+⼀  or lack thereof ⼀  shapes access to healthcare. 
+Through our research, w e identified seven key findings:
+OU R SEVEN K EY FINDING S
+PAG E 3HEALTHCARE DES ERTS //
+01 M ore than 80% of counties across the U .S . lack
+adequate healthcare infrastructure in some shape or
+form. That means that over a third of the U .S .
+population lives in a county w here there is less than
+adequate access to pharmacies, primary care
+providers, hospitals, trauma centers, and/or low -cost
+health centers.
+02Over 40% of counties are pharmacy deserts, w here
+most people have to drive more than 15 minutes to
+reach nearby pharmacies.
+03 Over 9% of counties are primary care provider deserts,
+w here there aren’t enough healthcare professionals to
+provide primary care for most of the local population.
+PAG E 4HEALTHCARE DES ERTS //
+04 Over 20% of counties are hospital deserts, w here most
+people have to drive more than 30 minutes to reach the
+closest hospital. On top of that, nearly 47% of counties
+have few er than 2 hospital beds per 1,000 people.
+05 Over 40% of counties are trauma center deserts, w here
+most people have to drive over an hour to reach a
+hospital equipped to handle major traumatic injuries.
+06Over 45% of counties are low -cost health center
+deserts, w here most people have to drive more than 20
+minutes to reach a federally-funded community health
+center.
+07 Healthcare deserts are more likely to affect those w ho
+face additional barriers to access, such as low er
+income, limited internet access, and lack of insurance.
+Together, these barriers can further w iden disparities in
+health outcomes.
+PAG E 5HEALTHCARE DES ERTS //
+M ORE THAN 80% OF COU NTIES
+LACK  ADEQU ATE HEALTHCARE
+INFRAS TRU CTU RE
+To identify places that are potential “healthcare deserts,” it’s important to first
+understand w hat good access to healthcare looks like. In an ideal w orld, you’d
+probably w ant to have a few  pharmacies nearby so you can fill your prescriptions
+as soon as possible and for the best price. You’d also w ant to be able to get a
+doctor’s appointment w hen you need it and in a reasonable amount of time, so
+you’d w ant enough primary care providers servicing your area and to live
+reasonably close to a hospital. And, in case of an emergency, you’d need to have
+enough hospital beds in your area and to live close to a hospital equipped to
+handle major traumatic injuries. Finally, if you are uninsured or need financial
+assistance, you’d w ant to have a low -cost community health center accessible
+nearby.
+W ith this in mind, w e defined five thresholds for “healthcare deserts” along each of
+these dimensions of healthcare infrastructure: pharmacies, providers, hospitals
+and hospital beds, trauma centers, and low -cost clinics. W e looked at existing
+health services research to define how  much is “enough” and how  close is
+“reasonably close.” 
+W e identified pharmacy deserts by comparing the average driving distance to
+nearby pharmacies to the average time it takes to drive 10 miles in a rural area
+—  about 15 minutes —  based on the U .S . Department of Agriculture (U S DA)
+definition of food deserts. 
+W e leveraged data on health professional shortage areas (HPS As) from the
+Health Resources & S ervices Administration (HRS A) to identify provider deserts,
+w here there aren’t enough primary care providers to meet local demand. 
+Finally, w e identified hospital deserts, trauma center deserts, and community
+health center deserts based on numerous studies show ing how  long
+transportation times can negatively affect the probability of timely diagnosis,
+treatment, and survival, especially in underserved populations. For more details
+on how  w e identified healthcare deserts, see the methodology section.
+U nfortunately, our research finds that millions of Americans lack adequate access
+to healthcare along at least one of the dimensions w e studied. W e find that nearly
+82% of counties have at least one “healthcare desert,” w ith nearly 60% of those
+counties having more than one type of healthcare desert.
+PAG E 6HEALTHCARE DES ERTS //
+The number of people potentially impacted by healthcare deserts is
+substantial: W e estimate roughly 121 million people currently live in a
+healthcare-desert county, accounting for over 37% of the U .S. population.
+Interact w ith the map: w w w .dataw rapper.de/_/0HrLo/
+M any areas lack adequate healthcare access along the majority of dimensions
+studied. Nearly 8.4 million people live in counties w ith at least four of the six types
+of healthcare deserts. Below , w e dive into each type of healthcare desert in greater
+detail and identify socioeconomic factors that can prevent someone from
+accessing care.
+PAG E 7HEALTHCARE DES ERTS //
+OVER 40% OF COU NTIES  ARE
+PHARM ACY DES ERTS , W HERE
+M OS T PEOPLE HAVE TO DRIVE
+M ORE THAN 15 M INU TES  TO REACH
+NEARBY PHARM ACIES
+Pharmacies and pharmacists play a critical role in dispensing prescription and
+over-the-counter medications, providing immunizations, and counseling patients
+on side effects, interactions, and medication regimens. These essential services
+ensure patient safety and help patients take their medications as prescribed,
+ultimately improving the overall health of the community.
+But, unfortunately, though there are more than 60,000 pharmacies across the
+U .S ., they are dispersed unevenly. In over 40% of U .S  counties, a majority of
+people do not have adequate access to a pharmacy.
+In total, we estimate that over 41 million Americans live in a pharmacy
+desert.
+Previous G oodRx research identified pharmacy deserts in an effort to understand
+areas that may suffer from slow  COVID-19 vaccine rollout due to strained
+pharmacy capacity. This research w as based on pharmacy density and pharmacy
+capacity, defined as the number of local and chain pharmacies in a county per
+10,000 people.
+How ever, the below  map identifies pharmacy deserts by something more tangible
+to consumers: driving time. It specifically calls out areas in w hich residents have to
+drive more than 15 minutes to local pharmacies, a distance that could make it
+difficult to fill a prescription if needed. S imilar to the U S DA’s definition of food
+deserts, the farther a person lives from pharmacies, the less access they have to
+in-stock medications and different options for price shopping (since prices for the
+same medication often vary across pharmacies).
+PAG E 8HEALTHCARE DES ERTS //
+Interact w ith the map: w w w .dataw rapper.de/_/NThxK /
+In general, S outh Dakota, M ontana, Nebraska, and K ansas have the largest
+number of counties that lack sufficient access to a pharmacy. In much of the state,
+residents have to drive more than 15 minutes to access a pharmacy. S o w hile they
+may have access to a provider to obtain a prescription, filling that prescription may
+be more difficult.
+PAG E 9HEALTHCARE DES ERTS //
+OVER 9% OF COU NTIES  ARE
+PRIM ARY CARE PROVIDER
+DES ERTS , W HERE THERE AREN’T
+ENOU G H PROVIDERS  FOR THE
+M AJ ORITY OF THE POPU LATION
+One of the most important components of healthcare is having a primary care
+provider w ho can perform regular checkups, screenings, immunizations, and other
+preventive services. Primary care providers also serve as a starting point for
+healthcare, helping patients w ith non-emergency needs, common illnesses, and
+specialist referrals. In addition to preventing illness and death, better access to
+primary care providers has been show n to reduce health disparities and total
+healthcare costs.
+To identify primary care provider deserts, w e looked at areas w here the supply of
+primary care providers is too low  for the local population’s healthcare needs. U sing
+data from HRS A, w e mapped regions designated as primary care health
+professional shortage areas. These areas have a low  population-to-provider ratio,
+a high population share w ith incomes below  100% of the federal poverty level, high
+rates of infant mortality or low  birth w eight, and long travel times to the nearest
+source of care outside of the area. These criteria capture regions w here the supply
+of primary care is low , as w ell as regions w here the demand for primary care is
+high.
+In areas w ith greater healthcare needs, HRS A targets having at least 1 full-time
+primary care provider for every 3,000 people. 
+On average, healthcare provider deserts have 1 full-time primary care
+provider for every 10,449 people —  a potential patient caseload over three
+times the recommended level.
+PAG E 10HEALTHCARE DES ERTS //
+The larger the patient caseload per provider, the longer it takes for people to get
+an appointment and the more difficult it becomes to receive timely, quality care.
+M ore patients may end up relying on urgent care and the emergency room to
+diagnose their health issues, often after it’s too late for preventive care and w ithout
+a complete picture of their health history.
+In total, roughly 13 million people live in a primary care provider desert.
+In 294 counties —  over 9% of all U .S . counties —  the majority of residents live in
+an area w ith a primary care provider shortage.
+Interact w ith the map: w w w .dataw rapper.de/_/qIqCI/
+PAG E 11HEALTHCARE DES ERTS //
+M any healthcare provider shortages are concentrated in rural areas. In M ississippi,
+over 58% of counties —  most of them rural —  don’t have enough primary care
+providers for the majority of local residents. In response, the M ississippi S tate
+Department of Health has a dedicated Primary Care Office tasked w ith increasing
+the supply of primary care providers in the state. Despite these efforts, roughly
+30% of M ississippi residents still live in a primary care desert, and M ississippi ranks
+49th out of 50 in terms of access to clinical care.
+In New  M exico, w here primary care doctors have the low est pay and highest
+projected retirements, over 22% of residents live in a primary care desert. In
+response to these shortages, the state’s government has invested in expanding its
+medical residency programs, estimating that 10 more primary care physicians per
+100,000 people w ould reduce emergency room visits by 11%, hospital inpatient
+admissions by 6%, and avoidable surgeries by 7%.
+PAG E 12HEALTHCARE DES ERTS //
+OVER 20% OF COU NTIES  ARE
+HOS PITAL DES ERTS , W HERE M OS T
+PEOPLE HAVE TO DRIVE OVER 30
+M INU TES  TO REACH THE CLOS ES T
+HOS PITAL
+Hospitals are another integral part of healthcare infrastructure. In order to maintain
+proper health, people not only need access to healthcare providers but also
+facilities w here they can receive treatment from those providers.
+W e looked at the distribution of 7,513 hospitals across the country, including
+general acute care hospitals, children’s hospitals, psychiatric hospitals, critical
+access hospitals, military hospitals, and Indian Health S ervice hospitals. Follow ing
+previous research documenting the impact of long travel times on treatment and
+quality of care, w e set a hospital desert threshold of 30 minutes driving time to the
+closest hospital.
+Our analysis show s that in over 20% of counties, most people have to drive more
+than 30 minutes to get to the nearest hospital of any kind. The map below  show s
+how  many people in each county across the U .S . are living in a hospital desert.
+Overall, roughly 29 million people lack adequate access to hospitals and
+must travel over 30 minutes from their home to the nearest hospital.
+PAG E 13HEALTHCARE DES ERTS //
+As w ith healthcare provider deserts, many hospital deserts are located in rural
+areas. Vermont, Alaska, Arkansas, Alabama, and M aine have the largest share of
+the state population living in a hospital desert, many of w hich are concentrated in
+rural areas. In Essex County, Vermont —  w here there is only one health center and
+a lack of specialty services —  patients recount driving hours to get the care they
+need.
+Hospitals also tend to operate w here the local economic conditions are favorable,
+so many hospital deserts are located in neighborhoods w ith low er income and
+higher rates of uninsurance. Even in large cities like Houston, hospital closures can
+lead to hospital deserts.
+Once a patient arrives at the hospital, there’s also the question of hospital
+capacity. Even if it doesn’t take long to get to the hospital, many people may still
+lack access because there aren’t enough hospital beds for everyone w ho needs
+one.
+Interact w ith the map: w w w .dataw rapper.de/_/2uses/
+The ideal number of hospital beds depends on various factors, including hospital
+size and local demand. To map hospital bed deserts, w e set a simple threshold at
+2 hospital beds per 1,000 people. Even though this threshold is below  W orld
+Health Organization (W HO) standards, w e still find a stark number of hospital bed
+deserts.
+PAG E 14HEALTHCARE DES ERTS //
+Nearly 47% of counties are hospital bed deserts, where over 80 million
+people don’t have access to enough hospital beds.
+The map below  breaks dow n w hich areas have the w orst hospital bed shortages.
+Interact w ith the map: w w w .dataw rapper.de/_/T71J 1/
+As the COVID-19 pandemic has demonstrated, having sufficient hospital bed
+capacity can mean the difference betw een life or death. In states like S outh
+Dakota, w here over 22% of the population lives in a hospital bed desert, a surge in
+hospitalizations w ith limited bed capacity can force patients to be flow n out of state
+for care.
+PAG E 15HEALTHCARE DES ERTS //
+OVER 40% OF COU NTIES  ARE
+TRAU M A CENTER DES ERTS , W HERE
+M OS T PEOPLE HAVE TO DRIVE
+OVER AN HOU R TO REACH A
+HOS PITAL EQU IPPED TO HANDLE
+M AJ OR TRAU M ATIC INJ U RIES
+Trauma centers, typically housed in the emergency room of a hospital, exist to
+treat the most severe and life-threatening cases like gunshot w ounds, blunt
+trauma, traumatic car crash injuries, and/or major burns. There are currently 2,020
+Level I through Level V trauma centers scattered throughout the U .S . But, like all
+healthcare services, they are distributed unevenly.
+W hen accessing a trauma center, every second counts. Doctors often refer to the
+“golden hour,” w hich is the concept that a patient needs to receive definitive care
+w ithin an hour of injury to increase their chances of survival. How ever, residents in
+40% of counties throughout the U .S . live in a trauma care desert, meaning they
+have to drive more than 60 minutes to get to the nearest trauma center. 
+Nearly 49 million people live over an hour away from a hospital equipped
+to handle major traumatic injuries.
+For these Americans, a trauma center may be too far aw ay to survive a serious
+injury. W ith regards to gun shot w ounds specifically, even 5 miles can have an
+impact on a patient’s chance of survival.
+ 
+PAG E 16HEALTHCARE DES ERTS //
+M ontana, North Dakota, W yoming, Nevada, and Idaho currently have the most
+trauma desert counties. In these states, the majority of residents w ill not be able to
+access a trauma center w ithin the “golden hour.”
+In Idaho, there is currently no Level I trauma center that is equipped to provide the
+most comprehensive trauma care. S o, for complicated cases, patients may even
+need to be airlifted to a center in a nearby state, w hich can be expensive and life-
+threatening. 
+S imilarly, Nevada only has one Level I trauma center —  U niversity M edical Center
+—  w hich has a survival rate of 96% for patients w ho arrive w ithin an hour. But few
+live close enough to get this necessary care.
+S an Bernardino County, in California, has a population of more than 2 million
+residents, but not all have equal access to trauma care. Currently, there are tw o
+adult trauma centers throughout the county. How ever, these centers are unevenly
+distributed throughout the spraw ling county, and over half a million residents (25%
+of the county’s population) still live more than 60 minutes from the closest trauma
+center.
+Interact w ith the map:   w w w .dataw rapper.de/_/U igAY/
+OVER 45% OF COU NTIES  ARE LOW -
+COS T HEALTH CENTER DES ERTS ,
+W HERE M OS T PEOPLE HAVE TO
+DRIVE OVER 20 M INU TES  TO REACH
+A FEDERALLY FU NDED COM M U NITY
+HEALTH CENTER
+PAG E 17HEALTHCARE DES ERTS //
+There are nearly 12,000 federally funded community health centers across the
+U .S ., w hich include HRS A-funded health centers and Indian Health S ervice
+facilities. But these centers, aimed at providing primary care in underserved
+communities, are unevenly distributed throughout the country.
+Federally funded community health centers are critical, especially in underserved
+communities. In 2019, nearly 30 million people across the U .S . visited a HRS A
+health center. Of that group, 91% w ere at or below  200% of the federal poverty
+level, 48% w ere enrolled in M edicaid or the Children’s Health Insurance Program
+(CHIP), 23% had no insurance, and 5% w ere homeless. M oreover, 31% of all
+patients w ere children, and 63% w ere of a racial and/or ethnic minority group. 
+But at present, residents in 45% of counties across the country lack proper
+access to a federally funded community health center, and they may find it difficult
+to access affordable care. 
+All told, over 78 million people don’t have a low-cost health center nearby
+and would need to drive over 20 minutes to reach the nearest clinic.
+For many patients from vulnerable populations, w ho may not ow n a vehicle or be
+able to take time off from w ork, that 20 minutes can mean skipping a checkup, a
+screening, or a refill. Lack of access to affordable healthcare can then result in
+relying on the emergency room to diagnose and treat issues, experiencing w orse
+health outcomes, and seeing higher medical bills dow n the line.
+ 
+PAG E 18HEALTHCARE DES ERTS //
+Interact w ith the map: w w w .dataw rapper.de/_/gPdvV/
+Residents in much of the central part of the U .S . live in low -cost health center
+deserts. S pecifically, in Nebraska, K ansas, North Dakota, and Texas, much of the
+population has to drive more than 20 minutes to access affordable primary care.
+Tragically, these states may need federally funded clinics the most. 
+Texas, for instance, has the highest uninsured population in the country, w ith
+18.4% of residents lacking health insurance. Car ow nership in Texas is also low er
+than average, w ith only 28.7 per 100 residents ow ning a registered vehicle.
+W ithout a car, a 20-minute drive, or longer, may prohibit many from accessing the
+care they need. 
+ 
+HEALTHCARE DES ERTS  ARE M ORE
+LIK ELY TO AFFECT THOS E W HO
+FACE ADDITIONAL BARRIERS  TO
+ACCES S , S U CH AS  LOW ER INCOM E,
+LIM ITED INTERNET ACCES S , AND
+LACK  OF INS U RANCE
+PAG E 19HEALTHCARE DES ERTS //
+Accessing healthcare involves many factors besides simply having the physical
+infrastructure in place. People may have difficulty actually using existing healthcare
+infrastructure because of personal or financial barriers. As a result, health
+disparities may persist even in places that aren’t considered “healthcare deserts,”
+simply because some groups still struggle to access the resources that are
+available. In essence, socioeconomic factors often determine w hether you can
+gain access to healthcare.
+Below  w e w alk through three factors that are more common in states w ith a higher
+number of healthcare deserts: (1) poor internet access, (2) low  household income,
+and (3) lack of health insurance. In all of these cases, residents in states w ith more
+barriers and more deserts w ill have an even harder time accessing the care they
+need. 
+Internet access and healthcare deserts
+Let’s start w ith internet access. S tates w ith a higher rate of the population lacking
+internet access according to the census tend to have more healthcare deserts. In
+this analysis, North Dakota, New  M exico, and M ississippi stand out as having both
+poor access to healthcare services and internet access.
+ 
+PAG E 20HEALTHCARE DES ERTS //
+In North Dakota, nearly one-quarter of the population is w ithout internet, and
+counties have an average of 3.5 healthcare deserts across the state. New  M exico
+has similar trends w ith 33% of the population w ithout internet and 2.3 deserts per
+county on average. In contrast, more connected states tend to have better access
+to healthcare services. New  J ersey, for instance, has few  counties w ith any sort of
+healthcare desert, and only 14% of the population is w ithout access to the
+internet. 
+Interact w ith the chart: https://dataw rapper.dw cdn.net/Ot0U f/4/
+Reliable internet is essential for accessing nearly every aspect of healthcare, from
+researching and understanding a medical condition, to even accessing a COVID
+vaccine or a specialist. Back in M arch, during the height of the COVID-19 vaccine
+rollout, areas w ith a low er access to internet and modern technology found it
+difficult to access a vaccine, w hich placed these areas at risk of COVID-19 for
+longer than necessary. 
+PAG E 21HEALTHCARE DES ERTS //
+Poor healthcare infrastructure, coupled w ith a lack of internet access, can only
+deepen health disparities. On top of that, a majority of the U .S . population that
+lacks internet is 65 years of age or older —  an age group that typically needs more
+medical services than others. 
+Household income and healthcare deserts
+Income is also, not surprisingly, associated w ith healthcare infrastructure.
+M ontana, Idaho, and New  M exico, for instance, have low er median household
+income (according to the census) as w ell as more healthcare deserts. M any
+S outhern states also suffer from both low  median income and inadequate access
+to healthcare.
+Interact w ith the chart: https://dataw rapper.dw cdn.net/XU x6S /2/
+PAG E 22HEALTHCARE DES ERTS //
+Income is a notorious, and w ell-researched, determinant of healthcare access for
+many reasons. W ithout a reliable and adequate stream of income, affording care
+can become difficult. For example, nearly 1 in 3 families report skipping some form
+of medical care due to cost. W hen people can’t afford their healthcare, they may
+be forced to make decisions betw een paying for food and rent or paying for their
+prescriptions. S o it’s no surprise that cost is one of the top barriers to gaining
+access to healthcare.
+The relationship betw een income and healthcare deserts is concerning, as low -
+income patients are precisely the group that needs healthcare infrastructure such
+as low -cost health centers nearby. S imilarly, having multiple pharmacies and
+enough primary care providers nearby w ould help low -income patients find the
+most affordable treatments and invest in preventive care. The prevalence of
+healthcare deserts in low -income neighborhoods only exacerbates the issues of
+healthcare affordability.
+Health insurance and healthcare deserts
+Insurance status is also correlated w ith access to healthcare. Texas, Idaho,
+G eorgia, and Alaska, for instance, have a large number of uninsured individuals
+(according to the census) on top of more healthcare deserts. In Idaho, 12% of the
+population lacks insurance, and, in G eorgia, 14% of the population lacks
+insurance. In both of these states, healthcare deserts are w idespread.
+PAG E 23HEALTHCARE DES ERTS //
+Interact w ith the chart: https://dataw rapper.dw cdn.net/DBoVC/3/
+A lack of insurance is linked to a host of healthcare outcomes. In general,
+uninsured individuals are more likely to skip care including doctor visits,
+prescriptions, and routine labs and screenings because they have to shoulder the
+cost of their care. In fact, a survey by K aiser Family Foundation found that 50% of
+uninsured individuals do not have a “regular source of care” for their healthcare
+needs. 
+A lack of insurance, coupled w ith the lack of adequate healthcare infrastructure, is
+a double w hammy that w ill certainly sw ay people aw ay from the care they need. If
+someone has to drive a long distance for their healthcare and then shoulder the full
+cost, they aren’t likely to get all of the healthcare they need.
+Finally, as discussed earlier, higher rates of uninsurance may feed a vicious cycle
+of perpetuating healthcare deserts. W hen more people struggle to pay their
+medical bills w ithout insurance, resources like providers and hospitals flow  out of
+the neighborhood, further exacerbating disparities in healthcare access.
+S U M M ING  IT ALL U P
+PAG E 24HEALTHCARE DES ERTS //
+For years, research has sought to identify individual healthcare deserts on their
+ow n —  from pharmacy deserts, to hospital deserts, and even food deserts. And
+w hile this research is essential, it is often just a snapshot of a community’s access
+to healthcare. 
+Caring for one’s health is multidimensional and includes an array of healthcare
+services. As w e described above, in order to stay healthy, a community w ill need
+providers, hospitals, trauma centers, pharmacies, and community health centers.
+On top of that, people need to be able to access these facilities. W ithout
+insurance, or access to the internet for example, it w ill be difficult to gain access to
+these facilities, no matter how  close they are to one’s home. 
+From this perspective, few  actually have adequate access to all aspects of
+healthcare services. S o, w hile someone may live close to a pharmacy, they may
+have to drive over an hour to a trauma center if they get in a serious accident. Or if
+their doctor is just dow n the street, filling a prescription from said doctor may be a
+longer drive. Lacking just one dimension of healthcare can be detrimental to the
+health of the w hole community.
+On the flip side, investing in healthcare infrastructure and providing the means to
+access said infrastructure can have a multiplier effect on eliminating healthcare
+deserts and improving health outcomes. For example, helping the uninsured get
+insured and afford healthcare can attract investment in hospitals, w hich can then
+attract more healthcare providers. Likew ise, increasing access to low -cost health
+centers reduces the financial burden of healthcare and encourages preventive
+care, building a healthier community and alleviating the demand for hospital beds
+and healthcare providers. There are many dimensions to healthcare access, and
+thus many opportunities to improve.
+PAG E 25HEALTHCARE DES ERTS //
+M ETHODOLOG Y
+Data sources
+Data on 60,249 community retail pharmacies w ere sourced from DataQ and the
+G oodRx database. 
+Data on primary care providers w ere sourced from Health Resources & S ervices
+Administration (HRS A) primary care health professional shortage areas (HPS As). 
+Data on 7,513 hospitals and 2,020 trauma centers w ere sourced from Homeland
+Infrastructure Foundation-Level Data (HIFLD) and the Indian Health S ervice (IHS ). 
+Data on 11,643 federally funded community health centers w ere sourced from
+HRS A and IHS . Demographic data on county population, internet access,
+household income, and insurance coverage w ere sourced from the 2019 American
+Community S urvey 5-year data.
+Calculating driving time
+W e calculated driving time to the nearest pharmacy, hospital, trauma center, and
+community health center based on the straight-line distance from each census
+tract population centroid. W e applied a detour index of 1.417 to each driving
+distance. Driving time w as estimated using average driving speed in urban,
+suburban, and rural areas. For driving time to trauma centers, w e used ambulance
+driving speed. 
+W e note that five counties —  Oglala Lakota, S outh Dakota; S hannon, S outh
+Dakota; W ade Hampton, Alaska; K usilvak Census Area, Alaska; and Bedford,
+Virginia —  w ere excluded from geographical deserts calculation due to missing
+data. The Federal Information Processing S tandards (FIPS ) codes for these
+counties w ere assigned after 2010 and did not have census tract population
+centroid information.
+PAG E 26HEALTHCARE DES ERTS //
+Defining healthcare desert thresholds
+Pharmacy, hospital, and trauma center deserts are geographical deserts based on
+driving time thresholds from each census tract population centroid. At the county
+level, a county is considered a healthcare desert if more than 50% of the county’s
+population lives in healthcare desert census tracts.
+For pharmacy deserts, a census tract is considered a desert if the average driving
+time to the three closest pharmacies exceeds 15 minutes. W e use the average
+distance to the three closest pharmacies in order to account for pharmacies’
+inventory, insurance preferred netw orks, and patients’ ability to price shop. The
+threshold of 15 minutes w as based on the concept of “food deserts,” defined by
+the U .S . Department of Agriculture (U S DA) as at least 500 people and/or 33% of a
+tract population residing more than 1 mile from a supermarket or large grocery in
+urban areas and more than 10 miles in rural areas. W e derived 15 minutes by
+applying the average driving speed in rural areas to 10 miles.
+For hospital, low -cost health center, and trauma center deserts, a census tract is
+considered a desert if the driving time exceeds 30, 20, or 60 minutes to the
+nearest hospital, health center, and trauma center, respectively. Based on previous
+studies, driving time exceeding 30 minutes to a hospital is considered a travel
+burden that can negatively affect timely diagnosis and quality of treatment (see
+Probst et al. (2007), Bosanac et al. (1976), and Ambroggi et al. (2015)). The driving
+threshold to community health centers w as reduced in order to account for
+increased use by underserved minorities and vulnerable populations, w hich have
+been show n to be more impacted by travel burden (see M artinez et al. (2003),
+Fitzpatrick et al. (2004), and S yed et al. (2014)). For trauma centers, w e set a
+driving threshold at 60 minutes, as travel times over 1 hour have been associated
+w ith increased patient mortality among severely injured patients (see S ampalis et
+al. (1993)).
+For primary care provider deserts, w e define a county as a desert if more than
+50% of the population lives in primary care geographic HPS As. 
+These areas are scored based on having a low  population-to-provider ratio, high
+population share w ith income below  100% of the federal poverty level, high rates
+of infant mortality or low  birthw eight, and long travel times to the nearest source of
+care outside of the area.
+For hospital bed deserts, w e define a county as a desert if there are few er than 2
+beds per 1,000 population. According to 2020 data, the median number of
+hospital beds per 1,000 population among Organisation for Economic Co-
+operation and Development (OECD) countries is 3.5. As the U .S . ranks in the
+bottom quartile w ith 2.8 beds per 1,000 people, w e chose a conservative desert
+threshold of few er than 2 beds per 1,000 population. W e note that this hospital
+bed threshold is also below  W orld Health Organization (W HO) recommendations.
+W e include hospital beds from all U .S . hospitals, including general acute care,
+long-term care, critical access, and psychiatric hospitals.
+To count the total number of deserts per county, w e sum the number of healthcare
+desert categories w here the majority of the county’s residents live in a desert.
+PAG E 27HEALTHCARE DES ERTS //
+Healthcare deserts and
+sociodemographic barriers to access
+W e compare socioeconomic data from the 2019 American Community S urvey 5-
+year data to the simple average number of healthcare deserts by state.
+S ocioeconomic data is rolled up from the census tract-level by taking a population-
+w eighted average at the county level and a simple average at the state level. The
+slope of the fitted line is estimated using ordinary least squares regression. All
+slopes show n are statistically significant at the 1% level.

@@ -1,0 +1,256 @@
+Access Denied: Hospital 
+Closures and Emergency Care 
+Deserts in New York State
+Leslie Reynolds
+Cornell University Program on Applied Demographics
+2025 budget reconciliation bill (PL 119-21)
+Formerly known as the One Big Beautiful Bill Act (OBBBA)
+Became public law in July 2025
+• Implements new restrictions and cuts to federal programs
+• Expected increase in uninsured population in 2026 by 1.3 million (Congressional Budget Office, 2025)
+Cuts the Medicaid provider tax “safe harbor” threshold from 6% to 3.5% by 2031 for states 
+that expanded Medicaid eligibility under the ACA
+• Medicaid pays lower fees for care than Medicare or private insurance-provider taxes help pay 
+facilities back for services to Medicaid patients
+Rural hospitals rely more heavily on payments from Medicaid taxes due to smaller profit 
+margins
+• $50 billion Rural Health Transformation Program (RHTP) created to try and counteract this 
+impact, but differences in effectiveness expected between states
+2
+New Report on State Impacts of PL 119-21 
+“State-Level Impacts of Key Medicaid Provisions in the One Big Beautiful Bill Act” (Rao et 
+al., 2026) laid out the 11 new Medicaid provisions and analyzed the impacts across 
+states
+• New York State’s Medicaid fund expected to decline 2.1% by 2028 (about $8.4 billion)
+• Estimated to be most detrimental for NY state’s Medicaid fund (by 2028):
+• New work Requirements- estimated loss of $3.8 billion 
+• Limits on provider Taxes- estimated loss of $2.9 billion 
+• Eligibility redeterminations (in expansion states) every 6 months- estimated loss of $2.1 billion
+• All states will receive between $100 million and $300 million annually from the Rural 
+Health Transformation Fund (RHTF)
+• States with smaller Medicaid populations and lower Medicaid spending gain more as a 
+proportion of the total Medicaid budget
+• Estimated that Kentucky will receive the most at $226 million; Rhode Island the least at 
+$156 million
+3
+Impacts on Hospitals
+• Hospital closures already a persistent problem 
+• 63 hospitals closed in New York State since 2000 (NYS Department of Health, 2026)
+• “Emergency Care Deserts”: living 30 minutes or more from a hospital that provides 
+emergency care
+• Already common especially in rural areas
+• Brief from the Fiscal Policy Institute (FPI) listed hospitals in NYS at risk of closure under 
+cuts
+• Hospitals receiving > 25% of net patient revenue (NPR) from Medicaid and government 
+appropriations would be in immediate risk of closure (Eisner & Kinnucan, 2025)
+• Hospitals with between 20% and 25% of NPR from Medicaid/govt. appropriations could also be at 
+risk of closure
+• FPI listed 70 hospitals in NYS most at risk of closure under these definitions
+• 31 additional NYS hospitals at risk (> 20% and < 25%) 4
+Data & Methods
+• New York State DOH Facility Data (updated 2025) on hospital locations and type
+• Hospital location data from neighboring state Health Departments (Pennsylvania, New Jersey, Connecticut, 
+Massachusetts, and Vermont)
+• 2024 CMS data from National Academy for State Health Policy's (NASHP) Hospital Cost Tool (HCT) 
+Building the Hospital Database:
+1. Merged state hospital location data to NASHP/CMS data 
+a. By address then by name, due to variation in naming (between sources, across years, etc.)
+b. If name was close but had a different address > verified facility type and location
+c. If facility was in one list but not the other- verified it was still a hospital, still open, and had an emergency room, 
+and added or removed if necessary
+2. Imported into QGIS and validated location data
+a. Geocoded addresses when needed- some had mailing addresses (such as a P .O. Box) rather than a physical 
+address, or incorrect address information 
+5
+Data & Methods (cont.)
+Calculated share of Net Patient Revenue (NPR) from Medicaid and government appropriations 
+• “High Risk” if 25% or more of hospital NPR from Medicaid/ govt. appropriations
+• “Potential Risk” if between 20 and 25% of hospital’s NPR was from Medicaid/ govt. appropriations
+Dealt with Missing Data
+• Hospital was in NYS and missing 2024 Medicaid data = imputed risk value from the FPI list (which used 2023 data); If 
+not listed, used 2023 CMS data.
+• Hospital not in NYS and missing 2024 Medicaid data = substituted value from 2023 CMS data, given hospital was still 
+open.
+Defining Emergency Care Deserts (ECD):
+> 5 miles from the closest hospital in the 5 NYC boroughs (Bronx, Brooklyn, Manhattan, Queens, or Staten Island) or 
+neighboring counties of Nassau, Rockland, or Westchester
+> 15 miles from the closest hospital in the rest of New York State (including Suffolk County- the eastern part of Long 
+Island)
+> 10 miles from one of the three included Connecticut hospitals
+6
+The Analysis
+1. Find the top three closest hospitals for each block group (centroid)
+• QGIS origin-destination (O:D) matrix to estimate travel distance
+• Straight line analysis; does not take into account practical or geographic barriers
+2. Map Emergency Care Deserts
+• Created radii (buffers) of the appropriate distance around each hospital (5, 10, or 15 miles)
+3. Calculate the population in Emergency Care Deserts
+• Used 2020 Census block group population data (16,013 block groups with population in 
+NYS)
+• Found intersection of the ECD radii with block group population layer
+• Calculated resulting area of space NOT covered by buffers (i.e. areas in ECD):
+7
+Population in ECD= (block group area within ECD/total block group area) * block group population
+The Current Hospital Landscape
+260 Hospitals with emergency 
+departments (in and bordering NYS)
+• 93 (36%) are downstate (Rockland & 
+Westchester counties and below)
+58 of those are within the 5 
+boroughs of NYC
+• 102 (39%) are in Upstate NY (north 
+of Rockland and Westchester)
+• 65 (25%) are in other states
+8
+Min. Distance (mi) Max. Distance (mi) Median (mi)
+1st Closest Hospital 0.01 41.2 1.7
+2nd Closest Hospital 0.02 42.8 3.2
+3rd Closest Hospital 0.08 47.2 4.2
+Median Difference between 
+1st and 2nd Closest hospitals
+Median Difference between 
+1
+st and 3rd Closest hospitals
+New York State -0.93 miles -1.94 miles
+Downstate -0.64 miles -1.25 miles
+Upstate -2.32 miles -5.87 miles
+Summary Statistics: Distance from Block Groups to the Top 3 closest Hospitals
+Median Distance Gaps Between the Closest hospitals for block groups, by area 
+Top 3 Closest Hospitals to Each Block Group
+9
+
+Top 3 Hospital “Hubs” (Upstate)
+10
+• Ranked hospitals by the cumulative distance of the red lines (distance to block group centroids 
+that hospital is the closest option for)
+• St. Joseph’s Hospital Health Center in Syracuse had the most total distance covered to its closest 
+block groups
+Rank City Hospital name Cumulative  Distance (miles) 
+1 Syracuse St. Josephs Hospital Health Center 1459.25
+2 Glens Falls Glens Falls Hospital 968.26
+3 Oswego Oswego Hospital 816.66
+
+11
+Top 3 Hospital “Hubs” (Downstate)
+Rank City Hospital name Cumulative  Distance (miles) 
+1 Patchogue Long Island Community Hospital 1093.36
+2 Jamaica Jamaica Hospital Medical Center 738.75
+3 Riverhead Peconic Bay Medical Center 708.10
+
+12
+Most Geographically Vulnerable Counties
+Median Additional Miles to Second Closest Hospital Ranked Highest to Lowest, by County
+13
+Most Geographically Vulnerable Hospitals
+Bolded =  “most” at risk; over 25% net patient revenue (NPR) from Medicaid and government appropriations
+*Weighted Average by block group population
+Hospital County
+Population Hospital is 
+Closest for
+Average* Additional Distance 
+to Next Closest Hospital (miles) "At risk" of closure?
+Alice Hyde Medical Center Franklin 33,696 18.7 Yes 
+Oswego Hospital Oswego 98,116 16.7 Yes
+Claxton Hepburn Medical Center St. Lawrence 21,925 15.4 Yes
+Clifton-Fine Hospital St. Lawrence 17,158 14.8 Yes
+Adirondack Medical Center Franklin 25,055 14.4 No
+Champlain Valley Physicians HospitalClinton 74,344 13.9 No
+Guthrie Cortland Medical Center Cortland 65,670 12.4 Yes
+Auburn Memorial Hospital Cayuga 80,788 12.1 Yes
+Glens Falls Hospital Warren 129,498 11.6 No
+Cayuga Medical Center at Ithaca Tompkins 106,308 11.4 No
+New York State’s Hospitals: Where is the Risk?
+All Areas NYC+* Upstate/Suffolk Other States
+Total Hospitals 260 85 (32.7%) 114 (43.8%) 61 (23.5%)
+Between 20% and 25% NPR 
+from Medicaid (Potential Risk) 32 2 (6.2%) 22 (68.8%) 8 (25.0%)
+> 25% NPR from Medicaid 
+(High Risk) 61 33 (54.1%) 28 (45.9%) 0 
+14
+• 93 hospitals with emergency departments in New York State and surrounding areas (35.8%) are considered “at 
+risk” under planned Medicaid cuts (>20% Net Patient Revenue from Medicaid and govt. appropriations)
+• The majority of hospitals at “Potential Risk” are in Upstate/Suffolk (68.8%), but just over half (54.1%) of the 
+“Most at risk” hospitals are in the NYC+ area
+*Note: NYC+ includes the 5 boroughs of NYS and Nassau County, the western part of Long Island
+Hospitals With Emergency Departments in and Around New York State
+Visualizing the Impacts
+93 Hospitals are considered “at risk” of closure under this definition (Medicaid and Govt. 
+Appropriations over 20% of their Net Patient Revenue)
+85 are in New York, 7 in New Jersey, and one in Pennsylvania
+15
+Current Hospital Landscape If All “At Risk” Hospitals Were to Close
+Visualizing the Impacts (cont.)
+26 of the hospitals “at risk” of closing are in NYC (8 in 
+Brooklyn, 7 in Manhattan, 5 each in Bronx and 
+Queens, and one in Staten Island) 16
+Current Hospital Landscape (NYC+) If All “At Risk” Hospitals Were to Close (NYC+)
+How Would ECD’s Change?
+17
+• NYC+ is 50.5% of the state’s population, but only 
+5.5% (21,416) of the state’s Emergency Care Desert 
+(ECD) population (389,455)
+• 95.5% of the ECD population (368,039) is in 
+Upstate/Suffolk
+• If the “most at risk” hospitals closed the ECD 
+population in New York State would almost double 
+(+182%; 708,633 people)
+• If all “at risk” hospitals closed, the impacted 
+population would nearly triple from current 
+levels (+295%; 1.15 million people)
+• Emergency Care Deserts disproportionately impact 
+Upstate/Suffolk but would also grow in NYC+ under 
+closures.
+Share of the State and Each Region in Emergency Care Deserts, by Scenario
+
+How Would ECD’s Change? (cont.)
+18
+• Median age in NYC+ (37.6) skews younger than the rest 
+of the state (41.0)
+• The current population in ECDs (dark orange) tends to be 
+older than the overall population in each region
+ 
+• If the “most at risk” hospitals were to close, the age of 
+the population impacted by ECDs would become younger
+• For the state overall and upstate/Suffolk, the 
+average median age would become even lower if all 
+“at risk” were to close
+• In NYC+ the ECD population if only the “most at risk” 
+hospitals close skews younger than if all were to 
+close
+Median Age by Region and Emergency Care Desert Scenario
+Conclusions
+• Franklin, Cortland, and Clinton counties are the most geographically vulnerable to hospital 
+closures
+• Population would have to travel over 15 additional miles on average to their next closest 
+hospital if the first closest closed
+• Half of the Top 10 most geographically isolated hospitals are in the North Country
+• Upstate and Suffolk county are disproportionately impacted by emergency care deserts 
+• If all “at risk” hospitals closed, the population in Emergency Care Deserts would nearly triple
+• Current population in emergency care deserts tends to be older than the population on average
+• Median age of care desert population would get younger if the “most at risk” hospitals 
+were to close
+19
+References
+Congressional Budget Office (CBO), August 2025. https://www.cbo.gov/publication/61367. Distributional effects of 
+public law 119-21 | 
+Eisner, Emily, Kinnucan, Michael. 2025. “New York Hospitals will Close Under “One Big Beautiful Bill Act””. Fiscal Policy 
+Institute. https://fiscalpolicy.org/wp-content/uploads/2025/07/2025.06.27-hospital-closures-FINAL.pdf 
+Jonk, Y ., Milkowski, C., Croll, Z., & Pearson, K. 2023. Ambulance Deserts: Geographic Disparities in the Provision of 
+Ambulance Services [Chartbook]. University of Southern Maine, Muskie School, Maine Rural Health Research Center.
+Levinson, Zachary & Tricia Neuman. August 2025. “A Closer Look at the $50 Billion Rural Health Fund in the New 
+Reconciliation Law:. Kaiser Family Foundation (KFF). https://www.kff.org/medicaid/a-closer-look-at-the-50-billion-
+rural-health-fund-in-the-new-reconciliation-law/ 
+“New York State Health Care Reform Act (HCRA).” New York State Department of Health, 1 Mar. 2026, 
+www.health.ny.gov/regulations/hcra/provider/provhosp.htm
+   
+Rao, Preethi, Lawrence Baker, Federico Girosi, Elaine Li, Rose Kerber, and Christine Eibner. February 2026. “State-
+Level Impacts of Key Medicaid Provisions in the One Big Beautiful Bill Act”. RAND Corporation, RR-A4098-1. As of 
+April 13, 2026: https://www.rand.org/pubs/research_reports/RRA4098-1.html 
+Senator Edward J. Markey, Senator Jeffrey A. Merkley, Senator Ron Wyden & Senator Charles E. Schumer. June 2025. 
+Letter to President Trump, Leader Thune, and Speaker Johnson on At Risk Rural Hospitals across the nation. 
+https://www.markey.senate.gov/imo/media/doc/letter_on_rural_hospitals.pdf
+ 
+20
+Thank You!
+Contact: lr523@cornell.edu
+21

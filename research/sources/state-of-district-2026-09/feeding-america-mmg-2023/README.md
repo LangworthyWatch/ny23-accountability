@@ -1,0 +1,1 @@
+Feeding America, Map the Meal Gap 2025 release (2023 data), county pages under map.feedingamerica.org/county/2023/overall/new-york/county/<county>, saved Sept 8, 2026. Rates and meal costs parsed from each page's schema.org JSON-LD (retained HTML alongside). Headcounts/child rates are rendered client-side and were not captured unless listed.
