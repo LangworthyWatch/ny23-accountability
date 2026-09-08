@@ -1138,3 +1138,130 @@ it, so the NYCBS entry's publication_note still stands; do not update).**
 The Sept. 2 E&C markup (announced Aug. 31, retained) was the ten energy/nuclear/red-tape bills —
 including **his own H.R. 2140 (DERA, with Matsui) and H.R. 9317 (BUSES Act, with Gottheimer)** —
 and contained **no** health bills. Confirms the "ten great bills" item independently.
+
+## 2026-09-08 — September House watch (rolls checked through **295**; no new rolls since Sept 3)
+
+House is in a **district work week**. No roll calls since Roll 295 (Sept 3). Individual
+`clerk.house.gov/evs/2026/rollNNN.xml` fetches for 296-310 all returned 404, but per the Sept 4
+caution those are not evidence on their own — the **clerk's own roll index** (`ROLL_200.asp`,
+HTTP 200) independently lists **295 as the highest roll**, and `docs.house.gov/floor/` still shows
+"Week of Aug. 31, 2026" as its most recent published week. Cross-checked, not assumed.
+
+### CRITICAL — item 7 (FY27 appropriations) turns up two published errors
+
+**The Olean money did pass the House, three weeks before we said it hadn't.**
+
+`H.R. 8646`, the **FY2027 Agriculture, Rural Development, FDA and Related Agencies Appropriations
+Act**, **passed the House June 4, 2026**, Roll 205, **213-210**, **Langworthy Yea**; **received in
+the Senate June 8, 2026**. And the CPF table in its accompanying report names the project:
+
+> **H. Rept. 119-632**, Rural Housing Service / Rural Community Facilities:
+> `Olean, NY | City of Olean | Police Department Modernization | 1,000,000 | Langworthy`
+
+Two other Langworthy CPF projects ride the same House-passed bill and **appear nowhere in the
+tracker**: `Hornell, NY | City of Hornell | Fire Truck Replacement | 896,646` and
+`Angola, NY | Village of Angola | Snow Removal Equipment | 500,000`.
+
+The bill text ties them to the account his own nexus letter cited — the §306 Consolidated Farm and
+Rural Development Act rural community facilities account, of which **$398,527,252** is directed to
+"the table titled Community Project Funding in the report accompanying this Act."
+
+**So his post's line "This funding passed the House last month" was accurate.** Ours was not:
+
+| File | Line | Published text | Status |
+|---|---|---|---|
+| `2026-07-09-olean-police-secured-house-passed.md` | 45-47 | Ag-RD bill is "one of the twelve FY2027 bills the House has been moving through **committee**, one at a time" | **WRONG** — passed the floor June 4 |
+| `2026-07-09-olean-police-secured-house-passed.md` | 97 | Q1: "money that has **not passed the House floor**, the Senate, or become law" | **WRONG** as to the House |
+| `2026-06-24-hospital-radiology-credit-claim.md` | 39 | "As of June 24, 2026, **no FY2027 funding bill has passed the House**" | **WRONG** — H.R. 8646 had, 20 days earlier |
+| `2026-06-24-hospital-radiology-credit-claim.md` | 76 | "No FY2027 appropriations bill has passed." | **WRONG** as written |
+| `content/fact-checks/_index.md` | 51 | "one of the 12 the House is still moving through committee" | **WRONG** (same error, propagated) |
+
+**Verified correct, leave alone** (crossover sweep run across `content/` and `social-media/`):
+- `2026-07-09-...:47` "No FY2027 appropriations bill has become **law**" — **true**, keep.
+- `2026-07-09-...:58` the **Cattaraugus County 911** project — **not** in H. Rept. 119-632; it would
+  ride CJS, which has **not** passed the House. Statement stands.
+- **UPMC Chautauqua / Arnot radiology** — **not** in H. Rept. 119-632 either (zero hits for
+  Chautauqua, Arnot, UPMC). Those requests are still pre-floor; only the general sentence about
+  "no FY2027 bill has passed the House" is wrong, not the UPMC/Arnot conclusion.
+- `social-media/olean_secured_post.md:7` — says "No FY2027 funding bill has become **law**" and
+  quotes the Olean Times Herald "House movement." **Accurate.** The card got it right; the entry drifted.
+- The H.R. 9237 and H.R. 5517 "has not passed the House" lines are unrelated bills and correct.
+
+**The verdict does not move.** Only two FY27 bills have passed the House all year (H.R. 8646 and
+H.R. 8595, National Security/State, Roll 247, Jul 15) — neither is law, the Senate has not acted on
+either, and **P.L. 119-103 now funds the government at the FY26 rate through Dec. 11 with no CPF at
+all.** "Secured" is still wrong. In fact the correction *sharpens* the entry's own FY2025 parallel:
+FY2025 earmarks were also sitting in an advanced bill when a full-year CR (P.L. 119-4) zeroed them,
+and we are on another CR right now. The fix is procedural precision ("passed the House and is
+awaiting Senate action" instead of "still in committee"), not a softer verdict — and it removes the
+one line a hostile reader could use to discredit the entry. **ACTION: dated correction notice on
+both entries + the index row. Zach's call; not edited here.**
+
+### NEW — the House quietly cut nine September session days
+
+The live calendar on majorityleader.gov is now labeled **`2026_Calendar_UPDATEDMSep2026`**. Compared
+against the **March 2026 revision** (still the live file in the July 13, 2026 Wayback capture, the
+only capture of that page since):
+
+- **September, was:** in session Sept 1-3, 14-17, **22-25, 28-30**
+- **September, now:** in session Sept 1-3, 14-17 **only** — Sept 22-25 and Sept 28-30 flipped to
+  District Work Weeks. **Nine scheduled session days removed.**
+- **October unchanged:** the single session day, **Thursday Oct. 1**, in both versions.
+- **November:** returns **Nov. 9**, after the Nov. 3 election.
+
+**So five scheduled voting days remain before the midterms: Sept. 14-17 and Oct. 1.** Government
+funding lapses **Dec. 11** (P.L. 119-103) and the IIJA extension expires with it — both land in a
+lame duck, and the calendar was cut after the CR set that date. Sources archived and verified by
+playback: page `web.archive.org/web/20260908131412/...`, PDF
+`web.archive.org/web/20260908131430/...2026_calendar_updatedmsep2026_15033921939313230686.pdf`.
+*(Change window is only bounded as July 13 - Sept 8; the filename says Sep 2026. Do not assert a
+precise date, and do not assert a motive — the calendar's own labels are the whole record.)*
+
+### NEW — two grant announcements in the window, one squarely on an existing thread
+
+- **Sept. 4: "$76.2 Million Investment to Strengthen Rural Health Care."** Names the vehicle
+  outright: "part of the broader **Rural Health Transformation Program**" — the OBBBA fund — and
+  quotes him: **"When we created the Rural Health Transformation Program..."** All seven rural NY-23
+  counties named. Feeds the existing **rural-health-fund / Centralus repeat (MISSING CONTEXT)**
+  thread, and this time with first-person authorship of an OBBBA program whose parent law he voted
+  for. Primary: CMS newsroom release linked from the release itself. Archived:
+  `web.archive.org/web/20260908145955/...announces-762-million-investment-strengthen-rural`
+- **Sept. 2: $70,000 Appalachian Regional Commission grant** to the Olean Business Development
+  Corporation (skilled-trades accelerator). Routine grant announcement; logged for the
+  credit-claiming series, low priority. Archived:
+  `web.archive.org/web/20260908145928/...announces-70000-federal-grant-strengthen-olean-regions`
+
+*(Both Wayback saves returned HTTP 520 and one CDX lookup 504'd; both captures nonetheless exist and
+were confirmed by fetching the snapshots and grepping for expected content. Playback is the test.)*
+
+### Unchanged, re-verified 2026-09-08 (relatedBills stripped before parsing)
+
+| Item | State | Since |
+|---|---|---|
+| H.R. 1834 (ACA credits) | Senate Calendar 319 | Feb 10 |
+| H.R. 9393 (Lower Costs) | ordered reported; `BILLS-119hr9393rh` still **302** on govinfo | Jul 21 |
+| H.R. 5408 (Faster Labor Contracts) | received in Senate, no action | Jun 10 |
+| S. 1414 (biosimilars) | Senate Calendar 520 | Jul 27 |
+| H.R. 9661 (NYCBS) | 3 actions, intro/referral only | Jul 14 |
+| H.R. 3548 (Scaffold Law) | 3 actions, referred to Judiciary | May 21, 2025 |
+
+- **Item 3:** no H.R. 9393 floor vote and no reported text, so the CHECK Act text-folding question
+  stays open and the CHECK Act entry's commitment is not yet triggered.
+- **Item 5:** H.R. 9661's record still has not caught up to the July 20 E&C markup. The NYCBS
+  entry's `publication_note` still stands as written — **do not update.**
+- **Item 6:** resolved Sept 4 and unchanged — no surface-transportation reauthorization is moving;
+  the IIJA rode the CR to Dec. 11/12; Scaffold Law preemption verified absent from the enacted text.
+- **Item 8 (DHS expo):** the second-post trigger was met and logged Sept 4 (official page, Sept. 2,
+  "Chalk one up for the good guys"). **No new post confirmed this run** — logged-out `curl` on
+  `facebook.com/RepLangworthy` returned HTTP 400, the documented limitation, so this is an
+  unverified window, not a verified absence. The Sept 4 ACTION (dated addendum) is still open.
+
+### Self-expiry status
+
+**Not yet met**, but close. The House still has Sept. 14-17 and Oct. 1 scheduled, and it is before
+Oct. 6. **Recommendation:** run once more after the Sept. 14-17 week, run a final pass after **Oct.
+1** (the last pre-election voting day), then **disable `september-house-watch`** — everything after
+that is a lame-duck watch with a different trigger set, since the Dec. 11 funding and IIJA cliffs
+both fall after the House returns Nov. 9.
+
+**Next run resumes from roll 295.**
