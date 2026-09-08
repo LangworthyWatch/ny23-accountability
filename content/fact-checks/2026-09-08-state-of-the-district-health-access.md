@@ -18,8 +18,9 @@ counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler
 
 This is a baseline. It sets down, from public records, what the district has
 for health care and food, what it has lost recently, and what independent
-analysts say is at risk under the Medicaid reductions in the law
-Rep. Langworthy voted for on July 3, 2025. It makes no new claim about him.
+analysts say is at risk under the Medicaid reductions in the One Big
+Beautiful Bill Act (H.R. 1, Public Law 119-21), which Rep. Langworthy voted
+for on July 3, 2025. It makes no new claim about him.
 The claims it measures against are the ones already documented on this site:
 that the district's rural hospitals "aren't going anywhere," and that the
 federal rural health fund "delivers on that promise."
@@ -185,7 +186,8 @@ these counties, are documented in the [SNAP rural impact summary](/fact-checks/2
 Everything in this section is already documented in its own entry; this
 profile only lines it up against the baseline above.
 
-- **The vote.** Roll Call 190, July 3, 2025: Yea on H.R. 1, which cuts
+- **The vote.** Roll Call 190, July 3, 2025: Yea on H.R. 1, the One Big
+  Beautiful Bill Act, which cuts
   federal Medicaid spending in rural areas by roughly $137 billion over ten
   years nationally and creates the $50 billion rural health fund that KFF
   finds offsets about 37 percent of it, with 64 percent of the cuts landing
