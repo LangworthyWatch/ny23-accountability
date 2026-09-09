@@ -71,7 +71,7 @@ multiplied by the taxpayer's marginal rate: $600 at the 10 percent rate,
 $720 at 12 percent, $1,320 at 22 percent, and nothing at all to a senior
 whose income is already below the taxable threshold. When he told the
 caller "for a married couple, it'd be $12,000, you know, back in your
-pocket" (25:51), that is the arithmetic of a credit, not of the deduction
+pocket" (27:13), that is the arithmetic of a credit, not of the deduction
 Congress wrote.
 
 **The figure is 88 percent, per the White House; his was 82.** The claim
