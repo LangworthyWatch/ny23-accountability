@@ -1,13 +1,12 @@
 ---
 title: "He Asked a Federal Inspector General to Investigate a Housing Project in Buffalo. It Isn't in His District. Here Is What Is."
 date: 2026-09-09
-draft: true
-hold_reason: "User review. Letter quotations are as reported by the Buffalo News (letter not yet public); confirm framing before publishing."
+draft: false
 topic: "Accountability & Governance"
 claim_date: "September 8–9, 2026"
 source: "Letter to the HUD Office of Inspector General, as reported by the Buffalo News and WIVB"
 source_url: "https://www.wivb.com/news/local-news/buffalo/rep-langworthy-questions-north-aud-block-project/"
-archived_url: ""
+archived_url: "https://web.archive.org/web/2026/https://www.audacy.com/wben/news/local/north-aud-block"
 archive_note: "The letter itself has not been released: not on langworthy.house.gov as of September 9, not attached to the Buffalo News story, and HUD OIG's correspondence library is not publicly retrievable. Its wording here is as quoted by the Buffalo News (Jonathan D. Epstein, September 9, 2026; PDF and text retained at research/sources/salt-and-north-aud-2026-09-09/) and WIVB (September 8, 2026; page text and PDF retained). Both sites block automated archiving; the WBEN and WKBW coverage and the district-baseline sources are captured, see research/sources/archive_log_2026-09-09-north-aud.tsv. The project's district was determined by Census Bureau geocoding of Canalside addresses."
 verdict: "MISSING CONTEXT"
 publication_note: "Published September 2026. No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response, and the letter itself if released, will be published here in full. This entry takes no position on whether the North Aud Block subsidies are justified; that dispute has critics and defenders across party lines."

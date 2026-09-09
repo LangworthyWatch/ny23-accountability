@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-08",
-  "total": 157,
+  "generated": "2026-09-09",
+  "total": 158,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 49,
+    "MISSING CONTEXT": 50,
     "MISLEADING": 35,
     "DOCUMENTED PATTERN": 29,
     "CONTRADICTION": 13,
@@ -20,18 +20,18 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 51,
-      "pct": 32.5
+      "count": 52,
+      "pct": 32.9
     },
     {
       "label": "MISLEADING",
       "count": 35,
-      "pct": 22.3
+      "pct": 22.2
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 29,
-      "pct": 18.5
+      "pct": 18.4
     },
     {
       "label": "CONTRADICTION",
@@ -83,13 +83,13 @@
     "Rule of Law": 4,
     "Veterans": 4,
     "Infrastructure": 4,
+    "Accountability & Governance": 3,
     "Ethics": 3,
     "Environment": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
     "Transportation": 2,
     "Labor": 2,
-    "Accountability & Governance": 2,
     "Housing": 2,
     "Consumer Protection": 2,
     "Animal Welfare": 2,
@@ -120,9 +120,16 @@
     "2026-06": 25,
     "2026-07": 24,
     "2026-08": 8,
-    "2026-09": 4
+    "2026-09": 5
   },
   "entries": [
+    {
+      "title": "He Asked a Federal Inspector General to Investigate a Housing Project in Buffalo. It Isn't in His District. Here Is What Is.",
+      "date": "2026-09-09",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Accountability & Governance",
+      "url": "/fact-checks/2026-09-09-north-aud-probe-not-his-district/"
+    },
     {
       "title": "State of the District: Eight Hospitals on a Federal At-Risk List, 28 Pharmacies Gone Since 2023, and a Congressman Who Says They 'Aren't Going Anywhere",
       "date": "2026-09-08",
