@@ -1,0 +1,2665 @@
+ 
+ 
+ 
+ Seneca Nation calls for reversal of ‘Lake America’ order 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ var template = "";
+ var pageType, region, parentRegion, vodAuth = "", articleStorage = "";
+ switch (template) {
+ case '/apps/news/templates/article':
+ template = 'Article Template';
+ pageType = 'Article';
+ articleStorage = 'live'
+ break;
+ case '/apps/news/templates/full-width-page':
+ template = 'Standard Full Width Template';
+ pageType = 'Home';
+ break;
+ case '/apps/news/templates/event':
+ template = 'Calendar Event Template';
+ pageType = 'Event';
+ case '/apps/news/templates/archive':
+ template = 'Archive Article Template';
+ pageType = 'Archive';
+ articleStorage = 'archived';
+ default:
+ template = 'Standard Full Width Template';
+ pageType = 'Home';
+ }
+ // Initialize variables to store page region and title values
+ let pageRegionValue, pageTitleValue = '';
+ // Define the page name 
+ let pageNameValue = "seneca\u002Dnation\u002Dcalls\u002Dfor\u002Dreversal\u002Dof\u002Dtrump\u002Ds\u002D\u002Dlake\u002Damerica\u002D\u002Dexecutive\u002Dorder";
+ // Check if the page name includes 'splash'
+ if (pageNameValue === 'splash') {
+ // Set page region to 'All Regions' and page title to 'Spectrum News Market Map' for splash pages
+ pageRegionValue = 'All Regions';
+ pageTitleValue = 'Spectrum News Market Map';
+ } else {
+ //set page region and title for non-splash pages
+ pageRegionValue = "New York";
+ pageTitleValue = "Seneca Nation calls for reversal of Trump’s ‘Lake America’ executive order";
+ }
+ window.digitalData = window.digitalData || {
+ event: {
+ eventName: "pageView",
+ adobeEventName: ''
+ },
+ user: {
+ isAuthenticated: localStorage.getItem('authenticatedV2') && localStorage.getItem('authenticatedV2') === 'true' ? 'Yes' : 'No',
+ isAuthorized: localStorage.getItem('authenticatedV2') && localStorage.getItem('authenticatedV2') === 'true' ? 'true' : 'false',
+ mvpd: "",
+ hhid: ""
+ },
+ page: {
+ adsOnPage: "",
+ appID: "AEM 6.4", // hardcoded
+ domain: window.location.hostname,
+ flow: "",
+ // Determine page language based on 'spectrumnoticias' domain and HTML lang attribute
+ language: window.location.host.includes('spectrumnoticias') ? 'es' : document.getElementsByTagName('html')[0].getAttribute('lang'),
+ pageID: "\/content\/news\/stories\/2026\/08\/31\/s\/seneca\u002Dnation\u002Dcalls\u002Dfor\u002Dreversal\u002Dof\u002Dtrump\u002Ds\u002D\u002Dlake\u002Damerica\u002D\u002Dexecutive\u002Dorder",
+ pageName: pageNameValue,
+ pageRegion: pageRegionValue,
+ pageRegionParent: "NY",
+ pageTemplate: template,
+ pageTitle: pageTitleValue,
+ pageFunction: pageType,
+ platformName: "web", // hardcoded
+ previousLink: "",
+ siteSection: "",
+ siteSubsection: "",
+ sourceMarketTag: "regions:nys/new-york-state",
+ tags: "pageCategories:news,pageCategories:politics,pageCategories:politics\/local\u002Dpolitics,regions:nys\/new\u002Dyork\u002Dstate,reporters:associated\u002Dpress",
+ url: window.location.href,
+ uxStyle: "empire",
+ contentAccessLevel: "openMode",
+ mktgCampaignShown: "no",
+ mktgCampaignName: ""
+ },
+ content: {
+ Article: {
+ articleGUID: "",
+ articleHeadline: "Seneca Nation calls for reversal of Trump’s ‘Lake America’ executive order",
+ articleTitle: "seneca\u002Dnation\u002Dcalls\u002Dfor\u002Dreversal\u002Dof\u002Dtrump\u002Ds\u002D\u002Dlake\u002Damerica\u002D\u002Dexecutive\u002Dorder",
+ author: "Associated Press",
+ publicationDate: "1788176520000",
+ articleViewedAge: "",
+ canonicalRegion: "",
+ articleSource: "",
+ articleStorage: articleStorage,
+ liveToggleOn:"No"
+ },
+ Page: {
+ pageContentNetwork: "",
+ pageContentShow: ""
+ },
+ Video: {
+ epgsDescription: "",
+ epgsTitle: "",
+ tmsProgramId: "",
+ tmsSeriesId: "",
+ videoBrand: "",
+ videoNetwork: "",
+ programType: ""
+ }
+ },
+ visit: {
+ visitId: "",
+ ab: "",
+ behindModem: "",
+ homeFlag: ""
+ },
+ errors: {
+ cmRuleName: "",
+ cmDisplayText: "",
+ errorType: "",
+ errorDescription: ""
+ },
+ search: {
+ searchNumResults: "",
+ searchResultsPages: "",
+ searchType: "",
+ searchKeyword: ""
+ },
+ siteTool: {
+ shareMethod: ""
+ }
+ }
+ window.addEventListener('userStatus', function (event) {
+ if (event.detail.usrAuth ) {
+ window.digitalData.user.isAuthorized = 'true';
+ window.digitalData.user.isAuthenticated = 'Yes';
+ }else{
+ window.digitalData.user.isAuthorized = 'false';
+ window.digitalData.user.isAuthenticated = 'No';
+ }
+ });
+ window.addEventListener("userInteraction", function (event) {
+ if (event.detail.action === "loginSuccess") {
+ window.digitalData.user.hhid = event.detail.hhid;
+ window.digitalData.user.mvpd = event.detail.mvpd;
+ window.analyticsDataLayer.hhid = event.detail.hhid;
+ let autoAuth = localStorage.getItem("autoAuth");
+ if (autoAuth && autoAuth === 'true') {
+ News.App.QuantumAnalytics.autoLoginSuccess(event.detail.hhid, event.detail.mvpd);
+ } else {
+ News.App.QuantumAnalytics.firesQuantumLoginStopSuccess(event.detail.hhid, event.detail.mvpd);
+ }
+ }
+ });
+ function updateDigitalData(newCampaignElements){
+ window.digitalData.page.mktgCampaignShown = 'yes';
+ newCampaignElements.forEach(newElement => {
+ let newCampaignName;
+ let newCampaignContent = newElement.querySelector('.campaign__content');
+ if (newCampaignContent) newCampaignName = newCampaignContent.dataset.campaignName; 
+ if (newCampaignName && window.digitalData.page.mktgCampaignName) {
+ window.digitalData.page.mktgCampaignName = window.digitalData.page.mktgCampaignName + "," + newCampaignName;
+ } else if (newCampaignName) {
+ window.digitalData.page.mktgCampaignName = newCampaignName;
+ }
+ })
+ }
+ function findNewMatchingElements(nodes) {
+ const matches = [];
+ nodes.forEach(node => {
+ if (!(node instanceof Element)) return;
+ if (node.classList.contains('campaign--container')) {
+ matches.push(node);
+ }
+ // check descendants
+ const descendant = node.querySelector('.campaign--container');
+ if (descendant && descendant.length) matches.push(descendant);
+ })
+ return matches;
+ }
+ const campaignObserver = new MutationObserver((mutationsList) => {
+ for (const mutation of mutationsList) {
+ if (mutation.type === 'childList' && mutation.addedNodes.length) {
+ const newCampaignElements = findNewMatchingElements(Array.from(mutation.addedNodes));
+ if (newCampaignElements.length) updateDigitalData(newCampaignElements);
+ }
+ }
+ })
+ campaignObserver.observe(document.documentElement || document.body, {
+ childList: true,
+ subtree: true,
+ });
+ // Initial handler in case some campaign elements already exist in DOM
+ findNewMatchingElements(Array.from(document.querySelectorAll('.campaign--container')));
+ 
+ document.addEventListener("DOMContentLoaded", () => {
+ digitalData.event.adobeEventName = document.getElementById('analyticsDataLayer').getAttribute('data-content-type') === 'article' ? "pageview, contentView, articleView" : '';
+ campaignObserver.disconnect();
+ });
+ /**
+ * workaround to get the hhid that is coming in late
+ * NEWS-1055
+ **/
+ var _interval = setInterval(fetchLateHHID, 3000);
+ function fetchLateHHID() {
+ try {
+ const authState = News.App.Pinxt.AuthState;
+ if (authState.isAuthenticated) {
+ const hhid = authState.hhid || Cookies.get('player-hhid');
+ const mvpd = authState.mvpd;
+ if (window.digitalData.user.hhid !== "" && window.analyticsDataLayer.hhid !== "") {
+ clearInterval(_interval);
+ } else if (hhid) {
+ $('#analyticsDataLayer').attr('data-hhid', hhid);
+ window.analyticsDataLayer.hhid = hhid;
+ window.analyticsDataLayer.mvpd = mvpd;
+ window.digitalData.user.hhid = hhid;
+ window.digitalData.user.isAuthenticated = 'Yes';
+ window.digitalData.user.mvpd = mvpd;
+ }
+ } else {
+ clearInterval(_interval);
+ }
+ } catch (e) {
+ }
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ // use the following to check for the events
+ // https://cdn.pi-charter.net/SpectrumLocal/Web/1.146.json
+ // Update packageReleaseVersion here when releasing AEM package deploys between full releases. Ex: 1, 2, 3
+ // Value should be a blank string for full releases.
+ var packageReleaseVersion = "0";
+ var appReleaseVersion = "9.3.0.SNAPSHOT";
+ appReleaseVersion = appReleaseVersion.replace('.SNAPSHOT', '');
+ appReleaseVersion = appReleaseVersion + (packageReleaseVersion ? '.' + packageReleaseVersion : '');
+ var helixSetting = {
+ domain: "video",
+ appName: "SpectrumLocal",
+ appVersion: appReleaseVersion,
+ requirementsVersion: "2.829",
+ msgTriggeredBy: "user",
+ startSession: "SpectrumLocal_Web_startSession",
+ logLevel: "critical",
+ endpoint: "video_prod",
+ appEnvName: "prod",
+ drmEnabled: true,
+ cwvVerbose: true,
+ cwvEnabled: true
+ };
+ localStorage.setItem(
+ "helix-library-settings",
+ JSON.stringify(helixSetting)
+ );
+ 
+ 
+ (function (g, b, d, f) {
+ (function (a, c, d) {
+ if (a) {
+ var e = b.createElement("style");
+ e.id = c;
+ e.innerHTML = d;
+ a.appendChild(e)
+ }
+ })(b.getElementsByTagName("head")[0], "at-body-style", d);
+ setTimeout(function () {
+ var a = b.getElementsByTagName("head")[0];
+ if (a) {
+ var c = b.getElementById("at-body-style");
+ c && a.removeChild(c)
+ }
+ }, f)
+})(window, document, "body {opacity: 0 !important}", 3E3);
+ 
+ 
+ 
+ var metaTitleEn = "Seneca Nation calls for reversal of ‘Lake America’ order";
+ var metaTitleEs = "";
+ // NEWS-7559 - Add WebSite schema for default home pages on spectrumnews1, spectrumlocalnews, baynews9, ny1, mynews13, spectruminfocus
+ (function(){
+ const regionalHomepageRegEx = /^\/[^\/]+\/[^\/]+[a-zA-Z0-9]$/;
+ const isRegionalHomepage = regionalHomepageRegEx.test(location.pathname);
+ let siteInfo;
+ if (location.pathname === '/splash') {
+ let newCanonical;
+ if (location.hostname.includes('spectrumnews1.com')) {
+ siteInfo = {name: metaTitleEn || 'Spectrum News 1', url: 'https://spectrumnews1.com'}
+ } else if (location.hostname.includes('spectrumlocalnews.com')) {
+ siteInfo = {name: metaTitleEn || 'Spectrum News', url: 'https://spectrumlocalnews.com'}
+ } else if (location.hostname.includes('spectrumnoticias.com')) {
+ siteInfo = {name: metaTitleEs || 'Spectrum Noticias', url: 'https://spectrumnoticias.com'}
+ document.addEventListener('DOMContentLoaded', function() {
+ // NEWS-8611 - Point to root of domain as /splash page canonical
+ document.querySelector('link[rel="canonical"]')?.setAttribute('href', siteInfo.url);
+ document.querySelector('meta[name="description"]')?.setAttribute('content', "Spectrum Noticias es el único canal de noticias en español las 24 horas del día, en todo el país.");
+ });
+ }
+ 
+ } else if (isRegionalHomepage) {
+ // add schema only if page is the default home page for the domain 
+ if (location.hostname.includes('baynews9.com') && location.pathname === '/fl/tampa') {
+ siteInfo = {name: 'Spectrum Bay News 9', url: 'https://baynews9.com'}
+ } else if (location.hostname.includes('ny1.com') && location.pathname === '/nyc/all-boroughs') {
+ siteInfo = {name: 'Spectrum News NY1', url: 'https://ny1.com' }
+ } else if (location.hostname.includes('mynews13.com') && location.pathname === '/fl/orlando') {
+ siteInfo = {name: 'Spectrum News 13', url: 'https://mynews13.com'}
+ } else if (location.hostname.includes('spectruminfocus.com') && location.pathname === '/section/in-focus') {
+ siteInfo = {name: 'Spectrum News In Focus', url: 'https://spectruminfocus.com'}
+ } else if (location.hostname.includes('spectrumnoticias.com') && location.pathname === '/us/noticias') {
+ siteInfo = {name: 'Spectrum Noticias', url: 'https://spectrumnoticias.com'}
+ } else if (location.hostname.includes('spectrumlocalnews.com') && location.pathname === '/us/snplus') {
+ siteInfo = {name: 'Spectrum News', url: 'https://spectrumlocalnews.com'}
+ }
+ }
+ if (!siteInfo) return;
+ let structuredDataText = '{"@context": "https://schema.org", "name": "' + siteInfo.name +'", "alternateName": "' + siteInfo.name + '", "url": "' + siteInfo.url + '","@type": "WebSite"}';
+ const script = document.createElement('script');
+ script.setAttribute('type', 'application/ld+json');
+ script.textContent = structuredDataText;
+ document.head.appendChild(script);
+ // Update document.title and add a meta tag for og:site_name
+ document.title = siteInfo.name;
+ const meta = document.createElement('meta');
+ meta.setAttribute('property', 'og:site_name');
+ meta.setAttribute('content', siteInfo.name);
+ document.head.appendChild(meta)
+ })();
+ (function(){
+ // Fire pageview event when userStatus has been resolved
+ window.addEventListener('userStatus', function() {
+ if (!window.helixPageViewFiredOnce){
+ News.App.QuantumAnalytics.trackHelixPageviewEvents(window.digitalData);
+ window.helixPageViewFiredOnce = true;
+ }
+ });
+ // Set quantum visitId when the Helix library fires the event indicating it has been set
+ document.addEventListener('quantumVisitIdSet', function() {
+ window.digitalData.visit.visitId = window.Helix.get("visitId");
+ window.digitalData.visit.uuid = localStorage.getItem('deviceUUID') || "";
+ window.digitalData.visit.appVersion = appReleaseVersion;
+ helixSetting.appIdentifier = window.digitalData.page.domain;
+ helixSetting.deviceUuid = window.digitalData.visit.uuid;
+ helixSetting.referrerAppVisitId = window.digitalData.visit.visitId;
+ })
+ })();
+ 
+ 
+ window.addEventListener("beforeunload", function (e) {
+ if (typeof News !== 'undefined' && News.App.Pinxt.AuthState.isAuthenticated) {
+ News.App.QuantumAnalytics.setQuantumLoginResumeCookie();
+ }
+ });
+ 
+ 
+ 
+ CQURLInfo={"requestPath":"/content/news/stories/2026/08/31/s/seneca-nation-calls-for-reversal-of-trump-s--lake-america--executive-order","selectorString":"news","extension":"html","selectors":["news"],"systemId":"842bdb46-528f-4536-b372-c46cab0cd50c","runModes":"prod,s7connect,crx3,production,nosamplecontent,publish,aem65,crx3tar"}; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ if (window.Helix.set) {
+ window.Helix.set('visitIdFormat', 'extended');
+ window.Helix.set(`cwvVerbose`, true);
+ window.Helix.set(`cwvEnabled`, true);
+ clearInterval(window.setCwvConfigInterval)
+ }
+ }, 100)"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ let dfpSiteId = "";
+ 
+ 
+{
+ "@context": "https://schema.org",
+ "legalName": "Spectrum News 1 Central NY",
+ "url": "https://spectrumlocalnews.com",
+ "logo": {
+ "url": "https://s7d2.scene7.com/is/image/TWCNews/spectrum-news-1",
+ "@type": "ImageObject"
+ },
+ "sameAs": [
+ "https://www.facebook.com/SpectrumNews1CNY",
+ "https://twitter.com/SPECNews1CNY",
+ "https://www.instagram.com/spectrumnews1cny"
+ ],
+ "@type": "Organization"
+}
+ 
+ 
+{
+ "@type": "StructuredDataType"
+}
+ 
+ 
+{
+ "@context": "https://schema.org",
+ "@graph": [
+ {
+ "mainEntityOfPage": {
+ "@id": "https://spectrumlocalnews.com/nys/central-ny/news/2026/08/31/seneca-nation-calls-for-reversal-of-trump-s--lake-america--executive-order",
+ "@type": "WebPage"
+ },
+ "image": [
+ "https://s7d2.scene7.com/is/image/TWCNews/Lake_Ontario_name_change"
+ ],
+ "headline": "Seneca Nation calls for reversal of Trump’s ‘Lake America’ executive order",
+ "datePublished": "2026-08-31T07:42:00.000-04:00",
+ "dateModified": "2026-08-31T07:42:00.000-04:00",
+ "author": [
+ {
+ "name": "Associated Press",
+ "@type": "Person"
+ }
+ ],
+ "publisher": {
+ "name": "Spectrum News 1 Central NY",
+ "logo": {
+ "url": "https://s7d2.scene7.com/is/image/TWCNews/spectrum-news-1",
+ "@type": "ImageObject"
+ },
+ "@type": "Organization"
+ },
+ "@type": "NewsArticle"
+ }
+ ]
+}
+ 
+ 
+ 
+ CQURLInfo={"requestPath":"/content/news/stories/2026/08/31/s/seneca-nation-calls-for-reversal-of-trump-s--lake-america--executive-order","selectorString":"news","extension":"html","selectors":["news"],"systemId":"842bdb46-528f-4536-b372-c46cab0cd50c","runModes":"prod,s7connect,crx3,production,nosamplecontent,publish,aem65,crx3tar"}; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ var smartRedirectLocations = {};
+ smartRedirectLocations.desktopLocation="",
+ smartRedirectLocations.iOSOutsideAppLocation="",
+ smartRedirectLocations.androidOutsideAppLocation="",
+ smartRedirectLocations.inAppLocation=""
+ 
+ 
+ 
+ 
+ 
+ .image img{width: 100%;}
+ .aspect-ratio-container::before {content: ""; width: 1px; margin-left: -1px; float: left; height: 0; padding-bottom: 56.25%;}
+ .aspect-ratio-container::after {content: "";display: table;clear: both;}/* to clear float */
+ .aspect-ratio-container img {max-width: 100%;width: 100%; /* scale with content width */height: auto; /* compute a height that preserves the aspect ratio */}
+ .gallery-slide .img-responsive{width: auto;height: auto;}
+ .site-header header:not([data-ad-enable="true"]) .article-header .articleAdWrapper, .site-header .site-header-inner:not([data-ad-enable="true"]) .article-header .articleAdWrapper{display:none;}
+ .dfp-ad-tags-wrapper[data-position="x30"]{width:100%; min-height:107px;}
+ .dfp-ad-tags-wrapper > .dfp-ad-tags{ min-height:calc(100% - 17px);}
+ .articleAdWrapper{width:340px; min-height:290px}
+ .icon-advertisement {height: 5px; margin: 2px auto 10px;}
+ @media (max-width: 767px){
+ .dfp-ad-tags-wrapper[data-position="x30"]{min-height: 70px; }
+ .dfp-ad-tags[data-hidemobilead="true"],.dfp-ad-tags[data-hidemobilead="true"] + .icon-advertisement, .dfp-ad-tags-wrapper[data-hidemobilead="true"] {display: none}
+ }
+ .widemode #wxHourlyWeather { min-height: 120px;}
+ .content-list-layout--hero .article__details { min-height: 75px;}
+ @media (min-width: 768px) {
+ .widemode #wxHourlyWeather { min-height: 80px;}
+ .content-list-layout--hero .article__details { min-height: 150px;}
+ }
+ .linear-stream-promo, .mini-live-player .mini-player.unauthenticated { min-height: 160px;}
+ .wxAlertBar { display: none; }
+ .sf_mobile { min-height: 65px; }
+ .content-list-layout--1x1:not([data-limit="0"]):not(.content-list__mode--) .articles-container:not(.content-list__hide-image--true) { min-height: 270px;}
+ .content-list-layout--4x1-single-column-mobile:not([data-limit="0"]):not(.content-list__mode--) { min-height: 150px;}
+ .wx-current-weekly-combo { min-height: 590px;}
+ .wx-sunrise-sunset { min-height: 300px;}
+ @media (max-width: 767px) {
+	 .wx-current-weekly-combo { min-height: 835px;}
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ Open in Our App 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get the best experience and stay connected to your community with our Spectrum News app. Learn More 
+ 
+ 
+ 
+ 
+ 
+ Open in Spectrum News App
+ 
+ 
+ Continue in Browser 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Central NY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EDIT 
+ 
+ 
+ 
+ 
+ 
+ 
+ Watch Live
+ 
+ 
+ 
+ 
+ | 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent Activity 
+ 
+ 
+ 
+ Log Out 
+ 
+ 
+ 
+ 
+ 
+ Recent Activity 
+ 
+ 
+ 
+ Log In 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LATEST NEWS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Headlines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Business &amp; Growth
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Around the State
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Good News
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Health
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newhouse Journalist Project
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Big Deal with Errol Louis
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exploring Your Health
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your Mental Health
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Everyday Heroes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lottery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Seen On Air
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEATHER &amp; TRAFFIC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today's Forecast
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7-Day Forecast
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interactive Radar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current Conditions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Satellite-Radar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Watches &amp; Warnings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Closings &amp; Delays
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Traffic Map
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Traffic News
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gas Prices
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POLITICS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Political News
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New York State of Politics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital Tonight
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Washington, D.C. Bureau
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In Focus
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Decision 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AROUND SYRACUSE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Things to Do
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community Calendar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Submit an Event
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPORTS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sports Headlines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Orange Empire
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUBLIC SAFETY
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Safety News
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Podcasts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All Podcasts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Buffalo End Zone
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What Could Be
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR JOURNALISTS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ACCOUNT 
+ 
+ 
+ 
+ 
+ Log Out 
+ 
+ 
+ 
+ Recent Activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ACCOUNT 
+ 
+ 
+ 
+ 
+ Log In 
+ 
+ 
+ 
+ Recent Activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LATEST NEWS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Headlines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Business &amp; Growth
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Around the State
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Education
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Good News
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Health
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newhouse Journalist Project
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Big Deal with Errol Louis
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Exploring Your Health
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your Mental Health
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Everyday Heroes
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lottery
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Seen On Air
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEATHER &amp; TRAFFIC
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Today's Forecast
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7-Day Forecast
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interactive Radar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Current Conditions
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Satellite-Radar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Watches &amp; Warnings
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Closings &amp; Delays
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Traffic Map
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Traffic News
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Gas Prices
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ POLITICS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Political News
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ New York State of Politics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Capital Tonight
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Washington, D.C. Bureau
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In Focus
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Decision 2026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AROUND SYRACUSE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Things to Do
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Community Calendar
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Submit an Event
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPORTS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sports Headlines
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Orange Empire
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ PUBLIC SAFETY
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Public Safety News
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Podcasts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All Podcasts
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Buffalo End Zone
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What Could Be
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OUR JOURNALISTS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ document.addEventListener('DOMContentLoaded', function () {
+ const headerLink = document.querySelector('#header-watch-live');
+ const loggedInNavLink = document.querySelector('#empire-watch-live_loggedIn');
+ const loggedOutNavLink = document.querySelector('#empire-watch-live_loggedOut');
+ if (headerLink) {
+ const url = headerLink.dataset.watchLiveUrl?.trim();
+ const label = headerLink.dataset.watchLiveLabel?.trim();
+ // If either url or label is missing or empty hide parent elements
+ if (!url || !label) {
+ [loggedInNavLink, loggedOutNavLink].forEach(link => {
+ if (link && link.closest('li')) {
+ link.closest('li').style.display = 'none';
+ }
+ });
+ return; // stop further execution
+ }
+ // Otherwise populate the links normally
+ [loggedInNavLink, loggedOutNavLink].forEach(link => {
+ if (link) {
+ link.href = url;
+ link.textContent = label;
+ link.hidden = false;
+ }
+ });
+ } else {
+ // If no #header-watch-live found, also hide both 
+ [loggedInNavLink, loggedOutNavLink].forEach(link => {
+ if (link && link.closest('li')) {
+ link.closest('li').style.display = 'none';
+ }
+ });
+ }
+ });
+ 
+ 
+ 
+ 
+ 
+ &times; 
+ Set Weather Location 
+ Get hyperlocal forecasts, radar and weather alerts. 
+ 
+ Please enter a valid zipcode. 
+ 
+ Save 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Confirm Your Location 
+ 
+ 
+ 
+ We automatically picked a Spectrum News market that we believe is most relevant to you. 
+ 
+ Central NY 
+ 
+ 
+ 
+ News and information that matter to your community 
+ 
+ 
+ 
+ 
+ Local weather forecasts 
+ 
+ 
+ 
+ 
+ Confirm 
+ Change Location 
+ You can change your news source and language at any time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Choose News Source &amp; Language 
+ 
+ 
+ Select your news source and language for Spectrum News. 
+ 
+ 
+ 
+ 
+ 
+ Local news coverage, weather forecasts, and developing stories impacting the Central NY community. 
+ 
+ 
+ 
+ Continue 
+ You can change your news source and language at any time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Change Location 
+ You can change your news source or language here at any time 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ State of Politics Read up on New York politics with our Capital Tonight team. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ End Zone Podcast Want the latest news on the Buffalo Bills? Listen to our Buffalo End Zone podcast with Andy Young and Kevin Carroll. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Traffic Map Get up-to-date traffic information around the area with our interactive traffic map. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WEATHER ALERTS View full list of weather alerts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ns("News.App").tickerConfig = {
+ effect : "slideUp",
+ interval : 4000,
+ duration : 600
+ }
+ 
+ 
+ CQURLInfo={"requestPath":"/content/news/nys/central-ny/jcr:content/main-website-header/wx_alert_bar","extension":"html","selectors":[],"systemId":"842bdb46-528f-4536-b372-c46cab0cd50c","runModes":"prod,s7connect,crx3,production,nosamplecontent,publish,aem65,crx3tar"}; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The leader of the Seneca Nation in upstate New York is criticizing President Donald Trump’s decision to rename Lake Ontario as “Lake America,” saying it violates a more than 225-year-old treaty and shows a “blatant disrespect” for the Indigenous people who gave it its name in the first place. (Spectrum News 1)
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Seneca Nation calls for reversal of Trump’s ‘Lake America’ executive order 
+ 
+ 
+ 
+ 
+ 
+ 
+ BY 
+ 
+ 
+ 
+ 
+ 
+ Associated Press
+ 
+ 
+ 
+ New York State 
+ 
+ 
+ 
+ 
+ PUBLISHED 7:42 AM ET Aug. 31, 2026 
+ PUBLISHED 7:42 AM EDT Aug. 31, 2026 
+ 
+ 
+ 
+ SHARE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The leader of the Seneca Nation in upstate New York is criticizing President Donald Trump’s decision to rename Lake Ontario as “Lake America,” saying it violates a more than 225-year-old treaty and shows a “blatant disrespect” for the Indigenous people who gave it its name in the first place. 
+ Seneca Nation President J. Conrad Seneca on Friday called for Trump’s order to be rescinded and for the Lake Ontario name to remain as a reflection of the Indigenous people in the U.S. and Canada who lived in territory around and along the lake long before the creation of either nation. 
+ “The President cannot assert ownership over our culture or erase it through irresponsible political action,” he said in a statement. 
+ Trump this week signed an order directing the Interior Department to update the lake’s name in the U.S. geographic naming service, part of his escalating trade war with Canada. The order showed the change is supposed to be made in 30 days. 
+ Seneca said the renaming violated the 1794 Treaty of Canandaigua, which was signed by President George Washington and the Haudenosaunee confederacy promising perpetual peace and friendship. The Seneca are one of the six nations of the confederacy, also known as the Iroquois Confederacy. 
+ The name Lake Ontario comes from the Huron Indigenous people’s word “oniatarí:io,” which means “lake of shining waters.” The Canadian province of Ontario, founded in 1867, took its name from the lake. 
+ In the traditional Seneca language, the lake’s name is “sga:nyodai:yoh,” meaning “beautiful lake,” Seneca said. 
+ Trump floated the name change in recent days as the U.S. announced it was imposing new tariffs on Canadian goods after talks broke down between the countries. Canada responded with its own retaliatory tariffs on American goods, while the country’s leaders slammed the idea of changing the lake’s name. 
+ Canadian Prime Minister Mark Carney rejected the move, noting the lake’s Indigenous roots and that the name predates both the Canadian Confederation and the U.S. Declaration of Independence. Trump can’t force Canada to follow along with the renaming. 
+ Trump has argued that Canada has been ripping off the U.S. on trade and military issues and suggested Canada should be absorbed as the 51st state. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Spectrum News
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RSS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sitemap
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAQ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ADVERTISE WITH US
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CAREERS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ TERMS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Your Privacy Rights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ California Consumer Privacy Rights
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ California Consumer Limit the Use of My Sensitive Personal Information
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Do Not Sell or Share My Personal Information/Opt-Out of Targeted Advertising
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CERTIFICATIONS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © 2025, Charter Communications, all rights reserved.
+ *.componentWrapper {
+	margin: 0.0px auto;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(function($) {
+ if (!isMobile.any) {
+ /* By default the panels should be only be expanded on a desktop */
+ $('footer .panel-collapse.collapse').addClass('in');
+ /* Remove collapse functionality on desktop */
+ $('footer .panel-title').removeAttr('data-toggle');
+ }
+ if (isMobile.any) {
+ /* Only display the + sign on a mobile device */
+ $('footer .expand-control').removeClass('hidden');
+ /* BUGFIX: Include an empty onclick function on footer accordions to fix an iOS device bug with bootstrap collapse.
+ Sometimes iOS does not seem to treat divs as clickable elements, but adding a blank on-click handler allows
+ the rest of bootstrap collapse to function without side effects. */
+ $('footer .panel-title').on('click', function(){})
+ }
+})(jQuery);
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /**
+ * sets the quantum visitId in the 'digitalData'
+ * layer at: window.digitalData.visit.visitId
+ *
+ **/
+ var timeit = window.setInterval(setVisitId, 2000);
+ function setVisitId() {
+ if (window && window.Helix && window.Helix.track) {
+ window.digitalData.visit.visitId = window.Helix.get("visitId");
+ }
+ if (window.digitalData.visit.visitId && typeof window.digitalData.visit.visitId !== 'undefined') {
+ clearInterval(timeit);
+ }
+ }
+ 
+ 
+ window.addEventListener("load", function (e) {
+ var auth = localStorage.getItem('authenticatedV2')
+ var docClicked = Cookies.get('clicked-resumed')
+ if ((auth && auth === "true") && (!docClicked)) {
+ News.App.QuantumAnalytics.checkQuantumLoginResume();
+ } else if ((auth && auth === "true") && docClicked) {
+ Cookies.remove('clicked-resumed')
+ }
+ });
+ $(document).ready(function () {
+ $(document).on('click', function (e) {
+ var auth = localStorage.getItem('authenticatedV2')
+ if (auth && auth === "true") {
+ News.App.QuantumAnalytics.cookieGeneral("clicked-resumed");
+ }
+ });
+ });
+ 
+ 
+ 

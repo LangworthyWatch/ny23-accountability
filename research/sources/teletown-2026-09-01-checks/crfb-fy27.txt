@@ -1,0 +1,770 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ {
+ "@context": "https://schema.org",
+ "@graph": [
+ {
+ "@type": "NewsArticle",
+ "@id": "https://www.crfb.org/blogs/appropriations-watch-fy-2027",
+ "headline": "Appropriations Watch: FY 2027-2026-09-03",
+ "name": "Appropriations Watch: FY 2027-2026-09-03",
+ "description": "2026-09-03-Updated 9/3/2026: On September 1, the House passed a continuing resolution (CR) fun",
+ "datePublished": "2026-06-02T09:51:30-0400",
+ "dateModified": "2026-09-03T11:13:56-0400",
+ "isAccessibleForFree": "True",
+ "author": {
+ "@type": "Organization",
+ "@id": "https://www.crfb.org/",
+ "name": "Committee for a Responsible Federal Budget",
+ "url": "https://www.crfb.org/",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://www.crfb.org/sites/default/files/images/crfb-og.jpeg"
+ }
+ },
+ "publisher": {
+ "@type": "Organization",
+ "@id": "https://www.crfb.org/",
+ "name": "Committee for a Responsible Federal Budget",
+ "url": "https://www.crfb.org/",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://www.crfb.org/sites/default/files/images/crfb-og.jpeg"
+ }
+ },
+ "mainEntityOfPage": "https://www.crfb.org/blogs/appropriations-watch-fy-2027"
+ },
+ {
+ "@type": "Organization",
+ "@id": "https://www.crfb.org/",
+ "name": "Committee for a Responsible Federal Budget",
+ "url": "https://www.crfb.org/",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://www.crfb.org/sites/default/files/images/crfb-og.jpeg"
+ }
+ },
+ {
+ "@id": "https://www.crfb.org/blogs/appropriations-watch-fy-2027",
+ "description": "2026-09-03-Updated 9/3/2026: On September 1, the House passed a continuing resolution (CR) fun",
+ "author": {
+ "@type": "Organization",
+ "@id": "https://www.crfb.org/",
+ "name": "Committee for a Responsible Federal Budget",
+ "url": "https://www.crfb.org/",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://www.crfb.org/sites/default/files/images/crfb-og.jpeg"
+ }
+ },
+ "publisher": {
+ "@type": "Organization",
+ "@id": "https://www.crfb.org/",
+ "name": "Committee for a Responsible Federal Budget",
+ "url": "https://www.crfb.org/",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://www.crfb.org/sites/default/files/images/crfb-og.jpeg"
+ }
+ },
+ "isAccessibleForFree": "True"
+ },
+ {
+ "@type": "WebSite",
+ "@id": "https://www.crfb.org/",
+ "name": "Committee for a Responsible Federal Budget",
+ "url": "https://www.crfb.org/",
+ "potentialAction": {
+ "@type": "SearchAction",
+ "target": {
+ "@type": "EntryPoint",
+ "urlTemplate": "https://www.crfb.org//search?s={search_term_string}",
+ "inLanguage": "en-US"
+ },
+ "query": "https://www.crfb.org//search?s={search_term_string}",
+ "query-input": "required name=search_term_string"
+ },
+ "publisher": {
+ "@type": "Organization",
+ "@id": "https://www.crfb.org/",
+ "name": "Committee for a Responsible Federal Budget",
+ "url": "https://www.crfb.org/",
+ "logo": {
+ "@type": "ImageObject",
+ "url": "https://www.crfb.org/sites/default/files/images/crfb-og.jpeg"
+ }
+ }
+ }
+ ]
+} 
+ 
+ 
+ 
+ Appropriations Watch: FY 2027-2026-09-03 
+ 
+ 
+ 
+ 
+ 
+ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-KTB8FBW'); 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+ Committee for a Responsible Federal Budget 
+ Menu 
+ 
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+ 
+ 
+ 
+ Our Work 
+ 
+ 
+ 
+ 
+ Issues 
+ 
+ 
+ 
+ 
+ Budget &amp; Projections 
+ 
+ 
+ Health Care 
+ 
+ 
+ Social Security 
+ 
+ 
+ Other Spending 
+ 
+ 
+ Taxes 
+ 
+ 
+ Budget Process 
+ 
+ 
+ Economics 
+ 
+ 
+ Recurring Reports 
+ 
+ 
+ Budget Offsets Bank 
+ 
+ 
+ Tax Gap 
+ 
+ 
+ SALT Deduction Resources 
+ 
+ 
+ Budget 101 
+ 
+ 
+ Trump CEA Tracker 
+ 
+ 
+ 
+ 
+ 
+ Projects 
+ 
+ 
+ 
+ 
+ Getting to 3% 
+ 
+ 
+ Trust Fund Solutions 
+ 
+ 
+ Health Savers Initiative 
+ 
+ 
+ Tell the Truth about Social Security 
+ 
+ 
+ Fiscal Security Leadership Initiative 
+ 
+ 
+ Waste, Fraud, Errors, and Abuse 
+ 
+ 
+ More Projects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Interactives 
+ 
+ 
+ 
+ 
+ Is It Worth It? 
+ 
+ 
+ Debt Fixer 
+ 
+ 
+ Debt Thermometer 
+ 
+ 
+ Budgeting for the Future 
+ 
+ 
+ Insolvency Countdown 
+ 
+ 
+ Social Security Reformer 
+ 
+ 
+ How Old Will You Be? 
+ 
+ 
+ COVID Money Tracker 
+ 
+ 
+ Build Your Own Tax Extensions 
+ 
+ 
+ Build Your Own Child Tax Credit 
+ 
+ 
+ 
+ 
+ 
+ Press 
+ 
+ 
+ Donate 
+ 
+ 
+ About Us 
+ 
+ 
+ 
+ 
+ Staff Members 
+ 
+ 
+ Board Members 
+ 
+ 
+ Media Coverage 
+ 
+ 
+ Events 
+ 
+ 
+ Job Opportunities 
+ 
+ 
+ Request a Speaker 
+ 
+ 
+ CRFB Shop 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Header Buttons 
+ 
+ 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ Toggle Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Breadcrumb 
+ 
+ 
+ Home 
+ 
+ 
+ Blog 
+ 
+ 
+ appropriations-watch-fy-2027
+ 
+ 
+ Appropriations Watch: FY 2027
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Appropriations Watch: FY 2027 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sep 3, 2026 
+ 
+ 
+ 
+ 
+ 
+ Other Spending 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Updated 9/3/2026 : On September 1, the House passed a continuing resolution (CR) funding the government through December 11, which President Trump signed into law. The Senate previously passed this measure on August 8. The appropriations process for Fiscal Year (FY) 2027 has begun, with action expected in both the House of Representatives and the Senate. The appropriations process for FY 2026 was completed in April 2026, after lawmakers agreed to a Department of Homeland Security (DHS) funding bill that ended a shutdown that lasted from February 14 through April 30. The agency shut down due to disagreements around funding for Immigration and Customs Enforcement (ICE) and Border Security Operations (BSO). The final DHS bill excluded ICE and BSO funding, which Congress is now attempting to fund through the reconciliation process. The DHS shutdown was preceded by two earlier shutdowns in FY 2026. The first lasted from October 1 through November 12, as lawmakers debated the extension of Affordable Care Act tax credits. A second, shorter partial shutdown occurred between January 31 and February 3. As we did&nbsp; last year , we will be tracking appropriations bills as they move from the Appropriations Committees to the House and Senate floor and onto the President's desk. The table below shows the status of each appropriations bill. To learn more about the appropriations process, read our&nbsp; Appropriations 101 &nbsp;paper.&nbsp; Appropriations will be&nbsp;one of several deadlines Congress will face over the coming months.&nbsp;See a list of the&nbsp; upcoming&nbsp;fiscal&nbsp;deadlines here . &nbsp; Item House Senate Continuing resolution through 12/11 Passed by a 370 to 48 vote on 9/1 Passed by a 90 to 6 vote on 8/8 Signed by the President on 9/2 Continuing resolution through 12/4 Passed by a 220 to 205 vote on 7/21 &nbsp; FY 2027 Budget Resolution TBD TBD 302(b) Certain allocations approved by full committee on 4/22 by a vote of 32 to 28 TBD Agriculture Approved by subcommittee on 4/23 Approved by full committee markup on 4/29 by a vote of 35 to 25 Passed by a 213 to 210 vote on 6/4 TBD Commerce-Justice-Science Approved by subcommittee on 4/30 Approved by full committee markup on 5/13 by a vote of 32 to 28 TBD Defense&nbsp; Approved by subcommittee on 6/11 Approved by full committee markup on 6/24 by a vote of 34 to 27 TBD Energy-Water Approved by subcommittee on 5/15 Approved by full committee markup on 5/20 by a vote of 34 to 25 TBD Financial Services and General Government Approved by subcommittee on 4/17 Approved by full committee markup on 4/22 by a vote of 34 to 28 TBD Homeland Security Approved by subcommittee on 6/5 Approved by full committee markup on 6/11 by a vote of 34 to 27 TBD Interior-Environment Approved by subcommittee on 5/21 Approved by full committee markup on 6/3 by a vote of 35 to 27 TBD Labor-HHS-Education Approved by subcommittee on 6/5 Approved by full committee markup on 6/9 by a vote of 34 to 28 TBD Legislative Branch Approved by subcommittee on 4/30 Approved by full committee markup on 5/20 by a vote of 34 to 28 TBD Military Construction-VA Approved by subcommittee on 4/17 Approved by full committee markup on 4/21 by a vote of 58 to 0 Passed by a 400 to 15 vote on 5/15 TBD National Security-State Approved by subcommittee on 4/23 Approved by full committee markup on 4/28 by a vote of 35 to 27 Passed by a 217 to 209 vote on 7/15 TBD Transportation-HUD Approved by subcommittee on 5/21 Approved by full committee markup on 6/3 by a vote of 34 to 27 TBD Sources: House Appropriations Committee , Senate Appropriations Committee , Congress.gov . All dates are in 2026 unless noted otherwise. As we explain&nbsp;in&nbsp; Appropriations 101 , the House and Senate Appropriations Committees approve 302(b) spending levels for each subcommittee after the topline 302(a) levels are determined by the Budget Committees. Below is an excerpt (click&nbsp; here &nbsp;to read the full report). How does Congress determine the total level of appropriations? After the President submits the Administration’s budget request to Congress, the House and Senate&nbsp; Budget Committees &nbsp;are each directed to report a budget resolution that, if passed by their respective chambers, would then be reconciled in a budget conference (to learn more, see&nbsp; Q&amp;A: Everything You Need to Know About a Budget Conference ). The resulting budget resolution, which is a concurrent resolution and therefore not signed by the President, includes what is known as a&nbsp; 302(a) allocation &nbsp;that sets a total amount of money for the&nbsp; Appropriations Committees&nbsp; to spend. For example, the conferenced Fiscal Year (FY) 2016 budget between the House and Senate set the 302(a) limit for that year at $1.017 trillion. In the absence of a budget resolution, each chamber may enact a deeming resolution that sets the 302(a) allocation for that chamber. Leaders of the House and Senate Budget Committees may propose deeming resolutions at whatever level they find necessary to fund discretionary priorities and to officially set 302(a) allocations for the fiscal year. Since the&nbsp; Fiscal Responsibility Act (FRA) only set top-line discretionary numbers through FY 2025, there are no enforceable caps for FY 2027. However, the FRA does suggest that Congress continue to limit discretionary spending growth to 1% each year through FY 2029. The appropriations process for the current fiscal year, FY 2026, was completed in April 2026 with the Homeland Security and Further Additional Continuing Appropriations Act, 2026 , which ended a Department of Homeland Security shutdown that began on February 14. &nbsp; The table below compares the FY 2026 enacted funding levels, the President’s FY 2027 budget request, and the FY 2027 House and Senate 302(b) allocations. Regular Appropriations (Budget Authority) Subcommittee FY 2026 Enacted FY 2027 President's Budget Request FY 2027 House Committee FY 2027 Senate Committee Agriculture $26.7 billion N/A $26.3 billion TBD Commerce-Justice-Science $78.0 billion N/A $77.3 billion TBD Defense $838.7 billion $1.154 trillion* TBD TBD Energy-Water $58.0 billion N/A $58.5 billion TBD Financial Services and General Government $26.3 billion N/A $25.3 billion TBD Homeland Security $47.7 billion^ N/A TBD TBD Interior-Environment $38.6 billion N/A TBD TBD Labor-HHS-Education $194.9 billion N/A TBD TBD Legislative Branch $7.3 billion N/A $7.3 billion TBD Military Construction-VA $153.3 billion N/A $157.0 billion TBD National Security-State $50.0 billion N/A $47.3 billion TBD Transportation-HUD $102.9 billion N/A TBD TBD TOTAL Base Funding $1.622 trillion^ $1.814 trillion* TBD TBD Sources: Senate Appropriations Ag/FDA Bill Summary , H.R. 6938 House Appropriations Committee Summary , H.R. 7148 House Appropriations Committee Summary , H.R. 7148 CBO Cost Estimate , H.R. 7006 CBO Cost Estimate , CRFB: An Overview of the President's FY 2027 Budget , House Appropriations Subcommittee Allocations , Committee description of FY 2026 Homeland Security Appropriations Act , Senate amendment to FY 2026 Homeland Security appropriations bills (H.R. 7147) *Does not include the additional $350 billion that the administration is requesting through the reconciliation process for defense spending. ^Figure is a CRFB calculation based on the amount of ICE and BSO funding that was stripped out of the FY 2026 Homeland Security funding bill (H.R. 7147) before it was enacted. An official score for the version of H.R. 7147 that ultimately became law has not been published. As Congress considers appropriations bills, it is important that lawmakers avoid&nbsp; budget gimmicks &nbsp;and&nbsp; contemplate the longer-term trajectory &nbsp;of&nbsp; discretionary spending . If you have any questions about terminology or the appropriations process, please see our&nbsp; Appropriations 101 &nbsp;report, and stay tuned to our&nbsp; blog &nbsp;for continuing coverage. 
+ 
+ 
+ 
+ 
+ Tags 
+ 
+ 
+ Appropriations 
+ Defense 
+ Domestic Spending 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Trending 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sep 4, 2026 
+ 
+ 
+ 
+ Papers 
+ 
+ 
+ Social Security 
+ 
+ 
+ 
+ 
+ Marc Goldwein&#039;s Responses to Questions on Addressing Social Security Solvency 
+ 
+ 
+ On August 5, 2026, Committee for a Responsible Federal Budget Senior Vice President and Senior Policy Director Marc Goldwein testified before the Senate Committee on Finance on the topic of "Exploring...
+ 
+ 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sep 2, 2026 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ Health Care 
+ 
+ 
+ 
+ 
+ Medicaid Could Save from Most-Favored-Nation Drug Pricing, but the Amount is Uncertain 
+ 
+ 
+ A group of researchers recently estimated that the Centers for Medicare & Medicaid Services’ (CMS) proposed Generating Cost Reductions for US Medicaid (GENEROUS) payment model could save the federal...
+ 
+ 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sep 1, 2026 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ Social Security 
+ 
+ 
+ 
+ 
+ New Analysis Shows Social Security Benefit Taxation Raises Important Revenue 
+ 
+ 
+ Last week, the Congressional Budget Office (CBO) released a new report analyzing the current system of taxing Social Security benefits. This is welcome timing, given CRFB’s recent paper, New...
+ 
+ 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's Next 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Image 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aug 12, 2026 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ Other Spending 
+ 
+ 
+ 
+ 
+ CBO Estimates Trump Class Battleships to Cost $275 Billion Over 30 Years 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Image 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jul 9, 2026 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ Other Spending 
+ 
+ 
+ 
+ 
+ CBO Estimates Proposed EV Fee Will Raise $12 Billion 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Image 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Jul 2, 2026 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ Other Spending 
+ 
+ 
+ 
+ 
+ Principles for Fighting Waste, Fraud, Errors, and Abuse in Reconciliation 
+ Read more 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+.vertical-center{vertical-align:middle;}
+.red-text{color:red;}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Social Media 
+ 
+ 
+ Stay Connected 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ 
+ 
+ 
+ 
+ YouTube 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Footer menu 
+ 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ Copyright Policy 
+ 
+ 
+ 
+ 
+ 
+ &copy; 2026 Committee for a Responsible Federal Budget, All rights reserved. 
+ 1025 Connecticut Avenue N.W., Suite 1100, Washington, DC 20036 | Phone: 202-596-3597
+ 
+ 
+ 
+ 
+ 
+ 
+ {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/401611","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":true,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":[],"extExcludeNoreferrer":""}},"user":{"uid":0,"permissionsHash":"e628ec63d9ba51c4ae3340c326f7e1d6b5cb6f93d3a5b00ea67118b0efbcad89"}} 
+ 
+ 
+ 
