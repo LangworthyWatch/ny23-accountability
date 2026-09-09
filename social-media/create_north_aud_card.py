@@ -73,10 +73,10 @@ y = top + col_h + 14
 # ---- strip --------------------------------------------------------------
 strip_h = 112
 c.panel(44, y, c.w - 44, y + strip_h, fill="#EDF2F7", outline=BORDER)
-c.text(c.w / 2, y + 24, "WHAT HE ASKED THE INSPECTOR GENERAL TO REVIEW, PER THE BUFFALO NEWS", size=14, bold=True, fill=NAVY, anchor="mm")
-c.text(c.w / 2, y + 52, '"Whether the jump in public subsidies raises concerns regarding procurement integrity,', size=13, fill=DARK, anchor="mm")
-c.text(c.w / 2, y + 72, 'internal controls, waste, fraud or abuse." He added: "I\'m not accusing anyone of anything."', size=13, fill=DARK, anchor="mm")
-c.text(c.w / 2, y + 96, "The letter itself has not been released. Quotes are as reported.", size=12, fill=MUTED, anchor="mm")
+c.text(c.w / 2, y + 24, "FOUR DAYS EARLIER, DEFENDING HIS BILL THAT OVERRIDES A NEW YORK CITY ORDINANCE", size=14, bold=True, fill=NAVY, anchor="mm")
+c.text(c.w / 2, y + 52, 'To NYC members, Sept 2: "it doesn\'t stop you from opining about how we should heat our homes in my district."', size=13, fill=DARK, anchor="mm")
+c.text(c.w / 2, y + 72, 'His caption, Sept 4: "the socialists all of a sudden want local control. Rules for thee, not for me."', size=13, fill=DARK, anchor="mm")
+c.text(c.w / 2, y + 96, "The HUD letter itself has not been released; its quotes on this card are as reported by the Buffalo News.", size=12, fill=MUTED, anchor="mm")
 y += strip_h + 14
 
 # ---- kicker -------------------------------------------------------------
@@ -89,7 +89,7 @@ c.text(c.w / 2, y + 60, "By that standard, what region does $87 million in withh
 y += kick_h + 16
 
 c.text(c.w / 2, y, "Sources: Buffalo News, Sept 9 2026  ·  WIVB, Sept 8 2026  ·  Census Bureau geocoder (119th CD)  ·  Gov. Hochul, Sept 1 2026", size=11, fill=MUTED, anchor="mm")
-c.text(c.w / 2, y + 17, "Fiscal Policy Institute, June 2025  ·  NYSED pharmacy registry, Sept 8 2026  ·  Full entries and sources at langworthywatch.org", size=11, fill=MUTED, anchor="mm")
+c.text(c.w / 2, y + 17, "Fiscal Policy Institute, June 2025  ·  NYSED pharmacy registry, Sept 8 2026  ·  E&C markup video, Sept 2 2026  ·  Full entries at langworthywatch.org", size=11, fill=MUTED, anchor="mm")
 
 c.footer_bar()
 c.save(os.path.join(os.path.dirname(os.path.abspath(__file__)), "north_aud_card.png"), to_desktop=True)

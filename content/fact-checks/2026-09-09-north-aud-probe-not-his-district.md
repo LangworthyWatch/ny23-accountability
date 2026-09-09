@@ -76,6 +76,29 @@ footprint of the site.'"
 
 ---
 
+## The local-control argument, four days earlier
+
+The letter followed, by four days, his own argument against outside
+interference in local decisions. Defending his BUSES Act in the Energy and
+Commerce markup on September 2, a bill that uses federal law to override a
+New York City idling ordinance, he told the city's members: "yes, I do not
+live in your district, but it doesn't stop you from opining about how we
+should heat our homes in my district" (committee recording, 119:03; see
+[the BUSES entry](/fact-checks/2026-09-04-buses-act-bounty-post-vs-committee-record/)).
+His September 4 caption on that clip: "NYC liberals love forcing their
+radical agenda on rural communities like NY23... But the second we try to
+stop their asinine bus-driver bounty scheme... the socialists all of a
+sudden want local control. Rules for thee, not for me."
+
+Within the same week, then, the record shows federal preemption of a city
+law, a federal probe request into another district's state-run project, and
+a caption faulting downstate members for wanting local control. Each can be
+defended on its own terms; his office's "affects the region" rationale is
+one such defense. What the record does not contain is a principle of local
+control that applies to all three.
+
+---
+
 ## What was pending in his own district the same week
 
 Each line below is documented in its own entry on this site, with sources.
@@ -127,7 +150,11 @@ third.
    at-risk finding to be addressed?
 3. His adviser says the project "affects the region." By that standard, what
    region does the withheld counterterrorism money affect?
-4. Will his office release the HUD letter?
+4. On September 4 he wrote that downstate members "all of a sudden want local
+   control" when they objected to his bill overriding a city ordinance. Does
+   local control apply to Buffalo's state-run project, or to his district's
+   heating rules, or to neither?
+5. Will his office release the HUD letter?
 
 ---
 
