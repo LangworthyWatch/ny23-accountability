@@ -1,0 +1,516 @@
+
+
+ 
+ 
+ 
+	Joint Statement from New York Reps. Mike Lawler, Elise Stefanik, Andrew Garbarino, and Nick Lalota on Proposed SALT Cap Deduction | Congressman Mike Lawler
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ function f(o)
+ {
+ o.value=o.value.replace(/([^0-9])/g,"");
+ }
+ var state = "NY";
+ var district = "17";
+ 
+ jQuery(function(){
+ jQuery('form.zipform').zipForm({
+ state:state,
+ district:district
+ });
+ });
+
+ jQuery(document).ready(function() {
+ jQuery('option[value="en|ht"]').html('Krey&ograve;l Ayisyen');
+ });
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+ gtag('config', 'G-CWT12BWHF8', {
+ allow_google_signals: false,
+ cookie_flags: 'secure;',
+ user_properties: {
+ network: 'normal',
+ },
+ });
+ gtag('config', 'G-MDHVLJRG0G', {
+ allow_google_signals: false,
+ cookie_flags: 'secure;',
+ cookie_domain: 'lawler.house.gov',
+ user_properties: {
+ network: 'normal',
+ },
+ });
+ 
+
+ 
+// Add noopener noreferrer to all target="_blank" links
+(function() {
+ function fixBlankLinks() {
+ var links = document.querySelectorAll('a[target="_blank"]');
+ links.forEach(function(link) {
+ var rel = link.getAttribute('rel') || '';
+ var hasNoopener = rel.indexOf('noopener') !== -1;
+ var hasNoreferrer = rel.indexOf('noreferrer') !== -1;
+
+ if (!hasNoopener || !hasNoreferrer) {
+ var relValues = rel.split(' ').filter(function(v) { return v; });
+ if (!hasNoopener) relValues.push('noopener');
+ if (!hasNoreferrer) relValues.push('noreferrer');
+ link.setAttribute('rel', relValues.join(' '));
+ }
+ });
+ }
+
+ // Run immediately for server-rendered content
+ if (document.readyState === 'loading') {
+ document.addEventListener('DOMContentLoaded', fixBlankLinks);
+ } else {
+ fixBlankLinks();
+ }
+
+ // Also run after delay to catch third-party widgets (Twitter, Facebook, Instagram)
+ setTimeout(fixBlankLinks, 2000);
+})();
+ 
+
+ 
+ (function () {
+ function setSandbox(/** @type {HTMLIframeElement} */ iframe) {
+ if (!iframe.getAttribute('src') || iframe.src.startsWith("https://video.teleforumonline.com")) {
+ return;
+ }
+ var standard = 'allow-forms allow-modals allow-presentation allow-storage-access-by-user-activation allow-same-origin';
+ var extra = ' allow-scripts allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation allow-popups allow-top-navigation';
+ var isKnownRestrictableIframe = iframe.src && (
+ iframe.src.startsWith("https://www.instagram.com") ||
+ iframe.src.startsWith("https://www.facebook.com") ||
+ iframe.src.startsWith("https://platform.twitter.com/widgets")
+ );
+ var sandboxValue = (isKnownRestrictableIframe) ? standard : (standard+extra);
+ iframe.setAttribute('sandbox', sandboxValue);
+ }
+ 
+ const observer = new MutationObserver((mutations) => {
+ mutations.forEach(mutation => {
+ if (mutation.target.tagName === 'IFRAME'
+ && mutation.type === 'attributes' 
+ && (mutation.attributeName === 'sandbox' || mutation.attributeName === 'src')
+ ) {
+ setSandbox(mutation.target);
+ }
+ mutation.addedNodes.forEach(node => {
+ if (node.tagName === 'IFRAME') {
+ setSandbox(node);
+ }
+ });
+ });
+ });
+ document.addEventListener("DOMContentLoaded", function(){
+ document.querySelectorAll("iframe").forEach(function (iframe) {
+ setSandbox(iframe);
+ });
+ observer.observe(document.body, { childList: true, subtree: true });
+ });
+ })();
+ 
+ 
+ 
+ 
+ Javascript must be enabled for the correct page display 
+ 
+ 
+ 
+ Skip to Content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ facebook 
+ twitter 
+ youtube 
+ instagram 
+ 
+ 
+ 
+ Open search form 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ 
+ Search form 
+ 
+ Submit 
+ 
+ 
+ Hit enter to search or ESC to close 
+ 
+ 
+ 
+ 
+ 
+ Menu icon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Close Navigation Menu icon 
+ 
+ 
+ 
+ 
+ -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About 
+ 
+ 
+ Message from Mike 
+ Biography 
+ About Our District 
+ Committees and Caucuses 
+ 
+ 
+ 
+ Services 
+ 
+ 
+ Annual Appropriations Application 
+ App Challenge 
+ Art Competition 
+ Congressional Commendation 
+ Event Request 
+ Flag Request 
+ Grants 
+ Help with a Federal Agency 
+ Internships 
+ Meeting Request 
+ Service Academy Nominations 
+ Tour Requests 
+ Veterans of the Year Nominations 
+ 
+ 
+ 
+ Issues 
+ 
+ 
+ Legislation 
+ 
+ 
+ Sponsored Legislation 
+ Co-sponsored Legislation 
+ 
+ 
+ 
+ Voting Record 
+ 
+ 
+ 
+ Media 
+ 
+ 
+ Op-Eds from Mike 
+ Press Releases 
+ In the News 
+ Videos 
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ Email Me 
+ E-Newsletter Sign Up 
+ Office Locations 
+ Help with a Federal Agency 
+ 
+ 
+ 
+ 
+ 
+ window.gtranslateSettings = {"default_language":"en","native_language_names":true,"languages":["en","es","ht"],"wrapper_selector":".gtranslate_wrapper"} 
+ 
+ 
+ 
+ 
+ Open search form 
+ 
+ 
+ 
+ Search Site 
+ 
+ 
+ 
+ Submit 
+ 
+ 
+ 
+ 
+ 
+ facebook 
+ twitter 
+ youtube 
+ instagram 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ audiojs.events.ready(function () {
+ audiojs.createAll();
+ });
+
+ function popup(url) {
+ var width = 700;
+ var height = 275;
+ var left = (screen.width - width) / 2;
+ var top = (screen.height - height) / 2;
+ var params = 'width=' + width + ', height=' + height;
+ params += ', top=' + top + ', left=' + left;
+ params += ', directories=no';
+ params += ', location=no';
+ params += ', menubar=no';
+ params += ', resizable=no';
+ params += ', scrollbars=no';
+ params += ', status=no';
+ params += ', toolbar=no';
+ newwin = window.open(url, 'windowname5', params);
+ if (window.focus) { newwin.focus() }
+ return false;
+ }
+ 
+ 
+ Joint Statement from New York Reps. Mike Lawler, Elise Stefanik, Andrew Garbarino, and Nick Lalota on Proposed SALT Cap Deduction 
+ 
+ 
+ 
+ 
+ Share on Facebook 
+ Share on Twitter 
+ Print this Page 
+ Share by Email 
+ 
+ 
+ 
+ Washington, D.C. ,
+ May 8, 2025
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ Washington, D.C. - 5/8/2025… Congressman Mike Lawler (NY-17) today joined Reps. Elise Stefanik (NY-21), Andrew Garbarino (NY-02), and Nick LaLota (NY-01) issued&nbsp;the following joint statement in response to the House Ways and Means Committee’s proposed $30,000 cap on State and Local Tax (SALT) deductions: 
+ "We’ve negotiated in good faith on SALT from the start, fighting for the taxpayers we represent in New York. 
+ 
+Yet with no notice or agreement, the Speaker and the House Ways and Means Committee unilaterally proposed a flat $30,000 SALT cap – an amount they already knew would fall short of earning our support. 
+ It’s not just insulting – it risks derailing President Trump’s One Big Beautiful Bill. 
+ 
+ New Yorkers already send far more to Washington than we get back, unlike many so-called “low-tax” states that depend heavily on federal largesse. 
+ 
+ A higher SALT cap isn’t a luxury. It’s a matter of fairness. 
+ 
+ We reject this offer." 
+ Congressman Lawler is one of the most bipartisan members of Congress and represents New York's 17th Congressional District, which is just north of New York City and contains all or parts of Rockland, Putnam, Dutchess, and Westchester Counties. He was rated the most effective freshman lawmaker in the 118th Congress, 8th overall, surpassing dozens of committee chairs. 
+ 
+ ### 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ JOIN MY EMAIL LIST 
+ 
+ 
+ First Name: * 
+ 
+ 
+ 
+ Last Name: * 
+ 
+ 
+ 
+ 
+ Email Address: * 
+ 
+ SUBSCRIBE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Office Locations 
+ 
+ 
+ 
+ Pearl River Office 
+ (BY APPOINTMENT ONLY) 
+ 
+One Blue Hill Plaza 
+Third Floor 
+P.O. Box 1645 
+Pearl River, NY 10965 
+ 
+ (845) 201-2060 
+ 
+ 
+ Washington, D.C. Office 
+ 
+324 Cannon House Office Building 
+Washington, DC 20515
+ 
+ (202) 225-6506 
+ 
+ 
+ Carmel Office 
+ 
+(BY APPOINTMENT ONLY) 
+60 McAlpin Ave 
+Mahopac, NY 10541
+ 
+ (845) 743-7130 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy 
+ Accessibility 
+ Contact 
+ House.gov 
+ 
+ 
+ facebook 
+ twitter 
+ youtube 
+ instagram 
+ 
+ 
+ 
+ back to top button 
+ 
+ 
+ 
+ 
+ 

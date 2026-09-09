@@ -1,0 +1,818 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LaLota Brokers SALT Deal | Congressman Nick LaLota 
+ 
+ 
+ 
+ {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/3747","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1kNFqwzAMRX_IRC9j7G-MYiuJVtsKkpKlf78kK4WW7EW69xywQelGmV00YkqimaXBM3WDSnNqOdAqMesyY_GJKsXPLxh2ZVfC_F7oFBVnODbmrC9g32c3SYwlcpJm8A4CbV643eDv_e5RwygyFoqOI4z7eO8dfuP2CmtQzLx9QC_i5rr__gAN1x412DKTDmwTPNMVi5OspHycxC-9VSzFkhK1a38kW3r7z85i7Pvlg93NqUKPRmFl-jE4Z1clL4V-AWaMrIo","theme":"evo_drupaltheme_68","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_environment":false},"tagIds":["GTM-TQX94K2"]},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":true,"extNofollow":true,"extTitleNoOverride":false,"extNoreferrer":true,"extFollowNoOverride":true,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"mailto","telClass":"0","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa-solid fa-arrow-up-right-from-square","extFaMailtoClasses":"fa-regular fa-envelope","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":["www.house.gov"],"extExcludeNoreferrer":""}},"ckeditorAccordion":{"accordionStyle":{"collapseAll":0,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":1,"allowHtmlInTitles":0}},"field_group":{"html_element":{"mode":"full","context":"view","settings":{"classes":"row evo-create-type","id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"evo_accessibility_helper":{"EvoAccessibilityHelperJS":{"high_contrast_button_enabled":null,"match_os_settings":null,"high_contrast_logo_url":null,"button_position_y":null,"grayscale_social_feeds":null,"high_contrast_theme":null,"text_zoom_amount":null}},"evo_displayer":{"evo_displayer_drupal_settings":[{"newsletter_webform_id":"webform_225","slideup_custom_block_html":"","popup_custom_block_html":"","slideup_block_selection":"0","popup_block_selection":"1","slideup_style":"evo-displayer-slideup-style-1","popup_style":"evo-displayer-popup-style-1","add_block_id":"","add_block_id_slideup":"","media_slideup_url":"","media_popup_url":"","slideup_bg_color":"#f5f5f5","slideup_text_color":"#000000","slideup_btn_bg_color":"#007bff","slideup_btn_text_color":"#ffffff","popup_bg_color":"#f5f5f5","popup_text_color":"#000000","popup_btn_bg_color":"#007bff","popup_btn_text_color":"#ffffff","popup_dim_bg_color":"#000000","popup_dim_bg_opacity":"20","add_custom_title":"","add_custom_description":""}]},"evo_map":{"evoMapJS":{"drupal_variables":[{"map_style":"http:\/\/services.arcgisonline.com\/arcgis\/rest\/services\/World_Street_Map\/MapServer\/tile\/{z}\/{y}\/{x}","map_line_color":"#696b6d","map_line_weight":"2","map_height":"250px","map_width":"100%","shape_override":"","map_image_override":"","ie_only_static_img":0,"map_only":0,"ssdd":"NY01","siteURL":"http:\/\/lalota.house.gov\/"}],"office_nids":{"569":"46"},"office_nodes":{"46":{"in_preview":null}}},"all_office_locations":[{"title":"Hauppauge District Office","phone":"(631) 289-1097","fax":"","lat":"40.82814530920627","lon":"-73.1983042902192","addr":[{"langcode":null,"country_code":"US","administrative_area":"NY","locality":"Hauppauge","dependent_locality":null,"postal_code":"11788","sorting_code":null,"address_line1":"515 Hauppauge Road","address_line2":"Suite 3B","address_line3":null,"organization":"","given_name":null,"additional_name":null,"family_name":null}]}]},"evo_social_icons":{"EvoSocialIconsJS":{"social_icon_family":"tc_standard_fill","social_icon_color":"#fff","social_icon_size":"1.6em","social_icon_spacing":"","social_icon_alignment":"flex-start","facebook_checkbox":null,"instagram_checkbox":null,"x_checkbox":null,"youtube_checkbox":null,"bluesky_checkbox":null,"behance_checkbox":null,"flickr_checkbox":null,"threads_checkbox":null,"reddit_checkbox":null,"snapchat_checkbox":null,"tumblr_checkbox":null,"linkedin_checkbox":null,"medium_checkbox":null,"mail_checkbox":null,"parler_checkbox":null,"truthsocial_checkbox":null,"gettr_checkbox":null,"rumble_checkbox":null,"tiktok_checkbox":null,"custom1_checkbox":null,"custom2_checkbox":null,"icon_pos_1":null,"icon_pos_2":null,"icon_pos_3":null,"icon_pos_4":null,"icon_pos_5":null,"icon_pos_6":null,"icon_pos_7":null,"icon_pos_8":null,"icon_pos_9":null,"icon_pos_10":null,"icon_pos_11":null,"icon_pos_12":null,"icon_pos_13":null,"icon_pos_14":null,"icon_pos_15":null,"icon_pos_16":null,"icon_pos_17":null,"icon_pos_18":null,"icon_pos_19":null,"icon_pos_20":null,"facebook_url":null,"instagram_url":null,"x_url":null,"youtube_url":null,"bluesky_url":null,"behance_url":null,"flickr_url":null,"threads_url":null,"reddit_url":null,"snapchat_url":null,"tumblr_url":null,"linkedin_url":null,"medium_url":null,"mail_url":null,"parler_url":null,"truthsocial_url":null,"gettr_url":null,"rumble_url":null,"tiktok_url":null,"custom1_url":null,"custom2_url":null,"custom1_image":null,"custom2_image":null,"custom1_alt":null,"custom2_alt":null,"custom1_title":null,"custom2_title":null,"evo_social_icons":null,"order":{"-10":{"Facebook":{"checkbox":"1","url":"https:\/\/www.facebook.com\/replalota","weight":"-10"}},"-9":{"Instagram":{"checkbox":"1","url":"https:\/\/www.instagram.com\/replalota","weight":"-9"}},"-8":{"X":{"checkbox":"1","url":"https:\/\/x.com\/replalota","weight":"-8"}},"-7":{"YouTube":{"weight":"-7","checkbox":0,"url":"https:\/\/www.youtube.com\/@HouseConference"}},"-6":{"Behance":{"weight":"-6","checkbox":0,"url":""}},"-5":{"Flickr":{"weight":"-5","checkbox":0,"url":""}},"-4":{"Threads":{"weight":"-4","checkbox":0,"url":"https:\/\/www.threads.net"}},"-3":{"Reddit":{"weight":"-3","checkbox":0,"url":""}},"-2":{"Snapchat":{"weight":"-2","checkbox":0,"url":""}},"-1":{"Tumblr":{"weight":"-1","checkbox":0,"url":""}},"0":{"LinkedIn":{"weight":"0","checkbox":0,"url":""}},"1":{"Medium":{"weight":"1","checkbox":0,"url":""}},"2":{"Mail":{"weight":"2","checkbox":0,"url":""}},"3":{"Bluesky":{"url":"https:\/\/bsky.app"}}}}},"superfish":{"superfish-main":{"id":"superfish-main","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false,"dropShadows":true},"plugins":{"smallscreen":{"cloneParent":0,"mode":"window_width","accordionButton":0},"supposition":true,"supersubs":true}}},"user":{"uid":0,"permissionsHash":"b1829c8a0361c3bb71dc40ab6fae671713a1c5998eafd3892a0d5d82e2aa1818"}} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TQX94K2"
+ height="0" width="0" style="display:none;visibility:hidden"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 122 Cannon House Office Building, Washington, DC 20515 Email Me (202) 225-3826 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ About 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Committees &amp; Caucuses 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Our District 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Votes and Legislation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Newsletter Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Office Locations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Request an Appearance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Website Problem 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Media 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Editorials 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Videos 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Art Competition 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Commendations and Greetings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Flags 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Grant Applicants 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Help with a Federal Agency 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hurricane Preparedness 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Internships 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Service Academy Nominations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Shutdown Resources 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Surveys 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tours and Tickets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Townhall Sign Up 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tax Prep Webinar 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Subscribe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ Media 
+ 
+ 
+ Press Releases 
+ 
+ 
+ 
+ 
+ 
+ LaLota Brokers SALT Deal May 22, 2025 Press Release Delivers Full Relief to 92% of Constituents 
+Quadruples Deduction Cap for Long Island Families Washington, D.C. — Rep. Nick LaLota (NY-01) announced a significant win for Long Island taxpayers following successful negotiations to quadruple the cap on the State and Local Tax (SALT) deduction. The change, included in the House-passed version of the&nbsp; One Big Beautiful Bill , now heads to the Senate and awaits the President’s signature. If enacted, the measure would provide long-overdue relief—saving many Suffolk County families as much as $8,000 on their 2026 federal tax returns. The deal raises the SALT deduction cap to&nbsp; $40,000 for households earning under $500,000 , with both thresholds&nbsp; indexed to grow by about 1% annually —reaching roughly&nbsp; $44,000 and $552,000 by year ten. A household earning $333,000 and paying $20,000 in property taxes would now be fully covered under the new cap. The provision is valued at&nbsp; $344 billion over ten years . LaLota secured the breakthrough after resisting heavy internal party pressure and rejecting a weaker proposal that would have capped deductions at&nbsp; $30,000 for households earning under $400,000 — with no indexing and a reset to&nbsp; $10,000 after a decade . That rejected proposal, worth $225 billion, might have covered a household earning $250,000 with $15,000 in property taxes—but it would have fallen far short for many Long Islanders. “This was a years-long battle, and I’m proud my colleagues finally came around to a plan that fixes the unfair $10,000 cap from 2017,” said LaLota. “Raising it to $40,000 means 92% of the families I represent will finally be made whole. For too long, Suffolk County’s middle class has been punished by double taxation. That ends now.” According to the Tax Foundation,&nbsp; median property taxes in Nassau and Suffolk Counties far exceed $10,000 , meaning most homeowners have long been penalized under the current $10,000 cap. Only&nbsp; 16.3% of NY-01 taxpayers currently claim a SALT deduction—evidence of just how narrow and inequitable the benefit has been. “Securing this deal took months of pressure, standing firm, and refusing to settle,” LaLota added. “I meant what I said:&nbsp; No SALT, no deal—for real. That wasn’t a slogan—it was a promise to Suffolk County families. And today, we delivered.” LaLota also highlighted his consistent opposition to tax packages that failed to fix the SALT deduction. “In 2021 and 2022, Democrats controlled Washington and broke their promise to fix SALT. In 2024, when the Smith/Wyden tax plan ignored it again, I voted no. And when a $30,000 cap was floated, I pushed back. That wasn’t a compromise—it was an insult.” LaLota credited&nbsp; Speaker Mike Johnson and&nbsp; Chairwoman Elise Stefanik for working with him to deliver meaningful reform. “This is a major win for Long Island—but we’re not done yet. I’ll keep fighting until this provision is signed into law and middle-class families get the relief they deserve. I didn’t come to Washington to play politics—I came to fight for Suffolk County. And I’m just getting started.” Background: Timeline of LaLota Actions January 25, 2023 – First SALT Caucus Meeting February 8, 2023 –&nbsp; First SALT press conference April 10, 2023 –&nbsp; LaLota cosponsors SALT Deductibility Act April 14, 2023 –&nbsp; SALT press conference in Franklin Square, NY May 10, 2023 –&nbsp; LaLota introduces SALT Fairness and Deficit Reduction Act May 10, 2023 –&nbsp; LaLota cosponsors SALT Marriage Penalty Elimination Act May 17, 2023 – Meeting w/ RSC Chairman Kevin Hern re SALT May 18, 2023 – Meeting w/ Rep. Mario Diaz Balart re SALT May 24, 2023 – Meeting w/ Rep. Gottheimer re SALT May 24, 2023 – First meeting w/ House Ways and Means Committee Chairman Jason Smith May 30, 2023 –&nbsp; LaLota introduces amendment to Fiscal Responsibility Act to address unfair SALT deduction cap June 6, 2023 – Meeting w/ Senator Gillibrand re SALT June 14, 2023 – Meeting w/ Majority Leader Steve Scalise and Chairman Smith re SALT June 22, 2023 – Meeting w/ SALT Caucus July 12, 2023 – Meeting w/ Democratic Leader Chuck Schumer re SALT July 27, 2023 – Meeting w/ House Budget Committee re SALT January 31, 2024 –&nbsp; LaLota introduces SALT Marriage Penalty Elimination Act alongside Rep. Mike Lawler January 31, 2024 –&nbsp; LaLota votes against Wyden-Smith tax bill due to lack of SALT fix January 31, 2024 –&nbsp; LaLota forces vote on SALT Marriage Penalty Elimination Act February 14, 2024 –&nbsp; House Democrats block vote on SALT Marriage Penalty Elimination Act April 10, 2024 –&nbsp; LaLota highlights unfair SALT deduction cap at Small Business Committee hearing May 14, 2024 –&nbsp; LaLota House floor speech on House Democrats blocking SALT Marriage Penalty Elimination Act June 7, 2024 – Meeting w/ SALT Caucus August 12, 2024 –&nbsp; Publishes Op-Ed entitled, “Relief for New York: Increasing the SALT Deduction to Protect Our Communities” September 24, 2024 – Meeting w/ Ways and Means Committee Working Families Tax Team re SALT December 12, 2024 –&nbsp; LaLota rejects idea of raising SALT deduction cap to $20,000 January 7, 2025 – Meeting w/ SALT Caucus January 8, 2025 – Meeting w/ Ways and Means Committee Working Families Tax Team re SALT January 11, 2025 –&nbsp; Meeting w/ President Trump at Mar-a-Lago re SALT January 14, 2025 –&nbsp; LaLota publishes Op-Ed entitled, “Fighting for Long Island’s Future” January 14, 2025 – Meeting w/ SALT Caucus January 23, 2025 –&nbsp; LaLota testifies in front of Ways and Means Committee re unfair SALT deduction cap January 24, 2025 –&nbsp; LaLota House floor speech on unfair SALT deduction cap January 30, 2025 –&nbsp; SALT press conference in Smithtown, NY February 26, 2025 –&nbsp; LaLota votes for House Budget Resolution &amp; vows to get SALT fix done February 27, 2025 –&nbsp; LaLota meets w/ President Trump in Oval Office and talks SALT fix March 1, 2025 –&nbsp; LaLota reiterates his promise to vote against reconciliation bill if it doesn’t include meaningful increase to SALT deduction cap March 3, 2025 –&nbsp; LaLota publishes Op-Ed entitled, “A Responsible Budget That Puts Long Island First” April 6, 2025 – Phone Call w/ Speaker Johnson re Budget Resolution and SALT April 7, 2025 – Small Group Meeting w/ Speaker Johnson re SALT April 29, 2025 – Meeting w/ White House Legislative Affairs re SALT April 30, 2025 – Small Group Meeting w/ Speaker Johnson re SALT May 6, 2025 – Small Group Meeting w/ Speaker Johnson re SALT May 8, 2025 –&nbsp; Joint Statement from SALTy Five re Ways and Means proposed SALT language May 8, 2025 –&nbsp; SALTy Five reject Ways and Means offer on proposed SALT fix May 12, 2025 – Conference Call w/ Speaker Johnson and Chairman Smith May 13, 2025 –&nbsp; Meeting w/ Speaker Johnson re SALT May 15, 2025 – Small Group Meeting w/ Speaker Johnson re SALT May 19, 2025 – Phone Call w/ Speaker Johnson re SALT May 19, 2025 – Small Group Meeting w/ Speaker Johnson re SALT May 20, 2025 – Small Group Meeting w/ Speaker Johnson re SALT May 20, 2025 –&nbsp; Joint Statement from SALTy Five re President Trump’s comments during House Republican Conference Meeting New York currently holds the unenviable position of having the&nbsp; highest effective tax burden in the nation , a direct consequence of the ballooning state budget under single-party Democratic rule since 2018. The current New York State budget, growing at a rate double that of inflation, surpasses Florida's despite New York's smaller population. The repercussions are stark: New York leads the country in residents relocating to more economically-prudent states like Florida, North Carolina, and South Carolina. This fiscal mismanagement by New York Democrats has resulted in an excessive dependence on the federal State and Local Tax (SALT) deduction. This deduction permits taxpayers to offset their federal taxable income with the amount paid in state and local taxes. However, the 2017 tax reform, spearheaded by President Trump, capped these deductions at $10,000, intensifying the tax burden for New Yorkers. This cap underscores the urgent need for fiscal reform in the state to alleviate the pressures on its taxpayers. In 2022 , despite their initial pledge of "No SALT, no deal," House Democrats did not follow through before the final vote on the Inflation Reduction Act. Throughout 2021 and 2022, Democrats controlled both chambers of Congress as well as the White House. Nevertheless, they did not address the $10,000 cap on the State and Local Tax (SALT) deduction, missing a crucial opportunity to fulfill their promises to alleviate the tax burdens on their constituents. This inaction occurred even as they held the legislative power to potentially make significant changes to the policy. Since being sworn into office in January 2023, LaLota has&nbsp; been explicitly clear on his support for restoring the SALT deduction. LaLota joined the bipartisan SALT Caucus and, in March 2023, introduced the&nbsp; SALT Fairness and Deficit Reduction Act to effectively bring the deduction to pre-2017 levels for the overwhelming majority of taxpayers while at the same time reducing the federal deficit by raising and extending the SALT deduction cap to $60,000 for single filers and $120,000 for joint filers beginning in 2023 and lasting until December 31, 2032. In January 2024 , LaLota voted against the Wyden-Smith tax bill because it failed to include an increase on the cap to the State and Local Tax (SALT) deduction. In February 2024, LaLota introduced the&nbsp; SALT Marriage Penalty Elimination Act to the floor of the House. Unfortunately, 18 Republicans, together with every single House Democrat, blocked further consideration, debate, and a final vote on the measure. The&nbsp; SALT Marriage Penalty Elimination Act &nbsp;would remove the marriage penalty and raise the SALT deduction cap to $20,000 for joint filers and cap adjusted gross income at $500,000. In January 2025,&nbsp; LaLota met with President Donald Trump at Mar-A-Lago to address critical issues impacting Long Island, including the SALT cap, and continue the conversation on available options for a reconciliation tax package. During that meeting, President Trump renewed his campaign pledge to ‘fix’ the SALT cap and support LaLota’s constituents who suffer under the nation's most burdensome state and local taxes, a direct result from ineffective and incompetent Democratic governance in New York. ### 
+ Issues : Congress Economy 
+ 
+ 
+ Office Locations 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Washington DC Office 122 Cannon House Office Building Washington, DC&nbsp;&nbsp; 20515 Phone: (202) 225-3826 
+ Hauppauge District Office 515 Hauppauge Road Suite 3B Hauppauge, NY&nbsp;&nbsp; 11788 Phone: (631) 289-1097 
+ Rocky Point Mobile Office Hours (Thursdays 1pm-5pm; **not an active mailbox**) Rocky Point VFW Post 6249 109 King Road Rocky Point, NY&nbsp;&nbsp; 11778 Phone: (631) 289-1097 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 40.82814530920627 
+ -73.1983042902192 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NY01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright 
+ 
+ 
+ Privacy 
+ 
+ 
+ House.gov 
+ 
+ 
+ Accessibility 
+ 
+ 
+ RSS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .evo-image-portrait-480 .img-fluid {
+	max-width: 30rem !important;
+ width: 100%;
+}
+@media(min-width: 1200px) {
+#views-evo-carousel-evo-feature-slider-block-feature-slider img {
+	min-height: 37.5rem;
+	max-height: 37.5rem;
+}
+}
+@media(min-width: 992px) and (max-width: 1199.98px) {
+#views-evo-carousel-evo-feature-slider-block-feature-slider img {
+	height: 33rem;
+}
+}
+@media(min-width: 60rem) {
+.paragraph--id--42 {
+	position: fixed;
+	z-index: 99;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	height: 100vh;
+	width: 20rem;
+ overflow-y: hidden;
+ padding: 0;
+}
+body.path-frontpage {
+	padding-right: 20rem;
+}
+.paragraph--id--42 > .paragraph__column {
+	flex-direction: column;
+	height: 100vh;
+	overflow: scroll;
+ direction: rtl;
+}
+.paragraph--id--42.paragraph.paragraph--type--evo-columns .paragraph--type--evo-columns__3col {
+	width: 100%;
+}
+.paragraph--id--42.paragraph.paragraph--type--evo-columns .paragraph--type--evo-columns__3col {
+	min-height: 31rem;
+}
+.paragraph--id--42 .paragraph__column > h2 {
+	display: none !important;
+}
+.paragraph--id--42 .paragraph--type--evo-columns__3col:nth-of-type(2) {
+	min-height: 26rem !important;
+}
+.paragraph--id--42 .paragraph--type--evo-columns__3col:nth-of-type(1) {
+	margin-bottom: 2rem;
+}
+.fb-page.fb_iframe_widget {
+	max-width: 19rem !important;
+ mix-blend-mode: multiply;
+}
+iframe#instagram-embed-0 {
+	max-width: 17rem !important;
+	min-width: 17rem !important;
+ mix-blend-mode: multiply;
+}
+iframe#twitter-widget-0 {
+	max-width: 17rem !important;
+	min-width: 17rem !important;
+	margin: 0 !important;
+ mix-blend-mode: multiply;
+}
+}
+/* customizations */
+.evo-header {
+	background: linear-gradient(90deg,#1a1262 40%,#b48624 60%);
+}
+div[class*="subscribelink"] a.subscribe {
+	background: #b48624;
+}
+div[class*="subscribelink"] a.subscribe:hover {
+	background: #b48624;
+	opacity: 0.7;
+}
+.carousel-caption {
+	background: #1a1262;
+	color: #fff;
+}
+.carousel-caption .evo-image__evo-text p {
+	color: #fff;
+	font-weight: bold;
+}
+.carousel-caption .h2::before {
+	color: #0f0a3c;
+}
+.carousel-caption .h2 {
+	text-shadow: none;
+}
+.carousel-caption div.btn-primary a {
+	background: #b48624;
+	color: #fff;
+	border-radius: 0.33rem;
+}
+.carousel-caption div.btn-primary a:hover {
+	background: #b48624;
+	color: #fff;
+	border-radius: 0.33rem;
+ opacity: 0.7;
+}
+.sf-menu a {
+	color: #0f0a3c;
+}
+form[id*="form-evo-search"] input[type*="submit"] {
+	background: #b48624 url(/profiles/evo/themes/custom/evo_drupaltheme_68/images/01-magnifying-glass.svg) center center no-repeat !important;
+	border: 5px solid #b48624;
+}
+form[id*="form-evo-search"] input[type*="submit"]:hover {
+	background: #b48624 url(/profiles/evo/themes/custom/evo_drupaltheme_68/images/01-magnifying-glass.svg) center center no-repeat !important;
+	border: 5px solid #b48624;
+ opacity: 0.7;
+}
+.evo-services .list-group > .list-group-item:first-child::before {
+	background: #0f0a3c;
+}
+button#howcanihelp {
+	background: #1a1262 url(/profiles/evo/themes/custom/evo_drupaltheme_68/images/background-flag.png) no-repeat center center;
+}
+button#close-homepage-services {
+	background: #0f0a3c;
+}
+button#close-homepage-services:hover {
+	background: #b48624;
+ opacity: 0.8;
+}
+.evo-services .list-group .list-group-item::before {
+	background: #1a1262;
+}
+.evo-services .list-group-item a {
+	color: #fff;
+}
+.evo-services .list-group .list-group-item::after {
+	background: #0f0a3c;
+}
+.paragraph.paragraph--color--rgba-blue-light {
+	background: linear-gradient(to right,#b48624,#c90000);
+}
+.evo-landing__field-evo-section .field__item .paragraph .paragraph__column h2::before {
+	background: #1a1262;
+}
+body.path-frontpage .paragraph--type--evo-view [class^="js-view-dom-id-"] .evo-views-row-container .evo-card a, body.path-frontpage .paragraph--type--evo-view .evo-views-row-container .evo-card a {
+	color: #b48624;
+}
+.evo-read-more .btn-primary {
+	color: #b48624 !important;
+	border: 2px solid #b48624;
+}
+.evo-read-more .btn-primary:hover {
+	background: #b48624;
+	color: #fff !important;
+}
+.page__footer {
+	background: #0f0a3c;
+}
+div[class*="office-locations-block-list"] .views-field-title a {
+	color: white;
+}
+a.signup-newsletter:hover {
+	color: #ed0000 !important;
+}
+iframe#instagram-embed-0 {
+	min-height: 20rem;
+}
+.evo-footer-bottom {
+	background: #1a1262;
+}
+ul.sf-menu li.sfHover > a {
+	color: #1a1262;
+}
+.sf-menu ul li a:hover {
+	background: #0f0a3c;
+}
+div[class*="second-level-menu"] h2::before {
+	background: #2aa1a7;
+}
+div[class*="second-level-menu"] ul li a.is-active, div[class*="second-level-menu"] ul li a.nav-link.is-active {
+	color: #b48624;
+}
+.webform-progress-tracker .progress-step.is-active .progress-marker::before {
+	background-color: #b48624;
+}
+.webform-progress-tracker .progress-step.is-active:hover .progress-marker::before {
+	background-color: #e80202;
+}
+.btn-primary {
+	background: #b48624;
+	border-color: #b48624;
+	border-radius: 0.5rem;
+}
+.btn-primary:hover {
+	background: #D70101;
+	border-color: #D70101;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+	color: #1a1262;
+}
+.page-item.active .page-link {
+	background-color: #1a1262;
+	border-color: #1a1262;
+}
+.page-item.active .page-link:hover {
+	background-color: #248b91;
+	border-color: #248b91;
+}
+.page-link:hover {
+	color: #2ba4aa;
+}
+div[class*="_field-evo-issues"] a {
+	color: #b48624;
+}
+div[class*="second-level-menu"] ul li a:hover, div[class*="second-level-menu"] ul li a.nav-link:hover {
+	color: #1a1262;
+}
+div[class*="headercontent"] .svg-inline--fa {
+	color: white;
+}
+.evo-displayer-slideup .webform-button--submit {
+	color: #fff !important;
+	background-color: #fd0000 !important;
+	border-color: #fd0000 !important;
+}
+.evo-displayer-slideup .webform-button--submit:hover {
+	color: white !important;
+	background-color: #cb0000 !important;
+	border-color: #cb0000 !important;
+}
+.evo-displayer-slideup-style-1 #evo-displayer-slideup-close {
+	background: #0f0a3c !important;
+	color: #fff;
+}
+.evo-services .list-group > .list-group-item:first-child::after {
+	background: #1a1262;
+}
+.evo-services .svg-inline--fa:hover {
+	color: #fff;
+	opacity: 0.8;
+}
+.carousel-indicators .active {
+	background: #0f0a3c;
+	border: 2px solid #0f0a3c;
+}
+.carousel-indicators li:hover {
+	background-color: #0f0a3c;
+	border: 2px solid #0f0a3c;
+}
+#views-evo-carousel-evo-feature-slider-block-feature-slider {
+	background: #fff;
+}
+@media(max-width: 47.99875rem) {
+.sf-accordion-toggle a {
+	background: #b48624 !important;
+}
+div.sf-accordion-toggle a.sf-expanded, ul.sf-menu.sf-accordion li.sf-expanded {
+	background: #0f0a3c !important;
+}
+ul#superfish-main-accordion li a.menuparent {
+	background: #0f0a3c;
+}
+ul#superfish-main-accordion a.sf-depth-1:hover {
+	background: #1a1262;
+}
+ul#superfish-main-accordion li.sf-expanded a.menuparent {
+	background: #228b91;
+}
+ul#superfish-main-accordion .sf-clone-parent a.sf-depth-1:hover {
+	background: #1a1262;
+}
+}
+@media(min-width: 47.99875rem) {
+.evo-navbar-branding img {
+	margin-left: 0.5rem;
+}
+}
+.carousel-caption .h2::before {
+	color: #b48624;
+}
+div[class*="office-locations-block-list"] h2::before {
+	background: #b48624;
+}
+.page__footer {
+	background: #1a1262;
+}
+.evo-footer-bottom {
+	background: #0f0a3c;
+}
+.paragraph.paragraph--color--rgba-blue-light {
+	background: linear-gradient(to right,#b48624,#1a1262);
+}
+.paragraph--color--transparent {
+	background: #fff url(/profiles/evo/themes/custom/evo_drupaltheme_68/images/us-capitol-1080p.jpg) no-repeat center center;
+}
+.paragraph--color--transparent::before {
+	background: rgba(180, 134, 36, 0.8);
+}
+.evo-landing__field-evo-section .field__item .paragraph .paragraph__column h2::before {
+	background: white;
+}
+.paragraph--id--6 .paragraph__column > h2::before {
+	background-color: #b38524 !important;
+}
+.leaflet-marker-icon {
+	filter: brightness(0);
+}
+.btn-primary:hover {
+	border-color: #B48624;
+}
+ul.sf-menu li.sfHover > a {
+	color: #b48624;
+}
+div[class*="second-level-menu"] h2::before {
+	background: #b48624;
+}
+.block.block--evo-default-content.block--howcanihelp {
+	display: none;
+}
+.evo-displayer-slideup-style-1 fieldset {
+ width: 100%!important;
+ margin-top: 20px;
+}
+legend.captcha__title.js-form-required.form-required {
+ font-size: 1rem;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+body:not(.path-frontpage) .evo-view-evo-press-releases.evo-view-wrapper {
+ display: flex;
+} 
+body:not(.path-frontpage) .evo-view-evo-press-releases .evo-views-row-container { 
+ display: flex;
+ flex-direction: column;
+ flex-wrap: wrap;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
