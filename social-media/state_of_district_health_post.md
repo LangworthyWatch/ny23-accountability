@@ -1,4 +1,4 @@
-DRAFT (not yet posted). Card: state_of_district_health_card.png. Entry: /fact-checks/2026-09-08-state-of-the-district-health-access/
+POSTED: September 8, 2026 (Facebook, with state_of_district_health_card.png). Entry: /fact-checks/2026-09-08-state-of-the-district-health-access/
 
 ---
 
