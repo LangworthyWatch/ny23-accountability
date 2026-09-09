@@ -21,4 +21,4 @@ By his office's own standard, what region does $87 million in withheld police fu
 
 VERDICT: Missing Context
 
-Letter not yet released; quotes as reported. Full entry and sources: https://langworthywatch.org/fact-checks/2026-09-09-north-aud-probe-not-his-district/
+Letter not yet released; quotes as reported. Full entry: https://langworthywatch.org/fact-checks/2026-09-09-north-aud-probe-not-his-district/
