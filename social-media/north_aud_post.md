@@ -1,4 +1,4 @@
-DRAFT (not yet posted; entry is still draft: true). Card: north_aud_card.png. Entry: /fact-checks/2026-09-09-north-aud-probe-not-his-district/
+POSTED Sept 10, 2026. Card: north_aud_card.png. Entry: /fact-checks/2026-09-09-north-aud-probe-not-his-district/ (live since Sept 9)
 
 ---
 
