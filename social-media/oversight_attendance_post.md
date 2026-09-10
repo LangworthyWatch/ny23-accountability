@@ -1,4 +1,4 @@
-# DRAFT — not yet posted
+# POSTED Sept 10, 2026
 # Entry: /fact-checks/2026-09-10-oversight-seriously-attendance-record/  (MISSING CONTEXT)
 # Card: oversight_attendance_card.png (create_oversight_attendance_card.py)
 
