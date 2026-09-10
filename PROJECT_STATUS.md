@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 159 Fact-Checks Published
+## Content: 160 Fact-Checks Published
 
 ### Topics Covered
 

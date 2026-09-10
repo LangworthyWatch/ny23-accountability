@@ -157,6 +157,24 @@ third.
 
 ---
 
+## Update, September 10: three interviews, and "I don't represent the city proper"
+
+Between September 9 and 10 his official page posted three clips on the
+letter: a WIVB segment, a BTPM Newsroom read, and an eight-minute WBEN
+interview (transcripts retained under research/transcripts/). In the WBEN
+clip, asked why he is "the only elected official who's actually responding
+to the complaints of business leaders in the city of Buffalo," he answered:
+"Perhaps it's because I don't represent the city proper... I don't have to
+worry about the leaders of the city, but I am a member of the House Oversight
+Committee. I have oversight over the entire federal government in that
+respect" (5:48). He also said the tax credits "are for everyone and for
+every district, and there's a lot of places throughout Western [New York]
+and the Southern Tier where we have just as big of a housing need" (1:49),
+and, "I'm not accusing anyone of any crime" (5:00). The September 10 caption
+reads: "I take the 'Oversight' in serving on the House Oversight Committee
+seriously." The committee's own attendance and vote record is compiled in
+[a companion entry](/fact-checks/2026-09-10-oversight-seriously-attendance-record/).
+
 ## Related fact-checks
 
 - [State of the District: health access, September 2026](/fact-checks/2026-09-08-state-of-the-district-health-access/)
@@ -172,6 +190,7 @@ third.
 - Buffalo News, Jonathan D. Epstein, "Langworthy calls for federal probe into selection, funding of North Aud Block project," September 9, 2026 (retained PDF and text; site blocks archiving)
 - WIVB, Angelica Gallagher, "Rep. Langworthy questions North Aud Block project," September 8, 2026: https://www.wivb.com/news/local-news/buffalo/rep-langworthy-questions-north-aud-block-project/ (retained)
 - WBEN, "Opposition remains after North Aud Block project breaks ground," July 22, 2026: https://www.audacy.com/wben/news/local/north-aud-block
+- Rep. Langworthy, official Facebook page, WBEN interview clip (Sept 10), WIVB clip (Sept 9), BTPM clip (Sept 9): https://www.facebook.com/RepLangworthy/videos/1808436146970346/ , https://www.facebook.com/RepLangworthy/videos/1626742385702634/ , https://www.facebook.com/RepLangworthy/videos/1175599091659310/ (archived via embed endpoint; research/sources/archive_log_2026-09-10-north-aud-videos.tsv)
 - WKBW, "North Aud Block development faces scrutiny over affordable housing mix at Canalside": https://www.wkbw.com/news/local-news/buffalo/north-aud-block-development-faces-scrutiny-over-affordable-housing-mix-at-canalside
 - Census Bureau geocoder, 119th Congressional Districts, Canalside addresses (1 Scott St., 95 Perry St., Buffalo 14203): CD 26
 - District record: the linked entries above and their sources
@@ -184,4 +203,4 @@ the Congressman, and it takes no position on the North Aud Block subsidies.
 Rep. Langworthy's office has not been asked for comment as of this writing;
 any response, and the letter if released, will be published in full.
 
-*Last updated: September 9, 2026*
+*Last updated: September 10, 2026*
