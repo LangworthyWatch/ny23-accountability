@@ -222,9 +222,14 @@ federal lawsuit against the ban; Steuben Sheriff James Allard sent ICE a
 termination letter on August 25 and, per Fingerlakes1, was among four
 sheriffs subpoenaed by the Attorney General the same week over compliance.
 Both sheriffs say they will keep cooperating with ICE on criminal matters,
-which the law permits. Whether the ban is good policy is contested and this
-entry takes no position; what the district's own sheriffs say is that it
-did not stop any enforcement their deputies were doing.
+which the law permits. ICE's own numbers point the same way: the agency
+publishes monthly encounter reports for its 287(g) partners, and for May,
+June and July 2026 it reported one encounter in all of New York, in
+Cattaraugus County on June 5, which began as a grand larceny arrest
+(Spectrum News, August 18). Whether the ban is good policy is contested and
+this entry takes no position; what the district's own sheriffs and ICE's
+own reports show is that it did not stop any enforcement the deputies were
+doing.
 
 **"We hauled her before Congress."** Gov. Hochul testified at the Oversight
 Committee's June 12, 2025 hearing with sanctuary-state governors. He was
