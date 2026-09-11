@@ -3,13 +3,13 @@ title: "Three Law-and-Order Posts in Three Days. No Mention of the $87 Million i
 date: 2026-09-03
 draft: false
 topic: "Rule of Law / Public Safety"
-claim_date: "August 26–28, 2026; updated September 2, 2026"
+claim_date: "August 26–28, 2026; updated September 2 and September 10–11, 2026"
 source: "Facebook Posts (campaign and official pages)"
 source_url: "https://www.facebook.com/RepLangworthy"
 archived_url: "https://web.archive.org/web/20260903130158/https://www.governor.ny.gov/news/governor-hochul-calls-trump-administration-stop-defunding-police-and-deliver-87-million"
-archive_note: "The three Facebook posts are preserved as screenshots on file (captured August 28 and September 3, 2026); the August 28 official-page post's permalink could not be captured at Wayback (login-walled). All twelve web sources were archived and playback-verified September 3, 2026; snapshot URLs in research/sources/archive_log_2026-09-03-hsgp.tsv. The September 2 post added in the September 4 update was read from its own permalink (text and creation timestamp retained); like the others it is login-walled and could not be captured at Wayback."
+archive_note: "The three Facebook posts are preserved as screenshots on file (captured August 28 and September 3, 2026); the August 28 official-page post's permalink could not be captured at Wayback (login-walled). All twelve web sources were archived and playback-verified September 3, 2026; snapshot URLs in research/sources/archive_log_2026-09-03-hsgp.tsv. The September 2 post added in the September 4 update was read from its own permalink (text and creation timestamp retained); like the others it is login-walled and could not be captured at Wayback. The two September 10–11 campaign-page posts in the September 11 update are preserved as screenshots on file; the state and local sources for that update are retained as text in research/sources/triage-2026-09-11/ and captured to Wayback where the site allowed it (research/sources/archive_log_2026-09-11-triage.tsv); governor.ny.gov pages block automated capture and were retained from a browser session."
 verdict: "MISSING CONTEXT"
-publication_note: "Published September 3, 2026; updated September 4, 2026. Two disclosures. (1) No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response will be published here in full. (2) The finding that no public Langworthy statement on the HSGP cuts exists reflects a search of his House press archive and both of his Facebook pages, re-checked September 4, 2026; if a statement is located, this entry will be corrected."
+publication_note: "Published September 3, 2026; updated September 4 and September 11, 2026. Two disclosures. (1) No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response will be published here in full. (2) The finding that no public Langworthy statement on the HSGP cuts exists reflects a search of his House press archive and both of his Facebook pages, re-checked September 4 and September 11, 2026; if a statement is located, this entry will be corrected."
 tags: ["law-and-order", "hsgp", "shsp", "uasi", "counterterrorism-funding", "ice", "dhs-expo", "sheriffs", "facebook"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
@@ -183,6 +183,65 @@ either Facebook page.
 
 ---
 
+## Update — September 11, 2026: Two More Posts, the ICE Law in His Own Counties, and Still No Word on the $87 Million
+
+On September 10 and 11 the campaign page posted twice more on the same
+theme, each with a clip of Gov. Hochul:
+
+> "Kathy Hochul has it backwards: she shields violent, criminal, illegal
+> immigrants while shackling the cops trying to protect your family. I've
+> confronted her in Congress over these radical, reckless policies before. I
+> won't back down in my mission to back the blue."
+
+> "Kathy Hochul fights for violent illegal immigrants who attack, rape, and
+> kill innocent New Yorkers while putting the handcuffs on law enforcement.
+> We hauled her before Congress before to answer for her dangerous policies
+> & I won't give up until sanity is restored to your public safety."
+
+That makes six law-enforcement-themed posts since August 26. Screenshots are
+on file. Three things in the record bear on them.
+
+**The law he is describing, and what it did in NY-23.** The "handcuffs" are
+the Local Cops, Local Crimes Act, signed May 27, 2026 as part of the state
+budget. It bars local agencies from 287(g) agreements, the contracts under
+which local officers perform civil immigration enforcement for ICE, and it
+voided existing agreements as of August 25. The Attorney General notified
+the twelve New York agencies that had such agreements. Three were in this
+district: the Cattaraugus County Sheriff's Office, the Steuben County
+Sheriff's Office, and the Allegany village police department. Both sheriffs
+complied by the deadline, and both said the same thing about what the law
+took away. Cattaraugus Sheriff Eric Butler, August 25: "What the law
+prohibits is our participation through a formal 287(g) agreement in civil
+immigration enforcement—something our deputies were not doing in the first
+place," adding that the "real practical effect" is the loss of federal
+compensation for deputies' time. Steuben County Legislature chair Kelly
+Fitzpatrick, on the county's task-force agreement: "I don't believe we've
+participated in any of those sorts of actions... Our deputies have plenty of
+other work to do otherwise." Sheriff Butler has joined the fifteen-sheriff
+federal lawsuit against the ban; Steuben Sheriff James Allard sent ICE a
+termination letter on August 25 and, per Fingerlakes1, was among four
+sheriffs subpoenaed by the Attorney General the same week over compliance.
+Both sheriffs say they will keep cooperating with ICE on criminal matters,
+which the law permits. Whether the ban is good policy is contested and this
+entry takes no position; what the district's own sheriffs say is that it
+did not stop any enforcement their deputies were doing.
+
+**"We hauled her before Congress."** Gov. Hochul testified at the Oversight
+Committee's June 12, 2025 hearing with sanctuary-state governors. He was
+present; the transcript roster lists him.
+
+**The omission is unchanged.** As of September 11, 2026, no statement from
+Rep. Langworthy on the withheld $87 million, including the $17.7 million in
+SHSP funds for county law enforcement in all eight NY-23 counties, appears
+in his House press archive (re-checked; retained list at
+research/sources/triage-2026-09-11/). His Facebook pages cannot be searched
+while logged out; the six posts reviewed here are the ones that were
+supplied. The money remained outstanding as of the Governor's September 1
+release, which is the latest statement on it located. A sixth post about
+handcuffs on police, from a member whose own counties' sheriffs and police
+are owed part of $17.7 million the federal government has not paid, is the
+gap this entry documents.
+
 ## Questions this raises
 
 1. Does the Congressman support release of the remaining $87 million,
@@ -229,7 +288,21 @@ either Facebook page.
 - Rep. Malliotakis, in-the-news, Oct 2025 ("I had called President Trump directly"): https://malliotakis.house.gov/media/in-the-news/187m-cut-new-york-counterterrorism-funding-reversed-after-bipartisan-appeals
 - Rep. Garbarino press release, Oct 2025: https://garbarino.house.gov/media/press-releases/garbarino-applauds-president-trumps-restoration-counterterrorism-grant-funding
 
+**The 287(g) ban and the district (September 11 update)**
+- Gov. Hochul, July 24, 2026 (Office of Immigrant Trust letters to 12 agencies; law signed May 27; August 25 deadline): https://www.governor.ny.gov/news/governor-hochul-and-attorney-general-james-announce-first-enforcement-action-new-office
+- NY Attorney General, letter to agencies with 287(g) agreements, July 24, 2026 (Executive Law § 170-k; agreements "void and unenforceable" August 25): https://ag.ny.gov/sites/default/files/letters/law-enforcement-agencies-with-287g-agreements-letter-2026.pdf
+- Gov. Hochul, August 25, 2026 (ban takes effect; DOJ injunction denied): https://www.governor.ny.gov/news/keeping-new-yorkers-safe-governor-hochul-announces-local-cops-local-crimes-provision-banning
+- WSKG, July 28, 2026 (the notified agencies include Steuben, Cattaraugus and the Allegany village police): https://www.wskg.org/regional-news/2026-07-28/multiple-southern-tier-counties-required-to-end-ice-agreements-by-august-25
+- Wellsville Sun, August 25, 2026 (Sheriff Butler statement, in full): https://wellsvillesun.com/blog/2026/08/25/sheriff-butler-cattaraugus-county-must-withdraw-from-287g-agreement-but-will-continue-ice-cooperation/
+- WSKG, August 27, 2026 (Steuben termination letter; Fitzpatrick quotes): https://www.wskg.org/regional-news/2026-08-27/steuben-broome-counties-comply-with-state-law-banning-287g-ice-agreements
+- Wellsville Sun, August 14, 2026 (Sheriff Allard statement): https://wellsvillesun.com/blog/2026/08/14/nys-tells-local-law-enforcement-agencies-to-unwind-agreements-with-ice/
+- Spectrum News, August 18, 2026 (seven agreements remaining; ICE's one reported New York encounter, Cattaraugus, June 5): https://spectrumlocalnews.com/nys/buffalo/news/2026/08/18/seven-agencies-maintain-agreements-with-ice--despite-state-actions-against-it-
+- Fingerlakes1, August 28, 2026 (the fifteen plaintiff sheriffs, including Cattaraugus; subpoenas to Steuben and three others): https://www.fingerlakes1.com/2026/08/28/cayuga-wayne-sheriffs-join-federal-lawsuit-over-new-york-ban-on-ice-agreements/
+- NY Attorney General and Governor, statement on the sheriffs' lawsuit, August 25, 2026: https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-release-statement-lawsuit-challenging
+- House Oversight Committee hearing with sanctuary-state governors, June 12, 2025 (roster in research/sources/oversight-attendance-2026-09-10/)
+
 **The posts**
+- Campaign page, September 10–11, 2026 ("shackling the cops"; "putting the handcuffs on law enforcement"): screenshots on file.
 - Screenshots on file (campaign page, Aug 26, 2026, 1:55 PM and 10:54 AM; official page, Aug 28, 2026); see archive note.
 - Official page, Sept 2, 2026, 1:10 PM ("Chalk one up for the good guys..."), permalink: https://www.facebook.com/RepLangworthy/posts/pfbid02W78H96Zq6SqbLGqWFcN2B2DiYd6ShDfVE1za3Dk9iHayPyJhqsoEdWSVeHF5oHUBl
 - WKBW, "Homeland Security career fair draws thousands of job seekers after move to Coast Guard station" (expo ran Sept 1–2 at USCG Sector Eastern Great Lakes): see The expo, above.
@@ -245,4 +318,4 @@ publication date; see the publication note. Rep. Langworthy's office has not
 been asked for comment as of this writing, and any response will be
 published in full.
 
-*Last updated: September 4, 2026*
+*Last updated: September 11, 2026*
