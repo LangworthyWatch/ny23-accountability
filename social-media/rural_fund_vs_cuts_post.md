@@ -13,7 +13,7 @@ VERDICT: MISSING CONTEXT
 → The cuts paid for neither the fund nor refund checks. CRFB's tally of CBO's numbers: $5.4 trillion in tax cuts, $173 billion for defense, $176 billion for immigration enforcement, against $2.5 trillion in offsets. The rest was borrowed.
 → CBO: resources fall for the lowest-income households and rise for the top. Tariff refunds go to importers. The $5,000 "dividend" is a proposal, not a law.
 → CBO's year-by-year table: the law adds $487 billion to this year's deficit, $501 billion with interest, about one dollar in four of the $1.9 trillion projected.
-→ He sits on the House Oversight Committee. Since the OBBBA passed it has held two full-committee hearings on federal funds, both about Minnesota, and none on the OBBBA. Its $176 billion for enforcement went to DHS and Border Patrol. His votes on subpoenas to DHS Secretary Noem and Border Patrol's Bovino: No and No.
+→ He sits on House Oversight. Since the OBBBA passed it has held two full-committee hearings on federal funds, both about Minnesota, none on the OBBBA, whose $176 billion for enforcement went to DHS and Border Patrol. His votes on subpoenas to DHS Secretary Noem and Border Patrol's Bovino: No and No.
 
 The fair reading: the fund is real and New York's first year is $212 million. Fraud hearings are oversight. Medicaid oversight also belongs to Energy and Commerce Health, where he serves. Tariffs offset part of the cost until the Supreme Court ruling.
 
