@@ -1292,3 +1292,129 @@ that is a lame-duck watch with a different trigger set, since the Dec. 11 fundin
 both fall after the House returns Nov. 9.
 
 **Next run resumes from roll 295.**
+
+## 2026-09-15 — September House watch (rolls checked through **297**; run mid-week, 12:35 PM EDT)
+
+The House came back Sept. 14 for the Sept. 14-17 session week. Two new roll calls so far (296-297,
+both Sept. 14). `roll298`-`roll300.xml` return 404, and the **clerk's own roll index**
+(`ROLL_200.asp`) independently lists **297 as the highest**. Cross-checked, not assumed. The
+clerk's floor-proceedings XML was last built 02:13 Sept. 15, so **today's (Sept. 15) floor action
+is not captured here.** Several recorded votes were postponed from Sept. 14 and are still pending.
+
+### CHANGE 1: An Iran war-powers resolution is on the floor and its recorded vote is pending
+
+**H.Con.Res. 93** (Moulton, D-MA-6; 14 cosponsors; introduced Apr. 28, 2026) directs the President,
+under WPR §5(c), to remove U.S. forces from hostilities against Iran. It was called up **Sept. 14**
+by unanimous-consent order (Mast/Moulton, one hour of debate). On the voice vote the Chair
+announced the **noes had prevailed**. Moulton demanded the yeas and nays, and further proceedings
+were **postponed**. **No roll call yet.**
+- Primary: clerk floor proceedings, Sept. 14, 8:13, 8:20 and 9:12 PM entries,
+  `https://clerk.house.gov/floorsummary/HDoc-119-2-FloorProceedings.xml`; BILLSTATUS
+  `https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres93.xml` (relatedBills stripped).
+- **Rule B applied:** the veterans entry
+  (`2026-07-25-veterans-impact-votes-and-administration.md`) has a war-powers table (lines 62-72)
+  that ends at **Roll 282, H.Con.Res. 89**. "H.Con.Res. 93" appears nowhere in `content/`, this
+  file, or PROJECT_STATUS.md. The entry is dated and says "in this period," so it is **not wrong as
+  written**. But once the roll is taken, its war-powers counts go stale: "seven times... five on
+  Iran" (l.62), "seven votes against ending an unauthorized war" (l.521), "all seven" (l.537), the
+  summary bullet (l.569), and "Congress has **twice** voted to end" (l.597), which becomes three if
+  this one passes.
+- **ACTION (next run):** get the roll number and Langworthy's vote. Then Zach decides on a dated
+  addendum. Do not edit the entry from the watch.
+
+### CHANGE 2: His own H.R. 5517 is on this week's suspension calendar
+
+docs.house.gov, Week of Sep. 14, 2026, lists **H.R. 5517, Northern Border Security Enhancement and
+Review Act, as amended** for suspension. It has not been considered yet (nothing in the Sept. 14
+floor record). BILLSTATUS still ends at ordered reported Jun. 24, 28-2.
+- **Floor text checked:** `https://docs.house.gov/billsthisweek/20260914/H5517_SUS_xml.pdf`, a
+  complete substitute dated July 6, 2026. It is **substantively the introduced bill**: threat
+  analysis by Sept. 2, 2026 and biennially after that, a strategy update within 90 days, classified
+  briefings within 30 days, and AMO performance measures within six months. **Still zero
+  occurrences of "Border Patrol," and no staffing, personnel, or appropriation provisions.** The
+  published entry's analysis (`2026-07-06-northern-border-security-review-act.md`, l.43-78) holds
+  for the floor version.
+- **Affects:** l.58 ("has not passed the full House") and Q2 at l.93 are correctly dated as of
+  July 6. **If it passes this week, the entry is due a dated update.** The Senate companion, S. 850,
+  becomes the next test.
+
+### CHANGE 3: WRDA 2026 (H.R. 9497) is on the suspension calendar. Scaffold Law is not in it, and it has a Kinzua/Seneca section
+
+- **Scaffold Law (item 6 thread): negative.** The reported text (`BILLS-119hr9497rh`, 200, real
+  bill XML) and the floor text (`docs.house.gov/billsthisweek/20260914/9497Sus_01_xml.pdf`) both
+  have **zero** hits for "scaffold" and zero for "Labor Law." H.R. 3548 is unchanged (3 actions,
+  referred to Judiciary May 21, 2025).
+- **New lead:** **§331, "Kinzua Dam safety modification study, Allegheny River, New York and
+  Pennsylvania."** It directs the Corps to identify excess real property at Kinzua Dam/Allegheny
+  Reservoir. After the study, the Secretary "may convey, without consideration, to the **Seneca
+  Nation of Indians**" that property, and it reverts if not used for a public purpose. "Kinzua"
+  appears in the floor text too (3 hits). **Zero tracker hits for "Kinzua"** (a control search
+  for "Seneca Nation" returns 12 files, so the search works).
+- **Do NOT attribute §331 to Langworthy.** H. Rept. 119-795, which would carry any member-request
+  table, is **not yet on govinfo** (the HTML and PDF both return GPO's error page). Relevant to the
+  Seneca thread (`2026-03-14-seneca-nation-law-enforcement-act.md`; the Sept. 2 Davids-Langworthy
+  tribal economic development bill). If he claims credit after passage, check the report's
+  requesting member first. (The New York portion of the reservoir is understood to be in
+  Cattaraugus County. Verify against a primary map before stating it.)
+
+### CHANGE 4: One missed vote since the missed-votes page's cutoff
+
+**Roll 297** (Sept. 14, 7:16 PM, H.R. 3276, suspension, passed 345-60): **Langworthy Not Voting.**
+He voted Yea on Roll 296 at 7:04 PM. I swept rolls 268-297 (Jul. 21 to Sept. 14) and this is the
+**only** non-vote in that span. `content/missed-votes/_index.md` is explicitly current "through
+Jul. 21" (2026: 4 of 272), so nothing on the page is wrong. Log this for the next refresh. Per the
+page's own standard, **no speculation about the cause.**
+
+### Roll sweep (296-297)
+
+| Roll | Date | Measure | Result | Langworthy |
+|---|---|---|---|---|
+| 296 | Sept. 14 | H.R. 4219, Nat'l Wildlife Refuge Invasive Species Strike Team (suspension) | Passed 371-33 | Yea |
+| 297 | Sept. 14 | H.R. 3276, Local Communities & Bird Habitat Stewardship (suspension) | Passed 345-60 | **Not Voting** |
+
+Neither touches a tracked topic. **Pending recorded votes postponed from Sept. 14:** H.R. 2978
+(GUARD Act), H.R. 8278, H.R. 4646 (DOD-contract whistleblower protections), **H.Con.Res. 93**.
+**Still on this week's calendar and relevant to open threads:** H.R. 2140 (DERA; Matsui sponsor,
+**Langworthy is a cosponsor**; reported Sept. 14, H. Rept. 119-819), H.R. 9340 Ratepayer
+Protection Act (energy), H.R. 8775 Ending Predator Access to Union Power Act (labor), H.R. 9382
+NEXUS for Families Act (Kennedy, D-NY-26; WNY border), and under a rule (H.Res. 1530) H.R. 9576 and
+H.R. 10326 (PROOF Act).
+
+### Credit-claiming: one new instance
+
+**Sept. 14 press release:** "$13,532,819 in federal Airport Improvement Program (AIP) grants" from
+the FAA's **FY2026 AIP**. That breaks down to Elmira/Corning Regional $11,080,483 (Runway 6/24
+phase 2), Wellsville/Tarantine Field $1,619,172, and Akron/Jesson Field $833,164. The quote: "I'm
+proud to help bring these federal resources home." This is the same program already covered in
+`2026-05-20-federal-grants-credit-claiming-may2026.md`, so it's a new instance for that series and
+low priority. (The Sept. 9 Hornell $500K ARC release was already triaged. See the "Hornell
+$500,000 ARC grant" item above, sources in `research/sources/triage-2026-09-11/`.)
+
+### NO CHANGE (re-verified 2026-09-15, relatedBills stripped)
+
+| Item | State | Since |
+|---|---|---|
+| 1. CR | Resolved: Roll 286 (Sept. 1), P.L. 119-103 through Dec. 11. No new CR action | Sept. 2 |
+| 2. H.R. 1834 (ACA credits) | Senate Calendar 319. The Senate returned Sept. 14 with one vote (No. 232, judicial cloture) | Feb. 10 |
+| 3. H.R. 9393 (Lower Costs) | Ordered reported. **Not** on this week's floor schedule. Reported text still unpublished (see caution) | Jul. 21 |
+| 4. H.R. 5408 (Faster Labor Contracts) | Received in Senate, no action | Jun. 10 |
+| 4. S. 1414 (biosimilars) | Senate Calendar 520 (BILLSTATUS updateDate Sept. 14, but no new actions) | Jul. 27 |
+| 5. H.R. 9661 (NYCBS) | 3 actions, intro/referral only. NYCBS `publication_note` stands, **do not update** | Jul. 14 |
+| 7. FY27 approps | No approps bill on this week's calendar. H.R. 8646 and H.R. 8595 still "Received in the Senate." No Senate approps votes. The Sept. 8 correction ACTION is **done** (commit 6437f19) | — |
+| 8. DHS expo | **Closed.** The second-post addendum was published (Sept. 4 update), and the Sept. 11 update added two more Hochul/ICE posts. No third expo-specific post checked (Facebook logged-out limit) | — |
+
+**Caution for the next run (item 3):** `BILLS-119hr9393rh` on govinfo now returns **HTTP 200**
+(it was a 302 earlier). But the body is GPO's "page you requested cannot be found" error page, at
+the same 44,165 bytes as the error page served for H. Rept. 119-795. **A 200 from govinfo is not
+proof that a document is published. Check the body for bill XML before concluding the reported
+text is out.**
+
+### Self-expiry status
+
+**Not met.** The House still has Sept. 15-17 and Oct. 1 scheduled, and today is before Oct. 6.
+**Recommendation (unchanged):** the next weekly run (around Sept. 22) should pick up the rest of
+this week: the H.Con.Res. 93 roll, H.R. 5517, WRDA, DERA, and the postponed suspensions. After
+that, one run after **Oct. 1**. Then **disable `september-house-watch`**. The Dec. 11 funding and
+IIJA cliffs fall in the lame duck (House returns Nov. 9), which needs a different trigger set.
+
+**Next run resumes from roll 297.**
