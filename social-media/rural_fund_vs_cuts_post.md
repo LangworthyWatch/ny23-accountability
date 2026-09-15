@@ -15,7 +15,7 @@ VERDICT: MISSING CONTEXT
 → CBO's year-by-year table: the law adds $487 billion to this year's deficit, $501 billion with interest, about one dollar in four of the $1.9 trillion projected.
 → He sits on the House Oversight Committee. Since the law passed it has held two full-committee hearings on federal funds, both about Minnesota, and none on the law. His votes on subpoenas to DHS Secretary Noem, Attorney General Bondi and Border Patrol's Bovino: No, No, No.
 
-The fair reading: the fund is real money and New York's first year is $212 million. Fraud hearings are oversight. Medicaid oversight also belongs to Energy and Commerce Health, where he serves. Tariffs offset part of the cost until the Supreme Court struck them down.
+The fair reading: the fund is real and New York's first year is $212 million. Fraud hearings are oversight. Medicaid oversight also belongs to Energy and Commerce Health, where he serves. Tariffs offset part of the cost until the Supreme Court struck them down.
 
 Still unanswered: which NY-23 hospital or clinic gets any of the $212 million. Every figure is CBO's, KFF's or CRFB's, cited in the entry.
 
