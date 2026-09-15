@@ -23,8 +23,9 @@ y = c.divider(y + 12)
 # ---- hero ---------------------------------------------------------------
 hero_h = 132
 c.panel(44, y + 2, c.w - 44, y + 2 + hero_h, fill="#FFF5F5", outline="#FEB2B2")
-c.text(170, y + 50, "$2.70", size=46, impact=True, fill=RED, anchor="mm")
-c.text(170, y + 94, "cut from rural Medicaid per $1 in the fund", size=12, bold=True, fill=MUTED, anchor="mm")
+c.text(170, y + 46, "$2.70", size=46, impact=True, fill=RED, anchor="mm")
+c.text(170, y + 88, "cut from rural Medicaid", size=13, bold=True, fill=MUTED, anchor="mm")
+c.text(170, y + 106, "per $1 the fund puts in", size=13, bold=True, fill=MUTED, anchor="mm")
 c.text(318, y + 30, "Rural Health Transformation Program: $50 billion over five years.", size=15, bold=True, fill=DARK, anchor="lm")
 c.text(318, y + 52, "Same law: $911 billion out of federal Medicaid, $137 billion of it rural.", size=15, bold=True, fill=DARK, anchor="lm")
 c.text(318, y + 82, "KFF: the fund offsets 37% of the rural Medicaid loss. It ends in 2030;", size=14, fill=DARK, anchor="lm")
