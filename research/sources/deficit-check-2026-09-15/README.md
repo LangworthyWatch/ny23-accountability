@@ -1,0 +1,9 @@
+# Deficit attribution check, Sept 15, 2026
+
+Question from the user: "someone said that Trump is responsible for half of the federal deficit"; and how much did the OBBBA add. Sources retained here; cbo.gov, cbpp.org and americanprogress.org block curl and WebFetch, so their pages were read in a browser and the text saved verbatim (cbo-pages-retained-2026-09-15.txt, cbpp-...-excerpt.txt). Treasury MTS August 2026 retained as PDF + text. CRFB pages retained as text. House Budget Committee summary of the CBO February 2026 baseline retained as text (cbo-outlook-2026-house-budget-mirror.txt).
+
+Key figures (all from the retained texts):
+- FY2026 deficit, first 11 months: Treasury $1,965.6B vs $1,973.3B same period FY2025; CBO $2.0T, $6B less than FY2025 (or $82B more after timing shifts). CBO Feb 2026 full-year projection $1.9T, 5.8% of GDP, "about the same" as 2025.
+- OBBBA (P.L. 119-21): CBO July 21, 2025: +$3.4T over 2025–2034 (revenues −$4.5T, direct spending −$1.1T); Aug 4, 2025: +$718B debt service, $4.1T total. Feb 2026 baseline: +$4.7T over 2026–2035 including macro and interest ($3.7T primary + $0.9T interest, slightly more from macro effects).
+- Offsets and other changes since Jan 2025 baseline: tariffs −$3.0T (Feb 2026); after the Feb 20, 2026 Supreme Court IEEPA ruling, +$0.9T over 2027–2036 and FY2026 customs revenue about $250B lower than February's projection (Aug 20, 2026). Lower immigration +$0.5T. Net Feb 2026: 10-year deficits +$1.4T (6%) vs Jan 2025 baseline.
+- Longer view (CBPP testimony, Mar 10, 2026): 2012 CBO projection for FY2025 deficit 1.8% of GDP vs actual 5.8%; CBPP attributes the entire non-interest gap to revenue loss from the Bush cuts, their 2012–13 extension, and the 2017 Trump cuts. CRFB: first-term Trump approved $8.4T of ten-year debt, $3.6T of it COVID relief, $2.5T tax cuts (TCJA $1.9T), $2.3T spending.

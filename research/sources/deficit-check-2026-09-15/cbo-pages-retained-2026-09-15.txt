@@ -1,0 +1,44 @@
+CBO publication pages retained via browser 2026-09-15 (cbo.gov blocks curl and WebFetch with 403/bot page).
+
+=== https://www.cbo.gov/publication/61466 ===
+Effects on Deficits and the Debt of Public Law 119-21 and of Making Certain Tax Policies in the Act Permanent
+August 4, 2025 | Report
+
+CBO estimates that Public Law 119-21 will raise debt-service costs by $718 billion over the 2025–2034 period and increase the cumulative effect on the deficit to $4.1 trillion.
+
+Summary: CBO responds to a request from Senator Merkley for information about how federal deficits and debt held by the public would be affected by Public Law 119-21, an act to provide for reconciliation pursuant to title II of H. Con. Res. 14, and then additionally by making permanent 10 tax provisions that are temporary in that law.
+
+CBO and the staff of the Joint Committee on Taxation (JCT) estimate that over the 2025–2034 period deficits will increase by $3.4 trillion for the legislation as enacted, excluding any macroeconomic or debt-service effects.
+
+Related: Estimated Budgetary Effects of Public Law 119-21 ... Relative to CBO's January 2025 Baseline (July 21, 2025); Effects on Deficits and the Debt of Enacting H.R. 1 ... (June 12, 2025).
+
+=== https://www.cbo.gov/publication/61984 ===
+Monthly Budget Review: August 2026
+September 9, 2026 | Report
+
+The federal budget deficit totaled $2.0 trillion in the first 11 months of fiscal year 2026, the CBO estimates. That amount is $6 billion less than the deficit recorded during the same period last fiscal year.
+
+That comparison is affected by shifts in the timing of certain payments. Payments that otherwise would have been due on September 1, 2025, which fell on the Labor Day holiday, were shifted into August of that year. If not for those shifts, the deficit thus far for fiscal year 2026 would have been $82 billion more than the shortfall for the same period in fiscal year 2025.
+
+=== Treasury, Monthly Treasury Statement, August 2026 (PDF retained as mts-202608.pdf/.txt), Table 2 ===
+Fiscal year to date (Oct 2025–Aug 2026): receipts $4,845,452 million; outlays $6,811,043 million; deficit $1,965,591 million.
+Comparable prior period (Oct 2024–Aug 2025): receipts $4,690,953 million; outlays $6,664,260 million; deficit $1,973,307 million.
+FY2025 full year (Table 1): receipts $5,234,616 million; outlays $7,009,986 million.
+
+=== https://www.cbo.gov/publication/61570 (July 21, 2025 cost estimate, P.L. 119-21 as enacted) ===
+CBO estimates that Public Law 119-21 will result in a net increase in the unified budget deficit totaling $3.4 trillion over the 2025-2034 period, relative to CBO's January 2025 baseline updated to reflect enacted legislation. That increase in the deficit is estimated to result from a decrease in direct spending of $1.1 trillion and a decrease in revenues of $4.5 trillion.
+
+=== https://www.cbo.gov/publication/62050 (Director's Statement, Feb 11, 2026) ===
+"The deficit for fiscal year 2026 is projected to be $1.9 trillion, equal to 5.8 percent of gross domestic product (GDP), which is about the same in relation to the size of the economy as the 2025 deficit. Deficits from 2026 to 2035 are projected to total $23.1 trillion, which is $1.4 trillion (or 6 percent) more than in CBO's January 2025 baseline."
+"The 2025 reconciliation act increases CBO's projections of deficits from 2026 to 2035 by $4.7 trillion, higher tariffs reduce deficits by about $3 trillion, and lower immigration increases deficits by $0.5 trillion. Those estimates account for changes in the economy brought about by each of the three developments and related debt-service costs."
+"It increases primary deficits by $3.7 trillion from 2026 to 2035. Increased debt service adds another $0.9 trillion, and then we account for the effects on the budget from macroeconomic changes to arrive at the total deficit impact of $4.7 trillion. Tax provisions including the permanent extension of provisions of the 2017 tax act increase deficits, as does increased spending on defense and homeland security. Other provisions of the 2025 reconciliation act, such as changes to Medicaid and the Supplemental Nutrition Assistance Program (SNAP), reduce deficits."
+"Revenues are roughly stable in relation to the size of the economy, rising from 17.5 percent of GDP in 2026 to 17.8 percent in 2036. Outlays increase from 23.3 percent of GDP to 24.4 percent of GDP over the next decade as spending on Social Security, Medicare, and interest payments grows faster than output."
+"Net outlays for interest go from $1.0 trillion in 2026 to $2.1 trillion in 2036."
+
+=== https://www.cbo.gov/publication/62704 (CBO's Updated Budgetary Projections of Tariffs as of July 31, 2026; Aug 20, 2026) ===
+"Changes in trade policy through July 31, 2026, result in projected total deficits that are $0.9 trillion larger over the 2027–2036 period (fiscal years) than they were in the Congressional Budget Office's February 2026 baseline projections. That includes $0.7 trillion in larger primary deficits and $0.2 trillion in debt-service costs. Those increases are largely driven by the removal of tariffs imposed under the authority of the International Emergency Economic Powers Act (IEEPA) following the Supreme Court's decision."
+"we now project that net customs revenues for fiscal year 2026 will be about $250 billion lower than we projected they would be in our February 2026 budget projections. Most of the $166 billion in revenue collected under IEEPA will be refunded in fiscal year 2026, which accounts for about half of the $250 billion change in projected net customs revenue."
+"On February 20, 2026, the Supreme Court ruled that the Administration could not impose tariffs under IEEPA authority." Section 122 10% tariff Feb 24–Jul 24, 2026; section 301 tariffs of 10–12.5% on 80+ countries from July 24, 2026. "We estimate that the effective tariff rate (ETR) is now 10 percent, 5 percentage points lower than our estimate for November 2025."
+
+=== https://www.cbo.gov/publication/61882 (Outlook page) ===
+"In CBO's projections, the federal budget deficit in fiscal year 2026 is $1.9 trillion and grows to $3.1 trillion by 2036. Relative to the size of the economy, the deficit is 5.8 percent of gross domestic product (GDP) in 2026 ... The primary deficit, which excludes those net interest costs, totals 2.6 percent of GDP this year."
