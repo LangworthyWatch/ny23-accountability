@@ -158,25 +158,28 @@ that day (see [the attendance entry](/fact-checks/2026-09-10-oversight-seriously
 No full-committee hearing through September 9, 2026 has examined the law's
 implementation: the Medicaid and SNAP changes, the $349 billion in defense
 and immigration spending, or the Rural Health Transformation Program's
-awards. When Democratic members moved to compel testimony on the
-administration's spending or enforcement, the recorded votes show where he
-stood:
+awards. The one place individual members were put on record is the
+committee's subpoena votes. The law's largest new spending line, $176
+billion, went to the Department of Homeland Security and the Border Patrol.
+When Democratic members moved to compel testimony from the officials running
+that money, the sheets show his vote:
 
 | Date | Motion | His vote |
 |---|---|---|
-| Feb 5, 2025 | Table motion to subpoena Elon Musk | not voting |
-| Jun 5, 2025 | Table motion to subpoena Elon Musk | not voting |
-| Sep 18, 2025 | Table Khanna motion to subpoena FCC Chair Carr | Aye (tabled) |
 | Jan 7, 2026 | Pressley motion to subpoena DHS | not voting (failed 20–20) |
-| Mar 4, 2026 | Subpoena DHS Secretary Noem | No |
-| Mar 4, 2026 | Subpoena Attorney General Bondi | No |
-| Mar 4, 2026 | Subpoena Border Patrol commander Bovino | No |
+| Mar 4, 2026 | Subpoena DHS Secretary Kristi Noem | No |
+| Mar 4, 2026 | Subpoena Border Patrol commander Gregory Bovino | No |
+
+The committee took four other subpoena-related votes this Congress, on Elon
+Musk (twice), FCC Chair Brendan Carr and Attorney General Pamela Bondi; none
+concerns the law's money and they are listed in the attendance entry, not
+counted here.
 
 **In plain language:** the committee he cites as the reason he can
 investigate a Buffalo housing project has held two hearings on federal
 funds since the law passed, both about Minnesota, and none on the law
-itself. Every attempt to subpoena the officials spending the law's
-enforcement money was blocked with his vote or without it.
+itself. Both attempts to put the officials spending the law's $176 billion
+under oath failed, one with his vote against and one with him absent.
 
 ---
 
@@ -208,9 +211,9 @@ enforcement money was blocked with his vote or without it.
    of the law he voted for: the Medicaid and SNAP changes, the $176 billion
    in immigration enforcement spending, or the rural fund's awards?
 3. Has the Energy and Commerce Health Subcommittee, where he sits, held one?
-4. He voted against subpoenas to the DHS Secretary, the Attorney General and
-   the Border Patrol commander. What oversight of the $176 billion does he
-   consider sufficient?
+4. He voted against subpoenas to the DHS Secretary and the Border Patrol
+   commander, the officials spending the law's $176 billion. What oversight
+   of that money does he consider sufficient?
 5. Which NY-23 hospital or clinic will receive any of the $212 million, and
    when will the state say?
 

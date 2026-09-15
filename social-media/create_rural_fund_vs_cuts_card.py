@@ -76,7 +76,7 @@ strip_h = 112
 c.panel(44, y, c.w - 44, y + strip_h, fill="#EDF2F7", outline=BORDER)
 c.text(c.w / 2, y + 24, "HIS OVERSIGHT COMMITTEE SINCE THE OBBBA PASSED", size=14, bold=True, fill=NAVY, anchor="mm")
 c.text(c.w / 2, y + 52, "Two full-committee hearings on federal funds, both about Minnesota. None on the OBBBA's Medicaid, SNAP or enforcement money.", size=13, fill=DARK, anchor="mm")
-c.text(c.w / 2, y + 72, "His votes on subpoenas to DHS Secretary Noem, AG Bondi and Border Patrol's Bovino: No, No, No.", size=13, fill=DARK, anchor="mm")
+c.text(c.w / 2, y + 72, "$176B of it went to DHS and Border Patrol. His votes on subpoenas to Secretary Noem and Border Patrol's Bovino: No and No.", size=13, fill=DARK, anchor="mm")
 c.text(c.w / 2, y + 96, "CBO's own table: the law adds $487 billion to the fiscal 2026 deficit ($501 billion with interest), about one dollar in four.", size=12, fill=MUTED, anchor="mm")
 y += strip_h + 14
 
