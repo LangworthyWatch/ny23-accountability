@@ -17,6 +17,6 @@ VERDICT: MISSING CONTEXT
 
 The fair reading: the fund is real and New York's first year is $212 million. Fraud hearings are oversight. Medicaid oversight also belongs to Energy and Commerce Health, where he serves. Tariffs offset part of the cost until the Supreme Court ruling.
 
-Still unanswered: which NY-23 hospital or clinic gets any of the $212 million. Every figure is CBO's, KFF's or CRFB's.
+Still unanswered: which NY-23 hospital or clinic gets any of the $212 million.
 
 https://langworthywatch.org/fact-checks/2026-09-15-rural-health-fund-vs-cuts-and-oversight/
