@@ -118,10 +118,14 @@ Court struck down in February, go back through the customs system to the
 importers who paid the duties. The $5,000 "dividend" the President has
 discussed is a proposal, not a law; CRFB prices it at $1.2 trillion.
 
-**The deficit.** CBO's February 2026 baseline attributes $4.7 trillion in
-added deficits over 2026 to 2035 to the law, including interest and economic
-effects, partly offset at the time by about $3 trillion in projected tariff
-revenue. After the Supreme Court's ruling, CBO's August update raised
+**The deficit, this year.** CBO's year-by-year table for the enacted law
+puts its effect on fiscal 2026 at $487 billion before interest and $501
+billion with it, rising to $636 billion in 2027; the ten-year total is $3.4
+trillion, $4.1 trillion with interest. Against the $1.9 trillion deficit CBO
+projects for fiscal 2026, the law accounts for roughly one dollar in four.
+CBO's February 2026 baseline attributes $4.7 trillion in added deficits over
+2026 to 2035 to the law once interest and economic effects are included,
+partly offset at the time by about $3 trillion in projected tariff revenue. After the Supreme Court's ruling, CBO's August update raised
 projected deficits by another $0.9 trillion and cut fiscal 2026 customs
 revenue by about $250 billion. Fiscal 2026's deficit through August is $1.97
 trillion per Treasury, essentially level with the same point in 2025.
@@ -223,7 +227,7 @@ enforcement money was blocked with his vote or without it.
 
 - Rep. Langworthy, official Facebook page, September 10, 2026 reel (caption retained, research/sources/rhtp-posts-2026-09/); September 4 and September 11, 2026 posts (see archive note)
 - CBO, "Estimated Budgetary Effects of Public Law 119-21," July 21, 2025 ($3.4 trillion; revenues −$4.5 trillion; direct spending −$1.1 trillion): https://www.cbo.gov/publication/61570
-- CBO, "Effects on Deficits and the Debt of Public Law 119-21," August 4, 2025 ($718 billion debt service; $4.1 trillion): https://www.cbo.gov/publication/61466
+- CBO, "Effects on Deficits and the Debt of Public Law 119-21," August 4, 2025 (Table 1, by fiscal year: 2026 $487 billion, $501 billion with debt service; $718 billion debt service; $4.1 trillion total): https://www.cbo.gov/publication/61466
 - CBO, "Distributional Effects of Public Law 119-21," August 11, 2025: https://www.cbo.gov/publication/61367
 - CBO, Director's Statement on the Budget and Economic Outlook 2026 to 2036, February 11, 2026 ($4.7 trillion; tariffs about −$3 trillion; immigration +$0.5 trillion): https://www.cbo.gov/publication/62050
 - CBO, "Updated Budgetary Projections of Tariffs as of July 31, 2026," August 20, 2026: https://www.cbo.gov/publication/62704
@@ -242,8 +246,9 @@ enforcement money was blocked with his vote or without it.
 **Note:** This entry documents publicly available budget estimates and
 committee records. It takes no position on the merits of the tax or
 spending provisions and does not allege wrongdoing. Dollar figures are
-ten-year estimates unless stated otherwise, and CBO's tariff projections
-are uncertain by CBO's own description. Rep. Langworthy's office has not
+CBO ten-year estimates unless a fiscal year is stated; the year-by-year
+table is retained at research/sources/deficit-check-2026-09-15/. CBO's
+tariff projections are uncertain by CBO's own description. Rep. Langworthy's office has not
 been asked for comment as of this writing; any response will be published
 in full.
 

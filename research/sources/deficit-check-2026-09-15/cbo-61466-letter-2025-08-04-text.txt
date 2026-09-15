@@ -1,0 +1,41 @@
+SOURCE: https://www.cbo.gov/system/files/2025-08/61466-DebtService.pdf (publication https://www.cbo.gov/publication/61466)
+RETRIEVED: 2026-09-15. cbo.gov returns a bot-block page to curl and WebFetch; the PDF (292,056 bytes, %PDF-1.6, 5 pages) was fetched inside a browser session on the cbo.gov publication page and its text layer extracted in-page with pdf.js 4.4.168. URLs in the text were replaced with [url] before the text left the page. Tables are transcribed below in row order as extracted.
+
+CONGRESSIONAL BUDGET OFFICE, Phillip L. Swagel, Director
+August 4, 2025
+Honorable Jeff Merkley, Ranking Member, Committee on the Budget, United States Senate
+Re: Effects on Deficits and the Debt of Public Law 119-21 and of Making Certain Tax Policies in the Act Permanent
+
+"The Congressional Budget Office and the staff of the Joint Committee on Taxation (JCT) estimate that over the 2025–2034 period deficits will increase by $3.4 trillion for the legislation as enacted, excluding any macroeconomic or debt-service effects (see Table 1). CBO estimates that the additional debt-service costs under the legislation as enacted will total $718 billion over the 10-year period. That change will increase the cumulative effect on the deficit to $4.1 trillion. As a result, and net of any changes in borrowing for federal credit programs, the agency estimates that the legislation will increase debt held by the public at the end of 2034 by 9.5 percentage points relative to CBO's January 2025 baseline budgetary projections of gross domestic product (GDP). Other factors, such as administrative actions affecting tariffs and immigration, also have affected deficits and debt since January 2025 and will be reflected in CBO's next baseline."
+
+"JCT has estimated that making those 10 provisions permanent would increase primary deficits over the 2025–2034 period by an additional $0.8 trillion (see Table 2). CBO estimates that if those provisions were made permanent, overall debt-service costs would total $789 billion over the 10-year period. That change would increase the cumulative effect on the deficit to $5.0 trillion. ... debt held by the public at the end of 2034 would increase by 11.5 percentage points relative to the agency's January 2025 projection of GDP."
+
+Table 1. Estimated Budgetary Effects of Public Law 119-21
+By Fiscal Year, Billions of Dollars; Increases or Decreases (-) in the Deficit
+
+Fiscal year:                              2025   2026   2027   2028   2029   2030   2031   2032   2033   2034   2025-2034
+Change in the Deficit From P.L. 119-21     -21    487    602    555    450    325    250    225    251    268    3,394
+Changes From Debt Service                    *     14     34     55     73     88     99    108    118    129      718
+Total Changes                              -21    501    636    610    524    413    349    333    369    397    4,113
+
+* = between zero and $500 million. Components may not sum to totals because of rounding. Sources: Congressional Budget Office; staff of the Joint Committee on Taxation. Revenue estimates by JCT are preliminary.
+
+Table 2. Estimated Budgetary Effects of Public Law 119-21 and of Making Certain Tax Provisions in the Act Permanent
+By Fiscal Year, Billions of Dollars; Increases or Decreases (-) in the Deficit
+
+Change in the Deficit From P.L. 119-21     -21    487    602    555    450    325    250    225    251    268    3,394
+Change From Extending Certain Tax Provisions (JCT estimates):
+  Sec. 70103 Termination of Deduction for Personal Exemptions Other Than Temporary Senior Deduction   0 0 0 0 9 24 24 24 24 24 = 129
+  Sec. 70120 Limitation on Individual Deductions for Certain State and Local Taxes, etc.               0 0 0 0 0 17 39 35 36 37 = 165
+  Sec. 70201 No Tax on Tips                                                                            0 0 0 0 3 9 9 10 10 11 = 52
+  Sec. 70202 No Tax on Overtime                                                                        0 0 0 0 15 24 24 24 25 25 = 137
+  Sec. 70203 No Tax on Car Loan Interest                                                               0 0 0 0 6 11 12 12 12 13 = 66
+  Sec. 70204 Trump Accounts and Contribution Pilot Program                                             0 0 0 0 4 4 4 4 4 4 = 22
+  Sec. 70307 Special Depreciation Allowance for Qualified Production Property                          0 0 0 0 5 15 29 36 38 39 = 163
+  Sec. 70434 Treatment of Certain Qualified Sound Recording Productions                                0 0 0 0 * * * * * * = 1
+  Sec. 70521 Extension and Modification of Clean Fuel Production Credit                                0 0 0 0 0 5 10 12 13 13 = 53
+  Sec. 70522 Restrictions on Carbon Oxide Sequestration Credit                                         0 0 0 0 0 0 0 0 0 0 = 0
+Total Change From Extending Certain Tax Provisions   0 0 0 0 42 108 151 157 163 166 = 787
+Change in the Deficit From P.L. 119-21 and Extending Certain Tax Provisions   -21 487 602 555 493 433 402 382 414 434 = 4,182
+Changes From Debt Service                             * 14 34 55 74 91 107 122 138 155 = 789
+Total Changes                                        -21 501 636 610 566 524 508 504 551 589 = 4,971
