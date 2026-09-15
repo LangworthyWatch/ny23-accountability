@@ -24,8 +24,9 @@ helped deliver $76.2 million... Now they'll have the resources" (September
 11). The fund is real. It is one line in a law he voted for that, by the
 Congressional Budget Office's accounting, cut federal Medicaid spending by
 $911 billion, cut SNAP and related programs by $206 billion, spent
-$349 billion on defense and immigration enforcement, and reduced revenue by
-$5.4 trillion, mostly through tax cuts. He sits on the committee whose job
+$349 billion on defense and immigration enforcement, and cut taxes by $5.4
+trillion, a net revenue loss of $4.5 trillion after the law's own revenue
+raisers. He sits on the committee whose job
 is to examine how federal money is spent. This entry sets the fund beside
 the law that created it, and beside the committee's record.
 
@@ -105,7 +106,8 @@ refunds to taxpayers. CRFB's accounting of CBO's estimate:
 Two points follow. First, the $2.5 trillion in offsets, of which the
 Medicaid and SNAP cuts are the largest part, covered less than half of the
 law's $5.9 trillion gross cost; the rest was borrowed. Second, what the
-offsets helped pay for was overwhelmingly tax cuts, with defense and
+offsets helped pay for was overwhelmingly tax cuts ($5.4 trillion gross;
+$4.5 trillion net of the law's revenue raisers, per CBO), with defense and
 immigration enforcement a distant second at $349 billion combined.
 
 **Who received it.** CBO's distributional analysis of the enacted law:

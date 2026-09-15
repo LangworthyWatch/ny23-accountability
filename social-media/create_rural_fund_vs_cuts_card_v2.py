@@ -4,7 +4,7 @@
 Anchored to content/fact-checks/2026-09-15-rural-health-fund-vs-cuts-and-oversight.md
 (verdict: MISSING CONTEXT).
 
-Hero is the ratio: $50B fund vs. $911B Medicaid cut (KFF from CBO). Left column is the fair
+Version 2: hero is KFF's published 37% (fund vs. rural Medicaid cut), title is rural-to-rural. Left column is the fair
 reading. Right column is where the law's money went (CRFB from CBO) and the committee record.
 Light house style, 1080x1080, no em dashes (enforced).
 """
@@ -16,18 +16,18 @@ c = Card(scale=2)
 c.brand_bar()
 
 y = c.badge(58, "MISSING CONTEXT")
-y = c.title(y, '"Historic Investment" in Rural Health: $50 Billion In, $911 Billion Out.', size=27)
+y = c.title(y, '"Historic Investment" in Rural Health: $50 Billion In, $137 Billion Out of Rural Medicaid.', size=25)
 y = c.subtitle(y + 6, 'Three posts in one week on the same $76 million. Here is the rest of the law he voted for, per CBO.', size=15)
 y = c.divider(y + 12)
 
 # ---- hero ---------------------------------------------------------------
 hero_h = 132
 c.panel(44, y + 2, c.w - 44, y + 2 + hero_h, fill="#FFF5F5", outline="#FEB2B2")
-c.text(170, y + 50, "$2.70", size=46, impact=True, fill=RED, anchor="mm")
-c.text(170, y + 94, "cut from rural Medicaid per $1 in the fund", size=12, bold=True, fill=MUTED, anchor="mm")
+c.text(170, y + 50, "37%", size=50, impact=True, fill=RED, anchor="mm")
+c.text(170, y + 94, "of the rural Medicaid cut the fund covers (KFF)", size=12, bold=True, fill=MUTED, anchor="mm")
 c.text(318, y + 30, "Rural Health Transformation Program: $50 billion over five years.", size=15, bold=True, fill=DARK, anchor="lm")
 c.text(318, y + 52, "Same law: $911 billion out of federal Medicaid, $137 billion of it rural.", size=15, bold=True, fill=DARK, anchor="lm")
-c.text(318, y + 82, "KFF: the fund offsets 37% of the rural Medicaid loss. It ends in 2030;", size=14, fill=DARK, anchor="lm")
+c.text(318, y + 82, "KFF, from CBO: the fund offsets about a third of the rural loss. It ends in 2030;", size=14, fill=DARK, anchor="lm")
 c.text(318, y + 104, "most of the cuts land after that. No NY-23 facility has been named yet.", size=14, fill=DARK, anchor="lm")
 y = y + 2 + hero_h + 12
 
@@ -92,4 +92,4 @@ c.text(c.w / 2, y, "Sources: CBO cost estimates, Jul 21 and Aug 4 2025; CBO dist
 c.text(c.w / 2, y + 17, "CRFB, \"What's in the OBBBA\"  ·  House Oversight hearing transcripts and vote sheets  ·  Full entry at langworthywatch.org", size=11, fill=MUTED, anchor="mm")
 
 c.footer_bar()
-c.save(os.path.join(os.path.dirname(os.path.abspath(__file__)), "rural_fund_vs_cuts_card.png"), to_desktop=True)
+c.save(os.path.join(os.path.dirname(os.path.abspath(__file__)), "rural_fund_vs_cuts_card_v2.png"), to_desktop=True)

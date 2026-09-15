@@ -1,8 +1,8 @@
 # DRAFT — not yet posted
 # Entry: /fact-checks/2026-09-15-rural-health-fund-vs-cuts-and-oversight/  (MISSING CONTEXT)
-# Card: rural_fund_vs_cuts_card.png (create_rural_fund_vs_cuts_card.py)
+# Card: rural_fund_vs_cuts_card_v2.png (KFF 37% hero; v1 with the derived $2.70 ratio also on file)
 
-He posted three times in one week about a "historic investment" in rural health. The same law cut Medicaid by $911 billion. For every dollar the fund puts into rural care, the law takes about $2.70 out of rural Medicaid.
+He posted three times in one week about a "historic investment" in rural health. The same law cut Medicaid by $911 billion, $137 billion of it rural. The fund covers 37% of that rural loss, per KFF.
 
 Sept 4: "we created" it. Sept 10: "this historic investment." Sept 11: "now they'll have the resources." All three are the same slice of one $212 million award to New York, announced five times since December.
 
