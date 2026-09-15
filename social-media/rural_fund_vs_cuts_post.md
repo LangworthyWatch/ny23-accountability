@@ -4,7 +4,7 @@
 
 He posted three times in one week about a "historic investment" in rural health, the Rural Health Transformation Program. The law that created it, the One Big Beautiful Bill Act, cut Medicaid by $911 billion, $137 billion of it rural. The fund covers 37% of that rural loss, per KFF.
 
-Sept 4: "we created" it. Sept 10: "this historic investment." Sept 11: "now they'll have the resources." All three are one slice of a single $212 million award to New York, announced five times since December.
+Sept 4: "we created" it. Sept 10: "this historic investment." Sept 11: "now they'll have the resources." All three are one slice of a single $212 million award to New York, announced five times.
 
 CLAIM: A "historic investment" that "delivers on that promise" for rural health care.
 VERDICT: MISSING CONTEXT
