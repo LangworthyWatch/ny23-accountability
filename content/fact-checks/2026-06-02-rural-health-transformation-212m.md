@@ -53,6 +53,8 @@ guidance states that contracts "will begin on September 1, 2026." The post
 presents, as a delivery on a promise, a slice of the December award whose
 application window had closed seven weeks earlier.
 
+**Update, September 15, 2026:** two more posts followed, a September 10 WBEN clip ("this historic investment in rural health care providers") and a September 11 share of a Finger Lakes Daily News item ("proud to have helped deliver $76.2 million... Now they'll have the resources"), making five announcements of one award. The fund is set against the rest of the law that created it in [a September 15 entry](/fact-checks/2026-09-15-rural-health-fund-vs-cuts-and-oversight/).
+
 That makes three announcements of one award: the December 30, 2025 press
 release ($212 million), the July 15, 2026 Centralus Health event (see the
 [companion entry](/fact-checks/2026-07-16-rural-health-fund-centralus-repeat/)),
@@ -233,4 +235,4 @@ A reader of the December 30 announcement could reasonably conclude that NY-23 ru
 
 *All data from public primary sources. Methodology available on request.*
 
-*Last updated: September 4, 2026 (addendum on the $76 million post).*
+*Last updated: September 15, 2026 (five announcements; companion entry).*

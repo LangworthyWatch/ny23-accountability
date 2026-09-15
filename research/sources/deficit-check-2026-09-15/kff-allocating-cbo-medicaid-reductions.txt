@@ -1,0 +1,166 @@
+SOURCE: https://www.kff.org/medicaid/allocating-cbos-estimates-of-federal-medicaid-spending-reductions-across-the-states-enacted-reconciliation-package/
+RETRIEVED: 2026-09-15
+
+
+Allocating CBO’s Estimates of Federal Medicaid Spending Reductions Across the States: Enacted Reconciliation Package | KFF
+					Skip to main content				
+Home
+Topics
+Medicaid
+Allocating CBO’s Estimates of Federal Medicaid Spending Reductions Across the States: Enacted Reconciliation Package
+				Authors:				
+Rhiannon Euhus
+, 
+Elizabeth Williams
+, 
+Alice Burns
+, and 
+Robin Rudowitz
+Published:
+Jul 23, 2025
+			Print		
+			Email		
+Copy Link
+			Add KFF on Google		
+Editorial Note
+Originally published on July 1 with estimates for the Senate Reconciliation Bill, this brief was revised significantly and updated on July 23 to reflect the latest CBO estimates on the impact of the enacted reconciliation package.
+On July 4, President Trump signed into law a budget reconciliation package once called the “One Big, Beautiful Bill” that made 
+major reductions in federal health care spending
+ to offset part of the costs of extending expiring tax cuts. The Congressional Budget Office’s (CBO) latest 
+cost estimate
+ shows that the reconciliation package would reduce federal Medicaid spending over a decade by an estimated $911 billion (after accounting for interactions that produce overlapping reductions across different provisions of the law) and increase the 
+number of uninsured
+ people by 10 million. Building on 
+prior KFF analysis
+ of the House-passed reconciliation bill, this analysis allocates CBO’s federal spending reductions in the enacted reconciliation package across the states. The 
+Medicaid reconciliation provisions
+ are numerous and complicated, but the majority of federal savings stem from 
+work requirements
+ for the Affordable Care Act (ACA) expansion group, limiting states’ ability to raise the state share of Medicaid revenues through 
+provider taxes
+, restricting 
+state-directed payments
+ to hospitals, nursing facilities, and other providers, and increasing barriers to enrolling in and renewing 
+Medicaid coverage
+.
+This analysis allocates the CBO’s estimated reduction in federal spending across states based on KFF’s state-level data and where possible, 
+prior modeling work
+; and shows the federal spending reductions relative to KFF’s projections of federal spending by state under current law. KFF allocates the spending reductions provision-by-provision, pulling in a variety of data sources on which states are estimated to be most affected by each provision (see Methods). The total Medicaid spending cuts, nationally and by state, equal the sum of spending changes for each Medicaid provision ($990 billion over 10 years) less KFF’s estimate of the CBO interaction effects that are tied to Medicaid interactions ($79 billion over 10 years, see Methods). KFF did not apply the interaction effects to the estimated effects for each provision because it is unknown which provisions are driving CBO’s estimated interactions. The estimates exclude the $50 billion in funding for state grants through a 
+Rural Health Transformation Program
+ because it is highly uncertain how those funds will be allocated across the states.
+CBO has not published updated estimates of the number of people who would lose Medicaid under the reconciliation package once called the “One Big, Beautiful Bill,” so this analysis does not include updated enrollment estimates like those included in 
+KFF’s analysis
+ of the House-passed reconciliation bill. CBO’s most recent estimate of Medicaid enrollment loss from an earlier version of the House reconciliation bill was 
+10.3 million
+ people in 2034, which was associated with a $625 billion decrease in Medicaid spending (reflecting preliminary estimates prepared for the House Committee on Energy and Commerce). Given the Medicaid spending reductions are considerably larger in the enacted reconciliation package, more than 10.3 million people are likely to lose Medicaid.
+This analysis does not predict how states will respond to federal policy changes, and anticipating how states will respond to Medicaid changes is a major 
+source of uncertainty
+ in CBO’s cost estimates. Instead of making state-by-state predictions, CBO generates a national figure by estimating the percent of the affected population that lives in states with different anticipated types of policy responses. For example, different states might choose to implement a work requirement with reporting requirements that are easier or harder to comply with. In estimating the costs of the legislation, 
+CBO assumes
+ that in aggregate, states would replace half of reduced federal funds with their own resources in response to provisions that reduce the resources available to states, such as limits on provider taxes. For provisions that reduce enrollment but don’t affect the division of costs between the federal and state governments, such as work requirements, CBO estimates that the federal and state Medicaid spending would go down. However, those assumptions reflect states’ responses as a whole and are likely to vary and may not apply in all states.
+To the extent that states’ responses are far different from the overall average response, changes in federal Medicaid spending will be larger or smaller than what is shown here. States could make further Medicaid cuts, which would result in spending reductions greater than is estimated here and further reduce states’ Medicaid spending. Alternatively, states could increase their spending on Medicaid to mitigate the effects of federal cuts, which could result in spending reductions that are smaller than is estimated here. This analysis illustrates the potential variation by showing a range of spending effects in each state, varying by plus or minus 25% from the CBO estimated midpoint.
+Key Take-Aways
+After accounting for CBO’s estimated interactions, KFF estimates that the enacted reconciliation package would reduce federal Medicaid spending by $911 billion. (Without accounting for interactions, the total is $990 billion, see Methods).
+The five biggest sources of Medicaid savings in the reconciliation package sum to $851 billion in savings, which is 86% of the gross savings (before accounting for interactions) and include:
+Mandating that adults who are eligible for Medicaid through the ACA expansion meet work and reporting requirements ($326 billion),
+Establishing a moratorium on new or increased provider taxes and reducing existing provider taxes in expansion states ($191 billion),
+Revising the payment limit for state directed payments ($149 billion),
+Increasing the frequency of eligibility redeterminations for the ACA expansion group ($63 billion).  
+Provisions that would only apply to states that have adopted the ACA expansion account for $526 billion, over half of the total gross federal spending reductions.
+Over three-quarters (76%) of the ten-year reductions in federal Medicaid spending in the reconciliation package would occur in the final five years of the period. While policy effects do typically compound overtime, many of the health care spending reductions are also 
+backloaded
+ and occur from 2030 through 2034.
+Federal cuts to states of $911 billion over 10 years would represent 14% of federal spending on Medicaid over the period. The spending cuts vary by state; Louisiana, Illinois, Nevada, and Oregon are the most heavily affected with spending cuts of 19% or more over the period.
+CBO Estimates of Federal Medicaid Cuts in the Enacted Reconciliation Package
+CBO’s estimated 10-year federal spending cuts, by policy
+Figure 1
+Note: Over the 10-year period, the Medicaid spending reductions total $911B, including $79B in estimated Medicaid spending interactions. Without accounting for interactions, the total is $990B. See Methods in "Allocating CBO’s Estimates of Federal Medicaid Spending Reductions Across the States: Enacted Reconciliation Package" for more details.
+Source: KFF analysis of CBO estimates of the enacted reconciliation package
+Federal Medicaid Cuts in the Enacted Reconciliation Package, By Year
+Estimated interaction effects are included each year. Over the 10-year period, the Medicaid spending reductions total $911B, including $79B in estimated Medicaid spending interactions. Without accounting for interactions, the total is $990B. See Methods in "Allocating CBO’s Estimates of Federal Medicaid Spending Reductions Across the States: Enacted Reconciliation Package" for more details.
+KFF analysis of CBO estimates of the enacted reconciliation package
+Federal Medicaid Cuts in the Enacted Reconciliation Package, By State
+As a % of 10-year baseline federal spending (2025-2034)
+$911 billion in federal Medicaid spending cuts over the 10-year period is allocated across states, including $79B in estimated Medicaid spending interactions.
+See Methods in "Allocating CBO’s Estimates of Federal Medicaid Spending Reductions Across the States: Enacted Reconciliation Package" for more details.
+KFF analysis of CBO estimates of the enacted reconciliation package
+Methods
+Data: 
+This analysis uses the latest data available from various data sources to illustrate the potential impact of a $911 billion cut to federal Medicaid spending across states. Data sources include:
+KFF’s projections
+ of Medicaid enrollment and spending in FY 2024 and over the 10-year period.
+KFF’s 
+5 Key Facts about Medicaid and Provider Taxes
+KFF’s 2024 Budget Survey, 
+Provider Rates and Taxes
+KFF’s 
+Medicaid Eligibility Levels for Older Adults and People with Disabilities (Non-MAGI) in 2025
+KFF’s 
+Reconciliation Language Could Lead to Cuts in Medicaid State-Directed Payments to Hospitals and Nursing Facilities
+KFF’s 
+Which States Might Have to Reduce Provider Taxes Under the Senate Reconciliation Bill?
+KFF 
+State Health Facts, Distribution of Medicaid Spending by Service
+KFF State Health Facts, 
+Federal and State Shares of Medicaid Spending
+KFF State Health Facts, 
+Medicaid Enrollees Using Long-Term Care as a Percent of Full-Benefit Medicaid Enrollees
+KFF State Health Facts, 
+Medicaid Spending per Enrollee Using Long-Term Care
+Estimating Total Federal Funding Reductions After Interactions: 
+CBO’s 
+cost estimate
+ provided the reduction in federal outlays for Medicaid provisions, which summed to $990 billion excluding interactions and the $50 in funding for state grants through a Rural Health Transformation Program. (KFF summed CBO’s estimated changes in outlays and not budget authority. The analysis does not include associated reductions in federal revenues associated with the Medicaid provisions, which reflect reduced federal income taxes stemming from a small number of people who would newly have private health insurance after losing Medicaid.)
+The Medicaid provisions are part of Title VII Subtitle B, which is estimated to reduce federal outlays by $1.2 trillion before accounting for interactions and without the Rural Health Transformation Program funding. KFF assumed that 82% of the reduction in outlays due to interactions was attributable to Medicaid because the Medicaid provisions accounted for 82% of the overall reduction in outlays. The interaction reduced the effects of the Medicaid provisions by $79 billion so the total estimated reduction in Medicaid spending is $911 billion. KFF did not apply the $79 billion in estimated interaction effects by provision as the interactions would not apply to all provisions equally and the CBO cost estimate does not provide enough detail to allocate across Medicaid provisions. KFF excluded the $50 billion in funding for the Rural Health Transformation Program because it is highly uncertain how those funds will be allocated across the states.
+Allocating Federal Funding Reductions Across States:
+ This analysis allocates the ten-year federal Medicaid cut across states as follows:
+Changes that would affect the Affordable Care Act (ACA) expansion group, including work requirements, were allocated across expansion states proportionally to federal spending on people eligible through the ACA expansion in FY 2024.
+Wisconsin is a non-expansion state, but adults eligible for Medicaid through their waiver could be subject to the work requirements provision. KFF estimated the percentage of spending that was Wisconsin's "ACA-equivalent" by comparing the percentage of total federal spending that paid for adults ages 19-64 who were not eligible on the basis of disability in Wisconsin to that of other non-expansion states (24% and 11% respectively). KFF assumed that the "extra" spending on adults in Wisconsin comprised the state's "ACA-equivalent" spending.
+Ending the increased share of federal spending for states that adopt the Medicaid expansion in future years is allocated across the states that had not adopted the expansion as of May 2025, proportionally to total federal spending.
+Changing the requirements for state-directed payments was allocated in two parts. Spending reductions equivalent to those in the House-passed bill were allocated across states that have state-directed payments in place in FY 2024 (according to KFF’s budget survey or to 
+KFF’s analysis
+ of state-directed payments submitted to CMS), proportionally to KFF’s estimates of federal spending on managed care in FY 2023 (which are calculated using total managed care spending in FY 2023 divided by the federal percentage of Medicaid spending in FY 2023). The difference between the spending reductions in the House-passed bill and the spending reductions in the enacted reconciliation package was allocated across states identified as likely and possibly affected in 
+a prior KFF analysis
+ proportionally to those states’ estimated federal spending on managed care.
+Limiting the use of Medicaid provider taxes was allocated in two parts. Spending reductions equivalent to those in the House-passed bill were allocated across states proportionally to their share of federal spending in FY 2024. The difference between the spending reductions in the House-passed bill and the spending reductions in the enacted reconciliation package was allocated proportionally to federal spending only in expansion 
+states
+ with hospital or managed care organization (MCO) provider taxes in excess of 3.5% of net patient revenues, as identified in a 
+prior KFF analysis
+.
+Waiving the uniform tax requirement for Medicaid provider taxes is similar to a 
+recent proposed rule
+ that would require changes to provider taxes in California, Massachusetts, Michigan, and New York. Thus, 50% of the CBO estimate for this provision was allocated to those states. The remainder of the CBO estimate was allocated proportionally to federal spending on managed care among states that have taxes on Medicaid managed care organizations in FY 2025.
+Reducing the maximum home equity limit was allocated based on federal spending for Medicaid enrollees who used long-term care in 2021 (the most recent year of data) among states that have home equity limits greater than $1 million as of 2025.
+All other provisions (including interaction effects) were allocated across states proportionally to their share of federal spending in FY 2024.
+For all estimates, the federal share of spending in FY 2024 is estimated using a 90% match rate for the ACA expansion group and the FY 2024 traditional 
+federal match rates
+ plus a 1.5 percentage point increase for the first quarter of FY 2024 (accounting for the final phase out quarter of the 
+pandemic-era enhanced federal match rate
+) for the remaining eligibility groups.
+Limitations: 
+This analysis allocates the CBO’s estimated reduction in federal spending across states based on KFF’s state-level data and where possible, prior modeling work. The most significant limitations of this approach are as follows.
+1. CBO’s estimated reduction in federal spending is distributed across states based on the policies they had in place at the time of enactment and their Medicaid spending in the most recent year for which data were available (usually FY 2024). The analysis does not account for future changes in state Medicaid policy. For example, the analysis does not account for the enrollment effects in states that had not expanded the ACA as of FY 2025 but would have done so in future years.
+2. The analysis does not attempt to predict state behavior and to the extent that states respond in ways that differ greatly from the expected national effects, the spending estimates may be outside of the range reported in this analysis.
+More On
+				Medicaid			
+				State Health Policy and Data			
+				Eligibility			
+				Federal Budget			
+				Financing			
+				Medicaid Work Requirements			
+				State Budgets			
+Also of Interest
+							The Impact of H.R. 1 on Two Medicaid Eligibility Rules						
+							How Will the 2025 Reconciliation Law Affect the Uninsured Rate in Each State?						
+							A Closer Look at the $50 Billion Rural Health Fund in the New Reconciliation Law						
+							5 Key Facts About Medicaid Coverage for People Living in Rural Areas						
+More On
+										Medicaid									
+										State Health Policy and Data									
+										Eligibility									
+										Federal Budget									
+										Financing									
+										Medicaid Work Requirements									
+										State Budgets									
+View all Topics
+			© 2026 KFF		
