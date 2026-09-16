@@ -1,4 +1,4 @@
-# DRAFT — not yet posted
+# POSTED Sept 15, 2026 (v2 card)
 # Entry: /fact-checks/2026-09-15-rural-health-fund-vs-cuts-and-oversight/  (MISSING CONTEXT)
 # Card: rural_fund_vs_cuts_card_v2.png (KFF 37% hero; v1 with the derived $2.70 ratio also on file)
 
