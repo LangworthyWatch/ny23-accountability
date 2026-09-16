@@ -69,6 +69,8 @@ fund itself expires. Framing the fund as something that will "keep quality
 care close to home" without noting it only partially and temporarily offsets
 cuts enacted in the same bill repeats the pattern the June entry documented.
 
+> **Correction (September 16, 2026):** The point below was accurate when written but is superseded: on September 4, 2026 the state named its first-initiative awardees, nine of which serve NY-23 counties. See [the RHTP entry's corrected September 4 update](/fact-checks/2026-06-02-rural-health-transformation-212m/).
+
 **3. No NY-23 facility has yet been named as a recipient.** As of this site's
 most recent check (June 2, 2026), New York's Department of Health had not
 published a facility-level sub-allocation list, and the state has until
@@ -119,4 +121,4 @@ event and confirms the pattern repeats. The block-quoted podium remarks were
 transcribed by this site directly from the post's own video audio (Whisper
 auto-transcription); quotes were legible and unambiguous in context.
 
-*Last updated: July 16, 2026.*
+*Last updated: September 16, 2026 (correction note).*

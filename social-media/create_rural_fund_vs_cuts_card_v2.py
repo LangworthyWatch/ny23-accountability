@@ -29,7 +29,7 @@ c.text(170, y + 106, "is covered by the fund (KFF)", size=13, bold=True, fill=MU
 c.text(318, y + 30, "Rural Health Transformation Program: $50 billion over five years.", size=15, bold=True, fill=DARK, anchor="lm")
 c.text(318, y + 52, "Same law: $911 billion out of federal Medicaid, $137 billion of it rural.", size=15, bold=True, fill=DARK, anchor="lm")
 c.text(318, y + 82, "KFF, from CBO: the fund offsets about a third of the rural loss. It ends in 2030;", size=14, fill=DARK, anchor="lm")
-c.text(318, y + 104, "most of the cuts land after that. No NY-23 facility has been named yet.", size=14, fill=DARK, anchor="lm")
+c.text(318, y + 104, "most of the cuts land after that. Nine state awards touch NY-23; none of his posts names one.", size=14, fill=DARK, anchor="lm")
 y = y + 2 + hero_h + 12
 
 # ---- two columns --------------------------------------------------------

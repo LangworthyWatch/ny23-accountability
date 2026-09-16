@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1486</number>
+    <updateDate>2026-09-15T18:50:22Z</updateDate>
+    <updateDateIncludingText>2026-09-15T18:50:22Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <originChamberCode>H</originChamberCode>
+    <type>HRES</type>
+    <introducedDate>2026-08-24</introducedDate>
+    <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/1486</legislationUrl>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsju00</systemCode>
+        <name>Judiciary Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-08-24T13:01:45Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>16:47:05</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>16:47:01</actionTime>
+        <text>On motion to table Agreed to by the Yeas and Nays: 232 - 147, 47 Present (Roll no. 298).</text>
+        <type>Floor</type>
+        <actionCode>H36510</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>298</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll298.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-09-15T20:47:01Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>16:12:21</actionTime>
+        <text>Mr. Fry moved to table the measure.</text>
+        <type>Floor</type>
+        <actionCode>H36500</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>16:12:01</actionTime>
+        <text>Considered as privileged matter.</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>15:46:13</actionTime>
+        <text>QUESTION OF THE PRIVILEGES OF THE HOUSE - Mr. Green (TX) rose to a question of the privileges of the House and offered the resolution. The Chair directed the Clerk to report the resolution. Upon examination of the resolution, the Chair determined that the resolution did constitute a question of the privileges of the House.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-14</actionDate>
+        <actionTime>14:05:11</actionTime>
+        <text>NOTIFICATION OF INTENT TO OFFER RESOLUTION - Mr. Green (TX) notified the House of his intent to offer a privileged resolution pursuant to clause 2(a)(1) of rule IX. The Chair announced that a determination will be made at the time designated for consideration of the resolution.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-08-24</actionDate>
+        <text>Referred to the House Committee on the Judiciary.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsju00</systemCode>
+            <name>Judiciary Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-08-24</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-08-24</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000553</bioguideId>
+        <fullName>Rep. Green, Al [D-TX-9]</fullName>
+        <firstName>Al</firstName>
+        <lastName>Green</lastName>
+        <party>D</party>
+        <state>TX</state>
+        <district>9</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Border security and unlawful immigration</name>
+          <updateDate>2026-09-15T18:49:14Z</updateDate>
+        </item>
+        <item>
+          <name>Congressional oversight</name>
+          <updateDate>2026-09-15T18:50:15Z</updateDate>
+        </item>
+        <item>
+          <name>Congressional-executive branch relations</name>
+          <updateDate>2026-09-15T18:50:22Z</updateDate>
+        </item>
+        <item>
+          <name>Constitution and constitutional amendments</name>
+          <updateDate>2026-09-15T18:49:06Z</updateDate>
+        </item>
+        <item>
+          <name>Department of Homeland Security</name>
+          <updateDate>2026-09-15T18:48:53Z</updateDate>
+        </item>
+        <item>
+          <name>Due process and equal protection</name>
+          <updateDate>2026-09-15T18:50:04Z</updateDate>
+        </item>
+        <item>
+          <name>First Amendment rights</name>
+          <updateDate>2026-09-15T18:50:09Z</updateDate>
+        </item>
+        <item>
+          <name>Government ethics and transparency, public corruption</name>
+          <updateDate>2026-09-15T18:49:01Z</updateDate>
+        </item>
+        <item>
+          <name>Law enforcement administration and funding</name>
+          <updateDate>2026-09-15T18:49:20Z</updateDate>
+        </item>
+        <item>
+          <name>Law enforcement officers</name>
+          <updateDate>2026-09-15T18:49:27Z</updateDate>
+        </item>
+        <item>
+          <name>Presidents and presidential powers, Vice Presidents</name>
+          <updateDate>2026-09-15T18:48:47Z</updateDate>
+        </item>
+        <item>
+          <name>Racial and ethnic relations</name>
+          <updateDate>2026-09-15T18:49:57Z</updateDate>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+        <updateDate>2026-09-02T13:29:07Z</updateDate>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2026-08-24</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2026-09-15T13:31:53Z</updateDate>
+        <text><![CDATA[<p>This resolution impeaches President Donald Trump for high crimes and misdemeanors.</p><p>Specifically, the resolution sets forth one article of impeachment concerning abuse of presidential powers by allowing U.S. Immigration and Customs Enforcement (ICE) and U.S. Customs and Border Protection (CBP) to operate in violation of the First, Fourth, and Fifth Amendments to the U.S. Constitution while undermining judicial oversight.</p>]]></text>
+      </summary>
+    </summaries>
+    <title>Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors.</title>
+    <titles>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <titleTypeCode>6</titleTypeCode>
+        <title>Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors.</title>
+        <updateDate>2026-08-25T08:44:02Z</updateDate>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors.</title>
+        <updateDate>2026-08-25T08:35:46Z</updateDate>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Introduced in House</type>
+        <date>2026-08-24T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres1486ih/xml/BILLS-119hres1486ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2026-09-14</actionDate>
+      <text>NOTIFICATION OF INTENT TO OFFER RESOLUTION - Mr. Green (TX) notified the House of his intent to offer a privileged resolution pursuant to clause 2(a)(1) of rule IX. The Chair announced that a determination will be made at the time designated for consideration of the resolution.</text>
+      <actionTime>14:05:11</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

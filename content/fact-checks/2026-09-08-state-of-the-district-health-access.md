@@ -172,7 +172,7 @@ these counties, are documented in the [SNAP rural impact summary](/fact-checks/2
 
 | Item | Status |
 |---|---|
-| Which NY-23 facilities receive Rural Health Transformation Program money | No facility named at the state sub-allocation stage as of Sept. 8, 2026; applications for the $76.2 million first initiative closed July 14 |
+| Which NY-23 facilities receive Rural Health Transformation Program money | Corrected Sept. 16, 2026: the state named first-initiative awardees on Sept. 4; nine serve NY-23 counties ($6.9 million in single-county awards, incl. St. James, Jones Memorial, Westfield Memorial). Which at-risk hospitals benefit beyond planning grants remains open |
 | District-level emergency-care-desert estimate | Not published by Cornell; not estimated here |
 | Drive-time pharmacy access | Not measured; ZIP-level proxy only |
 | Eleven Erie/Niagara pharmacy addresses the geocoder could not place | Excluded and listed in the data README; two could fall inside the district |
@@ -200,7 +200,7 @@ profile only lines it up against the baseline above.
   [At his June town hall, he contradicted it himself three minutes later](/fact-checks/2026-07-02-town-hall-hospitals-not-going-anywhere/).
 - **The fund, announced three times.** The $212 million first-year award,
   announced December 30, again July 15, and as "$76 million" on September 4,
-  with no NY-23 facility named. [The December announcement and what it left out](/fact-checks/2026-06-02-rural-health-transformation-212m/), [the Centralus repeat](/fact-checks/2026-07-16-rural-health-fund-centralus-repeat/).
+  with no NY-23 facility named in his posts (corrected Sept. 16, 2026: the state's own Sept. 4 list names nine awards serving NY-23 counties). [The December announcement and what it left out](/fact-checks/2026-06-02-rural-health-transformation-212m/), [the Centralus repeat](/fact-checks/2026-07-16-rural-health-fund-centralus-repeat/).
 - **Schuyler's hospital.** On the federal at-risk list; he voted for the bill
   behind it twice. [Schuyler County's hospital is on a federal at-risk list](/fact-checks/2026-06-14-schuyler-county-hospital-at-risk/).
 - **Nursing homes.** Three Chautauqua County closures and the staffing floor
@@ -279,4 +279,4 @@ corporate bankruptcies and independent closures, dated as such. It does not
 allege any unlawful conduct. Rep. Langworthy's office has not been asked for
 comment as of this writing, and any response will be published in full.
 
-*Last updated: September 8, 2026*
+*Last updated: September 16, 2026 (correction: RHTP awardees).*

@@ -1,4 +1,5 @@
 # POSTED Sept 15, 2026 (v2 card)
+# CORRECTION NEEDED ON THE LIVE POST (Sept 16): the closing line "Still unanswered: which NY-23 hospital or clinic gets any of the $212 million" was wrong when posted. NY DOH named awardees Sept 4 (nine serve NY-23 counties). Suggested comment: "Correction: the state named recipients on Sept. 4, including St. James, Jones Memorial and Westfield Memorial hospitals. None of his three posts names one. Details at the entry."
 # Entry: /fact-checks/2026-09-15-rural-health-fund-vs-cuts-and-oversight/  (MISSING CONTEXT)
 # Card: rural_fund_vs_cuts_card_v2.png (KFF 37% hero; v1 with the derived $2.70 ratio also on file)
 

@@ -65,12 +65,39 @@ prior to passage, the Senate added $50 billion in funding for a new 'rural
 health transformation program,'" as an offset to the Medicaid reductions in
 the same bill. The House then passed the Senate's version on Roll Call 190.
 
-**Still no NY-23 facility named.** Fingerlakes1's September 4 report on the
-announcement notes it "did not identify individual provider awards, project
-sites or a timetable." Southern Tier Health Care System in Cattaraugus
-County wrote on July 10 that it was "entering the final stretch of
-completing our application" for a planning grant under the initiative, so
-NY-23 organizations did apply; none has yet been publicly named as funded.
+> **Correction (September 16, 2026):** An earlier version of this update said no
+> NY-23 facility had been named as a recipient. That was incorrect. On
+> September 4, 2026, the same day as the post above, Gov. Hochul's office
+> announced "90 awards to 56 organizations" under the Rural Community Health
+> Integration initiative, and the state Department of Health published the
+> awardee list. Nine of the awards serve NY-23 counties. This entry relied
+> on the CMS release and a Fingerlakes1 report that "did not identify
+> individual provider awards"; the state's own list was not checked. The
+> corrected facts follow.
+
+**NY-23 recipients, per the state's awardee list (retained September 16, 2026):**
+
+| Awardee (as listed by NY DOH) | Counties served | Award |
+|---|---|---|
+| Chautauqua Health Network | Chautauqua | $1,838,750 |
+| Westfield Memorial Hospital | Chautauqua | $1,250,000 |
+| Jones Memorial Hospital | Allegany | $1,178,100 |
+| St. James Hospital | Steuben | $1,178,100 |
+| The Chautauqua Center | Chautauqua | $1,000,000 |
+| Southern Tier Health Care System | Cattaraugus | $500,000 |
+| Care Compass Collaborative | Broome, Chemung, Chenango, Cortland, Delaware, Otsego, Schuyler, Steuben, Tioga, Tompkins | $3,350,000 |
+| Cayuga Medical Center | same ten counties | $2,859,386 |
+| Guthrie Cortland Medical Center | same ten counties | $1,848,105 |
+
+Six single-county awards total $6,944,950. Three multi-county awards
+totaling $8,057,491 are shared across ten Southern Tier counties, four of
+them in NY-23 (Chemung, Schuyler, Steuben, Tioga). No award is listed for
+Erie County. St. James Hospital, named above as an at-risk candidate, is an
+awardee; UPMC Chautauqua, Olean General, Bertrand Chaffee, Cuba Memorial
+and Arnot are not on the list. The initiative funds planning and care
+coordination partnerships; it is not operating or capital support for any
+hospital. Southern Tier Health Care System, which wrote in July that it was
+completing a planning-grant application, received $500,000.
 
 **The loss side has not changed.** The comparison figures in this entry
 stand: the same law cuts roughly $137 billion from rural Medicaid over ten
@@ -156,7 +183,7 @@ A Dunkirk Observer Today commentary (Dec. 1, 2025) — *"Rural hospital funding 
 
 ## The NY-23 Facility-Level Status
 
-As of June 2, 2026, **no NY-23 facility has been publicly identified as receiving an RHTP sub-allocation**. The candidates within the district most plausibly in line for support based on operating margin, Medicaid share, or risk designation include:
+As of June 2, 2026, no NY-23 facility had been publicly identified as receiving an RHTP sub-allocation (**corrected September 16, 2026: the state's September 4 awardee list names nine awards serving NY-23 counties; see the September 4 update above**). The candidates within the district most plausibly in line for support based on operating margin, Medicaid share, or risk designation include:
 
 - **UPMC Chautauqua at WCA** (Jamestown) — already documented as operating at a -17.4% margin with 37% Medicaid; swept into UPMC's April 2024 system-wide ~1,000-position layoff
 - **Olean General Hospital** (Cattaraugus, 186 beds) — flagged as at-risk; maternity remains open
@@ -186,7 +213,7 @@ That vote enacted both §50301 (creating the $212M-to-NY RHTP award) and the Med
 - Langworthy issued a press release announcing the NY figure without naming any NY-23 facility recipient.
 - KFF analysis finds RHTP offsets approximately 37% of rural Medicaid losses created by the same law, with 64% of those losses occurring after RHTP ends.
 - Langworthy voted YES on the OBBBA Roll Call 190 vote that simultaneously created RHTP and cut rural Medicaid.
-- As of June 2, 2026, the NY DOH facility-level RHTP sub-allocation has not been published; NY has until October 30, 2027 to allocate FY2026 funds.
+- The NY DOH published its first-initiative awardee list on September 4, 2026 (nine awards serving NY-23 counties; corrected September 16, 2026); NY has until October 30, 2027 to allocate all FY2026 funds.
 
 **What is not documented:**
 - The NY-23 sub-allocation share — whether $212M-of-NY-overall flows disproportionately to NY-23 (which has the most at-risk hospitals in the state) is not currently determinable from public records.
@@ -200,7 +227,7 @@ The $212M figure is accurate and the press release is technically true. What is 
 
 1. The award offsets only about 37% of rural Medicaid cuts in the same bill the recipient member voted for
 2. 64% of those cuts hit after the RHTP fund expires
-3. No NY-23 facility has yet been named as a recipient at the state sub-allocation stage
+3. The first-initiative awards, named September 4, 2026, put $6.9 million in single-county awards into NY-23 and a share of $8.1 million in multi-county awards; none of the district's at-risk hospitals other than St. James is an awardee (corrected September 16, 2026)
 4. NY-23 contains the highest concentration of at-risk hospitals (8) of any NY congressional district per the Fiscal Policy Institute
 
 A reader of the December 30 announcement could reasonably conclude that NY-23 rural hospitals are being made whole by the federal $212M. The KFF math and the NY DOH sub-allocation status say something more limited.
@@ -235,4 +262,4 @@ A reader of the December 30 announcement could reasonably conclude that NY-23 ru
 
 *All data from public primary sources. Methodology available on request.*
 
-*Last updated: September 15, 2026 (five announcements; companion entry).*
+*Last updated: September 16, 2026 (correction: NY-23 awardees named September 4).*

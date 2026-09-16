@@ -9,7 +9,7 @@ source_url: "https://www.facebook.com/RepLangworthy/videos/1019257407834627/"
 archived_url: ""
 archive_note: "The September 10 reel caption was retrieved with yt-dlp (research/sources/rhtp-posts-2026-09/); the September 4 post is documented in the RHTP entry's September 4 update; the September 11 ICYMI post is preserved as a screenshot on file. Wayback's save endpoint returned HTTP 500 on every attempt September 15, 2026, so the sources below are retained as text under research/sources/deficit-check-2026-09-15/ (README lists them). CBO, CBPP and KFF pages block automated retrieval and were read in a browser session and saved verbatim; the Treasury Monthly Statement is retained as PDF. Wayback captures will be added when the service recovers."
 verdict: "MISSING CONTEXT"
-publication_note: "Published September 15, 2026. No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response will be published here in full. The committee-record findings rest on the retained hearing rosters, calendar events and vote sheets in research/sources/oversight-attendance-2026-09-10/, current through September 9, 2026."
+publication_note: "Published September 15, 2026; corrected September 16, 2026 (NY-23 awardees). No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response will be published here in full. The committee-record findings rest on the retained hearing rosters, calendar events and vote sheets in research/sources/oversight-attendance-2026-09-10/, current through September 9, 2026."
 tags: ["obbba", "rural-health-transformation", "medicaid", "snap", "deficit", "oversight-committee", "tariffs", "credit-claiming"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
@@ -62,6 +62,16 @@ applications closed July 14.
 
 ---
 
+> **Correction (September 16, 2026):** An earlier version of this entry said the
+> state had "not yet named a single NY-23 facility." That was incorrect. The
+> state Department of Health published its Rural Community Health Integration
+> awardee list on September 4, 2026, the day of his first post; nine of the
+> 90 awards serve NY-23 counties, including St. James Hospital, Jones
+> Memorial Hospital and Westfield Memorial Hospital. The list is retained and
+> tabulated in [the RHTP entry](/fact-checks/2026-06-02-rural-health-transformation-212m/).
+> The correction sharpens rather than weakens the finding: the recipients
+> were public before two of his three posts, and none of the posts names one.
+
 ## The fund against the cuts
 
 The Rural Health Transformation Program is $50 billion nationally over five
@@ -81,8 +91,10 @@ Responsible Federal Budget:
 **In plain language:** for every dollar the fund puts into rural health, the
 same law takes about $2.70 out of rural Medicaid, and the fund ends in 2030
 while most of the Medicaid cuts land after that. New York's first-year
-share is $212 million; the state has not yet named a single NY-23 facility
-that will receive any of it.
+share is $212 million. The state named its first-initiative awardees on
+September 4: nine awards serve NY-23 counties, $6.9 million of it in
+single-county awards, none of it to the district's at-risk hospitals other
+than St. James (see the correction below).
 
 ---
 
@@ -214,8 +226,8 @@ under oath failed, one with his vote against and one with him absent.
 4. He voted against subpoenas to the DHS Secretary and the Border Patrol
    commander, the officials spending the law's $176 billion. What oversight
    of that money does he consider sufficient?
-5. Which NY-23 hospital or clinic will receive any of the $212 million, and
-   when will the state say?
+5. The state named NY-23 recipients on September 4, the day of his first
+   post. Why does none of his three posts name one?
 
 ---
 
@@ -257,4 +269,4 @@ tariff projections are uncertain by CBO's own description. Rep. Langworthy's off
 been asked for comment as of this writing; any response will be published
 in full.
 
-*Last updated: September 15, 2026*
+*Last updated: September 16, 2026 (correction)*

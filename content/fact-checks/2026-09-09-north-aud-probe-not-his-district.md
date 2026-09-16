@@ -107,7 +107,7 @@ Each line below is documented in its own entry on this site, with sources.
 | Eight hospitals on the Fiscal Policy Institute's at-risk list, "the most of any district in the state"; Brooks-TLC in Dunkirk at 97% Medicaid and public-appropriation dependence | Modeled on the Medicaid cuts in the One Big Beautiful Bill Act, which he voted for (Roll Call 190) | June 2026 town hall: "every rural hospital that I've met is not on the verge of closure no matter what people are trying to sell you" |
 | $87 million in FY2025 Homeland Security Grant Program funds still withheld from New York, including $17.7 million for the state program that funds county sheriffs and police in all eight NY-23 counties | Withheld nearly a year after the President's restoration promise; court order forced the $100 million that did arrive | No public statement located in his press archive or on either Facebook page (re-checked September 4); colleagues Malliotakis, Lawler and Garbarino appealed publicly |
 | 28 community pharmacies closed since January 2023; Mayville, Silver Creek, Eden, Alfred, Salamanca and Lancaster left with none registered in their ZIP | Corporate bankruptcies, not federal policy; documented as such | No statement located |
-| Rural Health Transformation Program: $212 million first-year award to New York | No NY-23 facility named at the state sub-allocation stage | Announced five times (Dec. 30, July 15, Sept. 4, Sept. 10, Sept. 11) |
+| Rural Health Transformation Program: $212 million first-year award to New York | State named first-initiative awardees Sept. 4; nine serve NY-23 counties (corrected Sept. 16, 2026) | Announced five times (Dec. 30, July 15, Sept. 4, Sept. 10, Sept. 11) without naming a district recipient |
 | Food insecurity 12.7% to 15.6% in every county | SNAP changes in the same July 2025 law | See the SNAP entries |
 
 **In plain language:** in the week he wrote to a federal inspector general
@@ -144,9 +144,10 @@ third.
 1. Has he written to any federal agency about the $17.7 million in SHSP
    funds owed to the law enforcement agencies in his own counties, the way
    he wrote to HUD's inspector general about Canalside?
-2. Has he asked CMS or the state to name which NY-23 hospitals will receive
-   Rural Health Transformation funds, or asked the Fiscal Policy Institute's
-   at-risk finding to be addressed?
+2. The state named the NY-23 recipients of Rural Health Transformation
+   funds on September 4. Why do none of his five announcements name one, and
+   has he asked that the Fiscal Policy Institute's at-risk finding be
+   addressed?
 3. His adviser says the project "affects the region." By that standard, what
    region does the withheld counterterrorism money affect?
 4. On September 4 he wrote that downstate members "all of a sudden want local
@@ -203,4 +204,4 @@ the Congressman, and it takes no position on the North Aud Block subsidies.
 Rep. Langworthy's office has not been asked for comment as of this writing;
 any response, and the letter if released, will be published in full.
 
-*Last updated: September 10, 2026*
+*Last updated: September 16, 2026 (RHTP correction).*
