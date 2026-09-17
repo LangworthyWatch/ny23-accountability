@@ -151,10 +151,14 @@ reporting.
 On **September 10, 2026**, five days before that letter published, Rep. Langworthy said of a
 development project in Buffalo: "I take the 'Oversight' in serving on the House Oversight Committee
 seriously," adding in an accompanying interview, **"I have oversight over the entire federal
-government in that respect."** He is a majority member of that committee. We located no hearing
-request, committee letter, floor statement or press release from him regarding the cost of this
-operation, the Pentagon's refusal to answer CBO, or the casualty-count dispute. He made no remarks
-in the September 14 floor debate on H.Con.Res. 93. See
+government in that respect."** He is a majority member of that committee. **What we checked, and what we found.** We reviewed the press
+releases published on his House website through September 17, 2026, and the *Congressional Record*
+for September 14, 2026, the day H.Con.Res. 93 was debated for an hour on the floor. We located no
+statement from him on the cost of this operation, on the Pentagon's refusal to answer CBO, or on the
+casualty-count dispute, and **he made no remarks in that debate** — his name appears in that day's
+Record only in vote tallies and in an Extension of Remarks honoring Six Nations Cemetery in the Town
+of Orange, Schuyler County. We did not have access to committee correspondence that was never made
+public; this is a search of the public record, not a claim about what exists in a file drawer. See
 [the oversight-attendance entry](/fact-checks/2026-09-10-oversight-seriously-attendance-record/).
 
 **Stated fairly:** a war powers resolution is a floor vote available to every member, not a duty of
