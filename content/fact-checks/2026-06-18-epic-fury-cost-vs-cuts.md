@@ -14,7 +14,7 @@ counties: ["district-wide"]
 
 ## Why This Matters for NY-23
 
-With a preliminary U.S.-Iran agreement now reached, the cost of Operation Epic Fury — the largest U.S. military offensive since the 2003 invasion of Iraq — is coming into focus. Rep. Langworthy publicly championed that war and urged that funding for it move without delay. This entry places two documented things side by side: the cost of the war he backed, and the federal program cuts he voted for. NY-23 is a rural district where SNAP, Medicaid, and rural hospitals are lifelines, so the question of fiscal priorities is not abstract here.
+With a preliminary U.S.-Iran agreement reached in April 2026 — a ceasefire that did not hold, see the September 17, 2026 update below — the cost of Operation Epic Fury — the largest U.S. military offensive since the 2003 invasion of Iraq — is coming into focus. Rep. Langworthy publicly championed that war and urged that funding for it move without delay. This entry places two documented things side by side: the cost of the war he backed, and the federal program cuts he voted for. NY-23 is a rural district where SNAP, Medicaid, and rural hospitals are lifelines, so the question of fiscal priorities is not abstract here.
 
 This is a context-and-priorities entry, not a claim that war money was literally taken from food assistance. Those are separate budget streams. See **"A Note on Comparing These Numbers"** below.
 
@@ -40,7 +40,7 @@ The full statement and its eight factual claims are examined in our companion en
 
 ### $29 billion — direct U.S. military cost (and an undercount)
 
-Pentagon comptroller **Jules Hurst** told the Senate Armed Services Committee on **May 12, 2026** that the operation had cost **$29 billion in operational costs** — $4 billion higher than the administration's April figure, with the increase attributed to repair and replacement of equipment. Hurst conceded the Pentagon was **not** yet counting the cost to repair U.S. bases in Kuwait and Bahrain that were struck by Iranian drones and missiles. The administration is expected to ask Congress for a **supplemental appropriation** to cover war costs.
+Pentagon comptroller **Jules Hurst** told the Senate Armed Services Committee on **May 12, 2026** that the operation had cost **$29 billion in operational costs** — $4 billion higher than the administration's April figure, with the increase attributed to repair and replacement of equipment. Hurst conceded the Pentagon was **not** yet counting the cost to repair U.S. bases in Kuwait and Bahrain that were struck by Iranian drones and missiles. **Update, September 17, 2026: CBO now puts the figure at approximately $38 billion as of August 1, 2026. See the update below.** The administration is expected to ask Congress for a **supplemental appropriation** to cover war costs.
 
 *In plain language: $29 billion is the floor, not the ceiling. Base repairs are not in it, and more spending is being requested.*
 
@@ -52,7 +52,136 @@ Pentagon comptroller **Jules Hurst** told the Senate Armed Services Committee on
 
 **Professor Linda Bilmes** of the Harvard Kennedy School — the Daniel Patrick Moynihan Senior Lecturer in Public Policy, and co-author of *The Three Trillion Dollar War* — estimates the war "is costing about **two billion dollars a day** in short-term, upfront costs, which is the tip of the iceberg," and states: "**I am certain we will spend one trillion dollars for the Iran war**" ([Harvard Kennedy School, April 7, 2026](https://www.hks.harvard.edu/faculty-research/policy-topics/international-relations-security/why-war-iran-so-expensive)). This is a long-term, all-in projection (including future costs such as veterans' care and interest), not money already spent.
 
-The war also carried a human cost: **13 U.S. service members** were killed, along with more than 3,300 Iranians, per the figures cited by NPR.
+The war also carried a human cost: **13 U.S. service members** were killed, along with more than 3,300 Iranians, per the figures cited by NPR. **Update, September 17, 2026: the toll is higher; twelve senators recorded 18 U.S. deaths as of July 23, 2026. See the update below.**
+
+---
+
+## Update — September 17, 2026: CBO Has Now Priced the War, and the Meter Is Still Running
+
+On **September 15, 2026**, the Congressional Budget Office published
+**"Estimating the Cost of Combat Operations Against Iran,"** a letter to House Budget Committee
+Ranking Member **Brendan F. Boyle**. It is the first nonpartisan, official accounting of this
+conflict's cost, and it supersedes the Pentagon testimony figure this entry used in June. Three
+things in it change what is written above, and one of them is a correction to this entry.
+
+### The federal outlay is now $38 billion, and it grows every month
+
+CBO estimates the conflict has cost the Department of Defense **approximately $38 billion as of
+August 1, 2026** — up from the **$29 billion** the Pentagon comptroller gave the Senate in May, the
+figure this entry cited. CBO adds that each further month costs **$2 billion** at the level of
+violence seen in May and June, or **$3 billion** at July's intensity.
+
+Where that money goes: replacing expended munitions is the largest single component at **$21.7
+billion**, of which **$13.1 billion** is missile defense interceptors and **$7.3 billion**
+land-attack cruise missiles. CBO also notes that in June the administration requested **$87.6
+billion** in supplemental appropriations, **$67.1 billion** of it for DoD, with **$42.3 billion**
+appearing to be directly related to the conflict — about 10 percent more than CBO's own estimate of
+what the conflict has cost.
+
+*In plain language: the federal bill for this war is about nine billion dollars higher than the
+number in this entry, and it rises by two to three billion every month it continues.*
+
+### Correction to this entry: the war did not end in June
+
+This entry opened by saying "a preliminary U.S.-Iran agreement now reached." **That framing did not
+hold.** CBO writes that after the April 8 ceasefire "the conflict has generally become less intense"
+but that **"less intense combat operations are still ongoing."** Fighting resumed in July, as
+documented in our [veterans entry](/fact-checks/veterans-record/). The House has since voted twice
+more to end the operation — **H.Con.Res. 89 on July 23 (passed 214–208)** and **H.Con.Res. 93 on
+September 15 (passed 220–204)** — and **Langworthy voted No on both**, as he has on all eight war
+powers votes in this series.
+
+**The human toll in this entry is also out of date.** It cites 13 U.S. service members killed, the
+figure as of June 18. Twelve senators, writing on July 23, recorded **18 deaths**. How casualties
+and injuries in this operation are being counted is itself formally disputed; that dispute is
+documented in the [veterans entry](/fact-checks/veterans-record/) and is not resolved here.
+
+### The consumer-price leg of this entry is no longer just a private estimate
+
+In June this entry relied on **Moody's Analytics** for the $132 billion figure covering higher
+prices paid by consumers. CBO has now reached the same channel independently, and describes the
+mechanism in its own words: the reduction in oil and gas shipments through the Strait of Hormuz and
+disruption of Red Sea shipping "has increased energy prices globally," and the conflict "has
+disrupted global refining activities and, consequently, increased the prices of refined petroleum
+products such as **gasoline, diesel fuel, and jet fuel**." Because "the price of almost every
+product reflects shipping costs," CBO writes, those increases "indirectly affect the prices of most
+goods and services."
+
+CBO's magnitudes:
+
+| What CBO found | Figure |
+|---|---|
+| Brent crude, quarter before the conflict → peak | **$64** (Q4 2025) → **$103 a barrel** (Q2 2026) |
+| Brent crude this year vs. CBO's February 2026 forecast | **41 percent higher** |
+| Energy prices' contribution to Q2 2026 inflation (annualized PCE) | **+2.3 percentage points** (PCE inflation that quarter was 5.3 percent) |
+| PCE price level by Q1 2027 vs. February projection | **+0.6 percent** (core **+0.3 percent**) |
+
+**What that looks like at a New York pump.** The Energy Information Administration's weekly series
+show **New York regular gasoline at $2.889 a gallon the week of February 23, 2026** — the last week
+before the operation began — and **$4.339 on September 14, 2026**. Diesel for the Central Atlantic
+region, which includes New York, went from **$4.104** to **$6.312** over the same span. Both series
+jumped in the week of March 9, immediately after operations began.
+
+**A limit on what those numbers prove, stated plainly.** CBO attributes *an increment* of the price
+increase to the conflict — 2.3 percentage points of one quarter's inflation, crude running 41
+percent above its own pre-war forecast. **It does not attribute the entire $1.45 gasoline increase
+or the entire $2.21 diesel increase to the war,** and neither does this entry. Fuel prices move for
+many reasons. What CBO establishes is the direction, the mechanism, and a measurable share.
+
+*In plain language: a nonpartisan federal agency now says this war raised the price of gasoline,
+diesel and, through shipping costs, most other goods. In a rural district that runs on diesel — farm
+equipment, freight, school buses — that is the part of the war's cost that arrives weekly.*
+
+### A cost this entry never counted: the interceptors
+
+CBO identifies the main **opportunity cost** as the expenditure of missile defense interceptors. By
+comparing reported expenditures against total purchases, CBO concludes the United States "has
+probably used **between one-half and two-thirds** of its inventory of those munitions since June
+2025," and that rebuilding the inventory "would probably take **at least five years**" even if
+production increased. CBO notes this would matter most in a conflict with an opponent holding large
+numbers of ballistic and cruise missiles, and names the People's Republic of China.
+
+### What CBO could not get, and who says he has the power to get it
+
+CBO states — twice — that **"DoD did not respond to CBO's requests for information."** Its estimates
+are "subject to considerable uncertainty" as a result. The federal government's nonpartisan budget
+scorekeeper, asked by Congress to price a war, was refused the data and had to work from public
+reporting.
+
+On **September 10, 2026**, five days before that letter published, Rep. Langworthy said of a
+development project in Buffalo: "I take the 'Oversight' in serving on the House Oversight Committee
+seriously," adding in an accompanying interview, **"I have oversight over the entire federal
+government in that respect."** He is a majority member of that committee. We located no hearing
+request, committee letter, floor statement or press release from him regarding the cost of this
+operation, the Pentagon's refusal to answer CBO, or the casualty-count dispute. He made no remarks
+in the September 14 floor debate on H.Con.Res. 93. See
+[the oversight-attendance entry](/fact-checks/2026-09-10-oversight-seriously-attendance-record/).
+
+**Stated fairly:** a war powers resolution is a floor vote available to every member, not a duty of
+the Oversight Committee, and Oversight is not the primary committee for military casualty policy.
+The contrast documented here is between the breadth of the oversight authority he claims and the
+absence of any exercise of it on this subject — not a claim that he neglected a committee assignment.
+
+### And what the $38 billion still leaves out
+
+CBO writes that its analysis "does not assign financial costs to U.S. military personnel killed or
+injured in the conflict, nor does it include longer-term costs associated with future increases in
+outlays for **veterans' health care and disability compensation**." CBO also cautions that its
+categories "are not directly comparable or summable," and that the $38 billion covers the Defense
+Department only.
+
+*In plain language: the headline number leaves out the part that lands on veterans later — the
+claims, the ratings, the research and the staff who process them. Those are documented in the
+[veterans entry](/fact-checks/veterans-record/).*
+
+### Sources added in this update
+
+- Congressional Budget Office, "Estimating the Cost of Combat Operations Against Iran," Sep. 15, 2026: <https://www.cbo.gov/publication/62756> (PDF: <https://www.cbo.gov/system/files/2026-09/62756-Iran.pdf>)
+- U.S. Energy Information Administration, New York All Grades All Formulations Retail Gasoline Prices, weekly: <https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epmr_pte_sny_dpg&f=W>
+- U.S. Energy Information Administration, Central Atlantic (PADD 1B) No. 2 Diesel Ultra Low Sulfur Retail Prices, weekly: <https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emd_epd2dxl0_pte_r1y_dpg&f=W>
+- U.S. House Clerk, Roll Call 307, Sep. 15, 2026 (H.Con.Res. 93, passed 220–204): <https://clerk.house.gov/evs/2026/roll307.xml>
+
+*Update compiled September 17, 2026. Retained source text: `research/sources/iran-cost-2026-09-17/`.*
 
 ---
 
@@ -129,4 +258,4 @@ This fits a pattern documented elsewhere on this site: large federal expenditure
 
 **Note:** This entry documents publicly available information from Pentagon testimony, nonpartisan and academic economic analysis, the Congressional Budget Office, and the representative's own statements. War spending and domestic spending are separate budget streams; this entry compares fiscal priorities, not a direct transfer of funds. Readers may draw their own conclusions.
 
-*Last updated: June 18, 2026*
+*Last updated: September 17, 2026 (CBO cost letter; ceasefire and casualty figures updated).*
