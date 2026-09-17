@@ -1443,3 +1443,111 @@ that, one run after **Oct. 1**. Then **disable `september-house-watch`**. The De
 IIJA cliffs fall in the lame duck (House returns Nov. 9), which needs a different trigger set.
 
 **Next run resumes from roll 297.**
+
+## 2026-09-17 — September House watch, FINAL (rolls checked through **314**; the House has left until Nov. 9)
+
+**The session was cut again, and this time it ends the watch.** On **Sept. 16 at 7:05 PM**, right
+after the last vote, the Chair announced the Speaker's designation of **Wednesday, September 16,
+2026 through Sunday, November 8, 2026** as a **"district work period"** (clause 13, Rule I). That
+is the longest such period of the year, and it **erases the Oct. 1 voting day** that survived the
+September calendar cut logged on Sept. 8. **Roll 314 (Sept. 16, 7:05 PM) is the last recorded vote
+before the Nov. 3 election.** The House met at 10:30 AM Sept. 17 (pro forma; the clerk's floor file
+for today was last built 02:13 and carries no Sept. 17 block yet).
+- Primary: clerk floor proceedings, Sept. 16 7:05 PM entry,
+  `https://clerk.house.gov/floorsummary/HDoc-119-2-FloorProceedings.xml`
+- The live calendar was replaced the same day: `2026_Calendar_UPDATEDMSep-162026.pdf` (plus
+  `2026Calendar_Sept16.pdf`), superseding the `...UPDATEDMSep2026` revision logged Sept. 8, at
+  `https://www.majorityleader.gov/house-legislative-calendar-2026/`. The session-day shading is
+  graphical and does not survive `pdftotext`; **the floor announcement is the citable source**, not
+  the PDF. **Do not assert a motive for the change** — the designation is the whole record.
+
+### CHANGE 1 (major): the Iran war-powers resolution PASSED, and he voted No again
+
+**Roll 307, Sept. 15, 10:32 PM — H.Con.Res. 93, On Agreeing to the Resolution, PASSED 220-204.
+Langworthy: Nay.**
+- This is the **eighth** war-powers vote in the series and the **sixth on Iran**; it is the **third**
+  that passed the House (after H.Con.Res. 86 and 89). **He has now voted No on all eight.**
+- **Affects `2026-07-25-veterans-impact-votes-and-administration.md`** (Rule B applied Sept. 15:
+  its table ends at Roll 282 and nothing in the corpus mentioned H.Con.Res. 93). Lines now
+  overtaken by events: the table at l.64-72, "seven times... five on Iran" (l.62), "seven votes
+  against ending an unauthorized war" (l.521), "all seven" (l.537), the summary bullet (l.569), and
+  **"Congress has twice voted to end"** (l.597), which is now **three times**.
+- **ACTION (Zach's call):** dated addendum adding Roll 307 as row eight and updating the counts.
+  Not edited from the watch.
+
+### CHANGE 2: his own H.R. 5517 passed the House
+
+**Sept. 16, 11:51 AM — H.R. 5517, Northern Border Security Enhancement and Review Act, agreed to by
+voice vote** under suspension (40 minutes of debate; Mr. Van Epps moved). No roll call, so there is
+**no recorded Langworthy vote to cite** — only passage.
+- **Affects `2026-07-06-northern-border-security-review-act.md`:** l.58 ("has not passed the full
+  House and has not become law") and Q2 at l.93 ("a bill that has not passed the House") are now
+  overtaken. The floor text was verified Sept. 15 to be substantively the introduced bill (no
+  "Border Patrol," no staffing, no money), so **the substantive verdict is untouched** — this is a
+  status update, not a correction. Next test: the Senate and companion S. 850.
+
+### CHANGE 3: WRDA passed with the Kinzua/Seneca section intact
+
+**Roll 313, Sept. 16 — H.R. 9497, Water Resources Development Act of 2026, passed 415-9,
+Langworthy Yea.** §331 (Kinzua Dam excess land conveyable to the **Seneca Nation of Indians**) was
+in the floor text. **Watch for a credit-claiming post.** Authorship of §331 is still unestablished —
+H. Rept. 119-795 was not on govinfo as of Sept. 15. **Do not attribute it to him without the
+report's requesting-member record.**
+
+### Roll sweep 298-314 (Sept. 15-16) — his votes
+
+| Roll | Date | Measure | Result | LW |
+|---|---|---|---|---|
+| 298 | 9/15 | H.Res. 1486 (Green impeachment res.), **motion to table** | Tabled 232-147-47 | Yea |
+| 299-300 | 9/15 | H.Res. 1530 (rule for H.R. 9576 / H.R. 10326) | Passed 214-208 / 214-211 | Yea / Aye |
+| 301 | 9/15 | H.R. 2978 GUARD Act | Passed 414-7 | Yea |
+| 302 | 9/15 | H.R. 8278 (supervisory tech) | Passed 417-7 | Yea |
+| 303 | 9/15 | H.R. 4646 Whistleblower Protection Act | Passed 424-0 | Yea |
+| 304 | 9/15 | **H.R. 2140 Diesel Emissions Reduction Act** (Matsui; **he is a cosponsor**) | Passed 343-79 | Yea |
+| 305 | 9/15 | H.R. 9500 Tax Relief for Fraud Victims | Passed 408-17 | Yea |
+| 306 | 9/15 | **H.J.Res. 210** — CRA disapproval, EPA authorization of CARB **Ocean-Going Vessels At-Berth** rule | Passed 216-211 | Yea |
+| **307** | **9/15** | **H.Con.Res. 93 (Iran war powers)** | **PASSED 220-204** | **Nay** |
+| 308 | 9/16 | H.R. 5334 (concur in Senate amendments) | Passed 262-159 | Yea |
+| 309 | 9/16 | H.R. 9576 National Fraud Enforcement Division Act | Passed 352-72 | Yea |
+| 310 | 9/16 | **H.R. 10326 PROOF Act** (state data to DOJ on Medicaid/SNAP/TANF fraud) | Passed 217-207 | Yea |
+| 311 | 9/16 | **H.J.Res. 213** — CRA disapproval, EPA partial authorization of CARB **Commercial Harbor Craft** rule | Passed 214-208 | Yea |
+| 312 | 9/16 | H.R. 9340 Ratepayer Protection Act | Passed 417-3 | Yea |
+| 313 | 9/16 | **H.R. 9497 WRDA 2026** | Passed 415-9 | Yea |
+| 314 | 9/16 | S. 2403 Retire through Ownership Act | Passed 401-14 | Yea |
+
+Also passed by **voice vote** Sept. 15-16 with no recorded position: H.R. 8775 (Ending Predator
+Access to Union Power Act), H.R. 9382 (NEXUS for Families, Kennedy D-NY-26), H.R. 979 (AM Radio for
+Every Vehicle), H.R. 6633/9332/9339/9615/9616/9617 (E&C energy package), H.R. 1342, S. 766, and the
+post office namings.
+
+**Two leads, both low priority and both needing a clarifier before use:**
+1. **Roll 304 vs. Rolls 306/311 in the same 24 hours.** He voted to pass the Diesel Emissions
+   Reduction Act (voluntary EPA grants to replace old diesel engines) and to revoke EPA's
+   authorizations for two CARB marine-engine emission rules. **Clarifier: these are different
+   instruments** — a grant program versus Clean Air Act waiver authority for one state — so this is
+   a juxtaposition, **not** a contradiction, and must not be written as one.
+2. **H.R. 10326 (PROOF Act), 217-207.** Touches Medicaid/SNAP/TANF data. Possible tie-in to the
+   SNAP and Medicaid threads if he posts about it.
+
+### Item status at close
+
+| Item | Final state |
+|---|---|
+| 1. CR | P.L. 119-103, FY26 rate through **Dec. 11**. No further action; the cliff lands in the lame duck |
+| 2. H.R. 1834 (ACA credits) | Senate Calendar 319, untouched. The House is now gone until Nov. 9 |
+| 3. H.R. 9393 | No floor vote, reported text still unpublished. **The CHECK Act entry's update commitment was never triggered** |
+| 4. H.R. 5408 / S. 1414 | No Senate action on either |
+| 5. H.R. 9661 | Intro/referral only. NYCBS `publication_note` **stands** |
+| 6. IIJA / Scaffold Law | IIJA extended on the CR to Dec. 11/12; no reauthorization. Scaffold preemption verified absent from the CR **and** from WRDA, the two plausible vehicles |
+| 7. FY27 approps | Nothing moved. H.R. 8646 and H.R. 8595 still sit in the Senate; no CPF is enacted. The "secured" entries' verdicts stand |
+| 8. DHS expo | Closed; addendum published |
+
+### Self-expiry: MET
+
+The Speaker has designated Sept. 16 - Nov. 8 a district work period, so **there are no scheduled
+votes remaining before the Nov. 3 election**. Per the task's own trigger, **`september-house-watch`
+should be disabled.** What remains is a lame-duck watch with a different trigger set (the House
+returns **Nov. 9**; funding and the IIJA extension both expire **Dec. 11**), plus the two open
+ACTIONs above.
+
+**Final roll checked: 314.**
