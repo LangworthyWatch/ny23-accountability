@@ -73,6 +73,8 @@ The House voted seven times on war powers resolutions in this period — **five 
 
 On May 14 the measure failed on a **212–212 tie**. One vote the other way would have carried it.
 
+**Update, September 17, 2026:** there is now an **eighth** vote in this series — Roll 307, September 15, 2026, on H.Con.Res. 93, which **passed 220–204** with Langworthy voting Nay. See the update at the end of this entry.
+
 **H.Con.Res. 86 passed both chambers.** The Senate agreed to it **50–48 on June 23, 2026**, with Republicans Cassidy, Collins, Murkowski and Paul voting yes.
 
 ### The part that must be stated precisely, because it is the weak point of the easy version
@@ -594,11 +596,132 @@ the next refresh point is the Mortgage Bankers Association's Q2 2026 survey in m
 
 ## Verdict: DOCUMENTED PATTERN
 
-The United States is producing new veterans in an operation Congress has twice voted to end and never authorized — one the administration told Congress was "terminated" in May while the strikes went on, under a label a Republican member calls an "absurd ruse." The count of who is being hurt in it is formally disputed by twelve senators, and the Pentagon's own published numbers went down, taking a New York soldier's name off the list. The disability ratings those service members will one day claim under are the ones H.R. 9237 would tighten, and Langworthy voted seven times to keep that provision alive, including on a motion that failed by a single vote. The mortgage backstop that keeps veterans in their homes was cancelled thirteen months before its replacement opened, and VA-loan foreclosures ran at their highest rate in a decade in the gap. The VA workforce that will process their claims is smaller by policy, and the research that would prove what this war did to them is budgeted to shrink again.
+The United States is producing new veterans in an operation Congress has twice voted to end and never authorized [**three** times as of September 15, 2026 — see the update below] — one the administration told Congress was "terminated" in May while the strikes went on, under a label a Republican member calls an "absurd ruse." The count of who is being hurt in it is formally disputed by twelve senators, and the Pentagon's own published numbers went down, taking a New York soldier's name off the list. The disability ratings those service members will one day claim under are the ones H.R. 9237 would tighten, and Langworthy voted seven times to keep that provision alive, including on a motion that failed by a single vote. The mortgage backstop that keeps veterans in their homes was cancelled thirteen months before its replacement opened, and VA-loan foreclosures ran at their highest rate in a decade in the gap. The VA workforce that will process their claims is smaller by policy, and the research that would prove what this war did to them is budgeted to shrink again.
 
 **And he sits on the committee that investigates exactly this.** A majority member of House Oversight, at a moment when a federal department's own casualty database contradicts its own spokesman, has tools that twelve senators in the minority do not: hearings, subpoenas, witnesses under oath. He has used committee power decisively before, sponsoring and floor-managing an omnibus rule that closed six bills to amendment. On this, we found no hearing request, no committee letter, and no public statement.
 
 Rep. Langworthy voted to increase toxic exposure funding and for the appropriations bill that raised VA research above last year's level. He has said nothing publicly about any of the rest.
+
+---
+
+## Update — September 17, 2026: An Eighth War Powers Vote, a Price Tag, and "Not Technically a War"
+
+Three things happened after this entry was published that bear on it directly. Two are new records;
+one is a claim now circulating that this entry should address precisely, because the popular version
+of it is wrong.
+
+### 1. An eighth vote, and the third one to pass
+
+On **September 15, 2026**, the House adopted **H.Con.Res. 93** (Rep. Seth Moulton, D-MA-6),
+directing the President under §5(c) of the War Powers Resolution to remove U.S. forces from
+hostilities against Iran. It **passed 220–204**. **Langworthy voted Nay.**
+
+| Roll call | Date | Measure | Result | His vote |
+|---|---|---|---|---|
+| **307** | **Sep. 15, 2026** | **H.Con.Res. 93 (Iran)** | **PASSED 220–204** | **Nay** |
+
+That makes **eight** war powers votes in this series — **six on Iran, two on Lebanon** — and
+**Langworthy has voted No on every one.** It is the **third** to pass the House, after H.Con.Res. 86
+and H.Con.Res. 89. So the sentence in the verdict below should now read that Congress has voted
+**three** times to end this operation.
+
+**The context that matters for reading this fairly:** Roll 307 was close to a party-line vote. Seven
+Republicans voted yes — **Barrett (MI), Davidson (OH), Fitzpatrick (PA), Mace (SC), Massie (KY),
+Miller-Meeks (IA) and Nunn (IA)** — and **all seven New York Republicans voted no**: Garbarino,
+LaLota, Langworthy, Lawler, Malliotakis, Stefanik and Tenney. On this vote Langworthy is not an
+outlier in his conference or his state delegation. What remains specific to him, and unchanged since
+July, is the absence of any explanation.
+
+The resolution was debated for one hour on **September 14** under a unanimous-consent order
+controlled by Reps. Mast and Moulton. On the voice vote the Chair announced the noes had prevailed;
+Moulton demanded the yeas and nays, and the recorded vote came the next evening. **Langworthy made
+no remarks in that debate.** His name appears in the September 14 *Congressional Record* only in
+vote tallies and in one Extension of Remarks — a tribute honoring **Six Nations Cemetery in the Town
+of Orange, Schuyler County**, submitted the same day. His office issued no press release on the
+resolution.
+
+### 2. CBO has now priced the war, and says DoD would not answer its questions
+
+On **September 15, 2026** — the same day as the vote — the Congressional Budget Office published
+**"Estimating the Cost of Combat Operations Against Iran,"** a letter to House Budget Committee
+Ranking Member Brendan F. Boyle. Its findings:
+
+- The conflict has cost the Department of Defense **approximately $38 billion** as of **August 1,
+  2026**, and CBO notes that "less intense combat operations are still ongoing."
+- Each additional month costs **$2 billion** at the level of violence seen in May and June, or
+  **$3 billion** at July's intensity.
+- Replacing expended munitions is the single largest component at **$21.7 billion** — **$13.1
+  billion** of it missile defense interceptors, **$7.3 billion** land-attack cruise missiles.
+- The United States "has probably used **between one-half and two-thirds** of its inventory" of
+  missile defense interceptors since June 2025, and rebuilding that inventory "would probably take
+  **at least five years**."
+- **"DoD did not respond to CBO's requests for information."** CBO states this twice, and says its
+  estimates are "subject to considerable uncertainty" as a result.
+
+**Two cautions on how these numbers should be used.** CBO warns that its categories "are not
+directly comparable or summable." And the $38 billion is a **Defense Department** figure only.
+
+**The exclusion is the part that belongs in this entry.** CBO writes that its analysis "does not
+assign financial costs to U.S. military personnel killed or injured in the conflict, nor does it
+include longer-term costs associated with future increases in outlays for **veterans' health care
+and disability compensation**." The price tag now being quoted in the press leaves out precisely the
+costs this entry documents — the claims, the ratings, the research, and the workforce that will
+process them.
+
+CBO also found the conflict has raised energy prices, and through them consumer prices generally.
+That analysis is treated separately from this entry.
+
+### 3. "Not technically a war" — what is true, and what is not
+
+A claim is circulating that service members' families are being **denied benefits because Congress
+never declared war**. The documented case is narrower than that, and the correction is on the
+record.
+
+**What happened.** **Maj. John "Alex" Klinner**, 33, was one of six crew members killed when a
+KC-135 refueling aircraft crashed in western Iraq in **March 2026** while supporting operations against
+Iran. His widow, **Libby Klinner**, posted that the Air Force had told her she was ineligible for
+additional combat-related benefits because Congress had not declared war. She told the Associated
+Press: *"My husband lost his life because we're in a war, and then I was told that because it's not
+technically a war, we lose out on something… It all comes down to principle."*
+
+**What followed.** After the post circulated widely, the Air Force acknowledged that **the
+information she had been given was inaccurate**. Her husband's final paycheck had already included —
+but had incorrectly itemized — the **$225 per month** combat-related hazard pay and the associated
+tax exclusion. That pay is **not** conditioned on a declaration of war; it turns on service in an
+area of grave danger of physical injury, or on being killed or wounded by hostile fire. Asked about
+the case at a White House briefing, Vice President Vance said, "We want to be as helpful as we can
+and ensure she gets everything that she is entitled to," and in the same appearance **declined to
+call the conflict a war**, saying there was "no active shooting." The President said: "A lot of
+people don't call it a war. I call it a military conflict, because it's small potatoes for us."
+
+**So the accurate statement is this:** a Gold Star family was given the wrong answer, and the wrong
+answer came out of the same terminological dispute this entry documents in Section B. It was
+corrected after it became public. It was not a policy of denying benefits.
+
+**And on VA benefits specifically, the premise does not hold at all.** Under **38 U.S.C. §101(11)**,
+a "period of war" includes the **Persian Gulf War**, which **§101(33)** defines as beginning
+**August 2, 1990** and ending "on the date thereafter prescribed by Presidential proclamation or by
+law." No such proclamation or law has ever been issued. Service today therefore already falls within
+a statutory period of war for VA purposes, and VA benefits that depend on wartime service do **not**
+require a new declaration. Anyone repeating the broader version of this claim is overstating it.
+
+**What is genuinely unresolved** is the question this entry raised in Section B and that the twelve
+senators' July 23 letter raised: how casualties and injuries in this operation are being classified
+and counted. Families have accused the Pentagon of not treating injuries as combat casualties. **The
+Army denies it.** That dispute is live, and this site does not resolve it here.
+
+### Sources added in this update
+
+- U.S. House Clerk, Roll Call 307, Sep. 15, 2026: <https://clerk.house.gov/evs/2026/roll307.xml>
+- U.S. House Clerk, floor proceedings for Sep. 14–16, 2026: <https://clerk.house.gov/floorsummary/HDoc-119-2-FloorProceedings.xml>
+- govinfo BILLSTATUS, H.Con.Res. 93 (119th Congress): <https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres93.xml>
+- *Congressional Record*, Sep. 14, 2026, Extensions of Remarks E903 (Six Nations Cemetery): <https://www.govinfo.gov/content/pkg/CREC-2026-09-14/html/CREC-2026-09-14-pt1-PgE903-4.htm>
+- Congressional Budget Office, "Estimating the Cost of Combat Operations Against Iran," Sep. 15, 2026: <https://www.cbo.gov/publication/62756> (PDF: <https://www.cbo.gov/system/files/2026-09/62756-Iran.pdf>)
+- 38 U.S.C. §101 (definitions of "period of war" and "Persian Gulf War"): <https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim>
+- *The Jerusalem Post*, "US Air Force widow initially denied benefits because Iran conflict 'not technically a war'": <https://www.jpost.com/international/article-907840>
+- *The Telegraph* (via AOL), "Pentagon refused payout for soldiers who died in Iran conflict 'because it isn't a war'": <https://www.aol.com/articles/pentagon-refuses-payout-soldiers-died-135214000.html>
+
+*Update compiled September 17, 2026. Retained source text: `research/sources/iran-cost-2026-09-17/`.*
 
 ---
 
