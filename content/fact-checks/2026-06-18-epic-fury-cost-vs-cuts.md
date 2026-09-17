@@ -180,10 +180,13 @@ claims, the ratings, the research and the staff who process them. Those are docu
 
 ### Sources added in this update
 
-- Congressional Budget Office, "Estimating the Cost of Combat Operations Against Iran," Sep. 15, 2026: <https://www.cbo.gov/publication/62756> (PDF: <https://www.cbo.gov/system/files/2026-09/62756-Iran.pdf>)
+- Congressional Budget Office, "Estimating the Cost of Combat Operations Against Iran," Sep. 15, 2026: <https://www.cbo.gov/publication/62756> ([archived](https://web.archive.org/web/20260916192100/https://www.cbo.gov/publication/62756)) (PDF: <https://www.cbo.gov/system/files/2026-09/62756-Iran.pdf>)
 - U.S. Energy Information Administration, New York All Grades All Formulations Retail Gasoline Prices, weekly: <https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emm_epmr_pte_sny_dpg&f=W>
 - U.S. Energy Information Administration, Central Atlantic (PADD 1B) No. 2 Diesel Ultra Low Sulfur Retail Prices, weekly: <https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&s=emd_epd2dxl0_pte_r1y_dpg&f=W>
-- U.S. House Clerk, Roll Call 307, Sep. 15, 2026 (H.Con.Res. 93, passed 220–204): <https://clerk.house.gov/evs/2026/roll307.xml>
+- U.S. House Clerk, Roll Call 307, Sep. 15, 2026 (H.Con.Res. 93, passed 220–204): <https://clerk.house.gov/evs/2026/roll307.xml> ([archived](https://web.archive.org/web/20260916105000/https://clerk.house.gov/evs/2026/roll307.xml))
+
+
+**A note on archiving these sources.** The CBO report page and PDF, House Clerk Roll Call 307, 38 U.S.C. §101 and the *Jerusalem Post* article were captured to the Wayback Machine and verified by playback on September 17, 2026. Four could not be: the two EIA price series (the only captures predate the September 2026 figures cited here), the *Congressional Record* page E903, and the Telegraph article as syndicated. Save Page Now was rate-limiting at the time of writing. The full retrieved text of every source above is retained in the repository at `research/sources/iran-cost-2026-09-17/`, and the EIA figures were re-derived from those retained tables before publication.
 
 *Update compiled September 17, 2026. Retained source text: `research/sources/iran-cost-2026-09-17/`.*
 
