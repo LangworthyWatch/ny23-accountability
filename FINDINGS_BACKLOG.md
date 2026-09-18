@@ -1573,8 +1573,20 @@ for this window, the 35-press-release silence finding in the Sept. 17 cost post)
 **Fairness items that must go in any update:** (a) posts 1 and 2 describe the bill accurately, a change
 from July's "Security and Enforcement Act ... protected on all fronts"; (b) **Buffalo Sector USBP
 encounters rose after FY2024** in CBP's public series (458 FY24 → 1,420 FY25 → 1,741 FY26 through
-July), so recent local activity is up even though the five-year GAO window shows Buffalo down. Keep the
-GAO and CBP series separate; they are different counts.
+July). **CORRECTED same day: this does not simply "cut his way."** The later counts are not comparable
+to earlier years as a measure of border crossings. CBP's own release (Nov 17, 2025, "Operation Bear
+Cave") documents Buffalo Station agents running immigration inspections at 10+ locations on the
+western Thruway, arresting 37, 30 holding valid CDLs from nine states, with the stated rationale
+unlawful presence and road safety and **no mention of criminal history**. NY Focus (Jul 27, 2026)
+reports Border Patrol trailing greenhouse workers ~20 miles outside Rochester; in that case CBP said the
+man arrested "had been ordered deported in 2023 and had a 'criminal record,'" and confirmed an agent
+pointed a gun at a U.S. citizen. CBP's encounter data also shows the Buffalo Sector mix shifting:
+Canadians were 12-30% FY21-24 and fell out of the top five in FY25-26, replaced by Mexican,
+Guatemalan, Honduran, Ecuadorian and Venezuelan nationals. **Defensible framing:** the post-2024 rise
+reflects, at least in part, where and whom agents are stopping, not only who is crossing. **Do not**
+characterize the arrests as non-criminal as a class; the public data cannot separate criminal from
+non-criminal or new crossers from long-term residents by sector. Keep the GAO and CBP series
+separate; they are different counts. (Raised by Zach, Sept 18.)
 
 **Name drift, minor:** posts call it the "Northern Border Security Enhancement Act" and "Enhancement and
 Review Act"; the Sept 16 press release title reads "Security and Enhancement Review Act." Low priority.

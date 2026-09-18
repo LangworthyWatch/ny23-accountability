@@ -19,3 +19,9 @@ Derived (recompute from the files above before citing):
 - GAO Table 2 (drug seizure events): Buffalo FY23 92 -> FY24 170.
 
 Do not mix GAO's apprehension series with CBP's public encounter series in one comparison; the definitions and counts differ.
+
+Added Sept 18 (enforcement-posture context for the Buffalo Sector FY25-26 rise):
+- `cbp-i90-operation.html` — CBP local media release, Nov 17, 2025: Buffalo Station USBP immigration inspections on the western Thruway, Nov 8-11, 2025; 37 arrested, 30 with CDLs from 9 states; no criminal-history claim in the release.
+- `nysfocus-tomato-2026-07-27.html` — NY Focus, Jul 27, 2026: Border Patrol arrests near a Sungrow greenhouse ~20 mi outside Rochester; CBP says the July 8 arrestee had a 2023 removal order and a "criminal record."
+- `invpost-wny-raids-2025-11-24.html` — Investigative Post, Nov 24, 2025 (ICE-focused; no Border Patrol attribution found).
+- Buffalo Sector USBP citizenship mix (CBP encounters): Canada 30% FY21, 12% FY24, out of top five FY25-26.
