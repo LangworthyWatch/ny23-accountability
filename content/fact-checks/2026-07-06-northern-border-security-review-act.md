@@ -214,8 +214,20 @@ kilograms) comes to about **9.75 million** potential doses. Reaching 270 million
 **540 kilograms — roughly 1,190 pounds**, nearly 28 times what CBP reports. Even fiscal 2025, when
 northern-border seizures rose to **77.1 pounds**, comes to about **17.5 million** by the same ratio.
 
-The video attached to the post is a WIVB news segment on the bill's passage; it shows no fentanyl
-figure and no source. We could not locate a source for the 270 million figure.
+**The administration's own figure is 9.5 million.** On **February 1, 2025**, the White House's order
+imposing duties to address illicit drugs crossing the northern border stated: "the amount of fentanyl
+that crossed the northern border last year could kill **9.5 million** Americans." That is close to what
+CBP's seizure data yields, and it is roughly one twenty-eighth of the figure in his post.
+
+**Where we looked for the 270 million figure, and what we found.** The post's full text cites no
+source. The attached 16-second video is a WIVB news segment on the bill's passage: we transcribed its
+audio, which describes the bill and mentions no fentanyl figure, and ran text recognition on every
+frame at two per second, which found no "270," no "fentanyl" and no source (the same pass did pick up
+the on-screen words "Northern," "Border" and "Langworthy," so it was reading the frames). His floor
+speech on the bill, which we also transcribed, does not mention fentanyl at all. CBP's published data
+does not support the figure, and neither the White House order nor a Manhattan Institute analysis
+comparing large seizures at the two borders contains it. Web searches for the phrase did not turn up
+a source. That is the extent of our search; it is not proof that no source exists.
 
 **Verdict on this claim: NOT SUPPORTED.** CBP's published figures contradict it by more than an
 order of magnitude, but we have not ruled out that the office is drawing on a dataset we have not
@@ -249,6 +261,7 @@ CONTEXT.**
 * GAO-26-109195 (full text, including Tables 1 and 2): <https://files.gao.gov/reports/GAO-26-109195/index.html> ([archived](https://web.archive.org/web/20260911100829/https://files.gao.gov/reports/GAO-26-109195/index.html))
 * CBP, Nationwide Encounters (area-of-responsibility data files): <https://www.cbp.gov/document/stats/nationwide-encounters>
 * CBP, Nationwide Drug Seizures (data files): <https://www.cbp.gov/document/stats/nationwide-drug-seizures>
+* The White House, "Imposing Duties to Address the Flow of Illicit Drugs Across Our Northern Border," Feb. 1, 2025: <https://www.whitehouse.gov/presidential-actions/2025/02/imposing-duties-to-address-the-flow-of-illicit-drugs-across-our-national-border/>
 * DEA, "Facts About Fentanyl": <https://www.dea.gov/resources/facts-about-fentanyl> ([archived](https://web.archive.org/web/20260825104120/https://www.dea.gov/resources/facts-about-fentanyl))
 * CBP, "U.S. Border Patrol led operation nets 37 illegal aliens arrested along Interstate 90 in Western New York," Nov. 17, 2025: <https://www.cbp.gov/newsroom/local-media-release/us-border-patrol-led-operation-nets-37-illegal-aliens-arrested-along> ([archived](https://web.archive.org/web/20260918205343/https://www.cbp.gov/newsroom/local-media-release/us-border-patrol-led-operation-nets-37-illegal-aliens-arrested-along))
 * *NY Focus*, "ICE and Border Patrol Are Picking Off These Tomato Plant Workers," Isabelle Taft, Jul. 27, 2026: <https://nysfocus.com/2026/07/27/ice-tomato-immigration-raids-arrests-upstate-farm> ([archived](https://web.archive.org/web/20260918205352/https://nysfocus.com/2026/07/27/ice-tomato-immigration-raids-arrests-upstate-farm))
@@ -259,8 +272,9 @@ by playback on September 18, 2026. Three could not be: the S. 850 status record 
 predates its August 5 passage; the Senate-passed text itself is archived above and documents passage)
 and the two CBP data-file pages. The Facebook posts are login-walled and cannot be captured at all;
 their text, metadata and timestamps are retained, the floor speech is transcribed at
-`research/transcripts/2026-09-18-h5517-floor-speech-wben-fb-1820053362335557.txt`, and frames from
-the fentanyl-claim video are retained. The GAO report, the CBP data files, the CBP release, the DEA
+`research/transcripts/2026-09-18-h5517-floor-speech-wben-fb-1820053362335557.txt`, the fentanyl-claim
+video's audio at `research/transcripts/2026-09-17-fentanyl-claim-reel-fb-1835459807808390-audio.txt`,
+and frames from that video are retained. The GAO report, the CBP data files, the CBP release, the DEA
 page and the *NY Focus* article are retained in full at `research/sources/northern-border-2026-09-18/`,
 and every figure above was recomputed from those files.
 

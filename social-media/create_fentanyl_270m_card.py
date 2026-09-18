@@ -19,7 +19,7 @@ y = c.subtitle(y, "Northern border fentanyl seizures in 2024, from his official 
 y = c.divider(y + 10, margin=48, pad=14)
 
 # ── Two panels: claim vs. data ──
-PT, PB = y, y + 372
+PT, PB = y, y + 356
 MID = c.w / 2
 c.panel(44, PT, MID - 8, PB, fill=RED_BG, outline=RED_BD, radius=8)
 c.panel(MID + 8, PT, c.w - 44, PB, fill=GREEN_BG, outline=GREEN_BD, radius=8)
@@ -64,12 +64,15 @@ c.text(c.w / 2, y + 54, "Fiscal 2025 northern border seizures rose to 77.1 lbs: 
        size=14, fill=DARK, anchor="mm")
 y += CH + 12
 
-y = c.kicker(y,
-             "We could not find a source for the 270 million figure.",
-             "If his office has one, we'll publish it.",
-             h=100)
+KH = 118
+c.panel(44, y, c.w - 44, y + KH, fill=NAVY, outline=None, radius=8)
+c.text(c.w / 2, y + 26, "The White House's own figure, Feb. 1, 2025:", size=16, fill="#CBD5E0", anchor="mm")
+c.text(c.w / 2, y + 56, 'northern border fentanyl "could kill 9.5 million Americans."', size=20, bold=True, fill=WHITE, anchor="mm")
+c.text(c.w / 2, y + 92, "We found no source for 270 million in the post, its video or CBP's data. If his office has one, we'll publish it.",
+       size=12.5, fill="#CBD5E0", anchor="mm")
+y += KH
 
-c.text(c.w / 2, y + 28, "Sources: CBP Nationwide Drug Seizures, FY2024 and FY2025, Northern Border region  ·  DEA, \"Facts About Fentanyl\"",
+c.text(c.w / 2, y + 28, "Sources: CBP Nationwide Drug Seizures (FY2024, FY2025, Northern Border)  ·  DEA, \"Facts About Fentanyl\"  ·  The White House, Feb. 1, 2025",
        size=11.5, fill=MUTED, anchor="mm")
 c.text(c.w / 2, y + 50, "langworthywatch.org/fact-checks/2026-07-06-northern-border-security-review-act/",
        size=12.5, bold=True, fill=NAVY, anchor="mm")

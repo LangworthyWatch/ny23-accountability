@@ -11,10 +11,13 @@ THE MATH
 → Reaching 270 million would take about 1,190 pounds, nearly 28 times what CBP seized there
 → The northern border was 0.2% of all the fentanyl CBP seized that year
 
+EVEN THE WHITE HOUSE SAYS OTHERWISE
+The administration's own February 2025 order on northern border drugs said the fentanyl that crossed the northern border "last year could kill 9.5 million Americans." That's close to what CBP's data shows, and about one twenty-eighth of 270 million.
+
 TO BE FAIR ABOUT IT
 → 9.75 million is still a serious number. Fentanyl kills, and the northern border deserves attention.
 → Seizures rose in fiscal 2025, to 77.1 pounds. By the same ratio that's about 17.5 million. Still nowhere near 270 million.
-→ We couldn't find a source for 270 million, and none is given in the post or the video. If his office has one, we'll publish it.
+→ The post cites no source, and its video (a TV news clip) never mentions the number. It isn't in CBP's data or the White House order either. If his office has a source for 270 million, we'll publish it.
 → His own floor speech on the bill used accurate numbers. The 270 million figure isn't in it.
 
 WHY IT MATTERS
