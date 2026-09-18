@@ -1551,3 +1551,36 @@ returns **Nov. 9**; funding and the IIJA extension both expire **Dec. 11**), plu
 ACTIONs above.
 
 **Final roll checked: 314.**
+
+## 2026-09-18 — Northern border post triage (five official-page posts, Sept 17-18) → update for `2026-07-06-northern-border-security-review-act.md`
+
+H.R. 5517 passed the House by **voice vote on Sept. 16** (no roll call). Within 48 hours the official
+page ("Congressman Nick Langworthy") posted four times about it, plus an airport-grant post. **None of
+the five mention the Iran war powers resolution the House passed Sept. 15** (this supports, but only
+for this window, the 35-press-release silence finding in the Sept. 17 cost post). Sources retained in
+`research/sources/northern-border-2026-09-18/` with a README; floor speech transcript in
+`research/transcripts/2026-09-18-h5517-floor-speech-wben-fb-1820053362335557.txt`.
+
+| # | Post | Claim | Check | Call |
+|---|---|---|---|---|
+| 1 | Sept 17, 12:01 PM (floor-speech video) | bill requires "regular threat assessments, an updated security strategy, and stronger Congressional oversight" | Matches the floor text exactly | **ACCURATE.** Credit it in the update |
+| 2 | Floor speech itself (Whisper) | USBP northern apprehensions "916 in FY2021 to more than 23,000 in FY2024"; Buffalo Sector "170 drug seizure events in FY2024, nearly double" the prior year; "the situation [at] our borders has improved" | CBP: 916 → 23,721 exact. GAO Table 2: Buffalo 92 → 170 | **ACCURATE**, and he concedes improvement on the floor |
+| 3 | Sept 17 (screenshot) | "Border Patrol apprehensions there nearly quadrupled, from 6,618 to almost 25,000" in five years | GAO-26-109195 Table 1: 6,618 (FY19) → 24,968 (FY24), +277%. **Accurate as quoted.** But the same report says the rise was concentrated in **Swanton (1,563 → 19,773)** and Blaine; the **other six sectors, including Buffalo, fell 49%**; **Buffalo Sector fell 31% (736 → 508)**; and apprehensions have been "at these reduced levels from April 2025 through April 2026" | **MISSING CONTEXT** — accurate number, selectively quoted from a source whose next sentences undercut the WNY framing |
+| 4 | Sept 17, 2:30 PM (reel) | "In 2024 ... the amount of fentanyl seized there was enough to potentially kill 270 million Americans" | CBP Nationwide Drug Seizures, Northern Border region, FY2024: **43.0 lb** (0.20% of CBP fentanyl seizures) ≈ **9.8 million** 2-mg doses. 270 million would need ~1,190 lb. Video frames: WIVB segment, no figure or source on screen. No source located by search | **NOT SUPPORTED** (FALSE is defensible on CBP's data; hold at NOT SUPPORTED until the office is asked for its source) |
+| 5 | Sept 18, 10:42 AM (WBEN) | "My Northern Border Security Enhancement Act gives law enforcement the **right resources** to secure our border" | Floor text: no funding, personnel, equipment or authority; the only "appropriat" hits are "appropriate congressional committees." His own speech in the attached video says "strategy," not resources | **Repeat of the July entry's core finding.** Same verdict (MISSING CONTEXT); arguably CONTRADICTION, since his own speech describes it accurately |
+| 6 | Sept 18 (screenshot) | Akron/Jesson Field: "I helped secure more than $833,000" of $13.5M | FY2026 FAA AIP, already logged Sept 15 | Routine credit-claiming; low priority |
+
+**Fairness items that must go in any update:** (a) posts 1 and 2 describe the bill accurately, a change
+from July's "Security and Enforcement Act ... protected on all fronts"; (b) **Buffalo Sector USBP
+encounters rose after FY2024** in CBP's public series (458 FY24 → 1,420 FY25 → 1,741 FY26 through
+July), so recent local activity is up even though the five-year GAO window shows Buffalo down. Keep the
+GAO and CBP series separate; they are different counts.
+
+**Name drift, minor:** posts call it the "Northern Border Security Enhancement Act" and "Enhancement and
+Review Act"; the Sept 16 press release title reads "Security and Enhancement Review Act." Low priority.
+
+**ACTION (Zach's call):** dated update to the July 6 entry covering (1) House passage by voice vote,
+(2) the accurate posts, (3) the "right resources" repeat, (4) the 270 million fentanyl figure against
+CBP data, (5) the 6,618 figure with GAO's own sector breakdown and post-2025 decline. Verdict stays
+MISSING CONTEXT. **Wayback:** GAO pages and CBP dataset pages not yet captured (SPN was rate-limiting
+Sept 17). Open question for the office: the source of "270 million."
