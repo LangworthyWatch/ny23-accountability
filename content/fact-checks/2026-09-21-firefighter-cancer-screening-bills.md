@@ -1,15 +1,15 @@
 ---
 title: "At a Firefighter Cancer Screening, He Said He Is 'Fighting in Washington' for Screenings. He Cosponsors Neither Firefighter Cancer Screening Bill."
-date: 2026-09-22
+date: 2026-09-21
 draft: false
 topic: "Public Safety / Healthcare"
 claim_date: "September 21, 2026"
 source: "Facebook Reel (official page), Clarence Center Fire Department event"
 source_url: "https://www.facebook.com/reel/2427312277758733/"
 archived_url: ""
-archive_note: "The reel's caption, upload date and account were retrieved with yt-dlp (research/sources/triage-2026-09-21/meta_fb_reel_2427312277758733.txt) and its 45-second WGRZ clip transcribed with Whisper small.en (research/transcripts/2026-09-21-firefighter-screening-wgrz-clip-fb-2427312277758733.srt). Wayback's save endpoint returned HTTP 500 on September 21 and 22, 2026, so sources are retained as text and XML under research/sources/firefighter-bills-2026-09-21/ and research/sources/triage-2026-09-21/: the fire fighters' union's 2026 Legislative Issues Book (PDF), govinfo BILLSTATUS files for each bill, and House Clerk roll-call XML. Captures will be added when the service recovers."
+archive_note: "The reel's caption, upload date and account were retrieved with yt-dlp (research/sources/triage-2026-09-21/meta_fb_reel_2427312277758733.txt) and its 45-second WGRZ clip transcribed with Whisper small.en (research/transcripts/2026-09-21-firefighter-screening-wgrz-clip-fb-2427312277758733.srt). Wayback's save endpoint returned HTTP 500 on September 21, 2026, so sources are retained as text and XML under research/sources/firefighter-bills-2026-09-21/ and research/sources/triage-2026-09-21/: the fire fighters' union's 2026 Legislative Issues Book (PDF), govinfo BILLSTATUS files for each bill, and House Clerk roll-call XML. Captures will be added when the service recovers."
 verdict: "MISSING CONTEXT"
-publication_note: "Published September 22, 2026. No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response, including the name of the bill his office had in mind, will be published here in full. Cosponsorship was read from each bill's official roster on govinfo, not from aggregators."
+publication_note: "Published September 21, 2026, the day of the event. No comment request was sent to Rep. Langworthy's office before publication; the questions below stand open and any response, including the name of the bill his office had in mind, will be published here in full. Cosponsorship was read from each bill's official roster on govinfo, not from aggregators."
 tags: ["firefighters", "cancer-screening", "volunteer-fire", "pfas", "cosponsorship", "iaff", "clarence"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
@@ -37,7 +37,7 @@ about the screening:
 > the key to saving lives and that's why I'm fighting in Washington to expand
 > access to cancer screenings and treatments."
 
-Fingerlakes1, reporting on his office's media advisory the day before: he
+Fingerlakes1, reporting on his office's media advisory on September 20: he
 "will also discuss efforts in Washington to expand access to cancer
 screening and treatment for firefighters, though the media advisory did not
 identify a specific bill." The advisory also did not say which medical
@@ -170,4 +170,4 @@ it does not allege that any statement was knowingly false. Rep. Langworthy's
 office has not been asked for comment as of this writing; any response will
 be published in full.
 
-*Last updated: September 22, 2026*
+*Last updated: September 21, 2026*
