@@ -1,4 +1,4 @@
-# DRAFT — not yet posted
+# POSTED Sept 21, 2026
 # Entry: /fact-checks/2026-09-21-firefighter-cancer-screening-bills/  (MISSING CONTEXT)
 # Card: firefighter_screening_card.png (create_firefighter_screening_card.py)
 
