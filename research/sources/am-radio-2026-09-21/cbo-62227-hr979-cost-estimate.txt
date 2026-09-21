@@ -1,0 +1,41 @@
+SOURCE: https://www.cbo.gov/publication/62227 (PDF: https://www.cbo.gov/system/files/2026-03/hr979.pdf, 189,868 bytes, 3 pages)
+RETRIEVED: 2026-09-21 via Chrome (cbo.gov blocks curl/WebFetch). Page text below is verbatim from the publication page; the PDF was fetched in-page and text-extracted with pdf.js as a cross-check (5,364 characters, same estimate).
+
+H.R. 979, AM Radio for Every Vehicle Act of 2025
+Cost Estimate, March 16, 2026
+As reported by the House Committee on Energy and Commerce on November 12, 2025
+
+At a Glance (By Fiscal Year, Millions of Dollars): columns 2026 | 2026-2031 | 2026-2036
+Direct Spending (Outlays): 0 | 0 | 0
+Revenues: * | * | *
+Increase or Decrease (-) in the Deficit: * | * | *
+Spending Subject to Appropriation (Outlays): * | 1 | not estimated
+Increases net direct spending in any of the four consecutive 10-year periods beginning in 2037? No
+Statutory pay-as-you-go procedures apply? Yes
+Increases on-budget deficits in any of the four consecutive 10-year periods beginning in 2037? No
+Contains intergovernmental mandate? Yes, Under Threshold
+Contains private-sector mandate? Yes, Under Threshold
+* = between -$500,000 and $500,000.
+
+H.R. 979 would direct the Department of Transportation (DOT) to issue a rule requiring that AM broadcast stations be accessible in all passenger motor vehicles imported into, shipped within, or manufactured and sold within the United States. (Passenger motor vehicles are those designed to primarily carry their operator and up to 12 passengers; the definition does not include motorcycles.) The bill would require DOT to issue the rule within one year of enactment and report to the Congress at least every five years on the rule's effects. The rule would sunset eight years after enactment.
+
+Additionally, H.R. 979 would require the Government Accountability Office (GAO) within one year of enactment to report on the role that AM broadcasts in passenger vehicles play in disseminating emergency alerts through the Integrated Public Alert and Warning System.
+
+Using information on the cost of issuing similar rules and reports, CBO estimates that implementing the bill would cost DOT and GAO a total of $1 million over the 2026-2031 period. Any related spending would be subject to the availability of appropriated funds.
+
+Additionally, H.R. 979 would authorize DOT to assess civil penalties on manufacturers that fail to comply with the new rule; such penalties are recorded as revenues. CBO estimates that any additional revenues collected would total less than $500,000 over the 2026-2036 period because the number of violations would probably be small.
+
+The bill would impose a private-sector mandate as defined in the Unfunded Mandates Reform Act (UMRA) on the manufacturers of passenger vehicles sold in the United States by requiring them to provide access to AM broadcast stations at no cost to the consumer. Prior to the regulation taking effect, manufacturers would be required to provide access to AM broadcast stations in unequipped vehicles at no cost if requested.
+
+CBO expects this would primarily affect manufacturers of electric vehicles (EVs) who have removed, or announced plans to remove, standard AM radio equipment from their vehicles. The bill also would prohibit future phase-outs in other vehicles where the equipment is standard, such as gasoline and diesel passenger vehicles, while the rule is in effect.
+
+Based on sales data for EVs, the legislation would require manufacturers to update radio equipment in about 2 to 2.5 million vehicles each year. Since most EVs are already equipped with FM radio, this would likely result in a small increase in production costs to update the media system software and modify other radio components. CBO estimates the total cost of the mandate would be several millions of dollars each year the requirement is in effect and would not exceed the annual threshold established in UMRA for private-sector mandates ($214 million in 2026, adjusted annually for inflation).
+
+As a result of the legislation, some manufacturers may elect to make other modifications to the vehicle as well to improve audio quality. These modifications are not considered part of the costs to comply with the mandate because they would be made at the discretion of the manufacturer.
+
+The bill also would preempt state and local laws by prohibiting those entities from enforcing any laws or regulations pertaining to the access of AM broadcast stations in passenger vehicles. CBO estimates that the preemption would not result in an increase in or loss of revenue to state or local governments and therefore would fall well below the threshold in UMRA for intergovernmental mandates ($107 million in 2026, adjusted annually for inflation).
+
+On February 12, 2025, CBO transmitted a cost estimate for S. 315, the AM Radio for Every Vehicle Act of 2025, as ordered reported by the Senate Committee on Commerce, Science, and Transportation on February 5, 2025. The two bills are similar, and CBO's estimates of their budgetary effects are the same.
+
+The CBO staff contacts for this estimate are Katherine Chou (for federal costs) and Brandon Lever (for mandates). The estimate was reviewed by H. Samuel Papenfuss, Deputy Director of Budget Analysis.
+Phillip L. Swagel, Director, Congressional Budget Office
