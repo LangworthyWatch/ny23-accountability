@@ -17,7 +17,7 @@ VERDICT: DOCUMENTED PATTERN
 
 The fair reading: a bipartisan framework bill from Reps. Obernolte and Trahan exists, and its preemption language was narrowed after criticism. A patchwork of state laws is a concern both parties share. Staff hours can't be counted, so "hundreds of hours" is uncheckable rather than false.
 
-The pattern: this is the eighth time since December he has backed federal override of a state or local rule, five of them aimed at New York: gas hookups, supplement sales, AI, data privacy, the ten-year AI ban, a New York City bus ordinance, AM radio rules, and now "one clear federal framework." On Sept 4 he wrote of the city's members wanting local control: "Rules for thee, not for me."
+The pattern: this is the eighth time since December he has backed federal override of a state or local rule, most of them aimed at New York: gas hookups, supplement sales, AI, data privacy, the ten-year AI ban, a New York City bus ordinance, AM radio rules, and now "one clear federal framework." On Sept 4 he wrote of the city's members wanting local control: "Rules for thee, not for me."
 
 Every vote, roster and release is cited in the entry.
 
