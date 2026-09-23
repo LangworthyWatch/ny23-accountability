@@ -135,6 +135,63 @@ See: [SECURE Data Act: Langworthy Cosponsors Federal Bill That Would Preempt the
 
 ---
 
+## Update — September 2026: The Vote for a Ten-Year Ban on State AI Laws, and Three More Instances
+
+Four further items belong on this record; together with the SECURE Data
+Act update above they bring the pattern to eight.
+
+**1. May 22, 2025: his vote for a ten-year moratorium on state AI laws.**
+The House-passed version of H.R. 1, the One Big Beautiful Bill Act,
+contained a provision at section 43201(c): "no State or political
+subdivision thereof may enforce, during the 10-year period beginning on the
+date of the enactment of this Act, any law or regulation of that State or a
+political subdivision thereof limiting, restricting, or otherwise
+regulating artificial intelligence models, artificial intelligence
+systems..." Rep. Langworthy voted Yea on passage (Roll Call 145, May 22,
+2025). The Senate struck the provision on July 1, 2025 by a vote of 99 to 1,
+on an amendment from Senators Cantwell and Blackburn; only Senator Tillis
+voted to keep it. The February 2026 letter documented above, asking the
+Commerce Department to challenge New York's RAISE Act, followed the vote by
+nine months.
+
+**2. September 2, 2026: the BUSES Act.** His own bill, H.R. 9317, would
+override New York City's engine-idling ordinance for buses; see
+[the BUSES entry](/fact-checks/2026-09-04-buses-act-bounty-post-vs-committee-record/),
+including his remark to the city's members in the markup that "it doesn't
+stop you from opining about how we should heat our homes in my district."
+
+**3. September 15, 2026: the AM Radio for Every Vehicle Act.** He is a
+cosponsor of H.R. 979, which passed the House by voice vote. The
+Congressional Budget Office's estimate notes that the bill "would preempt
+state and local laws by prohibiting those entities from enforcing any laws
+or regulations pertaining to the access of AM broadcast stations in
+passenger vehicles," an intergovernmental mandate under the Unfunded
+Mandates Reform Act. This one is bipartisan to the point of unanimity, with
+158 Democratic and 159 Republican cosponsors; it is listed here because it
+is preemption, not because it is partisan.
+
+**4. September 23, 2026: the statement.** On his official page, over a clip
+of his remarks at the Clarence Center Fire Department: "The process of this
+cannot be the 'Wild West,' with 50 states writing 50 different sets of
+rules. America needs one clear federal framework." In the clip: "What we
+cannot have is 50 states all doing it their own way. We will over-regulate
+ourselves to the point where we will become Europe." He credited "a
+bipartisan work product, a marker bill" by Reps. Obernolte and Trahan. That
+bill, the Great American AI Act, was released as a discussion draft on June
+4, 2026; Roll Call reported on September 15 that "a draft version of the
+bill set a three-year span for more broad preemption language, but that
+language was narrowed and the time window was removed in the introduced
+version," and that no AI safety bill "seems to have a critical mass of
+support." He is not listed as a cosponsor in the version of the record
+checked for this update.
+
+**In plain language:** the pattern documented in February now includes a
+recorded vote. Before he wrote to the Commerce Department about New York's
+AI law, he voted for a bill that would have barred New York from enforcing
+it for ten years. The Senate removed that provision 99 to 1.
+
+---
+
 ## Summary Table
 
 | Bill/Action | State Law Targeted | Industry Beneficiaries | Langworthy's Framing |
@@ -143,6 +200,10 @@ See: [SECURE Data Act: Langworthy Cosponsors Federal Bill That Would Preempt the
 | Dietary Supplements Act (H.R. 7366) | NY minor supplement sales ban | Supplement manufacturers and retailers | "Baseless overregulation" |
 | AI regulation letter (Feb 19, 2026) | NY RAISE Act, CO AI Act | Technology companies | "Patchwork" hindering innovation |
 | SECURE Data Act (H.R. 8413) | NY SHIELD Act, NY Privacy Act (S3044), NY S9088A | 57-association coalition: tech platforms, ad-tech, telecom, data brokers, retail | (no public Langworthy statement on this bill as of June 6, 2026) |
+| H.R. 1 as passed by the House (May 22, 2025), sec. 43201(c) | All state and local AI laws, ten years (NY RAISE Act among them) | AI developers | Voted Yea; provision struck by the Senate 99–1 |
+| BUSES Act (H.R. 9317, his bill) | NYC bus-idling ordinance | Motorcoach and school-bus operators | "Asinine bus-driver bounty scheme" |
+| AM Radio for Every Vehicle Act (H.R. 979, cosponsor) | Any state or local law on AM access in vehicles (CBO) | Broadcasters | "Critically important lifeline" |
+| AI "one clear federal framework" statement (Sept 23, 2026) | "50 states writing 50 different sets of rules" | AI developers | "Cannot be the 'Wild West'" |
 
 ---
 
@@ -167,6 +228,12 @@ See: [SECURE Data Act: Langworthy Cosponsors Federal Bill That Would Preempt the
 - [NY Senate — S5823C (supplement law)](https://www.nysenate.gov/legislation/bills/2023/S5823/amendment/C)
 - [Governor Hochul — RAISE Act](https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-require-ai-frameworks-ai-frontier-models)
 - [Colorado SB 24-205](https://leg.colorado.gov/bills/sb24-205)
+- H.R. 1 as passed by the House, engrossed text (sec. 43201(c) moratorium): https://www.govinfo.gov/content/pkg/BILLS-119hr1eh/html/BILLS-119hr1eh.htm ; House Clerk Roll Call 145, May 22, 2025: https://clerk.house.gov/Votes/2025145
+- Senate Commerce Committee (Cantwell), "Senate Strikes AI Moratorium from Budget Reconciliation Bill in Overwhelming 99-1 Vote," July 1, 2025: https://www.commerce.senate.gov/press/dem/release/senate-strikes-ai-moratorium-from-budget-reconciliation-bill-in-overwhelming-99-1-vote-2025-7/
+- CBO, cost estimate for H.R. 979, March 16, 2026 (state and local preemption): https://www.cbo.gov/publication/62227
+- Rep. Obernolte, "Obernolte, Trahan release a discussion draft of the Great American AI Act," June 4, 2026: https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act
+- Roll Call, "AI threats confront a Congress far from erecting guardrails," September 15, 2026: https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/
+- Rep. Langworthy, official Facebook page, September 23, 2026 (video 1064911233100136; caption and transcript retained at research/sources/triage-2026-09-23/ and research/transcripts/)
 - [Trump AI Executive Order (Dec 2025)](https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/)
 - [CRN endorsement of H.R. 7366](https://www.crnusa.org/newsroom/crn-applauds-introduction-dietary-supplement-regulatory-uniformity-act)
 - [Harvard T.H. Chan SPH — Supplement restrictions](https://content.sph.harvard.edu/wwwhsph/sites/1267/2021/02/Restricting-Sale-of-Weight-Loss-and-Muscle-Building-Supplements.pdf)
@@ -187,4 +254,4 @@ See: [SECURE Data Act: Langworthy Cosponsors Federal Bill That Would Preempt the
 
 **Note:** This entry documents publicly available legislative records, press releases, and industry endorsements. Readers may draw their own conclusions.
 
-*Last updated: February 25, 2026 (June 2026 update added — SECURE Data Act / H.R. 8413)*
+*Last updated: September 23, 2026 (September update: the May 2025 AI-moratorium vote, BUSES Act, AM Radio Act, and the September 23 statement)*
