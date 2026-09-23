@@ -195,13 +195,18 @@ votes on 65 days, the fewest through that point in any midterm year since
 1994 according to a No Labels count. The Energy and Commerce Committee's
 calendar shows six AI-titled hearings in 2025 and one in 2026, on AI and
 the electric grid. The bipartisan House AI task force that Rep. Obernolte
-chaired did its work in 2024; its report release does not list him among
-the task force's 24 members, and the member list was not checked. In the
+chaired did its work in 2024; the February 20, 2024 announcement lists all
+24 members, and he is not one of them. In the
 clip he says, "I've been talking about this in Washington, D.C. since I
 came to Congress" and "I work on AI in AI policy every day." Of his 397
 press releases from 2023 through September 2026, four mention AI, each in
-passing, and none announces an AI policy position or bill; his first
-technology bill, on quantum computing, was introduced August 27, 2026.
+passing, and none announces an AI policy position or bill. Of the 691 bills he has
+cosponsored in the House, two concern AI by title, both in the previous
+Congress: the Federal A.I. Governance and Transparency Act of 2024 (joined
+2024-03-05) and the Preventing Deepfakes of Intimate Images Act
+(joined 2024-03-05); neither became law. In this Congress, none.
+His first technology bill of his own, on quantum computing, was introduced
+August 27, 2026.
 
 **In plain language:** the pattern documented in February now includes a
 recorded vote. Before he wrote to the Commerce Department about New York's
@@ -257,6 +262,8 @@ it for ten years. The Senate removed that provision 99 to 1.
 - docs.house.gov committee calendar, daily pages January 2025 through September 2026 (Energy and Commerce AI-titled hearings), retained at research/sources/triage-2026-09-23/byday/
 - Rep. Obernolte, "House Bipartisan Task Force on Artificial Intelligence Delivers Report," December 17, 2024: https://obernolte.house.gov/media/press-releases/house-bipartisan-task-force-artificial-intelligence-delivers-report
 - langworthy.house.gov press releases, 2023 to September 2026 (397 pages retained at research/sources/triage-2026-09-23/press/)
+- Democratic Leader Jeffries, "House Launches Bipartisan Task Force on Artificial Intelligence," February 20, 2024 (24 members listed): https://democraticleader.house.gov/media/press-releases/house-launches-bipartisan-task-force-artificial-intelligence
+- Congress.gov member page, cosponsored legislation (691 bills, read in a browser September 23, 2026): https://www.congress.gov/member/nicholas-langworthy/L000600?q=%7B%22sponsorship%22%3A%22cosponsored%22%7D ; govinfo BILLSTATUS for H.R. 7532 and H.R. 3106 (118th Congress)
 - [Trump AI Executive Order (Dec 2025)](https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/)
 - [CRN endorsement of H.R. 7366](https://www.crnusa.org/newsroom/crn-applauds-introduction-dietary-supplement-regulatory-uniformity-act)
 - [Harvard T.H. Chan SPH — Supplement restrictions](https://content.sph.harvard.edu/wwwhsph/sites/1267/2021/02/Restricting-Sale-of-Weight-Loss-and-Muscle-Building-Supplements.pdf)
