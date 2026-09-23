@@ -1,0 +1,581 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1"><meta http-equiv="Content-Type" content="text/javascript; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"gov-bam.nr-data.net","errorBeacon":"gov-bam.nr-data.net","licenseKey":"9993044f26","applicationID":"91215909","transactionName":"Z1xRYBQHCxYFAEQNCl4Wcmc2SQYECAZeAARCFlFNAgccSwUQQBw=","queueTime":0,"applicationTime":520,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["gov-bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"9993044f26",applicationID:"91215909",browserID:"91215921"};;/*! For license information please see nr-loader-rum-1.322.0.min.js.LICENSE.txt */
+(()=>{var e={8122(e,t,r){"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3);if(!t||"object"!=typeof t)return(0,n.R)(4);const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(r).length?e:r;for(let s in a)if(void 0!==e[s])try{if(null===e[s]){r[s]=null;continue}Array.isArray(e[s])&&Array.isArray(t[s])?r[s]=Array.from(new Set([...e[s],...t[s]])):e[s]instanceof Map||e[s]instanceof Set||e[s]instanceof Date||e[s]instanceof RegExp?r[s]=e[s]:"object"==typeof e[s]&&null!==t[s]&&"object"==typeof t[s]?r[s]=i(e[s],t[s]):r[s]=e[s]}catch(e){r[s]||(0,n.R)(1,e)}return r}catch(e){(0,n.R)(2,e)}}},2555(e,t,r){"use strict";r.d(t,{f:()=>s});var n=r(384),i=r(8122);const a={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0};function s(e){try{return!!e.licenseKey&&!!e.errorBeacon&&!!e.applicationID}catch(e){return!1}}r.d(t,["D",0,e=>(0,i.a)(e,a)])},7699(e,t,r){"use strict";var n=r(860);const i={[n.K7.logging]:!0,[n.K7.genericEvents]:!0,[n.K7.jserrors]:!0,[n.K7.ajax]:!0};r.d(t,["It",0,1e6,"KC",0,i,"qh",0,"SESSION_ERROR"])},9324(e,t,r){"use strict";r.d(t,["xv",0,"1.322.0"])},981(e,t,r){"use strict";r.d(t,["R",0,{AJAX:"AjaxRequest",PA:"PageAction",UA:"UserAction",BP:"BrowserPerformance",WS:"WebSocket",SPV:"SecurityPolicyViolation",JSE:"JavaScriptError",LOG:"Log",PVE:"PageView",PVT:"PageViewTiming",SR:"SessionReplay",ST:"SessionTrace",BI:"BrowserInteraction"}])},6154(e,t,r){"use strict";var n=r(1863);const i="undefined"!=typeof window&&!!window.document,a="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),s=i?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=Boolean("hidden"===s?.document?.visibilityState),c=""+s?.location,u=/iPad|iPhone|iPod/.test(s.navigator?.userAgent),d=u&&"undefined"==typeof SharedWorker,l=((()=>{const e=s.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Date.now()-(0,n.t)());r.d(t,["OF",0,u,"RI",0,i,"WN",0,l,"bv",0,a,"gm",0,s,"m",0,c,"mw",0,o,"sb",0,d,"zk",0,()=>{const e=s?.performance?.getEntriesByType?.("navigation")?.[0];if(e&&e.responseStart>0&&e.responseStart<s.performance.now())return e}])},3241(e,t,r){"use strict";r.d(t,{W:()=>i});var n=r(6154);function i(e={}){try{n.gm.dispatchEvent(new CustomEvent("newrelic",{detail:e}))}catch(e){}}},1687(e,t,r){"use strict";r.d(t,{Ak:()=>o,Ze:()=>u,x3:()=>c});var n=r(3241),i=r(3606),a=r(860),s=r(2646);function o(e,t){if(!e)return;const r={staged:!1,priority:a.P3[t]||0};e.runtime.drainRegistry.get(t)||e.runtime.drainRegistry.set(t,r)}function c(e,t){if(!e)return;const r=e.runtime.drainRegistry;r&&(r.get(t)&&r.delete(t),l(e,t,!1),r.size&&d(e))}function u(e,t="feature",r=!1){if(e){if(!e.runtime.drainRegistry.get(t)||r)return l(e,t);e.runtime.drainRegistry.get(t).staged=!0,d(e)}}function d(e){if(!e)return;const t=Array.from(e.runtime.drainRegistry);t.every(([e,t])=>t.staged)&&(t.sort((e,t)=>e[1].priority-t[1].priority),t.forEach(([t])=>{e.runtime.drainRegistry.delete(t),l(e,t)}))}function l(e,t,r=!0){if(!e)return;const a=e.ee,o=i.i.handlers;if(a&&!a.aborted&&a.backlog&&o){if((0,n.W)({type:"lifecycle",name:"drain",feature:t}),r){const e=a.backlog[t],r=o[t];if(r){for(let t=0;e&&t<e.length;++t)f(e[t],r);Object.entries(r).forEach(([e,t])=>{Object.values(t||{}).forEach(t=>{t[0]?.on&&t[0].context()instanceof s.y&&!t[0].listeners(e).includes(t[1])&&t[0].on(e,t[1])})})}}a.isolatedBacklog||delete o[t],a.backlog[t]=null,a.emit("drain-"+t,[])}}function f(e,t){var r=e[1];Object.values(t[r]||{}).forEach(t=>{var r=e[0];if(t[0]===r){var n=t[1],i=e[3],a=e[2];n.apply(i,a)}})}},7836(e,t,r){"use strict";var n=r(384),i=r(8990),a=r(2646),s=r(5607);const o="nr@context:".concat(s.W),c=function e(t,r){var n={},s={},d={},l=!1;try{l=16===r.length&&u.initializedAgents?.[r]?.runtime.isolatedBacklog}catch(e){}var f={on:p,addEventListener:p,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,a){!1!==a&&(a=!0);if(c.aborted&&!i)return;t&&a&&t.emit(e,r,n);var o=g(n);m(e).forEach(e=>{e.apply(o,r)});var u=v()[s[e]];u&&u.push([f,e,r,o]);return o},get:h,listeners:m,context:g,buffer:function(e,t){const r=v();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach(([e,n])=>{s[n]=t,t in r||(r[t]=[])})},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach(e=>{delete f.backlog[e]})},isBuffering:function(e){return!!v()[s[e]]},debugId:r,backlog:l?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:l};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function g(e){return e&&e instanceof a.y?e:e?(0,i.I)(e,o,()=>new a.y(o)):new a.y(o)}function p(e,t){n[e]=m(e).concat(t)}function m(e){return n[e]||[]}function h(t){return d[t]=d[t]||e(f,t)}function v(){return f.backlog}}(void 0,"globalEE"),u=(0,n.Zm)();u.ee||(u.ee=c),r.d(t,["P",0,o,"ee",0,c])},2646(e,t,r){"use strict";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},9908(e,t,r){"use strict";r.d(t,{d:()=>n,p:()=>i});var n=r(7836).ee.get("handle");function i(e,t,r,i,a){a?(a.buffer([e],i),a.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},3606(e,t,r){"use strict";r.d(t,{i:()=>a});var n=r(9908);a.on=s;var i=a.handlers={};function a(e,t,r,a){s(a||n.d,i,e,t,r)}function s(e,t,r,i,a){a||(a="feature"),e||(e=n.d);var s=t[a]=t[a]||{};(s[r]=s[r]||[]).push([e,i])}},3878(e,t,r){"use strict";function n(e,t){return{capture:e,passive:!1,signal:t}}function i(e,t,r=!1,i){window.addEventListener(e,t,n(r,i))}function a(e,t,r=!1,i){document.addEventListener(e,t,n(r,i))}r.d(t,{DD:()=>a,jT:()=>n,sp:()=>i})},5607(e,t,r){"use strict";const n=(0,r(9566).bz)();r.d(t,["W",0,n])},9566(e,t,r){"use strict";r.d(t,{LA:()=>s,bz:()=>a});var n=r(6154);function i(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n.gm?.crypto||n.gm?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".split("").map(e=>"x"===e?i(t,r++).toString(16):"y"===e?(3&i()|8).toString(16):e).join("")}function s(e){const t=n.gm?.crypto||n.gm?.msCrypto;let r,a=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const s=[];for(var o=0;o<e;o++)s.push(i(r,a++).toString(16));return s.join("")}},2614(e,t,r){"use strict";r.d(t,["BB",0,18e5,"Wt",0,"NRBA_SESSION::","iL",0,{SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},"tS",0,{STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},"wk",0,144e5])},1863(e,t,r){"use strict";function n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},944(e,t,r){"use strict";r.d(t,{R:()=>i});var n=r(3241);function i(e,t){"function"==typeof console.debug&&(console.debug("New Relic Warning: https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t),(0,n.W)({drained:null,type:"data",name:"warn",feature:"warn",data:{code:e,secondary:t}}))}},8990(e,t,r){"use strict";r.d(t,{I:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},6389(e,t,r){"use strict";function n(e,t=500,r={}){const n=r?.leading||!1;let i;return(...r)=>{n&&void 0===i&&(e.apply(this,r),i=setTimeout(()=>{i=clearTimeout(i)},t)),n||(clearTimeout(i),i=setTimeout(()=>{e.apply(this,r)},t))}}function i(e){let t=!1;return(...r)=>{t||(t=!0,e.apply(this,r))}}r.d(t,{J:()=>i,s:()=>n})},1910(e,t,r){"use strict";r.d(t,{i:()=>a});var n=r(944);const i=new Map;function a(...e){return e.every(e=>{if(i.has(e))return i.get(e);const t="function"==typeof e?e.toString():"",r=t.includes("[native code]"),a=t.includes("nrWrapper");return r||a||(0,n.R)(64,e?.name||t),i.set(e,r),r})}},5289(e,t,r){"use strict";r.d(t,{GG:()=>s,Qr:()=>c,sB:()=>o});var n=r(3878),i=r(6389);function a(){return"undefined"==typeof document||"complete"===document.readyState}function s(e,t){if(a())return e();const r=(0,i.J)(e),s=setInterval(()=>{a()&&(clearInterval(s),r())},500);(0,n.sp)("load",r,t)}function o(e){if(a())return e();(0,n.DD)("DOMContentLoaded",e)}function c(e){if(a())return e();(0,n.sp)("popstate",e)}},384(e,t,r){"use strict";r.d(t,{Zm:()=>c,bQ:()=>d,dV:()=>u,pV:()=>l});var n=r(6154),i=r(1863),a=r(944),s=r(1910);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function c(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function u(){let e=c();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate||n.gm.setInterval,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch,WS:n.gm.WebSocket},(0,s.i)(...Object.values(e.o))),e}function d(e,t){let r=c();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new Date},r.initializedAgents[e]=t,2===Object.keys(r.initializedAgents).length&&(0,a.R)(69)}function l(){return function(){let e=c();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=c();const t=e.init||{};e.init={...t}}(),u(),function(){let e=c();const t=e.loader_config||{};e.loader_config={...t}}(),c()}r.d(t,["NT",0,o])},2843(e,t,r){"use strict";r.d(t,{G:()=>a,u:()=>i});var n=r(3878);function i(e,t=!1,r,i){(0,n.DD)("visibilitychange",function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)},r,i)}function a(e,t,r){(0,n.sp)("pagehide",e,t,r)}},9300(e,t,r){"use strict";r(860).K7.ajax;r.d(t,["mo",0,{NONE:"none",FAILURES:"failures",ALL:"all"}])},3969(e,t,r){"use strict";const n=r(860).K7.metrics;r.d(t,["TZ",0,n,"XG",0,"storeEventMetrics","xV",0,"storeSupportabilityMetrics"])},6630(e,t,r){"use strict";const n=r(860).K7.pageViewEvent;r.d(t,["T",0,n])},782(e,t,r){"use strict";const n=r(860).K7.pageViewTiming;r.d(t,["T",0,n])},4234(e,t,r){"use strict";r.d(t,{W:()=>i});var n=r(1687);class i{constructor(e,t){this.agentRef=e,this.ee=e?.ee,this.featureName=t,this.blocked=!1}deregisterDrain(){(0,n.x3)(this.agentRef,this.featureName)}}},7767(e,t,r){"use strict";var n=r(6154);r.d(t,["V",0,e=>n.RI&&!0===e?.privacy.cookies_enabled])},8362(e,t,r){"use strict";r.d(t,{d:()=>a});var n=r(9566),i=r(1741);class a extends i.W{agentIdentifier=(0,n.LA)(16)}},1741(e,t,r){"use strict";r.d(t,{W:()=>a});var n=r(944),i=r(4261);class a{#e(e,...t){if(this[e]!==a.prototype[e])return this[e](...t);(0,n.R)(35,e)}addPageAction(e,t){return this.#e(i.hG,e,t)}register(e){return this.#e(i.eY,e)}recordCustomEvent(e,t){return this.#e(i.fF,e,t)}setPageViewName(e,t){return this.#e(i.Fw,e,t)}setCustomAttribute(e,t,r){return this.#e(i.cD,e,t,r)}noticeError(e,t){return this.#e(i.o5,e,t)}setUserId(e,t=!1){return this.#e(i.Dl,e,t)}setApplicationVersion(e){return this.#e(i.nb,e)}setErrorHandler(e){return this.#e(i.bt,e)}addRelease(e,t){return this.#e(i.k6,e,t)}log(e,t){return this.#e("log",e,t)}start(){return this.#e("start")}finished(e){return this.#e(i.BL,e)}recordReplay(){return this.#e(i.CH)}pauseReplay(){return this.#e(i.Tb)}addToTrace(e){return this.#e(i.U2,e)}setCurrentRouteName(e){return this.#e(i.PA,e)}interaction(e){return this.#e(i.dT,e)}wrapLogger(e,t,r){return this.#e(i.Wb,e,t,r)}measure(e,t){return this.#e(i.V1,e,t)}consent(e){return this.#e(i.Pv,e)}}},4261(e,t,r){"use strict";r.d(t,["BL",0,"finished","CH",0,"recordReplay","Dl",0,"setUserId","Fw",0,"setPageViewName","PA",0,"setCurrentRouteName","Pv",0,"consent","Tb",0,"pauseReplay","U2",0,"addToTrace","V1",0,"measure","Wb",0,"wrapLogger","bt",0,"setErrorHandler","cD",0,"setCustomAttribute","dT",0,"interaction","eY",0,"register","fF",0,"recordCustomEvent","hG",0,"addPageAction","k6",0,"addRelease","nb",0,"setApplicationVersion","o5",0,"noticeError"])},1738(e,t,r){"use strict";r.d(t,{U:()=>l,Y:()=>d});var n=r(3241),i=r(9908),a=r(1863),s=r(944),o=r(3969),c=r(8362),u=r(860);function d(e,t,r,a){const d=a||r;!d||d[e]&&d[e]!==c.d.prototype[e]||(d[e]=function(){(0,i.p)(o.xV,["API/"+e+"/called"],void 0,u.K7.metrics,r.ee),(0,n.W)({drained:!!r.runtime?.activatedFeatures,type:"data",name:"api",feature:"api-"+e,data:{}});try{return t.apply(this,arguments)}catch(e){(0,s.R)(23,e)}})}function l(e,t,r,n,s){const o=e.info;null===r?delete o.jsAttributes[t]:o.jsAttributes[t]=r,(s||null===r)&&(0,i.p)("api-"+n,[(0,a.t)(),t,r],void 0,"session",e.ee)}},8374(e,t,r){r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},860(e,t,r){"use strict";const n="events",i="jserrors",a="browser/blobs",s="browser/logs",o={ajax:"ajax",genericEvents:"generic_events",jserrors:i,logging:"logging",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations"},c={[o.pageViewEvent]:1,[o.pageViewTiming]:2,[o.metrics]:3,[o.jserrors]:4,[o.softNav]:5,[o.ajax]:6,[o.sessionTrace]:7,[o.sessionReplay]:8,[o.logging]:9,[o.genericEvents]:10},u={[o.pageViewEvent]:"rum",[o.pageViewTiming]:n,[o.ajax]:n,[o.softNav]:n,[o.metrics]:i,[o.jserrors]:i,[o.sessionTrace]:a,[o.sessionReplay]:a,[o.logging]:s,[o.genericEvents]:"ins"};r.d(t,["$J",0,u,"K7",0,o,"P3",0,c,"XX",0,i,"Yy",0,s,"df",0,a,"hg",0,"connect"])}};const t={};function r(n){const i=t[n];if(void 0!==i)return i.exports;const a=t[n]={exports:{}};return e[n](a,a.exports,r),a.exports}r.m=e,r.d=(e,t)=>{if(Array.isArray(t))for(var n=0;n<t.length;){var i=t[n++],a=t[n++];r.o(e,i)?0===a&&n++:0===a?Object.defineProperty(e,i,{enumerable:!0,value:t[n++]}):Object.defineProperty(e,i,{enumerable:!0,get:a})}else for(var i in t)r.o(t,i)&&!r.o(e,i)&&Object.defineProperty(e,i,{enumerable:!0,get:t[i]})},r.f={},r.e=e=>Promise.all(Object.keys(r.f).reduce((t,n)=>(r.f[n](e,t),t),[])),r.u=e=>"nr-rum-1.322.0.min.js",r.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),(()=>{const e={},t="NRBA-1.322.0.PROD:";r.l=(n,i,a,s)=>{if(e[n])return void e[n].push(i);let o,c;if(void 0!==a){const e=document.getElementsByTagName("script");for(var u=0;u<e.length;u++){const r=e[u];if(r.getAttribute("src")==n||r.getAttribute("data-webpack")==t+a){o=r;break}}}if(!o){c=!0;var d={296:"sha512-/59P7qAoMYQDJAZerTRPChdYcdrlcoEAw2TwA1wz6Y0/XLmt3sblLI5JCXAuxG0YxsW7iqJzgrcO7NJWO58EfQ=="};o=document.createElement("script"),o.charset="utf-8",r.nc&&o.setAttribute("nonce",r.nc),o.setAttribute("data-webpack",t+a),o.src=n,0!==o.src.indexOf(window.location.origin+"/")&&(o.crossOrigin="anonymous"),d[s]&&(o.integrity=d[s])}e[n]=[i];const l=(t,r)=>{o.onerror=o.onload=null,clearTimeout(f);const i=e[n];if(delete e[n],o.parentNode?.removeChild(o),i?.forEach(e=>e(r)),t)return t(r)},f=setTimeout(l.bind(null,void 0,{type:"timeout",target:o}),12e4);o.onerror=l.bind(null,o.onerror),o.onload=l.bind(null,o.onload),c&&document.head.appendChild(o)}})(),r.r=e=>{Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},r.p="https://js-agent.newrelic.com/",(()=>{const e={374:0,840:0};r.f.j=(t,n)=>{let i=r.o(e,t)?e[t]:void 0;if(0!==i)if(i)n.push(i[2]);else{const a=new Promise((r,n)=>i=e[t]=[r,n]);n.push(i[2]=a);const s=r.p+r.u(t),o=new Error,c=n=>{if(r.o(e,t)&&(i=e[t],0!==i&&(e[t]=void 0),i)){const e=n&&("load"===n.type?"missing":n.type),r=n&&n.target&&n.target.src;o.message="Loading chunk "+t+" failed: ("+e+": "+r+")",o.name="ChunkLoadError",o.type=e,o.request=r,i[1](o)}};r.l(s,c,"chunk-"+t,t)}};const t=(t,n)=>{let[i,a,s]=n;var o,c,u=0;if(i.some(t=>0!==e[t])){for(o in a)r.o(a,o)&&(r.m[o]=a[o]);if(s)s(r)}for(t&&t(n);u<i.length;u++)c=i[u],r.o(e,c)&&e[c]&&e[c][0](),e[c]=0},n=self["webpackChunk:NRBA-1.322.0.PROD"]=self["webpackChunk:NRBA-1.322.0.PROD"]||[];n.forEach(t.bind(null,0)),n.push=t.bind(null,n.push.bind(n))})(),(()=>{"use strict";r(8374);var e=r(8362),t=r(860);const n=Object.values(t.K7);var i=r(384),a=r(1741);var s=r(2555),o=r(981);t.K7.genericEvents,o.R.PA,o.R.UA,o.R.BP;const c={RESOURCES:"experimental.resources",REGISTER:"register"};var u=r(9300);const d=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var l=r(2614),f=r(944),g=r(8122);const p="[data-nr-mask]",m=e=>(0,g.a)(e,(()=>{const e={feature_flags:[],experimental:{register:!1,resources:!1,iframe_bridge:!1,iframe_domains:[]},mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void 0,block_internal:!0,enabled:!0,autoStart:!0,capture_payloads:u.mo.NONE},api:{register:{get enabled(){return e.feature_flags.includes(c.REGISTER)||e.experimental.register},set enabled(t){e.experimental.register=t},duplicate_data_to_container:!1,get allow_iframe_bridge(){return e.feature_flags.includes(c.IFRAME_BRIDGE)||e.experimental.iframe_bridge},set allow_iframe_bridge(t){e.experimental.iframe_bridge=t},get iframe_domains(){return e.experimental.iframe_domains},set iframe_domains(t){Array.isArray(t)?e.experimental.iframe_domains=t:(0,f.R)(1,t)}}},browser_consent_mode:{enabled:!1},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},get feature_flags(){return e.feature_flags},set feature_flags(t){e.feature_flags=t},generic_events:{enabled:!0,autoStart:!0},harvest:{interval:30},jserrors:{enabled:!0,autoStart:!0},logging:{enabled:!0,autoStart:!0},metrics:{enabled:!0,autoStart:!0},obfuscate:void 0,page_action:{enabled:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,autoStart:!0},performance:{capture_marks:!1,capture_measures:!1,capture_detail:!0,resources:{get enabled(){return e.feature_flags.includes(c.RESOURCES)||e.experimental.resources},set enabled(t){e.experimental.resources=t},asset_types:[],first_party_domains:[],ignore_newrelic:!0}},privacy:{cookies_enabled:!0},proxy:{assets:void 0,beacon:void 0},session:{expiresMs:l.wk,inactiveMs:l.BB},session_replay:{autoStart:!0,enabled:!1,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,fix_stylesheets:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){d(t)?e.mask_selector="".concat(t,",").concat(p):""===t||null===t?e.mask_selector=p:(0,f.R)(5,t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){d(t)?e.block_selector+=",".concat(t):""!==t&&(0,f.R)(6,t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,f.R)(7,t)}},session_trace:{enabled:!0,autoStart:!0},soft_navigations:{enabled:!0,autoStart:!0},ssl:void 0,user_actions:{enabled:!0,elementAttributes:["id","className","tagName","type"]},web_sockets:{enabled:!1}}})());var h=r(6154),v=r(9324);let b=0;const y={buildEnv:"PROD",distMethod:"CDN",version:v.xv,originTime:h.WN},_={consented:!1},w={activatedFeatures:void 0,appMetadata:{},configured:!1,get consented(){return this.session?.state?.consent||_.consented},set consented(e){_.consented=e},customTransaction:void 0,denyList:[],disabled:!1,drainRegistry:new Map,connector:void 0,harvester:void 0,v2Target:void 0,isolatedBacklog:!1,isRecording:!1,loaderType:void 0,maxBytes:3e4,obfuscator:void 0,onerror:void 0,ptid:void 0,releaseIds:{},session:void 0,timeKeeper:void 0,registeredEntities:[],jsAttributesMetadata:{bytes:0},get harvestCount(){return++b},listeningForIframeMessages:!1},R="BA";var A=r(7836),x=r(3241);const E={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0};var S=r(9908);const k="newrelic-iframe-";function T(e,t={},n,o){let{init:c,info:u,loader_config:d,runtime:l={},exposed:f=!0}=t;if(!u){const e=(0,i.pV)();c=e.init,u=e.info,d=e.loader_config}var p;e.init=m(c||{}),e.loader_config=(p=d||{},(0,g.a)(p,E)),u.jsAttributes??={},h.bv&&(u.jsAttributes.isWorker=!0),e.info=(0,s.D)(u);const v=e.init;e.runtime??=(e=>{const t=(0,g.a)(e,w),r=Object.keys(y).reduce((e,t)=>(e[t]={value:y[t],writable:!1,configurable:!0,enumerable:!0},e),{});return Object.defineProperties(t,r)})(l),e.runtime.v2Target??={type:R,instance:e.agentIdentifier,get id(){return e.runtime.appMetadata?.agents?.[0]?.entityGuid},get attributes(){return{"entity.guid":this.id,appId:e.info.applicationID}}},v.proxy.assets&&(e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e})(v.proxy.assets),e.runtime.configured||(Object.defineProperty(e,"beacons",{get:()=>[e.info.beacon,e.info.errorBeacon,e.init.proxy.assets,e.init.proxy.beacon].filter(Boolean)}),Object.defineProperty(e.runtime,"denyList",{get:()=>[...e.init.ajax.deny_list||[],...e.init.ajax.block_internal?e.beacons:[]]}),e.runtime.ptid=e.agentIdentifier,function(e){const t=(0,i.pV)();Object.getOwnPropertyNames(a.W.prototype).forEach(r=>{const n=a.W.prototype[r];if("function"!=typeof n||"constructor"===n)return;let i=t[r];e[r]&&!1!==e.exposed&&"micro-agent"!==e.runtime?.loaderType&&(t[r]=(...t)=>{const n=e[r](...t);return i?i(...t):n})})}(e),e.runtime.loaderType=n,e.ee=A.ee.get(e.agentIdentifier),e.exposed=f,(0,x.W)({drained:!!e.runtime.activatedFeatures,type:"lifecycle",name:"initialize",feature:void 0,data:e.config}),e.init.api.register.allow_iframe_bridge&&h.gm.addEventListener("message",t=>{"string"==typeof t.data?.type&&t.data.type.startsWith(k)&&(0,S.p)("iframe-message",[t],void 0,"IFRAME",e.ee)}),e.runtime.configured=!0)}var j=r(1863),P=r(4261),N=r(1738);var O=r(1687),M=r(4234),I=r(5289),D=r(7767);function V(e){return!!(0,i.dV)().o.MO&&(0,D.V)(e)&&!0===e?.session_trace.enabled}var W=r(6389),B=r(7699);const C=new WeakSet,K=new WeakMap;class U extends M.W{constructor(e,t){super(e,t),this.abortHandler=void 0,this.featAggregate=void 0,this.loadedSuccessfully=void 0,this.onAggregateImported=new Promise(e=>{this.loadedSuccessfully=e}),this.deferred=Promise.resolve(),!1===e.init[this.featureName].autoStart?this.deferred=new Promise((t,r)=>{this.ee.on("manual-start-all",(0,W.J)(()=>{(0,O.Ak)(e,this.featureName),t()}))}):(0,O.Ak)(e,t)}importAggregator(e,t,n={}){if(this.featAggregate)return;const i=async()=>{if(await this.deferred,this.#t(e),!(0,s.f)(e.info))return(0,f.R)(43),e.ee.abort(),void this.loadedSuccessfully(!1);try{await async function(e,t,n){if(K.has(e))return K.get(e);const i=(async()=>{if((0,D.V)(e.init))try{const{setupAgentSession:t}=await r.e(296).then(r.bind(r,1768));t(e)}catch(e){(0,f.R)(20,e),t.emit("internal-error",[e]),(0,S.p)(B.qh,[e],void 0,n,t)}if(e.init.api.register.allow_iframe_bridge)try{const{setupIframeMFEMessageListener:t}=await Promise.resolve().then(function(){const e=new Error("Cannot find module '../../loaders/configure/iframe-message-handler'");throw e.code="MODULE_NOT_FOUND",e});t(e)}catch(e){(0,f.R)(23,e)}const[{Connector:i},{Harvester:a}]=await Promise.all([r.e(296).then(r.bind(r,6589)),r.e(296).then(r.bind(r,5237))]);e.runtime.connector=new i(e),e.runtime.harvester=new a(e);const s=Object.values(e.features).filter(t=>e.runtime.drainRegistry.has(t.featureName));Promise.all(s.map(e=>e.onAggregateImported)).then(()=>e.runtime.harvester.startTimer())})();K.set(e,i),await i}(e,this.ee,this.featureName)}catch(e){return(0,f.R)(79,e),this.ee.abort(),void this.loadedSuccessfully(!1)}try{if(!this.#r(this.featureName,e.runtime.session,e.init))return this.abortHandler?.(),(0,O.Ze)(this.agentRef,this.featureName),void this.loadedSuccessfully(!1);const{Aggregate:r}=await t();this.featAggregate=new r(e,n),e.runtime.harvester.initializedAggregates.push(this.featAggregate),this.loadedSuccessfully(!0)}catch(e){(0,f.R)(34,e),this.abortHandler?.(),(0,O.Ze)(this.agentRef,this.featureName,!0),this.loadedSuccessfully(!1)}};h.RI?(0,I.GG)(()=>i(),!0):i()}#r(e,r,n){if(this.blocked)return!1;switch(e){case t.K7.sessionReplay:return V(n)&&!!r;case t.K7.sessionTrace:return!!r;default:return!0}}#t(e){if(!C.has(e)&&(C.add(e),!(0,s.f)(e.info))){const t=(0,i.pV)();let r={...t.info?.jsAttributes};try{r={...r,...e.info?.jsAttributes}}catch(e){}T(e,{...t,info:{...t.info,jsAttributes:r},runtime:e.runtime},e.runtime.loaderType)}}}var L=r(6630);class F extends U{static featureName=L.T;constructor(e){var t;super(e,L.T),this.setupInspectionEvents(),t=e,(0,N.Y)(P.Fw,function(e,r){"string"==typeof e&&("/"!==e.charAt(0)&&(e="/"+e),t.runtime.customTransaction=(r||"http://custom.transaction")+e,(0,S.p)("api-"+P.Fw,[(0,j.t)()],void 0,void 0,t.ee))},t),this.importAggregator(e,()=>e.init.feature_flags.includes("rum_v2")?r.e(296).then(r.bind(r,908)):r.e(296).then(r.bind(r,7927)))}setupInspectionEvents(){const e=(e,t)=>{e&&(0,x.W)({timeStamp:e.timeStamp,loaded:"complete"===e.target.readyState,type:"window",name:t,data:e.target.location+""})};(0,I.sB)(t=>{e(t,"DOMContentLoaded")}),(0,I.GG)(t=>{e(t,"load")}),(0,I.Qr)(t=>{e(t,"navigate")}),this.ee.on(l.tS.UPDATE,(e,t)=>{(0,x.W)({type:"lifecycle",name:"session",data:t})})}}class G extends e.d{constructor(e){var t;(super(),h.gm)?(this.features={},(0,i.bQ)(this.agentIdentifier,this),this.desiredFeatures=new Set(e.features||[]),this.desiredFeatures.add(F),T(this,e,e.loaderType||"agent"),t=this,(0,N.Y)(P.cD,function(e,r,n=!1){if("string"==typeof e){if(["string","number","boolean"].includes(typeof r)||null===r)return(0,N.U)(t,e,r,P.cD,n);(0,f.R)(40,typeof r)}else(0,f.R)(39,typeof e)},t),function(e){(0,N.Y)(P.Dl,function(t,r=!1){if("string"!=typeof t&&null!==t)return void(0,f.R)(41,typeof t);const n=e.info.jsAttributes["enduser.id"];r&&null!=n&&n!==t?(0,S.p)("api-setUserIdAndResetSession",[t],void 0,"session",e.ee):(0,N.U)(e,"enduser.id",t,P.Dl,!0)},e)}(this),function(e){(0,N.Y)(P.nb,function(t){if("string"==typeof t||null===t)return(0,N.U)(e,"application.version",t,P.nb,!1);(0,f.R)(42,typeof t)},e)}(this),function(e){(0,N.Y)("start",function(){e.ee.emit("manual-start-all")},e)}(this),function(e){(0,N.Y)(P.Pv,function(t=!0){if("boolean"==typeof t){if((0,S.p)("api-"+P.Pv,[t],void 0,"session",e.ee),e.runtime.consented=t,t){const t=e.features.page_view_event;t.onAggregateImported.then(e=>{const r=t.featAggregate;e&&!r.sentRum&&r.sendRum?.()})}}else(0,f.R)(65,typeof t)},e)}(this),this.run()):(0,f.R)(21)}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}get api(){return this}run(){try{const e=function(e){const t={};return n.forEach(r=>{t[r]=!!e[r]?.enabled}),t}(this.init),r=[...this.desiredFeatures],i=this.init.feature_flags.includes("rum_v2");r.sort((e,r)=>t.P3[e.featureName]-t.P3[r.featureName]),r.forEach(r=>{if(!e[r.featureName]&&(i||r.featureName!==t.K7.pageViewEvent))return;const n=function(e){switch(e){case t.K7.ajax:return[t.K7.jserrors];case t.K7.sessionTrace:return[t.K7.ajax,t.K7.pageViewEvent];case t.K7.sessionReplay:return[t.K7.sessionTrace];case t.K7.pageViewTiming:return[t.K7.pageViewEvent];default:return[]}}(r.featureName).filter(e=>!(e in this.features));n.length>0&&(0,f.R)(36,{targetFeature:r.featureName,missingDependencies:n}),this.features[r.featureName]=new r(this)})}catch(e){(0,f.R)(22,e);for(const e in this.features)this.features[e].abortHandler?.();const t=(0,i.Zm)();delete t.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return t.ee.get(this.agentIdentifier).abort(),!1}}}var H=r(2843),z=r(782);class Y extends U{static featureName=z.T;constructor(e){super(e,z.T),h.RI&&((0,H.u)(()=>(0,S.p)("docHidden",[(0,j.t)()],void 0,z.T,this.ee),!0),(0,H.G)(()=>(0,S.p)("winPagehide",[(0,j.t)()],void 0,z.T,this.ee)),this.importAggregator(e,()=>r.e(296).then(r.bind(r,9981))))}}var Z=r(3969);class q extends U{static featureName=Z.TZ;constructor(e){super(e,Z.TZ),this.importAggregator(e,()=>r.e(296).then(r.bind(r,9623)))}}new G({features:[F,Y,q],loaderType:"lite"})})()})();</script><meta name="keywords" /><meta name="description" /><meta name="robots" content="index, follow" /><meta name="rating" content="GENERAL" /><meta name="resource-type" content="document" /><meta name="distribution" content="GLOBAL" /><meta name="classification" content="Legislative Federal Government" /><meta name="author" content="Office of the Clerk, U.S. House of Representatives" /><meta name="govType" content="federal" /><meta name="revisit-after" content="15 Days" /><meta name="resource-type" content="document" /><meta name="doc-class" content="Completed" /><title>
+	Tuesday, March 17, 2026 | Committee Repository | U.S. House of Representatives
+</title><link href="../Resources/Styles/bootstrap.min.css" rel="stylesheet" type="text/css" /><link href="../Resources/Styles/Default.css" rel="stylesheet" type="text/css" /><link href="../Resources/Styles/Print.css" rel="Stylesheet" type="text/css" media="print" />
+    <script src="../Resources/Scripts/jquery-1.10.1.min.js" type="text/javascript"></script>
+    <script src="../Resources/Scripts/bootstrap.min.js" type="text/javascript"></script>
+    
+</head>
+<body>
+    <form method="post" action="./ByDay.aspx?DayID=03172026" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Committee/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZA2gTqMTViq8eSd_CBHYWufoBIe4cVkliO-mO5LmpAtGN4jhMf57qMHrt1A3oENKHQ2&amp;t=639190689332169432" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="83E59BAC" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="KKqBfOIUj5RUc2Ik0G4CNpe3UjNuipb5ItT54k8wCDNGhAXQFEintE_Pgk8snALrpJDm2iq6kAF6NRCSH4_HZ4fYha2cP7hBh0g23YGCmm41" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="psgIczv6V+xhlgZqsISGqZIvKjo60UDrtXalYhcpeU9VGJfX3f5hybYVNURTtwQOuMmdLtRBpdmG7wrjWRxEoC5CvlioS3Z4YcA2VgYgVz8gyqQKKg/f3SF//dSVQgyJ5kd5o7hy5e1IVlGejIzqK49PQGHWgTarIph4jhwJXOZaiCPvvUF58RTRM9MX/d2wehB8TQ4h9Db/Kc5wB6qvf4VsiAjZA9P4K48hNnOg5q3fsrxp364K1DXms4LPJOSh" />
+</div>
+    <div id='container-outer' class='bg'>
+    <div id="container-inner">
+        <div id="header">
+            <div class="header-top">
+                <div class="header-text">
+                    <ul class="navigation-h">
+                        <li><a href="http://docs.house.gov/floor/" title="Bills this Week" target="_blank"
+                            accesskey="3">Bills this Week</a></li>
+                        <li><a href="http://clerk.house.gov/" title="Office of the Clerk" target="_blank"
+                            accesskey="2">Office of the Clerk</a></li>
+                        <li><a href="http://majorityleader.gov/" title="Majority Leader" target="_blank"
+                            accesskey="4">Majority Leader</a></li>
+                        <li><a href="http://rules.house.gov/" title="Committee on Rules" target="_blank"
+                            accesskey="5">Committee on Rules</a></li>
+                        <li><a href="http://house.gov/" title="U.S. House of Representatives" target="_blank"
+                            accesskey="1">U.S. House of Representatives</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="header-primary">
+                <a id="LinkButtonLogo" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonLogo&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Default.aspx&quot;, false, true))"><img id="ImageLogo" title="Committee Repository Logo" src="../Resources/Images/Layout/logo.png" alt="Committee Repository Logo" /></a>
+            </div>
+        </div>
+        <div id="navigation">
+            <ul class="navigation">
+                <li>
+                    <a id="LinkButtonHome" accesskey="h" title="Home" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonHome&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Default.aspx&quot;, false, true))">Calendar</a></li>
+                <li>
+                    <a id="LinkButtonCommittees" accesskey="c" title="Committees" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonCommittees&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Committees.aspx&quot;, false, true))">Committees</a></li>
+                <li>
+                    <a id="LinkButtonSearch" accesskey="s" title="Search" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonSearch&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Search/Home.aspx&quot;, false, true))">Document Search</a></li>
+            </ul>
+        </div>
+        <div id="body">
+            
+            <h2>
+                <span id="LabelPageTitle">Tuesday, March 17, 2026</span>
+            </h2>
+            <noscript>
+                <div class="alert alert-block">
+                    <b>JavaScript not detected</b>: JavaScript is required to run this site. Please
+                    enable JavaScript in your browser's settings.
+                </div>
+            </noscript>
+            
+    
+    <div>
+	<table class="table table-bordered" cellspacing="0" rules="all" border="1" id="MainContent_GridViewMeetings" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col" style="width:70%;">Title</th><th scope="col" style="width:10%;">Time</th><th scope="col" style="width:20%;">Location</th>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119057"
+                        title="Interior, Environment, and Related Agencies – American Indian and Alaska Native Public Witness (Day 1, Morning Session)">
+                        Interior, Environment, and Related Agencies – American Indian and Alaska Native Public Witness (Day 1, Morning Session)</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Interior, Environment, and Related Agencies">
+                        Subcommittee on Interior, Environment, and Related Agencies
+                         (Committee on Appropriations)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        9:00 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2008 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119077"
+                        title="Winter Storm Fern Lessons: Supplying Reliable Power to Meet Peak Demand">
+                        Winter Storm Fern Lessons: Supplying Reliable Power to Meet Peak Demand</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Energy">
+                        Subcommittee on Energy
+                         (Committee on Energy and Commerce)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:00 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2123 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119042"
+                        title="“Pier Pressure: Regulation and Competition in Maritime Shipping”">
+                        “Pier Pressure: Regulation and Competition in Maritime Shipping”</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on the Administrative State, Regulatory Reform, and Antitrust">
+                        Subcommittee on the Administrative State, Regulatory Reform, and Antitrust
+                         (Committee on the Judiciary)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:00 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2141 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119044"
+                        title=""Force Design or Force in Decline: Reviewing Readiness"">
+                        "Force Design or Force in Decline: Reviewing Readiness"</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Coast Guard and Maritime Transportation">
+                        Subcommittee on Coast Guard and Maritime Transportation
+                         (Committee on Transportation and Infrastructure)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:00 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2167 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119049"
+                        title="Updating America’s Financial Privacy Framework for the 21st Century">
+                        Updating America’s Financial Privacy Framework for the 21st Century</a>
+                    <br />
+                    <span class="text-tiny" title="Committee on Financial Services">
+                        Committee on Financial Services
+                        
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:00 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2128 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119050"
+                        title="U.S. Military Posture and National Security Challenges in North and South America">
+                        U.S. Military Posture and National Security Challenges in North and South America</a>
+                    <br />
+                    <span class="text-tiny" title="Committee on Armed Services">
+                        Committee on Armed Services
+                        
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:00 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2118 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119066"
+                        title="Advancing America’s Interests at the World Trade Organization’s 14th Ministerial Conference">
+                        Advancing America’s Interests at the World Trade Organization’s 14th Ministerial Conference</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Trade">
+                        Subcommittee on Trade
+                         (Committee on Ways and Means)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:00 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        1100 LHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119062"
+                        title="Reforming America’s Defense Sales">
+                        Reforming America’s Defense Sales</a>
+                    <br />
+                    <span class="text-tiny" title="Committee on Foreign Affairs">
+                        Committee on Foreign Affairs
+                        
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:00 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2172 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119028"
+                        title="Oversight Hearing titled “Unleashing America’s Mineral Potential:  The Critical Mineral Commodity Supply Chain.”">
+                        Oversight Hearing titled “Unleashing America’s Mineral Potential:  The Critical Mineral Commodity Supply Chain.”</a> <span class='muted'>(Rescheduled)</span>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Oversight and Investigations">
+                        Subcommittee on Oversight and Investigations
+                         (Committee on Natural Resources)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:15 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        1324 LHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119079"
+                        title="H.R. 7894, the "Truman Scholarship Clean House Act"; H.R. 7661, the "Stop the Sexualization of Children Act"; H.R. 7890, the "Science of Reading Act of 2026"; H.R. 7892, the "No Aid for Ghost Students Act of 2026"; H.R. 7891, the "Student Aid Fraud Oversight and Accountability Act of 2026"; H.R. 7893, the "FAFSA Verification Efficiency Act"; H.R. 6084, the "ERISA Litigation Reform Act"">
+                        H.R. 7894, the "Truman Scholarship Clean House Act"; H.R. 7661, the "Stop the Sexualization of Children Act"; H.R. 7890, the "Science of Reading Act of 2026"; H.R. 7892, the "No Aid for Ghost Students Act of 2026"; H.R. 7891, the "Student Aid Fraud Oversight and Accountability Act of 2026"; H.R. 7893, the "FAFSA Verification Efficiency Act"; H.R. 6084, the "ERISA Litigation Reform Act"</a>
+                    <br />
+                    <span class="text-tiny" title="Committee on Education and Workforce">
+                        Committee on Education and Workforce
+                        
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:15 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2175 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119052"
+                        title="Budget Hearing – United States Capitol Police">
+                        Budget Hearing – United States Capitol Police</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Legislative Branch">
+                        Subcommittee on Legislative Branch
+                         (Committee on Appropriations)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:15 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2362-B RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119055"
+                        title="Oversight Hearing – National Institutes of Health">
+                        Oversight Hearing – National Institutes of Health</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Labor, Health and Human Services, Education, and Related Agencies">
+                        Subcommittee on Labor, Health and Human Services, Education, and Related Agencies
+                         (Committee on Appropriations)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        10:30 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2358-C RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119053"
+                        title="Member Day">
+                        Member Day</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Legislative Branch">
+                        Subcommittee on Legislative Branch
+                         (Committee on Appropriations)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        11:30 AM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2362-B RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119059"
+                        title="Interior, Environment, and Related Agencies – American Indian and Alaska Native Public Witness (Day 1, Afternoon Session)">
+                        Interior, Environment, and Related Agencies – American Indian and Alaska Native Public Witness (Day 1, Afternoon Session)</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Interior, Environment, and Related Agencies">
+                        Subcommittee on Interior, Environment, and Related Agencies
+                         (Committee on Appropriations)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        1:00 PM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2008 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119054"
+                        title="Budget Hearing – U.S. House of Representatives">
+                        Budget Hearing – U.S. House of Representatives</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Legislative Branch">
+                        Subcommittee on Legislative Branch
+                         (Committee on Appropriations)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2:00 PM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        H-140 CAPITOL
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119064"
+                        title="“Oversight of the U.S. Postal Service: The Financial Future Under Postmaster General Steiner”">
+                        “Oversight of the U.S. Postal Service: The Financial Future Under Postmaster General Steiner”</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Government Operations">
+                        Subcommittee on Government Operations
+                         (Committee on Oversight and Government Reform)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2:00 PM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        HVC-210 CAPITOL
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119065"
+                        title="Protecting Patients and Safeguarding Taxpayer Dollars: The Role of CMS in Combatting Medicare and Medicaid Fraud">
+                        Protecting Patients and Safeguarding Taxpayer Dollars: The Role of CMS in Combatting Medicare and Medicaid Fraud</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Oversight and Investigations">
+                        Subcommittee on Oversight and Investigations
+                         (Committee on Energy and Commerce)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2:00 PM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2123 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=118982"
+                        title="“DeepSeek and Unitree Robotics: Examining the National Security Risks of PRC Artificial Intelligence, Robotics, and Autonomous Technologies and Building a Secure U.S. Technology Base”">
+                        “DeepSeek and Unitree Robotics: Examining the National Security Risks of PRC Artificial Intelligence, Robotics, and Autonomous Technologies and Building a Secure U.S. Technology Base”</a> <span class='muted'>(Rescheduled)</span>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Cybersecurity and Infrastructure Protection">
+                        Subcommittee on Cybersecurity and Infrastructure Protection
+                         (Committee on Homeland Security)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2:00 PM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        310 CHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119048"
+                        title="Annual Worldwide Threats Assessment Hearing (OPEN)">
+                        Annual Worldwide Threats Assessment Hearing (OPEN)</a> <span class='muted'>(Rescheduled)</span>
+                    <br />
+                    <span class="text-tiny" title="Permanent Select Committee on Intelligence">
+                        Permanent Select Committee on Intelligence
+                        
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2:00 PM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        210 CAPITOL
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=118979"
+                        title="Waste, Fraud, and Abuse in Foreign Assistance: Lessons Learned and Charting a Path Forward">
+                        Waste, Fraud, and Abuse in Foreign Assistance: Lessons Learned and Charting a Path Forward</a>
+                    <br />
+                    <span class="text-tiny" title="Oversight and Intelligence Subcommittee">
+                        Oversight and Intelligence Subcommittee
+                         (Committee on Foreign Affairs)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2:00 PM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2172 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119035"
+                        title="FY27 Strategic Forces Posture Hearing">
+                        FY27 Strategic Forces Posture Hearing</a>
+                    <br />
+                    <span class="text-tiny" title="Subcommittee on Strategic Forces">
+                        Subcommittee on Strategic Forces
+                         (Committee on Armed Services)
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        3:30 PM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        2212 RHOB
+                    </span>
+                </td>
+		</tr><tr>
+			<td>
+                    <a href="ByEvent.aspx?EventID=119063"
+                        title="Annual Worldwide Threats Assessment Hearing (CLOSED)">
+                        Annual Worldwide Threats Assessment Hearing (CLOSED)</a> <span class='muted'>(Rescheduled)</span>
+                    <br />
+                    <span class="text-tiny" title="Permanent Select Committee on Intelligence">
+                        Permanent Select Committee on Intelligence
+                        
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        5:00 PM
+                    </span>
+                </td><td>
+                    <span class="text-small">
+                        ---------- CAPITOL
+                    </span>
+                </td>
+		</tr>
+	</table>
+</div>
+    <div class="button-row">
+        <a id="MainContent_LinkButtonPreviousDay" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonPreviousDay&#39;,&#39;&#39;)">Mar 16</a>
+        &nbsp;
+        <a id="MainContent_LinkButtonToday" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonToday&#39;,&#39;&#39;)">Today</a>
+        &nbsp;
+        <a id="MainContent_LinkButtonNextDay" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonNextDay&#39;,&#39;&#39;)">Mar 18</a>
+    </div>
+
+            <br />
+        </div>
+    </div>
+    <div id="footer">
+        <div class="footer-text">
+            <div class="left text-small">
+                <a href="http://clerk.house.gov/" title="Office of the Clerk">Office of the Clerk</a><br />
+                U.S. House of Representatives<br />
+                U.S. Capitol, Room H-154<br />
+                Washington D.C., 20515-6601<br />
+                202-225-7000
+            </div>
+            <div class="right">
+                
+                <a href="https://www.house.gov/accessibility" target="_blank">
+                    Accessibility</a> | <a href="/committee/Help.aspx">Help</a>
+                <br />
+                
+            </div>
+            <div class="clearfix">
+            </div>
+        </div>
+    </div>
+    <div class="footer-end">
+    </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+	
+	<script>
+	    (function (i, s, o, g, r, a, m) {
+	        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+	            (i[r].q = i[r].q || []).push(arguments)
+	        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+	  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+	    ga('create', 'UA-9875785-20', 'auto');
+	    ga('send', 'pageview');
+
+	</script>
+</body>
+</html>

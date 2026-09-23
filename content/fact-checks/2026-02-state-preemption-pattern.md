@@ -185,6 +185,24 @@ version," and that no AI safety bill "seems to have a critical mass of
 support." He is not listed as a cosponsor in the version of the record
 checked for this update.
 
+The post also says "Congress has put hundreds of hours of bipartisan work,
+hard work, into establishing an America First AI policy," and the clip
+credits "hundreds and hundreds of hours of work by" Reps. Obernolte and
+Trahan. Hours of staff work cannot be checked. What can be: through August
+31, 2026 the House had been in session 113 days and 377 hours and 45
+minutes in total, per the Congressional Record's own tally, and held floor
+votes on 65 days, the fewest through that point in any midterm year since
+1994 according to a No Labels count. The Energy and Commerce Committee's
+calendar shows six AI-titled hearings in 2025 and one in 2026, on AI and
+the electric grid. The bipartisan House AI task force that Rep. Obernolte
+chaired did its work in 2024; its report release does not list him among
+the task force's 24 members, and the member list was not checked. In the
+clip he says, "I've been talking about this in Washington, D.C. since I
+came to Congress" and "I work on AI in AI policy every day." Of his 397
+press releases from 2023 through September 2026, four mention AI, each in
+passing, and none announces an AI policy position or bill; his first
+technology bill, on quantum computing, was introduced August 27, 2026.
+
 **In plain language:** the pattern documented in February now includes a
 recorded vote. Before he wrote to the Commerce Department about New York's
 AI law, he voted for a bill that would have barred New York from enforcing
@@ -234,6 +252,11 @@ it for ten years. The Senate removed that provision 99 to 1.
 - Rep. Obernolte, "Obernolte, Trahan release a discussion draft of the Great American AI Act," June 4, 2026: https://obernolte.house.gov/media/press-releases/obernolte-trahan-release-discussion-draft-great-american-ai-act
 - Roll Call, "AI threats confront a Congress far from erecting guardrails," September 15, 2026: https://rollcall.com/2026/09/15/ai-threats-confront-a-congress-far-from-erecting-guardrails/
 - Rep. Langworthy, official Facebook page, September 23, 2026 (video 1064911233100136; caption and transcript retained at research/sources/triage-2026-09-23/ and research/transcripts/)
+- Congressional Record, Daily Digest, "Résumé of Congressional Activity," second session, January 3 through August 31, 2026 (House: 113 days, 377 hrs. 45 min.): https://www.govinfo.gov/link/crec/type/ddresumeongoing?link-type=pdf
+- No Labels, "How Much Has Congress Actually Worked in 2026?" (65 vote days through August 31): https://nolabels.org/the-latest/how-much-has-congress-actually-worked-in-2026/
+- docs.house.gov committee calendar, daily pages January 2025 through September 2026 (Energy and Commerce AI-titled hearings), retained at research/sources/triage-2026-09-23/byday/
+- Rep. Obernolte, "House Bipartisan Task Force on Artificial Intelligence Delivers Report," December 17, 2024: https://obernolte.house.gov/media/press-releases/house-bipartisan-task-force-artificial-intelligence-delivers-report
+- langworthy.house.gov press releases, 2023 to September 2026 (397 pages retained at research/sources/triage-2026-09-23/press/)
 - [Trump AI Executive Order (Dec 2025)](https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/)
 - [CRN endorsement of H.R. 7366](https://www.crnusa.org/newsroom/crn-applauds-introduction-dietary-supplement-regulatory-uniformity-act)
 - [Harvard T.H. Chan SPH — Supplement restrictions](https://content.sph.harvard.edu/wwwhsph/sites/1267/2021/02/Restricting-Sale-of-Weight-Loss-and-Muscle-Building-Supplements.pdf)
