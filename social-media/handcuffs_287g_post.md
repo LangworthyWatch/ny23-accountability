@@ -1,4 +1,4 @@
-# DRAFT — not yet posted
+# POSTED (date not recorded; confirmed posted Sept 24, 2026)
 # Entry: /fact-checks/2026-09-03-law-and-order-posts-withheld-hsgp-funding/  (MISSING CONTEXT; Sept 11 update)
 # Card: handcuffs_287g_card.png (create_handcuffs_287g_card.py)
 
