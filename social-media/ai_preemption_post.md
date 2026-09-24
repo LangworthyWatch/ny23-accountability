@@ -1,4 +1,4 @@
-# DRAFT — not yet posted
+# POSTED Sept 23, 2026
 # Entry: /fact-checks/2026-02-state-preemption-pattern/  (DOCUMENTED PATTERN; September 2026 update)
 # Card: ai_preemption_card.png (create_ai_preemption_card.py)
 
