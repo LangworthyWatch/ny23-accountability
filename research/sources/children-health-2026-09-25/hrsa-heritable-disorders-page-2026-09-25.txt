@@ -1,0 +1,12 @@
+SOURCE: https://www.hrsa.gov/advisory-committees/heritable-disorders
+RETRIEVED: 2026-09-25 via Chrome get_page_text (hrsa.gov returns 403 to curl). "Date Last Reviewed: August 2025". Verbatim:
+
+Two New Federal Register Notices
+The Health Resources and Services Administration (HRSA) published two federal register notices with requests for public comment on the consideration of adding Duchenne Muscular Dystrophy (DMD) and Metachromatic Leukodystrophy (MLD) to the Recommended Uniform Screening Panel (RUSP). When drafting responses to the notices, consider the data and other information described in the Evidence Review Group's (ERG) external evidence review manuscripts.
+Duchenne Muscular Dystrophy (2025) ... Metachromatic Leukodystrophy (MLD) (2025) ...
+
+The Advisory Committee on Heritable Disorders in Newborns and Children (Committee) was established under the Public Health Service (PHS) Act, 42 U.S.C. 217a ... and Title XI § 1111 (42 U.S.C. § 300b-10).
+The Committee recommends that every newborn screening program include a Uniform Screening Panel that screens for 36 core disorders and 26 secondary disorders ...
+The Committee advises the Secretary, U.S. Department of Health and Human Services on the most appropriate application of universal newborn screening tests, technologies, policies, guidelines, and standards.
+
+NOTE: the page does not use the word "terminated"; the STAT/Boston Globe/NORD sources retained here report the committee was terminated effective April 3, 2025. See the /about page text and Federal Register notices retained alongside.

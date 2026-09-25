@@ -1,0 +1,14 @@
+SOURCE: https://www.cdc.gov/measles/data-research/index.html
+RETRIEVED: 2026-09-25 via Chrome get_page_text (cdc.gov returns 403 to curl). Page "Updated on September 25, 2026"; data as of 12:00 PM Thursday, Sept 24, 2026. Verbatim:
+
+"As of September 24, 2026, 3,659 confirmed* measles cases were reported in the United States in 2026. Among these, 3,642 measles cases were reported by 47 jurisdictions ... New York City, New York State ..."
+"There have been 40 new outbreaks** reported in 2026, and 95% of confirmed cases (3,478 of 3,659) are outbreak-associated (2,094 from outbreaks starting in 2026 and 1,384 from outbreaks that started in 2025)."
+"For the full year of 2025, a total of 2,289 confirmed* measles cases were reported in the United States." "There were 48 outbreaks** reported in 2025, and 90% of confirmed cases (2,066 of 2,289) were outbreak-associated. For comparison, 16 outbreaks were reported during 2024 and 69% of cases (198 of 285) were outbreak-associated."
+
+U.S. Cases table (2026 to date | 2025 full year): Total 3,659 | 2,289. Under 5 years 656 (18%) | 584 (26%). 5-19 years 1,577 (43%) | 1,018 (44%). 20+ years 1,407 (38%) | 674 (29%).
+Vaccination status: Unvaccinated or Unknown 95% | 93%; one MMR dose 2% | 3%; two doses 3% | 4%.
+Hospitalizations: 9% (327 of 3,659) | 11% (244 of 2,289). Under 5 hospitalized 14% (91 of 656) | 18% (106 of 584).
+U.S. Deaths: 2026: 1* | 2025: 3. "*This number is subject to change; CDC will update its reporting as additional information becomes available and relevant reviews are completed."
+
+MMR kindergarten coverage: "vaccination coverage among U.S. kindergartners has decreased from 95.2% during the 2019–2020 school year to 92.4% in the 2025–2026 school year, leaving approximately 280,000 kindergartners at risk during the 2025–2026 school year."
+"Measles was officially eliminated from the United States in 2000 ..." (page still describes the U.S. as having elimination status; the PAHO re-verification commission review is separate, see paho/cidrap/astho files).

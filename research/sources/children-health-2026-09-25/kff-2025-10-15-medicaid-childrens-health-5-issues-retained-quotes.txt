@@ -1,0 +1,19 @@
+SOURCE: https://www.kff.org/medicaid/medicaid-and-childrens-health-5-issues-to-watch-amid-recent-federal-changes/
+Authors: Elizabeth Williams and Robin Rudowitz. Published: Oct 15, 2025.
+RETRIEVED: 2026-09-25 via Chrome get_page_text (kff.org blocks curl). Verbatim passages:
+
+"Nearly four in 10 children in the U.S. are covered by Medicaid, making the program (and changes to the program) particularly relevant to broader children's health trends."
+
+Box 1, 2025 Federal Budget Reconciliation Law (H.R. 1): "The Congressional Budget Office (CBO) projected that H.R. 1 will increase the number of uninsured people by 10 million over the next decade (or by more than 14 million if combined with the expiration of the Affordable Care Act's (ACA) enhanced premium tax credits). It is unclear how many of the newly uninsured are projected to be children. However, loss of Medicaid coverage among parents (from increased renewals or work requirements) could impact children's coverage as research has shown that increasing coverage for parents increases children's coverage."
+
+"H.R. 1 is expected to reduce federal Medicaid spending by $911 billion over the next decade ... The new law also reduces federal Supplemental Nutrition Assistance Program (SNAP) spending by $187 billion, which could result in an estimated 1 million children with reduced or eliminated food assistance. While the reconciliation law did make modest increases to some child care tax benefits, including the Child Tax Credit, the CBO expects the reconciliation provisions, taken together, will redistribute wealth from the lowest income families to the highest incomes, largely due to Medicaid and SNAP cuts."
+
+CMS Administrative Actions: "Among other waiver changes, CMS has restricted Medicaid waivers for multi-year continuous eligibility for Medicaid and Children's Health Insurance Program (CHIP) children, a policy currently adopted by 12 states to eliminate gaps in coverage for children during early childhood. In addition, through both the reconciliation law and executive action, the Trump administration has limited immigrant eligibility for federal public benefits, which could reduce access to health care for immigrant children and their families."
+
+Broader: "Secretary Kennedy has also led recent efforts to re-examine the federal childhood vaccine schedule, replace the committee that creates childhood vaccine recommendations, and restrict access to COVID-19 vaccines and mRNA vaccine research." "The Trump Administration has also laid off staff across governmental agencies, including at the Department of Human Services (HHS) and the Department of Education (DOE), and reduced support for state and local health departments. At DOE in particular, over half of the staff has been cut, including the office responsible for special education. Grant funding for schools has also been delayed, including funds to support and expand school-based mental health services."
+
+Coverage: "The uninsured rate for children has declined from 10.4% in 2008 to 6.0% in 2024 ... fell to an all-time low in 2016 (4.7%) before ticking up during the first Trump administration ... did increase slightly from 5.1% in 2022 to 5.3% in 2023."
+
+"Medicaid also finances about 4 in 10 births nationally ... paying for nearly half of all births in rural communities."
+
+"Medicaid covers half of all children with special education plans" (7 million children with plans). "Medicaid covers 8 in 10 children living in poverty or over 9 million of the almost 12 million children who lived in poverty in 2023."

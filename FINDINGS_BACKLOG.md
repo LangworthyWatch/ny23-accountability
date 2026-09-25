@@ -1643,3 +1643,27 @@ adding (1) the OIG report's process findings, (2) the FY2026 shortage numbers fo
 cut" finding stated plainly, (4) the Springville wall-of-receipts error. Verdict would stay as is; do NOT claim DOGE
 contract cuts hit NY-23 facilities. **Wayback:** SPN returned 200 today for the first time since Sept 15; OIG PDF verified
 by playback (Sept 23 capture); OIG page and Stripes not yet playing back.
+
+## 2026-09-25 — Newborn-screening "big announcement" (Kelly family) vs. the administration's children's-health record
+
+**Source folder:** `research/sources/children-health-2026-09-25/` (README has figures and file map). Announcement not yet
+posted at 11:40 AM; re-read `facebook.com/RepLangworthy` and langworthy.house.gov press releases.
+
+**Core contradiction to test once the announcement is up:** HHS **terminated the Advisory Committee on Heritable Disorders in
+Newborns and Children on April 1, 2025** (CRS R48757; HHS's own FR notices of Aug 14 and Dec 22, 2025 say "ACHDNC was
+terminated"). That is the committee whose Krabbe recommendation Langworthy thanked by name in July 2024. Duchenne and MLD were
+added to the RUSP Dec 22, 2025 by the Secretary directly; on Aug 12, 2026 HRSA funded a $700,000 APHL "stakeholder workgroup"
+as the new non-FACA pathway. Langworthy is an **original cosponsor (July 23, 2025) of H.R. 4709**, which presumes the committee
+exists and makes the Hunter Kelly Research Program mandatory; it cleared the E&C Health Subcommittee Sept 10, 2025 and has not
+moved since. He has no public statement on the committee's termination in the retained corpus.
+
+**Wider record (all retained):** 2 million fewer children on Medicaid/CHIP Jan 2025→Apr 2026 (CCF); CBO projects −3M children
+2026–36; OBBBA −$911B Medicaid, −$187B SNAP (~1M children with reduced food aid, KFF); CMS blocked multi-year continuous
+eligibility waivers for kids; ACIP fired June 9, 2025, hep B birth dose narrowed 8–3 Dec 5, 2025, whole 2026 schedule
+stayed by D. Mass. Mar 16, 2026; measles 3,659 cases in 2026 through Sept 24 vs 285 in 2024, 61% under 20, U.S. elimination
+status under PAHO review (not yet lost); CDC childhood lead program eliminated Apr 1, 2025 and partly reinstated June 11, 2025;
+five Head Start regional offices closed.
+
+**ACTION (Zach's call):** if the announcement is a newborn-screening bill or event, build a MISSING CONTEXT entry: what he
+announces vs. the committee HHS abolished, H.R. 4709's stall, and the OBBBA Medicaid/SNAP votes that reach the same
+newborns. Gap: no NY/NY-23 child Medicaid enrollment figure yet (NY DOH county PDFs are curl-blocked; use Chrome).
