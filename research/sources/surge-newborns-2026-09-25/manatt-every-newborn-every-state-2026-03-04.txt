@@ -1,0 +1,427 @@
+=== PAGE 1 ===
+March, 2026
+Every Newborn, Every State:
+Funding to End Variability in Newborn Screening
+RUSP Implementation
+Rachel Sher, Partner, Manatt Health
+Yelena Ofengeym, Director, Manatt Health
+Aliza Aitchison, Consultant, Manatt Health
+
+=== PAGE 2 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+Acknowledgements
+This report was prepared with support from Travere Therapeutics.
+About Manatt Health
+Manatt Health integrates legal and consulting services to better meet the complex needs of
+clients across the health care system.
+Combining legal excellence, firsthand experience in shaping public policy, sophisticated
+strategy insight and deep analytic capabilities, we provide uniquely valuable professional
+services to the full range of health industry players.
+Our diverse team of more than 200 attorneys and consultants from Manatt, Phelps & Phillips,
+LLP, and its consulting subsidiary, Manatt Health Strategies, LLC, is passionate about helping
+our clients advance their business interests, fulfill their missions and lead health care into the
+future. For more information, visit https://www.manatt.com/Health or contact:
+Rachel Sher Yelena Ofengeym
+Partner, Manatt Health Director, Manatt Health
+202.624.3302 212.790.4630
+rsher@manatt.com yofengeym@manatt.com
+Manatt Health manatt.com 2
+
+=== PAGE 3 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+Overview
+Started in the 1960’s, newborn screening is widely regarded as one of the most successful public
+health initiatives. Thanks to these state-run programs, each of the nearly 3.6 million babies born in the
+U.S. is screened for certain serious and rare conditions at birth, allowing for early treatment of disease
+before the onset of preventable death or disability. The United States Department of Health and
+Human Services (HHS) maintains a comprehensive list of core and secondary conditions, referred to
+as the Recommended Uniform Screening Panel (RUSP), which serves as a guideline for state newborn
+screening panels. There are currently 40 core conditions, and 26 secondary conditions listed on the
+RUSP. Early detection and treatment of these conditions can greatly improve quality of life and reduce
+direct medical costs while also averting indirect costs (e.g., work productivity losses for caretakers).
+Until 2025, the RUSP was formulated based on the recommendations of the Advisory Committee on
+Heritable Disorders in Newborns and Children (ACHDNC). The ACHDNC voted on whether to recommend
+to the HHS Secretary that a condition be added to the RUSP, by assessing whether screening for and
+diagnosis of the condition would offer substantial health benefits and whether there is a validated
+test and treatment.1 Each state then has the authority to decide which conditions to include on the
+screening panel for that state.
+Objective
+The objective of this paper is to estimate the cost of implementing
+State public health
+newborn screening for conditions added to the RUSP in the last
+laboratories and their
+10 years in the states that have not yet begun screening for
+local partners play a vital
+such conditions.2 The recently added conditions are: Pompe,
+role in protecting the
+X-ALD, MPS I, MPS II, GAMT, Infantile Krabbe Disease, DMD and
+nearly 4 million newborns
+MLD (see Exhibit 1). As part of the analysis, we also estimate
+screened each year.
+the costs of two additional conditions that may be added to the
+RUSP in the next three to five years. This paper focuses on our
+They are responsible
+existing newborn screening system, which is largely dried blood
+for accurate testing and
+spot (DBS)-based biochemical testing with occasional additional
+timely follow-up, all while
+confirmatory testing but does not address the feasibility or
+navigating the challenges
+necessity of system modernization by wholesale incorporation
+and uncertainties of each
+of genetic sequencing tests, such as whole genome sequencing
+state’s annual budget
+or targeted gene panel sequencing tests.
+cycle.
+1 In April 2025, the ACHDNC was disbanded and on December 16, 2025, HHS Secretary Kennedy exercised his authority to add
+two conditions to the RUSP (Duchenne Muscular Dystrophy (DMD) and Metachromatic Leukodystrophy (MLD)).
+2 The cost estimates presented in this paper are intended as a preliminary foundation to support discussion of implementation
+needs and do not represent any individual state’s actual budget. To produce estimates that reflect operational realities, states
+will need to develop state-specific, detailed budgets with their newborn screening laboratories that incorporate implementation
+requirements, timelines, and available funding sources.
+Manatt Health manatt.com 3
+
+=== PAGE 4 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+Modeling Methodology
+Our cost model is based on the research and analysis of condition-specific estimates in the states
+that have implemented or are getting ready to implement newborn testing for these conditions. All the
+research described in this paper is based on data available as of January 2026.
+To inform the analysis, we reviewed state legislation and publicly available newborn screening program
+reports, Health Resources & Services Administration (HRSA) and advocacy organization websites and
+peer review journals. We also connected with select state newborn screening programs to discuss notable
+trends, enablers and challenges associated with newborn screening.
+We then used our state-specific research and interview findings to inform our modeling estimates across
+states. We collected cost estimates from a set of states where this information was publicly available and
+identified a range of potential estimates based on states’ size, capabilities, and experience with similar
+testing methods. Based on this analysis, we grouped states into two tiers for modeling purposes. We
+defined Tier 1 as those states that are likely to have lower costs due to their capabilities or because they
+are already screening for conditions tested by similar methods. We define Tier 2 states as those with
+smaller populations and number of annual births (screening less than 90,000 newborn samples annually),
+that lack the size and resources of the larger states. States with highly developed newborn screening
+programs and infrastructure can leverage their resources to implement newer RUSP conditions across a
+larger number of newborns tested. Costs sustained in states with a fewer number of newborns, therefore,
+are generally higher than in the larger states. We then applied a uniform estimate for each of the tiers and
+arrived at an average estimate of cost per sample for each of the conditions, taking into account which
+states are not yet screening for these conditions.
+We also conservatively assume that two additional conditions will be added to the RUSP in the next three
+to five years. Five conditions have been added to the RUSP between 2022-2025.
+Research Findings
+State lab capabilities and existing newborn screening processes vary widely, resulting in varying
+implementation and funding costs. Implementing newborn screening for new conditions can take
+several years given a labor-intensive and time-consuming implementation process, coupled with funding
+constraints and competing state budget priorities. The key research and interview findings we use to
+inform our estimates are listed below.
+• States have been increasingly using advanced processes and new screening approaches to accelerate
+newborn screening implementation and reduce costs (e.g., using the same instrument for all lysosomal
+storage disorders).
+• States’ implementation costs of adding screening for new conditions may include modifying existing
+Manatt Health manatt.com 4
+
+=== PAGE 5 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+lab space and systems, installing instruments and conducting assay validation, updating laboratory
+information management system, and hiring and training lab and care coordination personnel. Our
+research shows that states typically include these costs in their estimates, and they may also include
+the costs of second-tier screening (this is a small fraction of the cost per sample relative to other costs).
+• In many instances, implementing a new type of RUSP condition typically requires the most investment;
+the next several conditions may be multiplexed with the first and screened by the same testing method,
+depending on the subsequent condition and testing approach. Some states add one condition at a
+time and others add two or three simultaneously spreading the costs across them.
+• 12 states have partnered with larger states to leverage their lab infrastructure and personnel (see
+Exhibit 2). Most of these are smaller states where less than 25,000 newborns are being screened
+annually. Developing needed newborn screening capabilities in such states is often cost prohibitive.
+• 12 states are two-screen states, which means that they screen their newborns twice (e.g., the first
+test soon after birth and the second within the first two weeks of birth). This approach helps catch
+the disorders that may be missed the first time due to physiological changes in the baby. The rest of
+the states are one-screen states (although they typically retest a share of samples to confirm results
+or in case of unsatisfactory samples).
+• Fourteen states have enacted legislation that requires newborn screening for all conditions on the RUSP
+within a specific period after a condition is approved. Each of these states uses its own laboratories
+for testing and does not conduct testing on behalf of any other state. The only exception is Iowa,
+which also tests samples from Alaska, North Dakota, and South Dakota.
+Modeling Assumptions
+For each condition, we estimate average costs per newborn sample as a function of aggregate cost for
+states not screening for the condition and the number of samples across those states.
+Estimating annual number of tested newborn samples: When estimating the number of newborn samples
+tested annually in states not currently screening for a specific condition, we start with the number of
+annual births in each of those states. We then take into account whether those states are one-screen
+or two-screen states. For one-screen states, we estimate that 15% of the births may need to submit a
+second sample (e.g., sample retesting to confirm a result or retest a failed sample run).
+Estimating annual testing costs: Based on our findings above and a set of state-specific cost estimates
+that we collected in the research process, we group all states into two cost tiers for modeling purposes.
+Our cost estimates are comprehensive and consistent with the costs provided by states in their estimates
+(See types of costs described under Research Findings).
+Manatt Health manatt.com 5
+
+=== PAGE 6 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+The below cost estimates were developed based on legislative research of data points provided by states.
+See Exhibit 3 for a summary of modeling assumptions.
+Pompe, MPS I, MPS II, Krabbe, X-ALD, GAMT, DMD and MLD:
+• Tier 1 consists of states that have already developed the capabilities and infrastructure to add newer
+RUSP conditions at minimal cost. We define Tier 1 as the larger states (i.e., states screenings at least
+90,000 newborn samples annually) that have already added one of the lysosomal storage disorders
+we discuss in this report (Pompe, MPS I, MPS II, or Krabbe). We assume modest per sample cost for
+Tier 1 states ($2.50 for each of the LSDs, $1.20 for GAMT and $1.30 for X-ALD), given states’ ability
+to leverage existing testing processes and/or infrastructure for the newer RUSP conditions not yet
+added. Tier 1 costs for DMD and MLD are expected to be meaningfully higher at $7.50, as these are
+conditions were added to the RUSP most recently, with research showing estimated costs for DMD
+and MLD ranging between $7 and $11.
+• Tier 2. We define Tier 2 as lower volume states (i.e., states screening less than 90,000 newborn samples
+annually either individually, or collaboratively if they are the states outsourcing to another state lab)
+or those that have not yet added newborn screening for any lysosomal storage disorders (LSDs).
+• We assume the per sample cost of $6.50 for LSDs, $6.30 for GAMT and $6.50 for X-ALD for
+Tier 2 states. These estimates are based on state-specific costs derived from our legislative
+research (See Modeling Methodology section for more details.)
+• Once a Tier 2 state adds their first LSD, we assume that the next condition can be added at the
+Tier 1 cost for that condition, given that the state has developed needed infrastructure while
+adding their first LSD.
+• Tier 2 costs for DMD and MLD are expected to be meaningfully higher - at $8.50, as these are
+conditions recently added to the RUSP (December 2025), with state-specific legislative research
+showing estimated costs for DMD and MLD ranging between $7 and $11.
+Two RUSP Conditions to be Added over the next 3-5 years:
+Our cost estimates assume the need to implement two additional conditions that could be added to the
+RUSP over the next 3-5 years. Our cost assumptions are described below for Tier 1 and Tier 2 states:
+• Tier 1: We assume the cost of $7.50 for the 30 Tier 1 states, similar to DMD and MLD, as states may
+require additional investments, or states will eventually reach testing capacity and/or they will need
+to expand their testing capabilities and update or replace equipment.
+• Tier 2: We assume a cost of $8.50 for each of the two conditions for 21 Tier 2 states, given their more
+limited capabilities and lower volumes.
+See Exhibit 3 for a summary of modeling assumptions described above.
+Manatt Health manatt.com 6
+
+=== PAGE 7 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+Modeling Results
+If all states currently not testing for Lysosomal Storage Disorders (LSDs), Guanidinoacetate
+Methyltransferase (GAMT) Deficiency, X-linked adrenoleukodystrophy (X-ALD), Duchenne Muscular
+Dystrophy (DMD) and Metachromatic Leukodystrophy (MLD) were to implement testing for those
+conditions, we estimate the aggregate costs across those states to be ~$98 million, equating to $4.50
+per sample or $6.07 per newborn (the difference comes from some states being two-screen states).
+Assuming two more conditions are added to the RUSP over the next three to five years, we estimate
+the aggregate costs of adding those future conditions to be $75M across states, equating to $7.67 per
+sample or $10.45 per newborn.
+In aggregate, considering both current RUSP recommendations and potential future additions, we estimate
+an aggregate cost of $173M, equating to $5.14 per sample or $6.95 per newborn.
+See Exhibit 4 for a summary of modeling results described above.
+Looking Ahead
+Over the past 20 years, laboratory advances have greatly improved identification of disorders at birth and
+have allowed for simultaneous high-volume testing of multiple disorders via approaches such as tandem
+mass spectrometry. At the same time, advances in treatments have made newborn screening increasingly
+relevant, since treatment outcomes largely depend on rapid disease identification and treatment start.
+Yet, due to resource constraints, even beyond recently-added conditions, many of the states are not yet
+screening newborns for conditions added to the RUSP over the past 10 years often due to a high level
+of required investments and pressure on state budgets. While the initial investment to add one of the
+disorders described in this paper may be significant, the next condition to be added can in many cases
+use similar testing methods and the same infrastructure, resulting in meaningful savings. Moreover,
+numerous sources have documented that newborn screening is cost-effective.3
+For some families, the scope of a state’s newborn screening program can mean the difference between
+life and death for their children. The disparities among state newborn screening programs have prompted
+some advocates to describe the consequences of such disparities as “death by zip code,” implying that
+the state of birth can influence whether a newborn receives critical screening and often life-changing
+healthcare. In states which delay implementation of newborn screening for RUSP conditions, many parents
+3 See, e.g., Rana, R., Keramat, S. A., & Ahmed, M. (2025, April 16). Cost-effectiveness of newborn screening for severe combined
+immunodeficiency: A systematic review. Clinical and Experimental Pediatrics, 68(9), 628–640. https://doi.org/10.3345/
+cep.2025.00052; Carroll, A. E., & Downs, S. M. (2006). Comprehensive cost-utility analysis of newborn screening strategies.
+Pediatrics, 117(Supplement 3), S287–S295. https://doi.org/10.1542/peds.2005-2633H; Tiwana, S. K., Rascati, K. L., & Park, H.
+(2012). Cost-effectiveness of expanded newborn screening in Texas. Value in Health, 15(5), 613–621. https://doi.org/10.1016/j.
+jval.2012.02.007.
+Manatt Health manatt.com 7
+
+=== PAGE 8 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+experience a diagnostic odyssey which can take on average 5-7 years seeking a diagnosis that could
+have been identified shortly after birth if their state had included an already recommended condition in
+its testing panel.
+Funding availability is one of the key challenges to increased implementation of newborn screening for
+RUSP conditions in the states. Congress has failed since 2019 to reauthorize the statute which provides
+existing federal support to the states, and the CDC and HRSA have drastically changed their state support
+grant processes leaving states with diminishing funding opportunities to implement RUSP conditions. As
+a result, despite the best and often heroic efforts of state laboratory personnel and their partners, too
+many babies are falling through the cracks in the system and this study validates the need for additional
+resources to support states’ timely implementation of newborn screening for all RUSP conditions.
+This is a critical moment for our nation’s newborn screening system—one that demands strong leadership
+to address the growing uncertainty facing state programs each day. The goal remains clear: to identify and
+treat newborns as early as possible to prevent avoidable disability and death. This research demonstrates
+that timely implementation of newborn screening across states is achievable with additional support.
+Manatt Health manatt.com 8
+
+=== PAGE 9 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+Exhibit 1: States Not Yet Screening for Recently Added RUSP Conditions
+Infantile
+Pompe X-ALD MPS I MPS II GAMT Krabbe DMD MLD
+Disease
+Added to
+Mar 2015 Feb 2016 Feb 2016 Aug 2022 Jan 2023 Jul 2024 Dec 2025 Dec 2025
+RUSP
+# of
+States Not 3 3 5 33 37 36 49 51
+Screening
+Note: Spinal Muscular Atrophy (SMA) is another condition that has been added to the RUSP more
+recently (2018). Since all states have implemented newborn screening for SMA, we do not include it
+in the analysis.
+Source: NewSteps, ALD Alliance, and Manatt Analysis
+Exhibit 2: Screening Lab Utilization Across States
+Lab Location
+Colorado
+Iowa
+In-State
+Massachusetts
+Oregon
+Revvity Omics
+(Perkin Elmer) Lab
+Washington
+Wisconsin
+Manatt Health manatt.com 9
+
+=== PAGE 10 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+Exhibit 3: Modeling Assumptions – Costs Per Sample by Condition
+Lysosomal Storage Disorders Cost per Sample ($) Cost per Sample ($)
+(LSDs) Tier 1 States Tier 2 States
+Krabbe $2.50 $6.50
+MPS II $2.50 $6.50
+MPS I $2.50 $6.50
+Pompe $2.50 $6.50
+Notes:
+1. Our research shows that all states needing to add MPS I and Pompe also need to add Krabbe
+and/or MPS II. Therefore, we assume that the costs for Tier 2 states to add MPS I and Pompe are
+$2.50 each because (1) these are the earlier conditions added to the RUSP (2016) and as a result
+states may have already made much of the needed investments, or (2) there will be synergies
+from having added the necessary infrastructure in preparation for Krabbe and/or MPS II.
+2. Per sample cost of the 4 LSDs above is $10 for Tier 1 and $18 for Tier 2, consistent with our data
+findings for a sample of states we had reviewed.
+3. Estimates above are based on a range of state-specific cost data points for each of the
+conditions. Cost data points vary based on state-specific capabilities and decisions.
+Cost per Sample ($) Cost per Sample ($)
+Other Metabolic Disorders
+Tier 1 States Tier 2 States
+GAMT $1.20 $6.33
+X-ALD $1.32 $6.50
+DMD $7.50 $8.50
+MLD $7.50 $8.50
+Notes:
+1. Our research indicates that adding GAMT and X-ALD may be less expensive than adding the
+LSDs, because states can typically multiplex GAMT and X-ALD with a current assay.
+Manatt Health manatt.com 10
+
+=== PAGE 11 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+2. All estimates above are based on a range of state-specific cost data points for each of the
+conditions.
+Cost per Sample ($) Cost per Sample ($)
+Future RUSP Additions
+Tier 1 States Tier 2 States
+Condition 1 $7.50 $8.50
+Condition 2 $7.50 $8.50
+Notes:
+1. We assume two more conditions (Condition 1 and Condition 2) to be implemented across states
+in the next 3-5 years (either once added to the RUSP or state-specific decisions) and that
+none of the states are currently screening for these conditions. We assume the cost for each
+condition to be $7.50 per sample for Tier 1 states and $8.50 per sample for Tier 2 states.
+2. We assume two future conditions will have costs comparable to DMD and MLD (as opposed to
+lower costs for the LSDs), as some states will need to expand their testing capacity and replace
+or update existing equipment. Preparation for implementation can also take 1-2 years, creating
+an inflation factor implicitly accounted for in this higher estimate.
+Exhibit 4: Modeling Results – Costs to Implement Newborn Screening for States not
+Screening for Newer RUSP Conditions
+Average Cost per Average Cost per
+Per Gap State Aggregate Cost ($)
+Sample ($) Newborn ($)
+Per current condition $4.50 $6.07 $98,246,456
+Per future condition $7.67 $10.45 $75,140,860
+Total $5.14 $6.95 $173,387,316
+Current conditions: Pompe, X-ALD, MPS I, MPS II, GAMT, Krabbe, DMD, MLD
+Future conditions: Two future conditions
+Manatt Health manatt.com 11
+
+=== PAGE 12 ===
+Every Newborn, Every State: Funding to End Variability in
+Newborn Screening RUSP Implementation
+State Total Cost
+Alabama $4,189,151
+Appendix
+Alaska $671,798
+Arizona $5,076,240
+Arkansas $1,897,908
+Supporting Data and Study Limitations
+California $14,954,037
+Colorado $4,452,412
+The $173 million cost estimate reflects the aggregate cost of Connecticut $1,609,585
+Delaware $485,638
+one year of newborn screening, including:
+District of Columbia $483,985
+• Screening for RUSP-recommended conditions that Florida $8,275,199
+Georgia $4,849,313
+states have not yet added to their panels - Pompe,
+Hawaii $616,491
+X-ALD, MPS I, MPS II, GAMT, Krabbe, DMD, MLD.
+Idaho $1,621,632
+Illinois $4,478,829
+• Projected one-year costs for two additional
+Indiana $3,061,827
+conditions that may be added to the RUSP in the
+Iowa $1,670,830
+next 3-5 years. Kansas $1,833,378
+Kentucky $2,032,574
+• This funding is intended to provide temporary support
+Louisiana $3,777,330
+to help cover states’ start up expenses and bridge the Maine $484,059
+period during which they update newborn screening fee Maryland $3,935,640
+Massachusetts $2,507,601
+schedules to account for newly added conditions. After
+Michigan $3,989,741
+fee schedules are adjusted, ongoing screening costs are
+Minnesota $2,271,112
+expected to be reimbursed by Medicaid and commercial
+Mississippi $2,112,164
+insurers. Missouri $3,110,815
+Montana $742,725
+• The estimate is calculated using an estimated per-
+Nebraska $1,477,884
+sample screening cost and each state’s annual newborn Nevada $3,707,180
+screening volume. The per-sample screening cost does New Hampshire $496,923
+not represent any individual state’s actual budget; New Jersey $3,914,526
+New Mexico $1,516,936
+rather, it is a generalized estimate informed by the
+New York $7,609,999
+limited publicly available cost projections shared by
+North Carolina $4,609,023
+certain states.
+North Dakota $663,424
+Ohio $3,823,668
+• As outlined in the methodology section, estimated per-
+Oklahoma $2,936,582
+sample costs range from $1.20 to $8.50, depending on Oregon $2,772,928
+the condition, the state’s approach to implementation Pennsylvania $4,379,810
+(e.g., opportunities for multiplexing), and whether Rhode Island $366,462
+South Carolina $3,106,975
+the state already has infrastructure that lowers the
+South Dakota $718,768
+incremental cost of adopting newer RUSP conditions.
+Tennessee $3,217,670
+Texas $24,209,320
+• This estimate serves as an initial foundation to inform
+Utah $3,151,330
+discussions about implementation needs and will need
+Vermont $210,868
+to be revised as states develop state-specific, detailed Virginia $4,283,376
+budgets with their newborn screening laboratories that Washington $5,859,801
+reflect operational requirements, timelines, and available West Virginia $893,735
+Wisconsin $3,834,414
+funding sources.
+Wyoming $433,700
+Total $173,387,316
+Manatt Health manatt.com 12

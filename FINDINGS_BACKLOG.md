@@ -1667,3 +1667,22 @@ five Head Start regional offices closed.
 **ACTION (Zach's call):** if the announcement is a newborn-screening bill or event, build a MISSING CONTEXT entry: what he
 announces vs. the committee HHS abolished, H.R. 4709's stall, and the OBBBA Medicaid/SNAP votes that reach the same
 newborns. Gap: no NY/NY-23 child Medicaid enrollment figure yet (NY DOH county PDFs are curl-blocked; use Chrome).
+
+## 2026-09-25 (PM) — The announcement: "Surge to Save Newborns Act" (Langworthy + Schrier), $35M/yr FY2027–31
+
+**Source folder:** `research/sources/surge-newborns-2026-09-25/` (transcript in `research/transcripts/`). Poster and transcript
+retained; **no bill number, text, or press release yet** (check govinfo BILLSTATUS and langworthy.house.gov; verify Schrier
+co-lead on the congress.gov cosponsor list before writing it).
+
+**What it is:** the Surge to Save Newborns coalition's ask (Hunter's Hope + 15 rare-disease groups, supported by Travere
+Therapeutics and BioMarin; Manatt study $173M, NY share $7.6M) turned into a five-year $35M/yr fund for states to implement
+RUSP conditions plus state tracking / HHS reporting. Straightforward, bipartisan, consistent with his Krabbe record.
+
+**What he left out:** the RUSP's expert committee was terminated by HHS on April 1, 2025 (HHS's own FR notices); he credited
+"the advisory committee" for Krabbe today without saying it no longer exists; Kelly said they have "a note out to Mr. Kennedy."
+His H.R. 4709 co-lead bill, which reauthorizes that committee, has sat in his own E&C committee since Sept 10, 2025.
+
+**ACTION (Zach's call):** MISSING CONTEXT entry once the text posts (needs: bill number, appropriation vs. authorization,
+cosponsor roster, and whether the Langworthy release mentions the committee). Card angle: "$35M a year to implement a panel
+whose expert committee his party's HHS abolished." Keep the Kellys and Hunter's Hope out of the frame per the meetings-are-not-
+endorsements standard; industry backing is disclosed by the coalition itself, state it without insinuation.
