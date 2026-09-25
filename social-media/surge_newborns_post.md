@@ -1,4 +1,4 @@
-# DRAFT
+# POSTED Sept 25, 2026
 # Entry: /fact-checks/2026-09-25-surge-to-save-newborns-act/  (MISSING CONTEXT)
 # Card: surge_newborns_card.png (create_surge_newborns_card.py)
 
