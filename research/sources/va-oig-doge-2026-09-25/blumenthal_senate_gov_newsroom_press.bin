@@ -1,0 +1,2786 @@
+<!DOCTYPE html>
+<html lang="en" class='no-js template--press_releases'>
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+
+  <title>Press Releases | U.S. Senator Richard Blumenthal</title>
+  <link rel="canonical" href="https://www.blumenthal.senate.gov/newsroom/press">
+
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link href="/assets/images/favicon.ico" rel="Icon" type="image/x-icon"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/site.webmanifest">
+  <link rel="mask-icon" href="/assets/images/safari-pinned-tab.svg" color="#042b56">
+  <meta name="apple-mobile-web-app-title" content="Richard Blumenthal">
+  <meta name="application-name" content="Richard Blumenthal">
+  <meta name="msapplication-TileColor" content="#042b56">
+  <meta name="msapplication-config" content="/assets/images/browserconfig.xml">
+  <meta name="theme-color" content="#042b56">
+  <meta name="google-site-verification" content="16hXhRmzoT9TNlaQxPtiQuI8rnxp2fu8lOm261oN5Ag">
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:site" content="@senblumenthal"/>
+
+<meta name="twitter:title" content="Press Releases | U.S. Senator Richard Blumenthal of Connecticut">
+
+<meta property="twitter:image" content="https://www.blumenthal.senate.gov/assets/images/sharelogo.jpg"/>
+
+<meta name="twitter:description" content="The Official U.S. Senate website of Senator Richard Blumenthal of Connecticut"/>
+
+
+<meta property="og:url" content="https://www.blumenthal.senate.gov/newsroom/press"/>
+
+<meta property="og:title" content="Press Releases | U.S. Senator Richard Blumenthal of Connecticut"/>
+
+<meta property="og:image" content="https://www.blumenthal.senate.gov/assets/images/sharelogo.jpg"/>
+
+<meta property="og:description" content="The Official U.S. Senate website of Senator Richard Blumenthal of Connecticut"/>
+
+  
+  
+  
+
+
+
+<script>
+  if (!application) var application = {};
+  application = {
+    "config": {
+      "tinymce": {
+        "plugins": {
+          "selectvideo": {
+            "player": "jwplayer", // should be set to "legacy" or "jwplayer" currently
+            "youtube": true, // set to true to write the youtube tags for youtube videos
+            "width": "100%", // set width and height on the containing element
+            "height": "100%",
+            "tracking": true
+          }
+        }
+      }
+    },
+    "fn": { // deprecated mootools 1.2 stuff that we'll probably still use once we upgrade fully to 1.3
+      "defined": function (obj) {
+        return (obj != undefined);
+      },
+      "check": function (obj) {
+        return !!(obj || obj === 0);
+      }
+    },
+    "form": {
+      "processed": "null",
+    },
+    "friendly_urls": false,
+    "siteroot": "https://www.blumenthal.senate.gov/",
+    "theme": "",
+    "webroot": "https://www.blumenthal.senate.gov/",
+    "assetWebroot": "https://www.blumenthal.senate.gov/",
+  };
+</script>
+
+    
+      <link rel="stylesheet" type="text/css" href="https://www.blumenthal.senate.gov/styles/common.css?1790298304"/>
+
+      <script src="https://www.blumenthal.senate.gov/scripts/global.js?1790298304"></script>
+      <script src="https://www.blumenthal.senate.gov/scripts/gsap.js?1790298304"></script>
+
+      <script>
+        $.ajaxSetup({ cache: true });
+        function getScripts(scripts, callback) {
+          var progress = 0;
+          scripts.forEach(function(script) {
+              $.getScript(script, function () {
+                  if (++progress == scripts.length && typeof callback == 'function') callback();
+              });
+          });
+        }
+      </script>
+
+      <script>
+        var initForm = function() {
+          getScripts(['https://www.blumenthal.senate.gov/scripts/mootools.min.js?1790298304'], function() {
+            getScripts(['https://www.blumenthal.senate.gov/scripts/form/Forms_Builder.js?1790298304'], function() {
+              creativengine_forms_builder.init();
+
+              // fix for bootstrap tooltip hide/mootools hide collision
+              $$('form input,form select,form textarea, input, .nav-tabs li a').each(function (item) {
+                if (typeof item.hide == 'function') {
+                  item.hide = null;
+                }
+              });
+
+              Element.implement({
+                'slide': function (how, mode) {
+                  return this;
+                }
+              });
+            })
+          })
+        }
+      </script>
+
+
+        <script type="text/javascript">
+        var gRecaptchaReady = function () {
+          let textarea = document.getElementById("g-recaptcha-response");
+          if (!textarea)
+            return;
+          textarea.setAttribute("aria-hidden", "true");
+          textarea.setAttribute("aria-label", "do not use");
+          textarea.setAttribute("aria-readonly", "true");
+        }
+
+        window.getStuckHeaderHeight = function () {
+          var siteHeader = document.querySelector('.SiteHeader');
+          var siteHeaderHeight = (siteHeader)
+            ? siteHeader.offsetHeight
+            : 0;
+          var mobileHeader = document.querySelector('.MobileHeader');
+          var mobileHeaderHeight = (mobileHeader)
+            ? mobileHeader.offsetHeight
+            : 0;
+
+          // Returns the height of either desktop or mobile header because the hidden header will return 0
+          return siteHeaderHeight + mobileHeaderHeight;
+        }
+
+        window.requestAnimationFrame = window.requestAnimationFrame.bind(window);
+        //gsap.registerPlugin(ScrollTrigger, ScrollToPlugin);
+
+        window.refreshScrollTriggers = () => {
+          if (typeof ScrollTrigger !== 'undefined') {
+            ScrollTrigger.getAll().forEach(t => t.refresh());
+          }
+        };
+        window.killScrollTriggers = () => {
+          if (typeof ScrollTrigger !== 'undefined') {
+            ScrollTrigger.getAll().forEach(t => t.kill());
+          }
+        };
+      </script>
+
+<script src="https://assets.adobedtm.com/566dc2d26e4f/f8d2f26c1eac/launch-3a705652822d.min.js" async></script>
+
+      
+      
+      <script>
+        window.top['site_path'] = "BB6EBC0A-4040-F985-52CD-D258B68D186D";
+        window.top['SAM_META'] = {
+          jquery: "",
+          bootstrap: {
+            major: ""
+          }
+        };
+      </script>
+      
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/assets/fonts/font-awesome/css/all.min.css"/>
+
+      <link rel="stylesheet" href="https://www.blumenthal.senate.gov/assets/styles/font-awesome.min.css"/>
+
+  </head>
+
+  
+
+  <body data-transition="wrapper"
+    class="body--internal body--press_releases">
+    <!-- in sen-n -->
+    <!--stopindex-->
+      <div class="SiteLayout d-flex flex-column">
+          <div class="SiteLayout__alert">
+            <a href="#aria-skip-nav" class="SkipNav sr-only sr-only-focusable">Skip to content</a>
+
+<div class="NewsAlert">
+  <div class="NewsAlert__container NewsAlert__container--absolute container">
+    <div class="NewsAlert__iconContainer">
+        <div class="NewsAlert__icon" aria-hidden="true">
+          <svg class="NewsAlert__iconShape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+            <path d="M50,5A45,45,0,1,0,95,50,45,45,0,0,0,50,5Zm4.3,70H45.7V66.4h8.6Zm3.17-43.6L54.25,61.9H45.75L42.53,31.4V25H57.47Z"/>
+          </svg>
+        </div>
+    </div>
+  </div>
+
+
+</div>
+
+            
+          </div>
+
+        <div class="SiteLayout__container d-flex flex-column flex-grow-1">
+            <div class="SiteLayout__navigation">
+                <div class="SiteLayout__siteHeader">
+<div class="SiteHeader">
+  <div class="SiteHeader__background"></div>
+
+  <div  class="SiteHeader__layout">
+    
+
+    <div id="js-site-header"  class="SiteHeader__main">
+      <div class="SiteHeader__nav h-100">
+        <div class="SiteHeader__navItem h-100">
+
+<div class="SiteNav h-100">
+    
+      <nav aria-label="Site Navigation" class="SiteNav__layout h-100">
+        <div class="SiteNav__main  h-100">
+          <ul class="SiteNav__linkList">
+
+                
+
+
+                <li class="SiteNav__item SiteNav__item--dropdown">
+                  <a class="SiteNav__link align-items-center"
+                    data-transition-selected-if="/about"
+                    data-transition-selected-class="SiteNav__link--selected"
+                    href="https://www.blumenthal.senate.gov/about"
+                    tabindex="0">About</a>
+
+                    <ul class="SiteNav__dropdown">
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/about/biography"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/about/biography"
+                              href="https://www.blumenthal.senate.gov/about/biography"
+                              tabindex="0">Biography</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/about/committee-assignments"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/about/committee-assignments"
+                              href="https://www.blumenthal.senate.gov/about/committee-assignments"
+                              tabindex="0">Committee Assignments</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/about/issues"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/about/issues"
+                              href="https://www.blumenthal.senate.gov/about/issues"
+                              tabindex="0">Issues</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/about/legislation"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/about/legislation"
+                              href="https://www.blumenthal.senate.gov/about/legislation"
+                              tabindex="0">Legislation</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/about/voting-record"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/about/voting-record"
+                              href="https://www.blumenthal.senate.gov/about/voting-record"
+                              tabindex="0">Voting Record</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/about/about-connecticut"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/about/about-connecticut"
+                              href="https://www.blumenthal.senate.gov/about/about-connecticut"
+                              tabindex="0">About Connecticut</a>
+                          </li>
+                    </ul>
+                </li>
+
+                
+
+
+                <li class="SiteNav__item SiteNav__item--dropdown">
+                  <a class="SiteNav__link align-items-center"
+                    data-transition-selected-if="/services"
+                    data-transition-selected-class="SiteNav__link--selected"
+                    href="https://www.blumenthal.senate.gov/services"
+                    tabindex="0">Services</a>
+
+                    <ul class="SiteNav__dropdown">
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/services/meeting-and-event-requests"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/services/meeting-and-event-requests"
+                              href="https://www.blumenthal.senate.gov/services/meeting-and-event-requests"
+                              tabindex="0">Meeting & Event Requests</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/services/flag-requests"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/services/flag-requests"
+                              href="https://www.blumenthal.senate.gov/services/flag-requests"
+                              tabindex="0">Flag Requests</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/services/greeting-requests"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/services/greeting-requests"
+                              href="https://www.blumenthal.senate.gov/services/greeting-requests"
+                              tabindex="0">Greeting Requests</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/services/visiting-washington-dc"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/services/visiting-washington-dc"
+                              href="https://www.blumenthal.senate.gov/services/visiting-washington-dc"
+                              tabindex="0">Visiting Washington, D.C.</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/services/federal-funding"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/services/federal-funding"
+                              href="https://www.blumenthal.senate.gov/services/federal-funding"
+                              tabindex="0">Federal Funding</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/services/help-with-a-federal-agency"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/services/help-with-a-federal-agency"
+                              href="https://www.blumenthal.senate.gov/services/help-with-a-federal-agency"
+                              tabindex="0">Help With A Federal Agency</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/services/academy-nominations"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/services/academy-nominations"
+                              href="https://www.blumenthal.senate.gov/services/academy-nominations"
+                              tabindex="0">Academy Nominations</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/services/internship-and-clerkship-applications"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/services/internship-and-clerkship-applications"
+                              href="https://www.blumenthal.senate.gov/services/internship-and-clerkship-applications"
+                              tabindex="0">Internship & Clerkship Applications</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/services/resources"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/services/resources"
+                              href="https://www.blumenthal.senate.gov/services/resources"
+                              tabindex="0">Resources</a>
+                          </li>
+                    </ul>
+                </li>
+
+                
+
+
+                <li class="SiteNav__item SiteNav__item--dropdown">
+                  <a class="SiteNav__link align-items-center SiteNav__link--selected"
+                    data-transition-selected-if="/newsroom"
+                    data-transition-selected-class="SiteNav__link--selected"
+                    href="https://www.blumenthal.senate.gov/newsroom"
+                    tabindex="0">Newsroom</a>
+
+                    <ul class="SiteNav__dropdown">
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink SiteNav__dropdownLink--selected"
+                              data-transition-selected-if="/newsroom/press"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/newsroom/press"
+                              href="https://www.blumenthal.senate.gov/newsroom/press"
+                              tabindex="0">Press Releases</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/newsroom/official-photo"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/newsroom/official-photo"
+                              href="https://www.blumenthal.senate.gov/newsroom/official-photo"
+                              tabindex="0">Official Photo</a>
+                          </li>
+                    </ul>
+                </li>
+
+                
+
+
+                <li class="SiteNav__item SiteNav__item--dropdown">
+                  <a class="SiteNav__link align-items-center"
+                    data-transition-selected-if="/contact"
+                    data-transition-selected-class="SiteNav__link--selected"
+                    href="https://www.blumenthal.senate.gov/contact"
+                    tabindex="0">Contact</a>
+
+                    <ul class="SiteNav__dropdown">
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/contact/write-to-senator-blumenthal"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/contact/write-to-senator-blumenthal"
+                              href="https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal"
+                              tabindex="0">Write to Senator Blumenthal</a>
+                          </li>
+
+
+                          <li class="SiteNav__dropdownItem">
+                            <a class="SiteNav__dropdownLink"
+                              data-transition-selected-if="/contact/get-assistance"
+                              data-transition-selected-class="SiteNav__dropdownLink--selected"
+                              data-transition-selected-nestedIf = "/contact/get-assistance"
+                              href="https://www.blumenthal.senate.gov/contact/get-assistance"
+                              tabindex="0">Get Assistance</a>
+                          </li>
+                    </ul>
+                </li>
+  
+          </ul>
+        </div>
+      </nav>
+</div>
+
+<script>
+
+  var topLevelLinks = document.querySelectorAll('.SiteNav__link');
+
+  for (var i = 0; i < topLevelLinks.length; i++) {
+    topLevelLinks[i].addEventListener('mouseover', function () {
+      this
+        .parentElement
+        .classList
+        .add('focus');
+    });
+
+    topLevelLinks[i].addEventListener('mouseleave', function () {
+      this
+        .parentElement
+        .classList
+        .remove('focus');
+    });
+  }
+</script>        </div>
+      </div>
+
+      
+      <div class="SiteHeader__logoContainer js-siteLogo h-100 ">
+        <a
+              href="/"
+              class="SiteHeader__logoLink"
+              aria-label="U.S. Senator Richard Blumenthal Logo goes to Home Page">
+          <div class="SiteHeader__logo">
+            <img
+                  width="350"
+                  height="90"
+                  src="https://www.blumenthal.senate.gov/assets/images/logo.svg"
+                  alt="U.S. Senator Richard Blumenthal Logo"/>
+          </div>
+        </a>
+      </div>
+
+      <div class="SiteHeader__nav h-100">
+
+        
+        
+
+        
+        <div class="SiteHeader__search h-100">
+<div id="SiteSearch" class="SiteNavSearch">
+
+  <button class="SiteNavSearch__searchToggleButton"
+              aria-label="Website search open"
+              data-toggle-search="true"
+              data-toggle-class="SiteHeader--searchMode"
+              data-target="#js-site-header">
+
+    <span class="SiteNavSearch__searchIcon"></span>
+    <span class="sr-only">Website Search Open</span>
+  </button>
+
+  <div class="SiteNavSearch__searchOverlay">
+    <form class="SiteNavSearch__searchForm" aria-label="search" role="search" method="get" action="/search">
+      <input type="hidden" name="access" value="p"/>
+      <input type="hidden" name="as_dt" value="i"/>
+      <input type="hidden" name="as_epq" value=""/>
+
+      <input type="hidden" name="as_eq" value=""/>
+      <input type="hidden" name="as_lq" value=""/>
+      <input type="hidden" name="as_occt" value="any"/>
+      <input type="hidden" name="as_oq" value=""/>
+      <input type="hidden" name="as_q" value=""/>
+      <input type="hidden" name="as_sitesearch" value=""/>
+      <input type="hidden" name="client" value="blumenthal"/>
+      <input type="hidden" name="sntsp" value="0"/>
+      <input type="hidden" name="filter" value="0"/>
+      <input type="hidden" name="getfields" value=""/>
+      <input type="hidden" name="lr" value=""/>
+      <input type="hidden" name="num" value="15"/>
+      <input type="hidden" name="numgm" value="3"/>
+      <input type="hidden" name="oe" value="UTF8"/>
+      <input type="hidden" name="output" value="xml_no_dtd"/>
+      <input type="hidden" name="partialfields" value=""/>
+      <input type="hidden" name="proxycustom" value=""/>
+      <input type="hidden" name="proxyreload" value="0"/>
+      <input type="hidden" name="proxystylesheet" value="default_frontend"/>
+      <input type="hidden" name="requiredfields" value=""/>
+      <input type="hidden" name="sitesearch" value=""/>
+      <input type="hidden" name="sort" value="date:D:S:d1"/>
+      <input type="hidden" name="start" value="0"/>
+      <input type="hidden" name="ud" value="1"/>
+      <div class="SiteNavSearch__searchFormContent">
+        <input name="q" id="js-site-nav-search-input" class="SiteNavSearch__searchInput" type="text" placeholder="Search" aria-label="Site Search">
+        <button class="SiteNavSearch__searchFormButton" type="submit">
+          <span class="sr-only">Submit Site Search Query</span>
+          <span class="SiteNavSearch__searchToggleIcon fa fa-search" aria-hidden="true"></span>
+        </button>
+      </div>
+    </form>
+    <button class="SiteNavSearch__searchToggleButton"
+                aria-label="Website search"
+                data-toggle-search="true"
+                 data-toggle-class="SiteHeader--searchMode"
+                data-target="#js-site-header">
+      <span
+                  class="SiteNavSearch__searchIconClose"
+                  aria-hidden="true"></span>
+      <span class="sr-only">Website Search</span>
+    </button>
+  </div>
+
+</div>
+
+<script>
+  $(document).ready(function () {
+    $('[data-toggle-class]').click(this, function () {
+
+      var className = $(this).data('toggle-class');
+      var target = $(this).data('target');
+      var logoTarget = $('.js-siteLogo');
+
+      var searchTarget = $('#SiteSearch');
+      var hasClass = $(target).hasClass(className);
+
+      $(target).toggleClass(className);
+      $(searchTarget).toggleClass('SiteNavSearch--searchMode');
+
+      $(logoTarget).toggleClass('SiteHeader__logoContainer--searchMode');
+
+      if (hasClass) {
+        $('#js-site-nav-search-input').val('');
+        return;
+      }
+
+      $('#js-site-nav-search-input').focus();
+
+    });
+  });
+</script>
+        </div>
+
+      </div>
+    </div>
+
+    
+    <div class="SiteHeader__navSocialContainer h-100 ml-auto">
+<ul class="SocialIcons d-flex" aria-label="Social media links">
+
+  
+    <li class="SocialIcons__item">
+      <a class="SocialIcons__link SocialBubble" href="https://bsky.app/profile/blumenthal.senate.gov" target="_blank" rel="noreferrer">
+
+        <i class="fa SocialBubble__icon SocialBubble__icon--bluesky">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="16" height="16" fill="currentColor"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/></svg>
+        </i>
+    
+      </a>
+    </li>
+  
+    <li class="SocialIcons__item">
+      <a class="SocialIcons__link SocialBubble" href="https://www.facebook.com/SenBlumenthal" target="_blank" rel="noreferrer">
+        <i class="fa-brands fa-facebook-f SocialBubble__icon SocialBubble__icon--facebook">
+          <span class="sr-only">Senator Blumenthal Facebook</span>
+        </i>
+      </a>
+    </li>
+
+  
+    <li class="SocialIcons__item">
+      <a class="SocialIcons__link SocialBubble" href="https://twitter.com/SenBlumenthal" target="_blank" rel="noreferrer">
+        <i class="fa-brands fa-x-twitter SocialBubble__icon SocialBubble__icon--twitter">
+          <span class="sr-only">Senator Blumenthal Twitter</span>
+        </i>
+      </a>
+    </li>
+
+  
+    <li class="SocialIcons__item">
+      <a class="SocialIcons__link SocialBubble" href="https://www.instagram.com/senblumenthal" target="_blank" rel="noreferrer">
+        <i class="fa-brands fa-instagram SocialBubble__icon SocialBubble__icon--instagram">
+          <span class="sr-only">Senator Blumenthal Instagram</span>
+        </i>
+      </a>
+    </li>
+  
+
+
+</ul>    </div>
+
+  </div>
+</div>                </div>
+
+                <div class="SiteLayout__mobileHeader">
+<div class="MobileHeader">
+  <div class="MobileHeader__bgColor"></div>
+  <div class="MobileHeader__container container h-100">
+    <div class="row no-gutters justify-content-between align-items-center h-100">
+      <button class="MobileHeader__icon MobileHeader__icon--search js-open-mobile-search h-100  col-auto" aria-label="open site search" data-toggle="modal" data-target="#website-search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.64 55.98"><path d="M55.64 49.53L36.57 30.46A19.84 19.84 0 005.8 5.81a19.85 19.85 0 0024.26 31.05L49.18 56zM10.74 29a12.85 12.85 0 1118.14 0 12.92 12.92 0 01-18.14 0z"/></svg>
+      </button>
+
+      <div class="MobileHeader__logo col-6 d-flex justify-content-center justify-self-stretch">
+        <a class="d-block" href="/">
+          <img
+            class="d-block h-auto w-100"
+            width="245"
+            height="63"
+            src="https://www.blumenthal.senate.gov/assets/images/logo_secondary.svg"
+            alt="U.S. Senator Richard Blumenthal Logo">
+        </a>
+      </div>
+
+      <button class="js-open-mobile-nav MobileHeader__icon MobileHeader__icon--menu col-auto" aria-label="open mobile navigation">
+        <span class="MobileHeader__mobileNavIcon">
+          <span></span>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
+                </div>
+            </div>
+
+          <div id="aria-skip-nav" tabindex="-1"></div>
+          <div class="SiteLayout__transitionContainer d-flex flex-column flex-grow-1" data-transition="container" data-transition-namespace="internal" data-nav="site">
+            
+
+            
+<script>
+  if (!application) var application = {};
+  application = {
+    "config": {
+      "tinymce": {
+        "plugins": {
+          "selectvideo": {
+            "player": "jwplayer", // should be set to "legacy" or "jwplayer" currently
+            "youtube": true, // set to true to write the youtube tags for youtube videos
+            "width": "100%", // set width and height on the containing element
+            "height": "100%",
+            "tracking": true
+          }
+        }
+      }
+    },
+    "fn": { // deprecated mootools 1.2 stuff that we'll probably still use once we upgrade fully to 1.3
+      "defined": function (obj) {
+        return (obj != undefined);
+      },
+      "check": function (obj) {
+        return !!(obj || obj === 0);
+      }
+    },
+    "form": {
+      "processed": "null",
+    },
+    "friendly_urls": false,
+    "siteroot": "https://www.blumenthal.senate.gov/",
+    "theme": "",
+    "webroot": "https://www.blumenthal.senate.gov/",
+    "assetWebroot": "https://www.blumenthal.senate.gov/",
+  };
+</script>
+
+              <div class="SiteLayout__main">
+
+
+
+
+
+                  <!--startindex-->
+
+
+
+
+
+<div class="Blocks">
+            
+
+
+
+  <div class="Block Block--heading Block--width--wide Block--backgroundColor--default Block--textColor--default Block--textFamily--default mt-5 pb-2">
+    <div class="Block__content">
+      <div id="press-releases" class="Heading Heading--h1"><h1 class="Heading__title">Press Releases</h1></div>
+
+    </div>
+  </div>
+
+</div>
+
+  <div class="ReadingWidth container">
+    <!--stopindex-->
+    <div class="FilterBar mt-5">
+      <div class="row justify-content-between m-n2">
+        <div class="col-12 col-sm-6 p-2">
+              <div class="filter-buttons btn-group">
+    <div class="row m-n1">
+      <div class="col col-sm-auto p-1">
+        <button class="Button Button--block Button--md Button--text" data-toggle="modal" data-target="#filtermodal">
+          <span class="fa fa-filter"></span>&nbsp;Filter
+        </button>
+      </div>
+
+        <div class="col col-sm-auto p-1 ml-4">
+          <a class="Button Button--block Button--md Button--text" href="https://www.blumenthal.senate.gov/newsroom/press?expanded=false">
+            <span class="fa fa-list"></span>&nbsp;Collapse
+          </a>
+        </div>
+    </div>
+  </div>
+  
+
+
+  <div class="BootstrapModal BootstrapModal--withBackground modal fade" id="filtermodal" tabindex="-1" role="dialog" aria-labelledby="filtermodal-title">
+    <div class="BootstrapModal__container modal-dialog" role="document">
+      <div class="BootstrapModal__content modal-content">
+        <div class="BootstrapModal__header align-items-center modal-header">
+          <h2 id="filtermodal-title" class="BootstrapModal__headerTitle modal-title">Filter Results</h2>
+
+            <button type="button" class="BootstrapModal__closeIcon" data-dismiss="modal" aria-label="filtermodal close button">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768 768"><path d="M768 77.315L461.315 384 768 690.685 690.685 768 384 461.315 77.315 768 0 690.685 306.685 384 0 77.315 77.315 0 384 306.685 690.685 0z"/></svg>
+            </button>
+        </div>
+
+        <div class="BootstrapModal__body modal-body">
+              <form id="search_sidebar_form" class="form-group filter-form">
+      <div class="mb-2">
+            <label class="sr-only" for="restrict_month">Month Field</label>
+    <select
+            name="restrict_month"
+            id="restrict_month"
+            class="InputSelect InputSelect--md"
+            title="All Months"
+                autofocus
+        >
+        <option value="0" label="All Months" >All Months</option>
+          <option value="01">January</option>
+          <option value="02">February</option>
+          <option value="03">March</option>
+          <option value="04">April</option>
+          <option value="05">May</option>
+          <option value="06">June</option>
+          <option value="07">July</option>
+          <option value="08">August</option>
+          <option value="09">September</option>
+          <option value="10">October</option>
+          <option value="11">November</option>
+          <option value="12">December</option>
+    </select>
+
+      </div>
+
+      <div class="mb-2">
+            <label class="sr-only" for="restrict_year">Year Field</label>
+    <select
+            name="restrict_year"
+            id="restrict_year"
+            class="InputSelect InputSelect--md"
+            title="All Years"
+        >
+        <option value="0" label="All Years" >All Years</option>
+          <option value="2026">2026</option>
+          <option value="2025">2025</option>
+          <option value="2024">2024</option>
+          <option value="2023">2023</option>
+          <option value="2022">2022</option>
+          <option value="2021">2021</option>
+          <option value="2020">2020</option>
+          <option value="2019">2019</option>
+          <option value="2018">2018</option>
+          <option value="2017">2017</option>
+          <option value="2016">2016</option>
+          <option value="2015">2015</option>
+          <option value="2014">2014</option>
+          <option value="2013">2013</option>
+          <option value="2012">2012</option>
+          <option value="2011">2011</option>
+    </select>
+
+      </div>
+
+      <div class="mb-2">
+            <label class="sr-only" for="issues-list">Filter by Issue</label>
+    <select
+            name="issues-list"
+            id="issues-list"
+            class="InputSelect InputSelect--md"
+            title="All Issues"
+        >
+        <option value="0" label="All Issues" >All Issues</option>
+          <option value="90F5C8E0-89C1-45A2-8C54-50E45F250160">Civil Rights</option>
+          <option value="049EA39A-3FAF-4DB7-8AF2-24839E404B99">Consumer Protection</option>
+          <option value="82A7F637-CD16-47B0-92B9-0F836427C4E3">Economic Opportunity</option>
+          <option value="2975CDFF-F5D1-451F-ABF4-C5941559675E">Education</option>
+          <option value="D7897664-61A3-4EA6-8916-5F790ADEC36A">Energy &amp; the Environment</option>
+          <option value="678693D1-DC71-4002-AC64-21508340DF2E">Gender Equality &amp; Reproductive Rights</option>
+          <option value="F0B9F470-4971-48A4-A3B2-945F2F35E677">Gun Violence Prevention</option>
+          <option value="EBC4BA56-91BD-406D-8709-867CBC429DE6">Health Care</option>
+          <option value="E228C995-3AC0-4C51-9ED1-6C808115BCA4">Immigration</option>
+          <option value="BBBF7CE1-E8E5-4330-A6F0-12D65745E95D">Infrastructure</option>
+          <option value="702D34D2-8803-4DDB-B9AF-BE3F905EF01B">KOSA</option>
+          <option value="26443BCD-58CD-4585-9614-1927490A75D0">National Defense &amp; Foreign Policy</option>
+          <option value="8B1CC3FF-82E3-4D26-AF04-E6E1FE9B3753">Privacy &amp; Cybersecurity</option>
+          <option value="DD0B8523-2196-4EE6-A088-AA51616FC3E2">Veterans</option>
+    </select>
+
+      </div>
+
+      <div class="mb-2">
+        
+      </div>
+
+      <div class="mb-2">
+            <label class="sr-only" for="session_select">All Congressional Sessions</label>
+    <select
+            name="session_select"
+            id="session_select"
+            class="InputSelect InputSelect--md"
+            title="All Congressional Sessions"
+        >
+        <option value="0" label="All Congressional Sessions" >All Congressional Sessions</option>
+          <option value="119">119th Congress (2025 - 2027)</option>
+          <option value="118">118th Congress (2023 - 2025)</option>
+          <option value="117">117th Congress (2021 - 2023)</option>
+          <option value="116">116th Congress (2019 - 2020)</option>
+          <option value="115">115th Congress (2017 - 2018)</option>
+          <option value="114">114th Congress (2015 - 2016)</option>
+          <option value="113">113th Congress (2013 - 2014)</option>
+          <option value="112">112th Congress (2011 - 2012)</option>
+    </select>
+
+      </div>
+
+      <input data-dismiss="modal" type="submit" class="Button Button--primary Button--md" id="side-update-by-date-btn" onclick="filter.run('https://www.blumenthal.senate.gov/newsroom/press',event)" value="Update"/>
+    </form>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script>
+    $('#filtermodal').on('shown.bs.modal', function () {
+      $('[autofocus]').trigger('focus')
+    })
+  </script>
+
+        </div>
+        <div class="col-12 col-sm-5 p-2">
+<form class="press-search" role="search" method="get" action="/search">
+  <div class="row no-gutters align-items-center">
+    <div class="col-10">
+      <label for="search-field" class="sr-only">search</label>
+      <input class="InputText InputText--md" type="search" id="search-field" name="q" placeholder="Search">
+    </div>
+    <div class="col-2">
+      <button class="Button Button--block Button--md Button--primary" type="submit" aria-label="submit search">
+        <span class="fa fa-search" aria-hidden="true"></span>
+      </button>
+    </div>
+  </div>
+</form>
+        </div>
+
+      </div>
+    </div>
+
+    <hr class="Divider" aria-hidden="true"/>
+    <a href="#aria-skip-press" class="Button Button--secondary my-3 px-3 sr-only sr-only-focusable">Skip to page number selection</a>
+
+      <div class="data-browser">
+          <ul class="PageList">
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 22, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/witness-testimony-blumenthal-and-robert-garcia-receive-testimony-on-fatal-shootings-by-federal-immigration-agents">
+        <h2 class=" ArticleTitle">Witness Testimony: Blumenthal & Robert Garcia Receive Testimony on Fatal Shootings by Federal Immigration Agents</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, DC] – Today, U.S. Senator Richard Blumenthal (D-CT), Ranking Member of the Permanent Subcommittee on Investigations (PSI), and U.S. Representative Robert Garcia...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/witness-testimony-blumenthal-and-robert-garcia-receive-testimony-on-fatal-shootings-by-federal-immigration-agents">Continue Reading<span class="sr-only"> about Witness Testimony: Blumenthal & Robert Garcia Receive Testimony on Fatal Shootings by Federal Immigration Agents</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 22, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-sheehy-introduce-bill-to-extend-benefits-for-military-survivors">
+        <h2 class=" ArticleTitle">Blumenthal, Sheehy Introduce Bill to Extend Benefits for Military Survivors</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] – U.S. Senator Richard Blumenthal (D-CT), Ranking Member of the Senate Veterans’ Affairs Committee, and U.S. Senator Tim Sheehy (R-MT) are teaming up to...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-sheehy-introduce-bill-to-extend-benefits-for-military-survivors">Continue Reading<span class="sr-only"> about Blumenthal, Sheehy Introduce Bill to Extend Benefits for Military Survivors</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 22, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-introduces-legislation-imposing-100-percent-surtax-on-income-generated-by-companies-owned-by-president-and-other-cabinet-officials-when-they-abuse-their-power-to-benefit-themselves">
+        <h2 class=" ArticleTitle">Blumenthal Introduces Legislation Imposing 100 Percent Surtax on Income Generated by Companies Owned by President & Other Cabinet Officials When They Abuse Their Power to Benefit Themselves</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] – U.S. Senator Richard Blumenthal (D-CT) today introduced new legislation to impose a 100 percent surtax on income earned by a company owned or controlled by the...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-introduces-legislation-imposing-100-percent-surtax-on-income-generated-by-companies-owned-by-president-and-other-cabinet-officials-when-they-abuse-their-power-to-benefit-themselves">Continue Reading<span class="sr-only"> about Blumenthal Introduces Legislation Imposing 100 Percent Surtax on Income Generated by Companies Owned by President & Other Cabinet Officials When They Abuse Their Power to Benefit Themselves</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 18, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/senator-blumenthal-week-in-review-9/11/2026-9/18/2026">
+        <h2 class=" ArticleTitle">Senator Blumenthal: Week in Review 9/11/2026-9/18/2026</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        Celebrating Final Passage of Landmark Russia Sanctions Bill
+[WASHINGTON, D.C.] – U.S. Senator Richard Blumenthal (D-CT) celebrated final Congressional passage of the Lindsey O....
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/senator-blumenthal-week-in-review-9/11/2026-9/18/2026">Continue Reading<span class="sr-only"> about Senator Blumenthal: Week in Review 9/11/2026-9/18/2026</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 18, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/livestream-tuesday-blumenthal-and-robert-garcia-to-receive-public-testimony-on-fatal-shootings-by-federal-immigration-agents">
+        <h2 class=" ArticleTitle">Livestream Tuesday: Blumenthal & Robert Garcia to Receive Public Testimony on Fatal Shootings by Federal Immigration Agents</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, DC] – On Tuesday, September 22, 2026 at 3:30 PM ET, U.S. Senator Richard Blumenthal (D-CT), Ranking Member of the Senate Permanent Subcommittee on Investigations, and...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/livestream-tuesday-blumenthal-and-robert-garcia-to-receive-public-testimony-on-fatal-shootings-by-federal-immigration-agents">Continue Reading<span class="sr-only"> about Livestream Tuesday: Blumenthal & Robert Garcia to Receive Public Testimony on Fatal Shootings by Federal Immigration Agents</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 18, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-named-wounded-warrior-project-legislator-of-the-year">
+        <h2 class=" ArticleTitle">Blumenthal Named Wounded Warrior Project Legislator of the Year</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] – Earlier this week, Wounded Warrior Project recognized U.S. Senator Richard Blumenthal as their 2026 Legislator of the Year in the U.S. Senate at their Courage...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-named-wounded-warrior-project-legislator-of-the-year">Continue Reading<span class="sr-only"> about Blumenthal Named Wounded Warrior Project Legislator of the Year</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 17, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-slams-dot-proposal-promoting-deceptive-and-misleading-advertising-hurting-consumers">
+        <h2 class=" ArticleTitle">Blumenthal Slams DOT Proposal Promoting Deceptive & Misleading Advertising Hurting Consumers</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] – U.S. Senator Richard Blumental (D-CT) wrote to U.S. Department of Transportation (DOT) Secretary Sean Duffy opposing a proposed rule that would weaken consumer...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-slams-dot-proposal-promoting-deceptive-and-misleading-advertising-hurting-consumers">Continue Reading<span class="sr-only"> about Blumenthal Slams DOT Proposal Promoting Deceptive & Misleading Advertising Hurting Consumers</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 16, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-celebrates-final-passage-of-landmark-sanctions-bill-to-hold-purchasers-of-russian-oil-and-gas-accountable">
+        <h2 class=" ArticleTitle">Blumenthal Celebrates Final Passage of Landmark Sanctions Bill to Hold Purchasers of Russian Oil & Gas Accountable</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, DC] – Today, U.S. Senator Richard Blumenthal (D-CT) celebrated final Congressional passage of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026. The...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-celebrates-final-passage-of-landmark-sanctions-bill-to-hold-purchasers-of-russian-oil-and-gas-accountable">Continue Reading<span class="sr-only"> about Blumenthal Celebrates Final Passage of Landmark Sanctions Bill to Hold Purchasers of Russian Oil & Gas Accountable</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 16, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-murphy-join-senators-in-introducing-privileged-resolution-seeking-answers-on-west-bank-violence">
+        <h2 class=" ArticleTitle">Blumenthal & Murphy Join Senators in Introducing Privileged Resolution Seeking Answers on West Bank Violence</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] – U.S. Senator Richard Blumenthal (D-CT) and U.S. Senator Chris Murphy (D-CT) today joined U.S. Senators Chris Van Hollen (D-Md.), Tim Kaine (D-Va.), and Bernie...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-murphy-join-senators-in-introducing-privileged-resolution-seeking-answers-on-west-bank-violence">Continue Reading<span class="sr-only"> about Blumenthal & Murphy Join Senators in Introducing Privileged Resolution Seeking Answers on West Bank Violence</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 15, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/icymi-video-blumenthal-calls-on-republicans-to-take-up-legislation-curbing-presidential-corruption-amend-crypto-legislation-to-stop-trump-from-profiting-off-the-presidency">
+        <h2 class=" ArticleTitle">ICYMI Video: Blumenthal Calls on Republicans to Take Up Legislation Curbing Presidential Corruption, Amend Crypto Legislation to Stop Trump From Profiting Off the Presidency</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] – In case you missed it, U.S. Senator Richard Blumenthal (D-CT) spoke on the Senate floor yesterday to call on Republicans to take up the Ending Presidential...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/icymi-video-blumenthal-calls-on-republicans-to-take-up-legislation-curbing-presidential-corruption-amend-crypto-legislation-to-stop-trump-from-profiting-off-the-presidency">Continue Reading<span class="sr-only"> about ICYMI Video: Blumenthal Calls on Republicans to Take Up Legislation Curbing Presidential Corruption, Amend Crypto Legislation to Stop Trump From Profiting Off the Presidency</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 14, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-delivers-opening-statement-at-public-forum-on-trump-family-corruption">
+        <h2 class=" ArticleTitle">Blumenthal Delivers Opening Statement at Public Forum on Trump Family Corruption</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] – U.S. Senator Richard Blumenthal (D-CT), Ranking Member of the Senate Permanent Subcommittee on Investigations (PSI), delivered an opening statement today at a...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-delivers-opening-statement-at-public-forum-on-trump-family-corruption">Continue Reading<span class="sr-only"> about Blumenthal Delivers Opening Statement at Public Forum on Trump Family Corruption</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 14, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-welch-demand-mullin-provide-information-records-about-lewandowski-pay-to-play-dhs-contracting-scheme">
+        <h2 class=" ArticleTitle">Blumenthal & Welch Demand Mullin Provide Information, Records About Lewandowski Pay-to-Play DHS Contracting Scheme</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] – U.S. Senators Richard Blumenthal (D-CT), Ranking Member of the Permanent Subcommittee on Investigations, and Peter Welch (D-VT) wrote Secretary of Homeland...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-welch-demand-mullin-provide-information-records-about-lewandowski-pay-to-play-dhs-contracting-scheme">Continue Reading<span class="sr-only"> about Blumenthal & Welch Demand Mullin Provide Information, Records About Lewandowski Pay-to-Play DHS Contracting Scheme</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 11, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/senator-blumenthal-week-in-review-9/4/2026-9/11/2026">
+        <h2 class=" ArticleTitle">Senator Blumenthal: Week in Review 9/4/2026-9/11/2026</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        Honoring the 25th Anniversary of 9/11
+[Hartford, CT] – U.S. Senator Richard Blumenthal (D-CT) commemorated the twenty-fifth anniversary of the September 11th attacks and remembered...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/senator-blumenthal-week-in-review-9/4/2026-9/11/2026">Continue Reading<span class="sr-only"> about Senator Blumenthal: Week in Review 9/4/2026-9/11/2026</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 10, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-calls-on-dhs-inspector-general-to-investigate-ice-tactics-following-surge-targeting-connecticut-residents-at-schools-workplaces">
+        <h2 class=" ArticleTitle">Blumenthal Calls on DHS Inspector General to Investigate ICE Tactics Following Surge Targeting Connecticut Residents at Schools, Workplaces</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, DC] – U.S. Senator Richard Blumenthal (D-CT) wrote Department of Homeland Security Inspector General Joseph Cuffari seeking “a formal investigation into the recent...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-calls-on-dhs-inspector-general-to-investigate-ice-tactics-following-surge-targeting-connecticut-residents-at-schools-workplaces">Continue Reading<span class="sr-only"> about Blumenthal Calls on DHS Inspector General to Investigate ICE Tactics Following Surge Targeting Connecticut Residents at Schools, Workplaces</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 9, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations">
+        <h2 class=" ArticleTitle">Blumenthal Demands Answers from Sam Altman After New Reporting Reveals how AI agents Went Rogue to Conduct Major Cyber Breach & Conceal Their Operations</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] — U.S. Senator Richard Blumenthal (D-CT) today demanded answers from OpenAI CEO Sam Altman after recent reporting from The New York Times revealed alarming new...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations">Continue Reading<span class="sr-only"> about Blumenthal Demands Answers from Sam Altman After New Reporting Reveals how AI agents Went Rogue to Conduct Major Cyber Breach & Conceal Their Operations</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 4, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/senator-blumenthal-week-in-review-8/28/2026-9/4/2026">
+        <h2 class=" ArticleTitle">Senator Blumenthal: Week in Review 8/28/2026-9/4/2026</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        Condemning ICE’s Abuse of Power &amp; Harmful Tactics in Connecticut
+[Hartford, CT] – U.S. Senator Richard Blumenthal (D-CT), Ranking Member of the Senate Permanent Subcommittee on...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/senator-blumenthal-week-in-review-8/28/2026-9/4/2026">Continue Reading<span class="sr-only"> about Senator Blumenthal: Week in Review 8/28/2026-9/4/2026</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 3, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-tillis-kaptur-and-fitzpatrick-urge-state-department-to-distribute-funding-to-organizations-assisting-kidnapped-ukrainian-children">
+        <h2 class=" ArticleTitle">Blumenthal, Tillis, Kaptur, & Fitzpatrick Urge State Department to Distribute Funding to Organizations Assisting Kidnapped Ukrainian Children</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, DC] – Today, U.S. Senators Richard Blumenthal (D-CT) and Thom Tillis (R-NC) and U.S. Representative Marcy Kaptur (D-OH) and Brian Fitzpatrick (R-PA) wrote Secretary of...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-tillis-kaptur-and-fitzpatrick-urge-state-department-to-distribute-funding-to-organizations-assisting-kidnapped-ukrainian-children">Continue Reading<span class="sr-only"> about Blumenthal, Tillis, Kaptur, & Fitzpatrick Urge State Department to Distribute Funding to Organizations Assisting Kidnapped Ukrainian Children</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 3, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-tonko-and-foushee-slam-fanduel-for-misleading_incomplete-response-to-inquiry-about-promo-video-targeting-gambling-addict">
+        <h2 class=" ArticleTitle">Blumenthal, Tonko, & Foushee Slam FanDuel for Misleading & Incomplete Response to Inquiry About Promo VIdeo Targeting Gambling Addict</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, D.C.] – U.S. Senator Richard Blumenthal (D-CT) and U.S. Representatives Paul Tonko (D-NY) and Valerie Foushee (D-NC) today demanded answers after FanDuel refused to...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-tonko-and-foushee-slam-fanduel-for-misleading_incomplete-response-to-inquiry-about-promo-video-targeting-gambling-addict">Continue Reading<span class="sr-only"> about Blumenthal, Tonko, & Foushee Slam FanDuel for Misleading & Incomplete Response to Inquiry About Promo VIdeo Targeting Gambling Addict</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 1, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-blasts-ice-tactics-demands-accountability-from-dhs-after-surge-targeting-connecticut-residents-at-schools-workplaces">
+        <h2 class=" ArticleTitle">Blumenthal Blasts ICE Tactics; Demands Accountability from DHS After Surge Targeting Connecticut Residents at Schools, Workplaces</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, DC] – Today, U.S. Senator Richard Blumenthal (D-CT) wrote Secretary of Homeland Security Markwayne Mullin and the Acting Director of Immigration and Customs...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-blasts-ice-tactics-demands-accountability-from-dhs-after-surge-targeting-connecticut-residents-at-schools-workplaces">Continue Reading<span class="sr-only"> about Blumenthal Blasts ICE Tactics; Demands Accountability from DHS After Surge Targeting Connecticut Residents at Schools, Workplaces</span></a>
+      </div>
+  </div>
+
+              </li>
+
+              <li data-animate="partialFade" class="PageList__item mb-5">
+                
+
+
+
+  <div class="ArticleBlock">
+    <div class="ArticleBlock__titleContainer">
+        <div>
+          <p class="Heading Heading--time mb-1">September 1, 2026</p>
+        </div>
+
+      <a target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/following-new-whistleblower-disclosure-blumenthal-demands-usps-provide-documents-answers-about-shit-show-process-to-screen-ballots-and-potentially-catastrophic-impact-on-mail-in-voting">
+        <h2 class=" ArticleTitle">Following New Whistleblower Disclosure, Blumenthal Demands USPS Provide Documents, Answers About "Shit Show" Process to Screen Ballots & Potentially Catastrophic Impact on Mail-In Voting</h2>
+      </a>
+    </div>
+
+
+      <div class="ArticleBlock__excerpt">
+        [WASHINGTON, DC] – After receiving information from a whistleblower, U.S. Senator Richard Blumenthal (D-CT), Ranking Member of the Permanent Subcommittee on Investigations (PSI),...
+        <a class="ArticleBlock__moreLink Link" target="_self" href="https://www.blumenthal.senate.gov/newsroom/press/release/following-new-whistleblower-disclosure-blumenthal-demands-usps-provide-documents-answers-about-shit-show-process-to-screen-ballots-and-potentially-catastrophic-impact-on-mail-in-voting">Continue Reading<span class="sr-only"> about Following New Whistleblower Disclosure, Blumenthal Demands USPS Provide Documents, Answers About "Shit Show" Process to Screen Ballots & Potentially Catastrophic Impact on Mail-In Voting</span></a>
+      </div>
+  </div>
+
+              </li>
+          </ul>
+
+          <div id="aria-skip-press"></div>
+            <div class="Pagination">
+    <div class="row align-items-center justify-content-between">
+      <div class="col col-md-auto my-3">
+          <div class="row align-items-center justify-content-center justify-content-sm-start text-primary">
+            <div class="col-auto">Showing page</div>
+
+            <div class="col-auto px-0">
+              <select class="InputSelect InputSelect--sm InputSelect--pagination" id="showing-page" title="Select Page" aria-label="Select results page number">
+                  <option value="1" selected="selected">1</option>
+                  <option value="2">2</option>
+                  <option value="3">3</option>
+                  <option value="4">4</option>
+                  <option value="5">5</option>
+                  <option value="6">6</option>
+                  <option value="7">7</option>
+                  <option value="8">8</option>
+                  <option value="9">9</option>
+                  <option value="10">10</option>
+                  <option value="11">11</option>
+                  <option value="12">12</option>
+                  <option value="13">13</option>
+                  <option value="14">14</option>
+                  <option value="15">15</option>
+                  <option value="16">16</option>
+                  <option value="17">17</option>
+                  <option value="18">18</option>
+                  <option value="19">19</option>
+                  <option value="20">20</option>
+                  <option value="21">21</option>
+                  <option value="22">22</option>
+                  <option value="23">23</option>
+                  <option value="24">24</option>
+                  <option value="25">25</option>
+                  <option value="26">26</option>
+                  <option value="27">27</option>
+                  <option value="28">28</option>
+                  <option value="29">29</option>
+                  <option value="30">30</option>
+                  <option value="31">31</option>
+                  <option value="32">32</option>
+                  <option value="33">33</option>
+                  <option value="34">34</option>
+                  <option value="35">35</option>
+                  <option value="36">36</option>
+                  <option value="37">37</option>
+                  <option value="38">38</option>
+                  <option value="39">39</option>
+                  <option value="40">40</option>
+                  <option value="41">41</option>
+                  <option value="42">42</option>
+                  <option value="43">43</option>
+                  <option value="44">44</option>
+                  <option value="45">45</option>
+                  <option value="46">46</option>
+                  <option value="47">47</option>
+                  <option value="48">48</option>
+                  <option value="49">49</option>
+                  <option value="50">50</option>
+                  <option value="51">51</option>
+                  <option value="52">52</option>
+                  <option value="53">53</option>
+                  <option value="54">54</option>
+                  <option value="55">55</option>
+                  <option value="56">56</option>
+                  <option value="57">57</option>
+                  <option value="58">58</option>
+                  <option value="59">59</option>
+                  <option value="60">60</option>
+                  <option value="61">61</option>
+                  <option value="62">62</option>
+                  <option value="63">63</option>
+                  <option value="64">64</option>
+                  <option value="65">65</option>
+                  <option value="66">66</option>
+                  <option value="67">67</option>
+                  <option value="68">68</option>
+                  <option value="69">69</option>
+                  <option value="70">70</option>
+                  <option value="71">71</option>
+                  <option value="72">72</option>
+                  <option value="73">73</option>
+                  <option value="74">74</option>
+                  <option value="75">75</option>
+                  <option value="76">76</option>
+                  <option value="77">77</option>
+                  <option value="78">78</option>
+                  <option value="79">79</option>
+                  <option value="80">80</option>
+                  <option value="81">81</option>
+                  <option value="82">82</option>
+                  <option value="83">83</option>
+                  <option value="84">84</option>
+                  <option value="85">85</option>
+                  <option value="86">86</option>
+                  <option value="87">87</option>
+                  <option value="88">88</option>
+                  <option value="89">89</option>
+                  <option value="90">90</option>
+                  <option value="91">91</option>
+                  <option value="92">92</option>
+                  <option value="93">93</option>
+                  <option value="94">94</option>
+                  <option value="95">95</option>
+                  <option value="96">96</option>
+                  <option value="97">97</option>
+                  <option value="98">98</option>
+                  <option value="99">99</option>
+                  <option value="100">100</option>
+                  <option value="101">101</option>
+                  <option value="102">102</option>
+                  <option value="103">103</option>
+                  <option value="104">104</option>
+                  <option value="105">105</option>
+                  <option value="106">106</option>
+                  <option value="107">107</option>
+                  <option value="108">108</option>
+                  <option value="109">109</option>
+                  <option value="110">110</option>
+                  <option value="111">111</option>
+                  <option value="112">112</option>
+                  <option value="113">113</option>
+                  <option value="114">114</option>
+                  <option value="115">115</option>
+                  <option value="116">116</option>
+                  <option value="117">117</option>
+                  <option value="118">118</option>
+                  <option value="119">119</option>
+                  <option value="120">120</option>
+                  <option value="121">121</option>
+                  <option value="122">122</option>
+                  <option value="123">123</option>
+                  <option value="124">124</option>
+                  <option value="125">125</option>
+                  <option value="126">126</option>
+                  <option value="127">127</option>
+                  <option value="128">128</option>
+                  <option value="129">129</option>
+                  <option value="130">130</option>
+                  <option value="131">131</option>
+                  <option value="132">132</option>
+                  <option value="133">133</option>
+                  <option value="134">134</option>
+                  <option value="135">135</option>
+                  <option value="136">136</option>
+                  <option value="137">137</option>
+                  <option value="138">138</option>
+                  <option value="139">139</option>
+                  <option value="140">140</option>
+                  <option value="141">141</option>
+                  <option value="142">142</option>
+                  <option value="143">143</option>
+                  <option value="144">144</option>
+                  <option value="145">145</option>
+                  <option value="146">146</option>
+                  <option value="147">147</option>
+                  <option value="148">148</option>
+                  <option value="149">149</option>
+                  <option value="150">150</option>
+                  <option value="151">151</option>
+                  <option value="152">152</option>
+                  <option value="153">153</option>
+                  <option value="154">154</option>
+                  <option value="155">155</option>
+                  <option value="156">156</option>
+                  <option value="157">157</option>
+                  <option value="158">158</option>
+                  <option value="159">159</option>
+                  <option value="160">160</option>
+                  <option value="161">161</option>
+                  <option value="162">162</option>
+                  <option value="163">163</option>
+                  <option value="164">164</option>
+                  <option value="165">165</option>
+                  <option value="166">166</option>
+                  <option value="167">167</option>
+                  <option value="168">168</option>
+                  <option value="169">169</option>
+                  <option value="170">170</option>
+                  <option value="171">171</option>
+                  <option value="172">172</option>
+                  <option value="173">173</option>
+                  <option value="174">174</option>
+                  <option value="175">175</option>
+                  <option value="176">176</option>
+                  <option value="177">177</option>
+                  <option value="178">178</option>
+                  <option value="179">179</option>
+                  <option value="180">180</option>
+                  <option value="181">181</option>
+                  <option value="182">182</option>
+                  <option value="183">183</option>
+                  <option value="184">184</option>
+                  <option value="185">185</option>
+                  <option value="186">186</option>
+                  <option value="187">187</option>
+                  <option value="188">188</option>
+                  <option value="189">189</option>
+                  <option value="190">190</option>
+                  <option value="191">191</option>
+                  <option value="192">192</option>
+                  <option value="193">193</option>
+                  <option value="194">194</option>
+                  <option value="195">195</option>
+                  <option value="196">196</option>
+                  <option value="197">197</option>
+                  <option value="198">198</option>
+                  <option value="199">199</option>
+                  <option value="200">200</option>
+                  <option value="201">201</option>
+                  <option value="202">202</option>
+                  <option value="203">203</option>
+                  <option value="204">204</option>
+                  <option value="205">205</option>
+                  <option value="206">206</option>
+                  <option value="207">207</option>
+                  <option value="208">208</option>
+                  <option value="209">209</option>
+                  <option value="210">210</option>
+                  <option value="211">211</option>
+                  <option value="212">212</option>
+                  <option value="213">213</option>
+                  <option value="214">214</option>
+                  <option value="215">215</option>
+                  <option value="216">216</option>
+                  <option value="217">217</option>
+                  <option value="218">218</option>
+                  <option value="219">219</option>
+                  <option value="220">220</option>
+                  <option value="221">221</option>
+                  <option value="222">222</option>
+                  <option value="223">223</option>
+                  <option value="224">224</option>
+                  <option value="225">225</option>
+                  <option value="226">226</option>
+                  <option value="227">227</option>
+                  <option value="228">228</option>
+                  <option value="229">229</option>
+                  <option value="230">230</option>
+                  <option value="231">231</option>
+                  <option value="232">232</option>
+                  <option value="233">233</option>
+                  <option value="234">234</option>
+                  <option value="235">235</option>
+                  <option value="236">236</option>
+                  <option value="237">237</option>
+                  <option value="238">238</option>
+                  <option value="239">239</option>
+                  <option value="240">240</option>
+                  <option value="241">241</option>
+                  <option value="242">242</option>
+                  <option value="243">243</option>
+                  <option value="244">244</option>
+              </select>
+            </div>
+
+            <div class="col-auto">of 244</div>
+          </div>
+      </div>
+
+      <div class="col-sm-auto my-3">
+        <div class="row justify-content-md-end justify-content-between">
+            <div class="col-6 col-sm-auto">
+              <a class="Button Button--paginationRight Button--block Button--sm" href="?pagenum_rs=2">Next</a>
+            </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  
+    <script>
+    function selectChanged(event) {
+      var theSelect;
+
+      if (event && event.target.value) {
+        theSelect = event;
+        theSelect.changed = true;
+      } else {
+        theSelect = this;
+      }
+      if (!theSelect.changed) {
+        return false;
+      }
+      /* this function is in scripts/pagination.js */
+      selectPage(theSelect)
+      return true;
+    }
+
+    function selectClicked() {
+      this.changed = true;
+    }
+
+    function selectFocused() {
+      this.initValue = this.value;
+      return true;
+    }
+
+    function selectKeyed(event) {
+      var theEvent;
+      var keyCodeTab = "9";
+      var keyCodeEnter = "13";
+      var keyCodeEsc = "27";
+
+      if ((event.keyCode == keyCodeEnter || event.keyCode == keyCodeTab) && this.value != this.initValue) {
+        this.changed = true;
+        selectChanged(this);
+      } else if (event.keyCode == keyCodeEsc) {
+        this.value = this.initValue;
+      } else {
+        this.changed = false;
+      }
+
+      return true;
+    }(function initSelect() {
+      var theSelect = document.getElementById("showing-page");
+
+      if (theSelect) {
+        theSelect.changed = false;
+        theSelect.onfocus = selectFocused;
+        theSelect.onchange = selectChanged;
+        theSelect.onkeyup = selectKeyed;
+        theSelect.onclick = selectClicked;
+      }
+      return true;
+    })()
+  </script>
+
+      </div>
+
+  </div>
+  <!--startindex-->
+                  <!--stopindex-->
+
+              </div>
+
+            
+                <!-- Custom Footer Code: Adobe -->
+                <script src="https://assets.adobedtm.com/566dc2d26e4f/f8d2f26c1eac/launch-3a705652822d.min.js" async></script>
+                <!-- Custom Footer Code: Google Analytics -->
+                <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4935ZCG7LT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4935ZCG7LT');
+</script>
+
+
+<script>
+  if (typeof window.setupAnimations !== 'function') {
+    window.setupAnimations = function () {
+      window.animationsSet = true;
+      var animations = document.querySelectorAll('[data-animate]');
+      animations.forEach(function(animationEl, i) {
+        var animationClass = "";
+        var animationTriggerName = "";
+
+        if (animationEl.dataset.animate) {
+          animationClass = "animate-" + animationEl.dataset.animate;
+          animationTriggerName = "js-trigger-" + i;
+        } else if (animationEl.dataset.animatechild) {
+          animationClass = "animate-" + animationEl.dataset.animatechild;
+          animationTriggerName = "js-trigger-" + i;
+        } else {
+          return;
+        }
+
+        animationEl.classList.add(animationClass);
+        animationEl.classList.add(animationTriggerName);
+
+        // removed the toggleClass
+        ScrollTrigger.create({
+          id: animationTriggerName,
+          trigger: '.' + animationTriggerName,
+          start: 'top 90%',
+          onEnter: function(self) {
+            self.trigger.classList.add('visible');
+          },
+        });
+      })
+    }
+  }
+
+  $(function() {
+    if (!window.animationsSet) setupAnimations();
+  });
+</script>
+
+<script>
+  if (typeof window.internalLink !== 'function') {
+    window.isInternalLink = function (href) {
+      var isInternal =
+        Boolean(href.match(new RegExp('^' + window.location.origin))) // 1: If same site domain
+        || Boolean(href.match(/^\/[^\/]/)); // 2: If starts with a single / and not a double //
+
+      return isInternal;
+    }
+  }
+
+  if (typeof window.getParameterByName !== 'function') {
+    window.getParameterByName = function (name, url = window.location.href) {
+      name = name.replace(/[\[\]]/g, '\\$&');
+      var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+          results = regex.exec(url);
+      if (!results) return null;
+      if (!results[2]) return '';
+      return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+  }
+
+  if (typeof window.onLinkClick !== 'function') {
+    window.onLinkClick = function () {
+      $(function () {
+        $('a').each(function () {
+          var $this = $(this);
+
+          if ($this.hasLinkClickEvent) return;
+
+          var newWin = $this.hasClass('new-win');
+          var senExit = $this.hasClass('sen-exit');
+          var href = $this.attr('href');
+          var target = getParameterByName('target', href);
+
+          if (href && target == '_blank') {
+            $this.on('click', function(event) {
+              event.preventDefault();
+              window.open(href, target);
+            })
+          } else if (href && href.charAt(0) == '#') {
+            $this.click(function (e) {
+              e.preventDefault();
+              var targetName = this.getAttribute('href').replace('#', '');
+              var targetElement = document.getElementById(targetName) || document.querySelector('[name="' + targetName + '"]');
+
+              if (!targetElement) {
+                return;
+              }
+
+              var offsetHeight = window.getStuckHeaderHeight() || 0;
+              gsap.to(window, {duration: 1, scrollTo: {y: targetElement, offsetY: offsetHeight}, ease: 'power3'})
+              targetElement.focus();
+            });
+
+            $this.hasLinkClickEvent = true;
+          } else if (href) {
+            if (isInternalLink(href)) {
+              if (transitions) {
+                $this.on('click', function(event) {
+                  if (event.currentTarget.hasAttribute('data-modal-template')) return;
+                  if (event.currentTarget.hasAttribute('data-no-transition')) return;
+                  // If user help down modifier key during click they are opening in new tab/window
+                  if (2 === event.which || event.metaKey || event.ctrlKey) return;
+                  $('body').addClass('wait');
+                })
+              }
+            }
+          }
+        });
+      });
+    }
+  }
+
+  $(function(){
+    onLinkClick();
+  });
+
+</script>
+
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0" nonce="7qGTTSrW"></script>
+
+                <script>
+                $('.RawHTML')
+                  .find('iframe#player, iframe[src*="youtu.be"], iframe[src*="youtube.com"]')
+                  .wrap('<div class="video-width"><div class="embedded-video"></div></div>');
+                $('.js-press-release')
+                  .find('table')
+                  .addClass('Table Table--striped')
+                  .wrap('<div class="ReadingWidthBreakout overflow-x-auto overflow-scroll-x-shadow"><div class="container"></div></div>');
+
+                // Clear focus state off of button 0.5s after clicking it
+                $('.Button').click(function () {
+                  var button = this;
+                  setTimeout(function () {
+                    button.blur();
+                  }, 500);
+                });
+              </script>
+
+  <script src="https://www.blumenthal.senate.gov/scripts/pagination.js"></script>
+  <script src="https://www.blumenthal.senate.gov/scripts/filter.js"></script>
+
+                <div class="js-footer SiteLayout__footer">
+<footer class="SiteFooter container py-3">
+  <div class="SiteFooter__iconRow mt-5 pt-3 mb-2">
+    <svg class="SiteFooter__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240.35 77.1" alt="U.S. Senator Richard Blumenthal Logomark" aria-hidden="true">
+      <polygon class="stars-1" fill="#2b68a1" points="126.26 16.56 120.52 0 114.25 16.56 96.98 16.56 110.71 27.19 105.67 44.06 120.52 34.03 134.95 44.06 129.91 27.19 143.5 16.56 126.26 16.56"/>
+      <polygon class="stars-2-l" fill="#2b68a1" points="52.44 36.51 43.62 28.87 45.51 40.52 35.54 46.29 47 47.84 49.71 59.27 54.95 48.52 66.62 49.49 58.09 41.43 62.4 30.76 52.44 36.51"/>
+      <polygon class="stars-2-r" fill="#2b68a1" points="194.86 41.08 197.05 29.61 187.92 37.08 177.95 31.31 182.34 42.03 173.81 50.09 185.72 49.26 190.72 59.86 193.42 48.44 204.81 46.84 194.86 41.08"/>
+      <polygon class="stars-3-l" fill="#2b68a1" points="6.92 64.37 0 63.04 4.5 68.56 1.03 74.59 7.49 71.94 12.35 77.1 11.85 69.89 18.25 66.87 11.36 65.24 10.39 58.35 6.92 64.37"/>
+      <polygon class="stars-3-r" fill="#2b68a1" points="233.42 64.37 240.35 63.04 235.84 68.56 239.32 74.59 232.85 71.94 228 77.1 228.5 69.89 222.1 66.87 228.99 65.24 229.95 58.35 233.42 64.37"/>
+    </svg>
+  </div>
+
+  <div class="pb-4">
+    <div class="SiteFooter__layout row justify-content-center">
+
+      <div class="col-12 mb-4 py-2 d-flex justify-content-center">
+<ul class="SocialIcons d-flex" aria-label="Social media links">
+
+  
+    <li class="SocialIcons__item">
+      <a class="SocialIcons__link SocialBubble" href="https://bsky.app/profile/blumenthal.senate.gov" target="_blank" rel="noreferrer">
+
+        <i class="fa SocialBubble__icon SocialBubble__icon--bluesky">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="16" height="16" fill="currentColor"><!--!Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M111.8 62.2C170.2 105.9 233 194.7 256 242.4c23-47.6 85.8-136.4 144.2-180.2c42.1-31.6 110.3-56 110.3 21.8c0 15.5-8.9 130.5-14.1 149.2C478.2 298 412 314.6 353.1 304.5c102.9 17.5 129.1 75.5 72.5 133.5c-107.4 110.2-154.3-27.6-166.3-62.9l0 0c-1.7-4.9-2.6-7.8-3.3-7.8s-1.6 3-3.3 7.8l0 0c-12 35.3-59 173.1-166.3 62.9c-56.5-58-30.4-116 72.5-133.5C100 314.6 33.8 298 15.7 233.1C10.4 214.4 1.5 99.4 1.5 83.9c0-77.8 68.2-53.4 110.3-21.8z"/></svg>
+        </i>
+    
+      </a>
+    </li>
+  
+    <li class="SocialIcons__item">
+      <a class="SocialIcons__link SocialBubble" href="https://www.facebook.com/SenBlumenthal" target="_blank" rel="noreferrer">
+        <i class="fa-brands fa-facebook-f SocialBubble__icon SocialBubble__icon--facebook">
+          <span class="sr-only">Senator Blumenthal Facebook</span>
+        </i>
+      </a>
+    </li>
+
+  
+    <li class="SocialIcons__item">
+      <a class="SocialIcons__link SocialBubble" href="https://twitter.com/SenBlumenthal" target="_blank" rel="noreferrer">
+        <i class="fa-brands fa-x-twitter SocialBubble__icon SocialBubble__icon--twitter">
+          <span class="sr-only">Senator Blumenthal Twitter</span>
+        </i>
+      </a>
+    </li>
+
+  
+    <li class="SocialIcons__item">
+      <a class="SocialIcons__link SocialBubble" href="https://www.instagram.com/senblumenthal" target="_blank" rel="noreferrer">
+        <i class="fa-brands fa-instagram SocialBubble__icon SocialBubble__icon--instagram">
+          <span class="sr-only">Senator Blumenthal Instagram</span>
+        </i>
+      </a>
+    </li>
+  
+
+
+</ul>      </div>
+
+        
+
+        <div class="SiteFooter d-none d-md-block">
+<nav class="FooterNav" aria-label="Footer Navigation">
+  <ul class="FooterNav__linkList">
+
+
+
+
+        <li class="FooterNav__item ">
+          <a data-transition-selected-if="/about"
+            data-transition-selected-class="FooterNav__link--selected"
+
+          class="FooterNav__link " href="https://www.blumenthal.senate.gov/about">
+            About
+          </a>
+        </li>
+
+
+
+
+        <li class="FooterNav__item ">
+          <a data-transition-selected-if="/services"
+            data-transition-selected-class="FooterNav__link--selected"
+
+          class="FooterNav__link " href="https://www.blumenthal.senate.gov/services">
+            Services
+          </a>
+        </li>
+
+
+
+
+        <li class="FooterNav__item ">
+          <a data-transition-selected-if="/newsroom"
+            data-transition-selected-class="FooterNav__link--selected"
+
+          class="FooterNav__link FooterNav__link--selected " href="https://www.blumenthal.senate.gov/newsroom">
+            Newsroom
+          </a>
+        </li>
+
+
+
+
+        <li class="FooterNav__item ">
+          <a data-transition-selected-if="/contact"
+            data-transition-selected-class="FooterNav__link--selected"
+
+          class="FooterNav__link " href="https://www.blumenthal.senate.gov/contact">
+            Contact
+          </a>
+        </li>
+
+
+
+
+        <li class="FooterNav__item ">
+          <a data-transition-selected-if="/privacy-policy"
+            data-transition-selected-class="FooterNav__link--selected"
+
+          class="FooterNav__link " href="https://www.blumenthal.senate.gov/privacy-policy">
+            Privacy Policy
+          </a>
+        </li>
+  </ul>
+</nav>
+        </div>
+
+    </div>
+  </div>
+</footer>
+              </div>
+
+
+          </div>
+
+<div class="MobileNav">
+    <nav aria-label="Mobile Navigation" class="MobileNav__linksContainer container">
+          <div class="MobileNav__item">
+<a class="MobileNav__link js-mobile-dropdown-parent" href="https://www.blumenthal.senate.gov/about">
+              About
+            </a>
+
+              <div class="js-mobile-dropdown MobileNav__subLinks">
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/about/biography">
+                      Biography
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/about/committee-assignments">
+                      Committee Assignments
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/about/issues">
+                      Issues
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/about/legislation">
+                      Legislation
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/about/voting-record">
+                      Voting Record
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/about/about-connecticut">
+                      About Connecticut
+                    </a>
+              </div>
+          </div>
+          <div class="MobileNav__item">
+<a class="MobileNav__link js-mobile-dropdown-parent" href="https://www.blumenthal.senate.gov/services">
+              Services
+            </a>
+
+              <div class="js-mobile-dropdown MobileNav__subLinks">
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/services/meeting-and-event-requests">
+                      Meeting &amp; Event Requests
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/services/flag-requests">
+                      Flag Requests
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/services/greeting-requests">
+                      Greeting Requests
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/services/visiting-washington-dc">
+                      Visiting Washington, D.C.
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/services/federal-funding">
+                      Federal Funding
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/services/help-with-a-federal-agency">
+                      Help With A Federal Agency
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/services/academy-nominations">
+                      Academy Nominations
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/services/internship-and-clerkship-applications">
+                      Internship &amp; Clerkship Applications
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/services/resources">
+                      Resources
+                    </a>
+              </div>
+          </div>
+          <div class="MobileNav__item">
+<a class="MobileNav__link js-mobile-dropdown-parent" href="https://www.blumenthal.senate.gov/newsroom">
+              Newsroom
+            </a>
+
+              <div class="js-mobile-dropdown MobileNav__subLinks">
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/newsroom/press">
+                      Press Releases
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/newsroom/official-photo">
+                      Official Photo
+                    </a>
+              </div>
+          </div>
+          <div class="MobileNav__item">
+<a class="MobileNav__link js-mobile-dropdown-parent" href="https://www.blumenthal.senate.gov/contact">
+              Contact
+            </a>
+
+              <div class="js-mobile-dropdown MobileNav__subLinks">
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal">
+                      Write to Senator Blumenthal
+                    </a>
+                    <a class="MobileNav__subLink" href="https://www.blumenthal.senate.gov/contact/get-assistance">
+                      Get Assistance
+                    </a>
+              </div>
+          </div>
+    </nav>
+</div>
+
+<script>
+  window.animatedMobileNavIn = gsap
+    .timeline({paused: true})
+    .set('.MobileNav__linksContainer', {overflowY: 'hidden'})
+    .from('.MobileNav__item', {
+      duration: 0.5,
+      opacity: 0,
+      translateY: 50,
+      stagger: 0.1,
+      ease: 'power3',
+      clearProps: true
+    }, '+=0.25')
+    .set('.MobileNav__linksContainer', {overflowY: ''});
+    
+    //window.animatedMobileNavIn.set('.MobileHeader__mobileNavIcon', {border: '1px solid red'})
+
+  window.animatedMobileNavOut = gsap
+    .timeline({paused: true})
+    .to('.MobileNav__item', {
+      duration: 0.5,
+      opacity: 0,
+      translateY: -50,
+      stagger: 0.05,
+      ease: 'power3'
+    });
+
+  $(function () {
+    // Control logic/animations of opening and closing of mobile nav
+    var toggleMobileNav = function (state) {
+      var navOverflowElement = document.querySelector('.MobileNav__linksContainer');
+    
+      if (state === 'open') {
+        window.disableBodyScroll(navOverflowElement)
+        
+        $('.MobileNav').css('paddingTop', function() {
+          var newsAlert = $('.SiteLayout__alert').outerHeight();
+          var siteHeader = $('.SiteLayout__navigation').outerHeight();
+          return (newsAlert || 0) + (siteHeader || 0);
+        });
+  window.disableBodyScroll(navOverflowElement)
+        window
+          .animatedMobileNavIn
+          .play(0);
+        document
+          .body
+          .classList
+          .add('mobile-nav-open');
+        gsap.to(window, {
+          duration: 0.5,
+          scrollTo: '.SiteHeader',
+          ease: 'power3'
+        });
+      } else if (state === 'close') {
+   window.enableBodyScroll(navOverflowElement);
+        window
+          .animatedMobileNavOut
+          .play(0);
+        document
+          .body
+          .classList
+          .remove('mobile-nav-open');
+      }
+    };
+
+    // Click handling for open/close of mobile nav
+    $('.js-open-mobile-nav').click(function () {
+      if (document.body.classList.contains('mobile-nav-open')) {
+        toggleMobileNav('close')
+      } else {
+        toggleMobileNav('open')
+      }
+    });
+
+    $('.js-open-mobile-search').click(function () {
+      if (document.body.classList.contains('mobile-nav-open')) {
+        toggleMobileNav('close')
+      }
+    });
+
+    // Expand/Collapse Dropdowns and Handle repeat clicks on parents
+    var clickAndClose = function () {
+      $('.js-mobile-dropdown-parent').removeClass('active');
+      toggleMobileNav('close');
+      gsap.to('.js-mobile-dropdown', 0.2, {height: 0});
+    };
+
+    var onClickParent = function (event) {
+      var parentLink = $(event.target);
+      var dropdown = $(parentLink).next('.js-mobile-dropdown')[0];
+
+      if (dropdown) {
+        if ($(parentLink).hasClass('active')) {
+          clickAndClose();
+        } else {
+          event.preventDefault();
+          event.stopImmediatePropagation();
+          $('.js-mobile-dropdown-parent').removeClass('active');
+          $('.js-mobile-dropdown').each(function (index, element) {
+            if (element === dropdown)
+              return;
+            gsap.to(element, 0.6, {height: 0});
+          })
+          parentLink.addClass('active');
+          gsap.set(dropdown, {height: "auto"});
+          gsap.from(dropdown, 0.6, {height: 0});
+          gsap.from(dropdown.querySelectorAll('.MobileNav__subLink'), {
+            duration: 0.8,
+            opacity: 0,
+            scale: 0.5,
+            stagger: 0.1,
+            ease: 'power3'
+          })
+        }
+      } else {
+        clickAndClose()
+      };
+    };
+
+    $('.MobileNav__link').click(onClickParent);
+    $('.MobileNav__subLink').click(clickAndClose);
+  });
+</script>
+
+          <div class="SiteLayout__loading">
+            <div class="Loading">
+              <div class="Loading__spinner">
+                <div></div>
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  
+
+
+
+  <div class="BootstrapModal BootstrapModal--search modal fade" id="website-search" tabindex="-1" role="dialog" aria-labelledby="website-search-title">
+    <div class="BootstrapModal__container modal-dialog" role="document">
+      <div class="BootstrapModal__content modal-content">
+        <div class="BootstrapModal__header align-items-center modal-header">
+          <h2 id="website-search-title" class="BootstrapModal__headerTitle modal-title sr-only">website-search</h2>
+
+        </div>
+
+        <div class="BootstrapModal__body modal-body">
+            <form aria-label="search" id="sitesearch" role="search" method="get" action="/search">
+    <div class="MobileSearch">
+      <div class="MobileSearch__layout">
+        <label class="sr-only" for="q" >Site Search</label>
+        <input class="MobileSearch__input" type="search" name="q" id="q" placeholder="Search" autofocus>
+        <button class="MobileSearch__button" aria-label="submit search query" type="submit">
+          <span class="fa fa-search" aria-hidden="true"></span>
+        </button>
+      </div>
+      <button type="button" class="BootstrapModal__closeIcon" data-dismiss="modal" aria-label="Close search">
+        <span class="CustomIcon__before--close" aria-hidden="true"></span>
+      </button>
+    </div>
+  </form>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script>
+    $('#website-search').on('shown.bs.modal', function () {
+      $('[autofocus]').trigger('focus')
+    })
+  </script>
+
+<script type="text/javascript">
+  if (typeof window.makeStickyHeader !== 'function') {
+    window.getStuckHeaderHeight = function () {
+      var siteHeader = document.querySelector('.SiteHeader');
+      var siteHeaderHeight = (siteHeader) ? siteHeader.offsetHeight : 0;
+      var mobileHeader = document.querySelector('.MobileHeader');
+      var mobileHeaderHeight = (mobileHeader) ? mobileHeader.offsetHeight : 0;
+
+      // Get height of either desktop or mobile header, the not shown header will return 0
+      return siteHeaderHeight + mobileHeaderHeight;
+    }
+
+    window.makeStickyHeader = function (containerProp) {
+      window.madeStickyHeader = true;
+      var container = containerProp || document;
+      var siteHeader = document.querySelector('.SiteHeader');
+      var mobileHeader = document.querySelector('.MobileHeader');
+
+      ScrollTrigger.defaults({
+        // uncomment to see debug markers
+        //markers: true
+      });
+
+      // Pin SiteHeader when it hits the top of the viewport
+      if (siteHeader) {
+        ScrollTrigger.create({
+          id: 'SiteHeader', // creates .pin-spacer-SiteHeader which we target in _SiteHeader.scss
+          trigger: siteHeader,
+          endTrigger: ".SiteLayout__footer",
+          start: "top top",
+          end: "bottom top",
+          pin: true,
+          pinSpacing: false,
+        })
+      }
+
+      var bannerBackground = container.querySelector('.Banner__background');
+      if (bannerBackground) {
+        gsap.fromTo(bannerBackground, {
+          translateY: '0',
+        }, {
+          translateY: '50%',
+          clearProps: 'transform',
+          ease: 'none',
+          scrollTrigger: {
+            id: 'BannerAnimation',
+            trigger: '.SiteLayout__main',
+            endTrigger: ".Banner",
+            start: function() {
+              var offsetHeight = window.getStuckHeaderHeight() || 0;
+              return 'top ' + offsetHeight + 'px';
+            },
+            end: "bottom top",
+            scrub: true,
+            pinSpacing: false,
+          }
+        });
+      }
+
+      var siteFooterLogomark = document.querySelector('.SiteFooter__icon');
+      if (siteFooterLogomark) {
+        var logomarkAnimation = gsap.timeline({
+          scrollTrigger: {
+            trigger: ".SiteFooter",
+            start: "bottom bottom",
+            toggleActions: "restart none none reset"
+          }
+        });
+        logomarkAnimation
+          .addLabel('stars-1')
+          .to('.SiteFooter__icon .stars-1', {
+            rotation: 360,
+            transformOrigin: "center center",
+            duration: 0.5,
+          })
+          .addLabel('stars-2')
+          .to('.SiteFooter__icon .stars-2-l', {
+            rotation: -360,
+            transformOrigin: "center center",
+            duration: 0.7,
+          }, 'stars-1+=0.25')
+          .to('.SiteFooter__icon .stars-2-r', {
+            rotation: 360,
+            transformOrigin: "center center",
+            duration: 0.7,
+          }, 'stars-1+=0.25')
+          .addLabel('stars-3')
+          .to('.SiteFooter__icon .stars-3-l', {
+            rotation: -360,
+            transformOrigin: "center center",
+            duration: 0.8,
+          }, 'stars-2')
+          .to('.SiteFooter__icon .stars-3-r', {
+            rotation: 360,
+            transformOrigin: "center center",
+            duration: 0.8,
+          }, 'stars-2')
+      }
+
+      // Pin MobileHeader when it hits the top of the viewport
+      if (mobileHeader) {
+        ScrollTrigger.create({
+          id: 'MobileHeader', // creates .pin-spacer-MobileHeader which we target in _MobileHeader.scss
+          trigger: mobileHeader,
+          endTrigger: ".SiteLayout__footer",
+          start: "top top",
+          pin: true,
+          pinSpacing: false
+        })
+      }
+
+      var mobileHeaderBgColor = document.querySelector('.MobileHeader__bgColor')
+      if (mobileHeaderBgColor) {
+        gsap.from(mobileHeaderBgColor, {
+          //opacity: 0,
+          clearProps: true,
+          scrollTrigger: {
+            id: 'MobileHeaderBackground',
+            trigger: '.SiteLayout__navigation',
+            start: "+=10px",
+            end: "+=1px",
+            scrub: 1,
+          }
+        });
+      }
+    }
+  }
+
+  var prevBodyHeight = 0;
+  var resizeObserver = new window.polyfills.ResizeObserver(function(entries) {
+    var newHeight = (entries[0].contentRect) ? entries[0].contentRect.height : 0;
+    if (newHeight === prevBodyHeight) return;
+
+    // If the height changed save it
+    prevBodyHeight = newHeight;
+
+    // If we have any scrollTriggers on window loop through and refresh them
+    window.refreshScrollTriggers();
+  })
+
+  // start observing a DOM node
+  $(function () {
+    if (!window.madeStickyHeader) window.makeStickyHeader();
+    resizeObserver.observe(document.body);
+  });
+</script>
+
+        <script type="text/javascript">
+          $(function () {
+            $("script.deferred-script").each(function () {
+              var text = $(this).text();
+              eval(
+                text == ''
+                ? this.innerHTML
+                : text);
+            });
+          });
+          sen = true;
+        </script>
+
+
+  <script>
+    
+    var arrayify = function(list) {
+      return Array.prototype.slice.call(list)
+    };
+
+    
+    var runScript = function(originalElement) {
+      var element = document.createElement('script');
+
+      if (originalElement.attributes.length) {
+        var attributes = arrayify(originalElement.attributes);
+
+        attributes.forEach(function(attr) {
+          element.setAttribute(attr.name, attr.value);
+        });
+      }
+      element.textContent = originalElement.textContent;
+      element.setAttribute('async', 'false');
+
+      originalElement.replaceWith(element);
+      return element;
+    };
+
+    var shouldPrevent = function(data) {
+      if (data.el.hasAttribute('data-no-transition') || data.el.hasAttribute('data-modal-template')) return true;
+      var targetUrl = data.href.replace(window.location.origin, '');
+      var regex = new RegExp(/^(?:\/?assets)|(?:\/?imo)/);
+      if (targetUrl && regex.test(targetUrl)) return true;
+
+      return false;
+    }
+
+    
+    
+    var transitionFormHandler = function(container) {
+      var forms = container.querySelectorAll('form[method="get"]');
+      if (forms.length) forms.forEach(function(form) {
+        if ($(form).attr('data-no-transition') !== undefined) return;
+        $(form).on('submit', function(event) {
+          event.preventDefault();
+          $('body').addClass('wait');
+          var targetUrl = event.target.action;
+          var targetQuery = $(this).serialize();
+          $('.BootstrapModal').modal('hide');
+          transitions.go(targetUrl + '?' + targetQuery);
+        })
+      })
+    }
+
+    var isIE = document.body.style.msTouchAction !== undefined;
+    if (!isIE && transitions) {
+      // Grab the prefers reduced media query.
+      var mediaQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
+
+      // Check if the media query matches or is not available.
+      if (!mediaQuery || mediaQuery.matches) {
+        transitionsReducedMotion();
+      } else {
+        transitionsFullMotion();
+      }
+
+      // Adds an event listener to check for changes in the media query's value.
+      mediaQuery.addEventListener("change", function() {
+        if (mediaQuery.matches) {
+          transitions.destroy();
+          transitionsReducedMotion();
+        } else {
+          transitions.destroy();
+          transitionsFullMotion();
+        }
+      });
+
+      // When user has 'prefers-reduced-motion' turned on in their OS
+      function transitionsReducedMotion() {
+        transitions.init({
+          preventRunning: true,
+          timeout: 20000,
+          schema: {
+            prefix: 'data-transition'
+          },
+          prevent: shouldPrevent,
+          transitions: [{
+            name: 'default-transition',
+            leave: function(data) {
+              return gsap.timeline()
+                .to(data.current.container, {
+                  opacity: 0,
+                  duration: 0.2,
+                }, '<')
+                .set('.SiteFooter', { opacity: 0 })
+            },
+            beforeLeave: function(data) {
+              gsap.to(window, { duration: 1, scrollTo: {y: 0}, ease: 'power3'});
+              return;
+            },
+            enter: function(data) {
+              return gsap.timeline()
+                .set(data.current.container, {position: 'absolute', opacity: 0})
+                .from(data.next.container, {
+                  opacity: 0,
+                  duration: 0.2,
+                }, '<')
+                .to('.SiteFooter', {
+                  opacity: 1,
+                  duration: 0.1,
+                }, '<')
+                .set('.SiteFooter', { opacity: '' })
+            },
+          }],
+        });
+
+        transitionsGlobalHooks();
+      };
+      // For regular motion users
+      function transitionsFullMotion() {
+        // Remove below line and write custom transitions here
+        transitionsReducedMotion();
+      };
+
+      function transitionsGlobalHooks() {
+        transitions.hooks.before(function(data) {
+          $('body').addClass('wait');
+          $('.fc-tbx').remove(); // Clear Forms Builder validation errors
+
+          // Allow Google Recaptcha script include to reinitialize
+          if (typeof grecaptcha !== 'undefined') delete grecaptcha;
+          if (typeof ___grecaptcha_cfg !== 'undefined') delete ___grecaptcha_cfg;
+
+          $('.SiteHeader--searchMode').removeClass('SiteHeader--searchMode');
+          $('.SiteNavSearch--searchMode').removeClass('SiteNavSearch--searchMode');
+          $('.SiteNavSearch input').val('');
+        });
+
+        transitions.hooks.afterLeave(function(data) {
+          var currentNav = data.current.container.dataset.nav
+          var nextNav = data.next.container.dataset.nav
+          var nextUrl = data.next.url.href;
+          if (currentNav !== nextNav && nextUrl) window.location = nextUrl;
+
+          var nextPage = new DOMParser().parseFromString(data.next.html, "text/html");
+
+          // Sync body tags
+          var newBodyClasses = nextPage.querySelector('body').classList;
+          if (newBodyClasses) document.body.className = newBodyClasses;
+
+          $('[data-transition-selected-if]').each(function (link) {
+            var linkCondition = $(this).attr('data-transition-selected-if');
+            var selectedClass = $(this).attr('data-transition-selected-class') || 'selected';
+
+            $(this).removeClass(selectedClass);
+            if (new RegExp('^' + linkCondition).test(window.location.pathname)) {
+              var secondaryCondition = $(this).attr('data-transition-selected-nestedIf'),
+                pathArr = window.location.pathname.split('/'),
+                linkPathArr = secondaryCondition ? secondaryCondition.split('/') : " ";
+
+              $(this).addClass(selectedClass);
+
+              if (secondaryCondition && pathArr.length < 4 && window.location.pathname !== secondaryCondition) {
+                $(this).removeClass(selectedClass);
+              } else if (secondaryCondition && pathArr.length >= 4 && linkPathArr.length < 3) {
+                $(this).removeClass(selectedClass);
+              }
+            }
+          });
+
+          // Sync NewsAlert content
+          var newDocument = document.createRange().createContextualFragment(data.next.html);
+          var nextNewsAlert = newDocument.querySelector('.NewsAlert');
+          var prevNewsAlert = document.querySelector('.NewsAlert');
+
+
+          // Clean up any existing nextNewsAlert Splide instance
+          if (typeof window.destroyNewsAlertSplide === 'function') window.destroyNewsAlertSplide();
+
+          if (nextNewsAlert) {
+            var prevNewsAlertHasContent = prevNewsAlert.classList.contains('NewsAlert--hasContent');
+            var nextNewsAlertHasContent = nextNewsAlert.classList.contains('NewsAlert--hasContent');
+
+            // If previous page NewsAlert doesn't have items and next page does animate open container
+            if (!prevNewsAlertHasContent && nextNewsAlertHasContent) {
+              prevNewsAlert.className = nextNewsAlert.className || prevNewsAlert.className;
+              prevNewsAlert.innerHTML = nextNewsAlert.innerHTML || '';
+
+              var newHeight = $(nextNewsAlert).height();
+              gsap.timeline()
+                .from('.NewsAlert', {
+                  height: 0,
+                  duration: 0.5
+                })
+                .set('.NewsAlert', { height: '' })
+            }
+            // If previous page NewsAlert has items and next page doesn't animate closed the container
+            else if (prevNewsAlertHasContent && !nextNewsAlertHasContent) {
+              var currentHeight = $(prevNewsAlert).height();
+              gsap.timeline()
+                .to('.NewsAlert', {
+                  height: 0,
+                  duration: 0.5
+                })
+                .call(function() {
+                  prevNewsAlert.className = nextNewsAlert.className || prevNewsAlert.className;
+                  prevNewsAlert.innerHTML = nextNewsAlert.innerHTML || '';
+                })
+                .set('.NewsAlert', { height: '' })
+
+            }
+            // If previous and next page NewsAlert didn't change don't animate container
+            else {
+              prevNewsAlert.className = nextNewsAlert.className || prevNewsAlert.className;
+              prevNewsAlert.innerHTML = nextNewsAlert.innerHTML || '';
+            }
+
+            // Rerun script tag within NewsAlert to reactivate animations if next page NewsAlert has content
+            if (nextNewsAlertHasContent) {
+              var scripts = prevNewsAlert.querySelectorAll('script');
+              if (scripts && scripts.length) scripts.forEach(function(script) {runScript(script)});
+            }
+          }
+        });
+
+        transitions.hooks.after(function(data) {
+          $('body').removeClass('wait');
+
+          // Recalculate ScrollTrigger values
+          window.killScrollTriggers();
+          window.madeStickyHeader = false;
+          window.makeStickyHeader(data.next.container);
+          window.animationsSet = false;
+          window.setupAnimations(data.next.container);
+
+          // Force load any scripts after page transition
+          // Borrowed idea from swup.js:
+          // https://github.com/swup/scripts-plugin/blob/master/src/index.js
+          var scripts = data.next.container.querySelectorAll('script');
+          if (scripts && scripts.length) scripts.forEach(function(script) {runScript(script)});
+
+          transitionFormHandler(data.next.container);
+
+          if (typeof ga !== 'undefined') {
+            ga('set', 'page', window.location.pathname);
+            ga('send', 'pageview');
+          }
+          if (typeof FB !== 'undefined') FB.XFBML.parse();
+        });
+
+        // Prefetching the top level pages after a couple seconds for faster response time on click
+setTimeout(function() {
+                  transitions.prefetch('https://www.blumenthal.senate.gov/about');
+                }, 2000);setTimeout(function() {
+                  transitions.prefetch('https://www.blumenthal.senate.gov/services');
+                }, 3000);setTimeout(function() {
+                  transitions.prefetch('https://www.blumenthal.senate.gov/newsroom');
+                }, 4000);setTimeout(function() {
+                  transitions.prefetch('https://www.blumenthal.senate.gov/contact');
+                }, 5000);
+        transitionFormHandler(document);
+      }
+    }
+  </script>
+  </body>
+</html>
+<!-- Build #1790298304 -->

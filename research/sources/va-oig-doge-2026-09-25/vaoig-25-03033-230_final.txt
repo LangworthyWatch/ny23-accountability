@@ -1,0 +1,551 @@
+=== PAGE 1 ===
+Office of Audits and Evaluations
+DEPARTMENT OF VETERANS AFFAIRS
+Review of Contracts Terminated
+for Convenience
+Review 25-03033-230 September 22, 2026
+
+=== PAGE 2 ===
+OUR MISSION
+To conduct independent oversight of the Department of Veterans Affairs
+that combats fraud, waste, and abuse and improves the effectiveness
+and efficiency of programs and operations that provide for the health and
+welfare of veterans, their families, caregivers, and survivors.
+CONNECT WITH US
+Subscribe to receive updates on reports, press releases, congressional
+testimony, and more. Follow us at @VetAffairsOIG.
+PRIVACY NOTICE
+In addition to general privacy laws that govern release of medical
+information, disclosure of certain veteran health or other private
+information may be prohibited by various federal statutes including, but
+not limited to, 38 U.S.C. §§ 5701, 5705, and 7332, absent an exemption
+or other specified circumstances. As mandated by law, the OIG adheres
+to privacy and confidentiality laws and regulations protecting veteran
+health or other private information in this report.
+Visit our website to view more publications.
+vaoig.gov
+
+=== PAGE 3 ===
+Review of Contracts Terminated for Convenience
+Executive Summary
+The VA Office of Inspector General (OIG) reviewed VA contracts “terminated for
+convenience”—that is, contracts that the government ended because it was in its best interest—
+after receiving a request on June 13, 2025, from Senator Richard Blumenthal, the ranking
+member of the US Senate Committee on Veterans’ Affairs, and committee member
+Senator Angus King. The senators asked the OIG to review the cancellation of VA contracts that
+began after January 20, 2025, to identify which contracts were canceled, reduced in scope,
+stopped, or allowed to expire as part of this cancellation effort. They cited concerns with the
+impact of the cancellations, the use of artificial intelligence and algorithms in decision-making,
+the input of VA career subject matter experts, contingency plans to replace services provided
+from a canceled contract, and the financial transfer of funding from canceled contracts to other
+VA activities. To address the senators’ concerns, the OIG team reviewed (1) the process VA
+used to select contracts for termination and (2) the accuracy of the number of terminated
+contracts and their associated values reported by VA.1
+In November 2025, the VA Secretary announced that all VA procurement staff would be
+operationally and administratively realigned under the Office of Acquisition, Logistics, and
+Construction (OALC).2 As of May 31, 2026, the realignment structure was approved, with full
+completion of the realignment anticipated by September 20, 2026. Although VA is realigning
+acquisition responsibilities, the actions discussed in this review occurred before the realignment.
+The OIG presented preliminary findings to OALC officials in January 2026. The officials agreed
+with the results and took corrective actions to update and improve the clarity of a list VA
+subsequently submitted to Congress on April 13, 2026. During the meeting, the OALC principal
+executive director said the realignment of VA’s procurement offices into OALC will provide
+better control, oversight, and data management of VA’s contracts, which could help streamline
+similar widespread reviews if they occur in the future.
+What the Review Found
+During its review, the OIG found that from January through June 2025, VA received several
+requests from the General Services Administration, VA senior advisers, and representatives of
+the Department of Government Efficiency to terminate certain contracts. To reduce the risk of
+terminating critical contracts, VA implemented procedures to review the contracts before
+1Inspector General Cheryl L. Mason recused herself from this review based on her previous position as a senior
+adviser to the VA Secretary.
+2VA Secretary, “Enterprise Coordination to Realign All Procurement Staff under the Department of Veterans
+Affairs Chief Acquisition Officer,” memorandum to under secretaries, assistant secretaries, and other key officials,
+November 19, 2025.
+VA OIG 25-03033-230 | Page i | September 22, 2026
+
+=== PAGE 4 ===
+Review of Contracts Terminated for Convenience
+terminating them. Although the speed and volume of the requests created challenges for VA
+staff, VA contracting officials generally complied with Federal Acquisition Regulation (FAR)
+requirements for terminating contracts.
+The OIG determined that VA terminated 435 contracts for convenience—valued at about
+$1.1 billion—out of the 2,210 contract actions that the OIG reviewed. While the senators asked
+the OIG to review the cancellation of contracts specifically, the OIG observed that the
+cancellation request process under review involved individual contract actions. As defined in the
+FAR, a contract may encompass multiple contract actions including delivery orders, task orders,
+or purchase orders. This means that in some cases, parts of a contract (rather than an entire
+contract) were terminated. So, although there may be one contract, the number of contract
+actions associated with that contract may be significantly higher. The remaining 1,775 contract
+actions the OIG reviewed were reinstated or never terminated for convenience, which could
+indicate they were considered for termination before officials decided to keep them. That said,
+the OIG found errors in the data submitted to Congress in May and July 2025. As noted, in
+April 2026, VA submitted to Congress an updated list with improved clarity.
+This report makes no recommendations that necessitate an action or response by VA. The
+executive director of the Office of Procurement concurred with the draft report and provided no
+additional comments. Appendix B provides the full text of the executive director’s response.
+LARRY M. REINKEMEYER
+Assistant Inspector General
+for Audits and Evaluations
+VA OIG 25-03033-230 | Page ii | September 22, 2026
+
+=== PAGE 5 ===
+Review of Contracts Terminated for Convenience
+Contents
+Executive Summary ......................................................................................................................... i
+Abbreviations ................................................................................................................................. iv
+Introduction ......................................................................................................................................1
+Results ..............................................................................................................................................3
+Finding: VA Established Review Procedures Before Terminating Contracts but Submitted
+Inaccurate Data to Congress................................................................................3
+Appendix A: Scope and Methodology ...........................................................................................11
+Appendix B: VA Management Comments ....................................................................................13
+OIG Contact and Staff Acknowledgments ....................................................................................14
+Report Distribution ........................................................................................................................15
+VA OIG 25-03033-230 | Page iii | September 22, 2026
+
+=== PAGE 6 ===
+Review of Contracts Terminated for Convenience
+Abbreviations
+CMSO Category Management Support Office
+FAR Federal Acquisition Regulation
+GSA General Services Administration
+OALC Office of Acquisition, Logistics, and Construction
+OIG Office of Inspector General
+VHA Veterans Health Administration
+VA OIG 25-03033-230 | Page iv | September 22, 2026
+
+=== PAGE 7 ===
+Review of Contracts Terminated for Convenience
+Introduction
+On June 13, 2025, Senator Richard Blumenthal, the ranking member of the US Senate
+Committee on Veterans’ Affairs, and committee member Senator Angus King requested that the
+VA Office of Inspector General (OIG) review VA contracts “terminated for convenience”—that
+is, contracts that the government ended because it was in its best interest. The senators asked for
+a review of contracts that began after January 20, 2025, to identify which contracts were
+canceled, reduced in scope, stopped, or allowed to expire as part of this cancellation effort. They
+were concerned with the impact of the cancellations, the use of artificial intelligence and
+algorithms in decision-making, the input of VA career subject matter experts, contingency plans
+to replace services provided from a canceled contract, and the financial transfer of funding from
+canceled contracts to other VA activities.
+To address these concerns, the OIG team reviewed (1) the process VA used to select contracts
+for termination and (2) the accuracy of the number of terminated contracts and their associated
+values reported by VA.3 While the senators asked the OIG to review the cancellation of contracts
+specifically, the OIG observed that the cancellation request process under review involved
+individual contract actions. As defined in the Federal Acquisition Regulation (FAR), a contract
+may encompass multiple contract actions including delivery orders, task orders, or purchase
+orders. This means that in some cases, parts of a contract (rather than an entire contract) were
+terminated. As a result, the OIG refers to contract actions rather than contracts throughout this
+review.
+VA has the second largest acquisition budget in the federal government, obligating $78.3 billion
+for contracts in fiscal year 2025.4 The Office of Acquisition, Logistics, and Construction
+(OALC) directs VA’s acquisition functions. Within OALC, the Office of Procurement,
+Acquisition, and Logistics provides acquisition support for VA. The Category Management
+Support Office (CMSO)—within the OALC Office of Procurement, Acquisition, and Logistics—
+oversees and manages VA’s category management initiative and data analytics. VA also has
+10 contracting offices with senior officials, referred to as heads of contracting activities, who are
+responsible for managing the department’s contracting operations. These operations include
+appointing and overseeing contracting officers and ensuring contracts are awarded and
+administered in compliance with policies. VA contracting officers award and manage their
+assigned contracts, which include contract actions and orders awarded from governmentwide
+contracts managed by the General Services Administration (GSA).
+3Inspector General Cheryl L. Mason recused herself from this review based on her previous position as a senior
+adviser to the VA Secretary.
+4VA OIG analysis of data from USASpending.gov.
+VA OIG 25-03033-230 | Page 1 | September 22, 2026
+
+=== PAGE 8 ===
+Review of Contracts Terminated for Convenience
+Several events in early 2025 occasioned a review of VA contracts. First, on January 20, 2025, the
+President issued Executive Order 14151, which required the cancellation of diversity, equity, and
+inclusion activities in the federal government.5 Next, on February 11, 2025, the VA Secretary
+established a team to identify and implement cost-saving measures across VA, including a
+comprehensive review of all VA contracts based on recent presidential directives. In particular,
+the Secretary directed the team to look for contracts that supported mentors, consultants,
+coaches, and advisers; contracts for consulting or data research services that only delivered
+reports or advice; and contracts that would be deemed wasteful by an average person.6 The team
+was directed to develop a plan of action within two weeks of this initial request. In addition, on
+February 26, 2025, the President’s Executive Order 14222 directed each agency to review all
+existing contracts and terminate or modify contracts “to reduce overall Federal spending or
+reallocate spending to promote efficiency and advance the policies of [the] Administration.”7
+The federal government’s acquisition policies and procedures are codified in FAR 1.101 as
+amended by the Revolutionary FAR Overhaul implemented in August 2025. According to the
+FAR, the government has the unilateral right to partially or completely terminate a contract for
+“its sole convenience” without being required to pay damages, in terms of lost future revenue as
+a result of the termination. The government does not need a reason to terminate a contract for
+convenience, other than that it is in the government’s best interest to do so. However, of note, the
+FAR requires that the government pay the contractor fairly for its expended efforts up to the
+contract termination, including settlement costs: reasonable expenses a contractor incurs to close
+out work after the government ends a contract early.
+5Exec. Order No. 14151, 90 Fed. Reg. 8339 (January 20, 2025).
+6VA Secretary, “Establishment of Fiscal Responsibility Action Team and Implementation of Immediate Cost-
+Saving Measures (VIEWS 12739356),” memorandum to under secretaries, assistant secretaries, and other key
+officials, February 11, 2025.
+7Exec. Order No. 14222, 90 Fed. Reg. 11095 (February 26, 2025).
+VA OIG 25-03033-230 | Page 2 | September 22, 2026
+
+=== PAGE 9 ===
+Review of Contracts Terminated for Convenience
+Results
+Finding: VA Established Review Procedures Before Terminating
+Contracts but Submitted Inaccurate Data to Congress
+From January through June 2025, VA received several requests from GSA, VA senior advisers,
+and the Department of Government Efficiency to terminate certain contracts. To reduce the risk
+of ending critical services, VA established procedures to review the contracts before acting on
+the requests. Despite challenges created by the speed and volume of these requests, VA
+contracting officials generally complied with FAR requirements when terminating contracts.
+Of the 2,210 contract actions the OIG reviewed, the team determined that VA terminated
+435 contracts for convenience valued at about $1.1 billion. The remaining 1,775 contract actions
+reviewed were either reinstated or never terminated for convenience, which may indicate they
+were considered for termination before officials decided to retain them. In addition, the OIG
+found errors in the data VA submitted to Congress. According to the OALC principle executive
+director, officials who contributed to the information provided to Congress were unfamiliar with
+contracting and acquisition terminology, which may have caused the mischaracterization of the
+data.
+The OIG communicated its preliminary findings to OALC officials in January 2026. Based on
+these findings, OALC took corrective actions to update and improve the clarity of a list VA
+subsequently submitted to Congress on April 13, 2026.
+What the OIG Did
+The team obtained and reviewed several lists of contract actions that were identified for
+termination from February through July 2025. The OIG created a population of 2,210 contract
+actions for review. The population was generated from the lists VA used to make public
+statements on February 25, 2025, and March 3, 2025, about terminated contracts and the
+two lists that VA reported to Congress on May 16, 2025, and July 3, 2025. VA may have
+evaluated and terminated additional contracts that were not included in these four lists. The team
+reviewed contract files for all 2,210 contract actions to evaluate contract costs, termination
+notices and statuses, and settlement costs. The team also obtained and evaluated thousands of
+emails, which included guidance and direction to identify, justify, or terminate contracts. See
+appendix A for more on the review’s scope and methodology.
+Procedures to Identify and Review Contracts
+From January through June 2025, GSA, VA senior advisers, and Department of Government
+Efficiency representatives sent dozens of instructions for VA officials to identify, review, and
+terminate contract actions. CMSO coordinated VA’s efforts to compile lists and worked with
+VA OIG 25-03033-230 | Page 3 | September 22, 2026
+
+=== PAGE 10 ===
+Review of Contracts Terminated for Convenience
+senior OALC officials to direct VA heads of contracting activities, administrations, and staff
+offices.
+A CMSO official explained that most of the contract actions were identified by searching for
+contracts using certain North American Industry Classification System and product service
+codes, which are standardized contract codes that indicate the nature of the work procured by a
+contract. In response to initial GSA and Department of Government Efficiency requests, CMSO
+officials created a list of professional services and consulting contracts on February 6, 2025,
+using these established and standardized codes—not a Department of Government Efficiency
+artificial intelligence program. Most of the contracts that were ultimately terminated were
+included in this list. In the subsequent days and weeks after CMSO officials created the initial
+list, they continued to obtain and refine lists of contracts, and they tracked, monitored, and
+updated the lists as contracts were added or removed.
+To reduce the risk of terminating critical contracts, a VA senior adviser and the OALC principal
+executive director established procedures in February 2025 for the VA administrations, staff
+offices, and contracting offices to review the lists of contracts identified for termination. The
+OALC principal executive director requested that each office provide justification to keep critical
+contracts and identify the potential impact to veteran care and benefits if contracts were
+terminated. The offices were required to explain why the contracts were critical to veterans and
+VA’s mission and to describe the positive impacts they delivered. To do so, a VA senior adviser
+and the OALC principal executive director asked VA contracting staff to complete a
+questionnaire for each contract proposed for termination. The responses were required to be
+reviewed and approved by the deputy under secretary or the deputy assistant secretary, as well as
+senior advisers to the Secretary. The questionnaire asked the following:
+· Can the task be completed by VA employees?
+· How long would it take to have VA employees start doing the task?
+· How would terminating the contract affect veterans?
+The questionnaire also included a rating scale to determine whether the contract provided
+1. direct care to a veteran or beneficiary;
+2. specialized skills that VA could not easily hire;
+3. temporary contract support for surge situations;
+4. outsourced services that could be completed by VA employees, such as call centers,
+training, or planning; or
+5. administrative support,such as scheduling or travel coordination.
+VA OIG 25-03033-230 | Page 4 | September 22, 2026
+
+=== PAGE 11 ===
+Review of Contracts Terminated for Convenience
+Speed of the Identification and Termination Process
+The OIG found the speed and volume of the process created challenges for VA staff. From
+February through June 2025, OALC and VA senior advisers issued at least 47 orders to VA
+contracting officials to justify contracts, terminate contracts, pause termination, or reinstate
+contracts. In addition, VA senior advisers; OALC officials; and heads of contracting activities,
+contracting offices, and program offices exchanged numerous follow-up emails regarding the
+requests.
+In some cases, VA officials were given two weeks to complete their review; in others, they were
+given only a few hours to review hundreds of contracts. For example, on February 21, 2025, the
+OALC principal executive director and a senior adviser to the Secretary directed the heads of
+contracting activities, administrations, and staff offices to review 1,049 contract actions. The
+offices were given less than 11 hours to complete their review, obtain approval from the deputy
+under secretaries or deputy assistant secretaries and senior advisers, and submit responses to
+OALC.
+According to the OALC principal executive director, some offices did not complete their review
+by the deadline. However, the CMSO director said VA senior advisers and Department of
+Government Efficiency representatives directed them to terminate the contracts on
+February 25, 2025, regardless of the incomplete reviews. The OALC principal executive director
+explained that, as the reviews and justifications continued to come in, the proposed list of
+contracts for termination decreased from February through March 2025. Figure 1 depicts key
+events and the status of the proposed list of contracts in February and March 2025.
+VA OIG 25-03033-230 | Page 5 | September 22, 2026
+
+=== PAGE 12 ===
+Review of Contracts Terminated for Convenience
+Figure 1. Timeline of key events from February through March 2025.
+Abbreviations: HCA, head of contracting activity; VHA, Veterans Health Administration.
+Source: VA OIG analysis of emails and lists of contracts.
+OALC and Veterans Health Administration (VHA) officials told the OIG team that all the
+instructions received to identify, review, and terminate contracts, which included different lists
+of contracts, made tracking difficult. The OIG observed that the lists were inconsistently
+formatted, and some contained the same contract actions multiple times. Additionally, VHA
+contracting officials explained they received directions to terminate contracts from multiple
+sources—including OALC, VA senior advisers, and Department of Government Efficiency
+representatives. This caused confusion and frustration. As a result, VA and VHA contracting
+officials reported they had to dedicate staff full time to track and monitor the lists and
+correspondence. To better track and monitor the lists and correspondence, OALC created a
+database in April 2025.
+Although the speed and volume of requests created challenges for VA acquisition staff, the OIG
+found that VA contracting officials generally complied with FAR requirements for terminating
+contracts. Specifically, VA contracting offices implemented procedures to issue stop-work orders
+or termination notices to contractors, as required by FAR 49.102, which also says contracting
+officers can amend the notices to correct errors or rescind them, if appropriate. Accordingly,
+contracting officers then issued contract modifications to finalize the termination or rescind the
+termination notices, as necessary. Finally, as addressed earlier, provisions of the FAR state that
+the government must pay the contractor fairly for its expended efforts up to the contract
+VA OIG 25-03033-230 | Page 6 | September 22, 2026
+
+=== PAGE 13 ===
+Review of Contracts Terminated for Convenience
+termination, including settlement costs: reasonable expenses a contractor incurs to close out
+work after the government ends a contract early. Therefore, contracting officers obtained
+proposals and negotiated settlement costs with contractors, when necessary, and documented the
+agreements through contract modifications.8
+Contracts Terminated
+The OIG determined that, of the 2,210 contract actions reviewed, VA terminated 435 for
+convenience, with total contract values of about $1.1 billion. The total contract value is the full
+cost of everything agreed upon for the entire project or service period, but it does not reflect how
+much of the contract cost has been paid or any settlement costs. The OIG also found that
+contracting officers initially terminated an additional 100 contract actions but later reinstated
+them. The contract value of these actions totaled about $1.1 billion. For example, on
+February 25, 2025, a contracting officer terminated a contract that provided financial audit
+services of invoices from medical disability exam contractors, then they reinstated it on
+August 1, 2025.
+The remaining 1,675 contract actions the OIG team reviewed were never terminated for
+convenience. Some received stop-work orders or termination notices but were ultimately not
+terminated, indicating they were considered for termination before final decisions were made to
+keep them. The review team did not evaluate whether these contracts were reduced in scope or
+whether VA decided not to exercise contract option periods that would extend the contract’s
+performance period. Table 1 summarizes contract action information by the date of the
+termination list.
+Table 1. Contract Actions by Date of Termination List
+Date of Number of Number of Terminated Terminated Never
+termination list reported unique then reinstated terminated
+contract contract
+actions actions
+February 25, 2025 874 848 372 99 377
+March 3, 2025 585 562 362 49 151
+May 16, 2025 447 446 357 11 78
+July 3, 2025 1,667 1,664 349 17 1,298
+(Appeared on — (1,310) (1,005) (76) (229)
+multiple lists)
+8FAR 49.104; FAR 49.105; FAR 49.109-1; FAR 52.212-4.
+VA OIG 25-03033-230 | Page 7 | September 22, 2026
+
+=== PAGE 14 ===
+Review of Contracts Terminated for Convenience
+Date of Number of Number of Terminated Terminated Never
+termination list reported unique then reinstated terminated
+contract contract
+actions actions
+Total contract — 2,210 435 100 1,675
+actions
+reviewed*
+Source: VA OIG analysis of VA’s contract files.
+* The OIG team subtracted duplicate actions from the total to ensure each discrete action was counted only once.
+The OIG found that most of the terminated contracts were categorized as consulting services, as
+shown in figure 2, which was consistent with goals the VA Secretary established in
+February 2025. The consulting services predominantly included management consulting
+services, such as administrative management, program management, and strategic
+communications.
+Figure 2. Categories of terminated contracts.
+Source: VA OIG analysis of VA’s contract files.
+Of the contract actions reviewed, VA contracting officers completed settlement agreements for
+267 of the 435 terminated contracts. Of the 267 settlement agreements, 150 were no-cost
+settlements, as required by FAR 49.101. For the remaining 117 settlements, contracting officers
+agreed to pay about $10.6 million of settlement costs. Since FAR 49.206-1 states contractors
+have up to a year to submit settlement proposals, VA may have settled additional terminations in
+the subsequent months after the OIG completed its review.
+VA OIG 25-03033-230 | Page 8 | September 22, 2026
+
+=== PAGE 15 ===
+Review of Contracts Terminated for Convenience
+Data Provided to Congress
+VA submitted two lists of terminated contracts to Congress: one on May 16, 2025, and another
+on July 3. Both lists of terminated contracts were incomplete and inaccurate. The May list
+reported that VA terminated and closed 446 contract actions with total contract values of about
+$120.9 billion. In an email that accompanied the list, VA said it did not include contracts that
+were modified to reduce their scope—implying all contracts listed were fully terminated.
+However, the OIG team found that, as of April 30, 2026, VA terminated only 357 of the
+446 contract actions from this list. The list included 11 contract actions that were terminated then
+later reinstated and 78 contract actions that were not terminated for convenience. Additionally,
+the list contained 16 contract actions with total contract values of $1 billion or greater, although
+the OIG found that none of those 16 actually exceeded $150 million. For example, a contract
+action was reported at over $21 billion, but its actual estimated total value was just over
+$74 million. A CMSO official explained that VA created a dashboard to track the terminated
+contracts, which miscalculated the contract values. The same CMSO official said many of the
+errors in this first list occurred due to individuals’ lack of familiarity with contracting processes
+and terminology.
+On July 3, 2025, VA submitted another list of contracts to Congress and reported in an email
+accompanying the list that VA terminated or was terminating 1,667 contracts. The actual list
+included only 1,664 contract actions and reported a combined total contract value of over
+$1.4 billion. The OIG found that VA terminated only 366 of these contract actions, 17 of which
+it later reinstated. According to the OALC principle executive director, like the first list, VA
+senior advisers and Department of Government Efficiency representatives who contributed to the
+information provided to Congress were unfamiliar with contracting and acquisition terminology,
+which may have caused mischaracterizations in the list.
+Furthermore, a CMSO official added that Department of Government Efficiency representatives
+wanted to claim credit for any contracts that ended, including those that simply reached the end
+of their performance period, such as completed supply and installation contracts. Specifically,
+the second list included 974 supply-related contract actions that were not terminated, such as
+those for prosthetics, surgical implants, and wheelchair ramps. It also included
+151 healthcare-related contract actions that were not terminated, including orders for nursing
+home services. Other contract actions misclassified as terminated included those for facility
+operations, construction, and information technology services.
+In January 2026, the OIG briefed OALC officials on its preliminary results. The officials said
+they were preparing an updated list of terminated contracts to submit to Congress that captured
+all contracts terminated from January 2025 through January 2026. Based on the OIG’s briefing,
+OALC officials updated their list to clarify which contracts VA terminated, reduced in scope, or
+chose not to exercise contract option periods for. VA submitted the updated data to Congress on
+April 13, 2026. The OIG team did not review the accuracy or completeness of the data in that
+VA OIG 25-03033-230 | Page 9 | September 22, 2026
+
+=== PAGE 16 ===
+Review of Contracts Terminated for Convenience
+submission but confirmed that VA continued to review and terminate contracts beyond the scope
+of the OIG’s review. Therefore, the OIG is not making any recommendations based on its
+review.
+Conclusion
+Despite a challenging and fast-paced process, VA officials implemented procedures to review
+contracts before terminating them, which reduced the risk of terminating critical services. Of the
+2,210 contracts the OIG reviewed, the team determined VA terminated 435. However, according
+to OALC officials: Because the officials who contributed to the data submitted to Congress were
+not familiar with contracting or acquisition terminology, VA submitted inaccurate data to
+Congress in May and July 2025. VA has since provided Congress with updated and clearer
+information on the contracts that it terminated.
+VA Management Comments
+The executive director of the Office of Procurement concurred with the draft report and provided
+no additional comments. Appendix B provides the full text of the director’s response.
+VA OIG 25-03033-230 | Page 10 | September 22, 2026
+
+=== PAGE 17 ===
+Review of Contracts Terminated for Convenience
+Appendix A: Scope and Methodology
+Scope
+The review team conducted its work from July 2025 through August 2026. The team reviewed
+contracts VA reported that it terminated for convenience from February through July 2025.9
+Methodology
+The team obtained and reviewed several lists of contract actions that were identified for
+termination from February through July 2025. The team created a population of 2,210 contract
+actions for review based on the concerns about VA’s public statements and the data submitted to
+Congress cited in the congressional request. Specifically, the OIG’s population of contract
+actions included the lists VA used to make public statements on February 25, 2025, and
+March 3, 2025, about terminated contracts and the two lists that VA reported to Congress on
+May 16, 2025, and July 3, 2025. From those lists, the team identified 2,210 unique contract
+actions after removing actions that occurred multiple times within a list or appeared on more
+than one of the lists.
+The team reviewed contract files for all 2,210 contract actions to evaluate contract costs,
+termination notices and statuses, and settlement costs. The team did not evaluate whether
+contracts were reduced in scope or whether VA chose not to exercise contract option periods,
+which extend a contract’s performance, given that these actions do not result in a termination for
+convenience. The team also obtained and evaluated thousands of emails, which included
+guidance and direction to identify, justify, or terminate contracts.
+Internal Controls
+The team determined that performing an internal control step was not necessary unless internal
+control deficiencies were noted during the review. The team did not find any significant internal
+control deficiencies.10
+Data Reliability
+The team reviewed computer-processed data obtained from OALC officials such as manually
+created and system-created Excel spreadsheets of contracts considered for termination. The team
+compared the lists of contracts to contract source documents in VA’s electronic contract
+management system, VA’s Integrated Financial and Acquisition System, and the Federal
+9The project was on hold from October 1, 2025, until November 13, 2025, due to the federal government shutdown.
+10Government Accountability Office, Standards for Internal Control in the Federal Government, GAO-25-107721,
+May 2025.
+VA OIG 25-03033-230 | Page 11 | September 22, 2026
+
+=== PAGE 18 ===
+Review of Contracts Terminated for Convenience
+Procurement Data System. Specifically, the team reviewed the contracts, modifications, and
+termination documentation for all 2,210 contracts in its population. Through its review, the team
+identified errors in the data that it incorporated into its reported findings. The team relied on
+federal procurement data only for coding and total contract values, which were assessed as
+sufficiently reliable through completed data reliability checklists. Other computer-processed data
+sources were used only for comparison or contextual understanding, not to support reported
+findings.
+Government Standards
+The OIG conducted this review in accordance with the Council of the Inspectors General on
+Integrity and Efficiency’s Quality Standards for Inspection and Evaluation.11
+11Council of the Inspectors General on Integrity and Efficiency, Quality Standards for Inspection and Evaluation,
+December 2020.
+VA OIG 25-03033-230 | Page 12 | September 22, 2026
+
+=== PAGE 19 ===
+Review of Contracts Terminated for Convenience
+Appendix B: VA Management Comments
+Department of Veterans Affairs Memorandum
+Date: August 31, 2026
+From: Executive Director, Office of Procurement (003A)
+Subj: Draft Report, Review of Contracts Terminated for Convenience [2025-03033-AE-0121]
+To: Healthcare Contracts & Special Projects (52D04)
+1.The Office of Procurement (OOP) completed its review of the subject Draft Report and concur without
+comment.
+The OIG removed point of contact information prior to publication.
+(Original signed by)
+Jeffrey C. Neill
+The text of VA’s management comments is reprinted verbatim as received from the department.
+For accessibility, the original format of this appendix has been modified to comply with
+section 508 of the Rehabilitation Act of 1973, as amended.
+VA OIG 25-03033-230 | Page 13 | September 22, 2026
+
+=== PAGE 20 ===
+Review of Contracts Terminated for Convenience
+OIG Contact and Staff Acknowledgments
+Contact For more information about this report, please contact the
+Office of Inspector General at (202) 461–4720.
+Review Team Alyssa Witten, Director
+Rachel Gilbert
+Kendrick Levett
+Andrew Olsen
+LaKesha Russ
+Scott Wetzel
+Danita Young
+Other Contributors Allison Bennett
+Steven Frontiera
+Doyle Hunt
+Thomas Martin
+Charlma Quarles
+John Velarde
+VA OIG 25-03033-230 | Page 14 | September 22, 2026
+
+=== PAGE 21 ===
+Review of Contracts Terminated for Convenience
+Report Distribution
+VA Distribution
+Office of the Secretary
+Office of Accountability and Whistleblower Protection
+Office of Acquisition, Logistics, and Construction
+Office of Congressional and Legislative Affairs
+Office of General Counsel
+Office of Public and Intergovernmental Affairs
+National Cemetery Administration
+Veterans Benefits Administration
+Veterans Health Administration
+Non-VA Distribution
+House Committee on Veterans’ Affairs
+House Appropriations Subcommittee on Military Construction, Veterans Affairs,
+and Related Agencies
+House Committee on Oversight and Government Reform
+Senate Committee on Veterans’ Affairs
+Senate Appropriations Subcommittee on Military Construction, Veterans Affairs,
+and Related Agencies
+Senate Committee on Homeland Security and Governmental Affairs
+National Veterans Service Organizations
+Government Accountability Office
+Office of Management and Budget
+OIG reports are available at vaoig.gov.
+VA OIG 25-03033-230 | Page 15 | September 22, 2026

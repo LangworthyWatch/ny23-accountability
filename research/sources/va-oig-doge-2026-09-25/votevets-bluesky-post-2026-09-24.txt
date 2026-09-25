@@ -1,0 +1,10 @@
+SOURCE: https://bsky.app/profile/votevets.org (profile feed), post shown as "19h" old when read 2026-09-25 ~10:50 ET (so posted ~2026-09-24 afternoon)
+RETRIEVED: 2026-09-25 via Chrome get_page_text. Text verbatim as rendered in the feed:
+
+VoteVets @votevets.org · 19h
+Elon Musk's DOGE is gone, but the wreckage it left behind at the VA is still being felt. A new VA Inspector General report found that DOGE, alongside Trump's VA appointees, terminated 435 contracts worth a total of $1.1 billion.
+
+[link card] www.stripes.com/veterans/202... — "$1 billion in VA contracts terminated following requests from DOGE, senior officials" — "Most of the terminated contracts were for consulting services, which included administrative and program management as well as communications."
+Counts shown: 8 replies, 96 reposts, 138 likes.
+
+NOTE: The VoteVets Facebook page (facebook.com/votevets), read logged-out the same morning, showed only its newest post (the Arlington arch / Section 106 item, 17h). The DOGE/OIG post was not visible there in the logged-out view; the Bluesky copy is what was retained.

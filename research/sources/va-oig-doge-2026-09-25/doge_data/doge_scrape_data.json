@@ -1,0 +1,50 @@
+[
+  {
+    "name": "doge-contract.csv",
+    "path": "data/doge-contract.csv",
+    "sha": "21161b3668f09926647382f56aaf67ebebf188c4",
+    "size": 14380799,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/data/doge-contract.csv?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/blob/main/data/doge-contract.csv",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/21161b3668f09926647382f56aaf67ebebf188c4",
+    "download_url": "https://raw.githubusercontent.com/m-nolan/doge-scrape/main/data/doge-contract.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/data/doge-contract.csv?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/21161b3668f09926647382f56aaf67ebebf188c4",
+      "html": "https://github.com/m-nolan/doge-scrape/blob/main/data/doge-contract.csv"
+    }
+  },
+  {
+    "name": "doge-grant.csv",
+    "path": "data/doge-grant.csv",
+    "sha": "9ec61f259e6fd417e9d41a78d49ad5f6ec3e2555",
+    "size": 104656862,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/data/doge-grant.csv?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/blob/main/data/doge-grant.csv",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/9ec61f259e6fd417e9d41a78d49ad5f6ec3e2555",
+    "download_url": "https://raw.githubusercontent.com/m-nolan/doge-scrape/main/data/doge-grant.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/data/doge-grant.csv?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/9ec61f259e6fd417e9d41a78d49ad5f6ec3e2555",
+      "html": "https://github.com/m-nolan/doge-scrape/blob/main/data/doge-grant.csv"
+    }
+  },
+  {
+    "name": "doge-property.csv",
+    "path": "data/doge-property.csv",
+    "sha": "b3f4ec599ef2e2308d982d879429a35c2a39f405",
+    "size": 143102,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/data/doge-property.csv?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/blob/main/data/doge-property.csv",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/b3f4ec599ef2e2308d982d879429a35c2a39f405",
+    "download_url": "https://raw.githubusercontent.com/m-nolan/doge-scrape/main/data/doge-property.csv",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/data/doge-property.csv?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/b3f4ec599ef2e2308d982d879429a35c2a39f405",
+      "html": "https://github.com/m-nolan/doge-scrape/blob/main/data/doge-property.csv"
+    }
+  }
+]

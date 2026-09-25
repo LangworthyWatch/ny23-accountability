@@ -1609,3 +1609,37 @@ Review Act"; the Sept 16 press release title reads "Security and Enhancement Rev
 CBP data, (5) the 6,618 figure with GAO's own sector breakdown and post-2025 decline. Verdict stays
 MISSING CONTEXT. **Wayback:** GAO pages and CBP dataset pages not yet captured (SPN was rate-limiting
 Sept 17). Open question for the office: the source of "270 million."
+
+## 2026-09-25 — VA OIG contract-termination report (25-03033-230) vs. WNY VA facilities (VoteVets post trigger)
+
+**Source folder:** `research/sources/va-oig-doge-2026-09-25/` (README has the full method and figures).
+
+**What the report is:** VA OIG, Sept 22, 2026, requested by Blumenthal/King. 2,210 contract actions reviewed;
+**435 terminated for convenience, ~$1.1B in total contract value** (not savings; $10.6M in settlement costs so far);
+100 terminated then reinstated; VA's May 2025 list to Congress claimed **$120.9B**; Feb 21, 2025 offices got <11 hours
+to review 1,049 actions and DOGE reps ordered terminations Feb 25 regardless. Zero recommendations. **The OIG did
+not assess impact on veterans and gives no facility or state breakdown.** IG Mason recused.
+
+**WNY / NY-23 check (FPDS, 1,193 VA terminate-for-convenience actions Jan 2025–Apr 2026):** no action at Bath,
+Batavia, or any NY-23 clinic; Buffalo VAMC has four, all routine (an expiring imaging-maintenance order tagged to
+EO 14222, an end-of-contract ED-physician closeout, a vendor-inability item, an FDA-recall item); Canandaigua three,
+all routine. DOGE's wall of receipts claims Buffalo $116,053 and Canandaigua $13,425 on those, and lists a
+**Springville, NY** engineering firm's Connecticut VA contract as $143,054 "saved" that FPDS shows was never terminated
+and was expanded in July 2026. Caveat: the DOGE-wave cuts were national/VISN-level consulting contracts; local effects
+would not show as a Buffalo/Bath place of performance.
+
+**The documented WNY effect is staffing, not contracts:** OIG severe-shortage counts, Buffalo **10 (FY2025) → 28 (FY2026)**,
+Bath/Finger Lakes **49 → 27**; Buffalo's FY2026 list includes hematology/oncology, psychiatry, neurology, inpatient RN.
+AFGE (Jan 2026): Buffalo on track for "double-digit" psychologist attrition (union claim). VA ended union contracts
+Aug 2025 (~400 Buffalo nurses per Buffalo News headline; body paywalled).
+
+**Langworthy tie:** Mar 13, 2025 WGRZ: "We would not do something that would put patients at risk"; Collins "a thoughtful
+leader." No statement found on the contract cancellations or the Sept 22 report (press corpus + search). Existing entries
+already carry the DOGE Caucus / H.R. 7256 / "staffing problem" record (`2024-08-va-healthcare-shortfall.md`,
+`2026-02-09-va-rural-impact-summary.md`).
+
+**ACTION (Zach's call):** candidate is a dated update to `2026-02-09-va-rural-impact-summary.md` or the 2024-08 entry
+adding (1) the OIG report's process findings, (2) the FY2026 shortage numbers for Buffalo/Bath, (3) the "no local contract
+cut" finding stated plainly, (4) the Springville wall-of-receipts error. Verdict would stay as is; do NOT claim DOGE
+contract cuts hit NY-23 facilities. **Wayback:** SPN returned 200 today for the first time since Sept 15; OIG PDF verified
+by playback (Sept 23 capture); OIG page and Stripes not yet playing back.

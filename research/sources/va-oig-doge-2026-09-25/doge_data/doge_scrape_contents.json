@@ -1,0 +1,130 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "dec0620dcfb283e354ef7780d4de11842729045f",
+    "size": 0,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/.github?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/tree/main/.github",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/trees/dec0620dcfb283e354ef7780d4de11842729045f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/trees/dec0620dcfb283e354ef7780d4de11842729045f",
+      "html": "https://github.com/m-nolan/doge-scrape/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "32c54b37e25820f8ca9eead0dc886e4be6accc51",
+    "size": 87,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/32c54b37e25820f8ca9eead0dc886e4be6accc51",
+    "download_url": "https://raw.githubusercontent.com/m-nolan/doge-scrape/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/32c54b37e25820f8ca9eead0dc886e4be6accc51",
+      "html": "https://github.com/m-nolan/doge-scrape/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": ".old",
+    "path": ".old",
+    "sha": "1938b38489338f58aa30f740bd021fbd2b9a9532",
+    "size": 0,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/.old?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/tree/main/.old",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/trees/1938b38489338f58aa30f740bd021fbd2b9a9532",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/.old?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/trees/1938b38489338f58aa30f740bd021fbd2b9a9532",
+      "html": "https://github.com/m-nolan/doge-scrape/tree/main/.old"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "88d13359959800c673c411cad657cb7be8540f8b",
+    "size": 1064,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/LICENSE?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/blob/main/LICENSE",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/88d13359959800c673c411cad657cb7be8540f8b",
+    "download_url": "https://raw.githubusercontent.com/m-nolan/doge-scrape/main/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/LICENSE?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/88d13359959800c673c411cad657cb7be8540f8b",
+      "html": "https://github.com/m-nolan/doge-scrape/blob/main/LICENSE"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "981c13dfa7bc8ef7cd3f8af200c97d9b3f18cb95",
+    "size": 854,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/README.md?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/981c13dfa7bc8ef7cd3f8af200c97d9b3f18cb95",
+    "download_url": "https://raw.githubusercontent.com/m-nolan/doge-scrape/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/981c13dfa7bc8ef7cd3f8af200c97d9b3f18cb95",
+      "html": "https://github.com/m-nolan/doge-scrape/blob/main/README.md"
+    }
+  },
+  {
+    "name": "data",
+    "path": "data",
+    "sha": "c636df5440ac174b8701c1f1a97b750d4b16812b",
+    "size": 0,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/data?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/tree/main/data",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/trees/c636df5440ac174b8701c1f1a97b750d4b16812b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/data?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/trees/c636df5440ac174b8701c1f1a97b750d4b16812b",
+      "html": "https://github.com/m-nolan/doge-scrape/tree/main/data"
+    }
+  },
+  {
+    "name": "doge-scrape.py",
+    "path": "doge-scrape.py",
+    "sha": "737882031c8b83c9d6f68635415c6feac79d3fa3",
+    "size": 11532,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/doge-scrape.py?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/blob/main/doge-scrape.py",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/737882031c8b83c9d6f68635415c6feac79d3fa3",
+    "download_url": "https://raw.githubusercontent.com/m-nolan/doge-scrape/main/doge-scrape.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/doge-scrape.py?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/737882031c8b83c9d6f68635415c6feac79d3fa3",
+      "html": "https://github.com/m-nolan/doge-scrape/blob/main/doge-scrape.py"
+    }
+  },
+  {
+    "name": "requirements.txt",
+    "path": "requirements.txt",
+    "sha": "13d49b507f4375b60bb1660e0f69084382484319",
+    "size": 106,
+    "url": "https://api.github.com/repos/m-nolan/doge-scrape/contents/requirements.txt?ref=main",
+    "html_url": "https://github.com/m-nolan/doge-scrape/blob/main/requirements.txt",
+    "git_url": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/13d49b507f4375b60bb1660e0f69084382484319",
+    "download_url": "https://raw.githubusercontent.com/m-nolan/doge-scrape/main/requirements.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/m-nolan/doge-scrape/contents/requirements.txt?ref=main",
+      "git": "https://api.github.com/repos/m-nolan/doge-scrape/git/blobs/13d49b507f4375b60bb1660e0f69084382484319",
+      "html": "https://github.com/m-nolan/doge-scrape/blob/main/requirements.txt"
+    }
+  }
+]
