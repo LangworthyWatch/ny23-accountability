@@ -49,7 +49,7 @@
    He thanked the committee by name in July 2024 and did not mention its abolition today. Kelly said they are seeking a meeting with Kennedy.
 2. His own reauthorization bill (H.R. 4709), which restores the committee's statutory footing, has been parked in his committee
    for a year while a new bill is announced.
-3. Same month record: Yea on P.L. 119-21 (−$911B Medicaid; Medicaid pays for ~4 in 10 births and nearly half of rural births, KFF).
+3. Same month record: Yea on P.L. 119-21, Rolls 145 (May 22, 2025) and 190 (July 3, 2025) (−$911B Medicaid; Medicaid pays for ~4 in 10 births and nearly half of rural births, KFF).
 4. Verify when the text posts: appropriation vs. authorization ("provide $35 million" on the poster; CBO/approps question),
    whether it amends sec. 1109/1117 PHSA, the reporting mechanism, and the Schrier co-lead against the congress.gov cosponsor list.
 

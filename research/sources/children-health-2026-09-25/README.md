@@ -28,7 +28,7 @@ administration affected children's health care?
   expertise of the Advisory Committee on Heritable Disorders in Newborns and Children established under section 1111" — i.e.,
   it presumes the committee HHS abolished. Prior authorization lapsed in 2019.
 
-## 2. Medicaid / CHIP / SNAP (the OBBBA, P.L. 119-21; Langworthy voted Yea, Rolls 145 and 218 of 2025 — see existing entries)
+## 2. Medicaid / CHIP / SNAP (the OBBBA, P.L. 119-21; Langworthy voted Yea on Roll 145 (May 22, 2025) and Aye on Roll 190 (July 3, 2025) — see existing entries)
 - KFF Oct 15, 2025 (`kff-2025-10-15-*.txt`): nearly 4 in 10 U.S. children are on Medicaid; CBO: H.R. 1 raises the uninsured by
   10 million by 2034; federal Medicaid spending −$911B and SNAP −$187B over ten years, "an estimated 1 million children with
   reduced or eliminated food assistance"; CMS "restricted Medicaid waivers for multi-year continuous eligibility for Medicaid
