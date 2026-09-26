@@ -1686,3 +1686,11 @@ His H.R. 4709 co-lead bill, which reauthorizes that committee, has sat in his ow
 cosponsor roster, and whether the Langworthy release mentions the committee). Card angle: "$35M a year to implement a panel
 whose expert committee his party's HHS abolished." Keep the Kellys and Hunter's Hope out of the frame per the meetings-are-not-
 endorsements standard; industry backing is disclosed by the coalition itself, state it without insinuation.
+
+## 2026-09-26 — Roswell Park breast-cancer post: "proud to sponsor" two bills he cosponsors
+
+`research/sources/triage-2026-09-26/`. He is a cosponsor, not sponsor, of both: H.R. 3037 (Dingell; 63 cosponsors; he joined
+**Aug 27, 2026**) and H.R. 2048 (Garbarino; 269 cosponsors; he joined Nov 10, 2025). Neither has moved past referral; H.R. 3037
+is partly before his own Energy and Commerce Committee. Low priority: word-choice error, favorable subject, meeting-not-endorsement
+applies. Candidate for a roundup line or a one-paragraph update if a pattern of "sponsor" for "cosponsor" accumulates (the Nov 8,
+2024 Roswell Park release used "co-sponsoring" correctly). No entry recommended on its own.
