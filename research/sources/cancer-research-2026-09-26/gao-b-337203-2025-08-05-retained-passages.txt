@@ -1,0 +1,14 @@
+SOURCE: https://www.gao.gov/assets/890/880607.pdf  — GAO Decision B-337203, "Department of Health and Human Services—National Institutes of Health—Application of Impoundment Control Act to Availability of Funds for Grants," August 5, 2025, 21 pp.
+RETRIEVED: 2026-09-26 via Chrome; gao.gov returns 403 to curl. Text extracted in-page with pdf.js 4.4.168; passages below verbatim (whitespace normalized).
+
+DIGEST: "Congress appropriated amounts to the National Institutes of Health (NIH) to carry out various research objectives for fiscal year 2025. In accordance with several executive orders, the Department of Health and Human Services (HHS) and its agencies, including NIH, began canceling existing grants. HHS also issued a memorandum directing its agencies to cease the publication of grant review meeting notices in the Federal Register, a key step in NIH's grant review process. As a result, NIH reduced its awarding of new grants. NIH's actions to carry out these executive directives, coupled with publicly available data showing a decline in NIH's obligations and expenditures, establishes that NIH intended to withhold budget authority from obligation and expenditure without regard to the process provided for by the Impoundment Control Act of 1974 (ICA)."
+
+"As explained below, we conclude that HHS violated the ICA when it withheld funds from obligation and expenditure."
+
+"According to HHS, over 1,800 NIH grants were terminated between February 2025 and June 2025."
+
+"Between February and June of FY 2025, NIH obligated almost $8 billion less than it had in the same time period in FY 2024. Between February and June of FY 2025, NIH obligated 62 percent of what it had ..."
+
+"Therefore, we conclude that NIH withheld budget authority from obligation or expenditure in violation of the ICA."
+
+"GAO does not take a position on the policy goals of HHS or NIH, and this decision is not to be interpreted as taking a position on the ..."

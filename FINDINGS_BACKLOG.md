@@ -1694,3 +1694,14 @@ endorsements standard; industry backing is disclosed by the coalition itself, st
 is partly before his own Energy and Commerce Committee. Low priority: word-choice error, favorable subject, meeting-not-endorsement
 applies. Candidate for a roundup line or a one-paragraph update if a pattern of "sponsor" for "cosponsor" accumulates (the Nov 8,
 2024 Roswell Park release used "co-sponsoring" correctly). No entry recommended on its own.
+
+## 2026-09-26 — DOGE-era cuts and cancer research (reference sweep, no entry)
+
+`research/sources/cancer-research-2026-09-26/README.md`. Headline facts: GAO B-337203 (Aug 5, 2025) found HHS violated the
+Impoundment Control Act; >1,800 NIH grants terminated Feb–June 2025; NIH obligated ~$8B less than the prior year in that window;
+Sanders HELP staff count 116 cancer grants / $273M terminated or frozen; NCI R01 payline fell to the 4th percentile (FY2024:
+10th); NCI communications and Cancer Information Service staff RIF'd May 2025; Pediatric Brain Tumor Consortium defunded
+Aug 2025 (13-month enrollment gap per its chair; NCI disputes harm); Congress then funded NCI at $7.35B (+$128M) for FY2026,
+which he voted for (Rolls 45 and 53 of 2026). WNY: Roswell Park $62.1M active NIH funding (Feb 2025), UB $47M cap exposure.
+Use as context for any future Roswell Park / cancer-research post; the CF entry (June 27) already carries the frame. Do not use
+the "$12M/yr Roswell" figure (unsourced).
