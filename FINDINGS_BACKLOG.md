@@ -1705,3 +1705,16 @@ Aug 2025 (13-month enrollment gap per its chair; NCI disputes harm); Congress th
 which he voted for (Rolls 45 and 53 of 2026). WNY: Roswell Park $62.1M active NIH funding (Feb 2025), UB $47M cap exposure.
 Use as context for any future Roswell Park / cancer-research post; the CF entry (June 27) already carries the frame. Do not use
 the "$12M/yr Roswell" figure (unsourced).
+
+## 2026-09-26 — AI "moon race" reel (Sept 24): second on-camera "Chinese propaganda" claim about AI fears
+
+Reel 1109520548285112 (57 s, firehouse backdrop, same Sept 21 event as the "50 states" clips); transcript at
+`research/transcripts/2026-09-24-ai-moon-race-reel-fb-1109520548285112.txt`. Nothing new on preemption: "We need a 50-state
+framework, we need one AI policy for the United States of America" (already the ninth-instance frame in the Feb 2026 pattern entry).
+**New:** "There's also a fear factor that I believe is part of a Chinese propaganda campaign to try to scare the American people on
+this." That is the second time in a week (quantum clip, Sept 23: "There is a Chinese disinformation campaign coming down in this
+country... funded because they don't want America to compete"). He offers no source either time; the first carries "I believe."
+Also: big AI companies "want regulation to push out" competitors (motive claim; the regulatory-capture argument is a live debate,
+not checkable). **ACTION (Zach's call):** with two instances, a NOT SUPPORTED entry is now defensible ("he says twice that
+Americans' AI/quantum fears are Chinese propaganda; no agency finding or source cited"); needs a check of ODNI/CISA/Microsoft
+threat reporting for anything matching, and a request to the office for his basis. Otherwise a dated line in the pattern entry.

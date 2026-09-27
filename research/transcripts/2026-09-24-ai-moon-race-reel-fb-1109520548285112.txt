@@ -1,0 +1,18 @@
+SOURCE: https://www.facebook.com/reel/1109520548285112/ (share link https://www.facebook.com/share/r/1BtupXXtuN/)
+PAGE: Congressman Nick Langworthy (official page), reel posted 2026-09-24 (timestamp 1790283651), 57 s. Caption: "AI is the moon race of our time. America needs one, unified federal AI policy with smart guardrails. We can achieve responsible innovation. The country that owns the intellectual property and ability to execute AI will be the next global superpower."
+SETTING: firehouse backdrop, same as the Sept 21, 2026 Clarence Center press conference clips retained 2026-09-23.
+METHOD: yt-dlp audio -> openai-whisper small.en, 2026-09-26. Audio retained at research/sources/triage-2026-09-26/ai-reel/.
+
+We need a 50-state framework, we need one AI policy for the United States of America,
+and Congress must dedicate itself to getting the job done with that and putting the guardrails in place.
+There's a lot of propaganda on this topic that's out there.
+A lot of it being fed by the big superpowers within AI, those companies that are already developed,
+because they don't want competition.
+So now they want regulation to push out any people that might get their piece of the pie.
+There's also a fear factor that I believe is part of a Chinese propaganda campaign
+to try to scare the American people on this.
+AI can and will revolutionize the world.
+If we stifle all of our growth in the area of AI, China will take the entire mantle.
+This is the Cold War of our time.
+This is the Moon Race, who will be the global superpower,
+who will be the country that owns the intellectual property and the ability to execute AI.
