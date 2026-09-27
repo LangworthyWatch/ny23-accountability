@@ -1715,6 +1715,11 @@ framework, we need one AI policy for the United States of America" (already the 
 this." That is the second time in a week (quantum clip, Sept 23: "There is a Chinese disinformation campaign coming down in this
 country... funded because they don't want America to compete"). He offers no source either time; the first carries "I believe."
 Also: big AI companies "want regulation to push out" competitors (motive claim; the regulatory-capture argument is a live debate,
-not checkable). **ACTION (Zach's call):** with two instances, a NOT SUPPORTED entry is now defensible ("he says twice that
-Americans' AI/quantum fears are Chinese propaganda; no agency finding or source cited"); needs a check of ODNI/CISA/Microsoft
-threat reporting for anything matching, and a request to the office for his basis. Otherwise a dated line in the pattern entry.
+not checkable). **CORRECTION same day: NOT SUPPORTED is not available.** There is public reporting of a China-linked operation on one
+AI topic: Deseret News, Aug 29, 2026 (`ai-reel/deseret_*.txt`), citing X: an operation of "around 200,000 inauthentic accounts,
+with 200 focused on swaying AI infrastructure debates with warnings of rising energy rates and images of corporations destroying
+communities" (data centers). Axios Aug 28 covered the same X finding (403 to curl; not retained). That supports "a Chinese
+campaign exists on data centers," not "the fear factor about AI is Chinese propaganda." Also relevant: NBC Sept 14, 2026, Beijing
+calling U.S. tech leaders' AI-risk talk "fearmongering." **ACTION (Zach's call):** at most MISSING CONTEXT / MOSTLY FALSE on the
+broader "fear factor" claim; the honest version is "one documented bot operation about data centers, generalized to all AI
+fear." Ask the office for his basis before building. Otherwise a dated line in the pattern entry.
