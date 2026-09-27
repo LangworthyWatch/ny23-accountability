@@ -1,0 +1,10 @@
+SOURCE: https://openai.com/index/prc-linked-influence-operations-ai-debates/  ("PRC-linked influence operations are targeting AI debates in the US," OpenAI Global Affairs, June 10, 2026)
+RETRIEVED: 2026-09-26 via Chrome get_page_text (openai.com returns 403 to curl). Verbatim:
+
+"In this report, we describe two clusters of ChatGPT accounts likely originating from China that we banned after they used our models in support of apparent covert influence operations that promoted narratives in an attempt to manipulate a legitimate debate about American AI and wider tech policies."
+
+"The first cluster generated social media comments and images claiming that data center buildouts for AI were increasing electricity prices for average families. We named this cluster the 'Data Center Bandwagon' campaign."
+
+"The second cluster generated comments and images criticizing US tariffs as attempts to dominate technological competition ... We named this second cluster the 'Tech and Tariffs' campaign."
+
+"The targeting of OpenAI and US data center buildouts is significant not because the operation appears to have shifted public opinion, but because it shows PRC-origin influence operators testing narratives against AI infrastructure ... The operation sought to exploit and amplify existing public concerns about energy prices and local impacts of data center development, but we found no evidence of meaningful breakout beyond its own activity. Foreign influence operations have long sought to latch onto existing local issues and sincerely held beliefs, using them to build credibility, amplify divisions or exacerbate public distrust."

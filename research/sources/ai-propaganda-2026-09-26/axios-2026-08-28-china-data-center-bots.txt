@@ -1,0 +1,8 @@
+SOURCE: https://www.axios.com/2026/08/28/china-ai-data-center-backlash-bots
+RETRIEVED: 2026-09-26 via Chrome get_page_text (axios.com returns 403 to curl). Headline "America's data center revolt is getting a boost from China-linked bots" (page H1: "China is secretly fueling America's data center rage"), Josephine Walker, updated Aug 28, 2026. Visible text verbatim:
+
+"Roughly 200 accounts from a suspected Chinese bot farm have quietly tried to influence Americans to oppose AI data centers on social media, X said Thursday night."
+
+"Why it matters: The U.S. and China are racing to build the world's most advanced AI systems — and it appears Chinese propaganda has infiltrated American circles with the hope of slowing the U.S. down."
+
+(Remainder of the story not rendered in the text extraction.)

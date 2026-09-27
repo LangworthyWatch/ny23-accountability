@@ -1,0 +1,12 @@
+SOURCE: https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf (served from archive.dni.gov), "Annual Threat Assessment of the U.S. Intelligence Community," March 2026, 34 pp.
+RETRIEVED: 2026-09-26 via Chrome; dni.gov returns 403 to curl. Text extracted in-page with pdf.js 4.4.168 (80,252 characters) and searched in-page.
+
+Searches run against the full text (case-insensitive):
+- "data center": 0 matches.
+- influence operation / malign influence / propaganda within 200 characters of "AI"/"artificial intelligence": 0 matches.
+- "China" within 160 characters of influence/propaganda/disinformation: 1 match, the general framing sentence: "China aims to dominate its region and challenge Washington's leadership, promote its own multilateral and economic influence, and strengthen its military while viewing the U.S. as its main strategic competitor."
+- "social media"/"online" within 120 characters of China/Beijing/PRC: 0 matches.
+
+The AI section (p. 12) frames AI as a technology-leadership competition: "For technology powers such as the U.S. and China, AI and quantum information science—especially quantum computing—are at the center of this leadership competition." It does not describe a Chinese campaign to make Americans afraid of AI.
+
+Conclusion for the entry: the intelligence community's 2026 public assessment contains no finding that matches "a Chinese propaganda campaign to try to scare the American people" about AI. The documented operations on this topic come from private platforms (X, Aug 27–28, 2026; OpenAI, June 2026) and concern data centers and tariffs.
