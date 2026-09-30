@@ -1742,3 +1742,14 @@ extension expire Dec 11) would be a new task. Open ACTIONs carried from Sept 17-
 to the veterans entry; Northern Border "270 million" and GAO Wayback items.
 
 **Final roll checked: 314.**
+
+## 2026-09-30 — Two posts: Medicaid fraud bill (H.R. 1875) and Safer Skies Act (H.R. 2353) after the Flydubai cockpit attack
+
+`research/sources/triage-2026-09-30/README.md`. (1) H.R. 1875 is in the E&C 14-bill fraud package and Fox names it; accurate.
+The Fox headline's "$521 billion" is GAO's government-wide fraud range, and Fox's own text says no Medicare/Medicaid estimate
+exists; he did not repeat the number. Bill: 3 cosponsors, no action since Mar 2025. Low priority. (2) **Safer Skies Act post is a
+MISLEADING candidate:** he says "pass my Safer Skies Act to ensure our planes can never again be used as a weapon of terror" over
+a UAE pilot stabbing his colleague in the cockpit; H.R. 2353 only extends TSA checkpoint screening to U.S. scheduled public
+charters and says nothing about pilots, cockpits or crew; referred to a Homeland subcommittee Mar 26, 2025, no action since;
+motive officially unknown (Flydubai, UAE GCAA) while Israel's defense minister called it jihadist terror. **ACTION (Zach's call):**
+short entry recommended; sources retained.
