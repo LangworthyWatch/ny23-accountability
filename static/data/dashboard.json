@@ -1,9 +1,9 @@
 {
-  "generated": "2026-09-09",
-  "total": 159,
+  "generated": "2026-09-29",
+  "total": 165,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 50,
+    "MISSING CONTEXT": 56,
     "MISLEADING": 36,
     "DOCUMENTED PATTERN": 29,
     "CONTRADICTION": 13,
@@ -20,48 +20,48 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 52,
-      "pct": 32.7
+      "count": 58,
+      "pct": 35.2
     },
     {
       "label": "MISLEADING",
       "count": 36,
-      "pct": 22.6
+      "pct": 21.8
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 29,
-      "pct": 18.2
+      "pct": 17.6
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 8.8
+      "pct": 8.5
     },
     {
       "label": "MOSTLY TRUE",
       "count": 9,
-      "pct": 5.7
+      "pct": 5.5
     },
     {
       "label": "FALSE",
       "count": 9,
-      "pct": 5.7
+      "pct": 5.5
     },
     {
       "label": "MULTIPLE",
       "count": 3,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "label": "FALSE ATTRIBUTION",
       "count": 3,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "label": "DEFLECTION",
       "count": 3,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "label": "NON-RESPONSIVE",
@@ -70,7 +70,7 @@
     }
   ],
   "by_topic": {
-    "Healthcare": 22,
+    "Healthcare": 24,
     "Economy": 17,
     "Government Operations": 16,
     "Other": 10,
@@ -78,24 +78,25 @@
     "Campaign Finance": 8,
     "Local Impact": 7,
     "Transparency": 6,
+    "Rule of Law": 5,
     "Energy": 5,
     "Agriculture": 5,
-    "Rule of Law": 4,
+    "Accountability & Governance": 4,
     "Veterans": 4,
     "Infrastructure": 4,
-    "Accountability & Governance": 3,
     "Ethics": 3,
     "Environment": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
+    "Public Safety": 2,
     "Transportation": 2,
     "Labor": 2,
     "Housing": 2,
     "Consumer Protection": 2,
     "Animal Welfare": 2,
     "Social Services": 2,
+    "Technology": 1,
     "Trade": 1,
-    "Public Safety": 1,
     "Financial Disclosure": 1,
     "Disability & Education": 1,
     "Disaster Recovery": 1,
@@ -120,9 +121,51 @@
     "2026-06": 25,
     "2026-07": 24,
     "2026-08": 8,
-    "2026-09": 6
+    "2026-09": 12
   },
   "entries": [
+    {
+      "title": "Twice in a Week He Said Americans' Fear of AI Is Chinese Propaganda. The Documented Chinese Operation Is 200 Accounts About Data Centers, and Its Own Discoverers Say It Moved No One.",
+      "date": "2026-09-26",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Technology",
+      "url": "/fact-checks/2026-09-26-ai-fear-chinese-propaganda-claim/"
+    },
+    {
+      "title": "He Announced a $35 Million-a-Year Bill to Help States Screen Newborns for Panel Conditions. He Did Not Mention That HHS Abolished the Expert Committee That Builds the Panel.",
+      "date": "2026-09-25",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-09-25-surge-to-save-newborns-act/"
+    },
+    {
+      "title": "He Says He Is Working to 'Block Democrats' Attempts to Pack the Court.' The One Court-Expansion Bill in This Congress Has Zero Cosponsors.",
+      "date": "2026-09-21",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Rule of Law",
+      "url": "/fact-checks/2026-09-21-court-packing-op-ed/"
+    },
+    {
+      "title": "At a Firefighter Cancer Screening, He Said He Is 'Fighting in Washington' for Screenings. He Cosponsors Neither Firefighter Cancer Screening Bill.",
+      "date": "2026-09-21",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Public Safety",
+      "url": "/fact-checks/2026-09-21-firefighter-cancer-screening-bills/"
+    },
+    {
+      "title": "He Calls the Rural Health Fund a 'Historic Investment.' The Same Law Cut Medicaid by $911 Billion, and His Oversight Committee Has Not Held a Hearing on Where the Money Went.",
+      "date": "2026-09-15",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Healthcare",
+      "url": "/fact-checks/2026-09-15-rural-health-fund-vs-cuts-and-oversight/"
+    },
+    {
+      "title": "He Says He Takes the 'Oversight' in Oversight Committee Seriously. The Committee's Own Vote Sheets Show Him Absent for 69 of Its 145 Markup Roll Calls.",
+      "date": "2026-09-10",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Accountability & Governance",
+      "url": "/fact-checks/2026-09-10-oversight-seriously-attendance-record/"
+    },
     {
       "title": "He Asked a Federal Inspector General to Investigate a Housing Project in Buffalo. It Isn't in His District. Here Is What Is.",
       "date": "2026-09-09",
