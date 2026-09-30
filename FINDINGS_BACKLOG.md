@@ -1723,3 +1723,22 @@ campaign exists on data centers," not "the fear factor about AI is Chinese propa
 calling U.S. tech leaders' AI-risk talk "fearmongering." **ACTION (Zach's call):** at most MISSING CONTEXT / MOSTLY FALSE on the
 broader "fear factor" claim; the honest version is "one documented bot operation about data centers, generalized to all AI
 fear." Ask the office for his basis before building. Otherwise a dated line in the pattern entry.
+
+## 2026-09-29 — September House watch, post-expiry check (rolls checked through **314**; no change)
+
+Confirmation run after the Sept 17 self-expiry. **Nothing changed.** The House has held pro forma
+sessions only (Sept 17, 21, 24, 28; next Oct 1, 11:30 AM) under the Sept 16 to Nov 8 district work
+period. `roll315.xml`-`roll317.xml` return 404; **314 remains the last recorded vote before Nov 3.**
+BILLSTATUS (relatedBills and amendments stripped): H.R. 1834 Senate Cal. 319 (last action Feb 10);
+H.R. 9393 still ordered reported Jul 21, introduced text only; H.R. 5408 received in Senate Jun 10,
+nothing since; S. 1414 Senate Cal. 520; H.R. 9661 intro/referral only; H.R. 3548 in Judiciary;
+H.R. 8646 and H.R. 8595 still in the Senate; H.R. 5517 Senate Cal. 628 (already in the July 6 entry's
+Sept 18 update, so not stale). Senate-passed House bills messaged Sept 18-24 (H.R. 5345, 952, 1721,
+2481, 4467): none Langworthy-sponsored, none on a tracked thread.
+- Primary: `https://clerk.house.gov/floorsummary/HDoc-119-2-FloorProceedings.xml` (built Sept 29 02:28)
+
+**Disable `september-house-watch`.** A lame-duck watch (House returns Nov 9; funding and the IIJA
+extension expire Dec 11) would be a new task. Open ACTIONs carried from Sept 17-18: Roll 307 addendum
+to the veterans entry; Northern Border "270 million" and GAO Wayback items.
+
+**Final roll checked: 314.**
