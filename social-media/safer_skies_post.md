@@ -1,4 +1,4 @@
-# DRAFT
+# POSTED Sept 30, 2026
 # Entry: /fact-checks/2026-09-30-safer-skies-act-flydubai/  (MISLEADING)
 # Card: safer_skies_card.png (create_safer_skies_card.py)
 
