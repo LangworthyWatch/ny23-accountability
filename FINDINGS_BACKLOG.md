@@ -1753,3 +1753,13 @@ a UAE pilot stabbing his colleague in the cockpit; H.R. 2353 only extends TSA ch
 charters and says nothing about pilots, cockpits or crew; referred to a Homeland subcommittee Mar 26, 2025, no action since;
 motive officially unknown (Flydubai, UAE GCAA) while Israel's defense minister called it jihadist terror. **ACTION (Zach's call):**
 short entry recommended; sources retained.
+
+## 2026-09-30 — Three circulating opposition items checked (not for publication as-is)
+
+`research/sources/circulating-2026-09-30/README.md`. (1) **"Over 300 PACs":** FEC bulk files show 287 distinct committees
+through June 2026 this cycle (281 PACs, ~$998K), 377 across both cycles. Holds. **"Gies gets no PACs" does not:** NEA Fund $2,000,
+CWA COPE $750, WFP $1, all May–June 2026. (2) **Closures yard sign:** every closure on it has an operator-stated cause unrelated
+to the federal law (lease dispute, retirement, five-year losses, low census, reimbursement rates, patient demand); Absolut's
+closure plan was approved before the law was signed. MISLEADING as a causal claim; the site's frame ("pure fiction" vs. the
+at-risk list) is the defensible one. (3) **Fire Grants and Safety Act "credit":** his post not seen; his record is a Yea on a
+393–13 suspension vote. Nothing to build until the post is located.
