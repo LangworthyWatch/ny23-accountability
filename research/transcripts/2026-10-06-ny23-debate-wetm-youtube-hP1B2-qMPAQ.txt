@@ -1,0 +1,884 @@
+SOURCE: https://www.youtube.com/watch?v=hP1B2-qMPAQ
+TITLE: "New York's 23rd Congressional District Debate 2026" (WETM 18 News, uploaded 2026-10-07; debate held Tuesday, Oct. 6, 2026, WETM studio, Elmira)
+PARTICIPANTS per WETM description: Rep. Nick Langworthy (R, incumbent) and Dr. Aaron Gies (D). Moderators not identified in metadata.
+DURATION: 54 min 17 s (3,257 s)
+METHOD: yt-dlp audio -> ffmpeg 16 kHz mono -> openai-whisper small.en, English, 2026-10-07. Machine transcript, NO speaker labels; identify speakers by context and against the video before quoting. YouTube auto-captions were rate-limited (HTTP 429) at retrieval time. Timestamped SRT alongside.
+
+The race for New York's 23rd congressional district.
+The Iran war.
+Fuel prices.
+Immigration.
+The issues voters say matter most in this election.
+Tonight, those issues taking center stage
+as incumbent Nick Langworthy faces off
+against challenger Dr. Aaron Geese
+on the 18 news debate stage.
+Live from your local election headquarters.
+This is debate night in New York.
+Good evening, everyone.
+Thank you for joining us for tonight's debate
+between the two candidates running for the New York House
+District 23 race in New York,
+running for the U.S. House of Representatives.
+My name is Jim Turpin.
+I'm the news director at WETM TV 18 News,
+and I'll be your moderator tonight.
+The candidates were provided the rules for the debates
+several weeks ago.
+No prepared notes are allowed on the candidates' podiums
+and they do not have them.
+I will ask questions of the candidates in alternate order.
+The candidates will have one minute to reply,
+and 30 seconds to rebut if they want to.
+Each candidate will then have 25 seconds
+if they choose to rebut the rebuttal.
+So anyway, we'll see how that goes.
+They will hear the questions for the first time
+as I ask of them.
+They have not been provided the questions in advance.
+If they go a little long on their answers,
+they will hear this sound,
+and then they'll know to stop.
+We hope we don't have to use that tonight.
+The debate is live on WETM TV, WETM TV+,
+also on mytwintears.com, and WIVB+, in Buffalo.
+And I want to thank everybody for watching on that platform.
+My first question tonight goes to you, Congressman Langworthy.
+Old school questions tonight on paper.
+What do you consider the most important issue
+in this election for the people of New York District 23?
+I think the most important issue on everybody's mind
+is the question of the affordability.
+And we have had very stubborn inflation these last five years.
+Larry Summers, a liberal economics professor
+that was an adviser to the Clinton administration,
+said that if the government spends trillions of dollars
+that it wasn't budgeted for,
+we're going to have inflation that's going to last for some time.
+We're in that period.
+Government doesn't set prices.
+Unfortunately, we have to grow our way out of this,
+and that's why I'm very proud that we have provided the tax relief
+that we have to put more money in people's pockets as they face this.
+I mean, and we've cut taxes on tips over time.
+We've given no tax on Social Security for our middle-class seniors.
+Having that money available to them is critically important.
+Dr. Geese, same question to you.
+What do you consider the most important issue
+for voters in New York District 23?
+Well, Jim, there's no question that it is affordability.
+But the affordability of what?
+Folks are concerned about their utility bills.
+They're concerned about the prices for everyday goods, for groceries.
+They're concerned about the cost of gas.
+And most of all, what I hear on the campaign trail,
+and I'm in the midst of a 100-town hall tour,
+just did our 60th last night,
+is folks are concerned about their health care.
+They don't know how they're going to pay for their insurance premiums,
+how they're going to afford to keep their relative in a nursing home,
+how they're going to afford to, if they get sick.
+So to get back to everyday prices,
+gas prices are high in the United States right now.
+They're about $4.50 in the district today,
+and diesel is even higher.
+Diesel is at record highs.
+And we should be clear about why that is.
+It's because of President Trump's war in Iran,
+when President Trump ran on no more wars.
+Inflation.
+Inflation is also due to the big, ugly bill,
+which adds $4.5 trillion to our national debt
+for a tax cut for wealthy corporations.
+Okay, Dr. Geese, the next question goes to you,
+and you're kind of talking about it right now.
+The war against Iran continues.
+In your opinion, is it time for the U.S. to end the war,
+or should it continue to a conclusion acceptable
+to President Trump and his cabinet?
+Well, Jim, first of all, it's not clear what that acceptable end would be.
+The administration continues to change the answer
+when they're asked what their strategic objectives are.
+But the American people can't wait.
+This war is making our lives unlivable.
+When the price of diesel goes above $6 a gallon,
+everything that we buy, everything that comes on a truck costs more.
+Getting to work costs more, and so wages mean less.
+Meanwhile, the Strait of Hormuz remains closed,
+and there is no plan except, apparently, to keep on bombing.
+Yes, in my view, on day one, the next Congress
+should pass a binding war powers resolution
+that would compel the president to wind up the conflict
+in a dignified way within 40 days,
+and then we need to work with our partners
+to achieve our strategic objectives through negotiation with Iran.
+Congressman Langworthy, same question.
+Should the war end now, or should it continue
+until it reaches the conclusion that the president would like?
+I would like the war in Iran to end at the earliest possible date.
+But you don't tie the commander in chief's hands.
+We have one commander in chief at a time.
+I didn't make a decision to go to war,
+but we find ourselves in that position now.
+It has certainly driven up the cost of gasoline and diesel fuel,
+but at the same time, the objective to prevent
+the Islamic regime in Iran from having a nuclear weapon
+is extraordinarily important,
+because they would use it.
+This is the largest state sponsor of terror the world has ever known.
+They have the blood of countless nations under their fingernails,
+including American citizens.
+They have said that they wanted to negotiate an end.
+We had diplomats on planes on our way there
+only for them to move the goal post and change.
+This regime has notoriously lied.
+We have to get to a diplomatic solution.
+I don't support ground troops at this time going to Iran.
+I don't believe that that is the will of the country.
+But we cannot tie the hands of the commander in chief.
+I'd like to respond to that briefly, if I may.
+Is this a rebuttal question?
+It can be.
+It would not be the Congress tying the hands of the president.
+The Constitution ties the hands of the American president,
+because it clearly guarantees to Congress the right
+to declare war and to negotiate peace,
+and it is high time that the Congress reclaimed that right
+on behalf of the American people,
+because the objectives in this conflict are not clear,
+and this war is costing American lives, American treasure.
+It is causing the lives of people in other nations affecting their security,
+and it must end with a negotiated settlement
+if it doesn't end with ground troops.
+And President Langworthy is correct that we should not invade on the ground.
+Congressman, would you like to respond?
+It's rather naive to suggest that 435 members of Congress
+are going to negotiate with the Iranian regime on an end to the war.
+And if you tell a regime like this that has sponsored terror
+through its proxies across the globe,
+that you're going to be out in 45 days,
+you're going to have the same kind of impact
+that we had with the botched withdrawal from Afghanistan.
+My next question comes from the Steuben and Shimon counties
+chapter of the League of Women Voters.
+Congressman, this one goes to you.
+Are elections in the United States safe and fair?
+I fight for voter ID, and I voted for it many times.
+Unfortunately, we can't find bipartisan collaboration on that,
+despite the fact that 80 percent of the public wants and demands it.
+We have 10 million people come under over our borders illegally,
+many of which we have no idea why they're here.
+Showing your identification is something very simple.
+You have to use it for many transactions across American life.
+This is a routine thing that we do.
+Yet there's such an intense allergy on the other side
+to ask for identification in our elections.
+That's the perfect way to get any guesswork out of our elections,
+is to have the voter ID standard be across all 50 states.
+Same question to you, Dr. Giese, from the Steuben and Shimon counties chapter
+of the League of Women Voters.
+Are elections in the United States safe and fair?
+I believe they are, and I would love to keep them that way.
+I think one of the best ways to do that is to keep our federal government
+from meddling in elections, which again,
+per the Constitution, are reserved to the states.
+Now, when it comes to voter ID, I don't support the Save America Act,
+but I do support voter ID.
+I don't know if Congressman Langworthy has ever worked as a poll worker,
+but I have, and I know that when you sign in at the polls,
+and when you do this in a few weeks when it's time to vote,
+there's a bipartisan team, and they're there to verify your identity.
+When you register to vote at the BOE or the DMV or wherever you do that,
+you have to show ID, and that should be the standard.
+But the Save America Act would mean that, say,
+folks on large reservations who only have their tribal ID,
+that ID would not be valid for them to vote.
+Folks who don't happen to have a passport or a marriage certificate
+that shows their married name, they wouldn't be able to vote.
+And voting is not like being in a private club.
+It is a right, guaranteed to us by the Constitution.
+We have to make it possible for every citizen above the age of 18 to vote.
+And you should simply be who you say that you are
+and show an identification to prove that that's who exactly
+is signing in at that polling place.
+This is not a tall order to ask anyone to produce it.
+I mean, you need to use ID all the time.
+Not every state has the same standards of bipartisan poll workers.
+So the state of Georgia, up until their reforms,
+had absolutely no bipartisanship in the past.
+You know, these things need to be standard and uniform.
+Voter identification is a common-sense solution.
+All right, Dr. Geese, next question goes to you.
+This question also comes from the League of Women Voters.
+Millions of Americans are suffering, rather, financially
+due to the high price of gas, groceries, and other goods needed for daily life.
+What policies would you support that would lower these prices?
+Certainly.
+So there are a number of important things that we could do, and I think do quickly.
+The first we've already talked about, and that is,
+we need to wind up the conflict with Iran,
+which we both agree is driving up the cost of gas and diesel,
+and that is driving up the cost of everything,
+because pretty much everything comes to us on a truck or a boat.
+The second thing that we need to do is reverse President Trump's tariffs.
+Consumers have already paid an average of $1,700 last year because of the tariffs.
+And in this district, the tariffs particularly hurt our relationship with Canada,
+which is a really important economic and personal relationship
+that we have here in western New York and the southern tier.
+Border crossings were down last year by 25 percent,
+and I don't think they'll be up this year based on this new phase of the trade war.
+So that will help to bring prices down.
+It will help to give a boost to small business,
+which is disproportionately hurt by these arbitrary, job-killing tariffs.
+Congressman Langworthy, same question to you.
+Millions of Americans are suffering financially
+due to the high price of gas, groceries, and other goods needed for everyday life.
+What policies would you support to try to bring these down?
+Well, one of the first things we did is we lowered taxes across the board
+so that our small businesses can grow and thrive and employ people
+as they do, you know, so many small businesses I visit all over this district.
+My opponent attacks the tariffs.
+The tariff is the most pro-worker tool that can be in the arsenal.
+We have sold out our jobs across western New York and the southern tier
+through free trade agreements over the last 30 years,
+and we could list factory after factory, business after business that's left here
+and taking the jobs with them and then taking the families
+as they've had to spread all over to find opportunity elsewhere.
+We have to, in order to bring our gas prices down,
+we need more refining capability in this country.
+We are a net exporter of oil and fossil fuels.
+We need to build more oil refineries here in the United States of America.
+We haven't done it in 50 years,
+whether it was the war in the Ukraine breaking out or war in the Middle East.
+We shouldn't be dependent on global affairs on all of our gas and fuel prices.
+If I may?
+Sure.
+The tax cuts in the big ugly bill overwhelmingly go to the wealthiest Americans
+and the corporations that they control.
+They are deficit tax cuts.
+That is, they are on our nation's credit card.
+They weaken workers, they weaken small business,
+and they use the government to subsidize the richest people
+in the history of the planet.
+We are not set to grow ourselves out of this.
+We are hurting small business.
+We need to reverse the tariffs.
+We need to reduce taxes on working people
+and stop using the government to subsidize
+the richest people who have ever existed.
+We did reduce taxes on working people.
+We doubled the child tax credit.
+We gave no tax on Social Security for our seniors,
+no tax on tips, no tax on overtime.
+That isn't millionaires and billionaires.
+That's regular people right here in our community
+that have their tax refund checks went up 11% year over year.
+That's a matter of fact.
+It's indisputable.
+There's more money in their pocket this year,
+and it's not something that my opponent can dispute.
+All right.
+Congressman Langworthy, the next question starts with you.
+Government projections show that Social Security Fund
+could be insolvent by 2032 if something isn't done.
+What do you think, if anything, should be done
+to ensure that future retirees can still draw Social Security benefits?
+I think it's time for us to have a Social Security commission
+on a bipartisan basis.
+This has been done in the past.
+I mean, it's much like when you decide which bases are going
+as you move the military bases around the country
+and reposition them.
+You cannot do this on a partisan basis.
+It's far too serious.
+Social Security is a contract with the American people.
+You paid in all your life into this,
+and so many people's livelihoods are dependent on it.
+We have to have a modernization of Social Security
+done in a bipartisan fashion, take the politics out of it,
+and let's have a bright and vibrant future
+while meeting that promise that has been made
+to American workers their whole lives.
+Dr. Gee, same question.
+What should be done to keep Social Security solvent?
+Well, it's difficult for me to tell
+what Congressman Langworthy's preferred solution would be
+other than that he wants it to be bipartisan,
+which is certainly correct.
+We have to do this in a bipartisan way.
+But let me say this first.
+We should never privatize Social Security,
+which would turn it into a 401K and make it easier
+for the government to steal from
+or make it subject to market pressures.
+So if that's the solution, count me out.
+What we should do is eliminate the cap on Social Security earnings
+so that if you earn more than $185,000 a year,
+those earnings in excess of $185,000 a year
+would also be subject to the Social Security tax.
+This would not compel rich Americans to pay more proportionally
+than working class and middle class Americans
+just the same thing.
+That is their fair share.
+If we do that, then we can keep Social Security solvent
+and meet our commitment to our seniors,
+which I agree we must meet.
+All right, we're going to take a short break,
+and we'll be back with the debate on WETM+, WETM.
+Thank you for watching.
+Okay, we're back with our U.S. House District 23
+New York congressional debate.
+Dr. Yeast, next question goes to you.
+Former President Bill Clinton won an election
+by campaigning with the slogan,
+it's the economy, stupid.
+Do you think the upcoming midterm election
+is mostly about the economy?
+I do. I agree that it's mostly about the economy.
+I think that the stock market keeps going up,
+and when I look at it, it makes me nervous
+because I live here, and I see businesses closing,
+and I see people out of work,
+and I see that homelessness is up in the southern tier
+by 32% almost last year,
+according to the report by the Comptroller.
+So folks out here, they're not doing well.
+They're not better off than they were
+a couple of years ago, and so we have to ask ourselves why,
+and I believe one reason is that big ugly bill,
+and another reason is the war,
+and a third reason is the tariffs,
+and I'm particularly concerned about what that big ugly bill
+is about to do to our healthcare in early 2027
+when the cuts to Medicare and Medicaid go into effect.
+Already we're seeing nursing homes close.
+We've lost five in the last couple of years.
+We've lost 28 pharmacies.
+One study showed that eight out of our 12 hospitals in the district
+are in danger of closure if those cuts go into effect.
+So yes, it's about the economy.
+Representative Langworthy, same question to you.
+Is it about the economy in this election?
+Every election in New York's 23rd District
+and throughout Western New York, or upstate New York for that matter,
+is about the economy,
+and it's the economy that's been brought to us
+by New York State government run amok
+and Kathy Hochul's policies.
+Your electric bill has doubled
+as Kathy Hochul's public service commission
+has raised rates 48 times.
+They have found more ways to tax, regulate,
+and nickel and dime the people of this region,
+chasing jobs and opportunity
+and sue many of our citizens to other states.
+This is a sad narrative that's got to stop.
+We can no longer have the business climate that we have
+and have a sustainable future.
+You know, the things that my opponent mentions
+about pharmacies and nursing homes close,
+they're not closing in other states,
+so I don't believe that the aim should be looking
+at the federal government
+because they're surviving and thriving elsewhere.
+New York has had a long period of economic malaise
+and we need relief from Kathy Hochul's reign.
+I have to say, with regard to pharmacies,
+that's not accurate, Congressman.
+A lot of those closures were due to the bankruptcy of Rite Aid,
+and the Rite Aid bankruptcy was national.
+There is disruption in the healthcare markets nationwide.
+Things are not going well,
+and they're about to get dramatically worse.
+Arnett Ogden, the hospital here in Elmira,
+is the largest employer in the city, 2,200 people,
+and it is the most threatened hospital by the big, ugly bill.
+It's amazing.
+I visited Arnett many times.
+I talked to their executives on a very regular basis.
+I'm currently working on getting federal funds
+for projects within Arnett,
+and they're going to benefit directly
+from the Rural Transformation Fund,
+a $50 billion once of a first time of its kind,
+a fund just aimed at rural healthcare
+all the way across our district,
+and the plans are already in place
+to bring those funding pots here to our district
+in rural hospitals all over America.
+The trail of tears, economically,
+that we have in this region is because Kathy Hochul
+and the New York State government is out of touch.
+You know, I agree that our utility bills are too high,
+and I do blame Albany for that, in part, at least.
+But let me say this.
+The Rural Healthcare Transformation Fund,
+which is fine, our share of it is $74 million.
+The big, ugly bill cuts $63 billion
+out of New York State's Medicare and Medicaid budget.
+It's almost 1,000 times more.
+So for Congressman Langworthy to compare the two,
+they're just not comparable.
+Do I get another rebuttal?
+Absolutely.
+I mean, we will spend more at the end of the decade on Medicaid,
+$45 billion more a year than we spend today.
+Medicaid will continue to grow and go up.
+The trajectory of the program was unsustainable.
+What you have is Medicaid that's been abused
+by states in particular,
+and we have put a common sense work requirement on here
+because that program must be there for the most vulnerable,
+the disabled, the impoverished, and our elderly people.
+It's not a lifestyle choice.
+I'll never apologize for supporting work requirements.
+All right, Representative Langworthy, this is yours first.
+A lot of American goods have gone up in price,
+likely because of diesel fuel prices.
+Diesel powers railroads.
+It powers semi-trucks.
+It powers a lot of the vehicles that deliver goods to our stores.
+Should gasoline, diesel fuel, and other products be regulated by law?
+Well, I think, you know, I don't believe in price controls,
+but I do think that we need to harness more of our American energy
+and refine it here in the United States of America.
+I have long had a problem with refiners,
+is we have a disparity in price between the Southern Tier
+and the Buffalo metropolitan area in price,
+even though they're closer to the Pennsylvania refineries.
+We can solve that problem if we do create a larger refining network
+here in the country as we become a greater global exporter
+of so many of our energy sources.
+But the fact that we haven't created a new refinery in 50 years,
+that is something that has got to change.
+We have to have a broader network of those refineries
+in order to bring that product to market.
+Dr. Beas?
+Increasing global exports of liquefied natural gas
+would not bring down prices in Western New York and the Southern Tier.
+They would make a scarce commodity more scarce.
+And the more dependent we are on that commodity,
+the higher the price is going to be.
+This is why I oppose Nick Langworthy's signature piece of legislation,
+the Energy Choice Act, because by banning the bans, as he said,
+it would force consumers to pay natural gas prices forever,
+whatever the gas company wants to charge for them.
+I am for giving people more control over where they get their energy
+and how much they pay for it.
+And I believe to do that we need to diversify the sources
+from which we get our energy and not give more power to big refiners
+that are subject to shocks like the current shock
+and the Strait of Hormuz and the Strait of Bab al-Mandeb and in Ukraine.
+Well, there's a clear contrast between my opponent and I.
+I mean, you heard it from him.
+He opposes the Energy Choice Act, which would stop Kathy Hochul
+from banning us from bringing natural gas into our homes.
+He believes that you should be mandated to be in an all-electric home.
+I don't.
+I think that it's a matter of life and death
+for us to have redundancy in the way we heat our homes
+in this very difficult climate.
+I also believe that the state's climate law is too aggressive,
+and I will never support things like bans on wood-burning stoves
+or propane or no more hookups for natural gas.
+But that should be dealt with at the state level.
+We do not need a federal ban that would prohibit states
+from doing anything to diversify our energy mix.
+That is not the way to make energy affordable and accessible for everyone,
+which is what we need to do desperately right now
+when people's electric bills are going up through the roof.
+Okay, I want to ask a follow-up question here.
+If the state, you say keep it at the state level,
+but if the state mandates only one form of power,
+is that a good or a bad thing?
+That would be a bad thing.
+We need a diversified energy mix.
+Yes?
+I think that my opponent's mistaken about the intention of New York State's laws.
+New York State looks to take us off of natural gas and propane.
+And yes, there are proposals in New York to ban wood heat.
+These are lifeblood necessities for people in western New York
+in the southern tier.
+When I went to Congress, I introduced this bill out of necessity
+because I had to find a federal solution around a really bad piece of state policy
+drawn by New York City residents that don't understand our lifestyle.
+I mean, Winter Storm Elliott, we lost 69 lives in western New York
+in that horrible blizzard.
+It was the most desperate situation I have personally lived through.
+911 collapsed.
+People froze to death in their homes.
+Those were the people that had baseboard electric heat only.
+The winds were so great that the power lines weren't able to be restored for days.
+I mean, that should never happen in a place like New York.
+Unfortunately, these wrongheaded policies that have come out of the New York State Legislature,
+which has gone to the extreme left in their desire to be the most green,
+are putting New Yorkers' lives in danger.
+Doctor, I'm going to come to you with the next question because it's right along the same track here.
+Are you concerned at all about the American electric grid?
+Just keep it hyper-local with New York, the New York electric grid,
+its ability to handle the load that's currently on it,
+and the fact that grid owners around the country, frankly,
+have not done much to upgrade their security or their ability to carry more electricity to people.
+Does that concern you?
+Yes, I am concerned about that, Jim, and there are several reasons why.
+One reason is because we have utility companies that are owned by foreign countries,
+not owned by New York State, and not owned by private companies that are owned right here inside the state.
+And so they take their profits overseas, and they make their investments, well,
+based on what they can negotiate with the utility commission.
+And I don't think we always get the best deal, and I'm frustrated, frankly, with Albany about that.
+But I'll tell you something else that concerns me, and that is data centers.
+AI data centers, the number in the pipeline, are poised to double the power demand
+of every man, woman, and child in business that is currently here in New York State.
+Our electric grid absolutely cannot support that.
+And if you don't think that it's going to affect your electricity rates, boy, you've got another thing coming.
+I support the governor's moratorium.
+And by the way, Nick Langworthy has said this is a local issue, which I think makes no sense.
+Bruce Blakeman has been very positive about data centers, and so has Donald Trump.
+Same question to you about the security of electric grids and their ability to handle the load.
+I'm deeply concerned about the grid.
+And, you know, Governor Hochul has been raising rates in a backdoor fashion.
+She has this faceless commission that raises rates.
+It's not, you know, the governor or the legislature.
+But they've done it 48 times, and they've done it so that they wouldn't have their fingerprints on it.
+And they've done it in the name of full electrification, which I believe, as I stated in my previous question,
+is dangerous for New Yorkers that live in this climate.
+You know, my opponent talks about data centers, and I did something about that, you know, not just talk.
+The Rape Payer Protection Act addresses this directly.
+And data centers are coming to the United States.
+They need to generate their own power.
+And in doing so, they can actually add power back onto the grid rather than take it off.
+That is a mandate that I think has to be put on these projects so that local people don't have
+sky-high energy bills because a data center has been cited in their area.
+Let's be clear.
+Congressman Langworthy wants data centers to generate their own power.
+And that kind of power demand, 500 megawatts for the stream data center in Genesee County,
+that's a quarter of the Niagara Power Station.
+How do you generate power like that and do it 30, 40, 70 times, depending on how many data centers actually get built?
+I'll tell you what you do.
+You build new nuclear and you frack.
+I am not for either of those options.
+We need to generate our own power in New York State.
+We need a diverse energy mix, and we need to put our residents first, not data centers.
+I don't quite understand what a diverse energy mix is if you're against a new nuclear power plant in New York,
+and you're against natural gas.
+I don't really – I'm not gathering where you think this energy comes from other than the wall socket.
+I mean, we have to create new energy.
+And without those two sources, it's not a possibility.
+The pinwheels and the solar farms aren't cutting it.
+I mean, it's going to be no more than 20 percent of our state's needs at any given time.
+And that is a matter of fact.
+You could talk to any energy expert about that.
+That's misinformation.
+It's not.
+That's misinformation, yes.
+There are countries that are generating significantly in excess of 20 percent from renewables, from just solar and wind.
+But we should open the aperture on renewables a little bit.
+The Great Lakes have one of the largest potentials in the world for tidal energy, energy that does not hurt fish or spoil your view.
+We have a great potential here in this district for enhanced geothermal energy.
+That is U-shaped holes dug in the ground that give you heat forever.
+Now, you talk about the blizzard.
+We need a diversified way to heat our homes that doesn't cost us a lot of money.
+I mean, I think the contrast between us couldn't be more clear on this issue.
+If you like big industrial solar farms coming into our agricultural territory, he's your guy.
+If you want safeguards in place against these green new energy scams coming in and gobbling up our agricultural territory, then I'm your guy.
+That's a clear difference.
+These things aren't profitable without the tax subsidies, and they haven't worked anywhere they've been trying.
+All right, folks, we're going to have to take a break here.
+So we'll be back to resume this debate, and we'll move into another area of conversation when we come back.
+Welcome back to our debate.
+We're going to get right back to the questions.
+Dr. Geese, you're first on this one.
+For years, immigration has been an issue where U.S. voters seem to be divided.
+We recently had a poll done for 18 News and for our sister Nexstar stations that put immigration at a top five issue in this year's campaign.
+Would you change our country's current approach to immigration enforcement, or would you stay the course?
+I absolutely would, Jim.
+I would change it dramatically.
+I think that ICE is in some cases terrorizing our communities, and it certainly made the border with Canada
+a more dangerous place to be.
+But we should take a step back, and instead of talking about immigration enforcement, let's talk about our immigration loss,
+because I think Americans agree that we need comprehensive immigration reform.
+I talk to conservatives, and they tell me, I just want people to come here the right way.
+Well, currently, you can't.
+You can't come here the right way unless you are a doctor on a J-1 visa and you have money for the extra $100,000 fee,
+or you're a white South African.
+We're not letting any religious persecution refugees into the country right now for the first time in our history.
+And the Republican Party that's arguably controlled all three branches of the federal government now for two years,
+they haven't even tried to propose comprehensive immigration reform.
+We knew what to do about this 40 years ago.
+We have to get together the political will to fix our broken immigration system and have a clear path for folks to come and for folks that are already here.
+We had an invasion of our southern border for four years, and it was on purpose.
+Our federal government opened the border and let 10 million plus, maybe more, across that border.
+We had people come that were on the terrorist watch list.
+We had people wandering around the interior of the country.
+We don't know where they are or what they've done.
+The deportation process that's going on right now should always be under review.
+Any police tactic should always be subject to review.
+I believe in body cameras.
+I think those are things that keep everybody honest.
+And most law enforcement officers you talk to relish them after the fact because nine times out of 10, it proves that they did the right thing despite things.
+But Barack Obama actually deported more people than President Trump has.
+But you have a dangerous criminal element just down the road in Endicott, New York.
+We had a Peruvian serial killer.
+Someone so heinous they killed 23 people in their own country.
+They had their names and tattoos in the faces tattooed on this body.
+That person was apprehended by ICE, a menace to society that absolutely could have killed again.
+If I may, we should always have strong borders and strong immigration enforcement.
+However, that doesn't require that we terrorize our neighbors.
+Batavia, ICE's detention facility, is overcrowded.
+They're expanding it right now, but it's still going to be almost double the capacity that it's supposed to have.
+And that impinges on people's human dignity and their human rights.
+They have deported folks in this district who have been here for 20 years, who raised families here,
+who were valued members of their Baptist church, and who were here, in fact, because they processed it for democracy in China.
+I mean, due to Kathy Hochul's sanctuary state policies, we have become a destination for illegal immigration.
+In New York, they give you housing, they give you food, they give you a cell phone.
+They take better care of you than they would take care of people that lost their job and that are tax paying New Yorkers.
+Illegal immigration ran amok in the last four years, and it has to come to a stop in all sanctuary state and city policies.
+It must be abolished.
+Okay, I'm going to keep going down the New York route here.
+Congressman Langworthy, you're next.
+Should state or local government be able to overrule a federal mandate?
+Specifically, I'm referring to Governor Hochul and State Attorney General James ordering state law enforcement to refuse to work with ICE.
+No, I think it's extraordinarily dangerous what they've done.
+I mean, you look at the governor's green light law.
+She wanted to give driver's licenses to illegal immigrants.
+What did they do?
+They banned our local law enforcement from accessing New York state DMV database.
+That very case I just talked to in the last question at Endicott, it took the ICE officials two extra months to track down that heinous killer,
+because they couldn't access that database.
+Yet we freely share that same database with the country of Canada at our borders.
+That is abhorrent.
+We have one United States of America.
+We are all states within it, and they should not contradict the laws of the federal government.
+Okay, Dr. Geese, President Trump has said he's not in favor of government regulation of artificial intelligence.
+In your opinion, is unencumbered growth of AI a danger to the American people, and if so, should it be regulated, and who should be in charge of regulating it?
+Yes, it absolutely should be regulated.
+Like any new technology, any new powerful technology, AI has a path that can go towards the good, or it could do great harm.
+And we have a responsibility to make sure that it does good.
+If we just pursue profit, if we just pursue the potential of the technology, we're headed towards a world where none of us has any privacy, where none of us can control our likeness, where we're surveilled all the time, and where AI defense technologies have the potential for doing great damage.
+And so I think it's very important that AI be regulated for the common good with human values forward.
+And I think Congress has the primary responsibility to do that regulating, you know, in dialogue with the rest of the world, which also has to deal with the emergence of AI, particularly with China.
+Now, when we had – let me say this – Mike Johnson sent Congress home right after we found out that anthropic had dealt with terrifying AI breakouts instead of taking up the issue.
+It was a dereliction of duty.
+AI is something – this is an area where I disagree with President Trump.
+We do not need just a presidential dictate on AI.
+We shouldn't, you know, have the tech billionaires decide their regulation and stifle any innovation that comes from any would-be competitors.
+Congress has to do its job and do exactly that, and it actually is in the process of doing its job.
+The last time that a potentially dangerous technology like this was invented, it was the nuclear bomb.
+And after that, we had a very serious 30, 40-year conversation between avowed enemies, the U.S. and the U.S.S.R., that led to the I.C.A.
+It led to arms reduction.
+It led to peaceful nuclear power and nonproliferation.
+That conversation is not happening internationally right now between the U.S. and China and our partners in the U.N., and I blame President Trump for that.
+So I agree with Congressman Langworthy.
+Congress has the responsibility here.
+Congressman Langworthy, New York pays nearly $32,000 in taxes for each public school student.
+That's the highest in the nation.
+The national average is a little under $18,000.
+Despite that, ratings on America's Dashboard.com show that New York ranks 30th nationally, 24th in graduation rate, 27th in 8th grade math scores.
+Is there anything that members of Congress can do to help this back up?
+I mean, our rate per pupil is unacceptable for the outcomes, especially in our inner-city schools.
+I mean, we have pushed an opportunity for New York State to opt into a school choice voucher system that would allow people to have a choice if you have failing schools and allow them to have tax credits for that.
+I think that it, especially for our inner-city kids, they deserve far much better.
+But the State Education Department over-regulates the system, and, you know, additional federal regulations, I don't believe, will help the outcomes.
+Dr. Giese?
+So I haven't had a chance to say it here yet, but I'm an educator.
+I'm a professor at St. Bonaventure University.
+That's my career.
+And I came from a working-class family.
+Neither my mom nor my dad went to college.
+But, you know, they worked hard, and they did well.
+We were the kind of family that, you know, they didn't fly for vacations, but we weren't hungry either.
+And they're very proud of my education.
+And excellence was really important to them, as it is to me.
+I do not believe that we should be trying to dismantle the Department of Education, as Linda McMahon, President Trump's Secretary of Education, is doing.
+I think that we do have a responsibility to make sure that we have common standards nationally, although we should never determine curriculum.
+But, you know, another thing that I'd like to point out is that the cuts to Medicaid and the big, ugly bill represent a horrible disinvestment in our children's education.
+Because those funds fund special education, individual education plans, and school lunches.
+And the biggest cause of learning loss in the American school child's day is hunger.
+Dr. Giese, I want to get you first on this one.
+New York is getting rid of Regents exams as graduation requirements starting next school year.
+Is that a good or a bad idea?
+Well, I believe that the Teachers Union supports the idea.
+I have been endorsed by NYCID, and I'm very proud to be endorsed by our teachers.
+I have not had a chance to review the standards with which they will be replacing the Regents exam.
+The Regents exam is not very old, right?
+It's something that we've been doing for a couple of decades.
+But testing standards can change as research standards change.
+We just need to make sure that we are evaluating our students in a way that encourages them to achieve excellence and obtain the skills that they need to compete in tomorrow's workplace.
+Congressman?
+I have no jurisdiction over the matter of the Regents exam, but I think that it pretty much says to the world that we're not going to strive for excellence anymore.
+And I think we should always be trying to challenge our students to be at their highest possible standard.
+And that Regents diploma, that used to mean something.
+I remember getting my Regents diploma growing up here, and it was a matter of pride for my parents.
+Also, you know, I come from a working class background. My mother was a factory worker.
+My father run a small business for, you know, 48 years now.
+And we should always be pushing for the highest standards we possibly can for our kids.
+And just eliminating this in a blanket fashion doesn't make sense to me.
+All right, we've got to take a commercial break, and we'll be back in just a couple of minutes to wrap up the debate.
+This is our last commercial break. Hope you'll stick around.
+It goes very fast.
+Live from your local election headquarters, this is debate night in New York.
+Welcome back to our congressional debate. We're going to get right to the questions.
+Congressman Langworthy, this is for you.
+Should the U.S. minimum wage get raised, and if you think so, how much?
+I think that the minimum wage question has been answered by the states.
+I mean, the state of New York has increased its minimum wage greatly,
+and I think it is better suited to find the cost of living in a particular area.
+I mean, New York State, you know, obviously went very far when we were one of the first states to go to a $15 minimum wage.
+I've heard a lot from businesses that arbitrary wage hikes by the state of New York have been drastically impactful on business.
+And if you, you know, the federal minimum wage, I think, is very antiquated,
+because if you tried to hire someone at that number, you're not going to find anyone to answer the call.
+So at this point, I think the minimum wage question is best left to the states.
+Dr. Giese?
+I support the Raise the Wage Act, which would raise the federal minimum wage to $15 immediately and then move towards $18.
+There are a couple of reasons for that.
+The one is states that border us that have the federal minimum wage,
+they really do eat our lunch economically when folks can jump over the border and earn a New York wage that's much more close, close to a living wage.
+But another reason is because the federal minimum wage is not something that anyone can live on, and that hasn't been true for decades now.
+I earned the minimum wage when it was first moved to $7.25 an hour when I was just out of high school.
+It's ridiculous that we haven't moved it at all that time.
+Speaking of which, no tax on tips, no tax on overtime.
+These are good things, and we should keep them.
+But ultimately, we need to be pushing for folks to earn a living wage so that they don't have to rely on tips and overtime just to get by.
+Dr. Giese, the next question is for you.
+The U.S. will pay around $1 trillion interest on our national debt this year.
+Despite that, government spending keeps growing.
+How concerned should people be about the national debt and why?
+Yes.
+Someone pointed out to me in an email today that our national debt will grow by a billion dollars during the time this debate is going on.
+It's deeply concerning, deeply unsettling, I would even say, that our national debt has gotten so high and now one out of every $3 we send to the IRS goes just to pay the interest on our national credit card.
+We have to tame the debt, and we should be clear.
+President Trump owns over half of that debt through bills that he passed with Congress with the help, in the second case, of Congressman Langworthy.
+These unfunded, irresponsible tax cuts to billionaires and corporations have led to this debt, as have forever wars, including the war in Iran.
+Now, to fix the problem, job one is to get the rich to pay their fair share of taxes.
+We have a very regressive tax code that taxes working people, taxes the middle class, and allows the ultra-wealthy, in many cases, to pay a lower effective tax rate, and that's not right.
+I'm deeply concerned about our debt.
+I have taken steps to address our deficit.
+I mean, we've put rescissions packages forward.
+The federal government is not in the business of a lot of things that it was before President Trump took office in my time in Congress.
+You know, my opponent runs on a platform of one-size-fits-all government healthcare, which comes with a $34 trillion bill.
+I mean, that's not the way you grow the economy or shrink the debt.
+That's piling on new government programs, new government debts, and forever entitlements.
+75% of all spending is mandatory in this country, and it is not sustainable.
+Universal single-payer healthcare is the way you grow the economy and shrink the debt.
+There's a study this summer that showed that if we got it right, the government could save a trillion dollars a year, a trillion dollars a year.
+Now, that's not $40 trillion, but it's a start.
+And think about the weight that that takes off of small business, takes off of farmers not to have to deal with the benefits costs of covering employees' health insurance through W-2 taxes.
+This relieves the pressure from the self-employed, stops people from having to work jobs they hate just to keep the health insurance.
+I mean, single-payer health insurance, it eliminates choice, it eliminates opportunities, it eliminates innovation, and if you enjoy your experience at the DMV, you would love it.
+It is not something that American people will believe in rationed care.
+I mean, the idea that a government bureaucrat is going to make a decision whether or not your relative is worthy of the state-of-the-art treatment to fight their cancer or the knee replacement that they might need.
+I mean, these are the sorts of trap doors that come with one-size-fits-all government healthcare, and that's why you see so many Canadian license plates still in our MRI centers.
+When we choose not to provide healthcare for folks with universal single-payer healthcare, we are choosing to ration healthcare based on who can pay for it.
+And I just do not believe that Americans believe we should decide who lives or dies of a preventable disease based on whether they are poor or whether they live in a rural area that can't sustain a full-service hospital.
+I don't think that's the best we can do in the richest country in the world, and I don't think Americans are satisfied with that, and they shouldn't be.
+Congressman Langworthy, New York's comptroller said last week that the state's going to be in the red by more than $3 billion this year.
+And the reason I ask this question, he blames the federal government for not sending more tax dollars to the state.
+He also reports the state could be more than $30 billion in the red in three years, which could mean higher taxes or program cuts.
+Do you agree with the comptroller that it's about federal tax dollars' income?
+I don't. I think New York has a priorities problem.
+I mean, we have spent $8 billion to care for illegal immigrants that we basically asked to come to the state under Kathy Hochul's watch.
+I mean, that is not a respectful program.
+You have the governor proposing billions of dollars for free health care for sex workers.
+I mean, these are the sorts of things that aren't on the ballot this year but are, as you have to make your decision as to who you want to lead this state.
+The government of New York has a priorities problem and not a revenue problem.
+$277 billion was this year's budget.
+When Andrew Cuomo left office, it was $185 billion.
+I mean, we are spending extraordinarily more sums of money.
+They just have to dial in as to absolutely what our needs are in this state and understand, you know, more taxes and more fees are chasing more of the people that pay those taxes away.
+Dr. Giese?
+Well, let's talk about the kinds of things that we've defunded in this state at the federal level.
+First of all and foremost, we have defunded our health care, our health care.
+New York 23 is the most hurt by the big, ugly bills, Medicare and Medicaid cuts of any district in the state.
+And we are the second most hurt state in the nation.
+So this district is right in the crosshairs of President Trump's cuts.
+President Trump is defunding the police with Nick Langworthy's connivance.
+He has withheld $79 million that was intended to train sheriff's departments and other law enforcement through the Doge process.
+And while we're talking about Doge, Doge has hurt veterans.
+It's hurt our Social Security system.
+It has hurt grants for research.
+It has hurt universities.
+It's hurt the postal system.
+And Langworthy was one of the founding members of the Congressional Doge Caucus who cheered on all these arbitrary destructive cuts that ultimately didn't save us any money.
+My opponent has pointed out Doge is a process.
+And the funny thing about when Doge started, the outrage at the outset was ridiculous because we wanted to see accountability in government.
+We wanted to look under the hood and see what these departments were spending money on.
+USAID was social engineering around the globe, spending money on sex changes in South America, interfering in elections throughout the globe.
+That was on the back of the U.S. taxpayer.
+And neither Congress, probably the executive at that time, nor the American people knew what they were spending their money on.
+An estimated 700,000 African children born with HIV have died because of the arbitrary and illegal closure of USAID.
+I think USAID might have performed some kind of like 20 gender-affirming surgeries.
+Come on. Come on.
+And we took USAID out of Africa.
+And what has filled the power vacuum for American soft power?
+Now that there's no HIV drugs or peanut butter available to stop the famine, Islamist militias are filling the power vacuum.
+If we do not use soft power, we will need hard power.
+It is absolutely ludicrous.
+The PEPFAR funds are still in place and have been delivered.
+USAID, as an agency, was dismantled because it was mismanaged and misleading the government.
+Right now, we have put it under the State Department and it will continue to deliver its work.
+It should have required an act of Congress.
+Okay, we're going to now make 30-second answers because we're running out of time here.
+So, let's talk with you, Dr. Geese.
+Okay.
+Do you think social media platforms should be held accountable or responsible for harm done to minors who are approached by disreputable people or who are exposed to advertising for products that might harm them?
+Yes, I absolutely do.
+And, you know, there's a larger, like, common good problem here.
+There are something like eight people who control the algorithms that control all of our social media.
+And those algorithms are black boxes.
+They are as secret as the recipe for Coca-Cola.
+And if you're a parent that has watched a child, like, slowly lose their self-esteem and lose their joy in life because they're seeing disturbing images that they want to compete with on Instagram, then you know what that's like.
+Congressman.
+I definitely think that these companies should be held accountable.
+They should be held to the highest standard and we should have protections against our young people on social media platforms.
+It could be far too poisonous to a young person's mind to be on these platforms at too early of an age.
+Congressman, I'll go to you first on this one.
+Some in Congress are talking about passing a bill that would establish a four-day work week.
+And some of the Congressmen are saying it should be four, eight-hour days.
+What's your reaction?
+I believe that's ludicrous.
+I mean, we need to have the most productive country possible.
+And the five-day work week is something that should remain.
+Dr. Geese?
+Well, I believe that people should have opportunity in America.
+And that means that if you want to work extra hours, you should be able to.
+Congress shouldn't pass a law that stops you from working a five-day week.
+On the other hand, we have to look at ways to raise wages, right, to expand small business opportunity,
+and to level the playing field for small businesses against the anti-competitive practices of the richest corporations and monopolies.
+Dr. Geese, this one's for you first.
+Do you agree with heavier taxes on wealthier New Yorkers than those paid by people with lower incomes?
+I don't believe that this is a state issue, right?
+So nationally, I do believe that we have a tax code that allows the wealthy to get away with not paying their fair share.
+And we all suffer from that in terms of the federal government not being able to meet its budget fund, its programs.
+We need a more progressive tax code that causes the ultra-wealthy to pay an effective tax rate that's similar to the one that you and I pay.
+I mean, New York State, under Kathy Hochul, and with the pressure that's now on her from the leader of the Democratic Party in New York State, Zoran Mandami,
+we are going to see an eat-the-rich mentality.
+They are going to continue to chase Wall Street out of New York City.
+Our state is deeply dependent on Wall Street revenue to balance its books.
+As we, you know, post-COVID, people know they can do their work from anywhere in the world.
+The technology exists. They can do it.
+And they are, as Texas has hired more bankers at the big banks than New York State has at this point.
+That's dangerous.
+Okay, 20 second answers.
+What's your opinion about the states that redrew their congressional districts this year?
+I believe that redistricting should be done once a decade.
+Dr. Gies?
+I agree.
+I would love to see national fair maps legislation that would stop states from gerrymandering altogether.
+I think that our congressional districts need to be fair and they need to be tight,
+and we shouldn't have politicians choosing their voters.
+The voters should choose their politicians.
+All right, gentlemen, we're about to run out of time.
+I want to thank both of you for what I think was a very substantive debate.
+Thank you for your answers.
+Thank you for the way you approached tonight.
+Very cordial between two of you.
+You exchanged strong opinions.
+That's what this is supposed to be about.
+So thank you very much for being here, and we're going to sign off now.
+I'll send you to NBC.
+Thank you for being here, everybody, for this debate.
+Hope you'll tune in the next time we do one.
+Thank you.
+Thank you.
+Thanks for the time.
+Thank you.
