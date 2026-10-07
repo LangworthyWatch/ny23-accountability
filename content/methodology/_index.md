@@ -53,6 +53,10 @@ A photograph or a meeting with the Representative is **not** an endorsement of h
 
 ---
 
+### 6. Debates
+
+The site's scope is the incumbent's record. When the incumbent debates a challenger, that scope is set aside for one entry: both candidates' checkable claims are listed with timestamps, the speaker is confirmed from the video, and each claim is taken to the same kind of primary source and scored with the same labels. The counts will not be even, because a challenger has positions and an incumbent has a voting record, and they are not padded to look even. The person who publishes this site is a candidate for local office; that is disclosed in any debate entry, and no debate entry is shared with either campaign before publication.
+
 ## Why This Site Exists: The Local Media Gap
 
 ### What Local Media HAS Covered
