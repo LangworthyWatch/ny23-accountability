@@ -1,0 +1,21 @@
+SOURCE: https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_b
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+ | Table 5.6.B. Average Price of Electricity to Ultimate Customers by End-Use Sector,
+ | by State, Year-to-Date through July 2026 and 2025 (Cents per Kilowatthour)
+ | 
+ | Residential
+...
+ | New York
+ | 29.38
+ | 26.01
+ | 22.91
+ | 20.87
+ | 10.24
+ | 9.57
+ | 19.72
+ | 16.66
+ | 23.95
+ | 21.39
+...

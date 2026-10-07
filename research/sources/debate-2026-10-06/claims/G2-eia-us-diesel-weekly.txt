@@ -1,0 +1,12 @@
+SOURCE: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMD_EPD2D_PTE_NUS_DPG&f=W
+RETRIEVED: 2026-10-07 via curl
+
+EIA Weekly U.S. No 2 Diesel Retail Prices (Dollars per Gallon). Release Date: 10/6/2026. Rows (week-ending date | price):
+2022-May :: 05/02 | 5.509 | 05/09 | 5.623 | 05/16 | 5.613 | 05/23 | 5.571 | 05/30 | 5.539
+2022-Jun :: 06/06 | 5.703 | 06/13 | 5.718 | 06/20 | 5.810 | 06/27 | 5.783 | 2022-Jul | 07/04
+2022-Jul :: 07/04 | 5.675 | 07/11 | 5.568 | 07/18 | 5.432 | 07/25 | 5.268 | 2022-Aug | 08/01
+2026-Aug :: 08/03 | 5.348 | 08/10 | 5.257 | 08/17 | 5.454 | 08/24 | 5.652 | 08/31 | 5.599
+2026-Sep :: 09/07 | 5.967 | 09/14 | 6.285 | 09/21 | 6.529 | 09/28 | 6.382 | 2026-Oct | 10/05
+2026-Oct :: 10/05 | 6.199 | - = No Data Reported; | -- = Not Applicable; | NA = Not Available; | W = Withheld to avoid disclosure of individual company data. | Release Date: 10/6/2026 | Next Release Date: 10/14/2026 | Referring Pages: | Retail Prices for Diesel (On-Highway) - All Types
+
+Note (analyst): prior U.S. weekly record was 5.810 (week of 06/20/2022); 2026 weeks of 09/14 (6.285), 09/21 (6.529), 09/28 (6.382) and 10/05 (6.199) all exceed it.

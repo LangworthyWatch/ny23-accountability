@@ -1,0 +1,52 @@
+SOURCE: https://api.bls.gov/publicAPI/v1/timeseries/data/ (keyless v1 API, POST seriesid/startyear=2023/endyear=2026)
+RETRIEVED: 2026-10-07 via curl
+NOTE: Series IDs are standard BLS CES state/area codes; label mapping is mine from the BLS series-ID structure (state 48=TX, 36=NY; industry 55000000=financial activities, 55520000=finance & insurance, 55522000=credit intermediation).
+---- VERBATIM PASSAGES ----
+SERIES SMU48000005552000001 = Texas, Finance and Insurance (NAICS 52), NSA, thousands
+  2026 August: 676.1
+  2025 December: 681.0
+  2025 August: 682.8
+  2024 December: 676.9
+  2024 August: 672.4
+  2023 December: 667.6
+  2023 August: 670.7
+SERIES SMU36000005552000001 = New York, Finance and Insurance (NAICS 52), NSA, thousands
+  2026 August: 567.9
+  2025 December: 561.9
+  2025 August: 569.2
+  2024 December: 551.7
+  2024 August: 558.0
+  2023 December: 546.4
+  2023 August: 557.7
+SERIES SMU48000005552200001 = Texas, Credit Intermediation and Related Activities (NAICS 522), NSA, thousands
+  2026 August: 291.0
+  2025 December: 292.3
+  2025 August: 294.2
+  2024 December: 290.2
+  2024 August: 289.2
+  2023 December: 287.7
+  2023 August: 290.0
+SERIES SMU36000005552200001 = New York, Credit Intermediation and Related Activities (NAICS 522), NSA, thousands
+  2026 August: 178.5
+  2025 December: 180.4
+  2025 August: 181.9
+  2024 December: 177.4
+  2024 August: 177.5
+  2023 December: 175.9
+  2023 August: 178.6
+SERIES SMS48000005500000001 = Texas, Financial Activities (supersector 55), SA, thousands
+  2026 August: 940.9
+  2025 December: 945.6
+  2025 August: 942.7
+  2024 December: 935.4
+  2024 August: 926.9
+  2023 December: 920.1
+  2023 August: 921.4
+SERIES SMS36000005500000001 = New York, Financial Activities (supersector 55), SA, thousands
+  2026 August: 759.1
+  2025 December: 758.7
+  2025 August: 757.5
+  2024 December: 753.5
+  2024 August: 749.0
+  2023 December: 746.2
+  2023 August: 749.7

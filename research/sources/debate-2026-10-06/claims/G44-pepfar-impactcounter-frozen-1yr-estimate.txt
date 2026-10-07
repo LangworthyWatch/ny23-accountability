@@ -1,0 +1,19 @@
+SOURCE: https://pepfar.impactcounter.com/
+RETRIEVED: 2026-10-07 via Claude Browser pane (JS-rendered page text; curl HTML lacks the numbers)
+TITLE: PEPFAR Impact Tracker (Impact Counter / Brooke Nichols, Boston University), frozen 1-year estimate Jan 24 2025 - Jan 24 2026
+NOTE: Modeled estimates, not recorded deaths. Child HIV-related deaths attributed to the PEPFAR freeze over one year: 16,954; adults: 159,272.
+
+VERBATIM PASSAGE(S):
+PEPFAR Program Impact Tracker
+This tracker has been frozen
+The figures below represent the estimated 1-year human impact of the PEPFAR funding freeze (Jan 24, 2025 - Jan 24, 2026). To read more, see the Impact Counter.
+1-Year Impact of Partial PEPFAR Funding Freeze and Discontinuation: Estimated Deaths
+The figures below represent the estimated number of deaths over one year (January 24, 2025 to January 24, 2026) as a result of the partial funding discontinuation. This methodology has been adjusted since the site's initial creation to provide an immediate impact assessment, rather than a long term assessment.
+Estimated deaths associated with the funding freeze and discontinuation between January 24th, 2025 and January 24th, 2026 (1 year)
+Estimated adult deaths
+159,272
+1-year estimate (frozen)
+Estimated child deaths
+16,954
+1-year estimate (frozen)
+These estimates use average rates to approximate impact. In reality, these effects may vary over time, potentially starting smaller and accelerating as the situation progresses.

@@ -1,0 +1,9 @@
+SOURCE: https://www.eia.gov/tools/faqs/faq.php?id=727&t=6
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+In 2023, the United States imported about 8.51 million barrels per day (b/d) of petroleum from 86 countries. Petroleum includes crude oil, hydrocarbon gas liquids (HGLs), refined petroleum products such as gasoline and diesel fuel, and biofuels. Crude oil imports of about 6.48 million b/d accounted for about 76% of U.S. total gross petroleum imports. 
+In 2023, the United States exported about 10.15 million b/d of petroleum to 173 countries and 3 U.S. territories (American Samoa, Puerto Rico, and U.S. Virgin Islands). Crude oil exports of about 4.06 million b/d accounted for 40% of total U.S. gross petroleum exports. The resulting total net petroleum imports (imports minus exports) were about -1.64 million b/d, which means that the United States was a net petroleum exporter of 1.64 million b/d in 2023.
+...
+Last updated: March 29, 2024; preliminary data. 
+...

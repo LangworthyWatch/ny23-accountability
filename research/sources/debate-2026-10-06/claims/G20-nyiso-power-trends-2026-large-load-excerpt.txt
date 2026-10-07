@@ -1,0 +1,19 @@
+SOURCE: https://www.nyiso.com/documents/d/guest/2026-power-trends
+RETRIEVED: 2026-10-07 via curl
+
+NYISO Power Trends 2026 (PDF), excerpts:
+       Large energy‑intensive economic development projects
+           Rapid growth in large, energy-intensive economic development projects is significantly changing
+       future electricity demand. While data centers are often highlighted, the NYISO’s interconnection queue
+       includes a variety of proposals, such as semiconductor fabrication, advanced manufacturing, hydrogen
+       production, and other high demand uses. These projects are a major source of potential statewide load
+       growth, introducing new challenges for grid planning, infrastructure, and near-term reliability margins.
+           The number and diversity of large load proposals are rising, representing several thousand megawatts
+       (MW) of possible new and incremental demand over the next decade. Many facilities will operate
+       continuously, influencing local peaks and shifting traditional load patterns. In some regions, industrial
+       growth may significantly affect both winter and summer system risks as electrification increases.
+
+Annual peak demand chart (p. ~26): 
+                                                               ANNUAL PEAK DEMAND, 2025-2040
+                                                               32,000
+                                                                         31,405 MW

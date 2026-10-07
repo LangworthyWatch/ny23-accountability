@@ -1,0 +1,17 @@
+SOURCE: https://openbudget.ny.gov/historicalFP/fy27/en/fy27fp-en.pdf
+RETRIEVED: 2026-10-07 via curl
+NOTE: Columns in first block are FY2025 actual / FY2026 actual / FY2027 enacted (All Funds $241,471M / $258,951M / $277,020M).
+---- VERBATIM PASSAGES ----
+Annual Growth  8.5%  14.6%  3.4%
+  Capital Budget (State and Federal)  $16,975  $17,894  $21,460
+  Annual Growth  15.4%  5.4%  19.9%
+  Federal Operating Aid  $90,842  $92,247  $94,433
+  Annual Growth  -0.9%  1.5%  2.4%
+  All Funds  $241,471  $258,951  $277,020
+  Annual Growth  2.8%  7.2%  7.0%
+...
+  Agency Operations  37,891  41,353  3,462  9.1%
+  Debt Service  5,750  3,175  (2,575)  -44.8%
+  Federal Operating  92,247  94,433  2,186  2.4%
+  Capital Projects  17,894  21,460  3,566  19.9%
+  All Funds  258,951  277,020  18,069  7.0%

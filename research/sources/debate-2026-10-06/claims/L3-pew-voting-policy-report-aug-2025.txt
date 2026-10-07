@@ -1,0 +1,32 @@
+SOURCE: https://www.pewresearch.org/wp-content/uploads/sites/20/2025/08/PP_2025.8.22_voting-policy_report.pdf
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+FOR RELEASE AUGUST 22, 2025
+
+
+
+
+BY Steven Shepard, Joseph Copeland, Shanay Gracia and Jocelyn Kiley
+
+
+
+
+...
+Among the most-supported proposals:
+
+▪  Requiring electronic voting machines to print a paper backup of a voter’s ballot (84% in favor)
+▪  Requiring all voters to show government-issued photo identification (83%)
+▪  Making early, in-person voting available for at least two weeks prior to the election (80%)
+▪  Making Election Day a federal holiday (74%)
+
+...
+
+ASK FORM 2 [N=1,784]
+GOVID  Requiring all voters to show government
+  issued photo identification to vote
+  Aug 4-10, 2025  60  23  11  5  1
+  Jan 16-21, 2024  61  20  11  7  1
+  Jul 10-16, 2023  53  23  14  9  1
+  Apr 5-11, 2021  53  23  13  10  1
+...

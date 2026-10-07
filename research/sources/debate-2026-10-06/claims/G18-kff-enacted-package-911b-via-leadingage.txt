@@ -1,0 +1,8 @@
+SOURCE: https://leadingage.org/kff-research-analysis-of-state-by-state-medicaid-reductions/
+RETRIEVED: 2026-10-07 via curl
+
+LeadingAge summary of KFF 'Allocating CBO's Estimates of Federal Medicaid Spending Reductions Across the States: Enacted Reconciliation Package' (KFF published Jul 23, 2025):
+ The estimates include allocation of provisional interactions, which account for how policies would reduce spending in multiple areas and offset double counting for policies that would result in the same outcome. KFF attributes $911 billion in federal Medicaid cuts through 2034.
+ The analysis found that cuts applicable only to states that have undertaken Medicaid Expansion under the Affordable Care Act (ACA) account for more than half of the cuts- totaling $526 billion. Federal funding reductions in the first five years of the budget window account for less than one quarter (24%) of the total cuts since many provisions are not effective until years out. The full $911 billion represents a 14% reduction in federal Medicaid spending over the 10-year period.
+
+ANALYST NOTE: KFF's state-by-state figures are rendered as a map image; New York's 10-year figure was not retrievable as text (WebFetch of the KFF page on 2026-10-07 confirmed no NY figure in page text). No source containing a '$63 billion' NY Medicaid/Medicare figure was found.

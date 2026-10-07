@@ -1,0 +1,14 @@
+SOURCE: https://www.budget.ny.gov/pubs/archive/fy22/en/fy22en-fp.pdf (Wayback 2022 capture)
+RETRIEVED: 2026-10-07 via curl
+NOTE: All Funds: FY2021 actual $186,587M; FY2022 enacted $208,887M (DOB). Cuomo resigned Aug 2021 during FY2022.
+---- VERBATIM PASSAGES ----
+Capital Budget (Federal and State)  $12,331  $15,891
+  Annual Growth  2.8%  28.9%
+
+  Federal Operating Aid  $70,049  $80,776
+  Annual Growth  19.1%  15.3%
+  All Funds  $186,587  $208,887
+  Annual Growth  7.9%  12.0%
+...
+FY 2021 Year-End Operating Results, ALL GOVERNMENTAL FUNDS - ACTUALS (millions): FY 2020 / FY 2021
+  ALL FUNDS DISBURSEMENTS:  172,980  186,587  13,607  7.9%

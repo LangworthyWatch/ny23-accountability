@@ -1,0 +1,12 @@
+SOURCE: https://news.gallup.com/poll/652523/americans-endorse-early-voting-voter-verification.aspx
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+WASHINGTON, D.C. -- With less than two weeks to go in the presidential campaign and voting already underway in many states, 76% of U.S. adults favor the concept of early voting. Two other election law policies are supported by even more Americans -- requiring photo identification to vote (84%) and providing proof of citizenship when registering to vote for the first time (83%).
+Smaller majorities of Americans -- 60% each -- favor automatic voter registration, whereby citizens are registered when they do business with state agencies such as the Department of Motor Vehicles, and sending absentee ballot applications to all eligible voters. In contrast, majorities of Americans oppose removing people from voter registration lists if they haven’t voted in any elections in five years (64%) and limiting the number of drop boxes or locations for returning absentee ballots (58%).
+...
+Republicans are more supportive of policies that would help ensure ineligible people don’t vote. Republicans nearly unanimously back requiring proof of citizenship to register to vote and photo identification when voting, but Democrats’ support for each policy is about 30 points lower (though still at the majority level). Smaller majorities of Republicans favor limiting drop boxes (61%) and purging voter rolls after five years of non-voting (51%). No more than one in five Democrats support either of these measures. 
+Independents’ views of each policy are on par with the national averages.
+###Embeddable###
+Partisans’ views of most of the election law policies are generally stable; however, Democrats’ and Republicans’ opinions have each shifted significantly on one of them. Democrats are now 14 points more likely than they were in 2022 to support requiring photo identification to vote, and Republicans’ current 57% support for early voting -- while not significantly different from 2022 -- is down from 74% in a 2016 survey.
+...

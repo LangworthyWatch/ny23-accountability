@@ -1,0 +1,11 @@
+SOURCE: https://www.nyiso.com/-/press-release-nyiso-announces-new-renewable-energy-generation-records
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+PRESS RELEASE | NYISO Announces New Renewable Energy Generation Records
+March 25, 2024
+Rensselaer, NY -- The New York Independent System Operator today reported that New York recently set new records for hourly wind and solar generation.
+Wind power facilities generated 2,176 megawatts during the 1p.m. hour on Saturday, March 9 and served 12 percent of system load.
+Behind-the-meter and front-of-the-meter solar resources generated 3,832 megawatts during the 12 p.m. hour on Tuesday, March 12 and served 21 percent of system load.
+Rich Dewey, President and CEO of the New York Independent System Operator said, “The contributions from wind and solar resources represent important, beneficial progress toward the state’s clean energy goals. As load continues to rise across the system, additional generation and transmission will be essential to serve demand and maintain grid reliability.”
+...

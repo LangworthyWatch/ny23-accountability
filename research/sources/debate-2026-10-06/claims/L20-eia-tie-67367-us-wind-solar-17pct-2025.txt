@@ -1,0 +1,10 @@
+SOURCE: https://www.eia.gov/todayinenergy/detail.php?id=67367
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+Wind and solar generated a record 17% of U.S. electricity in 2025
+Data source: U.S. Energy Information Administration, Electric Power Monthly, February 2026 
+Over the past 20 years, electricity from wind power and utility-scale solar power has increased to 17% of generation in the United States compared to less than 1% in 2005. In 2025, net generation of wind and solar together accounted for 760,000 gigawatthours (GWh) of electricity, 88,000 GWh more than in 2024, according to data from our Electric Power Monthly. We classify a power plant as utility-scale if it has at least 1 megawatt of generating capacity. 
+In 2025, wind power generated 464,000 GWh of electricity, 3% more than in 2024. In 2025, utility-scale solar power generation totaled 296,000 GWh, 34% more than in 2024. Electricity generation from utility-scale solar has increased every year since 2006. According to our Electricity Data Browser, small-scale solar generation, which we began estimating in 2014, has also grown, and in 2025 totaled 93,000 GWh, 11% more than in 2024. Combining utility-scale and small-scale solar generation in 2025 increases the share of wind and solar to 19% of total net generation. 
+Wind and solar are considered intermittent electricity sources, meaning they only produce electricity when the resource (wind or sun) is available, unlike dispatchable power plants. Dispatchable sources, such as natural gas, coal, and nuclear power, can operate as base-load generating units, and combined, they accounted for 75% of U.S. utility-scale electricity generation in 2025. 
+...

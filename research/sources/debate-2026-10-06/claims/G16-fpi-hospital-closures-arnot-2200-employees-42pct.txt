@@ -1,0 +1,33 @@
+SOURCE: https://fiscalpolicy.org/wp-content/uploads/2025/07/2025.06.27-hospital-closures-FINAL.pdf
+RETRIEVED: 2026-10-07 via curl
+
+Fiscal Policy Institute, 'New York Hospitals will Close under the One Big Beautiful Bill Act' (June 27, 2025, FINAL PDF). Verbatim (pdftotext):
+
+8 hospitals at risk of closure — the most of any district in the state — are in New York’s
+23rd district, represented by Republican Representative Nicholas Langworthy. Another 7
+at-risk hospitals are in Republican Representative Elise Stefanik’s district, both of whom
+voted in favor of the cuts to Medicaid in the One Big Beautiful Bill Act.
+
+Of the congressional districts with the highest numbers of at-risk hospitals, two are represented
+by Republicans who voted for the OBBBA. In District 23 (Rep. Nick Langworthy), 8 out of 12 hospitals
+rely on Medicaid funding, while 8 out of 16 hospitals in District 21 (Rep. Elise Stefanik) depend on
+Medicaid for over 25 percent of their revenue. In fact, 22 of the 70 at-risk hospitals are in districts
+represented by Republicans who voted in favor of the OBBBA (with the exception of District 2,
+represented by Andrew Garbarino, who did not vote on the bill).
+
+Appendix table column headers:
+Congressional
+District
+Current
+Employees
+Medicaid and Government
+Appropriations as % of Net Patient
+Revenue (2023)
+10% of Medicaid
+Revenue > Profit Margin?
+
+Arnot row (pdftotext lines 440-472):
+ARNOT-OGDEN MEDICAL CENTER|ELMIRA|23|2,200|42%|Yes|GOUVERNEUR HOSPITAL|GOUVERNEUR|MOUNT|VERNON|21|170|42%|No|16|410|42%|Yes|
+
+Other District-23 rows (hospital | city | district | employees | Medicaid+gov approp share | at-risk flag), extracted:
+135-15|136-16|137-17|138-18|139-19|140-20|141-21|142-22|143:23|144-24|286-Current|287-Employees|288-|289-10% of Medicaid|290-Revenue > Profit Margin?|291-|292-DUNKIRK|293-|294:23|295-|424-48%|425-|426-No|427-|428-BERTRAND CHAFFEE HOSPITAL|429-|430-SPRINGVILLE|431-|432:23|433-|436-43%|437-|438-Yes|439-|440-ARNOT-OGDEN MEDICAL CENTER|441-|442-ELMIRA|443-|444:23|445-|472-Yes|473-|474-CUBA MEMORIAL HOSPITAL INC|475-HEALTHALLIANCE HOSPITAL MARYS|476-AVE CA|477-|478-CUBA|479-|480:23|481-|569-36%|570-|571-Yes|572-|573-ST. JAMES HOSPITAL|574-|575-HORNELL|576-|577:23|578-|772-30%|773-|774-Yes|775-|776-UPPER ALLEGHENY HEALTH SYSTEM|777-|778-OLEAN|779-|780:23|781-|857-29%|858-|859-Yes|860-|861-WESTFIELD MEMORIAL HOSPITAL|862-|863-WESTFIELD|864-|865:23|866-|885-UPMC CHAUTAUQUA AT WCA|886-NEW YORK PRESBYTERIAN|887-HOSPITAL|888-NEW YORK EYE AND EAR|889-INFIRMARY|890-|891-JAMESTOWN|892-|893:23|894-|1073-24%|1074-|1075-No|1076-|1077-JONES MEMORIAL HOSPITAL|1078-|1079-WELLSVILLE|1080-|1081:23|1082-|1191-620|1192-|1193-22%|1194-|1195-Yes|1196-|1197-BATH|1198-|1199:23|1200-|

@@ -1,0 +1,16 @@
+SOURCE: https://budgetlab.yale.edu/research/state-us-tariffs
+RETRIEVED: 2026-10-07 via curl
+
+Yale Budget Lab, 'The State of U.S. Tariffs', August 24, 2026 | Updated: August 24, 2026. Key Takeaways (verbatim):
+ Key Takeaways 
+ The average statutory tariff rate now stands at 11.0%, roughly where it settled after Section 122 tariffs expired on July 24th and were replaced with new tariffs under Section 301. Under current law, which includes several scheduled tariff increases between now and December, this figure is set to be 11.8% by the end of this year.
+ We estimate the ultimate consumer price impact of current-law tariff policy to be about 0.7%.
+ Estimated household costs due to tariffs total about $1,100 annually under current law.
+ Over the next ten years, we estimate that current-law tariffs will raise about $1.9 trillion. These numbers are somewhat lower, though, after taking into account the negative impact of tariffs on GDP.
+ Footer Menu
+ Our Work 
+ Interactives 
+ Topics 
+
+PDF version dated July 24, 2026 (publication_1568.pdf) line:
+           3                 Estimated household costs due to tariffs total about $1,100 annually under current law.

@@ -1,0 +1,21 @@
+SOURCE: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2743.xml
+RETRIEVED: 2026-10-07 via curl
+TITLE: BILLSTATUS XML, H.R. 2743 (119th)
+
+VERBATIM PASSAGE(S):
+<title>Raise the Wage Act of 2025</title>
+<introducedDate>2025-04-08
+<fullName>Rep. Scott, Robert C. "Bobby" [D-VA-3]
+``(A) $9.50 an hour, beginning on the effective
+date under section 7 of the Raise the Wage Act of 2025;
+``(B) $11.00 an hour, beginning 1 year after such
+effective date;
+``(C) $12.50 an hour, beginning 2 years after such
+effective date;
+``(D) $14.00 an hour, beginning 3 years after such
+effective date;
+``(E) $15.50 an hour, beginning 4 years after such
+effective date;
+``(F) $17.00 an hour, beginning 5 years after such
+effective date; and
+``(G) beginning on the date that is 6 years after

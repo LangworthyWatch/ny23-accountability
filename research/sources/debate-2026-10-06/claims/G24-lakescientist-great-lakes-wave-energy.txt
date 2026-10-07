@@ -1,0 +1,27 @@
+SOURCE: https://lakescientist.com/research-brief-evaluating-wave-energy-availability-in-the-great-lakes-and-blue-economy-opportunities
+RETRIEVED: 2026-10-07 via curl
+TITLE: Lake Scientist research brief: Evaluating Wave Energy Availability in the Great Lakes (summarizing Pheifer & Hill, Renewable Energy, 2024)
+NOTE: Wave energy, not tidal. Brief states the US Marine Energy Atlas does not quantify the Great Lakes wave resource; lakes described as "less energetic than the oceans".
+
+VERBATIM PASSAGE(S):
+As part of the larger Powering the Blue Economy (PBE) initiative started by the Department of Energy, coastal researchers in fresh and saltwater environments are turning their attention toward harnessing wave energy through converters integrated into existing and new open-water platforms.
+The PBE focuses on marine energy and resources, and despite the large waves that can be produced in the Great Lakes during storm events, the US Marine Energy Atlas does not quantify the Great Lakes’ wave energy resource. 1-3
+To fill this information gap, a 2024 study published in Renewable Energy analyzed historical wave model data and NDBC buoy observations from 2006 to 2020 in the Laurentian Great Lakes to evaluate wave energy potential in the region. 4
+The Great Lakes, in particular, provide a unique opportunity to develop and test novel wave energy converter (WEC) technology in a freshwater setting. While less energetic than the oceans, sea states across the Great Lakes often provide wave conditions attractive to early-stage WECs.
+Furthermore, previous literature suggests that wave conditions in the Great Lakes share some similarities with those observed at times in the Arctic. As sea ice extent decreases and open water becomes more prevalent, this region is also being considered for wave energy harvesting in a range of applications. 5
+Craig Hill places the Spotter Buoy into Lake Superior near Park Point Beach in Duluth, MN. (Credit: UMN Duluth PR Office)
+Methods
+The study notes the importance of meeting International Electrotechnical Commission (IEC) standards for the assessment of wave energy resources (reconnaissance, feasibility, and design). 6 The resulting estimation uncertainty ranges from high to low. 4
+Each of the standards have “requirements for spatial and temporal resolution, boundary conditions, wind field and bathymetry inputs, and physical processes incorporated in the model.” 4
+The wave model data used in this study were derived from the Great Lakes Environmental Research Lab’s Donelan wave model (now retired and transitioned to higher resolution WaveWatch III models). The Donelan model involves a grid-based approach to estimating wave conditions on the lakes. 7
+This model was selected due to limited wave datasets from existing databases, particularly because many of the wave measurement systems on the lakes—for example, data buoys —are removed during the winter, leaving data gaps. Therefore, the model is necessary to fill spatiotemporal gaps in measurements.
+In order to analyze monthly statistical wave power distribution throughout the Great Lakes, nine data buoys were selected to compare wave power between lakes with differing physical characteristics.
+Deep-water omnidirectional wave power results were categorized based on the US wave energy classification scheme :
+Class I (Excellent)
+Class II (Good)
+Class III (Marginal)
+Class IV (Poor)
+Figure 1. Representation of the Donelan wave model computational grids implemented on the Great Lakes. White areas within the lakes represent areas where the water depth is less than 16 m, per IEC guidelines. Zoomed-in plots show the model grid points as black dots. Colored symbols represent locations of Great Lakes NDBC buoys: Buoy 45006 (lime green circle), Buoy 45001 (green square), Buoy 45004 (yellow diamond), Buoy 45002 (light blue upright triangle), Buoy 45007 (dark blue upside-down triangle), Buoy 45003 (dark red triangle pointing to the right), Buoy 45008 (coral triangle pointing to the left), Buoy 45005 (purple five-pointed star), Buoy 45012 (yellow six-pointed star). (Pheifer and HIll, 2025)
+Results
+The Donelan model falls short on the IEC standards for reconnaissance assessment because it does not meet the requirements to directly model wave whitecapping, wave reflections, wave-current interactions, and various other non-linear wave characteristics.4,6 Still, the study yields provisional data to guide future research on wave energy in the Great Lakes.
+Wave power is highest across the Great Lakes between October and February, while May through August contains particularly low wave power availability.

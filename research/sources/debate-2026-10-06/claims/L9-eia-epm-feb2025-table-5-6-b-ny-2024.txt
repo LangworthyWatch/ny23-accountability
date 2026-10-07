@@ -1,0 +1,11 @@
+SOURCE: https://www.eia.gov/electricity/monthly/archive/february2025.pdf
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+Table 5.6.B. Average Price of Electricity to Ultimate Customers by End-Use Sector,
+by State, Year-to-Date through December 2024 and 2023 (Cents per Kilowatthour)
+  Residential  Commercial  Industrial  Transportation  All Sectors
+  Census Division  December 2024 December 2023  December 2024 December 2023  December 2024 December 2023  December 2024 December 2023  December 2024 December 2023
+...
+New York  24.37  22.24  18.83  18.01  9.11  6.87  14.70  15.70  19.66  18.28
+...

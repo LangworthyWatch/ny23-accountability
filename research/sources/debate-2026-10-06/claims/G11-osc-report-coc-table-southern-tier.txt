@@ -1,0 +1,18 @@
+SOURCE: https://www.osc.ny.gov/reports/homelessness-falls-statewide-rises-many-new-york-regions
+RETRIEVED: 2026-10-07 via curl
+
+NYS Comptroller report page 'Homelessness Falls Statewide, But Rises in Many New York Regions' — Figure 2 data table (percent change in homeless count by Continuum of Care, Jan 2024 to Jan 2025, HUD PIT). Verbatim rows:
+ 58.9%| Troy/Rensselaer County CoC| 55.2%| Schenectady City & County CoC| 41.7%| Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties CoC| 35.0%| Jamestown, Dunkirk/Chautauqua County CoC| 23.7%| Newburgh, Middletown/Orange County CoC| 23.0%| New York Balance of State| 17.1%| Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC| 14.1%| Nassau, Suffolk Counties CoC| 13.4%| Rochester, Irondequoit, Greece/Monroe County CoC| 13.1%| Utica, Rome/Oneida, Madison Counties CoC| 12.2%| Yonkers, Mount Vernon/Westchester County CoC| 7.4%| Poughkeepsie/Dutchess County CoC| 5.8%| Franklin, Essex Counties CoC| 5.4%| Albany City & County CoC| 4.5%| Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co| 3.0%| Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC| 2.8%| Wayne, Ontario, Seneca, Yates Counties CoC| -5.6%| Kingston/Ulster County CoC| -8.3%| New York City CoC| -10.3%| Ithaca/Tompkins County CoC| -13.3%| Rockland County CoC| -13.8%| Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC| -16.5%| Jefferson, Lewis, St. Lawrence Counties CoC| -18.5%| Source: HUD PIT Count| Figure 3 – Share of Overall Number of Homeless Individuals that are Under 18 Years of Age in New York, by Continuum of Care, 2025 | Figure 3 Data Table 2025| Share of Overall Homeless Under 18| Troy/Rensselaer County CoC| 39.9%| Yonkers, Mount Vernon/Westchester County CoC| 37.4%| Nassau, Suffolk Counties CoC|
+
+Figure 3 (share under 18, 2025) rows for the two Southern Tier CoCs:
+100: Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties CoC
+101- 35.0%
+--
+138: Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC
+139- -16.5%
+--
+176: Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC
+177- 22.7%
+--
+186: Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Counties CoC
+187- 19.4%

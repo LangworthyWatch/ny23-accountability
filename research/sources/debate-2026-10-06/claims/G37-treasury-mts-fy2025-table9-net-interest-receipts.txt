@@ -1,0 +1,11 @@
+SOURCE: https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/mts/mts_table_9?filter=record_fiscal_year:eq:2025,record_calendar_month:eq:09
+RETRIEVED: 2026-10-07 via curl
+TITLE: Treasury Fiscal Data API, Monthly Treasury Statement Table 9 (Summary of Receipts by Source, and Outlays by Function), FY2025 through September 2025
+NOTE: Sequence 1.8 Total = total receipts; 2.20 Total = total outlays; 2.18 Net Interest is the budget function 900 figure (gross interest net of trust-fund interest and other offsets). Table 4 confirms Total -- Individual Income Taxes 2,656,044,447,275.63 and Total -- Receipts 5,234,616,386,315.43.
+
+VERBATIM PASSAGE(S):
+2.20 | Total | current_fytd_rcpt_outly_amt=7009973667049.30 | prior_fytd=6734895725143.06 | record_date=2025-09-30
+2.18 | Net Interest | current_fytd_rcpt_outly_amt=970358886994.32 | prior_fytd=881019516352.72 | record_date=2025-09-30
+1.1 | Individual Income Taxes | current_fytd_rcpt_outly_amt=2656044447275.63 | prior_fytd=2426066988325.89 | record_date=2025-09-30
+1.8 | Total | current_fytd_rcpt_outly_amt=5234616386315.43 | prior_fytd=4918105525514.85 | record_date=2025-09-30
+COMPUTED: net interest / total receipts = 0.1854 (18.5%); net interest / individual income taxes = 0.3653 (36.5%)

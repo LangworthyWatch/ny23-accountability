@@ -1,0 +1,38 @@
+SOURCE: https://data.bts.gov/resource/keg4-3bc2.json?$q=Buffalo&measure=Personal%20Vehicles
+RETRIEVED: 2026-10-07 via curl
+
+BTS Border Crossing Entry Data (Socrata dataset keg4-3bc2), port 'Buffalo Niagara Falls' (port code 0901; covers all Buffalo-Niagara crossings incl. Peace Bridge, Rainbow, Lewiston-Queenston, Whirlpool), measure 'Personal Vehicles' (inbound to U.S.). Monthly values and analyst-computed annual totals:
+2024-01 228070
+2024-02 259642
+2024-03 323473
+2024-04 324382
+2024-05 368740
+2024-06 412906
+2024-07 483662
+2024-08 524139
+2024-09 392961
+2024-10 384828
+2024-11 358302
+2024-12 334391
+2025-01 252731
+2025-02 218154
+2025-03 260497
+2025-04 251029
+2025-05 288796
+2025-06 335736
+2025-07 406067
+2025-08 453291
+2025-09 334286
+2025-10 326402
+2025-11 282759
+2025-12 268630
+2026-01 210487
+2026-02 209524
+2026-03 256762
+2026-04 273514
+2026-05 336812
+2026-06 370641
+2026-07 433915
+2026-08 467584
+TOTALS {'2024': 4395496, '2025': 3678378, '2026': 2559239}
+2025 vs 2024: -16.3%

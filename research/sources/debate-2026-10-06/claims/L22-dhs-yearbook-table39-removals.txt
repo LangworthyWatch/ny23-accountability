@@ -1,0 +1,30 @@
+SOURCE: https://ohss.dhs.gov/topics/immigration/yearbook/2023/table39
+RETRIEVED: 2026-10-07 via curl
+NOTE: FY2009-FY2016 removals sum (my arithmetic) = 3,060,440; enforcement returns FY2009-16 sum = 1,792,540
+---- VERBATIM PASSAGES ----
+Table 39. DHS Repatriations: Fiscal Years 1892 to 2023
+COLUMNS: Year | Administrative Returns | Enforcement Returns | Removals | Expulsions | Total removals and returns | Total enforcement repatriations | Total repatriations
+2005 | NA | 1,096,920 | 246,430 | X | 1,343,350 | 1,343,350 | 1,343,350
+2006 | NA | 1,043,380 | 280,970 | X | 1,324,360 | 1,324,360 | 1,324,360
+2007 | NA | 891,390 | 319,380 | X | 1,210,770 | 1,210,770 | 1,210,770
+2008 | NA | 811,260 | 359,800 | X | 1,171,060 | 1,171,060 | 1,171,060
+2009 | 59,410 | 523,150 | 379,740 | X | 962,300 | 902,890 | 962,300
+2010 | 61,900 | 409,900 | 382,450 | X | 854,240 | 792,350 | 854,240
+2011 | 60,900 | 261,150 | 390,410 | X | 712,460 | 651,560 | 712,460
+2012 | 47,360 | 183,740 | 415,580 | X | 646,680 | 599,320 | 646,680
+2013 | 44,710 | 134,270 | 432,330 | X | 611,310 | 566,600 | 611,310
+2014 | 45,670 | 117,890 | 404,700 | X | 568,250 | 522,590 | 568,250
+2015 | 43,240 | 86,330 | 323,680 | X | 453,250 | 410,010 | 453,250
+2016 | 30,340 | 76,110 | 331,550 | X | 438,000 | 407,660 | 438,000
+2017 | 15,070 | 85,620 | 286,670 | X | 387,360 | 372,290 | 387,360
+2018 | 72,530 | 87,170 | 327,280 | X | 486,980 | 414,450 | 486,980
+2019 | 89,550 | 81,400 | 347,320 | X | 518,270 | 428,720 | 518,270
+2020 | 113,430 | 53,390 | 234,510 | 206,790 | 401,330 | 494,690 | 608,120
+2021 | 128,020 | 49,700 | 85,450 | 1,071,070 | 263,160 | 1,206,220 | 1,334,240
+2022 | 179,840 | 80,960 | 103,840 | 1,103,970 | 364,640 | 1,288,760 | 1,468,600
+2023 | 154,480 | 289,070 | 183,360 | 579,080 | 626,910 | 1,051,510 | 1,205,990
+
+DEFINITIONS:
+Returns are the confirmed movement of an inadmissible or deportable alien out of the United States not based on an order of removal. Administrative returns include crew members detained on board their vessels since 2009 and also include administrative withdrawals in 2018 - 2023. Administrative withdrawals are withdrawals of application for admission that are terminated without prejudice. Enforcement returns are all returns with the exception of crew members detained on board their vessels and administrative withdrawals. All returns are reported as enforcement returns from 1927 to 2008. Data on returns are not available prior to 1927. ↩ Back
+Returns are the confirmed movement of an inadmissible or deportable alien out of the United States not based on an order of removal. Administrative returns include crew members detained on board their vessels since 2009 and also include administrative withdrawals in 2018 - 2023. Administrative withdrawals are withdrawals of application for admission that are terminated without prejudice. Enforcement returns are all returns with the exception of crew members detained on board their vessels and administrative withdrawals. All returns are reported as enforcement returns from 1927 to 2008. Data on returns are not available prior to 1927. ↩ Back
+Removals are the compulsory and confirmed movement of an inadmissible or deportable alien out of the United States based on an order of removal. An alien who is removed has administrative or criminal consequences placed on subsequent reentry owing to the fact of the removal. ↩ Back

@@ -1,0 +1,37 @@
+SOURCE: https://news.gallup.com/file/poll/652532/2024_10_23_Election%20Laws%20Topline%20and%20Tabs.pdf
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+  GALLUP NEWS SERVICE
+
+  GALLUP POLL SOCIAL SERIES:
+  CRIME
+  -- FINAL TOPLINE --
+
+
+  Timberline: 937614
+  GAL 016
+  Princeton Job #: 24-10-010
+
+  October 1-12, 2024
+...
+  2024 Oct 1-12
+  (sorted by “favor”)  Favor  Oppose
+
+  Requiring all voters to provide photo identification at their voting place in order
+  84  15
+  to vote
+  Requiring people who are registering to vote for the first time to provide proof of
+  83  15
+  citizenship
+...
+  B. Requiring all voters to provide photo identification at their voting place in order to vote
+
+  Favor  Oppose  No opinion
+
+  2024 Oct 1-12  84  15  1
+
+  2022 Jul 5-26  79  21  *
+  2016 Aug 15-16  80  19  1
+
+...

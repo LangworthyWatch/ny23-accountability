@@ -1,0 +1,21 @@
+SOURCE: https://www.politifact.com/factchecks/2026/may/07/liz-krueger/electricity-data-centers-new-york-households/
+RETRIEVED: 2026-10-07 via curl
+
+PolitiFact, May 7, 2026, 'Proposed data centers in New York would use significant energy, but not double households' use':
+ The proposed data centers would require 9.5 gigawatts of power during peak times.
+ In a March 5 op-ed in the Albany Times-Union, New York state Sen. Liz Krueger and Assemblywoman Anna Kelles advocated for a moratorium, saying that proposed data centers in the state would require “9.5 gigawatts of electric load, which is approximately double the energy usage of all households in the state combined.”
+ New York legislators are considering halting new data center development until there’s enough energy available to run the proposed facilities. Several other states have also considered such a pause, although none has enacted one yet; Democratic Gov. Janet Mills vetoed such a bill in Maine.
+ When we reached out to Krueger’s office, a spokesperson referred us to a spreadsheet published by the New York Independent System Operator , a state agency that monitors the reliability of the state’s power system and coordinates electricity distribution. The spreadsheet lists 35 proposed projects, offering a snapshot of potential future electricity demand. 
+ It confirms that the proposed projects’ electricity demand would be about 9.5 gigawatts when energy demand is highest. A subsequent version of the spreadsheet showed 11 gigawatts, but this was released several weeks after the legislators wrote their op-ed.
+ The status of the data center projects on the list varies widely; some have already cleared regulatory and construction hurdles while others have not. But regardless of their status, their collective 9.5 gigawatts of required electricity would not be double the amount of energy used by all households in New York state.
+ Krueger’s office said the estimate came from taking the average electricity used by the state’s residential customers each month ( 576 kilowatt hours ) and then dividing that by 744, the number of hours in a 31-day month. This produced an average hourly consumption of about 0.8 kilowatt hours. They then multiplied that by 7.8 million , the number of households in New York state. This totaled 6.24 gigawatts of electricity used by New York state households.
+ The data centers’ estimated 9.5 gigawatts of consumption is not twice the 6.24 gigawatts from the calculation Krueger and Kelles provided.
+ Plus, there’s another wrinkle with the comparison, Kenneth Gilligham, an economist at the Yale School of the Environment, told PolitiFact New York . 
+ The 6.24 gigawatt figure refers to what households consume on average, while the 9.5 gigawatt figure refers to “peak consumption,” which is the highest amount the data centers would need at their heaviest periods of use.
+ “We often care more about peak consumption and the possibility that it stresses the capacity of the grid than we do about total consumption,” Gillingham said. 
+ To make a more apples-to-apples comparison, Gillingham cited data showing that residential electricity demand usually represents just more than one-third of overall electricity demand. Applying that fraction to the peak summer demand for New York state, which is roughly 30 gigawatts, would suggest a residential peak load of about 10 or 11 gigawatts. That’s more than the proposed 9.5 gigawatts from the proposed data centers, and about equal to the 11 gigawatts in the updated spreadsheet.
+ Still, Gillingham said, 9.5 gigawatts of additional electric load would be “enormous” and that the current electric grid is “woefully unprepared for such a dramatic increase in load.”
+ Our ruling
+ Krueger said proposed new data centers in New York state would require “approximately double the energy usage of all households in the state combined.”
+ When and if all of the proposed projects are operational, they would require a projected 9.5 gigawatts of power at peak times. But that’s not double the households’ usage. 
+ On average, households’ usage is about 6.24 gigawatts and about 11 gigawatts during peak times. 

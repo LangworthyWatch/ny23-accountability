@@ -1,0 +1,9 @@
+SOURCE: https://www.eia.gov/energyexplained/oil-and-petroleum-products/imports-and-exports.php
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+The United States became a total petroleum net exporter in 2020
+In 2020, the United States became a net exporter of petroleum for the first time since at least 1949.1 In 2022, total petroleum exports were about 9.52 million barrels per day (b/d) and total petroleum imports were about 8.33 million b/d, making the United States an annual net total petroleum exporter for the third year in a row. Total petroleum net exports were about 1.19 million b/d in 2022. Also in 2022, the United States produced2 about 20.08 million b/d of petroleum and consumed3 about 20.01 million b/d. Although U.S. annual total petroleum exports were greater than total petroleum imports in 2020, 2021, and 2022, the United States still imported some crude oil and petroleum products from other countries to help to supply domestic demand for petroleum and to supply international markets.
+...
+Last updated: January 19, 2024, with data from the Petroleum Supply Annual, August 2023, and Monthly Energy Review, September 2023. 
+...

@@ -1,0 +1,32 @@
+SOURCE: https://www.cbo.gov/publication/61951 (Wayback 2026 capture; PDF https://www.cbo.gov/system/files/2026-03/61951-mandatory.pdf)
+RETRIEVED: 2026-10-07 via curl
+NOTE: Total outlays $7.0 trillion; mandatory $4.2 trillion => 60%. Net interest not in these pages; CBO companion infographic (61952 = discretionary $1.9T; 61953 = revenues $5.2T) retained below. Net interest ~$970B per CBO Monthly Budget Review coverage (not retained verbatim) => (4.2+0.97)/7.0 = 74%.
+---- VERBATIM PASSAGES ----
+Mandatory Spending in Fiscal Year 2025: An Infographic | Congressional Budget Office
+Mandatory Spending in Fiscal Year 2025: An Infographic
+Mandatory outlays by the federal government totaled $4.2 trillion in 2025; more than half was for Social Security and Medicare. The largest increases over the past 20 years have been for the major health care programs.
+
+FROM PDF (layout text):
+ THE FEDERAL BUDGET Total $7.0
+
+ IN FISCAL YEAR
+ outlays trillion
+
+
+
+ 2025
+ Total $5.2
+ revenues trillion
+
+
+
+
+ A Closer Look at
+ $4.2
+
+At a Glance
+ $4.2 $2.6 13.7% 13.4%
+ trillion trillion of GDP of GDP
+ Mandatory outlays Outlays for Social Mandatory outlays Average annual
+ (net of offsetting Security and (net of offsetting mandatory outlays
+ receipts) from the Medicare (net of receipts) in 2025 (net of offsetting

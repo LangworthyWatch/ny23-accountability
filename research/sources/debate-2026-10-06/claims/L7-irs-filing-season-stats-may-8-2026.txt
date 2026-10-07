@@ -1,0 +1,22 @@
+SOURCE: https://www.irs.gov/newsroom/filing-season-statistics-for-week-ending-may-8-2026
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+2026 Filing season statistics — individual income tax returns
+Cumulative statistics comparing May 9, 2025, and May 8, 2026.
+ | Return/Refund Category | 2025 | 2026 | %Change
+ | Total returns received | 145,855,000 | 144,992,000 | -0.6
+ | Total returns processed | 143,556,000 | 143,925,000 | 0.3
+ | Total e-filing returns received (may not equal subtotals due to rounding) | 139,496,000 | 141,046,000 | 1.1
+ | E-filing returns received from tax professionals | 74,896,000 | 75,316,000 | 0.6
+ | E-filing returns received from self-prepared | 64,601,000 | 65,730,000 | 1.7
+ | Web usage, IRS.gov visits | 351,491,000 | 571,527,000 | 62.6
+ | Total number of refunds | 93,569,000 | 99,138,000 | 6.0
+ | Total amount refunded | $274.979 billion | $324.757 billion | 18.1
+ | Average refund amount | $2,939 | $3,276 | 11.5
+ | Total number of direct deposit refunds | 86,937,000 | 99,225,000 | 14.1
+ | Total amount refunded with direct deposit | $263.726 billion | $324.744 billion | 23.1
+ | Average direct deposit refund amount | $3,034 | $3,273 | 7.9
+[1] Total refunds issued represents refunds for returns received and processed in 2026 – current year returns only. The number of direct deposit refunds represents refunds for current and prior year returns processed in 2026.
+ Page Last Reviewed or Updated: 18-May-2026
+...

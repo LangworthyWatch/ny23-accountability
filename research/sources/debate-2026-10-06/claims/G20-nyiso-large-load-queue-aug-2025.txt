@@ -1,0 +1,11 @@
+SOURCE: https://www.nyiso.com/-/energy-intensive-projects-in-nyiso-s-interconnection-queue
+RETRIEVED: 2026-10-07 via curl
+
+NYISO, 'Energy-intensive Projects in NYISO's Interconnection Queue', August 26, 2025:
+Large energy-intensive economic development projects such as data centers, chip fabrication facilities, and traditional manufacturing are driving up demand for electricity in New York. The map above shows the large load projects currently seeking to connect to New York’s grid.
+The number of new interconnection requests from large loads has grown dramatically in just a few years.
+In 2022, six large load projects in the interconnection queue accounted for 1,045 MW.
+As of July 2025, there are 29 large load projects in the queue which would collectively add nearly 6,055 MW of load to the grid.
+Our load forecasters anticipate that as much as roughly 2,500 MW to 4,000 MW of that new demand will be on the system by 2035.
+The increase in forecasted demand poses a major challenge to grid reliability in New York.
+As initially highlighted in our 2024 Reliability Needs Assessment (RNA), some large load projects are expected to have flexibility in the amount of power they need from the grid. The 2024 RNA assumed that approximately 1,200 MW of demand from large loads can be reduced during peak periods, which can provide an important reliability benefit.

@@ -1,0 +1,23 @@
+SOURCE: https://www.eia.gov/dnav/ng/hist/n9130us2a.htm
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+ U.S. Natural Gas Exports (Million Cubic Feet)
+...
+ | 2020's
+ | 5,284,678
+ | 6,652,609
+ | 6,906,432
+ | 7,610,034
+ | 7,706,568
+ | 8,965,422
+ | 
+ | 
+ | 
+ | 
+ | 
+ - = No Data Reported; 
+...
+ | Release Date: 9/30/2026
+ | Next Release Date: 10/30/2026
+...

@@ -1,0 +1,44 @@
+SOURCE: https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+ Electric Power Monthly 
+ Data for July 2026 
+ Release Date: 
+ September 24, 2026 
+ Next Release Date: 
+ October 23, 2026 
+...
+ | Table 5.6.A. Average Price of Electricity to Ultimate Customers by End-Use Sector,
+ | by State, July 2026 and 2025 (Cents per Kilowatthour)
+ | 
+ | Residential
+ | Commercial
+ | Industrial
+ | Transportation
+ | All Sectors
+ | Census Division
+and State
+ | July 2026
+ | July 2025
+ | July 2026
+ | July 2025
+ | July 2026
+ | July 2025
+ | July 2026
+ | July 2025
+ | July 2026
+ | July 2025
+...
+ | New York
+ | 29.90
+ | 26.22
+ | 24.18
+ | 23.05
+ | 10.81
+ | 10.06
+ | 17.24
+ | 18.49
+ | 25.18
+ | 23.01
+...

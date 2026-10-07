@@ -1,0 +1,15 @@
+SOURCE: https://gasprices.aaa.com/?state=NY
+RETRIEVED: 2026-10-07 via curl
+
+AAA New York state page, 'Price as of 10/7/26'. Verbatim table cells (statewide):
+ | | | Regular| | Mid-Grade| | Premium| | Diesel| | Current Avg.| | $4.4678| | $5.0016| | $5.4024| | $6.5164| | Yesterday Avg.| | $4.4725| | $5.0025| | $5.4046| | $6.5189| | Week Ago Avg.| | $4.4875| | $5.0204| | $5.4154| | $6.5191| | Month Ago Avg.| | $4.3153| | $4.8287| | $5.2284| | $5.9271| | Year Ago Avg.| | $3.1748| | $3.6912| | $4.0734| | $3.8931|highest recorded average price| | | | | | | | Price| | Date| | Regular Unleaded| | | | | | $5.0411|
+
+Metro rows (Current Avg.; columns Regular | Mid | Premium | Diesel):
+Binghamton| | | | Regular| | Mid| | Premium| | Diesel| | Current Avg.| | $4.4878| | $4.9838| | $5.3890| | $6.5337| | Yesterday Avg.| | $4.4925| | $4.9831| | $5.3847|
+Buffalo-Niagara Falls| | | | Regular| | Mid| | Premium| | Diesel| | Current Avg.| | $4.4124| | $4.8998| | $5.2860| | $6.3858| | Yesterday Avg.| | $4.4155| | $4.8964| | $5.2807|
+Elmira| | | | Regular| | Mid| | Premium| | Diesel| | Current Avg.| | $4.3568| | $4.8066| | $5.2060| | $6.3542| | Yesterday Avg.| | $4.3623| | $4.8244| | $5.2190|
+
+Statewide 'highest recorded average price' block (verbatim):
+ | $3.8931|highest recorded average price| | | | | | | | Price| | Date| | Regular Unleaded| | | | | | $5.0411| | 6/14/22| | Diesel| | | | |
+(continued) 
+ | | | $6.5415| | 5/19/22| New York metro average prices| Expand all|

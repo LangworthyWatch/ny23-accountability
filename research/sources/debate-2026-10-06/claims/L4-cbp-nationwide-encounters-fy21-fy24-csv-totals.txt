@@ -1,0 +1,19 @@
+SOURCE: https://www.cbp.gov/sites/default/files/2024-10/nationwide-encounters-fy21-fy24-aor.csv (linked from https://www.cbp.gov/document/stats/nationwide-encounters)
+RETRIEVED: 2026-10-07 via curl
+NOTE: Official CBP encounter microdata (7.45 MB CSV, retained alongside as L4-cbp-nationwide-encounters-fy21-fy24-aor.csv). Totals below computed by summing the "Encounter Count" column by Fiscal Year (python3 csv module, 2026-10-07).
+
+CSV header (verbatim):
+Fiscal Year,Month Grouping,Month (abbv),Component,Land Border Region,Area of Responsibility,AOR (Abbv),Demographic,Citizenship,Title of Authority,Encounter Type,Encounter Count
+
+Encounter Type values present: Apprehensions (USBP Title 8), Inadmissibles (OFO Title 8, at ports of entry), Expulsions (Title 42)
+Component values: U.S. Border Patrol, Office of Field Operations
+Land Border Region values: Southwest Land Border, Northern Land Border, Other
+
+Computed totals (encounters = events, not unique persons; CBP's own page: "Encounter data includes U.S. Border Patrol (USBP) Title 8 Apprehensions, Office of Field Operations (OFO) Title 8 Inadmissibles, and Title 42 Expulsions"):
+FY2021: nationwide 1,956,519 | Southwest Land Border 1,734,686 | USBP SWB apprehensions+expulsions 1,659,206 | Title 42 expulsions (all) 1,071,075 | OFO ports-of-entry inadmissibles+expulsions (all) 294,352
+FY2022: nationwide 2,766,582 | SWB 2,378,944 | USBP SWB 2,206,436 | Title 42 expulsions 1,103,966 | OFO 551,930
+FY2023: nationwide 3,201,144 | SWB 2,475,669 | USBP SWB 2,045,838 | Title 42 expulsions 579,084 | OFO 1,137,452
+FY2024: nationwide 2,901,142 | SWB 2,135,005 | USBP SWB 1,530,523 | Title 42 expulsions 0 | OFO 1,343,823
+FY2021-FY2024 TOTAL: nationwide 10,825,387 | SWB 8,724,304 | Title 42 expulsions 2,754,125 | OFO (ports of entry) 3,327,557
+
+Interpretation notes: (1) Title 42 expulsions (2.75M) were immediate expulsions, not entries; (2) OFO encounters (3.33M) occurred at ports of entry (airports, seaports, land ports), the majority of which in FY2023-24 were CBP One scheduled appointments and other inspections; (3) encounters count events, and CBP has reported significant repeat crossings (recidivism) under Title 42; (4) the dataset does not count "gotaways" (crossers not encountered).

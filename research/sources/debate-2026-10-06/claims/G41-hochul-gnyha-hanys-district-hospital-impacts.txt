@@ -1,0 +1,21 @@
+SOURCE: https://www.governor.ny.gov/sites/default/files/2025-07/One_Big_Bill_House.pdf
+RETRIEVED: 2026-10-07 via curl
+TITLE: NY Governor's office PDF (GNYHA/HANYS IMPLAN analysis), July 2025: hospital job and economic losses by congressional district
+NOTE: Columns: district | representative | hospital jobs lost | total jobs lost | economic activity lost ($).
+
+VERBATIM PASSAGE(S):
+CATASTROPHIC LOSSES ACROSS NYS: 
+63,000+ JOBS, $14.4 BILLION IN ECONOMIC ACTIVITY AT RISK 
+     The “One Big Beautiful Bill Act” would devastate New York hospitals and their 
+     patients, employees and communities 
+                 FT 
+     $8 billion in cuts targeting New York hospitals and health systems from the House-passed and 
+     Senate version of the One Big Beautiful Bill Act would ripple out to their employees and surrounding 
+                A 
+     communities. 
+     According to an analysis jointly conducted by Greater New York Hospital Association and the 
+               R 
+     Healthcare Association of New York State leveraging the nationally recognized IMPLAN input-output 
+     model used for regional economic planning purposes, the following would be lost in New York:
+[District table row:]
+        23    Nicholas A. Langworthy (R)                                         759                      1,409                           (320,347,000)

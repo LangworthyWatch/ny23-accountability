@@ -1,0 +1,50 @@
+SOURCE: https://www.nyiso.com/documents/d/guest/2026-power-trends
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+  FIGURE 26: 2025 ENERGY PRODUCTION BY FUEL SOURCE
+
+
+  NYCA Energy Production, 2025
+
+  1%  <1%
+
+  2%
+
+  5%
+
+
+
+
+  GWh
+  18%  Dual Fuel (Gas/Oil)  54,845
+
+
+
+
+  Zero-Emissions
+  Gas  15,170
+  Oil  137
+  Nuclear  28,408  41%
+  Hydro
+
+
+
+  %
+  24,271
+  3%
+
+
+  6
+  Wind  6,549
+
+
+
+
+...
+  the reliable operation of the power system,  Act (CLCPA): A law that requires New York
+  which can include voltage support, frequency  to reduce economy-wide greenhouse gas
+  regulation, operating reserves, and blackstart  emissions 40% by 2030 and no less than 85%
+  capabilities.  by 2050 from 1990 levels. The law establishes
+  technology-specific mandates for deploying
+...

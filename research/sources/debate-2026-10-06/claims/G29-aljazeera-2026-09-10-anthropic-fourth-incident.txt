@@ -1,0 +1,15 @@
+SOURCE: https://www.aljazeera.com/news/2026/9/10/anthropic-discloses-fourth-ai-breach-as-researcher-quits-over-safety
+RETRIEVED: 2026-10-07 via curl
+TITLE: Al Jazeera, Sept 10, 2026: Anthropic discloses 4th AI hacking incident as researcher quits over safety
+
+VERBATIM PASSAGE(S):
+Anthropic has reported a fourth incident involving an AI model gaining unauthorised access to external systems, shortly after a researcher quit over concerns about the technology’s rushed development.
+In a statement on Wednesday, the artificial intelligence research company said an early version of its Claude Opus 4.6 hacked into a third-party system in January.
+Recommended Stories list of 4 items
+list 1 of 4 Sam Altman says AI has entered ‘singularity’: Should we be worried?
+list 2 of 4 Sony, Warner Music sue Anthropic, saying it pirated songs to train its AI
+list 3 of 4 US pushes looser approach to AI regulation, while EU pushes new law
+list 4 of 4 OpenAI unveils latest AI model amid rising scrutiny and safety concerns end of list
+It said it had notified all the affected parties but did not disclose more details.
+The January incident went undetected until last month, despite an earlier company-wide review, Anthropic said, underscoring the challenge that AI developers face in identifying and containing unexpected behaviour ⁠by advanced models.
+The disclosure came after Anthropic reported several of its Claude models hacked into the systems of three companies during test sessions in July.

@@ -1,0 +1,24 @@
+SOURCE: https://www.nysrc.org/wp-content/uploads/2026/06/NYSRC-LLWG-6-Att.-5-NYISO-MMU-SOM-Large-Load-Excerpt.pdf
+RETRIEVED: 2026-10-07 via curl
+
+NYISO Market Monitoring Unit, 2025 State of the Market report excerpt on large loads (NYSRC LLWG attachment, June 2026):
+large load projects, including data centers and manufacturing facilities. As of March 2026 there
+were over 12 GW of large load projects in NYISO’s interconnection queue, most of which
+entered the queue in 2025.180
+                                                        Figure 68: Large Loads in NYISO Queue
+Figure 68 summarizes proposed large load projects
+in NYISO based on data from the Interconnection          8
+                                                                In Service
+Queue as of March 2026. Approximately 500 MW             7      Under Construction
+of large loads (primarily cryptocurrency mining)         6      Impact Study Complete
+                                                                Study Not Complete
+have entered service in New York in the past             5
+decade. In recent years, a much larger number of         4       GW
+loads have proposed to interconnect, including           3
+over 8 GW of applications received in 2025 alone.        2
+Most of the large loads currently in the queue have      1
+indicated that they do not intend to build new on-       0
+site generation or operate flexibly during system           Pre-2023 2023      2024     2025
+peak demand periods. NYISO monitors the                        Interconnection Request Date
+regulatory and construction progress of large load
+projects in the queue, but NYISO has no way of predicting how many of the projects will

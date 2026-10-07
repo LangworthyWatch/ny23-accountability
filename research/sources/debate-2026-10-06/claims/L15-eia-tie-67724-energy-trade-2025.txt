@@ -1,0 +1,19 @@
+SOURCE: https://www.eia.gov/todayinenergy/detail.php?id=67724
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+The United States is a major energy exporter and importer, especially for petroleum
+Data source: U.S. Energy Information Administration, Monthly Energy Review
+Data values: Primary Energy Imports by Source and Primary Energy Exports by Source 
+Note: Petroleum includes both crude oil and petroleum products, excluding biofuels. Other includes coal, coal coke, biomass, and electricity.
+Total energy exports from the United States reached a record 31 quadrillion British thermal units (quads) in 2025, 2% more than the previous record set in 2024. U.S. energy imports were 21 quads, down 5% from 2024. Taken together, net trade—total imports less total exports—reached 11 quads of net exports in 2025, a record and 20% more net exports than the previous record set in 2024. 
+Petroleum accounts for most U.S. energy trade and is the largest source of both exports and imports. U.S. petroleum exports remained near records in 2025, with most exports going to other countries in North America, Europe, and Asia. 
+...
+Petroleum has been the largest source of U.S. energy exports since 1999 and accounted for 63% of total energy exports in 2025. U.S. petroleum exports grew substantially during the past decade in part because:
+The United States removed restrictions on crude oil exports in 2016. 
+Domestic production and export infrastructure expanded. 
+Global demand increased, including from Europe’s recent ban on seaborne crude oil imports from Russia in 2022 and petroleum products in 2023. 
+The Gulf Coast region is the only net petroleum-exporting region in the United States, but its net exports are enough to outweigh the net imports of all other regions, making the United States as a whole a net petroleum exporter. Petroleum has been the largest source of total U.S. energy imports since at least 1949, our earliest year on record, and in 2025 accounted for 83% of imports. In 2025, total petroleum imports into the United States were 17 quads, down 6% from 2024. 
+Natural gas has been the second-largest source of U.S. total energy exports since 2016. In 2025, U.S. natural gas exports were a record 9 quads, accounting for 29% of total energy exports. From 2015 to 2025, natural gas exports from the United States quadrupled as both domestic production and LNG export capacity increased to meet global demand. Similar to petroleum products, demand for U.S. LNG in Europe increased as countries sought alternative supply sources after Russia’s 2022 invasion of Ukraine. 
+Natural gas has been the second-largest source of total U.S. energy imports since the late 1950s and accounted for 16% of total imports in 2025. Natural gas imports from Canada are important to help stabilize the U.S. market during periods of supply and demand imbalance, such as during cold winter months. 
+...

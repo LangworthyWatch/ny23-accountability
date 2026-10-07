@@ -1,0 +1,11 @@
+SOURCE: https://www.cbp.gov/newsroom/stats/nationwide-encounters
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+Nationwide Encounters
+Encounter data includes U.S. Border Patrol (USBP) Title 8 Apprehensions, Office of Field Operations (OFO) Title 8 Inadmissibles, and Title 42 Expulsions. Data is available for the Northern Land Border, Southwest Land Border, and Nationwide (i.e., air, land, and sea modes of transportation) encounters.
+Title 8 Enforcement Actions refers to apprehensions or inadmissibles processed under CBP’s immigration authority. Inadmissibles refers to individuals encountered at ports of entry (POEs) by OFO who are seeking lawful admission into the United States (U.S.) but are determined to be inadmissible, individuals presenting themselves to seek humanitarian protection under our laws, and individuals who withdraw an application for admission and return to their countries of origin within a short timeframe. Apprehensions refers to the physical control or temporary detainment of a person by USBP between POEs who is not lawfully in the U.S. which may or may not result in an arrest.
+...
+Note: Nationwide encounters are the sum of CBP encounters across all areas of responsibility including Northern Land Border, Southwest Land Border, OFO non-land border ports of entry (e.g., airports, seaports), and USBP sectors that do not share a land border with Canada or Mexico (e.g., Miami Sector). This data is available for further review and download on the Nationwide Encounters Public Data Portal page.
+U.S. Border Patrol and Office of Field Operations Encounters
+...

@@ -1,0 +1,10 @@
+SOURCE: https://web.archive.org/web/20241215000000/https://www.cbp.gov/newsroom/stats/nationwide-encounters
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+Encounter data includes U.S. Border Patrol (USBP) Title 8 Apprehensions, Office of Field Operations (OFO) Title 8 Inadmissibles, and Title 42 Expulsions* for fiscal years (FY) 2021, 2022, 2023 and 2024. Data is available for the Northern Land Border, Southwest Land Border, and Nationwide (i.e., air, land, and sea modes of transportation) encounters.
+Demographics for USBP and OFO include:
+...
+* Title 42 expulsions began March 21, 2020, and ended on May 11, 2023.
+Last Modified: Nov 19, 2024
+...

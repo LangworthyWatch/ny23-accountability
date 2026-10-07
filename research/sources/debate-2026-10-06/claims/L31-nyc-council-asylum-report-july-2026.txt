@@ -1,0 +1,18 @@
+SOURCE: https://council.nyc.gov/budget/wp-content/uploads/sites/54/2026/08/Asylum-Seekers-TC-Report-July-2026.pdf
+RETRIEVED: 2026-10-07 via curl
+---- VERBATIM PASSAGES ----
+FY2023 Total  FY2024 Total  FY2025 Total  FY2026 Total  FY2027 YTD  Grand Total
+House, Rent, Initial
+Outfitting  $568 Million  $1.53 Billion  $1.33 Billion  $718 Million  $48 Million  $4.19 Billion
+Services and Supplies  $569 Million  $1.54 Billion  $1.13 Billion  $597 Million  $49 Million  $3.88 Billion
+IT, Administrative
+Costs, and Other  $148 Million  $341 Million  $211 Million  $36 Million  $2 Million  $738 Million
+Food  $106 Million  $259 Million  $188 Million  $101 Million  $7 Million  $661 Million
+Medical  $57 Million  $77 Million  $56 Million  $4 Million  -  $194 Million
+Total  $1.45 Billion  $3.75 Billion  $2.91 Billion  $1.46 Billion  $106 Million  $9.66 Billion
+...
+  FY2023 Total  FY2024 Total  FY2025 Total  FY2026 Total  FY2027 YTD  Grand Total
+DHS  $764 Million  $1.19 Billion  $1.27 Billion  $1.22 Billion  $98 Million  $4.55 Billion
+H+H  $467 Million  $1.53 Billion  $865 Million  $28 Million  -  $2.89 Billion
+...
+Total  $1.45 Billion  $3.75 Billion  $2.91 Billion  $1.46 Billion  $106 Million  $9.66 Billion

@@ -1,0 +1,4 @@
+SOURCE: https://dps.ny.gov/node/29311
+RETRIEVED: 2026-10-07 via WebFetch
+
+DPS page (WebFetch summary; curl blocked 403) — 'New York Has Sufficient Electricity Supply to Meet Summer Demand', May 14, 2026: 'peak demand this summer is forecasted to be 31,578 megawatts (MW), lower than last year's actual peak of 31,857 MW.' 'In the summer of 2013, New York State set a record peak demand of 33,955 MW.' 'The installed generating capacity for 2026 totals 38,027 MW.'

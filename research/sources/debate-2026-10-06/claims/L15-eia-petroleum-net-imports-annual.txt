@@ -1,0 +1,40 @@
+SOURCE: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=MTTNTUS2&f=A
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+ U.S. Net Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day)
+...
+ | U.S. Net Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day)
+ | 
+ | Decade
+ | Year-0
+ | Year-1
+ | Year-2
+ | Year-3
+ | Year-4
+ | Year-5
+ | Year-6
+ | Year-7
+ | Year-8
+ | Year-9
+...
+ | 3,768
+ | 2,341
+ | 670
+ | 2020's
+ | -635
+ | -62
+ | -1,191
+ | -1,709
+ | -2,271
+ | -2,848
+ | 
+ | 
+ | 
+ | 
+ | 
+ - = No Data Reported; 
+...
+ | Release Date: 9/30/2026
+ | Next Release Date: 8/31/2027
+...

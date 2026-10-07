@@ -1,0 +1,24 @@
+SOURCE: https://www.impactcounter.com/dashboard
+RETRIEVED: 2026-10-07 via Claude Browser pane (JS-rendered page text; curl HTML lacks the numbers)
+TITLE: Impact Counter, Impact Metrics Dashboard (Boston University / Brooke Nichols), frozen at the one-year horizon
+NOTE: Modeled projections, not recorded deaths. HIV-specific child figure is 16,954 infant deaths (PEPFAR). Total child deaths across all tracked programs (diarrhea, malnutrition, pneumonia, malaria, HIV) = 518,428; adults = 262,915.
+
+VERBATIM PASSAGE(S):
+This dashboard captures the projected 1-year human impact of funding changes for aid and support organizations. These numbers have been frozen at the one-year horizon from when cuts began.
+A Note on the Retirement of the Impact Counter Dashboard
+After months of tracking the ripple effects of funding cuts — beginning with the sudden and unplanned cuts to PEPFAR and expanding to capture the broader human cost of foreign aid reductions — we are retiring the Impact Counter Dashboard.
+This project was never meant to be permanent. Our models were built to project impact over the course of a year, and we've now passed that horizon. Rather than take the dashboard down entirely, we will be freezing the numbers at the one-year mark from when the cuts began.
+All Tracked Programs
+1-Year Projected Deaths from Funding Discontinuation
+262,915 Adult Deaths
+518,428 Child Deaths
+[Table rows, "1-Year Impact" column:]
+Additional Adult Malaria Deaths | Malaria | 17,871 Adult deaths | Terminated
+Additional Child Deaths from Diarrhea | Child health | 126,650 Child deaths | Terminated
+Additional Child Deaths from Malnutrition | Child health | 155,964 Child deaths | Terminated
+Additional Child Deaths from Pneumonia | Child health | 165,283 Child deaths | Terminated
+Additional Child Malaria Deaths | Malaria | 53,577 Child deaths | Terminated
+Additional Deaths from Neglegted Tropical Diseases | NTDs | 23,103 Deaths | Terminated
+Additional Deaths from Tuberculosis | Tuberculosis | 62,669 Deaths | Disrupted
+PEPFAR Additional Adult Deaths | Additional Adult HIV Deaths | HIV | 159,272 Adult Deaths | Disrupted
+PEPFAR Additional Infant Deaths | Additional Infant HIV Deaths | HIV | 16,954 Infant Deaths | Disrupted

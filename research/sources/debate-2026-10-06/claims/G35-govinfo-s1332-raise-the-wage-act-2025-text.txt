@@ -1,0 +1,31 @@
+SOURCE: https://www.govinfo.gov/content/pkg/BILLS-119s1332is/html/BILLS-119s1332is.htm
+RETRIEVED: 2026-10-07 via curl
+TITLE: S. 1332, Raise the Wage Act of 2025 (introduced Apr 8, 2025 by Sen. Sanders), as introduced, Sec. 2 wage schedule
+NOTE: House companion H.R. 2743 (Rep. Robert C. "Bobby" Scott, D-VA-3, introduced 2025-04-08) carries the identical $9.50-to-$17.00 schedule per govinfo BILLS-119hr2743ih (lines 61-73 of retained text). Neither bill contains "$15 immediately" or "$18".
+
+VERBATIM PASSAGE(S):
+United States of America in Congress assembled,
+SECTION 1. SHORT TITLE.
+This Act may be cited as the ``Raise the Wage Act of 2025''.
+SEC. 2. MINIMUM WAGE INCREASES.
+(a) In General.--Section 6(a)(1) of the Fair Labor Standards Act of
+1938 (29 U.S.C. 206(a)(1)) is amended to read as follows:
+``(1) except as otherwise provided in this section, not
+less than--
+``(A) $9.50 an hour, beginning on the effective
+date under section 7 of the Raise the Wage Act of 2025;
+``(B) $11.00 an hour, beginning 1 year after such
+effective date;
+``(C) $12.50 an hour, beginning 2 years after such
+effective date;
+``(D) $14.00 an hour, beginning 3 years after such
+effective date;
+``(E) $15.50 an hour, beginning 4 years after such
+effective date;
+``(F) $17.00 an hour, beginning 5 years after such
+effective date; and
+``(G) beginning on the date that is 6 years after
+such effective date, and annually thereafter, the
+amount determined by the Secretary under subsection
+(h);''.
+(b) Determination Based on Increase in the Median Hourly Wage of

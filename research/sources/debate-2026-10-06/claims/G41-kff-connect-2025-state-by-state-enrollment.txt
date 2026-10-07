@@ -1,0 +1,8 @@
+SOURCE: https://connect.kff.org/two-new-kff-analyses-show-the-state-by-state-impact-of-the-one-big-beautiful-bill-on-medicaid-the-aca-and-the-uninsured-rate
+RETRIEVED: 2026-10-07 via curl
+TITLE: KFF (connect.kff.org), 2025: Two new KFF analyses show the state-by-state impact of the One Big Beautiful Bill (House-passed version)
+NOTE: Enrollment-loss ranking based on the House-passed bill; KFF's enacted-package brief (July 23, 2025, $911B national) gives state shares only in chart images, not text (WebFetch 2026-10-07).
+
+VERBATIM PASSAGE(S):
+Previous CBO estimates show that 10.3 million fewer people would be enrolled in Medicaid in 2034, representing 12% of projected enrollment for that year. Washington and Virginia could see the largest percentage drops in Medicaid enrollment, with their rolls falling by 26% and 21%, respectively. The largest numbers would lose Medicaid in California (1.7M), New York (1.0M), Illinois (5104K), Washington (490K), and Pennsylvania (440K).
+A second KFF analysis looks at how the bill would increase the number of people without health insurance by 10.9 million and 16 million more when the expected expiration of the ACA’s enhanced premium tax credits is included. About half (48%) of the 16 million more people who would be uninsured in this scenario live in Florida (2.3M), Texas (1.9M), California (1.8M), New York (920k), and Georgia (750k).

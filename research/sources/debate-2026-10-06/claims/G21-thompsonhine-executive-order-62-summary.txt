@@ -1,0 +1,8 @@
+SOURCE: https://www.thompsonhine.com/insights/new-york-hits-pause-on-hyperscale-data-centers-what-executive-order-no-62-means-for-developers/
+RETRIEVED: 2026-10-07 via curl
+
+ 07.23.26 On July 14, 2026, New York Governor Kathy Hochul issued Executive Order No. 62 , imposing the nation’s first statewide moratorium, lasting up to one year, on the construction of new hyperscale data centers, generally defined as facilities with loads of 50 megawatts or greater. 
+ What Executive Order No. 62 Does
+ Executive Order No. 62 directs the New York Department of Public Service (DPS) to initiate a proceeding within 60 days to evaluate the impacts of large data centers connecting to New York’s electric distribution system.
+ As part of that proceeding, DPS will solicit public comment and work with the Department of Environmental Conservation (DEC) to prepare a Final Generic Environmental Impact Statement (FGEIS) evaluating impacts on:
+ Executive Order No. 62 is best viewed as a pause rather than a prohibition. More importantly, it reflects a broader regulatory shift: many states are moving away from asking whether hyperscale data centers should be built and toward determining under what conditions, and at whose expense, they should connect to the grid. 

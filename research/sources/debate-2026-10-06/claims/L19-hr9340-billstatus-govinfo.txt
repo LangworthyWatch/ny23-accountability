@@ -1,0 +1,87 @@
+SOURCE: https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr9340.xml
+RETRIEVED: 2026-10-07 via curl
+NOTE: grep of roster for "Langworthy" returns nothing; Langworthy is neither sponsor nor cosponsor.
+---- VERBATIM PASSAGES ----
+<title>Ratepayer Protection Act</title>
+<introducedDate>2026-06-18
+<sponsors>
+      <item>
+        <bioguideId>E000300</bioguideId>
+        <fullName>Rep. Evans, Gabe [R-CO-8]</fullName>
+        <firstName>Gabe</firstName>
+        <lastName>Evans</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <district>8</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+COSPONSORS (count=42) -- Langworthy NOT in roster:
+Rep. Castor, Kathy [D-FL-14]  sponsorshipDate=2026-06-18
+Rep. Van Drew, Jefferson [R-NJ-2]  sponsorshipDate=2026-06-23
+Rep. Joyce, John [R-PA-13]  sponsorshipDate=2026-06-25
+Rep. McCaul, Michael T. [R-TX-10]  sponsorshipDate=2026-06-29
+Rep. Baumgartner, Michael [R-WA-5]  sponsorshipDate=2026-06-29
+Rep. Fuller, Clay [R-GA-14]  sponsorshipDate=2026-06-30
+Rep. Wittman, Robert J. [R-VA-1]  sponsorshipDate=2026-06-30
+Rep. Onder, Robert F. [R-MO-3]  sponsorshipDate=2026-07-13
+Rep. Hageman, Harriet M. [R-WY-At Large]  sponsorshipDate=2026-07-20
+Rep. Kean, Thomas H. [R-NJ-7]  sponsorshipDate=2026-07-20
+Rep. Van Orden, Derrick [R-WI-3]  sponsorshipDate=2026-07-20
+Rep. McGuire, John J. [R-VA-5]  sponsorshipDate=2026-07-20
+Rep. Griffith, H. Morgan [R-VA-9]  sponsorshipDate=2026-07-21
+Rep. Mackenzie, Ryan [R-PA-7]  sponsorshipDate=2026-07-23
+Rep. Bishop, Sanford D. [D-GA-2]  sponsorshipDate=2026-07-27
+Rep. McClellan, Jennifer L. [D-VA-4]  sponsorshipDate=2026-08-03
+Rep. Gottheimer, Josh [D-NJ-5]  sponsorshipDate=2026-08-03
+Rep. Lee, Laurel M. [R-FL-15]  sponsorshipDate=2026-08-17
+Rep. Cuellar, Henry [D-TX-28]  sponsorshipDate=2026-08-17
+Rep. Cline, Ben [R-VA-6]  sponsorshipDate=2026-08-27
+Rep. Fitzpatrick, Brian K. [R-PA-1]  sponsorshipDate=2026-08-27
+Rep. McDonald Rivet, Kristen [D-MI-8]  sponsorshipDate=2026-08-27
+Rep. Boebert, Lauren [R-CO-4]  sponsorshipDate=2026-08-27
+Rep. Lawler, Michael [R-NY-17]  sponsorshipDate=2026-08-27
+Rep. Van Duyne, Beth [R-TX-24]  sponsorshipDate=2026-08-27
+Rep. Finstad, Brad [R-MN-1]  sponsorshipDate=2026-08-31
+Rep. Crank, Jeff [R-CO-5]  sponsorshipDate=2026-08-31
+Rep. Moore, Riley M. [R-WV-2]  sponsorshipDate=2026-08-31
+Rep. Carter, Earl L. "Buddy" [R-GA-1]  sponsorshipDate=2026-08-31
+Rep. Jordan, Jim [R-OH-4]  sponsorshipDate=2026-09-01
+Rep. Kiggans, Jennifer A. [R-VA-2]  sponsorshipDate=2026-09-01
+Rep. Moolenaar, John R. [R-MI-2]  sponsorshipDate=2026-09-02
+Rep. Weber, Randy K. Sr. [R-TX-14]  sponsorshipDate=2026-09-02
+Rep. Smith, Christopher H. [R-NJ-4]  sponsorshipDate=2026-09-02
+Rep. Goodlander, Maggie [D-NH-2]  sponsorshipDate=2026-09-04
+Rep. Huizenga, Bill [R-MI-4]  sponsorshipDate=2026-09-10
+Rep. Hurd, Jeff [R-CO-3]  sponsorshipDate=2026-09-10
+Rep. Valadao, David G. [R-CA-22]  sponsorshipDate=2026-09-10
+Rep. Barrett, Tom [R-MI-7]  sponsorshipDate=2026-09-10
+Rep. De La Cruz, Monica [R-TX-15]  sponsorshipDate=2026-09-10
+Rep. Fallon, Pat [R-TX-4]  sponsorshipDate=2026-09-10
+Rep. Flood, Mike [R-NE-1]  sponsorshipDate=2026-09-10
+
+ACTIONS:
+2026-07-16 | Read twice and referred to the Committee on Energy and Natural Resources.
+2026-09-08 | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+2026-09-16 | Motion to reconsider laid on the table Agreed to without objection.
+2026-09-16 | On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)
+2026-09-16 | Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)
+2026-09-16 | Considered as unfinished business. (consideration: CR H5958-5959)
+2026-09-15 | At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+2026-09-15 | DEBATE - The House proceeded with forty minutes of debate on H.R. 9340.
+2026-09-15 | Considered under suspension of the rules. (consideration: CR H5656-5661)
+2026-09-15 | Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+2026-09-10 | Placed on the Union Calendar, Calendar No. 713.
+2026-09-10 | Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-814.
+2026-09-10 | Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-814.
+2026-06-18 | Referred to the House Committee on Energy and Commerce.
+2026-06-18 | Introduced in House
+2026-06-18 | Introduced in House
+2026-09-30 | Senate amendment submitted
+2026-09-30 | Senate amendment submitted
+2026-09-29 | Senate amendment submitted
+2026-09-28 | Senate amendment submitted
+2026-09-30 | Motion to proceed to consideration of measure withdrawn in Senate. (CR S5199)
+
+CRS SUMMARY (2026-09-10):
+Ratepayer Protection ActThe bill requires state utility regulators and nonregulated utilities to consider implementing a standard to hold certain large-load customers responsible for the costs associated with any generation, transmission, or distribution upgrade of electric service necessary to serve such customers. A large-load customer means a non-residential electric consumer that enters, or requests to enter, an agreement concerning the sale of electric energy primarily to operate information technology infrastructure and related systems pertaining to data storage and computational applications and services (e.g., data centers) that have a peak electric demand of 100 megawatts or more at a single site or campus. Specifically, the bill requires states to consider implementing a federal standard for large-load customers. The standard must require rates charged by electric utilities for providing electric service to a large-load customer to be designed to recover from the large-load customer the full, incremental cost of any generation, transmission, or distribution upgrade necessary to serve such customer. This rate must include the costs that would be incurred if the large-load customer terminates an agreement with the electric utility pertaining to the sale of electric energy or otherwise ceases the purchase of energy from the electric utility.Under the standard, an electric utility must require the large-load customer to provide to the utility financial assurances or contributions to cover the cost of any generation, transmission, or distribution upgrade that is necessary to serve the load of a large-load customer before the utility makes any generation, transmission, or distribution upgrade.]]>

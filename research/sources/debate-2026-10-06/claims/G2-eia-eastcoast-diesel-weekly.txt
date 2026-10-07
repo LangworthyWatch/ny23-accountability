@@ -1,0 +1,10 @@
+SOURCE: https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMD_EPD2D_PTE_R10_DPG&f=W
+RETRIEVED: 2026-10-07 via curl
+
+EIA Weekly East Coast No 2 Diesel Retail Prices (Dollars per Gallon). Release Date: 10/6/2026. Rows:
+2022-May :: 05/02 | 5.701 | 05/09 | 5.907 | 05/16 | 5.944 | 05/23 | 5.905 | 05/30 | 5.848
+2022-Jun :: 06/06 | 5.922 | 06/13 | 5.852 | 06/20 | 5.883 | 06/27 | 5.814
+2022-Jul :: 07/04 | 5.713 | 07/11 | 5.600 | 07/18 | 5.467 | 07/25 | 5.299
+2026-Aug :: 08/03 | 5.299 | 08/10 | 5.193 | 08/17 | 5.340 | 08/24 | 5.498 | 08/31 | 5.448
+2026-Sep :: 09/07 | 5.744 | 09/14 | 6.158 | 09/21 | 6.268 | 09/28 | 6.137
+2026-Oct :: 10/05 | 5.951

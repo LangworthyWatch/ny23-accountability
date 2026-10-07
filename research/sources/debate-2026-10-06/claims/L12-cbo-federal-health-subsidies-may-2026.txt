@@ -1,0 +1,64 @@
+SOURCE: https://www.cbo.gov/system/files/2026-05/62380-Federal-Health-Subsidies.pdf (fetched via https://web.archive.org/web/2026id_/ same URL)
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+  Billions of dollars
+  Total
+  Total  growth
+  2026  2036  change  (percent)
+  In CBO’s projections,
+  Medicare is the
+  Mandatory outlays  fastest-growing
+  Social Security benefits  1,659  2,739  1,080  65  component of
+  Medicare  1,287  2,421  1,134  88  mandatory outlays.
+  Medicaid  708  981  273  39
+  Spending on Medicare
+  Premium tax credits  100  132  31  31
+  is estimated to
+  Veterans’ income security  231  370  139  60
+  increase by 88 percent
+  Federal civilian and military retirement  197  259  62  31
+...
+Baseline Projections: Medicaid
+
+
+
+
+  11
+Medicaid Spending
+
+
+
+
+  CBO's February 2026
+  projections of Medicaid
+  spending are lower than the
+  agency's January 2025
+  projections. The estimated
+  effects of the 2025
+  reconciliation act are the
+  main driver of that
+  decrease. Those effects are
+  partly offset by technical
+  changes.
+
+
+
+
+Data source: Congressional Budget Office.  12
+Changes in Projections of Medicaid Outlays, 2026 to 2035
+
+
+
+
+  Projected Medicaid
+  spending decreased
+  mainly because of
+  legislative changes
+  resulting from the 2025
+  reconciliation act.
+
+
+
+
+...

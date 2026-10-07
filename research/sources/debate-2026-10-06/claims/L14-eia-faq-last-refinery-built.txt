@@ -1,0 +1,36 @@
+SOURCE: https://www.eia.gov/tools/faqs/faq.php?id=29&t=6
+RETRIEVED: 2026-10-07 via curl
+NOTE: verbatim passages extracted from the fetched page (text conversion); line refs are to the converted text.
+
+ When was the last refinery built in the United States? 
+As of January 1, 2026, there were 130 operable petroleum refineries in the United States. 
+The newest refinery in the United States is the Texas International Terminals 45,000-barrel per day (b/cd) refinery in Galveston, Texas, which started operating in February 2022.
+However, the newest refinery with significant downstream unit capacity is Marathon's facility in Garyville, Louisiana. That facility came online in 1977 with an initial atmospheric distillation unit capacity of 200,000 b/cd, and as of January 1, 2026, it has a capacity of 617,000 b/cd, making it the third-largest refinery in the United States. 
+Existing refineries have added capacity through upgrades or new construction. Examples of large capacity increases include:
+In 2023, ExxonMobil upgraded its refinery in Beaumont, Texas, making it the fourth-largest U.S. refinery with a capacity of 612,000 b/cd, as of January 1, 2026.
+In 2012, Motiva upgraded its refinery in Port Arthur, Texas, making it the largest U.S. refinery with a capacity of 656,400 b/cd, as of January 1, 2026.
+The newest refineries currently operating in the United States
+ | Year built | First operated | Location | Original owner | Original capacity b/cd | Current owner | 2026 Capacity b/cd
+ | 2021 | 2022 | Galveston, TX | Texas International Terminals | 45,000 | Texas International Terminals | 45,000
+ | 2021 | 2021 | Kern, CA | Talley Asphalt Products | 1,700 | Talley Asphalt Products | 1,700
+ | 2018 | 2019 | Channelview, TX | Targa Resources | 35,000 | Hartree Partners | 45,000
+ | 2016 | 2017 | Corpus Christi, TX | Magellan Midstream Partners | 42,500 | Oneok | 50,000
+ | 2015 | 2015 | Corpus Christi, TX | Buckeye Partners | 46,250 | Buckeye Partners | 60,000
+ | 2015 | 2015 | Houston, TX | Petromax Refining | 25,000 | Petromax Refining | 25,000
+ | 2014 | 2015 | Galena Park, TX | Kinder Morgan | 42,000 | Kinder Morgan | 105,000
+ | 1998 | 1998 | Atmore, AL | Goodway | 4,100 | Goodway | 4,100
+ | 1993 | 1993 | Valdez, AK | Petro Star | 26,300 | Petro Star | 62,000
+ | 1991 | 1992 | Ely, NV | Petro Source | 7,000 | Foreland | 2,000
+ | 1986 | 1987 | North Pole, AK | Petro Star | 6,700 | Petro Star | 25,000
+ | 1985 | 1986 | Prudhoe Bay, AK | ARCO | 12,000 | ConocoPhillips | 15,000
+ | 1979 | 1980 | Wilmington, CA | Huntway | 5,400 | Valero | 6,300
+ | 1978 | 1979 | Vicksburg, MS | Ergon | 10,000 | Ergon | 26,500
+ | 1978 | 1979 | North Slope, AK | ARCO | 13,000 | Hillcorp, North Slope | 6,500
+ | 1977 | 1978 | Lake Charles, LA | Calcasieu | 6,500 | Calcasieu | 135,500
+ | 1976 | 1977 | Garyville, LA | Marathon | 200,000 | Marathon | 617,000
+ | 1976 | 1977 | Krotz Springs, LA | Gold King | 5,000 | Delek | 80,000
+ | 1975 | 1975 | Corpus Christi, TX | Saber | 15,000 | Valero | 290,000
+Learn more:
+Refinery Capacity Report
+Refinery Rankings
+...
