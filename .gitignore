@@ -34,3 +34,6 @@ archive_log_*.txt
 !.claude/scripts/auto-deploy.sh
 !.claude/scripts/fact-check-checklist.txt
 !.claude/settings.json
+research/sources/debate-2026-10-06/debate-video.mp4
+research/sources/debate-2026-10-06/debate-audio.webm
+research/sources/debate-2026-10-06/frames/t*.jpg

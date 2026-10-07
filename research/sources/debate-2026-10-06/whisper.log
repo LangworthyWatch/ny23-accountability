@@ -1,0 +1,1760 @@
+/opt/homebrew/Cellar/openai-whisper/20250625_6/libexec/lib/python3.14/site-packages/whisper/transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[00:00.000 --> 00:04.000]  The race for New York's 23rd congressional district.
+[00:04.000 --> 00:06.000]  The Iran war.
+[00:06.000 --> 00:08.000]  Fuel prices.
+[00:08.000 --> 00:09.000]  Immigration.
+[00:09.000 --> 00:12.000]  The issues voters say matter most in this election.
+[00:12.000 --> 00:15.000]  Tonight, those issues taking center stage
+[00:15.000 --> 00:18.000]  as incumbent Nick Langworthy faces off
+[00:18.000 --> 00:20.000]  against challenger Dr. Aaron Geese
+[00:20.000 --> 00:22.000]  on the 18 news debate stage.
+[00:22.000 --> 00:25.000]  Live from your local election headquarters.
+[00:25.000 --> 00:28.000]  This is debate night in New York.
+[00:31.000 --> 00:32.000]  Good evening, everyone.
+[00:32.000 --> 00:34.000]  Thank you for joining us for tonight's debate
+[00:34.000 --> 00:36.000]  between the two candidates running for the New York House
+[00:36.000 --> 00:38.000]  District 23 race in New York,
+[00:38.000 --> 00:40.000]  running for the U.S. House of Representatives.
+[00:40.000 --> 00:42.000]  My name is Jim Turpin.
+[00:42.000 --> 00:45.000]  I'm the news director at WETM TV 18 News,
+[00:45.000 --> 00:47.000]  and I'll be your moderator tonight.
+[00:47.000 --> 00:49.000]  The candidates were provided the rules for the debates
+[00:49.000 --> 00:50.000]  several weeks ago.
+[00:50.000 --> 00:53.000]  No prepared notes are allowed on the candidates' podiums
+[00:53.000 --> 00:54.000]  and they do not have them.
+[00:54.000 --> 00:57.000]  I will ask questions of the candidates in alternate order.
+[00:57.000 --> 00:59.000]  The candidates will have one minute to reply,
+[00:59.000 --> 01:03.000]  and 30 seconds to rebut if they want to.
+[01:03.000 --> 01:06.000]  Each candidate will then have 25 seconds
+[01:06.000 --> 01:08.000]  if they choose to rebut the rebuttal.
+[01:08.000 --> 01:10.000]  So anyway, we'll see how that goes.
+[01:10.000 --> 01:13.000]  They will hear the questions for the first time
+[01:13.000 --> 01:14.000]  as I ask of them.
+[01:14.000 --> 01:17.000]  They have not been provided the questions in advance.
+[01:17.000 --> 01:19.000]  If they go a little long on their answers,
+[01:19.000 --> 01:21.000]  they will hear this sound,
+[01:21.000 --> 01:23.000]  and then they'll know to stop.
+[01:23.000 --> 01:24.000]  We hope we don't have to use that tonight.
+[01:24.000 --> 01:29.000]  The debate is live on WETM TV, WETM TV+,
+[01:29.000 --> 01:33.000]  also on mytwintears.com, and WIVB+, in Buffalo.
+[01:33.000 --> 01:36.000]  And I want to thank everybody for watching on that platform.
+[01:36.000 --> 01:40.000]  My first question tonight goes to you, Congressman Langworthy.
+[01:40.000 --> 01:42.000]  Old school questions tonight on paper.
+[01:42.000 --> 01:44.000]  What do you consider the most important issue
+[01:44.000 --> 01:47.000]  in this election for the people of New York District 23?
+[01:47.000 --> 01:49.000]  I think the most important issue on everybody's mind
+[01:49.000 --> 01:52.000]  is the question of the affordability.
+[01:52.000 --> 01:57.000]  And we have had very stubborn inflation these last five years.
+[01:57.000 --> 02:01.000]  Larry Summers, a liberal economics professor
+[02:01.000 --> 02:03.000]  that was an adviser to the Clinton administration,
+[02:03.000 --> 02:06.000]  said that if the government spends trillions of dollars
+[02:06.000 --> 02:08.000]  that it wasn't budgeted for,
+[02:08.000 --> 02:11.000]  we're going to have inflation that's going to last for some time.
+[02:11.000 --> 02:13.000]  We're in that period.
+[02:13.000 --> 02:15.000]  Government doesn't set prices.
+[02:15.000 --> 02:19.000]  Unfortunately, we have to grow our way out of this,
+[02:19.000 --> 02:23.000]  and that's why I'm very proud that we have provided the tax relief
+[02:23.000 --> 02:26.000]  that we have to put more money in people's pockets as they face this.
+[02:26.000 --> 02:29.000]  I mean, and we've cut taxes on tips over time.
+[02:29.000 --> 02:33.000]  We've given no tax on Social Security for our middle-class seniors.
+[02:33.000 --> 02:37.000]  Having that money available to them is critically important.
+[02:37.000 --> 02:38.000]  Dr. Geese, same question to you.
+[02:38.000 --> 02:40.000]  What do you consider the most important issue
+[02:40.000 --> 02:43.000]  for voters in New York District 23?
+[02:43.000 --> 02:46.000]  Well, Jim, there's no question that it is affordability.
+[02:46.000 --> 02:48.000]  But the affordability of what?
+[02:48.000 --> 02:50.000]  Folks are concerned about their utility bills.
+[02:50.000 --> 02:54.000]  They're concerned about the prices for everyday goods, for groceries.
+[02:54.000 --> 02:56.000]  They're concerned about the cost of gas.
+[02:56.000 --> 02:58.000]  And most of all, what I hear on the campaign trail,
+[02:58.000 --> 03:00.000]  and I'm in the midst of a 100-town hall tour,
+[03:00.000 --> 03:02.000]  just did our 60th last night,
+[03:02.000 --> 03:04.000]  is folks are concerned about their health care.
+[03:04.000 --> 03:06.000]  They don't know how they're going to pay for their insurance premiums,
+[03:06.000 --> 03:09.000]  how they're going to afford to keep their relative in a nursing home,
+[03:09.000 --> 03:13.000]  how they're going to afford to, if they get sick.
+[03:13.000 --> 03:18.000]  So to get back to everyday prices,
+[03:18.000 --> 03:22.000]  gas prices are high in the United States right now.
+[03:22.000 --> 03:25.000]  They're about $4.50 in the district today,
+[03:25.000 --> 03:26.000]  and diesel is even higher.
+[03:26.000 --> 03:27.000]  Diesel is at record highs.
+[03:27.000 --> 03:29.000]  And we should be clear about why that is.
+[03:29.000 --> 03:32.000]  It's because of President Trump's war in Iran,
+[03:32.000 --> 03:34.000]  when President Trump ran on no more wars.
+[03:34.000 --> 03:36.000]  Inflation.
+[03:36.000 --> 03:38.000]  Inflation is also due to the big, ugly bill,
+[03:38.000 --> 03:42.000]  which adds $4.5 trillion to our national debt
+[03:42.000 --> 03:45.000]  for a tax cut for wealthy corporations.
+[03:45.000 --> 03:47.000]  Okay, Dr. Geese, the next question goes to you,
+[03:47.000 --> 03:49.000]  and you're kind of talking about it right now.
+[03:49.000 --> 03:51.000]  The war against Iran continues.
+[03:51.000 --> 03:53.000]  In your opinion, is it time for the U.S. to end the war,
+[03:53.000 --> 03:56.000]  or should it continue to a conclusion acceptable
+[03:56.000 --> 04:00.000]  to President Trump and his cabinet?
+[04:00.000 --> 04:04.000]  Well, Jim, first of all, it's not clear what that acceptable end would be.
+[04:04.000 --> 04:08.000]  The administration continues to change the answer
+[04:08.000 --> 04:11.000]  when they're asked what their strategic objectives are.
+[04:11.000 --> 04:14.000]  But the American people can't wait.
+[04:14.000 --> 04:19.000]  This war is making our lives unlivable.
+[04:19.000 --> 04:22.000]  When the price of diesel goes above $6 a gallon,
+[04:22.000 --> 04:26.000]  everything that we buy, everything that comes on a truck costs more.
+[04:26.000 --> 04:30.000]  Getting to work costs more, and so wages mean less.
+[04:30.000 --> 04:34.000]  Meanwhile, the Strait of Hormuz remains closed,
+[04:34.000 --> 04:38.000]  and there is no plan except, apparently, to keep on bombing.
+[04:38.000 --> 04:41.000]  Yes, in my view, on day one, the next Congress
+[04:41.000 --> 04:44.000]  should pass a binding war powers resolution
+[04:44.000 --> 04:47.000]  that would compel the president to wind up the conflict
+[04:47.000 --> 04:50.000]  in a dignified way within 40 days,
+[04:50.000 --> 04:53.000]  and then we need to work with our partners
+[04:53.000 --> 04:57.000]  to achieve our strategic objectives through negotiation with Iran.
+[04:57.000 --> 04:59.000]  Congressman Langworthy, same question.
+[04:59.000 --> 05:01.000]  Should the war end now, or should it continue
+[05:01.000 --> 05:04.000]  until it reaches the conclusion that the president would like?
+[05:04.000 --> 05:07.000]  I would like the war in Iran to end at the earliest possible date.
+[05:07.000 --> 05:09.000]  But you don't tie the commander in chief's hands.
+[05:09.000 --> 05:11.000]  We have one commander in chief at a time.
+[05:11.000 --> 05:13.000]  I didn't make a decision to go to war,
+[05:13.000 --> 05:17.000]  but we find ourselves in that position now.
+[05:17.000 --> 05:21.000]  It has certainly driven up the cost of gasoline and diesel fuel,
+[05:21.000 --> 05:25.000]  but at the same time, the objective to prevent
+[05:25.000 --> 05:32.000]  the Islamic regime in Iran from having a nuclear weapon
+[05:32.000 --> 05:36.000]  is extraordinarily important,
+[05:36.000 --> 05:38.000]  because they would use it.
+[05:38.000 --> 05:42.000]  This is the largest state sponsor of terror the world has ever known.
+[05:42.000 --> 05:45.000]  They have the blood of countless nations under their fingernails,
+[05:45.000 --> 05:47.000]  including American citizens.
+[05:47.000 --> 05:49.000]  They have said that they wanted to negotiate an end.
+[05:49.000 --> 05:51.000]  We had diplomats on planes on our way there
+[05:51.000 --> 05:54.000]  only for them to move the goal post and change.
+[05:54.000 --> 05:56.000]  This regime has notoriously lied.
+[05:56.000 --> 05:58.000]  We have to get to a diplomatic solution.
+[05:58.000 --> 06:02.000]  I don't support ground troops at this time going to Iran.
+[06:02.000 --> 06:05.000]  I don't believe that that is the will of the country.
+[06:05.000 --> 06:09.000]  But we cannot tie the hands of the commander in chief.
+[06:09.000 --> 06:12.000]  I'd like to respond to that briefly, if I may.
+[06:12.000 --> 06:14.000]  Is this a rebuttal question?
+[06:14.000 --> 06:16.000]  It can be.
+[06:16.000 --> 06:21.000]  It would not be the Congress tying the hands of the president.
+[06:21.000 --> 06:25.000]  The Constitution ties the hands of the American president,
+[06:25.000 --> 06:28.000]  because it clearly guarantees to Congress the right
+[06:28.000 --> 06:30.000]  to declare war and to negotiate peace,
+[06:30.000 --> 06:33.000]  and it is high time that the Congress reclaimed that right
+[06:33.000 --> 06:35.000]  on behalf of the American people,
+[06:35.000 --> 06:37.000]  because the objectives in this conflict are not clear,
+[06:37.000 --> 06:40.000]  and this war is costing American lives, American treasure.
+[06:40.000 --> 06:44.000]  It is causing the lives of people in other nations affecting their security,
+[06:44.000 --> 06:46.000]  and it must end with a negotiated settlement
+[06:46.000 --> 06:48.000]  if it doesn't end with ground troops.
+[06:48.000 --> 06:52.000]  And President Langworthy is correct that we should not invade on the ground.
+[06:52.000 --> 06:54.000]  Congressman, would you like to respond?
+[06:54.000 --> 06:57.000]  It's rather naive to suggest that 435 members of Congress
+[06:57.000 --> 07:02.000]  are going to negotiate with the Iranian regime on an end to the war.
+[07:02.000 --> 07:05.000]  And if you tell a regime like this that has sponsored terror
+[07:05.000 --> 07:07.000]  through its proxies across the globe,
+[07:07.000 --> 07:09.000]  that you're going to be out in 45 days,
+[07:09.000 --> 07:11.000]  you're going to have the same kind of impact
+[07:11.000 --> 07:14.000]  that we had with the botched withdrawal from Afghanistan.
+[07:14.000 --> 07:18.000]  My next question comes from the Steuben and Shimon counties
+[07:18.000 --> 07:20.000]  chapter of the League of Women Voters.
+[07:20.000 --> 07:21.000]  Congressman, this one goes to you.
+[07:21.000 --> 07:24.000]  Are elections in the United States safe and fair?
+[07:24.000 --> 07:28.000]  I fight for voter ID, and I voted for it many times.
+[07:28.000 --> 07:32.000]  Unfortunately, we can't find bipartisan collaboration on that,
+[07:32.000 --> 07:37.000]  despite the fact that 80 percent of the public wants and demands it.
+[07:37.000 --> 07:41.000]  We have 10 million people come under over our borders illegally,
+[07:41.000 --> 07:44.000]  many of which we have no idea why they're here.
+[07:44.000 --> 07:47.000]  Showing your identification is something very simple.
+[07:47.000 --> 07:51.000]  You have to use it for many transactions across American life.
+[07:51.000 --> 07:53.000]  This is a routine thing that we do.
+[07:53.000 --> 07:56.000]  Yet there's such an intense allergy on the other side
+[07:56.000 --> 07:58.000]  to ask for identification in our elections.
+[07:58.000 --> 08:01.000]  That's the perfect way to get any guesswork out of our elections,
+[08:01.000 --> 08:05.000]  is to have the voter ID standard be across all 50 states.
+[08:05.000 --> 08:08.000]  Same question to you, Dr. Giese, from the Steuben and Shimon counties chapter
+[08:08.000 --> 08:09.000]  of the League of Women Voters.
+[08:09.000 --> 08:12.000]  Are elections in the United States safe and fair?
+[08:12.000 --> 08:15.000]  I believe they are, and I would love to keep them that way.
+[08:15.000 --> 08:18.000]  I think one of the best ways to do that is to keep our federal government
+[08:18.000 --> 08:21.000]  from meddling in elections, which again,
+[08:21.000 --> 08:25.000]  per the Constitution, are reserved to the states.
+[08:25.000 --> 08:28.000]  Now, when it comes to voter ID, I don't support the Save America Act,
+[08:28.000 --> 08:31.000]  but I do support voter ID.
+[08:31.000 --> 08:34.000]  I don't know if Congressman Langworthy has ever worked as a poll worker,
+[08:34.000 --> 08:38.000]  but I have, and I know that when you sign in at the polls,
+[08:38.000 --> 08:41.000]  and when you do this in a few weeks when it's time to vote,
+[08:41.000 --> 08:44.000]  there's a bipartisan team, and they're there to verify your identity.
+[08:44.000 --> 08:48.000]  When you register to vote at the BOE or the DMV or wherever you do that,
+[08:48.000 --> 08:51.000]  you have to show ID, and that should be the standard.
+[08:51.000 --> 08:53.000]  But the Save America Act would mean that, say,
+[08:53.000 --> 08:56.000]  folks on large reservations who only have their tribal ID,
+[08:56.000 --> 08:58.000]  that ID would not be valid for them to vote.
+[08:58.000 --> 09:02.000]  Folks who don't happen to have a passport or a marriage certificate
+[09:02.000 --> 09:05.000]  that shows their married name, they wouldn't be able to vote.
+[09:05.000 --> 09:08.000]  And voting is not like being in a private club.
+[09:08.000 --> 09:10.000]  It is a right, guaranteed to us by the Constitution.
+[09:10.000 --> 09:14.000]  We have to make it possible for every citizen above the age of 18 to vote.
+[09:14.000 --> 09:17.000]  And you should simply be who you say that you are
+[09:17.000 --> 09:20.000]  and show an identification to prove that that's who exactly
+[09:20.000 --> 09:22.000]  is signing in at that polling place.
+[09:22.000 --> 09:26.000]  This is not a tall order to ask anyone to produce it.
+[09:26.000 --> 09:29.000]  I mean, you need to use ID all the time.
+[09:29.000 --> 09:33.000]  Not every state has the same standards of bipartisan poll workers.
+[09:33.000 --> 09:35.000]  So the state of Georgia, up until their reforms,
+[09:35.000 --> 09:39.000]  had absolutely no bipartisanship in the past.
+[09:39.000 --> 09:43.000]  You know, these things need to be standard and uniform.
+[09:43.000 --> 09:47.000]  Voter identification is a common-sense solution.
+[09:47.000 --> 09:49.000]  All right, Dr. Geese, next question goes to you.
+[09:49.000 --> 09:52.000]  This question also comes from the League of Women Voters.
+[09:52.000 --> 09:55.000]  Millions of Americans are suffering, rather, financially
+[09:55.000 --> 10:00.000]  due to the high price of gas, groceries, and other goods needed for daily life.
+[10:00.000 --> 10:03.000]  What policies would you support that would lower these prices?
+[10:03.000 --> 10:05.000]  Certainly.
+[10:05.000 --> 10:10.000]  So there are a number of important things that we could do, and I think do quickly.
+[10:10.000 --> 10:13.000]  The first we've already talked about, and that is,
+[10:13.000 --> 10:15.000]  we need to wind up the conflict with Iran,
+[10:15.000 --> 10:19.000]  which we both agree is driving up the cost of gas and diesel,
+[10:19.000 --> 10:21.000]  and that is driving up the cost of everything,
+[10:21.000 --> 10:26.000]  because pretty much everything comes to us on a truck or a boat.
+[10:26.000 --> 10:30.000]  The second thing that we need to do is reverse President Trump's tariffs.
+[10:30.000 --> 10:35.000]  Consumers have already paid an average of $1,700 last year because of the tariffs.
+[10:35.000 --> 10:40.000]  And in this district, the tariffs particularly hurt our relationship with Canada,
+[10:40.000 --> 10:44.000]  which is a really important economic and personal relationship
+[10:44.000 --> 10:47.000]  that we have here in western New York and the southern tier.
+[10:47.000 --> 10:50.000]  Border crossings were down last year by 25 percent,
+[10:50.000 --> 10:54.000]  and I don't think they'll be up this year based on this new phase of the trade war.
+[10:54.000 --> 10:56.000]  So that will help to bring prices down.
+[10:56.000 --> 10:58.000]  It will help to give a boost to small business,
+[10:58.000 --> 11:03.000]  which is disproportionately hurt by these arbitrary, job-killing tariffs.
+[11:03.000 --> 11:05.000]  Congressman Langworthy, same question to you.
+[11:05.000 --> 11:08.000]  Millions of Americans are suffering financially
+[11:08.000 --> 11:11.000]  due to the high price of gas, groceries, and other goods needed for everyday life.
+[11:11.000 --> 11:14.000]  What policies would you support to try to bring these down?
+[11:14.000 --> 11:18.000]  Well, one of the first things we did is we lowered taxes across the board
+[11:18.000 --> 11:21.000]  so that our small businesses can grow and thrive and employ people
+[11:21.000 --> 11:26.000]  as they do, you know, so many small businesses I visit all over this district.
+[11:26.000 --> 11:28.000]  My opponent attacks the tariffs.
+[11:28.000 --> 11:32.000]  The tariff is the most pro-worker tool that can be in the arsenal.
+[11:32.000 --> 11:36.000]  We have sold out our jobs across western New York and the southern tier
+[11:36.000 --> 11:39.000]  through free trade agreements over the last 30 years,
+[11:39.000 --> 11:44.000]  and we could list factory after factory, business after business that's left here
+[11:44.000 --> 11:47.000]  and taking the jobs with them and then taking the families
+[11:47.000 --> 11:51.000]  as they've had to spread all over to find opportunity elsewhere.
+[11:51.000 --> 11:54.000]  We have to, in order to bring our gas prices down,
+[11:54.000 --> 11:57.000]  we need more refining capability in this country.
+[11:57.000 --> 12:02.000]  We are a net exporter of oil and fossil fuels.
+[12:02.000 --> 12:05.000]  We need to build more oil refineries here in the United States of America.
+[12:05.000 --> 12:07.000]  We haven't done it in 50 years,
+[12:07.000 --> 12:11.000]  whether it was the war in the Ukraine breaking out or war in the Middle East.
+[12:11.000 --> 12:16.000]  We shouldn't be dependent on global affairs on all of our gas and fuel prices.
+[12:16.000 --> 12:17.000]  If I may?
+[12:17.000 --> 12:18.000]  Sure.
+[12:18.000 --> 12:23.000]  The tax cuts in the big ugly bill overwhelmingly go to the wealthiest Americans
+[12:23.000 --> 12:25.000]  and the corporations that they control.
+[12:25.000 --> 12:27.000]  They are deficit tax cuts.
+[12:27.000 --> 12:29.000]  That is, they are on our nation's credit card.
+[12:29.000 --> 12:32.000]  They weaken workers, they weaken small business,
+[12:32.000 --> 12:35.000]  and they use the government to subsidize the richest people
+[12:35.000 --> 12:37.000]  in the history of the planet.
+[12:37.000 --> 12:39.000]  We are not set to grow ourselves out of this.
+[12:39.000 --> 12:41.000]  We are hurting small business.
+[12:41.000 --> 12:42.000]  We need to reverse the tariffs.
+[12:42.000 --> 12:44.000]  We need to reduce taxes on working people
+[12:44.000 --> 12:46.000]  and stop using the government to subsidize
+[12:46.000 --> 12:48.000]  the richest people who have ever existed.
+[12:48.000 --> 12:51.000]  We did reduce taxes on working people.
+[12:51.000 --> 12:53.000]  We doubled the child tax credit.
+[12:53.000 --> 12:56.000]  We gave no tax on Social Security for our seniors,
+[12:56.000 --> 12:58.000]  no tax on tips, no tax on overtime.
+[12:58.000 --> 13:00.000]  That isn't millionaires and billionaires.
+[13:00.000 --> 13:02.000]  That's regular people right here in our community
+[13:02.000 --> 13:07.000]  that have their tax refund checks went up 11% year over year.
+[13:07.000 --> 13:08.000]  That's a matter of fact.
+[13:08.000 --> 13:09.000]  It's indisputable.
+[13:09.000 --> 13:11.000]  There's more money in their pocket this year,
+[13:11.000 --> 13:15.000]  and it's not something that my opponent can dispute.
+[13:15.000 --> 13:16.000]  All right.
+[13:16.000 --> 13:18.000]  Congressman Langworthy, the next question starts with you.
+[13:18.000 --> 13:21.000]  Government projections show that Social Security Fund
+[13:21.000 --> 13:24.000]  could be insolvent by 2032 if something isn't done.
+[13:24.000 --> 13:26.000]  What do you think, if anything, should be done
+[13:26.000 --> 13:31.000]  to ensure that future retirees can still draw Social Security benefits?
+[13:31.000 --> 13:34.000]  I think it's time for us to have a Social Security commission
+[13:34.000 --> 13:36.000]  on a bipartisan basis.
+[13:36.000 --> 13:38.000]  This has been done in the past.
+[13:38.000 --> 13:42.000]  I mean, it's much like when you decide which bases are going
+[13:42.000 --> 13:44.000]  as you move the military bases around the country
+[13:44.000 --> 13:46.000]  and reposition them.
+[13:46.000 --> 13:49.000]  You cannot do this on a partisan basis.
+[13:49.000 --> 13:50.000]  It's far too serious.
+[13:50.000 --> 13:53.000]  Social Security is a contract with the American people.
+[13:53.000 --> 13:55.000]  You paid in all your life into this,
+[13:55.000 --> 13:58.000]  and so many people's livelihoods are dependent on it.
+[13:58.000 --> 14:02.000]  We have to have a modernization of Social Security
+[14:02.000 --> 14:06.000]  done in a bipartisan fashion, take the politics out of it,
+[14:06.000 --> 14:10.000]  and let's have a bright and vibrant future
+[14:10.000 --> 14:12.000]  while meeting that promise that has been made
+[14:12.000 --> 14:14.000]  to American workers their whole lives.
+[14:14.000 --> 14:15.000]  Dr. Gee, same question.
+[14:15.000 --> 14:18.000]  What should be done to keep Social Security solvent?
+[14:18.000 --> 14:20.000]  Well, it's difficult for me to tell
+[14:20.000 --> 14:23.000]  what Congressman Langworthy's preferred solution would be
+[14:23.000 --> 14:25.000]  other than that he wants it to be bipartisan,
+[14:25.000 --> 14:27.000]  which is certainly correct.
+[14:27.000 --> 14:29.000]  We have to do this in a bipartisan way.
+[14:29.000 --> 14:31.000]  But let me say this first.
+[14:31.000 --> 14:34.000]  We should never privatize Social Security,
+[14:34.000 --> 14:38.000]  which would turn it into a 401K and make it easier
+[14:38.000 --> 14:41.000]  for the government to steal from
+[14:41.000 --> 14:44.000]  or make it subject to market pressures.
+[14:44.000 --> 14:46.000]  So if that's the solution, count me out.
+[14:46.000 --> 14:50.000]  What we should do is eliminate the cap on Social Security earnings
+[14:50.000 --> 14:54.000]  so that if you earn more than $185,000 a year,
+[14:54.000 --> 14:57.000]  those earnings in excess of $185,000 a year
+[14:57.000 --> 14:59.000]  would also be subject to the Social Security tax.
+[14:59.000 --> 15:03.000]  This would not compel rich Americans to pay more proportionally
+[15:03.000 --> 15:05.000]  than working class and middle class Americans
+[15:05.000 --> 15:07.000]  just the same thing.
+[15:07.000 --> 15:09.000]  That is their fair share.
+[15:09.000 --> 15:12.000]  If we do that, then we can keep Social Security solvent
+[15:12.000 --> 15:14.000]  and meet our commitment to our seniors,
+[15:14.000 --> 15:17.000]  which I agree we must meet.
+[15:17.000 --> 15:19.000]  All right, we're going to take a short break,
+[15:19.000 --> 15:23.000]  and we'll be back with the debate on WETM+, WETM.
+[15:23.000 --> 15:26.000]  Thank you for watching.
+[15:36.000 --> 15:39.000]  Okay, we're back with our U.S. House District 23
+[15:39.000 --> 15:41.000]  New York congressional debate.
+[15:41.000 --> 15:43.000]  Dr. Yeast, next question goes to you.
+[15:43.000 --> 15:45.000]  Former President Bill Clinton won an election
+[15:45.000 --> 15:47.000]  by campaigning with the slogan,
+[15:47.000 --> 15:49.000]  it's the economy, stupid.
+[15:49.000 --> 15:51.000]  Do you think the upcoming midterm election
+[15:51.000 --> 15:53.000]  is mostly about the economy?
+[15:53.000 --> 15:56.000]  I do. I agree that it's mostly about the economy.
+[15:56.000 --> 16:00.000]  I think that the stock market keeps going up,
+[16:00.000 --> 16:02.000]  and when I look at it, it makes me nervous
+[16:02.000 --> 16:05.000]  because I live here, and I see businesses closing,
+[16:05.000 --> 16:07.000]  and I see people out of work,
+[16:07.000 --> 16:10.000]  and I see that homelessness is up in the southern tier
+[16:10.000 --> 16:13.000]  by 32% almost last year,
+[16:13.000 --> 16:15.000]  according to the report by the Comptroller.
+[16:15.000 --> 16:18.000]  So folks out here, they're not doing well.
+[16:18.000 --> 16:20.000]  They're not better off than they were
+[16:20.000 --> 16:24.000]  a couple of years ago, and so we have to ask ourselves why,
+[16:24.000 --> 16:27.000]  and I believe one reason is that big ugly bill,
+[16:27.000 --> 16:29.000]  and another reason is the war,
+[16:29.000 --> 16:31.000]  and a third reason is the tariffs,
+[16:31.000 --> 16:34.000]  and I'm particularly concerned about what that big ugly bill
+[16:34.000 --> 16:37.000]  is about to do to our healthcare in early 2027
+[16:37.000 --> 16:40.000]  when the cuts to Medicare and Medicaid go into effect.
+[16:40.000 --> 16:43.000]  Already we're seeing nursing homes close.
+[16:43.000 --> 16:46.000]  We've lost five in the last couple of years.
+[16:46.000 --> 16:48.000]  We've lost 28 pharmacies.
+[16:48.000 --> 16:51.000]  One study showed that eight out of our 12 hospitals in the district
+[16:51.000 --> 16:54.000]  are in danger of closure if those cuts go into effect.
+[16:54.000 --> 16:56.000]  So yes, it's about the economy.
+[16:56.000 --> 16:58.000]  Representative Langworthy, same question to you.
+[16:58.000 --> 17:00.000]  Is it about the economy in this election?
+[17:00.000 --> 17:02.000]  Every election in New York's 23rd District
+[17:02.000 --> 17:05.000]  and throughout Western New York, or upstate New York for that matter,
+[17:05.000 --> 17:07.000]  is about the economy,
+[17:07.000 --> 17:09.000]  and it's the economy that's been brought to us
+[17:09.000 --> 17:11.000]  by New York State government run amok
+[17:11.000 --> 17:13.000]  and Kathy Hochul's policies.
+[17:13.000 --> 17:15.000]  Your electric bill has doubled
+[17:15.000 --> 17:17.000]  as Kathy Hochul's public service commission
+[17:17.000 --> 17:20.000]  has raised rates 48 times.
+[17:20.000 --> 17:24.000]  They have found more ways to tax, regulate,
+[17:24.000 --> 17:26.000]  and nickel and dime the people of this region,
+[17:26.000 --> 17:28.000]  chasing jobs and opportunity
+[17:28.000 --> 17:31.000]  and sue many of our citizens to other states.
+[17:31.000 --> 17:33.000]  This is a sad narrative that's got to stop.
+[17:33.000 --> 17:37.000]  We can no longer have the business climate that we have
+[17:37.000 --> 17:39.000]  and have a sustainable future.
+[17:39.000 --> 17:41.000]  You know, the things that my opponent mentions
+[17:41.000 --> 17:44.000]  about pharmacies and nursing homes close,
+[17:44.000 --> 17:46.000]  they're not closing in other states,
+[17:46.000 --> 17:49.000]  so I don't believe that the aim should be looking
+[17:49.000 --> 17:50.000]  at the federal government
+[17:50.000 --> 17:53.000]  because they're surviving and thriving elsewhere.
+[17:53.000 --> 17:57.000]  New York has had a long period of economic malaise
+[17:57.000 --> 18:01.000]  and we need relief from Kathy Hochul's reign.
+[18:01.000 --> 18:04.000]  I have to say, with regard to pharmacies,
+[18:04.000 --> 18:06.000]  that's not accurate, Congressman.
+[18:06.000 --> 18:09.000]  A lot of those closures were due to the bankruptcy of Rite Aid,
+[18:09.000 --> 18:12.000]  and the Rite Aid bankruptcy was national.
+[18:13.000 --> 18:18.000]  There is disruption in the healthcare markets nationwide.
+[18:18.000 --> 18:20.000]  Things are not going well,
+[18:20.000 --> 18:23.000]  and they're about to get dramatically worse.
+[18:23.000 --> 18:26.000]  Arnett Ogden, the hospital here in Elmira,
+[18:26.000 --> 18:30.000]  is the largest employer in the city, 2,200 people,
+[18:30.000 --> 18:34.000]  and it is the most threatened hospital by the big, ugly bill.
+[18:34.000 --> 18:35.000]  It's amazing.
+[18:35.000 --> 18:37.000]  I visited Arnett many times.
+[18:37.000 --> 18:39.000]  I talked to their executives on a very regular basis.
+[18:39.000 --> 18:42.000]  I'm currently working on getting federal funds
+[18:42.000 --> 18:44.000]  for projects within Arnett,
+[18:44.000 --> 18:46.000]  and they're going to benefit directly
+[18:46.000 --> 18:48.000]  from the Rural Transformation Fund,
+[18:48.000 --> 18:51.000]  a $50 billion once of a first time of its kind,
+[18:51.000 --> 18:53.000]  a fund just aimed at rural healthcare
+[18:53.000 --> 18:55.000]  all the way across our district,
+[18:55.000 --> 18:56.000]  and the plans are already in place
+[18:56.000 --> 18:59.000]  to bring those funding pots here to our district
+[18:59.000 --> 19:02.000]  in rural hospitals all over America.
+[19:02.000 --> 19:04.000]  The trail of tears, economically,
+[19:04.000 --> 19:07.000]  that we have in this region is because Kathy Hochul
+[19:07.000 --> 19:09.000]  and the New York State government is out of touch.
+[19:09.000 --> 19:12.000]  You know, I agree that our utility bills are too high,
+[19:12.000 --> 19:16.000]  and I do blame Albany for that, in part, at least.
+[19:16.000 --> 19:18.000]  But let me say this.
+[19:18.000 --> 19:20.000]  The Rural Healthcare Transformation Fund,
+[19:20.000 --> 19:24.000]  which is fine, our share of it is $74 million.
+[19:24.000 --> 19:27.000]  The big, ugly bill cuts $63 billion
+[19:27.000 --> 19:30.000]  out of New York State's Medicare and Medicaid budget.
+[19:30.000 --> 19:32.000]  It's almost 1,000 times more.
+[19:32.000 --> 19:35.000]  So for Congressman Langworthy to compare the two,
+[19:35.000 --> 19:38.000]  they're just not comparable.
+[19:38.000 --> 19:39.000]  Do I get another rebuttal?
+[19:39.000 --> 19:40.000]  Absolutely.
+[19:40.000 --> 19:43.000]  I mean, we will spend more at the end of the decade on Medicaid,
+[19:43.000 --> 19:46.000]  $45 billion more a year than we spend today.
+[19:46.000 --> 19:49.000]  Medicaid will continue to grow and go up.
+[19:49.000 --> 19:53.000]  The trajectory of the program was unsustainable.
+[19:53.000 --> 19:56.000]  What you have is Medicaid that's been abused
+[19:56.000 --> 19:58.000]  by states in particular,
+[19:58.000 --> 20:00.000]  and we have put a common sense work requirement on here
+[20:00.000 --> 20:03.000]  because that program must be there for the most vulnerable,
+[20:03.000 --> 20:06.000]  the disabled, the impoverished, and our elderly people.
+[20:06.000 --> 20:08.000]  It's not a lifestyle choice.
+[20:08.000 --> 20:11.000]  I'll never apologize for supporting work requirements.
+[20:11.000 --> 20:14.000]  All right, Representative Langworthy, this is yours first.
+[20:14.000 --> 20:18.000]  A lot of American goods have gone up in price,
+[20:18.000 --> 20:20.000]  likely because of diesel fuel prices.
+[20:20.000 --> 20:22.000]  Diesel powers railroads.
+[20:22.000 --> 20:23.000]  It powers semi-trucks.
+[20:23.000 --> 20:27.000]  It powers a lot of the vehicles that deliver goods to our stores.
+[20:27.000 --> 20:32.000]  Should gasoline, diesel fuel, and other products be regulated by law?
+[20:32.000 --> 20:36.000]  Well, I think, you know, I don't believe in price controls,
+[20:36.000 --> 20:39.000]  but I do think that we need to harness more of our American energy
+[20:39.000 --> 20:42.000]  and refine it here in the United States of America.
+[20:42.000 --> 20:45.000]  I have long had a problem with refiners,
+[20:45.000 --> 20:48.000]  is we have a disparity in price between the Southern Tier
+[20:48.000 --> 20:50.000]  and the Buffalo metropolitan area in price,
+[20:50.000 --> 20:53.000]  even though they're closer to the Pennsylvania refineries.
+[20:53.000 --> 20:57.000]  We can solve that problem if we do create a larger refining network
+[20:57.000 --> 21:02.000]  here in the country as we become a greater global exporter
+[21:02.000 --> 21:06.000]  of so many of our energy sources.
+[21:06.000 --> 21:09.000]  But the fact that we haven't created a new refinery in 50 years,
+[21:09.000 --> 21:12.000]  that is something that has got to change.
+[21:12.000 --> 21:15.000]  We have to have a broader network of those refineries
+[21:15.000 --> 21:18.000]  in order to bring that product to market.
+[21:18.000 --> 21:20.000]  Dr. Beas?
+[21:20.000 --> 21:24.000]  Increasing global exports of liquefied natural gas
+[21:24.000 --> 21:28.000]  would not bring down prices in Western New York and the Southern Tier.
+[21:28.000 --> 21:31.000]  They would make a scarce commodity more scarce.
+[21:31.000 --> 21:33.000]  And the more dependent we are on that commodity,
+[21:33.000 --> 21:35.000]  the higher the price is going to be.
+[21:35.000 --> 21:38.000]  This is why I oppose Nick Langworthy's signature piece of legislation,
+[21:38.000 --> 21:42.000]  the Energy Choice Act, because by banning the bans, as he said,
+[21:42.000 --> 21:46.000]  it would force consumers to pay natural gas prices forever,
+[21:46.000 --> 21:49.000]  whatever the gas company wants to charge for them.
+[21:49.000 --> 21:53.000]  I am for giving people more control over where they get their energy
+[21:53.000 --> 21:56.000]  and how much they pay for it.
+[21:56.000 --> 21:59.000]  And I believe to do that we need to diversify the sources
+[21:59.000 --> 22:04.000]  from which we get our energy and not give more power to big refiners
+[22:04.000 --> 22:07.000]  that are subject to shocks like the current shock
+[22:07.000 --> 22:11.000]  and the Strait of Hormuz and the Strait of Bab al-Mandeb and in Ukraine.
+[22:11.000 --> 22:15.000]  Well, there's a clear contrast between my opponent and I.
+[22:15.000 --> 22:17.000]  I mean, you heard it from him.
+[22:17.000 --> 22:20.000]  He opposes the Energy Choice Act, which would stop Kathy Hochul
+[22:20.000 --> 22:24.000]  from banning us from bringing natural gas into our homes.
+[22:24.000 --> 22:28.000]  He believes that you should be mandated to be in an all-electric home.
+[22:28.000 --> 22:29.000]  I don't.
+[22:29.000 --> 22:31.000]  I think that it's a matter of life and death
+[22:31.000 --> 22:35.000]  for us to have redundancy in the way we heat our homes
+[22:35.000 --> 22:37.000]  in this very difficult climate.
+[22:37.000 --> 22:41.000]  I also believe that the state's climate law is too aggressive,
+[22:41.000 --> 22:45.000]  and I will never support things like bans on wood-burning stoves
+[22:45.000 --> 22:48.000]  or propane or no more hookups for natural gas.
+[22:48.000 --> 22:50.000]  But that should be dealt with at the state level.
+[22:50.000 --> 22:53.000]  We do not need a federal ban that would prohibit states
+[22:53.000 --> 22:56.000]  from doing anything to diversify our energy mix.
+[22:56.000 --> 23:00.000]  That is not the way to make energy affordable and accessible for everyone,
+[23:00.000 --> 23:03.000]  which is what we need to do desperately right now
+[23:03.000 --> 23:06.000]  when people's electric bills are going up through the roof.
+[23:06.000 --> 23:08.000]  Okay, I want to ask a follow-up question here.
+[23:08.000 --> 23:11.000]  If the state, you say keep it at the state level,
+[23:11.000 --> 23:14.000]  but if the state mandates only one form of power,
+[23:14.000 --> 23:16.000]  is that a good or a bad thing?
+[23:16.000 --> 23:17.000]  That would be a bad thing.
+[23:17.000 --> 23:20.000]  We need a diversified energy mix.
+[23:20.000 --> 23:21.000]  Yes?
+[23:21.000 --> 23:27.000]  I think that my opponent's mistaken about the intention of New York State's laws.
+[23:27.000 --> 23:31.000]  New York State looks to take us off of natural gas and propane.
+[23:31.000 --> 23:34.000]  And yes, there are proposals in New York to ban wood heat.
+[23:34.000 --> 23:38.000]  These are lifeblood necessities for people in western New York
+[23:38.000 --> 23:39.000]  in the southern tier.
+[23:39.000 --> 23:43.000]  When I went to Congress, I introduced this bill out of necessity
+[23:43.000 --> 23:47.000]  because I had to find a federal solution around a really bad piece of state policy
+[23:47.000 --> 23:52.000]  drawn by New York City residents that don't understand our lifestyle.
+[23:52.000 --> 23:57.000]  I mean, Winter Storm Elliott, we lost 69 lives in western New York
+[23:57.000 --> 23:59.000]  in that horrible blizzard.
+[23:59.000 --> 24:02.000]  It was the most desperate situation I have personally lived through.
+[24:02.000 --> 24:03.000]  911 collapsed.
+[24:03.000 --> 24:05.000]  People froze to death in their homes.
+[24:05.000 --> 24:09.000]  Those were the people that had baseboard electric heat only.
+[24:09.000 --> 24:14.000]  The winds were so great that the power lines weren't able to be restored for days.
+[24:14.000 --> 24:18.000]  I mean, that should never happen in a place like New York.
+[24:18.000 --> 24:22.000]  Unfortunately, these wrongheaded policies that have come out of the New York State Legislature,
+[24:22.000 --> 24:26.000]  which has gone to the extreme left in their desire to be the most green,
+[24:26.000 --> 24:29.000]  are putting New Yorkers' lives in danger.
+[24:29.000 --> 24:33.000]  Doctor, I'm going to come to you with the next question because it's right along the same track here.
+[24:33.000 --> 24:37.000]  Are you concerned at all about the American electric grid?
+[24:37.000 --> 24:40.000]  Just keep it hyper-local with New York, the New York electric grid,
+[24:40.000 --> 24:44.000]  its ability to handle the load that's currently on it,
+[24:44.000 --> 24:47.000]  and the fact that grid owners around the country, frankly,
+[24:47.000 --> 24:53.000]  have not done much to upgrade their security or their ability to carry more electricity to people.
+[24:53.000 --> 24:54.000]  Does that concern you?
+[24:54.000 --> 24:59.000]  Yes, I am concerned about that, Jim, and there are several reasons why.
+[24:59.000 --> 25:03.000]  One reason is because we have utility companies that are owned by foreign countries,
+[25:03.000 --> 25:08.000]  not owned by New York State, and not owned by private companies that are owned right here inside the state.
+[25:08.000 --> 25:13.000]  And so they take their profits overseas, and they make their investments, well,
+[25:13.000 --> 25:16.000]  based on what they can negotiate with the utility commission.
+[25:16.000 --> 25:20.000]  And I don't think we always get the best deal, and I'm frustrated, frankly, with Albany about that.
+[25:20.000 --> 25:24.000]  But I'll tell you something else that concerns me, and that is data centers.
+[25:24.000 --> 25:30.000]  AI data centers, the number in the pipeline, are poised to double the power demand
+[25:30.000 --> 25:34.000]  of every man, woman, and child in business that is currently here in New York State.
+[25:34.000 --> 25:38.000]  Our electric grid absolutely cannot support that.
+[25:38.000 --> 25:44.000]  And if you don't think that it's going to affect your electricity rates, boy, you've got another thing coming.
+[25:44.000 --> 25:46.000]  I support the governor's moratorium.
+[25:46.000 --> 25:51.000]  And by the way, Nick Langworthy has said this is a local issue, which I think makes no sense.
+[25:51.000 --> 25:56.000]  Bruce Blakeman has been very positive about data centers, and so has Donald Trump.
+[25:56.000 --> 26:01.000]  Same question to you about the security of electric grids and their ability to handle the load.
+[26:01.000 --> 26:03.000]  I'm deeply concerned about the grid.
+[26:03.000 --> 26:09.000]  And, you know, Governor Hochul has been raising rates in a backdoor fashion.
+[26:09.000 --> 26:12.000]  She has this faceless commission that raises rates.
+[26:12.000 --> 26:14.000]  It's not, you know, the governor or the legislature.
+[26:14.000 --> 26:19.000]  But they've done it 48 times, and they've done it so that they wouldn't have their fingerprints on it.
+[26:19.000 --> 26:24.000]  And they've done it in the name of full electrification, which I believe, as I stated in my previous question,
+[26:24.000 --> 26:27.000]  is dangerous for New Yorkers that live in this climate.
+[26:27.000 --> 26:34.000]  You know, my opponent talks about data centers, and I did something about that, you know, not just talk.
+[26:34.000 --> 26:38.000]  The Rape Payer Protection Act addresses this directly.
+[26:38.000 --> 26:40.000]  And data centers are coming to the United States.
+[26:40.000 --> 26:42.000]  They need to generate their own power.
+[26:42.000 --> 26:48.000]  And in doing so, they can actually add power back onto the grid rather than take it off.
+[26:48.000 --> 26:53.000]  That is a mandate that I think has to be put on these projects so that local people don't have
+[26:53.000 --> 26:57.000]  sky-high energy bills because a data center has been cited in their area.
+[26:57.000 --> 26:59.000]  Let's be clear.
+[26:59.000 --> 27:03.000]  Congressman Langworthy wants data centers to generate their own power.
+[27:03.000 --> 27:09.000]  And that kind of power demand, 500 megawatts for the stream data center in Genesee County,
+[27:09.000 --> 27:12.000]  that's a quarter of the Niagara Power Station.
+[27:12.000 --> 27:18.000]  How do you generate power like that and do it 30, 40, 70 times, depending on how many data centers actually get built?
+[27:18.000 --> 27:19.000]  I'll tell you what you do.
+[27:19.000 --> 27:22.000]  You build new nuclear and you frack.
+[27:22.000 --> 27:24.000]  I am not for either of those options.
+[27:24.000 --> 27:26.000]  We need to generate our own power in New York State.
+[27:26.000 --> 27:31.000]  We need a diverse energy mix, and we need to put our residents first, not data centers.
+[27:31.000 --> 27:39.000]  I don't quite understand what a diverse energy mix is if you're against a new nuclear power plant in New York,
+[27:39.000 --> 27:41.000]  and you're against natural gas.
+[27:41.000 --> 27:47.000]  I don't really – I'm not gathering where you think this energy comes from other than the wall socket.
+[27:47.000 --> 27:50.000]  I mean, we have to create new energy.
+[27:50.000 --> 27:53.000]  And without those two sources, it's not a possibility.
+[27:53.000 --> 27:56.000]  The pinwheels and the solar farms aren't cutting it.
+[27:56.000 --> 28:01.000]  I mean, it's going to be no more than 20 percent of our state's needs at any given time.
+[28:01.000 --> 28:02.000]  And that is a matter of fact.
+[28:02.000 --> 28:05.000]  You could talk to any energy expert about that.
+[28:05.000 --> 28:07.000]  That's misinformation.
+[28:07.000 --> 28:08.000]  It's not.
+[28:08.000 --> 28:10.000]  That's misinformation, yes.
+[28:11.000 --> 28:20.000]  There are countries that are generating significantly in excess of 20 percent from renewables, from just solar and wind.
+[28:20.000 --> 28:23.000]  But we should open the aperture on renewables a little bit.
+[28:23.000 --> 28:30.000]  The Great Lakes have one of the largest potentials in the world for tidal energy, energy that does not hurt fish or spoil your view.
+[28:30.000 --> 28:34.000]  We have a great potential here in this district for enhanced geothermal energy.
+[28:34.000 --> 28:38.000]  That is U-shaped holes dug in the ground that give you heat forever.
+[28:38.000 --> 28:40.000]  Now, you talk about the blizzard.
+[28:40.000 --> 28:45.000]  We need a diversified way to heat our homes that doesn't cost us a lot of money.
+[28:45.000 --> 28:49.000]  I mean, I think the contrast between us couldn't be more clear on this issue.
+[28:49.000 --> 28:54.000]  If you like big industrial solar farms coming into our agricultural territory, he's your guy.
+[28:54.000 --> 29:03.000]  If you want safeguards in place against these green new energy scams coming in and gobbling up our agricultural territory, then I'm your guy.
+[29:03.000 --> 29:05.000]  That's a clear difference.
+[29:05.000 --> 29:10.000]  These things aren't profitable without the tax subsidies, and they haven't worked anywhere they've been trying.
+[29:10.000 --> 29:12.000]  All right, folks, we're going to have to take a break here.
+[29:12.000 --> 29:17.000]  So we'll be back to resume this debate, and we'll move into another area of conversation when we come back.
+[29:28.000 --> 29:29.000]  Welcome back to our debate.
+[29:29.000 --> 29:30.000]  We're going to get right back to the questions.
+[29:30.000 --> 29:32.000]  Dr. Geese, you're first on this one.
+[29:32.000 --> 29:36.000]  For years, immigration has been an issue where U.S. voters seem to be divided.
+[29:36.000 --> 29:44.000]  We recently had a poll done for 18 News and for our sister Nexstar stations that put immigration at a top five issue in this year's campaign.
+[29:44.000 --> 29:49.000]  Would you change our country's current approach to immigration enforcement, or would you stay the course?
+[29:49.000 --> 29:51.000]  I absolutely would, Jim.
+[29:51.000 --> 29:53.000]  I would change it dramatically.
+[29:53.000 --> 30:01.000]  I think that ICE is in some cases terrorizing our communities, and it certainly made the border with Canada
+[30:01.000 --> 30:03.000]  a more dangerous place to be.
+[30:03.000 --> 30:09.000]  But we should take a step back, and instead of talking about immigration enforcement, let's talk about our immigration loss,
+[30:09.000 --> 30:13.000]  because I think Americans agree that we need comprehensive immigration reform.
+[30:13.000 --> 30:17.000]  I talk to conservatives, and they tell me, I just want people to come here the right way.
+[30:17.000 --> 30:18.000]  Well, currently, you can't.
+[30:18.000 --> 30:25.000]  You can't come here the right way unless you are a doctor on a J-1 visa and you have money for the extra $100,000 fee,
+[30:25.000 --> 30:27.000]  or you're a white South African.
+[30:27.000 --> 30:33.000]  We're not letting any religious persecution refugees into the country right now for the first time in our history.
+[30:33.000 --> 30:38.000]  And the Republican Party that's arguably controlled all three branches of the federal government now for two years,
+[30:38.000 --> 30:42.000]  they haven't even tried to propose comprehensive immigration reform.
+[30:42.000 --> 30:45.000]  We knew what to do about this 40 years ago.
+[30:45.000 --> 30:53.000]  We have to get together the political will to fix our broken immigration system and have a clear path for folks to come and for folks that are already here.
+[30:54.000 --> 30:59.000]  We had an invasion of our southern border for four years, and it was on purpose.
+[30:59.000 --> 31:05.000]  Our federal government opened the border and let 10 million plus, maybe more, across that border.
+[31:05.000 --> 31:07.000]  We had people come that were on the terrorist watch list.
+[31:07.000 --> 31:10.000]  We had people wandering around the interior of the country.
+[31:10.000 --> 31:13.000]  We don't know where they are or what they've done.
+[31:13.000 --> 31:19.000]  The deportation process that's going on right now should always be under review.
+[31:19.000 --> 31:22.000]  Any police tactic should always be subject to review.
+[31:22.000 --> 31:23.000]  I believe in body cameras.
+[31:23.000 --> 31:25.000]  I think those are things that keep everybody honest.
+[31:25.000 --> 31:34.000]  And most law enforcement officers you talk to relish them after the fact because nine times out of 10, it proves that they did the right thing despite things.
+[31:34.000 --> 31:39.000]  But Barack Obama actually deported more people than President Trump has.
+[31:39.000 --> 31:43.000]  But you have a dangerous criminal element just down the road in Endicott, New York.
+[31:43.000 --> 31:45.000]  We had a Peruvian serial killer.
+[31:45.000 --> 31:48.000]  Someone so heinous they killed 23 people in their own country.
+[31:48.000 --> 31:53.000]  They had their names and tattoos in the faces tattooed on this body.
+[31:53.000 --> 32:00.000]  That person was apprehended by ICE, a menace to society that absolutely could have killed again.
+[32:00.000 --> 32:06.000]  If I may, we should always have strong borders and strong immigration enforcement.
+[32:06.000 --> 32:09.000]  However, that doesn't require that we terrorize our neighbors.
+[32:09.000 --> 32:12.000]  Batavia, ICE's detention facility, is overcrowded.
+[32:12.000 --> 32:18.000]  They're expanding it right now, but it's still going to be almost double the capacity that it's supposed to have.
+[32:18.000 --> 32:22.000]  And that impinges on people's human dignity and their human rights.
+[32:22.000 --> 32:27.000]  They have deported folks in this district who have been here for 20 years, who raised families here,
+[32:27.000 --> 32:33.000]  who were valued members of their Baptist church, and who were here, in fact, because they processed it for democracy in China.
+[32:33.000 --> 32:40.000]  I mean, due to Kathy Hochul's sanctuary state policies, we have become a destination for illegal immigration.
+[32:41.000 --> 32:44.000]  In New York, they give you housing, they give you food, they give you a cell phone.
+[32:44.000 --> 32:50.000]  They take better care of you than they would take care of people that lost their job and that are tax paying New Yorkers.
+[32:50.000 --> 32:58.000]  Illegal immigration ran amok in the last four years, and it has to come to a stop in all sanctuary state and city policies.
+[32:58.000 --> 32:59.000]  It must be abolished.
+[32:59.000 --> 33:01.000]  Okay, I'm going to keep going down the New York route here.
+[33:01.000 --> 33:03.000]  Congressman Langworthy, you're next.
+[33:03.000 --> 33:06.000]  Should state or local government be able to overrule a federal mandate?
+[33:06.000 --> 33:13.000]  Specifically, I'm referring to Governor Hochul and State Attorney General James ordering state law enforcement to refuse to work with ICE.
+[33:13.000 --> 33:16.000]  No, I think it's extraordinarily dangerous what they've done.
+[33:16.000 --> 33:18.000]  I mean, you look at the governor's green light law.
+[33:18.000 --> 33:21.000]  She wanted to give driver's licenses to illegal immigrants.
+[33:21.000 --> 33:22.000]  What did they do?
+[33:22.000 --> 33:27.000]  They banned our local law enforcement from accessing New York state DMV database.
+[33:27.000 --> 33:34.000]  That very case I just talked to in the last question at Endicott, it took the ICE officials two extra months to track down that heinous killer,
+[33:34.000 --> 33:37.000]  because they couldn't access that database.
+[33:37.000 --> 33:42.000]  Yet we freely share that same database with the country of Canada at our borders.
+[33:42.000 --> 33:43.000]  That is abhorrent.
+[33:43.000 --> 33:46.000]  We have one United States of America.
+[33:46.000 --> 33:51.000]  We are all states within it, and they should not contradict the laws of the federal government.
+[33:51.000 --> 33:58.000]  Okay, Dr. Geese, President Trump has said he's not in favor of government regulation of artificial intelligence.
+[33:59.000 --> 34:07.000]  In your opinion, is unencumbered growth of AI a danger to the American people, and if so, should it be regulated, and who should be in charge of regulating it?
+[34:07.000 --> 34:10.000]  Yes, it absolutely should be regulated.
+[34:10.000 --> 34:18.000]  Like any new technology, any new powerful technology, AI has a path that can go towards the good, or it could do great harm.
+[34:18.000 --> 34:22.000]  And we have a responsibility to make sure that it does good.
+[34:22.000 --> 34:36.000]  If we just pursue profit, if we just pursue the potential of the technology, we're headed towards a world where none of us has any privacy, where none of us can control our likeness, where we're surveilled all the time, and where AI defense technologies have the potential for doing great damage.
+[34:36.000 --> 34:42.000]  And so I think it's very important that AI be regulated for the common good with human values forward.
+[34:43.000 --> 34:53.000]  And I think Congress has the primary responsibility to do that regulating, you know, in dialogue with the rest of the world, which also has to deal with the emergence of AI, particularly with China.
+[34:53.000 --> 35:10.000]  Now, when we had – let me say this – Mike Johnson sent Congress home right after we found out that anthropic had dealt with terrifying AI breakouts instead of taking up the issue.
+[35:11.000 --> 35:13.000]  It was a dereliction of duty.
+[35:13.000 --> 35:16.000]  AI is something – this is an area where I disagree with President Trump.
+[35:16.000 --> 35:22.000]  We do not need just a presidential dictate on AI.
+[35:22.000 --> 35:30.000]  We shouldn't, you know, have the tech billionaires decide their regulation and stifle any innovation that comes from any would-be competitors.
+[35:30.000 --> 35:36.000]  Congress has to do its job and do exactly that, and it actually is in the process of doing its job.
+[35:37.000 --> 35:50.000]  The last time that a potentially dangerous technology like this was invented, it was the nuclear bomb.
+[35:50.000 --> 36:05.000]  And after that, we had a very serious 30, 40-year conversation between avowed enemies, the U.S. and the U.S.S.R., that led to the I.C.A.
+[36:06.000 --> 36:08.000]  It led to arms reduction.
+[36:08.000 --> 36:12.000]  It led to peaceful nuclear power and nonproliferation.
+[36:12.000 --> 36:20.000]  That conversation is not happening internationally right now between the U.S. and China and our partners in the U.N., and I blame President Trump for that.
+[36:20.000 --> 36:22.000]  So I agree with Congressman Langworthy.
+[36:22.000 --> 36:24.000]  Congress has the responsibility here.
+[36:24.000 --> 36:31.000]  Congressman Langworthy, New York pays nearly $32,000 in taxes for each public school student.
+[36:31.000 --> 36:33.000]  That's the highest in the nation.
+[36:33.000 --> 36:36.000]  The national average is a little under $18,000.
+[36:36.000 --> 36:45.000]  Despite that, ratings on America's Dashboard.com show that New York ranks 30th nationally, 24th in graduation rate, 27th in 8th grade math scores.
+[36:45.000 --> 36:50.000]  Is there anything that members of Congress can do to help this back up?
+[36:50.000 --> 36:57.000]  I mean, our rate per pupil is unacceptable for the outcomes, especially in our inner-city schools.
+[36:58.000 --> 37:12.000]  I mean, we have pushed an opportunity for New York State to opt into a school choice voucher system that would allow people to have a choice if you have failing schools and allow them to have tax credits for that.
+[37:12.000 --> 37:18.000]  I think that it, especially for our inner-city kids, they deserve far much better.
+[37:18.000 --> 37:27.000]  But the State Education Department over-regulates the system, and, you know, additional federal regulations, I don't believe, will help the outcomes.
+[37:27.000 --> 37:29.000]  Dr. Giese?
+[37:29.000 --> 37:32.000]  So I haven't had a chance to say it here yet, but I'm an educator.
+[37:32.000 --> 37:35.000]  I'm a professor at St. Bonaventure University.
+[37:35.000 --> 37:36.000]  That's my career.
+[37:36.000 --> 37:38.000]  And I came from a working-class family.
+[37:38.000 --> 37:42.000]  Neither my mom nor my dad went to college.
+[37:42.000 --> 37:45.000]  But, you know, they worked hard, and they did well.
+[37:45.000 --> 37:49.000]  We were the kind of family that, you know, they didn't fly for vacations, but we weren't hungry either.
+[37:49.000 --> 37:51.000]  And they're very proud of my education.
+[37:51.000 --> 37:54.000]  And excellence was really important to them, as it is to me.
+[37:54.000 --> 38:02.000]  I do not believe that we should be trying to dismantle the Department of Education, as Linda McMahon, President Trump's Secretary of Education, is doing.
+[38:02.000 --> 38:13.000]  I think that we do have a responsibility to make sure that we have common standards nationally, although we should never determine curriculum.
+[38:13.000 --> 38:21.000]  But, you know, another thing that I'd like to point out is that the cuts to Medicaid and the big, ugly bill represent a horrible disinvestment in our children's education.
+[38:21.000 --> 38:27.000]  Because those funds fund special education, individual education plans, and school lunches.
+[38:27.000 --> 38:34.000]  And the biggest cause of learning loss in the American school child's day is hunger.
+[38:34.000 --> 38:37.000]  Dr. Giese, I want to get you first on this one.
+[38:37.000 --> 38:42.000]  New York is getting rid of Regents exams as graduation requirements starting next school year.
+[38:42.000 --> 38:46.000]  Is that a good or a bad idea?
+[38:46.000 --> 38:50.000]  Well, I believe that the Teachers Union supports the idea.
+[38:50.000 --> 38:55.000]  I have been endorsed by NYCID, and I'm very proud to be endorsed by our teachers.
+[38:55.000 --> 39:02.000]  I have not had a chance to review the standards with which they will be replacing the Regents exam.
+[39:02.000 --> 39:05.000]  The Regents exam is not very old, right?
+[39:05.000 --> 39:08.000]  It's something that we've been doing for a couple of decades.
+[39:08.000 --> 39:13.000]  But testing standards can change as research standards change.
+[39:13.000 --> 39:30.000]  We just need to make sure that we are evaluating our students in a way that encourages them to achieve excellence and obtain the skills that they need to compete in tomorrow's workplace.
+[39:30.000 --> 39:31.000]  Congressman?
+[39:32.000 --> 39:42.000]  I have no jurisdiction over the matter of the Regents exam, but I think that it pretty much says to the world that we're not going to strive for excellence anymore.
+[39:42.000 --> 39:47.000]  And I think we should always be trying to challenge our students to be at their highest possible standard.
+[39:47.000 --> 39:50.000]  And that Regents diploma, that used to mean something.
+[39:50.000 --> 39:58.000]  I remember getting my Regents diploma growing up here, and it was a matter of pride for my parents.
+[39:58.000 --> 40:02.000]  Also, you know, I come from a working class background. My mother was a factory worker.
+[40:02.000 --> 40:07.000]  My father run a small business for, you know, 48 years now.
+[40:07.000 --> 40:13.000]  And we should always be pushing for the highest standards we possibly can for our kids.
+[40:13.000 --> 40:17.000]  And just eliminating this in a blanket fashion doesn't make sense to me.
+[40:17.000 --> 40:21.000]  All right, we've got to take a commercial break, and we'll be back in just a couple of minutes to wrap up the debate.
+[40:21.000 --> 40:24.000]  This is our last commercial break. Hope you'll stick around.
+[40:24.000 --> 40:26.000]  It goes very fast.
+[40:27.000 --> 40:32.000]  Live from your local election headquarters, this is debate night in New York.
+[40:35.000 --> 40:38.000]  Welcome back to our congressional debate. We're going to get right to the questions.
+[40:38.000 --> 40:40.000]  Congressman Langworthy, this is for you.
+[40:40.000 --> 40:45.000]  Should the U.S. minimum wage get raised, and if you think so, how much?
+[40:45.000 --> 40:48.000]  I think that the minimum wage question has been answered by the states.
+[40:48.000 --> 40:52.000]  I mean, the state of New York has increased its minimum wage greatly,
+[40:52.000 --> 40:58.000]  and I think it is better suited to find the cost of living in a particular area.
+[40:58.000 --> 41:04.000]  I mean, New York State, you know, obviously went very far when we were one of the first states to go to a $15 minimum wage.
+[41:04.000 --> 41:12.000]  I've heard a lot from businesses that arbitrary wage hikes by the state of New York have been drastically impactful on business.
+[41:12.000 --> 41:17.000]  And if you, you know, the federal minimum wage, I think, is very antiquated,
+[41:17.000 --> 41:22.000]  because if you tried to hire someone at that number, you're not going to find anyone to answer the call.
+[41:22.000 --> 41:26.000]  So at this point, I think the minimum wage question is best left to the states.
+[41:26.000 --> 41:28.000]  Dr. Giese?
+[41:28.000 --> 41:40.000]  I support the Raise the Wage Act, which would raise the federal minimum wage to $15 immediately and then move towards $18.
+[41:40.000 --> 41:42.000]  There are a couple of reasons for that.
+[41:42.000 --> 41:46.000]  The one is states that border us that have the federal minimum wage,
+[41:46.000 --> 41:57.000]  they really do eat our lunch economically when folks can jump over the border and earn a New York wage that's much more close, close to a living wage.
+[41:57.000 --> 42:08.000]  But another reason is because the federal minimum wage is not something that anyone can live on, and that hasn't been true for decades now.
+[42:08.000 --> 42:15.000]  I earned the minimum wage when it was first moved to $7.25 an hour when I was just out of high school.
+[42:15.000 --> 42:19.000]  It's ridiculous that we haven't moved it at all that time.
+[42:19.000 --> 42:22.000]  Speaking of which, no tax on tips, no tax on overtime.
+[42:22.000 --> 42:24.000]  These are good things, and we should keep them.
+[42:24.000 --> 42:34.000]  But ultimately, we need to be pushing for folks to earn a living wage so that they don't have to rely on tips and overtime just to get by.
+[42:34.000 --> 42:36.000]  Dr. Giese, the next question is for you.
+[42:36.000 --> 42:40.000]  The U.S. will pay around $1 trillion interest on our national debt this year.
+[42:40.000 --> 42:42.000]  Despite that, government spending keeps growing.
+[42:42.000 --> 42:46.000]  How concerned should people be about the national debt and why?
+[42:46.000 --> 42:47.000]  Yes.
+[42:47.000 --> 42:54.000]  Someone pointed out to me in an email today that our national debt will grow by a billion dollars during the time this debate is going on.
+[42:54.000 --> 43:06.000]  It's deeply concerning, deeply unsettling, I would even say, that our national debt has gotten so high and now one out of every $3 we send to the IRS goes just to pay the interest on our national credit card.
+[43:06.000 --> 43:09.000]  We have to tame the debt, and we should be clear.
+[43:09.000 --> 43:18.000]  President Trump owns over half of that debt through bills that he passed with Congress with the help, in the second case, of Congressman Langworthy.
+[43:18.000 --> 43:27.000]  These unfunded, irresponsible tax cuts to billionaires and corporations have led to this debt, as have forever wars, including the war in Iran.
+[43:27.000 --> 43:33.000]  Now, to fix the problem, job one is to get the rich to pay their fair share of taxes.
+[43:33.000 --> 43:44.000]  We have a very regressive tax code that taxes working people, taxes the middle class, and allows the ultra-wealthy, in many cases, to pay a lower effective tax rate, and that's not right.
+[43:44.000 --> 43:47.000]  I'm deeply concerned about our debt.
+[43:47.000 --> 43:51.000]  I have taken steps to address our deficit.
+[43:51.000 --> 43:53.000]  I mean, we've put rescissions packages forward.
+[43:53.000 --> 44:01.000]  The federal government is not in the business of a lot of things that it was before President Trump took office in my time in Congress.
+[44:02.000 --> 44:11.000]  You know, my opponent runs on a platform of one-size-fits-all government healthcare, which comes with a $34 trillion bill.
+[44:11.000 --> 44:15.000]  I mean, that's not the way you grow the economy or shrink the debt.
+[44:15.000 --> 44:19.000]  That's piling on new government programs, new government debts, and forever entitlements.
+[44:19.000 --> 44:25.000]  75% of all spending is mandatory in this country, and it is not sustainable.
+[44:25.000 --> 44:30.000]  Universal single-payer healthcare is the way you grow the economy and shrink the debt.
+[44:30.000 --> 44:37.000]  There's a study this summer that showed that if we got it right, the government could save a trillion dollars a year, a trillion dollars a year.
+[44:37.000 --> 44:40.000]  Now, that's not $40 trillion, but it's a start.
+[44:40.000 --> 44:52.000]  And think about the weight that that takes off of small business, takes off of farmers not to have to deal with the benefits costs of covering employees' health insurance through W-2 taxes.
+[44:52.000 --> 45:01.000]  This relieves the pressure from the self-employed, stops people from having to work jobs they hate just to keep the health insurance.
+[45:01.000 --> 45:11.000]  I mean, single-payer health insurance, it eliminates choice, it eliminates opportunities, it eliminates innovation, and if you enjoy your experience at the DMV, you would love it.
+[45:11.000 --> 45:16.000]  It is not something that American people will believe in rationed care.
+[45:16.000 --> 45:26.000]  I mean, the idea that a government bureaucrat is going to make a decision whether or not your relative is worthy of the state-of-the-art treatment to fight their cancer or the knee replacement that they might need.
+[45:26.000 --> 45:36.000]  I mean, these are the sorts of trap doors that come with one-size-fits-all government healthcare, and that's why you see so many Canadian license plates still in our MRI centers.
+[45:36.000 --> 45:44.000]  When we choose not to provide healthcare for folks with universal single-payer healthcare, we are choosing to ration healthcare based on who can pay for it.
+[45:44.000 --> 45:56.000]  And I just do not believe that Americans believe we should decide who lives or dies of a preventable disease based on whether they are poor or whether they live in a rural area that can't sustain a full-service hospital.
+[45:56.000 --> 46:03.000]  I don't think that's the best we can do in the richest country in the world, and I don't think Americans are satisfied with that, and they shouldn't be.
+[46:03.000 --> 46:11.000]  Congressman Langworthy, New York's comptroller said last week that the state's going to be in the red by more than $3 billion this year.
+[46:11.000 --> 46:17.000]  And the reason I ask this question, he blames the federal government for not sending more tax dollars to the state.
+[46:17.000 --> 46:24.000]  He also reports the state could be more than $30 billion in the red in three years, which could mean higher taxes or program cuts.
+[46:24.000 --> 46:28.000]  Do you agree with the comptroller that it's about federal tax dollars' income?
+[46:28.000 --> 46:30.000]  I don't. I think New York has a priorities problem.
+[46:30.000 --> 46:40.000]  I mean, we have spent $8 billion to care for illegal immigrants that we basically asked to come to the state under Kathy Hochul's watch.
+[46:40.000 --> 46:43.000]  I mean, that is not a respectful program.
+[46:43.000 --> 46:48.000]  You have the governor proposing billions of dollars for free health care for sex workers.
+[46:48.000 --> 46:55.000]  I mean, these are the sorts of things that aren't on the ballot this year but are, as you have to make your decision as to who you want to lead this state.
+[46:55.000 --> 47:00.000]  The government of New York has a priorities problem and not a revenue problem.
+[47:00.000 --> 47:03.000]  $277 billion was this year's budget.
+[47:03.000 --> 47:07.000]  When Andrew Cuomo left office, it was $185 billion.
+[47:07.000 --> 47:10.000]  I mean, we are spending extraordinarily more sums of money.
+[47:10.000 --> 47:20.000]  They just have to dial in as to absolutely what our needs are in this state and understand, you know, more taxes and more fees are chasing more of the people that pay those taxes away.
+[47:20.000 --> 47:21.000]  Dr. Giese?
+[47:21.000 --> 47:25.000]  Well, let's talk about the kinds of things that we've defunded in this state at the federal level.
+[47:25.000 --> 47:31.000]  First of all and foremost, we have defunded our health care, our health care.
+[47:31.000 --> 47:37.000]  New York 23 is the most hurt by the big, ugly bills, Medicare and Medicaid cuts of any district in the state.
+[47:37.000 --> 47:40.000]  And we are the second most hurt state in the nation.
+[47:40.000 --> 47:45.000]  So this district is right in the crosshairs of President Trump's cuts.
+[47:45.000 --> 47:48.000]  President Trump is defunding the police with Nick Langworthy's connivance.
+[47:48.000 --> 47:59.000]  He has withheld $79 million that was intended to train sheriff's departments and other law enforcement through the Doge process.
+[47:59.000 --> 48:04.000]  And while we're talking about Doge, Doge has hurt veterans.
+[48:04.000 --> 48:05.000]  It's hurt our Social Security system.
+[48:05.000 --> 48:09.000]  It has hurt grants for research.
+[48:09.000 --> 48:11.000]  It has hurt universities.
+[48:11.000 --> 48:13.000]  It's hurt the postal system.
+[48:13.000 --> 48:25.000]  And Langworthy was one of the founding members of the Congressional Doge Caucus who cheered on all these arbitrary destructive cuts that ultimately didn't save us any money.
+[48:26.000 --> 48:30.000]  My opponent has pointed out Doge is a process.
+[48:30.000 --> 48:40.000]  And the funny thing about when Doge started, the outrage at the outset was ridiculous because we wanted to see accountability in government.
+[48:40.000 --> 48:43.000]  We wanted to look under the hood and see what these departments were spending money on.
+[48:43.000 --> 48:53.000]  USAID was social engineering around the globe, spending money on sex changes in South America, interfering in elections throughout the globe.
+[48:53.000 --> 48:55.000]  That was on the back of the U.S. taxpayer.
+[48:55.000 --> 49:01.000]  And neither Congress, probably the executive at that time, nor the American people knew what they were spending their money on.
+[49:01.000 --> 49:11.000]  An estimated 700,000 African children born with HIV have died because of the arbitrary and illegal closure of USAID.
+[49:11.000 --> 49:16.000]  I think USAID might have performed some kind of like 20 gender-affirming surgeries.
+[49:16.000 --> 49:18.000]  Come on. Come on.
+[49:18.000 --> 49:20.000]  And we took USAID out of Africa.
+[49:20.000 --> 49:24.000]  And what has filled the power vacuum for American soft power?
+[49:24.000 --> 49:32.000]  Now that there's no HIV drugs or peanut butter available to stop the famine, Islamist militias are filling the power vacuum.
+[49:32.000 --> 49:35.000]  If we do not use soft power, we will need hard power.
+[49:35.000 --> 49:37.000]  It is absolutely ludicrous.
+[49:37.000 --> 49:40.000]  The PEPFAR funds are still in place and have been delivered.
+[49:40.000 --> 49:46.000]  USAID, as an agency, was dismantled because it was mismanaged and misleading the government.
+[49:46.000 --> 49:51.000]  Right now, we have put it under the State Department and it will continue to deliver its work.
+[49:51.000 --> 49:53.000]  It should have required an act of Congress.
+[49:53.000 --> 49:56.000]  Okay, we're going to now make 30-second answers because we're running out of time here.
+[49:56.000 --> 49:58.000]  So, let's talk with you, Dr. Geese.
+[49:58.000 --> 49:59.000]  Okay.
+[49:59.000 --> 50:09.000]  Do you think social media platforms should be held accountable or responsible for harm done to minors who are approached by disreputable people or who are exposed to advertising for products that might harm them?
+[50:10.000 --> 50:12.000]  Yes, I absolutely do.
+[50:12.000 --> 50:16.000]  And, you know, there's a larger, like, common good problem here.
+[50:16.000 --> 50:23.000]  There are something like eight people who control the algorithms that control all of our social media.
+[50:23.000 --> 50:26.000]  And those algorithms are black boxes.
+[50:26.000 --> 50:29.000]  They are as secret as the recipe for Coca-Cola.
+[50:29.000 --> 50:42.000]  And if you're a parent that has watched a child, like, slowly lose their self-esteem and lose their joy in life because they're seeing disturbing images that they want to compete with on Instagram, then you know what that's like.
+[50:43.000 --> 50:44.000]  Congressman.
+[50:44.000 --> 50:46.000]  I definitely think that these companies should be held accountable.
+[50:46.000 --> 50:52.000]  They should be held to the highest standard and we should have protections against our young people on social media platforms.
+[50:52.000 --> 50:57.000]  It could be far too poisonous to a young person's mind to be on these platforms at too early of an age.
+[50:57.000 --> 50:59.000]  Congressman, I'll go to you first on this one.
+[50:59.000 --> 51:03.000]  Some in Congress are talking about passing a bill that would establish a four-day work week.
+[51:03.000 --> 51:07.000]  And some of the Congressmen are saying it should be four, eight-hour days.
+[51:07.000 --> 51:08.000]  What's your reaction?
+[51:08.000 --> 51:09.000]  I believe that's ludicrous.
+[51:09.000 --> 51:13.000]  I mean, we need to have the most productive country possible.
+[51:13.000 --> 51:16.000]  And the five-day work week is something that should remain.
+[51:16.000 --> 51:17.000]  Dr. Geese?
+[51:17.000 --> 51:21.000]  Well, I believe that people should have opportunity in America.
+[51:21.000 --> 51:24.000]  And that means that if you want to work extra hours, you should be able to.
+[51:24.000 --> 51:29.000]  Congress shouldn't pass a law that stops you from working a five-day week.
+[51:29.000 --> 51:37.000]  On the other hand, we have to look at ways to raise wages, right, to expand small business opportunity,
+[51:37.000 --> 51:46.000]  and to level the playing field for small businesses against the anti-competitive practices of the richest corporations and monopolies.
+[51:46.000 --> 51:48.000]  Dr. Geese, this one's for you first.
+[51:48.000 --> 51:53.000]  Do you agree with heavier taxes on wealthier New Yorkers than those paid by people with lower incomes?
+[51:54.000 --> 51:59.000]  I don't believe that this is a state issue, right?
+[51:59.000 --> 52:06.000]  So nationally, I do believe that we have a tax code that allows the wealthy to get away with not paying their fair share.
+[52:06.000 --> 52:13.000]  And we all suffer from that in terms of the federal government not being able to meet its budget fund, its programs.
+[52:13.000 --> 52:20.000]  We need a more progressive tax code that causes the ultra-wealthy to pay an effective tax rate that's similar to the one that you and I pay.
+[52:21.000 --> 52:30.000]  I mean, New York State, under Kathy Hochul, and with the pressure that's now on her from the leader of the Democratic Party in New York State, Zoran Mandami,
+[52:30.000 --> 52:33.000]  we are going to see an eat-the-rich mentality.
+[52:33.000 --> 52:37.000]  They are going to continue to chase Wall Street out of New York City.
+[52:37.000 --> 52:41.000]  Our state is deeply dependent on Wall Street revenue to balance its books.
+[52:41.000 --> 52:45.000]  As we, you know, post-COVID, people know they can do their work from anywhere in the world.
+[52:45.000 --> 52:47.000]  The technology exists. They can do it.
+[52:47.000 --> 52:54.000]  And they are, as Texas has hired more bankers at the big banks than New York State has at this point.
+[52:54.000 --> 52:55.000]  That's dangerous.
+[52:55.000 --> 52:57.000]  Okay, 20 second answers.
+[52:57.000 --> 53:00.000]  What's your opinion about the states that redrew their congressional districts this year?
+[53:00.000 --> 53:05.000]  I believe that redistricting should be done once a decade.
+[53:05.000 --> 53:07.000]  Dr. Gies?
+[53:07.000 --> 53:08.000]  I agree.
+[53:08.000 --> 53:14.000]  I would love to see national fair maps legislation that would stop states from gerrymandering altogether.
+[53:14.000 --> 53:18.000]  I think that our congressional districts need to be fair and they need to be tight,
+[53:18.000 --> 53:21.000]  and we shouldn't have politicians choosing their voters.
+[53:21.000 --> 53:23.000]  The voters should choose their politicians.
+[53:23.000 --> 53:25.000]  All right, gentlemen, we're about to run out of time.
+[53:25.000 --> 53:29.000]  I want to thank both of you for what I think was a very substantive debate.
+[53:29.000 --> 53:30.000]  Thank you for your answers.
+[53:30.000 --> 53:32.000]  Thank you for the way you approached tonight.
+[53:32.000 --> 53:33.000]  Very cordial between two of you.
+[53:33.000 --> 53:35.000]  You exchanged strong opinions.
+[53:35.000 --> 53:37.000]  That's what this is supposed to be about.
+[53:37.000 --> 53:40.000]  So thank you very much for being here, and we're going to sign off now.
+[53:40.000 --> 53:41.000]  I'll send you to NBC.
+[53:41.000 --> 53:43.000]  Thank you for being here, everybody, for this debate.
+[53:43.000 --> 53:45.000]  Hope you'll tune in the next time we do one.
+[53:45.000 --> 53:47.000]  Thank you.
+[53:47.000 --> 53:48.000]  Thank you.
+[53:48.000 --> 53:49.000]  Thanks for the time.
+[54:13.000 --> 54:15.000]  Thank you.
+/opt/homebrew/Cellar/openai-whisper/20250625_6/libexec/lib/python3.14/site-packages/whisper/transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+[00:00.000 --> 00:04.000]  The race for New York's 23rd congressional district.
+[00:04.000 --> 00:06.000]  The Iran war.
+[00:06.000 --> 00:08.000]  Fuel prices.
+[00:08.000 --> 00:09.000]  Immigration.
+[00:09.000 --> 00:12.000]  The issues voters say matter most in this election.
+[00:12.000 --> 00:15.000]  Tonight, those issues taking center stage
+[00:15.000 --> 00:18.000]  as incumbent Nick Langworthy faces off
+[00:18.000 --> 00:20.000]  against challenger Dr. Aaron Geese
+[00:20.000 --> 00:22.000]  on the 18 news debate stage.
+[00:22.000 --> 00:25.000]  Live from your local election headquarters.
+[00:25.000 --> 00:28.000]  This is debate night in New York.
+[00:31.000 --> 00:32.000]  Good evening, everyone.
+[00:32.000 --> 00:34.000]  Thank you for joining us for tonight's debate
+[00:34.000 --> 00:36.000]  between the two candidates running for the New York House
+[00:36.000 --> 00:38.000]  District 23 race in New York,
+[00:38.000 --> 00:40.000]  running for the U.S. House of Representatives.
+[00:40.000 --> 00:42.000]  My name is Jim Turpin.
+[00:42.000 --> 00:45.000]  I'm the news director at WETM TV 18 News,
+[00:45.000 --> 00:47.000]  and I'll be your moderator tonight.
+[00:47.000 --> 00:49.000]  The candidates were provided the rules for the debates
+[00:49.000 --> 00:50.000]  several weeks ago.
+[00:50.000 --> 00:53.000]  No prepared notes are allowed on the candidates' podiums
+[00:53.000 --> 00:54.000]  and they do not have them.
+[00:54.000 --> 00:57.000]  I will ask questions of the candidates in alternate order.
+[00:57.000 --> 00:59.000]  The candidates will have one minute to reply,
+[00:59.000 --> 01:03.000]  and 30 seconds to rebut if they want to.
+[01:03.000 --> 01:06.000]  Each candidate will then have 25 seconds
+[01:06.000 --> 01:08.000]  if they choose to rebut the rebuttal.
+[01:08.000 --> 01:10.000]  So anyway, we'll see how that goes.
+[01:10.000 --> 01:13.000]  They will hear the questions for the first time
+[01:13.000 --> 01:14.000]  as I ask of them.
+[01:14.000 --> 01:17.000]  They have not been provided the questions in advance.
+[01:17.000 --> 01:19.000]  If they go a little long on their answers,
+[01:19.000 --> 01:21.000]  they will hear this sound,
+[01:21.000 --> 01:23.000]  and then they'll know to stop.
+[01:23.000 --> 01:24.000]  We hope we don't have to use that tonight.
+[01:24.000 --> 01:29.000]  The debate is live on WETM TV, WETM TV+,
+[01:29.000 --> 01:33.000]  also on mytwintears.com, and WIVB+, in Buffalo.
+[01:33.000 --> 01:36.000]  And I want to thank everybody for watching on that platform.
+[01:36.000 --> 01:40.000]  My first question tonight goes to you, Congressman Langworthy.
+[01:40.000 --> 01:42.000]  Old school questions tonight on paper.
+[01:42.000 --> 01:44.000]  What do you consider the most important issue
+[01:44.000 --> 01:47.000]  in this election for the people of New York District 23?
+[01:47.000 --> 01:49.000]  I think the most important issue on everybody's mind
+[01:49.000 --> 01:52.000]  is the question of the affordability.
+[01:52.000 --> 01:57.000]  And we have had very stubborn inflation these last five years.
+[01:57.000 --> 02:01.000]  Larry Summers, a liberal economics professor
+[02:01.000 --> 02:03.000]  that was an adviser to the Clinton administration,
+[02:03.000 --> 02:06.000]  said that if the government spends trillions of dollars
+[02:06.000 --> 02:08.000]  that it wasn't budgeted for,
+[02:08.000 --> 02:11.000]  we're going to have inflation that's going to last for some time.
+[02:11.000 --> 02:13.000]  We're in that period.
+[02:13.000 --> 02:15.000]  Government doesn't set prices.
+[02:15.000 --> 02:19.000]  Unfortunately, we have to grow our way out of this,
+[02:19.000 --> 02:23.000]  and that's why I'm very proud that we have provided the tax relief
+[02:23.000 --> 02:26.000]  that we have to put more money in people's pockets as they face this.
+[02:26.000 --> 02:29.000]  I mean, and we've cut taxes on tips over time.
+[02:29.000 --> 02:33.000]  We've given no tax on Social Security for our middle-class seniors.
+[02:33.000 --> 02:37.000]  Having that money available to them is critically important.
+[02:37.000 --> 02:38.000]  Dr. Geese, same question to you.
+[02:38.000 --> 02:40.000]  What do you consider the most important issue
+[02:40.000 --> 02:43.000]  for voters in New York District 23?
+[02:43.000 --> 02:46.000]  Well, Jim, there's no question that it is affordability.
+[02:46.000 --> 02:48.000]  But the affordability of what?
+[02:48.000 --> 02:50.000]  Folks are concerned about their utility bills.
+[02:50.000 --> 02:54.000]  They're concerned about the prices for everyday goods, for groceries.
+[02:54.000 --> 02:56.000]  They're concerned about the cost of gas.
+[02:56.000 --> 02:58.000]  And most of all, what I hear on the campaign trail,
+[02:58.000 --> 03:00.000]  and I'm in the midst of a 100-town hall tour,
+[03:00.000 --> 03:02.000]  just did our 60th last night,
+[03:02.000 --> 03:04.000]  is folks are concerned about their health care.
+[03:04.000 --> 03:06.000]  They don't know how they're going to pay for their insurance premiums,
+[03:06.000 --> 03:09.000]  how they're going to afford to keep their relative in a nursing home,
+[03:09.000 --> 03:13.000]  how they're going to afford to, if they get sick.
+[03:13.000 --> 03:18.000]  So to get back to everyday prices,
+[03:18.000 --> 03:22.000]  gas prices are high in the United States right now.
+[03:22.000 --> 03:25.000]  They're about $4.50 in the district today,
+[03:25.000 --> 03:26.000]  and diesel is even higher.
+[03:26.000 --> 03:27.000]  Diesel is at record highs.
+[03:27.000 --> 03:29.000]  And we should be clear about why that is.
+[03:29.000 --> 03:32.000]  It's because of President Trump's war in Iran,
+[03:32.000 --> 03:34.000]  when President Trump ran on no more wars.
+[03:34.000 --> 03:36.000]  Inflation.
+[03:36.000 --> 03:38.000]  Inflation is also due to the big, ugly bill,
+[03:38.000 --> 03:42.000]  which adds $4.5 trillion to our national debt
+[03:42.000 --> 03:45.000]  for a tax cut for wealthy corporations.
+[03:45.000 --> 03:47.000]  Okay, Dr. Geese, the next question goes to you,
+[03:47.000 --> 03:49.000]  and you're kind of talking about it right now.
+[03:49.000 --> 03:51.000]  The war against Iran continues.
+[03:51.000 --> 03:53.000]  In your opinion, is it time for the U.S. to end the war,
+[03:53.000 --> 03:56.000]  or should it continue to a conclusion acceptable
+[03:56.000 --> 04:00.000]  to President Trump and his cabinet?
+[04:00.000 --> 04:04.000]  Well, Jim, first of all, it's not clear what that acceptable end would be.
+[04:04.000 --> 04:08.000]  The administration continues to change the answer
+[04:08.000 --> 04:11.000]  when they're asked what their strategic objectives are.
+[04:11.000 --> 04:14.000]  But the American people can't wait.
+[04:14.000 --> 04:19.000]  This war is making our lives unlivable.
+[04:19.000 --> 04:22.000]  When the price of diesel goes above $6 a gallon,
+[04:22.000 --> 04:26.000]  everything that we buy, everything that comes on a truck costs more.
+[04:26.000 --> 04:30.000]  Getting to work costs more, and so wages mean less.
+[04:30.000 --> 04:34.000]  Meanwhile, the Strait of Hormuz remains closed,
+[04:34.000 --> 04:38.000]  and there is no plan except, apparently, to keep on bombing.
+[04:38.000 --> 04:41.000]  Yes, in my view, on day one, the next Congress
+[04:41.000 --> 04:44.000]  should pass a binding war powers resolution
+[04:44.000 --> 04:47.000]  that would compel the president to wind up the conflict
+[04:47.000 --> 04:50.000]  in a dignified way within 40 days,
+[04:50.000 --> 04:53.000]  and then we need to work with our partners
+[04:53.000 --> 04:57.000]  to achieve our strategic objectives through negotiation with Iran.
+[04:57.000 --> 04:59.000]  Congressman Langworthy, same question.
+[04:59.000 --> 05:01.000]  Should the war end now, or should it continue
+[05:01.000 --> 05:04.000]  until it reaches the conclusion that the president would like?
+[05:04.000 --> 05:07.000]  I would like the war in Iran to end at the earliest possible date.
+[05:07.000 --> 05:09.000]  But you don't tie the commander in chief's hands.
+[05:09.000 --> 05:11.000]  We have one commander in chief at a time.
+[05:11.000 --> 05:13.000]  I didn't make a decision to go to war,
+[05:13.000 --> 05:17.000]  but we find ourselves in that position now.
+[05:17.000 --> 05:21.000]  It has certainly driven up the cost of gasoline and diesel fuel,
+[05:21.000 --> 05:25.000]  but at the same time, the objective to prevent
+[05:25.000 --> 05:32.000]  the Islamic regime in Iran from having a nuclear weapon
+[05:32.000 --> 05:36.000]  is extraordinarily important,
+[05:36.000 --> 05:38.000]  because they would use it.
+[05:38.000 --> 05:42.000]  This is the largest state sponsor of terror the world has ever known.
+[05:42.000 --> 05:45.000]  They have the blood of countless nations under their fingernails,
+[05:45.000 --> 05:47.000]  including American citizens.
+[05:47.000 --> 05:49.000]  They have said that they wanted to negotiate an end.
+[05:49.000 --> 05:51.000]  We had diplomats on planes on our way there
+[05:51.000 --> 05:54.000]  only for them to move the goal post and change.
+[05:54.000 --> 05:56.000]  This regime has notoriously lied.
+[05:56.000 --> 05:58.000]  We have to get to a diplomatic solution.
+[05:58.000 --> 06:02.000]  I don't support ground troops at this time going to Iran.
+[06:02.000 --> 06:05.000]  I don't believe that that is the will of the country.
+[06:05.000 --> 06:09.000]  But we cannot tie the hands of the commander in chief.
+[06:09.000 --> 06:12.000]  I'd like to respond to that briefly, if I may.
+[06:12.000 --> 06:14.000]  Is this a rebuttal question?
+[06:14.000 --> 06:16.000]  It can be.
+[06:16.000 --> 06:21.000]  It would not be the Congress tying the hands of the president.
+[06:21.000 --> 06:25.000]  The Constitution ties the hands of the American president,
+[06:25.000 --> 06:28.000]  because it clearly guarantees to Congress the right
+[06:28.000 --> 06:30.000]  to declare war and to negotiate peace,
+[06:30.000 --> 06:33.000]  and it is high time that the Congress reclaimed that right
+[06:33.000 --> 06:35.000]  on behalf of the American people,
+[06:35.000 --> 06:37.000]  because the objectives in this conflict are not clear,
+[06:37.000 --> 06:40.000]  and this war is costing American lives, American treasure.
+[06:40.000 --> 06:44.000]  It is causing the lives of people in other nations affecting their security,
+[06:44.000 --> 06:46.000]  and it must end with a negotiated settlement
+[06:46.000 --> 06:48.000]  if it doesn't end with ground troops.
+[06:48.000 --> 06:52.000]  And President Langworthy is correct that we should not invade on the ground.
+[06:52.000 --> 06:54.000]  Congressman, would you like to respond?
+[06:54.000 --> 06:57.000]  It's rather naive to suggest that 435 members of Congress
+[06:57.000 --> 07:02.000]  are going to negotiate with the Iranian regime on an end to the war.
+[07:02.000 --> 07:05.000]  And if you tell a regime like this that has sponsored terror
+[07:05.000 --> 07:07.000]  through its proxies across the globe,
+[07:07.000 --> 07:09.000]  that you're going to be out in 45 days,
+[07:09.000 --> 07:11.000]  you're going to have the same kind of impact
+[07:11.000 --> 07:14.000]  that we had with the botched withdrawal from Afghanistan.
+[07:14.000 --> 07:18.000]  My next question comes from the Steuben and Shimon counties
+[07:18.000 --> 07:20.000]  chapter of the League of Women Voters.
+[07:20.000 --> 07:21.000]  Congressman, this one goes to you.
+[07:21.000 --> 07:24.000]  Are elections in the United States safe and fair?
+[07:24.000 --> 07:28.000]  I fight for voter ID, and I voted for it many times.
+[07:28.000 --> 07:32.000]  Unfortunately, we can't find bipartisan collaboration on that,
+[07:32.000 --> 07:37.000]  despite the fact that 80 percent of the public wants and demands it.
+[07:37.000 --> 07:41.000]  We have 10 million people come under over our borders illegally,
+[07:41.000 --> 07:44.000]  many of which we have no idea why they're here.
+[07:44.000 --> 07:47.000]  Showing your identification is something very simple.
+[07:47.000 --> 07:51.000]  You have to use it for many transactions across American life.
+[07:51.000 --> 07:53.000]  This is a routine thing that we do.
+[07:53.000 --> 07:56.000]  Yet there's such an intense allergy on the other side
+[07:56.000 --> 07:58.000]  to ask for identification in our elections.
+[07:58.000 --> 08:01.000]  That's the perfect way to get any guesswork out of our elections,
+[08:01.000 --> 08:05.000]  is to have the voter ID standard be across all 50 states.
+[08:05.000 --> 08:08.000]  Same question to you, Dr. Giese, from the Steuben and Shimon counties chapter
+[08:08.000 --> 08:09.000]  of the League of Women Voters.
+[08:09.000 --> 08:12.000]  Are elections in the United States safe and fair?
+[08:12.000 --> 08:15.000]  I believe they are, and I would love to keep them that way.
+[08:15.000 --> 08:18.000]  I think one of the best ways to do that is to keep our federal government
+[08:18.000 --> 08:21.000]  from meddling in elections, which again,
+[08:21.000 --> 08:25.000]  per the Constitution, are reserved to the states.
+[08:25.000 --> 08:28.000]  Now, when it comes to voter ID, I don't support the Save America Act,
+[08:28.000 --> 08:31.000]  but I do support voter ID.
+[08:31.000 --> 08:34.000]  I don't know if Congressman Langworthy has ever worked as a poll worker,
+[08:34.000 --> 08:38.000]  but I have, and I know that when you sign in at the polls,
+[08:38.000 --> 08:41.000]  and when you do this in a few weeks when it's time to vote,
+[08:41.000 --> 08:44.000]  there's a bipartisan team, and they're there to verify your identity.
+[08:44.000 --> 08:48.000]  When you register to vote at the BOE or the DMV or wherever you do that,
+[08:48.000 --> 08:51.000]  you have to show ID, and that should be the standard.
+[08:51.000 --> 08:53.000]  But the Save America Act would mean that, say,
+[08:53.000 --> 08:56.000]  folks on large reservations who only have their tribal ID,
+[08:56.000 --> 08:58.000]  that ID would not be valid for them to vote.
+[08:58.000 --> 09:02.000]  Folks who don't happen to have a passport or a marriage certificate
+[09:02.000 --> 09:05.000]  that shows their married name, they wouldn't be able to vote.
+[09:05.000 --> 09:08.000]  And voting is not like being in a private club.
+[09:08.000 --> 09:10.000]  It is a right, guaranteed to us by the Constitution.
+[09:10.000 --> 09:14.000]  We have to make it possible for every citizen above the age of 18 to vote.
+[09:14.000 --> 09:17.000]  And you should simply be who you say that you are
+[09:17.000 --> 09:20.000]  and show an identification to prove that that's who exactly
+[09:20.000 --> 09:22.000]  is signing in at that polling place.
+[09:22.000 --> 09:26.000]  This is not a tall order to ask anyone to produce it.
+[09:26.000 --> 09:29.000]  I mean, you need to use ID all the time.
+[09:29.000 --> 09:33.000]  Not every state has the same standards of bipartisan poll workers.
+[09:33.000 --> 09:35.000]  So the state of Georgia, up until their reforms,
+[09:35.000 --> 09:39.000]  had absolutely no bipartisanship in the past.
+[09:39.000 --> 09:43.000]  You know, these things need to be standard and uniform.
+[09:43.000 --> 09:47.000]  Voter identification is a common-sense solution.
+[09:47.000 --> 09:49.000]  All right, Dr. Geese, next question goes to you.
+[09:49.000 --> 09:52.000]  This question also comes from the League of Women Voters.
+[09:52.000 --> 09:55.000]  Millions of Americans are suffering, rather, financially
+[09:55.000 --> 10:00.000]  due to the high price of gas, groceries, and other goods needed for daily life.
+[10:00.000 --> 10:03.000]  What policies would you support that would lower these prices?
+[10:03.000 --> 10:05.000]  Certainly.
+[10:05.000 --> 10:10.000]  So there are a number of important things that we could do, and I think do quickly.
+[10:10.000 --> 10:13.000]  The first we've already talked about, and that is,
+[10:13.000 --> 10:15.000]  we need to wind up the conflict with Iran,
+[10:15.000 --> 10:19.000]  which we both agree is driving up the cost of gas and diesel,
+[10:19.000 --> 10:21.000]  and that is driving up the cost of everything,
+[10:21.000 --> 10:26.000]  because pretty much everything comes to us on a truck or a boat.
+[10:26.000 --> 10:30.000]  The second thing that we need to do is reverse President Trump's tariffs.
+[10:30.000 --> 10:35.000]  Consumers have already paid an average of $1,700 last year because of the tariffs.
+[10:35.000 --> 10:40.000]  And in this district, the tariffs particularly hurt our relationship with Canada,
+[10:40.000 --> 10:44.000]  which is a really important economic and personal relationship
+[10:44.000 --> 10:47.000]  that we have here in western New York and the southern tier.
+[10:47.000 --> 10:50.000]  Border crossings were down last year by 25 percent,
+[10:50.000 --> 10:54.000]  and I don't think they'll be up this year based on this new phase of the trade war.
+[10:54.000 --> 10:56.000]  So that will help to bring prices down.
+[10:56.000 --> 10:58.000]  It will help to give a boost to small business,
+[10:58.000 --> 11:03.000]  which is disproportionately hurt by these arbitrary, job-killing tariffs.
+[11:03.000 --> 11:05.000]  Congressman Langworthy, same question to you.
+[11:05.000 --> 11:08.000]  Millions of Americans are suffering financially
+[11:08.000 --> 11:11.000]  due to the high price of gas, groceries, and other goods needed for everyday life.
+[11:11.000 --> 11:14.000]  What policies would you support to try to bring these down?
+[11:14.000 --> 11:18.000]  Well, one of the first things we did is we lowered taxes across the board
+[11:18.000 --> 11:21.000]  so that our small businesses can grow and thrive and employ people
+[11:21.000 --> 11:26.000]  as they do, you know, so many small businesses I visit all over this district.
+[11:26.000 --> 11:28.000]  My opponent attacks the tariffs.
+[11:28.000 --> 11:32.000]  The tariff is the most pro-worker tool that can be in the arsenal.
+[11:32.000 --> 11:36.000]  We have sold out our jobs across western New York and the southern tier
+[11:36.000 --> 11:39.000]  through free trade agreements over the last 30 years,
+[11:39.000 --> 11:44.000]  and we could list factory after factory, business after business that's left here
+[11:44.000 --> 11:47.000]  and taking the jobs with them and then taking the families
+[11:47.000 --> 11:51.000]  as they've had to spread all over to find opportunity elsewhere.
+[11:51.000 --> 11:54.000]  We have to, in order to bring our gas prices down,
+[11:54.000 --> 11:57.000]  we need more refining capability in this country.
+[11:57.000 --> 12:02.000]  We are a net exporter of oil and fossil fuels.
+[12:02.000 --> 12:05.000]  We need to build more oil refineries here in the United States of America.
+[12:05.000 --> 12:07.000]  We haven't done it in 50 years,
+[12:07.000 --> 12:11.000]  whether it was the war in the Ukraine breaking out or war in the Middle East.
+[12:11.000 --> 12:16.000]  We shouldn't be dependent on global affairs on all of our gas and fuel prices.
+[12:16.000 --> 12:17.000]  If I may?
+[12:17.000 --> 12:18.000]  Sure.
+[12:18.000 --> 12:23.000]  The tax cuts in the big ugly bill overwhelmingly go to the wealthiest Americans
+[12:23.000 --> 12:25.000]  and the corporations that they control.
+[12:25.000 --> 12:27.000]  They are deficit tax cuts.
+[12:27.000 --> 12:29.000]  That is, they are on our nation's credit card.
+[12:29.000 --> 12:32.000]  They weaken workers, they weaken small business,
+[12:32.000 --> 12:35.000]  and they use the government to subsidize the richest people
+[12:35.000 --> 12:37.000]  in the history of the planet.
+[12:37.000 --> 12:39.000]  We are not set to grow ourselves out of this.
+[12:39.000 --> 12:41.000]  We are hurting small business.
+[12:41.000 --> 12:42.000]  We need to reverse the tariffs.
+[12:42.000 --> 12:44.000]  We need to reduce taxes on working people
+[12:44.000 --> 12:46.000]  and stop using the government to subsidize
+[12:46.000 --> 12:48.000]  the richest people who have ever existed.
+[12:48.000 --> 12:51.000]  We did reduce taxes on working people.
+[12:51.000 --> 12:53.000]  We doubled the child tax credit.
+[12:53.000 --> 12:56.000]  We gave no tax on Social Security for our seniors,
+[12:56.000 --> 12:58.000]  no tax on tips, no tax on overtime.
+[12:58.000 --> 13:00.000]  That isn't millionaires and billionaires.
+[13:00.000 --> 13:02.000]  That's regular people right here in our community
+[13:02.000 --> 13:07.000]  that have their tax refund checks went up 11% year over year.
+[13:07.000 --> 13:08.000]  That's a matter of fact.
+[13:08.000 --> 13:09.000]  It's indisputable.
+[13:09.000 --> 13:11.000]  There's more money in their pocket this year,
+[13:11.000 --> 13:15.000]  and it's not something that my opponent can dispute.
+[13:15.000 --> 13:16.000]  All right.
+[13:16.000 --> 13:18.000]  Congressman Langworthy, the next question starts with you.
+[13:18.000 --> 13:21.000]  Government projections show that Social Security Fund
+[13:21.000 --> 13:24.000]  could be insolvent by 2032 if something isn't done.
+[13:24.000 --> 13:26.000]  What do you think, if anything, should be done
+[13:26.000 --> 13:31.000]  to ensure that future retirees can still draw Social Security benefits?
+[13:31.000 --> 13:34.000]  I think it's time for us to have a Social Security commission
+[13:34.000 --> 13:36.000]  on a bipartisan basis.
+[13:36.000 --> 13:38.000]  This has been done in the past.
+[13:38.000 --> 13:42.000]  I mean, it's much like when you decide which bases are going
+[13:42.000 --> 13:44.000]  as you move the military bases around the country
+[13:44.000 --> 13:46.000]  and reposition them.
+[13:46.000 --> 13:49.000]  You cannot do this on a partisan basis.
+[13:49.000 --> 13:50.000]  It's far too serious.
+[13:50.000 --> 13:53.000]  Social Security is a contract with the American people.
+[13:53.000 --> 13:55.000]  You paid in all your life into this,
+[13:55.000 --> 13:58.000]  and so many people's livelihoods are dependent on it.
+[13:58.000 --> 14:02.000]  We have to have a modernization of Social Security
+[14:02.000 --> 14:06.000]  done in a bipartisan fashion, take the politics out of it,
+[14:06.000 --> 14:10.000]  and let's have a bright and vibrant future
+[14:10.000 --> 14:12.000]  while meeting that promise that has been made
+[14:12.000 --> 14:14.000]  to American workers their whole lives.
+[14:14.000 --> 14:15.000]  Dr. Gee, same question.
+[14:15.000 --> 14:18.000]  What should be done to keep Social Security solvent?
+[14:18.000 --> 14:20.000]  Well, it's difficult for me to tell
+[14:20.000 --> 14:23.000]  what Congressman Langworthy's preferred solution would be
+[14:23.000 --> 14:25.000]  other than that he wants it to be bipartisan,
+[14:25.000 --> 14:27.000]  which is certainly correct.
+[14:27.000 --> 14:29.000]  We have to do this in a bipartisan way.
+[14:29.000 --> 14:31.000]  But let me say this first.
+[14:31.000 --> 14:34.000]  We should never privatize Social Security,
+[14:34.000 --> 14:38.000]  which would turn it into a 401K and make it easier
+[14:38.000 --> 14:41.000]  for the government to steal from
+[14:41.000 --> 14:44.000]  or make it subject to market pressures.
+[14:44.000 --> 14:46.000]  So if that's the solution, count me out.
+[14:46.000 --> 14:50.000]  What we should do is eliminate the cap on Social Security earnings
+[14:50.000 --> 14:54.000]  so that if you earn more than $185,000 a year,
+[14:54.000 --> 14:57.000]  those earnings in excess of $185,000 a year
+[14:57.000 --> 14:59.000]  would also be subject to the Social Security tax.
+[14:59.000 --> 15:03.000]  This would not compel rich Americans to pay more proportionally
+[15:03.000 --> 15:05.000]  than working class and middle class Americans
+[15:05.000 --> 15:07.000]  just the same thing.
+[15:07.000 --> 15:09.000]  That is their fair share.
+[15:09.000 --> 15:12.000]  If we do that, then we can keep Social Security solvent
+[15:12.000 --> 15:14.000]  and meet our commitment to our seniors,
+[15:14.000 --> 15:17.000]  which I agree we must meet.
+[15:17.000 --> 15:19.000]  All right, we're going to take a short break,
+[15:19.000 --> 15:23.000]  and we'll be back with the debate on WETM+, WETM.
+[15:23.000 --> 15:26.000]  Thank you for watching.
+[15:36.000 --> 15:39.000]  Okay, we're back with our U.S. House District 23
+[15:39.000 --> 15:41.000]  New York congressional debate.
+[15:41.000 --> 15:43.000]  Dr. Yeast, next question goes to you.
+[15:43.000 --> 15:45.000]  Former President Bill Clinton won an election
+[15:45.000 --> 15:47.000]  by campaigning with the slogan,
+[15:47.000 --> 15:49.000]  it's the economy, stupid.
+[15:49.000 --> 15:51.000]  Do you think the upcoming midterm election
+[15:51.000 --> 15:53.000]  is mostly about the economy?
+[15:53.000 --> 15:56.000]  I do. I agree that it's mostly about the economy.
+[15:56.000 --> 16:00.000]  I think that the stock market keeps going up,
+[16:00.000 --> 16:02.000]  and when I look at it, it makes me nervous
+[16:02.000 --> 16:05.000]  because I live here, and I see businesses closing,
+[16:05.000 --> 16:07.000]  and I see people out of work,
+[16:07.000 --> 16:10.000]  and I see that homelessness is up in the southern tier
+[16:10.000 --> 16:13.000]  by 32% almost last year,
+[16:13.000 --> 16:15.000]  according to the report by the Comptroller.
+[16:15.000 --> 16:18.000]  So folks out here, they're not doing well.
+[16:18.000 --> 16:20.000]  They're not better off than they were
+[16:20.000 --> 16:24.000]  a couple of years ago, and so we have to ask ourselves why,
+[16:24.000 --> 16:27.000]  and I believe one reason is that big ugly bill,
+[16:27.000 --> 16:29.000]  and another reason is the war,
+[16:29.000 --> 16:31.000]  and a third reason is the tariffs,
+[16:31.000 --> 16:34.000]  and I'm particularly concerned about what that big ugly bill
+[16:34.000 --> 16:37.000]  is about to do to our healthcare in early 2027
+[16:37.000 --> 16:40.000]  when the cuts to Medicare and Medicaid go into effect.
+[16:40.000 --> 16:43.000]  Already we're seeing nursing homes close.
+[16:43.000 --> 16:46.000]  We've lost five in the last couple of years.
+[16:46.000 --> 16:48.000]  We've lost 28 pharmacies.
+[16:48.000 --> 16:51.000]  One study showed that eight out of our 12 hospitals in the district
+[16:51.000 --> 16:54.000]  are in danger of closure if those cuts go into effect.
+[16:54.000 --> 16:56.000]  So yes, it's about the economy.
+[16:56.000 --> 16:58.000]  Representative Langworthy, same question to you.
+[16:58.000 --> 17:00.000]  Is it about the economy in this election?
+[17:00.000 --> 17:02.000]  Every election in New York's 23rd District
+[17:02.000 --> 17:05.000]  and throughout Western New York, or upstate New York for that matter,
+[17:05.000 --> 17:07.000]  is about the economy,
+[17:07.000 --> 17:09.000]  and it's the economy that's been brought to us
+[17:09.000 --> 17:11.000]  by New York State government run amok
+[17:11.000 --> 17:13.000]  and Kathy Hochul's policies.
+[17:13.000 --> 17:15.000]  Your electric bill has doubled
+[17:15.000 --> 17:17.000]  as Kathy Hochul's public service commission
+[17:17.000 --> 17:20.000]  has raised rates 48 times.
+[17:20.000 --> 17:24.000]  They have found more ways to tax, regulate,
+[17:24.000 --> 17:26.000]  and nickel and dime the people of this region,
+[17:26.000 --> 17:28.000]  chasing jobs and opportunity
+[17:28.000 --> 17:31.000]  and sue many of our citizens to other states.
+[17:31.000 --> 17:33.000]  This is a sad narrative that's got to stop.
+[17:33.000 --> 17:37.000]  We can no longer have the business climate that we have
+[17:37.000 --> 17:39.000]  and have a sustainable future.
+[17:39.000 --> 17:41.000]  You know, the things that my opponent mentions
+[17:41.000 --> 17:44.000]  about pharmacies and nursing homes close,
+[17:44.000 --> 17:46.000]  they're not closing in other states,
+[17:46.000 --> 17:49.000]  so I don't believe that the aim should be looking
+[17:49.000 --> 17:50.000]  at the federal government
+[17:50.000 --> 17:53.000]  because they're surviving and thriving elsewhere.
+[17:53.000 --> 17:57.000]  New York has had a long period of economic malaise
+[17:57.000 --> 18:01.000]  and we need relief from Kathy Hochul's reign.
+[18:01.000 --> 18:04.000]  I have to say, with regard to pharmacies,
+[18:04.000 --> 18:06.000]  that's not accurate, Congressman.
+[18:06.000 --> 18:09.000]  A lot of those closures were due to the bankruptcy of Rite Aid,
+[18:09.000 --> 18:12.000]  and the Rite Aid bankruptcy was national.
+[18:13.000 --> 18:18.000]  There is disruption in the healthcare markets nationwide.
+[18:18.000 --> 18:20.000]  Things are not going well,
+[18:20.000 --> 18:23.000]  and they're about to get dramatically worse.
+[18:23.000 --> 18:26.000]  Arnett Ogden, the hospital here in Elmira,
+[18:26.000 --> 18:30.000]  is the largest employer in the city, 2,200 people,
+[18:30.000 --> 18:34.000]  and it is the most threatened hospital by the big, ugly bill.
+[18:34.000 --> 18:35.000]  It's amazing.
+[18:35.000 --> 18:37.000]  I visited Arnett many times.
+[18:37.000 --> 18:39.000]  I talked to their executives on a very regular basis.
+[18:39.000 --> 18:42.000]  I'm currently working on getting federal funds
+[18:42.000 --> 18:44.000]  for projects within Arnett,
+[18:44.000 --> 18:46.000]  and they're going to benefit directly
+[18:46.000 --> 18:48.000]  from the Rural Transformation Fund,
+[18:48.000 --> 18:51.000]  a $50 billion once of a first time of its kind,
+[18:51.000 --> 18:53.000]  a fund just aimed at rural healthcare
+[18:53.000 --> 18:55.000]  all the way across our district,
+[18:55.000 --> 18:56.000]  and the plans are already in place
+[18:56.000 --> 18:59.000]  to bring those funding pots here to our district
+[18:59.000 --> 19:02.000]  in rural hospitals all over America.
+[19:02.000 --> 19:04.000]  The trail of tears, economically,
+[19:04.000 --> 19:07.000]  that we have in this region is because Kathy Hochul
+[19:07.000 --> 19:09.000]  and the New York State government is out of touch.
+[19:09.000 --> 19:12.000]  You know, I agree that our utility bills are too high,
+[19:12.000 --> 19:16.000]  and I do blame Albany for that, in part, at least.
+[19:16.000 --> 19:18.000]  But let me say this.
+[19:18.000 --> 19:20.000]  The Rural Healthcare Transformation Fund,
+[19:20.000 --> 19:24.000]  which is fine, our share of it is $74 million.
+[19:24.000 --> 19:27.000]  The big, ugly bill cuts $63 billion
+[19:27.000 --> 19:30.000]  out of New York State's Medicare and Medicaid budget.
+[19:30.000 --> 19:32.000]  It's almost 1,000 times more.
+[19:32.000 --> 19:35.000]  So for Congressman Langworthy to compare the two,
+[19:35.000 --> 19:38.000]  they're just not comparable.
+[19:38.000 --> 19:39.000]  Do I get another rebuttal?
+[19:39.000 --> 19:40.000]  Absolutely.
+[19:40.000 --> 19:43.000]  I mean, we will spend more at the end of the decade on Medicaid,
+[19:43.000 --> 19:46.000]  $45 billion more a year than we spend today.
+[19:46.000 --> 19:49.000]  Medicaid will continue to grow and go up.
+[19:49.000 --> 19:53.000]  The trajectory of the program was unsustainable.
+[19:53.000 --> 19:56.000]  What you have is Medicaid that's been abused
+[19:56.000 --> 19:58.000]  by states in particular,
+[19:58.000 --> 20:00.000]  and we have put a common sense work requirement on here
+[20:00.000 --> 20:03.000]  because that program must be there for the most vulnerable,
+[20:03.000 --> 20:06.000]  the disabled, the impoverished, and our elderly people.
+[20:06.000 --> 20:08.000]  It's not a lifestyle choice.
+[20:08.000 --> 20:11.000]  I'll never apologize for supporting work requirements.
+[20:11.000 --> 20:14.000]  All right, Representative Langworthy, this is yours first.
+[20:14.000 --> 20:18.000]  A lot of American goods have gone up in price,
+[20:18.000 --> 20:20.000]  likely because of diesel fuel prices.
+[20:20.000 --> 20:22.000]  Diesel powers railroads.
+[20:22.000 --> 20:23.000]  It powers semi-trucks.
+[20:23.000 --> 20:27.000]  It powers a lot of the vehicles that deliver goods to our stores.
+[20:27.000 --> 20:32.000]  Should gasoline, diesel fuel, and other products be regulated by law?
+[20:32.000 --> 20:36.000]  Well, I think, you know, I don't believe in price controls,
+[20:36.000 --> 20:39.000]  but I do think that we need to harness more of our American energy
+[20:39.000 --> 20:42.000]  and refine it here in the United States of America.
+[20:42.000 --> 20:45.000]  I have long had a problem with refiners,
+[20:45.000 --> 20:48.000]  is we have a disparity in price between the Southern Tier
+[20:48.000 --> 20:50.000]  and the Buffalo metropolitan area in price,
+[20:50.000 --> 20:53.000]  even though they're closer to the Pennsylvania refineries.
+[20:53.000 --> 20:57.000]  We can solve that problem if we do create a larger refining network
+[20:57.000 --> 21:02.000]  here in the country as we become a greater global exporter
+[21:02.000 --> 21:06.000]  of so many of our energy sources.
+[21:06.000 --> 21:09.000]  But the fact that we haven't created a new refinery in 50 years,
+[21:09.000 --> 21:12.000]  that is something that has got to change.
+[21:12.000 --> 21:15.000]  We have to have a broader network of those refineries
+[21:15.000 --> 21:18.000]  in order to bring that product to market.
+[21:18.000 --> 21:20.000]  Dr. Beas?
+[21:20.000 --> 21:24.000]  Increasing global exports of liquefied natural gas
+[21:24.000 --> 21:28.000]  would not bring down prices in Western New York and the Southern Tier.
+[21:28.000 --> 21:31.000]  They would make a scarce commodity more scarce.
+[21:31.000 --> 21:33.000]  And the more dependent we are on that commodity,
+[21:33.000 --> 21:35.000]  the higher the price is going to be.
+[21:35.000 --> 21:38.000]  This is why I oppose Nick Langworthy's signature piece of legislation,
+[21:38.000 --> 21:42.000]  the Energy Choice Act, because by banning the bans, as he said,
+[21:42.000 --> 21:46.000]  it would force consumers to pay natural gas prices forever,
+[21:46.000 --> 21:49.000]  whatever the gas company wants to charge for them.
+[21:49.000 --> 21:53.000]  I am for giving people more control over where they get their energy
+[21:53.000 --> 21:56.000]  and how much they pay for it.
+[21:56.000 --> 21:59.000]  And I believe to do that we need to diversify the sources
+[21:59.000 --> 22:04.000]  from which we get our energy and not give more power to big refiners
+[22:04.000 --> 22:07.000]  that are subject to shocks like the current shock
+[22:07.000 --> 22:11.000]  and the Strait of Hormuz and the Strait of Bab al-Mandeb and in Ukraine.
+[22:11.000 --> 22:15.000]  Well, there's a clear contrast between my opponent and I.
+[22:15.000 --> 22:17.000]  I mean, you heard it from him.
+[22:17.000 --> 22:20.000]  He opposes the Energy Choice Act, which would stop Kathy Hochul
+[22:20.000 --> 22:24.000]  from banning us from bringing natural gas into our homes.
+[22:24.000 --> 22:28.000]  He believes that you should be mandated to be in an all-electric home.
+[22:28.000 --> 22:29.000]  I don't.
+[22:29.000 --> 22:31.000]  I think that it's a matter of life and death
+[22:31.000 --> 22:35.000]  for us to have redundancy in the way we heat our homes
+[22:35.000 --> 22:37.000]  in this very difficult climate.
+[22:37.000 --> 22:41.000]  I also believe that the state's climate law is too aggressive,
+[22:41.000 --> 22:45.000]  and I will never support things like bans on wood-burning stoves
+[22:45.000 --> 22:48.000]  or propane or no more hookups for natural gas.
+[22:48.000 --> 22:50.000]  But that should be dealt with at the state level.
+[22:50.000 --> 22:53.000]  We do not need a federal ban that would prohibit states
+[22:53.000 --> 22:56.000]  from doing anything to diversify our energy mix.
+[22:56.000 --> 23:00.000]  That is not the way to make energy affordable and accessible for everyone,
+[23:00.000 --> 23:03.000]  which is what we need to do desperately right now
+[23:03.000 --> 23:06.000]  when people's electric bills are going up through the roof.
+[23:06.000 --> 23:08.000]  Okay, I want to ask a follow-up question here.
+[23:08.000 --> 23:11.000]  If the state, you say keep it at the state level,
+[23:11.000 --> 23:14.000]  but if the state mandates only one form of power,
+[23:14.000 --> 23:16.000]  is that a good or a bad thing?
+[23:16.000 --> 23:17.000]  That would be a bad thing.
+[23:17.000 --> 23:20.000]  We need a diversified energy mix.
+[23:20.000 --> 23:21.000]  Yes?
+[23:21.000 --> 23:27.000]  I think that my opponent's mistaken about the intention of New York State's laws.
+[23:27.000 --> 23:31.000]  New York State looks to take us off of natural gas and propane.
+[23:31.000 --> 23:34.000]  And yes, there are proposals in New York to ban wood heat.
+[23:34.000 --> 23:38.000]  These are lifeblood necessities for people in western New York
+[23:38.000 --> 23:39.000]  in the southern tier.
+[23:39.000 --> 23:43.000]  When I went to Congress, I introduced this bill out of necessity
+[23:43.000 --> 23:47.000]  because I had to find a federal solution around a really bad piece of state policy
+[23:47.000 --> 23:52.000]  drawn by New York City residents that don't understand our lifestyle.
+[23:52.000 --> 23:57.000]  I mean, Winter Storm Elliott, we lost 69 lives in western New York
+[23:57.000 --> 23:59.000]  in that horrible blizzard.
+[23:59.000 --> 24:02.000]  It was the most desperate situation I have personally lived through.
+[24:02.000 --> 24:03.000]  911 collapsed.
+[24:03.000 --> 24:05.000]  People froze to death in their homes.
+[24:05.000 --> 24:09.000]  Those were the people that had baseboard electric heat only.
+[24:09.000 --> 24:14.000]  The winds were so great that the power lines weren't able to be restored for days.
+[24:14.000 --> 24:18.000]  I mean, that should never happen in a place like New York.
+[24:18.000 --> 24:22.000]  Unfortunately, these wrongheaded policies that have come out of the New York State Legislature,
+[24:22.000 --> 24:26.000]  which has gone to the extreme left in their desire to be the most green,
+[24:26.000 --> 24:29.000]  are putting New Yorkers' lives in danger.
+[24:29.000 --> 24:33.000]  Doctor, I'm going to come to you with the next question because it's right along the same track here.
+[24:33.000 --> 24:37.000]  Are you concerned at all about the American electric grid?
+[24:37.000 --> 24:40.000]  Just keep it hyper-local with New York, the New York electric grid,
+[24:40.000 --> 24:44.000]  its ability to handle the load that's currently on it,
+[24:44.000 --> 24:47.000]  and the fact that grid owners around the country, frankly,
+[24:47.000 --> 24:53.000]  have not done much to upgrade their security or their ability to carry more electricity to people.
+[24:53.000 --> 24:54.000]  Does that concern you?
+[24:54.000 --> 24:59.000]  Yes, I am concerned about that, Jim, and there are several reasons why.
+[24:59.000 --> 25:03.000]  One reason is because we have utility companies that are owned by foreign countries,
+[25:03.000 --> 25:08.000]  not owned by New York State, and not owned by private companies that are owned right here inside the state.
+[25:08.000 --> 25:13.000]  And so they take their profits overseas, and they make their investments, well,
+[25:13.000 --> 25:16.000]  based on what they can negotiate with the utility commission.
+[25:16.000 --> 25:20.000]  And I don't think we always get the best deal, and I'm frustrated, frankly, with Albany about that.
+[25:20.000 --> 25:24.000]  But I'll tell you something else that concerns me, and that is data centers.
+[25:24.000 --> 25:30.000]  AI data centers, the number in the pipeline, are poised to double the power demand
+[25:30.000 --> 25:34.000]  of every man, woman, and child in business that is currently here in New York State.
+[25:34.000 --> 25:38.000]  Our electric grid absolutely cannot support that.
+[25:38.000 --> 25:44.000]  And if you don't think that it's going to affect your electricity rates, boy, you've got another thing coming.
+[25:44.000 --> 25:46.000]  I support the governor's moratorium.
+[25:46.000 --> 25:51.000]  And by the way, Nick Langworthy has said this is a local issue, which I think makes no sense.
+[25:51.000 --> 25:56.000]  Bruce Blakeman has been very positive about data centers, and so has Donald Trump.
+[25:56.000 --> 26:01.000]  Same question to you about the security of electric grids and their ability to handle the load.
+[26:01.000 --> 26:03.000]  I'm deeply concerned about the grid.
+[26:03.000 --> 26:09.000]  And, you know, Governor Hochul has been raising rates in a backdoor fashion.
+[26:09.000 --> 26:12.000]  She has this faceless commission that raises rates.
+[26:12.000 --> 26:14.000]  It's not, you know, the governor or the legislature.
+[26:14.000 --> 26:19.000]  But they've done it 48 times, and they've done it so that they wouldn't have their fingerprints on it.
+[26:19.000 --> 26:24.000]  And they've done it in the name of full electrification, which I believe, as I stated in my previous question,
+[26:24.000 --> 26:27.000]  is dangerous for New Yorkers that live in this climate.
+[26:27.000 --> 26:34.000]  You know, my opponent talks about data centers, and I did something about that, you know, not just talk.
+[26:34.000 --> 26:38.000]  The Rape Payer Protection Act addresses this directly.
+[26:38.000 --> 26:40.000]  And data centers are coming to the United States.
+[26:40.000 --> 26:42.000]  They need to generate their own power.
+[26:42.000 --> 26:48.000]  And in doing so, they can actually add power back onto the grid rather than take it off.
+[26:48.000 --> 26:53.000]  That is a mandate that I think has to be put on these projects so that local people don't have
+[26:53.000 --> 26:57.000]  sky-high energy bills because a data center has been cited in their area.
+[26:57.000 --> 26:59.000]  Let's be clear.
+[26:59.000 --> 27:03.000]  Congressman Langworthy wants data centers to generate their own power.
+[27:03.000 --> 27:09.000]  And that kind of power demand, 500 megawatts for the stream data center in Genesee County,
+[27:09.000 --> 27:12.000]  that's a quarter of the Niagara Power Station.
+[27:12.000 --> 27:18.000]  How do you generate power like that and do it 30, 40, 70 times, depending on how many data centers actually get built?
+[27:18.000 --> 27:19.000]  I'll tell you what you do.
+[27:19.000 --> 27:22.000]  You build new nuclear and you frack.
+[27:22.000 --> 27:24.000]  I am not for either of those options.
+[27:24.000 --> 27:26.000]  We need to generate our own power in New York State.
+[27:26.000 --> 27:31.000]  We need a diverse energy mix, and we need to put our residents first, not data centers.
+[27:31.000 --> 27:39.000]  I don't quite understand what a diverse energy mix is if you're against a new nuclear power plant in New York,
+[27:39.000 --> 27:41.000]  and you're against natural gas.
+[27:41.000 --> 27:47.000]  I don't really – I'm not gathering where you think this energy comes from other than the wall socket.
+[27:47.000 --> 27:50.000]  I mean, we have to create new energy.
+[27:50.000 --> 27:53.000]  And without those two sources, it's not a possibility.
+[27:53.000 --> 27:56.000]  The pinwheels and the solar farms aren't cutting it.
+[27:56.000 --> 28:01.000]  I mean, it's going to be no more than 20 percent of our state's needs at any given time.
+[28:01.000 --> 28:02.000]  And that is a matter of fact.
+[28:02.000 --> 28:05.000]  You could talk to any energy expert about that.
+[28:05.000 --> 28:07.000]  That's misinformation.
+[28:07.000 --> 28:08.000]  It's not.
+[28:08.000 --> 28:10.000]  That's misinformation, yes.
+[28:11.000 --> 28:20.000]  There are countries that are generating significantly in excess of 20 percent from renewables, from just solar and wind.
+[28:20.000 --> 28:23.000]  But we should open the aperture on renewables a little bit.
+[28:23.000 --> 28:30.000]  The Great Lakes have one of the largest potentials in the world for tidal energy, energy that does not hurt fish or spoil your view.
+[28:30.000 --> 28:34.000]  We have a great potential here in this district for enhanced geothermal energy.
+[28:34.000 --> 28:38.000]  That is U-shaped holes dug in the ground that give you heat forever.
+[28:38.000 --> 28:40.000]  Now, you talk about the blizzard.
+[28:40.000 --> 28:45.000]  We need a diversified way to heat our homes that doesn't cost us a lot of money.
+[28:45.000 --> 28:49.000]  I mean, I think the contrast between us couldn't be more clear on this issue.
+[28:49.000 --> 28:54.000]  If you like big industrial solar farms coming into our agricultural territory, he's your guy.
+[28:54.000 --> 29:03.000]  If you want safeguards in place against these green new energy scams coming in and gobbling up our agricultural territory, then I'm your guy.
+[29:03.000 --> 29:05.000]  That's a clear difference.
+[29:05.000 --> 29:10.000]  These things aren't profitable without the tax subsidies, and they haven't worked anywhere they've been trying.
+[29:10.000 --> 29:12.000]  All right, folks, we're going to have to take a break here.
+[29:12.000 --> 29:17.000]  So we'll be back to resume this debate, and we'll move into another area of conversation when we come back.
+[29:28.000 --> 29:29.000]  Welcome back to our debate.
+[29:29.000 --> 29:30.000]  We're going to get right back to the questions.
+[29:30.000 --> 29:32.000]  Dr. Geese, you're first on this one.
+[29:32.000 --> 29:36.000]  For years, immigration has been an issue where U.S. voters seem to be divided.
+[29:36.000 --> 29:44.000]  We recently had a poll done for 18 News and for our sister Nexstar stations that put immigration at a top five issue in this year's campaign.
+[29:44.000 --> 29:49.000]  Would you change our country's current approach to immigration enforcement, or would you stay the course?
+[29:49.000 --> 29:51.000]  I absolutely would, Jim.
+[29:51.000 --> 29:53.000]  I would change it dramatically.
+[29:53.000 --> 30:01.000]  I think that ICE is in some cases terrorizing our communities, and it certainly made the border with Canada
+[30:01.000 --> 30:03.000]  a more dangerous place to be.
+[30:03.000 --> 30:09.000]  But we should take a step back, and instead of talking about immigration enforcement, let's talk about our immigration loss,
+[30:09.000 --> 30:13.000]  because I think Americans agree that we need comprehensive immigration reform.
+[30:13.000 --> 30:17.000]  I talk to conservatives, and they tell me, I just want people to come here the right way.
+[30:17.000 --> 30:18.000]  Well, currently, you can't.
+[30:18.000 --> 30:25.000]  You can't come here the right way unless you are a doctor on a J-1 visa and you have money for the extra $100,000 fee,
+[30:25.000 --> 30:27.000]  or you're a white South African.
+[30:27.000 --> 30:33.000]  We're not letting any religious persecution refugees into the country right now for the first time in our history.
+[30:33.000 --> 30:38.000]  And the Republican Party that's arguably controlled all three branches of the federal government now for two years,
+[30:38.000 --> 30:42.000]  they haven't even tried to propose comprehensive immigration reform.
+[30:42.000 --> 30:45.000]  We knew what to do about this 40 years ago.
+[30:45.000 --> 30:53.000]  We have to get together the political will to fix our broken immigration system and have a clear path for folks to come and for folks that are already here.
+[30:54.000 --> 30:59.000]  We had an invasion of our southern border for four years, and it was on purpose.
+[30:59.000 --> 31:05.000]  Our federal government opened the border and let 10 million plus, maybe more, across that border.
+[31:05.000 --> 31:07.000]  We had people come that were on the terrorist watch list.
+[31:07.000 --> 31:10.000]  We had people wandering around the interior of the country.
+[31:10.000 --> 31:13.000]  We don't know where they are or what they've done.
+[31:13.000 --> 31:19.000]  The deportation process that's going on right now should always be under review.
+[31:19.000 --> 31:22.000]  Any police tactic should always be subject to review.
+[31:22.000 --> 31:23.000]  I believe in body cameras.
+[31:23.000 --> 31:25.000]  I think those are things that keep everybody honest.
+[31:25.000 --> 31:34.000]  And most law enforcement officers you talk to relish them after the fact because nine times out of 10, it proves that they did the right thing despite things.
+[31:34.000 --> 31:39.000]  But Barack Obama actually deported more people than President Trump has.
+[31:39.000 --> 31:43.000]  But you have a dangerous criminal element just down the road in Endicott, New York.
+[31:43.000 --> 31:45.000]  We had a Peruvian serial killer.
+[31:45.000 --> 31:48.000]  Someone so heinous they killed 23 people in their own country.
+[31:48.000 --> 31:53.000]  They had their names and tattoos in the faces tattooed on this body.
+[31:53.000 --> 32:00.000]  That person was apprehended by ICE, a menace to society that absolutely could have killed again.
+[32:00.000 --> 32:06.000]  If I may, we should always have strong borders and strong immigration enforcement.
+[32:06.000 --> 32:09.000]  However, that doesn't require that we terrorize our neighbors.
+[32:09.000 --> 32:12.000]  Batavia, ICE's detention facility, is overcrowded.
+[32:12.000 --> 32:18.000]  They're expanding it right now, but it's still going to be almost double the capacity that it's supposed to have.
+[32:18.000 --> 32:22.000]  And that impinges on people's human dignity and their human rights.
+[32:22.000 --> 32:27.000]  They have deported folks in this district who have been here for 20 years, who raised families here,
+[32:27.000 --> 32:33.000]  who were valued members of their Baptist church, and who were here, in fact, because they processed it for democracy in China.
+[32:33.000 --> 32:40.000]  I mean, due to Kathy Hochul's sanctuary state policies, we have become a destination for illegal immigration.
+[32:41.000 --> 32:44.000]  In New York, they give you housing, they give you food, they give you a cell phone.
+[32:44.000 --> 32:50.000]  They take better care of you than they would take care of people that lost their job and that are tax paying New Yorkers.
+[32:50.000 --> 32:58.000]  Illegal immigration ran amok in the last four years, and it has to come to a stop in all sanctuary state and city policies.
+[32:58.000 --> 32:59.000]  It must be abolished.
+[32:59.000 --> 33:01.000]  Okay, I'm going to keep going down the New York route here.
+[33:01.000 --> 33:03.000]  Congressman Langworthy, you're next.
+[33:03.000 --> 33:06.000]  Should state or local government be able to overrule a federal mandate?
+[33:06.000 --> 33:13.000]  Specifically, I'm referring to Governor Hochul and State Attorney General James ordering state law enforcement to refuse to work with ICE.
+[33:13.000 --> 33:16.000]  No, I think it's extraordinarily dangerous what they've done.
+[33:16.000 --> 33:18.000]  I mean, you look at the governor's green light law.
+[33:18.000 --> 33:21.000]  She wanted to give driver's licenses to illegal immigrants.
+[33:21.000 --> 33:22.000]  What did they do?
+[33:22.000 --> 33:27.000]  They banned our local law enforcement from accessing New York state DMV database.
+[33:27.000 --> 33:34.000]  That very case I just talked to in the last question at Endicott, it took the ICE officials two extra months to track down that heinous killer,
+[33:34.000 --> 33:37.000]  because they couldn't access that database.
+[33:37.000 --> 33:42.000]  Yet we freely share that same database with the country of Canada at our borders.
+[33:42.000 --> 33:43.000]  That is abhorrent.
+[33:43.000 --> 33:46.000]  We have one United States of America.
+[33:46.000 --> 33:51.000]  We are all states within it, and they should not contradict the laws of the federal government.
+[33:51.000 --> 33:58.000]  Okay, Dr. Geese, President Trump has said he's not in favor of government regulation of artificial intelligence.
+[33:59.000 --> 34:07.000]  In your opinion, is unencumbered growth of AI a danger to the American people, and if so, should it be regulated, and who should be in charge of regulating it?
+[34:07.000 --> 34:10.000]  Yes, it absolutely should be regulated.
+[34:10.000 --> 34:18.000]  Like any new technology, any new powerful technology, AI has a path that can go towards the good, or it could do great harm.
+[34:18.000 --> 34:22.000]  And we have a responsibility to make sure that it does good.
+[34:22.000 --> 34:36.000]  If we just pursue profit, if we just pursue the potential of the technology, we're headed towards a world where none of us has any privacy, where none of us can control our likeness, where we're surveilled all the time, and where AI defense technologies have the potential for doing great damage.
+[34:36.000 --> 34:42.000]  And so I think it's very important that AI be regulated for the common good with human values forward.
+[34:43.000 --> 34:53.000]  And I think Congress has the primary responsibility to do that regulating, you know, in dialogue with the rest of the world, which also has to deal with the emergence of AI, particularly with China.
+[34:53.000 --> 35:10.000]  Now, when we had – let me say this – Mike Johnson sent Congress home right after we found out that anthropic had dealt with terrifying AI breakouts instead of taking up the issue.
+[35:11.000 --> 35:13.000]  It was a dereliction of duty.
+[35:13.000 --> 35:16.000]  AI is something – this is an area where I disagree with President Trump.
+[35:16.000 --> 35:22.000]  We do not need just a presidential dictate on AI.
+[35:22.000 --> 35:30.000]  We shouldn't, you know, have the tech billionaires decide their regulation and stifle any innovation that comes from any would-be competitors.
+[35:30.000 --> 35:36.000]  Congress has to do its job and do exactly that, and it actually is in the process of doing its job.
+[35:37.000 --> 35:50.000]  The last time that a potentially dangerous technology like this was invented, it was the nuclear bomb.
+[35:50.000 --> 36:05.000]  And after that, we had a very serious 30, 40-year conversation between avowed enemies, the U.S. and the U.S.S.R., that led to the I.C.A.
+[36:06.000 --> 36:08.000]  It led to arms reduction.
+[36:08.000 --> 36:12.000]  It led to peaceful nuclear power and nonproliferation.
+[36:12.000 --> 36:20.000]  That conversation is not happening internationally right now between the U.S. and China and our partners in the U.N., and I blame President Trump for that.
+[36:20.000 --> 36:22.000]  So I agree with Congressman Langworthy.
+[36:22.000 --> 36:24.000]  Congress has the responsibility here.
+[36:24.000 --> 36:31.000]  Congressman Langworthy, New York pays nearly $32,000 in taxes for each public school student.
+[36:31.000 --> 36:33.000]  That's the highest in the nation.
+[36:33.000 --> 36:36.000]  The national average is a little under $18,000.
+[36:36.000 --> 36:45.000]  Despite that, ratings on America's Dashboard.com show that New York ranks 30th nationally, 24th in graduation rate, 27th in 8th grade math scores.
+[36:45.000 --> 36:50.000]  Is there anything that members of Congress can do to help this back up?
+[36:50.000 --> 36:57.000]  I mean, our rate per pupil is unacceptable for the outcomes, especially in our inner-city schools.
+[36:58.000 --> 37:12.000]  I mean, we have pushed an opportunity for New York State to opt into a school choice voucher system that would allow people to have a choice if you have failing schools and allow them to have tax credits for that.
+[37:12.000 --> 37:18.000]  I think that it, especially for our inner-city kids, they deserve far much better.
+[37:18.000 --> 37:27.000]  But the State Education Department over-regulates the system, and, you know, additional federal regulations, I don't believe, will help the outcomes.
+[37:27.000 --> 37:29.000]  Dr. Giese?
+[37:29.000 --> 37:32.000]  So I haven't had a chance to say it here yet, but I'm an educator.
+[37:32.000 --> 37:35.000]  I'm a professor at St. Bonaventure University.
+[37:35.000 --> 37:36.000]  That's my career.
+[37:36.000 --> 37:38.000]  And I came from a working-class family.
+[37:38.000 --> 37:42.000]  Neither my mom nor my dad went to college.
+[37:42.000 --> 37:45.000]  But, you know, they worked hard, and they did well.
+[37:45.000 --> 37:49.000]  We were the kind of family that, you know, they didn't fly for vacations, but we weren't hungry either.
+[37:49.000 --> 37:51.000]  And they're very proud of my education.
+[37:51.000 --> 37:54.000]  And excellence was really important to them, as it is to me.
+[37:54.000 --> 38:02.000]  I do not believe that we should be trying to dismantle the Department of Education, as Linda McMahon, President Trump's Secretary of Education, is doing.
+[38:02.000 --> 38:13.000]  I think that we do have a responsibility to make sure that we have common standards nationally, although we should never determine curriculum.
+[38:13.000 --> 38:21.000]  But, you know, another thing that I'd like to point out is that the cuts to Medicaid and the big, ugly bill represent a horrible disinvestment in our children's education.
+[38:21.000 --> 38:27.000]  Because those funds fund special education, individual education plans, and school lunches.
+[38:27.000 --> 38:34.000]  And the biggest cause of learning loss in the American school child's day is hunger.
+[38:34.000 --> 38:37.000]  Dr. Giese, I want to get you first on this one.
+[38:37.000 --> 38:42.000]  New York is getting rid of Regents exams as graduation requirements starting next school year.
+[38:42.000 --> 38:46.000]  Is that a good or a bad idea?
+[38:46.000 --> 38:50.000]  Well, I believe that the Teachers Union supports the idea.
+[38:50.000 --> 38:55.000]  I have been endorsed by NYCID, and I'm very proud to be endorsed by our teachers.
+[38:55.000 --> 39:02.000]  I have not had a chance to review the standards with which they will be replacing the Regents exam.
+[39:02.000 --> 39:05.000]  The Regents exam is not very old, right?
+[39:05.000 --> 39:08.000]  It's something that we've been doing for a couple of decades.
+[39:08.000 --> 39:13.000]  But testing standards can change as research standards change.
+[39:13.000 --> 39:30.000]  We just need to make sure that we are evaluating our students in a way that encourages them to achieve excellence and obtain the skills that they need to compete in tomorrow's workplace.
+[39:30.000 --> 39:31.000]  Congressman?
+[39:32.000 --> 39:42.000]  I have no jurisdiction over the matter of the Regents exam, but I think that it pretty much says to the world that we're not going to strive for excellence anymore.
+[39:42.000 --> 39:47.000]  And I think we should always be trying to challenge our students to be at their highest possible standard.
+[39:47.000 --> 39:50.000]  And that Regents diploma, that used to mean something.
+[39:50.000 --> 39:58.000]  I remember getting my Regents diploma growing up here, and it was a matter of pride for my parents.
+[39:58.000 --> 40:02.000]  Also, you know, I come from a working class background. My mother was a factory worker.
+[40:02.000 --> 40:07.000]  My father run a small business for, you know, 48 years now.
+[40:07.000 --> 40:13.000]  And we should always be pushing for the highest standards we possibly can for our kids.
+[40:13.000 --> 40:17.000]  And just eliminating this in a blanket fashion doesn't make sense to me.
+[40:17.000 --> 40:21.000]  All right, we've got to take a commercial break, and we'll be back in just a couple of minutes to wrap up the debate.
+[40:21.000 --> 40:24.000]  This is our last commercial break. Hope you'll stick around.
+[40:24.000 --> 40:26.000]  It goes very fast.
+[40:27.000 --> 40:32.000]  Live from your local election headquarters, this is debate night in New York.
+[40:35.000 --> 40:38.000]  Welcome back to our congressional debate. We're going to get right to the questions.
+[40:38.000 --> 40:40.000]  Congressman Langworthy, this is for you.
+[40:40.000 --> 40:45.000]  Should the U.S. minimum wage get raised, and if you think so, how much?
+[40:45.000 --> 40:48.000]  I think that the minimum wage question has been answered by the states.
+[40:48.000 --> 40:52.000]  I mean, the state of New York has increased its minimum wage greatly,
+[40:52.000 --> 40:58.000]  and I think it is better suited to find the cost of living in a particular area.
+[40:58.000 --> 41:04.000]  I mean, New York State, you know, obviously went very far when we were one of the first states to go to a $15 minimum wage.
+[41:04.000 --> 41:12.000]  I've heard a lot from businesses that arbitrary wage hikes by the state of New York have been drastically impactful on business.
+[41:12.000 --> 41:17.000]  And if you, you know, the federal minimum wage, I think, is very antiquated,
+[41:17.000 --> 41:22.000]  because if you tried to hire someone at that number, you're not going to find anyone to answer the call.
+[41:22.000 --> 41:26.000]  So at this point, I think the minimum wage question is best left to the states.
+[41:26.000 --> 41:28.000]  Dr. Giese?
+[41:28.000 --> 41:40.000]  I support the Raise the Wage Act, which would raise the federal minimum wage to $15 immediately and then move towards $18.
+[41:40.000 --> 41:42.000]  There are a couple of reasons for that.
+[41:42.000 --> 41:46.000]  The one is states that border us that have the federal minimum wage,
+[41:46.000 --> 41:57.000]  they really do eat our lunch economically when folks can jump over the border and earn a New York wage that's much more close, close to a living wage.
+[41:57.000 --> 42:08.000]  But another reason is because the federal minimum wage is not something that anyone can live on, and that hasn't been true for decades now.
+[42:08.000 --> 42:15.000]  I earned the minimum wage when it was first moved to $7.25 an hour when I was just out of high school.
+[42:15.000 --> 42:19.000]  It's ridiculous that we haven't moved it at all that time.
+[42:19.000 --> 42:22.000]  Speaking of which, no tax on tips, no tax on overtime.
+[42:22.000 --> 42:24.000]  These are good things, and we should keep them.
+[42:24.000 --> 42:34.000]  But ultimately, we need to be pushing for folks to earn a living wage so that they don't have to rely on tips and overtime just to get by.
+[42:34.000 --> 42:36.000]  Dr. Giese, the next question is for you.
+[42:36.000 --> 42:40.000]  The U.S. will pay around $1 trillion interest on our national debt this year.
+[42:40.000 --> 42:42.000]  Despite that, government spending keeps growing.
+[42:42.000 --> 42:46.000]  How concerned should people be about the national debt and why?
+[42:46.000 --> 42:47.000]  Yes.
+[42:47.000 --> 42:54.000]  Someone pointed out to me in an email today that our national debt will grow by a billion dollars during the time this debate is going on.
+[42:54.000 --> 43:06.000]  It's deeply concerning, deeply unsettling, I would even say, that our national debt has gotten so high and now one out of every $3 we send to the IRS goes just to pay the interest on our national credit card.
+[43:06.000 --> 43:09.000]  We have to tame the debt, and we should be clear.
+[43:09.000 --> 43:18.000]  President Trump owns over half of that debt through bills that he passed with Congress with the help, in the second case, of Congressman Langworthy.
+[43:18.000 --> 43:27.000]  These unfunded, irresponsible tax cuts to billionaires and corporations have led to this debt, as have forever wars, including the war in Iran.
+[43:27.000 --> 43:33.000]  Now, to fix the problem, job one is to get the rich to pay their fair share of taxes.
+[43:33.000 --> 43:44.000]  We have a very regressive tax code that taxes working people, taxes the middle class, and allows the ultra-wealthy, in many cases, to pay a lower effective tax rate, and that's not right.
+[43:44.000 --> 43:47.000]  I'm deeply concerned about our debt.
+[43:47.000 --> 43:51.000]  I have taken steps to address our deficit.
+[43:51.000 --> 43:53.000]  I mean, we've put rescissions packages forward.
+[43:53.000 --> 44:01.000]  The federal government is not in the business of a lot of things that it was before President Trump took office in my time in Congress.
+[44:02.000 --> 44:11.000]  You know, my opponent runs on a platform of one-size-fits-all government healthcare, which comes with a $34 trillion bill.
+[44:11.000 --> 44:15.000]  I mean, that's not the way you grow the economy or shrink the debt.
+[44:15.000 --> 44:19.000]  That's piling on new government programs, new government debts, and forever entitlements.
+[44:19.000 --> 44:25.000]  75% of all spending is mandatory in this country, and it is not sustainable.
+[44:25.000 --> 44:30.000]  Universal single-payer healthcare is the way you grow the economy and shrink the debt.
+[44:30.000 --> 44:37.000]  There's a study this summer that showed that if we got it right, the government could save a trillion dollars a year, a trillion dollars a year.
+[44:37.000 --> 44:40.000]  Now, that's not $40 trillion, but it's a start.
+[44:40.000 --> 44:52.000]  And think about the weight that that takes off of small business, takes off of farmers not to have to deal with the benefits costs of covering employees' health insurance through W-2 taxes.
+[44:52.000 --> 45:01.000]  This relieves the pressure from the self-employed, stops people from having to work jobs they hate just to keep the health insurance.
+[45:01.000 --> 45:11.000]  I mean, single-payer health insurance, it eliminates choice, it eliminates opportunities, it eliminates innovation, and if you enjoy your experience at the DMV, you would love it.
+[45:11.000 --> 45:16.000]  It is not something that American people will believe in rationed care.
+[45:16.000 --> 45:26.000]  I mean, the idea that a government bureaucrat is going to make a decision whether or not your relative is worthy of the state-of-the-art treatment to fight their cancer or the knee replacement that they might need.
+[45:26.000 --> 45:36.000]  I mean, these are the sorts of trap doors that come with one-size-fits-all government healthcare, and that's why you see so many Canadian license plates still in our MRI centers.
+[45:36.000 --> 45:44.000]  When we choose not to provide healthcare for folks with universal single-payer healthcare, we are choosing to ration healthcare based on who can pay for it.
+[45:44.000 --> 45:56.000]  And I just do not believe that Americans believe we should decide who lives or dies of a preventable disease based on whether they are poor or whether they live in a rural area that can't sustain a full-service hospital.
+[45:56.000 --> 46:03.000]  I don't think that's the best we can do in the richest country in the world, and I don't think Americans are satisfied with that, and they shouldn't be.
+[46:03.000 --> 46:11.000]  Congressman Langworthy, New York's comptroller said last week that the state's going to be in the red by more than $3 billion this year.
+[46:11.000 --> 46:17.000]  And the reason I ask this question, he blames the federal government for not sending more tax dollars to the state.
+[46:17.000 --> 46:24.000]  He also reports the state could be more than $30 billion in the red in three years, which could mean higher taxes or program cuts.
+[46:24.000 --> 46:28.000]  Do you agree with the comptroller that it's about federal tax dollars' income?
+[46:28.000 --> 46:30.000]  I don't. I think New York has a priorities problem.
+[46:30.000 --> 46:40.000]  I mean, we have spent $8 billion to care for illegal immigrants that we basically asked to come to the state under Kathy Hochul's watch.
+[46:40.000 --> 46:43.000]  I mean, that is not a respectful program.
+[46:43.000 --> 46:48.000]  You have the governor proposing billions of dollars for free health care for sex workers.
+[46:48.000 --> 46:55.000]  I mean, these are the sorts of things that aren't on the ballot this year but are, as you have to make your decision as to who you want to lead this state.
+[46:55.000 --> 47:00.000]  The government of New York has a priorities problem and not a revenue problem.
+[47:00.000 --> 47:03.000]  $277 billion was this year's budget.
+[47:03.000 --> 47:07.000]  When Andrew Cuomo left office, it was $185 billion.
+[47:07.000 --> 47:10.000]  I mean, we are spending extraordinarily more sums of money.
+[47:10.000 --> 47:20.000]  They just have to dial in as to absolutely what our needs are in this state and understand, you know, more taxes and more fees are chasing more of the people that pay those taxes away.
+[47:20.000 --> 47:21.000]  Dr. Giese?
+[47:21.000 --> 47:25.000]  Well, let's talk about the kinds of things that we've defunded in this state at the federal level.
+[47:25.000 --> 47:31.000]  First of all and foremost, we have defunded our health care, our health care.
+[47:31.000 --> 47:37.000]  New York 23 is the most hurt by the big, ugly bills, Medicare and Medicaid cuts of any district in the state.
+[47:37.000 --> 47:40.000]  And we are the second most hurt state in the nation.
+[47:40.000 --> 47:45.000]  So this district is right in the crosshairs of President Trump's cuts.
+[47:45.000 --> 47:48.000]  President Trump is defunding the police with Nick Langworthy's connivance.
+[47:48.000 --> 47:59.000]  He has withheld $79 million that was intended to train sheriff's departments and other law enforcement through the Doge process.
+[47:59.000 --> 48:04.000]  And while we're talking about Doge, Doge has hurt veterans.
+[48:04.000 --> 48:05.000]  It's hurt our Social Security system.
+[48:05.000 --> 48:09.000]  It has hurt grants for research.
+[48:09.000 --> 48:11.000]  It has hurt universities.
+[48:11.000 --> 48:13.000]  It's hurt the postal system.
+[48:13.000 --> 48:25.000]  And Langworthy was one of the founding members of the Congressional Doge Caucus who cheered on all these arbitrary destructive cuts that ultimately didn't save us any money.
+[48:26.000 --> 48:30.000]  My opponent has pointed out Doge is a process.
+[48:30.000 --> 48:40.000]  And the funny thing about when Doge started, the outrage at the outset was ridiculous because we wanted to see accountability in government.
+[48:40.000 --> 48:43.000]  We wanted to look under the hood and see what these departments were spending money on.
+[48:43.000 --> 48:53.000]  USAID was social engineering around the globe, spending money on sex changes in South America, interfering in elections throughout the globe.
+[48:53.000 --> 48:55.000]  That was on the back of the U.S. taxpayer.
+[48:55.000 --> 49:01.000]  And neither Congress, probably the executive at that time, nor the American people knew what they were spending their money on.
+[49:01.000 --> 49:11.000]  An estimated 700,000 African children born with HIV have died because of the arbitrary and illegal closure of USAID.
+[49:11.000 --> 49:16.000]  I think USAID might have performed some kind of like 20 gender-affirming surgeries.
+[49:16.000 --> 49:18.000]  Come on. Come on.
+[49:18.000 --> 49:20.000]  And we took USAID out of Africa.
+[49:20.000 --> 49:24.000]  And what has filled the power vacuum for American soft power?
+[49:24.000 --> 49:32.000]  Now that there's no HIV drugs or peanut butter available to stop the famine, Islamist militias are filling the power vacuum.
+[49:32.000 --> 49:35.000]  If we do not use soft power, we will need hard power.
+[49:35.000 --> 49:37.000]  It is absolutely ludicrous.
+[49:37.000 --> 49:40.000]  The PEPFAR funds are still in place and have been delivered.
+[49:40.000 --> 49:46.000]  USAID, as an agency, was dismantled because it was mismanaged and misleading the government.
+[49:46.000 --> 49:51.000]  Right now, we have put it under the State Department and it will continue to deliver its work.
+[49:51.000 --> 49:53.000]  It should have required an act of Congress.
+[49:53.000 --> 49:56.000]  Okay, we're going to now make 30-second answers because we're running out of time here.
+[49:56.000 --> 49:58.000]  So, let's talk with you, Dr. Geese.
+[49:58.000 --> 49:59.000]  Okay.
+[49:59.000 --> 50:09.000]  Do you think social media platforms should be held accountable or responsible for harm done to minors who are approached by disreputable people or who are exposed to advertising for products that might harm them?
+[50:10.000 --> 50:12.000]  Yes, I absolutely do.
+[50:12.000 --> 50:16.000]  And, you know, there's a larger, like, common good problem here.
+[50:16.000 --> 50:23.000]  There are something like eight people who control the algorithms that control all of our social media.
+[50:23.000 --> 50:26.000]  And those algorithms are black boxes.
+[50:26.000 --> 50:29.000]  They are as secret as the recipe for Coca-Cola.
+[50:29.000 --> 50:42.000]  And if you're a parent that has watched a child, like, slowly lose their self-esteem and lose their joy in life because they're seeing disturbing images that they want to compete with on Instagram, then you know what that's like.
+[50:43.000 --> 50:44.000]  Congressman.
+[50:44.000 --> 50:46.000]  I definitely think that these companies should be held accountable.
+[50:46.000 --> 50:52.000]  They should be held to the highest standard and we should have protections against our young people on social media platforms.
+[50:52.000 --> 50:57.000]  It could be far too poisonous to a young person's mind to be on these platforms at too early of an age.
+[50:57.000 --> 50:59.000]  Congressman, I'll go to you first on this one.
+[50:59.000 --> 51:03.000]  Some in Congress are talking about passing a bill that would establish a four-day work week.
+[51:03.000 --> 51:07.000]  And some of the Congressmen are saying it should be four, eight-hour days.
+[51:07.000 --> 51:08.000]  What's your reaction?
+[51:08.000 --> 51:09.000]  I believe that's ludicrous.
+[51:09.000 --> 51:13.000]  I mean, we need to have the most productive country possible.
+[51:13.000 --> 51:16.000]  And the five-day work week is something that should remain.
+[51:16.000 --> 51:17.000]  Dr. Geese?
+[51:17.000 --> 51:21.000]  Well, I believe that people should have opportunity in America.
+[51:21.000 --> 51:24.000]  And that means that if you want to work extra hours, you should be able to.
+[51:24.000 --> 51:29.000]  Congress shouldn't pass a law that stops you from working a five-day week.
+[51:29.000 --> 51:37.000]  On the other hand, we have to look at ways to raise wages, right, to expand small business opportunity,
+[51:37.000 --> 51:46.000]  and to level the playing field for small businesses against the anti-competitive practices of the richest corporations and monopolies.
+[51:46.000 --> 51:48.000]  Dr. Geese, this one's for you first.
+[51:48.000 --> 51:53.000]  Do you agree with heavier taxes on wealthier New Yorkers than those paid by people with lower incomes?
+[51:54.000 --> 51:59.000]  I don't believe that this is a state issue, right?
+[51:59.000 --> 52:06.000]  So nationally, I do believe that we have a tax code that allows the wealthy to get away with not paying their fair share.
+[52:06.000 --> 52:13.000]  And we all suffer from that in terms of the federal government not being able to meet its budget fund, its programs.
+[52:13.000 --> 52:20.000]  We need a more progressive tax code that causes the ultra-wealthy to pay an effective tax rate that's similar to the one that you and I pay.
+[52:21.000 --> 52:30.000]  I mean, New York State, under Kathy Hochul, and with the pressure that's now on her from the leader of the Democratic Party in New York State, Zoran Mandami,
+[52:30.000 --> 52:33.000]  we are going to see an eat-the-rich mentality.
+[52:33.000 --> 52:37.000]  They are going to continue to chase Wall Street out of New York City.
+[52:37.000 --> 52:41.000]  Our state is deeply dependent on Wall Street revenue to balance its books.
+[52:41.000 --> 52:45.000]  As we, you know, post-COVID, people know they can do their work from anywhere in the world.
+[52:45.000 --> 52:47.000]  The technology exists. They can do it.
+[52:47.000 --> 52:54.000]  And they are, as Texas has hired more bankers at the big banks than New York State has at this point.
+[52:54.000 --> 52:55.000]  That's dangerous.
+[52:55.000 --> 52:57.000]  Okay, 20 second answers.
+[52:57.000 --> 53:00.000]  What's your opinion about the states that redrew their congressional districts this year?
+[53:00.000 --> 53:05.000]  I believe that redistricting should be done once a decade.
+[53:05.000 --> 53:07.000]  Dr. Gies?
+[53:07.000 --> 53:08.000]  I agree.
+[53:08.000 --> 53:14.000]  I would love to see national fair maps legislation that would stop states from gerrymandering altogether.
+[53:14.000 --> 53:18.000]  I think that our congressional districts need to be fair and they need to be tight,
+[53:18.000 --> 53:21.000]  and we shouldn't have politicians choosing their voters.
+[53:21.000 --> 53:23.000]  The voters should choose their politicians.
+[53:23.000 --> 53:25.000]  All right, gentlemen, we're about to run out of time.
+[53:25.000 --> 53:29.000]  I want to thank both of you for what I think was a very substantive debate.
+[53:29.000 --> 53:30.000]  Thank you for your answers.
+[53:30.000 --> 53:32.000]  Thank you for the way you approached tonight.
+[53:32.000 --> 53:33.000]  Very cordial between two of you.
+[53:33.000 --> 53:35.000]  You exchanged strong opinions.
+[53:35.000 --> 53:37.000]  That's what this is supposed to be about.
+[53:37.000 --> 53:40.000]  So thank you very much for being here, and we're going to sign off now.
+[53:40.000 --> 53:41.000]  I'll send you to NBC.
+[53:41.000 --> 53:43.000]  Thank you for being here, everybody, for this debate.
+[53:43.000 --> 53:45.000]  Hope you'll tune in the next time we do one.
+[53:45.000 --> 53:47.000]  Thank you.
+[53:47.000 --> 53:48.000]  Thank you.
+[53:48.000 --> 53:49.000]  Thanks for the time.
+[54:13.000 --> 54:15.000]  Thank you.

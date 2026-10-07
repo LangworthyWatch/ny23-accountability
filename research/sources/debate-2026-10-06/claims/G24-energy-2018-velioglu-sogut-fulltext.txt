@@ -1,0 +1,234 @@
+SOURCE: Velioglu Sogut, Farhadzadeh, Jensen, "Characterizing the Great Lakes marine renewable energy resources: Lake Michigan surge and wave characteristics," Energy (2018), DOI 10.1016/j.energy.2018.03.031. PDF supplied by Zach 2026-10-07; text extracted with pdfplumber.
+
+Characterizing the Great Lakes marine renewable energy resources: Lake Michigan surge and wave characteristics
+LeapSpace Journals & Books Help Search My account Sign in
+Article preview Recommended articles Cited by (13) Metrics
+Research article Get rights and content
+Characterizing the Great Lakes marine renewable energy resources: Lake Michigan surge and
+wave characteristics
+Deniz Velioglu Sogut a , Ali Farhadzadeh a, Robert E. Jensen b Show more
+Cite Add to Mendeley Share 10.1016/j.energy.2018.03.031
+Access through your organization View Open Manuscript Purchase PDF
+Energy
+Date: 1 May 2018
+Pages: 781-796
+Article preview
+Volume: Volume 150
+Highlights
+View accessibility information
+Abstract
+• The largest storm surge can exceed 1.5 m in Green Bay area.
+Introduction
+• Utilizing the energy of surge events to generate electricity can alleviate
+Published by
+flooding. Section snippets
+• A total theoretical potential energy of 58 GWh was estimated for a
+References (39)
+single storm.
+• Wave power is highest in October and November.
+• The monthly mean wave power reaches up to 9 kW/m.
+Abstract
+The Great Lakes, Lakes Superior, Michigan, Huron, Erie and Ontario, are a system of
+interconnected freshwater lakes located primarily in the upper region of North America
+and on the Canada–United States border. Lake Michigan, the second largest in volume and
+the third-largest in surface area among the Great Lakes, is approximately 494 km long and
+190 km wide. The historical wave data show that significant wave height can reach up to
+6 m both in the northern and southern basins. In addition, the long-term lake level data
+reveal that storm surges can exceed 1.5 m in Green Bay, one of the shallowest parts of Lake
+Michigan. This study characterizes the marine renewable power generation resources
+including storm surge and wave for Lake Michigan. It is shown that an extreme surge event
+similar to that of January 12, 1975 could contain a total theoretical potential energy of
+approximately 58 GWh. The analysis of the lake-wide wave data shows that the monthly
+mean wave power is greater in the central and southern basins. Wave power is highest in
+October and November, when the monthly mean wave power exceeds 9 kW/m. The
+monthly mean wave power is the lowest in late spring and during summer, when it
+becomes as low as 1.5 kW/m. As a result, it is found that there is significant potential
+marine renewable energy in Lake Michigan that may be suitable for generating meaningful
+levels of electricity from storm surges by developing artificial ‘lagoons’ in the shallower
+parts of the lake. This study, which follows the recent work on characterizing the Great
+Lakes' marine renewable energy resources [1], is the first attempt on characterizing Lake
+Michigan's marine renewable energy resources.
+Keywords
+Great Lakes; Lake Michigan; Marine renewable energy; Wave power; Energy resource
+characterization
+Previous article in this issue Next article in this issue
+Introduction
+The demand for energy continues to grow each day and the world population is extremely
+dependent on non-renewable energy resources. Most of the energy consumed in the
+United States comes from non-renewable energy sources, mostly from the fossil fuels —
+coal, natural gas and petroleum. There are limited fossil fuel reserves to meet the world's
+energy demands; therefore, more sustainable and less polluting renewable sources of
+electricity generation are sought, including hydrokinetic energy [1]. Unlike oceans where
+tidal energy is considered a main source of marine renewable energy, large lakes can be
+sources for energy contained in waves and storm surges.
+It is suggested by the U.S. Energy Information Administration (EIA) that the available
+renewable resources contribute approximately 8% of Michigan State's net electricity
+generation [2]. Most of the state's renewable electricity generation comes from wind and
+this contribution does not include the energy resources available in the Great Lakes. Lake
+Michigan, with a surface area of approximately 58 000 km2, is the third largest of the Great
+Lakes by area and the second largest by volume, bordering with States of Wisconsin,
+Illinois, Indiana, and Michigan. It is the only lake among the Great Lakes that is located
+entirely within the United States.
+Offshore wind energy potential of Lake Michigan has attracted some interest among
+researchers due to its higher average wind speeds compared to onshore sites and proximity
+to population centers and grid connections [3]. In 2005, Michigan Renewable Energy
+Program (MREP) estimated Lake Michigan's offshore wind generating capacity as 44 GW
+[3].
+The hydrokinetic renewable energy resources of Lake Michigan are characterized through
+this study. The long-term variations of wave and water level are investigated, the frequency
+of occurrences for extreme storm surge and wave events is determined using extreme value
+analysis of the long-term water level and wave data and the spatial and temporal variations
+of wave height, storm surge and their potential energy are characterized.
+This study follows the recently published paper on Lake Erie [1], and is a part of a
+comprehensive study aiming at characterizing marine renewable energy resources for the
+entire Great Lakes. The present work, in particular, extends the previous work to Lake
+Michigan which has a larger surface area and is deeper with a quite different wave, surge
+and ice conditions. Additional information concering wind climate is also provided in the
+present work.
+Organizational access
+Get full-text access by signing in with your organisation
+Access through your organization
+Other access options
+View Open Manuscript
+Purchase PDF
+Need help with access?
+Section snippets
+Methods
+Historical water level data collected at several National Oceanic and Atmospheric Agency's
+(NOAA) water level stations were analyzed to identify short-term extreme events (i.e.,
+storms). Return period analysis of the extreme events was carried out to determine the
+frequency of occurrence of the events. The extreme event analysis also provides
+information regarding the magnitude and frequency of occurrence that could be used to
+estimate annual energy of storm surge in the lake.
+Moreover, to …
+Results
+The results of the data analyses and numerical modeling are presented in the following
+subsections. …
+Discussion and conclusions
+There are three stages for characterizing the marine renewable energy resource of a region:
+(i) theoretical, (ii) technical and (iii) practical resource assessment [1]. In theoretical
+resource assessment studies, 100% efficiency is considered and it is assumed that all energy
+can be harvested. In technical resource assessments, power curve of a suitable energy
+device at a particular place is considered. In practical resource assessments, constraints
+such as environmental, navigation and …
+Conflicts of interest
+The authors declare no conflict of interest. …
+Acknowledgements
+The authors would like to thank Dr. Norberto C. Nadal-Caraballo and Ms. Debra Green of
+the U.S. Army Corps of Engineers, ERDC, for providing the storm surge data. …
+References (39)
+A. Farhadzadeh et al.
+Characterizing the Great Lakes hydrokinetic renewable energy resource: lake Erie
+wave, surge and seiche characteristics
+Energy (2017)
+J.C. Dietrich
+Modeling hurricane waves and storm surge using integrally-coupled, scalable
+computations
+Coast Eng (2011)
+R. Alamian et al.
+Evaluation of technologies for harvesting wave energy in Caspian Sea
+Renew Sustain Energy Rev (2014)
+U.S. EIA
+Electric power monthly
+(February 2017)
+S. Pryor et al.
+Offshore wind energy development in the Great Lakes: a preliminary briefing
+paper for the Michigan renewable energy Program
+(2005)
+A.J. Melby et al.
+Wave height and water level variability on Lakes Michigan and St. Clair
+(2012)
+National Oceanic and Atmospheric Administration (NOAA), Great Lakes Environmental
+Research Laboratory, “Historical Ice…
+J. Andresen et al.
+Historical climate and climate trends in the midwestern USA
+National Oceanic and Atmospheric Administration (NOAA), Bathymetry of Lake Michigan,
+accessed at:…
+R.A. Assel
+NOAA Atlas: an electronic Atlas of Great Lakes ice cover, winters: 1973-2002
+(2003)
+View more references
+View full text
+Recommended articles
+Based on reading popularity
+Research article
+Probabilistic kernel machines for predictive monitoring of weld residual stress in energy
+systems
+Miltiadis Alamaniotis, …, Lefteri H. Tsoukalas
+Engineering Applications of Artificial Intelligence • Volume 71 • 2018 • Pages 138-154
+Research article
+The importance of wave climate forecasting on the decision-making process for nearshore
+wave energy exploitation
+Alejandro López-Ruiz, …, Miguel Ortega-Sánchez
+Applied Energy • Volume 182 • 2016 • Pages 191-203
+Research article Open access
+Ambient nanoparticles/nanominerals and hazardous elements from coal combustion
+activity: Implications on energy challenges and health hazards
+Binoy K. Saikia, …, Robert Finkelman
+Geoscience Frontiers • Volume 9, Issue 3 • 2018 • Pages 863-875
+Research article
+Maintenance policies for energy systems subject to complex failure processes and power
+purchasing agreement
+Qingan Qiu, …, Li Yang
+Computers & Industrial Engineering • Volume 119 • 2018 • Pages 193-203
+Research article
+Analytical formulations to assess the energy dissipated at the base of an offshore wind
+turbine jacket impacted by a ship
+Timothée Pire, …, Philippe Rigo
+Marine Structures • Volume 59 • 2018 • Pages 192-218
+Research article
+Combined high-power ultrasound and high-pressure homogenization nanoemulsification:
+The effect of energy density, oil content and emulsifier type and content
+Sonia Calligaris, …, Monica Anese
+Food Research International • Volume 107 • 2018 • Pages 700-707
+Cited by (13)
+Research article
+Wave climate on the southwestern coast of Lake Michigan: Perspectives from wave
+directionality
+Lu B., …, Liu Y.
+Ocean Engineering • Volume 343 • 2026 • Article 123306
+Show abstract
+Research article
+Urban pocket-beach morphodynamics along the wave-dominated southwest coast of Lake
+Michigan: An analysis of shoreline and sand volumetric changes
+Mattheus C.R., …, Santoro J.A.
+Journal of Great Lakes Research • Volume 48 • 2022
+Citation Excerpt:
+…Yet, the effects of punctuated weather events (e.g., storm surges and seiches) superimpose on these
+base water levels. Storm surges in parts of Lake Michigan have been shown to exceed 1.5 m (Sogut et
+al., 2018). The impacts of ice-shoreline dynamics on coastal morphologic development, particularly
+regarding hypothesized lag times for coastal adjustments upon ice breakup, are poorly understood
+and thought to be highly location dependent.…
+Show abstract
+Research article
+A novel hydro-kite like energy converter for harnessing both ocean wave and current
+energy
+Yin X., …, Zhang W.
+Energy • Volume 158 • 2018
+Citation Excerpt:
+…The segments are connected to hydraulic pumps or other converters to generate power as waves
+move across. A transformer in the nose of the unit steps up the power-to-line voltage for transmission
+to shore [5]. A point absorber is a floating structure with key components that move relative to each
+other due to wave actions.…
+Show abstract
+Machine Learning-Based Forecasting of Metocean Data for Offshore Engineering
+Applications
+Barooni M., …, Velioglu Sogut D.
+Atmosphere • Volume 15 • 2024 • Article 640
+Wave Climate Associated With Changing Water Level and Ice Cover in Lake Michigan
+Huang C., …, Xue P.
+Frontiers in Marine Science • Volume 8 • 2021 • Article 746916
+Natural Frequencies of seiches in Lake Chapala
+Ávalos-Cueva D., …, Galaviz-Gonzalez J.R.
+Scientific Reports • Volume 9 • 2019 • Article 11863
+View all citing articles on Scopus
+Metrics
+Citations
+Citation Indexes 13
+Captures
+Mendeley Readers 21
+View details
+© 2018 Elsevier Ltd. All rights reserved.
+About ScienceDirect Remote access Contact and support Terms and conditions Privacy policy Cookie settings
+All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access
+content, the relevant licensing terms apply.
