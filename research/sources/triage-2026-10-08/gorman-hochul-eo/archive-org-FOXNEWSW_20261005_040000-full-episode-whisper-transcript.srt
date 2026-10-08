@@ -1,0 +1,4023 @@
+SOURCE: https://archive.org/details/FOXNEWSW_20261005_040000_Sunday_Night_in_America_With_Trey_Gowdy
+Internet Archive TV News capture: 'Sunday Night in America With Trey Gowdy : FOXNEWSW : October 4, 2026 9:00pm-10:00pm PDT' (West-coast feed; the program first aired 9 pm ET / 6 pm PT on Sunday, Oct 4, 2026). Audio pulled 2026-10-08 from the archive.org clip endpoint in 61 one-minute segments (t=N/N+60), concatenated, and transcribed locally with openai-whisper base.en. Machine transcript; timestamps are offsets into the hour-long recording. Verify any quote against the recording before publishing. Whisper rendered 'Hochul' as 'Hochl' at ~51:23 (a separate segment, not the Gorman interview).
+
+1
+00:00:00,000 --> 00:00:03,240
+exactly what you said needs to be done.
+
+2
+00:00:03,240 --> 00:00:06,040
+And that is to inspire the American people.
+
+3
+00:00:06,040 --> 00:00:07,840
+This country is their country.
+
+4
+00:00:07,840 --> 00:00:10,280
+And I think this book does exactly that.
+
+5
+00:00:10,280 --> 00:00:12,520
+It's a beautifully written book,
+
+6
+00:00:12,520 --> 00:00:14,040
+and it's called So Ordered,
+
+7
+00:00:14,040 --> 00:00:16,280
+an originalist view of the Constitution,
+
+8
+00:00:16,280 --> 00:00:18,600
+the court, and our country.
+
+9
+00:00:18,600 --> 00:00:20,760
+And Mr. Justice, I want to thank you for writing it
+
+10
+00:00:20,760 --> 00:00:23,760
+and giving us the time to be here and to talk to you.
+
+11
+00:00:23,760 --> 00:00:24,800
+Thank you very much, Mark.
+
+12
+00:00:24,800 --> 00:00:25,960
+It's a great pleasure.
+
+13
+00:00:25,960 --> 00:00:28,000
+It's been a pleasure for me.
+
+14
+00:00:28,000 --> 00:00:31,160
+See you next time on Life, Liberty, and LaVin.
+
+15
+00:00:31,160 --> 00:00:43,800
+MUSIC
+
+16
+00:00:43,800 --> 00:00:44,400
+Good evening.
+
+17
+00:00:44,400 --> 00:00:45,520
+Thank you for joining us.
+
+18
+00:00:45,520 --> 00:00:48,320
+I'm Trey Gowdy, and it's Sunday night in America.
+
+19
+00:00:48,320 --> 00:00:52,520
+Federal judges have unique powers and jobs for life.
+
+20
+00:00:52,520 --> 00:00:56,040
+Now, in exchange, they surrender overtly political acts.
+
+21
+00:00:56,040 --> 00:00:59,520
+There are rules on what they can and cannot say and do.
+
+22
+00:00:59,520 --> 00:01:02,440
+And judges know that before they accept
+
+23
+00:01:02,440 --> 00:01:04,040
+the appointment to the bench.
+
+24
+00:01:04,040 --> 00:01:07,480
+And at the top of the list of things judges cannot
+
+25
+00:01:07,480 --> 00:01:10,640
+and should not do would be comment on matters pending
+
+26
+00:01:10,640 --> 00:01:14,240
+before them or make political statements.
+
+27
+00:01:14,240 --> 00:01:17,480
+And most judges do not talk to reporters at all,
+
+28
+00:01:17,480 --> 00:01:20,120
+and especially not reporters writing hit pieces
+
+29
+00:01:20,120 --> 00:01:22,120
+on elected officials.
+
+30
+00:01:22,200 --> 00:01:26,040
+Some federal judges in Minnesota have forgotten all of this.
+
+31
+00:01:26,040 --> 00:01:29,040
+The comments are not only overtly political.
+
+32
+00:01:29,040 --> 00:01:32,040
+It's self-evaluation, but also concern matters pending
+
+33
+00:01:32,040 --> 00:01:35,760
+before these judges or still in the appellate process,
+
+34
+00:01:35,760 --> 00:01:37,440
+a separate violation.
+
+35
+00:01:37,440 --> 00:01:40,680
+If you want to go into politics, take off the road,
+
+36
+00:01:40,680 --> 00:01:45,360
+get off the golf course, give up the life tenure, and run.
+
+37
+00:01:45,360 --> 00:01:48,320
+Good judges are fair, and if they can't be fair,
+
+38
+00:01:48,320 --> 00:01:50,400
+they at least try to fake it.
+
+39
+00:01:50,400 --> 00:01:53,400
+If judges believe a party is ignoring court orders
+
+40
+00:01:53,400 --> 00:01:56,440
+and post sanctions, hold the party in contempt,
+
+41
+00:01:56,440 --> 00:01:58,040
+strike a pleading.
+
+42
+00:01:58,040 --> 00:02:01,120
+What they cannot do is jeopardize the fragile state
+
+43
+00:02:01,120 --> 00:02:05,920
+of the judicial branch by sounding like a DSA candidate.
+
+44
+00:02:05,920 --> 00:02:08,680
+So more time sentencing for all in Minnesota,
+
+45
+00:02:08,680 --> 00:02:11,400
+less time pontificating about politics.
+
+46
+00:02:11,400 --> 00:02:14,080
+That's a really good rule of thumb.
+
+47
+00:02:14,080 --> 00:02:16,800
+Joining us is Acting Deputy A. G. Trent McCott.
+
+48
+00:02:16,800 --> 00:02:18,360
+Welcome, Mr. Dag.
+
+49
+00:02:18,360 --> 00:02:19,440
+Thank you for being here.
+
+50
+00:02:19,440 --> 00:02:22,360
+I am not used to judges speaking to reporters
+
+51
+00:02:22,360 --> 00:02:25,800
+about political issues or pending cases.
+
+52
+00:02:25,800 --> 00:02:30,720
+The judges in South Carolina would never do that, never.
+
+53
+00:02:30,720 --> 00:02:32,480
+Well, Trey, that makes two of us.
+
+54
+00:02:32,480 --> 00:02:34,960
+I've been practicing for almost 20 years now.
+
+55
+00:02:34,960 --> 00:02:37,880
+I've certainly never seen judges do something like this.
+
+56
+00:02:37,880 --> 00:02:39,920
+The former chief judge in Minnesota,
+
+57
+00:02:39,920 --> 00:02:41,520
+and to be clear, he still hears cases,
+
+58
+00:02:41,520 --> 00:02:43,640
+even though he's not the chief judge anymore,
+
+59
+00:02:43,640 --> 00:02:45,480
+gave a bunch of comments on the record,
+
+60
+00:02:45,480 --> 00:02:48,000
+saying that the Department of Homeland Security wants
+
+61
+00:02:48,000 --> 00:02:50,880
+to turn the United States into North Korea.
+
+62
+00:02:50,880 --> 00:02:53,680
+This is a party that's in front of him every single day.
+
+63
+00:02:53,680 --> 00:02:56,880
+As you said, most judges avoid media like the plague.
+
+64
+00:02:56,880 --> 00:02:58,960
+They know it comes with all sorts of ethical problems.
+
+65
+00:02:58,960 --> 00:03:00,760
+Those parties appear before them.
+
+66
+00:03:00,760 --> 00:03:03,000
+No one could possibly think that this judge
+
+67
+00:03:03,000 --> 00:03:05,160
+would give DHS a fair shake going forward.
+
+68
+00:03:07,680 --> 00:03:10,200
+Mr. Dag, the other thing that I can't wrap my head around,
+
+69
+00:03:10,200 --> 00:03:12,920
+judges have plenty of remedies that they're disposed
+
+70
+00:03:12,920 --> 00:03:14,960
+or they can issue an order.
+
+71
+00:03:14,960 --> 00:03:17,080
+They can clearly write out in that order
+
+72
+00:03:17,080 --> 00:03:19,880
+what they think, they can impose sanctions.
+
+73
+00:03:19,880 --> 00:03:22,720
+Why in the world would they air their grievances
+
+74
+00:03:22,720 --> 00:03:25,360
+to the left-leaning reporters?
+
+75
+00:03:26,320 --> 00:03:27,920
+Well, that's the million-dollar question, right?
+
+76
+00:03:27,920 --> 00:03:31,080
+I think, to be honest, part of it is the issue
+
+77
+00:03:31,080 --> 00:03:32,960
+that got some of these judges so spun up
+
+78
+00:03:32,960 --> 00:03:36,800
+is one that they ultimately lost on when it went up on appeal.
+
+79
+00:03:36,800 --> 00:03:38,440
+The eighth circuit held that we were right
+
+80
+00:03:38,440 --> 00:03:41,120
+on that legal issue and that the district judges were wrong.
+
+81
+00:03:41,120 --> 00:03:43,760
+And so I think they realized they don't have any remedies
+
+82
+00:03:43,760 --> 00:03:46,320
+available through the normal courtroom process.
+
+83
+00:03:46,320 --> 00:03:48,480
+All they have left is to run to the press.
+
+84
+00:03:50,520 --> 00:03:54,280
+War, I guess, in theory, they could take senior status
+
+85
+00:03:54,280 --> 00:03:56,560
+and go run for Congress if you want to do that,
+
+86
+00:03:56,560 --> 00:03:59,520
+although the retirement for a judge is pretty good.
+
+87
+00:03:59,520 --> 00:04:02,640
+Let's you and I end on a different note.
+
+88
+00:04:02,640 --> 00:04:05,240
+I won't say happier, but it's certainly different.
+
+89
+00:04:05,240 --> 00:04:08,740
+Tell us about DOJ's Angel Grant Program.
+
+90
+00:04:10,360 --> 00:04:12,520
+So I spent the better part of two days
+
+91
+00:04:12,520 --> 00:04:15,080
+and the Attorney General was with me for this,
+
+92
+00:04:15,080 --> 00:04:17,840
+meeting with the families of victims
+
+93
+00:04:17,840 --> 00:04:19,560
+of open border policies.
+
+94
+00:04:19,560 --> 00:04:21,200
+Now, these are people whose families
+
+95
+00:04:21,200 --> 00:04:23,920
+had been killed by illegal aliens in the country,
+
+96
+00:04:23,920 --> 00:04:28,400
+families whose children had been killed by overdose deaths,
+
+97
+00:04:28,400 --> 00:04:30,960
+and the Attorney General announced these Angel grants.
+
+98
+00:04:30,960 --> 00:04:34,680
+It's $25 million available just in the next few weeks.
+
+99
+00:04:34,680 --> 00:04:37,000
+We hope people in local law enforcement
+
+100
+00:04:37,000 --> 00:04:39,280
+will apply within the next 16 days.
+
+101
+00:04:39,280 --> 00:04:41,000
+They can give up to $500,000,
+
+102
+00:04:41,000 --> 00:04:43,840
+and the main benefit here, the point of it all,
+
+103
+00:04:43,840 --> 00:04:46,720
+is that local law enforcement will get federal dollars
+
+104
+00:04:46,720 --> 00:04:49,560
+to help them fight all the repercussions
+
+105
+00:04:49,560 --> 00:04:53,180
+of open borders and legal narcotics.
+
+106
+00:04:55,200 --> 00:04:58,880
+You know, Mr. Dagg, we have parents coming up right after you
+
+107
+00:04:58,880 --> 00:05:01,720
+who lost a loved one to someone who should not
+
+108
+00:05:01,720 --> 00:05:02,760
+have been in this country.
+
+109
+00:05:02,760 --> 00:05:05,280
+And the question that I struggle with the most,
+
+110
+00:05:05,280 --> 00:05:06,920
+I mean, our backgrounds are similar,
+
+111
+00:05:06,920 --> 00:05:10,360
+although you rose to higher levels than I ever rose to.
+
+112
+00:05:10,360 --> 00:05:13,400
+The question I struggled with is the why.
+
+113
+00:05:14,400 --> 00:05:18,000
+Why was this person allowed to remain in the country?
+
+114
+00:05:18,000 --> 00:05:20,560
+Why was this person not deported?
+
+115
+00:05:20,560 --> 00:05:22,960
+And you're going to either get asked that question
+
+116
+00:05:22,960 --> 00:05:25,360
+or you've been asked, and it is impossible
+
+117
+00:05:25,360 --> 00:05:28,280
+because you're not the one who decided to let it happen.
+
+118
+00:05:28,280 --> 00:05:30,520
+It's truly outrageous.
+
+119
+00:05:30,520 --> 00:05:32,880
+When you hear the stories from these parents,
+
+120
+00:05:32,880 --> 00:05:35,360
+these are folks, the ones who committed the crimes.
+
+121
+00:05:35,360 --> 00:05:36,720
+They've been in the country for years.
+
+122
+00:05:36,720 --> 00:05:37,560
+They have rap sheets.
+
+123
+00:05:37,560 --> 00:05:39,120
+It's not like all of a sudden,
+
+124
+00:05:39,120 --> 00:05:41,360
+they just surprisingly killed someone.
+
+125
+00:05:41,360 --> 00:05:43,360
+They probably have 10 former felonies.
+
+126
+00:05:43,360 --> 00:05:45,800
+They have violent arrests, and it's almost always
+
+127
+00:05:45,800 --> 00:05:47,360
+in sanctuary cities.
+
+128
+00:05:47,360 --> 00:05:50,200
+And so they get arrested and they just get immediately released.
+
+129
+00:05:50,200 --> 00:05:52,720
+And I mean, to be honest, it's difficult
+
+130
+00:05:52,720 --> 00:05:55,280
+to talk with these families because they've been through so much.
+
+131
+00:05:55,280 --> 00:05:56,680
+And I really praised them for being
+
+132
+00:05:56,680 --> 00:05:58,480
+willing to tell their stories to everyone.
+
+133
+00:05:58,480 --> 00:06:00,560
+No one wants to hear me tell them.
+
+134
+00:06:00,560 --> 00:06:02,360
+Listening to one of these mothers,
+
+135
+00:06:02,360 --> 00:06:04,440
+I think would change almost anyone's mind.
+
+136
+00:06:06,120 --> 00:06:09,600
+There is nothing in the world quite like eyewitness testimony.
+
+137
+00:06:09,600 --> 00:06:11,280
+And we're going to hear from two parents.
+
+138
+00:06:11,280 --> 00:06:13,800
+There's nothing more compelling.
+
+139
+00:06:13,800 --> 00:06:16,560
+We do want to hear from you because you are the DAG
+
+140
+00:06:16,560 --> 00:06:18,080
+at the DOJ.
+
+141
+00:06:18,080 --> 00:06:20,760
+And we thank you for your service to our country,
+
+142
+00:06:20,760 --> 00:06:23,120
+and especially for joining us on a Sunday night.
+
+143
+00:06:24,080 --> 00:06:24,920
+Next slide.
+
+144
+00:06:26,600 --> 00:06:29,040
+Sheridan Gorman was in the spring of life
+
+145
+00:06:29,040 --> 00:06:33,400
+with two of the greatest gifts of all, time and youth.
+
+146
+00:06:33,400 --> 00:06:35,480
+The time and youth are no match for a bullet,
+
+147
+00:06:35,480 --> 00:06:38,640
+no match for politicians who prioritize criminals
+
+148
+00:06:38,640 --> 00:06:40,840
+over college freshmen.
+
+149
+00:06:40,840 --> 00:06:43,240
+Sheridan was shot and killed by someone in our country
+
+150
+00:06:43,240 --> 00:06:47,000
+unlawfully who then committed other offenses.
+
+151
+00:06:47,000 --> 00:06:48,840
+Why was he allowed to stay?
+
+152
+00:06:48,840 --> 00:06:50,480
+We should ask the political leaders
+
+153
+00:06:50,480 --> 00:06:52,960
+who put criminal aliens ahead of college girls
+
+154
+00:06:52,960 --> 00:06:55,040
+walking down the street.
+
+155
+00:06:55,040 --> 00:06:56,400
+Why was he not deported?
+
+156
+00:06:56,400 --> 00:06:57,960
+Why was he allowed to stay here
+
+157
+00:06:57,960 --> 00:07:02,040
+even after additional criminal allegations?
+
+158
+00:07:02,040 --> 00:07:04,640
+You're going to have to ask those who support it.
+
+159
+00:07:04,640 --> 00:07:07,960
+I would not ask the grieving parents of a dead teenager.
+
+160
+00:07:07,960 --> 00:07:09,800
+They did not make these decisions.
+
+161
+00:07:09,800 --> 00:07:13,280
+They're just living and dying with the consequences
+
+162
+00:07:13,280 --> 00:07:15,000
+of those decisions.
+
+163
+00:07:15,000 --> 00:07:18,360
+Sheridan's parents Jessica and Tom Gorman join us.
+
+164
+00:07:18,360 --> 00:07:21,920
+Now, I do not have the words to adequately convey
+
+165
+00:07:21,920 --> 00:07:23,600
+my sympathy to you.
+
+166
+00:07:23,600 --> 00:07:26,360
+Before we talk about her death,
+
+167
+00:07:26,360 --> 00:07:29,000
+I really want to celebrate her life.
+
+168
+00:07:29,000 --> 00:07:32,440
+For both of you, can you tell us about Sheridan?
+
+169
+00:07:34,160 --> 00:07:36,520
+Oh, Sheridan was extraordinary.
+
+170
+00:07:36,520 --> 00:07:39,080
+She was just like any other American teenager.
+
+171
+00:07:39,080 --> 00:07:41,400
+She was funny, messy.
+
+172
+00:07:43,320 --> 00:07:45,720
+She was so endearing.
+
+173
+00:07:45,720 --> 00:07:47,760
+We used to joke that she didn't just make friends.
+
+174
+00:07:47,760 --> 00:07:51,080
+She collected them from every group.
+
+175
+00:07:51,080 --> 00:07:53,720
+I mean, whoever she met was a friend
+
+176
+00:07:53,720 --> 00:07:55,960
+and she deeply valued people.
+
+177
+00:07:55,960 --> 00:07:58,960
+She deeply valued them on every level.
+
+178
+00:07:58,960 --> 00:08:01,000
+She was loyal and true.
+
+179
+00:08:01,000 --> 00:08:02,280
+And she was a teenager.
+
+180
+00:08:02,280 --> 00:08:05,200
+She was not perfect, but she was our life.
+
+181
+00:08:05,200 --> 00:08:08,280
+She was literally our joy.
+
+182
+00:08:09,240 --> 00:08:13,520
+And I imagine she was just like every other 18-year-old.
+
+183
+00:08:13,520 --> 00:08:15,160
+She was not a great driver.
+
+184
+00:08:16,240 --> 00:08:17,960
+She loved animals.
+
+185
+00:08:17,960 --> 00:08:19,200
+She loved her sister.
+
+186
+00:08:19,200 --> 00:08:21,320
+She loved school.
+
+187
+00:08:21,320 --> 00:08:23,160
+She was an athlete.
+
+188
+00:08:23,160 --> 00:08:26,000
+And above all, she just loved people.
+
+189
+00:08:26,000 --> 00:08:28,680
+One of the things I said in our congressional hearing was,
+
+190
+00:08:28,680 --> 00:08:31,720
+she loved extravagantly.
+
+191
+00:08:31,720 --> 00:08:33,440
+And she did, she was not perfect,
+
+192
+00:08:33,440 --> 00:08:35,440
+but her heart was nearly perfect.
+
+193
+00:08:35,440 --> 00:08:36,520
+I really believe that.
+
+194
+00:08:38,920 --> 00:08:42,520
+Tom, has anyone given you an answer
+
+195
+00:08:42,520 --> 00:08:45,360
+to the bar list question of all why?
+
+196
+00:08:45,360 --> 00:08:49,520
+Why was this defendant accused of murdering your daughter,
+
+197
+00:08:49,520 --> 00:08:53,640
+allowed to come into and remain in this country?
+
+198
+00:08:55,400 --> 00:08:58,200
+We have never received an answer to that, right?
+
+199
+00:08:59,320 --> 00:09:01,920
+Obviously during the Biden administration,
+
+200
+00:09:01,920 --> 00:09:04,280
+the borders were left wide open.
+
+201
+00:09:04,280 --> 00:09:09,080
+A lot of people coming across were given court appearances
+
+202
+00:09:09,080 --> 00:09:10,120
+but immigration.
+
+203
+00:09:10,120 --> 00:09:14,760
+And I understand 34% have failed to appear
+
+204
+00:09:14,760 --> 00:09:17,520
+to those court proceedings.
+
+205
+00:09:17,520 --> 00:09:21,120
+So he appears to be one of those 34%
+
+206
+00:09:21,120 --> 00:09:23,120
+did not show up to his immigration.
+
+207
+00:09:23,120 --> 00:09:26,560
+He did not have an asylum claim in this country.
+
+208
+00:09:26,560 --> 00:09:28,120
+Made his way to Chicago.
+
+209
+00:09:28,120 --> 00:09:30,440
+He was arrested for another crime.
+
+210
+00:09:30,440 --> 00:09:33,120
+And because of Chicago's sanctuary policies,
+
+211
+00:09:33,120 --> 00:09:35,560
+he was left free.
+
+212
+00:09:35,560 --> 00:09:39,440
+And these sanctuary policies,
+
+213
+00:09:39,440 --> 00:09:42,400
+they were, maybe they were intended to protect the community.
+
+214
+00:09:42,400 --> 00:09:44,920
+At this time, they're not protecting the community.
+
+215
+00:09:44,920 --> 00:09:47,320
+They're protecting these criminals.
+
+216
+00:09:47,320 --> 00:09:49,600
+When someone commits a crime
+
+217
+00:09:49,600 --> 00:09:52,200
+and is apprehended by local police,
+
+218
+00:09:52,200 --> 00:09:57,200
+the safest place for federal agents to do their job
+
+219
+00:09:57,240 --> 00:10:01,000
+is at the jail during booking or at a courthouse,
+
+220
+00:10:01,000 --> 00:10:05,360
+not in the streets, but at those secure locations.
+
+221
+00:10:05,360 --> 00:10:07,720
+Hand them over to federal officials,
+
+222
+00:10:07,720 --> 00:10:09,800
+allow them to do their job.
+
+223
+00:10:09,800 --> 00:10:12,440
+And it's no longer a fiscal burden
+
+224
+00:10:12,440 --> 00:10:14,480
+to the state and local communities.
+
+225
+00:10:14,480 --> 00:10:16,760
+And someone's child lives.
+
+226
+00:10:16,760 --> 00:10:20,400
+It's just, I can't comprehend it.
+
+227
+00:10:20,400 --> 00:10:23,360
+And again, New York has doubled down
+
+228
+00:10:23,360 --> 00:10:25,480
+on these sanctuary policies.
+
+229
+00:10:25,480 --> 00:10:28,680
+And the calculus has changed.
+
+230
+00:10:28,680 --> 00:10:33,320
+When nearly 20 million unvetted immigrants
+
+231
+00:10:33,320 --> 00:10:36,280
+came across the border, the risks increased.
+
+232
+00:10:36,280 --> 00:10:40,000
+That was an opportunity to reassess these policies.
+
+233
+00:10:40,000 --> 00:10:42,640
+These policies cannot,
+
+234
+00:10:42,640 --> 00:10:45,200
+you can't judge a policy by its intent.
+
+235
+00:10:45,200 --> 00:10:47,960
+You need to judge it based on its outcome.
+
+236
+00:10:47,960 --> 00:10:49,920
+And the outcome is our dead daughter.
+
+237
+00:10:51,560 --> 00:10:54,280
+Well, we're gonna double down on making them
+
+238
+00:10:54,280 --> 00:10:57,000
+live through hearing this explanation
+
+239
+00:10:57,000 --> 00:11:00,080
+to all those politicians to support open borders
+
+240
+00:11:00,080 --> 00:11:02,000
+in sanctuary cities.
+
+241
+00:11:02,000 --> 00:11:04,960
+Ms. Gorman, I want you to tell them what it is like
+
+242
+00:11:04,960 --> 00:11:09,680
+to hold the cold, lifeless hand of a child for the last time
+
+243
+00:11:09,680 --> 00:11:12,560
+a child killed because of their policies.
+
+244
+00:11:12,560 --> 00:11:13,920
+Tell them what that feels like.
+
+245
+00:11:13,920 --> 00:11:17,080
+I actually didn't hold their hand.
+
+246
+00:11:17,080 --> 00:11:18,920
+I couldn't.
+
+247
+00:11:18,920 --> 00:11:21,240
+Tonden, Tonden.
+
+248
+00:11:22,000 --> 00:11:24,720
+There is nothing worse than having to go
+
+249
+00:11:24,720 --> 00:11:28,120
+to a coroner's office and identifying the body.
+
+250
+00:11:28,120 --> 00:11:29,120
+Okay, you're doing it.
+
+251
+00:11:30,040 --> 00:11:35,040
+There is, Tonden's a hell that I struggle every day
+
+252
+00:11:35,160 --> 00:11:36,440
+to escape.
+
+253
+00:11:36,440 --> 00:11:39,400
+And we will fight so that no other parent
+
+254
+00:11:39,400 --> 00:11:41,480
+has to deal with this.
+
+255
+00:11:41,480 --> 00:11:46,440
+This is just another talking point
+
+256
+00:11:46,440 --> 00:11:49,080
+for a lot of our government officials
+
+257
+00:11:49,080 --> 00:11:50,840
+and even community members.
+
+258
+00:11:50,840 --> 00:11:52,880
+But this is our life.
+
+259
+00:11:52,880 --> 00:11:55,040
+We have to deal with this every day.
+
+260
+00:11:55,040 --> 00:11:57,280
+What did I do when I held her hand?
+
+261
+00:11:57,280 --> 00:11:59,280
+I apologize to her.
+
+262
+00:11:59,280 --> 00:12:02,440
+I apologize at the country that she loved to fail her.
+
+263
+00:12:03,400 --> 00:12:06,520
+And I prayed to God that I could have been
+
+264
+00:12:06,520 --> 00:12:08,240
+in that body bag instead of her.
+
+265
+00:12:08,240 --> 00:12:09,600
+A hundred times over.
+
+266
+00:12:09,600 --> 00:12:11,120
+It would have taken her place.
+
+267
+00:12:11,120 --> 00:12:13,040
+I would have taken anyone's place.
+
+268
+00:12:15,120 --> 00:12:18,600
+It is indeed a life sentence for both of you.
+
+269
+00:12:18,640 --> 00:12:21,760
+And I used to do this for a living,
+
+270
+00:12:21,760 --> 00:12:26,760
+but I can tell you every one of these cases
+
+271
+00:12:27,160 --> 00:12:29,040
+absolutely breaks your heart
+
+272
+00:12:29,040 --> 00:12:32,120
+because you see this vibrant life
+
+273
+00:12:32,120 --> 00:12:35,040
+that had so much future ahead of it.
+
+274
+00:12:35,040 --> 00:12:37,280
+And it is struck down because of nothing
+
+275
+00:12:37,280 --> 00:12:39,080
+in the world that she did.
+
+276
+00:12:40,120 --> 00:12:42,760
+And it infuriates me and it breaks my heart
+
+277
+00:12:42,760 --> 00:12:44,840
+and it breaks my heart to hear both of you.
+
+278
+00:12:44,840 --> 00:12:46,960
+So I will continue to be thinking of you.
+
+279
+00:12:46,960 --> 00:12:48,880
+But the most important thing we can do
+
+280
+00:12:48,880 --> 00:12:51,240
+is create no more parents like you
+
+281
+00:12:51,240 --> 00:12:54,080
+by ending these ridiculous policies.
+
+282
+00:12:54,080 --> 00:12:56,120
+Thank you for sharing your grief with us.
+
+283
+00:12:56,120 --> 00:12:58,240
+And hopefully it'll motivate the people
+
+284
+00:12:58,240 --> 00:13:01,520
+who haven't had to hold the hand of a cold,
+
+285
+00:13:02,440 --> 00:13:04,360
+not with us any longer child.
+
+286
+00:13:04,360 --> 00:13:05,400
+God bless you both.
+
+287
+00:13:06,320 --> 00:13:07,160
+Thank you so much.
+
+288
+00:13:07,160 --> 00:13:09,000
+Thank you very much.
+
+289
+00:13:09,000 --> 00:13:11,320
+To coming up, AI is here to stay.
+
+290
+00:13:11,320 --> 00:13:13,840
+Can it be controlled or will it control us?
+
+291
+00:13:13,840 --> 00:13:16,520
+Congressman Rich McCormick is next.
+
+292
+00:13:23,960 --> 00:13:27,080
+If you're frustrated with occasional bloating or gas,
+
+293
+00:13:27,080 --> 00:13:28,680
+your body's giving you signs.
+
+294
+00:13:28,680 --> 00:13:30,120
+It's time to try a line.
+
+295
+00:13:30,120 --> 00:13:31,520
+The number one doctor recommended
+
+296
+00:13:31,520 --> 00:13:34,040
+probiotic brand developed by gastroenterologists
+
+297
+00:13:34,040 --> 00:13:36,320
+to help sue the occasional digestive upset.
+
+298
+00:13:36,320 --> 00:13:38,920
+When you feel the digestive signs, try a line.
+
+299
+00:13:38,920 --> 00:13:41,640
+Did you know bacteria are the main cause of body odor?
+
+300
+00:13:41,640 --> 00:13:43,160
+Carpe's triple layer protection
+
+301
+00:13:43,240 --> 00:13:45,160
+shrinks sweat pores, controls wetness,
+
+302
+00:13:45,160 --> 00:13:47,800
+and kills 99% of odor-causing bacteria
+
+303
+00:13:47,800 --> 00:13:50,160
+with 100 hours of sweat and odor control.
+
+304
+00:13:50,160 --> 00:13:54,000
+Upgrade to 100 hours of confidence at MyCarpet.com.
+
+305
+00:13:54,000 --> 00:13:56,800
+I'm Laura Geller, and I'd like to show you
+
+306
+00:13:56,800 --> 00:13:58,840
+how to use my favorite foundation,
+
+307
+00:13:58,840 --> 00:14:00,040
+bake, balance, and brighten.
+
+308
+00:14:00,040 --> 00:14:02,960
+You just take strokes until you feel comfortable
+
+309
+00:14:02,960 --> 00:14:04,600
+with what it looks like on your skin.
+
+310
+00:14:04,600 --> 00:14:06,880
+I get this beautiful natural coverage.
+
+311
+00:14:06,880 --> 00:14:09,080
+Learn more at LauraGeller.com.
+
+312
+00:14:09,960 --> 00:14:14,440
+The crisis inside Ukraine has reached a catastrophic level
+
+313
+00:14:14,440 --> 00:14:17,920
+with the elderly Jews pushed to the very limit.
+
+314
+00:14:17,920 --> 00:14:20,280
+Go inside.
+
+315
+00:14:20,280 --> 00:14:22,680
+She's freezing cold.
+
+316
+00:14:22,680 --> 00:14:25,880
+There's no electricity, no heat, no water.
+
+317
+00:14:25,880 --> 00:14:28,280
+Winter is now a weapon of war
+
+318
+00:14:28,280 --> 00:14:31,960
+used against the elderly, the mothers, and the young children.
+
+319
+00:14:34,360 --> 00:14:36,760
+They've been lined up here for hours.
+
+320
+00:14:37,080 --> 00:14:39,400
+These are precious people who are hungry,
+
+321
+00:14:39,400 --> 00:14:42,880
+and they have nothing if someone doesn't do something
+
+322
+00:14:42,880 --> 00:14:48,320
+soon a humanitarian disaster is coming.
+
+323
+00:14:48,320 --> 00:14:51,960
+So many Jewish people who are just waiting,
+
+324
+00:14:51,960 --> 00:14:55,720
+waiting for someone to care enough to pick up the phone.
+
+325
+00:14:55,720 --> 00:14:58,760
+Fears are growing that without an emergency,
+
+326
+00:14:58,760 --> 00:15:02,880
+full-scale response, thousands will die this winter.
+
+327
+00:15:03,880 --> 00:15:06,880
+The International Fellowship of Christians and Jews
+
+328
+00:15:06,880 --> 00:15:10,880
+needs your $25 gift now to help rush a winter
+
+329
+00:15:10,880 --> 00:15:12,880
+survival food box of emergency food
+
+330
+00:15:12,880 --> 00:15:15,880
+for elderly Jews and families in Ukraine.
+
+331
+00:15:15,880 --> 00:15:18,880
+Time is critical. Please give now.
+
+332
+00:15:18,880 --> 00:15:21,880
+They've felt the shaking of missiles.
+
+333
+00:15:21,880 --> 00:15:23,880
+These are people who have already endured
+
+334
+00:15:23,880 --> 00:15:25,880
+so much suffering and disaster.
+
+335
+00:15:25,880 --> 00:15:27,880
+The fellowship has been here,
+
+336
+00:15:27,880 --> 00:15:30,880
+and across the former Soviet Union for decades.
+
+337
+00:15:31,880 --> 00:15:34,880
+But the need has never been more urgent.
+
+338
+00:15:34,880 --> 00:15:37,880
+Taking out power, taking out water,
+
+339
+00:15:37,880 --> 00:15:39,880
+simple water to drink.
+
+340
+00:15:39,880 --> 00:15:42,880
+We're talking about the difference between life
+
+341
+00:15:42,880 --> 00:15:44,880
+and death.
+
+342
+00:15:45,880 --> 00:15:49,880
+Christian, Jew, standing shoulder to shoulder,
+
+343
+00:15:49,880 --> 00:15:51,880
+saying, we're here to heal.
+
+344
+00:15:51,880 --> 00:15:53,880
+We're here to help.
+
+345
+00:15:53,880 --> 00:15:57,880
+Your gift of only $25 helps rush a winter survival food box
+
+346
+00:15:57,880 --> 00:15:59,880
+filled with life-saving emergency food
+
+347
+00:15:59,880 --> 00:16:01,880
+for elderly Jews and families in Ukraine
+
+348
+00:16:01,880 --> 00:16:04,880
+who are struggling daily to stay warm and fed.
+
+349
+00:16:04,880 --> 00:16:07,880
+Please call or go online while there is still time.
+
+350
+00:16:10,880 --> 00:16:12,880
+See this? It just arrived from DealDash,
+
+351
+00:16:12,880 --> 00:16:14,880
+a Nintendo Switch 2.
+
+352
+00:16:14,880 --> 00:16:16,880
+Look what I just won.
+
+353
+00:16:16,880 --> 00:16:17,880
+I love DealDash.
+
+354
+00:16:17,880 --> 00:16:20,880
+With millions of auctions, you too can start winning, like this.
+
+355
+00:16:20,880 --> 00:16:24,880
+I got this amazing Japanese knife set for just 75 cents.
+
+356
+00:16:25,880 --> 00:16:28,880
+I got this KitchenAid stand mixer for only $56.
+
+357
+00:16:28,880 --> 00:16:32,880
+And today, new users get a $50 bonus credit.
+
+358
+00:16:32,880 --> 00:16:35,880
+Go to DealDash.com right now for huge savings.
+
+359
+00:16:35,880 --> 00:16:38,880
+And free shipping from our U.S. warehouses.
+
+360
+00:16:38,880 --> 00:16:40,880
+You can't find a ranch style with a view.
+
+361
+00:16:40,880 --> 00:16:42,880
+And a mom in law suite.
+
+362
+00:16:42,880 --> 00:16:45,880
+More Realtor agents recommend Realtor.com.
+
+363
+00:16:45,880 --> 00:16:47,880
+With their expert new search tool,
+
+364
+00:16:47,880 --> 00:16:49,880
+just search it like you'd say it.
+
+365
+00:16:49,880 --> 00:16:50,880
+Room for Mom.
+
+366
+00:16:50,880 --> 00:16:52,880
+And Realtor.
+
+367
+00:16:53,880 --> 00:16:55,880
+Mace Education on campus.
+
+368
+00:16:55,880 --> 00:16:58,880
+Do you feel your professors approaching a liberal agenda on you?
+
+369
+00:16:58,880 --> 00:17:02,880
+Um, get schooled Monday on primetime.
+
+370
+00:17:03,880 --> 00:17:04,880
+Hey, everyone ready?
+
+371
+00:17:04,880 --> 00:17:05,880
+Yeah.
+
+372
+00:17:05,880 --> 00:17:08,880
+There have been a few changes.
+
+373
+00:17:11,880 --> 00:17:14,880
+Cody and Robin are no longer filming with us anymore.
+
+374
+00:17:16,880 --> 00:17:19,880
+I don't want to be in some x-yves club.
+
+375
+00:17:20,880 --> 00:17:24,880
+It's hard when you burn a bridge to go back over and cross it again.
+
+376
+00:17:28,880 --> 00:17:32,880
+Sister Wives, new season tonight at 10 on TLC.
+
+377
+00:17:33,880 --> 00:17:36,880
+My parents purchased Whitehall Lane in 1993
+
+378
+00:17:36,880 --> 00:17:40,880
+to see everything my father has done over the last 32 years
+
+379
+00:17:40,880 --> 00:17:42,880
+and how he set this business up for us.
+
+380
+00:17:42,880 --> 00:17:43,880
+It's really remarkable.
+
+381
+00:17:43,880 --> 00:17:45,880
+I need a bank that I can trust.
+
+382
+00:17:45,880 --> 00:17:48,880
+I need a bank that my children can go to and trust as well.
+
+383
+00:17:49,880 --> 00:17:53,880
+Five-star can do anything that a big bank can do.
+
+384
+00:17:53,880 --> 00:17:55,880
+That relationship has become so important.
+
+385
+00:17:55,880 --> 00:17:58,880
+And with ups and downs in the financial market,
+
+386
+00:17:58,880 --> 00:18:00,880
+I know that I can go to five-star break.
+
+387
+00:18:03,880 --> 00:18:05,880
+Getting cancer is terrifying.
+
+388
+00:18:05,880 --> 00:18:09,880
+I was overwhelmed and desperate for information I could trust.
+
+389
+00:18:09,880 --> 00:18:13,880
+Fortunately, my oncologist told me about the outcomes for me app.
+
+390
+00:18:13,880 --> 00:18:16,880
+It's like having your own team of cancer experts 24-7.
+
+391
+00:18:17,880 --> 00:18:21,880
+I get personalized treatment options, tools to manage my care and symptoms,
+
+392
+00:18:21,880 --> 00:18:25,880
+and a community of people going through the exact same thing as me.
+
+393
+00:18:25,880 --> 00:18:29,880
+Oncologist approved and always free for patients,
+
+394
+00:18:29,880 --> 00:18:33,880
+go to outcomesforme.com to download your free app now.
+
+395
+00:18:38,880 --> 00:18:40,880
+Welcome back to Sunday Night in America.
+
+396
+00:18:40,880 --> 00:18:45,880
+Artificial intelligence remains in the news because it remains on our minds.
+
+397
+00:18:45,880 --> 00:18:49,880
+We hear these horror stories about AI ending the human race,
+
+398
+00:18:49,880 --> 00:18:53,880
+and those stories are juxtaposed with stories about curing disease
+
+399
+00:18:53,880 --> 00:18:55,880
+and solving intractable problems.
+
+400
+00:18:55,880 --> 00:19:01,880
+Is it possible AI is like other technology, inherently benign,
+
+401
+00:19:01,880 --> 00:19:06,880
+but what we do with it determines whether the outcome is good or otherwise.
+
+402
+00:19:06,880 --> 00:19:09,880
+We got to thread a very small needle.
+
+403
+00:19:09,880 --> 00:19:11,880
+AI cannot be stopped.
+
+404
+00:19:11,880 --> 00:19:13,880
+The question is, can it be harnessed?
+
+405
+00:19:13,880 --> 00:19:17,880
+Can we trust AI leaders to police themselves?
+
+406
+00:19:17,880 --> 00:19:20,880
+Dr. Rich McCormick represents Georgia and joins us now.
+
+407
+00:19:20,880 --> 00:19:22,880
+Welcome, Congressman.
+
+408
+00:19:22,880 --> 00:19:24,880
+Let's start with the good news.
+
+409
+00:19:24,880 --> 00:19:28,880
+If there is good news, what are the potential good parts of AI,
+
+410
+00:19:28,880 --> 00:19:31,880
+especially from a medical standpoint?
+
+411
+00:19:32,880 --> 00:19:36,880
+From a medical standpoint, we're literally coming up with cancer cures,
+
+412
+00:19:36,880 --> 00:19:40,880
+new medications, new chemicals, new peptides,
+
+413
+00:19:40,880 --> 00:19:44,880
+all kinds of things that will help humans live not only longer, but live better.
+
+414
+00:19:44,880 --> 00:19:48,880
+It's going to help people not get Alzheimer's and dementia.
+
+415
+00:19:48,880 --> 00:19:51,880
+It could cure ALS, some of the most scary disease in the world.
+
+416
+00:19:51,880 --> 00:19:56,880
+They can help us cure fluid blastomas, basically untreatable diseases in the past.
+
+417
+00:19:56,880 --> 00:19:58,880
+Now, it can be cured. That's medicine.
+
+418
+00:19:58,880 --> 00:19:59,880
+But think about the technologies.
+
+419
+00:19:59,880 --> 00:20:02,880
+A lot of people are scared about what they'll do in the military.
+
+420
+00:20:02,880 --> 00:20:05,880
+They should be scared of what it doesn't get to done.
+
+421
+00:20:05,880 --> 00:20:09,880
+And when you talk about competing with other world orders,
+
+422
+00:20:09,880 --> 00:20:11,880
+if you're worried about what they're going to come up with,
+
+423
+00:20:11,880 --> 00:20:13,880
+imagine being in World War II.
+
+424
+00:20:13,880 --> 00:20:16,880
+And other two countries are coming up with nuclear arms.
+
+425
+00:20:16,880 --> 00:20:19,880
+Can you imagine not developing nuclear arms yourself?
+
+426
+00:20:19,880 --> 00:20:23,880
+It's something that can be weaponized, but also used to counter weaponize.
+
+427
+00:20:23,880 --> 00:20:27,880
+And that's really important to the future of the Americans.
+
+428
+00:20:27,880 --> 00:20:30,880
+It may very well be our modern-day Manhattan Project.
+
+429
+00:20:30,880 --> 00:20:32,880
+Now, I got to confess my bias.
+
+430
+00:20:32,880 --> 00:20:35,880
+I like Jake Clayton a lot.
+
+431
+00:20:35,880 --> 00:20:39,880
+Also, like Andrew Ferguson, they're going to head the President's AI working group.
+
+432
+00:20:39,880 --> 00:20:43,880
+They're both smart and ethical and persuasive.
+
+433
+00:20:43,880 --> 00:20:50,880
+That said, the messaging on AI to date has centered on data centers and the apocalypse.
+
+434
+00:20:50,880 --> 00:20:53,880
+It's hard to win either of those debates.
+
+435
+00:20:53,880 --> 00:20:57,880
+And the AI leaders, Doc, to be honest with you,
+
+436
+00:20:57,880 --> 00:21:02,880
+I mean, I'd rather talk to Rain Man at a cocktail party than talk to the AI leaders.
+
+437
+00:21:02,880 --> 00:21:04,880
+I mean, they're not winning this debate.
+
+438
+00:21:04,880 --> 00:21:06,880
+So someone has to help them.
+
+439
+00:21:06,880 --> 00:21:09,880
+How would you tell them to frame it?
+
+440
+00:21:09,880 --> 00:21:12,880
+Because if it's about data centers and the apocalypse,
+
+441
+00:21:12,880 --> 00:21:14,880
+you're not going to win that debate.
+
+442
+00:21:14,880 --> 00:21:17,880
+Well, first of all, just like I just said,
+
+443
+00:21:17,880 --> 00:21:23,880
+the best hope you have against the apocalypse of AI is the counter apocalypse by AI.
+
+444
+00:21:23,880 --> 00:21:27,880
+You have to have the best weapon system to protect you against the best weapon system.
+
+445
+00:21:27,880 --> 00:21:31,880
+When it comes to data centers, I believe it is my genuine opinion that in a year,
+
+446
+00:21:31,880 --> 00:21:38,880
+this will not be an opinion because it won't be even controversial because I think the communities that are building data centers right now are going to be able to show.
+
+447
+00:21:38,880 --> 00:21:44,880
+Look, there's the energy consumption is offset by the price point that these people pay into it by law.
+
+448
+00:21:44,880 --> 00:21:46,880
+They have to offset it.
+
+449
+00:21:46,880 --> 00:21:47,880
+In fact, almost in a positive way.
+
+450
+00:21:47,880 --> 00:21:52,880
+So in other words, your energy drop consumption will drop as far as a bill goes.
+
+451
+00:21:52,880 --> 00:21:53,880
+It's not going to consume water.
+
+452
+00:21:53,880 --> 00:21:54,880
+It's a contained system.
+
+453
+00:21:54,880 --> 00:21:58,880
+It's going to pay for your taxes for better schools, better teachers, better roads.
+
+454
+00:21:58,880 --> 00:22:00,880
+You're going to save thousands of dollars for a year.
+
+455
+00:22:00,880 --> 00:22:05,880
+That's a huge, but if you don't want it, that's what your community leaders for to deny that.
+
+456
+00:22:05,880 --> 00:22:10,880
+But I think you're going to be competing with military bases and other communities that want it and they're going to benefit from it.
+
+457
+00:22:10,880 --> 00:22:15,880
+And I think eventually in a couple of years, people are going to be fighting over who gets data centers rather than who keeps them out.
+
+458
+00:22:15,880 --> 00:22:18,880
+And so I think this is just something right now that the public needs to be educated.
+
+459
+00:22:18,880 --> 00:22:26,880
+And quite frankly, we have FBI investigations on China interference on stern of the people in varying nefarious and misleading ways.
+
+460
+00:22:27,880 --> 00:22:39,880
+All right, before I let you go, some of the same folks, not all, but some of the same folks involved in AI also gave us social media, which some would argue has already gotten out of control.
+
+461
+00:22:39,880 --> 00:22:47,880
+How can we trust billionaires who are making money off of AI to harness it for the greater good?
+
+462
+00:22:47,880 --> 00:22:51,880
+Or is there going to have to be governmental oversight?
+
+463
+00:22:52,880 --> 00:23:00,880
+Yeah, so this is the greatest question on. I really believe that having billionaires watching billionaires knows accountability between different companies.
+
+464
+00:23:00,880 --> 00:23:11,880
+I love the idea of open shell where you have seven layers of integrity for any system so I can't attack other companies and you have other companies watching each other because AI will do the best job of watching each other.
+
+465
+00:23:11,880 --> 00:23:14,880
+And when you do harm to somebody else, they'll hold you accountable.
+
+466
+00:23:14,880 --> 00:23:18,880
+The government doesn't have the technology or the resources to do it itself.
+
+467
+00:23:19,880 --> 00:23:31,880
+Doc, thank you for your service to our country. Thank you for joining us on a Sunday night. This issue is not going anywhere, so thank you for loaning us your expertise. We'll see you soon.
+
+468
+00:23:31,880 --> 00:23:34,880
+My pleasure. Simplify.
+
+469
+00:23:34,880 --> 00:23:40,880
+Yes, sir. Take care. Coming up, the president is campaigning to keep Republicans in the majority come November.
+
+470
+00:23:41,880 --> 00:23:46,880
+As a look, and Brandi Guille joining Morning Campaign Trail and he joins us after the break.
+
+471
+00:23:54,880 --> 00:23:57,880
+I don't want anybody to freak out, but I just got some big news.
+
+472
+00:23:57,880 --> 00:24:00,880
+Everyone's favorite small town doctor is back.
+
+473
+00:24:00,880 --> 00:24:04,880
+I'm a highly celebrated surgeon who's vastly overqualified for the job.
+
+474
+00:24:04,880 --> 00:24:06,880
+And Tuesday, it's all new.
+
+475
+00:24:06,880 --> 00:24:11,880
+When lobster crate race, the person who gets across the most crates is the winner.
+
+476
+00:24:11,880 --> 00:24:16,880
+Everyone who participates gets a physical first. We have three positive pregnancy tests.
+
+477
+00:24:16,880 --> 00:24:18,880
+And they're all men.
+
+478
+00:24:18,880 --> 00:24:23,880
+This is a ridiculous town. All new, best medicine. Tuesday on Fox.
+
+479
+00:24:37,880 --> 00:24:41,880
+Expecting someone else?
+
+480
+00:24:41,880 --> 00:24:45,880
+Roses fade. True love lasts forever.
+
+481
+00:24:45,880 --> 00:24:53,880
+The Vow, a new series about finding true love. Coming this November, only on Fox Nation.
+
+482
+00:24:55,880 --> 00:24:59,880
+Every small business owner has a monster to do list.
+
+483
+00:25:01,880 --> 00:25:03,880
+You could help.
+
+484
+00:25:07,880 --> 00:25:12,880
+Get a quote.
+
+485
+00:25:12,880 --> 00:25:18,880
+Progressive makes it easy to get a quick commercial auto quote online so you can get back to all your other to-dos.
+
+486
+00:25:18,880 --> 00:25:20,880
+Sorry, that one's mine.
+
+487
+00:25:20,880 --> 00:25:23,880
+See if you can save money at Progressive Commercial dot com.
+
+488
+00:25:27,880 --> 00:25:31,880
+Bladderly, I've been there, so I trust always discreet.
+
+489
+00:25:31,880 --> 00:25:34,880
+Now I never miss a moment of any of my son's games.
+
+490
+00:25:35,880 --> 00:25:39,880
+I use always discreet too. Protect the moment, always discreet.
+
+491
+00:25:39,880 --> 00:25:44,880
+With the vented app, Meghan turns her closet into cash. She easily sells the clothes she doesn't wear anymore.
+
+492
+00:25:44,880 --> 00:25:49,880
+And with no selling fees, every dollar is hers. It's extra cash she can spend on her next fancy dinner.
+
+493
+00:25:53,880 --> 00:25:58,880
+Before I found hone health, I was struggling. No energy, no sex drive, and gaining weight.
+
+494
+00:25:58,880 --> 00:26:02,880
+Home tested over 40 biomarkers and built a treatment plan just for me.
+
+495
+00:26:02,880 --> 00:26:08,880
+Now I've got back my energy, focus, and loss weight. Get started at honehealth.com slash TV.
+
+496
+00:26:10,880 --> 00:26:13,880
+Hey, Sarah. Oh, hey, Stacey. New smartwatch. Did you get a bonus?
+
+497
+00:26:13,880 --> 00:26:16,880
+Nope. I just got it using free cash.
+
+498
+00:26:16,880 --> 00:26:21,880
+Free cash sounds too good to be true. It's an app. I earn money playing games and doing tasks.
+
+499
+00:26:22,880 --> 00:26:25,880
+Cashed out an Amazon gift card, bought this.
+
+500
+00:26:25,880 --> 00:26:27,880
+Is there a subscription fee or what's the catch?
+
+501
+00:26:27,880 --> 00:26:35,880
+There's no catch, totally free, and you get a $10 sign up bonus. Get rewarded for playing games. Download the app now.
+
+502
+00:26:35,880 --> 00:26:38,880
+Free cash.
+
+503
+00:26:38,880 --> 00:26:43,880
+For plant-based, healthy blood pressure support, there's one brand that stands above the rest.
+
+504
+00:26:43,880 --> 00:26:49,880
+It's human, the maker of Superpeets, the only beat brand trusted by more cardiologists for four years running.
+
+505
+00:26:49,880 --> 00:26:52,880
+Save up to 40% off on Amazon Prime Day.
+
+506
+00:26:53,880 --> 00:26:58,880
+Even the toughest cowboys get heartburned, but I don't fool around with silly ass.
+
+507
+00:26:58,880 --> 00:27:04,880
+I ride with Rollaid's max strength, 1500 milligrams of acid neutralizing power for serious relief.
+
+508
+00:27:04,880 --> 00:27:06,880
+Am I a cowboy now? No.
+
+509
+00:27:06,880 --> 00:27:08,880
+Rollaid spells relief.
+
+510
+00:27:08,880 --> 00:27:12,880
+What if your shipping and logistics ran as one smart system?
+
+511
+00:27:12,880 --> 00:27:18,880
+Even during peak season, ShipStation's intelligent platform helps you ship faster, regardless of spikes in orders.
+
+512
+00:27:18,880 --> 00:27:23,880
+Don't wait for peak season chaos. Switch today at ShipStation.com.
+
+513
+00:27:48,880 --> 00:27:50,880
+Much better.
+
+514
+00:27:50,880 --> 00:27:52,880
+Whoops.
+
+515
+00:27:52,880 --> 00:27:54,880
+There's still one.
+
+516
+00:27:54,880 --> 00:27:56,880
+Welcome to...
+
+517
+00:27:56,880 --> 00:27:58,880
+Oh, what a hit!
+
+518
+00:27:58,880 --> 00:28:00,880
+The shot out of the counter!
+
+519
+00:28:00,880 --> 00:28:02,880
+You got bomb with you, but...
+
+520
+00:28:02,880 --> 00:28:04,880
+You didn't invite me!
+
+521
+00:28:04,880 --> 00:28:07,880
+Her bomb fits!
+
+522
+00:28:18,880 --> 00:28:20,880
+This is personal. It lied to me.
+
+523
+00:28:20,880 --> 00:28:23,880
+Doc, on new Tuesdays on Fox and watch Anytime on Hulu.
+
+524
+00:28:23,880 --> 00:28:28,880
+When you can't watch, listen. Get the latest news, business and news headlines on SiriusXM.
+
+525
+00:28:28,880 --> 00:28:30,880
+Anytime, anywhere.
+
+526
+00:28:30,880 --> 00:28:34,880
+Fox News Audio on SiriusXM, America is listening.
+
+527
+00:28:36,880 --> 00:28:38,880
+Welcome to Fox News Live, I'm Marianne Rafferty.
+
+528
+00:28:38,880 --> 00:28:43,880
+Police are investigating after dozens of people were shot at a homecoming block party in Vienna, Georgia.
+
+529
+00:28:43,880 --> 00:28:45,880
+That's about two hours south of Atlanta.
+
+530
+00:28:45,880 --> 00:28:49,880
+Officials say two people were killed and 35 others were hurt.
+
+531
+00:28:49,880 --> 00:28:52,880
+The victims range in age from 14 to 51.
+
+532
+00:28:52,880 --> 00:28:54,880
+No suspects have been identified.
+
+533
+00:28:54,880 --> 00:29:00,880
+More than 1,000 people were at the unpermitted event when shots rang out.
+
+534
+00:29:00,880 --> 00:29:05,880
+And the Tennessee woman at the center of a failed execution attempt remains unconscious.
+
+535
+00:29:05,880 --> 00:29:09,880
+Krista Pike's lawyer says she's critically ill and may never fully recover.
+
+536
+00:29:09,880 --> 00:29:13,880
+She claims she also faces possible long-term legal competency issues.
+
+537
+00:29:13,880 --> 00:29:19,880
+Pike survived receiving two sets of execution drugs last week during the botched procedure.
+
+538
+00:29:19,880 --> 00:29:27,880
+Tennessee's governor has paused executions for the rest of the year and also ordered an independent investigation into exactly what went wrong.
+
+539
+00:29:27,880 --> 00:29:29,880
+I'm Marianne Rafferty.
+
+540
+00:29:29,880 --> 00:29:31,880
+Now back to Sunday night in America.
+
+541
+00:29:31,880 --> 00:29:39,880
+Welcome back to Sunday night in America.
+
+542
+00:29:39,880 --> 00:29:44,880
+The President is on the road criss-crossing the nation to bolster Republicans in dozens of races.
+
+543
+00:29:44,880 --> 00:29:49,880
+The United States of America will never be a communist country.
+
+544
+00:29:53,880 --> 00:30:00,880
+We did not come all this way and defeat all of those dangers only to watch our country be taken over
+
+545
+00:30:00,880 --> 00:30:02,880
+by sick, sick people.
+
+546
+00:30:02,880 --> 00:30:03,880
+There's sick people.
+
+547
+00:30:03,880 --> 00:30:04,880
+There's something wrong with these people.
+
+548
+00:30:04,880 --> 00:30:05,880
+Just get out and vote.
+
+549
+00:30:05,880 --> 00:30:08,880
+If you do that, we're going to win and we're going to win big.
+
+550
+00:30:08,880 --> 00:30:12,880
+Good politicians have an offense of any defense of game-playing offense.
+
+551
+00:30:12,880 --> 00:30:15,880
+Tell us the voters what your agenda is and will be.
+
+552
+00:30:15,880 --> 00:30:20,880
+Defense reminds voters what the other side will do if they win.
+
+553
+00:30:20,880 --> 00:30:24,880
+Rana Gilles with the President Texas this week and joins us now.
+
+554
+00:30:24,880 --> 00:30:25,880
+Welcome, Congressman.
+
+555
+00:30:25,880 --> 00:30:26,880
+Good to see you.
+
+556
+00:30:26,880 --> 00:30:29,880
+It looks at least to those of us outside of Texas.
+
+557
+00:30:29,880 --> 00:30:35,880
+Like the Texas Senate race is close or maybe Paxton is even down.
+
+558
+00:30:35,880 --> 00:30:39,880
+Why would that be?
+
+559
+00:30:39,880 --> 00:30:45,880
+Well, I think we still have more education that we need to do to make sure voters know who Ken Paxton is
+
+560
+00:30:45,880 --> 00:30:47,880
+and who James Tallarico is.
+
+561
+00:30:47,880 --> 00:30:52,880
+You know, we talk a lot about James Tallarico being a weirdo, how he wants to turn federal buildings
+
+562
+00:30:52,880 --> 00:30:57,880
+into abortion clinics, how he thinks there's six genders that God is non-binary,
+
+563
+00:30:57,880 --> 00:31:02,880
+how he has an obsession with trans kids, how he believes that Christianity,
+
+564
+00:31:02,880 --> 00:31:07,880
+how he has contempt for Christianity and how his pastor has said that all the things that he's saying
+
+565
+00:31:07,880 --> 00:31:11,880
+now where he's trying to act like a moderate are disingenuous.
+
+566
+00:31:11,880 --> 00:31:17,880
+On the other hand, you've got Ken Paxton, who has been the single greatest attorney general in our country.
+
+567
+00:31:17,880 --> 00:31:24,880
+This is somebody who has sued multiple companies and won billions of dollars on behalf of the people of Texas
+
+568
+00:31:24,880 --> 00:31:29,880
+against opioid makers, against big tech, against companies that are abusing Texans.
+
+569
+00:31:29,880 --> 00:31:36,880
+This is somebody who has sued 130 different cities in the state to stop them from raising property taxes
+
+570
+00:31:36,880 --> 00:31:39,880
+and who has won over $10 million from Texas Children's Hospital
+
+571
+00:31:39,880 --> 00:31:45,880
+whenever they tried to bill Medicaid for funding for transgender surgeries for young kids.
+
+572
+00:31:45,880 --> 00:31:50,880
+So the contrast here couldn't be more clear, and I think we have to just continue to get that message out
+
+573
+00:31:50,880 --> 00:31:55,880
+so that people of Texas know who they're voting for here.
+
+574
+00:31:55,880 --> 00:32:00,880
+You know, Brandon, you do a better job of defending Ken Paxton than Ken Paxton does.
+
+575
+00:32:00,880 --> 00:32:03,880
+Is it too late to put you on the ballot?
+
+576
+00:32:03,880 --> 00:32:04,880
+All right, let me move on.
+
+577
+00:32:04,880 --> 00:32:10,880
+Democrats will investigate and impeach Donald Trump for a third time if they retake the house.
+
+578
+00:32:10,880 --> 00:32:12,880
+You know that, I know that.
+
+579
+00:32:12,880 --> 00:32:16,880
+What will Republicans investigate if you hold the house?
+
+580
+00:32:16,880 --> 00:32:18,880
+You're on that committee.
+
+581
+00:32:18,880 --> 00:32:21,880
+You may chair that committee for all I know one day.
+
+582
+00:32:21,880 --> 00:32:24,880
+What do you want to investigate?
+
+583
+00:32:24,880 --> 00:32:27,880
+Well, I would like to continue doing the work.
+
+584
+00:32:27,880 --> 00:32:32,880
+James Comer, who chairs that oversight committee has done a phenomenal job of doing things like going after
+
+585
+00:32:32,880 --> 00:32:37,880
+sanctuary cities and sanctuary states who are harboring illegal alien criminals.
+
+586
+00:32:37,880 --> 00:32:41,880
+The task force that I am chairing currently on the oversight committee.
+
+587
+00:32:41,880 --> 00:32:44,880
+We've been doing quite a bit of work recently.
+
+588
+00:32:44,880 --> 00:32:49,880
+On going after states who are allowing their Medicaid programs to be defrauded,
+
+589
+00:32:49,880 --> 00:32:51,880
+you saw the fraud that happened in Minnesota.
+
+590
+00:32:51,880 --> 00:32:55,880
+We've also been looking at Medicaid fraud in Ohio, and you see similarities there.
+
+591
+00:32:55,880 --> 00:33:01,880
+I'd like to protect taxpayer dollars, and I'd like to continue going after the abuses of the Biden administration
+
+592
+00:33:01,880 --> 00:33:05,880
+and people like Jack Smith, who went after the president, went after his family,
+
+593
+00:33:05,880 --> 00:33:08,880
+and went after his administration and have done so.
+
+594
+00:33:08,880 --> 00:33:11,880
+I think oftentimes with impunity, they need to be held accountable,
+
+595
+00:33:11,880 --> 00:33:15,880
+and we can do that through the House Oversight Committee.
+
+596
+00:33:15,880 --> 00:33:18,880
+Brandon, I love your state.
+
+597
+00:33:18,880 --> 00:33:23,880
+Four years in Waco barely made it out, but I did make it out.
+
+598
+00:33:23,880 --> 00:33:24,880
+Diesel is high.
+
+599
+00:33:24,880 --> 00:33:26,880
+That matters in an act state like Texas.
+
+600
+00:33:26,880 --> 00:33:31,880
+Gas prices actually matter everywhere.
+
+601
+00:33:31,880 --> 00:33:39,880
+What realistically can a president or Congress do about fuel prices?
+
+602
+00:33:39,880 --> 00:33:46,880
+Well, the first thing I would say is that the Iran War currently is a temporary blip in fuel prices,
+
+603
+00:33:46,880 --> 00:33:51,880
+but if you look at what the other side of the aisle wants to do is as a matter of policy,
+
+604
+00:33:51,880 --> 00:33:54,880
+Democrats want to hamstring domestic energy production.
+
+605
+00:33:54,880 --> 00:33:58,880
+They killed the Keystone or tried to kill the Keystone XL pipeline.
+
+606
+00:33:58,880 --> 00:33:59,880
+They have been running.
+
+607
+00:33:59,880 --> 00:34:03,880
+James Tallarico has talked about how we are moving away from fossil fuels.
+
+608
+00:34:03,880 --> 00:34:07,880
+What we want to do as Republicans is we want to implement policies like permitting reform.
+
+609
+00:34:07,880 --> 00:34:09,880
+We did some of that in the big, beautiful bill.
+
+610
+00:34:09,880 --> 00:34:15,880
+There's more that we can do now, and we would like to see America's domestic energy production thrive,
+
+611
+00:34:15,880 --> 00:34:19,880
+and that is what's going to allow us to keep gas prices down long-term,
+
+612
+00:34:19,880 --> 00:34:23,880
+regardless of what the geopolitical situation looks like.
+
+613
+00:34:23,880 --> 00:34:28,880
+But that is if we can get Republicans in control to maintain control of the House and the Senate
+
+614
+00:34:28,880 --> 00:34:33,880
+and the presidency so that we can get those reforms passed.
+
+615
+00:34:33,880 --> 00:34:37,880
+All right, Brandon, before I let you go, you're a smart young man.
+
+616
+00:34:37,880 --> 00:34:42,880
+I see this polling that populism is kind of rising at both parties.
+
+617
+00:34:42,880 --> 00:34:50,880
+If I were to ask you to give me the elevator pitch on the difference between populism and conservatism,
+
+618
+00:34:50,880 --> 00:34:55,880
+let's assume it's about a 12-story building or in the elevator, so not that long.
+
+619
+00:34:55,880 --> 00:35:00,880
+What is the difference between the two in your judgment?
+
+620
+00:35:00,880 --> 00:35:04,880
+Well, I think conservatives want to conserve this country.
+
+621
+00:35:04,880 --> 00:35:09,880
+They recognize that we have a specific culture, and we have a heritage that we love,
+
+622
+00:35:09,880 --> 00:35:15,880
+and we want to continue to thrive, and we want our kids and grandkids to have the same opportunities that we had.
+
+623
+00:35:16,880 --> 00:35:23,880
+What you see, I think with left-wing populism is I think this moved to fundamentally up-end American society,
+
+624
+00:35:23,880 --> 00:35:28,880
+America's system of governance, and I think that's the motivating factor whenever you hear Democrats running,
+
+625
+00:35:28,880 --> 00:35:33,880
+for instance, on a platform of either defunding local police departments or reopening or bordering
+
+626
+00:35:33,880 --> 00:35:38,880
+or abolishing the Senate or the U.S. Supreme Court.
+
+627
+00:35:38,880 --> 00:35:42,880
+I think that it's fundamentally motivated by a hatred for America,
+
+628
+00:35:42,880 --> 00:35:46,880
+and that's something that conservatives reject.
+
+629
+00:35:46,880 --> 00:35:53,880
+Brandi Gill from the Great State of Texas, thank you for joining us on the Sunday night. We'll see you soon.
+
+630
+00:35:53,880 --> 00:35:55,880
+Thanks for having me.
+
+631
+00:35:55,880 --> 00:36:02,880
+Yes, sir. Three years ago was Israel's 9-11 Israeli Ambassador Danny Denon reflects on that day,
+
+632
+00:36:02,880 --> 00:36:06,880
+and the consequences which followed.
+
+633
+00:36:12,880 --> 00:36:14,880
+You've asked me that three times already.
+
+634
+00:36:14,880 --> 00:36:15,880
+I did?
+
+635
+00:36:15,880 --> 00:36:18,880
+This is exactly how it started with mom.
+
+636
+00:36:18,880 --> 00:36:20,880
+Worried about your brain health?
+
+637
+00:36:20,880 --> 00:36:24,880
+Serifolan brain wellness has a dual-action formula that slows cognitive decline
+
+638
+00:36:24,880 --> 00:36:27,880
+while improving memory, focus, and concentration.
+
+639
+00:36:27,880 --> 00:36:32,880
+Those taking serifolan brain wellness experienced a slower rate of brain shrinkage.
+
+640
+00:36:32,880 --> 00:36:37,880
+Now also available without a prescription at serifolan.com and Amazon.
+
+641
+00:36:37,880 --> 00:36:39,880
+It changed my mind.
+
+642
+00:36:39,880 --> 00:36:42,880
+She's recommended serifolan brain wellness.
+
+643
+00:36:42,880 --> 00:36:45,880
+All everyone to be was a mom.
+
+644
+00:36:45,880 --> 00:36:48,880
+Maddox was eight days old when he got diagnosed.
+
+645
+00:36:48,880 --> 00:36:52,880
+When the doctor came out, he said, your child has cancer.
+
+646
+00:36:52,880 --> 00:36:57,880
+And the rest, I don't know what he said, because I can't remember.
+
+647
+00:36:57,880 --> 00:37:00,880
+That initial shock is a lot.
+
+648
+00:37:00,880 --> 00:37:03,880
+He has a very aggressive cancer of the eyes.
+
+649
+00:37:03,880 --> 00:37:08,880
+If it wasn't for St. Jude's mom, boy, might not have a chance.
+
+650
+00:37:08,880 --> 00:37:13,880
+St. Jude Children's Research Hospital works day after day to find cures
+
+651
+00:37:13,880 --> 00:37:18,880
+and save the lives of children with cancer and other life-threatening diseases.
+
+652
+00:37:18,880 --> 00:37:21,880
+Childhood cancer.
+
+653
+00:37:21,880 --> 00:37:25,880
+It's not clear.
+
+654
+00:37:25,880 --> 00:37:29,880
+Having help is at times all you have.
+
+655
+00:37:29,880 --> 00:37:35,880
+You can join the battle to save lives by supporting St. Jude Children's Research Hospital.
+
+656
+00:37:35,880 --> 00:37:40,880
+Families never receive a bill from St. Jude for treatment, travel, housing or food.
+
+657
+00:37:40,880 --> 00:37:45,880
+So they can focus on helping their child live.
+
+658
+00:37:45,880 --> 00:37:50,880
+I'm grateful for the people that donate to St. Jude
+
+659
+00:37:50,880 --> 00:37:57,880
+to have a sense of hope for our children to be able to get through this and to be strong.
+
+660
+00:37:57,880 --> 00:38:01,880
+Join with your credit or debit card for only $19 a month
+
+661
+00:38:01,880 --> 00:38:04,880
+and we'll send you this St. Jude t-shirt.
+
+662
+00:38:04,880 --> 00:38:09,880
+You can proudly wear to show your support.
+
+663
+00:38:09,880 --> 00:38:16,880
+Every person that donates is giving her a chance to live.
+
+664
+00:38:16,880 --> 00:38:25,880
+We're all here for one reason.
+
+665
+00:38:25,880 --> 00:38:31,880
+It is to get our kids well so that we're all able to go back home.
+
+666
+00:38:31,880 --> 00:38:36,880
+Your support helps St. Jude give kids with cancer a chance.
+
+667
+00:38:36,880 --> 00:38:41,880
+Please donate now.
+
+668
+00:39:01,880 --> 00:39:06,880
+So receive a free five-year warranty valued at over $500.
+
+669
+00:39:06,880 --> 00:39:09,880
+Call or go online now to request your free quote.
+
+670
+00:39:09,880 --> 00:39:11,880
+Power your life with Generac.
+
+671
+00:39:11,880 --> 00:39:13,880
+Abdul Asayyad on the story.
+
+672
+00:39:13,880 --> 00:39:16,880
+With the critical Michigan Senate race and a dead heat,
+
+673
+00:39:16,880 --> 00:39:21,880
+the Democratic candidate makes his pitch to voters live with Martha Monday.
+
+674
+00:39:21,880 --> 00:39:25,880
+California's community health clinics are already buried in regulation.
+
+675
+00:39:25,880 --> 00:39:28,880
+Prop 44 will only make it worse.
+
+676
+00:39:28,880 --> 00:39:31,880
+It puts politicians between patients and their doctors
+
+677
+00:39:31,880 --> 00:39:34,880
+and lets them dictate the care clinics can provide,
+
+678
+00:39:34,880 --> 00:39:38,880
+hurting millions of patients and funneling billions of tax dollars
+
+679
+00:39:38,880 --> 00:39:43,880
+into a new state bureaucracy, cutting care and driving up costs.
+
+680
+00:39:43,880 --> 00:39:46,880
+Don't let politicians control your care.
+
+681
+00:39:46,880 --> 00:39:49,880
+Don't let hundreds of community health clinics close.
+
+682
+00:39:49,880 --> 00:39:54,880
+Vote no on 44.
+
+683
+00:39:54,880 --> 00:39:58,880
+If you're on Medicare and you get this,
+
+684
+00:39:58,880 --> 00:40:04,880
+you could end up with this, unexpected out-of-pocket costs.
+
+685
+00:40:04,880 --> 00:40:08,880
+So if you're on Medicare or soon-to-be, consider this,
+
+686
+00:40:08,880 --> 00:40:13,880
+an AARP Medicare Supplement Insurance Plan from UnitedHealthcare.
+
+687
+00:40:13,880 --> 00:40:16,880
+Medicare alone doesn't pay for everything.
+
+688
+00:40:16,880 --> 00:40:20,880
+Medicare Supplement Plans help by paying some of what Medicare doesn't
+
+689
+00:40:20,880 --> 00:40:23,880
+and making your out-of-pocket costs more predictable.
+
+690
+00:40:23,880 --> 00:40:27,880
+Call UnitedHealthcare now and ask for your free decision guide.
+
+691
+00:40:27,880 --> 00:40:31,880
+These plans come along with a gym membership at no additional cost,
+
+692
+00:40:31,880 --> 00:40:34,880
+with access to a national network of fitness locations.
+
+693
+00:40:34,880 --> 00:40:38,880
+Medicare Supplement Plans also let you see any doctor, any specialist,
+
+694
+00:40:38,880 --> 00:40:42,880
+anywhere in the U.S., who accepts Medicare and Medicare patients.
+
+695
+00:40:42,880 --> 00:40:45,880
+Take charge of your healthcare today.
+
+696
+00:40:45,880 --> 00:40:49,880
+Call UnitedHealthcare about an AARP Medicare Supplement Plan.
+
+697
+00:40:49,880 --> 00:40:54,880
+MUSIC
+
+698
+00:40:54,880 --> 00:40:57,880
+Welcome back to Sunday Night in America.
+
+699
+00:40:57,880 --> 00:41:01,880
+Wednesday marks three years since Hamas attacked the Israel killing
+
+700
+00:41:01,880 --> 00:41:04,880
+over 1,000 people, including women and children,
+
+701
+00:41:04,880 --> 00:41:10,880
+and kidnapping nearly 250 people who were then used as bargaining chips.
+
+702
+00:41:10,880 --> 00:41:13,880
+Israel does not believe in proportionate response.
+
+703
+00:41:13,880 --> 00:41:16,880
+Israel believes in sending a message.
+
+704
+00:41:16,880 --> 00:41:21,880
+If you attack us, you will regret it for decades to come.
+
+705
+00:41:21,880 --> 00:41:26,880
+And yet, threats still abound in the region from a potential nuclear Iran
+
+706
+00:41:26,880 --> 00:41:31,880
+to a single pilot stabbing a co-pilot mid-flight.
+
+707
+00:41:31,880 --> 00:41:36,880
+And like the bravery put on display by Americans 25 years ago,
+
+708
+00:41:36,880 --> 00:41:41,880
+it was passengers who intervened, overpowered the attacker,
+
+709
+00:41:41,880 --> 00:41:43,880
+and avoided catastrophe.
+
+710
+00:41:43,880 --> 00:41:47,880
+Investigators are still trying to determine a motive,
+
+711
+00:41:47,880 --> 00:41:51,880
+but honestly, you don't have to be Dr. Freud to figure out the motive.
+
+712
+00:41:51,880 --> 00:41:54,880
+Hatred of Jews is the culprit.
+
+713
+00:41:54,880 --> 00:41:58,880
+Its guns and missiles are now planned in the Middle East and America.
+
+714
+00:41:58,880 --> 00:42:01,880
+It's podcast and social media.
+
+715
+00:42:01,880 --> 00:42:05,880
+Danny Denon is Israel's ambassador to the U.N. and joins us now.
+
+716
+00:42:05,880 --> 00:42:07,880
+Welcome, Mr. Ambassador.
+
+717
+00:42:07,880 --> 00:42:09,880
+I'm pretty sure I know the motive.
+
+718
+00:42:09,880 --> 00:42:12,880
+The Amani co-pilot wanted to kill Jews,
+
+719
+00:42:12,880 --> 00:42:16,880
+or people perceived as being supportive of the Jewish state.
+
+720
+00:42:16,880 --> 00:42:18,880
+There, I just gave you the motive.
+
+721
+00:42:18,880 --> 00:42:20,880
+How's that wrong?
+
+722
+00:42:20,880 --> 00:42:22,880
+Well, thank you for having me today.
+
+723
+00:42:22,880 --> 00:42:25,880
+First, we have to be grateful for the miracle.
+
+724
+00:42:25,880 --> 00:42:29,880
+You know, now when we get more information, we realize it was,
+
+725
+00:42:29,880 --> 00:42:30,880
+it was God.
+
+726
+00:42:30,880 --> 00:42:34,880
+God actually supported the pilot and the Israeli to fought
+
+727
+00:42:34,880 --> 00:42:38,880
+and actually prevented a 9-11 terror attack.
+
+728
+00:42:38,880 --> 00:42:39,880
+It was indeed a miracle.
+
+729
+00:42:39,880 --> 00:42:43,880
+And now when we have more information about this terrorist,
+
+730
+00:42:43,880 --> 00:42:47,880
+we realize that he actually was planning to crash the plane,
+
+731
+00:42:47,880 --> 00:42:51,880
+either on the Israeli airport, then going on,
+
+732
+00:42:51,880 --> 00:42:54,880
+or on an American base in Jordan.
+
+733
+00:42:54,880 --> 00:42:57,880
+So he had intention not only to keep the passengers,
+
+734
+00:42:57,880 --> 00:43:00,880
+but to create a much bigger terror attack.
+
+735
+00:43:00,880 --> 00:43:02,880
+And we are very happy that he didn't happen,
+
+736
+00:43:02,880 --> 00:43:04,880
+but we have to learn the lessons.
+
+737
+00:43:04,880 --> 00:43:07,880
+We have to keep those radicals out of the cockpit straight.
+
+738
+00:43:07,880 --> 00:43:10,880
+We have to understand what went wrong,
+
+739
+00:43:10,880 --> 00:43:12,880
+how come it flew to Israel,
+
+740
+00:43:12,880 --> 00:43:17,880
+and how come airlines are hiring radicals to fly those planes?
+
+741
+00:43:17,880 --> 00:43:21,880
+You know, Ambassador, I want us to stay there for a second
+
+742
+00:43:21,880 --> 00:43:23,880
+because at least from what I read,
+
+743
+00:43:23,880 --> 00:43:24,880
+you can tell me if I'm wrong,
+
+744
+00:43:24,880 --> 00:43:27,880
+he was fired from one airline because he hates Jews,
+
+745
+00:43:27,880 --> 00:43:30,880
+and then he was hired by another.
+
+746
+00:43:30,880 --> 00:43:33,880
+How was that not disqualifying from every airline?
+
+747
+00:43:33,880 --> 00:43:35,880
+How does that happen?
+
+748
+00:43:36,880 --> 00:43:40,880
+Unfortunately, they don't have the mechanism to coordinate that.
+
+749
+00:43:40,880 --> 00:43:43,880
+And, you know, he said in one of the investigations now
+
+750
+00:43:43,880 --> 00:43:47,880
+that he actually looked for an airline that fly to Tel Aviv.
+
+751
+00:43:47,880 --> 00:43:50,880
+So he planned for years this terror attack,
+
+752
+00:43:50,880 --> 00:43:54,880
+and he actually joined this airline because he wanted to fly to Tel Aviv.
+
+753
+00:43:54,880 --> 00:43:57,880
+He actually visited Israel before. He took pictures.
+
+754
+00:43:57,880 --> 00:44:01,880
+He planned it very carefully. And as I said earlier,
+
+755
+00:44:01,880 --> 00:44:07,880
+it's a miracle that the outcome that all of the passengers are safe,
+
+756
+00:44:07,880 --> 00:44:10,880
+and we want to be very thankful for the pilot, the Indian pilot,
+
+757
+00:44:10,880 --> 00:44:13,880
+that he will now in Israel for its bravery.
+
+758
+00:44:13,880 --> 00:44:18,880
+It was the one who actually allowed the passengers to get into the cockpit.
+
+759
+00:44:18,880 --> 00:44:22,880
+All right, Mr. Ambassador, let me ask you a hard question.
+
+760
+00:44:22,880 --> 00:44:25,880
+Hatred for Jews is raising its head, again,
+
+761
+00:44:25,880 --> 00:44:29,880
+in pockets of both political parties in America.
+
+762
+00:44:29,880 --> 00:44:32,880
+We're not even 100 years removed from the Holocaust,
+
+763
+00:44:32,880 --> 00:44:38,880
+and people are again seeking power and money at the expense of hating Jews.
+
+764
+00:44:38,880 --> 00:44:46,880
+So the phrase never again, it seems to be happening again.
+
+765
+00:44:46,880 --> 00:44:49,880
+Anti-Semitism is all over.
+
+766
+00:44:49,880 --> 00:44:53,880
+We marked three years for the horrible massacre of October 7th.
+
+767
+00:44:53,880 --> 00:44:56,880
+And we hope that people will understand that we're fighting evil,
+
+768
+00:44:56,880 --> 00:44:59,880
+but look what happened. A day after the attack,
+
+769
+00:44:59,880 --> 00:45:03,880
+you saw radicals marching in the streets of New York and other cities
+
+770
+00:45:03,880 --> 00:45:08,880
+all around the world against Israel, not against Hamas, against Israel.
+
+771
+00:45:08,880 --> 00:45:11,880
+And still, today, when you look at the numbers today,
+
+772
+00:45:11,880 --> 00:45:15,880
+you see that the hate is only against Jews. Take a look at the U.S.
+
+773
+00:45:15,880 --> 00:45:20,880
+You have the Jewish community in the U.S. It's about 2% of the general population.
+
+774
+00:45:20,880 --> 00:45:23,880
+But when you look at the number of hate crimes,
+
+775
+00:45:23,880 --> 00:45:27,880
+66% of hate crimes in the U.S. are against Jews.
+
+776
+00:45:27,880 --> 00:45:31,880
+So we need more than declarations, more than statements.
+
+777
+00:45:31,880 --> 00:45:35,880
+We need to take actions against those who spread hate.
+
+778
+00:45:35,880 --> 00:45:37,880
+And I deal with them every day at the UN.
+
+779
+00:45:37,880 --> 00:45:40,880
+I see the language they use, the blood labels, you know,
+
+780
+00:45:40,880 --> 00:45:44,880
+they equate the Hamas terrorists to the victim of October 7th.
+
+781
+00:45:44,880 --> 00:45:48,880
+We should not allow it to happen.
+
+782
+00:45:48,880 --> 00:45:51,880
+They gave you a tough task if they made you sit at the UN
+
+783
+00:45:51,880 --> 00:45:57,880
+and listen to people that hate America, hate Israel, hate Jews.
+
+784
+00:45:57,880 --> 00:46:00,880
+Well, almost all the speeches are not that good at the UN,
+
+785
+00:46:00,880 --> 00:46:02,880
+but those in particular would be hard to listen to.
+
+786
+00:46:02,880 --> 00:46:05,880
+Danny Denon, thank you for joining us on the Sunday night.
+
+787
+00:46:05,880 --> 00:46:07,880
+We'll see you soon.
+
+788
+00:46:07,880 --> 00:46:09,880
+Thank you, Trey.
+
+789
+00:46:09,880 --> 00:46:10,880
+Yes, sir. Take care.
+
+790
+00:46:10,880 --> 00:46:12,880
+Three criminal cases are making headlines.
+
+791
+00:46:12,880 --> 00:46:17,880
+A prosecutor tells us what we need to know about all of them next.
+
+792
+00:46:17,880 --> 00:46:22,880
+MUSIC
+
+793
+00:46:22,880 --> 00:46:25,880
+It looks like an ordinary staircase, but as you age
+
+794
+00:46:25,880 --> 00:46:28,880
+with occasional nerve discomfort that can feel like stabbing
+
+795
+00:46:28,880 --> 00:46:30,880
+or pins and needles in your hands and feet,
+
+796
+00:46:30,880 --> 00:46:32,880
+sometimes stares can bring worry.
+
+797
+00:46:32,880 --> 00:46:35,880
+As a retired doctor, now that I'm older myself,
+
+798
+00:46:35,880 --> 00:46:37,880
+I take nerve hive.
+
+799
+00:46:37,880 --> 00:46:39,880
+Nerveive nerve relief has ALA to start reducing
+
+800
+00:46:39,880 --> 00:46:42,880
+occasional nerve discomfort in seven days.
+
+801
+00:46:42,880 --> 00:46:44,880
+Getting older happens.
+
+802
+00:46:44,880 --> 00:46:47,880
+But living with occasional nerve discomfort doesn't have to.
+
+803
+00:46:47,880 --> 00:46:50,880
+Try and revive like I did and get your freedom back.
+
+804
+00:46:50,880 --> 00:46:52,880
+Feel alive with Nerveive.
+
+805
+00:46:52,880 --> 00:46:55,880
+Did you know bacteria are the main cause of body odor?
+
+806
+00:46:55,880 --> 00:46:58,880
+Carpe's triple layer protection shrinks sweat pores,
+
+807
+00:46:58,880 --> 00:47:01,880
+controls wetness, and kills 99% of odor-causing bacteria,
+
+808
+00:47:01,880 --> 00:47:04,880
+with 100 hours of sweat and odor control.
+
+809
+00:47:04,880 --> 00:47:07,880
+Upgrade to 100 hours of confidence at MyCarpe.com.
+
+810
+00:47:07,880 --> 00:47:10,880
+MUSIC
+
+811
+00:47:10,880 --> 00:47:14,880
+Every small business owner has a monster to do list.
+
+812
+00:47:14,880 --> 00:47:19,880
+And as your business grows, it grows.
+
+813
+00:47:19,880 --> 00:47:23,880
+MUSIC
+
+814
+00:47:23,880 --> 00:47:26,880
+MUSIC
+
+815
+00:47:26,880 --> 00:47:27,880
+That's fair.
+
+816
+00:47:27,880 --> 00:47:30,880
+Progressive makes it easy to get a quick commercial auto quote online
+
+817
+00:47:30,880 --> 00:47:34,880
+so you can get back to all your other to-dos.
+
+818
+00:47:34,880 --> 00:47:38,880
+See if you can save money at Progressive Commercial.com.
+
+819
+00:47:38,880 --> 00:47:39,880
+Hey, Sarah.
+
+820
+00:47:39,880 --> 00:47:42,880
+Oh, hey, Stacey. New smartwatch. Did you get a bonus?
+
+821
+00:47:42,880 --> 00:47:44,880
+Nope. I just got it using free cash.
+
+822
+00:47:44,880 --> 00:47:46,880
+Free cash sounds too good to be true.
+
+823
+00:47:46,880 --> 00:47:49,880
+It's not. You play the games you already like,
+
+824
+00:47:49,880 --> 00:47:51,880
+and free cash pays you for it. You won't get rich with it,
+
+825
+00:47:51,880 --> 00:47:54,880
+but enough to cash out real money and buy something you like.
+
+826
+00:47:54,880 --> 00:47:56,880
+And the brands just pay for that?
+
+827
+00:47:56,880 --> 00:47:58,880
+Yes. Brands pay to reach people like you,
+
+828
+00:47:58,880 --> 00:48:01,880
+so instead of ads, free cash pays it straight to you.
+
+829
+00:48:01,880 --> 00:48:04,880
+That's your $10 bonus. Get rewarded for playing games.
+
+830
+00:48:04,880 --> 00:48:05,880
+Download the app now.
+
+831
+00:48:05,880 --> 00:48:07,880
+Free cash.
+
+832
+00:48:07,880 --> 00:48:10,880
+What lurks beyond the door? Who makes those awful sounds?
+
+833
+00:48:10,880 --> 00:48:14,880
+It's a werewolf. It's a Martian, a skeleton rising from the ground.
+
+834
+00:48:14,880 --> 00:48:16,880
+What happened to that pumpkin?
+
+835
+00:48:16,880 --> 00:48:17,880
+Hey, what the fuck?
+
+836
+00:48:17,880 --> 00:48:20,880
+Who took more candy than expected? Whatever's creeping in the night.
+
+837
+00:48:20,880 --> 00:48:22,880
+Your Halloween, it's protected.
+
+838
+00:48:22,880 --> 00:48:25,880
+For every haunting cry and every devilish trick.
+
+839
+00:48:25,880 --> 00:48:28,880
+Catch a spooky ghost and a howl you won't forget.
+
+840
+00:48:28,880 --> 00:48:32,880
+Watch out for bats and vampires and zombies who've been infected.
+
+841
+00:48:32,880 --> 00:48:35,880
+Because when you have ring on Halloween, risk and peace.
+
+842
+00:48:35,880 --> 00:48:38,880
+It's protected. Shopnowedering.com.
+
+843
+00:48:38,880 --> 00:48:40,880
+Yes, I actually won.
+
+844
+00:48:40,880 --> 00:48:44,880
+See this? It just arrived from DealDash, a Nintendo Switch 2.
+
+845
+00:48:44,880 --> 00:48:47,880
+Look what I just won. I love DealDash.
+
+846
+00:48:47,880 --> 00:48:50,880
+With millions of auctions, you too can start winning, like this.
+
+847
+00:48:50,880 --> 00:48:54,880
+I got this amazing Japanese knife set for just 75 cents.
+
+848
+00:48:54,880 --> 00:48:58,880
+I got this KitchenAid stand mixer for only $56.
+
+849
+00:48:58,880 --> 00:49:02,880
+And today, new users get a $50 bonus credit.
+
+850
+00:49:02,880 --> 00:49:05,880
+Go to DealDash.com right now for huge savings
+
+851
+00:49:05,880 --> 00:49:08,880
+and free shipping from our U.S. warehouses.
+
+852
+00:49:08,880 --> 00:49:12,880
+We met Rob Lowe on the floor.
+
+853
+00:49:12,880 --> 00:49:14,880
+Ready or not, here we go.
+
+854
+00:49:14,880 --> 00:49:17,880
+Fox Wednesday, it's free cheers for the floor.
+
+855
+00:49:17,880 --> 00:49:19,880
+Season of Champions.
+
+856
+00:49:19,880 --> 00:49:20,880
+One came for glory.
+
+857
+00:49:20,880 --> 00:49:21,880
+I can't hear to be aggressive.
+
+858
+00:49:21,880 --> 00:49:22,880
+One came for war.
+
+859
+00:49:22,880 --> 00:49:24,880
+There's no category of scares.
+
+860
+00:49:24,880 --> 00:49:26,880
+One is the player they're gunning for.
+
+861
+00:49:26,880 --> 00:49:27,880
+She's just a setting duck.
+
+862
+00:49:27,880 --> 00:49:28,880
+Good one.
+
+863
+00:49:28,880 --> 00:49:29,880
+Let's go.
+
+864
+00:49:29,880 --> 00:49:30,880
+Pass.
+
+865
+00:49:30,880 --> 00:49:31,880
+Pass.
+
+866
+00:49:31,880 --> 00:49:32,880
+Wow.
+
+867
+00:49:32,880 --> 00:49:33,880
+The floor.
+
+868
+00:49:33,880 --> 00:49:35,880
+All new Wednesday on Fox.
+
+869
+00:49:35,880 --> 00:49:38,880
+If you're frustrated with occasional bloating or gas,
+
+870
+00:49:38,880 --> 00:49:40,880
+your body's giving you signs.
+
+871
+00:49:40,880 --> 00:49:41,880
+It's time to try a line.
+
+872
+00:49:41,880 --> 00:49:43,880
+The number one doctor recommended probiotic brands
+
+873
+00:49:43,880 --> 00:49:46,880
+developed by gastroenterologists to help sue the
+
+874
+00:49:46,880 --> 00:49:48,880
+occasional digestive upset.
+
+875
+00:49:48,880 --> 00:49:51,880
+When you feel the digestive signs, try a line.
+
+876
+00:49:51,880 --> 00:49:54,880
+I don't want anybody to freak out, but I just got some big news.
+
+877
+00:49:54,880 --> 00:49:57,880
+Everyone's favorite small-town doctor is back.
+
+878
+00:49:57,880 --> 00:50:00,880
+I'm a highly celebrated surgeon.
+
+879
+00:50:00,880 --> 00:50:03,880
+She's celebrated surgeon who's vastly overqualified for the job.
+
+880
+00:50:03,880 --> 00:50:05,880
+Then Tuesday, it's all new.
+
+881
+00:50:05,880 --> 00:50:07,880
+Support when lobster crate race.
+
+882
+00:50:07,880 --> 00:50:10,880
+The person who gets across the most crates is the winner.
+
+883
+00:50:10,880 --> 00:50:13,880
+Everyone who participates gets a physical first.
+
+884
+00:50:13,880 --> 00:50:15,880
+We have three positive pregnancy tests.
+
+885
+00:50:15,880 --> 00:50:17,880
+And they're all men.
+
+886
+00:50:17,880 --> 00:50:19,880
+This is a ridiculous town.
+
+887
+00:50:19,880 --> 00:50:20,880
+All new best medicine.
+
+888
+00:50:20,880 --> 00:50:22,880
+Tuesday on Fox.
+
+889
+00:50:22,880 --> 00:50:24,880
+The floor is back.
+
+890
+00:50:24,880 --> 00:50:26,880
+This season is all champions.
+
+891
+00:50:26,880 --> 00:50:27,880
+Get ready to win.
+
+892
+00:50:28,880 --> 00:50:31,880
+I will thumb wrestle a baby to win.
+
+893
+00:50:31,880 --> 00:50:33,880
+The champions are championing.
+
+894
+00:50:33,880 --> 00:50:34,880
+The floor is on move.
+
+895
+00:50:34,880 --> 00:50:35,880
+Wednesday's on Fox.
+
+896
+00:50:35,880 --> 00:50:37,880
+And watch any time on move.
+
+897
+00:50:37,880 --> 00:50:40,880
+Just because he was caught, it's not over.
+
+898
+00:50:40,880 --> 00:50:43,880
+They never thought it could be law enforcement.
+
+899
+00:50:43,880 --> 00:50:47,880
+He's got more victims than Zodiac and Jack O'Rippa combined.
+
+900
+00:50:47,880 --> 00:50:52,880
+Golden State killer unmasking a monster streaming now on Fox Nation.
+
+901
+00:50:53,880 --> 00:50:56,880
+Welcome back to Sunday Night in America.
+
+902
+00:50:56,880 --> 00:50:59,880
+The crime has been with us since Kane killed Abel.
+
+903
+00:50:59,880 --> 00:51:01,880
+And not much has changed.
+
+904
+00:51:01,880 --> 00:51:03,880
+We're tracking three high profile cases.
+
+905
+00:51:03,880 --> 00:51:08,880
+Lindsey Clancy's first trial resulted in a barely hung jury.
+
+906
+00:51:08,880 --> 00:51:15,880
+Prosecutors need a better theory of the case and probably a very different type of jury.
+
+907
+00:51:15,880 --> 00:51:19,880
+At Cornell University, the spotlight is also on prosecutors as well.
+
+908
+00:51:19,880 --> 00:51:23,880
+They declined to indict a rape case two years ago.
+
+909
+00:51:23,880 --> 00:51:27,880
+New York Governor Kathy Hochl removed the local DA and put H.E.
+
+910
+00:51:27,880 --> 00:51:29,880
+to Lattisha James in charge.
+
+911
+00:51:29,880 --> 00:51:33,880
+This young woman deserves a thorough investigation of her allegations.
+
+912
+00:51:33,880 --> 00:51:36,880
+And if the case can be proven, it should be taken to trial.
+
+913
+00:51:36,880 --> 00:51:40,880
+Rape cases are challenging to prosecute.
+
+914
+00:51:40,880 --> 00:51:45,880
+And this victim deserves a prosecutor who knows what she or he is doing.
+
+915
+00:51:45,880 --> 00:51:50,880
+Lattisha James, if you're wondering, is a criminal defense attorney by background?
+
+916
+00:51:50,880 --> 00:51:53,880
+Has she ever handled a rape case?
+
+917
+00:51:53,880 --> 00:51:57,880
+Because this ain't the time for on-the-job training.
+
+918
+00:51:57,880 --> 00:52:00,880
+And questions remain at Ole Miss.
+
+919
+00:52:00,880 --> 00:52:04,880
+Toxicology has not been released in the deaths of two students.
+
+920
+00:52:04,880 --> 00:52:08,880
+The culprit may be Cratum, also known as gas station heroin,
+
+921
+00:52:08,880 --> 00:52:13,880
+because you can literally buy it over the counter at a gas station.
+
+922
+00:52:13,880 --> 00:52:17,880
+Joining us, co-host of the prosecutor's podcast, Alice LeCour.
+
+923
+00:52:17,880 --> 00:52:19,880
+Welcome, Madam prosecutor.
+
+924
+00:52:19,880 --> 00:52:20,880
+Good to see you.
+
+925
+00:52:20,880 --> 00:52:22,880
+Let's start with the Cornell case.
+
+926
+00:52:22,880 --> 00:52:27,880
+Why was this case not handled properly two years ago?
+
+927
+00:52:27,880 --> 00:52:33,880
+So that's a difficult question to answer because, of course, when it comes to rape cases,
+
+928
+00:52:33,880 --> 00:52:36,880
+so much depends on what the victim says.
+
+929
+00:52:36,880 --> 00:52:41,880
+The victim's original statement is different to what she's alleging now.
+
+930
+00:52:41,880 --> 00:52:47,880
+That is common to rape allegations, but that is certainly a reason that things were handled
+
+931
+00:52:47,880 --> 00:52:49,880
+differently two years ago.
+
+932
+00:52:49,880 --> 00:52:53,880
+Whether that was mishandled or not is something that we should absolutely look into.
+
+933
+00:52:53,880 --> 00:52:58,880
+But we do have to look at changing allegations when we look at an investigation.
+
+934
+00:52:58,880 --> 00:52:59,880
+All right.
+
+935
+00:52:59,880 --> 00:53:01,880
+Before we leave,
+
+936
+00:53:02,880 --> 00:53:05,880
+Cornell, rape cases were really hard.
+
+937
+00:53:05,880 --> 00:53:11,880
+I mean, I had some really, really good prosecutors that worked in my office and handled those.
+
+938
+00:53:11,880 --> 00:53:15,880
+Leticia James has never handled a sexual assault case.
+
+939
+00:53:15,880 --> 00:53:22,880
+Why in the world would you pick somebody who's never handled a rape case to handle the investigation
+
+940
+00:53:22,880 --> 00:53:24,880
+and prosecution of a rape case?
+
+941
+00:53:24,880 --> 00:53:26,880
+You're exactly right.
+
+942
+00:53:26,880 --> 00:53:32,880
+Rape cases are always going to be incredibly delicate and incredibly difficult to prove
+
+943
+00:53:32,880 --> 00:53:37,880
+evidentially, especially in New York, where you have a law that makes it difficult to bring
+
+944
+00:53:37,880 --> 00:53:42,880
+a case where someone's alleging rape if they voluntarily took any intoxicants.
+
+945
+00:53:42,880 --> 00:53:46,880
+Now, we have Leticia James, who's recently been appointed to handle this case.
+
+946
+00:53:46,880 --> 00:53:51,880
+The governor is able to do that, of course, because Leticia James is the attorney general.
+
+947
+00:53:51,880 --> 00:53:54,880
+She is the lead prosecutor for the state.
+
+948
+00:53:54,880 --> 00:54:01,880
+With that all said, it is a very different set of skills to prosecute a case than it is to defend
+
+949
+00:54:01,880 --> 00:54:02,880
+a criminal case.
+
+950
+00:54:02,880 --> 00:54:08,880
+She has to make sure that due process is looked after here, that everything is checked perfectly,
+
+951
+00:54:08,880 --> 00:54:12,880
+because the worst case scenario, of course, is that they go through an investigation.
+
+952
+00:54:12,880 --> 00:54:14,880
+There is a case to be proven.
+
+953
+00:54:14,880 --> 00:54:19,880
+And then it's overturned because of some mishandling of the investigation or prosecution.
+
+954
+00:54:19,880 --> 00:54:21,880
+There's no justice for the victim.
+
+955
+00:54:21,880 --> 00:54:24,880
+There's no justice for the defendants.
+
+956
+00:54:24,880 --> 00:54:29,880
+I'm not even sure if Leticia James knows which side of the courtroom prosecutors sit on.
+
+957
+00:54:29,880 --> 00:54:34,880
+I mean, she's been a defense attorney her whole life, but we'll move on to Lindsay Clancy.
+
+958
+00:54:34,880 --> 00:54:38,880
+Prosecutors need a better, more coherent theory of the case.
+
+959
+00:54:38,880 --> 00:54:39,880
+That's my opinion.
+
+960
+00:54:39,880 --> 00:54:42,880
+I have my doubts on whether they can do it.
+
+961
+00:54:42,880 --> 00:54:48,880
+And yet there are still three tiny crosses remaining in a Massachusetts cemetery.
+
+962
+00:54:48,880 --> 00:54:57,880
+Is there any way to go from 11 to one in favor of acquittal to anything resembling a conviction?
+
+963
+00:54:57,880 --> 00:54:59,880
+I think you're exactly right.
+
+964
+00:54:59,880 --> 00:55:04,880
+The prosecution had a really rocky start to their prosecution of the Lindsay Clancy case.
+
+965
+00:55:04,880 --> 00:55:06,880
+They ended up, I think, in a strong place.
+
+966
+00:55:06,880 --> 00:55:09,880
+Now, are they able to start at this strong place?
+
+967
+00:55:09,880 --> 00:55:12,880
+Despite all the media hubbub, I don't know.
+
+968
+00:55:12,880 --> 00:55:18,880
+And 11 to one of a near acquittal is not what you want to hear as a prosecutor.
+
+969
+00:55:18,880 --> 00:55:24,880
+So what we want to see is we want to make sure that they have a strong theory going in.
+
+970
+00:55:24,880 --> 00:55:25,880
+And you asked a great question.
+
+971
+00:55:25,880 --> 00:55:30,880
+Can a jury in Massachusetts even reach a place where they can continue?
+
+972
+00:55:30,880 --> 00:55:43,880
+Lindsay Clancy, the answer is, I really don't know, especially because the law in Massachusetts makes the burden on the prosecution to rebut any sort of mental defect that the defense raises.
+
+973
+00:55:43,880 --> 00:55:49,880
+So really high standard that actually differs from most states insanity laws.
+
+974
+00:55:50,880 --> 00:55:58,880
+All right, if you and I were co prosecuting this case with you being the lead prosecutor, of course, and we're in jury selection.
+
+975
+00:55:58,880 --> 00:56:01,880
+I got no clue what kind of juror we want.
+
+976
+00:56:01,880 --> 00:56:06,880
+I mean, I liked having women jurors, but it didn't turn out great for the prosecution.
+
+977
+00:56:06,880 --> 00:56:10,880
+The first time men don't like convicting women.
+
+978
+00:56:11,880 --> 00:56:15,880
+That leaves people my age who are just skeptical of mental health offenses.
+
+979
+00:56:15,880 --> 00:56:20,880
+Who is the ideal juror from a prosecution standpoint?
+
+980
+00:56:20,880 --> 00:56:22,880
+That's a million dollar question.
+
+981
+00:56:22,880 --> 00:56:25,880
+Everyone's always asking that, but I think you're exactly right.
+
+982
+00:56:25,880 --> 00:56:32,880
+We don't know who the right juror is, but I have to tell you, this has been such a media phenomenon.
+
+983
+00:56:33,880 --> 00:56:53,880
+I want to find 12 jurors who've been living under a rock, maybe on a different planet, who've never heard of this case, because the last thing you want is for someone to walk in the jury room, who is bringing a bunch of baggage about what this case should mean about what this should mean for the mental health system.
+
+984
+00:56:53,880 --> 00:57:05,880
+They need to be people who can look at just the evidence and the facts in Lindsay Clancy's case, so that justice can be found for Cora Dawson and Callan.
+
+985
+00:57:05,880 --> 00:57:18,880
+Well, there are lots of rocks in the world and I don't know how many people live under them, but I'm always stunned that you can get a jury in high profile cases and I'll guarantee you they're 12 people in the country that have no idea what you and I are talking about.
+
+986
+00:57:18,880 --> 00:57:37,880
+Before I let you go, what would the charge be in the Ole Miss case if Kratum is legal, you might have a good civil case like in a dream shop case or selling alcohol to an underage person or a drunk driver, but what would the criminal case be if Kratum is legal.
+
+987
+00:57:37,880 --> 00:57:54,880
+That is going to be something that the prosecutors need to thread very carefully. While Kratum may be legal, there are substances substances within Kratum that actually have been put on schedule one by the DEA, meaning they're illegal in all circumstances.
+
+988
+00:57:54,880 --> 00:58:10,880
+And so if you are able to show that those substances are in what was sold by these individuals, and they were found in the Decedent's bodies, you do have a case there to be made that you are possessing illegal substances with intent to distribute.
+
+989
+00:58:10,880 --> 00:58:25,880
+Then you have, of course, the people who have been selling these things, they knew something was a miss. When we had informants going in, trying to make these buys, they tried to make them be quiet, they told them, be careful, people are dying from these things.
+
+990
+00:58:25,880 --> 00:58:33,880
+That type of mens rea or intent is going to be very powerful for any criminal prosecution.
+
+991
+00:58:33,880 --> 00:58:46,880
+So Kratum as a hold, has it been scheduled yet or is it just the other ingredients that sometimes go into the, I mean, look, if they sell it at the gas station, I don't eat it and I don't put it in my body.
+
+992
+00:58:46,880 --> 00:58:54,880
+But for people who don't agree with that, I mean, it's the DEA like scheduled Kratum or just the other ingredients.
+
+993
+00:58:55,880 --> 00:59:06,880
+Yeah, that's a great question. DEA has not scheduled Kratum, because Kratum actually I think covers a lot more than what's being sold there's synthetic Kratum this cradums laced with other substances.
+
+994
+00:59:06,880 --> 00:59:20,880
+There are substances that are particularly dangerous in Kratum or synthetic Kratum or smacks is the specific product that was found next to these young boys bodies when they were found.
+
+995
+00:59:20,880 --> 00:59:32,880
+Those substances have recently been put on a temporary basis on DEA schedule one. What that means is they're trying to figure out what exactly is dangerous about Kratum and Kratum products.
+
+996
+00:59:32,880 --> 00:59:42,880
+All to say is there's a lot we don't know because when you have something that can be sold over the counter that claims to be natural because Kratum is, you know, claim to be some sort of a plant.
+
+997
+00:59:42,880 --> 00:59:55,880
+And a lot of bad actors can really take their hands on it and put really bad things in it as we've seen potentially is what happened here that can cause immense harm and maybe even death.
+
+998
+00:59:55,880 --> 01:00:05,880
+Oh, it's definitely a plant in Southeast Asia. It just ain't a plant in the gas station at the little quick mark that you stop off in Oxford, Mississippi.
+
+999
+01:00:05,880 --> 01:00:14,880
+Madam former prosecutor. Thank you for joining us on the Sunday night. There is no shortage of crime. So I'll look forward to having you back on soon.
+
+1000
+01:00:14,880 --> 01:00:16,880
+Thank you so much.
+
+1001
+01:00:17,880 --> 01:00:26,880
+Yes, ma'am. Thank you for spending part of your Sunday with us. Hope you have a great week ahead. Until next week, you can find us online at Gaudy America or on the tree Gaudy podcast.
+
+1002
+01:00:26,880 --> 01:00:29,880
+Good night from South Carolina.
+
+1003
+01:00:29,880 --> 01:00:46,880
+Welcome to One Nation. I'm Brian Kilmeade. Hope you had a fantastic weekend. We're going to close it strong.
+
+1004
+01:00:46,880 --> 01:00:52,880
+Look who's on tonight's show, Senator Tom Cotton. Very few people know more about China than him. Are we in a new level in our relationship?
+
+1005
+01:00:52,880 --> 01:00:58,880
+I'm going to propose some headlines for him and see if he believes that China has a new view of us.
+

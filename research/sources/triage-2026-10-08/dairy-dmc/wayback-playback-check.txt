@@ -1,0 +1,41 @@
+PLAYBACK 200 https://web.archive.org/web/20261008155908id_/https://langworthy.house.gov/media/press-releases/congressman-langworthy-highlights-expanded-dairy-safety-net-2027-dairy-margin
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr294.xml
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.govinfo.gov/content/pkg/BILLS-119hr294ih/html/BILLS-119hr294ih.htm
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.govinfo.gov/bulkdata/BILLSTATUS/118/hr/BILLSTATUS-118hr4125.xml
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.govinfo.gov/content/pkg/BILLS-118hr4125ih/html/BILLS-118hr4125ih.htm
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.govinfo.gov/content/pkg/BILLS-118hr8467ih/html/BILLS-118hr8467ih.htm
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.govinfo.gov/bulkdata/BILLSTATUS/118/hr/BILLSTATUS-118hr8467.xml
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.nmpf.org/nmpf-lauds-dairy-policy-provisions-in-house-ag-reconciliation-package/
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://spectrumnews1.com/wi/milwaukee/news/2024/05/15/house-farm-bill-dairy
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.thefarmwi.com/one-big-beautiful-bill-includes-key-dairy-priorities/
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.dairyherd.com/news/policy/one-big-beautiful-bill-passes-what-does-it-mean-dairy-farmers
+PLAYBACK 000 https://web.archive.org/web/2026id_/https://www.midwestfarmreport.com/2023/06/17/dairy-farm-resiliency-act-introduced/
+PLAYBACK 200 https://web.archive.org/web/20260210174019id_/https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-introduces-critical-legislation-119th-congress
+PB https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr294.xml => HTTP/2 302  location: https://web.archive.org/web/20260705032826id_/https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr294.xml HTTP/2 200  x-archive-orig-date: Sun, 05 Jul 2026 03:28:26 GMT 
+PB https://www.govinfo.gov/content/pkg/BILLS-119hr294ih/html/BILLS-119hr294ih.htm => HTTP/2 302  location: https://web.archive.org/web/20261008160142id_/https://www.govinfo.gov/content/pkg/BILLS-119hr294ih/html/BILLS-119hr294ih.htm HTTP/2 200  x-archive-orig-date: Thu, 08 Oct 2026 16:01:42 GMT 
+PB https://www.govinfo.gov/bulkdata/BILLSTATUS/118/hr/BILLSTATUS-118hr4125.xml => HTTP/2 302  location: https://web.archive.org/web/20261008160423id_/https://www.govinfo.gov/bulkdata/BILLSTATUS/118/hr/BILLSTATUS-118hr4125.xml HTTP/2 200  x-archive-orig-date: Thu, 08 Oct 2026 16:04:23 GMT 
+PB https://www.govinfo.gov/content/pkg/BILLS-118hr4125ih/html/BILLS-118hr4125ih.htm => curl: (7) Failed to connect to web.archive.org port 443 after 89 ms: Couldn't connect to server 
+PB https://www.govinfo.gov/content/pkg/BILLS-118hr8467ih/html/BILLS-118hr8467ih.htm => HTTP/2 302  location: https://web.archive.org/web/20261008160601id_/https://www.govinfo.gov/content/pkg/BILLS-118hr8467ih/html/BILLS-118hr8467ih.htm HTTP/2 200  x-archive-orig-date: Thu, 08 Oct 2026 16:06:01 GMT 
+PB https://www.govinfo.gov/content/pkg/BILLS-119hr1enr/html/BILLS-119hr1enr.htm => curl: (7) Failed to connect to web.archive.org port 443 after 85 ms: Couldn't connect to server 
+PB https://www.fsa.usda.gov/news-events/news/09-30-2026/usda-announces-2027-dairy-margin-coverage-enrollment => curl: (7) Failed to connect to web.archive.org port 443 after 83 ms: Couldn't connect to server 
+PB https://clerk.house.gov/evs/2025/roll145.xml => curl: (7) Failed to connect to web.archive.org port 443 after 86 ms: Couldn't connect to server 
+PB https://clerk.house.gov/evs/2025/roll190.xml => curl: (7) Failed to connect to web.archive.org port 443 after 88 ms: Couldn't connect to server 
+PB https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7915 => curl: (7) Failed to connect to web.archive.org port 443 after 81 ms: Couldn't connect to server 
+PB https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7913 => curl: (7) Failed to connect to web.archive.org port 443 after 86 ms: Couldn't connect to server 
+PB https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7911 => curl: (7) Failed to connect to web.archive.org port 443 after 85 ms: Couldn't connect to server 
+PB https://www.nmpf.org/nmpf-lauds-dairy-policy-provisions-in-house-ag-reconciliation-package/ => curl: (7) Failed to connect to web.archive.org port 443 after 92 ms: Couldn't connect to server 
+PB https://www.midwestfarmreport.com/2023/06/17/dairy-farm-resiliency-act-introduced/ => HTTP/2 404  
+PB https://www.thefarmwi.com/one-big-beautiful-bill-includes-key-dairy-priorities/ => HTTP/2 302  location: https://web.archive.org/web/20260509142247id_/https://www.thefarmwi.com/one-big-beautiful-bill-includes-key-dairy-priorities/ HTTP/2 200  x-archive-orig-date: Sat, 09 May 2026 14:22:47 GMT 
+PB https://www.dairyherd.com/news/policy/one-big-beautiful-bill-passes-what-does-it-mean-dairy-farmers => HTTP/2 302  location: https://web.archive.org/web/20250724135703id_/https://www.dairyherd.com/news/policy/one-big-beautiful-bill-passes-what-does-it-mean-dairy-farmers HTTP/2 200  x-archive-orig-date: Thu, 24 Jul 2025 13:57:04 GMT 
+PB https://spectrumnews1.com/wi/milwaukee/news/2024/05/15/house-farm-bill-dairy => HTTP/2 302  location: https://web.archive.org/web/20250720131027id_/https://spectrumnews1.com/wi/milwaukee/news/2024/05/15/house-farm-bill-dairy HTTP/2 200  x-archive-orig-date: Sun, 20 Jul 2025 13:10:28 GMT 
+=== playback retry 2 ===
+PB https://www.govinfo.gov/content/pkg/BILLS-118hr4125ih/html/BILLS-118hr4125ih.htm => HTTP/2 302  location: https://web.archive.org/web/20260713115734id_/https://www.govinfo.gov/content/pkg/BILLS-118hr4125ih/html/BILLS-118hr4125ih.htm HTTP/2 200  x-archive-orig-date: Mon, 13 Jul 2026 11:57:34 GMT 
+PB https://www.govinfo.gov/content/pkg/BILLS-119hr1enr/html/BILLS-119hr1enr.htm => HTTP/2 302  location: https://web.archive.org/web/20260929195846id_/https://www.govinfo.gov/content/pkg/BILLS-119hr1enr/html/BILLS-119hr1enr.htm HTTP/2 200  x-archive-orig-date: Tue, 29 Sep 2026 19:58:46 GMT 
+PB https://www.fsa.usda.gov/news-events/news/09-30-2026/usda-announces-2027-dairy-margin-coverage-enrollment => HTTP/2 302  location: https://web.archive.org/web/20261008160420id_/https://www.fsa.usda.gov/news-events/news/09-30-2026/usda-announces-2027-dairy-margin-coverage-enrollment HTTP/2 200  x-archive-orig-date: Thu, 08 Oct 2026 16:04:20 GMT 
+PB https://clerk.house.gov/evs/2025/roll145.xml => HTTP/2 302  location: https://web.archive.org/web/20260907160954id_/https://clerk.house.gov/evs/2025/roll145.xml HTTP/2 200  x-archive-orig-date: Mon, 07 Sep 2026 16:09:54 GMT 
+PB https://clerk.house.gov/evs/2025/roll190.xml => HTTP/2 302  location: https://web.archive.org/web/20260926053642id_/https://clerk.house.gov/evs/2025/roll190.xml HTTP/2 200  x-archive-orig-date: Sat, 26 Sep 2026 05:36:43 GMT 
+PB https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7915 => HTTP/2 302  location: https://web.archive.org/web/20260616183055id_/https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7915 HTTP/2 200  x-archive-orig-date: Tue, 16 Jun 2026 18:30:55 GMT 
+PB https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7913 => HTTP/2 302  location: https://web.archive.org/web/20261008160536id_/https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7913 HTTP/2 200  x-archive-orig-date: Thu, 08 Oct 2026 16:05:36 GMT 
+PB https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7911 => HTTP/2 302  location: https://web.archive.org/web/20260218182907id_/https://agriculture.house.gov/news/documentsingle.aspx?DocumentID=7911 HTTP/2 200  x-archive-orig-date: Wed, 18 Feb 2026 18:29:07 GMT 
+PB https://www.nmpf.org/nmpf-lauds-dairy-policy-provisions-in-house-ag-reconciliation-package/ => HTTP/2 302  location: https://web.archive.org/web/20260515164221id_/https://www.nmpf.org/nmpf-lauds-dairy-policy-provisions-in-house-ag-reconciliation-package/ HTTP/2 200  x-archive-orig-date: Fri, 15 May 2026 16:42:21 GMT 
+PB https://www.midwestfarmreport.com/2023/06/17/dairy-farm-resiliency-act-introduced/ => HTTP/2 404  

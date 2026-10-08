@@ -1,0 +1,77 @@
+# Triage: eight Langworthy posts, Oct 6-8, 2026
+
+Screenshots supplied by Zach on Oct 8, 2026. Pages: "Congressman Nick Langworthy" = official office page (RepLangworthy);
+"Nick Langworthy" = campaign page (ChairmanNickLangworthy). Dates are relative to the screenshot time (Oct 8, ~11:45 ET).
+
+| # | Page | Approx. date | Post | Checkable claims | Status |
+|---|---|---|---|---|---|
+| 1 | Official | Oct 6 | Trey Gowdy / Sheridan Gorman clip | "killed by an illegal immigrant"; Hochul's "very first Executive Order cemented NYS as a Sanctuary State"; Hochul policies "mentioned in this clip" | see gorman-hochul-eo/ |
+| 2 | Campaign | Oct 8 (~11:00) | debate share | opponent "would have voted against tax increases" [sic]; "supports Hochul's gas and propane ban"; "wants the government to take over your healthcare" | debate transcript, below |
+| 3 | Campaign | Oct 7 (~16:45) | Blakeman rally clip | "100 pounds of fentanyl in the backseat and get an appearance ticket" | see fentanyl-appearance-ticket/ |
+| 4 | Campaign | Oct 7 (~15:45) | debate clip, taxes | "doubled the Child Tax Credit"; "no tax on Social Security"; "no tax on tips and no tax on overtime"; "Tax refunds are up 11%"; opponent "opposed to the tax cuts" | tax-post/, below |
+| 5 | Campaign | Oct 7 (~14:45) | Blakeman rally | "Worst Governor in America" | opinion; no check |
+| 6 | Campaign | Oct 7 (~13:45) | debate clip, voter ID | "Polling shows 83% of Americans support voter ID"; "My opponent & the Democrat Party don't want this ... to become law" | below |
+| 7 | Official | Oct 7 | Dairy press release share | "My Dairy Farm Resiliency Act strengthened the Dairy Margin Coverage program"; "protects up to 6 million pounds" | see dairy-dmc/ |
+| 8 | Official | Oct 7 | Biosimilars reel | "expands access ... increases competition ... drive down prescription drug costs" | covered: entries 2026-07-16 (MOSTLY TRUE) and 2026-08-28; no new claim |
+
+## Post 4 (taxes) - sources in tax-post/
+
+Primary texts retained:
+- `BILLS-119hr1enr.htm` - OBBBA enrolled (P.L. 119-21). Extracts: `obbba-sec-70104-ctc.txt` (Sec. 70104 strikes "$2,000" and inserts "$2,200" in IRC 24(h)(2)); `obbba-sec-70103-senior-deduction.txt` ($6,000 deduction per person 65+, phased out at 6% of MAGI over $75,000/$150,000, tax years before Jan 1, 2029); `obbba-sec-70201-tips.txt` (deduction capped at $25,000); `obbba-sec-70202-overtime.txt` (deduction capped at $12,500 / $25,000 joint). Wayback SPN returned 520 on the enrolled bill; retry owed.
+- `PLAW-115publ97-tcja.htm` - Tax Cuts and Jobs Act, approved Dec 22, 2017. Extract `tcja-sec-11022-ctc.txt`: Sec. 11022 "substituting `$2,000' for `$1,000'" for tax years 2018-2025. Wayback: https://web.archive.org/web/20261008155746/https://www.govinfo.gov/content/pkg/PLAW-115publ97/html/PLAW-115publ97.htm
+- Refunds: ../debate-2026-10-06/claims/L7-irs-filing-season-stats-may-8-2026.txt - average refund $2,939 (2025) vs $3,276 (2026), +11.5% (IRS filing season statistics through May 8, 2026).
+- Social Security: site entries 2025-12-social-security-tax and 2026-09-09-town-hall-social-security-tax-credit (deduction, not an exemption).
+
+Findings:
+- "doubled the Child Tax Credit": the doubling ($1,000 to $2,000) is Sec. 11022 of the 2017 law, enacted Dec 22, 2017; Langworthy took office Jan 3, 2023. The law he voted for (OBBBA, Rolls 145 and 190) moved the credit from $2,000 to $2,200 (10%) and made the 2017 level permanent. The claim attributes a 2017 doubling to "my record." FALSE as stated; MISLEADING if read as "the law I voted for kept it doubled."
+- "no tax on Social Security": $6,000 senior deduction with income phase-out; benefits remain taxable under IRC 86. MISLEADING (two site entries).
+- "no tax on tips / overtime": capped deductions ($25,000 tips; $12,500/$25,000 overtime), through 2028. MISSING CONTEXT.
+- "Tax refunds are up 11%": IRS average refund +11.5% through May 8, 2026. TRUE (average refund, not every filer's).
+- "My opponent said he is opposed to the tax cuts": debate transcript 12:18 (Gies): "The tax cuts in the big ugly bill overwhelmingly go to the wealthiest Americans and the corporations that they control. They are deficit tax cuts." He opposed the OBBBA's tax cuts as structured; he did not say he opposed the CTC/tips/overtime/senior provisions individually. MISSING CONTEXT.
+
+## Post 6 (voter ID)
+- "83% of Americans support voter ID": Pew Research Center, Aug 2025 (../debate-2026-10-06/claims/L3-pew-voting-policy-report-aug-2025.txt): "Requiring all voters to show government-issued photo identification (83%)". Gallup Oct 2024: 84%. TRUE.
+- "My opponent ... [doesn't] want this common sense protection to become law": debate transcript 08:25 (Gies): "when it comes to voter ID, I don't support the Save America Act, but I do support voter ID ... When you register to vote at the BOE or the DMV or wherever you do that, you have to show ID, and that should be the standard." He opposes the SAVE Act (H.R. 22) and supports ID at registration; he said he supports "voter ID." The post says he does not want voter ID to become law. MISLEADING (conflates the SAVE Act with voter ID generally). Site entry 2026-02-10 covers the SAVE Act.
+
+## Post 2 (debate share)
+- "would have voted against tax increases": apparent slip for "tax cuts"; see post 4.
+- "supports Hochul's gas and propane ban": debate transcript 22:41 (Gies): "I will never support things like bans on wood-burning stoves or propane or no more hookups for natural gas. But that should be dealt with at the state level. We do not need a federal ban that would prohibit states from doing anything..." He opposes the federal Energy Choice Act and said he opposes propane/gas bans. The post says he "supports Hochul's gas and propane ban." FALSE as to his stated position (he said the opposite on stage); the fair reading is that he opposes the federal preemption bill. Note also the All-Electric Buildings Act (2023 budget) covers new construction, not existing hookups; site entries 2026-02-state-preemption-pattern (H.R. 3699), 2025-12-energy-policy-oil-gas and 2026-02-20-energy-costs-dunkirk cover the Energy Choice Act.
+- "wants the government to take over your healthcare": Gies on stage: "Universal single-payer healthcare is the way you grow the economy and shrink the debt." He supports single-payer. Characterization is his opponent's framing of a position Gies holds. Not rated (opinion framing of an accurate position).
+
+## Posts 1, 3, 7: see subfolders (agent reports appended below when complete).
+
+## Post 3 (fentanyl appearance ticket) - sources in fentanyl-appearance-ticket/ (agent report Oct 8)
+- PL 220.21: possession of 8 oz or more of a narcotic drug is a class A-I felony. 100 lb = 1,600 oz. Fentanyl is a Schedule II(c) opiate (PHL 3306), i.e. a "narcotic drug" under PL 220.00(7).
+- CPL 150.20(1)(a) and (2)(a), CPL 140.20(2): a police appearance ticket is available only for an offense "other than a class A, B, C or D felony." No statutory path exists for an appearance ticket on an A-I felony; the officer "must ... without unnecessary delay bring the arrested person ... before a local criminal court" (140.20(1)).
+- CPL 510.10(4)(d): a class A felony is a qualifying offense, "provided that for class A felonies under article two hundred twenty of the penal law, only class A-I felonies shall be a qualifying offense." A judge may set bail or remand. Release remains possible by judicial discretion (Manhattan, Nov 2022: ~20,000 pills charged as 8 oz+, judge released on supervised release over a $100K bail request). That mechanism is a judge's securing order, not an appearance ticket.
+- Statutes retained from Wayback playback of nysenate.gov (live site 403s to curl); live-page confirmation in a browser owed before publishing.
+- The 2019 law was enacted under Gov. Cuomo (FY2020 budget); Hochul was lieutenant governor.
+- Origin of the "100 pounds" line: not found in Blakeman or Langworthy coverage; Dunkirk rally (Oct 5, 2026, Conservation Club) coverage quotes Langworthy on "arrogance and incompetence" only. Rally video not transcribed.
+- Real cases: NY1 Apr 11, 2026 (90+ lb fentanyl, 8 arraigned, bail set); Nassau Apr 2023 (3 kg, remanded); NYSP Nov 6, 2024 (103 g, class B charges, appearance ticket issued per the NYSP release - unexplained against 150.20 text; 0.23 lb).
+- Proposed verdict: FALSE (literal claim); MISSING CONTEXT note that judicial release is possible under 510.10(4).
+- Gaps: session-law history (L.2019 ch.59; L.2020 ch.56 Part UU) not retrieved; Wayback SPN 520/429 today on news pages; FB post not captured.
+
+## Post 7 (Dairy Farm Resiliency Act) - sources in dairy-dmc/ (agent report Oct 8; 46 files, Wayback playback verified)
+- Enacted provision: OBBBA (P.L. 119-21) Sec. 10313 "Dairy policy updates": production history = highest of 2021/2022/2023; Tier I and Tier II "5,000,000" -> "6,000,000" (Sec. 1407(b),(c)) and payments cap (Sec. 1406(a)(1)(C)); 25% premium discount for 2026-2031 lock-in; program extended through 2031. FSA Sept 30, 2026 release: 2027 enrollment Oct 5-Dec 18, 2026.
+- H.R. 294 (Langworthy, introduced Jan 9, 2025; Van Orden, Courtney original cosponsors; 6 cosponsors): Sec. 2(b) carries the identical Tier I/II 6,000,000 amendment (text similarity 0.978 to enacted). Sec. 2(a) (production history "calculated once every five years") was NOT enacted. The Sec. 1406 payments change in the enacted law is NOT in H.R. 294. Status: referred to Ag Jan 9, 2025; subcommittee referral Feb 14, 2025; no action since. Not listed among H.R. 1's 29 related bills.
+- Lineage: the same bill was H.R. 4125 (118th), sponsored by Rep. Marc Molinaro (R-NY-19), introduced June 14, 2023 (Spanberger, Van Orden, Slotkin original cosponsors; 8 cosponsors). Langworthy was not a cosponsor. H.R. 294's operative text is byte-identical to H.R. 4125's. His Jan 10, 2025 release said "six of the seven bills were previously introduced by Congressman Langworthy in the 118th"; for DFRA that is not what BILLSTATUS shows.
+- The 6M-lb and 2021-2023 production-history text was House Ag Committee base text in H.R. 8467 (Farm, Food, and National Security Act of 2024, Thompson, Secs. 1401-1402; ordered reported 33-21 May 24, 2024), a year before H.R. 294. The enacted Sec. 10313 tracks H.R. 8467's structure, not H.R. 294's. NMPF (May 14, 2025) and the committee's May 21, 2025 release credit "Chairman GT Thompson and members of the committee."
+- Langworthy's Jan 2025 release described DFRA only as "ensuring that production levels are updated every five years" (the part that did not become law) and did not mention 6M lbs.
+- Oct 2, 2026 release wording: "a provision Congressman Langworthy championed in his Dairy Farm Resiliency Act (H.R. 294) and successfully advanced into law through H.R. 1, the Working Families Tax Cuts Act." FB wording: "My Dairy Farm Resiliency Act strengthened the Dairy Margin Coverage program."
+- Votes: Roll 145 (May 22, 2025) Yea; Roll 190 (July 3, 2025) Aye (Clerk XML retained).
+- Proposed verdicts: "My ... Act strengthened DMC" MISLEADING (bill never acted on; provision was committee base text and a colleague's bill first); "protects up to 6 million pounds" TRUE (Tier I eligibility; Tier II still covers above 6M); "when prices drop or feed costs soar" TRUE (margin = all-milk price minus feed cost).
+- Pattern: credit-claiming for committee work via an identical reintroduction of a colleague's bill.
+
+## Post 1 (Gowdy clip / Sheridan Gorman / Hochul EO) - sources in gorman-hochul-eo/ (agent report Oct 8; 80 files; 27 key URLs Wayback-verified by playback)
+- Sheridan Gorman, 18, of Yorktown Heights (Westchester), Loyola student, shot and killed March 19, 2026 in Chicago (Rogers Park). Accused: Jose Medina-Medina, 25, Venezuelan national; first-degree murder and aggravated use of a firearm; not-guilty plea; held pending trial. DHS (Mar 22, 2026): apprehended by Border Patrol May 9, 2023 "and released"; "released again" June 19, 2023 after a Chicago shoplifting arrest. House Judiciary GOP excerpts (via Fox): Notice to Appear, released on recognizance "due to lack of space." Present without lawful status; case pending (needs "accused"/"allegedly").
+- Fox clip (Sunday Night in America, aired Oct 4, 2026; 6:43): Whisper transcript of the clip and the full hour. Hochul is never named in the segment. Tom Gorman: "during the Biden administration the borders were left wide open"; "because of Chicago's sanctuary policies he was left free"; "New York has doubled down on these sanctuary policies." The only "Hochul" in the hour is at ~51:23 in an unrelated segment.
+- Hochul EO No. 1 (Aug 24, 2021), "Review, Continuation and Expiration of Prior Executive Orders": all prior governors' EOs "shall remain in full force and effect until October 8, 2021" pending a 45-day review. Names no order; no immigration language. Cuomo EO 170 (2017; state agencies not to inquire about status or share with federal civil immigration enforcement "unless required by law") was continued by name in EO No. 6 (Oct 8, 2021), item III(t); EO 170.1 (judicial warrant for civil immigration arrests in state facilities) continued by EO 6.1 (Jan 16, 2025). Neither binds county or local police; neither uses "sanctuary." No NY statute declares a sanctuary state (NY for All Act in committee since Jan 2025; Green Light Law 2019 under Cuomo; Local Cops, Local Crimes Act 287(g) ban signed May 2026, effective Aug 25, 2026).
+- No retained source places the accused in New York or NY custody at any time. Hochul's office (City & State, July 2026): NY's new law "would not have affected the jail's ability to turn over a detainee to ICE in the case of Sheridan Gorman."
+- Proposed verdicts: "killed by an illegal immigrant" MOSTLY TRUE (accused; status per DHS); "Hochul['s] ... border policies were mentioned in this clip" MOSTLY FALSE (Hochul not named; "wide open" attributed to Biden; "New York" sanctuary line is generic); "Hochul's very first Executive Order cemented NYS as a Sanctuary State" MOSTLY FALSE (EO 1 was a blanket time-limited continuation; EO 170 carried forward by EO 6; state-agency scope; no sanctuary statute); implied NY link to the killing NOT SUPPORTED.
+- Posted on the official office page (RepLangworthy) per screenshot; the post itself not captured (gap). Whisper transcripts are machine output; quote from the retained MP4 before publishing.
+
+## Recommended entries (Oct 8)
+1. Dairy credit claim (post 7, official page): MISLEADING. Cleanest record: bill text, BILLSTATUS, Molinaro's H.R. 4125, H.R. 8467 committee text, NMPF/committee credit. Fits "Take Credit for Committee's Work."
+2. Fentanyl appearance ticket (post 3, campaign): FALSE on the statute text; needs live nysenate.gov confirmation in a browser and a screenshot of the post.
+3. Gowdy/Gorman post (post 1, official page): multi-claim; MOSTLY FALSE on the EO and "mentioned in this clip" sub-claims. Sensitive (grieving family); keep the entry to the two Hochul sub-claims and the official-page use.
+4. Post-debate clips (posts 2, 4, 6, campaign): a Langworthy-only "what he posted after the debate" entry from the retained debate research: CTC "doubled" FALSE, opponent "supports Hochul's gas and propane ban" FALSE (he said the opposite on stage), voter ID opponent framing MISLEADING, 83% TRUE, refunds TRUE. Would reuse verification from the unpublished scorecard without publishing Gies verdicts.

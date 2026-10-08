@@ -1763,3 +1763,24 @@ to the federal law (lease dispute, retirement, five-year losses, low census, rei
 closure plan was approved before the law was signed. MISLEADING as a causal claim; the site's frame ("pure fiction" vs. the
 at-risk list) is the defensible one. (3) **Fire Grants and Safety Act "credit":** his post not seen; his record is a Yea on a
 393–13 suspension vote. Nothing to build until the post is located.
+
+## 2026-10-08 — Eight posts, Oct 6–8 (two official-page, six campaign-page); three verification sweeps
+
+`research/sources/triage-2026-10-08/README.md`. (1) **Dairy credit claim (official page) is a MISLEADING candidate:** "My Dairy
+Farm Resiliency Act strengthened the Dairy Margin Coverage program." The 6M-lb Tier I text in H.R. 294 matches OBBBA Sec. 10313,
+but H.R. 294 never left subcommittee, is not an H.R. 1 related bill, was Marc Molinaro's H.R. 4125 in the 118th (Langworthy not a
+cosponsor), and the identical text was House Ag base text in H.R. 8467 (May 2024) a year before his reintroduction; his own
+five-year production-history provision was not enacted; NMPF and the committee credit Thompson. "6 million pounds" TRUE.
+(2) **Fentanyl appearance ticket (campaign) is a FALSE candidate:** CPL 150.20/140.20 allow police appearance tickets only for
+offenses "other than a class A, B, C or D felony"; 8 oz of a narcotic is a class A-I felony (PL 220.21) and a bail-qualifying
+offense (CPL 510.10(4)(d)). Judicial release remains possible (Manhattan 2022). Statutes from Wayback playback; live
+nysenate.gov confirmation owed. The "100 pounds" line's origin not found. (3) **Gowdy/Gorman post (official page):** Hochul is
+never named in the Fox clip (Whisper transcript of clip and full hour); "wide open" is attributed to Biden by the father; Hochul
+EO 1 (Aug 24, 2021) was a blanket 45-day continuation naming no order; EO 170 was continued by EO 6 (Oct 8, 2021) and covers
+state agencies only; no sanctuary statute; the accused was never in NY custody. MOSTLY FALSE on both Hochul sub-claims;
+sensitive subject (grieving family). (4) **Post-debate clips (campaign):** "doubled the Child Tax Credit" FALSE (2017 law, Sec.
+11022, $1,000→$2,000, before he was in Congress; OBBBA $2,000→$2,200); "supports Hochul's gas and propane ban" FALSE as to
+Gies's stated position (22:41: "I will never support ... bans on ... propane or no more hookups for natural gas"); voter-ID
+opponent framing MISLEADING (08:25: "I do support voter ID"); 83% TRUE (Pew Aug 2025); refunds +11% TRUE (IRS +11.5%).
+**ACTION (Zach's call):** dairy entry first; fentanyl second; Gowdy post third; post-debate roundup fourth. Biosimilars reel
+and "worst governor" post: nothing new.

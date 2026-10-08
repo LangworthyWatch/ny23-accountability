@@ -1,0 +1,80 @@
+== https://www.nysenate.gov/legislation/laws/CPL/150.20
+HTTP/2 520 
+server: nginx
+date: Thu, 08 Oct 2026 16:06:03 GMT
+content-type: text/html
+cache-control: no-cache
+x-app-server: wwwb-app55-dc6
+x-ts: 520
+x-tr: 6048
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
+set-cookie: wb-save-SERVER=wwwb-app55; path=/
+x-location: save-sync
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+x-nid: UUNET
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-sd: 0
+
+== https://www.nysenate.gov/legislation/laws/CPL/510.10
+HTTP/2 520 
+server: nginx
+date: Thu, 08 Oct 2026 16:06:09 GMT
+content-type: text/html
+cache-control: no-cache
+x-app-server: wwwb-app55-dc6
+x-ts: 520
+x-tr: 6042
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-save-SERVER=wwwb-app55; path=/
+x-location: save-sync
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+x-nid: UUNET
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-sd: 0
+
+== https://troopers.ny.gov/news/bronx-man-arrested-over-100-grams-fentanyl
+HTTP/2 520 
+server: nginx
+date: Thu, 08 Oct 2026 16:06:16 GMT
+content-type: text/html
+cache-control: no-cache
+x-app-server: wwwb-app55-dc6
+x-ts: 520
+x-tr: 6181
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
+set-cookie: wb-save-SERVER=wwwb-app55; path=/
+x-location: save-sync
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+x-nid: UUNET
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-sd: 0
+
+== https://www.post-journal.com/news/top-stories/2026/10/candidate-fires-up-dunkirk-crowd-during-stop/
+HTTP/2 520 
+server: nginx
+date: Thu, 08 Oct 2026 16:06:22 GMT
+content-type: text/html
+cache-control: no-cache
+x-app-server: wwwb-app223-dc8
+x-ts: 520
+x-tr: 6058
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=1
+set-cookie: wb-save-SERVER=wwwb-app223; path=/
+x-location: save-sync
+x-rl: 0
+x-na: 0
+x-page-cache: MISS
+x-nid: UUNET
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: interest-cohort=()
+x-sd: 0
+
