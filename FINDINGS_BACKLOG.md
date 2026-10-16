@@ -62,6 +62,7 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 
 | Item | Card / text | Live entry? | Social status |
 |---|---|---|---|
+| Who funds him and who can reach him (DOCUMENTED PATTERN, #171) | card `funding_access_card.png` + caption `funding_access_post.md` (Desktop copy of card) | yes (live Oct 16) | **READY to post** |
 | Energy Choice Act supporter money (DOCUMENTED PATTERN, #170) | card `energy_choice_money_card.png` + caption `energy_choice_money_post.md` (Desktop copy of card) | yes (live Oct 16) | **READY to post** |
 | Tax claims, Social Security and COLA (MISLEADING, #169) | card `tax_claims_ss_cola_card.png` + caption `tax_claims_ss_cola_post.md` (Desktop copy of card) | yes (live Oct 15) | **READY to post** |
 | Energy-ban debate clips (FALSE, #168) | card `energy_ban_opponent_card.png` + caption `energy_ban_opponent_post.md` (Desktop copy of card) | yes (live Oct 15) | **READY to post** |
