@@ -1,0 +1,16 @@
+Search: all House BILLSTATUS titles (bill <title> and every <titles><item><title>) for case-sensitive 'POWER' as a word, 'POWER Act', 'Guthrie'.
+Snapshot: govinfo bulk zips listing lastModified 16-Oct-2026; max updateDate 2026-10-16T13:28:56Z
+HR | 164 | 2025-01-03 | Rep. Hoyle, Val T. [D-OR-4] | POWER Act of 2025 | bulk/x-hr/BILLSTATUS-119hr164.xml
+HR | 1149 | 2025-02-07 | Rep. Van Drew, Jefferson [R-NJ-2] | POWER Act | bulk/x-hr/BILLSTATUS-119hr1149.xml
+HR | 2074 | 2025-03-11 | Rep. Newhouse, Dan [R-WA-4] | POWER Act | bulk/x-hr/BILLSTATUS-119hr2074.xml
+HR | 2599 | 2025-04-02 | Rep. Hunt, Wesley [R-TX-38] | POWER Act of 2025 | bulk/x-hr/BILLSTATUS-119hr2599.xml
+HR | 3870 | 2025-06-10 | Rep. Downing, Troy [R-MT-2] | COAL POWER Act | bulk/x-hr/BILLSTATUS-119hr3870.xml
+HR | 4836 | 2025-08-01 | Rep. Bice, Stephanie I. [R-OK-5] | To designate the facility of the United States Postal Service located at 201 West Oklahoma Avenue in Guthrie, Oklahoma, as the "Oscar J. Upham Post Office". | bulk/x-hr/BILLSTATUS-119hr4836.xml
+HR | 8437 | 2026-04-22 | Rep. Begich, Nicholas J. [R-AK-At Large] | Geo POWER Act | bulk/x-hr/BILLSTATUS-119hr8437.xml
+HR | 8575 | 2026-04-29 | Rep. Johnson, Julie [D-TX-32] | EMPOWER Act | bulk/x-hr/BILLSTATUS-119hr8575.xml
+HR | 9019 | 2026-05-22 | Rep. Roy, Chip [R-TX-21] | POWER Act | bulk/x-hr/BILLSTATUS-119hr9019.xml
+HR | 9252 | 2026-06-10 | Rep. Ross, Deborah K. [D-NC-2] | POWER Moldova Act of 2026 | bulk/x-hr/BILLSTATUS-119hr9252.xml
+HR | 9403 | 2026-06-23 | Rep. Escobar, Veronica [D-TX-16] | JROTC POWER Act | bulk/x-hr/BILLSTATUS-119hr9403.xml
+
+Guthrie (G000558) sponsored measures introduced 2026-07-01 or later:
+grep -il 'Permitting Our Way|Energy Resurgence' bulk/x-*/*.xml ->        0 files

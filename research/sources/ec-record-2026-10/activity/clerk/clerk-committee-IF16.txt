@@ -1,0 +1,445 @@
+
+Office of the Clerk, U.S. House of Representatives
+Find Your Representative
+Search Office of the Clerk
+Toggle navigation
+Search Office of the Clerk
+Search button
+Legislative Information
+Legislative Information
+Legislative Activity
+Roll Call Votes
+Discharge Petitions
+live.house.gov
+Selected Memorials
+Consensus Calendar Motions
+119th Congress, 2nd Session
+House Not In Session
+Next Session: October 19th, 2026 at 10:00 AM
+House Floor Proceedings
+Watch live.house.gov
+Additional Resources
+Votes Legacy View - 2024
+120th Congress Nominees
+Statistics of the 2024 Congressional Election
+Final House Calendar (118th Congress)
+Résumé of Congressional Activity
+Legislative Search
+Congressional Record
+U.S. Senate
+House Schedule
+Bills This Week
+House Voting Days
+Member Information
+Member Information
+Member Profiles
+Leadership
+Election Information
+Current Vacancies
+Demographics
+Member Oaths
+Republicans
+218
+218
+Democrats
+214
+214
+Independents
+1
+1
+Vacancies
+2
+2
+Republican Leadership
+Rep. Mike Johnson
+Speaker of the House
+Rep. Steve Scalise
+Majority Leader
+Rep. Tom Emmer
+Majority Whip
+Rep. Lisa C. McClain
+Republican Conference Chair
+Rep. Jay Obernolte
+Republican Policy Committee Chair
+Democratic Leadership
+Rep. Hakeem S. Jeffries
+Minority Leader
+Rep. Katherine M. Clark
+Minority Whip
+Rep. Pete Aguilar
+Democratic Caucus Chair
+Rep. Ted Lieu
+Democratic Caucus Vice Chair
+Additional Resources
+Find Your Representative
+Official List of Members by State
+Official Member Telephone Directory
+Duplicate and Similar Names of Members
+Terms of Service
+Mailing Labels
+                                    [
+MS Word
+ | 
+Text File
+]
+Member Data
+                                    [
+Excel
+ | 
+XML
+ | 
+User Guide
+]
+Biographical Directory
+Members on Congress.gov
+Committee Information
+COMMITTEE INFORMATION
+COMMITTEE PROFILES
+Agriculture
+Appropriations
+Armed Services
+Budget
+Education and Workforce
+Energy and Commerce
+Ethics
+Financial Services
+Foreign Affairs
+Homeland Security
+House Administration
+Judiciary
+Natural Resources
+Oversight and Government Reform
+Rules
+Science, Space, and Technology
+Small Business
+Transportation and Infrastructure
+Veterans' Affairs
+Ways and Means
+Select Intelligence
+Select Strategic Competition
+Joint Economic
+Joint Library
+Joint Printing
+Joint Taxation
+Additional Resources
+Official List of Members with Committee Assignments
+Official List of Standing Committees and Subcommittees
+Committee Repository
+Committee Reports
+Committees on Congress.gov
+Committee Data
+                                    [
+Excel
+]
+Disclosures
+Disclosures
+PUBLIC DISCLOSURE
+Financial Disclosure Reports
+Foreign Travel Reports and Expenditures
+Unsolicited Mass Communications
+Gift Travel Filings
+Legal Expense Fund Disclosures
+Office of Congressional Conduct
+Post-Employment Notifications
+Additional Resources
+Lobbying Disclosures
+Public Laws
+Lobbying Disclosure Act
+About the Clerk
+About the Clerk
+Overview and Contact
+Duties of the Clerk
+Offices and Services
+History of the Office
+The Clerk of the House
+The Honorable Kevin F. McCumber
+Clerk of the U.S. House of Representatives
+Deputy Clerk
+Michelle H. Reinshuttle
+Deputy Clerk
+Contact Information
+Mailing Address
+                                    U.S. Capitol
+                                    Room H154
+                                    Washington, DC 20515–6601
+Telephone Number
+                                    (202) 225–7000
+Office Hours
+                                    9:00 AM–6:00 PM, Monday–Friday
+Additional Resources
+Artificial Intelligence Use Case Inventory
+                                    [
+USHouse-Clerk-1: Comparative Print Suite 
+]
+119th Congress, 2nd Session
+Committee Profile
+Overview & Contact
+Members
+RESOURCES
+Phone Directory
+Committee Reports
+Committee Hearing Schedule
+Committee FAQs
+Committee Profiles
+        Committee on Energy and Commerce
+                        Communications and Technology Subcommittee                    
+                            Communications and Technology Subcommittee                        
+Share
+                                    Overview & Contact
+Overview & Contact
+Contact
+Communications and Technology
+2125 Rayburn House Office Building
+Washington, DC  20515                        
+(202) 225-3641
+Upcoming Meetings
+There are no upcoming meetings.
+                                    Members
+Members
+Republican
+2.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+1.
+ Richard Hudson
+, NC                           
+Chair                           
+HUDSON,RICHARD NC
+3.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+2.
+ Rick W. Allen
+, GA                           
+Vice Chair                           
+ALLEN,RICK GA
+4.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+3.
+ Robert E. Latta
+, OH                           
+LATTA,ROBERT OH
+5.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+4.
+ H. Morgan Griffith
+, VA                           
+GRIFFITH,H. VA
+6.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+5.
+ Gus M. Bilirakis
+, FL                           
+BILIRAKIS,GUS FL
+7.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+6.
+ Earl L. "Buddy" Carter
+, GA                           
+CARTER,EARL GA
+8.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+7.
+ Neal P. Dunn
+, FL                           
+DUNN,NEAL FL
+9.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+8.
+ Russ Fulcher
+, ID                           
+FULCHER,RUSS ID
+10.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+9.
+ August Pfluger
+, TX                           
+PFLUGER,AUGUST TX
+11.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+10.
+ Kat Cammack
+, FL                           
+CAMMACK,KAT FL
+12.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+11.
+ Jay Obernolte
+, CA                           
+OBERNOLTE,JAY CA
+13.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+12.
+ Erin Houchin
+, IN                           
+HOUCHIN,ERIN IN
+14.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+13.
+ Russell Fry
+, SC                           
+FRY,RUSSELL SC
+15.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+14.
+ Thomas H. Kean, Jr.
+, NJ                           
+KEAN,THOMAS NJ
+16.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+15.
+ Craig A. Goldman
+, TX                           
+GOLDMAN,CRAIG TX
+17.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+16.
+ Julie Fedorchak
+, ND                           
+FEDORCHAK,JULIE ND
+18.
+                           }
+                           else if (!Model.IsJointCommittee)
+						   -->
+17.
+ Brett Guthrie
+, KY                           
+Ex Officio                           
+GUTHRIE,BRETT KY
+Democrat
+1.
+ Doris O. Matsui
+, CA                           
+MATSUI,DORIS CA
+2.
+ Darren Soto
+, FL                           
+SOTO,DARREN FL
+3.
+ Yvette D. Clarke
+, NY                           
+CLARKE,YVETTE NY
+4.
+ Raul Ruiz
+, CA                           
+RUIZ,RAUL CA
+5.
+ Scott H. Peters
+, CA                           
+PETERS,SCOTT CA
+6.
+ Debbie Dingell
+, MI                           
+DINGELL,DEBBIE MI
+7.
+ Robin L. Kelly
+, IL                           
+KELLY,ROBIN IL
+8.
+ Nanette Diaz Barragán
+, CA                           
+BARRAGAN,NANETTE CA
+9.
+ Troy A. Carter
+, LA                           
+CARTER,TROY LA
+10.
+ Robert Menendez
+, NJ                           
+MENENDEZ,ROBERT NJ
+11.
+ Greg Landsman
+, OH                           
+LANDSMAN,GREG OH
+12.
+ Jennifer L. McClellan
+, VA                           
+MCCLELLAN,JENNIFER VA
+13.
+ Kathy Castor
+, FL                           
+CASTOR,KATHY FL
+14.
+ Frank Pallone, Jr.
+, NJ                           
+Ex Officio                           
+PALLONE,FRANK NJ
+Contact Information
+Room H154, The Capitol
+Washington, DC
+20515-6601
+p: (202) 225-7000
+For general inquiries:
+info.clerkweb@mail.house.gov
+For general technical support:
+techsupport.clerkweb@mail.house.gov
+Legislative Information
+Legislative Activity
+Roll Call Votes
+Discharge Petitions
+live.house.gov
+Selected Memorials
+Consensus Calendar Motions
+Member Information
+Member Profiles
+Leadership
+Election Information
+Current Vacancies
+Demographics
+Member Oaths
+Disclosures
+Financial Disclosure Reports
+Foreign Travel Reports and Expenditures
+Unsolicited Mass Communications
+Gift Travel Filings
+Legal Expense Fund Disclosures
+Office of Congressional Conduct
+Post-Employment Notifications
+About the Clerk
+Overview and Contact
+Duties of the Clerk
+Offices and Services
+History of the Office
+Committee Information
+Committee Profiles
+Clerk Sites
+Bills This Week
+Biographical Directory
+Clerk Kids
+Committee Repository
+History, Art & Archives
+Office of the Chaplain
+Help & Resources
+FAQs
+Privacy Policy
+Site Map

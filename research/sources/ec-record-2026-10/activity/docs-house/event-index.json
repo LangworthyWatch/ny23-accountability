@@ -1,0 +1,1217 @@
+[
+ {
+  "eid": "117777",
+  "kind": "Meeting:",
+  "title": "Organizational Meeting",
+  "comm": "Committee on Energy and Commerce",
+  "date": "January 15, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117835",
+  "kind": "Hearing:",
+  "title": "\u201cA Decade Later: Assessing the Legacy and Impact of the Frank R. Lautenberg Chemical Safety for the 21st Century Act.\u201d",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "January 22, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117838",
+  "kind": "Hearing:",
+  "title": "Strengthening American Leadership in Wireless Technology",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "January 23, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117857",
+  "kind": "Hearing:",
+  "title": "Combatting Existing and Emerging Illicit Drug Threats",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "February 6, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117867",
+  "kind": "Hearing:",
+  "title": "\u201cPowering America\u2019s Future: Unleashing American Energy\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "February 5, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117884",
+  "kind": "Hearing:",
+  "title": "AI in Manufacturing: Securing American Leadership in Manufacturing and the Next Generation of Technologies",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "February 12, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117929",
+  "kind": "Hearing:",
+  "title": "\"Examining the Biden Administration's Energy and Environment Spending Push.\"",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "February 26, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117934",
+  "kind": "Hearing:",
+  "title": "An Examination of How Reining in PBMs Will Drive Competition and Lower Costs for Patients",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "February 26, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117955",
+  "kind": "Markup of",
+  "title": "Full Committee Markup",
+  "comm": "Committee on Energy and Commerce",
+  "date": "February 25, 2025",
+  "votes": 26,
+  "lang": 0
+ },
+ {
+  "eid": "117979",
+  "kind": "Hearing:",
+  "title": "\u201cScaling for Growth: Meeting the Demand for Reliable, Affordable Electricity.\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "March 5, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117982",
+  "kind": "Hearing:",
+  "title": "Fixing Biden\u2019s Broadband Blunder",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "March 5, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117989",
+  "kind": "Hearing:",
+  "title": "Moving the Goalposts: How NIL is Reshaping College Athletics",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "March 4, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "117990",
+  "kind": "Markup of",
+  "title": "Twelve Pieces of Legislation",
+  "comm": "Committee on Energy and Commerce",
+  "date": "March 4, 2025",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "117996",
+  "kind": "Hearing:",
+  "title": "\"Maximizing Opportunities for Redeveloping Brownfields Sites: Assessing the Potential for New American Innovation.\"",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "March 11, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118040",
+  "kind": "Hearing:",
+  "title": "\u201cKeeping the Lights On: Examining the State of Regional Grid Reliability.\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "March 25, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118066",
+  "kind": "Hearing:",
+  "title": "The World Wild Web: Examining Harms Online",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "March 26, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118077",
+  "kind": "Hearing:",
+  "title": "Aging Technology, Emerging Threats: Examining Cybersecurity Vulnerabilities in Legacy Medical Devices",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "April 1, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118079",
+  "kind": "Hearing:",
+  "title": "Examining the FDA\u2019s Regulation of Over-the-Counter Monograph Drugs",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "April 1, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118100",
+  "kind": "Markup of",
+  "title": "Markup of 26 Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "April 8, 2025",
+  "votes": 13,
+  "lang": 0
+ },
+ {
+  "eid": "118133",
+  "kind": "Hearing:",
+  "title": "\u201cConverting Energy into Intelligence: the Future of AI Technology, Human Discovery, and American Global Competitiveness\u201d",
+  "comm": "Committee on Energy and Commerce",
+  "date": "April 9, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118171",
+  "kind": "Hearing:",
+  "title": "\u201cAssuring Abundant, Reliable American Energy to Power Innovation.\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "April 30, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118177",
+  "kind": "Hearing:",
+  "title": "Global Networks at Risk: Securing the Future of Communications Infrastructure",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "April 30, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118178",
+  "kind": "Markup of",
+  "title": "Markup of 6 Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "April 29, 2025",
+  "votes": 23,
+  "lang": 0
+ },
+ {
+  "eid": "118261",
+  "kind": "Markup of",
+  "title": "Markup of Four Committee Prints",
+  "comm": "Committee on Energy and Commerce",
+  "date": "May 13, 2025",
+  "votes": 41,
+  "lang": 0
+ },
+ {
+  "eid": "118283",
+  "kind": "Hearing:",
+  "title": "\"The Fiscal Year 2026 Environmental Protection Agency Budget.\"",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "May 20, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118288",
+  "kind": "Hearing:",
+  "title": "AI Regulation and the Future of US Leadership",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "May 21, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118291",
+  "kind": "Hearing:",
+  "title": "Examining Ways to Enhance Our Domestic Critical Mineral Supply Chains.",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "May 21, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118333",
+  "kind": "Hearing:",
+  "title": "AI in the Everyday: Current Applications and Future Frontiers in Communications and Technology",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "June 4, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118334",
+  "kind": "Hearing:",
+  "title": "Stopping Illegal Robocalls and Robotexts: Progress, Challenges, and Next Steps",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "June 4, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118357",
+  "kind": "Hearing:",
+  "title": "\"The Fiscal Year 2026 Department of Energy Budget\"",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "June 10, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118361",
+  "kind": "Markup of",
+  "title": "Subcommittee Markup of 13 Bills",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "June 5, 2025",
+  "votes": 19,
+  "lang": 1
+ },
+ {
+  "eid": "118366",
+  "kind": "Hearing:",
+  "title": "Made in America: Strengthening Domestic Manufacturing and Our Health Care Supply Chain",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "June 11, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118383",
+  "kind": "Meeting:",
+  "title": "Winning Off the Field: Legislative Proposal to Stabilize NIL and College Athletics",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "June 12, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118385",
+  "kind": "Hearing:",
+  "title": "Short-Circuiting Progress: How the Clean Air Act Impacts Building Necessary Infrastructure and Onshoring American Innovation.",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "June 11, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118413",
+  "kind": "Hearing:",
+  "title": "The Fiscal Year 2026 Department of Health and Human Services Budget",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "June 24, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118432",
+  "kind": "Hearing:",
+  "title": "\u201cA Decade Later: A Review of Congressional Action, Environmental Protection Agency Rules, and Beneficial Use Opportunities for Coal Ash.\u201d",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "June 26, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118433",
+  "kind": "Meeting:",
+  "title": "Looking Under the Hood: The State of NHTSA and Motor Vehicle Safety",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "June 26, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118438",
+  "kind": "Markup of",
+  "title": "Full Committee Markup of 13 Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "June 25, 2025",
+  "votes": 24,
+  "lang": 0
+ },
+ {
+  "eid": "118501",
+  "kind": "Hearing:",
+  "title": "Legislative Proposals to Maintain and Improve the Public Health Workforce, Rural Health, and Over-the-Counter Medicines",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "July 16, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118508",
+  "kind": "Markup of",
+  "title": "Markup of One Bill",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "July 15, 2025",
+  "votes": 5,
+  "lang": 0
+ },
+ {
+  "eid": "118509",
+  "kind": "Meeting:",
+  "title": "Business Meeting",
+  "comm": "Committee on Energy and Commerce",
+  "date": "July 15, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118510",
+  "kind": "Hearing:",
+  "title": "Beyond the Blue Bin: Forging a Federal Landscape for Recycling Innovation and Economic Growth.",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "July 16, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118517",
+  "kind": "Hearing:",
+  "title": "Ensuring Patient Safety: Oversight of the U.S. Organ Procurement and Transplant System",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "July 22, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118531",
+  "kind": "Hearing:",
+  "title": "Strengthening American Energy: A Review of Pipeline Safety Policy.",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "July 22, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118549",
+  "kind": "Markup of",
+  "title": "Markup of Two Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "July 23, 2025",
+  "votes": 9,
+  "lang": 0
+ },
+ {
+  "eid": "118560",
+  "kind": "Hearing:",
+  "title": "Examining Opportunities to Advance American Health Care through the Use of Artificial Intelligence Technologies",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "September 3, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118575",
+  "kind": "Hearing:",
+  "title": "Public Safety Communications in the United States",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "September 9, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118590",
+  "kind": "Hearing:",
+  "title": "\u201cBuilding the American Dream: Examining Affordability, Choice, and Security in Appliance and Buildings Policies.\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "September 9, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118600",
+  "kind": "Markup of",
+  "title": "Subcommittee Markup of Seven Bills",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "September 10, 2025",
+  "votes": 3,
+  "lang": 0
+ },
+ {
+  "eid": "118615",
+  "kind": "Hearing:",
+  "title": "\u201cAppliance and Building Policies: Restoring the American Dream of Home Ownership and Consumer Choice.\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "September 16, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118616",
+  "kind": "Hearing:",
+  "title": "\u201cFrom Gridlock to Growth: Permitting Reform Under the Clean Air Act.\u201d",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "September 16, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118628",
+  "kind": "Hearing:",
+  "title": "Examining Solutions to Expedite Broadband Permitting",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "September 18, 2025",
+  "votes": 0,
+  "lang": 1
+ },
+ {
+  "eid": "118632",
+  "kind": "Hearing:",
+  "title": "Examining Policies to Enhance Seniors\u2019 Access to Breakthrough Medical Technologies",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "September 18, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118639",
+  "kind": "Markup of",
+  "title": "Markup of Seven Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "September 17, 2025",
+  "votes": 9,
+  "lang": 0
+ },
+ {
+  "eid": "118669",
+  "kind": "Hearing:",
+  "title": "Innovation with Integrity: Examining the Risks and Benefits of AI Chatbots",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "November 18, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118685",
+  "kind": "Markup of",
+  "title": "C&amp;T Subcommittee Markup of 28 Bills",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "November 18, 2025",
+  "votes": 7,
+  "lang": 0
+ },
+ {
+  "eid": "118693",
+  "kind": "Hearing:",
+  "title": "Daylight and Destinations: Examining Time, Travel, and Tourism",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "November 20, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118694",
+  "kind": "Markup of",
+  "title": "Subcommittee on Energy Markup of 8 Bills",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "November 19, 2025",
+  "votes": 11,
+  "lang": 4
+ },
+ {
+  "eid": "118711",
+  "kind": "Hearing:",
+  "title": "\u201cSecuring America\u2019s Energy Infrastructure: Addressing Cyber and Physical Threats to the Grid.\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "December 2, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118714",
+  "kind": "Hearing:",
+  "title": "Legislative Solutions to Protect Children and Teens Online",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "December 2, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118724",
+  "kind": "Markup of",
+  "title": "Full Committee Markup",
+  "comm": "Committee on Energy and Commerce",
+  "date": "December 3, 2025",
+  "votes": 22,
+  "lang": 0
+ },
+ {
+  "eid": "118747",
+  "kind": "Hearing:",
+  "title": "Member Day Hearing",
+  "comm": "Committee on Energy and Commerce",
+  "date": "December 12, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118748",
+  "kind": "Markup of",
+  "title": "Markup of 7 Bills",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "December 10, 2025",
+  "votes": 15,
+  "lang": 0
+ },
+ {
+  "eid": "118761",
+  "kind": "Markup of",
+  "title": "Markup of 18 Bills",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "December 11, 2025",
+  "votes": 4,
+  "lang": 0
+ },
+ {
+  "eid": "118762",
+  "kind": "Hearing:",
+  "title": "Legislative Improvements to Public Safety Communications in the United States",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "December 16, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118773",
+  "kind": "Hearing:",
+  "title": "Examining Biosecurity at the Intersection of AI and Biology",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "December 17, 2025",
+  "votes": 2,
+  "lang": 0
+ },
+ {
+  "eid": "118784",
+  "kind": "Hearing:",
+  "title": "Examining the Impact of EPA\u2019s CERCLA Designation for Two PFAS Chemistries and Potential Policy Responses to Superfund Liability Concerns.\"",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "December 18, 2025",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118798",
+  "kind": "Hearing:",
+  "title": "Legislative Proposals to Support Patient Access to Medicare Services",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "January 8, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118801",
+  "kind": "Hearing:",
+  "title": "\u201cAmerican Energy Dominance: Dawn of the New Nuclear Era.\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "January 7, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118816",
+  "kind": "Hearing:",
+  "title": "Examining Legislative Options to Strengthen Motor Vehicle Safety, Ensure Consumer Choice and Affordability, and Cement U.S. Automotive Leadership.",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "January 13, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118825",
+  "kind": "Hearing:",
+  "title": "Oversight of the Federal Communications Commission",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "January 14, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118826",
+  "kind": "Hearing:",
+  "title": "\u201cProtecting America\u2019s Energy Infrastructure in Today\u2019s Cyber and Physical Threat Landscape.\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "January 13, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118866",
+  "kind": "Markup of",
+  "title": "Subcommittee Markup of Six Bills",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "January 15, 2026",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "118890",
+  "kind": "Meeting:",
+  "title": "Lowering Health Care Costs for All Americans: An Examination of Health Insurance Affordability",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "January 22, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118892",
+  "kind": "Markup of",
+  "title": "Markup of 11 Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "January 21, 2026",
+  "votes": 22,
+  "lang": 0
+ },
+ {
+  "eid": "118897",
+  "kind": "Hearing:",
+  "title": "\u201cChemicals in Commerce: Legislative Proposal to Modernize America\u2019s Chemical Safety Law, Strengthen Critical Supply Chains, and Grow Domestic Manufacturing.\u201d",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "January 22, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118917",
+  "kind": "Hearing:",
+  "title": "Common Schemes, Real Harm: Examining Fraud in Medicare and Medicaid",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "February 3, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118924",
+  "kind": "Hearing:",
+  "title": "Evaluating FirstNet: Performance, Accountability, and Reauthorization",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "February 4, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118930",
+  "kind": "Hearing:",
+  "title": "\u201cOversight of FERC: Advancing Affordable and Reliable Energy for All Americans.\u201d",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "February 3, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118937",
+  "kind": "Markup of",
+  "title": "Markup of 5 Bills",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "February 4, 2026",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "118954",
+  "kind": "Hearing:",
+  "title": "Lowering Health Care Costs for All",
+  "comm": "Americans: An Examination of the Prescription Drug Supply Chain",
+  "date": "February 11, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "118967",
+  "kind": "Meeting:",
+  "title": "Markup of 1 Bill",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "February 10, 2026",
+  "votes": 2,
+  "lang": 0
+ },
+ {
+  "eid": "118968",
+  "kind": "Markup of",
+  "title": "Markup of 12 Bills",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "February 10, 2026",
+  "votes": 4,
+  "lang": 0
+ },
+ {
+  "eid": "118992",
+  "kind": "Hearing:",
+  "title": "\u201cFrom Source to Tap: A Hearing to Examine Challenges and Opportunities for Safe, Reliable, and Affordable Drinking Water.\u201d",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "February 24, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119016",
+  "kind": "Hearing:",
+  "title": "America\u2019s Energy Infrastructure: Authorizing Pipeline Safety",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "March 4, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119017",
+  "kind": "Hearing:",
+  "title": "Ready for Reuse: Legislative Proposals to Unleash the Potential of America\u2019s Brownfields Sites",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "March 4, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119031",
+  "kind": "Markup of",
+  "title": "Full Committee Markup of Nine Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "March 5, 2026",
+  "votes": 18,
+  "lang": 0
+ },
+ {
+  "eid": "119043",
+  "kind": "Meeting:",
+  "title": "Securing U.S. Leadership of Communications Technology",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "March 18, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119065",
+  "kind": "Hearing:",
+  "title": "Protecting Patients and Safeguarding Taxpayer Dollars: The Role of CMS in Combatting Medicare and Medicaid Fraud",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "March 17, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119075",
+  "kind": "Hearing:",
+  "title": "Lowering Health Care Costs for All Americans: An Examination of the U.S. Provider Landscape",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "March 18, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119077",
+  "kind": "Hearing:",
+  "title": "Winter Storm Fern Lessons: Supplying Reliable Power to Meet Peak Demand",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "March 17, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119107",
+  "kind": "Hearing:",
+  "title": "Policies to Protect Our Communities From Illicit Drug Threats",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "March 26, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119115",
+  "kind": "Hearing:",
+  "title": "The Telecommunications Act of 1996: 30 Years Later",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "March 26, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119118",
+  "kind": "Markup of",
+  "title": "Full Committee Markup of 2 Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "March 25, 2026",
+  "votes": 4,
+  "lang": 0
+ },
+ {
+  "eid": "119145",
+  "kind": "Meeting:",
+  "title": "Healthier America: Legislative Proposals to Improve Public Health",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "April 15, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119148",
+  "kind": "Hearing:",
+  "title": "Computing Power and Competition: Examining the Semiconductor Ecosystem.",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "April 15, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119167",
+  "kind": "Hearing:",
+  "title": "The Fiscal Year 2027 Department of Energy Budget.",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "April 16, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119186",
+  "kind": "Hearing:",
+  "title": "Nuclear Regulatory Commission: Oversight of Activities, Priorities, and Fiscal Year 2027 Budget.",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "April 22, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119187",
+  "kind": "Hearing:",
+  "title": "Help or Hindrance? The impact of U.S. Environmental Laws on Critical Material Supply Chains, National Security, and Economic Growth",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "April 22, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119188",
+  "kind": "Hearing:",
+  "title": "The Fiscal Year 2027 Environmental Protection Agency Budget",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "April 28, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119189",
+  "kind": "Hearing:",
+  "title": "AI and the Grid: Meeting Growing Power Demand While Protecting Ratepayers",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "April 29, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119204",
+  "kind": "Hearing:",
+  "title": "SAT Streamlining Act: Modernizing Satellite Licensing for the Final Frontier",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "April 21, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119213",
+  "kind": "Hearing:",
+  "title": "The Fiscal Year 2027 Department of Health and Human Services Budget",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "April 21, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119246",
+  "kind": "Hearing:",
+  "title": "Healthier America: Legislative Proposals on the Regulation and Oversight of Food",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "April 29, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119270",
+  "kind": "Hearing:",
+  "title": "Wires, Rates, and States: Permitting Transmission for Reliable and Affordable Power",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "May 13, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119291",
+  "kind": "Markup of",
+  "title": "Subcommittee Markup of Three Pieces of Legislation",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "May 14, 2026",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "119293",
+  "kind": "Hearing:",
+  "title": "Corrosion, Collapse, and Clean-Up: Examining the Potomac Interceptor Collapse.",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "May 20, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119294",
+  "kind": "Markup of",
+  "title": "Markup of Ten Pieces of Legislation",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "May 13, 2026",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "119304",
+  "kind": "Hearing:",
+  "title": "Examining the Medicare Physician Fee Schedule, MACRA, and Opportunities for Payment Reforms",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "May 20, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119327",
+  "kind": "Markup of",
+  "title": "Full Committee Markup of 16 Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "May 21, 2026",
+  "votes": 18,
+  "lang": 0
+ },
+ {
+  "eid": "119343",
+  "kind": "Hearing:",
+  "title": "Rules of the Road: Examining Legislation to Modernize the Clean Air Act's Mobile Source Requirements",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "June 3, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119345",
+  "kind": "Hearing:",
+  "title": "Examining Legislation to Establish a Federal Comprehensive Privacy and Data Security Law",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "June 3, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119351",
+  "kind": "Hearing:",
+  "title": "Where Are We?: Examining Positioning, Navigation, and Timing Capabilities in the United States",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "June 4, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119367",
+  "kind": "Meeting:",
+  "title": "Nuclear Permitting Reform: Legislation to Advance Efficient Licensing",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "June 9, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119378",
+  "kind": "Hearing:",
+  "title": "\"Lowering Health Care Costs for All Americans: Examining Policies to Increase Health Care Transparency.\"",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "June 10, 2026",
+  "votes": 0,
+  "lang": 1
+ },
+ {
+  "eid": "119392",
+  "kind": "Hearing:",
+  "title": "Trash to Treasure: Examining Legislation to Support Domestic Critical Mineral Recovery and Recycling",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "June 24, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119393",
+  "kind": "Markup of",
+  "title": "Subcommittee Markup of Eight Pieces of Legislation",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "June 24, 2026",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "119405",
+  "kind": "Hearing:",
+  "title": "State Medicaid Program Integrity: Examining Fraud Risks and Oversight Deficiencies.",
+  "comm": "Subcommittee on Oversight and Investigations (Committee on Energy and Commerce)",
+  "date": "June 25, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119423",
+  "kind": "Hearing:",
+  "title": "American Global Competitiveness at 250: Legislative Proposals to Secure U.S. Technology Leadership.",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "June 30, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119424",
+  "kind": "Markup of",
+  "title": "Markup of Fifteen Bills",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "June 25, 2026",
+  "votes": 3,
+  "lang": 0
+ },
+ {
+  "eid": "119435",
+  "kind": "Meeting:",
+  "title": "Oversight of the National Telecommunications and Information Administration",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "June 30, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119447",
+  "kind": "Markup of",
+  "title": "Subcommittee Markup of Six Pieces of Legislation",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "July 14, 2026",
+  "votes": 2,
+  "lang": 0
+ },
+ {
+  "eid": "119448",
+  "kind": "Meeting:",
+  "title": "Subcommittee Markup of Seven Pieces of Legislation",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "July 14, 2026",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "119457",
+  "kind": "Hearing:",
+  "title": "Maintaining America\u2019s Leadership in Biomedical Innovation: FDA\u2019s Role in Advancing U.S. Drug Development.",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "July 15, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119470",
+  "kind": "Markup of",
+  "title": "Three Pieces of Legislation",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "July 15, 2026",
+  "votes": 3,
+  "lang": 0
+ },
+ {
+  "eid": "119488",
+  "kind": "Hearing:",
+  "title": "Legislative Hearing on Protecting Communications Networks and Improving Connectivity",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "July 22, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119489",
+  "kind": "Hearing:",
+  "title": "Legislative Proposals to Strengthen Consumer Protection in a Changing Marketplace.",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "July 22, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119490",
+  "kind": "Markup of",
+  "title": "Full Committee Markup of Twenty-Nine Pieces of Legislation",
+  "comm": "Committee on Energy and Commerce",
+  "date": "July 20, 2026",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "119518",
+  "kind": "Markup of",
+  "title": "Ten Pieces of Legislation",
+  "comm": "Committee on Energy and Commerce",
+  "date": "September 2, 2026",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "119528",
+  "kind": "Meeting:",
+  "title": "Reliable Water in the Digital Age: Examining Legislation to Strengthen Drinking Water Systems and Protect Ratepayers.",
+  "comm": "Subcommittee on Environment (Committee on Energy and Commerce)",
+  "date": "September 3, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119534",
+  "kind": "Markup of",
+  "title": "Subcommittee Markup of 6 Bills",
+  "comm": "Subcommittee on Communications and Technology (Committee on Energy and Commerce)",
+  "date": "September 1, 2026",
+  "votes": 1,
+  "lang": 0
+ },
+ {
+  "eid": "119535",
+  "kind": "Meeting:",
+  "title": "Markup of Twelve Pieces of Legislation",
+  "comm": "Subcommittee on Commerce, Manufacturing, and Trade (Committee on Energy and Commerce)",
+  "date": "September 1, 2026",
+  "votes": 3,
+  "lang": 0
+ },
+ {
+  "eid": "119549",
+  "kind": "Hearing:",
+  "title": "\u201cExamining Legislative Proposals to Reform Medicare Provider Payment and Bolster Health Care Cybersecurity.\u201d",
+  "comm": "Subcommittee on Health (Committee on Energy and Commerce)",
+  "date": "September 15, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119550",
+  "kind": "Meeting:",
+  "title": "Nuclear Spent Fuel Policy: Examining Nuclear Lifecycle Innovation Campuses",
+  "comm": "Subcommittee on Energy (Committee on Energy and Commerce)",
+  "date": "September 15, 2026",
+  "votes": 0,
+  "lang": 0
+ },
+ {
+  "eid": "119573",
+  "kind": "Markup of",
+  "title": "Markup of Sixteen Bills",
+  "comm": "Committee on Energy and Commerce",
+  "date": "September 16, 2026",
+  "votes": 17,
+  "lang": 0
+ }
+]

@@ -1,0 +1,15 @@
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165100/https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=118694 HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165119/https://docs.house.gov/meetings/IF/IF03/20251119/118694/HMKP-119-IF03-20251119-SD5029.pdf HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165224/https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=118438 HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165244/https://docs.house.gov/meetings/IF/IF00/20250625/118438/CRPT-119-IF00-Vote010-20250625.pdf HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165404/https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=119573 HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165425/https://docs.house.gov/meetings/IF/IF00/20260916/119573/CRPT-119-IF00-Vote001-20260916.pdf HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165437/https://docs.house.gov/meetings/IF/IF00/20260121/118892/CRPT-119-IF00-Vote016-20260121.pdf HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165531/https://clerk.house.gov/committees/IF03 HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165653/https://clerk.house.gov/committees/IF14 HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165812/https://clerk.house.gov/committees/IF18 HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016165936/https://energycommerce.house.gov/representatives/langworthy HTTP Error 429: Too Many Requests
+NOT VERIFIED: NO-SNAPSHOT https://langworthy.house.gov/media/press-releases/congressman-langworthys-legislation-block-hochuls-gas-ban-passes-out-energy
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016170245/https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-releases-statement-supporting-house-energy-and HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016170407/https://langworthy.house.gov/media/press-releases/langworthy-announces-cms-funds-support-rural-hospitals-across-western-new-york HTTP Error 429: Too Many Requests
+NOT VERIFIED: FAIL https://web.archive.org/web/20261016170538/https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-762-million-investment-strengthen-rural HTTP Error 429: Too Many Requests

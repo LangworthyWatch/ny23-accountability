@@ -1,0 +1,1189 @@
+
+House Report 119-301 - STATE ENERGY ACCOUNTABILITY ACT
+
+[House Report 119-301]
+[From the U.S. Government Publishing Office]
+
+
+119th Congress }                                       { Report
+                        HOUSE OF REPRESENTATIVES
+  1st Session  }                                       { 119-301
+
+======================================================================
+ 
+                   STATE ENERGY ACCOUNTABILITY ACT
+
+                                _______
+                                
+
+ September 17, 2025.--Committed to the Committee of the Whole House on 
+            the State of the Union and ordered to be printed
+
+                                _______
+                                
+
+ Mr. Guthrie, from the Committee on Energy and Commerce, submitted the 
+                               following
+
+                              R E P O R T
+
+                             together with
+
+                             MINORITY VIEWS
+
+                        [To accompany H.R. 3157]
+
+      [Including cost estimate of the Congressional Budget Office]
+
+    The Committee on Energy and Commerce, to whom was referred 
+the bill (H.R. 3157) to amend the Public Utility Regulatory 
+Policies Act of 1978 to add a standard related to the 
+evaluation of State intermittent energy policies, and for other 
+purposes, having considered the same, reports favorably thereon 
+without amendment and recommends that the bill do pass.
+
+                                CONTENTS
+
+                                                                   Page
+Purpose and Summary..............................................     2
+Background and Need for Legislation..............................     2
+Committee Action.................................................     4
+Committee Votes..................................................     5
+Oversight Findings and Recommendations...........................     7
+New Budget Authority, Entitlement Authority, and Tax Expenditures     7
+Congressional Budget Office Estimate.............................     7
+Federal Mandates Statement.......................................     8
+Statement of General Performance Goals and Objectives............     8
+Duplication of Federal Programs..................................     8
+Related Committee and Subcommittee Hearings......................     8
+Committee Cost Estimate..........................................     9
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits.......    10
+Advisory Committee Statement.....................................    10
+Applicability to Legislative Branch..............................    10
+Section-by-Section Analysis of the Legislation...................    10
+Changes in Existing Law Made by the Bill, as Reported............    10
+Minority, Additional, or Dissenting Views........................    20
+
+                          Purpose and Summary
+
+    H.R. 3157, the ``State Energy Accountability Act'', was 
+introduced by Representative Langworthy on May 1, 2025, and 
+referred to the Committee on Energy and Commerce on May 1, 
+2025. H.R. 3157 amends section 111(d) of the Public Utility 
+Regulatory Policy Act of 1978 (PURPA) to require each state 
+regulatory authority to consider implementing requirements to 
+evaluate the reliability and resource adequacy impacts of 
+complying with Renewable Portfolio Standards, Clean Energy 
+Standards, or other state policies that require utilities to 
+designate a share of their electricity sold to be generated 
+from intermittent resources.
+
+                  Background and Need for Legislation
+
+    After decades of modest growth in electricity demand, the 
+bulk-power system of the United States is undergoing its most 
+transformative period since WWII. Increasing electricity 
+demands, driven by the rise of artificial intelligence and 
+reshoring of domestic manufacturing facilities, is coinciding 
+with an alarming rate of premature retirements of baseload 
+power and insufficient replacement generating resources. Data 
+centers alone could consume upwards of 132 GW by 2028.\1\ The 
+North American Electric Reliability Corporation (NERC) projects 
+peak demand to grow by 151 GW by 2034.\2\ At the same time, 
+NERC reports that as much as 115 GW of thermal generation has 
+announced to retire within the same period.\3\ NERC has stated 
+that ``[e]nvironmental regulations and energy policies that are 
+overly rigid and lack provisions for electric grid reliability 
+have the potential to influence generators to seek deactivation 
+despite a projected resource adequacy or operating reliability 
+risk; this can potentially jeopardize[e] the orderly transition 
+of the resource mix.''\4\
+---------------------------------------------------------------------------
+    \1\Arman Shehabi et al., 2024 United States Data Center Energy 
+Usage Report, Lawrence Berkely National Laboratory (Dec. 20, 2024), 
+[https://escholarship.org/uc/item/32d6m0d1].
+    \2\North American Reliability Corp. (NERC), 2024 Long-Term 
+Reliability Assessment (Dec. 2024, updated Jul. 15, 2025), https://
+www.nerc.com/pa/RAPA/ra/Reliability%20Assessments
+%20DL/NERC_Long%20Term%20Reliability%20Assessment_2024.pdf.
+    \3\Id.
+    \4\NERC, 2023 Long-Term Reliability Assessment (Dec. 2023) https://
+www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/
+NERC_LTRA_2023.pdf.
+---------------------------------------------------------------------------
+    During the 119th Congress, the Energy Subcommittee of 
+Energy and Commerce has held several hearings to better 
+understand the ongoing reliability crisis facing our nation. 
+Through expert witness testimony from grid operators, 
+engineers, and experts in the energy industry, the Committee 
+finds that states have played an outsized role in driving pre-
+mature retirements of baseload generating units. In many cases, 
+it is actions taken to fulfill clean energy mandates that are 
+undermining reliability and raising costs on ratepayers.
+    There are currently 29 states that have clean energy 
+standards, renewable portfolio standards, or other related 
+measures that require utilities and power producers to have 
+increasing shares of their generation come from preferred clean 
+energy sources or otherwise designate specified dates to meet 
+emission reduction goals. Accordingly, of the ten states with 
+the highest electricity prices, all but two have the most 
+aggressive forms of clean energy standards.\5\ Meanwhile, of 
+the eighteen states with the most affordable electricity rates, 
+all but one have a renewable portfolio standard.\6\ The one 
+state referenced in the most affordable electricity rates with 
+a renewable portfolio standard is Washington, home to the 
+largest forms of reliable, baseload hydropower facilities in 
+the country.
+---------------------------------------------------------------------------
+    \5\Mario Loyola et al., Why Electricity Prices are Soaring in Blue 
+States, Heritage Found. (Oct. 23, 2024), https://www.heritage.org/
+sites/default/files/202410/BG3867.pdf.
+    \6\Id.
+---------------------------------------------------------------------------
+    Higher reliance on intermittent energy resources could 
+inherently drive up costs on ratepayers because their 
+intermittent nature requires back up power, higher land usage 
+and locational constraints of resources that require additional 
+transmission infrastructure, and stranded assets that have high 
+capital costs which are recovered through a utility's rate 
+base. Contrary to claims of the affordability of intermittent 
+energy resources, grid operators such as ISO-NE have found that 
+the profitability of such resources is reliant on state 
+policies and additional revenue streams outside of those found 
+in wholesale markets.\7\ In 2024, it had been estimated that 
+renewable energy would receive $1.2 trillion in subsidies over 
+the following ten years.\8\ The true costs of intermittent 
+resources are socialized amongst the broader system and 
+attributes of infrastructure that provide essential reliability 
+services necessary to maintain reliability.
+---------------------------------------------------------------------------
+    \7\ISO-New England Inc. Internal Market Monitor, 2024 Annual 
+Markets Report, ISO-New England (May 23, 2025), https://www.iso-ne.com/
+static-assets/documents/100023/2024-annual-markets-report.pdf.
+    \8\Mario Loyola et al., supra note 5.
+---------------------------------------------------------------------------
+    Expansive mandates of states that seek to replace fossil 
+fuel are incurring the consequences. The New York Independent 
+System Operator's (NY-ISO) annual report on the state of the 
+bulk power system stated, ``[a]s traditional fossil-fueled 
+generation deactivates in response to decarbonization goals and 
+tighter emissions regulations, reliability margins on the grid 
+are eroding''.\9\ Reliability margins are critical to meeting 
+peak demands and avoiding outages, particularly during extreme 
+weather or response to sudden disturbances. New York's Climate 
+Leadership and Community Protection Act, one of the nation's 
+most aggressive climate mandates, is driving a disorderly 
+transition to zero emission generating fleet. Recently, 
+business leaders and unions in New York state penned an open 
+letter to Governor Hochul requesting additional scrutiny and 
+transparent reporting on cost and reliability impacts stemming 
+from New York's Climate Leadership and Community Protection 
+Act.\10\
+---------------------------------------------------------------------------
+    \9\NY-ISO, 2025 Power Trends, the New York ISO Annual Grid and 
+Markets Report, New York Independent System Operator, Inc. (June 2025), 
+https://www.nyiso.com/
+documents/20142/2223020/2025-Power-Trends.pdf/51517a1b-36fa-4f3d-d44d-
+eabe23598514?t=1748866865402.
+    \10\The Business Council of New York State, Statement Regarding 
+CLCPA Letter Calling for Answers to Key Policy Concerns (Jul. 2024), 
+https://www.bcnys.org/news/statement-regarding-clcpa-letter-calling-
+answers-key-policy-concerns; see https://www.bcnys.org/sites/default/
+files/2024-07/Final%20CLCPA%20%20sign%20on%20letter%20.pdf (for text of 
+letter to Gov. Hochul).
+---------------------------------------------------------------------------
+    Independent System Operator New England (ISO-NE) is facing 
+similar issues as a result of burdensome state mandates, 
+political opposition to pipeline infrastructure development, 
+and modest renewable integration as a result of weather 
+patterns and regional geology. ISO-NE highlighted the cost of 
+carbon emissions, as part of the mandated cap-and-trade 
+programs, as a key driving factor for high electricity prices 
+in the region.\11\ As a result of a lack of adequate energy 
+infrastructure, ISO-NE CEO Gordon Van Weile testified before 
+the Committee that the region is not seeing comparable 
+increases in electricity demands from data centers and domestic 
+manufacturing. The Committee finds that states must take a 
+larger role in analyzing the reliability and affordability 
+impacts of aggressive climate mandates.
+---------------------------------------------------------------------------
+    \11\ISO-NE, supra note 7.
+---------------------------------------------------------------------------
+    The Public Utility Regulatory Policy Act (PURPA), passed in 
+1978 amidst the oil embargoes from the Middle East, sought to 
+promote energy conservation and drive competition in the power 
+sector. This law included a provision, section 111(d), that 
+provides Congress with an opportunity to encourage state public 
+utility commission to consider certain policies. As part of 
+this process, state commissions, and in some cases non-
+regulated utilities, are required to give consideration to 
+provisions passed by Congress in an open meeting format. This 
+provision is not a mandate for states, who generally control 
+decisions related to resource adequacy within their 
+jurisdiction.
+    The State Energy Accountability Act seeks to bring enhanced 
+transparency and accountability to states that implement 
+intermittent energy standards. Specifically, the bill would 
+encourage, as part of the process of PURPA 111(d), states to 
+consider the impact these policies have on costs on ratepayers 
+and impacts on reliability and provide transparent public 
+reports of their findings.
+
+                            Committee Action
+
+    On April 30, 2025, the Subcommittee on Energy held a 
+legislative hearing on 14 pieces of legislation, including H.R. 
+3157. The Subcommittee received testimony from:
+           Mike Goff, Acting Undersecretary of Energy, 
+        U.S. Department of Energy;
+           David L. Morenoff, Acting General Counsel, 
+        Federal Energy Regulatory Commission;
+           Terry Turpin, Director, Office of Energy 
+        Projects, Federal Energy Regulatory Commission;
+           Jim Matheson, Chief Executive Officer, 
+        National Rural Electric Cooperative Association;
+           Amy Andryszak, President and Chief Executive 
+        Officer, Interstate Natural Gas Association of America;
+           Todd A. Snitchler, President and Chief 
+        Executive Officer, Electric Power Supply Association 
+        and;
+           Kim Smaczniak, Partner, Roselle LLP.
+    On June 5, 2025, the Subcommittee on Energy met in open 
+markup session and forwarded H.R. 3157, without amendment, to 
+the full Committee by a voice vote. On June 25, 2025, the full 
+Committee on Energy and Commerce met in open markup session and 
+ordered H.R. 3157, without amendment, favorably reported to the 
+House by a record vote of 27 yeas and 20 nays.
+
+                            Committee Votes
+
+    Clause 3(b) of rule XIII requires the Committee to list the 
+record votes on the motion to report legislation and amendments 
+thereto. The following reflects the record votes taken during 
+the Committee consideration:
+
+
+                 Oversight Findings and Recommendations
+
+    Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of 
+rule XIII, the Committee held hearings and made findings that 
+are reflected in this report.
+
+   New Budget Authority, Entitlement Authority, and Tax Expenditures
+
+    Pursuant to clause 3(c)(2) of rule XIII, the Committee 
+finds that H.R. 3157 would result in no new or increased budget 
+authority, entitlement authority, or tax expenditures or 
+revenues.
+
+                  Congressional Budget Office Estimate
+
+    Pursuant to clause 3(c)(3) of rule XIII, the following is 
+the cost estimate provided by the Congressional Budget Office 
+pursuant to section 402 of the Congressional Budget Act of 
+1974:
+
+
+
+
+    H.R. 3157 would amend the Public Utility Regulatory 
+Policies Act of 1978 to require state regulatory authorities, 
+within one year of enactment, to decide whether to evaluate 
+policies related to intermittent energy--such as solar- and 
+wind-generated power. The evaluation would need to address 
+criteria specified in the bill, and the regulatory agency would 
+need to make those findings publicly available. The evaluation 
+would apply to states that require some portion of electricity 
+used in the state to come from facilities that cannot generate 
+or procure power without interruption for at least 30 
+consecutive days, including during extreme weather conditions.
+    Enacting the bill would not change federal 
+responsibilities; thus, CBO estimates that implementing H.R. 
+3157 would not affect the federal budget.
+    H.R. 3157 would impose an intergovernmental mandate as 
+defined in the Unfunded Mandates Reform Act (UMRA) by requiring 
+state utility commissions to decide whether to evaluate the 
+extent to which policies concerning intermittent energy affect 
+the reliability of the electrical power system in their state. 
+The requirement would expand an existing intergovernmental 
+mandate by increasing those entities' responsibilities under 
+the Public Utility Regulatory Policies Act. CBO estimates that 
+the mandate would result in a small incremental increase in 
+administrative costs that would not exceed the threshold 
+established in UMRA for intergovernmental mandates ($103 
+million in 2025, adjusted annually for inflation).
+    The bill would not impose private-sector mandates as 
+defined in UMRA.
+    The CBO staff contacts for this estimate are Emilia Oliva 
+(for federal costs) and Brandon Lever (for mandates). The 
+estimate was reviewed by H. Samuel Papenfuss, Deputy Director 
+of Budget Analysis.
+                                         Phillip L. Swagel,
+                             Director, Congressional Budget Office.
+
+                       Federal Mandates Statement
+
+    The Committee adopts as its own the estimate of Federal 
+mandates prepared by the Director of the Congressional Budget 
+Office pursuant to section 423 of the Unfunded Mandates Reform 
+Act.
+
+         Statement of General Performance Goals and Objectives
+
+    Pursuant to clause 3(c)(4) of rule XIII, the general 
+performance goal or objective of this legislation is to direct 
+state public utility commissions, through section 111(d) of the 
+Public Utility Regulatory Policies Act, to consider providing 
+public reporting on the impact intermittent energy standards 
+have on reliability and affordability of the bulk-power system.
+
+                    Duplication of Federal Programs
+
+    Pursuant to clause 3(c)(5) of rule XIII, no provision of 
+H.R. 3157 is known to be duplicative of another Federal 
+program, including any program that was included in a report to 
+Congress pursuant to section 21 of Public Law 111-139 or the 
+most recent Catalog of Federal Domestic Assistance.
+
+              Related Committee and Subcommittee Hearings
+
+    Pursuant to clause 3(c)(6) of rule XIII, the following 
+related hearings were used to develop or consider H.R. 3157:
+    On February 5, 2025, the Subcommittee on Energy held a 
+hearing on H.R. 3157, titled ``Powering America's Future: 
+Unleashing American Energy.'' The Subcommittee received 
+testimony from:
+           Amanda Eversole, Executive Vice President 
+        and Chief Advocacy Officer, American Petroleum 
+        Institute;
+           Brigham McCown, Senior Fellow and Director, 
+        Initiative on American Energy Security, The Hudson 
+        Institute;
+           Gary Arnold, Business Manager, Denver 
+        Pipefitters Local 208 and;
+           Tyler O'Connor, Partner, Crowell & Moring 
+        LLP.
+    On March 5, 2025, the Subcommittee on Energy held a hearing 
+on H.R. 3157, titled ``Scaling for Growth: Meeting the Demand 
+for Reliable, Affordable Electricity.'' The Subcommittee 
+received testimony from:
+           Todd Brickhouse, CEO and General Manager, 
+        Basin Electric Power Cooperative;
+           Asim Haque, Senior Vice President for 
+        Governmental and Member Services, PJM;
+           Noel W. Black, Senior VP of Regulatory 
+        Affairs, Southern Company and;
+           Tyler H. Norris, James B. Duke Fellow, Duke 
+        University.
+    On March 25, 2025, the Subcommittee on Energy held a 
+hearing on H.R. 3157, titled ``Keeping the Lights On: Examining 
+the State of Regional Grid Reliability.'' The Subcommittee 
+received testimony from:
+           Gordon van Welie, President and Chief 
+        Executive Officer, ISO New England;
+           Richard J. Dewey, President and Chief 
+        Executive Officer, New York Independent System 
+        Operator;
+           Manu Asthana, President and Chief Executive 
+        Officer, PJM Interconnection LLC;
+           Jennifer Curran, Senior Vice President for 
+        Planning and Operations, Midcontinent ISO;
+           Lanny Nickell, Chief Operating Officer, 
+        Southwest Power Pool;
+           Elliot Mainzer, President and Chief 
+        Executive Officer, California Independent System 
+        Operator and;
+           Pablo Vegas, President and Chief Executive 
+        Officer, Electric Reliability Council of Texas, Inc.
+    On April 9, 2025, the Committee on Energy and Commerce held 
+a hearing on H.R. 3157, titled ``Converting Energy into 
+Intelligence: The Future of AI Technology, Human Discovery, and 
+American Global Competitiveness.'' The Committee received 
+testimony from:
+           Eric Schmidt, Chair, Special Competitive 
+        Studies Project;
+           Manish Bhatia, Executive Vice President of 
+        Global Operations, Micron Technology;
+           Alexander Wang, Founder and Chief Executive 
+        Officer, Scale AI, and;
+           David Turk, Distinguished Visiting Fellow, 
+        Center on Global Energy Policy, Columbia University.
+    On April 30, 2025, the Subcommittee on Energy held a 
+legislative hearing on H.R. 3157, titled ``Assuring Abundant, 
+Reliable American Energy to Power Innovation.'' The 
+Subcommittee received testimony from:
+           Mike Goff, Acting Undersecretary of Energy, 
+        U.S. Department of Energy;
+           David L. Morenoff, Acting General Counsel, 
+        Federal Energy Regulatory Commission;
+           Terry Turpin, Director, Office of Energy 
+        Projects, Federal Energy Regulatory Commission;
+           Jim Matheson, Chief Executive Officer, 
+        National Rural Electric Cooperative Association;
+           Amy Andryszak, President and Chief Executive 
+        Officer, Interstate Natural Gas Association of America;
+           Todd A. Snitchler, President and Chief 
+        Executive Officer, Electric Power Supply Association 
+        and;
+           Kim Smaczniak, Partner, Roselle LLP.
+
+                        Committee Cost Estimate
+
+    Pursuant to clause 3(d)(1) of rule XIII, the Committee 
+adopts as its own the cost estimate prepared by the Director of 
+the Congressional Budget Office pursuant to section 402 of the 
+Congressional Budget Act of 1974.
+
+       Earmark, Limited Tax Benefits, and Limited Tariff Benefits
+
+    Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the 
+Committee finds that H.R. 3157 contains no earmarks, limited 
+tax benefits, or limited tariff benefits.
+
+                      Advisory Committee Statement
+
+    No advisory committees within the meaning of section 5(b) 
+of the Federal Advisory Committee Act were created by this 
+legislation.
+
+                  Applicability to Legislative Branch
+
+    The Committee finds that the legislation does not relate to 
+the terms and conditions of employment or access to public 
+services or accommodations within the meaning of section 
+102(b)(3) of the Congressional Accountability Act.
+
+             Section-by-Section Analysis of the Legislation
+
+
+Section 1. Short title
+
+    Section 1 provides that the Act may be cited as the ``State 
+Energy Accountability Act''.
+
+Section 2. Consideration of effects of state policies on reliable 
+        availability of electric energy
+
+    Section 2 amends section 111(d) of the Public Utility 
+Regulatory Policy Act of 1978 (PURPA) to require each state 
+regulatory authority to consider implementing requirements to 
+evaluate the reliability and resource adequacy impacts of 
+complying with Renewable Portfolio Standards, Clean Energy 
+Standards, or other state policies that require utilities to 
+designate a share of their electricity sold to be generated 
+from intermittent resources.
+
+         Changes in Existing Law Made by the Bill, as Reported
+
+      In compliance with clause 3(e) of rule XIII of the Rules 
+of the House of Representatives, changes in existing law made 
+by the bill, as reported, are shown as follows (new matter is 
+printed in italics and existing law in which no change is 
+proposed is shown in roman):
+
+             PUBLIC UTILITY REGULATORY POLICIES ACT OF 1978
+
+
+TITLE I--RETAIL REGULATORY POLICIES FOR ELECTRIC UTILITIES
+
+           *       *       *       *       *       *       *
+
+
+              Subtitle B--Standards For Electric Utilities
+
+SEC. 111. CONSIDERATION AND DETERMINATION RESPECTING CERTAIN RATEMAKING 
+                    STANDARDS.
+
+  (a) Consideration and Determination.--Each State regulatory 
+authority (with respect to each electric utility for which it 
+has ratemaking authority) and each nonregulated electric 
+utility shall consider each standard established by subsection 
+(d) and make a determination concerning whether or not it is 
+appropriate to implement such standard to carry out the 
+purposes of this title. For purposes of such consideration and 
+determination in accordance with subsections (b) and (c), and 
+for purposes of any review of such consideration and 
+determination in any court in accordance with section 123, the 
+purposes of this title supplement otherwise applicable State 
+law. Nothing in this subsection prohibits any State regulatory 
+authority or nonregulated electric utility from making any 
+determination that it is not appropriate to implement any such 
+standard, pursuant to its authority under otherwise applicable 
+State law.
+  (b) Procedural Requirements for Consideration and 
+Determination.--(1) The consideration referred to in subsection 
+(a) shall be made after public notice and hearing. The 
+determination referred to in subsection (a) shall be--
+          (A) in writing,
+          (B) based upon findings included in such 
+        determination and upon the evidence presented at the 
+        hearing, and
+          (C) available to the public.
+  (2) Except as otherwise provided in paragraph (1), in the 
+second sentence of section 112(a), and in sections 121 and 122, 
+the procedures for the consideration and determination referred 
+to in subsection (a) shall be those established by the State 
+regulatory authority or the nonregulated electric utility.
+  (c) Implementation.--(1) The State regulatory authority (with 
+respect to each electric utility for which it has ratemaking 
+authority) or nonregulated electric utility may, to the extent 
+consistent with otherwise applicable State law--
+          (A) implement any such standard determined under 
+        subsection (a) to be appropriate to carry out the 
+        purposes of this title, or
+          (B) decline to implement any such standard.
+  (2) If a State regulatory authority (with respect to each 
+electric utility for which it has ratemaking authority) or 
+nonregulated electric utility declines to implement any 
+standard established by subsection (d) which is determined 
+under subsection (a) to be appropriate to carry out the 
+purposes of this title, such authority or nonregulated electric 
+utility shall state in writing the reasons therefor. Such 
+statement of reasons shall be available to the public.
+          (3) If a State regulatory authority implements a 
+        standard established by subsection (d)(7) or (8), such 
+        authority shall--
+                  (A) consider the impact that implementation 
+                of such standard would have on small businesses 
+                engaged in the design, sale, supply, 
+                installation or servicing of energy 
+                conservation, energy efficiency or other demand 
+                side management measures, and
+                  (B) implement such standard so as to assure 
+                that utility actions would not provide such 
+                utilities with unfair competitive advantages 
+                over such small businesses.
+  (d) Establishment.--The following Federal standards are 
+hereby established:
+          (1) Cost of service.--Rates charged by any electric 
+        utility for providing electric service to each class of 
+        electric consumers shall be designed, to the maximum 
+        extent practicable, to reflect the cost of providing 
+        electric service to such class, as determined under 
+        section 115(a).
+          (2) Declining block rates.--The energy component of a 
+        rate, or the amount attributable to the energy 
+        component in a rate, charged by any electric utility 
+        for providing electric service during any period to any 
+        class of electric consumers may not decrease as 
+        kilowatt-hour consumption by such class increases 
+        during such period except to the extent that such 
+        utility demonstrates that the costs to such utility of 
+        providing electric service to such class, which costs 
+        are attributable to such energy component, decrease as 
+        such consumption increases during such period.
+          (3) Time-of-day rates.--The rates charged by any 
+        electric utility for providing electric service to such 
+        class of electric consumers shall be on a time-of-day 
+        basis which reflects the costs of providing electric 
+        service to such class of electric consumers at 
+        different times of the day unless such rates are not 
+        cost-effective with respect to such class, as 
+        determined under section 115(b).
+          (4) Seasonal rates.--The rates charged by an electric 
+        utility for providing electric service to each class of 
+        electric consumers shall be on a seasonal basis which 
+        reflects the costs of providing service to each class 
+        of consumers at different seasons of the year to the 
+        extent that such costs vary seasonally for such 
+        utility.
+          (5) Interruptible rates.--Each electric utility shall 
+        offer each industrial and commercial electric consumer 
+        an interruptible rate which reflects the cost of 
+        providing interruptible service to the class of which 
+        such consumer is a member.
+          (6) Load management techniques.--Each electric 
+        utility shall offer to its electric consumers such load 
+        management techniques as the State regulatory authority 
+        (or the nonregulated electric utility) has determined 
+        will--
+                  (A) be practicable and cost-effective, as 
+                determined under section 115(c),
+                  (B) be reliable, and
+                  (C) provide useful energy or capacity 
+                management advantages to the electric utility.
+          (7) Integrated resource planning.--Each electric 
+        utility shall employ integrated resource planning. All 
+        plans or filings before a State regulatory authority to 
+        meet the requirements of this paragraph must be updated 
+        on a regular basis, must provide the opportunity for 
+        public participation and comment, and contain a 
+        requirement that the plan be implemented.
+          (8) Investments in conservation and demand 
+        management.--The rates allowed to be charged by a State 
+        regulated electric utility shall be such that the 
+        utility's investment in and expenditures for energy 
+        conservation, energy efficiency resources, and other 
+        demand side management measures are at least as 
+        profitable, giving appropriate consideration to income 
+        lost from reduced sales due to investments in and 
+        expenditures for conservation and efficiency, as its 
+        investments in and expenditures for the construction of 
+        new generation, transmission, and distribution 
+        equipment. Such energy conservation, energy efficiency 
+        resources and other demand side management measures 
+        shall be appropriately monitored and evaluated.
+          (9) Energy efficiency investments in power generation 
+        and supply.--The rates charged by any electric utility 
+        shall be such that the utility is encouraged to make 
+        investments in, and expenditures for, all cost-
+        effective improvements in the energy efficiency of 
+        power generation, transmission and distribution. In 
+        considering regulatory changes to achieve the 
+        objectives of this paragraph, State regulatory 
+        authorities and nonregulated electric utilities shall 
+        consider the disincentives caused by existing 
+        ratemaking policies, and practices, and consider 
+        incentives that would encourage better maintenance, and 
+        investment in more efficient power generation, 
+        transmission and distribution equipment.
+          (10) Consideration of the effects of wholesale power 
+        purchases on utility cost of capital; effects of 
+        leveraged capital structures on the reliability of 
+        wholesale power sellers; and assurance of adequate fuel 
+        supplies.--(A) To the extent that a State regulatory 
+        authority requires or allows electric utilities for 
+        which it has ratemaking authority to consider the 
+        purchase of long-term wholesale power supplies as a 
+        means of meeting electric demand, such authority shall 
+        perform a general evaluation of:
+                  (i) the potential for increases or decreases 
+                in the costs of capital for such utilities, and 
+                any resulting increases or decreases in the 
+                retail rates paid by electric consumers, that 
+                may result from purchases of long-term 
+                wholesale power supplies in lieu of the 
+                construction of new generation facilities by 
+                such utilities;
+                  (ii) whether the use by exempt wholesale 
+                generators (as defined in section 32 of the 
+                Public Utility Holding Company Act of 1935) of 
+                capital structures which employ proportionally 
+                greater amounts of debt than the capital 
+                structures of such utilities threatens 
+                reliability or provides an unfair advantage for 
+                exempt wholesale generators over such 
+                utilities;
+                  (iii) whether to implement procedures for the 
+                advance approval or disapproval of the purchase 
+                of a particular long-term wholesale power 
+                supply; and
+                  (iv) whether to require as a condition for 
+                the approval of the purchase of power that 
+                there be reasonable assurances of fuel supply 
+                adequacy.
+          (B) For purposes of implementing the provisions of 
+        this paragraph, any reference contained in this section 
+        to the date of enactment of the Public Utility 
+        Regulatory Policies Act of 1978 shall be deemed to be a 
+        reference to the date of enactment of this paragraph.
+          (C) Notwithstanding any other provision of Federal 
+        law, nothing in this paragraph shall prevent a State 
+        regulatory authority from taking such action, including 
+        action with respect to the allowable capital structure 
+        of exempt wholesale generators, as such State 
+        regulatory authority may determine to be in the public 
+        interest as a result of performing evaluations under 
+        the standards of subparagraph (A).
+          (D) Notwithstanding section 124 and paragraphs (1) 
+        and (2) of section 112(a), each State regulatory 
+        authority shall consider and make a determination 
+        concerning the standards of subparagraph (A) in 
+        accordance with the requirements of subsections (a) and 
+        (b) of this section, without regard to any proceedings 
+        commenced prior to the enactment of this paragraph.
+          (E) Notwithstanding subsections (b) and (c) of 
+        section 112, each State regulatory authority shall 
+        consider and make a determination concerning whether it 
+        is appropriate to implement the standards set out in 
+        subparagraph (A) not later than one year after the date 
+        of enactment of this paragraph.
+          (11) Net metering.--Each electric utility shall make 
+        available upon request net metering service to any 
+        electric consumer that the electric utility serves. For 
+        purposes of this paragraph, the term ``net metering 
+        service'' means service to an electric consumer under 
+        which electric energy generated by that electric 
+        consumer from an eligible on-site generating facility 
+        and delivered to the local distribution facilities may 
+        be used to offset electric energy provided by the 
+        electric utility to the electric consumer during the 
+        applicable billing period.
+          (12) Fuel sources.--Each electric utility shall 
+        develop a plan to minimize dependence on 1 fuel source 
+        and to ensure that the electric energy it sells to 
+        consumers is generated using a diverse range of fuels 
+        and technologies, including renewable technologies.
+          (13) Fossil fuel generation efficiency.--Each 
+        electric utility shall develop and implement a 10-year 
+        plan to increase the efficiency of its fossil fuel 
+        generation.
+          (14) Time-based metering and communications.--(A) Not 
+        later than 18 months after the date of enactment of 
+        this paragraph, each electric utility shall offer each 
+        of its customer classes, and provide individual 
+        customers upon customer request, a time-based rate 
+        schedule under which the rate charged by the electric 
+        utility varies during different time periods and 
+        reflects the variance, if any, in the utility's costs 
+        of generating and purchasing electricity at the 
+        wholesale level. The time-based rate schedule shall 
+        enable the electric consumer to manage energy use and 
+        cost through advanced metering and communications 
+        technology.
+          (B) The types of time-based rate schedules that may 
+        be offered under the schedule referred to in 
+        subparagraph (A) include, among others--
+                  (i) time-of-use pricing whereby electricity 
+                prices are set for a specific time period on an 
+                advance or forward basis, typically not 
+                changing more often than twice a year, based on 
+                the utility's cost of generating and/or 
+                purchasing such electricity at the wholesale 
+                level for the benefit of the consumer. Prices 
+                paid for energy consumed during these periods 
+                shall be pre-established and known to consumers 
+                in advance of such consumption, allowing them 
+                to vary their demand and usage in response to 
+                such prices and manage their energy costs by 
+                shifting usage to a lower cost period or 
+                reducing their consumption overall;
+                  (ii) critical peak pricing whereby time-of-
+                use prices are in effect except for certain 
+                peak days, when prices may reflect the costs of 
+                generating and/or purchasing electricity at the 
+                wholesale level and when consumers may receive 
+                additional discounts for reducing peak period 
+                energy consumption;
+                  (iii) real-time pricing whereby electricity 
+                prices are set for a specific time period on an 
+                advanced or forward basis, reflecting the 
+                utility's cost of generating and/or purchasing 
+                electricity at the wholesale level, and may 
+                change as often as hourly; and
+                  (iv) credits for consumers with large loads 
+                who enter into pre-established peak load 
+                reduction agreements that reduce a utility's 
+                planned capacity obligations.
+          (C) Each electric utility subject to subparagraph (A) 
+        shall provide each customer requesting a time-based 
+        rate with a time-based meter capable of enabling the 
+        utility and customer to offer and receive such rate, 
+        respectively.
+          (D) For purposes of implementing this paragraph, any 
+        reference contained in this section to the date of 
+        enactment of the Public Utility Regulatory Policies Act 
+        of 1978 shall be deemed to be a reference to the date 
+        of enactment of this paragraph.
+          (E) In a State that permits third-party marketers to 
+        sell electric energy to retail electric consumers, such 
+        consumers shall be entitled to receive the same time-
+        based metering and communications device and service as 
+        a retail electric consumer of the electric utility.
+          (F) Notwithstanding subsections (b) and (c) of 
+        section 112, each State regulatory authority shall, not 
+        later than 18 months after the date of enactment of 
+        this paragraph conduct an investigation in accordance 
+        with section 115(i) and issue a decision whether it is 
+        appropriate to implement the standards set out in 
+        subparagraphs (A) and (C).
+          (15) Interconnection.--Each electric utility shall 
+        make available, upon request, interconnection service 
+        to any electric consumer that the electric utility 
+        serves. For purposes of this paragraph, the term 
+        ``interconnection service'' means service to an 
+        electric consumer under which an on-site generating 
+        facility on the consumer's premises shall be connected 
+        to the local distribution facilities. Interconnection 
+        services shall be offered based upon the standards 
+        developed by the Institute of Electrical and 
+        Electronics Engineers: IEEE Standard 1547 for 
+        Interconnecting Distributed Resources with Electric 
+        Power Systems, as they may be amended from time to 
+        time. In addition, agreements and procedures shall be 
+        established whereby the services are offered shall 
+        promote current best practices of interconnection for 
+        distributed generation, including but not limited to 
+        practices stipulated in model codes adopted by 
+        associations of state regulatory agencies. All such 
+        agreements and procedures shall be just and reasonable, 
+        and not unduly discriminatory or preferential.
+          (16) Integrated resource planning.--Each electric 
+        utility shall--
+                  (A) integrate energy efficiency resources 
+                into utility, State, and regional plans; and
+                  (B) adopt policies establishing cost-
+                effective energy efficiency as a priority 
+                resource.
+          (17) Rate design modifications to promote energy 
+        efficiency investments.--
+                  (A) In general.--The rates allowed to be 
+                charged by any electric utility shall--
+                          (i) align utility incentives with the 
+                        delivery of cost-effective energy 
+                        efficiency; and
+                          (ii) promote energy efficiency 
+                        investments.
+                  (B) Policy options.--In complying with 
+                subparagraph (A), each State regulatory 
+                authority and each nonregulated utility shall 
+                consider--
+                          (i) removing the throughput incentive 
+                        and other regulatory and management 
+                        disincentives to energy efficiency;
+                          (ii) providing utility incentives for 
+                        the successful management of energy 
+                        efficiency programs;
+                          (iii) including the impact on 
+                        adoption of energy efficiency as 1 of 
+                        the goals of retail rate design, 
+                        recognizing that energy efficiency must 
+                        be balanced with other objectives;
+                          (iv) adopting rate designs that 
+                        encourage energy efficiency for each 
+                        customer class;
+                          (v) allowing timely recovery of 
+                        energy efficiency-related costs; and
+                          (vi) offering home energy audits, 
+                        offering demand response programs, 
+                        publicizing the financial and 
+                        environmental benefits associated with 
+                        making home energy efficiency 
+                        improvements, and educating homeowners 
+                        about all existing Federal and State 
+                        incentives, including the availability 
+                        of low-cost loans, that make energy 
+                        efficiency improvements more 
+                        affordable.
+          (18) Consideration of smart grid investments.--
+                  (A) In general.--Each State shall consider 
+                requiring that, prior to undertaking 
+                investments in nonadvanced grid technologies, 
+                an electric utility of the State demonstrate to 
+                the State that the electric utility considered 
+                an investment in a qualified smart grid system 
+                based on appropriate factors, including--
+                          (i) total costs;
+                          (ii) cost-effectiveness;
+                          (iii) improved reliability;
+                          (iv) security;
+                          (v) system performance; and
+                          (vi) societal benefit.
+                  (B) Rate recovery.--Each State shall consider 
+                authorizing each electric utility of the State 
+                to recover from ratepayers any capital, 
+                operating expenditure, or other costs of the 
+                electric utility relating to the deployment of 
+                a qualified smart grid system, including a 
+                reasonable rate of return on the capital 
+                expenditures of the electric utility for the 
+                deployment of the qualified smart grid system.
+                  (C) Obsolete equipment.--Each State shall 
+                consider authorizing any electric utility or 
+                other party of the State to deploy a qualified 
+                smart grid system to recover in a timely manner 
+                the remaining book-value costs of any equipment 
+                rendered obsolete by the deployment of the 
+                qualified smart grid system, based on the 
+                remaining depreciable life of the obsolete 
+                equipment.
+          (19) Smart grid information.--
+                  (A) Standard.--All electricity purchasers 
+                shall be provided direct access, in written or 
+                electronic machine-readable form as 
+                appropriate, to information from their 
+                electricity provider as provided in 
+                subparagraph (B).
+                  (B) Information.--Information provided under 
+                this section, to the extent practicable, shall 
+                include:
+                          (i) Prices.--Purchasers and other 
+                        interested persons shall be provided 
+                        with information on--
+                                  (I) time-based electricity 
+                                prices in the wholesale 
+                                electricity market; and
+                                  (II) time-based electricity 
+                                retail prices or rates that are 
+                                available to the purchasers.
+                          (ii) Usage.--Purchasers shall be 
+                        provided with the number of electricity 
+                        units, expressed in kwh, purchased by 
+                        them.
+                          (iii) Intervals and projections.--
+                        Updates of information on prices and 
+                        usage shall be offered on not less than 
+                        a daily basis, shall include hourly 
+                        price and use information, where 
+                        available, and shall include a day-
+                        ahead projection of such price 
+                        information to the extent available.
+                          (iv) Sources.--Purchasers and other 
+                        interested persons shall be provided 
+                        annually with written information on 
+                        the sources of the power provided by 
+                        the utility, to the extent it can be 
+                        determined, by type of generation, 
+                        including greenhouse gas emissions 
+                        associated with each type of 
+                        generation, for intervals during which 
+                        such information is available on a 
+                        cost-effective basis.
+                  (C) Access.--Purchasers shall be able to 
+                access their own information at any time 
+                through the Internet and on other means of 
+                communication elected by that utility for Smart 
+                Grid applications. Other interested persons 
+                shall be able to access information not 
+                specific to any purchaser through the Internet. 
+                Information specific to any purchaser shall be 
+                provided solely to that purchaser.
+          (20) Demand-response practices.--
+                  (A) In general.--Each electric utility shall 
+                promote the use of demand-response and demand 
+                flexibility practices by commercial, 
+                residential, and industrial consumers to reduce 
+                electricity consumption during periods of 
+                unusually high demand.
+                  (B) Rate recovery.--
+                          (i) In general.--Each State 
+                        regulatory authority shall consider 
+                        establishing rate mechanisms allowing 
+                        an electric utility with respect to 
+                        which the State regulatory authority 
+                        has ratemaking authority to timely 
+                        recover the costs of promoting demand-
+                        response and demand flexibility 
+                        practices in accordance with 
+                        subparagraph (A).
+                          (ii) Nonregulated electric 
+                        utilities.--A nonregulated electric 
+                        utility may establish rate mechanisms 
+                        for the timely recovery of the costs of 
+                        promoting demand-response and demand 
+                        flexibility practices in accordance 
+                        with subparagraph (A).
+          (21) Electric vehicle charging programs.--Each State 
+        shall consider measures to promote greater 
+        electrification of the transportation sector, including 
+        the establishment of rates that--
+                  (A) promote affordable and equitable electric 
+                vehicle charging options for residential, 
+                commercial, and public electric vehicle 
+                charging infrastructure;
+                  (B) improve the customer experience 
+                associated with electric vehicle charging, 
+                including by reducing charging times for light-
+                , medium-, and heavy-duty vehicles;
+                  (C) accelerate third-party investment in 
+                electric vehicle charging for light-, medium-, 
+                and heavy-duty vehicles; and
+                  (D) appropriately recover the marginal costs 
+                of delivering electricity to electric vehicles 
+                and electric vehicle charging infrastructure.
+          (22) Evaluation of effects of state policies on 
+        reliable availability of electric energy.--
+                  (A) In general.--Each State regulatory 
+                authority that implements an intermittent 
+                energy policy shall conduct, and make publicly 
+                available, a general evaluation of--
+                          (i) the effects of implementing the 
+                        intermittent energy policy on the 
+                        reliability of the bulk-power system in 
+                        the State, including an assessment of 
+                        the adequacy of available electric 
+                        energy resources over a 10-year period;
+                          (ii) the ability of electric energy 
+                        resources that comply with the 
+                        requirements of the intermittent energy 
+                        policy to meet electric energy demand 
+                        during emergencies, periods of high 
+                        demand, or extreme weather events;
+                          (iii) the effects of implementing the 
+                        intermittent energy policy on rates 
+                        charged by electric utilities;
+                          (iv) whether reliable generation 
+                        facilities that are removed from 
+                        service in order to comply with the 
+                        requirements of the intermittent energy 
+                        policy can be replaced with sufficient 
+                        electric generation facilities meeting 
+                        such requirements, which have a 
+                        capacity accreditation that is 
+                        equivalent to the capacity 
+                        accreditation of the removed 
+                        facilities, to maintain the reliability 
+                        of the bulk-power system in the State; 
+                        and
+                          (v) the extent to which 
+                        implementation of the intermittent 
+                        energy policy requires electric 
+                        utilities in the State to use 
+                        replacement electric energy supplies 
+                        that are generated by reliable 
+                        generation facilities located outside 
+                        the State in order to maintain the 
+                        reliability of the bulk-power system in 
+                        the State.
+                  (B) Prior state actions.--Notwithstanding 
+                section 124 and paragraphs (1) and (2) of 
+                section 112(a), each State regulatory authority 
+                shall consider and make a determination 
+                concerning the standard set out in subparagraph 
+                (A) in accordance with the requirements of 
+                subsections (a) and (b) of this section, 
+                without regard to any proceedings commenced 
+                prior to the enactment of this paragraph.
+                  (C) Time limitation.--Notwithstanding 
+                subsections (b) and (c) of section 112, each 
+                State regulatory authority shall consider and 
+                make a determination concerning whether it is 
+                appropriate to implement the standard set out 
+                in subparagraph (A) not later than 1 year after 
+                the date of enactment of this paragraph.
+                  (D) Public availability.--A State regulatory 
+                authority that has made a determination 
+                concerning whether to implement, and is 
+                implementing, the standard set out in 
+                subparagraph (A) shall make publicly available 
+                the general evaluation described in such 
+                subparagraph--
+                          (i) if the applicable State has 
+                        adopted an intermittent energy policy 
+                        before the date on which the State 
+                        regulatory authority makes such 
+                        determination, not later than 1 year 
+                        after such date of determination; and
+                          (ii) if the applicable State adopts 
+                        an intermittent energy policy after the 
+                        date on which the State regulatory 
+                        authority makes such determination, not 
+                        later than 1 year after the date of 
+                        such adoption.
+                  (E) Definitions.--In this paragraph:
+                          (i) Bulk-power system.--The term 
+                        ``bulk-power system'' has the meaning 
+                        given that term in section 215 of the 
+                        Federal Power Act (16 U.S.C. 824o).
+                          (ii) Intermittent energy policy.--The 
+                        term ``intermittent energy policy'' 
+                        means any requirement of a State, 
+                        enforced by a State regulatory 
+                        authority, that a State regulated 
+                        electric utility ensure that a 
+                        specified portion of the electric 
+                        energy sold by such electric utility is 
+                        generated by facilities that are not 
+                        reliable generation facilities.
+                          (iii) Reliable generation facility.--
+                        The term ``reliable generation 
+                        facility'' means an electric generation 
+                        facility that ensures the reliable 
+                        availability of electric energy by--
+                                  (I) having operational 
+                                characteristics to enable the 
+                                generation of electric energy 
+                                on a continuous basis for a 
+                                period of not fewer than 30 
+                                days;
+                                  (II) having--
+                                          (aa) adequate fuel, 
+                                        or a continuously 
+                                        available energy 
+                                        source, on-site to 
+                                        enable the generation 
+                                        of electric energy on a 
+                                        continuous basis for a 
+                                        period of not fewer 
+                                        than 30 days; or
+                                          (bb) contractual 
+                                        obligations that ensure 
+                                        adequate fuel supply to 
+                                        achieve the generation 
+                                        of electric energy on a 
+                                        continuous basis for a 
+                                        period of not fewer 
+                                        than 30 days;
+                                  (III) having operational 
+                                characteristics to enable the 
+                                generation of electric energy 
+                                during emergency and severe 
+                                weather conditions; and
+                                  (IV) providing essential 
+                                services related to the 
+                                reliable availability of 
+                                electric energy, including 
+                                frequency support and voltage 
+                                support.
+
+           *       *       *       *       *       *       *
+
+
+               MINORITY, ADDITIONAL, OR DISSENTING VIEWS
+
+    H.R. 3157, the ``State Energy Accountability Act,'' amends 
+section 111(d) of the Public Utility Regulatory Policies Act of 
+1978 (PURPA) to require state public utility commissions in 
+states with clean energy or renewable portfolio standards to 
+consider making public a study of the effects of the standard 
+on reliability and electricity prices.
+    H.R. 3157 is a thinly veiled attack on clean energy and is 
+duplicative of requirements already imposed by states. Clean 
+energy standards, or renewable portfolio standards, are 
+requirements or goals for energy producers to supply energy 
+from low- or zero-emission sources.\1\ State programs can range 
+in structure and enforcement mechanisms, as well as timelines 
+for implementation. As of April 2025, 28 states and the 
+District of Columbia have renewable portfolio standards, 11 
+states have clean energy standards, and 14 states have either 
+renewable portfolio or clean energy goals.\2\
+---------------------------------------------------------------------------
+    \1\U.S. Energy Information Administration, Renewable Energy 
+Explained (July 30, 2024) (https://www.eia.gov/energyexplained/
+renewable-sources/portfolio-standards.php).
+    \2\DSIRE Insight, Renewable & Clean Energy Standards (April 2025) 
+(https://ncsolarcen-prod.s3.amazonaws.com/wp-content/uploads/2025/09/
+RPS CES April2025.pdf).
+---------------------------------------------------------------------------
+    Due to the diverse nature of these standards and goals, 
+implementation of a PURPA 111(d) standard related to assessing 
+reliability and impact on prices would yield mixed results 
+depending on the state. Moreover, verification, compliance, and 
+enforcement of these clean energy and renewable portfolio 
+standards often already consider the factors prioritized in the 
+text of this bill.
+    H.R. 3157 does not ask for a study of the effects of 
+keeping fossil fuel generating sources online or of including 
+fossil fuel resources in integrated resource planning. If the 
+Majority was serious about the impacts of energy policies on 
+reliability and electricity prices, they would similarly call 
+for studies into the impacts of President Trump's decision to 
+continue operating outdated fossil fuel plants, the pauses and 
+rescissions of funding for energy projects and transmission 
+projects, and the impacts of increased climate disasters on the 
+grid. Instead, the Majority has spent the 119th Congress 
+supporting policies that will increase consumer prices and 
+increase demand on the grid, such as rescinding funding and 
+gutting energy efficiency standards. Republicans' One Big 
+Beautiful Bill is projected to raise electricity prices by 61 
+percent over the next decade.\3\ Additionally, President 
+Trump's determination to prolong the lifespan of retiring 
+fossil fuel plants could cost Americans up to $6 billion a 
+year.\4\ Rather than critically examining and opposing these 
+policies, the Majority is instead choosing to target clean 
+energy policies, many of which have been in place for years.
+---------------------------------------------------------------------------
+    \3\Energy Innovation, Economic Impacts of U.S. Senate ``One Big 
+Beautiful Bill Act'' Energy Provisions (June 29, 2025).
+    \4\Grid Strategies, The Cost of Federal Mandates to Retain Fossil-
+Burning Power Plants (August 2025).
+---------------------------------------------------------------------------
+    H.R. 3157 is a disingenuous proposal that targets clean 
+energy and does not seriously attempt to address concerns of 
+reliability or energy prices. For the reasons stated above, I 
+oppose this legislation.
+                                        Frank Pallone, Jr.,
+                                                    Ranking Member.
+
+                                  [all]
+

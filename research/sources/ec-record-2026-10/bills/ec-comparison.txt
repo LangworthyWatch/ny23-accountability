@@ -1,0 +1,48 @@
+All E&C-referred H.R. bills: n=2193  EC full-cmte markup=130 (5.9%)  EC reported=109 (5.0%)  passed House=108 (4.9%)  enacted=2
+R-sponsored E&C-referred H.R.: n=1057  EC full-cmte markup=98 (9.3%)  EC reported=80 (7.6%)  passed House=81 (7.7%)  enacted=1
+D-sponsored E&C-referred H.R.: n=1136  EC full-cmte markup=32 (2.8%)  EC reported=29 (2.6%)  passed House=27 (2.4%)  enacted=1
+Langworthy-sponsored E&C-referred H.R.: n=20  EC full-cmte markup=5 (25.0%)  EC reported=3 (15.0%)  passed House=1 (5.0%)  enacted=0
+
+Sponsors ranked by # E&C-referred H.R. bills marked up by full E&C (top 40); n_sponsors= 384
+  1. Rep. Latta, Robert E. [R-OH-5]  sponsored=16 markedup=7 reported=7
+  2. Rep. Evans, Gabe [R-CO-8]  sponsored=11 markedup=6 reported=5
+  3. Rep. Balderson, Troy [R-OH-12]  sponsored=17 markedup=5 reported=5
+  4. Rep. Pfluger, August [R-TX-11]  sponsored=25 markedup=5 reported=5
+  5. Rep. Carter, Earl L. "Buddy" [R-GA-1]  sponsored=22 markedup=5 reported=4
+  6. Rep. Miller-Meeks, Mariannette [R-IA-1]  sponsored=24 markedup=5 reported=4
+  7. Rep. Langworthy, Nicholas A. [R-NY-23]  sponsored=20 markedup=5 reported=3
+  8. Rep. Harshbarger, Diana [R-TN-1]  sponsored=26 markedup=5 reported=2
+  9. Rep. Guthrie, Brett [R-KY-2]  sponsored=7 markedup=4 reported=1
+ 10. Rep. Palmer, Gary J. [R-AL-6]  sponsored=6 markedup=3 reported=4
+ 11. Rep. Cammack, Kat [R-FL-3]  sponsored=14 markedup=3 reported=3
+ 12. Rep. Bilirakis, Gus M. [R-FL-12]  sponsored=21 markedup=3 reported=3
+ 13. Rep. Joyce, John [R-PA-13]  sponsored=21 markedup=3 reported=2
+ 14. Rep. Houchin, Erin [R-IN-9]  sponsored=16 markedup=3 reported=2
+ 15. Rep. Landsman, Greg [D-OH-1]  sponsored=16 markedup=3 reported=2
+ 16. Rep. Weber, Randy K. Sr. [R-TX-14]  sponsored=7 markedup=3 reported=1
+ 17. Rep. Menendez, Robert [D-NJ-8]  sponsored=12 markedup=3 reported=1
+ 18. Rep. Allen, Rick W. [R-GA-12]  sponsored=7 markedup=2 reported=2
+ 19. Rep. Pallone, Frank [D-NJ-6]  sponsored=13 markedup=2 reported=2
+ 20. Rep. Smith, Christopher H. [R-NJ-4]  sponsored=6 markedup=2 reported=2
+ 21. Rep. James, John [R-MI-10]  sponsored=10 markedup=2 reported=2
+ 22. Rep. Tonko, Paul [D-NY-20]  sponsored=20 markedup=2 reported=2
+ 23. Rep. Griffith, H. Morgan [R-VA-9]  sponsored=13 markedup=2 reported=2
+ 24. Rep. Valadao, David G. [R-CA-22]  sponsored=3 markedup=2 reported=2
+ 25. Rep. Fedorchak, Julie [R-ND-At Large]  sponsored=7 markedup=2 reported=2
+ 26. Rep. Goldman, Craig A. [R-TX-12]  sponsored=8 markedup=2 reported=1
+ 27. Rep. Matsui, Doris O. [D-CA-7]  sponsored=22 markedup=1 reported=4
+ 28. Rep. Kelly, Robin L. [D-IL-2]  sponsored=15 markedup=1 reported=1
+ 29. Rep. Torres, Ritchie [D-NY-15]  sponsored=8 markedup=1 reported=1
+ 30. Rep. DeGette, Diana [D-CO-1]  sponsored=11 markedup=1 reported=1
+ 31. Rep. Moolenaar, John R. [R-MI-2]  sponsored=11 markedup=1 reported=1
+ 32. Rep. Rulli, Michael A. [R-OH-6]  sponsored=9 markedup=1 reported=1
+ 33. Rep. Underwood, Lauren [D-IL-14]  sponsored=15 markedup=1 reported=1
+ 34. Rep. Kim, Young [R-CA-40]  sponsored=4 markedup=1 reported=1
+ 35. Rep. Hudson, Richard [R-NC-9]  sponsored=9 markedup=1 reported=1
+ 36. Rep. Dunn, Neal P. [R-FL-2]  sponsored=17 markedup=1 reported=1
+ 37. Del. Plaskett, Stacey E. [D-VI-At Large]  sponsored=3 markedup=1 reported=1
+ 38. Rep. Schrier, Kim [D-WA-8]  sponsored=13 markedup=1 reported=1
+ 39. Rep. Trahan, Lori [D-MA-3]  sponsored=14 markedup=1 reported=1
+ 40. Rep. Panetta, Jimmy [D-CA-19]  sponsored=8 markedup=1 reported=1
+
+Langworthy: [20, 5, 3, 'Rep. Langworthy, Nicholas A. [R-NY-23]']; sponsors with strictly more full-cmte-markup bills: 2

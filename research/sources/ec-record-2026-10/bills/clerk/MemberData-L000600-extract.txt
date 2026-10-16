@@ -1,0 +1,18 @@
+MemberData publish-date: {'publish-date': 'October 1, 2026'} [('congress-num', {}), ('congress-text', {}), ('session', {})]
+  congress-num 119 {}
+  congress-text One Hundred Nineteenth Congress {}
+  session 2 {}
+  majority R {}
+  minority D {}
+  clerk KEVIN F. McCUMBER {}
+  weburl https://clerk.house.gov {}
+<committee-assignments><committee comcode="GO00" rank="20" /><committee comcode="IF00" rank="25" /><committee comcode="RU00" rank="6" /><subcommittee subcomcode="IF03" rank="13" /><subcommittee subcomcode="IF14" rank="15" /><subcommittee subcomcode="IF18" rank="11" /><subcommittee subcomcode="RU02" rank="1" leadership="Chair" /></committee-assignments>
+statedistrict NY23
+IF00 Committee on Energy and Commerce
+IF03 Energy
+IF18 Environment
+IF14 Health
+GO00 Committee on Oversight and Government Reform
+RU00 Committee on Rules
+RU02 Legislative and Budget Process
+RU04 Rules and Organization of the House

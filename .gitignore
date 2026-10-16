@@ -47,3 +47,5 @@ research/sources/triage-2026-10-15/hochul-record/elliott/nyu-wagner-buffalo-bliz
 research/sources/triage-2026-10-15/hochul-record/wood-heat/scoping-plan-final-2022.pdf
 research/sources/triage-2026-10-15/hochul-record/taxes/fy26fp-en.pdf
 research/sources/triage-2026-10-15/hochul-record/taxes/fy27fp-en.pdf
+# govinfo BILLSTATUS bulk zips (234 MB); key XMLs are kept in ec-record-2026-10/bills/xml/
+research/sources/ec-record-2026-10/bills/bulk/

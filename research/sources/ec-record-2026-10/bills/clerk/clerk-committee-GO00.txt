@@ -1,0 +1,553 @@
+Office of the Clerk, U.S. House of Representatives
+Find Your Representative
+Search Office of the Clerk
+Toggle navigation
+Search Office of the Clerk
+Search button
+Legislative Information
+Legislative Information
+Legislative Activity
+Roll Call Votes
+Discharge Petitions
+live.house.gov
+Selected Memorials
+Consensus Calendar Motions
+119th Congress, 2nd Session
+House Not In Session
+Next Session: October 19th, 2026 at 10:00 AM
+House Floor Proceedings
+Watch live.house.gov
+Additional Resources
+Votes Legacy View - 2024
+120th Congress Nominees
+Statistics of the 2024 Congressional Election
+Final House Calendar (118th Congress)
+Résumé of Congressional Activity
+Legislative Search
+Congressional Record
+U.S. Senate
+House Schedule
+Bills This Week
+House Voting Days
+Member Information
+Member Information
+Member Profiles
+Leadership
+Election Information
+Current Vacancies
+Demographics
+Member Oaths
+Republicans
+218
+218
+Democrats
+214
+214
+Independents
+1
+1
+Vacancies
+2
+2
+Republican Leadership
+Rep. Mike Johnson
+Speaker of the House
+Rep. Steve Scalise
+Majority Leader
+Rep. Tom Emmer
+Majority Whip
+Rep. Lisa C. McClain
+Republican Conference Chair
+Rep. Jay Obernolte
+Republican Policy Committee Chair
+Democratic Leadership
+Rep. Hakeem S. Jeffries
+Minority Leader
+Rep. Katherine M. Clark
+Minority Whip
+Rep. Pete Aguilar
+Democratic Caucus Chair
+Rep. Ted Lieu
+Democratic Caucus Vice Chair
+Additional Resources
+Find Your Representative
+Official List of Members by State
+Official Member Telephone Directory
+Duplicate and Similar Names of Members
+Terms of Service
+Mailing Labels
+[
+MS Word
+|
+Text File
+]
+Member Data
+[
+Excel
+|
+XML
+|
+User Guide
+]
+Biographical Directory
+Members on Congress.gov
+Committee Information
+COMMITTEE INFORMATION
+COMMITTEE PROFILES
+Agriculture
+Appropriations
+Armed Services
+Budget
+Education and Workforce
+Energy and Commerce
+Ethics
+Financial Services
+Foreign Affairs
+Homeland Security
+House Administration
+Judiciary
+Natural Resources
+Oversight and Government Reform
+Rules
+Science, Space, and Technology
+Small Business
+Transportation and Infrastructure
+Veterans' Affairs
+Ways and Means
+Select Intelligence
+Select Strategic Competition
+Joint Economic
+Joint Library
+Joint Printing
+Joint Taxation
+Additional Resources
+Official List of Members with Committee Assignments
+Official List of Standing Committees and Subcommittees
+Committee Repository
+Committee Reports
+Committees on Congress.gov
+Committee Data
+[
+Excel
+]
+Disclosures
+Disclosures
+PUBLIC DISCLOSURE
+Financial Disclosure Reports
+Foreign Travel Reports and Expenditures
+Unsolicited Mass Communications
+Gift Travel Filings
+Legal Expense Fund Disclosures
+Office of Congressional Conduct
+Post-Employment Notifications
+Additional Resources
+Lobbying Disclosures
+Public Laws
+Lobbying Disclosure Act
+About the Clerk
+About the Clerk
+Overview and Contact
+Duties of the Clerk
+Offices and Services
+History of the Office
+The Clerk of the House
+The Honorable Kevin F. McCumber
+Clerk of the U.S. House of Representatives
+Deputy Clerk
+Michelle H. Reinshuttle
+Deputy Clerk
+Contact Information
+Mailing Address
+U.S. Capitol
+Room H154
+Washington, DC 20515–6601
+Telephone Number
+(202) 225–7000
+Office Hours
+9:00 AM–6:00 PM, Monday–Friday
+Additional Resources
+Artificial Intelligence Use Case Inventory
+[
+USHouse-Clerk-1: Comparative Print Suite
+]
+119th Congress, 2nd Session
+Committee Profile
+Overview & Contact
+Subcommittees
+Members
+RESOURCES
+Phone Directory
+Committee Reports
+Committee Hearing Schedule
+Committee FAQs
+Committee Profiles
+Committee on Oversight and Government Reform
+Committee on Oversight and Government Reform
+Share
+Overview & Contact
+Overview & Contact
+Contact
+Committee on Oversight and Government Reform
+2157 Rayburn House Office Building
+Washington, DC  20515-6143
+(202) 225-5074
+Website:
+https://oversight.house.gov
+Upcoming Meetings
+There are no upcoming meetings.
+Subcommittees
+Subcommittees
+Cybersecurity, Information Technology, and Government Innovation Subcommittee
+Delivering on Government Efficiency Subcommittee
+Economic Growth, Energy Policy, and Regulatory Affairs Subcommittee
+Federal Law Enforcement Subcommittee
+Government Operations Subcommittee
+Health Care and Financial Services Subcommittee
+Military and Foreign Affairs Subcommittee
+Members
+Members
+Ratio 26 / 21
+Republican
+2.
+}
+else if (!Model.IsJointCommittee)
+-->
+1.
+James Comer
+, KY
+Chair
+COMER,JAMES KY
+3.
+}
+else if (!Model.IsJointCommittee)
+-->
+2.
+Jim Jordan
+, OH
+JORDAN,JIM OH
+4.
+}
+else if (!Model.IsJointCommittee)
+-->
+3.
+Michael R. Turner
+, OH
+TURNER,MICHAEL OH
+5.
+}
+else if (!Model.IsJointCommittee)
+-->
+4.
+Paul A. Gosar
+, AZ
+GOSAR,PAUL AZ
+6.
+}
+else if (!Model.IsJointCommittee)
+-->
+5.
+Virginia Foxx
+, NC
+FOXX,VIRGINIA NC
+7.
+}
+else if (!Model.IsJointCommittee)
+-->
+6.
+Glenn Grothman
+, WI
+GROTHMAN,GLENN WI
+8.
+}
+else if (!Model.IsJointCommittee)
+-->
+7.
+Michael Cloud
+, TX
+CLOUD,MICHAEL TX
+9.
+}
+else if (!Model.IsJointCommittee)
+-->
+8.
+Gary J. Palmer
+, AL
+PALMER,GARY AL
+10.
+}
+else if (!Model.IsJointCommittee)
+-->
+9.
+Clay Higgins
+, LA
+HIGGINS,CLAY LA
+11.
+}
+else if (!Model.IsJointCommittee)
+-->
+10.
+Pete Sessions
+, TX
+SESSIONS,PETE TX
+12.
+}
+else if (!Model.IsJointCommittee)
+-->
+11.
+Andy Biggs
+, AZ
+BIGGS,ANDY AZ
+13.
+}
+else if (!Model.IsJointCommittee)
+-->
+12.
+Nancy Mace
+, SC
+MACE,NANCY SC
+14.
+}
+else if (!Model.IsJointCommittee)
+-->
+13.
+Pat Fallon
+, TX
+FALLON,PAT TX
+15.
+}
+else if (!Model.IsJointCommittee)
+-->
+14.
+Byron Donalds
+, FL
+DONALDS,BYRON FL
+16.
+}
+else if (!Model.IsJointCommittee)
+-->
+15.
+Scott Perry
+, PA
+PERRY,SCOTT PA
+17.
+}
+else if (!Model.IsJointCommittee)
+-->
+16.
+William R. Timmons IV
+, SC
+TIMMONS,WILLIAM SC
+18.
+}
+else if (!Model.IsJointCommittee)
+-->
+17.
+Tim Burchett
+, TN
+BURCHETT,TIM TN
+19.
+}
+else if (!Model.IsJointCommittee)
+-->
+18.
+Lauren Boebert
+, CO
+BOEBERT,LAUREN CO
+20.
+}
+else if (!Model.IsJointCommittee)
+-->
+19.
+Anna Paulina Luna
+, FL
+LUNA,ANNAPAULINA FL
+21.
+}
+else if (!Model.IsJointCommittee)
+-->
+20.
+Nicholas A. Langworthy
+, NY
+LANGWORTHY,NICHOLAS NY
+22.
+}
+else if (!Model.IsJointCommittee)
+-->
+21.
+Eric Burlison
+, MO
+BURLISON,ERIC MO
+23.
+}
+else if (!Model.IsJointCommittee)
+-->
+22.
+Elijah Crane
+, AZ
+CRANE,ELIJAH AZ
+24.
+}
+else if (!Model.IsJointCommittee)
+-->
+23.
+Brian Jack
+, GA
+JACK,BRIAN GA
+25.
+}
+else if (!Model.IsJointCommittee)
+-->
+24.
+John J. McGuire III
+, VA
+MCGUIRE,JOHN VA
+26.
+}
+else if (!Model.IsJointCommittee)
+-->
+25.
+Brandon Gill
+, TX
+GILL,BRANDON TX
+27.
+}
+else if (!Model.IsJointCommittee)
+-->
+26.
+Richard McCormick
+, GA
+MCCORMICK,RICHARD GA
+Democrat
+1.
+Robert Garcia
+, CA
+GARCIA,ROBERT CA
+2.
+Eleanor Holmes Norton
+, DC
+NORTON,ELEANOR DC
+3.
+Stephen F. Lynch
+, MA
+LYNCH,STEPHEN MA
+4.
+Raja Krishnamoorthi
+, IL
+KRISHNAMOORTHI,RAJA IL
+5.
+Ro Khanna
+, CA
+KHANNA,RO CA
+6.
+Kweisi Mfume
+, MD
+MFUME,KWEISI MD
+7.
+Shontel M. Brown
+, OH
+BROWN,SHONTEL OH
+8.
+Melanie A. Stansbury
+, NM
+STANSBURY,MELANIE NM
+9.
+Maxwell Frost
+, FL
+FROST,MAXWELL FL
+10.
+Greg Casar
+, TX
+CASAR,GREG TX
+11.
+Jasmine Crockett
+, TX
+CROCKETT,JASMINE TX
+12.
+Emily Randall
+, WA
+RANDALL,EMILY WA
+13.
+Suhas Subramanyam
+, VA
+SUBRAMANYAM,SUHAS VA
+14.
+Yassamin Ansari
+, AZ
+ANSARI,YASSAMIN AZ
+15.
+Wesley Bell
+, MO
+BELL,WESLEY MO
+16.
+Lateefah Simon
+, CA
+SIMON,LATEEFAH CA
+17.
+Dave Min
+, CA
+MIN,DAVE CA
+18.
+James R. Walkinshaw
+, VA
+WALKINSHAW,JAMES VA
+19.
+Christian D. Menefee
+, TX
+MENEFEE,CHRISTIAN TX
+20.
+Ayanna Pressley
+, MA
+PRESSLEY,AYANNA MA
+21.
+Rashida Tlaib
+, MI
+TLAIB,RASHIDA MI
+Contact Information
+Room H154, The Capitol
+Washington, DC
+20515-6601
+p: (202) 225-7000
+For general inquiries:
+info.clerkweb@mail.house.gov
+For general technical support:
+techsupport.clerkweb@mail.house.gov
+Legislative Information
+Legislative Activity
+Roll Call Votes
+Discharge Petitions
+live.house.gov
+Selected Memorials
+Consensus Calendar Motions
+Member Information
+Member Profiles
+Leadership
+Election Information
+Current Vacancies
+Demographics
+Member Oaths
+Disclosures
+Financial Disclosure Reports
+Foreign Travel Reports and Expenditures
+Unsolicited Mass Communications
+Gift Travel Filings
+Legal Expense Fund Disclosures
+Office of Congressional Conduct
+Post-Employment Notifications
+About the Clerk
+Overview and Contact
+Duties of the Clerk
+Offices and Services
+History of the Office
+Committee Information
+Committee Profiles
+Clerk Sites
+Bills This Week
+Biographical Directory
+Clerk Kids
+Committee Repository
+History, Art & Archives
+Office of the Chaplain
+Help & Resources
+FAQs
+Privacy Policy
+Site Map

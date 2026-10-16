@@ -1,0 +1,485 @@
+
+House Report 119-482 - ENERGY CHOICE ACT
+
+[House Report 119-482]
+[From the U.S. Government Publishing Office]
+
+
+119th Congress }                                              { Report
+                        HOUSE OF REPRESENTATIVES
+  2d Session   }                                              { 119-482
+
+=======================================================================
+
+
+
+ 
+                           ENERGY CHOICE ACT
+
+                           ----------------
+                                
+February 4, 2026.--Committed to the Committee of the Whole House on the 
+              State of the Union and ordered to be printed
+
+                           ----------------
+                                
+        Mr. Guthrie, from the Committee on Energy and Commerce, 
+                        submitted the following
+
+
+                              R E P O R T
+
+                             together with
+
+                             MINORITY VIEWS
+
+                        [To accompany H.R. 3699]
+
+    The Committee on Energy and Commerce, to whom was referred 
+the bill (H.R. 3699) to prohibit States or local governments 
+from prohibiting or limiting the connection, reconnection, 
+modification, installation, transportation, distribution, or 
+expansion of an energy service based on the type or source of 
+energy to be delivered, and for other purposes, having 
+considered the same, reports favorably thereon with an 
+amendment and recommends that the bill as amended do pass.
+
+                                CONTENTS
+
+                                                                   Page
+Purpose and Summary..............................................     2
+Background and Need for Legislation..............................     2
+Committee Action.................................................     3
+Committee Votes..................................................     4
+Oversight Findings and Recommendations...........................     7
+New Budget Authority, Entitlement Authority, and Tax Expenditures     7
+Congressional Budget Office Estimate.............................     7
+Federal Mandates Statement.......................................     7
+Statement of General Performance Goals and Objectives............     7
+Duplication of Federal Programs..................................     7
+Related Committee and Subcommittee Hearings......................     7
+Committee Cost Estimate..........................................     8
+Earmark, Limited Tax Benefits, and Limited Tariff Benefits.......     9
+Advisory Committee Statement.....................................     9
+Applicability to Legislative Branch..............................     9
+Section-by-Section Analysis of the Legislation...................     9
+Changes in Existing Law Made by the Bill, as Reported............     9
+Minority, Additional, or Dissenting Views........................    10
+
+    The amendment is as follows:
+    Strike all after the enacting clause and insert the 
+following:
+
+SECTION 1. SHORT TITLE.
+
+  This Act may be cited as the ``Energy Choice Act''.
+
+SEC. 2. LIMITATIONS ON REGULATION OF ENERGY CHOICE.
+
+  A State or local government, or instrumentality or regulatory agency 
+thereof, may not adopt, implement, or enforce a law, regulation, 
+ordinance, building code, standard, or policy that prohibits or limits, 
+or has the effect of directly or indirectly prohibiting or limiting the 
+connection, reconnection, modification, installation, transportation, 
+distribution, expansion, or access to an energy service based on the 
+type or source of energy that is sold in interstate commerce to be 
+delivered to an end-user of such energy service.
+
+                          PURPOSE AND SUMMARY
+
+    H.R. 3699, the Energy Choice Act, was introduced by 
+Representative Langworthy (R-NY) on June 4, 2025, and referred 
+to the Committee on Energy and Commerce on June 4, 2025. H.R. 
+3699 prohibits state or local governments from implementing, 
+adopting, or enforcing any law, regulation, or policy that 
+directly or indirectly prohibits or limits access to an energy 
+service based on the type or energy or fuel source that is 
+sold.
+
+                  BACKGROUND AND NEED FOR LEGISLATION
+
+    On May 3, 2023, the state of New York signed into law 
+legislation to ban the use of fossil fuel equipment and 
+building systems for new construction starting in 2026.\1\ 
+While New York was the first state to institute a ban on 
+natural gas in new buildings, several other states and 
+localities have followed suit, including those in Washington, 
+California, and the District of Columbia.\2\ The result of 
+these natural gas bans are families and consumers not having 
+choices regarding what energy source best fits their needs.
+---------------------------------------------------------------------------
+    \1\S.B. S4006C, 2023-2024 Leg. Sess. (NY. 2023).
+    \2\Tom DiChristopher and Anna Duquiatan, States that outlaw gas 
+bans account for 31% of US residential/commercial gas use, S&P Global 
+(Jun. 9, 2022), https://www.spglobal.com/
+market-intelligence/en/news-insights/articles/2022/6/states-that-
+outlaw-gas-bans-account-for-31-of-us-residential-commercial-gas-use-
+70749584.
+---------------------------------------------------------------------------
+    Natural gas is used by tens of millions of American 
+families across the United States. As recent as 2020, data from 
+the U.S. Energy Information Administration found that 61 
+percent of American households use natural gas for at least one 
+energy end use, most commonly stoves, furnaces for space 
+heating, and water heaters.\3\ In states like California, which 
+has implemented a ban on natural gas, penetration of end use 
+reaches at least 80 percent of households.\4\ Two thirds of the 
+American population uses natural gas over other fuel sources 
+because it is affordable, reliable, and plentiful. This 
+significant portion of the U.S. population using natural gas as 
+a fuel source underscores the impactful and far-reaching nature 
+of natural gas bans.
+---------------------------------------------------------------------------
+    \3\U.S. Energy Info. Admin. (EIA), The majority of U.S. households 
+used natural gas in 2020, (Mar. 23, 2023), https://www.eia.gov/
+todayinenergy/detail.php?id=55940.
+    \4\Id.
+---------------------------------------------------------------------------
+    Natural gas is one of the most affordable forms of energy. 
+Price data has shown that in the vast majority of states, using 
+natural gas for space heating is cheaper than electric 
+alternatives, and geographic location is an important component 
+of price differences.\5\ In states such as New York, the price 
+difference can be staggering. Certain natural gas furnaces had 
+an average annual energy cost of $548, while the cost for 
+certain electric heat pumps was $1,138, more than double the 
+price of an identically rated natural gas furnace.\6\ This 
+trend is similar for most other states, with colder regions 
+generally showing greater price differences as seen in New 
+York. These bans force consumers to pay higher prices for their 
+home energy needs, while using energy in a less efficient 
+manner.
+---------------------------------------------------------------------------
+    \5\American Gas Association, Natural Gas or a Heat Pump? Where you 
+Live Matters, (Jan. 26, 2024), https://www.aga.org/natural-gas-or-a-
+heat-pump-where-you-live-matters/.
+    \6\Id.
+---------------------------------------------------------------------------
+    Additionally, natural gas use bolsters the resilience of 
+our nation's grid and the consumers which rely upon it. Homes 
+that rely on electric stoves, electric heat pumps for space 
+heating, electric water heaters, and other electric appliances 
+use significantly more kilowatt hours of electricity than homes 
+using natural gas. Meanwhile, the United States is facing a 
+grid reliability crisis as demand grows without generation 
+growth to match it. A significant portion of this load increase 
+is a result of all-electric agendas. Natural gas helps 
+alleviate this trend by providing energy for imperative 
+functions of a household without increasing the demand on the 
+grid. Furthermore, natural gas bolsters home resiliency as many 
+natural gas appliances can continue critical functions if power 
+service is interrupted.
+    When gas bans are enacted, American families, the economy, 
+and consumers pay the price. This prejudice towards natural gas 
+not only limits consumer choice but also increases costs for 
+everyday Americans to heat their homes in the winter. H.R. 3699 
+addresses this critical issue by prohibiting any state or local 
+authority from establishing any law or regulation that 
+prohibits or limits access to an energy service based on the 
+type or source of energy. The Committee intends for this 
+legislation to apply only to bans on an energy service based 
+upon the fuel source. It is not intended to impact state or 
+local energy projects, safety measures, or zoning decisions. 
+This legislation is fuel neutral, leaving the choice up to 
+consumers, not the heavy hand of the federal government.
+
+                            COMMITTEE ACTION
+
+    On September 16, 2025, the Subcommittee on Energy held a 
+legislative hearing on H.R. 3699. The Subcommittee received 
+testimony from:
+           Jeff Novak, Acting General Counsel and 
+        Principal Deputy General Counsel, U.S. Department of 
+        Energy;
+           George Lowe, Vice President of Governmental 
+        Affairs and Public Policy, American Gas Association;
+           Jennifer Cleary, Vice President of 
+        Regulatory Affairs, Association of Home Appliance 
+        Manufacturers;
+           Brian Tebbenkamp, President and Owner, 
+        Patriot Homes Inc; and,
+           Andrew deLaski, Executive Director, 
+        Appliance Standards Awareness Project.
+    On November 19, 2025, the Subcommittee on Energy met in 
+open markup session and forwarded H.R. 3699, as amended to the 
+full Committee by a voice vote. On December 3, 2025, the full 
+Committee on Energy and Commerce met in open markup session and 
+ordered H.R. 3699, without amendment, favorably reported to the 
+House by a record vote of 24 yeas and 21 nays.
+
+                            COMMITTEE VOTES
+
+    Clause 3(b) of rule XIII requires the Committee to list the 
+record votes on the motion to report legislation and amendments 
+thereto. The following reflects the record votes taken during 
+the Committee consideration:
+
+[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] 
+
+                 OVERSIGHT FINDINGS AND RECOMMENDATIONS
+
+    Pursuant to clause 2(b)(1) of rule X and clause 3(c)(1) of 
+rule XIII, the Committee held hearings and made findings that 
+are reflected in this report.
+
+     NEW BUDGET AUTHORITY, ENTITLEMENT AUTHORITY, AND TAX  
+                         EXPENDITURES
+
+    Pursuant to clause 3(c)(2) of rule XIII, the Committee 
+finds that H.R. 3699 would result in no new or increased budget 
+authority, entitlement authority, or tax expenditures or 
+revenues.
+
+                  CONGRESSIONAL BUDGET OFFICE ESTIMATE
+
+    Pursuant to clause 3(c)(3) of rule XIII, at the time this 
+report was filed, the cost estimate prepared by the Director of 
+the Congressional Budget Office pursuant to section 402 of the 
+Congressional Budget Act of 1974 was not available.
+
+                       FEDERAL MANDATES STATEMENT
+
+    The Committee adopts as its own the estimate of Federal 
+mandates prepared by the Director of the Congressional Budget 
+Office pursuant to section 423 of the Unfunded Mandates Reform 
+Act.
+
+         STATEMENT OF GENERAL PERFORMANCE GOALS AND OBJECTIVES
+
+    Pursuant to clause 3(c)(4) of rule XIII, the general 
+performance goal or objective of this legislation is to 
+prohibit state or local governments from implementing, 
+adopting, or enforcing any law, regulation or policy that 
+directly or indirectly prohibits or limits access to an energy 
+service based on the type or source of energy that is sold.
+
+                    DUPLICATION OF FEDERAL PROGRAMS
+
+    Pursuant to clause 3(c)(5) of rule XIII, no provision of 
+H.R. 3699 is known to be duplicative of another Federal 
+program, including any program that was included in a report to 
+Congress pursuant to section 21 of Public Law 111-139 or the 
+most recent Catalog of Federal Domestic Assistance.
+
+              RELATED COMMITTEE AND SUBCOMMITTEE HEARINGS
+
+    Pursuant to clause 3(c)(6) of rule XIII, the following 
+related hearings were used to develop or consider H.R. 3699:
+    On February 5, 2025, the Subcommittee on Energy held a 
+hearing on H.R. 3699. The title of the hearing was ``Powering 
+America's Future: Unleashing American Energy.'' The 
+Subcommittee received testimony from:
+           Amanda Eversole, Executive Vice President 
+        and Chief Advocacy Officer, American Petroleum 
+        Institute;
+           Brigham McCown, Senior Fellow and Director, 
+        Initiative on American Energy Security, The Hudson 
+        Institute;
+           Gary Arnold, Business Manager, Denver 
+        Pipefitters Local 208; and,
+           Tyler O'Conner, Partner, Crowell & Moring 
+        LLP.
+    On February 26, 2025, the Subcommittee on Oversight and 
+Investigations held a hearing on H.R. 3699. The title of the 
+hearing was ``Examining the Biden Administration's Energy and 
+Environment Spending Push.'' The Subcommittee received 
+testimony from:
+           Johnathan Black, Chief Advisor for Strategic 
+        Planning and Program Oversight, Office of Inspector 
+        General, U.S. Department of Energy;
+           J. Alfredo Gomez, Director, Natural 
+        Resources and Environment team, U.S. Government 
+        Accountability Office;
+           Nicole Murley, Acting Inspector General, 
+        Office of Inspector General, U.S. Environmental 
+        Protection Agency; and,
+           Frank Rusco, Director, Natural Resources and 
+        Environment team, U.S. Government Accountability 
+        Office.
+    On March 5, 2025, the Subcommittee on Energy held a hearing 
+on H.R. 3699. The title of the hearing was ``Scaling for 
+Growth: Meeting the Demand for Reliable, Affordable 
+Electricity.'' The Subcommittee received testimony from:
+           Todd Brickhouse, CEO and General Manager, 
+        Basin Electric Power Cooperative;
+           Asim Z. Haque, Senior Vice President for 
+        Governmental and Member Servies, PJM;
+           Noel W. Black, Senior Vice President of 
+        Regulatory Affairs, Southern Company; and
+           Tyler H. Norris, James B. Duke Fellow, Duke 
+        University.
+    On September 9, 2025, the Subcommittee on Energy held a 
+hearing on H.R. 3699. The title of the hearing was ``Building 
+the American Dream: Examining Affordability, Choice, and 
+Security in Appliance and Buildings Policies.'' The 
+Subcommittee received testimony from:
+           Buddy Hughes, Chairman, National Association 
+        of Home Builders;
+           Ben Lieberman, Senior Fellow, Competitive 
+        Enterprise Institute;
+           Jim Steffes, Senior Vice President of 
+        Regulatory Affairs, Washington Gas; and,
+           Kara Saul-Rinaldi, Chief Policy Officer, 
+        Building Performance Association.
+    On September 16, 2025, the Subcommittee on Energy held a 
+legislative hearing on H.R. 3699. The title of the hearing was 
+``Appliance and Buildings Policies: Restoring the American 
+Dream of Home Ownership and Consumer Choice.'' The Subcommittee 
+received testimony from:
+           Jeff Novak, Acting General Counsel and 
+        Principal Deputy General Counsel, U.S. Department of 
+        Energy;
+           George Lowe, Vice President of Governmental 
+        Affairs and Public Policy, American Gas Association;
+           Jennifer Cleary, Vice President of 
+        Regulatory Affairs, Association of Home Appliance 
+        Manufacturers;
+           Brian Tebbenkamp, President and Owner, 
+        Patriot Homes Inc.; and,
+           Andrew deLaski, Executive Director, 
+        Appliance Standards Awareness Project.
+
+                        COMMITTEE COST ESTIMATE
+
+    Pursuant to clause 3(d)(1) of rule XIII, the Committee 
+adopts as its own the cost estimate prepared by the Director of 
+the Congressional Budget Office pursuant to section 402 of the 
+Congressional Budget Act of 1974. At the time this report was 
+filed, the estimate was not available.
+
+       EARMARK, LIMITED TAX BENEFITS, AND LIMITED TARIFF BENEFITS
+
+    Pursuant to clause 9(e), 9(f), and 9(g) of rule XXI, the 
+Committee finds that H.R. 3699 contains no earmarks, limited 
+tax benefits, or limited tariff benefits.
+
+                      ADVISORY COMMITTEE STATEMENT
+
+    No advisory committees within the meaning of section 5(b) 
+of the Federal Advisory Committee Act were created by this 
+legislation.
+
+                  APPLICABILITY TO LEGISLATIVE BRANCH
+
+    The Committee finds that the legislation does not relate to 
+the terms and conditions of employment or access to public 
+services or accommodations within the meaning of section 
+102(b)(3) of the Congressional Accountability Act.
+
+             SECTION-BY-SECTION ANALYSIS OF THE LEGISLATION
+
+Section 1: Short title
+
+    Section 1 provides a short title of the ``Energy Choice 
+Act.''
+
+Section 2: Limitations on regulation of energy choice
+
+    Section 2 prohibits State or local governments from 
+adopting any law, regulation, ordinance, buildings code, 
+standard or policy that prohibits or limits, or indirectly 
+prohibits or limits, the connection, reconnection, 
+modification, installation, transportation, distribution, 
+expansion or access to an energy service based on the type or 
+source of the energy sold.
+
+         CHANGES IN EXISTING LAW MADE BY THE BILL, AS REPORTED
+
+    This legislation does not amend any existing Federal 
+statute.
+
+                             MINORITY VIEWS
+
+    H.R. 3699 restricts state and local governments from 
+issuing any rule or taking any action that would even 
+indirectly limit an energy source in any way. Aside from the 
+obvious federal overreach, the bill is overly broad and would 
+have potentially disastrous consequences for state and local 
+economic and safety regulations. The federal government has no 
+business interfering in state and local efforts to keep 
+communities safe.
+    The majority's report largely focuses on preventing so-
+called ``gas bans,'' or restrictions by state and local 
+governments on the usage of natural gas in new residential and 
+commercial construction by developers. However, as written, 
+H.R. 3699 restricts states and local governments from far more 
+than just implementing gas bans. The bill covers laws, rules, 
+building codes and standards, or any other policies adopted by 
+state and local governments--and targets not only those actions 
+that would directly impact energy, but those that would 
+indirectly impact energy as well. The result of the restriction 
+on indirect limitations is that the bill could prohibit state 
+and local governments from enforcing electrical safety codes, 
+ordering the shutoff of gas during natural disasters, or 
+regulating the prices that data centers pay for electricity.
+    Stakeholders raised similar concerns as the bill moved 
+through the committee process. The Public Health Law Center 
+noted that the bill eliminates ``large swathes of commonsense 
+health and safety protections'' and threatens long-standing 
+regulations on the price of energy utilities.\1\ A letter sent 
+to Chairman Guthrie ahead of the Committee's markup of the bill 
+noted that the bill could have the presumably unintended 
+consequence of limiting Americans' ability to access community 
+choice aggregation programs, which allow greater access to 
+different sources of energy.\2\
+---------------------------------------------------------------------------
+    \1\Public Health Law Center, Bad Choice: H.R. 3699's Threat to 
+Public Health and Energy Affordability (Sept. 19, 2025) (https://
+www.publichealthlawcenter.org/commentary/250919/9/19/25-bad-choice-hr-
+3699s-threat-public-health-and-energy-affordability).
+    \2\Letter from Local Energy Aggregation Network to Rep. Brett 
+Guthrie, Chairman, House Committee on Energy and Commerce, Rep. Frank 
+Pallone, Jr., Ranking Member, House Committee on Energy and Commerce 
+(Dec. 2, 2025).
+---------------------------------------------------------------------------
+    In response to these concerns, Subcommittee on Energy 
+Ranking Member Kathy Castor (D-FL) offered an amendment that 
+would have restricted the bill's prohibition to only direct 
+prohibitions on energy technologies. Her amendment also would 
+have added a savings clause to the bill, ensuring that the bill 
+did not inadvertently restrict the ability of states or local 
+governments to regulate utility rates or energy infrastructure 
+safety. The amendment was defeated on a party-line vote.\3\
+---------------------------------------------------------------------------
+    \3\Full Committee, Markup of 15 Bills, 119th Cong. (Dec. 3, 2025).
+---------------------------------------------------------------------------
+    Unfortunately, one amendment was adopted that enhanced 
+concerns about the scope and applicability of the bill. As 
+introduced, the bill included a definition of ``energy'' that 
+the restriction on state and local government policies applied 
+to. However, in the Energy Subcommittee's markup of the bill, 
+an amendment was adopted stripping the bill of the definition--
+leaving the ultimate scope and applicability of the bill even 
+more unclear than before.\4\
+---------------------------------------------------------------------------
+    \4\Subcommittee on Energy, Markup of 8 Bills, 119th Cong. (Nov. 19, 
+2025).
+---------------------------------------------------------------------------
+    If Republicans are truly focused on combating prohibitions 
+on energy sources, they should turn their attention to the 
+Administration's war on clean energy. As one of the nation's 
+grid operators recently stated in a court filing, killing just 
+a single offshore wind project ``will cause irreparable harm to 
+the 67 million Americans served by PJM [the grid operator] 
+given this region's . . . critical need for new generation 
+resources . . .''\5\ That was the damage done by one 
+cancellation--and 324 energy projects have been canceled or 
+delayed since President Trump took office.\6\ Republicans 
+should focus on stopping the President's attack on clean, cheap 
+energy instead of limiting state and local officials' ability 
+to enforce safety codes.
+---------------------------------------------------------------------------
+    \5\Proposed Amicus Curiae PJM Interconnection, L.L.C.'s Motion for 
+Leave to File Amicus Curiae Brief (Jan. 9, 2026) Dominion Energy 
+Virginia v. U.S. Dept. of Interior, (No. 2:25 CV 830).
+    \6\Climate Power, SNAPSHOT: Trump's Unfolding Energy Crisis (Dec. 
+2025).
+---------------------------------------------------------------------------
+    For the reasons stated above, I dissent from the views 
+contained in the Committee's report and oppose H.R. 3699.
+
+                                        Frank Pallone, Jr.,
+                                                    Ranking Member.
+
+                                  [all]  
+
