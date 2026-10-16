@@ -62,6 +62,7 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 
 | Item | Card / text | Live entry? | Social status |
 |---|---|---|---|
+| Energy-ban debate clips (FALSE, #168) | card `energy_ban_opponent_card.png` + caption `energy_ban_opponent_post.md` (Desktop copy of card) | yes (live Oct 15) | **READY to post** |
 | State of the District — Q2 2026 | **text + carousel** (cover · by-the-numbers · federal-squeeze · county heat-ranking) | yes (live) | **READY to post** |
 | Jasper-Troupsburg FEMA ($60.5M, MOSTLY TRUE) | card + text ready | yes — corrected version **live** | **READY to post** |
 | Minnesota 50-state fraud | card + text on disk | yes | **POSTED** (confirmed 2026-06-14) |
