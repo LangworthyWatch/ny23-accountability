@@ -1,10 +1,10 @@
 {
   "generated": "2026-10-15",
-  "total": 168,
+  "total": 169,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 56,
-    "MISLEADING": 38,
+    "MISLEADING": 39,
     "DOCUMENTED PATTERN": 29,
     "CONTRADICTION": 13,
     "FALSE": 10,
@@ -21,17 +21,17 @@
     {
       "label": "MISSING CONTEXT",
       "count": 58,
-      "pct": 34.5
+      "pct": 34.3
     },
     {
       "label": "MISLEADING",
-      "count": 38,
-      "pct": 22.6
+      "count": 39,
+      "pct": 23.1
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 29,
-      "pct": 17.3
+      "pct": 17.2
     },
     {
       "label": "CONTRADICTION",
@@ -41,12 +41,12 @@
     {
       "label": "FALSE",
       "count": 10,
-      "pct": 6.0
+      "pct": 5.9
     },
     {
       "label": "MOSTLY TRUE",
       "count": 9,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "label": "MULTIPLE",
@@ -71,7 +71,7 @@
   ],
   "by_topic": {
     "Healthcare": 24,
-    "Economy": 17,
+    "Economy": 18,
     "Government Operations": 16,
     "Other": 10,
     "Immigration": 9,
@@ -122,7 +122,7 @@
     "2026-07": 24,
     "2026-08": 8,
     "2026-09": 13,
-    "2026-10": 2
+    "2026-10": 3
   },
   "entries": [
     {
@@ -131,6 +131,13 @@
       "verdict": "FALSE",
       "topic": "Energy",
       "url": "/fact-checks/2026-10-15-energy-ban-debate-clips/"
+    },
+    {
+      "title": "He Says His Tax Law 'Eliminated Taxes on Social Security for Middle Class Seniors.' It Never Changed the Rules for Taxing Benefits. Seven Tax Claims Checked.",
+      "date": "2026-10-15",
+      "verdict": "MISLEADING",
+      "topic": "Economy",
+      "url": "/fact-checks/2026-10-15-tax-claims-social-security-cola/"
     },
     {
       "title": "He Says 'My Dairy Farm Resiliency Act Strengthened' the Dairy Safety Net. His Bill Never Got a Hearing. The Provision Was a Colleague's Bill First, and the Committee Had It in Its Farm Bill a Year Before He Filed It.",
