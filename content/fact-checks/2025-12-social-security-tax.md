@@ -33,13 +33,12 @@ Many NY-23 seniors live on fixed incomes and depend on every dollar. When Langwo
 
 **The One Big Beautiful Bill Act (H.R. 1) provides:**
 
-A **$6,000 deduction** (not elimination) for seniors age 65+ on their Social Security benefits.
+A **$6,000 deduction** (not elimination) for every taxpayer age 65 or older (and for a spouse 65 or older on a joint return), whether or not they receive Social Security. It is a general deduction from taxable income, not a deduction tied to Social Security benefits. The tax rules that determine how much of a benefit is taxable (Internal Revenue Code Section 86) were not changed (P.L. 119-21, Sec. 70103).
 
-**Eligibility limits:**
-- Single filers: Income under $75,000
-- Married filing jointly: Income under $150,000
+**Income phase-out:**
+- The deduction is reduced by 6% of modified adjusted gross income above $75,000 (single filers) or $150,000 (married filing jointly).
 
-**Critical detail:** The provision **expires December 31, 2028** unless Congress extends it.
+**Critical detail:** The deduction applies to tax years 2025 through 2028 and **expires after December 31, 2028** unless Congress extends it.
 
 ---
 
@@ -62,13 +61,13 @@ Per Towerpoint Wealth analysis cited by Newsweek:
 
 **How it works:**
 - Currently, up to 85% of Social Security benefits can be taxable for higher earners
-- The $6,000 deduction reduces taxable amount
+- The $6,000 deduction reduces taxable income overall; it does not change how benefits themselves are taxed
 - Does NOT eliminate taxation for all seniors
 - Higher-income seniors will still pay some tax on benefits
 
 **Problem 3: It expires in 2028**
 
-The provision sunsets after 2028. Calling it a permanent change is misleading when it has a 3-year lifespan (starting 2026).
+The provision sunsets after 2028. Calling it a permanent change is misleading when it covers only four tax years (2025 through 2028).
 
 ---
 
@@ -137,7 +136,7 @@ Many rural seniors have modest incomes and already paid no tax on benefits. The 
 ## In Plain Language
 
 Here's what the law actually does:
-- Provides a **$6,000 deduction** on Social Security benefits for seniors earning under $75K (single) or $150K (married)
+- Provides a **$6,000 deduction** for every taxpayer 65 or older, whether or not they receive Social Security, phased out at 6% of income above $75K (single) or $150K (married)
 - This reduces taxable income — it doesn't eliminate Social Security taxes entirely
 - The provision **expires in 2028**
 - Higher-income seniors still pay taxes on benefits
@@ -203,4 +202,6 @@ And the same bill cuts $911 billion from Medicaid — which many low-income seni
 
 **Note:** This entry documents publicly available information from congressional records, tax policy analysis, and official statements. Readers may draw their own conclusions.
 
-**Last updated:** December 30, 2025
+**Correction (October 15, 2026):** An earlier version of this entry described the senior deduction as applying "on their Social Security benefits," as having a "3-year lifespan (starting 2026)," and as limited to filers with income under $75,000 (single) or $150,000 (married). Under P.L. 119-21, Sec. 70103, it is a general $6,000 deduction for every taxpayer age 65 or older, whether or not they receive Social Security, for tax years 2025 through 2028, reduced by 6% of modified adjusted gross income above $75,000 (single) or $150,000 (joint). Section 86 is unchanged (CRS R48613). The verdict is unchanged.
+
+**Last updated:** October 15, 2026

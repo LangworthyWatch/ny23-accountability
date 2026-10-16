@@ -1,10 +1,10 @@
 {
-  "generated": "2026-09-29",
-  "total": 165,
+  "generated": "2026-10-15",
+  "total": 167,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 56,
-    "MISLEADING": 36,
+    "MISLEADING": 38,
     "DOCUMENTED PATTERN": 29,
     "CONTRADICTION": 13,
     "FALSE": 9,
@@ -21,32 +21,32 @@
     {
       "label": "MISSING CONTEXT",
       "count": 58,
-      "pct": 35.2
+      "pct": 34.7
     },
     {
       "label": "MISLEADING",
-      "count": 36,
-      "pct": 21.8
+      "count": 38,
+      "pct": 22.8
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 29,
-      "pct": 17.6
+      "pct": 17.4
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "label": "MOSTLY TRUE",
       "count": 9,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "label": "FALSE",
       "count": 9,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "label": "MULTIPLE",
@@ -77,19 +77,19 @@
     "Immigration": 9,
     "Campaign Finance": 8,
     "Local Impact": 7,
+    "Agriculture": 6,
     "Transparency": 6,
     "Rule of Law": 5,
     "Energy": 5,
-    "Agriculture": 5,
     "Accountability & Governance": 4,
     "Veterans": 4,
     "Infrastructure": 4,
+    "Transportation": 3,
     "Ethics": 3,
     "Environment": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
     "Public Safety": 2,
-    "Transportation": 2,
     "Labor": 2,
     "Housing": 2,
     "Consumer Protection": 2,
@@ -121,9 +121,24 @@
     "2026-06": 25,
     "2026-07": 24,
     "2026-08": 8,
-    "2026-09": 12
+    "2026-09": 13,
+    "2026-10": 1
   },
   "entries": [
+    {
+      "title": "He Says 'My Dairy Farm Resiliency Act Strengthened' the Dairy Safety Net. His Bill Never Got a Hearing. The Provision Was a Colleague's Bill First, and the Committee Had It in Its Farm Bill a Year Before He Filed It.",
+      "date": "2026-10-08",
+      "verdict": "MISLEADING",
+      "topic": "Agriculture",
+      "url": "/fact-checks/2026-10-08-dairy-farm-resiliency-act-dmc/"
+    },
+    {
+      "title": "After a Pilot Attacked His Co-Pilot in the Cockpit, He Said 'Pass My Safer Skies Act' So Planes 'Can Never Again Be Used as a Weapon of Terror.' His Bill Is About Checkpoint Screening for Charter Passengers.",
+      "date": "2026-09-30",
+      "verdict": "MISLEADING",
+      "topic": "Transportation",
+      "url": "/fact-checks/2026-09-30-safer-skies-act-flydubai/"
+    },
     {
       "title": "Twice in a Week He Said Americans' Fear of AI Is Chinese Propaganda. The Documented Chinese Operation Is 200 Accounts About Data Centers, and Its Own Discoverers Say It Moved No One.",
       "date": "2026-09-26",
