@@ -1,0 +1,17 @@
+Row-level, non-memo, from raw .fec files in fec-2026-q3/cycle-2026/ (LfC C00817932 and CTW C00827881)
+20250214  1,000.00 Energy Marketers of America SBC PAC -> C00817932 | elec P2026 | file 1885807.fec
+20250313  1,000.00 NEFI Home Comfort PAC -> C00817932 | elec P2026 | file 1885807.fec
+20250214  5,000.00 National Propane Gas Association PAC -> C00817932 | elec P2026 | file 1885807.fec
+20250619  1,000.00 Energy Marketers of America SBC PAC -> C00817932 | elec P2026 | file 1901038.fec
+20250930  2,500.00 NEFI Home Comfort PAC -> C00817932 | elec P2026 | file 1919900.fec
+20251126  5,000.00 NAHB BUILD-PAC -> C00827881 | elec  | file 1928382.fec
+20251230  2,500.00 American Gas Association PAC -> C00817932 | elec P2026 | file 1937298.fec
+20251126  5,000.00 NAHB BUILD-PAC -> C00817932 | elec P2026 | file 1937298.fec
+20251126  1,000.00 NFIB PAC -> C00817932 | elec P2026 | file 1937298.fec
+20260218  5,000.00 NEFI Home Comfort PAC -> C00817932 | elec G2026 | file 1961860.fec
+20260218  5,000.00 National Propane Gas Association PAC -> C00817932 | elec G2026 | file 1961860.fec
+20260512  5,000.00 NAHB BUILD-PAC -> C00827881 | elec  | file 1982670.fec
+20260608  5,000.00 American Gas Association PAC -> C00817932 | elec G2026 | file 1990369.fec
+20260630  5,000.00 NAHB BUILD-PAC -> C00817932 | elec G2026 | file 1990369.fec
+20260608  1,000.00 INGAA PAC -> C00817932 | elec P2026 | file 1990369.fec
+20260729  1,000.00 Energy Marketers of America SBC PAC -> C00817932 | elec G2026 | file 2020557.fec
