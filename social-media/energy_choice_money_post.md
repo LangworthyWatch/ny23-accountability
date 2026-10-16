@@ -18,7 +18,7 @@ His campaign posted this month that the bill protects families' "freedom to choo
 
 The fair reading: all of this is legal and disclosed. PACs often give to members who already agree with them, and the records can't show which came first. The propane group sent identical checks to other members on the same days. NEFI's PAC also funds Democrats. And the $54,000 is about 4% of the PAC and party money his committees took in. This is a documented sequence, not proof of a deal.
 
-But when a bill is sold as protecting your choices, you should know who helped write it and who funds its sponsor.
+But when a bill is sold as protecting your choices, you should know who says it helped write it and who funds its sponsor.
 
 Don't take our word for it. Every figure comes from the FEC filings, linked in the entry.
 
