@@ -1,0 +1,646 @@
+Taxation of Social Security Benefits and the
+Senior Deduction in P.L. 119-21: In Brief
+
+August 1, 2025
+
+
+
+
+                                Congressional Research Service
+                                 https://crsreports.congress.gov
+                                                        R48613
+                              Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+Contents
+Introduction ..................................................................................................................................... 1
+Taxation of Social Security Benefits ............................................................................................... 1
+The Senior Deduction in P.L. 119-21 .............................................................................................. 1
+Effect of the Senior Deduction on Taxation of Social Security Benefits ........................................ 1
+Additional Considerations ............................................................................................................... 4
+    Coverage of Social Security Beneficiaries by the Senior Deduction ........................................ 4
+    The Senior Deduction for Seniors Who Do Not Receive Social Security Benefits .................. 5
+    Effects on the Social Security and Hospital Insurance Trust Funds.......................................... 5
+
+
+Tables
+Table 1. Examples of Taxable Social Security Benefits for Social Security Recipients ................. 2
+Table 2. Calculation of Taxable Income for Examples of Single Filers Age 65 or Older ............... 2
+Table 3. Calculation of Taxable Income for Examples of Married Couples Filing Jointly
+  with at Least One Social Security Recipient and One Spouse Age 65 or Older .......................... 3
+Table 4. Social Security Beneficiaries in Current Pay Status .......................................................... 4
+
+
+Contacts
+Author Information.......................................................................................................................... 6
+
+
+
+
+Congressional Research Service
+                        Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+Introduction
+Social Security provides monthly cash benefits to eligible retired or disabled workers and their
+family members and to the eligible family members of deceased workers. In May 2025, the
+Social Security system provided $129.4 billion in monthly benefits to 69.6 million retired or
+disabled workers and spouses, survivors, and dependents of insured workers.1 Since 1984, a
+portion of Social Security benefits is subject to federal income tax, depending on the beneficiary’s
+income and other factors.
+This report highlights how taxation of benefits is impacted by the new senior deduction in Section
+70103 of the recently enacted P.L. 119-21. While the new senior deduction has been discussed in
+the context of taxation of Social Security benefits, the calculation of taxable Social Security
+benefits remains unchanged in Section 86 of the Internal Revenue Code.2 The main eligibility
+requirements for the senior deduction are that (1) the taxpayer be age 65 or older, (2) the taxpayer
+have a work-authorized Social Security number, and (3) if married, the taxpayer must file a joint
+return.
+
+
+Taxation of Social Security Benefits
+Taxation of Social Security benefits began with the Social Security Amendments of 1983. The
+rationale for taxing Social Security benefits included improving tax equity by treating Social
+Security benefits more like other forms of retirement income and other income designed to
+replace lost wages. Further, it provided revenue to strengthen the financial solvency of the Social
+Security trust funds.3
+Under current law, the amount of Social Security benefits included in a taxpayer’s income is
+calculated using a statutory formula. Up to 85% of Social Security benefits can be included in
+taxable income for recipients whose “provisional income” exceeds either of two statutory
+thresholds (based on filing status). Provisional income is adjusted gross income plus certain
+otherwise tax-exempt income (tax-exempt interest) plus certain income specifically excluded
+from federal income taxation (interest on certain U.S. savings bonds, employer-provided adoption
+benefits, foreign earned income or foreign housing, and income earned in Puerto Rico or
+American Samoa by bona fide residents) plus 50% of Social Security benefits.
+Social Security beneficiaries whose provisional income is above one of two statutory thresholds
+may pay federal income taxes on a portion of their Social Security benefits.4
+The first-tier thresholds, below which no Social Security benefits are taxable, are $25,000 of
+provisional income for taxpayers filing as single, head of household, or qualifying widow(er) and
+$32,000 of provisional income for married taxpayers filing joint returns. In the case of taxpayers
+who are married filing separately, the threshold is also $25,000 of provisional income if the
+
+1 Social Security Administration (SSA), “Monthly Statistical Snapshot, May 2025,” Table 2, https://www.ssa.gov/
+
+policy/docs/quickfacts/stat_snapshot/2025-05.html.
+2 26 U.S.C. §86.
+
+3 Taxation of Social Security benefits improves the financial solvency of the trust funds because a portion of income
+
+tax liability attributable to Social Security benefits is transferred to the trust fund that pays those benefits. U.S.
+Congress, House Committee on Ways and Means, Social Security Act Amendments of 1983, report on H.R. 1900
+together with additional and dissenting views, 98th Cong., 1st sess., March 4, 1983, Rept. 98-25 Part 1 (GPO, 1983), pp.
+24-25.
+4 This calculation determines Social Security benefits included in taxable income but does not determine the taxes due
+
+on taxable income.
+
+
+
+Congressional Research Service                                                                                         1
+                       Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+spouses lived apart all year, but it is $0 for those who lived together at any point during the tax
+year.
+If provisional income is between the first-tier thresholds and the second-tier thresholds of $34,000
+(for single filers) or $44,000 (for married couples filing jointly), the amount of Social Security
+benefits subject to tax is the lesser of (1) 50% of Social Security benefits or (2) 50% of
+provisional income in excess of the first threshold.
+If provisional income is above the second-tier thresholds, the amount of Social Security benefits
+subject to tax is the lesser of (1) 85% of benefits or (2) 85% of provisional income above the
+second threshold plus the smaller of (a) $4,500 (for single filers) or $6,000 (for married filers) or
+(b) 50% of benefits.
+Because the threshold for married taxpayers filing separately who have lived together any time
+during the tax year is $0, the taxable benefits in such a case are the lesser of 85% of Social
+Security benefits or 85% of provisional income. None of the thresholds is indexed for inflation or
+wage growth.
+The calculation of income tax due happens separately from the amount of Social Security benefits
+included in total income. The income tax due depends on the rest of the taxpayer’s tax situation,
+especially on the total of any deductions the taxpayer is eligible for (including standard or
+itemized deductions and other deductions available only in certain situations, such as for qualified
+business income, educator expenses, or student loan interest paid).5 Therefore, some taxpayers
+may have taxable Social Security benefits included in income but not pay income tax on those
+benefits.
+
+
+
+
+5 For additional information on factors affecting income tax due, see CRS Report R48313, Overview of the Federal Tax
+
+System in 2024.
+
+
+
+Congressional Research Service                                                                                     1
+                       Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+Table 1 illustrates how taxable benefits are determined for three examples of single taxpayers and
+two examples of married couples filing joint returns. The table uses an average benefit of
+$1,857.75 per month6 per beneficiary, and the maximum benefit is $5,108 per month for a
+beneficiary retiring at age 70 in 2025.7 The Census Bureau estimated that in 2023 persons 65 or
+older with retirement income received an average of $28,150 in payments reported as survivor,
+disability, or retirement benefits, and persons 65 or older with earnings received an average of
+$62,810 in earnings.8 The other income in both tables represents possible income from work,
+pensions, assets, or other sources. These tables calculate only the Social Security benefits that are
+includible in income under current law; they do not calculate tax liability or taxes paid on
+benefits.
+
+
+
+
+6 SSA, “Monthly Statistical Snapshot, May 2025,” Table 2.
+
+7 SSA Frequently Asked Question “What is the maximum Social Security retirement benefit payable?”
+
+https://www.ssa.gov/faqs/en/questions/KA-01897.html. Because beneficiaries who would receive the maximum benefit
+would have been high earners over their working lives, they would likely have other income from pensions or assets.
+This example assumes no income other than Social Security to illustrate the differential impact of having additional
+Social Security and non–Social Security income (in other examples) on the determination of taxable Social Security
+income.
+8 U.S. Census Bureau, Current Population Survey Tables for Personal Income, Table PINC-08. Source of Income in
+
+2023—People 15 Years Old and Over by Income of Specified Type in 2023, Age, Race, Hispanic Origin, and Sex,
+https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc/pinc-08.html.
+
+
+
+Congressional Research Service                                                                                     1
+                               Table 1. Examples of Taxable Social Security Benefits for Social Security Recipients
+                                                                                           Single                        Married Filing Jointly
+
+                                                                                                                                      One Average
+                                                                         Average       Maximum         Average      Two Average       Benefit, One
+                                                                        Benefit, No    Benefit, No     Benefit,      Benefits, No       Average
+                                                                       Other Income   Other Income   Other Income   Other Income        Earner
+
+ Step 1: Calculate Provisional Income
+
+ Other income                                                          $0             $0             $28,150        $0               $62,810
+ + 50% of Social Security                                              $11,147        $30,648        $11,147        $22,293          $11,147
+ = Provisional income                                                  $11,147        $30,648        $39,297        $22,293          $73,957
+
+ Step 2: Compare Provisional Income to First-Tier Threshold
+
+ First-tier threshold                                                  $25,000        $25,000        $25,000        $32,000          $32,000
+ Excess over the first-tier threshold                                  Does not       $5,648         $9,000         Does not         $12,000
+ Lesser of:                                                            exceed—stop                                  exceed—stop
+ •    Provisional income minus first-tier threshold
+ •    Difference between first- and second-tier thresholds [$9,000]
+ First-tier taxable benefits equals                                    $0             $2,824         $4,500         $0               $6,000
+ Lesser of:
+ •    50% of benefits
+ •    50% of excess over first tier
+
+ Step 3: Compare Provisional Income to Second-Tier Threshold
+
+ Second-tier threshold                                                 $34,000        $34,000        $34,000        $44,000          $44,000
+ Calculate excess over the second-tier threshold (provisional income                  Does not       $5,297                          $29,957
+ minus second-tier threshold)                                                         exceed—stop
+ Second-tier taxable benefits equals 85% of excess over second-tier                                  $4,502                          $25,463
+ threshold
+
+
+
+
+CRS-2
+                                                                                                       Single                                   Married Filing Jointly
+
+                                                                                                                                                               One Average
+                                                                                    Average        Maximum              Average           Two Average          Benefit, One
+                                                                                   Benefit, No     Benefit, No          Benefit,           Benefits, No          Average
+                                                                                  Other Income    Other Income        Other Income        Other Income           Earner
+
+ Step 4: Calculate Total Taxable Social Security Benefits
+
+ If provisional income is:                                                        $0              $2,824              $9,002              $0                  $18,949
+        •   less than the first-tier threshold, no benefits are taxable;
+        •   less than the second-tier threshold, taxable benefits equal
+            first-tier taxable benefits;
+        •   greater than the second-tier threshold, taxable benefits equal
+            (1) the lesser of 85% of Social Security benefits or (2) first-tier
+            taxable benefits plus second-tier taxable benefits
+
+    Source: CRS; Social Security Administration, “What Is the Maximum Social Security Retirement Benefit Payable?,” https://www.ssa.gov/faqs/en/questions/KA-01897.html;
+    Social Security Administration, “Monthly Statistical Snapshot, May 2025,” Table 2, https://www.ssa.gov/policy/docs/quickfacts/stat_snapshot/2025-05.html; and U.S. Census
+    Bureau, Current Population Survey Tables for Personal Income, Table PINC-08, Source of Income in 2023—People 15 Years Old and Over by Income of Specified Type
+    in 2023, Age, Race, Hispanic Origin, and Sex, https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-pinc/pinc-08.html.
+    Notes: The maximum amount of first-tier taxable benefits is 50% of the difference between the second- and first-tier thresholds (50% of $34,000-$25,000 for single and
+    50% of $44,000-$32,000 for married filing jointly). Examples assume no exclusions or adjustments when determining provisional income. A taxpayer who is head of
+    household, a qualifying surviving spouse, or married filing separately who lived apart from his or her spouse for the entire tax year is calculated as single. A taxpayer who
+    is married filing separately who lived with his or her spouse at any time during the tax year has up to 85% of benefits included in income. The average benefit is the
+    annualized monthly average for May 2025, the maximum benefit is the maximum Social Security retirement benefit payable for 2025, and average other income and
+    average earnings are for 2023.
+
+
+
+
+CRS-3
+                        Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+The Senior Deduction in P.L. 119-21
+Section 70103 of P.L. 119-21 (commonly referred to as the One Big Beautiful Bill Act) contains
+the provision of an additional deduction for taxpayers ages 65 and older (senior deduction). This
+new senior deduction is available to taxpayers regardless of whether they claim the standard
+deduction or itemize their deductions. Under P.L. 119-21, the senior deduction is available for tax
+years 2025-2028.
+The amount of the new senior deduction is $6,000 per eligible individual and phases out by
+decreasing by 6% of the amount by which a taxpayer’s modified adjusted gross income9 exceeds
+$75,000 ($150,000 for those married filing jointly, not adjusted for inflation). The senior
+deduction would be available to taxpayers only if they (and their spouses, if married filing jointly)
+have work-authorized Social Security numbers.10 As a deduction, it can be used to reduce taxable
+income by up to $6,000 per eligible individual until taxable income is zero (and no tax is due).
+The deduction is not a tax credit, so it by itself will not create a tax refund (i.e., any unused
+deduction is lost).
+For taxpayers who claim the standard deduction, this new senior deduction is distinct from and in
+addition to the additional standard deduction already available for taxpayers who are seniors or
+blind.11 In 2025, this preexisting additional standard deduction is $1,600 per qualifying individual
+for those married filing jointly for whom both spouses are blind or elderly and $2,000 for
+qualifying taxpayers who are unmarried and not surviving spouses.12 Unlike the new senior
+deduction, this additional standard deduction is available only to taxpayers who claim the
+standard deduction (not to taxpayers who itemize their deductions).
+
+
+Effect of the Senior Deduction on Taxation of Social
+Security Benefits
+The senior deduction is separate from the determination of the amount of Social Security benefits
+included in total income.13 The senior deduction is located in Section 151 of the Internal Revenue
+Code, does not change the calculation of how much of an individual’s or couple’s Social Security
+benefits is taxable (i.e., included in total income), and is not limited to Social Security
+beneficiaries. The determination of taxable Social Security benefits is located in Section 86 of the
+Internal Revenue Code and was not changed by P.L. 119-21. Taxable benefits are not limited by
+age. The senior deduction is age based and applied after taxable Social Security benefits are
+
+
+
+9 For additional information on adjusted gross income and modified adjusted gross income, see Internal Revenue
+
+Service, “Adjusted Gross Income,” https://www.irs.gov/filing/adjusted-gross-income.
+10 CRS Report R47483, Noncitizen Eligibility for Employment Authorization and Work-Authorized Social Security
+
+Numbers (SSNs).
+11 For additional information on the additional standard deduction for seniors or the blind, see Internal Revenue
+
+Service, “Publication 501 (2024), Dependents, Standard Deduction, and Filing Information,” https://www.irs.gov/
+publications/p501#en_US_2024_publink1000221057.
+12 For additional information, see CRS Report R48611, Tax Provisions in P.L. 119-21, the FY2025 Reconciliation Law;
+
+CRS Report RL34498, Federal Individual Income Tax Brackets, Standard Deduction, and Personal Exemption: 1988
+to 2025; and CRS Report R48313, Overview of the Federal Tax System in 2024.
+13 Generally, the Senate’s Byrd rule prohibits changes to Social Security in the reconciliation process. See CRS Report
+
+RL30862, The Budget Reconciliation Process: The Senate’s “Byrd Rule”.
+
+
+
+Congressional Research Service                                                                                        1
+                        Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+calculated. Generally, the senior deduction will decrease the taxes paid on a given amount of
+taxable income, which may include taxable Social Security benefits.14
+Table 2 and Table 3 provide simplified examples of calculations of the amounts of Social
+Security benefits that are included in income and then total taxable income assuming that only the
+standard and senior deductions are taken (i.e., no other deductions, exclusions, or credits). Table
+2 continues the examples from the calculation of taxable benefits in
+
+
+
+
+14 Individuals and couples who had no tax liability before the enactment of P.L. 119-21 continue to have no tax liability
+
+after the new senior deduction is applied. The senior deduction begins to phase out at $75,000 for singles and $150,000
+for couples, so tax returns beyond the phaseout do not have a decrease in taxable income or tax from the senior
+deduction.
+
+
+
+Congressional Research Service                                                                                          1
+                      Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+Table 1 for persons filing as single and adds a working nonbeneficiary age 65 or older. Table 3
+continues the examples for married taxpayers filing jointly from
+
+
+
+
+Congressional Research Service                                                                            1
+                        Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+Table 1.
+Single and married-filing-jointly taxpayers who have income only from Social Security would not
+pay tax on their benefits with or without the senior deduction.15
+
+Table 2. Calculation of Taxable Income for Examples of Single Filers Age 65 or Older
+                                  Average Benefit,        Maximum               Average                No Benefit,
+                                     No Other             Benefit, No           Benefit,                Average
+                                      Income             Other Income         Other Income              Earnings
+
+ Social Security                 $22,293                 $61,296              $22,293             $0
+ Other income                    $0                      $0                   $28,150             $62,810
+ Taxable Social Security         $0                      $2,824               $9,002              $0
+ benefits
+ Adjusted gross income           $0                      $2,824               $37,152             $62,810
+
+ Calculating 2025 Taxable Income Before Senior Deduction Under P.L. 119-21
+
+ Standard deduction              $15,000                 $15,000              $15,000             $15,000
+ Additional standard             $2,000                  $2,000               $2,000              $2,000
+ deduction for taxpayers
+ who are seniors or blind
+ Taxable income                  $0                      $0                   $20,152             $45,810
+
+              Calculating 2025 Taxable Income Under Current Law with Senior Deduction
+
+ Standard deduction              $15,750                 $15,750              $15,750             $15,750
+ Additional standard             $2,000                  $2,000               $2,000              $2,000
+ deduction for taxpayers
+ who are seniors or blind
+ Senior deduction                $6,000                  $6,000               $6,000              $6,000
+ Taxable income                  $0                      $0                   $13,402             $39,060
+
+    Source: CRS; Social Security Administration, “Monthly Statistical Snapshot, May 2025,” Table 2,
+    https://www.ssa.gov/policy/docs/quickfacts/stat_snapshot/2025-05.html; and U.S. Census Bureau, Current
+    Population Survey Tables for Personal Income, Table PINC-08. Source of Income in 2023—People 15 Years Old
+    and Over by Income of Specified Type in 2023, Age, Race, Hispanic Origin, and Sex, https://www.census.gov/
+    data/tables/time-series/demo/income-poverty/cps-pinc/pinc-08.html.
+    Notes: This table assumes that all Other income is taxable, there are no adjustments to total income—that is,
+    adjusted gross income equals total income—and example taxpayers are claiming only the standard deduction and
+    the senior deduction. The average benefit is the annualized monthly average for May 2025, the maximum benefit
+    is the maximum Social Security retirement benefit payable for 2025, and average other income and average
+    earnings are for 2023.
+
+
+
+
+15 A married couple filing jointly in which each spouse received the maximum Social Security benefit of $61,296
+
+($122,592 total) with no other income would have $20,702 in taxable Social Security, less than their $31,500 standard
+deduction. The deductions available to and taken by taxpayers who are married filing separately but who lived together
+during the tax year vary depending on a number of factors. Even with no other income, taxable Social Security benefits
+may exceed the standard deduction for these taxpayers.
+
+
+
+Congressional Research Service                                                                                       2
+                       Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+   Table 3. Calculation of Taxable Income for Examples of Married Couples Filing
+Jointly with at Least One Social Security Recipient and One Spouse Age 65 or Older
+                           Two Average
+                         Benefits, No Other          Two Average Benefits,           One Average Benefit, One
+                              Income                    Other Income                     Average Earner
+
+    Number of
+   persons 65 or
+    older in the
+  married couplea            1                2          1                2                1                2
+
+ Social Security                  $44,586                      $44,586                          $22,293
+ Other income                       $0                         $28,150                          $62,810
+ Taxable Social
+                                    $0                         $9,002                           $18,949
+ Security benefits
+ Adjusted gross
+                                    $0                         $37,152                          $81,759
+ income
+
+              Calculating 2025 Taxable Income Before Senior Deduction Under P.L. 119-21
+
+ Standard deduction     $30,000          $30,000   $30,000          $30,000          $30,000          $30,000
+ Additional standard    $1,600           $3,200    $1,600           $3,200           $1,600           $3,200
+ deduction for
+ taxpayers who are
+ seniors or blind
+ Taxable income         $0               $0        $5,552           $3,952           $50,159          $48,559
+
+              Calculating 2025 Taxable Income Under Current Law with Senior Deduction
+
+ Standard deduction     $31,500          $31,500   $31,500          $31,500          $31,500          $31,500
+ Additional standard    $1,600           $3,200    $1,600           $3,200           $1,600           $3,200
+ deduction for
+ taxpayers who are
+ seniors or blind
+ Senior deduction       $6,000           $12,000   $6,000           $12,000          $6,000           $12,000
+ Taxable income         $0               $0        $0               $0               $42,259          $35,259
+
+    Source: CRS; Social Security Administration, “Monthly Statistical Snapshot, May 2025,” Table 2,
+    https://www.ssa.gov/policy/docs/quickfacts/stat_snapshot/2025-05.html; and U.S. Census Bureau, Current
+    Population Survey Tables for Personal Income, Table PINC-08. Source of Income in 2023—People 15 Years Old
+    and Over by Income of Specified Type in 2023, Age, Race, Hispanic Origin, and Sex, https://www.census.gov/
+    data/tables/time-series/demo/income-poverty/cps-pinc/pinc-08.html.
+    Notes: Calculation of taxable Social Security benefits assumes married filing jointly and is not dependent on the
+    age of the taxpayers. This table assumes that all Other income is taxable, there are no adjustments to total
+    income—that is, adjusted gross income equals total income—and example taxpayers are claiming only the
+    standard deduction and the senior deduction. The average benefit is the annualized monthly average for May
+    2025, the maximum benefit is the maximum Social Security retirement benefit payable for 2025, and average
+    other income and average earnings are for 2023.
+    a. Determination of taxable Social Security benefits is not contingent on whether a beneficiary is 65 or older.
+         Application of the additional standard deduction for taxpayers who are senior or blind and the senior
+         deduction from P.L. 119-21 are contingent on the age(s) of the taxpayers.
+
+
+
+
+Congressional Research Service                                                                                      3
+                        Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+Additional Considerations
+Coverage of Social Security Beneficiaries by the Senior Deduction
+Not all Social Security beneficiaries are age 65 or older. Eligible retired workers and spouses
+collecting benefits on the basis of age may begin claiming benefits at age 62. Survivor and
+disability beneficiaries may claim benefits during childhood and working ages.16 Table 4 shows
+that approximately one in five beneficiaries in current pay status in December 2023 were under
+the age of 65.17
+
+                  Table 4. Social Security Beneficiaries in Current Pay Status
+                                                    December 2023
+           Benefit type                      All              Under age 65                    Age 65 or older
+
+ Total, Old-Age, Survivors, and        67,076,966        13,568,954       20.2%       53,508,012           79.8%
+ Disability Insurance
+ Old-Age and Survivors                 58,563,242        5,933,434        10.1%       52,629,808           89.9%
+ Insurance
+   Retirement benefits                 52,729,819        3,317,695        6.3%        49,412,124           93.7%
+     Retired workers                   50,147,679        2,518,674        5.0%        47,629,005           95.0%
+     Spouses of retired workers        1,896,329         115,996          6.1%        1,780,333            93.9%
+     Children of retired workers       685,811           683,025          99.6%       2,786                0.4%
+   Survivor benefits                   5,833,423         2,615,739        44.8%       3,217,684            55.2%
+  Children of deceased workers         2,036,739         1,925,845        94.6%       110,894              5.4%
+     Widowed mothers and               107,591           105,416          98.0%       2,175                2.0%
+     fathers
+     Nondisabled widow(er)s            3,487,630         408,334          11.7%       3,079,296            88.3%
+     Disabled widow(er)s               200,644           176,130          87.8%       24,514               12.2%
+     Parents of deceased workers       819               14               1.7%        805                  98.3%
+ Disability Insurance                  8,513,724         7,635,520        89.7%       878,204              10.3%
+   Disabled workers                    7,365,987         6,528,492        88.6%       837,495              11.4%
+   Spouses of disabled workers         87,898            47,189           53.7%       40,709               46.3%
+   Children of disabled workers        1,059,839         1,059,839        100.0%      0                    0.0%
+
+     Source: CRS calculations from Social Security Administration, Annual Statistical Supplement, 2024, Tables 5.A1
+     and 5.A1.1-5.A1.8 and Glossary (current pay status and dual entitlement (OASDI)).
+     Notes: Old-Age, Survivors, and Disability Insurance (OASDI) is the formal name for Social Security.
+     Beneficiaries in current pay status are those who are paid a benefit for a given month, with or without
+     deductions, provided the deductions add to less than a full month’s benefit. A benefit in current-payment status
+     at the end of a month is usually payable in the following month.
+
+
+
+16 For a discussion of beneficiary types and eligibility, see CRS Report R42035, Social Security Primer.
+
+17 Also, in December 2023, 131,366 beneficiaries received Social Security disability benefits because of blindness.
+
+SSA, Annual Statistical Report on the Social Security Disability Insurance Program, 2023, Table 12,
+https://www.ssa.gov/policy/docs/statcomps/di_asr/2023/di_asr23.pdf.
+
+
+
+Congressional Research Service                                                                                          4
+                        Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+The Senior Deduction for Seniors Who Do Not Receive Social
+Security Benefits
+The senior deduction in P.L. 119-21 is available to all taxpayers age 65 and older with work-
+authorized Social Security numbers. The taxpayer does not need to receive benefits from Social
+Security to qualify for it. The Census Bureau estimated that in 2023 about 17% of persons 65 or
+older with income did not receive Social Security benefits.18 The Social Security Administration
+estimated that as of June 30, 2025, about 87% of the population age 65 and over were receiving
+benefits.19
+There are multiple potential reasons for not receiving Social Security benefits at age 65. For
+example, some taxpayers may choose to delay claiming benefits to increase their payment
+amounts.20 Some may have worked in jobs that were not covered by Social Security, such as
+clergy or certain federal, state, and local government workers.21 Also, some workers may not have
+achieved insured status to be eligible for benefits, such as immigrants who entered the United
+States later in life or sporadic workers.22
+
+Effects on the Social Security and Hospital Insurance Trust Funds
+The proceeds from taxing up to 50% of Social Security benefits for beneficiaries with provisional
+income between the first-tier and second-tier thresholds are credited to Social Security’s two trust
+funds—the Old-Age and Survivors Insurance and Disability Insurance trust funds—on the basis
+of the source of the benefits taxed. Additional proceeds from taxing up to 85% of benefits for
+beneficiaries with provisional income above the second-tier thresholds are credited to Medicare’s
+Hospital Insurance trust fund.23 In 2024, the Social Security trust funds were credited with $55.1
+billion from the taxation of Social Security benefits, or 3.9% of the trust funds’ total income.24
+Also in 2024, income to the Medicare Hospital Insurance trust fund from the taxation of Social
+Security benefits was $39.8 billion, or 8.8% of the trust fund’s total income.25
+By increasing deductions, the senior deduction may lead to less taxable income and therefore
+result in less money credited to the Social Security trust funds. The Department of the Treasury’s
+Office of Tax Analysis uses its Individual Income Tax Model (ITM) to estimate the amount of tax
+liability attributable to the taxation of benefits. It explains:
+         The ITM uses the tax and information return data and extrapolations to estimate the amount
+         of Social Security and Railroad Social Security Equivalent benefits included in AGI
+         [adjusted gross income] and the Federal income tax liability attributable to the inclusion of
+
+18 U.S. Census Bureau, Current Population Survey Tables for Personal Income, Table PINC-08.
+
+19 SSA estimates that this increases to about 92% for those age 75 or older. SSA, “Fact Sheet on the Old-Age,
+
+Survivors, and Disability Insurance Program,” June 30, 2025, https://www.ssa.gov/OACT/FACTS/index.html.
+20 See SSA, “Early or Late Retirement?,” https://www.ssa.gov/OACT/quickcalc/early_late.html.
+
+21 For more about coverage of the Social Security system, see CRS In Focus IF11824, Social Security: Who Is Covered
+
+Under the Program?
+22 See also SSA, “Never Beneficiaries, Aged 60 or Older, 2024,” https://www.ssa.gov/policy/docs/population-profiles/
+
+never-beneficiaries.html.
+23 CRS Report RL32552, Social Security: Taxation of Benefits.
+
+24 SSA, Trust Fund Data, “Old-Age, Survivors, and Disability Insurance Trust Funds Income,” https://www.ssa.gov/
+
+oact/STATS/table4a3.html#income.
+25 Boards of Trustees, Federal Hospital Insurance and Federal Supplementary Medical Insurance Trust Funds, 2025
+
+Annual Report of the Boards of Trustees of the Federal Hospital Insurance Trust Fund and the Federal Supplementary
+Medical Insurance Trust Fund, Table III.B4, https://www.cms.gov/oact/tr/2025#page=62.
+
+
+
+Congressional Research Service                                                                                     5
+                        Taxation of Social Security Benefits and the Senior Deduction in P.L. 119-21: In Brief
+
+
+
+
+         those benefits for all of the filing units in the model. To do this, each tax unit’s liability is
+         estimated with and without the inclusion of benefits received by that tax unit. The
+         difference between those two levels of income tax liability equals the tax liability
+         attributable to the inclusion of benefits. The ITM results are used to calculate both the
+         percentage of total benefits included in AGI and the average effective marginal tax rates
+         applicable to the taxable benefits. Final estimates of tax liability attributable to the partial
+         inclusion of benefits are produced using a spreadsheet-based model. This model blends the
+         estimates of the percent of benefits in AGI and the average effective marginal tax rates
+         with more recent tax return information (not available when the ITM is extrapolated) and
+         the most current tax collection information.26
+Intuitively, consider beneficiaries with taxable benefits who would have paid tax without the
+senior deduction but who no longer will under the new senior deduction. Because they no longer
+have a tax liability, none of it can be attributed to taxable Social Security in the ITM using the
+current methodology. Similarly, the increased senior deduction may result in taxpayers being in
+lower tax brackets and paying lower marginal tax rates. Both of these situations would likely
+lower the tax on benefits going to the trust funds under the current ITM methodology.
+There may also be higher-order effects on beneficiaries’ decisions to work that are indeterminate
+in how they could impact the trust funds. For example, beneficiaries may choose to work (or
+work more) because they may pay less in income tax on their earnings due to the deduction. As a
+result, such workers would contribute more to the trust funds through payroll taxes. Alternatively,
+beneficiaries could choose not to work (or work less) because the deduction has allowed them to
+keep more of their income. If so, they would pay less in payroll taxes, lowering revenues for the
+trust funds.
+
+
+Author Information
+
+T. Lynn Sears
+Analyst in Social Policy
+
+
+
+
+Disclaimer
+This document was prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan
+shared staff to congressional committees and Members of Congress. It operates solely at the behest of and
+under the direction of Congress. Information in a CRS Report should not be relied upon for purposes other
+than public understanding of information that has been provided by CRS to Members of Congress in
+connection with CRS’s institutional role. CRS Reports, as a work of the United States Government, are not
+subject to copyright protection in the United States. Any CRS Report may be reproduced and distributed in
+its entirety without permission from CRS. However, as a CRS Report may include copyrighted images or
+material from a third party, you may need to obtain the permission of the copyright holder if you wish to
+copy or otherwise use copyrighted material.
+
+
+
+26 U.S. Department of the Treasury, Office of Tax Analysis, Report on the Taxation of Social Security and Railroad
+
+Retirement Benefits in Calendar Years 2015 Through 2020, November 2024, p. 20, https://home.treasury.gov/system/
+files/131/Report-Taxation-Social-Security-2015-2020.pdf#page=20.
+
+
+
+Congressional Research Service                R48613 · VERSION 1 · NEW                                               6
+

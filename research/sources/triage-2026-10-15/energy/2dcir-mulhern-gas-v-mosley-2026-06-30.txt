@@ -1,0 +1,1789 @@
+25-977; 25-2041
+Ass’n of Contracting Plumbers v. City of New York; Mulhern Gas Co., Inc. v. Mosley
+
+
+                                                In the
+                                   United States Court of Appeals
+                                       for the Second Circuit
+
+
+
+                                         August Term 2025
+                                      Argued: January 30, 2026
+                                       Decided: June 30, 2026
+
+                                           No. 25-977; 25-2041
+
+   ASSOCIATION OF CONTRACTING PLUMBERS OF THE CITY OF NEW YORK, INC.,
+PLUMBING-HEATING-COOLING CONTRACTORS-NATIONAL ASSOCIATION, PLUMBERS
+LOCAL UNION NO. 1, UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF
+ THE PLUMBING AND PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA,
+NEW YORK STATE ENERGY COALITION, INC., PLUMBING FOUNDATION CITY OF NEW
+  YORK, INC., LICENSED PLUMBING ASSOCIATION OF NEW YORK CITY, INC., DBA
+  MASTER PLUMBERS COUNCIL OF THE CITY OF NEW YORK, BUILDING INDUSTRY
+                     ASSOCIATION OF NEW YORK CITY, INC.,
+                             Plaintiffs-Appellants,
+                                        v.
+                             CITY OF NEW YORK,
+                             Defendant-Appellee.
+
+
+
+                         Appeal from the United States District Court
+                           for the Southern District of New York
+                             No. 23-cv-11292, Ronnie Abrams,
+                                       District Judge.
+
+
+
+ MULHERN GAS CO., INC., NEW YORK STATE BUILDERS ASSOCIATION, NATIONAL
+   ASSOCIATION OF HOME BUILDERS, NEW YORK PROPANE GAS ASSOCIATION,
+    NATIONAL PROPANE GAS ASSOCIATION, NORTHEAST HEARTH, PATIO AND
+BARBECUE ASSOCIATION, PLUMBING CONTRACTORS ASSOCIATION OF LONG ISLAND,
+   LICENSED PLUMBING ASSOCIATION OF NEW YORK CITY, INC., DBA MASTER
+         PLUMBERS COUNCIL OF THE CITY OF NEW YORK, HOLMES MECH. LLC,
+        INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 1049,
+      INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL UNION 97,
+    PLUMBERS LOCAL UNION NO. 200, TRANSPORT WORKERS UNION LOCAL 101, AFL-
+                                         CIO,
+                                Plaintiffs-Appellants,
+                                           v.
+    WALTER T. MOSLEY, IN HIS OFFICIAL CAPACITY AS NEW YORK SECRETARY OF STATE
+      AND MEMBER OF THE STATE FIRE PREVENTION AND BUILDING CODE COUNCIL,
+                   FORMERLY KNOWN AS ROBERT J. RODRIGUEZ,
+                                 Defendant-Appellee,
+
+                                   NEW YORK GEOTHERMAL
+                                 ENERGY ORGANIZATION, PUSH
+                                           BUFFALO,
+                                    Intervenor-Defendants-
+                                          Appellees. *
+
+
+
+                        Appeal from the United States District Court
+                          for the Northern District of New York
+                            No. 23-cv-1267, Glenn T. Suddaby,
+                                   District Court Judge.
+
+
+Before: SACK and PÉREZ, Circuit Judges, and PRESKA, District Judge. †
+
+      New York City and New York State enacted laws which effectively prohibit
+the use of fossil-fuel-powered appliances in new buildings. Various trade
+associations and unions sued to stop the laws from going into effect, arguing that
+they are preempted under the Energy Policy and Conservation Act’s express
+preemption provision. But the text of the preemption provision cannot support
+Appellants’ expansive construction.        At most, EPCA preempts energy
+
+*       The Clerk of Court is respectfully directed to amend the caption accordingly.
+†        Judge Loretta A. Preska, of the United States District Court for the Southern District of New York,
+sitting by designation.
+
+                                                     2
+conservation standards for covered appliances and a fairly limited realm of
+additional regulations that operate in a similar manner. The challenged laws fall
+outside of that realm. Therefore, we AFFIRM the judgments of the District Courts.
+
+
+
+
+                        BRIAN C. BARAN (Sarah O. Jorgensen, on the brief),
+                        Reichman Jorgensen Lehman & Feldberg, LLP,
+                        Washington, DC, for Plaintiffs-Appellants.
+
+                        CHARLES E. T. ROBERTS (Thomas Pulham, on the brief), for
+                        Brett A. Shumate, Assistant Attorney General, Civil
+                        Division, United States Department of Justice,
+                        Washington, DC, as Amicus Curiae supporting Plaintiffs-
+                        Appellants in No. 25-977.
+
+                        REBECCA L. VISGAITIS (Richard Dearing, Claude S.
+                        Platton, on the brief), on behalf of Muriel Goode-Trufant,
+                        Corporation Counsel of the City of New York, New York,
+                        NY, for Defendant-Appellee City of New York.
+
+                        DUSTIN J. BROCKNER (Barbara D. Underwood, Jeffrey W.
+                        Lang, on the brief), on behalf of Letitia James, Attorney
+                        General of the State of New York, New York, NY, for
+                        Defendant-Appellee Walter T. Mosley.
+
+                        DROR LADIN (Meagan Burton, on the brief), EarthJustice,
+                        New York, NY, for Intervenor-Defendants-Appellees New
+                        York Geothermal Organization and PUSH Buffalo.
+
+
+
+
+                                       3
+MYRNA PÉREZ, Circuit Judge:
+
+       New York City and New York State enacted laws which effectively prohibit
+
+the use of fossil-fuel-powered appliances in new buildings.                          Various trade
+
+associations and unions sued in two separate cases to stop the laws from going
+
+into effect, arguing that they are preempted under the Energy Policy and
+
+Conservation Act’s (“EPCA”) express preemption provision. But the text of the
+
+preemption provision cannot support Appellants’ expansive construction. EPCA
+
+preempts energy conservation standards for covered appliances and a fairly
+
+limited realm of additional regulations which operate in a similar manner. The
+
+challenged laws fall outside of that realm. Therefore, we AFFIRM the judgments
+
+of the District Courts.
+
+                                        BACKGROUND
+
+        Some city and state governments have imposed limits on the use of fossil-
+
+fuel-powered appliances in response to research suggesting such appliances are a
+
+significant source of pollution and greenhouse gas emissions. 1 New York City (the
+
+“City”) and New York State (the “State”) were among those to act.
+
+
+
+1        See, e.g., Commercial and Residential Sector Emission, U.S. Env’t Prot. Agency (Mar. 10, 2026),
+https://www.epa.gov/ghgemissions/commercial-and-residential-sector-emissions         (“Combustion    of
+natural gas and petroleum products for heating and cooking emits carbon dioxide (CO2), methane (CH4),
+
+
+                                                   4
+        The City enacted Local Law 154 (the “Local Law”), which provides that
+
+“[n]o person shall permit the combustion of any substance that emits 25 kilograms
+
+or more of carbon dioxide per million British thermal units of energy” in new
+
+residential buildings. N.Y.C. Local Law No. 154 (2021); N.Y.C. Admin. Code § 24-
+
+177.1. In effect, the Local Law prohibits the use of appliances that run on natural
+
+gas, heating fuel, and other fossil fuels. 2
+
+        A group of trade associations and a union (“City Appellants”) sued in the
+
+Southern District of New York on the theory that the Local Law is expressly
+
+preempted by EPCA, a federal statute that imposes energy conservation
+
+performance standards on certain appliances.                          City Appellants sought a
+
+declaratory judgment and permanent injunction preventing the Local Law from
+
+going into effect. Instead, Judge Abrams granted the City’s motion to dismiss
+
+
+
+
+and nitrous oxide (N2O).”); Carbon Monoxide’s Impact on Indoor Air Quality, U.S. Env’t Prot. Agency (Oct. 7,
+2025), https://www.epa.gov/indoor-air-quality-iaq/carbon-monoxides-impact-indoor-air-quality (listing
+“gas stoves” and other sources of carbon monoxide and explaining health effects); Facts About Formaldehyde,
+U.S. Env’t Prot. Agency (July 7, 2025), https://www.epa.gov/formaldehyde/facts-about-formaldehyde
+(noting formaldehyde is found in “[e]missions from un-vented, fuel burning appliances, like gas stoves or
+kerosene space heaters” and that “[h]igh levels of exposure may cause some types of cancers”); see generally
+Anna Belova, et al., Literature Review on the Impacts of Residential Combustion, Final Report, American Lung
+Ass’n (July 10, 2022), https://www.lung.org/policy-advocacy/healthy-air-campaign/healthy-efficient-
+homes/residential-combustion.
+2      The law has applied to new buildings under seven stories since January 1, 2024. It will expand its
+coverage to taller buildings in July 2027. See N.Y.C. Admin. Code § 28-506.1(1)–(2).
+
+                                                     5
+pursuant to Fed. R. Civ. P. 12(b)(6), concluding that EPCA does not preempt the
+
+Local Law. City Appellants appealed.
+
+      Separately, the State enacted a law directing the State Fire Prevention and
+
+Building Code Council, a body within New York’s Department of State, to adopt
+
+regulations prohibiting the installation of appliances that burn fossil fuels in new
+
+buildings. See N.Y. Energy L. § 11-104(6)–(8); N.Y. Exec. L. § 378(19) (the “State
+
+Law”) (together with the Local Law, the “challenged laws”). A different group of
+
+companies, trade associations, and unions whose members would be impacted by
+
+the State Law (“State Appellants”) sued in the Northern District of New York and
+
+argued that the State Law is expressly preempted by EPCA. After dismissing
+
+claims against several defendants as barred by the Eleventh Amendment, Judge
+
+Suddaby granted summary judgment to the remaining Defendant, the Secretary
+
+of State, similarly concluding that EPCA’s preemption provision does not apply
+
+to the State Law. State Appellants also appealed.
+
+      We heard the appeals in tandem. We review the two District Courts’
+
+decisions de novo. See Kellogg v. Nichols, 170 F.4th 20, 24 (2d Cir. 2026) (motion to
+
+dismiss); Nambiar v. Cent. Orthopedic Grp., LLP, 158 F.4th 349, 363 (2d Cir. 2025)
+
+(summary judgment); cf. Pac. Cap. Bank, N.A. v. Connecticut, 542 F.3d 341, 351 (2d
+
+
+
+                                         6
+Cir. 2008) (“A district court’s determination as to preemption is a conclusion of
+
+law, which we review de novo.”).
+
+                                   DISCUSSION
+
+      These appeals concern whether EPCA preempts state and local laws which
+
+prohibit fossil-fuel-powered appliances. EPCA, in relevant part, imposes energy
+
+conservation standards on covered appliances, and its preemptive text closely
+
+aligns with its affirmative regulatory scope.
+
+      The statute does not directly regulate the availability of fossil-fuel-powered
+
+appliances, and its express preemption provision does not extend to laws far
+
+beyond its defined regulatory reach. Thus, for the reasons explained below, EPCA
+
+does not preempt the challenged laws.
+
+ I.   Preemption Framework and EPCA’s Preemption Provision
+
+      Federal law is “the supreme Law of the Land; and the Judges in every State
+
+shall be bound thereby, any Thing in the Constitution or Laws of any State to the
+
+Contrary notwithstanding.” U.S. Const. art. VI, cl. 2. “Under this principle,
+
+Congress has the power to preempt state law.” Arizona v. United States, 567 U.S.
+
+387, 399 (2012). “Federal preemption of a state statute can be express or implied,
+
+and generally occurs: ‘[1] where Congress has expressly preempted state law, [2]
+
+
+
+                                         7
+where Congress has legislated so comprehensively that federal law occupies an
+
+entire field of regulation and leaves no room for state law, or [3] where federal law
+
+conflicts with state law.’” SPGGC, LLC v. Blumenthal, 505 F.3d 183, 188 (2d Cir.
+
+2007) (alterations in original) (quoting Wachovia Bank, N.A. v. Burke, 414 F.3d 305,
+
+313 (2d Cir. 2005)).
+
+      Here, we confront the first category, express preemption. “There is no
+
+doubt that Congress may withdraw specified powers from the States by enacting
+
+a statute containing an express preemption provision.” Arizona, 567 U.S. at 399.
+
+However, “if ‘a federal law contains an express pre-emption clause, it does not
+
+immediately end the inquiry because the question of the substance and scope of
+
+Congress’ displacement of state law still remains.’” Buono v. Tyco Fire Prods., LP,
+
+78 F.4th 490, 495–96 (2d Cir. 2023) (quoting Altria Grp., Inc. v. Good, 555 U.S. 70, 76
+
+(2008)). “[W]hen ‘a federal law contains an express preemption clause, we focus
+
+on the plain wording of the clause, which necessarily contains the best evidence of
+
+Congress’ preemptive intent.’” Id. at 495 (quoting Chamber of Com. of U.S. v.
+
+Whiting, 563 U.S. 582, 594 (2011)). At the end of the day, “[p]reemption is ‘a matter
+
+of statutory interpretation,’” and therefore, we must “ascertain the intent of
+
+Congress.” Id. (first quoting Cantero v. Bank of America, N.A., 49 F.4th 121, 130 (2d
+
+
+
+                                          8
+Cir. 2022); then quoting Cal. Fed. Sav. & Loan Ass’n v. Guerra, 479 U.S. 272, 280
+
+(1987)).
+
+        Our conclusion, therefore, must be rooted in the relevant preemptive text in
+
+EPCA:
+
+        [O]n the effective date of an energy conservation standard established
+        in or prescribed under section 6295 of this title for any covered
+        product, no State regulation concerning the energy efficiency, energy
+        use, or water use of such covered product shall be effective with
+        respect to such product.
+
+42 U.S.C. § 6297(c). 3 The parties focus on the provision’s inclusion of “energy use,”
+
+and therefore, our task is to determine whether the challenged laws “concern[] the
+
+. . . energy use” of covered appliances.
+
+        To accomplish this task, we must first ascertain the meaning of “energy use”
+
+as it is used in EPCA. As discussed below, our interpretation of “energy use” alone
+
+undercuts Appellants’ primary argument for preemption from the start. Next,
+
+with that interpretation of “energy use” in mind, we must determine whether the
+
+challenged laws are nevertheless included in the scope of preemption through the
+
+statute’s broadening use of “concerning.”                    Per the below, we conclude that
+
+
+
+3        EPCA governs both consumer and industrial appliances. See 42 U.S.C. §§ 6291–6309 (consumer);
+id. §§ 6311–6317 (industrial). The parties agree that the relevant provisions are substantially the same for
+both kinds of appliances, and therefore, this opinion will cite the provisions that govern consumer products
+for ease of reference.
+
+                                                     9
+“concerning” does not save Appellants’ case. Finally, we turn to additional
+
+interpretative tools to confirm the soundness of our interpretation.
+
+II.   Interpreting “Energy Use” Undercuts Appellants’ Case for Preemption
+
+      To ascertain the scope of EPCA’s preemption provision, we first must
+
+uncover the meaning of the term “energy use.”
+
+      Appellants contend the challenged laws are preempted by framing the
+
+challenged laws as “effectively set[ting] covered gas appliances’ maximum energy
+
+use to zero” by prohibiting their use by consumers in new residential buildings.
+
+See City Appellants’ Br. at 17; State Appellants’ Br. at 23. In essence, Appellants
+
+primarily argue that “energy use” refers to the amount of energy consumed by
+
+covered products in the hands of consumers. See City Appellants’ Br. at 28; State
+
+Appellants’ Br. at 30, 34.
+
+      However, as explained below, we are not at liberty to ignore that the statute
+
+defines “energy use” differently, nor that the statutory context precludes
+
+Appellants’ reading.
+
+      A.     Statutory Definition
+
+      “When ‘a statute includes an explicit definition’ of a term, ‘we must follow
+
+that definition, even if it varies from a term’s ordinary meaning.’” Van Buren v.
+
+
+
+                                        10
+United States, 593 U.S. 374, 387 (2021) (quoting Tanzin v. Tanvir, 592 U.S. 43, 47
+
+(2020)). EPCA defines “energy use” as “the quantity of energy directly consumed
+
+by a consumer product at point of use, determined in accordance with test
+
+procedures under section 6293.” 42 U.S.C. § 6291(4). In addition, the statute
+
+dictates that the referenced test procedures must “be reasonably designed to
+
+produce test results which measure . . . energy use . . . during a representative
+
+average use cycle or period of use.” Id. § 6293(b)(3).
+
+      It is plain then that a product’s “energy use” is a standardized, fixed
+
+measure assigned to a product before it reaches consumers.           Manufacturers
+
+ascertain an appliance’s “energy use” by using “test procedures”; indeed, the
+
+results of those test procedures are “determin[ative].” Id. § 6291(4). And those test
+
+procedures are designed to replicate the appliance’s average use, meaning the tests
+
+are performed in a controlled setting, not at the appliance’s ultimate destination
+
+in the hands of consumers. In all, once an appliance has been sold, nothing a
+
+consumer does with the appliance changes that appliance’s “energy use.”
+
+      Therefore, a regulation that effectively bars the use of a covered appliance
+
+by certain consumers, like the challenged laws, has little to do with that
+
+appliance’s “energy use.”     The statutory definition all but confirms that the
+
+
+
+                                         11
+preemption provision does not directly implicate the energy an appliance
+
+consumes in the hands of consumers, contrary to Appellants’ view.
+
+      B.     Context
+
+      The statutory context surrounding “energy use” confirms what the
+
+definition already makes plain.
+
+      “It is a fundamental canon of statutory construction that the words of a
+
+statute must be read in their context and with a view to their place in the overall
+
+statutory scheme.” Giovinco v. Pullen, 118 F.4th 527, 531 (2d Cir. 2024) (quoting
+
+West Virginia v. EPA, 597 U.S. 697, 721 (2022)). While “we begin . . . with the text
+
+of the provision in question,” we may also consider, “the structure and purpose of
+
+the Act in which it occurs.” Metro. Taxicab Bd. of Trade v. City of New York, 615 F.3d
+
+152, 156 (2d Cir. 2010) (quoting N.Y. State Conf. of Blue Cross & Blue Shield Plans v.
+
+Travelers Ins. Co., 514 U.S. 645, 655 (1995)). Here, several components of EPCA are
+
+helpful.
+
+      First, EPCA provides that a manufacturer’s “disclosure with respect to [the]
+
+energy use” of a covered product required by the statute, “shall not create an
+
+express or implied warranty . . . that such energy use . . . will not be exceeded
+
+under conditions of actual use.” 42 U.S.C. § 6297(g). For the statute’s warranty
+
+
+
+                                         12
+provision to make any sense, a covered product’s “energy use” must be fixed and
+
+determined by the manufacturer, as no express or implied warranty could attach
+
+to a shifting value arising from a product’s use by consumers. At the very least,
+
+the warranty provision unmistakably suggests that an appliance’s “energy use”
+
+and the energy an appliance consumes “under conditions of actual use,” are
+
+separate values.
+
+      Second, EPCA provides that manufacturers must disclose a covered
+
+product’s “operating cost” on the product’s label. Id. § 6294(c)(1)(A). The statute
+
+directs that those costs be determined in accordance with testing procedures
+
+explained in § 6293. Id. And per § 6293, a covered product’s operating cost “shall
+
+be calculated from measurements of energy use.” Id. § 6293(b)(4). Thus, an
+
+appliance’s “energy use” must be determined before a label is created and the
+
+product is passed along to consumers. Moreover, if “energy use” referred to the
+
+fluctuating energy used by an appliance at its ultimate destination, it would hardly
+
+be possible for manufacturers to determine a fixed operating cost.
+
+      Third, EPCA requires that manufacturers “submit information or reports . . .
+
+with respect to . . . energy use” of a covered product to the Secretary of Energy
+
+under certain circumstances. See id. § 6296(d)(1). Necessarily then, a product’s
+
+
+
+                                        13
+“energy use” must be a pre-determined, fixed measurement that does not rely
+
+upon a product’s real-world use. After all, manufacturers can hardly be expected
+
+to track and report on the performance of their products after they leave their
+
+control and are placed in the hands of consumers.
+
+      Fourth and finally, EPCA bars manufacturers and distributors, among
+
+others, from
+
+      mak[ing] any representation in writing . . . or in any broadcast
+      advertisement, with respect to the energy use or efficiency . . . of a
+      covered product to which a test procedure is applicable . . . unless
+      such product has been tested in accordance with such test procedure
+      and such representation fairly discloses the results of such testing.
+
+Id. § 6293(c)(1). Accordingly, the statute expressly ties a product’s “energy use” to
+
+the results of test procedures conducted in the pre-marketing (and by extension,
+
+pre-consumer) context.
+
+      If any doubt remained after examining the statute’s definition for “energy
+
+use,” these provisions make abundantly clear that the term refers to a metric
+
+determined before an appliance ever reaches consumers, not the energy that
+
+appliance uses in the hands of consumers. Thus, Appellants’ primary argument
+
+that the challenged laws are preempted because they “set” appliances “energy
+
+use” to zero by barring their use by consumers falls flat.
+
+
+
+                                         14
+III.   “Concerning” Does Not Save Appellants’ Case
+
+       But our interpretation of “energy use” does not end the preemption inquiry.
+
+The preemption provision covers regulations “concerning the . . . energy use” of
+
+covered appliances. See 42 U.S.C. § 6297(c) (emphasis added). And Appellants
+
+argue that even if the interpretation of “energy use” we hereby adopt is correct,
+
+the challenged laws nevertheless “concern” appliances’ “energy use.” See City
+
+Appellants’ Br. at 33–35; State Appellants’ Br. at 39–42. Ultimately, for the reasons
+
+set forth below, the provision’s use of “concerning” cannot carry the weight
+
+Appellants assign to it.
+
+       A.    Interpreting “Concerning” Along the Lines of “Related To”
+
+       The parties agree that for our purposes, we can treat EPCA’s deployment of
+
+“concerning” as synonymous with “related to,” a term courts have regularly
+
+interpreted in other preemption contexts. See City of New York Br. at 41; Mosley
+
+Br. at 55. Indeed, courts have often grouped these terms together. See Lamar,
+
+Archer & Cofrin, LLP v. Appling, 584 U.S. 709, 717 (2018) (concluding, in the
+
+bankruptcy context, that “related to” and “concerning” are indistinguishable);
+
+
+
+
+                                         15
+Chevron USA, Inc. v. Plaquemines Parish, 608 U.S. ----, 146 S. Ct. 1052, 1060 (2026)
+
+(reaching a similar conclusion in the federal officer removal context). 4
+
+        Drawing on longstanding precedent interpreting “related to” in the
+
+preemption context, we read “concerning” to cover regulations that have one of
+
+two features: “‘a connection with, or reference to,’ the topics the statute
+
+enumerates.” Coventry Health Care of Mo., Inc. v. Nevils, 581 U.S. 87, 96 (2017)
+
+(quoting Morales v. Trans World Airlines, Inc., 504 U.S. 374, 384 (1992)) (interpreting
+
+“relate to” in the ERISA context); see also Taxicab, 615 F.3d at 156, 157 n.4
+
+(interpreting “related to” similarly in another EPCA context).
+
+        First, whether a regulation is impermissibly “connected” to the forbidden
+
+subject matter (here, a product’s “energy use”) hinges on two inquiries: the purpose
+
+of EPCA and the effect of the challenged laws. We first use the federal statute’s
+
+“objectives . . . as a guide to the scope of the state law that Congress understood
+
+
+
+
+4       In Lamar, the Supreme Court’s characterization of the terms as synonymous was expressly limited
+to the particular bankruptcy context the Court was facing. See Lamar, Archer & Cofrin, LLP v. Appling, 584
+U.S. 709, 717 (2018) (“The Court finds no basis to conclude, however, at least in this context . . . .” (emphasis
+added)). Indeed, the Supreme Court has already warned against over-reading Lamar’s discussion of
+another broadening term, “with respect to.” See United States v. Miller, 604 U.S. 518, 520, 533 (2025)
+(“Respondent’s reliance on . . . cases that adopt capacious readings of phrases similar to ‘with respect to’
+cannot support his argument, as those authorities all examine those terms in very different statutory
+contexts.”). Moreover, EPCA uses “related to” in a different preemption provision, which may suggest the
+terms have divergent meanings at least within the statute. See 49 U.S.C. § 32919(a). But we need not reach
+the issue because we conclude there is no preemption even if the two terms are synonymous.
+
+                                                      16
+would survive” and then also consider “the nature of the effect of the state law”
+
+on the federal statute’s subject matter. Gobeille v. Liberty Mut. Ins. Co., 577 U.S. 312,
+
+320 (2016) (first quoting Egelhoff v. Egelhoff ex rel. Breiner, 532 U.S. 141, 148 (2001);
+
+then quoting Cal. Div. of Lab. Standards Enf’t v. Dillingham Constr., N.A., Inc., 519
+
+U.S. 316, 325 (1997)).
+
+       Second, whether the challenged laws “reference” the preempted matter
+
+(again, a product’s “energy use”) relies on their operation and terms. A local
+
+regulation will be preempted by a preemption provision that bars laws “related
+
+to” a subject if it contains a direct reference to that subject matter, “or makes the
+
+existence of preempted subject matter essential to the law’s operation.” Taxicab,
+
+615 F.3d at 156. A local regulation cannot avoid preemption merely by using a
+
+“proxy” for, rather than a direct reference to, the preempted subject matter. Id. at
+
+158.
+
+       Despite the amorphous nature of these inquiries, phrases such as “related
+
+to,” and “concerning” do not endlessly stretch the scope of preemption provisions.
+
+See Dubin v. United States, 599 U.S. 110, 119 (2023) (“[R]elate[d] to” should not be
+
+“taken to extend to the furthest stretch of its indeterminacy.” (quoting Travelers,
+
+514 U.S. at 655)). Indeed, the Supreme Court has “cautioned against an ‘uncritical
+
+
+
+                                           17
+literalism’ that would make pre-emption turn on ‘infinite connections.’” Egelhoff,
+
+532 U.S. at 147 (quoting Travelers, 514 U.S. at 656).
+
+       Per the below, we conclude the challenged laws have “neither of th[e]
+
+impermissible relationships,” and thus, are not covered by EPCA’s use of
+
+“concern.” See Rutledge v. Pharm. Care Mgmt. Ass’n, 592 U.S. 80, 86 (2020).
+
+       B.     The Challenged Laws Are Not Connected to “Energy Use”
+
+       First, the challenged laws lack an impermissible connection with EPCA’s
+
+regulation of appliances’ “energy use.” As explained above, we turn to EPCA’s
+
+objectives and also to the challenged laws’ effect on the preempted subject matter to
+
+determine whether an impermissible connection exists. See Gobeille, 577 U.S. at
+
+320.
+
+            1. EPCA’s Objectives
+
+       To determine the relevant statutory objectives for purposes of assessing for
+
+“connections,” we must consider EPCA’s purpose. See Rutledge, 592 U.S. at 86.
+
+       EPCA was passed following the oil embargo imposed by the
+       Organization of Oil Producing and Exporting Countries (“OPEC”) in
+       1973. It was designed as a direct, comprehensive response to the
+       energy crisis precipitated by the embargo . . . and among its stated
+       purposes was the reduction of demand for energy through such
+       measures as conservation plans and improved energy efficiency of
+       consumer products.
+
+
+
+                                          18
+Nat. Res. Def. Council v. Abraham, 355 F.3d 179, 185 (2d Cir. 2004) (citations omitted).
+
+After experimenting with a “voluntary market-based approach,” and setting
+
+“targets,” EPCA was updated to require the Department of Energy (“DOE”) to
+
+“establish[] mandatory efficiency standards for covered home appliances that
+
+would achieve the maximum improvement in energy efficiency that was
+
+technologically feasible and economically justified.” Id. at 185–86. When DOE
+
+proved incapable of promulgating such standards, Congress again updated the
+
+statute to “set . . . specific efficiency standards and testing methods for covered
+
+products” itself, which DOE could later amend through rulemaking. Id. at 186–
+
+87. In doing so, Congress was concerned both with meeting energy demands and
+
+combatting a “‘growing patchwork’ of state efficiency standards that had
+
+developed as the result of the absence of national standards.” Id. at 186 n.3
+
+(quoting S. Rep. No. 100-6, at 4 (1987)). 5
+
+
+
+
+5        We agree with Appellants that “[s]tates cannot circumvent preemption just by ‘shifting their
+regulatory focus’ from one angle to another.” State Appellants’ Reply Br. at 5 (quoting American Trucking
+Ass’ns v. City of Los Angeles, 569 U.S. 641, 652 (2013)); see also City Appellants’ Reply Br. at 6 (same). If a
+regulation’s practical effect is “at odds with the statute’s intended operation and effect” then the regulation
+is likely preempted. See Wos v. E.M.A. ex rel. Johnson, 568 U.S. 627, 636 (2013); see also Rowe v. N.H. Motor
+Transp. Ass’n, 552 U.S. 364, 371–72 (2008) (emphasizing the need to look at whether the regulation
+“produces the very effect that the federal law sought to avoid”). But we disagree that EPCA’s “intended
+operation and effect,” see Wos, 568 U.S. at 636, was to ensure access to all covered products, or that Congress,
+through EPCA, “sought to avoid” bans entirely, see Rowe, 552 U.S. at 371.
+
+                                                      19
+        Appellants point to two provisions to support their view that Congress’s
+
+objectives include protecting “consumer choice.” See, e.g., City Appellants’ Br. at
+
+43; State Appellants’ Br. at 47.
+
+        First, Appellants make much of the statutory waiver provision which
+
+authorizes the DOE to reject waiver applications if DOE “finds (and publishes
+
+such finding) that interested persons have established, by a preponderance of the
+
+evidence, that such State regulation will significantly burden manufacturing,
+
+marketing, distribution, sale, or servicing” of a covered product on a national basis
+
+or “is likely to result in the unavailability in the State of any covered product type.”
+
+42 U.S.C. § 6297(d)(3)–(4).
+
+        Second, and similarly, Appellants point to text dictating that DOE cannot
+
+prescribe new standards, or amend old ones, if the revised standard “is likely to
+
+result in the unavailability in the United States in any covered product type.” Id.
+
+§ 6295(o)(4).
+
+        But these two provisions do not evince Congress’s “objective” for purposes
+
+of preemption. 6 EPCA, at its core, sets energy conservation standards. It contains
+
+
+
+
+6       We recognize that the Ninth Circuit believed these provisions to indicate that Congress intended
+to preempt a broader swath of regulations. See Cal. Rest. Ass’n v. City of Berkeley, 89 F.4th 1094, 1103–04 (9th
+Cir. 2024). For the reasons explained herein, we disagree.
+
+                                                      20
+no provisions which affirmatively protect consumers’ ability to access covered
+
+products, nor does it include language affirmatively preserving manufacturers’
+
+ability to operate in static markets. Indeed, on a fundamental level, the statute
+
+operates to confine the choices of consumers and manufacturers by setting
+
+standards. We cannot conclude that Congress pursued an “objective” of consumer
+
+choice through the passage of a statute that says so little on the subject.
+
+      Moreover, “[e]xceptions to a general rule” such as DOE’s ability to
+
+promulgate standards and grant waivers, “while sometimes a helpful interpretive
+
+guide, do not in themselves delineate the scope of the rule.” Dan’s City Used Cars,
+
+Inc. v. Pilkey, 569 U.S. 251, 264 (2013). Put differently, it is hard to draw conclusions
+
+about Congress’s objective through the exceptions of a statute. At the very most,
+
+the two provisions identified by Appellants show that Congress thought energy
+
+conservation interests need not always be the only priority in setting energy
+
+conservation standards, and that consumer choice and market stability have a role
+
+to play in implementing that kind of regulation. But they say nothing about
+
+Congress’s view of other interests, like protecting public health and addressing
+
+climate change, let alone whether those varying interests support imposing a
+
+
+
+
+                                           21
+totally different kind of regulation (i.e., a prohibition on types of energy rather
+
+than a standard for the amount of energy consumed). 7
+
+        In all, we think it is clear that EPCA’s “objectives” were to establish a
+
+standardized set of performance standards for covered appliances to promote
+
+energy conservation. Those objectives serve “as a guide to the scope of the state
+
+law that Congress understood would survive.” Rutledge, 592 U.S. at 86 (quoting
+
+Dillingham Constr., N.A., Inc., 519 U.S. at 325). Since the challenged laws do not
+
+impose standards of their own, EPCA’s objectives weigh against finding an
+
+impermissible connection.
+
+            2. The Challenged Laws’ Effect
+
+        It is similarly difficult to establish that the challenged laws are
+
+impermissibly “connected” to appliances’ “energy use” because the challenged
+
+
+
+
+7        To be clear, we should not be read as suggesting that Appellee’s reasons for enacting the challenged
+laws bring those laws outside of EPCA’s preemptive scope. See Rowe, 552 U.S. at 373–74. The Supreme
+Court has clarified that, absent clear language to the contrary, the purpose of a potentially preempted law
+cannot “exempt[] state laws that . . . would otherwise [be] pre-empt[ed].” Id. at 374. Instead, we reference
+the interests of public health and combatting climate change solely to illustrate the lack of evidence
+supporting Appellants’ view of Congress’s intent. Our holding that the challenged laws are not preempted
+is not premised, in any way, on the purpose of the challenged laws.
+
+                                                    22
+laws do not affect the statute’s subject matter. See Rowe v. N.H. Motor Transp. Ass’n,
+
+552 U.S. 364, 370 (2008). 8
+
+        The same energy conservation standards will apply before and after the
+
+challenged laws are implemented. The challenged laws will not dictate, or even
+
+incentivize, manufacturing or consumer choices along the lines of energy
+
+consumption and conservation. Instead, the challenged laws govern via the type
+
+of energy an appliance consumes by barring the use of fossil-fuel-powered
+
+appliances, not the amount of energy it consumes (unlike, for example, a local law
+
+which significantly incentivizes the use of appliances that exceed federal energy
+
+conservation standards). These distinctions ensure the challenged laws will not
+
+“produce[] the very effect that the federal law sought to avoid,” because they will
+
+not apply any significant pressures on manufacturers to produce appliances that
+
+exceed federal standards. See id. at 372.
+
+
+
+
+8       Of course, the challenged laws represent a certain kind of regulatory disruption, which Appellants
+argue “affects” Congress’s concern with uniformity. But Congress was concerned with a patchwork of
+conservation standards specifically, not a patchwork of any kind of regulation, because they could “complicate
+[manufacturers’] design, production and marketing plans.” S. Rep. 100-6, at 4. We do not think this specific
+concern can be extrapolated to cover all regulations which might impact the choices of manufacturers.
+Regardless, we think the binary choice between electric and fossil-fuel-powered appliances does not
+represent the same risk of complication of the market as the potential for fifty different energy conservation
+standards.
+
+                                                     23
+      We do not mean to minimize the overall impact of the challenged laws.
+
+They will undoubtedly have an effect on the market for, and availability of, certain
+
+covered products. But that is irrelevant to the question at hand because the
+
+preemption provision targets regulations concerning appliances’ “energy use,”
+
+not, as Appellants sometimes seem to suggest, regulations concerning the covered
+
+appliances themselves.     Cf. Taxicab, 615 F.3d at 157 (treating “fuel economy
+
+standards” as the preempted subject matter, not the covered automobiles).
+
+      Indeed, “federal regulation of certain activities,” like the energy
+
+conservation standards of covered appliances, “does not mean that States must
+
+authorize activities antecedent to those federally regulated,” like the production
+
+and sale of covered appliances, in the first place. See Va. Uranium, Inc. v. Warren,
+
+587 U.S. 761, 793 (2019) (Ginsburg, J., concurring); cf. Cavel Int’l, Inc. v. Madigan,
+
+500 F.3d 551, 554 (7th Cir. 2007); Empacadora de Carnes de Fresnillo, S.A. de C.V. v.
+
+Curry, 476 F.3d 326, 333–34 (5th Cir. 2007); Ass’n des Éleveurs de Canards et d’Oies du
+
+Quebec v. Becerra, 870 F.3d 1140, 1149–51 (9th Cir. 2017).         As a particularly
+
+instructive example, it is plain that a federal statute that sets standards for the
+
+construction and safety of manufactured homes (i.e., mobile homes) does not
+
+preempt zoning regulations that “exclude mobile homes” from certain areas
+
+
+
+                                          24
+altogether. See Scurlock v. City of Lynn Haven, 858 F.2d 1521, 1524–25 (11th Cir.
+
+1988). 9
+
+        The same holds true here; a regulatory bar on the use of covered appliances
+
+altogether is not the kind of effect capable of creating an impermissible connection
+
+for preemption purposes.
+
+        Because the challenged laws do not implicate Congress’s objectives in
+
+passing EPCA, and absent an effect on the statute’s subject matter, the challenged
+
+laws are not preempted through impermissible “connections.”
+
+        C.       The Challenged Laws Do Not Reference “Energy Use”
+
+        Having concluded there are no impermissible “connections,” we next turn
+
+to whether the challenged laws “reference” or rely upon an appliance’s “energy
+
+use,” and thus, may still be preempted. They do not.
+
+        As discussed, the challenged laws govern by the type of energy consumed
+
+by an appliance, not the amount of energy an appliance consumes under
+
+standardized testing procedures. Put differently, an appliance’s “energy use,” as
+
+
+
+9        The preemption provisions at issue in each of the cited cases apply to “requirements . . . with
+respect to” or “standards regarding” the statutes’ subject matter. See Cavel, 500 F.3d at 553 (citing 21 U.S.C.
+§ 678); Curry, 476 F.3d at 333 (citing 21 U.S.C. § 678); Becerra, 870 F.3d at 1145 (citing 21 U.S.C. § 467e);
+Scurlock, 858 F.2d at 1525 (citing 42 U.S.C. § 5403(d)). Appellants appear to agree that at least “with respect
+to” and “concerning” can be treated similarly. See City Appellants’ Br. at 54. Thus, we think these cases
+are relevant for our purposes.
+
+                                                     25
+that term is used in the preemption provision, has no effect whatsoever on that
+
+appliance’s coverage under the challenged laws. To enforce the challenged laws,
+
+regulators could very well remain blind to an appliance’s “energy use.”
+
+      Nor do the challenged laws operate as a “proxy” for “energy use.” A
+
+“proxy” requires an “equivalency,” but there is no “equivalency” between the
+
+type of energy an appliance uses and that appliance’s “energy use.” Contra
+
+Taxicab, 615 F.3d at 157–58. In fact, “some gas appliances are more efficient than
+
+electric appliances, so [the challenged laws] may have the indirect effect of
+
+increasing energy consumption in new buildings in some circumstances.” Cal. Rest.
+
+Ass'n v. City of Berkeley, 89 F.4th 1094, 1126 (9th Cir. 2024) (Friedland, J., dissenting)
+
+(citing 10 C.F.R. § 430.32(e)(1)(ii)). Thus, this case is not like Taxicab, where we
+
+concluded a regulation that privileged hybrid taxis ran afoul of an express
+
+preemption provision barring “a law or regulation related to fuel economy
+
+standards.” 615 F.3d at 156 (quoting 49 U.S.C. § 32919(a)). Unlike in Taxicab, here
+
+there are “plausible alternative reason[s] for the imposition of [the challenged
+
+
+
+
+                                           26
+laws]” beyond the desire to regulate along the lines of appliances’ “energy use.”
+
+Id. at 157. 10
+
+IV.     Other Interpretative Inquiries Confirm Our View of Preemption
+
+        We need not venture further. To summarize, the preemption provision is
+
+best understood as preempting 1) state and local energy conservation standards
+
+that interfere with Congress’s objectives in passing EPCA, 2) regulations that
+
+reference or rely upon those standards in their operation, and 3) regulations that
+
+otherwise impermissibly affect appliances’ “energy use.” Because the challenged
+
+laws do not fall into these categories, they are not preempted.
+
+        Nevertheless, we proceed to check our work against Appellants’ remaining
+
+arguments, using additional interpretative aids at our disposal.
+
+        A.       Preemption Provision Title
+
+        First and most obviously, the preemption provision is titled: “General rule
+
+of preemption for energy conservation standards when Federal standard becomes
+
+effective for product.” 42 U.S.C. § 6297(c). From the start, Congress made clear
+
+
+
+
+10      Even if there is some kind of correlation between the use of fossil fuel power and an appliance’s
+“energy use,” we think such an indirect relationship is not enough. Otherwise, regulating an appliance by
+size or weight might be preempted, since common sense would suggest a correlation between the size of
+an appliance and its “energy use.” Contra 47 Fed. Reg. 57,198, 57,215 (Dec. 22, 1982) (“Prohibition against
+placing oversized furnaces and air conditioners in new buildings, would not be subject to preemption.”).
+
+                                                    27
+that it largely intended to preempt state and local energy conservation standards
+
+on covered products.     Again, the challenged laws are decidedly not energy
+
+conservation standards, so the title supports our conclusion.
+
+      B.     Definition of “Energy Conservation Standard”
+
+      Second, the preemption provision’s structure closely mirrors the statute’s
+
+definition of “energy conservation standard.” “Energy conservation standard” is
+
+defined in part as “a performance standard which prescribes a minimum level of
+
+energy efficiency or a maximum quantity of energy use, or, in the case of
+
+showerheads, faucets, water closets, and urinals, water use, for a covered product,
+
+determined in accordance with test procedures prescribed under section 6293 of
+
+this title.” See id. § 6291(6)(A). Thus, an “energy conservation standard” is a
+
+standard governing a product’s energy efficiency, energy use, or water use,
+
+depending on the type of product at issue.
+
+      That same formulation reappears in the text of the statute’s preemption
+
+provision, which again, preempts state regulations “concerning the energy
+
+efficiency, energy use, or water use of . . . covered product[s].” Id. § 6297(c). The
+
+symmetry between the statute’s definition of an “energy conservation standard”
+
+and the text it uses in its preemption provision confirms that Congress’s driving
+
+
+
+                                         28
+concern was to preempt state and local energy conservation standards, not
+
+prohibitions on types of energy like the challenged laws.
+
+       C.      Building Code Exemption
+
+       Third, our interpretation is consistent with EPCA’s exemption for certain
+
+regulations in building codes.
+
+       EPCA provides that state laws that would otherwise be preempted are
+
+permitted if they exist “in a building code for new construction” and meet certain
+
+criteria. Id. § 6297(c)(3), (f)(3). 11 The criteria for triggering the exemption provide
+
+that the regulation must “allow builders the freedom to choose a mix of products
+
+to meet” a “general energy conservation objective . . . without requiring” that
+
+builders use covered products which “exceed federal standards.”                          See State
+
+Appellants’ Br. at 6–7 (citing 42 U.S.C. § 6297(f)(3)(A)–(C), (F)).
+
+       Of course, for the exemption to make any sense, the kind of regulation it
+
+describes must be preempted in the first place; otherwise, the exemption would
+
+do no work. And the building code regulations covered by the exemption look
+
+different from the kind of energy conservation standards that primarily concerned
+
+Congress; energy conservation standards are specific to a certain appliance and
+
+
+11     Appellees do not assert that the challenged laws fall under the building code exemption, so we
+need not decide whether the challenged laws meet the relevant criteria.
+
+                                                 29
+mandatory, whereas the regulations that are covered by the building code
+
+exemption operate on a building-wide basis through incentives. Therefore, the
+
+kind of regulations covered by the building code exemption provide a useful
+
+“check” for the viability of our interpretation of the preemption provision. If our
+
+interpretation were to exclude such regulations, we may have reason to pause.
+
+        Our interpretation of the preemption provision, however, is consistent with
+
+the building code exemption. Though they are not the kind of performance
+
+standards that Congress was most directly concerned with, the regulations
+
+covered by the building code exemption nevertheless have an “impermissible
+
+relationship[]” to EPCA’s subject matter, and thus, are preempted under the
+
+interpretation we adopt in this opinion. See Rutledge, 592 U.S. at 479. 12
+
+        By targeting building-wide energy conservation, such regulations arguably
+
+“reference” appliances’ individual “energy use.”                          Indeed, regulating on a
+
+building-wide scale simultaneously (and impermissibly) achieves the goal of
+
+
+
+12       For similar reasons, we think DOE’s prior understanding that a “[p]rohibition of hook-ups for
+appliances with less than a certain efficiency would be subject to preemption” is consistent with our
+interpretation of the statute. See Cal. Rest. Ass’n, 89 F.4th at 1104 n.6 (quoting 47 Fed. Reg. 57,198, 57,215
+(Dec. 22, 1982)). Such a regulation directly references and operates upon the preempted subject matter, the
+appliances’ “energy use,” but the same is not true of the challenged laws. Indeed, the very same regulation
+asserts that “[p]rohibitions against placing oversized furnaces and air conditioners in new buildings, would
+not be subject to preemption.” See 47 Fed. Reg. at 57,215. These two examples illustrate the conclusion we
+reach today: it is not the prohibitive nature of a regulation governing covered products that triggers
+preemption; it is the law’s use of the appliance’s “energy use” as a mechanism for regulating.
+
+                                                     30
+regulating the performance of the individual appliances within that building. See
+
+Taxicab, 615 F.3d at 158 (pointing out the lack of a “plausible alternative reason for
+
+imposition” of a regulation).
+
+        Separately, the regulations covered by the building code exemption may
+
+also have an impermissible “connection” with products’ “energy use” because
+
+they directly implicate Congress’s objectives in maintaining uniform energy
+
+conservation standards. If states were permitted to regulate energy conservation
+
+on an aggregated scale (rather than the per-product basis employed by EPCA),
+
+states could easily escape the preemption provision’s reach by a simple
+
+refashioning of their regulations.
+
+        Therefore, our interpretation of the preemption provision is internally
+
+consistent with the building code exemption.                      Rather than undermining our
+
+interpretation, the exemption provision further supports it. 13
+
+
+
+
+13       In Building Industry Association of Washington v. Washington State Building Code Council, the Ninth
+Circuit addressed the relevant exemption. 683 F.3d 1144 (9th Cir. 2012). There, the relevant building code
+did not require the use of covered products that exceeded the standards imposed under EPCA, but instead,
+provided several options for meeting building-wide energy consumption goals, one of which was using
+more efficient products. The Ninth Circuit did not question that the regulation would be preempted,
+seemingly based on the regulation’s “call for higher efficiency covered products.” See id. at 1151. Instead,
+it focused squarely on whether the regulation would fall under the exemption. Its analysis squares with
+our interpretation.
+
+                                                    31
+      D.     EPCA’s Changes Over Time
+
+      Fourth, the preemption provision’s history reaffirms our interpretation.
+
+      In 1975, EPCA’s preemption provision precluded “any energy efficiency
+
+standard or similar requirement with respect to energy efficiency or energy use of
+
+a covered product.” See Energy Policy and Conservation Act, Pub. L. No. 94-163,
+
+§ 327(a)(2), 89 Stat. 871, 926–27 (1975). And in 1978, “similar requirement” was
+
+switched to “other requirement.” See National Energy Conservation Policy Act,
+
+Pub. L. No. 95-619, § 424(b), 92 Stat. 3206, 3264 (1978).
+
+      Appellants concede that, as written, the 1975 and 1978 versions of the
+
+preemption provision illustrate that “Congress meant to preempt only ‘energy
+
+conservation standards’ and the like.” City Appellants’ Br. at 17; State Appellants’
+
+Br. at 24; see also City Appellants’ Br. at 31 (“The preemption provision used to say
+
+almost exactly what the district court concluded that it means now.”). DOE
+
+seemingly agreed with that interpretation; in 1982, in a proposed rule addressing
+
+state waiver applications, it explained that it would “review only State regulations
+
+that are appliance efficiency standards,” not “State or local regulations that have
+
+only a peripheral effect on the energy efficiency of a covered product.” Energy of
+
+Conservation Program for Consumer Products; Proposed Rulemaking and Public
+
+
+
+                                          32
+Hearings Regarding Energy Efficiency Standards for Refrigerators and
+
+Refrigerator-Freezers, Freezers, Clothes Dryers, Water Heaters, Room Air
+
+Conditioners, Kitchen Ranges and Ovens, Central Air Conditioners, and Furnaces,
+
+47 Fed. Reg. 14,424, 14,456 (Apr. 2, 1982). DOE made that distinction because, in
+
+its view, state laws “whose purpose is other than energy efficiency such as a law
+
+on fire safety, would not appear to be preempted by the Federal rule, even if it has
+
+a secondary and incidental effect of improving the efficiency of a covered
+
+product.” Id.
+
+      Thus, we think it is clear that the challenged laws would not be preempted
+
+under the prior versions of the preemption provision. The question then becomes
+
+whether further amendments change that conclusion.
+
+      Undoubtedly, Congress varied the structure of the preemption provision in
+
+the relevant version enacted in 1987. First, it changed the operative connecting
+
+phrase from “with respect to” to “concerning.” Again, Appellants appear to agree
+
+that this change alone does not indicate that Congress intended to broaden the
+
+provision’s scope. See City Appellants’ Br. at 54 (noting that in Dan’s City, the
+
+Supreme Court used “concern” and “with respect to” interchangeably). Second,
+
+rather than specifically list “energy efficiency standard[s]” and “other
+
+
+
+                                        33
+requirements,” Congress targeted “regulations” concerning energy efficiency,
+
+energy use, or water use. See National Appliance Energy Conservation Act of
+
+1987, Pub. L. No. 100-12, § 7, 101 Stat. 103, 118.
+
+      That 1987 amendment coincided with a broader, statute-wide change in the
+
+way EPCA described the standards it promulgated. Instead of “energy efficiency
+
+standard,” 42 U.S.C. § 6297(a)(2) (1982), the 1987 version of EPCA used the term
+
+“energy conservation standard,” see § 2(a), 101 Stat. at 103. And while the prior
+
+“energy efficiency standard” was defined to include “performance standard[s],”
+
+see § 321(a)(6), 89 Stat. at 917, the new term “energy conservation standard” was
+
+defined to include those standards and certain “design requirement[s]” for covered
+
+products, see § 2(a), 101 Stat. at 103. Thus, “energy conservation standard” under
+
+the modern EPCA is a broader term than “energy efficiency standard” from the
+
+prior versions.
+
+      With this context, Congress’s motivation for rewording the preemption
+
+provision emerges clearly. Had it simply swapped “energy efficiency standard”
+
+for “energy conservation standard,” the preemption provision would have
+
+covered a new kind of state law: design requirements. Instead, Congress’s decision
+
+to list three of the component parts of the term “energy conservation standard”
+
+
+
+                                          34
+(i.e., energy efficiency, energy use, and water use) without listing the fourth
+
+(design requirements) indicates a conscious effort to avoid that outcome.
+
+      The legislative and administrative record supports this understanding of
+
+Congress’s intent regarding the 1987 amendment.             In describing the 1987
+
+amendments, the House Committee on Energy and Commerce stated that the
+
+preemption provision “[i]n overall form . . . follows substantially the preemption
+
+requirements in current EPCA,” including “continu[ing] the basic concept of
+
+preempting State energy efficiency standards.” H. Rep. No. 100-11, at 23–24
+
+(1987). The Senate Committee on Energy and Natural Resources shared that
+
+understanding; it explained that “[i]n general, [EPCA’s] national standards would
+
+preempt all State standards” and that the “new” provision “preempts State
+
+regulation, as provided under current law.” S. Rep. No. 100-6, at 2, 9 (1987) (emphasis
+
+added).   And many years later, DOE continued to interpret the preemption
+
+provision in much the same way as it did before the 1987 amendments. In 2010,
+
+in another notice of proposed rulemaking, it expressly “interpret[ed] ‘regulation
+
+concerning energy use’ to be equivalent to ‘energy conservation standard,’” and
+
+thus read the preemption provision to preclude state and local “performance-
+
+based standard[s].”      Energy Conservation Program: Energy Conservation
+
+
+
+                                          35
+Standards for Residential Refrigerators, Refrigerator-Freezers, and Freezers, 75
+
+Fed. Reg. 59,470, 59,530 (Sep. 27, 2010) (quoting 42 U.S.C. § 6297(c)).
+
+      In all, a holistic view of the 1987 amendments illustrates that Congress’s
+
+revisions to the preemption provision were intended to reinforce the limits of its
+
+scope, not broaden them.
+
+      E.     Absurdity
+
+      Finally, our interpretation avoids absurd results. See Cuthill v. Blinken, 990
+
+F.3d 272, 281 (2d Cir. 2021) (noting that in interpreting ambiguous statutes, “we
+
+are mindful of the well-established rule that ‘absurd results are to be avoided’”
+
+(quoting McNeill v. United States, 563 U.S. 816, 822 (2011))); In re Nine W. LBO Sec.
+
+Litig., 87 F.4th 130, 145 (2d Cir. 2023) (similar).
+
+      Take, for example, indoor kerosene heaters, which appear to be covered
+
+products under EPCA.          See 42 U.S.C. § 6292(a)(9) (listing “direct heating
+
+equipment”). New York City has, quite understandably, long banned their use
+
+because of fire safety concerns. See N.Y.C. Admin. Code § 313.3(1). After all, a fire
+
+in a New York City apartment complex can quite quickly escalate into a
+
+devastating event. Were we to interpret the preemption provision to preclude
+
+state and local prohibitions on covered products, as Appellants ask us to do, EPCA
+
+
+
+                                           36
+could preempt New York City’s ban. We think it far-fetched to conclude that
+
+Congress imagined such consequences, let alone intended those consequences,
+
+when it drafted a preemption provision in a statute that by-and-large imposes
+
+energy conservation standards. 14
+
+        Indeed, if the preemption provision covered the challenged laws, we see
+
+little reason why it would not also preclude a whole slate of seemingly standard
+
+regulations. Zoning laws that bar the use of certain appliances, like furnaces, in
+
+residential neighborhoods would be preempted because they bar the use of certain
+
+covered products, and thus, in Appellants’ view, set their “energy use” to zero.
+
+See 42 U.S.C. § 6292(a)(5) (listing furnaces as a covered appliance).                                  Noise
+
+ordinances prohibiting the use of industrial fans could similarly fall by the
+
+wayside. See generally Energy Conservation Program: Test Procedure for Fans and
+
+Blowers, 88 Fed. Reg. 27,312 (establishing standard for fans and blowers). Though
+
+our holding does not rely on the absurdity of these outcomes, they nevertheless
+
+
+
+
+14       Appellants point out that no federal standard has been imposed on indoor kerosene heaters, and
+thus, as of now, New York City’s law would not be preempted under its interpretation. City Appellants’
+Br. at 27. That is beside the point. The canon against absurd results does not solely consider whether an
+absurd result will come about the day after a court issues its decision. See, e.g., In re Brandt-Airflex Corp.,
+843 F.2d 90, 96 (2d Cir. 1988) (invoking the absurd results canon where a proffered interpretation would
+have “empower[ed]” a bankruptcy court to act). DOE could impose a standard for kerosene heaters at any
+point if it chose to do so, and, on Appellants’ account, such a standard would preempt New York City’s
+longstanding ban.
+
+                                                     37
+buttress our conclusion.
+
+ V.     The Ninth Circuit’s Contrary Holding and Defining “Point of Use”
+
+        Before concluding, we acknowledge that the Ninth Circuit disagrees with
+
+our interpretation of the preemption provision. 15                       In California Restaurant
+
+Association v. City of Berkeley, the Ninth Circuit faced a similar preemption
+
+challenge to a local law which effectively barred the installation of natural gas
+
+piping in newly constructed buildings. 89 F.4th 1094 (9th Cir. 2024). After the
+
+district court dismissed the preemption claim, the Ninth Circuit reversed and held
+
+that the local law was preempted by EPCA under its interpretation of the relevant
+
+preemption provision. The Ninth Circuit reasoned that “EPCA is concerned with
+
+the end-user’s ability to use installed covered products at their intended final
+
+destinations” based largely on the phrase “point of use” in the statutory definition
+
+of “energy use.” Id. at 1101–02. The Ninth Circuit denied the ensuing petition for
+
+
+
+
+15      Beyond the two district court decisions relevant to this appeal, there is a growing consensus
+amongst district courts outside of the Ninth Circuit that EPCA does not preempt laws that effectively ban
+gas-powered appliances. See Nat’l Ass’n of Home Builders of the U.S. v. Montgomery County, No. 8:24-cv-
+03024, 2026 WL 817322, at *7 (D. Md. Mar. 25, 2026); Nat’l Ass’n of Home Builders of the U.S. v. Dist. of
+Columbia, No. 24-cv-02942, 2026 WL 837674, at *12 (D.D.C. Mar. 26, 2026).
+
+                                                   38
+rehearing en banc, with eight active judges dissenting from the denial of rehearing
+
+en banc.
+
+      Of course, we afford the decisions of other circuits respectful consideration,
+
+and often, their decisions are “persuasive.” See Charles W. v. Maul, 214 F.3d 350,
+
+357 (2d Cir. 2000). After much consideration of the statute’s text and relevant
+
+precedent, however, we conclude that the reasons for divergence are too
+
+compelling and reluctantly believe it necessary to create “a split among the
+
+Circuits.” See Lamay v. Comm’r, 562 F.3d 503, 508 (2d Cir. 2009). In the end, we
+
+think the opinion by Judge Friedland, dissenting from denial of rehearing en banc,
+
+has the better interpretation.
+
+      A.     The Ninth Circuit’s Interpretation Halves the Statutory Definition
+
+      In choosing to emphasize “point of use,” our view is that the Ninth Circuit
+
+ignored the second half of the statutory definition. The statute defines energy use
+
+as “the quantity of energy directly consumed by a consumer product at point of
+
+use, determined in accordance with test procedures under section 6293.” 42 U.S.C.
+
+§ 6291(4) (emphasis added). But the Ninth Circuit cut off the definition after
+
+“point of use,” see Cal. Rest. Ass’n, 89 F.4th at 1101, and from there, its
+
+interpretation went astray.
+
+
+
+                                        39
+      As we have already discussed, the statutory definition and its reliance on
+
+“test procedures” is simply incompatible with the idea that “energy use” refers to
+
+the energy an appliance consumes at its “intended final destination[].” Id. at 1102.
+
+Thus, the Ninth Circuit not only ignored crucial text; its reading would “render[]
+
+meaningless” part of the statute’s definition, “mak[ing] the statute incoherent.”
+
+See Coon ex rel. Coon v. Willet Dairy, LP, 536 F.3d 171, 175 (2d Cir. 2008).
+
+      B.     The Ninth Circuit’s Interpretation Overlooks Technical Meaning
+
+      Of course, the Ninth Circuit was correct that “point of use” must mean
+
+something.   The statute’s specialized context provides the answer: “[W]hen a
+
+statute, like this one, is ‘addressing a . . . technical subject, a specialized meaning
+
+is to be expected.’” See Van Buren, 593 U.S. at 388 n.7 (quoting Antonin Scalia &
+
+Brian A. Garner, Reading Law: The Interpretation of Legal Texts 73 (2012)); see Cal.
+
+Rest. Ass’n, 89 F.4th at 1121 (Friedland, J., dissenting from the denial of rehearing
+
+en banc). In interpreting the statute’s plain text, it is “reasonable to assume that
+
+Congress relied on the accepted” use of the language in its particular context. See
+
+United States v. Hill, 506 U.S. 546, 553 (1993); see also Corning Glass Works v. Brennan,
+
+417 U.S. 188, 201 (1974) (“[W]here Congress has used technical words or terms of
+
+
+
+
+                                           40
+art, ‘it [is] proper to explain them by reference to the art or science to which they
+
+[are] appropriate.’” (quoting Greenleaf v. Goodrich, 101 U.S. 278, 284 (1880))).
+
+      Informed by its context, the “point of use” language unmistakably indicates
+
+the statute’s chosen scope for regulating an appliance’s consumption of energy.
+
+      There are two ways to measure an appliance’s energy consumption: site
+
+energy and source energy. Site energy, in the words of DOE, “is the amount of
+
+energy consumed at the point of sale (e.g., that enters the home, building, or
+
+establishment) without adjustment for any energy loss in the generation,
+
+transmission, and distribution of that energy.”          Energy Intensity Indicators:
+
+Terminology and Definitions, U.S. Dep’t of Energy (last visited Apr. 12, 2026),
+
+https://www.energy.gov/eere/analysis/energy-intensity-indicators-terminology-
+
+and-definitions.   In other words, site energy is the energy consumed at an
+
+appliance’s “point of use.” In contrast, “source energy” is the site energy “plus
+
+the energy losses associated with the production of electricity by the utility sector
+
+(i.e., losses that occur in the generation, transmission, and distribution).” Id.
+
+Simply put, source energy casts a wider net.
+
+      As an illustrative example, “energy as measured at the ‘point of use’ would
+
+include only the natural gas needed to operate a gas stove, whereas ‘source energy’
+
+
+
+                                          41
+would also include the energy consumed in extracting that natural gas, removing
+
+its impurities, and transporting it to the location of the stove.” See Cal. Rest. Ass'n,
+
+89 F.4th at 1123 (Friedland, J., dissenting).
+
+      Congress needed to instruct regulators and manufacturers as to which of
+
+these scopes of measurement it was regulating and imposing standards upon.
+
+Without such instruction, the statute would not achieve its goals of
+
+standardization. The statute’s inclusion of “point of use” is most naturally read as
+
+a way of filling that gap.
+
+      C.     Available Sources Support Our Reading of “Point of Use”
+
+      This technical interpretation of the work done by “point of use” not only
+
+makes sense but is also in lockstep with the interpretation pressed by DOE on
+
+multiple occasions. In a 2004 notice of proposed rulemaking, DOE explained that
+
+“EPCA . . . do[es] not permit the regulation of source energy” because it
+
+“specif[ies] that efficiency must be based on the energy consumption at the point
+
+of use.”     Energy Conservation Program for Consumer Products: Energy
+
+Conservation Standards for Residential Furnaces and Boilers, 69 Fed. Reg. 45420,
+
+45426 (July 29, 2004) (citing 42 U.S.C. § 6291(4)). And in a separate 2010 notice of
+
+proposed rulemaking, DOE stated that “existing law . . . requires” measures of a
+
+
+
+                                          42
+covered product’s energy consumption “to be based solely on the energy
+
+consumed at the point of use” rather than “the energy consumed in extracting,
+
+processing, and transporting primary fuels and energy losses associated with
+
+generation, transmission, and distribution of electricity.” Energy Conservation
+
+Program for Consumer Products and Certain Commercial and Industrial
+
+Equipment: Public Meeting and Availability of Statement of Policy for Adopting
+
+Full-Fuel-Cycle Analyses into Energy Conservation Standards Program, 75 Fed.
+
+Reg. 51423, 51424 (Aug. 20, 2010) (citing 42 U.S.C. § 6291(4)). 16
+
+        A consistent stream of congressional and legislative sources similarly
+
+supports reading “point of use” as a technical term. In 1978, in the lead up to
+
+legislation that would amend parts of EPCA, the Congressional Research Service
+
+(“CRS”) prepared reports for the House Subcommittee on Energy and Power
+
+addressing national energy needs.                   Notably, those reports drew distinctions
+
+between energy consumed by an appliance “at the point of use” and the energy
+
+expended “by conversion and transmission.” See CRS, Energy and the Economy,
+
+4339 (Apr. 1978); see also CRS, The National Energy Plan, 4541 n.1 (Apr. 1978)
+
+
+
+
+16       Judge Friedland’s opinion dissenting from the denial of rehearing en banc in California Restaurant
+Association helpfully lists additional examples illustrating the technical meaning of “point of use.” 89 F.4th
+at 1123–24.
+
+                                                     43
+(noting that “in arriving at [a certain figure] [CRS] considered the energy lost to
+
+convert fossil fuels to electricity at power plants, as well as the energy loss in
+
+transmitting electricity from the power plant to the point of use”). Thus, there is
+
+evidence that “point of use” has been used to indicate the scope of energy
+
+consumption measured by a given figure since the seventies, around the time the
+
+“point of use” language was introduced.
+
+      Later, in 1998, a Senate Appropriations Committee report recommending
+
+the passage of an appropriations bill funding DOE activities acknowledged that
+
+the standards implemented by DOE “presently reflect only the energy consumed
+
+at the point of use,” and “ignore[] the total energy consumed over the full fuel
+
+cycle.” S. Rep. 105-227, at 100 (1998). In response to the report’s criticism of site
+
+energy, or point of use, methodology, the Chairman of the Senate Committee on
+
+Energy and Natural Resources and seven colleagues asserted that EPCA’s
+
+definition of “energy use” settled the debate over whether the statute should
+
+implement standards based on site or source energy. See 144 Cong. Rec. S12706
+
+(1998) (asserting that in passing EPCA, Congress opted for “determining the
+
+energy use of an appliance at its point-of-use” rather than a more “expansive
+
+definition of energy use . . . that included exogenous factors like ‘total fuel cycle’
+
+
+
+                                         44
+costs, emissions and externalities”). Senator Murkowski went on to explain that
+
+“the majority of Congress determined that energy consumed at the point of use
+
+can be measured . . . with greater accuracy than . . . ‘source energy,’” and that
+
+Congress’s “determination is clearly reflected in the authorizing statute.” Id.
+
+(citing 42 U.S.C. § 6291).             Underlying this debate is not only an apparent
+
+understanding of the technical meaning of “point of use,” but also, a shared belief
+
+that EPCA governs along those lines. 17
+
+        More recently, Congress commissioned a study by the National Academy
+
+of Sciences which explained that “[c]urrent DOE standards for the energy
+
+consumed by operating individual appliances call for measurement at the site
+
+(point of use) of the appliance.” Nat’l Rsch. Council, Review of Site (Point-of-Use)
+
+and Full-Fuel-Cycle Measurement Approaches to DOE/EERE Building Appliance
+
+Energy-Efficiency Standards: Letter Report 3–4, 6 (2009). Just last year, Congress
+
+began to consider a bill “to amend [EPCA] to modify standards for water heaters,
+
+
+
+17        We recognize that these sources post-date the original enactment of the language at issue, though
+some precede Congress’s later amendments. See Bruesewitz v. Wyeth LLC, 562 U.S. 223, 242 (2011)
+(criticizing the use of “post-enactment legislative history”). However, given that the alternate
+interpretation advanced by the Appellants and adopted by the Ninth Circuit would render part of the
+statute meaningless, and given the abundance of consistent evidence of the technical meaning of “point of
+use” over time, we think the technical interpretation is plainly the better one. Regardless, the Supreme
+Court has sometimes relied on post-enactment evidence of a term’s technical meaning to interpret a statute.
+See Van Buren v. United States, 593 U.S. 374, 388 n.6 (2023) (citing sources dated after the relevant statute’s
+1986 enactment).
+
+                                                     45
+furnaces, boilers, and kitchen cooktops, ranges, and ovens.” H.R. 1281, 119th
+
+Cong. (2025). That bill directly refers to the National Academy of Sciences report
+
+and proposes incorporating the “full fuel cycle analysis for energy efficiency
+
+standards” described in that report into the statute. Id. These sources provide
+
+further evidence that “point of use” has long carried a technical meaning within
+
+this context.
+
+      We thus depart from our sister circuit’s perspective.
+
+VI.   Conclusion
+
+      We hold that the challenged laws are not preempted under EPCA.
+
+Interpreting preemption provisions in federal statutes requires ascertaining
+
+Congress’s intent. EPCA, a statute that at its heart promotes national energy
+
+conservation goals, does not preclude these particular state and local efforts to
+
+regulate the use of fossil fuels. For the foregoing reasons, the District Courts’
+
+judgments are AFFIRMED.
+
+
+
+
+                                        46
+

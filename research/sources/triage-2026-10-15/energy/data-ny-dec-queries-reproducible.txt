@@ -1,0 +1,22 @@
+Reproducible SoQL queries against data.ny.gov dataset szye-wmt3 (NYS DEC Oil, Gas & Other Regulated Wells), run 2026-10-15.
+Well types: OD = oil development, GD = gas development, GE = gas extension, GW = gas wildcat (DEC well-type codes).
+Endpoint: https://data.ny.gov/resource/szye-wmt3.json
+
+QUERY: SELECT date_extract_y(permit_issued_date) AS yr, count(*) AS n WHERE well_type='OD' AND permit_issued_date >= '2024-01-01' GROUP BY yr ORDER BY yr
+RESULT: [{"yr":"2024","n":"52"}
+,{"yr":"2025","n":"58"}
+,{"yr":"2026","n":"2"}]
+
+QUERY: SELECT county, count(*) AS n WHERE well_type='OD' AND permit_issued_date >= '2024-01-01' GROUP BY county
+RESULT: [{"county":"Steuben","n":"1"}
+,{"county":"Cattaraugus","n":"111"}]
+
+QUERY: SELECT date_extract_y(permit_issued_date) AS yr, count(*) AS n WHERE well_type IN ('GD','GE','GW') AND permit_issued_date >= '2010-01-01' GROUP BY yr ORDER BY yr
+RESULT: [{"yr":"2010","n":"101"}
+,{"yr":"2011","n":"23"}
+,{"yr":"2012","n":"3"}
+,{"yr":"2013","n":"2"}
+,{"yr":"2014","n":"1"}
+,{"yr":"2016","n":"1"}
+,{"yr":"2017","n":"1"}]
+

@@ -1,0 +1,22 @@
+SOURCE: https://www.eia.gov/electricity/data/eia861/zip/f8612025.zip (Sales_Ult_Cust_2025.xlsx), retrieved 2026-10-15 via curl. cents/kWh = residential revenue / residential sales, computed by agent. Bundled = full-service (utility supplies energy); Delivery = customers buying supply from a third party (revenue covers delivery only, not comparable).
+Year|UtilNo|Utility|Part|ServiceType|State|ResRevenue$000|ResSalesMWh|ResCustomers|cents/kWh
+2025|3249|Central Hudson Gas & Elec Corp|A|Bundled|NY|569097|2056458|246232|27.67
+2025|3249|Central Hudson Gas & Elec Corp|C|Delivery|NY|34335|189865|24375|18.08
+2025|4226|Consolidated Edison Co-NY Inc|A|Bundled|NY|4568717|12436871|2777072|36.74
+2025|4226|Consolidated Edison Co-NY Inc|C|Delivery|NY|402234|1656192|311927|24.29
+2025|5487|Duquesne Light Co|A|Bundled|PA|752563.9|3206431|437551|23.47
+2025|5487|Duquesne Light Co|C|Delivery|PA|105498|883382|115573|11.94
+2025|13511|New York State Elec & Gas Corp|A|Bundled|NY|1507871.5|6676128|747709|22.59
+2025|13511|New York State Elec & Gas Corp|C|Delivery|NY|56867.4|433917|45993|13.11
+2025|13573|Niagara Mohawk Power Corp.|A|Bundled|NY|2256339.3|11345908|1449428|19.89
+2025|13573|Niagara Mohawk Power Corp.|C|Delivery|NY|82220.4|793121|87141|10.37
+2025|14715|PPL Electric Utilities Corp|A|Bundled|PA|1643070.3|8834260|836316|18.6
+2025|14715|PPL Electric Utilities Corp|C|Delivery|PA|389704.2|5988387|474935|6.51
+2025|14940|PECO Energy Co|A|Bundled|PA|2000825|11105844|1225334|18.02
+2025|14940|PECO Energy Co|C|Delivery|PA|313788|2991319|313659|10.49
+2025|16183|Rochester Gas & Electric Corp|A|Bundled|NY|558502.9|2537866|302692|22.01
+2025|16183|Rochester Gas & Electric Corp|C|Delivery|NY|59702.8|445165|50925|13.41
+2025|66101|FirstEnergy Pennsylvania Electric Co|A|Bundled|NY|4848.1|31800|3353|15.25
+2025|66101|FirstEnergy Pennsylvania Electric Co|A|Bundled|PA|2930981.9|15613670|1471463|18.77
+2025|66101|FirstEnergy Pennsylvania Electric Co|C|Delivery|NY|18.5|307|41|6.03
+2025|66101|FirstEnergy Pennsylvania Electric Co|C|Delivery|PA|278692.9|3594161|337478|7.75

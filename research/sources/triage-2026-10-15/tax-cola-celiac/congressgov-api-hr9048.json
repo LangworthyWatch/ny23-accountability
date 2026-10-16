@@ -1,0 +1,67 @@
+{
+    "bill": {
+        "actions": {
+            "count": 3,
+            "url": "https://api.congress.gov/v3/bill/119/hr/9048/actions?format=json"
+        },
+        "committees": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/hr/9048/committees?format=json"
+        },
+        "congress": 119,
+        "constitutionalAuthorityStatementText": "<pre>\n[Congressional Record Volume 172, Number 91 (Friday, May 29, 2026)]\n[House]\nFrom the Congressional Record Online through the Government Publishing Office [<a href=\"https://www.gpo.gov\">www.gpo.gov</a>]\nBy Mr. CLEAVER:\nH.R. 9048.\nCongress has the power to enact this legislation pursuant\nto the following:\nCluase 3 of section 8 of Article I of the Constitution\n[Page H3741]\n</pre>",
+        "cosponsors": {
+            "count": 51,
+            "countIncludingWithdrawnCosponsors": 51,
+            "url": "https://api.congress.gov/v3/bill/119/hr/9048/cosponsors?format=json"
+        },
+        "introducedDate": "2026-05-29",
+        "latestAction": {
+            "actionDate": "2026-05-29",
+            "text": "Referred to the House Committee on Energy and Commerce."
+        },
+        "legislationUrl": "https://www.congress.gov/bill/119th-congress/house-bill/9048",
+        "number": "9048",
+        "originChamber": "House",
+        "originChamberCode": "H",
+        "policyArea": {
+            "name": "Health"
+        },
+        "sponsors": [
+            {
+                "bioguideId": "C001061",
+                "district": 5,
+                "firstName": "Emanuel",
+                "fullName": "Rep. Cleaver, Emanuel [D-MO-5]",
+                "isByRequest": "N",
+                "lastName": "Cleaver",
+                "party": "D",
+                "state": "MO",
+                "url": "https://api.congress.gov/v3/member/C001061?format=json"
+            }
+        ],
+        "subjects": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/hr/9048/subjects?format=json"
+        },
+        "textVersions": {
+            "count": 1,
+            "url": "https://api.congress.gov/v3/bill/119/hr/9048/text?format=json"
+        },
+        "title": "Celiac Safety Act of 2026",
+        "titles": {
+            "count": 3,
+            "url": "https://api.congress.gov/v3/bill/119/hr/9048/titles?format=json"
+        },
+        "type": "HR",
+        "updateDate": "2026-09-09T14:52:36Z",
+        "updateDateIncludingText": "2026-09-09T14:52:36Z"
+    },
+    "request": {
+        "billNumber": "9048",
+        "billType": "hr",
+        "congress": "119",
+        "contentType": "application/json",
+        "format": "json"
+    }
+}

@@ -1,0 +1,205 @@
+
+	Unpacking New York State’s Rollback of its Landmark Climate Law - Climate Law Blog
+          Skip to content
+Cross-cutting Issues
+Cities & Local Governments
+Climate Litigation
+Climate Science
+Carbon Management and GHG removal
+Climate Finance
+Environmental Justice
+US Climate Law & Policy
+Energy
+Clean Energy
+Energy Resilience
+Fossil Fuels
+Environment & Land Use
+Adaptation & Resilience
+Clean Air Act
+Environmental Impact Review
+Natural Resources
+International
+Comparative Law
+Human Rights
+Migration & Displacement
+UNFCCC
+News
+Events
+Staff News
+Press Release
+Blog Series
+Subscribe
+  Search
+        Search
+      Search …
+  Search
+        Search
+      Search …
+        Search
+      Search …
+  Menu
+Cross-cutting Issues
+Cities & Local Governments
+Climate Litigation
+Climate Science
+Carbon Management and GHG removal
+Climate Finance
+Environmental Justice
+US Climate Law & Policy
+Energy
+Clean Energy
+Energy Resilience
+Fossil Fuels
+Environment & Land Use
+Adaptation & Resilience
+Clean Air Act
+Environmental Impact Review
+Natural Resources
+International
+Comparative Law
+Human Rights
+Migration & Displacement
+UNFCCC
+News
+Events
+Staff News
+Press Release
+Blog Series
+Subscribe
+Home » Unpacking New York State’s Rollback of its Landmark Climate Law  
+           Cap & Trade  Energy  US Climate Law & Policy         
+Unpacking New York State’s Rollback of its Landmark Climate Law
+        by Jon Binder and Vincent Nolette|Published June 5, 2026      
+On May 26, as part of the FY 2026-27 budget, New York State enacted significant revisions to its 2019 Climate Leadership and Community Protection Act (CLCPA or Act). The amendments amount to a substantial rollback of the Act’s ambition.
+Annual temperature change in New York from 1895-2023. Source: earthstripes.org
+For the last seven years, the Act has served as the underpinning for New York’s climate policy and regulation. In November, we published a blog post that reviewed the implementation of the CLCPA. As we discussed then, a series of actions by the State last year called into question its commitment to implementing the Act’s requirements. But while the State had slowed or stopped building on the groundwork established by the CLCPA, last week it undermined its very foundation.
+In this post, we summarize key provisions of the original CLCPA, and then analyze the enacted changes to the Act, which include amendments to:
+the CLCPA’s greenhouse gas (GHG) emissions accounting methodology;
+the statewide emission limits; and
+the requirement for the Administration to adopt implementing regulations.
+New York took many planning, regulatory, permitting, and other actions based on the original Act’s language and direction. In a second publication, we will discuss the myriad implications of the changes to the Act on litigation, regulations, permitting, and other aspects of the State’s climate policy. The State – and in particular the Department of Environmental Conservation (DEC) – will likely need to take several administrative steps to implement the amendments to the Act.
+Background and Key Provisions of the Original CLCPA
+The State originally enacted the CLCPA in 2019 during the first Trump Administration. Prior to last week’s amendments, the Act contained numerous provisions that made it binding and ambitious, including relative to similar comprehensive climate statutes in other states. As we described November, the CLCPA was truly a nation-leading piece of climate legislation.
+      1. GHG Accounting Methodology 
+A jurisdiction’s choice regarding GHG emissions accounting is itself a policy choice because it places relative emphasis on particular pollutants or fuel types. The original statute included a unique GHG emission accounting methodology with three main components. First, it utilized a twenty-year global warming potential (GWP20) to measure carbon dioxide equivalents (CO2e), rather than the more conventional 100-year global warming potential (GWP100) metric. This placed additional emphasis on methane and other short-lived climate pollutants that make a large contribution to near-term warming.
+Second, the CLCPA previously incorporated upstream out-of-state emissions from imported electricity and fossil fuels into the overall emission reduction requirements. By counting such emissions as part of New York State emission totals, this provision increased the amount of GHG emissions the State had to reduce. It also provided a catalyst for transitioning away from natural gas, including natural gas imported from Pennsylvania and other states.
+Third, the State utilized gross rather than net emission limits, meaning that emission removals, such as those due to forestry activities that uptake and store carbon dioxide, were excluded from the calculation of the State’s gross GHG emissions as well as the determination of compliance with the emission limits set in the CLCPA.
+      2. Statewide GHG Emission Limits
+The way GHGs are measured makes a substantial difference in the overall amount of GHG emission reductions called for by the Act. When considered in the context of its robust GHG accounting backdrop, the original CLCPA’s binding statewide emission reduction requirements were even more ambitious. As explained in our November post, as measured from a 1990 baseline, the Act required a 40% reduction in all statewide GHG emissions by 2030 and an 85% reduction by 2050. DEC relied on the CLCPA’s original accounting methodology to estimate 1990 emissions and extrapolate to the 2030 and 2050 limits in tons of CO2e. These tonnage limits for 2030 and 2050 were adopted by DEC in regulation (6 NYCRR Part 496) in 2020. The 2030 and 2050 GHG emission limits were, respectively, 245.87 million metric tons (mmt) CO2e and 61.47 mmt CO2e. But those numbers will change under the new accounting; updating the Part 496 regulation is one example of future administrative action DEC likely has to take in the months ahead.
+      3. Requirement to Regulate
+The original CLCPA included a statutory obligation for DEC to promulgate regulations to ensure compliance with the Statewide GHG emission limits. Under the initial Act, the regulations were due by January 1, 2024. By the end of 2024, DEC and the New York State Energy Research and Development Authority had prepared cap-and-invest regulations and were prepared to release drafts for public comment. But in her January 2025 State of the State address, Governor Hochul announced her decision to not move forward with the cap-and-invest program, and instead only proceed with a mandatory GHG reporting program. Thus,  DEC did not meet the deadline, which led to a lawsuit. DEC lost the resulting case. The Court ruled that the delay violated the Act and ordered DEC to issue regulations by February 6, 2026 or seek relief from the Legislature. Citizen Action v. DEC (Albany Co. Sup. Ct., Oct. 24, 2025, 903160-25). DEC appealed the decision (3d Dep’t, CV-25-1957), thereby obtaining an automatic stay. At the same time, Governor Hochul sought relief from the Legislature as part of the State budget process. While the appeal was pending, and just two days before scheduled oral argument, the State enacted changes to the CLCPA as part of passing the budget.
+Enacted Changes – GHG Accounting
+The enacted amendments include several changes that significantly weaken the CLCPA. Although on first blush they may appear minor, the amendments amount to a structural weakening of the CLCPA.
+       1. Summary of Statutory Revisions to Accounting Methodology
+The CLCPA’s unique GHG accounting methodology is no more. First, the amendments set forth that CO2e will be measured using GWP100, rather than GWP20. Second, upstream out-of-state emissions from imported fossil fuels are now excluded from the Statewide total. Notably, emissions from imported electricity are retained as part of the total. Third, the amendments require that CO2 emissions from biogenic sources be “reported separately, consistent with treatment of biogenic [CO2] emissions under the methodologies of the Intergovernmental Panel on Climate Change.” While it is not entirely clear based on the wording and placement within the Act, this is apparently intended to treat biogenic combustion as zero CO2 emissions. The amendments did not, however, include a change from gross to net emission limits.
+Overall, as compared to the original CLCPA, its updated accounting methodology is far closer to the more conventional methodology developed by the Intergovernmental Panel on Climate Change (IPCC) for reporting under the United Nations Framework Convention on Climate Change (UNFCCC). But it does not align totally with the conventional approach. For example, the new CLCPA accounting still counts upstream out-of-state emissions from imported electricity (though not from imported fossil fuels), and the limits are still measured on a gross emissions basis. In other words, to the extent the changes were intended to align the CLCPA’s accounting with the conventional method, the amendments preserve some of the Act’s original distinctiveness.
+     2. Impacts of Changed Accounting
+While these changes to the GHG accounting methodology might seem technical, they have the effect of significantly weakening the CLCPA.
+They make the State appear closer to the CLCPA’s emission reduction targets on paper. But this is simply due to the changed accounting methodology and not any actual additional GHG emission reductions. In particular, according to DEC’s 2025 Statewide GHG Emissions Report, under original CLCPA accounting, the State reduced GHG emissions by 14.8% from 1990 to 2023. By contrast, under the UNFCCC accounting – which as noted above, more closely corresponds with the updated accounting, but will not match precisely – the State reduced GHG emissions by 24% over the same period.
+The accounting changes also shrink the size of the emissions “pie” that the State is responsible for reducing. Moving forward, the 1990 GHG levels that provided the baseline against which New York’s emissions reductions are measured will almost certainly be lower under the new accounting methodology. So too will the gross emissions that New York measures against that 1990 baseline. In 2023, for example, statewide gross emissions were 354.06 mmt CO2e under original CLCPA accounting. Under the UNFCCC accounting, statewide gross emissions in 2023 were 191.17 mmt CO2e. In other words, with a legislative snap-of-the-finger – but no actual physical reductions – the State’s gross emissions went down by over 46%. When those lower emissions are compared to the new lower baseline, measured progress toward CLCPA emission reduction targets will increase significantly even if actual emissions remain unchanged.
+Moreover, the amendments reduce the apparent impact of methane and other short-lived climate pollutants, thereby de-emphasizing the Act’s previous focus on reducing such emissions. By using GWP100 rather than GWP20, the amended CLCPA is measuring the global warming impact of pollutants over a longer timeframe. This means that GHGs that do not last as long in the atmosphere will appear – on paper – to have relatively less influence on the climate. For example, previously, under GWP20, each ton of methane was treated as 84 tons of CO2, but now that the State has switched to GWP100, each ton of methane will be only counted as 27.9 tons of CO2, if the state relies on the latest IPCC report.
+Furthermore, natural gas now appears to be a lower-emission fuel. This is due to the change from GWP20 to GWP100, and even more so due to the exclusion of upstream emissions. By not counting the out-of-state GHG emissions associated with the production and transportation of natural gas imported for use in the State – including GHG emissions from drilling operations, leakage at production wells and pipelines, and emissions from compressor stations – natural gas will look far better quantitatively. A large portion of the GHG emissions caused by natural gas consumption in New York will go uncounted. This will likely become relevant as the State considers various proposed natural gas pipeline or generation projects, as well as other projects that utilize large amounts of natural gas, because their emissions will look lower than they would’ve under the previous accounting methodology.
+Enacted Changes – Requirement to Regulate
+The obligation for DEC to promulgate regulations to achieve the GHG emissions limits is no longer explicitly tied to ensuring compliance with the 40% by 2030 emission limit. In other words, prior to the 2050 deadline that remains, it is no longer clear whether any legal or regulatory mechanism requires overall statewide emissions to decline as called for in the Act.
+The Act does include a new interim target to reduce Statewide GHGs by 60% from 1990 levels by 2040. But this provision uses different language than the original 2030 and 2050 limits. Under the amended Act, DEC must promulgate regulations “designed to: (i) achieve, to the maximum extent feasible and cost-effective, a sixty percent reduction in statewide greenhouse gas emissions from 1990 emissions” by 2040. (emphasis added). Exactly what this means is unclear and may ultimately be the subject of litigation. Meanwhile, the binding language for the 2050 limit remains unchanged.
+Lastly, under the amendments, DEC regulations to ensure compliance with the GHG emission limits are not due until December 31, 2028. This is a full five years after the Act’s original statutory deadline for regulations. Of course, given the Governor’s previous decision to not move forward with the cap-and-invest program that her administration developed, DEC was already overdue on the original January 1, 2024 deadline to regulate. As a result of the pushed-out deadline, the Citizen Action litigation – which was largely decided based on DEC being past the deadline – is now moot. Last week, the Petitioners-Respondents consented to adjournment of oral argument in the appeal before the Third Department. With the changed deadline, there will be an even longer delay in implementation of cap-and-invest or other policies that would ensure emission reductions and generate necessary revenue for the State.
+Other Enacted Changes
+The amendments enacted last week included a number of other changes that do not fundamentally alter the structure of the law. First, the Climate Action Council, which had spent three years developing a Scoping Plan to provide recommendations for how to reach the original Act’s emission limits, will undertake its first update to the Plan in 2028 instead of 2027. Thereafter, the Council will update the Plan every six years, rather than the five-year update cycle in the initial CLCPA.
+Second, the statutory provision requiring DEC to regulate now includes numerous items for DEC to consider in the course of developing regulations. These considerations are additional to requirements contained in the original statute and that still remain, including to minimize costs, prioritize disadvantaged communities, and minimize leakage. For example, the statute calls for DEC to consider market-based programs like cap-and-invest, affordability, how emission reductions affect costs over time, the use of cost-containment measures, and other factors. But these changes are likely to be of limited practical effect, given they merely require consideration, and because of prior existing language. The Administration had already developed a cap-and-invest program with cost-containment measures pursuant to the authority provided in the original CLCPA. Relatedly, the initial Act also called for minimizing costs as part of promulgating regulations.
+Lastly, the revisions increase the percentage of State clean energy investments that must benefit disadvantaged communities. This represents the one enacted change that may be considered progress rather than a rollback. Whereas the original Act required disadvantaged communities to receive a minimum of 35% of the benefits of clean energy and energy efficiency programs, projects or investments (with a goal of 40%), the amendments increase this to 40% (with a goal of 45%).  DEC and NYSERDA recently finalized guidance for agencies and authorities regarding disadvantaged community investments and benefits reporting. The investment requirement applies, for example, to investments under the Sustainable Future Program, which was allocated an additional $1 billion in the enacted FY2027 budget.
+Conclusions and Next Steps
+The CLCPA had been among the strongest state-level climate laws in the U.S. The Act gave New York a legitimate claim as a climate leader. Prior to the amendments, the State had made substantial progress – albeit not enough – in implementing the Act’s ambitious requirements, and there was momentum to continue moving forward.
+Unfortunately, with the changes enacted last week, New York can no longer claim the mantle of climate leadership. The changed GHG emissions accounting, coupled with weakened and delayed requirements to regulate, means the State is instead now a leader in retreating from major climate legislation. Of course, the State is undermining the Act at a time of unprecedented backsliding on climate policy and regulation at the federal level.
+Forward progress on the State’s climate policy is still possible. The extent of the rollback’s impacts will depend in large part on the State’s next steps. In our next publication, we will outline legal, regulatory, and permitting implications of the changes, and consider the most likely next steps by DEC and the current administration.
+			        Jon Binder                
+            + posts        
+            Bio        
+Jon Binder
+                        The Impact of New York’s 2026 Climate Law Retreat – New Sabin Center White Paper                    
+Jon Binder
+                        To Implement or Not to Implement: New York State’s Climate Law in 2025                    
+		            Vincent Nolette                
+            + posts        
+            Bio        
+Vincent M. Nolette is the Sabin Center's Equitable Cities Climate Law Fellow.
+Vincent Nolette
+                        Reading the Appellate Tea Leaves of a Recent Federal Funding Order                    
+Vincent Nolette
+                        The Impact of New York’s 2026 Climate Law Retreat – New Sabin Center White Paper                    
+Vincent Nolette
+                        Data Center Regulation: What Local Governments Should Know about Large-Load Tariffs and Clean Transition Tariffs                    
+Vincent Nolette
+                        Community Benefits Agreements and Data Center Development                    
+Vincent Nolette
+                        Financial Speculation in Capacity Markets Undermines the Energy Transition                    
+Vincent Nolette
+                        Two More Courts Uphold Building Decarbonization Laws, Rejecting EPCA Preemption                    
+Vincent Nolette
+                        Uncertain Remedies for Frozen Federal Climate Funding                    
+Vincent Nolette
+                        New Sabin Center Report and Online Resource: Navigating State Law in Local Climate Action                    
+Vincent Nolette
+                        To Implement or Not to Implement: New York State’s Climate Law in 2025                    
+Vincent Nolette
+                        Sabin Center Files Amicus Brief Supporting New York City’s Building Electrification Law in Second Circuit Appeal                    
+Vincent Nolette
+                        Appropriated, but Unobligated: Impounding Climate Funds                    
+Vincent Nolette
+                        Four Solar For All Lawsuits: Two Distinct Forums and Legal Theories                    
+Vincent Nolette
+                        Supreme Court Signals Challenges to Federal Grant Terminations are Contract Disputes                    
+Vincent Nolette
+                        Sabin Center Files Amicus Brief to Support States and Local Governments in Federal Funding Freeze Case                    
+Vincent Nolette
+                        Examining the Remarkable Rise of Ultra Vires Claims Against the Executive Branch                    
+Vincent Nolette
+                        In Final Ruling, New York Court of Appeals Greenlights New York City’s Building Performance Standards                    
+Vincent Nolette
+                        Solar for All Implementation in 2025                    
+Vincent Nolette
+                        New York City’s Building Electrification Law Wins in District Court                    
+Vincent Nolette
+                        Sabin Center Files Amicus Brief Amid Trump Transition to Support EPA’s Heavy-Duty Vehicle Standards                     
+Vincent Nolette
+                        Sabin Center Files Amicus Brief in New York’s Highest Court Supporting New York City’s Local Law 97                    
+Vincent Nolette
+                        Sabin Center Files Amicus Brief in Support of EPA’s 2024 Vehicle Emissions Standards                    
+Vincent Nolette
+                        Sabin Center Files Two Amicus Briefs Supporting EPA’s 2024 Power Plant Rules                    
+Vincent Nolette
+                        So Your CPRG Application Didn’t Get Funded                    
+Vincent Nolette
+                        Sabin Center Files Amicus Brief Supporting New York City’s Motion to Appeal in Local Law 97 Case                    
+ Climate Change 
+ energy transition 
+ State Activity 
+ U.S. Climate Policy             
+You may also like
+          Published September 4, 2025      
+      Court of Appeals Sets Aside Preliminary Injunction in GGRF Litigation
+This is part of a blog series that examines the impact of federal grant termination litigation on the Inflation Reduction Act’s Greenhouse […]
+          Published June 5, 2023      
+      New York Home Buyers Deserve the Right to Know Their Flood Risk
+The New York Senate has an opportunity to ensure home buyers have the ability to protect their families from flooding by passing […]
+          Published July 22, 2026      
+      Trump Administration’s Unified Agenda Suggests Major Reversals on Climate Safeguards
+On July 3, the Office of Management and Budget released the Trump Administration’s Unified Agenda for 2026. The document, typically released once […]
+          Published October 30, 2025      
+      Court of Federal Claims: Jurisdiction, Remedies, and Unsuitability to Adjudicate the GGRF Lawsuit
+Amid the Trump administration’s cancellation of billions in federal funding for climate action, the Sabin Center has covered the numerous cases that […]
+Post navigation
+              Previous post
+        Data Center Regulation: What Local Governments Should Know about Large-Load Tariffs and Clean Transition Tariffs
+          Back to post list
+              Next post
+        UK Court Recognizes Climate Migration as a Human Right: FA v. the Secretary of State for the Home Department (2025)
+Join our Mailing Lists
+Sabin Center for Climate Change Law
+Sabin Center for Climate Change Law 
+Columbia Law School
+435 West 116th Street
+New York, NY 10027
+      © 2026
+      Climate Law Blog          –
+      All rights reserved
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok

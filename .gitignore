@@ -37,3 +37,13 @@ archive_log_*.txt
 research/sources/debate-2026-10-06/debate-video.mp4
 research/sources/debate-2026-10-06/debate-audio.webm
 research/sources/debate-2026-10-06/frames/t*.jpg
+# triage-2026-10-15: media kept locally only (same policy as the debate video)
+research/sources/triage-2026-10-15/videos/*.mp4
+research/sources/triage-2026-10-15/hochul-record/gov-debate-2026-10-13/*.mp3
+research/sources/triage-2026-10-15/hochul-record/gov-debate-2026-10-13/*.info.json
+# large PDFs with verified Wayback copies; text extracts are committed
+research/sources/triage-2026-10-15/energy/eia-epm-archive-february2026.pdf
+research/sources/triage-2026-10-15/hochul-record/elliott/nyu-wagner-buffalo-blizzard-report-2023.pdf
+research/sources/triage-2026-10-15/hochul-record/wood-heat/scoping-plan-final-2022.pdf
+research/sources/triage-2026-10-15/hochul-record/taxes/fy26fp-en.pdf
+research/sources/triage-2026-10-15/hochul-record/taxes/fy27fp-en.pdf

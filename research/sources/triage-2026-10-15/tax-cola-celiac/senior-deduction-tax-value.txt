@@ -1,0 +1,15 @@
+Illustrative tax value of the $6,000 senior deduction (P.L. 119-21 Sec. 70103)
+Value = deduction amount x marginal rate; assumes taxable income absorbs the full deduction.
+  10% bracket: single $600; couple both 65+ ($12,000) $1,200
+  12% bracket: single $720; couple both 65+ ($12,000) $1,440
+  22% bracket: single $1,320; couple both 65+ ($12,000) $2,640
+  24% bracket: single $1,440; couple both 65+ ($12,000) $2,880
+  Senior with no taxable income before the deduction: $0 (CRS R48613: unused deduction is lost, no refund).
+Phase-out: $6,000 - 6% x (MAGI - 75,000) single / (MAGI - 150,000) joint, per qualified individual amount.
+  single MAGI $75,000: deduction $6,000
+  single MAGI $100,000: deduction $4,500
+  single MAGI $125,000: deduction $3,000
+  single MAGI $150,000: deduction $1,500
+  single MAGI $175,000: deduction $0
+  Single fully phased out at $175,000; joint at $250,000 (single-filer $6,000 / 0.06 = $100,000 range).
+Comparison: COLA $75/month x 12 = $900/yr average retired-worker increase (SSA 2026-10-14).

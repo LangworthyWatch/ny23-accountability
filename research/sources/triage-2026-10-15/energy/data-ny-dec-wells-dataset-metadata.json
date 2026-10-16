@@ -1,0 +1,3948 @@
+{
+  "id" : "szye-wmt3",
+  "name" : "Oil, Gas, & Other Regulated Wells: Beginning 1860",
+  "assetType" : "dataset",
+  "attribution" : "New York State Department of Environmental Conservation, Division of Mineral Resources",
+  "attributionLink" : "http://www.dec.ny.gov/energy/205.html",
+  "averageRating" : 0,
+  "category" : "Energy & Environment",
+  "createdAt" : 1410472525,
+  "description" : "Information on oil, gas, storage, solution salt, stratigraphic, and geothermal wells in New York State",
+  "diciBackend" : false,
+  "displayType" : "table",
+  "downloadCount" : 13796,
+  "hideFromCatalog" : false,
+  "hideFromDataJson" : false,
+  "locked" : false,
+  "newBackend" : true,
+  "numberOfComments" : 0,
+  "oid" : 41023554,
+  "provenance" : "official",
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1735239448,
+  "publicationGroup" : 1715721,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1792055449,
+  "rowsUpdatedBy" : "xzik-pf59",
+  "tableId" : 19722219,
+  "totalTimesRated" : 0,
+  "viewCount" : 11310,
+  "viewLastModified" : 1792055411,
+  "viewType" : "tabular",
+  "approvals" : [ {
+    "reviewedAt" : 1563963904,
+    "reviewedAutomatically" : true,
+    "state" : "approved",
+    "submissionId" : 6662959,
+    "submissionObject" : "public_audience_request",
+    "submissionOutcome" : "change_audience",
+    "submittedAt" : 1563963904,
+    "targetAudience" : "public",
+    "workflowId" : 2254,
+    "submissionDetails" : {
+      "permissionType" : "READ"
+    },
+    "submissionOutcomeApplication" : {
+      "failureCount" : 0,
+      "status" : "success"
+    },
+    "submitter" : {
+      "id" : "xzik-pf59",
+      "displayName" : "NY Open Data"
+    }
+  } ],
+  "clientContext" : {
+    "clientContextVariables" : [ ],
+    "inheritedVariables" : { }
+  },
+  "columns" : [ {
+    "id" : 603231870,
+    "name" : "API Well Number",
+    "dataTypeName" : "number",
+    "description" : "Unique 14-digit well identification number designed by the American Petroleum Institute (API) and referred to as the API number",
+    "fieldName" : "api_well_number",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934369,
+    "width" : 199,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "31123615210000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "31001010720000",
+        "count" : "1"
+      }, {
+        "item" : "31001010730000",
+        "count" : "1"
+      }, {
+        "item" : "31001210070000",
+        "count" : "1"
+      }, {
+        "item" : "31001210080000",
+        "count" : "1"
+      }, {
+        "item" : "31001210090000",
+        "count" : "1"
+      }, {
+        "item" : "31001210100000",
+        "count" : "1"
+      }, {
+        "item" : "31001210110000",
+        "count" : "1"
+      }, {
+        "item" : "31001210140000",
+        "count" : "1"
+      }, {
+        "item" : "31001210150000",
+        "count" : "1"
+      }, {
+        "item" : "31001210160000",
+        "count" : "1"
+      }, {
+        "item" : "31001210170000",
+        "count" : "1"
+      }, {
+        "item" : "31001210180000",
+        "count" : "1"
+      }, {
+        "item" : "31001210190000",
+        "count" : "1"
+      }, {
+        "item" : "31001210200000",
+        "count" : "1"
+      }, {
+        "item" : "31001210210000",
+        "count" : "1"
+      }, {
+        "item" : "31001210220000",
+        "count" : "1"
+      }, {
+        "item" : "31001210230000",
+        "count" : "1"
+      }, {
+        "item" : "31001300000000",
+        "count" : "1"
+      }, {
+        "item" : "31003000050000",
+        "count" : "1"
+      }, {
+        "item" : "31001010710000",
+        "count" : "1"
+      } ],
+      "smallest" : "31001010710000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231871,
+    "name" : "County Code",
+    "dataTypeName" : "number",
+    "description" : "Three-digit code identifying the county where the surface of the well is\nlocated; this code also appears as the third through fifth digits of the\nAPI number. A list of the county codes and numbers appears in the attached Data Dictionary document.\n(Note: The data does not display any preceding zeroes.)",
+    "fieldName" : "county_code",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934370,
+    "width" : 163,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "123",
+      "null" : "0",
+      "top" : [ {
+        "item" : "3",
+        "count" : "16702"
+      }, {
+        "item" : "9",
+        "count" : "12091"
+      }, {
+        "item" : "13",
+        "count" : "6406"
+      }, {
+        "item" : "29",
+        "count" : "3585"
+      }, {
+        "item" : "101",
+        "count" : "2085"
+      }, {
+        "item" : "121",
+        "count" : "1184"
+      }, {
+        "item" : "37",
+        "count" : "893"
+      }, {
+        "item" : "11",
+        "count" : "493"
+      }, {
+        "item" : "51",
+        "count" : "459"
+      }, {
+        "item" : "99",
+        "count" : "457"
+      }, {
+        "item" : "97",
+        "count" : "450"
+      }, {
+        "item" : "69",
+        "count" : "366"
+      }, {
+        "item" : "67",
+        "count" : "296"
+      }, {
+        "item" : "15",
+        "count" : "235"
+      }, {
+        "item" : "75",
+        "count" : "216"
+      }, {
+        "item" : "61",
+        "count" : "213"
+      }, {
+        "item" : "17",
+        "count" : "201"
+      }, {
+        "item" : "123",
+        "count" : "164"
+      }, {
+        "item" : "53",
+        "count" : "144"
+      }, {
+        "item" : "107",
+        "count" : "126"
+      } ],
+      "smallest" : "1",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231872,
+    "name" : "API Hole Number",
+    "dataTypeName" : "number",
+    "description" : "Five-digit code identifying the well; this code also appears as the sixth through tenth digits of the API number.\n\n(Note: The data does not display any preceding zeroes.)\n",
+    "fieldName" : "api_hole_number",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934371,
+    "width" : 197,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "90001",
+      "null" : "0",
+      "top" : [ {
+        "item" : "60000",
+        "count" : "24"
+      }, {
+        "item" : "30000",
+        "count" : "23"
+      }, {
+        "item" : "30001",
+        "count" : "18"
+      }, {
+        "item" : "30003",
+        "count" : "14"
+      }, {
+        "item" : "30002",
+        "count" : "13"
+      }, {
+        "item" : "30004",
+        "count" : "13"
+      }, {
+        "item" : "30005",
+        "count" : "12"
+      }, {
+        "item" : "30008",
+        "count" : "12"
+      }, {
+        "item" : "30006",
+        "count" : "12"
+      }, {
+        "item" : "60001",
+        "count" : "12"
+      }, {
+        "item" : "30007",
+        "count" : "12"
+      }, {
+        "item" : "60002",
+        "count" : "11"
+      }, {
+        "item" : "30013",
+        "count" : "9"
+      }, {
+        "item" : "30012",
+        "count" : "8"
+      }, {
+        "item" : "30010",
+        "count" : "8"
+      }, {
+        "item" : "30011",
+        "count" : "8"
+      }, {
+        "item" : "30009",
+        "count" : "8"
+      }, {
+        "item" : "60003",
+        "count" : "8"
+      }, {
+        "item" : "30015",
+        "count" : "7"
+      }, {
+        "item" : "30022",
+        "count" : "7"
+      } ],
+      "smallest" : "5",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231873,
+    "name" : "Sidetrack",
+    "dataTypeName" : "number",
+    "description" : "Two-digit code identifying any secondary wellbore, called a sidetrack, which is drilled out of and away from the original wellbore; this code also appears as the eleventh and twelfth digits of the API number.\n\n(Note: The data does not display any preceding zeroes.)\n",
+    "fieldName" : "sidetrack",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934372,
+    "width" : 135,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "4",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0",
+        "count" : "47239"
+      }, {
+        "item" : "1",
+        "count" : "191"
+      }, {
+        "item" : "2",
+        "count" : "35"
+      }, {
+        "item" : "3",
+        "count" : "6"
+      }, {
+        "item" : "4",
+        "count" : "1"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231874,
+    "name" : "Completion",
+    "dataTypeName" : "number",
+    "description" : "Two-digit code identifying the number of operations, known as completions, which have occurred in a given wellbore to allow oil/gas to enter the wellbore; this code also appears as the thirteenth and fourteenth digits of the API number. \n\n(Note: The data does not display any preceding zeroes.)\n",
+    "fieldName" : "completion",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934373,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "9",
+      "null" : "0",
+      "top" : [ {
+        "item" : "0",
+        "count" : "46762"
+      }, {
+        "item" : "1",
+        "count" : "635"
+      }, {
+        "item" : "2",
+        "count" : "70"
+      }, {
+        "item" : "3",
+        "count" : "3"
+      }, {
+        "item" : "4",
+        "count" : "1"
+      }, {
+        "item" : "9",
+        "count" : "1"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231875,
+    "name" : "Well Name",
+    "dataTypeName" : "text",
+    "description" : "Name of the well as designated on the permit application; typically the well name is based on the lease or unit name.",
+    "fieldName" : "well_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934374,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : "47389",
+      "largest" : "Zywiczynski 1399",
+      "null" : "83",
+      "top" : [ {
+        "item" : "Voided Permit",
+        "count" : "375"
+      }, {
+        "item" : "Fee 1",
+        "count" : "123"
+      }, {
+        "item" : "Fee 2",
+        "count" : "26"
+      }, {
+        "item" : "Smith 1",
+        "count" : "20"
+      }, {
+        "item" : "Unnamed",
+        "count" : "17"
+      }, {
+        "item" : "Johnson 1",
+        "count" : "17"
+      }, {
+        "item" : "Miller 1",
+        "count" : "17"
+      }, {
+        "item" : "White 1",
+        "count" : "16"
+      }, {
+        "item" : "Clark 1",
+        "count" : "15"
+      }, {
+        "item" : "Anderson 1",
+        "count" : "15"
+      }, {
+        "item" : "Allen 1",
+        "count" : "15"
+      }, {
+        "item" : "Fee 3",
+        "count" : "15"
+      }, {
+        "item" : "Cook 1",
+        "count" : "12"
+      }, {
+        "item" : "Brown 1",
+        "count" : "12"
+      }, {
+        "item" : "None",
+        "count" : "11"
+      }, {
+        "item" : "Salt Well",
+        "count" : "11"
+      }, {
+        "item" : "Andrews 1",
+        "count" : "11"
+      }, {
+        "item" : "Taylor 1",
+        "count" : "11"
+      }, {
+        "item" : "Martin 1",
+        "count" : "11"
+      }, {
+        "item" : "Thompson 1",
+        "count" : "11"
+      } ],
+      "smallest" : "010-Godown",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231876,
+    "name" : "Company Name",
+    "dataTypeName" : "text",
+    "description" : "Well owner/operator",
+    "fieldName" : "company_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934375,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : "42131",
+      "largest" : "Zukowski Eve",
+      "null" : "5341",
+      "top" : [ {
+        "item" : "Greenway Energy LLC",
+        "count" : "2644"
+      }, {
+        "item" : "Bradley Producing Corp.",
+        "count" : "2213"
+      }, {
+        "item" : "PPP Future Development Inc.",
+        "count" : "1991"
+      }, {
+        "item" : "Pennzoil Products Co.",
+        "count" : "1854"
+      }, {
+        "item" : "Quaker State Corp.",
+        "count" : "1737"
+      }, {
+        "item" : "Iroquois Gas Corp.",
+        "count" : "1065"
+      }, {
+        "item" : "National Fuel Gas Supply Corporation",
+        "count" : "1016"
+      }, {
+        "item" : "Ebenezer Oil Co. Inc.",
+        "count" : "884"
+      }, {
+        "item" : "U. S. Energy Development Corporation",
+        "count" : "665"
+      }, {
+        "item" : "Stedman Energy Inc.",
+        "count" : "601"
+      }, {
+        "item" : "Herzog Richard B.",
+        "count" : "506"
+      }, {
+        "item" : "Lee Oil Company Inc.",
+        "count" : "485"
+      }, {
+        "item" : "United States Gypsum Company",
+        "count" : "463"
+      }, {
+        "item" : "East Resources Inc.",
+        "count" : "456"
+      }, {
+        "item" : "Pennhills Resources LLC",
+        "count" : "455"
+      }, {
+        "item" : "The Richardson Petroleum Corporation",
+        "count" : "415"
+      }, {
+        "item" : "Sam Koehler Enterprises Inc.",
+        "count" : "408"
+      }, {
+        "item" : "Plants and Goodwin Inc.",
+        "count" : "407"
+      }, {
+        "item" : "Dimes Energy GP Inc.",
+        "count" : "404"
+      }, {
+        "item" : "Vertical Energy Inc.",
+        "count" : "400"
+      } ],
+      "smallest" : "10100 Erie Rd. LLC",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231877,
+    "name" : "Operator Number",
+    "dataTypeName" : "number",
+    "description" : "Unique ID number assigned to each well owner/operator ",
+    "fieldName" : "operator_number",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934376,
+    "width" : 194,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "9999",
+      "null" : "0",
+      "top" : [ {
+        "item" : "9998",
+        "count" : "5335"
+      }, {
+        "item" : "3172",
+        "count" : "2644"
+      }, {
+        "item" : "101",
+        "count" : "2213"
+      }, {
+        "item" : "2740",
+        "count" : "1991"
+      }, {
+        "item" : "29",
+        "count" : "1855"
+      }, {
+        "item" : "69",
+        "count" : "1737"
+      }, {
+        "item" : "16",
+        "count" : "1065"
+      }, {
+        "item" : "431",
+        "count" : "1016"
+      }, {
+        "item" : "24",
+        "count" : "884"
+      }, {
+        "item" : "708",
+        "count" : "665"
+      }, {
+        "item" : "1145",
+        "count" : "601"
+      }, {
+        "item" : "1817",
+        "count" : "506"
+      }, {
+        "item" : "1455",
+        "count" : "485"
+      }, {
+        "item" : "1527",
+        "count" : "463"
+      }, {
+        "item" : "1440",
+        "count" : "456"
+      }, {
+        "item" : "2920",
+        "count" : "455"
+      }, {
+        "item" : "37",
+        "count" : "415"
+      }, {
+        "item" : "2997",
+        "count" : "408"
+      }, {
+        "item" : "451",
+        "count" : "407"
+      }, {
+        "item" : "2917",
+        "count" : "404"
+      } ],
+      "smallest" : "1",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231878,
+    "name" : "Well Type",
+    "dataTypeName" : "text",
+    "description" : "Well type codes:\nBR\tBrine; \nDH\tDry Hole; \nDS\tDisposa; l\nDW\tDry Wildcat; \nGD\tGas Development; \nGE\tGas Extension; \nGW\tGas Wildcat; \nIG    Injection Gas; \nIW\tEnhanced Oil Recovery - Injection; \nLP\tLiquefied Petroleum Gas Storage; \nMB\tMonitoring Brine; \nMM\tMonitoring Miscellaneous; \nMS\tMonitoring Storage; \nNL\tNot Listed; \nOD\tOil Development; \nOE\tOil Extension; \nOW\tOil Wildcat; \nSG\tStratigraphic; \nST\tStorage; \nTH\tGeothermal\n",
+    "fieldName" : "well_type",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934377,
+    "width" : 152,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "TH",
+      "null" : "0",
+      "top" : [ {
+        "item" : "OD",
+        "count" : "17921"
+      }, {
+        "item" : "GD",
+        "count" : "10061"
+      }, {
+        "item" : "NL",
+        "count" : "8499"
+      }, {
+        "item" : "IW",
+        "count" : "4509"
+      }, {
+        "item" : "DW",
+        "count" : "1695"
+      }, {
+        "item" : "DH",
+        "count" : "1140"
+      }, {
+        "item" : "ST",
+        "count" : "974"
+      }, {
+        "item" : "BR",
+        "count" : "765"
+      }, {
+        "item" : "GW",
+        "count" : "657"
+      }, {
+        "item" : "GE",
+        "count" : "326"
+      }, {
+        "item" : "SG",
+        "count" : "326"
+      }, {
+        "item" : "OW",
+        "count" : "177"
+      }, {
+        "item" : "MS",
+        "count" : "148"
+      }, {
+        "item" : "TH",
+        "count" : "147"
+      }, {
+        "item" : "MM",
+        "count" : "35"
+      }, {
+        "item" : "DS",
+        "count" : "32"
+      }, {
+        "item" : "Confidential",
+        "count" : "27"
+      }, {
+        "item" : "LP",
+        "count" : "14"
+      }, {
+        "item" : "OE",
+        "count" : "13"
+      }, {
+        "item" : "MB",
+        "count" : "6"
+      } ],
+      "smallest" : "BR",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231879,
+    "name" : "Map Symbol",
+    "dataTypeName" : "text",
+    "description" : "Denotes well type and status in a combined code:\n\nCON Confidential; \nGW\tGas Well; \nGWP Gas Well Plugged; \nOW\t Oil Well; \nOWP  Oil Well Plugged; \nS\tStorage Well; \nSP\tStorage Well Plugged; \nSM\tSolution Brine Well; \nSMP  Solution Brine Well Plugged; \nDH\tDry Hole; \nO\tOther Well*; \nOP\tOther Well Plugged*\n\n*Other includes: Injection, Stratigraphic, Geothermal, and Not Listed well types.\n",
+    "fieldName" : "map_symbol",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934378,
+    "width" : 168,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "SP",
+      "null" : "0",
+      "top" : [ {
+        "item" : "OWP",
+        "count" : "10068"
+      }, {
+        "item" : "GW",
+        "count" : "8743"
+      }, {
+        "item" : "O",
+        "count" : "8165"
+      }, {
+        "item" : "OW",
+        "count" : "8000"
+      }, {
+        "item" : "OP",
+        "count" : "5569"
+      }, {
+        "item" : "DP",
+        "count" : "2242"
+      }, {
+        "item" : "GWP",
+        "count" : "2163"
+      }, {
+        "item" : "S",
+        "count" : "963"
+      }, {
+        "item" : "SMP",
+        "count" : "625"
+      }, {
+        "item" : "DH",
+        "count" : "593"
+      }, {
+        "item" : "SP",
+        "count" : "170"
+      }, {
+        "item" : "SM",
+        "count" : "144"
+      }, {
+        "item" : "CON",
+        "count" : "27"
+      } ],
+      "smallest" : "CON",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231880,
+    "name" : "Well Status ",
+    "dataTypeName" : "text",
+    "description" : "Well status codes:\n\nAC\tActive; \nAR\tApplication Received to Drill/Plug/Convert; \nCA\tCancelled; \nDC\tDrilling Completed; \nDD\tDrilled Deeper; \nDG\tDrilling in Progress; \nEX\tExpired Permit; \nIN\tInactive; \nNR\tNot Reported on Annual Well Report; \nPA\tPlugged and Abandoned; \nPI\tPermit Issued; \nPB\tPlugged Back; \nPM\tPlugged Back Multilateral; \nRE\tRefunded Fee; \nRW\tReleased - Water Well; \nSI\tShut-In; \nTA\tTemporarily Abandoned; \nTR\tTransferred Permit; \nUN\tUnknown; \nUL\tUnknown Located; \nUM\tUnknown Not Found; \nVP\tVoided Permit\n",
+    "fieldName" : "well_status",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934379,
+    "width" : 155,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "VP",
+      "null" : "0",
+      "top" : [ {
+        "item" : "PA",
+        "count" : "20605"
+      }, {
+        "item" : "AC",
+        "count" : "11728"
+      }, {
+        "item" : "UL",
+        "count" : "3575"
+      }, {
+        "item" : "IN",
+        "count" : "2520"
+      }, {
+        "item" : "UM",
+        "count" : "2378"
+      }, {
+        "item" : "EX",
+        "count" : "2288"
+      }, {
+        "item" : "UN",
+        "count" : "2012"
+      }, {
+        "item" : "NR",
+        "count" : "631"
+      }, {
+        "item" : "VP",
+        "count" : "497"
+      }, {
+        "item" : "RE",
+        "count" : "329"
+      }, {
+        "item" : "TR",
+        "count" : "209"
+      }, {
+        "item" : "CA",
+        "count" : "209"
+      }, {
+        "item" : "PM",
+        "count" : "179"
+      }, {
+        "item" : "DC",
+        "count" : "100"
+      }, {
+        "item" : "CO",
+        "count" : "52"
+      }, {
+        "item" : "PB",
+        "count" : "39"
+      }, {
+        "item" : "SI",
+        "count" : "28"
+      }, {
+        "item" : "Confidential",
+        "count" : "25"
+      }, {
+        "item" : "PI",
+        "count" : "19"
+      }, {
+        "item" : "RW",
+        "count" : "16"
+      } ],
+      "smallest" : "AC",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231881,
+    "name" : "Status Date",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date current well status was assigned",
+    "fieldName" : "status_date",
+    "position" : 12,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 21934380,
+    "width" : 166,
+    "cachedContents" : {
+      "non_null" : "26859",
+      "largest" : "2026-10-29T00:00:00.000",
+      "null" : "20613",
+      "top" : [ {
+        "item" : "2009-12-31T00:00:00.000",
+        "count" : "860"
+      }, {
+        "item" : "2025-12-31T00:00:00.000",
+        "count" : "583"
+      }, {
+        "item" : "2017-08-23T13:35:22.000",
+        "count" : "569"
+      }, {
+        "item" : "2024-12-31T00:00:00.000",
+        "count" : "285"
+      }, {
+        "item" : "2023-12-31T00:00:00.000",
+        "count" : "216"
+      }, {
+        "item" : "1968-08-05T00:00:00.000",
+        "count" : "155"
+      }, {
+        "item" : "1991-12-31T00:00:00.000",
+        "count" : "143"
+      }, {
+        "item" : "1982-02-25T00:00:00.000",
+        "count" : "111"
+      }, {
+        "item" : "1968-09-24T00:00:00.000",
+        "count" : "108"
+      }, {
+        "item" : "1968-10-04T00:00:00.000",
+        "count" : "105"
+      }, {
+        "item" : "2019-10-23T00:00:00.000",
+        "count" : "97"
+      }, {
+        "item" : "1968-10-21T00:00:00.000",
+        "count" : "95"
+      }, {
+        "item" : "2019-11-05T00:00:00.000",
+        "count" : "71"
+      }, {
+        "item" : "2026-03-12T00:00:00.000",
+        "count" : "57"
+      }, {
+        "item" : "2019-10-22T00:00:00.000",
+        "count" : "55"
+      }, {
+        "item" : "2024-02-22T00:00:00.000",
+        "count" : "50"
+      }, {
+        "item" : "1968-10-01T00:00:00.000",
+        "count" : "48"
+      }, {
+        "item" : "2015-03-31T00:00:00.000",
+        "count" : "48"
+      }, {
+        "item" : "2018-05-22T00:00:00.000",
+        "count" : "48"
+      }, {
+        "item" : "2018-05-23T00:00:00.000",
+        "count" : "48"
+      } ],
+      "smallest" : "1884-01-01T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231882,
+    "name" : "Permit Application Date",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date permit application was received",
+    "fieldName" : "permit_application_date",
+    "position" : 13,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 21934381,
+    "width" : 216,
+    "cachedContents" : {
+      "non_null" : "18394",
+      "largest" : "2026-09-22T16:19:44.000",
+      "null" : "29078",
+      "top" : [ {
+        "item" : "1981-08-25T00:00:00.000",
+        "count" : "71"
+      }, {
+        "item" : "2008-03-17T00:00:00.000",
+        "count" : "60"
+      }, {
+        "item" : "1981-08-24T00:00:00.000",
+        "count" : "59"
+      }, {
+        "item" : "1975-12-16T00:00:00.000",
+        "count" : "54"
+      }, {
+        "item" : "1975-12-19T00:00:00.000",
+        "count" : "45"
+      }, {
+        "item" : "2009-01-30T00:00:00.000",
+        "count" : "43"
+      }, {
+        "item" : "2007-03-13T00:00:00.000",
+        "count" : "37"
+      }, {
+        "item" : "1974-05-03T00:00:00.000",
+        "count" : "36"
+      }, {
+        "item" : "1979-05-22T00:00:00.000",
+        "count" : "32"
+      }, {
+        "item" : "2008-03-19T00:00:00.000",
+        "count" : "31"
+      }, {
+        "item" : "2006-06-15T00:00:00.000",
+        "count" : "31"
+      }, {
+        "item" : "1987-07-15T00:00:00.000",
+        "count" : "31"
+      }, {
+        "item" : "2006-02-16T00:00:00.000",
+        "count" : "31"
+      }, {
+        "item" : "1976-06-09T00:00:00.000",
+        "count" : "29"
+      }, {
+        "item" : "2009-12-10T00:00:00.000",
+        "count" : "28"
+      }, {
+        "item" : "2008-03-18T00:00:00.000",
+        "count" : "28"
+      }, {
+        "item" : "2019-08-23T00:00:00.000",
+        "count" : "27"
+      }, {
+        "item" : "1981-08-23T00:00:00.000",
+        "count" : "26"
+      }, {
+        "item" : "2006-07-28T00:00:00.000",
+        "count" : "26"
+      }, {
+        "item" : "1979-05-21T00:00:00.000",
+        "count" : "26"
+      } ],
+      "smallest" : "1933-01-24T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231883,
+    "name" : "Permit Issued Date",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date permit was issued/approved",
+    "fieldName" : "permit_issued_date",
+    "position" : 14,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 21934382,
+    "width" : 193,
+    "cachedContents" : {
+      "non_null" : "18325",
+      "largest" : "2026-10-06T00:00:00.000",
+      "null" : "29147",
+      "top" : [ {
+        "item" : "1981-08-25T00:00:00.000",
+        "count" : "187"
+      }, {
+        "item" : "1975-12-29T00:00:00.000",
+        "count" : "52"
+      }, {
+        "item" : "1979-05-30T00:00:00.000",
+        "count" : "31"
+      }, {
+        "item" : "2006-08-04T00:00:00.000",
+        "count" : "30"
+      }, {
+        "item" : "2009-03-06T00:00:00.000",
+        "count" : "28"
+      }, {
+        "item" : "1976-06-14T00:00:00.000",
+        "count" : "27"
+      }, {
+        "item" : "2010-12-06T00:00:00.000",
+        "count" : "26"
+      }, {
+        "item" : "2006-11-29T00:00:00.000",
+        "count" : "25"
+      }, {
+        "item" : "1979-05-25T00:00:00.000",
+        "count" : "25"
+      }, {
+        "item" : "2019-09-12T00:00:00.000",
+        "count" : "25"
+      }, {
+        "item" : "1983-12-22T00:00:00.000",
+        "count" : "25"
+      }, {
+        "item" : "1987-05-26T00:00:00.000",
+        "count" : "25"
+      }, {
+        "item" : "1975-12-24T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "2019-02-19T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "2005-09-01T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "2009-03-20T00:00:00.000",
+        "count" : "23"
+      }, {
+        "item" : "2005-11-28T00:00:00.000",
+        "count" : "23"
+      }, {
+        "item" : "2008-03-28T00:00:00.000",
+        "count" : "23"
+      }, {
+        "item" : "1996-05-30T00:00:00.000",
+        "count" : "22"
+      }, {
+        "item" : "1982-12-29T00:00:00.000",
+        "count" : "22"
+      } ],
+      "smallest" : "1953-07-17T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231884,
+    "name" : "Date Spudded",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date drilling began",
+    "fieldName" : "date_spudded",
+    "position" : 15,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 21934383,
+    "width" : 168,
+    "cachedContents" : {
+      "non_null" : "20195",
+      "largest" : "2026-10-13T00:00:00.000",
+      "null" : "27277",
+      "top" : [ {
+        "item" : "1900-01-01T00:00:00.000",
+        "count" : "29"
+      }, {
+        "item" : "1940-01-01T00:00:00.000",
+        "count" : "23"
+      }, {
+        "item" : "1897-01-01T00:00:00.000",
+        "count" : "21"
+      }, {
+        "item" : "1890-01-01T00:00:00.000",
+        "count" : "19"
+      }, {
+        "item" : "1889-01-01T00:00:00.000",
+        "count" : "17"
+      }, {
+        "item" : "1895-01-01T00:00:00.000",
+        "count" : "17"
+      }, {
+        "item" : "1935-01-01T00:00:00.000",
+        "count" : "15"
+      }, {
+        "item" : "2007-03-29T00:00:00.000",
+        "count" : "15"
+      }, {
+        "item" : "1887-01-01T00:00:00.000",
+        "count" : "15"
+      }, {
+        "item" : "1927-01-01T00:00:00.000",
+        "count" : "14"
+      }, {
+        "item" : "2007-03-01T00:00:00.000",
+        "count" : "13"
+      }, {
+        "item" : "1898-01-01T00:00:00.000",
+        "count" : "13"
+      }, {
+        "item" : "1933-01-01T00:00:00.000",
+        "count" : "13"
+      }, {
+        "item" : "1931-01-01T00:00:00.000",
+        "count" : "12"
+      }, {
+        "item" : "2008-02-22T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "2006-03-30T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "1930-01-01T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "1981-07-27T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "1937-01-01T00:00:00.000",
+        "count" : "10"
+      }, {
+        "item" : "1932-01-01T00:00:00.000",
+        "count" : "10"
+      } ],
+      "smallest" : "1864-01-01T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231885,
+    "name" : "Date of Total Depth",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date wellbore was drilled to its endpoint, or total depth",
+    "fieldName" : "date_of_total_depth",
+    "position" : 16,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 21934384,
+    "width" : 204,
+    "cachedContents" : {
+      "non_null" : "16845",
+      "largest" : "2026-08-04T00:00:00.000",
+      "null" : "30627",
+      "top" : [ {
+        "item" : "1940-01-01T00:00:00.000",
+        "count" : "22"
+      }, {
+        "item" : "1976-09-30T00:00:00.000",
+        "count" : "10"
+      }, {
+        "item" : "1981-07-31T00:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "1983-10-13T00:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "1980-09-12T00:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "2008-06-21T00:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "1982-05-20T00:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "1976-09-10T00:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "1982-12-21T00:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "1983-01-11T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1983-01-06T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1983-11-13T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1979-10-26T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1976-08-12T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1982-02-17T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1982-03-23T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1977-09-16T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1982-02-20T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1974-09-18T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "1983-01-05T00:00:00.000",
+        "count" : "7"
+      } ],
+      "smallest" : "1881-08-26T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231886,
+    "name" : "Date Well Completed",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date on which all activities and methods of preparing the well for production or other purposes (e.g., disposal, storage, etc.) were completed, making the well fully operational",
+    "fieldName" : "date_well_completed",
+    "position" : 17,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 21934385,
+    "width" : 205,
+    "cachedContents" : {
+      "non_null" : "22682",
+      "largest" : "2026-12-22T00:00:00.000",
+      "null" : "24790",
+      "top" : [ {
+        "item" : "1940-01-01T00:00:00.000",
+        "count" : "85"
+      }, {
+        "item" : "1900-01-01T00:00:00.000",
+        "count" : "57"
+      }, {
+        "item" : "1935-01-01T00:00:00.000",
+        "count" : "53"
+      }, {
+        "item" : "1920-01-01T00:00:00.000",
+        "count" : "47"
+      }, {
+        "item" : "1943-01-01T00:00:00.000",
+        "count" : "45"
+      }, {
+        "item" : "1941-01-01T00:00:00.000",
+        "count" : "37"
+      }, {
+        "item" : "1918-01-01T00:00:00.000",
+        "count" : "35"
+      }, {
+        "item" : "1958-01-01T00:00:00.000",
+        "count" : "33"
+      }, {
+        "item" : "1951-01-01T00:00:00.000",
+        "count" : "28"
+      }, {
+        "item" : "1939-01-01T00:00:00.000",
+        "count" : "22"
+      }, {
+        "item" : "1948-01-01T00:00:00.000",
+        "count" : "22"
+      }, {
+        "item" : "1957-01-01T00:00:00.000",
+        "count" : "21"
+      }, {
+        "item" : "1953-01-01T00:00:00.000",
+        "count" : "21"
+      }, {
+        "item" : "1910-01-01T00:00:00.000",
+        "count" : "21"
+      }, {
+        "item" : "1920-07-30T00:00:00.000",
+        "count" : "21"
+      }, {
+        "item" : "1938-01-01T00:00:00.000",
+        "count" : "20"
+      }, {
+        "item" : "1965-01-01T00:00:00.000",
+        "count" : "20"
+      }, {
+        "item" : "1916-01-01T00:00:00.000",
+        "count" : "20"
+      }, {
+        "item" : "1942-01-01T00:00:00.000",
+        "count" : "20"
+      }, {
+        "item" : "1915-01-01T00:00:00.000",
+        "count" : "19"
+      } ],
+      "smallest" : "1864-01-01T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231887,
+    "name" : "Date Well Plugged",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date of completed plugging operations whereby the well was closed permanently with cement plugs",
+    "fieldName" : "date_well_plugged",
+    "position" : 18,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 21934386,
+    "width" : 191,
+    "cachedContents" : {
+      "non_null" : "17913",
+      "largest" : "2026-09-16T00:00:00.000",
+      "null" : "29559",
+      "top" : [ {
+        "item" : "1968-08-05T00:00:00.000",
+        "count" : "155"
+      }, {
+        "item" : "1968-09-24T00:00:00.000",
+        "count" : "108"
+      }, {
+        "item" : "1968-10-04T00:00:00.000",
+        "count" : "105"
+      }, {
+        "item" : "1968-10-21T00:00:00.000",
+        "count" : "95"
+      }, {
+        "item" : "1968-10-01T00:00:00.000",
+        "count" : "48"
+      }, {
+        "item" : "1968-09-19T00:00:00.000",
+        "count" : "44"
+      }, {
+        "item" : "1970-08-13T00:00:00.000",
+        "count" : "36"
+      }, {
+        "item" : "1968-12-09T00:00:00.000",
+        "count" : "34"
+      }, {
+        "item" : "1970-04-20T00:00:00.000",
+        "count" : "32"
+      }, {
+        "item" : "2025-10-21T00:00:00.000",
+        "count" : "30"
+      }, {
+        "item" : "1968-10-14T00:00:00.000",
+        "count" : "30"
+      }, {
+        "item" : "2023-10-05T00:00:00.000",
+        "count" : "29"
+      }, {
+        "item" : "1947-10-31T00:00:00.000",
+        "count" : "28"
+      }, {
+        "item" : "2026-06-04T00:00:00.000",
+        "count" : "27"
+      }, {
+        "item" : "2020-03-13T00:00:00.000",
+        "count" : "27"
+      }, {
+        "item" : "1968-09-09T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "1984-07-05T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "1987-05-27T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "2024-10-02T00:00:00.000",
+        "count" : "24"
+      }, {
+        "item" : "1969-02-05T00:00:00.000",
+        "count" : "23"
+      } ],
+      "smallest" : "1884-01-01T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231888,
+    "name" : "Date Well Confidentiality Ends",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date confidential status ends/ended",
+    "fieldName" : "date_well_confidentiality_ends",
+    "position" : 19,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 21934387,
+    "width" : 258,
+    "cachedContents" : {
+      "non_null" : "7591",
+      "largest" : "2027-04-13T00:00:00.000",
+      "null" : "39881",
+      "top" : [ {
+        "item" : "1990-07-24T00:00:00.000",
+        "count" : "505"
+      }, {
+        "item" : "1986-03-05T00:00:00.000",
+        "count" : "104"
+      }, {
+        "item" : "1985-07-03T00:00:00.000",
+        "count" : "73"
+      }, {
+        "item" : "1986-02-01T00:00:00.000",
+        "count" : "63"
+      }, {
+        "item" : "1988-09-08T00:00:00.000",
+        "count" : "53"
+      }, {
+        "item" : "1985-05-01T00:00:00.000",
+        "count" : "43"
+      }, {
+        "item" : "1986-09-10T00:00:00.000",
+        "count" : "27"
+      }, {
+        "item" : "1986-09-04T00:00:00.000",
+        "count" : "20"
+      }, {
+        "item" : "1987-07-24T00:00:00.000",
+        "count" : "19"
+      }, {
+        "item" : "2007-09-29T00:00:00.000",
+        "count" : "16"
+      }, {
+        "item" : "1987-04-20T00:00:00.000",
+        "count" : "13"
+      }, {
+        "item" : "2006-09-30T00:00:00.000",
+        "count" : "13"
+      }, {
+        "item" : "2007-09-01T00:00:00.000",
+        "count" : "12"
+      }, {
+        "item" : "1986-03-26T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "2008-09-28T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "1985-06-26T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "1985-07-02T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "2006-09-25T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "2008-08-22T00:00:00.000",
+        "count" : "11"
+      }, {
+        "item" : "2007-09-23T00:00:00.000",
+        "count" : "10"
+      } ],
+      "smallest" : "1916-09-08T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231889,
+    "name" : "Confidentiality Code",
+    "dataTypeName" : "text",
+    "description" : "Confidential well data codes:\n\nNo            - Well does not have confidential information; \nYes           - Well information is held confidential for 6 months after spud date; \nExtended - Confidential status has been extended for an additional 18 months; \nReleased - Confidential information has been released\n",
+    "fieldName" : "confidentiality_code",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934388,
+    "width" : 197,
+    "cachedContents" : {
+      "non_null" : "47388",
+      "largest" : "Released",
+      "null" : "84",
+      "top" : [ {
+        "item" : "Pre-1989 Well (N/A)",
+        "count" : "38243"
+      }, {
+        "item" : "Released",
+        "count" : "7638"
+      }, {
+        "item" : "Application Received or Permit Issued",
+        "count" : "1480"
+      }, {
+        "item" : "Initial 6-month Period",
+        "count" : "27"
+      } ],
+      "smallest" : "Application Received or Permit Issued",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231890,
+    "name" : "Town",
+    "dataTypeName" : "text",
+    "description" : "Town where the surface location of the well resides",
+    "fieldName" : "town",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934389,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : "46854",
+      "largest" : "Yorkshire",
+      "null" : "618",
+      "top" : [ {
+        "item" : "Allegany",
+        "count" : "6110"
+      }, {
+        "item" : "Bolivar",
+        "count" : "5445"
+      }, {
+        "item" : "Alma",
+        "count" : "3637"
+      }, {
+        "item" : "Carrollton",
+        "count" : "2725"
+      }, {
+        "item" : "Wirt",
+        "count" : "1537"
+      }, {
+        "item" : "Olean",
+        "count" : "1498"
+      }, {
+        "item" : "Genesee",
+        "count" : "1405"
+      }, {
+        "item" : "Scio",
+        "count" : "1341"
+      }, {
+        "item" : "Busti",
+        "count" : "966"
+      }, {
+        "item" : "West Union",
+        "count" : "927"
+      }, {
+        "item" : "Andover",
+        "count" : "857"
+      }, {
+        "item" : "Independence",
+        "count" : "840"
+      }, {
+        "item" : "Middlebury",
+        "count" : "443"
+      }, {
+        "item" : "Collins",
+        "count" : "415"
+      }, {
+        "item" : "Chautauqua",
+        "count" : "407"
+      }, {
+        "item" : "Hanover",
+        "count" : "396"
+      }, {
+        "item" : "Greenwood",
+        "count" : "395"
+      }, {
+        "item" : "Sheridan",
+        "count" : "374"
+      }, {
+        "item" : "Clarksville",
+        "count" : "368"
+      }, {
+        "item" : "Westfield",
+        "count" : "338"
+      } ],
+      "smallest" : "Adams",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231891,
+    "name" : "Quad",
+    "dataTypeName" : "text",
+    "description" : "United States Geological Survey 7.5-minute quadrangle/topographic map of the location where the well resides",
+    "fieldName" : "quad",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934390,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : "46528",
+      "largest" : "Yonkers",
+      "null" : "944",
+      "top" : [ {
+        "item" : "Knapp Creek",
+        "count" : "6644"
+      }, {
+        "item" : "Allentown",
+        "count" : "6154"
+      }, {
+        "item" : "Bolivar",
+        "count" : "5983"
+      }, {
+        "item" : "Olean",
+        "count" : "2966"
+      }, {
+        "item" : "Whitesville",
+        "count" : "1457"
+      }, {
+        "item" : "Wellsville South",
+        "count" : "1236"
+      }, {
+        "item" : "Rexville",
+        "count" : "982"
+      }, {
+        "item" : "Lakewood",
+        "count" : "871"
+      }, {
+        "item" : "Greenwood",
+        "count" : "579"
+      }, {
+        "item" : "Wellsville North",
+        "count" : "575"
+      }, {
+        "item" : "Limestone",
+        "count" : "557"
+      }, {
+        "item" : "Dunkirk",
+        "count" : "427"
+      }, {
+        "item" : "Langford",
+        "count" : "402"
+      }, {
+        "item" : "North Collins",
+        "count" : "381"
+      }, {
+        "item" : "Forestville",
+        "count" : "365"
+      }, {
+        "item" : "Farnham",
+        "count" : "359"
+      }, {
+        "item" : "Wyoming",
+        "count" : "349"
+      }, {
+        "item" : "Corfu",
+        "count" : "335"
+      }, {
+        "item" : "Sherman",
+        "count" : "333"
+      }, {
+        "item" : "Gerry",
+        "count" : "323"
+      } ],
+      "smallest" : "Adams",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231892,
+    "name" : "Quad Section",
+    "dataTypeName" : "text",
+    "description" : "Letter designation (A-I) of the specific section of the United States Geological Survey quadrangle map where the surface location of the well resides",
+    "fieldName" : "quad_section",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934391,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : "46602",
+      "largest" : "I",
+      "null" : "870",
+      "top" : [ {
+        "item" : "G",
+        "count" : "6731"
+      }, {
+        "item" : "E",
+        "count" : "6176"
+      }, {
+        "item" : "I",
+        "count" : "6094"
+      }, {
+        "item" : "D",
+        "count" : "5790"
+      }, {
+        "item" : "H",
+        "count" : "5556"
+      }, {
+        "item" : "F",
+        "count" : "4938"
+      }, {
+        "item" : "B",
+        "count" : "4832"
+      }, {
+        "item" : "C",
+        "count" : "3286"
+      }, {
+        "item" : "A",
+        "count" : "3199"
+      } ],
+      "smallest" : "A",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231893,
+    "name" : "Producing Field",
+    "dataTypeName" : "text",
+    "description" : "Name of the producing field or geographically local area underlain by an accumulation, pool or group of pools of oil/gas",
+    "fieldName" : "producing_field",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934392,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : "41755",
+      "largest" : "Zoar",
+      "null" : "5717",
+      "top" : [ {
+        "item" : "Richburg",
+        "count" : "11644"
+      }, {
+        "item" : "Bradford",
+        "count" : "5704"
+      }, {
+        "item" : "Lakeshore",
+        "count" : "5682"
+      }, {
+        "item" : "Chipmunk",
+        "count" : "2933"
+      }, {
+        "item" : "Beech Hill-Independence",
+        "count" : "1059"
+      }, {
+        "item" : "Fulmer Valley",
+        "count" : "938"
+      }, {
+        "item" : "Ford's Brook",
+        "count" : "800"
+      }, {
+        "item" : "Busti",
+        "count" : "774"
+      }, {
+        "item" : "Alden-Lancaster",
+        "count" : "693"
+      }, {
+        "item" : "Five Mile",
+        "count" : "602"
+      }, {
+        "item" : "Four Mile",
+        "count" : "525"
+      }, {
+        "item" : "Andover",
+        "count" : "496"
+      }, {
+        "item" : "Brant-Eden",
+        "count" : "441"
+      }, {
+        "item" : "Marsh",
+        "count" : "435"
+      }, {
+        "item" : "West Auburn",
+        "count" : "352"
+      }, {
+        "item" : "North Collins",
+        "count" : "347"
+      }, {
+        "item" : "Clarksville",
+        "count" : "310"
+      }, {
+        "item" : "Fayette-Waterloo",
+        "count" : "308"
+      }, {
+        "item" : "Colden",
+        "count" : "280"
+      }, {
+        "item" : "Scio",
+        "count" : "257"
+      } ],
+      "smallest" : "Adrian Reef",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231894,
+    "name" : "Producing Formation",
+    "dataTypeName" : "text",
+    "description" : "Name of the geologic formation from which the well is producing oil, gas, or brine ",
+    "fieldName" : "producing_formation",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934393,
+    "width" : 222,
+    "cachedContents" : {
+      "non_null" : "32997",
+      "largest" : "Yonkers Gneiss",
+      "null" : "14475",
+      "top" : [ {
+        "item" : "Richburg",
+        "count" : "8872"
+      }, {
+        "item" : "Medina",
+        "count" : "8829"
+      }, {
+        "item" : "Chipmunk",
+        "count" : "2369"
+      }, {
+        "item" : "Bradford",
+        "count" : "2051"
+      }, {
+        "item" : "Fulmer Valley",
+        "count" : "1975"
+      }, {
+        "item" : "Glade",
+        "count" : "749"
+      }, {
+        "item" : "Chipmunk, Bradford 2nd & 3rd",
+        "count" : "716"
+      }, {
+        "item" : "Queenston",
+        "count" : "651"
+      }, {
+        "item" : "Scio",
+        "count" : "645"
+      }, {
+        "item" : "Bradford & Chipmunk",
+        "count" : "618"
+      }, {
+        "item" : "Bradford Third",
+        "count" : "616"
+      }, {
+        "item" : "Oriskany",
+        "count" : "608"
+      }, {
+        "item" : "Upper Devonian",
+        "count" : "503"
+      }, {
+        "item" : "Chipmunk & Bradford 2nd",
+        "count" : "458"
+      }, {
+        "item" : "Salina",
+        "count" : "403"
+      }, {
+        "item" : "Grimsby",
+        "count" : "309"
+      }, {
+        "item" : "Waugh & Porter",
+        "count" : "250"
+      }, {
+        "item" : "Penny & Fulmer Valley",
+        "count" : "243"
+      }, {
+        "item" : "Trenton",
+        "count" : "233"
+      }, {
+        "item" : "Onondaga",
+        "count" : "214"
+      } ],
+      "smallest" : "Akron",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231895,
+    "name" : "Financial Security",
+    "dataTypeName" : "text",
+    "description" : "Financial security codes:\n\n TRUE – The well is subject to financial security requirements; \nFALSE – The well is not subject to financial security requirements \n\nFinancial security is required for all wells drilled after June 5, 1973 to guarantee that funds will be available in the future for ultimate well plugging and surface restoration. \n",
+    "fieldName" : "financial_security",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934394,
+    "width" : 194,
+    "cachedContents" : {
+      "non_null" : "47466",
+      "largest" : "True",
+      "null" : "6",
+      "top" : [ {
+        "item" : "False",
+        "count" : "32795"
+      }, {
+        "item" : "True",
+        "count" : "14671"
+      } ],
+      "smallest" : "False",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231896,
+    "name" : "Slant",
+    "dataTypeName" : "text",
+    "description" : "Orientation of wellbore (Vertical/Horizontal/Directional)",
+    "fieldName" : "slant",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934395,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : "47449",
+      "largest" : "Vertical",
+      "null" : "23",
+      "top" : [ {
+        "item" : "Vertical",
+        "count" : "46692"
+      }, {
+        "item" : "Horizontal",
+        "count" : "498"
+      }, {
+        "item" : "Directional",
+        "count" : "259"
+      } ],
+      "smallest" : "Directional",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231897,
+    "name" : "County",
+    "dataTypeName" : "text",
+    "description" : "County where the surface of the well is located",
+    "fieldName" : "county",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934396,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : "47447",
+      "largest" : "Yates",
+      "null" : "25",
+      "top" : [ {
+        "item" : "Allegany",
+        "count" : "16436"
+      }, {
+        "item" : "Cattaraugus",
+        "count" : "11974"
+      }, {
+        "item" : "Chautauqua",
+        "count" : "6367"
+      }, {
+        "item" : "Erie",
+        "count" : "3504"
+      }, {
+        "item" : "Steuben",
+        "count" : "2068"
+      }, {
+        "item" : "Wyoming",
+        "count" : "1147"
+      }, {
+        "item" : "Genesee",
+        "count" : "880"
+      }, {
+        "item" : "Statewide",
+        "count" : "593"
+      }, {
+        "item" : "Cayuga",
+        "count" : "491"
+      }, {
+        "item" : "Livingston",
+        "count" : "457"
+      }, {
+        "item" : "Seneca",
+        "count" : "456"
+      }, {
+        "item" : "Schuyler",
+        "count" : "440"
+      }, {
+        "item" : "Ontario",
+        "count" : "348"
+      }, {
+        "item" : "Onondaga",
+        "count" : "295"
+      }, {
+        "item" : "Chemung",
+        "count" : "234"
+      }, {
+        "item" : "New York",
+        "count" : "213"
+      }, {
+        "item" : "Oswego",
+        "count" : "213"
+      }, {
+        "item" : "Chenango",
+        "count" : "201"
+      }, {
+        "item" : "Yates",
+        "count" : "161"
+      }, {
+        "item" : "Madison",
+        "count" : "144"
+      } ],
+      "smallest" : "Albany",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231898,
+    "name" : "Region",
+    "dataTypeName" : "number",
+    "description" : "New York State Department of Environmental Conservation region where the surface of the well is located. A map of NYSDEC regions can be found on NYSDEC’s website at: http://www.dec.ny.gov/about/50230.html.",
+    "fieldName" : "region",
+    "position" : 29,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934397,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : "47462",
+      "largest" : "9",
+      "null" : "10",
+      "top" : [ {
+        "item" : "9",
+        "count" : "39974"
+      }, {
+        "item" : "8",
+        "count" : "5211"
+      }, {
+        "item" : "7",
+        "count" : "1685"
+      }, {
+        "item" : "2",
+        "count" : "247"
+      }, {
+        "item" : "6",
+        "count" : "114"
+      }, {
+        "item" : "3",
+        "count" : "112"
+      }, {
+        "item" : "4",
+        "count" : "96"
+      }, {
+        "item" : "5",
+        "count" : "19"
+      }, {
+        "item" : "1",
+        "count" : "4"
+      } ],
+      "smallest" : "1",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231899,
+    "name" : "State Lease",
+    "dataTypeName" : "text",
+    "description" : "State Lease codes:\n\nNA     Not Applicable; \nSD      Well on State  DOT Land; \nSP      Well on State Park Land; \nST      Well on State DEC Land; \nSO      Well on State Other Land; \nUD     Unitized with State DOT Land; \nUP     Unitized with State Park Land; \nUT     Unitized with State DEC Land; \nUO    Unitized with Other State Land\n\nA well located on state land or unitized with state land must pay a percentage of its revenue to the state for any oil and gas produced.  \n",
+    "fieldName" : "state_lease",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934398,
+    "width" : 157,
+    "cachedContents" : {
+      "non_null" : "47356",
+      "largest" : "UT",
+      "null" : "116",
+      "top" : [ {
+        "item" : "NA",
+        "count" : "46903"
+      }, {
+        "item" : "ST",
+        "count" : "200"
+      }, {
+        "item" : "UD",
+        "count" : "141"
+      }, {
+        "item" : "SP",
+        "count" : "54"
+      }, {
+        "item" : "UT",
+        "count" : "45"
+      }, {
+        "item" : "SO",
+        "count" : "5"
+      }, {
+        "item" : "UO",
+        "count" : "4"
+      }, {
+        "item" : "SD",
+        "count" : "3"
+      }, {
+        "item" : "UP",
+        "count" : "1"
+      } ],
+      "smallest" : "NA",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231900,
+    "name" : "Proposed Depth, ft",
+    "dataTypeName" : "number",
+    "description" : "Depth (feet) specified on permit application",
+    "fieldName" : "proposed_depth_ft",
+    "position" : 31,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934399,
+    "width" : 194,
+    "cachedContents" : {
+      "non_null" : "43858",
+      "largest" : "13450",
+      "null" : "3614",
+      "top" : [ {
+        "item" : "0",
+        "count" : "27350"
+      }, {
+        "item" : "1500",
+        "count" : "687"
+      }, {
+        "item" : "2000",
+        "count" : "449"
+      }, {
+        "item" : "4000",
+        "count" : "414"
+      }, {
+        "item" : "1200",
+        "count" : "295"
+      }, {
+        "item" : "1300",
+        "count" : "286"
+      }, {
+        "item" : "1800",
+        "count" : "284"
+      }, {
+        "item" : "1400",
+        "count" : "237"
+      }, {
+        "item" : "3500",
+        "count" : "232"
+      }, {
+        "item" : "2500",
+        "count" : "213"
+      }, {
+        "item" : "1600",
+        "count" : "207"
+      }, {
+        "item" : "1000",
+        "count" : "202"
+      }, {
+        "item" : "4200",
+        "count" : "200"
+      }, {
+        "item" : "1850",
+        "count" : "182"
+      }, {
+        "item" : "1900",
+        "count" : "181"
+      }, {
+        "item" : "1999",
+        "count" : "180"
+      }, {
+        "item" : "4500",
+        "count" : "157"
+      }, {
+        "item" : "1950",
+        "count" : "157"
+      }, {
+        "item" : "1700",
+        "count" : "151"
+      }, {
+        "item" : "700",
+        "count" : "136"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231901,
+    "name" : "Surface Longitude",
+    "dataTypeName" : "number",
+    "description" : "Longitude (decimal degrees) of surface location of the well ",
+    "fieldName" : "surface_longitude",
+    "position" : 32,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934401,
+    "width" : 183,
+    "cachedContents" : {
+      "non_null" : "46387",
+      "largest" : "-73.387165999999993",
+      "null" : "1085",
+      "top" : [ {
+        "item" : "-78.587320000000005",
+        "count" : "16"
+      }, {
+        "item" : "-78.586770000000001",
+        "count" : "15"
+      }, {
+        "item" : "-78.574740000000006",
+        "count" : "14"
+      }, {
+        "item" : "-78.573300000000003",
+        "count" : "12"
+      }, {
+        "item" : "-77.974279999999993",
+        "count" : "12"
+      }, {
+        "item" : "-78.579070000000002",
+        "count" : "12"
+      }, {
+        "item" : "-78.590270000000004",
+        "count" : "11"
+      }, {
+        "item" : "-78.498239999999996",
+        "count" : "11"
+      }, {
+        "item" : "-78.585290000000001",
+        "count" : "11"
+      }, {
+        "item" : "-78.039199999999994",
+        "count" : "10"
+      }, {
+        "item" : "-77.963859999999997",
+        "count" : "10"
+      }, {
+        "item" : "-78.056250000000006",
+        "count" : "10"
+      }, {
+        "item" : "-77.962860000000006",
+        "count" : "10"
+      }, {
+        "item" : "-78.017420000000001",
+        "count" : "10"
+      }, {
+        "item" : "-78.473550000000003",
+        "count" : "10"
+      }, {
+        "item" : "-78.150360000000006",
+        "count" : "10"
+      }, {
+        "item" : "-78.550629999999998",
+        "count" : "9"
+      }, {
+        "item" : "-78.025530000000003",
+        "count" : "9"
+      }, {
+        "item" : "-78.056520000000006",
+        "count" : "9"
+      }, {
+        "item" : "-78.069509999999994",
+        "count" : "9"
+      } ],
+      "smallest" : "-79.760490000000004",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231902,
+    "name" : "Surface Latitude",
+    "dataTypeName" : "number",
+    "description" : "Latitude (decimal degrees) of surface location of the well ",
+    "fieldName" : "surface_latitude",
+    "position" : 33,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934402,
+    "width" : 185,
+    "cachedContents" : {
+      "non_null" : "46387",
+      "largest" : "44.719337000000003",
+      "null" : "1085",
+      "top" : [ {
+        "item" : "42.006799999999998",
+        "count" : "32"
+      }, {
+        "item" : "42.02908",
+        "count" : "27"
+      }, {
+        "item" : "42.030250000000002",
+        "count" : "27"
+      }, {
+        "item" : "42.00488",
+        "count" : "26"
+      }, {
+        "item" : "42.027979999999999",
+        "count" : "26"
+      }, {
+        "item" : "42.030659999999997",
+        "count" : "22"
+      }, {
+        "item" : "42.028530000000003",
+        "count" : "21"
+      }, {
+        "item" : "42.037430000000001",
+        "count" : "21"
+      }, {
+        "item" : "42.025370000000002",
+        "count" : "20"
+      }, {
+        "item" : "42.02413",
+        "count" : "20"
+      }, {
+        "item" : "42.010379999999998",
+        "count" : "20"
+      }, {
+        "item" : "42.005699999999997",
+        "count" : "20"
+      }, {
+        "item" : "42.0366",
+        "count" : "19"
+      }, {
+        "item" : "42.02984",
+        "count" : "19"
+      }, {
+        "item" : "42.01079",
+        "count" : "18"
+      }, {
+        "item" : "42.001849999999997",
+        "count" : "18"
+      }, {
+        "item" : "42.065109999999997",
+        "count" : "18"
+      }, {
+        "item" : "42.003720000000001",
+        "count" : "17"
+      }, {
+        "item" : "42.029429999999998",
+        "count" : "17"
+      }, {
+        "item" : "42.002400000000002",
+        "count" : "17"
+      } ],
+      "smallest" : "40.638661999999997",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231903,
+    "name" : "Bottom Hole Longitude",
+    "dataTypeName" : "number",
+    "description" : "Longitude (decimal degrees) of bottom hole, or lowest/deepest location of the wellbore",
+    "fieldName" : "bottom_hole_longitude",
+    "position" : 34,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934404,
+    "width" : 221,
+    "cachedContents" : {
+      "non_null" : "46258",
+      "largest" : "-20.536000000000001",
+      "null" : "1214",
+      "top" : [ {
+        "item" : "-78.587320000000005",
+        "count" : "16"
+      }, {
+        "item" : "-78.586770000000001",
+        "count" : "15"
+      }, {
+        "item" : "-78.574740000000006",
+        "count" : "14"
+      }, {
+        "item" : "-78.573300000000003",
+        "count" : "12"
+      }, {
+        "item" : "-78.579070000000002",
+        "count" : "12"
+      }, {
+        "item" : "-77.974279999999993",
+        "count" : "12"
+      }, {
+        "item" : "-78.590270000000004",
+        "count" : "11"
+      }, {
+        "item" : "-78.585290000000001",
+        "count" : "11"
+      }, {
+        "item" : "-78.498239999999996",
+        "count" : "11"
+      }, {
+        "item" : "-78.056250000000006",
+        "count" : "10"
+      }, {
+        "item" : "-78.039199999999994",
+        "count" : "10"
+      }, {
+        "item" : "-77.962860000000006",
+        "count" : "10"
+      }, {
+        "item" : "-78.150360000000006",
+        "count" : "10"
+      }, {
+        "item" : "-78.473550000000003",
+        "count" : "10"
+      }, {
+        "item" : "-78.017420000000001",
+        "count" : "10"
+      }, {
+        "item" : "-77.963859999999997",
+        "count" : "10"
+      }, {
+        "item" : "-78.550629999999998",
+        "count" : "9"
+      }, {
+        "item" : "-78.024060000000006",
+        "count" : "9"
+      }, {
+        "item" : "-78.056520000000006",
+        "count" : "9"
+      }, {
+        "item" : "-78.584190000000007",
+        "count" : "9"
+      } ],
+      "smallest" : "-79.760490000000004",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231904,
+    "name" : "Bottom Hole Latitude",
+    "dataTypeName" : "number",
+    "description" : "Latitude (decimal degrees) of bottom hole, or lowest/deepest location of the wellbore",
+    "fieldName" : "bottom_hole_latitude",
+    "position" : 35,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934405,
+    "width" : 216,
+    "cachedContents" : {
+      "non_null" : "46258",
+      "largest" : "44.719337000000003",
+      "null" : "1214",
+      "top" : [ {
+        "item" : "42.006799999999998",
+        "count" : "32"
+      }, {
+        "item" : "42.02908",
+        "count" : "27"
+      }, {
+        "item" : "42.030250000000002",
+        "count" : "27"
+      }, {
+        "item" : "42.027979999999999",
+        "count" : "26"
+      }, {
+        "item" : "42.00488",
+        "count" : "26"
+      }, {
+        "item" : "42.030659999999997",
+        "count" : "22"
+      }, {
+        "item" : "42.028530000000003",
+        "count" : "21"
+      }, {
+        "item" : "42.037430000000001",
+        "count" : "21"
+      }, {
+        "item" : "42.02413",
+        "count" : "21"
+      }, {
+        "item" : "42.010379999999998",
+        "count" : "20"
+      }, {
+        "item" : "42.025370000000002",
+        "count" : "20"
+      }, {
+        "item" : "42.005699999999997",
+        "count" : "20"
+      }, {
+        "item" : "42.02984",
+        "count" : "19"
+      }, {
+        "item" : "42.0366",
+        "count" : "19"
+      }, {
+        "item" : "42.01079",
+        "count" : "18"
+      }, {
+        "item" : "42.001849999999997",
+        "count" : "18"
+      }, {
+        "item" : "42.065109999999997",
+        "count" : "18"
+      }, {
+        "item" : "42.029429999999998",
+        "count" : "17"
+      }, {
+        "item" : "42.002400000000002",
+        "count" : "17"
+      }, {
+        "item" : "42.026679999999999",
+        "count" : "17"
+      } ],
+      "smallest" : "40.638661999999997",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231905,
+    "name" : "True Vertical Depth, ft",
+    "dataTypeName" : "number",
+    "description" : "Total vertical distance (feet) between the bottom hole, or lowest/deepest location of the wellbore and the surface",
+    "fieldName" : "true_vertical_depth_ft",
+    "position" : 36,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934406,
+    "width" : 215,
+    "cachedContents" : {
+      "non_null" : "47466",
+      "largest" : "11953",
+      "null" : "6",
+      "top" : [ {
+        "item" : "0",
+        "count" : "14710"
+      }, {
+        "item" : "1000",
+        "count" : "278"
+      }, {
+        "item" : "1300",
+        "count" : "274"
+      }, {
+        "item" : "1200",
+        "count" : "272"
+      }, {
+        "item" : "1400",
+        "count" : "223"
+      }, {
+        "item" : "1500",
+        "count" : "214"
+      }, {
+        "item" : "1100",
+        "count" : "192"
+      }, {
+        "item" : "1350",
+        "count" : "155"
+      }, {
+        "item" : "1800",
+        "count" : "129"
+      }, {
+        "item" : "1250",
+        "count" : "128"
+      }, {
+        "item" : "1150",
+        "count" : "123"
+      }, {
+        "item" : "1600",
+        "count" : "111"
+      }, {
+        "item" : "2000",
+        "count" : "107"
+      }, {
+        "item" : "1450",
+        "count" : "104"
+      }, {
+        "item" : "1550",
+        "count" : "104"
+      }, {
+        "item" : "1050",
+        "count" : "98"
+      }, {
+        "item" : "1700",
+        "count" : "84"
+      }, {
+        "item" : "1900",
+        "count" : "76"
+      }, {
+        "item" : "900",
+        "count" : "73"
+      }, {
+        "item" : "950",
+        "count" : "71"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231906,
+    "name" : "Measured Depth, ft",
+    "dataTypeName" : "number",
+    "description" : "Total measured length (feet) of the wellbore ",
+    "fieldName" : "measured_depth_ft",
+    "position" : 37,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934407,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : "47466",
+      "largest" : "15921",
+      "null" : "6",
+      "top" : [ {
+        "item" : "0",
+        "count" : "14664"
+      }, {
+        "item" : "1000",
+        "count" : "278"
+      }, {
+        "item" : "1300",
+        "count" : "273"
+      }, {
+        "item" : "1200",
+        "count" : "273"
+      }, {
+        "item" : "1400",
+        "count" : "222"
+      }, {
+        "item" : "1500",
+        "count" : "217"
+      }, {
+        "item" : "1100",
+        "count" : "192"
+      }, {
+        "item" : "1350",
+        "count" : "153"
+      }, {
+        "item" : "1800",
+        "count" : "131"
+      }, {
+        "item" : "1250",
+        "count" : "128"
+      }, {
+        "item" : "1150",
+        "count" : "124"
+      }, {
+        "item" : "1600",
+        "count" : "111"
+      }, {
+        "item" : "2000",
+        "count" : "107"
+      }, {
+        "item" : "1550",
+        "count" : "104"
+      }, {
+        "item" : "1450",
+        "count" : "103"
+      }, {
+        "item" : "1050",
+        "count" : "100"
+      }, {
+        "item" : "1700",
+        "count" : "84"
+      }, {
+        "item" : "1900",
+        "count" : "76"
+      }, {
+        "item" : "1650",
+        "count" : "73"
+      }, {
+        "item" : "900",
+        "count" : "73"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231907,
+    "name" : "Kickoff, ft",
+    "dataTypeName" : "number",
+    "description" : "Depth (feet) in a vertical wellbore at which a deviated or slanted wellbore is started to allow for directional drilling",
+    "fieldName" : "kickoff_ft",
+    "position" : 38,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934408,
+    "width" : 157,
+    "cachedContents" : {
+      "non_null" : "47466",
+      "largest" : "11800",
+      "null" : "6",
+      "top" : [ {
+        "item" : "0",
+        "count" : "46910"
+      }, {
+        "item" : "2400",
+        "count" : "6"
+      }, {
+        "item" : "675",
+        "count" : "6"
+      }, {
+        "item" : "1400",
+        "count" : "5"
+      }, {
+        "item" : "1260",
+        "count" : "4"
+      }, {
+        "item" : "2300",
+        "count" : "4"
+      }, {
+        "item" : "6517",
+        "count" : "3"
+      }, {
+        "item" : "6450",
+        "count" : "3"
+      }, {
+        "item" : "8050",
+        "count" : "3"
+      }, {
+        "item" : "2450",
+        "count" : "3"
+      }, {
+        "item" : "1800",
+        "count" : "3"
+      }, {
+        "item" : "5050",
+        "count" : "3"
+      }, {
+        "item" : "1600",
+        "count" : "3"
+      }, {
+        "item" : "2550",
+        "count" : "3"
+      }, {
+        "item" : "500",
+        "count" : "3"
+      }, {
+        "item" : "2000",
+        "count" : "3"
+      }, {
+        "item" : "1100",
+        "count" : "3"
+      }, {
+        "item" : "1900",
+        "count" : "3"
+      }, {
+        "item" : "3000",
+        "count" : "3"
+      }, {
+        "item" : "8450",
+        "count" : "3"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231908,
+    "name" : "Drilled Depth, ft",
+    "dataTypeName" : "number",
+    "description" : "Total measured length (feet) of the wellbore in a vertical well or the measured length (feet) of the wellbore from the kickoff point to the bottom hole, or total depth, of the wellbore",
+    "fieldName" : "drilled_depth_ft",
+    "position" : 39,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934409,
+    "width" : 194,
+    "cachedContents" : {
+      "non_null" : "47466",
+      "largest" : "15795",
+      "null" : "6",
+      "top" : [ {
+        "item" : "0",
+        "count" : "14624"
+      }, {
+        "item" : "1000",
+        "count" : "281"
+      }, {
+        "item" : "1300",
+        "count" : "276"
+      }, {
+        "item" : "1200",
+        "count" : "274"
+      }, {
+        "item" : "1400",
+        "count" : "222"
+      }, {
+        "item" : "1500",
+        "count" : "217"
+      }, {
+        "item" : "1100",
+        "count" : "193"
+      }, {
+        "item" : "1350",
+        "count" : "154"
+      }, {
+        "item" : "1800",
+        "count" : "132"
+      }, {
+        "item" : "1250",
+        "count" : "129"
+      }, {
+        "item" : "1150",
+        "count" : "124"
+      }, {
+        "item" : "1600",
+        "count" : "110"
+      }, {
+        "item" : "2000",
+        "count" : "107"
+      }, {
+        "item" : "1550",
+        "count" : "105"
+      }, {
+        "item" : "1450",
+        "count" : "103"
+      }, {
+        "item" : "1050",
+        "count" : "100"
+      }, {
+        "item" : "1700",
+        "count" : "84"
+      }, {
+        "item" : "1900",
+        "count" : "76"
+      }, {
+        "item" : "900",
+        "count" : "74"
+      }, {
+        "item" : "1650",
+        "count" : "73"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231909,
+    "name" : "Elevation, ft",
+    "dataTypeName" : "number",
+    "description" : "Elevation (feet) above sea level at the surface location of the well",
+    "fieldName" : "elevation_ft",
+    "position" : 40,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934410,
+    "width" : 146,
+    "cachedContents" : {
+      "non_null" : "25597",
+      "largest" : "3500",
+      "null" : "21875",
+      "top" : [ {
+        "item" : "2050",
+        "count" : "249"
+      }, {
+        "item" : "2200",
+        "count" : "138"
+      }, {
+        "item" : "1600",
+        "count" : "132"
+      }, {
+        "item" : "1590",
+        "count" : "130"
+      }, {
+        "item" : "2100",
+        "count" : "130"
+      }, {
+        "item" : "2180",
+        "count" : "129"
+      }, {
+        "item" : "1560",
+        "count" : "120"
+      }, {
+        "item" : "1500",
+        "count" : "117"
+      }, {
+        "item" : "1540",
+        "count" : "117"
+      }, {
+        "item" : "1550",
+        "count" : "112"
+      }, {
+        "item" : "1610",
+        "count" : "105"
+      }, {
+        "item" : "2260",
+        "count" : "103"
+      }, {
+        "item" : "1580",
+        "count" : "101"
+      }, {
+        "item" : "1700",
+        "count" : "100"
+      }, {
+        "item" : "2120",
+        "count" : "98"
+      }, {
+        "item" : "2220",
+        "count" : "98"
+      }, {
+        "item" : "1530",
+        "count" : "97"
+      }, {
+        "item" : "1640",
+        "count" : "96"
+      }, {
+        "item" : "1480",
+        "count" : "96"
+      }, {
+        "item" : "1520",
+        "count" : "95"
+      } ],
+      "smallest" : "3",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231910,
+    "name" : "Original Well Type",
+    "dataTypeName" : "text",
+    "description" : "Well type specified on permit application, includes well types codes:\n\nBR\tBrine; \nDS\tDisposal; \nGD\tGas Development; \nGE\tGas Extension; \nGW\tGas Wildcat; \nIG           Injection Gas; \nIW\tEnhanced Oil Recovery – Injection Well; \nLP\tLiquefied Petroleum Gas Storage; \nMB\tMonitoring Brine; \nMM\tMonitoring Miscellaneous; \nMS\tMonitoring Storage; \nNL\tNot Listed; \nOD\tOil Development; \nOE\tOil Extension; \nOW\tOil Wildcat; \nSG\tStratigraphic; \nST\tStorage; \nTH\tGeothermal\n",
+    "fieldName" : "original_well_type",
+    "position" : 41,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934411,
+    "width" : 198,
+    "cachedContents" : {
+      "non_null" : "47466",
+      "largest" : "TH",
+      "null" : "6",
+      "top" : [ {
+        "item" : "NL",
+        "count" : "39083"
+      }, {
+        "item" : "OD",
+        "count" : "3950"
+      }, {
+        "item" : "GD",
+        "count" : "2070"
+      }, {
+        "item" : "GW",
+        "count" : "1008"
+      }, {
+        "item" : "BR",
+        "count" : "280"
+      }, {
+        "item" : "SG",
+        "count" : "255"
+      }, {
+        "item" : "GE",
+        "count" : "243"
+      }, {
+        "item" : "TH",
+        "count" : "198"
+      }, {
+        "item" : "IW",
+        "count" : "180"
+      }, {
+        "item" : "ST",
+        "count" : "119"
+      }, {
+        "item" : "MB",
+        "count" : "21"
+      }, {
+        "item" : "OW",
+        "count" : "19"
+      }, {
+        "item" : "MS",
+        "count" : "14"
+      }, {
+        "item" : "MM",
+        "count" : "9"
+      }, {
+        "item" : "OE",
+        "count" : "6"
+      }, {
+        "item" : "DS",
+        "count" : "5"
+      }, {
+        "item" : "IG",
+        "count" : "3"
+      }, {
+        "item" : "LP",
+        "count" : "3"
+      } ],
+      "smallest" : "BR",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231911,
+    "name" : "Permit Fee",
+    "dataTypeName" : "number",
+    "description" : "Total dollar amount charged for a well permit, including a fee based on depth (ft.) of the wellbore and a mandatory $100 fee to be credited to the oil and gas account.\n\nPermit fees can be calculated at: http://www.dec.ny.gov/energy/1779.html\n",
+    "fieldName" : "permit_fee",
+    "position" : 42,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934412,
+    "width" : 157,
+    "cachedContents" : {
+      "non_null" : "47382",
+      "largest" : "11000",
+      "null" : "90",
+      "top" : [ {
+        "item" : "0",
+        "count" : "34382"
+      }, {
+        "item" : "860",
+        "count" : "1914"
+      }, {
+        "item" : "20",
+        "count" : "1260"
+      }, {
+        "item" : "475",
+        "count" : "1000"
+      }, {
+        "item" : "600",
+        "count" : "972"
+      }, {
+        "item" : "670",
+        "count" : "912"
+      }, {
+        "item" : "1100",
+        "count" : "879"
+      }, {
+        "item" : "1225",
+        "count" : "753"
+      }, {
+        "item" : "1050",
+        "count" : "732"
+      }, {
+        "item" : "725",
+        "count" : "595"
+      }, {
+        "item" : "975",
+        "count" : "564"
+      }, {
+        "item" : "350",
+        "count" : "446"
+      }, {
+        "item" : "1240",
+        "count" : "403"
+      }, {
+        "item" : "850",
+        "count" : "354"
+      }, {
+        "item" : "1430",
+        "count" : "271"
+      }, {
+        "item" : "1350",
+        "count" : "252"
+      }, {
+        "item" : "1810",
+        "count" : "239"
+      }, {
+        "item" : "480",
+        "count" : "228"
+      }, {
+        "item" : "1620",
+        "count" : "217"
+      }, {
+        "item" : "2000",
+        "count" : "206"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231912,
+    "name" : "Objective Formation",
+    "dataTypeName" : "text",
+    "description" : "Geologic formation targeted for production as designated on the permit application",
+    "fieldName" : "objective_formation",
+    "position" : 43,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934413,
+    "width" : 254,
+    "cachedContents" : {
+      "non_null" : "14453",
+      "largest" : "Yonkers Gneiss",
+      "null" : "33019",
+      "top" : [ {
+        "item" : "Medina",
+        "count" : "5540"
+      }, {
+        "item" : "Bradford",
+        "count" : "1072"
+      }, {
+        "item" : "Richburg",
+        "count" : "1008"
+      }, {
+        "item" : "Upper Devonian",
+        "count" : "793"
+      }, {
+        "item" : "Fulmer Valley",
+        "count" : "786"
+      }, {
+        "item" : "Queenston",
+        "count" : "782"
+      }, {
+        "item" : "Bradford Third",
+        "count" : "651"
+      }, {
+        "item" : "Black River",
+        "count" : "465"
+      }, {
+        "item" : "Salina",
+        "count" : "394"
+      }, {
+        "item" : "Bradford Second",
+        "count" : "352"
+      }, {
+        "item" : "Glade",
+        "count" : "330"
+      }, {
+        "item" : "Oriskany",
+        "count" : "307"
+      }, {
+        "item" : "Chipmunk",
+        "count" : "237"
+      }, {
+        "item" : "Marcellus",
+        "count" : "187"
+      }, {
+        "item" : "Herkimer",
+        "count" : "140"
+      }, {
+        "item" : "Onondaga",
+        "count" : "129"
+      }, {
+        "item" : "Syracuse",
+        "count" : "120"
+      }, {
+        "item" : "Bradford & Chipmunk",
+        "count" : "105"
+      }, {
+        "item" : "Chipmunk, Bradford 2nd & 3rd",
+        "count" : "89"
+      }, {
+        "item" : "Chipmunk, Bradford 1st,2nd,3rd",
+        "count" : "82"
+      } ],
+      "smallest" : "Akron",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231913,
+    "name" : "Depth Fee",
+    "dataTypeName" : "number",
+    "description" : "Dollar amount charged as part of the permit fee, based on depth (ft.) of the wellbore",
+    "fieldName" : "depth_fee",
+    "position" : 44,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934414,
+    "width" : 165,
+    "cachedContents" : {
+      "non_null" : "47466",
+      "largest" : "10900",
+      "null" : "6",
+      "top" : [ {
+        "item" : "0",
+        "count" : "35729"
+      }, {
+        "item" : "760",
+        "count" : "1914"
+      }, {
+        "item" : "375",
+        "count" : "1000"
+      }, {
+        "item" : "500",
+        "count" : "972"
+      }, {
+        "item" : "570",
+        "count" : "912"
+      }, {
+        "item" : "1000",
+        "count" : "879"
+      }, {
+        "item" : "1125",
+        "count" : "753"
+      }, {
+        "item" : "950",
+        "count" : "732"
+      }, {
+        "item" : "625",
+        "count" : "595"
+      }, {
+        "item" : "875",
+        "count" : "564"
+      }, {
+        "item" : "250",
+        "count" : "446"
+      }, {
+        "item" : "1140",
+        "count" : "403"
+      }, {
+        "item" : "750",
+        "count" : "354"
+      }, {
+        "item" : "1330",
+        "count" : "271"
+      }, {
+        "item" : "1250",
+        "count" : "252"
+      }, {
+        "item" : "1710",
+        "count" : "239"
+      }, {
+        "item" : "380",
+        "count" : "228"
+      }, {
+        "item" : "1520",
+        "count" : "217"
+      }, {
+        "item" : "1900",
+        "count" : "206"
+      }, {
+        "item" : "1375",
+        "count" : "71"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231914,
+    "name" : "Spacing",
+    "dataTypeName" : "text",
+    "description" : "Indicates whether the spacing unit associated with the well conforms to statewide spacing under Title 5 of Article 23 of the Environmental Conservation Law, whether the unit is non-conforming, or whether the unit is exempt. ",
+    "fieldName" : "spacing",
+    "position" : 45,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934415,
+    "width" : 351,
+    "cachedContents" : {
+      "non_null" : "5707",
+      "largest" : "Unit established by order prior to August 2, 2005",
+      "null" : "41765",
+      "top" : [ {
+        "item" : "Exempt from Title 5; complies with 6 NYCRR 553.1(a)",
+        "count" : "4090"
+      }, {
+        "item" : "Conforms to statewide spacing under Title 5",
+        "count" : "780"
+      }, {
+        "item" : "Exempt - not an oil or gas well",
+        "count" : "709"
+      }, {
+        "item" : "Exempt from Title 5; variance needed from 6 NYCRR 533.1(a)",
+        "count" : "76"
+      }, {
+        "item" : "Non-statutory unit under Title 5; review in progress",
+        "count" : "25"
+      }, {
+        "item" : "Non-statutory unit under Title 5; conforms to policy objectives",
+        "count" : "11"
+      }, {
+        "item" : "Established unit, infill well",
+        "count" : "10"
+      }, {
+        "item" : "Unit established by order prior to August 2, 2005",
+        "count" : "6"
+      } ],
+      "smallest" : "Conforms to statewide spacing under Title 5",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231915,
+    "name" : "Spacing Acres",
+    "dataTypeName" : "number",
+    "description" : "Acres comprising the spacing unit",
+    "fieldName" : "spacing_acres",
+    "position" : 46,
+    "renderTypeName" : "number",
+    "tableColumnId" : 21934416,
+    "width" : 171,
+    "cachedContents" : {
+      "non_null" : "1550",
+      "largest" : "691.78",
+      "null" : "45922",
+      "top" : [ {
+        "item" : "40.00",
+        "count" : "195"
+      }, {
+        "item" : "5",
+        "count" : "100"
+      }, {
+        "item" : "220",
+        "count" : "46"
+      }, {
+        "item" : "196",
+        "count" : "41"
+      }, {
+        "item" : "230",
+        "count" : "34"
+      }, {
+        "item" : "160",
+        "count" : "29"
+      }, {
+        "item" : "80",
+        "count" : "27"
+      }, {
+        "item" : "3.67",
+        "count" : "24"
+      }, {
+        "item" : "640",
+        "count" : "23"
+      }, {
+        "item" : "87",
+        "count" : "22"
+      }, {
+        "item" : "165",
+        "count" : "19"
+      }, {
+        "item" : "168",
+        "count" : "19"
+      }, {
+        "item" : "143",
+        "count" : "18"
+      }, {
+        "item" : "46",
+        "count" : "17"
+      }, {
+        "item" : "113",
+        "count" : "16"
+      }, {
+        "item" : "44",
+        "count" : "14"
+      }, {
+        "item" : "56",
+        "count" : "11"
+      }, {
+        "item" : "198",
+        "count" : "11"
+      }, {
+        "item" : "210",
+        "count" : "10"
+      }, {
+        "item" : "118",
+        "count" : "9"
+      } ],
+      "smallest" : "0",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 603231916,
+    "name" : "Integration",
+    "dataTypeName" : "text",
+    "description" : "Integration codes:\n\nNO\t- No integration order required; \nOI\t- Integration order issued; \nOP\t- Integration order pending; \nRE\t- Referred to Office of Hearings and       Mediation Services\n",
+    "fieldName" : "integration",
+    "position" : 47,
+    "renderTypeName" : "text",
+    "tableColumnId" : 21934417,
+    "width" : 154,
+    "cachedContents" : {
+      "non_null" : "5036",
+      "largest" : "Referred to Office of Hearings and Mediation Services",
+      "null" : "42436",
+      "top" : [ {
+        "item" : "No integration order required",
+        "count" : "4746"
+      }, {
+        "item" : "Integration order issued",
+        "count" : "233"
+      }, {
+        "item" : "Integration order pending",
+        "count" : "54"
+      }, {
+        "item" : "Referred to Office of Hearings and Mediation Services",
+        "count" : "3"
+      } ],
+      "smallest" : "Integration order issued",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231917,
+    "name" : "Hearing Date",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date of integration hearing",
+    "fieldName" : "hearing_date",
+    "position" : 48,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 21934418,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : "287",
+      "largest" : "2012-12-12T00:00:00.000",
+      "null" : "47185",
+      "top" : [ {
+        "item" : "2006-06-27T00:00:00.000",
+        "count" : "9"
+      }, {
+        "item" : "2009-06-03T00:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "2007-09-25T00:00:00.000",
+        "count" : "8"
+      }, {
+        "item" : "2007-01-09T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "2007-11-28T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "2011-02-09T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "2009-11-18T00:00:00.000",
+        "count" : "7"
+      }, {
+        "item" : "2009-05-06T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2008-04-30T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2008-07-23T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2008-02-06T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2009-07-01T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2009-10-21T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2006-05-18T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2006-08-29T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2007-10-23T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2008-11-12T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2009-02-11T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2009-03-11T00:00:00.000",
+        "count" : "6"
+      }, {
+        "item" : "2009-04-08T00:00:00.000",
+        "count" : "6"
+      } ],
+      "smallest" : "2002-08-29T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "view" : "date",
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231918,
+    "name" : "Date Last Modified",
+    "dataTypeName" : "calendar_date",
+    "description" : "Date record was last modified",
+    "fieldName" : "date_last_modified",
+    "position" : 49,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 148525582,
+    "width" : 197,
+    "cachedContents" : {
+      "non_null" : "47472",
+      "largest" : "2026-10-14T13:54:14.000",
+      "null" : "0",
+      "top" : [ {
+        "item" : "2025-12-05T16:22:20.000",
+        "count" : "2502"
+      }, {
+        "item" : "2019-12-20T15:27:41.000",
+        "count" : "2254"
+      }, {
+        "item" : "2019-12-13T10:47:54.000",
+        "count" : "2142"
+      }, {
+        "item" : "2026-08-11T15:27:03.000",
+        "count" : "1034"
+      }, {
+        "item" : "1989-05-31T00:00:00.000",
+        "count" : "818"
+      }, {
+        "item" : "1900-01-01T00:00:00.000",
+        "count" : "811"
+      }, {
+        "item" : "1998-12-17T00:00:00.000",
+        "count" : "753"
+      }, {
+        "item" : "2020-01-02T09:36:49.000",
+        "count" : "742"
+      }, {
+        "item" : "1999-02-05T00:00:00.000",
+        "count" : "628"
+      }, {
+        "item" : "1998-12-14T00:00:00.000",
+        "count" : "618"
+      }, {
+        "item" : "2011-04-26T15:48:21.000",
+        "count" : "497"
+      }, {
+        "item" : "2019-12-13T10:47:57.000",
+        "count" : "437"
+      }, {
+        "item" : "1998-12-15T00:00:00.000",
+        "count" : "407"
+      }, {
+        "item" : "2026-03-23T13:25:54.000",
+        "count" : "351"
+      }, {
+        "item" : "2025-08-19T09:59:13.000",
+        "count" : "302"
+      }, {
+        "item" : "2019-12-13T10:49:57.000",
+        "count" : "270"
+      }, {
+        "item" : "1998-12-09T00:00:00.000",
+        "count" : "229"
+      }, {
+        "item" : "2019-12-13T10:47:59.000",
+        "count" : "228"
+      }, {
+        "item" : "2026-06-02T11:02:57.000",
+        "count" : "205"
+      }, {
+        "item" : "2026-06-02T11:06:21.000",
+        "count" : "197"
+      } ],
+      "smallest" : "1900-01-01T00:00:00.000",
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : {
+      "align" : "center"
+    }
+  }, {
+    "id" : 603231919,
+    "name" : "DEC Database Link",
+    "dataTypeName" : "url",
+    "description" : "Link/connect to DEC’s searchable online database record for the individual well",
+    "fieldName" : "dec_database_link",
+    "position" : 50,
+    "renderTypeName" : "url",
+    "tableColumnId" : 21934420,
+    "width" : 527,
+    "format" : {
+      "align" : "left"
+    },
+    "subColumnTypes" : [ "url", "description" ]
+  }, {
+    "id" : 603231920,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "description" : "Open Data/Socrata-generated geocoding information",
+    "fieldName" : "location_1",
+    "position" : 51,
+    "renderTypeName" : "location",
+    "tableColumnId" : 21934421,
+    "width" : 220,
+    "format" : {
+      "align" : "left"
+    }
+  }, {
+    "id" : 603231928,
+    "name" : "Georeference",
+    "dataTypeName" : "point",
+    "description" : "Open Data platform-generated geocoding information from supplied address components. Point-type location is the centroid of the address components provided and does not reflect a specific address if the street address component is not provided. Point-type location is supplied in \"POINT ( )\" format.",
+    "fieldName" : "georeference",
+    "position" : 52,
+    "renderTypeName" : "point",
+    "tableColumnId" : 156005386,
+    "cachedContents" : {
+      "non_null" : "46387",
+      "null" : "1085",
+      "top" : [ {
+        "item" : {
+          "coordinates" : [ -78.685603, 42.586539 ],
+          "type" : "Point"
+        },
+        "count" : "5"
+      }, {
+        "item" : {
+          "coordinates" : [ -76.63839, 42.42457 ],
+          "type" : "Point"
+        },
+        "count" : "5"
+      }, {
+        "item" : {
+          "coordinates" : [ -75.617906, 42.630751 ],
+          "type" : "Point"
+        },
+        "count" : "4"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.099336, 42.790741 ],
+          "type" : "Point"
+        },
+        "count" : "4"
+      }, {
+        "item" : {
+          "coordinates" : [ -79.057583, 42.323583 ],
+          "type" : "Point"
+        },
+        "count" : "4"
+      }, {
+        "item" : {
+          "coordinates" : [ -73.879601, 40.852974 ],
+          "type" : "Point"
+        },
+        "count" : "4"
+      }, {
+        "item" : {
+          "coordinates" : [ -76.956348, 42.523815 ],
+          "type" : "Point"
+        },
+        "count" : "4"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.27854, 42.63195 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -75.646869, 42.724769 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.843406, 42.109961 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.0373, 42.05042 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.841564, 42.109969 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.413152, 42.031861 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.801347, 42.591844 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -76.773706, 42.094434 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.841572, 42.111342 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -76.896695, 42.423021 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -77.841344, 42.112789 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.55881, 42.00777 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      }, {
+        "item" : {
+          "coordinates" : [ -78.511528, 42.739464 ],
+          "type" : "Point"
+        },
+        "count" : "3"
+      } ],
+      "count" : "47472",
+      "cardinality" : "47472"
+    },
+    "format" : { }
+  }, {
+    "id" : 603231925,
+    "name" : "NYS Municipal Boundaries",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_yamh_8v7k",
+    "position" : 56,
+    "renderTypeName" : "number",
+    "tableColumnId" : 88447158,
+    "computationStrategy" : {
+      "source_columns" : [ "location_1" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_yamh-8v7k",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 603231926,
+    "name" : "New York Zip Codes",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_wbg7_3whc",
+    "position" : 57,
+    "renderTypeName" : "number",
+    "tableColumnId" : 88447160,
+    "computationStrategy" : {
+      "source_columns" : [ "location_1" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_wbg7-3whc",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  }, {
+    "id" : 603231927,
+    "name" : "Counties",
+    "dataTypeName" : "number",
+    "fieldName" : ":@computed_region_kjdx_g34t",
+    "position" : 58,
+    "renderTypeName" : "number",
+    "tableColumnId" : 88447162,
+    "computationStrategy" : {
+      "source_columns" : [ "location_1" ],
+      "type" : "georegion_match_on_point",
+      "parameters" : {
+        "region" : "_kjdx-g34t",
+        "primary_key" : "_feature_id"
+      }
+    },
+    "format" : { }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "filename" : "NYSDEC_OilGasAndOtherRegulatedWells_Overview.pdf",
+      "assetId" : "035ab04f-06df-45dd-9580-45376eb83101",
+      "name" : "NYSDEC_OilGasAndOtherRegulatedWells_Overview.pdf"
+    }, {
+      "filename" : "NYSDEC_OilGasAndOtherRegulatedWells_DataDictionary.pdf",
+      "assetId" : "0f0db6ff-6393-4fdb-9362-296a417adcb8",
+      "name" : "NYSDEC_OilGasAndOtherRegulatedWells_DataDictionary.pdf"
+    } ],
+    "custom_fields" : {
+      "Dataset Summary" : {
+        "Posting Frequency" : "Quarterly",
+        "Organization" : "New York State Department of Environmental Conservation, Division of Mineral Resources",
+        "Contact Information" : "dec.sm.oilgas@dec.ny.gov",
+        "Time Period" : "Beginning 1860",
+        "Coverage" : "Statewide",
+        "Granularity" : "Town",
+        "Dataset Owner" : "New York State Department of Environmental Conservation"
+      },
+      "Local Data" : {
+        "County_Column" : "county",
+        "County Filter" : "Yes",
+        "Municipality_Column" : "town",
+        "Municipality Filter" : "Yes"
+      },
+      "Additional Resources" : {
+        "See Also" : "http://www.dec.ny.gov/cfmx/extapps/GasOil/"
+      },
+      "Disclaimers" : {
+        "Limitations" : "Although every effort has been made to ensure the accuracy of information, errors may be reflected in the data supplied. The user must be aware of data conditions and bear responsibility for the appropriate use of the information with respect to possible errors, collection methodology, currency of data, and other conditions."
+      },
+      "Dataset Information" : {
+        "Agency" : "Environmental Conservation, Department of"
+      }
+    },
+    "rowLabel" : "Row",
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    }
+  },
+  "owner" : {
+    "id" : "xzik-pf59",
+    "displayName" : "NY Open Data",
+    "profileImageUrlLarge" : "/api/users/xzik-pf59/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/xzik-pf59/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/xzik-pf59/profile_images/TINY",
+    "screenName" : "NY Open Data",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "query" : { },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "xzik-pf59",
+    "displayName" : "NY Open Data",
+    "profileImageUrlLarge" : "/api/users/xzik-pf59/profile_images/LARGE",
+    "profileImageUrlMedium" : "/api/users/xzik-pf59/profile_images/THUMB",
+    "profileImageUrlSmall" : "/api/users/xzik-pf59/profile_images/TINY",
+    "screenName" : "NY Open Data",
+    "type" : "interactive",
+    "flags" : [ "acceptedEula", "mayBeStoriesCoOwner" ]
+  },
+  "tags" : [ "oil", "gas", "wells", "geology", "mineral resources", "geothermal", "stratigraphic", "storage", "solution salt" ],
+  "flags" : [ "default", "ownerMayBeContacted", "restorable", "restorePossibleForType" ]
+}
