@@ -1,11 +1,11 @@
 {
   "generated": "2026-10-16",
-  "total": 170,
+  "total": 171,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 56,
     "MISLEADING": 39,
-    "DOCUMENTED PATTERN": 30,
+    "DOCUMENTED PATTERN": 31,
     "CONTRADICTION": 13,
     "FALSE": 10,
     "MOSTLY TRUE": 8,
@@ -21,17 +21,17 @@
     {
       "label": "MISSING CONTEXT",
       "count": 58,
-      "pct": 34.1
+      "pct": 33.9
     },
     {
       "label": "MISLEADING",
       "count": 39,
-      "pct": 22.9
+      "pct": 22.8
     },
     {
       "label": "DOCUMENTED PATTERN",
-      "count": 30,
-      "pct": 17.6
+      "count": 31,
+      "pct": 18.1
     },
     {
       "label": "CONTRADICTION",
@@ -41,7 +41,7 @@
     {
       "label": "FALSE",
       "count": 10,
-      "pct": 5.9
+      "pct": 5.8
     },
     {
       "label": "MOSTLY TRUE",
@@ -73,8 +73,8 @@
     "Healthcare": 24,
     "Economy": 18,
     "Government Operations": 16,
+    "Campaign Finance": 10,
     "Other": 10,
-    "Campaign Finance": 9,
     "Immigration": 9,
     "Local Impact": 7,
     "Energy": 6,
@@ -122,7 +122,7 @@
     "2026-07": 24,
     "2026-08": 8,
     "2026-09": 13,
-    "2026-10": 4
+    "2026-10": 5
   },
   "entries": [
     {
@@ -131,6 +131,13 @@
       "verdict": "DOCUMENTED PATTERN",
       "topic": "Campaign Finance",
       "url": "/fact-checks/2026-10-16-energy-choice-act-supporter-money/"
+    },
+    {
+      "title": "No In-Person Town Hall Since 2023. 55 Cents of Every Campaign Dollar Comes From PACs, and at Most 17 Cents From Donors With Addresses in His District.",
+      "date": "2026-10-16",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-10-16-who-funds-him-and-who-can-reach-him/"
     },
     {
       "title": "His Opponent Said on Stage He Will 'Never Support' a Propane or Gas Ban. Langworthy's Post Says He Supports It. Four Energy Posts Checked.",

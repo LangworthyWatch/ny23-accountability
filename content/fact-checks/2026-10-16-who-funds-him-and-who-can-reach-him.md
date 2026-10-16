@@ -1,7 +1,7 @@
 ---
 title: "No In-Person Town Hall Since 2023. 55 Cents of Every Campaign Dollar Comes From PACs, and at Most 17 Cents From Donors With Addresses in His District."
 date: 2026-10-16
-draft: true
+draft: false
 topic: "Campaign Finance / Constituent Access"
 claim_date: "April 2025"
 source: "Statement to WSKG; FEC filings; Census ZIP-to-district file"
@@ -9,7 +9,7 @@ source_url: "https://www.wskg.org/regional-news/2025-04-18/frustrated-constituen
 archived_url: "https://web.archive.org/web/20260417124832/https://www.wskg.org/regional-news/2025-04-18/frustrated-constituents-hold-empty-seat-town-hall-wanting-to-hear-from-rep-langworthy"
 archive_note: "Every dollar figure is computed from Langworthy for Congress's own electronic FEC filings for the 2025-26 cycle (eight reports, through September 30, 2026), downloaded as raw .fec files from FEC docquery, with memo entries excluded. Itemized totals were checked against each report's summary page and match. Donor locations come from matching each itemized donor's ZIP code to the Census Bureau's 2020 ZCTA-to-119th-Congress relationship file. Files, method and totals are retained under research/sources/fec-2026-q3/ (in-district-individual-money.txt). The New York delegation comparison uses the FEC's bulk candidate summary file (weball26)."
 verdict: "DOCUMENTED PATTERN"
-publication_note: "This entry documents where Rep. Langworthy's campaign money comes from and how constituents can reach him. It does not claim that any donor has influenced any decision; campaign finance records cannot show that, and the site does not assert it. No comment request was sent to Rep. Langworthy's office before publication; any response will be published here in full."
+publication_note: "Published October 16, 2026. This entry documents where Rep. Langworthy's campaign money comes from and how constituents can reach him. It does not claim that any donor has influenced any decision; campaign finance records cannot show that, and the site does not assert it. No comment request was sent to Rep. Langworthy's office before publication; any response will be published here in full."
 tags: ["campaign-finance", "constituent-access", "town-halls", "pacs", "lobbyists", "fec", "documented-pattern"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
