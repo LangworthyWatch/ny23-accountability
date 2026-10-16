@@ -1,8 +1,7 @@
 ---
 title: "His Opponent Said on Stage He Will 'Never Support' a Propane or Gas Ban. Langworthy's Post Says He Supports It. Four Energy Posts Checked."
 date: 2026-10-15
-draft: true
-hold_reason: "Still open (Oct 15): (1) check whether a Supreme Court petition has been filed in Mulhern Gas v. Mosley (deadline about Nov 24, 2026, extendable) and update the suspension paragraph if so; (2) retry the Wayback save of the CourtListener 2d Cir. docket page (Save Page Now returned 520 twice). Done: debate quotes re-transcribed with Whisper medium.en and speakers confirmed from video frames; /fact-check-review run and fixes applied."
+draft: false
 topic: "Energy"
 claim_date: "October 8-14, 2026"
 source: "Facebook Posts (campaign page and official page), WETM Debate, WBEN Radio"
@@ -10,7 +9,7 @@ source_url: "https://www.facebook.com/watch/?v=4064511483852338"
 archived_url: ""
 archive_note: "Facebook video posts are login-walled and cannot be archived. Preservation artifacts: screenshots of the October 8, 9 and 13 posts (embedded below); the October 14 post's caption is preserved in the video metadata (L4-caption.txt); and the downloaded video files with Whisper transcripts, retained under research/sources/triage-2026-10-15/videos/ (L4, L5, L7, L8). The full Oct 6 WETM debate video and transcript are retained under research/sources/debate-2026-10-06/. Every other source is archived and listed below."
 verdict: "FALSE"
-publication_note: "This entry checks statements Rep. Langworthy made or posted. It takes no position on the All-Electric Buildings Act, the Energy Choice Act or fracking, and it does not rate his opponent. Where his opponent is quoted, it is to check what Rep. Langworthy said about him. No comment request was sent to Rep. Langworthy's office before publication; any response will be published here in full."
+publication_note: "Published October 15, 2026. This entry checks statements Rep. Langworthy made or posted. It takes no position on the All-Electric Buildings Act, the Energy Choice Act or fracking, and it does not rate his opponent. Where his opponent is quoted, it is to check what Rep. Langworthy said about him. No comment request was sent to Rep. Langworthy's office before publication; any response will be published here in full."
 tags: ["energy", "energy-choice-act", "all-electric-buildings-act", "natural-gas", "propane", "fracking", "clcpa", "winter-storm-elliott", "debate", "2026-election"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---

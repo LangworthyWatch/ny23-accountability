@@ -193,6 +193,16 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
   2. Wayback-archive the cited sources (see the archive-gap item) and add per-source links.
 - **Status:** open — permalinks + archiving outstanding
 
+### Energy-ban debate clips entry: post-publication follow-ups
+- **Date logged:** 2026-10-15
+- **Source:** `content/fact-checks/2026-10-15-energy-ban-debate-clips.md` (published Oct 15; holds released to publish before early voting)
+- **Type:** wayback-retry / monitor
+- **Priority:** medium
+- **Remaining:**
+  1. **Action-date 2026-11-25:** check the Supreme Court docket for a cert petition in *Mulhern Gas Co. v. Mosley* (2d Cir. No. 25-2041; deadline about Nov 24, extendable). If none, the AEBA suspension ends Dec 31, 2026; update the entry's suspension paragraph either way.
+  2. Retry the Wayback save of https://www.courtlistener.com/docket/71197226/mulhern-gas-co-inc-v-mosley/ (SPN 520 twice on Oct 15; page-text copy in `research/sources/triage-2026-10-15/energy/`), then add the archived URL to the entry's Sources.
+- **Status:** open
+
 ## Fact-Check Leads
 
 <!-- New Langworthy statements, votes, or actions worth a standalone entry -->

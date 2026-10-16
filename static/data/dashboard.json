@@ -1,13 +1,13 @@
 {
   "generated": "2026-10-15",
-  "total": 167,
+  "total": 168,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 56,
     "MISLEADING": 38,
     "DOCUMENTED PATTERN": 29,
     "CONTRADICTION": 13,
-    "FALSE": 9,
+    "FALSE": 10,
     "MOSTLY TRUE": 8,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
@@ -21,30 +21,30 @@
     {
       "label": "MISSING CONTEXT",
       "count": 58,
-      "pct": 34.7
+      "pct": 34.5
     },
     {
       "label": "MISLEADING",
       "count": 38,
-      "pct": 22.8
+      "pct": 22.6
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 29,
-      "pct": 17.4
+      "pct": 17.3
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 8.4
-    },
-    {
-      "label": "MOSTLY TRUE",
-      "count": 9,
-      "pct": 5.4
+      "pct": 8.3
     },
     {
       "label": "FALSE",
+      "count": 10,
+      "pct": 6.0
+    },
+    {
+      "label": "MOSTLY TRUE",
       "count": 9,
       "pct": 5.4
     },
@@ -77,10 +77,10 @@
     "Immigration": 9,
     "Campaign Finance": 8,
     "Local Impact": 7,
+    "Energy": 6,
     "Agriculture": 6,
     "Transparency": 6,
     "Rule of Law": 5,
-    "Energy": 5,
     "Accountability & Governance": 4,
     "Veterans": 4,
     "Infrastructure": 4,
@@ -122,9 +122,16 @@
     "2026-07": 24,
     "2026-08": 8,
     "2026-09": 13,
-    "2026-10": 1
+    "2026-10": 2
   },
   "entries": [
+    {
+      "title": "His Opponent Said on Stage He Will 'Never Support' a Propane or Gas Ban. Langworthy's Post Says He Supports It. Four Energy Posts Checked.",
+      "date": "2026-10-15",
+      "verdict": "FALSE",
+      "topic": "Energy",
+      "url": "/fact-checks/2026-10-15-energy-ban-debate-clips/"
+    },
     {
       "title": "He Says 'My Dairy Farm Resiliency Act Strengthened' the Dairy Safety Net. His Bill Never Got a Hearing. The Provision Was a Colleague's Bill First, and the Committee Had It in Its Farm Bill a Year Before He Filed It.",
       "date": "2026-10-08",
