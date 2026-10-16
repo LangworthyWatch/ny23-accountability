@@ -1,7 +1,7 @@
 ---
 title: "The Trade Group That Says It 'Helped Draft' His Energy Choice Act Has Made Him Its Top Recipient. Six Groups on His Own Supporter List Have Given $54,000."
 date: 2026-10-16
-draft: true
+draft: false
 topic: "Campaign Finance / Energy"
 claim_date: "2025-2026"
 source: "FEC filings (Langworthy for Congress, Circle the Wagons PAC, NEFI Home Comfort PAC), govinfo BILLSTATUS, Rep. Langworthy's press release"
@@ -9,7 +9,7 @@ source_url: "https://langworthy.house.gov/media/press-releases/congressman-nick-
 archived_url: "https://web.archive.org/web/20260324194116/https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-introduces-energy-choice-act-end-blue-state-wars-0"
 archive_note: "Every dollar figure is computed from the committees' own electronic filings, downloaded from FEC docquery as raw .fec files (all 2025-26 reports of Langworthy for Congress through Q3 2026 and of Circle the Wagons PAC through August 2026 (its July and August reports show no receipts); NEFI Home Comfort PAC's 2025-26 reports). Memo entries are excluded. Raw files, the row-level extract and the totals are retained under research/sources/fec-2026-q3/. FEC filings are permanent public records; docquery links are listed below."
 verdict: "DOCUMENTED PATTERN"
-publication_note: "This entry documents a sequence of public records. It does not allege that any contribution was given or received in exchange for an official act, and it takes no position on the Energy Choice Act. Political action committees commonly give to members who already share their positions, and the records cannot show which came first. No comment request was sent to Rep. Langworthy's office or to the National Energy & Fuels Institute before publication; the questions below stand open to both, and any response will be published here in full."
+publication_note: "Published October 16, 2026. This entry documents a sequence of public records. It does not allege that any contribution was given or received in exchange for an official act, and it takes no position on the Energy Choice Act. Political action committees commonly give to members who already share their positions, and the records cannot show which came first. No comment request was sent to Rep. Langworthy's office or to the National Energy & Fuels Institute before publication; the questions below stand open to both, and any response will be published here in full."
 tags: ["campaign-finance", "energy", "energy-choice-act", "hr3699", "nefi", "propane", "natural-gas", "fec", "documented-pattern"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
