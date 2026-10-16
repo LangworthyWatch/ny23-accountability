@@ -1,4 +1,4 @@
-# Comment request: draft (not sent)
+# Comment request: draft (NOT SENT, decided Oct 16, 2026; the office has not responded to past requests)
 
 - **For entry:** `content/fact-checks/2026-10-16-who-funds-him-and-who-can-reach-him.md` (draft, on hold)
 - **To:** replangworthyinfo@mail.house.gov. This is a general office address, listed on a 2023 event page on langworthy.house.gov. If you have a current press contact, use that instead or cc it.

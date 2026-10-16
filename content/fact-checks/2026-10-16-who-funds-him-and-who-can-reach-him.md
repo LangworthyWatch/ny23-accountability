@@ -2,7 +2,6 @@
 title: "No In-Person Town Hall Since 2023. 55 Cents of Every Campaign Dollar Comes From PACs, and at Most 17 Cents From Donors With Addresses in His District."
 date: 2026-10-16
 draft: true
-hold_reason: "Comment request to Rep. Langworthy's office (draft in research/sources/fec-2026-q3/comment-request-2026-10-16.md); hold until the response deadline passes, then add any response in full and update publication_note."
 topic: "Campaign Finance / Constituent Access"
 claim_date: "April 2025"
 source: "Statement to WSKG; FEC filings; Census ZIP-to-district file"
