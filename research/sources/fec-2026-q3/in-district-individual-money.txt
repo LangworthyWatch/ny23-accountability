@@ -1,0 +1,31 @@
+Method: donor ZIP (first 5 digits) matched to Census 2020 ZCTA-to-119th-Congress district relationship file (tab20_cd11920_zcta520_st36.txt). A ZCTA is 'entirely' NY-23 if all of its land area in the file is in district 3623. ZCTAs approximate ZIP codes. Unitemized gifts (under $200 aggregate) have no address and are excluded.
+
+Q3 2026 (Jul 1-Sep 30), Langworthy for Congress: itemized individual (and partnership) contributions, non-memo SA11AI: $89,085.00
+  NY-23 (entirely)                           $   25,020.00   28.1%  rows=82
+  NY-23 (ZIP split with another district)    $   13,705.00   15.4%  rows=45
+  NY, other district                         $   23,510.00   26.4%  rows=44
+  NY, ZIP not matched                        $      500.00    0.6%  rows=1
+  out of state                               $   26,350.00   29.6%  rows=17
+  top states: NY 70%, VA 13%, DC 4%, MA 4%, CA 4%, CO 4%
+
+2025-26 cycle through Sep 30, 2026, Langworthy for Congress: itemized individual (and partnership) contributions, non-memo SA11AI: $924,328.96
+  NY-23 (entirely)                           $  194,775.25   21.1%  rows=325
+  NY-23 (ZIP split with another district)    $  118,677.00   12.8%  rows=236
+  NY, other district                         $  329,178.91   35.6%  rows=327
+  NY, ZIP not matched                        $   22,685.00    2.5%  rows=10
+  out of state                               $  259,012.80   28.0%  rows=205
+  top states: NY 72%, VA 10%, DC 6%, FL 2%, MD 2%, PR 1%
+
+Summary-page column check (Q3 2026): itemized idx 32=89085.00, unitemized 8972.06, total indiv 98057.06, 11c 175546.64, total contributions idx 23=273603.70
+
+2025-26 cycle through Sep 30, 2026, Langworthy for Congress, summed from each report's summary page (period columns):
+  itemized individuals           $    924,328.96   42.0%
+  unitemized individuals         $     67,522.70    3.1%
+  total individuals              $    991,851.66   45.1%
+  party committees (11b)         $      6,462.00    0.3%
+  other committees/PACs (11c)    $  1,201,226.65   54.6%
+  total contributions            $  2,199,540.31  100.0%
+
+Self-described lobbyist / government-affairs / public-affairs / public-policy occupations or employers (regex on FEC occupation+employer fields), LfC 2025-26: $60,600.00 from 37 donors, 59 rows. By state: VA $27,550, DC $22,000, FL $7,000, NY $2,300, NJ $1,500
+
+REVISED (abbreviations included: GOV/GOVT/GOV'T/GOV. AFFAIRS|RELATIONS): $70,850.00 from 44 donors; VA+DC $59,300.00 (83.7%); NY $2,300.00
