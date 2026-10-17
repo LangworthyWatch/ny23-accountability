@@ -1,0 +1,32 @@
+Full-committee roll-call PDFs parsed: 221. Missed = member listed with no X in Yea/Nay/Present columns.
+ 1 Mr. Crenshaw                 missed  82 of 221   37.1%
+ 2 Ms. Lee                      missed  63 of 221   28.5%
+ 3 Mr. Fry                      missed  61 of 221   27.6%
+ 4 Mr. Rulli                    missed  57 of 221   25.8%
+ 5 Mr. Pfluger                  missed  57 of 221   25.8%
+ 6 Mrs. Miller-Meeks            missed  55 of 221   24.9%
+ 7 Mr. Dunn                     missed  51 of 221   23.1%
+ 8 Mr. Evans                    missed  50 of 221   22.6%
+ 9 Mrs. Cammack                 missed  48 of 219   21.9%
+10 Mrs. Houchin                 missed  41 of 221   18.6%
+11 Mr. Kean                     missed  41 of 221   18.6%
+12 Mr. James                    missed  40 of 221   18.1%
+13 Mr. Obernolte                missed  32 of 221   14.5%
+14 Mr. Hudson                   missed  28 of 221   12.7%
+15 Mr. Bilirakis                missed  26 of 221   11.8%
+16 Mrs. Fedorchak               missed  23 of 221   10.4%
+17 Mr. Langworthy               missed  22 of 221   10.0%
+18 Mr. Palmer                   missed  18 of 221    8.1%
+19 Mr. Allen                    missed  12 of 221    5.4%
+20 Mr. Bentz                    missed  11 of 221    5.0%
+21 Mr. Carter                   missed   8 of 221    3.6%
+22 Mr. Guthrie                  missed   7 of 222    3.2%
+23 Mr. Fulcher                  missed   5 of 221    2.3%
+24 Mr. Balderson                missed   5 of 221    2.3%
+25 Mr. Griffith                 missed   4 of 221    1.8%
+26 Mr. Goldman                  missed   4 of 221    1.8%
+27 Mrs. Harshbarger             missed   3 of 221    1.4%
+28 Mr. Weber                    missed   2 of 221    0.9%
+29 Mr. Joyce                    missed   2 of 221    0.9%
+30 Mr. Latta                    missed   0 of 221    0.0%
+median miss rate 11.1% members 30
