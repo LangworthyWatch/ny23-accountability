@@ -1,0 +1,1131 @@
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+
+
+
+                         AMENDMENT TO THE AMENDMENT IN THE
+                         NATURE OF A SUBSTITUTE TO H.R. 7757
+                       OFFERED BY MS. SCHRIER OF WASHINGTON
+
+                        At the end of the bill, insert the following (and con-
+                  form the table of contents accordingly):
+
+                1         TITLE VII—KIDS OFF SOCIAL
+                2                 MEDIA ACT
+                3    SEC. 701. SHORT TITLE.
+
+                4          This title may be referred to as the ‘‘Kids Off Social
+                5 Media Act’’.
+                6    SEC. 702. DEFINITIONS.
+
+                7          In this title:
+                8                (1) PERSONALIZED        RECOMMENDATION     SYS-
+
+                9          TEM.—The term ‘‘personalized recommendation sys-
+
+               10          tem’’ means a fully or partially automated system
+               11          used to suggest, promote, or rank content, including
+               12          other users or posts, based on the personal data of
+               13          users.
+               14                (2) CHILD.—The term ‘‘child’’ means an indi-
+               15          vidual under the age of 13.
+               16                (3) COMMISSION.—The term ‘‘Commission’’
+               17          means the Federal Trade Commission.
+
+
+
+g:\VHLD\030426\D030426.022.xml      (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                      2
+                1                (4) KNOW OR KNOWS.—The term ‘‘know’’ or
+                2          ‘‘knows’’ means to have actual knowledge or knowl-
+                3          edge fairly implied on the basis of objective cir-
+                4          cumstances.
+                5                (5) PERSONAL          DATA.—The       term ‘‘personal
+                6          data’’ has the same meaning as the term ‘‘personal
+                7          information’’ as defined in section 1302 of the Chil-
+                8          dren’s Online Privacy Protection Act (15 U.S.C.
+                9          6501) .
+               10                (6) SOCIAL MEDIAL PLATFORM.—
+               11                     (A) IN GENERAL.—The term ‘‘social media
+               12                platform’’ means a public-facing website, online
+               13                service, online application, or mobile application
+               14                that—
+               15                              (i) is directed to consumers;
+               16                              (ii) collects personal data;
+               17                              (iii) primarily derives revenue from
+               18                     advertising or the sale of personal data;
+               19                     and
+               20                              (iv) as its primary function provides a
+               21                     community forum for user-generated con-
+               22                     tent, including messages, videos, and audio
+               23                     files among users where such content is
+               24                     primarily intended for viewing, resharing,
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                       3
+                1                      or platform-enabled distributed social en-
+                2                      dorsement or comment.
+                3                      (B) LIMITATION.—The term ‘‘social medial
+                4                platform’’ does not include a platform that, as
+                5                its primary function for consumers, provides or
+                6                facilitates any of the following:
+                7                               (i) The purchase and sale of commer-
+                8                      cial goods.
+                9                               (ii)        Teleconferencing          or
+               10                      videoconferencing services that allow recep-
+               11                      tion and transmission of audio or video
+               12                      signals for real-time communication, pro-
+               13                      vided that the real-time communication is
+               14                      initiated by using a unique link or identi-
+               15                      fier to facilitate access.
+               16                               (iii) Crowd-sourced reference guides
+               17                      such as encyclopedias and dictionaries.
+               18                               (iv) Cloud storage, file sharing, or file
+               19                      collaboration services, including such serv-
+               20                      ices that allow collaborative editing by in-
+               21                      vited users.
+               22                               (v) The playing or creation of video
+               23                      games.
+               24                               (vi) Content that consists primarily of
+               25                      news, sports, sports coverage, entertain-
+
+
+g:\VHLD\030426\D030426.022.xml    (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                      4
+                1                     ment, or other information or content that
+                2                     is not user-generated but is preselected by
+                3                     the platform and for which any chat, com-
+                4                     ment, or interactive functionality is inci-
+                5                     dental, directly related to, or dependent on
+                6                     the provision of the content provided by
+                7                     the platform.
+                8                              (vii) Business, product, or travel in-
+                9                     formation       including    user   reviews   or
+               10                     rankings of such businesses, products, or
+               11                     other travel information.
+               12                              (viii) Educational information, experi-
+               13                     ences, training, or instruction provided to
+               14                     build knowledge, skills, or a craft, district-
+               15                     sanctioned or school-sanctioned learning
+               16                     management systems and school informa-
+               17                     tion systems for the purposes of schools
+               18                     conveying content related to the education
+               19                     of students, or services or services on be-
+               20                     half of or in support of an elementary
+               21                     school or secondary school, as such terms
+               22                     are defined in section 8101 of the Elemen-
+               23                     tary and Secondary Education Act of 1965
+               24                     (20 U.S.C. 7801).
+               25                              (ix) An email service.
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                      5
+                1                              (x) A wireless messaging service, in-
+                2                     cluding such a service provided through
+                3                     short message service or multimedia mes-
+                4                     saging protocols, that is not a component
+                5                     of, or linked to, a social media platform
+                6                     and where the predominant or exclusive
+                7                     function of the messaging service is direct
+                8                     messaging consisting of the transmission of
+                9                     text, photos, or videos that are sent by
+               10                     electronic means, where messages are
+               11                     transmitted from the sender to the recipi-
+               12                     ent and are not posted publicly or within
+               13                     a social media platform.
+               14                              (xi) A broadband internet access serv-
+               15                     ice (as such term is defined for purposes of
+               16                     section 8.1(b) of title 47, Code of Federal
+               17                     Regulations, or any successor regulation).
+               18                              (xii) A virtual private network or simi-
+               19                     lar service that exists solely to route inter-
+               20                     net traffic between locations.
+               21                (7) TEEN.—The term ‘‘teen’’ means an indi-
+               22          vidual over the age of 12 and under the age of 17.
+               23                (8) USER.—The term ‘‘user’’ means, with re-
+               24          spect to a social media platform, an individual who
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                 6
+                1          registers an account or creates a profile on the social
+                2          media platform.
+                3    SEC. 703. NO CHILDREN UNDER 13.
+
+                4          (a) NO ACCOUNTS FOR CHILDREN UNDER 13.—A
+                5 social media platform shall not permit an individual to cre-
+                6 ate or maintain an account or profile if it knows that the
+                7 individual is a child.
+                8          (b) TERMINATION OF EXISTING ACCOUNTS BELONG-
+                9    ING TO CHILDREN.—A social media platform shall termi-
+
+               10 nate any existing account or profile of a user who the so-
+               11 cial media platform knows is a child.
+               12          (c) DELETION OF CHILDREN’S PERSONAL DATA.—
+               13                (1) IN GENERAL.—Subject to paragraph (2),
+               14          upon termination of an existing account or profile of
+               15          a user pursuant to subsection (b), a social media
+               16          platform shall immediately delete all personal data
+               17          collected from the user or submitted by the user to
+               18          the social media platform.
+               19                (2) CHILDREN’S ACCESS TO PERSONAL DATA.—
+               20          To the extent technically feasible and not in viola-
+               21          tion of any licensing agreement, a social media plat-
+               22          form shall allow the user of an existing account or
+               23          profile that the social media platform has terminated
+               24          under subsection (b), from the date such termination
+               25          occurs to the date that is 90 days after such date,
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                    7
+                1          to request, and shall provide to such user upon such
+                2          request, a copy of the personal data collected from
+                3          the user or submitted by the user to the social media
+                4          platform both—
+                5                     (A) in a manner that is readable and
+                6                which a reasonable person can understand; and
+                7                     (B) in a portable, structured, and machine-
+                8                readable format.
+                9          (d) RULE       OF   CONSTRUCTION.—Nothing in sub-
+               10 section (c) shall be construed to prohibit a social media
+               11 platform from retaining a record of the termination of an
+               12 account or profile and the minimum information necessary
+               13 for the purposes of ensuring compliance with this section.
+               14    SEC. 704. PROHIBITION ON THE USE OF PERSONALIZED
+
+               15                   RECOMMENDATION SYSTEMS ON CHILDREN
+
+               16                   OR TEENS.
+
+               17          (a) IN GENERAL.—
+               18                (1) PROHIBITION ON USE OF PERSONALIZED
+               19          RECOMMENDATION         SYSTEMS    ON    CHILDREN   OR
+
+               20          TEENS.—Except as provided in paragraph (2), a so-
+
+               21          cial media platform shall not use the personal data
+               22          of a user or visitor in a personalized recommenda-
+               23          tion system to display content if the platform knows
+               24          that the user or visitor is a child or teen.
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                    8
+                1                (2) EXCEPTION.—A social media platform may
+                2          use a personalized recommendation system to dis-
+                3          play content to a child or teen if the system only
+                4          uses the following personal data of the child or teen:
+                5                        (A) The type of device used by the child or
+                6                teen.
+                7                        (B) The languages used by the child or
+                8                teen to communicate.
+                9                        (C) The city or town in which the child or
+               10                teen is located.
+               11                        (D) The fact that the individual is a child
+               12                or teen.
+               13                        (E) The age of the child or teen.
+               14          (b) RULE OF CONSTRUCTION.—The prohibition in
+               15 subsection (a) shall not be construed to—
+               16                (1) prevent a social media platform from pro-
+               17          viding search results to a child or teen deliberately
+               18          or independently searching for (such as by typing a
+               19          phrase into a search bar or providing spoken input),
+               20          or specifically requesting, content, so long as such
+               21          results are not based on the personal data of the
+               22          child or teen (except to the extent permitted under
+               23          subsection (a)(2));
+               24                (2) prevent a social media platform from taking
+               25          reasonable measures to—
+
+
+g:\VHLD\030426\D030426.022.xml    (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                  9
+                1                     (A) block, detect, or prevent the distribu-
+                2                tion of unlawful or obscene material;
+                3                     (B) block or filter spam, or protect the se-
+                4                curity of a platform or service; or
+                5                     (C) prevent criminal activity; or
+                6                (3) prohibit a social media platform from dis-
+                7          playing user-generated content that has been se-
+                8          lected, followed, or subscribed to by a teen account
+                9          holder as long as the display of the content is based
+               10          on a chronological format.
+               11    SEC. 705. DETERMINATION OF WHETHER AN OPERATOR
+
+               12                   HAS KNOWLEDGE FAIRLY IMPLIED ON THE
+
+               13                   BASIS OF OBJECTIVE CIRCUMSTANCES THAT
+
+               14                   AN INDIVIDUAL IS A CHILD OR TEEN.
+
+               15          (a) RULES OF CONSTRUCTION.—For purposes of en-
+               16 forcing this title, in making a determination as to whether
+               17 a social media platform has knowledge fairly implied on
+               18 the basis of objective circumstances that a user is a child
+               19 or teen, the Commission or the attorney general of a State,
+               20 as applicable, shall rely on competent and reliable evi-
+               21 dence, taking into account the totality of circumstances,
+               22 including whether a reasonable and prudent person under
+               23 the circumstances would have known that the user is a
+               24 child or teen.
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                 10
+                1          (b) PROTECTIONS FOR PRIVACY.—Nothing in this
+                2 title, including a determination described in subsection
+                3 (a), shall be construed to require a social media platform
+                4 to—
+                5                (1) implement an age gating or age verification
+                6          functionality; or
+                7                (2) affirmatively collect any personal data with
+                8          respect to the age of users that the social media
+                9          platform is not already collecting in the normal
+               10          course of business.
+               11          (c) RESTRICTION ON USE AND RETENTION OF PER-
+               12    SONAL DATA.—If a social media platform or a third party
+
+               13 acting on behalf of a social media platform voluntarily col-
+               14 lects personal data for the purpose of complying with this
+               15 title, the social media platform or a third party shall not—
+               16                (1) use any personal data collected specifically
+               17          for a purpose other than for sole compliance with
+               18          the obligations under this title; or
+               19                (2) retain any personal data collected from a
+               20          user for longer than is necessary to comply with the
+               21          obligations under this title or than is minimally nec-
+               22          essary to demonstrate compliance with this title.
+               23    SEC. 706. ENFORCEMENT.
+
+               24          (a) ENFORCEMENT BY COMMISSION.—
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                 11
+                1                (1) UNFAIR OR DECEPTIVE ACTS OR PRAC-
+                2          TICES.—A violation of this title shall be treated as
+
+                3          a violation of a rule defining an unfair or deceptive
+                4          act or practice prescribed under section 18(a)(1)(B)
+                5          of the Federal Trade Commission Act (15 U.S.C.
+                6          57a(a)(1)(B)).
+                7                (2) POWERS OF COMMISSION.—
+                8                     (A) IN GENERAL.—The Commission shall
+                9                enforce this title in the same manner, by the
+               10                same means, and with the same jurisdiction,
+               11                powers, and duties as though all applicable
+               12                terms and provisions of the Federal Trade
+               13                Commission Act (15 U.S.C. 41 et seq.) were in-
+               14                corporated into and made a part of this title.
+               15                     (B) PRIVILEGES AND IMMUNITIES.—Any
+               16                person who violates this title shall be subject to
+               17                the penalties and entitled to the privileges and
+               18                immunities provided in the Federal Trade Com-
+               19                mission Act (15 U.S.C. 41 et seq.).
+               20                (3) AUTHORITY PRESERVED.—Nothing in this
+               21          title shall be construed to limit the authority of the
+               22          Commission under any other provision of law.
+               23          (b) ENFORCEMENT BY STATES.—
+               24                (1) AUTHORIZATION.—Subject to paragraph
+               25          (3), in any case in which the attorney general of a
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                    12
+                1          State has reason to believe that an interest of the
+                2          residents of the State has been or is threatened or
+                3          adversely affected by the engagement of a social
+                4          media platform in a practice that violates this title,
+                5          the attorney general of the State may, as parens
+                6          patriae, bring a civil action against the social media
+                7          platform on behalf of the residents of the State in
+                8          an appropriate district court of the United States
+                9          to—
+               10                     (A) enjoin that practice;
+               11                     (B) enforce compliance with this title;
+               12                     (C) on behalf of residents of the States,
+               13                obtain damages, restitution, or other compensa-
+               14                tion, each of which shall be distributed in ac-
+               15                cordance with State law; or
+               16                     (D) obtain such other relief as the court
+               17                may consider to be appropriate.
+               18                (2) RIGHTS        OF    FEDERAL   TRADE   COMMIS-
+
+               19          SION.—
+
+               20                     (A) NOTICE TO FEDERAL TRADE COMMIS-
+               21                SION.—
+
+               22                              (i) IN GENERAL.—The attorney gen-
+               23                     eral of a State shall notify the Commission
+               24                     in writing that the attorney general in-
+               25                     tends to bring a civil action under para-
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                      13
+                1                      graph (1) before the filing of the civil ac-
+                2                      tion.
+                3                               (ii) CONTENTS.—The notification re-
+                4                      quired under clause (i) with respect to a
+                5                      civil action shall include a copy of the com-
+                6                      plaint to be filed to initiate the civil action.
+                7                               (iii) Clause (i) shall not apply with re-
+                8                      spect to the filing of an action by an attor-
+                9                      ney general of a State under this para-
+               10                      graph if the attorney general of the State
+               11                      determines that it not feasible to provide
+               12                      the notice required in that clause before
+               13                      filing the action.
+               14                      (B) INTERVENTION BY FEDERAL TRADE
+               15                COMMISSION.—Upon             receiving   notice   under
+               16                subparagraph (A)(i), the Commission shall have
+               17                the right to intervene in the action that is the
+               18                subject of the notice.
+               19                (3) EFFECT OF INTERVENTION.—If the Com-
+               20          mission intervenes in an action under paragraph (1),
+               21          it shall have the right—
+               22                      (A) to be heard with respect to any matter
+               23                that arises in that action; and
+               24                      (B) file a petition for appeal.
+
+
+
+
+g:\VHLD\030426\D030426.022.xml    (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                    14
+                1                (4) INVESTIGATORY POWERS.—Nothing in this
+                2          subsection may be construed to prevent the attorney
+                3          general of a State from exercising the powers con-
+                4          ferred on the attorney general by the laws of the
+                5          State to—
+                6                     (A) conduct investigations;
+                7                     (B) administer oaths or affirmations; or
+                8                     (C) compel the attendance of witnesses or
+                9                the production of documentary or other evi-
+               10                dence.
+               11                (5) PREEMPTIVE ACTION BY FEDERAL TRADE
+               12          COMMISSION.—In any case in which an action is in-
+
+               13          stituted by or on behalf of the Commission for a vio-
+               14          lation of this Act, no State may , during the pend-
+               15          ency of that action, institute a separate civil action
+               16          under paragraph (1) against any defendant named
+               17          in the complaint in the action instituted by or on be-
+               18          half of the Commission for that violation.
+               19                (6) VENUE; SERVICE OF PROCESS.—
+               20                     (A) VENUE.—Any action brought under
+               21                paragraph (1) may be brought in—
+               22                              (i) the district court of the United
+               23                     States that meets applicable requirements
+               24                     relating to venue under section 1391 of
+               25                     title 28, United States Code; or
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                     15
+                1                              (ii) another court of competent juris-
+                2                     diction.
+                3                     (B) SERVICE OF PROCESS.—In an action
+                4                brought under paragraph (1), process may be
+                5                served in any district in which the defendant—
+                6                              (i) is an inhabitant; or
+                7                              (ii) may be found.
+                8    SEC. 707. RELATIONSHIP TO OTHER LAWS.
+
+                9          The provisions of this title shall preempt any State
+               10 law, rule, or regulation only to the extent that such State
+               11 law, rule, or regulation conflicts with a provision of this
+               12 title. Nothing in this title shall be construed to prohibit
+               13 a State from enacting a law, rule, or regulation that pro-
+               14 vides greater protection to children or teens than the pro-
+               15 tection provided by the provisions of this title. Nothing
+               16 in this title shall be construed to—
+               17                (1) affect the application of—
+               18                     (A) section 444 of the General Education
+               19                Provisions Act (20 U.S.C. 1232g, commonly
+               20                known as the ‘‘Family Educational Rights and
+               21                Privacy Act of 1974’’) or other Federal or State
+               22                laws governing student privacy; or
+               23                     (B) the Children’s Online Privacy Protec-
+               24                tion Act of 1998 (15 U.S.C. 6501 et seq.) or
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                 16
+                1                 any rule or regulation promulgated under such
+                2                 Act; or
+                3                 (2) authorize any action that would conflict
+                4          with section 18(h) of the Federal Trade Commission
+                5          Act (15 U.S.C. 57a(h)).
+                6    SEC. 708. EFFECTIVE DATE.
+
+                7          This title shall take effect 1 year after the date of
+                8 enactment of this Act.
+                9                TITLE VIII—EYES ON THE
+               10                   BOARD ACT OF 2026
+               11    SEC. 801. SHORT TITLE.
+
+               12          This title may be cited as the ‘‘Eyes on the Board
+               13 Act of 2026’’.
+               14    SEC. 802. UPDATING THE CHILDREN’S INTERNET PROTEC-
+
+               15                    TION ACT TO INCLUDE SOCIAL MEDIA PLAT-
+
+               16                    FORMS.
+
+               17          (a) IN GENERAL.—Section 1721 of the Children’s
+               18 Internet Protection Act (title XVII of Public Law 106–
+               19 554) is amended—
+               20                 (1) by redesignating subsections (f) through (h)
+               21          as subsections (g) through (i), respectively; and
+               22                 (2) by inserting after subsection (e) the fol-
+               23          lowing:
+
+
+
+
+g:\VHLD\030426\D030426.022.xml    (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                     17
+                1          ‘‘(f) LIMITATION ON USE OF SCHOOL BROADBAND
+                2 SUBSIDIES         FOR        ACCESS     TO    SOCIAL MEDIA PLAT-
+                3    FORMS.—
+
+                4                ‘‘(1) DEFINITIONS.—In this subsection:
+                5                     ‘‘(A) COMMISSION.—The term ‘Commis-
+                6                sion’ means the Federal Communications Com-
+                7                mission.
+                8                     ‘‘(B) SECTION 254(H).—The term ‘section
+                9                254(h)’ means section 254(h) of the Commu-
+               10                nications Act of 1934 (47 U.S.C. 254(h)).
+               11                     ‘‘(C)      SOCIAL        MEDIA   PLATFORM.—The
+
+               12                term ‘social media platform’—
+               13                              ‘‘(i) means any website, online service,
+               14                     online application, or mobile application
+               15                     that—
+               16                                  ‘‘(I) serves the public; and
+               17                                  ‘‘(II) primarily provides a forum
+               18                              for users to communicate user-gen-
+               19                              erated content, including messages,
+               20                              videos, images, and audio files, to
+               21                              other online users; and
+               22                              ‘‘(ii) does not include—
+               23                                  ‘‘(I) an internet service provider;
+               24                                  ‘‘(II) electronic mail;
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                     18
+                1                                  ‘‘(III) an online service, applica-
+                2                              tion, or website—
+                3                                         ‘‘(aa) that consists primarily
+                4                                  of content that is not user-gen-
+                5                                  erated, but is preselected by the
+                6                                  provider; and
+                7                                         ‘‘(bb) for which any chat,
+                8                                  comment,          or      interactive
+                9                                  functionality is incidental to, di-
+               10                                  rectly related to, or dependent on
+               11                                  the provision of content described
+               12                                  in item (aa);
+               13                                  ‘‘(IV) an online service, applica-
+               14                              tion, or website—
+               15                                         ‘‘(aa) that is non-commercial
+               16                                  and primarily designed for edu-
+               17                                  cational purposes; and
+               18                                         ‘‘(bb) the revenue of which
+               19                                  is not primarily derived from ad-
+               20                                  vertising or the sale of personal
+               21                                  data;
+               22                                  ‘‘(V) a wireless messaging serv-
+               23                              ice, including such a service provided
+               24                              through a short messaging service or
+               25                              multimedia service protocols—
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                      19
+                1                                          ‘‘(aa) that is not a compo-
+                2                                   nent of, or linked to, a website,
+                3                                   online service, online application,
+                4                                   or mobile application described in
+                5                                   clause (i); and
+                6                                          ‘‘(bb) the predominant or
+                7                                   exclusive function of which is di-
+                8                                   rect messaging consisting of the
+                9                                   transmission of text, photos, or
+               10                                   videos that—
+               11                                                 ‘‘(AA) are sent by elec-
+               12                                          tronic means from the send-
+               13                                          er to a recipient; and
+               14                                                 ‘‘(BB) are not posted
+               15                                          publicly or on a website, on-
+               16                                          line service, online applica-
+               17                                          tion, or mobile application
+               18                                          described in clause (i);
+               19                                   ‘‘(VI) a teleconferencing or video
+               20                              conferencing service that allows for
+               21                              the reception and transmission of
+               22                              audio or video signals for real-time
+               23                              communication that is initiated by
+               24                              using a unique link or identifier to fa-
+               25                              cilitate access;
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                         20
+                1                                   ‘‘(VII) a product or service that
+                2                              primarily functions as business-to-
+                3                              business software or a cloud storage,
+                4                              file sharing, or file collaboration serv-
+                5                              ice; or
+                6                                   ‘‘(VIII) an organization that is
+                7                              not organized to carry on business for
+                8                              the profit of the organization or of the
+                9                              members of the organization.
+               10                     ‘‘(D) TECHNOLOGY           PROTECTION      MEAS-
+
+               11                URE.—The         term ‘technology protection meas-
+               12                ure’ means a specific technology that blocks or
+               13                filters access to a social media platform.
+               14                ‘‘(2) REQUIREMENTS WITH RESPECT TO SOCIAL
+               15          MEDIA PLATFORMS.—
+
+               16                     ‘‘(A) IN GENERAL.—
+               17                              ‘‘(i) CERTIFICATION REQUIRED.—An
+               18                     elementary or secondary school that is sub-
+               19                     ject to paragraph (5) of section 254(h)
+               20                     may not receive services at discount rates
+               21                     under section 254(h) unless the school,
+               22                     school board, local educational agency, or
+               23                     other authority with responsibility for ad-
+               24                     ministration of the school—
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                         21
+                1                                       ‘‘(I) submits to the Commission
+                2                              the certification described in subpara-
+                3                              graph (B); and
+                4                                       ‘‘(II) ensures that the use of the
+                5                              school’s supported services, devices,
+                6                              and networks is in accordance with
+                7                              the certification described in subclause
+                8                              (I).
+                9                              ‘‘(ii)     RULE    OF    CONSTRUCTION.—
+
+               10                     Nothing in clause (i) may be construed to
+               11                     prohibit—
+               12                                       ‘‘(I) district-sanctioned or school-
+               13                              sanctioned learning management sys-
+               14                              tems and school information systems
+               15                              used for purposes of schools conveying
+               16                              content related to the education of
+               17                              students; or
+               18                                       ‘‘(II) a teacher from using a so-
+               19                              cial media platform for educational in-
+               20                              struction.
+               21                     ‘‘(B) CERTIFICATION WITH RESPECT TO
+               22                STUDENTS AND SOCIAL MEDIA.—
+
+               23                              ‘‘(i) IN       GENERAL.—A       certification
+               24                     under this subparagraph is a certification
+               25                     that the applicable school, school board,
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                     22
+                1                     local educational agency, or other authority
+                2                     with responsibility for administration of
+                3                     the school—
+                4                                  ‘‘(I) is enforcing a policy of pre-
+                5                              venting students of the school from
+                6                              accessing social media platforms on
+                7                              any supported service, device, or net-
+                8                              work that includes—
+                9                                         ‘‘(aa) monitoring the online
+               10                                  activities of any such service, de-
+               11                                  vice, or network to determine if
+               12                                  those students are accessing so-
+               13                                  cial media platforms; and
+               14                                         ‘‘(bb) the operation of a
+               15                                  technology    protection    measure
+               16                                  with respect to those services, de-
+               17                                  vices, and networks that protects
+               18                                  against access by those students
+               19                                  to a social media platform; and
+               20                                  ‘‘(II) is enforcing the operation
+               21                              of the technology protection measure
+               22                              described in subclause (I) during any
+               23                              use of supported services, devices, or
+               24                              networks by students of the school.
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                         23
+                1                              ‘‘(ii)     RULE    OF    CONSTRUCTION.—
+
+                2                     Nothing in this subparagraph may be con-
+                3                     strued to require the applicable school,
+                4                     school board, local educational agency, or
+                5                     other authority to track an individual
+                6                     website, online application, or mobile appli-
+                7                     cation that a student is attempting to ac-
+                8                     cess (or any search terms used by, or the
+                9                     browsing history of a student) beyond the
+               10                     identity of the website or application and
+               11                     whether access to the website or applica-
+               12                     tion is blocked by a technology protection
+               13                     measure because the website or application
+               14                     is a social media platform.
+               15                     ‘‘(C) TIMING OF IMPLEMENTATION.—
+               16                              ‘‘(i) IN GENERAL.—In the case of a
+               17                     school to which this paragraph applies, the
+               18                     certification under this paragraph shall be
+               19                     made—
+               20                                       ‘‘(I) with respect to the first pro-
+               21                              gram funding year under section
+               22                              254(h) after the date of enactment of
+               23                              the Eyes on the Board Act of 2026,
+               24                              not later than 120 days after the be-
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                      24
+                1                              ginning of that program funding year;
+                2                              and
+                3                                    ‘‘(II) with respect to any subse-
+                4                              quent funding year, as part of the ap-
+                5                              plication process for that program
+                6                              funding year.
+                7                              ‘‘(ii) PROCESS.—
+                8                                    ‘‘(I) SCHOOLS WITH MEASURES
+                9                              IN    PLACE.—A     school   covered   by
+               10                              clause (i) that has in place measures
+               11                              meeting the requirements necessary
+               12                              for certification under this paragraph
+               13                              shall certify its compliance with this
+               14                              paragraph during each annual pro-
+               15                              gram application cycle under section
+               16                              254(h), except that, with respect to
+               17                              the first program funding year after
+               18                              the date of enactment of the Eyes on
+               19                              the Board Act of 2026, the certifi-
+               20                              cation shall be made not later than
+               21                              120 days after the beginning of that
+               22                              first program funding year.
+               23                                    ‘‘(II) SCHOOLS WITHOUT MEAS-
+               24                              URES IN PLACE.—
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                25
+                1                                    ‘‘(aa) FIRST     2     PROGRAM
+
+                2                              YEARS.—A       school covered by
+                3                              clause (i) that does not have in
+                4                              place measures meeting the re-
+                5                              quirements for certification under
+                6                              this paragraph—
+                7                                          ‘‘(AA) for the first pro-
+                8                                    gram year after the date of
+                9                                    enactment of the Eyes on
+               10                                    the Board Act of 2026 in
+               11                                    which the school is applying
+               12                                    for   funds    under    section
+               13                                    254(h), shall certify that the
+               14                                    school is undertaking such
+               15                                    actions, including any nec-
+               16                                    essary procurement proce-
+               17                                    dures, to put in place meas-
+               18                                    ures meeting the require-
+               19                                    ments for certification under
+               20                                    this paragraph; and
+               21                                          ‘‘(BB) for the second
+               22                                    program year after the date
+               23                                    of enactment of the Eyes on
+               24                                    the Board Act of 2026 in
+               25                                    which the school is applying
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                     26
+                1                                         for      funds   under   section
+                2                                         254(h), shall certify that the
+                3                                         school is in compliance with
+                4                                         this paragraph.
+                5                                         ‘‘(bb)     SUBSEQUENT      PRO-
+
+                6                                  GRAM YEARS.—Any school that is
+
+                7                                  unable to certify compliance with
+                8                                  such requirements in such second
+                9                                  program year shall be ineligible
+               10                                  for services at discount rates or
+               11                                  funding in lieu of services at such
+               12                                  rates under section 254(h) for
+               13                                  such second year and all subse-
+               14                                  quent program years under sec-
+               15                                  tion 254(h), until such time as
+               16                                  such school comes into compli-
+               17                                  ance with this paragraph.
+               18                                  ‘‘(III)      WAIVERS.—Any       school
+               19                              subject to subclause (II) that cannot
+               20                              come into compliance with subpara-
+               21                              graph (B) in such second program
+               22                              year may seek a waiver of subclause
+               23                              (II)(aa)(BB) if State or local procure-
+               24                              ment rules or regulations or competi-
+               25                              tive bidding requirements prevent the
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                     27
+                1                              making of the certification otherwise
+                2                              required by such subclause. A school,
+                3                              school board, local educational agency,
+                4                              or other authority with responsibility
+                5                              for administration of the school shall
+                6                              notify the Commission of the applica-
+                7                              bility of such subclause to the school.
+                8                              Such notice shall certify that the
+                9                              school in question will be brought into
+               10                              compliance before the start of the
+               11                              third program year after the date of
+               12                              enactment of the Eyes on the Board
+               13                              Act of 2026 in which the school is ap-
+               14                              plying for funds under section 254(h).
+               15                     ‘‘(D) NONCOMPLIANCE.—
+               16                              ‘‘(i) FAILURE   TO SUBMIT CERTIFI-
+
+               17                     CATION.—Any school that knowingly fails
+
+               18                     to comply with the application guidelines
+               19                     regarding the annual submission of a cer-
+               20                     tification required by this paragraph shall
+               21                     not be eligible for services at discount rates
+               22                     or funding in lieu of services at such rates
+               23                     under section 254(h).
+               24                              ‘‘(ii) FAILURE TO COMPLY WITH CER-
+               25                     TIFICATION.—Any          school that knowingly
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                     28
+                1                     fails to ensure the use of its supported
+                2                     services, devices, and networks is in ac-
+                3                     cordance with a certification under sub-
+                4                     paragraph (B) shall reimburse any funds
+                5                     and       discounts      received    under   section
+                6                     254(h) for the period covered by such cer-
+                7                     tification.
+                8                              ‘‘(iii) REMEDY OF NONCOMPLIANCE.—
+                9                                   ‘‘(I) FAILURE         TO   SUBMIT.—A
+
+               10                              school that has failed to submit a cer-
+               11                              tification under clause (i) may remedy
+               12                              the failure by submitting the certifi-
+               13                              cation to which the failure relates.
+               14                              Upon submittal of such certification,
+               15                              the school shall be eligible for services
+               16                              at   discount     rates     under   section
+               17                              254(h).
+               18                                   ‘‘(II) FAILURE TO COMPLY.—A
+               19                              school that has failed to comply with
+               20                              a certification as described in clause
+               21                              (ii) may remedy the failure by ensur-
+               22                              ing that the use of its supported serv-
+               23                              ices, devices, and networks is in ac-
+               24                              cordance with such certification. Upon
+               25                              submittal to the Commission of a cer-
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                      29
+                1                              tification or other appropriate evi-
+                2                              dence of such remedy, the school shall
+                3                              be eligible for services at discount
+                4                              rates under section 254(h).
+                5                     ‘‘(E) RULE OF CONSTRUCTION.—Nothing
+                6                in this paragraph may be construed to consider
+                7                a school, school board, local educational agency,
+                8                or other authority with responsibility for the ad-
+                9                ministration of a school in violation of this
+               10                paragraph, or subject to a delay in the proc-
+               11                essing of funding applications or requests for
+               12                reimbursement, if that school, school board,
+               13                local educational agency, or other authority
+               14                makes a good faith effort to comply with this
+               15                paragraph and to correct a known violation of
+               16                this paragraph within a reasonable period of
+               17                time.
+               18                ‘‘(3) ENFORCEMENT.—
+               19                     ‘‘(A)      IN    GENERAL.—The      Commission
+               20                shall—
+               21                              ‘‘(i) not later than 120 days after the
+               22                     date of enactment of the Eyes on the
+               23                     Board Act of 2026, amend the rules of the
+               24                     Commission to carry out this subsection;
+               25                     and
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                     30
+                1                              ‘‘(ii) subject to subparagraph (B), en-
+                2                     force this subsection, and any rules issued
+                3                     under this subsection, as if this subsection
+                4                     and those rules were part of the Commu-
+                5                     nications Act of 1934 (47 U.S.C. 151 et
+                6                     seq.) or the rules issued under that Act.
+                7                     ‘‘(B) LIMITATIONS.—
+                8                              ‘‘(i) NONCOMPLIANCE DESPITE GOOD
+                9                     FAITH EFFORTS.—The           Commission may
+               10                     not seek recovery of funding provided
+               11                     under section 254(h), or delay the proc-
+               12                     essing of a funding application, because of
+               13                     the violation by a school, school board,
+               14                     local educational agency, or other authority
+               15                     with responsibility for administration of
+               16                     the school of any requirement of this sub-
+               17                     section, or any rule issued under this sub-
+               18                     section, if the school, school board, local
+               19                     educational agency, or other authority with
+               20                     responsibility for administration of the
+               21                     school made a good faith effort to comply
+               22                     with that requirement and correct any
+               23                     known violations of that requirement with-
+               24                     in a reasonable period of time.
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                        31
+                1                              ‘‘(ii)    NONCOMPLIANCE    WITHOUT
+
+                2                     GOOD FAITH EFFORTS.—With           respect to
+                3                     any violation of a requirement of this sub-
+                4                     section, or any rule issued under this sub-
+                5                     section, in which a school, school board,
+                6                     local educational agency, or other authority
+                7                     with responsibility for administration of
+                8                     the school does not make a good faith ef-
+                9                     fort to comply with that requirement, or
+               10                     does not correct any known violation of
+               11                     that requirement within a reasonable pe-
+               12                     riod of time, the Commission shall seek re-
+               13                     covery of the funding provided to the
+               14                     school under section 254(h) for such pe-
+               15                     riod consistent with the remedy established
+               16                     under paragraph (2)(D)(iii).
+               17                ‘‘(4) EXEMPTION FOR CERTAIN LIBRARIES.—
+               18          Nothing in this subsection may be construed to re-
+               19          quire a library (as defined in section 213 of the Mu-
+               20          seum and Library Services Act (20 U.S.C. 9122)),
+               21          except a library of an elementary or secondary
+               22          school, to comply with the requirements of this sub-
+               23          section or any rule issued under this subsection.’’.
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                      32
+                1          (b) TECHNICAL AND CONFORMING AMENDMENTS.—
+                2 Section 254(h) of the Communications Act of 1934 (47
+                3 U.S.C. 254(h)) is amended—
+                4                (1) in paragraph (5)(E)—
+                5                      (A) in clause (i), in the matter preceding
+                6                subclause (I), by striking ‘‘1721(h)’’ and insert-
+                7                ing ‘‘1721(i)’’; and
+                8                      (B) in clause (ii)(I), by striking ‘‘1721(h)’’
+                9                and inserting ‘‘1721(i)’’; and
+               10                (2) in paragraph (6)(E)—
+               11                      (A) in clause (i), in the matter preceding
+               12                subclause (I), by striking ‘‘1721(h)’’ and insert-
+               13                ing ‘‘1721(i)’’; and
+               14                      (B) in clause (ii)(I), by striking ‘‘1721(h)’’
+               15                and inserting ‘‘1721(i)’’.
+               16    SEC. 803. INTERNET SAFETY POLICIES.
+
+               17          Section 254 of the Communications Act of 1934 (47
+               18 U.S.C. 254) is amended—
+               19                (1) in subsection (h)(5)—
+               20                      (A) in subparagraph (A)(i)—
+               21                               (i) in subclause (I), by inserting ‘‘and
+               22                      copies of the Internet safety policy to
+               23                      which each such certification pertains’’ be-
+               24                      fore the semicolon at the end; and
+               25                               (ii) in subclause (II)—
+
+
+g:\VHLD\030426\D030426.022.xml    (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                     33
+                1                                  (I) by striking ‘‘Commission’’
+                2                              and all that follows through the end
+                3                              of the subclause and inserting the fol-
+                4                              lowing: ‘‘Commission—
+                5                                         ‘‘(aa) a certification that an
+                6                                  Internet safety policy described
+                7                                  in subclause (I) have been adopt-
+                8                                  ed and implemented for the
+                9                                  school; and’’; and
+               10                                  (II) by adding at the end the fol-
+               11                              lowing:
+               12                                         ‘‘(bb) copies of the Internet
+               13                                  safety policy described in item
+               14                                  (aa); and’’; and
+               15                     (B) by adding at the end the following:
+               16                     ‘‘(G) DATABASE          OF   INTERNET     SAFETY
+
+               17                POLICIES.—The Commission shall establish an
+
+               18                easily accessible, public database that contains
+               19                each Internet safety policy submitted to the
+               20                Commission under subclauses (I) and (II) of
+               21                subparagraph (A)(i).’’; and
+               22                (2) in subsection (l), by striking paragraph (3)
+               23          and inserting the following:
+               24                ‘‘(3) AVAILABILITY FOR REVIEW.—A copy of
+               25          each Internet safety policy adopted by a library
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+G:\M\19\SCHRWA\SCHRWA_023.XML
+
+                                                34
+                1          under this subsection shall be made available to the
+                2          Commission, upon request of the Commission, by the
+                3          library for purposes of the review of the Internet
+                4          safety policy by the Commission.’’.
+                                               ◊
+
+
+
+
+g:\VHLD\030426\D030426.022.xml   (1049181|1)
+March 4, 2026 (3:03 p.m.)
+

@@ -1,0 +1,13 @@
+VERIFIED 200 20261018182524 match="Holding Point" https://web.archive.org/web/20261018182524/https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-14-million-chemung-county-sewer-improvements
+VERIFIED 200 20261018182635 match="Sewer Improvement for Economic Growth" https://web.archive.org/web/20261018182635/https://www.schumer.senate.gov/newsroom/press-releases/schumer-delivers-14-million-to-improve-wastewater-infrastructure-in-chemung-county
+UNVERIFIED 404 20261018000000 no-match https://web.archive.org/web/20261018000000/https://www.fingerlakes1.com/2026/10/15/chemung-county-sewer-upgrades-receive-1-4-million-federal-grant/
+UNVERIFIED 200 20261018182800 no-match https://web.archive.org/web/20261018182800/https://www.stcplanning.org/grant-funding/appalachian-regional-commission/
+VERIFIED 200 20261018182820 match="PDF" https://web.archive.org/web/20261018182820/https://www.stcplanning.org/wp-content/uploads/2026/05/FY_2027-Presentation.pdf
+VERIFIED 200 20261018182835 match="Southern Tier Central" https://web.archive.org/web/20261018182835/https://www.arc.gov/appalachian-states/new-york/
+UNVERIFIED 404 20261018000000 no-match https://web.archive.org/web/20261018000000/https://www.arc.gov/area-development/
+VERIFIED 200 20261018183004 match="Fiscal-Year-2024" https://web.archive.org/web/20261018183004/https://www.arc.gov/approved-arc-projects/
+VERIFIED 200 20261018183129 match="Proposed Recipient" https://web.archive.org/web/20261018183129/https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy26
+VERIFIED 200 20261018183253 match="Proposed Recipient" https://web.archive.org/web/20261018183253/https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy27
+VERIFIED 200 20261018183404 match="Proposed Recipient" https://web.archive.org/web/20261018183404/https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy25
+VERIFIED 200 20261018183538 match="Canal Connector" https://web.archive.org/web/20261018183538/https://langworthy.house.gov/media/press-releases/congressman-nick-langworthy-announces-federal-arc-grant-chemung-county-canal
+VERIFIED 200 20261018183717 match="eminent domain" https://web.archive.org/web/20261018183717/https://en.wikipedia.org/wiki/Holding_Point

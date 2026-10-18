@@ -1,0 +1,2616 @@
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+
+
+
+                     AMENDMENT IN THE NATURE OF A SUBSTITUTE
+                                                  TO H.R. 7757
+
+                         OFFERED BY MR. GUTHRIE OF KENTUCKY
+
+                         Strike all after the enacting clause and insert the
+                  following:
+
+                 1   SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+                 2          (a) SHORT TITLE.—This Act may be cited as the
+                 3 ‘‘Kids Internet and Digital Safety Act’’ or the ‘‘KIDS
+                 4 Act’’.
+                 5          (b) TABLE OF CONTENTS.—The table of contents for
+                 6 this Act is as follows:
+                     Sec. 1. Short title; table of contents.
+                     Sec. 2. Definitions.
+
+                                TITLE I—SHIELDING MINORS FROM OBSCENITY
+
+                     Sec. 101. Short title.
+                     Sec. 102. Definitions.
+                     Sec. 103. Technology verification measures.
+                     Sec. 104. Consultation requirements.
+                     Sec. 105. GAO report.
+                     Sec. 106. Relationship to State laws.
+
+                                           TITLE II—ONLINE PLATFORMS
+
+                     Sec. 201. Covered platform defined.
+
+                                                Subtitle A—Kids Online Safety
+
+                     Sec. 211. Short title.
+                     Sec. 212. Definitions.
+                     Sec. 213. Addressing harms to minors.
+                     Sec. 214. Safeguards for minors and parental tools.
+                     Sec. 215. Reporting mechanism.
+                     Sec. 216. Disclosure.
+                     Sec. 217. Advertising and marketing information and labels.
+                     Sec. 218. Advertising of illegal products to minors.
+                     Sec. 219. Audit; report.
+
+g:\V\G\030326\G030326.041.xml     (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                         2
+                     Sec. 220. Rules of construction.
+                     Sec. 221. Relationship to State laws.
+
+                                          Subtitle B—Safe Messaging for Kids
+
+                     Sec. 231. Short title.
+                     Sec. 232. Definitions.
+                     Sec. 233. Prohibition on ephemeral messaging features for minors.
+                     Sec. 234. Prohibition on direct messaging features for children.
+                     Sec. 235. Parental controls for direct messaging features for teens.
+                     Sec. 236. Rule of construction on encryption.
+                     Sec. 237. Relationship to State law.
+                     Sec. 238. Effective date.
+
+                                       Subtitle C—Stop Profiling Youth and Kids
+
+                     Sec. 241. Short title.
+                     Sec. 242. User defined.
+                     Sec. 243. Market research.
+                     Sec. 244. Relationship to State laws.
+                     Sec. 245. Effective date.
+
+                                     TITLE III—SOCIAL GAMING PLATFORMS
+
+                     Sec. 301. Short title.
+                     Sec. 302. Definitions.
+                     Sec. 303. Safeguards requirements for online video game providers.
+                     Sec. 304. Relationship to State laws.
+
+                                TITLE IV—ARTIFICIAL INTELLIGENCE CHATBOTS
+
+                     Sec. 401. Short title.
+                     Sec. 402. Definitions.
+                     Sec. 403. Certain statements prohibited.
+                     Sec. 404. Disclosure required.
+                     Sec. 405. Policies required.
+                     Sec. 406. Rule of construction.
+                     Sec. 407. Relationship to State laws.
+
+                       TITLE V—RESEARCH, EDUCATION, AND BEST PRACTICES FOR
+                                    PROTECTING MINORS ONLINE
+
+                                                  Subtitle A—Research
+
+                     Sec. 501. Definitions.
+                     Sec. 502. Exemption.
+
+                                           PART 1—SAFE SOCIAL MEDIA ACT
+                     Sec. 511. Short title.
+                     Sec. 512. Report by Commission on social media use by minors.
+
+                                    PART 2—NO FENTANYL ON SOCIAL MEDIA ACT
+
+                     Sec. 513. Short title.
+                     Sec. 514. Report on the ability of minors to access fentanyl through social
+                                     media platforms.
+
+                         PART 3—ASSESSING SAFETY TOOLS FOR PARENTS AND MINORS ACT
+
+g:\V\G\030326\G030326.041.xml     (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                        3
+                     Sec. 515. Short title.
+                     Sec. 516. Industry review and report.
+
+                           PART 4—STUDY ON CHATBOTS AND MENTAL HEALTH OF MINORS
+                     Sec. 517. Study required.
+                     Sec. 518. Consultation.
+                     Sec. 519. Report.
+
+                                                 Subtitle B—Education
+
+                                PART 1—PROMOTING A SAFE INTERNET FOR MINORS ACT
+
+                     Sec. 521. Short title.
+                     Sec. 522. Online safety education for minors.
+
+                       PART 2—AI WARNINGS AND RESOURCES FOR EDUCATION (AWARE) ACT
+
+                     Sec. 523. Short title.
+                     Sec. 524. Safe chatbot use for minors.
+
+                                      Subtitle C—Partnerships and Best Practices
+
+                     Sec. 525. Short title.
+                     Sec. 526. Kids Internet Safety Partnership.
+
+                                         TITLE VI—GENERAL PROVISIONS
+
+                     Sec. 601. Enforcement.
+                     Sec. 602. Judicial review.
+                     Sec. 603. Rules of construction.
+                     Sec. 604. Severability.
+                     Sec. 605. Effective date.
+
+                 1   SEC. 2. DEFINITIONS.
+
+                 2          In this Act:
+                 3                (1) AGENCY.—The term ‘‘agency’’ has the
+                 4          meaning given that term in section 551 of title 5,
+                 5          United States Code.
+                 6                (2) ARTIFICIAL INTELLIGENCE.—The term ‘‘ar-
+                 7          tificial intelligence’’ has the meaning given that term
+                 8          in section 5002 of the National Artificial Intelligence
+                 9          Initiative Act of 2020 (15 U.S.C. 9401).
+               10                 (3) CHATBOT.—The term ‘‘chatbot’’ means an
+               11           artificial intelligence system, marketed to and avail-
+
+g:\V\G\030326\G030326.041.xml     (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                     4
+                 1          able for use by consumers, that engages in inter-
+                 2          active, natural-language communication with a user
+                 3          and generates or selects content in response to user
+                 4          inputs (including text, voice, or other inputs) using
+                 5          a conversational context.
+                 6              (4) COMMISSION.—The term ‘‘Commission’’
+                 7          means the Federal Trade Commission.
+                 8              (5) DESIGN FEATURE.—The term ‘‘design fea-
+                 9          ture’’—
+               10                      (A) means any feature or component of a
+               11               covered platform that encourages an increase in
+               12               or increases the frequency of use or time spent
+               13               by a user who is a minor with respect to such
+               14               covered platform; and
+               15                      (B) includes—
+               16                             (i) infinite scrolling or auto play;
+               17                             (ii) rewards or incentives based on
+               18                      frequency of use or time spent;
+               19                             (iii) notifications and push alerts;
+               20                             (iv) badges or other visual award sym-
+               21                      bols based on frequency of use or time
+               22                      spent;
+               23                             (v) appearance altering filters; and
+               24                             (vi) personalized recommendation sys-
+               25                      tems.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   5
+                 1               (6) FULLY      AUTOMATED SYSTEM.—The         term
+                 2          ‘‘fully automated system’’ means an operation or set
+                 3          of operations performed on data with minimal or no
+                 4          direction, instruction, prompting, oversight, involve-
+                 5          ment, or intervention by an individual.
+                 6               (7) KNOW;       KNOWS.—The       term ‘‘know’’ or
+                 7          ‘‘knows’’ means to have actual knowledge or to have
+                 8          acted in willful disregard.
+                 9               (8) MINOR.—Except as otherwise provided, the
+               10           term ‘‘minor’’ means an individual under the age of
+               11           17 years.
+               12                (9) NARCOTIC       DRUG.—The       term ‘‘narcotic
+               13           drug’’ has the meaning given that term in section
+               14           102 of the Controlled Substances Act (21 U.S.C.
+               15           802).
+               16                (10) PARENT.—The term ‘‘parent’’, with re-
+               17           spect to a minor, means an adult with the legal right
+               18           to make decisions on behalf of the minor, includ-
+               19           ing—
+               20                       (A) a natural parent;
+               21                       (B) an adoptive parent;
+               22                       (C) a legal guardian; and
+               23                       (D) an individual with legal custody over
+               24                the minor.
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                     6
+                 1              (11)      PERSONAL       INFORMATION.—The         term
+                 2          ‘‘personal information’’ has the meaning given that
+                 3          term in section 1302 of the Children’s Online Pri-
+                 4          vacy Protection Act of 1998 (15 U.S.C. 6501).
+                 5              (12) PERSONALIZED          RECOMMENDATION         SYS-
+
+                 6          TEM.—The term ‘‘personalized recommendation sys-
+
+                 7          tem’’—
+                 8                     (A) means a fully automated system used
+                 9              to suggest, promote, or rank content, including
+               10               other users, hashtags, and posts, based on the
+               11               personal information of a user; and
+               12                      (B) does not include a fully automated sys-
+               13               tem that suggests, promotes, or ranks content
+               14               based solely on the language, city or town, or
+               15               age of a user.
+               16               (13) SEXUAL          MATERIAL    HARMFUL     TO    MI-
+
+               17           NORS.—The         term ‘‘sexual material harmful to mi-
+               18           nors’’ means a picture, image, graphic image file,
+               19           film, videotape, or other visual depiction that—
+               20                      (A)(i) taken as a whole and with respect to
+               21               minors, appeals to the prurient interest in nu-
+               22               dity, sex, or excretion;
+               23                             (ii) depicts, describes, or represents,
+               24                      in a patently offensive way with respect to
+               25                      what is suitable for minors, an actual or
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    7
+                 1                     simulated sexual act or sexual contact, ac-
+                 2                     tual or simulated normal or perverted sex-
+                 3                     ual acts, or lewd exhibition of the genitals;
+                 4                     and
+                 5                            (iii) taken as a whole, lacks serious
+                 6                     literary, artistic, political, or scientific
+                 7                     value as to minors; or
+                 8                     (B) is child pornography.
+                 9              (14) STATE.—The term ‘‘State’’ means each
+               10           State of the United States, the District of Columbia,
+               11           each commonwealth, territory, or possession of the
+               12           United States, and each federally recognized Indian
+               13           Tribe.
+               14               (15) VERIFIABLE         PARENTAL CONSENT.—The
+
+               15           term ‘‘verifiable parental consent’’ has the meaning
+               16           given that term in section 1302 of the Children’s
+               17           Online Privacy Protection Act of 1998 (15 U.S.C.
+               18           6501).
+               19         TITLE I—SHIELDING MINORS
+               20              FROM OBSCENITY
+               21    SEC. 101. SHORT TITLE.
+
+               22           This title may be cited as the ‘‘Shielding Children’s
+               23 Retinas from Egregious Exposure on the Net Act’’ or the
+               24 ‘‘SCREEN Act’’.
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    8
+                 1   SEC. 102. DEFINITIONS.
+
+                 2          In this title:
+                 3               (1) CHILD PORNOGRAPHY; MINOR.—The terms
+                 4          ‘‘child pornography’’ and ‘‘minor’’ have the mean-
+                 5          ings given those terms in section 2256 of title 18,
+                 6          United States Code.
+                 7               (2) COVERED PLATFORM.—The term ‘‘covered
+                 8          platform’’ means a website or other online plat-
+                 9          form—
+               10                       (A) that is accessible by the public;
+               11                       (B) with respect to which more than one-
+               12                third of the material made available thereon is
+               13                sexual material harmful to minors; and
+               14                       (C) with respect to which the provider of
+               15                such platform knowingly makes available the
+               16                sexual material harmful to minors described in
+               17                subparagraph (B).
+               18                (3) SEXUAL        ACT;    SEXUAL   CONTACT.—The
+
+               19           terms ‘‘sexual act’’ and ‘‘sexual contact’’ have the
+               20           meanings given those terms in section 2246 of title
+               21           18, United States Code.
+               22                (4) TECHNOLOGY           VERIFICATION MEASURE.—
+
+               23           The term ‘‘technology verification measure’’ means
+               24           technology that employs a system or process to de-
+               25           termine whether it is more likely than not that a
+               26           user of a covered platform is a minor.
+g:\V\G\030326\G030326.041.xml    (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                       9
+                 1                (5)     TECHNOLOGY        VERIFICATION     MEASURE
+
+                 2          DATA.—The           term ‘‘technology verification measure
+                 3          data’’ means data that—
+                 4                       (A) is collected or processed for the pur-
+                 5                pose of fulfilling a request by an individual to
+                 6                access a covered platform or material on a cov-
+                 7                ered platform; and
+                 8                       (B) is collected or processed for the pur-
+                 9                pose of utilizing or providing a technology
+               10                 verification measure pursuant to this title.
+               11    SEC. 103. TECHNOLOGY VERIFICATION MEASURES.
+
+               12           (a) COVERED PLATFORM REQUIREMENTS.—Begin-
+               13 ning on the date that is 1 year after the date of the enact-
+               14 ment of this Act, a provider of a covered platform shall—
+               15                 (1) adopt and utilize commercially available
+               16           technology verification measures, reasonably de-
+               17           signed to ensure accuracy, with respect to the cov-
+               18           ered platform of such provider to identify minors;
+               19           and
+               20                 (2) prevent minors from accessing any sexual
+               21           material harmful to minors on the covered platform.
+               22           (b) ADDITIONAL REQUIREMENTS                FOR   COMPLI-
+               23    ANCE.—In order to comply with subsection (a), a provider
+
+               24 of a covered platform (or a third party contracted by a
+               25 provider of a covered platform with respect to such covered
+
+
+g:\V\G\030326\G030326.041.xml     (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  10
+                 1 platform) shall, with respect to a covered platform of the
+                 2 provider, carry out the following:
+                 3               (1) Use a technology verification measure in
+                 4          order to verify the age of a user.
+                 5               (2) Provide that a user confirming that the user
+                 6          is not a minor is not sufficient to verify age.
+                 7               (3) Provide clear and conspicuous notice con-
+                 8          taining information on the technology verification
+                 9          measures and other policies and procedures related
+               10           to the technology verification measure data used to
+               11           comply with this title.
+               12                (4) Take reasonable measures to address cir-
+               13           cumvention of technology verification measures.
+               14                (5) Not transfer, disclose, or retain any tech-
+               15           nology verification measure data beyond what is
+               16           strictly necessary to use a technology verification
+               17           measure pursuant to this title.
+               18           (c) USE OF THIRD PARTIES.—
+               19                (1) IN GENERAL.—A provider of a covered plat-
+               20           form may contract with a third party to use tech-
+               21           nology verification measures for purposes of com-
+               22           plying with subsection (a).
+               23                (2) OBLIGATIONS; LIABILITY.—A provider of a
+               24           covered platform who contracts with a third party as
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   11
+                 1          described in paragraph (1) is not relieved from any
+                 2          obligation or liability under this title.
+                 3          (d) TECHNOLOGY VERIFICATION MEASURE DATA
+                 4 SECURITY.—A provider of a covered platform (or a third
+                 5 party contracted by a provider of a covered platform with
+                 6 respect to such covered platform) shall establish, imple-
+                 7 ment, and maintain reasonable administrative, technical,
+                 8 and physical data security practices to protect the con-
+                 9 fidentiality, integrity, and availability of technology
+               10 verification measure data collected with respect to the cov-
+               11 ered platform of such provider (including by a third party
+               12 contracted by such covered provider with respect to such
+               13 covered platform).
+               14           (e) RULE OF CONSTRUCTION.—Nothing in this sec-
+               15 tion may be construed to require the submission of govern-
+               16 ment-issued identification of any individual to a covered
+               17 platform or a third party contracted by a provider of a
+               18 covered platform to use a technology verification measure.
+               19    SEC. 104. CONSULTATION REQUIREMENTS.
+
+               20           In carrying out this title, the Commission shall con-
+               21 sult with the following individuals, including with respect
+               22 to the applicable standards and metrics for making a de-
+               23 termination on whether a user of a covered platform is
+               24 or is not a minor:
+
+
+
+
+g:\V\G\030326\G030326.041.xml    (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                     12
+                 1                 (1) Individuals with experience in computer
+                 2          science and software engineering.
+                 3                 (2) Individuals with experience in—
+                 4                        (A) advocating for online child safety; or
+                 5                        (B) providing services to minors who have
+                 6                 been victimized by online child exploitation.
+                 7                 (3) Individuals with experience in consumer
+                 8          protection and online privacy.
+                 9                 (4)      Individuals   who     supply    technology
+               10           verification measure products or have expertise in
+               11           technology verification measures.
+               12                  (5) Individuals with experience in data security
+               13           and cryptography.
+               14    SEC. 105. GAO REPORT.
+
+               15           Not later than 3 years after the date of the enact-
+               16 ment of this Act, the Comptroller General of the United
+               17 States shall submit to Congress a report that includes the
+               18 following:
+               19                  (1) An analysis of the effectiveness of the tech-
+               20           nology verification measures required under section
+               21           103.
+               22                  (2) An analysis of the rate of compliance with
+               23           such section by providers of covered platforms and
+               24           third parties contracted by such providers with re-
+               25           spect to such covered platforms.
+
+
+g:\V\G\030326\G030326.041.xml      (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                      13
+                 1               (3) An analysis of the data privacy and security
+                 2          measures used by covered platforms with respect to
+                 3          age verification processes.
+                 4               (4) An analysis of the expression, speech, be-
+                 5          havioral, economic, psychological, and societal effects
+                 6          of requiring technology verification measures under
+                 7          section 103.
+                 8               (5) Recommendations, if any, to the Commis-
+                 9          sion on improving the enforcement of this title.
+               10    SEC. 106. RELATIONSHIP TO STATE LAWS.
+
+               11           (a) IN GENERAL.—No State, or political subdivision
+               12 of a State, may prescribe, maintain, enforce, or continue
+               13 in effect any law, rule, regulation, requirement, standard,
+               14 or other provision having the force and effect of law to
+               15 the extent that such law, rule, regulation, requirement,
+               16 standard, or other provision requires a provider of a cov-
+               17 ered platform to use technology verification measures to
+               18 prevent minors from accessing any sexual material harm-
+               19 ful to minors on a covered platform of such provider.
+               20           (b) RULE          OF   CONSTRUCTION.—Nothing in sub-
+               21 section (a) may be construed to preempt the applicability
+               22 of any of the following:
+               23                (1) Any law of a State with respect to trespass,
+               24           contract, tort, or product liability.
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  14
+                 1              (2) Any statutory law that creates a remedy or
+                 2          penalty for criminal conduct.
+                 3              (3) Any law of general applicability of a State
+                 4          with respect to consumer protection.
+                 5      TITLE II—ONLINE PLATFORMS
+                 6   SEC. 201. COVERED PLATFORM DEFINED.
+
+                 7          In this title, the term ‘‘covered platform’’ means a
+                 8 platform that is a website, software, application, or elec-
+                 9 tronic service connected to the internet that meets the fol-
+               10 lowing requirements:
+               11               (1) Is publicly available for use by consumers.
+               12               (2) Enables the creation of a username or user
+               13           identifier—
+               14                      (A) that is searchable on the platform by
+               15               other users through a function made available
+               16               by the platform; and
+               17                      (B) that can be followed by or is similarly
+               18               accessible to other users of the platform.
+               19               (3) As the primary purpose of the platform, fa-
+               20           cilitates the sharing and access to user-generated
+               21           content through text, images, video, audio, or any
+               22           other interactive medium.
+               23               (4) Uses a design feature to promote user en-
+               24           gagement on the platform.
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  15
+                 1               (5) Uses the personal information of the user to
+                 2          advertise, market, or make content recommenda-
+                 3          tions.
+                 4         Subtitle A—Kids Online Safety
+                 5   SEC. 211. SHORT TITLE.
+
+                 6          This subtitle may be cited as the ‘‘Kids Online Safety
+                 7 Act’’.
+                 8   SEC. 212. DEFINITIONS.
+
+                 9          In this subtitle:
+               10                (1) CHILD.—The term ‘‘child’’ means an indi-
+               11           vidual who is under the age of 13.
+               12                (2) COMPULSIVE USAGE.—The term ‘‘compul-
+               13           sive usage’’ means a persistent and repetitive use of
+               14           a covered platform that substantially limits one or
+               15           more major life activities of an individual (as de-
+               16           scribed in section 3 of the Americans with Disabil-
+               17           ities Act of 1990 (42 U.S.C. 12102)).
+               18                (3) GEOLOCATION       INFORMATION.—The      term
+               19           ‘‘geolocation information’’ means information suffi-
+               20           cient to identify a street name and name of a city
+               21           or town.
+               22                (4) PROCESSOR.—The term ‘‘processor’’ means
+               23           a person who—
+               24                       (A) processes personal information on be-
+               25                half of a covered platform; and
+
+
+g:\V\G\030326\G030326.041.xml    (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  16
+                 1                     (B) does not determine the purpose and
+                 2               means of processing such personal information
+                 3               (5) SEXUAL EXPLOITATION AND ABUSE.—The
+                 4          term ‘‘sexual exploitation and abuse’’ means any of
+                 5          the following:
+                 6                     (A) Any offense, including coercion and en-
+                 7               ticement, described in section 2422 of title 18,
+                 8               United States Code.
+                 9                     (B) Child pornography (as defined in sec-
+               10                tion 2256 of title 18, United States Code).
+               11                      (C) Trafficking for the production of im-
+               12                ages (as described in section 2251 of title 18,
+               13                United States Code).
+               14                      (D) Any offense described in section 1591
+               15                of title 18, United States Code.
+               16                (6) USER.—The term ‘‘user’’, with respect to a
+               17           covered platform, means an individual who registers
+               18           an account or creates a profile on the covered plat-
+               19           form.
+               20    SEC. 213. ADDRESSING HARMS TO MINORS.
+
+               21           (a) IN GENERAL.—A provider of a covered platform
+               22 shall establish, implement, maintain, and enforce reason-
+               23 able policies, practices, and procedures that address the
+               24 following harms to minors:
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   17
+                 1               (1) Threats of physical violence so severe, per-
+                 2          vasive, or objectively offensive that such threats im-
+                 3          pact a major life activity of a minor.
+                 4               (2) Sexual exploitation and abuse.
+                 5               (3) Distribution, sale, or use of narcotic drugs,
+                 6          tobacco products, cannabis products, gambling, or
+                 7          alcohol.
+                 8               (4) Any financial harm caused by deceptive
+                 9          practices.
+               10           (b) CONSIDERATIONS.—The policies, practices, and
+               11 procedures required by subsection (a) shall be appropriate
+               12 to each of the following:
+               13                (1) The size and complexity of the covered plat-
+               14           form.
+               15                (2) The technical feasibility of addressing the
+               16           harms described in subsection (a).
+               17           (c) RULES OF CONSTRUCTION.—Nothing in sub-
+               18 section (a) may be construed to—
+               19                (1) require a provider of a covered platform to
+               20           prevent or preclude any minor from—
+               21                        (A) deliberately and independently search-
+               22                ing for, or specifically requesting, content; or
+               23                        (B) accessing resources and information
+               24                regarding the prevention or mitigation of the
+               25                harms described in subsection (a); or
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  18
+                 1               (2) impose a duty of care on a provider of a
+                 2          covered platform.
+                 3   SEC. 214. SAFEGUARDS FOR MINORS AND PARENTAL
+
+                 4                   TOOLS.
+
+                 5          (a) SAFEGUARDS FOR MINORS.—
+                 6               (1) SAFEGUARDS.—A provider of a covered
+                 7          platform shall provide a user of or visitor to the cov-
+                 8          ered platform who the provider knows is a minor
+                 9          with readily accessible and easy-to-use safeguards to
+               10           do each of the following, as applicable:
+               11                      (A) Limit the ability of other users or visi-
+               12                tors to communicate with such user or visitor.
+               13                      (B) Prevent the profile or personal infor-
+               14                mation of such user or visitor from being rec-
+               15                ommended or suggested to another user or vis-
+               16                itor who is not a minor.
+               17                      (C) Limit design features that result in
+               18                compulsive usage of the covered platform by
+               19                such user or visitor.
+               20                      (D) Restrict the sharing of geolocation in-
+               21                formation of such user or visitor to a third
+               22                party that is not a processor and provide notice
+               23                to such user or visitor and the parent of such
+               24                user or visitor that geolocation information is
+               25                collected.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    19
+                 1                     (E) Control any personalized recommenda-
+                 2               tion system on such covered platform, including
+                 3               with respect to the ability for such user or vis-
+                 4               itor to have—
+                 5                            (i) a prominently displayed option to
+                 6                     opt out of any such personalized rec-
+                 7                     ommendation system, and
+                 8                            (ii) a prominently displayed option to
+                 9                     limit types or categories of recommenda-
+               10                      tions from any such personalized rec-
+               11                      ommendation system.
+               12                (2) DEFAULT SAFEGUARD SETTINGS FOR MI-
+               13           NORS.—A provider of a covered platform shall en-
+
+               14           sure that, in the case of a user of or visitor to the
+               15           covered platform who the provider knows is a minor,
+               16           the default setting of any safeguard described in
+               17           paragraph (1) is the option available on the covered
+               18           platform that provides the most protective level of
+               19           control with respect to privacy and safety for such
+               20           user or visitor.
+               21           (b) PARENTAL TOOLS.—
+               22                (1) TOOLS.—A provider of a covered platform
+               23           shall provide readily accessible and easy-to-use pa-
+               24           rental tools that meet the requirements described in
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                     20
+                 1          paragraph (2) for a parent of a user of the covered
+                 2          platform who the provider knows is a minor.
+                 3              (2) REQUIREMENTS.—The parental tools de-
+                 4          scribed in paragraph (1) shall allow a parent of a
+                 5          user of the covered platform who the provider knows
+                 6          is a minor to do any of the following:
+                 7                      (A) Manage the privacy and account set-
+                 8              tings of such user, including by using any safe-
+                 9              guard established under subsection (a)(1), in a
+               10               manner that allows the parent to—
+               11                             (i) view the privacy and account set-
+               12                       tings; and
+               13                             (ii) change and control the privacy
+               14                       and account settings.
+               15                       (B) The ability to restrict purchases and
+               16               financial transactions by such user, if applica-
+               17               ble.
+               18                       (C) The ability to view metrics of total
+               19               time spent on the covered platform and restrict
+               20               time spent on the covered platform by such
+               21               user.
+               22               (3) NOTICE TO MINORS.—A provider of a cov-
+               23           ered platform shall provide clear and conspicuous
+               24           notice to a user of the covered platform who the pro-
+               25           vider knows is a minor when any parental tool de-
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  21
+                 1          scribed in paragraph (1) is in effect and any setting
+                 2          or control that has been applied.
+                 3               (4) DEFAULT TOOLS FOR CHILDREN.—A pro-
+                 4          vider of a covered platform shall ensure that, in the
+                 5          case of a user of or visitor to the covered platform
+                 6          who the provider knows is a child, the default set-
+                 7          ting for any parental tool described in paragraph (1)
+                 8          is the option available on the covered platform that
+                 9          provides the most protective level of control with re-
+               10           spect to privacy and safety for such user or visitor.
+               11                (5) APPLICATION TO EXISTING ACCOUNTS.—If,
+               12           before the effective date of this subtitle, a provider
+               13           of a covered platform provides a parent of a user of
+               14           the covered platform who the provider knows is a
+               15           child with notice and the ability to enable a parental
+               16           tool described in paragraph (1) in a manner that
+               17           would otherwise comply with this subsection and the
+               18           parent opts out of enabling any such parental tool,
+               19           the covered platform is not required to enable any
+               20           such tool with respect to such user by default on or
+               21           after such effective date.
+               22           (c) RULES OF APPLICATION.—
+               23                (1) ACCESSIBILITY.—With respect to any safe-
+               24           guard described in subsection (a)(1) and any paren-
+               25           tal tool described in subsection (b)(1), a provider of
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  22
+                 1          a covered platform shall provide each of the fol-
+                 2          lowing:
+                 3                     (A) Information and control options in a
+                 4              clear and conspicuous manner that takes into
+                 5              consideration the differing ages, capacities, and
+                 6              developmental needs of a user of the covered
+                 7              platform who the provider knows is a minor
+                 8              most likely to access the covered platform and
+                 9              does not encourage such a user or a parent of
+               10               such a user to weaken or disable any such safe-
+               11               guard, option, or parental tool.
+               12                      (B) Readily accessible and easy-to-use con-
+               13               trols to enable or disable any such safeguard or
+               14               parental tool, as appropriate.
+               15                      (C) Information and control options in the
+               16               same language, form, and manner as the pro-
+               17               vider provides the product or service used by
+               18               such a user or a parent of such a user.
+               19               (2) TIMING CONSIDERATIONS; APPLICATION OF
+               20           CHANGES TO OFFLINE DEVICES OR ACCOUNTS.—If
+
+               21           the device of a user or user account does not have
+               22           access to the internet at the time of a change to a
+               23           parental tool described in subsection (b)(1), the pro-
+               24           vider of the relevant covered platform shall apply
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 23
+                 1          changes the next time the device or user is con-
+                 2          nected to the internet.
+                 3               (3) PROHIBITION.—A provider of a covered
+                 4          platform may not knowingly use a user interface
+                 5          with the purpose or substantial effect of impairing
+                 6          the use by a user of the covered platform who the
+                 7          provider knows is a minor or a parent of such a user
+                 8          of any safeguard described in subsection (a)(1) or
+                 9          any parental tool described in subsection (b)(1).
+               10           (d) RULES OF CONSTRUCTION.—Nothing in this sec-
+               11 tion may be construed to do any of the following:
+               12                (1) Prevent a provider of a covered platform
+               13           from taking reasonable measures to block, detect, or
+               14           prevent the distribution of unlawful, obscene, or
+               15           other harmful material to minors or any other
+               16           harms to minors described in section 213(a).
+               17                (2) Prevent a provider of a covered platform
+               18           from entering into an agreement with a third party
+               19           with a primary or exclusive function of providing
+               20           any safeguard described in subsection (a)(1) or any
+               21           parental tool described in subsection (b)(1) or other-
+               22           wise assisting with meeting the requirements de-
+               23           scribed in subsections (a) and (b).
+               24                (3) Prevent a parent or user from authorizing
+               25           a third party described in paragraph (2) to imple-
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 24
+                 1          ment any safeguard described in subsection (a)(1) or
+                 2          any parental tool described in subsection (b)(1) .
+                 3   SEC. 215. REPORTING MECHANISM.
+
+                 4          (a) REPORTING TOOLS.—A provider of a covered
+                 5 platform shall provide each of the following:
+                 6               (1) A readily accessible and easy-to-use means
+                 7          for a user of or visitor to the covered platform to
+                 8          submit a report to the covered platform of any harm
+                 9          to a minor related to the use of the covered plat-
+               10           form.
+               11                (2) An electronic point of contact specific to
+               12           matters involving harms to a minor.
+               13                (3) Confirmation of the receipt of any such re-
+               14           port and, within the applicable time period described
+               15           in subsection (b), a substantive response to the user
+               16           or visitor who submitted the report.
+               17           (b) TIMING.—A covered platform shall establish an
+               18 internal process to receive and substantively respond to
+               19 a report submitted subsection (a)(1) in a reasonable and
+               20 timely manner, but in no case later than—
+               21                (1) 10 days after the date on which the report
+               22           is received; or
+               23                (2) if the report involves an imminent threat to
+               24           the safety of a minor, the date that is as prompt as
+               25           needed to address the reported threat to safety.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  25
+                 1   SEC. 216. DISCLOSURE.
+
+                 2          (a) NOTICE.—
+                 3              (1) REGISTRATION OR PURCHASE.—Before any
+                 4          registration or purchase on a covered platform by a
+                 5          user of or visitor to the covered platform who the
+                 6          provider knows is a minor, the provider shall provide
+                 7          clear, conspicuous, and easy-to-understand notice
+                 8          with respect to each of the following:
+                 9                      (A) The policies and practices of the cov-
+               10               ered platform with respect to safeguards for mi-
+               11               nors.
+               12                       (B) Information about how to access any
+               13               safeguard described in section 214(a)(1) or any
+               14               parental tool described in section 214(b)(1).
+               15               (2) NOTIFICATION.—
+               16                       (A) NOTICE AND ACKNOWLEDGMENT.—In
+               17               the case of a user of or visitor to a covered plat-
+               18               form who the provider of the covered platform
+               19               knows is a minor, the provider shall provide in-
+               20               formation about any safeguard described in sec-
+               21               tion 214(a)(1) or any parental tool described in
+               22               section 214(b)(1) to a parent of such user or
+               23               visitor and obtain verifiable parental consent
+               24               with respect to any such safeguard or parental
+               25               tool.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                26
+                 1                     (B) REASONABLE     EFFORT.—A      covered
+                 2              platform shall be deemed to have satisfied the
+                 3              requirement described in subparagraph (A) if
+                 4              the provider of the covered platform is in com-
+                 5              pliance with the requirements of the Children’s
+                 6              Online Privacy Protection Act of 1998 (15
+                 7              U.S.C. 6501 et seq.) to use reasonable efforts
+                 8              (taking into consideration commercially avail-
+                 9              able technology) to provide a parent with the
+               10               information required by paragraph (1)(B) and
+               11               to obtain the verifiable parental consent de-
+               12               scribed in subparagraph (A) of this paragraph.
+               13           (b) CONSOLIDATED NOTICES.—For purposes of this
+               14 section, a provider of a covered platform may consolidate
+               15 the process for providing information and obtaining
+               16 verifiable parental consent required by this section with
+               17 the obligations of the provider to provide relevant notice
+               18 and obtain verifiable parental consent under the Chil-
+               19 dren’s Online Privacy Protection Act of 1998.
+               20    SEC. 217. ADVERTISING AND MARKETING INFORMATION
+
+               21                    AND LABELS.
+
+               22           A provider of a covered platform shall provide clear,
+               23 conspicuous, and easy-to-understand labels and informa-
+               24 tion, which may be provided through a link to another web
+               25 page or disclosure, to a user of or visitor to the covered
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  27
+                 1 platform who the provider knows is a minor on advertise-
+                 2 ments regarding the disclosure of endorsements of prod-
+                 3 ucts, services, or brands made for commercial consider-
+                 4 ation by other users of the covered platform.
+                 5   SEC. 218. ADVERTISING OF ILLEGAL PRODUCTS TO MI-
+
+                 6                   NORS.
+
+                 7          A provider of a covered platform may not facilitate
+                 8 the advertising of narcotic drugs, cannabis products, to-
+                 9 bacco products, gambling, or alcohol to a user of or visitor
+               10 to the covered platform who the provider knows is a minor.
+               11    SEC. 219. AUDIT; REPORT.
+
+               12           (a) AUDIT REQUIRED.—Not later than 18 months
+               13 after the date of the enactment of this subtitle, and annu-
+               14 ally thereafter, a provider of a covered platform shall en-
+               15 sure that an independent, third-party auditor conducts an
+               16 independent, third-party audit of the covered platform.
+               17           (b) AUDIT SPECIFICATIONS.—
+               18                (1) CRITERIA.—In conducting an audit required
+               19           by subsection (a), an independent, third-party audi-
+               20           tor shall do the following:
+               21                      (A) Consider widely accepted or evidence-
+               22                based approaches, best practices, frameworks,
+               23                and methods related to any safeguard described
+               24                in section 214(a)(1) or any parental tool de-
+               25                scribed in section 214(b)(1).
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   28
+                 1                     (B) Consider widely accepted or evidence-
+                 2               based approaches, best practices, frameworks,
+                 3               and methods related to identifying, preventing,
+                 4               and mitigating the harms to minors described
+                 5               in section 213(a).
+                 6                     (C) Consult with parents (including par-
+                 7               ents with relevant experience), public health
+                 8               and mental health nonprofit organizations,
+                 9               health and development organizations, and ex-
+               10                perts in freedom of expression about methods to
+               11                identify, prevent, and mitigate such harms.
+               12                (2) CONTENTS.—An audit required by sub-
+               13           section (a) shall include the following:
+               14                      (A) An assessment of the extent to which
+               15                the relevant covered platform is likely to be
+               16                accessed by minors, including with respect to
+               17                any difference between children and teens.
+               18                      (B) An accounting of the following:
+               19                             (i) The number of users using such
+               20                      covered platform who the provider of such
+               21                      covered platform knows to be minors lo-
+               22                      cated in the United States.
+               23                             (ii) The median and mean amounts of
+               24                      time spent on such covered platform by
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   29
+                 1                     such users during the year in which such
+                 2                     audit is conducted.
+                 3                            (iii) A description of the policies,
+                 4                     practices, and procedures implemented to
+                 5                     address the harms to minors described in
+                 6                     section 213(a).
+                 7                            (iv) The number of times that any
+                 8                     safeguard described in section 214(a)(1)
+                 9                     has been exercised during the year in
+               10                      which such audit is conducted.
+               11                             (v) The number of times that any pa-
+               12                      rental tool described in section 214(b)(1)
+               13                      has been exercised during the year in
+               14                      which such audit is conducted.
+               15                             (vi) The number of reports, cat-
+               16                      egorized by types of harms to a minor, re-
+               17                      ceived by such covered platform through
+               18                      the reporting mechanism described in sec-
+               19                      tion 215(a)(1) during the year in which
+               20                      such audit is conducted.
+               21                      (C) A description of such safeguards for
+               22               minors and parental tools that are available to
+               23               minors and parents on such covered platform.
+               24                      (D) A description of how such covered
+               25               platform handles reports received through such
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 30
+                 1              reporting mechanism, including the rate of re-
+                 2              sponse to such a report and the timeliness and
+                 3              substantiveness of any such response.
+                 4                     (E) A description of whether, how, and for
+                 5              what purpose such covered platform collects or
+                 6              processes categories of personal information of
+                 7              minors.
+                 8                     (F) If the covered platform has a process
+                 9              used to create, implement, or evaluate the im-
+               10               pact of a design feature of the covered platform
+               11               used by minors, a description of such process.
+               12               (3) COOPERATION BY COVERED PLATFORM.—A
+               13           provider of a covered platform shall facilitate an
+               14           audit of the covered platform required by subsection
+               15           (a) by doing the following:
+               16                      (A) Providing or otherwise making avail-
+               17               able to the independent, third-party auditor
+               18               that conducts such audit any information or
+               19               material in the possession, custody, or control
+               20               of such covered platform relevant to such audit.
+               21                      (B) Providing or otherwise making avail-
+               22               able to such auditor access to any network, sys-
+               23               tem, or asset relevant to such audit.
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   31
+                 1                       (C) Disclosing any material fact to such
+                 2               auditor and not misrepresenting any material
+                 3               fact.
+                 4          (c) REPORT TO COMMISSION.—Not later than 30
+                 5 days after the date on which an audit required by sub-
+                 6 section (a) is completed, the provider of the relevant cov-
+                 7 ered platform shall submit to the Commission the results
+                 8 of the audit.
+                 9          (d) PUBLIC REPORT.—Not later than 45 days after
+               10 the date on which an audit required by subsection (a) is
+               11 completed, the provider of the relevant covered platform
+               12 shall issue a public report that—
+               13                (1) includes the information in clauses (i), (ii),
+               14           (iv), (v), and (vi) of subsection (b)(2)(B); and
+               15                (2) notwithstanding paragraph (1), may include
+               16           any other information required by this section.
+               17    SEC. 220. RULES OF CONSTRUCTION.
+
+               18           Nothing in this subtitle may be construed to require
+               19 the provider of a covered platform to implement an age
+               20 gating or age verification functionality on the covered plat-
+               21 form.
+               22    SEC. 221. RELATIONSHIP TO STATE LAWS.
+
+               23           (a) IN GENERAL.—No State, or political subdivision
+               24 of a State, may prescribe, maintain, enforce, or continue
+               25 in effect any law, rule, regulation, requirement, standard,
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                       32
+                 1 or other provision having the force and effect of law if
+                 2 such law, rule, regulation, requirement, standard, or other
+                 3 provision conflicts with the provisions of this subtitle.
+                 4          (b) RULE           OF   CONSTRUCTION.—Nothing in sub-
+                 5 section (a) may be construed to preempt the applicability
+                 6 of any of the following: —
+                 7               (1) Any law of a State with respect to trespass,
+                 8          contract, tort, or product liability.
+                 9               (2) Any statutory law that creates a remedy or
+               10           penalty for criminal conduct.
+               11                (3) Any law of general applicability of a State
+               12           with respect to consumer protection.
+               13          Subtitle B—Safe Messaging for
+               14                      Kids
+               15    SEC. 231. SHORT TITLE.
+
+               16           This subtitle may be cited as the ‘‘Safe Messaging
+               17 for Kids Act’’ or the ‘‘SMK Act’’.
+               18    SEC. 232. DEFINITIONS.
+
+               19           In this subtitle:
+               20                (1) APP.—The term ‘‘app’’ means a software
+               21           application that may be run or directed by a user on
+               22           a computer, mobile device, or any other general pur-
+               23           pose computing device.
+               24                (2) APP STORE.—The term ‘‘app store’’ means
+               25           a publicly available software application that distrib-
+
+
+g:\V\G\030326\G030326.041.xml    (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    33
+                 1          utes and facilitates the download onto a mobile de-
+                 2          vice of an app from a third-party developer by a user
+                 3          of a computer, mobile device, or any other general
+                 4          purpose computing device.
+                 5              (3) COVERED USER.—The term ‘‘covered user’’
+                 6          means a user of a covered platform if the provider
+                 7          of such covered platform knows that such user is a
+                 8          minor.
+                 9              (4) DIRECT MESSAGING FEATURE.—
+               10                      (A) IN GENERAL.—The term ‘‘direct mes-
+               11               saging feature’’ means a function of a covered
+               12               platform that enables a user to send a message,
+               13               image, video, audio, or other communication di-
+               14               rectly to another user or a specific group of
+               15               users of the covered platform.
+               16                      (B) EXCLUSION.—The term ‘‘direct mes-
+               17               saging feature’’ does not include a function of
+               18               a covered platform that enables a user to post
+               19               content on the covered platform to—
+               20                             (i) a public or semi-public profile; or
+               21                             (ii) a feed accessible to a broader
+               22                      group of users.
+               23               (5) EPHEMERAL MESSAGING FEATURE.—
+               24                      (A) IN GENERAL.—The term ‘‘ephemeral
+               25               messaging feature’’ means a function of a cov-
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    34
+                 1              ered platform that permanently deletes or ren-
+                 2              ders inaccessible a message, image, video,
+                 3              audio, or other communication sent between
+                 4              users of the covered platform (such that neither
+                 5              the sender nor any recipient of such commu-
+                 6              nication may readily retrieve or review the com-
+                 7              munication in the original form through the
+                 8              covered platform)—
+                 9                            (i) after a predetermined period;
+               10                             (ii) once viewed by such a recipient; or
+               11                             (iii) upon exiting the specific chat or
+               12                      messaging interface.
+               13                      (B) EXCEPTIONS.—The term ‘‘ephemeral
+               14               messaging feature’’ does not include—
+               15                             (i) a function of a covered platform
+               16                      that allows a user of the covered platform
+               17                      to manually delete a message, image,
+               18                      video, audio, or other communication sent
+               19                      by such user after the transmission of the
+               20                      communication (if such deletion does not
+               21                      automatically occur for each recipient of
+               22                      the communication or by the default design
+               23                      of such function); or
+               24                             (ii) standard data volatility in transit
+               25                      or temporary caching not designed to make
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    35
+                 1                     such a communication permanently inac-
+                 2                     cessible after viewing or a short, predeter-
+                 3                     mined time.
+                 4              (6) MOBILE DEVICE.—The term ‘‘mobile de-
+                 5          vice’’ means a phone or general-purpose tablet that
+                 6          provides cellular or wireless connectivity, is capable
+                 7          of connecting to the internet, and is capable of run-
+                 8          ning an app.
+                 9              (7)     PARENTAL         DIRECT   MESSAGING   CON-
+
+               10           TROLS.—The term ‘‘parental direct messaging con-
+
+               11           trols’’ means a set of tools or settings that a pro-
+               12           vider of a covered platform provides to a parent of
+               13           a covered user of the covered platform that allows
+               14           the parent to manage the use of a direct messaging
+               15           feature by such covered user.
+               16               (8) TEEN COVERED USER.—The term ‘‘teen
+               17           covered user’’ means a covered user who has at-
+               18           tained the age of 13.
+               19               (9) UNAPPROVED CONTACT.—The term ‘‘unap-
+               20           proved contact’’, with respect to a covered user for
+               21           whom parental direct messaging controls have been
+               22           activated, means a user of a covered platform with
+               23           respect to whom the teen covered user may not use
+               24           a direct messaging feature unless a parent of such
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 36
+                 1          teen covered user has provided verifiable parental
+                 2          consent under this subtitle.
+                 3              (10) VERIFIABLE       PARENTAL CONSENT.—The
+
+                 4          term ‘‘verifiable parental consent’’—
+                 5                     (A) has the meaning given that term in
+                 6              section 2 of this Act; and
+                 7                     (B) includes ongoing mechanisms for par-
+                 8              ents to activate and manage parental direct
+                 9              messaging controls provided under this subtitle.
+               10    SEC. 233. PROHIBITION ON EPHEMERAL MESSAGING FEA-
+
+               11                    TURES FOR MINORS.
+
+               12           A provider of a covered platform may not offer, pro-
+               13 vide, or enable any ephemeral messaging feature of such
+               14 covered platform to any covered user of the covered plat-
+               15 form.
+               16    SEC. 234. PROHIBITION ON DIRECT MESSAGING FEATURES
+
+               17                    FOR CHILDREN.
+
+               18           A provider of a covered platform may not offer, pro-
+               19 vide, or enable any direct messaging feature of such cov-
+               20 ered platform to any covered user of the covered platform
+               21 under the age of 13 years.
+               22    SEC. 235. PARENTAL CONTROLS FOR DIRECT MESSAGING
+
+               23                    FEATURES FOR TEENS.
+
+               24           (a) REQUIREMENT.—A provider of a covered plat-
+               25 form that offers, provides, or enables any direct messaging
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  37
+                 1 feature of such covered platform to any teen covered user
+                 2 of the covered platform shall provide easily accessible and
+                 3 usable parental direct messaging controls to a parent of
+                 4 such teen covered user that the parent may activate and
+                 5 manage by providing verifiable parental consent.
+                 6          (b) ACCESSIBILITY; USABILITY; AWARENESS.—The
+                 7 parental direct messaging controls described in subsection
+                 8 (a) shall meet the following requirements:
+                 9              (1) Be clearly and conspicuously accessible to a
+               10           parent of a teen covered user through—
+               11                      (A) the settings of a profile of the teen
+               12               covered user; and
+               13                      (B) any parental portal or interface offered
+               14               by the covered platform.
+               15               (2) Be designed to be user-friendly with clear
+               16           explanations of the manner in which the parental di-
+               17           rect messaging controls operate.
+               18           (c) FUNCTIONALITY OF CONTROLS.—As a default
+               19 setting on a covered platform, the parental direct mes-
+               20 saging controls described in subsection (a) shall allow a
+               21 parent of a teen covered user of the covered platform to
+               22 do the following (unless the parent adjusts the default set-
+               23 ting with respect to any of the following by providing
+               24 verifiable parental consent):
+               25               (1) Receive a timely notification that—
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   38
+                 1                       (A) alerts the parent about a request from
+                 2               an unapproved contact who seeks to use a di-
+                 3               rect messaging feature of the covered platform
+                 4               with respect to the teen covered user; and
+                 5                       (B) allows the parent to approve or deny
+                 6               the request before the unapproved contact and
+                 7               the teen covered user engage in any direct mes-
+                 8               saging through any such direct messaging fea-
+                 9               ture.
+               10                (2) View and manage a list of any contacts ap-
+               11           proved for engaging in direct messaging with the
+               12           teen covered user through any direct messaging fea-
+               13           ture of the covered platform.
+               14                (3) Be informed if the teen covered user
+               15           changes the age listed on a profile of the teen cov-
+               16           ered user on the covered platform (if any such
+               17           change affects the applicability of such parental di-
+               18           rect messaging controls).
+               19                (4) Disable any direct messaging feature of any
+               20           such profile.
+               21                (5) Prevent any specific user, any specific group
+               22           of users, or other users in general, from initiating or
+               23           continuing to engage in direct messaging with the
+               24           teen covered user through any direct messaging fea-
+               25           ture of the covered platform.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 39
+                 1              (6) Enable the teen covered user to set a profile
+                 2          of the teen covered user on the covered platform as
+                 3          hidden on any search such that—
+                 4                     (A) other users are prevented from search-
+                 5              ing for and finding such profile;
+                 6                     (B) other users are prevented from seeing
+                 7              the current online or offline status of the teen
+                 8              covered user; and
+                 9                     (C) other users are prevented from initi-
+               10               ating or continuing to engage in direct mes-
+               11               saging with the teen covered user through any
+               12               direct messaging feature of the covered plat-
+               13               form.
+               14           (d) NO DEGRADATION OF OTHER FEATURES OR
+               15 SERVICES.—A provider of a covered platform may not de-
+               16 grade the functionality or availability of any other feature
+               17 or service of the covered platform for a teen covered user
+               18 of the covered platform based on the activation or manage-
+               19 ment of parental direct messaging controls by a parent
+               20 of the teen covered user under this section (except as nec-
+               21 essary to implement any such parental direct messaging
+               22 controls).
+               23           (e) NO CIRCUMVENTION.—A provider of a covered
+               24 platform shall take reasonable measures to prevent a teen
+               25 covered user of the covered platform from easily circum-
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                40
+                 1 venting parental direct messaging controls activated and
+                 2 managed by a parent of the teen covered user under this
+                 3 section.
+                 4   SEC. 236. RULE OF CONSTRUCTION ON ENCRYPTION.
+
+                 5          No requirement under this subtitle to restrict any
+                 6 feature for a covered user or to provide parental direct
+                 7 messaging controls for a direct messaging feature of a cov-
+                 8 ered platform may be construed to override any protection
+                 9 for an encrypted communication described in this subtitle
+               10 and a provider of a covered platform shall adhere to any
+               11 such requirement, to the maximum extent technically fea-
+               12 sible, through means that do not compromise the integrity
+               13 of strong encryption offered to any user of the covered
+               14 platform.
+               15    SEC. 237. RELATIONSHIP TO STATE LAW.
+
+               16           (a) IN GENERAL.—No State, or political subdivision
+               17 of a State, may prescribe, maintain, enforce, or continue
+               18 in effect any law, rule, regulation, requirement, standard,
+               19 or other provision having the force and effect of law to
+               20 the extent that such law, rule, regulation, requirement,
+               21 standard, or other provision—
+               22               (1) directly prohibits ephemeral or direct mes-
+               23           saging on a covered platform for users under 13; or
+               24               (2) regulates parental direct messaging controls
+               25           on covered platforms for teen covered users.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                      41
+                 1          (b) RULE          OF   CONSTRUCTION.—Nothing in sub-
+                 2 section (a) may be construed to preempt the applicability
+                 3 of any of the following:
+                 4               (1) Any law of a State with respect to trespass,
+                 5          contract, tort, or product liability.
+                 6               (2) Any statutory law that creates a remedy or
+                 7          penalty for criminal conduct.
+                 8               (3) Any law of general applicability of a State
+                 9          with respect to consumer protection.
+               10    SEC. 238. EFFECTIVE DATE.
+
+               11           (a) IN GENERAL.—Except as provided in subsection
+               12 (b), this subtitle shall take effect on the date that is 180
+               13 days after the date of the enactment of this Act.
+               14           (b) EXCEPTION.—The effective date described in sub-
+               15 section (a) does not apply with respect to section 235.
+               16        Subtitle C—Stop Profiling Youth
+               17                   and Kids
+               18    SEC. 241. SHORT TITLE.
+
+               19           This subtitle may be cited as the ‘‘Stop Profiling
+               20 Youth and Kids Act’’ or the ‘‘SPY Kids Act’’.
+               21    SEC. 242. USER DEFINED.
+
+               22           In this subtitle, the term ‘‘user’’, with respect to a
+               23 covered platform, means an individual who registers an
+               24 account or creates a profile on the covered platform.
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 42
+                 1   SEC. 243. MARKET RESEARCH.
+
+                 2          (a) PROHIBITION OF RESEARCH ON MINORS.—A
+                 3 provider of a covered platform may not, in the case of a
+                 4 user or visitor of the covered platform who the provider
+                 5 knows is a minor, conduct market or product-focused re-
+                 6 search on such user or visitor unless any such research
+                 7 is—
+                 8               (1) used solely to improve the privacy, security,
+                 9          transparency, or safety of the covered platform, in-
+               10           cluding with respect to a design feature or any safe-
+               11           guard, setting, or tool offered to such user or visitor
+               12           or a parent of such user or visitor; or
+               13                (2) necessary for compliance with a Federal or
+               14           State law.
+               15           (b) RULE OF CONSTRUCTION.—Nothing in this sub-
+               16 title may be construed to limit the processing of personal
+               17 information solely for measuring or reporting advertising
+               18 or content performance, reach, or frequency, including
+               19 through an independent measurement.
+               20    SEC. 244. RELATIONSHIP TO STATE LAWS.
+
+               21           (a) IN GENERAL.—No State, or political subdivision
+               22 of a State, may prescribe, maintain, enforce, or continue
+               23 in effect any law, rule, regulation, requirement, standard,
+               24 or other provision having the force and effect of law to
+               25 the extent that such law, rule, regulation, requirement,
+               26 standard, or other provision regulates the ability of a cov-
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                       43
+                 1 ered platform to conduct market or product-focused re-
+                 2 search on a minor.
+                 3          (b) RULE           OF   CONSTRUCTION.—Nothing in sub-
+                 4 section (a) may be construed to preempt the applicability
+                 5 of any of the following:
+                 6                (1) Any law of a State with respect to trespass,
+                 7          contract, tort, or product liability.
+                 8                (2) Any statutory law that creates a remedy or
+                 9          penalty for criminal conduct.
+               10                 (3) Any law of general applicability of a State
+               11           with respect to consumer protection.
+               12    SEC. 245. EFFECTIVE DATE.
+
+               13           This subtitle shall take effect on the date that is 90
+               14 days after the date of the enactment of this Act.
+               15               TITLE III—SOCIAL GAMING
+               16                      PLATFORMS
+               17    SEC. 301. SHORT TITLE.
+
+               18           This title may be cited as the ‘‘Safer Guarding of
+               19 Adolescents from Malicious Interactions on Network
+               20 Games Act’’ or the ‘‘Safer GAMING Act’’.
+               21    SEC. 302. DEFINITIONS.
+
+               22           (a) DEFINITIONS.—In this title:
+               23                 (1) COVERED           COMMUNICATION   TOOL.—The
+
+               24           term ‘‘covered communication tool’’ means a capa-
+               25           bility available to a user of an interactive online
+
+
+g:\V\G\030326\G030326.041.xml    (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  44
+                 1          video game that allows for the exchange of verbal,
+                 2          written, or visual messages between such user and
+                 3          any other user of such interactive online video game.
+                 4              (2) COVERED USER.—The term ‘‘covered user’’
+                 5          means a user of an interactive online video game if
+                 6          the online video game provider of such interactive
+                 7          online video game knows that such user is a minor.
+                 8              (3) INTERACTIVE ONLINE VIDEO GAME.—The
+                 9          term ‘‘interactive online video game’’ means a video
+               10           game that—
+               11                      (A) connects to the internet; and
+               12                      (B) allows a user of such video game to
+               13               communicate with other users of such video
+               14               game.
+               15               (4) ONLINE VIDEO GAME PROVIDER.—The term
+               16           ‘‘online video game provider’’ means a person en-
+               17           gaged in the business of providing directly to a con-
+               18           sumer over the internet or other online means a dig-
+               19           ital storefront, console network, mobile or cloud
+               20           gaming platform, or similar means of digital dis-
+               21           tribution that offers access to an interactive online
+               22           video game for use by the consumer.
+               23               (5) VIDEO      GAME.—The     term ‘‘video game’’
+               24           means a software program that—
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                       45
+                 1                         (A) receives and stores data or instructions
+                 2                     generated by the user of such software pro-
+                 3                     gram; and
+                 4                         (B) processes such data or instructions to
+                 5                     create an interactive game for such user to play
+                 6                     on a computer, gaming system, console, mobile
+                 7                     device, or other technological means.
+                 8   SEC.       303.    SAFEGUARDS      REQUIREMENTS      FOR    ONLINE
+
+                 9                        VIDEO GAME PROVIDERS.
+
+               10           (a) COMMUNICATION SAFEGUARDS.—An online video
+               11 game provider shall provide safeguards to a parent of a
+               12 covered user of an interactive online video game of such
+               13 online video game provider that allow the parent to limit
+               14 communication between such covered user and any other
+               15 user of such interactive online video game.
+               16           (b) FEATURES.—
+               17                      (1) IN GENERAL.—An online video game pro-
+               18           vider shall ensure that the safeguards required by
+               19           subsection (a) meet the following requirements:
+               20                          (A) Be accessible and easy to use.
+               21                          (B) Be enabled by default on an account
+               22                      of a covered user of the interactive online video
+               23                      game of such online video game provider.
+               24                          (C) Be set to the most protective level of
+               25                      control by default on any such account.
+
+
+g:\V\G\030326\G030326.041.xml      (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   46
+                 1               (2) PROTECTIVE         LEVEL   OF   CONTROL.—For
+
+                 2          purposes of paragraph (1)(C), the most protective
+                 3          level of control means the relevant safeguards—
+                 4                     (A) are set to the most restrictive setting
+                 5               by default; and
+                 6                     (B) may be set to a less restrictive setting
+                 7               only by a parent of a covered user.
+                 8               (3) OTHER SAFEGUARDS REQUIRED.—An on-
+                 9          line video game provider shall provide to a covered
+               10           user and a parent of a covered user of an interactive
+               11           online video game of the online video game provider
+               12           readily accessible and easy-to-use safeguards to do
+               13           the following:
+               14                      (A) Prevent a profile of such covered user
+               15                or personal information connected to such cov-
+               16                ered user from being recommended or sug-
+               17                gested to any other user of such interactive on-
+               18                line video game who is not a minor.
+               19                      (B) Restrict purchases and financial trans-
+               20                actions by such covered user.
+               21                      (C) Limit the amount of time spent by
+               22                such covered user on such interactive online
+               23                video game.
+               24           (c) DEVICE CONTROLS.—Nothing in this section may
+               25 be construed to prohibit an online video game provider
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   47
+                 1 from making available to the parent of a covered user of
+                 2 an interactive online video game of the online video game
+                 3 provider a single user interface that permits such parent
+                 4 to do the following:
+                 5                  (1) Set the level or scope of any covered com-
+                 6          munication tool with respect to multiple other users
+                 7          or categories of users or set the level or scope of
+                 8          multiple covered communication tools.
+                 9                  (2) Control the safeguards required by this sec-
+               10           tion.
+               11           (d) NOTICE TO COVERED USERS.—An online video
+               12 game provider shall provide clear and conspicuous notice
+               13 to a covered user of an interactive online video game of
+               14 the online video game provider when the safeguards re-
+               15 quired by this section are in effect that describes the set-
+               16 tings or safeguards that have been applied.
+               17    SEC. 304. RELATIONSHIP TO STATE LAWS.
+
+               18           (a) IN GENERAL.—No State, or political subdivision
+               19 of a State, may prescribe, maintain, enforce, or continue
+               20 in effect any law, rule, regulation, requirement, standard,
+               21 or other provision having the force and effect of law to
+               22 the extent that such law, rule, regulation, requirement,
+               23 standard, or other provision regulates the provision of a
+               24 covered communication tool or other safeguard by an on-
+               25 line video game provider under this title.
+
+
+g:\V\G\030326\G030326.041.xml       (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                       48
+                 1          (b) RULE           OF   CONSTRUCTION.—Nothing in sub-
+                 2 section (a) may be construed to preempt the applicability
+                 3 of any of the following:
+                 4               (1) Any law of a State with respect to trespass,
+                 5          contract, tort, or product liability.
+                 6               (2) Any statutory law that creates a remedy or
+                 7          penalty for criminal conduct.
+                 8               (3) Any law of general applicability of a State
+                 9          with respect to consumer protection.
+               10                 TITLE IV—ARTIFICIAL
+               11               INTELLIGENCE CHATBOTS
+               12    SEC. 401. SHORT TITLE.
+
+               13           This title may be cited as the ‘‘Safeguarding Adoles-
+               14 cents From Exploitative BOTs Act’’ or the ‘‘SAFE BOTs
+               15 Act’’.
+               16    SEC. 402. DEFINITIONS.
+
+               17           In this title:
+               18                (1) CHATBOT PROVIDER.—
+               19                       (A) IN GENERAL.—The term ‘‘chatbot pro-
+               20                vider’’ means a person engaged in the business
+               21                of providing a chatbot directly to a consumer
+               22                for the use of the consumer, including through
+               23                a website, mobile application, or other online
+               24                means.
+
+
+
+
+g:\V\G\030326\G030326.041.xml    (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    49
+                 1                     (B) LIMITATION.—A person that provides
+                 2               a website, mobile application, or other online
+                 3               service that includes a chat function incidental
+                 4               to the primary purpose of such website, applica-
+                 5               tion, or service may not be treated as a chatbot
+                 6               provider solely on the basis of such incidental
+                 7               chat function.
+                 8               (2) COVERED USER.—The term ‘‘covered user’’
+                 9          means a user of a chatbot if the provider of such
+               10           chatbot knows that such user is a minor.
+               11    SEC. 403. CERTAIN STATEMENTS PROHIBITED.
+
+               12           A chatbot provider may not provide to a covered user
+               13 of a relevant chatbot that states to the covered user that
+               14 the chatbot is a licensed professional (unless such state-
+               15 ment is true).
+               16    SEC. 404. DISCLOSURE REQUIRED.
+
+               17           (a) IN GENERAL.—A chatbot provider shall clearly
+               18 and conspicuously disclose to each covered user of a
+               19 chatbot of such chat provider a disclosure of the following:
+               20                (1) The chatbot is an artificial intelligence sys-
+               21           tem and not a natural person.
+               22                (2) Resources for contacting a suicide and crisis
+               23           intervention hotline.
+               24           (b) TIMING.—
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                      50
+                 1                  (1) AI SYSTEM DISCLOSURE.—A disclosure re-
+                 2          quired by subsection (a)(1) shall be made—
+                 3                         (A) at the initiation of the first interaction
+                 4                  of a covered user with a chatbot; and
+                 5                         (B) at any point at which, during an inter-
+                 6                  action between a covered user and a chatbot,
+                 7                  the covered user prompts the chatbot about
+                 8                  whether the chatbot is an artificial intelligence
+                 9                  system.
+               10                   (2) CRISIS RESOURCES DISCLOSURE.—A disclo-
+               11           sure required by subsection (a)(2) shall be made at
+               12           any point at which, during an interaction between a
+               13           covered user and a chatbot, the covered user
+               14           prompts the chatbot about suicide or suicidal idea-
+               15           tion.
+               16           (c) USE OF PLAIN LANGUAGE.—Any disclosure re-
+               17 quired by subsection (a) shall be made in a manner that
+               18 is clear and age-appropriate using plain language such
+               19 that the disclosure is reasonably understandable by a
+               20 minor.
+               21    SEC. 405. POLICIES REQUIRED.
+
+               22           A chatbot provider shall establish, implement, and
+               23 maintain reasonable policies, practices, and procedures—
+               24                   (1) to ensure that a chatbot of the chatbot pro-
+               25           vider advises a covered user of the chatbot to take
+
+
+g:\V\G\030326\G030326.041.xml       (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  51
+                 1          a break from the chatbot at the point at which a
+                 2          continuous and uninterrupted interaction of such
+                 3          covered user with such chatbot has lasted for 3
+                 4          hours; and
+                 5              (2) to address, with respect to covered users—
+                 6                     (A) any access to sexual material harmful
+                 7              to minors;
+                 8                     (B) the promotion of gambling that is re-
+                 9              stricted from or prohibited for minors by law;
+               10               and
+               11                      (C) the promotion of the distribution, sale,
+               12               or use of narcotic drugs, tobacco products, or
+               13               alcohol that are restricted from or prohibited
+               14               for minors by law.
+               15    SEC. 406. RULE OF CONSTRUCTION.
+
+               16           Nothing in this title may be construed to require a
+               17 chatbot provider to prevent or preclude any covered user
+               18 of a chatbot of the chatbot provider from accessing re-
+               19 sources and information regarding the prevention or miti-
+               20 gation of the harms described in section 405(2).
+               21    SEC. 407. RELATIONSHIP TO STATE LAWS.
+
+               22           (a) IN GENERAL.—No State, or political subdivision
+               23 of a State, may prescribe, maintain, enforce, or continue
+               24 in effect any law, rule, regulation, requirement, standard,
+               25 or other provision having the force and effect of law, if
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                       52
+                 1 such law, rule, regulation, requirement, standard, or other
+                 2 provision conflicts with this title.
+                 3          (b) RULE           OF   CONSTRUCTION.—Nothing in sub-
+                 4 section (a) may be construed to preempt the applicability
+                 5 of any of the following:
+                 6               (1) Any law of a State with respect to trespass,
+                 7          contract, tort, or product liability.
+                 8               (2) Any statutory law that creates a remedy or
+                 9          penalty for criminal conduct.
+               10                (3) Any law of general applicability of a State
+               11           with respect to consumer protection.
+               12 TITLE    V—RESEARCH,      EDU-
+               13    CATION, AND BEST PRAC-
+               14    TICES FOR PROTECTING MI-
+               15    NORS ONLINE
+               16       Subtitle A—Research
+               17    SEC. 501. DEFINITIONS.
+
+               18           In this subtitle:
+               19                (1) FENTANYL.—The term ‘‘fentanyl’’ includes
+               20           any fentanyl analogue and fentanyl-related sub-
+               21           stance.
+               22                (2)      FENTANYL-RELATED          SUBSTANCE.—The
+
+               23           term ‘‘fentanyl-related substance’’ has the meaning
+               24           given that term in subsection (e) of schedule I of
+
+
+
+
+g:\V\G\030326\G030326.041.xml    (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                     53
+                 1          section 202(c) of the Controlled Substances Act (21
+                 2          U.S.C. 812(c)).
+                 3              (3)      RELEVANT         CONGRESSIONAL         COMMIT-
+
+                 4          TEES.—The         term ‘‘relevant congressional commit-
+                 5          tees’’ means the Committee on Energy and Com-
+                 6          merce of the House of Representatives and the Com-
+                 7          mittee on Commerce, Science, and Transportation of
+                 8          the Senate.
+                 9              (4) SOCIAL MEDIA PLATFORM.—The term ‘‘so-
+               10           cial media platform’’—
+               11                      (A) means a public-facing website, internet
+               12               application, or mobile internet application, in-
+               13               cluding a social network or video sharing serv-
+               14               ice—
+               15                             (i) that serves the public; and
+               16                             (ii) that primarily provides a forum
+               17                      for user-generated content, including mes-
+               18                      sages, videos, images, games, and audio
+               19                      files; and
+               20                      (B) does not include—
+               21                             (i) a provider of broadband internet
+               22                      access service (as described in section
+               23                      8.1(b) of title 47, Code of Federal Regula-
+               24                      tions, or any successor regulation); or
+               25                             (ii) electronic mail.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   54
+                 1   SEC. 502. EXEMPTION.
+
+                 2          Subchapter I of chapter 35 of title 44, United States
+                 3 Code (commonly known as the ‘‘Paperwork Reduction
+                 4 Act’’) does not apply to this subtitle.
+                 5              PART 1—SAFE SOCIAL MEDIA ACT
+
+                 6   SEC. 511. SHORT TITLE.
+
+                 7          This part may be cited as the ‘‘Safe Social Media
+                 8 Act’’.
+                 9   SEC. 512. REPORT BY COMMISSION ON SOCIAL MEDIA USE
+
+               10                    BY MINORS.
+
+               11           The Commission, in coordination with the Secretary
+               12 of Health and Human Services (acting through the Assist-
+               13 ant Secretary for Mental Health and Substance Use),
+               14 shall—
+               15               (1) conduct a study on social media platform
+               16           use by minors, including with respect to—
+               17                      (A) what personal information is collected
+               18               by social media platforms with respect to mi-
+               19               nors;
+               20                      (B) how such personal information is used
+               21               by the algorithms of the social media platforms;
+               22                      (C) how such personal information is used
+               23               with respect to targeted advertising;
+               24                      (D) how often minors use social media
+               25               platforms daily;
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  55
+                 1                     (E) differences in use of social media plat-
+                 2              forms related to the age ranges of minors;
+                 3                     (F) mental health effects on minors linked
+                 4              to the use of social media platforms; and
+                 5                     (G) potential harmful effects and benefits
+                 6              for minors from extended social media platform
+                 7              use; and
+                 8              (2) not later than 3 years after the date of the
+                 9          enactment of this Act, submit to Congress a report
+               10           on the findings of the study conducted under para-
+               11           graph (1), including any recommended policy
+               12           changes based on such findings.
+               13       PART 2—NO FENTANYL ON SOCIAL MEDIA ACT
+
+               14    SEC. 513. SHORT TITLE.
+
+               15           This part may be cited as the ‘‘No Fentanyl on Social
+               16 Media Act’’.
+               17    SEC. 514. REPORT ON THE ABILITY OF MINORS TO ACCESS
+
+               18                    FENTANYL THROUGH SOCIAL MEDIA PLAT-
+
+               19                    FORMS.
+
+               20           (a) REPORT REQUIRED.—Not later than 1 year after
+               21 the date of the enactment of this Act, the Commission,
+               22 in coordination with the Secretary of Health and Human
+               23 Services, acting through the Commissioner of Food and
+               24 Drugs and the Administrator of the Drug Enforcement
+               25 Administration, shall submit to the relevant congressional
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  56
+                 1 committees and publish on the website of the Commission
+                 2 a report on the ability of minors to access fentanyl, includ-
+                 3 ing through pressed pills, on social media platforms and
+                 4 that includes the following:
+                 5               (1) The prevalence and ability for minors to ac-
+                 6          cess fentanyl from drug sellers on social media plat-
+                 7          forms.
+                 8               (2) The impact of such prevalence and access
+                 9          on minors, including with respect to health risks and
+               10           risks to physical safety.
+               11                (3) How drug sellers use social media platforms
+               12           to market, sell, deliver, distribute, dispense, and en-
+               13           gage in other transactions related to the provision of
+               14           fentanyl to minors.
+               15                (4) How design features and other characteris-
+               16           tics of social media platforms affect the ability of
+               17           minors to access fentanyl.
+               18                (5) Other measures taken by law enforcement,
+               19           the medical community, and others to address the
+               20           issues described in paragraphs (1) through (4).
+               21                (6) Practices, policies, and other measures
+               22           taken by social media platforms to address the abil-
+               23           ity of drug sellers to use social media platforms and
+               24           the effectiveness of such practices, policies, and
+               25           measures.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                57
+                 1                (7) Recommendations for Congress to eliminate
+                 2          the prevalence and ability for minors to access
+                 3          fentanyl on social media platforms.
+                 4          (b) CONSULTATION REQUIRED.—In developing the
+                 5 report required by subsection (a), the Commission shall
+                 6 consult with stakeholders, including parents, social media
+                 7 platforms, law enforcement, medical professionals, and
+                 8 other relevant experts.
+                 9          (c) REDACTION PERMITTED.—In publishing the re-
+               10 port required by subsection (a), the Commission, in con-
+               11 sultation with the Attorney General, may redact any infor-
+               12 mation relating to paragraphs (3) and (5) of such sub-
+               13 section that may compromise any law enforcement tactic,
+               14 strategy, or technique.
+               15               PART 3—ASSESSING SAFETY TOOLS FOR
+
+               16                      PARENTS AND MINORS ACT
+
+               17    SEC. 515. SHORT TITLE.
+
+               18           This part may be cited as the ‘‘Assessing Safety
+               19 Tools for Parents and Minors Act’’.
+               20    SEC. 516. INDUSTRY REVIEW AND REPORT.
+
+               21           (a) REVIEW.—Not later than 6 months after the date
+               22 of the enactment of this Act, the Commission, in consulta-
+               23 tion with industry, parents, individuals with expertise in
+               24 communications technologies, parental controls, privacy,
+
+
+
+
+g:\V\G\030326\G030326.041.xml     (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 58
+                 1 and mental health, and any other appropriate entities as
+                 2 determined by the Commission, shall—
+                 3               (1) initiate a review of industry efforts to pro-
+                 4          mote online safety for minors through education, pa-
+                 5          rental and child safety tools, age-appropriate labels
+                 6          for content, privacy and other safety settings, or
+                 7          other relevant technologies or initiatives; and
+                 8               (2) examine the effectiveness of industry efforts
+                 9          identified under paragraph (1) to mitigate online
+               10           harms for minors and provide recommendations for
+               11           industry, Congress, and agencies to improve online
+               12           safety for minors.
+               13           (b) SUBMISSION OF REPORT.—Not later than 3 years
+               14 after the date of the enactment of this Act, the Commis-
+               15 sion shall submit to the Committee on Commerce, Science,
+               16 and Transportation of the Senate and the Committee on
+               17 Energy and Commerce of the House of Representatives
+               18 a report with the findings and recommendations resulting
+               19 from the review described in subsection (a).
+               20           (c) EXEMPTION.—Subchapter I of chapter 35 of title
+               21 44, United States Code (commonly known as the ‘‘Paper-
+               22 work Reduction Act’’) does not apply to this section.
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   59
+                 1       PART 4—STUDY ON CHATBOTS AND MENTAL
+
+                 2                            HEALTH OF MINORS
+
+                 3   SEC. 517. STUDY REQUIRED.
+
+                 4          The Secretary of Health and Human Services, acting
+                 5 through the Director of the National Institutes of Health,
+                 6 shall conduct a 4-year longitudinal study to evaluate the
+                 7 risks and benefits of chatbots with respect to the mental
+                 8 health of minors, including with respect to loneliness, anx-
+                 9 iety, social skill building, social isolation, depression, self-
+               10 harm, and suicidal ideation.
+               11    SEC. 518. CONSULTATION.
+
+               12           In conducting the study required by section 517, the
+               13 Secretary, acting through the Director, shall consult with
+               14 the following:
+               15               (1) The Director of the National Institute of
+               16           Mental Health.
+               17               (2) Pediatric mental health experts.
+               18               (3) Technologists.
+               19               (4) Ethicists.
+               20               (5) Educators.
+               21    SEC. 519. REPORT.
+
+               22           Not later than 4 years after the date of the enact-
+               23 ment of this Act, the Secretary, acting through the Direc-
+               24 tor, shall submit to the Committee on Energy and Com-
+               25 merce of the House of Representatives and the Commit-
+               26 tees on Commerce, Science, and Transportation and
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 60
+                 1 Health, Education, Labor, and Pensions of the Senate a
+                 2 report on the results of the study required by section 517
+                 3 and any related recommendations.
+                 4                Subtitle B—Education
+                 5       PART 1—PROMOTING A SAFE INTERNET FOR
+
+                 6                            MINORS ACT
+
+                 7   SEC. 521. SHORT TITLE.
+
+                 8          This part may be cited as the ‘‘Promoting a Safe
+                 9 Internet for Minors Act’’.
+               10    SEC. 522. ONLINE SAFETY EDUCATION FOR MINORS.
+
+               11           (a) AMENDMENT.—Subtitle A of the Protecting Chil-
+               12 dren in the 21st Century Act (15 U.S.C. 6551 et seq.)
+               13 is amended by striking sections 211 through 214 and 216
+               14 and inserting the following:
+               15    ‘‘SEC. 211. PUBLIC AWARENESS AND EDUCATIONAL CAM-
+
+               16                    PAIGN.
+
+               17           ‘‘Not later than 180 days after the date of the enact-
+               18 ment of this section, the Commission, in partnership with
+               19 the heads of other relevant agencies, State and local gov-
+               20 ernments, nonprofit organizations, schools, industry, law
+               21 enforcement, medical professionals, and other appropriate
+               22 entities, shall carry out a program throughout the United
+               23 States to promote the safe use of the internet by minors,
+               24 that includes the following:
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 61
+                 1               ‘‘(1) The identification, promotion, and encour-
+                 2          agement of best practices for educators, online plat-
+                 3          forms, minors, and parents and guardians to protect
+                 4          minors online.
+                 5               ‘‘(2) The establishment and implementation of
+                 6          an outreach and education campaign throughout the
+                 7          United States that promotes online safety for mi-
+                 8          nors.
+                 9               ‘‘(3) The facilitation of access to, and the ex-
+               10           change of, information regarding online safety for
+               11           minors to promote up-to-date knowledge regarding
+               12           harms and risks negatively impacting or benefits
+               13           positively impacting minors online.
+               14                ‘‘(4) The facilitation of access to publicly acces-
+               15           sible online safety education and public awareness
+               16           efforts by other relevant agencies, State and local
+               17           governments, nonprofit organizations, schools, indus-
+               18           try, and other appropriate entities.
+               19    ‘‘SEC. 212. ANNUAL REPORT.
+
+               20           ‘‘Not later than 1 year after the date of the enact-
+               21 ment of this section, and annually thereafter for 10 years,
+               22 the Commission shall submit to the Committee on Com-
+               23 merce, Science, and Transportation of the Senate and the
+               24 Committee on Energy and Commerce of the House of
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                  62
+                 1 Representatives a report that describes the activities car-
+                 2 ried out under section 211.
+                 3   ‘‘SEC. 213. DEFINITIONS.
+
+                 4          ‘‘In this subtitle:
+                 5               ‘‘(1) AGENCY.—The term ‘agency’ has the
+                 6          meaning given that term in section 551 of title 5,
+                 7          United States Code.
+                 8               ‘‘(2) COMMISSION.—The term ‘Commission’
+                 9          means the Federal Trade Commission.
+               10                ‘‘(3) MINOR.—The term ‘minor’ means an indi-
+               11           vidual under the age of 17.
+               12                ‘‘(4) NONPROFIT       ORGANIZATION.—The     term
+               13           ‘nonprofit organization’ means an organization that
+               14           is described in section 501(c)(3) of the Internal Rev-
+               15           enue Code of 1986 and exempt from taxation under
+               16           section 501(a) of such Code.
+               17                ‘‘(5) ONLINE SAFETY.—The term ‘online safety’
+               18           includes issues regarding the use of the internet in
+               19           a manner that promotes safe online activity for mi-
+               20           nors through the following:
+               21                       ‘‘(A) Protecting minors from cybercrimes,
+               22                access to narcotics, tobacco products, gambling,
+               23                alcohol, and other adult content.
+
+
+
+
+g:\V\G\030326\G030326.041.xml    (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                       63
+                 1                      ‘‘(B) Preventing compulsive behavior on-
+                 2               line and other adverse impacts on the physical
+                 3               and mental health of minors.
+                 4                      ‘‘(C) Facilitating the effective use of safe-
+                 5               guards, parental controls, and other tools to
+                 6               empower parents, guardians, and minors to pro-
+                 7               tect minors online.
+                 8               ‘‘(6) STATE.—The term ‘State’ means each of
+                 9          the several States, the District of Columbia, each
+               10           commonwealth, territory, or possession of the United
+               11           States, and each federally recognized Indian Tribe.’’.
+               12           (b) TECHNICAL AND CONFORMING AMENDMENTS.—
+               13 The table of contents for subtitle A of the Protecting Chil-
+               14 dren in the 21st Century Act (15 U.S.C. 6551 et seq.)
+               15 is amended—
+               16                (1) by striking the items related to sections 211
+               17           through 214 and 216; and
+               18                (2) inserting before section 215 the following:
+                     ‘‘Sec. 211. Public awareness and educational campaign.
+                     ‘‘Sec. 212. Annual report.
+                     ‘‘Sec. 213. Definitions.’’.
+
+               19        PART 2—AI WARNINGS AND RESOURCES FOR
+
+               20                      EDUCATION (AWARE) ACT
+
+               21    SEC. 523. SHORT TITLE.
+
+               22           This part may be cited as the ‘‘AI Warnings And Re-
+               23 sources for Education Act’’ or the ‘‘AWARE Act’’.
+
+
+g:\V\G\030326\G030326.041.xml    (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 64
+                 1   SEC. 524. SAFE CHATBOT USE FOR MINORS.
+
+                 2          (a) EDUCATIONAL RESOURCES.—Not later than 1
+                 3 year after the date of the enactment of this Act, the Com-
+                 4 mission, in consultation with relevant agencies, shall de-
+                 5 velop and make available to the public educational re-
+                 6 sources for parents, educators, and minors with respect
+                 7 to the safe and responsible use of chatbots by minors.
+                 8          (b) CONTENTS.—The educational resources devel-
+                 9 oped and made available under subsection (a) shall include
+               10 resources on—
+               11               (1) the risks and benefits of chatbot use;
+               12               (2) privacy and data collection practices; and
+               13               (3) best practices for parents supporting the
+               14           safe use of chatbots by minors.
+               15           (c) YOUVILLE.—The Commission shall, in a manner
+               16 appropriate for minors, model the educational resources
+               17 developed and made available under subsection (a) on the
+               18 Youville program of the Commission.
+               19      Subtitle C—Partnerships and Best
+               20                 Practices
+               21    SEC. 525. SHORT TITLE.
+
+               22           This subtitle may be cited as the ‘‘Kids Internet Safe-
+               23 ty Partnership Act’’.
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    65
+                 1   SEC. 526. KIDS INTERNET SAFETY PARTNERSHIP.
+
+                 2          (a) ESTABLISHMENT.—Not later than 1 year after
+                 3 the date of the enactment of this Act, the Secretary shall
+                 4 establish the Kids Internet Safety Partnership.
+                 5          (b) DIRECTOR.—The Secretary shall appoint a Direc-
+                 6 tor to be the head of the Partnership.
+                 7          (c) DUTIES.—The duties of the Partnership shall be
+                 8 the following:
+                 9              (1) Coordinate with relevant agencies, including
+               10           the Commission, and stakeholders to identify—
+               11                      (A) the risks for minors with respect to the
+               12               use of websites, online services, online applica-
+               13               tions, and mobile applications;
+               14                      (B) the benefits for minors with respect to
+               15               the use of websites, online services, online appli-
+               16               cations, and mobile applications; and
+               17                      (C) widely accepted or evidence-based best
+               18               practices that account for minors of different
+               19               ages and—
+               20                             (i) address the risks identified under
+               21                      subparagraph (A); and
+               22                             (ii) preserve and enhance the benefits
+               23                      identified under subparagraph (B).
+               24               (2) Not later than 1 year after the date on
+               25           which the Partnership is established, and every 2
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                     66
+                 1          years thereafter, publish on a publicly available
+                 2          website a report that details—
+                 3                     (A) the identifications made under para-
+                 4               graph (1); and
+                 5                     (B) the efficacy and adoption by websites,
+                 6               online services, online applications, and mobile
+                 7               applications of—
+                 8                            (i) safeguards for minors; and
+                 9                            (ii) parental tools.
+               10                (3) Not later than 2 years after the date on
+               11           which the Partnership is established, publish on a
+               12           publicly available website a playbook for providers
+               13           and developers of websites, online services, online
+               14           applications, and mobile applications to facilitate the
+               15           implementation of widely accepted or evidence-based
+               16           best practices that account for minors of different
+               17           ages and address the risks identified under para-
+               18           graph (1)(A) and preserve and enhance the benefits
+               19           identified under paragraph (1)(B), including best
+               20           practices with respect to—
+               21                      (A) age verification, assurance, and esti-
+               22                mation techniques;
+               23                      (B) design features;
+               24                      (C) parental tools;
+               25                      (D) default privacy and account settings;
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                      67
+                 1                         (E) reporting systems and tools;
+                 2                         (F) third-party safety software services;
+                 3                  and
+                 4                         (G) limitations and opt-outs related to per-
+                 5                  sonalized      recommendation      systems     and
+                 6                  chatbots.
+                 7          (d) STAKEHOLDERS.—In coordinating with stake-
+                 8 holders under subsection (c)(1), the Partnership shall co-
+                 9 ordinate with the following:
+               10                   (1) Academic experts with specific expertise
+               11           with respect to the prevention of risks for minors on-
+               12           line.
+               13                   (2) Researchers with specific expertise with re-
+               14           spect to social media.
+               15                   (3) Parents and minors with demonstrated ex-
+               16           perience with respect to the safety of minors online.
+               17                   (4) Educators with demonstrated experience
+               18           with respect to the safety of minors online.
+               19                   (5) Online platforms.
+               20                   (6) Experts in academia and civil society with
+               21           specific expertise with respect to constitutional law,
+               22           privacy, free expression, access to information, and
+               23           civil liberties.
+               24                   (7) State attorneys general (or designees there-
+               25           of who work in State or local government).
+
+
+g:\V\G\030326\G030326.041.xml       (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    68
+                 1          (e) SUNSET.—The Partnership shall terminate on the
+                 2 date that is 5 years after the date on which the Partner-
+                 3 ship is established.
+                 4          (f) DEFINITIONS.—In this section:
+                 5              (1) PARENTAL          TOOL.—The       term ‘‘parental
+                 6          tool’’—
+                 7                     (A) means a tool that—
+                 8                            (i) a website, online service, online ap-
+                 9                     plication, or mobile application provides to
+               10                      a parent of a user who the service or appli-
+               11                      cation knows is a minor; and
+               12                             (ii) the parent uses to support such
+               13                      user with respect to the use of the website,
+               14                      service, or application; and
+               15                      (B) includes a tool that allows a parent of
+               16               a user who the website, service, or application
+               17               knows is a minor to—
+               18                             (i) view or change the privacy and ac-
+               19                      count settings of such user;
+               20                             (ii) grant or withdraw verifiable pa-
+               21                      rental consent;
+               22                             (iii) restrict the purchases and finan-
+               23                      cial transactions of such user;
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                      69
+                 1                             (iv) view metrics of the total time
+                 2                     spent on such website, service, or applica-
+                 3                     tion by such user;
+                 4                             (v)   restrict   time   spent   on   such
+                 5                     website, service, or application by such
+                 6                     user;
+                 7                             (vi) report illegal or harmful conduct
+                 8                     on such website, service, or application
+                 9                     with respect to which such user may be a
+               10                      victim; and
+               11                              (vii) limit or opt-out of personalized
+               12                      recommendation systems or chatbots.
+               13               (2) PARTNERSHIP.—The term ‘‘Partnership’’
+               14           means the Kids Internet Safety Partnership estab-
+               15           lished under subsection (a).
+               16               (3) SECRETARY.—The term ‘‘Secretary’’ means
+               17           the Secretary of Commerce.
+               18                 TITLE VI—GENERAL
+               19                    PROVISIONS
+               20    SEC. 601. ENFORCEMENT.
+
+               21           (a) ENFORCEMENT BY COMMISSION.—
+               22               (1) UNFAIR OR DECEPTIVE ACTS OR PRAC-
+               23           TICES.—A violation of this Act shall be treated as
+
+               24           a violation of a regulation under section 18(a)(1)(B)
+               25           of the Federal Trade Commission Act (15 U.S.C.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 70
+                 1          57a(a)(1)(B)) regarding unfair or deceptive acts or
+                 2          practices.
+                 3                (2) POWERS OF COMMISSION.—The Commis-
+                 4          sion shall enforce this Act in the same manner, by
+                 5          the same means, and with the same jurisdiction,
+                 6          powers, and duties as though all applicable terms
+                 7          and provisions of the Federal Trade Commission Act
+                 8          (15 U.S.C. 41 et seq.) were incorporated into and
+                 9          made a part of this Act, and any person who violates
+               10           this Act shall be subject to the penalties and entitled
+               11           to the privileges and immunities provided in the
+               12           Federal Trade Commission Act.
+               13                 (3) AUTHORITY PRESERVED.—Nothing in this
+               14           title may be construed to limit the authority of the
+               15           Commission under any other provision of law.
+               16           (b) ACTIONS BY STATES.—
+               17                 (1) IN GENERAL.—In any case in which the at-
+               18           torney general of a State, or an official or agency of
+               19           a State, has reason to believe that an interest of the
+               20           residents of such State has been or is threatened or
+               21           adversely affected by an act or practice in violation
+               22           of this Act, the State, as parens patriae, may bring
+               23           a civil action on behalf of the residents of the State
+               24           in an appropriate district court of the United States
+               25           to—
+
+
+g:\V\G\030326\G030326.041.xml     (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                      71
+                 1                         (A) enjoin such act or practice;
+                 2                         (B) enforce compliance with this Act;
+                 3                         (C) obtain damages, restitution, or other
+                 4                  compensation on behalf of residents of the
+                 5                  State; or
+                 6                         (D) obtain such other legal and equitable
+                 7                  relief as the court may consider to be appro-
+                 8                  priate.
+                 9                  (2) NOTICE.—Before filing an action under this
+               10           subsection, the attorney general, official, or agency
+               11           of the State involved shall provide to the Commis-
+               12           sion a written notice of such action and a copy of
+               13           the complaint for such action. If the attorney gen-
+               14           eral, official, or agency determines that it is not fea-
+               15           sible to provide the notice described in this para-
+               16           graph before the filing of the action, the attorney
+               17           general, official, or agency shall provide written no-
+               18           tice of the action and a copy of the complaint to the
+               19           Commission immediately upon the filing of the ac-
+               20           tion.
+               21                   (3) AUTHORITY OF COMMISSION.—
+               22                          (A) IN   GENERAL.—On       receiving notice
+               23                   under paragraph (2) of an action under this
+               24                   subsection, the Commission shall have the
+               25                   right—
+
+
+g:\V\G\030326\G030326.041.xml       (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                    72
+                 1                            (i) to intervene in the action;
+                 2                            (ii) upon so intervening—
+                 3                                 (I) to be heard on all matters
+                 4                            arising therein; and
+                 5                                 (II) to file petitions for appeal.
+                 6                     (B) LIMITATION ON STATE ACTION WHILE
+                 7              FEDERAL ACTION IS PENDING.—If the Commis-
+
+                 8              sion or the Attorney General of the United
+                 9              States has instituted a civil action for violation
+               10               of this Act (referred to in this subparagraph as
+               11               the ‘‘Federal action’’), no State attorney gen-
+               12               eral, official, or agency may bring an action
+               13               under this subsection during the pendency of
+               14               the Federal action against any defendant
+               15               named in the complaint in the Federal action
+               16               for any violation of this Act alleged in such
+               17               complaint.
+               18               (4) RULE OF CONSTRUCTION.—For purposes of
+               19           bringing a civil action under this subsection, nothing
+               20           in this Act may be construed to prevent an attorney
+               21           general, official, or agency of a State from exercising
+               22           the powers conferred on the attorney general, offi-
+               23           cial, or agency by the laws of such State to conduct
+               24           investigations, administer oaths and affirmations, or
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 73
+                 1          compel the attendance of witnesses or the production
+                 2          of documentary and other evidence.
+                 3   SEC. 602. JUDICIAL REVIEW.
+
+                 4          (a) EXCLUSIVE JURISDICTION.—The United States
+                 5 District Court for the District of Columbia shall have ex-
+                 6 clusive jurisdiction over any challenge to the constitu-
+                 7 tionality of this Act or the constitutionality of any action,
+                 8 finding, or determination under this Act.
+                 9          (b) STATUTE OF LIMITATIONS.—A challenge to this
+               10 Act may only be brought—
+               11               (1) in the case of a challenge to the constitu-
+               12           tionality of this Act, not later than 60 days after the
+               13           date of the enactment of this Act; and
+               14               (2) in the case of a challenge to the constitu-
+               15           tionality of any action, finding, or determination
+               16           under this Act, not later than 120 days after the
+               17           date of such action, finding, or determination.
+               18    SEC. 603. RULES OF CONSTRUCTION.
+
+               19           Nothing in this Act may be construed to do any of
+               20 the following:
+               21               (1) Allow a governmental entity to enforce this
+               22           Act based on a viewpoint expressed by or through
+               23           any speech, expression, or information protected by
+               24           the First Amendment to the Constitution of the
+               25           United States.
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                   74
+                 1               (2) Prevent the taking of reasonable measures
+                 2          to block or filter spam, prevent criminal activity, or
+                 3          protect the security of a platform or service.
+                 4               (3) Require the disclosure of the browsing be-
+                 5          havior, search history, messages, contact list, or
+                 6          other content or metadata of the communications of
+                 7          a minor.
+                 8               (4) Limit or impair the Children’s Online Pri-
+                 9          vacy Protection Act of 1998 (15 U.S.C. 6501 et
+               10           seq.) or any rule or regulation promulgated under
+               11           such Act.
+               12                (5) Expand, limit the scope of, or alter the
+               13           meaning of section 230 of the Communications Act
+               14           of 1934 (47 U.S.C. 230).
+               15                (6) Restrict the ability to—
+               16                       (A) cooperate with a law enforcement
+               17                agency regarding activity reasonably and in
+               18                good faith believed to violate a Federal, State,
+               19                or local law, rule, or regulation;
+               20                       (B) comply with a lawful civil, criminal, or
+               21                regulatory inquiry, subpoena, or summons from
+               22                a Federal, State, local, or other governmental
+               23                authority;
+               24                       (C) investigate, establish, exercise, respond
+               25                to, or defend against a legal claim;
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                     75
+                 1                         (D) prevent, detect, or respond to a secu-
+                 2                  rity incident, identity theft, fraud, harassment,
+                 3                  or any other malicious, deceptive, or illegal ac-
+                 4                  tivity; or
+                 5                         (E) investigate or report a person respon-
+                 6                  sible for an activity described in subparagraph
+                 7                  (D).
+                 8                  (7) Decrypt or ensure an ability to decrypt an
+                 9          encrypted communication of a user.
+               10                   (8) Preclude the use of any form of encryption,
+               11           including end-to-end encryption, for any communica-
+               12           tion of a user.
+               13                   (9) Design, build, or implement any feature,
+               14           function, software, hardware, or other capability for
+               15           the purpose of weakening, undermining, circum-
+               16           venting, or overcoming any security control, includ-
+               17           ing encryption, that is used to protect the privacy or
+               18           security of any communication or data of a user.
+               19                   (10) Require indefinite retention of data of a
+               20           user.
+               21                   (11) Require the affirmative collection of any
+               22           personal information with respect to age that is not
+               23           collected already in the normal course of business.
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+G:\M\19\GUTHRI\GUTHRI_008.XML
+
+                                                 76
+                 1   SEC. 604. SEVERABILITY.
+
+                 2          If any provision of this Act or the application of this
+                 3 Act to any person or circumstance is held to be unconstitu-
+                 4 tional, the remaining provisions of this Act and the appli-
+                 5 cation of this Act to other persons or circumstances shall
+                 6 not be affected.
+                 7   SEC. 605. EFFECTIVE DATE.
+
+                 8          Except as otherwise provided in this Act, this Act
+                 9 shall take effect on the date that is 1 year after the date
+               10 of the enactment of this Act.
+
+                                                ◊
+
+
+
+
+g:\V\G\030326\G030326.041.xml   (1049013|5)
+March 3, 2026 (8:50 p.m.)
+

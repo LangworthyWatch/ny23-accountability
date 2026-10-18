@@ -1,0 +1,95 @@
+{
+    "actions": [
+        {
+            "actionDate": "2026-07-13",
+            "committees": [
+                {
+                    "name": "Commerce, Science, and Transportation Committee",
+                    "systemCode": "sscm00",
+                    "url": "https://api.congress.gov/v3/committee/senate/sscm00?format=json"
+                }
+            ],
+            "sourceSystem": {
+                "name": "Senate"
+            },
+            "text": "Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+            "type": "IntroReferral"
+        },
+        {
+            "actionCode": "H38310",
+            "actionDate": "2026-06-29",
+            "actionTime": "19:02:09",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Motion to reconsider laid on the table Agreed to without objection.",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H37300",
+            "actionDate": "2026-06-29",
+            "actionTime": "19:02:07",
+            "recordedVotes": [
+                {
+                    "chamber": "House",
+                    "congress": 119,
+                    "date": "2026-06-29T23:02:07Z",
+                    "rollNumber": 228,
+                    "sessionNumber": 2,
+                    "url": "https://clerk.house.gov/evs/2026/roll228.xml"
+                }
+            ],
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 267 - 117 (Roll no. 228). (text: CR H4280-4292)",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "8000",
+            "actionDate": "2026-06-29",
+            "actionTime": "19:02:07",
+            "recordedVotes": [
+                {
+                    "chamber": "House",
+                    "congress": 119,
+                    "date": "2026-06-29T23:02:07Z",
+                    "rollNumber": 228,
+                    "sessionNumber": 2,
+                    "url": "https://clerk.house.gov/evs/2026/roll228.xml"
+                }
+            ],
+            "sourceSystem": {
+                "code": 9,
+                "name": "Library of Congress"
+            },
+            "text": "Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 267 - 117 (Roll no. 228). (text: CR H4280-4292)",
+            "type": "Floor"
+        },
+        {
+            "actionCode": "H30000",
+            "actionDate": "2026-06-29",
+            "actionTime": "18:30:49",
+            "sourceSystem": {
+                "code": 2,
+                "name": "House floor actions"
+            },
+            "text": "Considered as unfinished business. (consideration: CR H4302)",
+            "type": "Floor"
+        }
+    ],
+    "pagination": {
+        "count": 13,
+        "next": "https://api.congress.gov/v3/bill/119/hr/7757/actions?offset=5&limit=5&format=json"
+    },
+    "request": {
+        "billNumber": "7757",
+        "billType": "hr",
+        "billUrl": "https://api.congress.gov/v3/bill/119/hr/7757?format=json",
+        "congress": "119",
+        "contentType": "application/json",
+        "format": "json"
+    }
+}
