@@ -24,9 +24,11 @@ pump station, helping prepare a former military depot site for
 manufacturing, warehousing and logistics, according to his release.
 
 That is good news for the county. The question is the verb. Rep.
-Langworthy told constituents he was "proud to secure" the money. ARC
-grants in New York are applied for at the state level and reviewed by ARC,
-not awarded by members of Congress. Sen. Chuck Schumer, who announced the
+Langworthy told constituents he was "proud to secure" the money. But ARC
+grants are decided through a process that runs without him: applications
+are reviewed by regional and state officials and by ARC, and ARC decides
+whether to fund them. No step in ARC's published process gives a member of
+Congress a vote or a decision. Sen. Chuck Schumer, who announced the
 same grant the same day, says the money comes from a 2021 law, passed
 before Rep. Langworthy took office. His own press release describes no
 role for him in winning it.
@@ -67,6 +69,11 @@ told he secured the money; the release is where ARC is named.
 
 ## How ARC grants are awarded in New York
 
+**The decision is made without him.** In ARC's published process for New
+York, every step is handled by the applicant, a regional planning board,
+the state and ARC itself. A member of Congress does not apply, does not rate applications,
+does not approve them and does not decide funding.
+
 **ARC grants start with the state, not Congress.** ARC is a federal-state
 partnership. Its own guidance says: "All ARC Area Development grant
 proposals originate at the state level in consultation with the ARC state
@@ -90,8 +97,9 @@ track or process applied. In every ARC track, ARC itself decides funding.
 
 **Members of Congress can write support letters.** The board's 2027
 application presentation says: "Support Letters are good, and nice to have
-(particularly from your congressperson and your senators)." That is the
-only role for a member that the board's materials describe. His release
+(particularly from your congressperson and your senators)." That
+optional letter is the only role for a member that the board's materials
+describe; it is not a step in the decision. His release
 does not say he wrote one, and we found no record that he did; support
 letters are usually not made public.
 
@@ -120,10 +128,11 @@ Chemung Canal Connector grant but not this one. We also could not find the
 program track the money came from,
 or the source of the $1.4 million state match.
 
-In plain language: the county won a grant that ARC reviewed and funded,
-from money Sen. Schumer says Congress approved before Rep. Langworthy was
-in office. He announced it. The record shows no part he played in getting
-it, which is what "secure" claims.
+In plain language: the county applied and ARC decided, in a process that
+does not run through his office. The money,
+according to Sen. Schumer, comes from a law passed before Rep. Langworthy
+was in office. He announced the result. The record shows no part he played
+in getting it, which is what "secure" claims.
 
 ---
 

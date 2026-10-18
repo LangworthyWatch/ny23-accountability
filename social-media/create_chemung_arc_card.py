@@ -39,11 +39,12 @@ for i, ln in enumerate(['"Congressman Nick Langworthy today', 'announced that Ch
 y = top + hero_h + 14
 
 # ---- the record ------------------------------------------------------------------------
-rows = [("How it was awarded", "ARC grants start with the state and are reviewed and funded by ARC, a federal-state agency."),
+rows = [("Decided without him", "The applicant, state and regional reviewers and ARC handle every step. ARC decides funding."),
+        ("No vote for Congress", "No step in ARC's process gives a member of Congress a decision. A support letter is optional."),
         ("Not an earmark", "His project request lists for 2024 through 2027 include no Chemung sewer project."),
         ("Same-day claim", "Sen. Schumer announced it too and says the money is from the 2021 infrastructure law."),
-        ("His role", "His release describes none. We found no support letter (such letters are usually not public).")]
-row_h = 54
+        ("His role", "His release describes none. We found no letter from him (such letters are usually not public).")]
+row_h = 50
 box_h = 40 + row_h * len(rows)
 c.panel(44, y, c.w - 44, y + box_h, fill=WHITE, outline=BORDER)
 c.text(c.w / 2, y + 22, "WHAT THE RECORD SHOWS", size=14, bold=True, fill=NAVY, anchor="mm")
@@ -67,7 +68,7 @@ y += fr_h + 12
 kick_h = 84
 c.panel(44, y, c.w - 44, y + kick_h, fill=NAVY, outline=None)
 c.text(c.w / 2, y + 27, "$1.4 million from ARC, plus $1.4 million in state money, for a $2.8 million project.", size=13.5, fill=LIGHTGRAY, anchor="mm")
-c.text(c.w / 2, y + 57, "Good news for Chemung County. \"Secure\" is a bigger claim than the record supports.", size=17, bold=True, fill=WHITE, anchor="mm")
+c.text(c.w / 2, y + 57, "He announced the result of a process that runs without him.", size=19, bold=True, fill=WHITE, anchor="mm")
 y += kick_h + 12
 
 c.text(c.w / 2, y, "Sources: Langworthy release, Oct 15, 2026  ·  Schumer release, Oct 15, 2026  ·  ARC  ·  Southern Tier Central Regional Planning Board  ·  his FY24-27 project requests",
