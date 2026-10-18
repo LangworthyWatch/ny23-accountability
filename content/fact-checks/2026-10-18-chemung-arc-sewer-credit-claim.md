@@ -7,7 +7,7 @@ claim_date: "October 16, 2026"
 source: "Facebook Post (official page) and Press Release"
 source_url: "https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-14-million-chemung-county-sewer-improvements"
 archived_url: "https://web.archive.org/web/20261018182524/https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-14-million-chemung-county-sewer-improvements"
-archive_note: "The October 16 Facebook post is a link share on the official page; Facebook is login-walled, so a screenshot is embedded and retained at research/sources/triage-2026-10-18/screenshots/02-official-chemung-arc-sewer-1-4m.png. The post text after 'See more' was not captured. The press release it links is archived above. All other sources are retained under research/sources/triage-2026-10-18/arc-chemung/ (see that folder's README); Wayback captures are listed below where playback was verified."
+archive_note: "The October 16 Facebook post is a link share on the official page; Facebook is login-walled, so a screenshot is embedded and retained at research/sources/triage-2026-10-18/screenshots/02-official-chemung-arc-sewer-1-4m.png. The full post text after 'See more' was transcribed from the live post on October 18, 2026 and is retained at research/sources/triage-2026-10-18/arc-chemung/facebook-post-2026-10-16-full-text.txt. The press release it links is archived above. All other sources are retained under research/sources/triage-2026-10-18/arc-chemung/ (see that folder's README); Wayback captures are listed below where playback was verified."
 verdict: "MISSING CONTEXT"
 publication_note: "This entry does not question the grant or the project. Sewer capacity for an industrial park is a real local need, and the grant is real. It checks one thing: whether 'I'm proud to secure' matches the public record of how the grant was awarded. No comment request was sent to Rep. Langworthy's office before publication; any response, including any record of a support letter for the application, will be published here in full."
 tags: ["credit-claiming", "grants", "arc", "appalachian-regional-commission", "chemung-county", "infrastructure", "iija"]
@@ -40,7 +40,11 @@ role for him in winning it.
 
 > "I'm proud to secure $1.4 million for Chemung County to make critical
 > sewer improvements necessary for the Southern Tier Logistics Business
-> Park to continue the redevelo..." [truncated at "See more"]
+> Park to continue the redevelopment of the former military depot. If we
+> want to attract jobs and economic development, we need the public
+> infrastructure in place to make it happen. This funding will pave the
+> way for new private investments in manufacturing, warehousing, and
+> logistics to strengthen the Southern Tier's long-term economic future."
 
 {{< figure src="/images/fact-checks/2026-10-18-chemung-arc-sewer-post.png" alt="Facebook post from the Congressman Nick Langworthy official page reading I'm proud to secure $1.4 million for Chemung County to make critical sewer improvements, linking a press release headlined Congressman Langworthy Announces $1.4 Million for Chemung County Sewer" caption="The October 16, 2026 post on the official page." >}}
 
@@ -55,8 +59,9 @@ The press release it links, dated October 15, is worded differently:
 > been so focused on securing federal dollars to help position projects
 > like this one."
 
-The rest of the Facebook post, after "See more," was not captured and may
-add context.
+The post itself does not name the Appalachian Regional Commission, the
+state, or the county's application. A reader who sees only the post is
+told he secured the money; the release is where ARC is named.
 
 ---
 
@@ -130,7 +135,8 @@ it, which is what "secure" claims.
   members of Congress. If his office wrote one, that is a real, if small,
   role, and this entry will say so.
 - **His release is more careful than his post.** The release says he
-  "announced" the award; only the post says he secured it.
+  "announced" an ARC award; the post says he secured the money and does not
+  mention ARC.
 - **Sen. Schumer claims credit too.** "I'm proud to deliver" is the same
   kind of claim, though Schumer can point to ARC funding he says he
   negotiated in the 2021 law.
