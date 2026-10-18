@@ -13,6 +13,18 @@ tags: ["Transportation", "Government Transparency", "Preemption"]
 county: ["District-wide"]
 ---
 
+> **Update, October 17, 2026:** The full Energy and Commerce Committee took
+> up the bill on September 2, 2026 and ordered it reported, 26 to 22, on a
+> recorded vote. The committee's vote summary lists Reps. Langworthy and
+> Gottheimer as its sponsors and shows three amendments rejected, including
+> ones offered by Reps. Ocasio-Cortez and Tonko. As of October 16 the
+> govinfo bill-status record had not yet logged the markup, and the bill has
+> had no House floor vote. Source: committee vote summary, September 2, 2026
+> markup (House Committee Repository; retained at
+> research/sources/ec-record-2026-10/activity/docs-house/vote-summaries/).
+> The site's [Energy and Commerce scorecard](/fact-checks/2026-10-17-energy-commerce-scorecard/)
+> places the bill in his wider committee record.
+
 ## Why this matters
 
 A bill with a member's name on it clearing a subcommittee is a real, checkable
@@ -178,4 +190,4 @@ transcribed by this site directly from the post's own attached video audio
 context; bracketed corrections (e.g., "adapted [adopted]") mark obvious
 speech-to-text mishears of common words.
 
-*Last updated: July 16, 2026.*
+*Last updated: October 17, 2026 (full-committee update added).*

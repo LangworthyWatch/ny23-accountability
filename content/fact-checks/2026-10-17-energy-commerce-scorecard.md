@@ -1,15 +1,15 @@
 ---
 title: "'I Can Deliver for NY23 Taxpayers': His Energy and Commerce Record, by the Numbers. Productive in Committee; No Bill of His Has Become Law."
 date: 2026-10-17
-draft: true
+draft: false
 topic: "Legislative Record"
 claim_date: "October 15, 2026"
 source: "Facebook Post (official page); govinfo BILLSTATUS; House committee roll calls; House Clerk"
 source_url: "https://www.facebook.com/RepLangworthy"
 archived_url: ""
-archive_note: "The October 15, 2026 post is a text post on the official page; Facebook is login-walled and cannot be archived, so a screenshot is embedded and retained (research/sources/triage-2026-10-15/screenshots/08-official-energy-commerce-bills.png; research/sources/ec-record-2026-10/post-2026-10-15-ec-bills-screenshot-2.jpg). Bill histories come from govinfo BILLSTATUS bulk data downloaded October 16, 2026 (key bill files retained under research/sources/ec-record-2026-10/bills/xml/). Committee votes come from the roll-call sheets posted to the House Committee Repository (docs.house.gov), all 221 full-committee and 40 subcommittee sheets retained with a parsed table at research/sources/ec-record-2026-10/activity/. Hearing participation comes from govinfo hearing transcripts, retained in the same folder."
+archive_note: "The October 15, 2026 post is a text post on the official page; Facebook is login-walled, its permalink could not be retrieved logged out (so source_url is the page itself), and it cannot be archived, so a screenshot is embedded and retained (research/sources/triage-2026-10-15/screenshots/08-official-energy-commerce-bills.png; research/sources/ec-record-2026-10/post-2026-10-15-ec-bills-screenshot-2.jpg). Bill histories come from govinfo BILLSTATUS bulk data downloaded October 16, 2026 (key bill files retained under research/sources/ec-record-2026-10/bills/xml/). Committee votes come from the roll-call sheets posted to the House Committee Repository (docs.house.gov), all 221 full-committee and 40 subcommittee sheets retained with a parsed table at research/sources/ec-record-2026-10/activity/. Hearing participation comes from govinfo hearing transcripts, retained in the same folder."
 verdict: "MISSING CONTEXT"
-publication_note: "This entry is a record review, not an accusation. It reports what the public records show about Rep. Langworthy's work on the Energy and Commerce Committee, including the parts that reflect well on him. No comment request was sent to Rep. Langworthy's office before publication; any response will be published here in full."
+publication_note: "Published October 17, 2026. This entry is a record review, not an accusation. It reports what the public records show about Rep. Langworthy's work on the Energy and Commerce Committee, including the parts that reflect well on him. No comment request was sent to Rep. Langworthy's office before publication; any response will be published here in full."
 tags: ["energy-and-commerce", "legislative-record", "committee-votes", "power-act", "grid-power-act", "state-energy-accountability-act", "scorecard"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
