@@ -1,4 +1,4 @@
-# DRAFT Oct 18, 2026 (post only after the entry is published)
+# DRAFT Oct 18, 2026 (entry published Oct 18)
 # Entry: /fact-checks/2026-10-18-chemung-arc-sewer-credit-claim/  (MISSING CONTEXT)
 # Card: chemung_arc_card.png (create_chemung_arc_card.py)
 

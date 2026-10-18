@@ -1,7 +1,7 @@
 ---
 title: "'I'm Proud to Secure $1.4 Million' for Chemung County's Sewers. The Grant Is Real. It Came Through ARC's Review Process, Sen. Schumer Credits a 2021 Law, and He Announced It the Same Day."
 date: 2026-10-18
-draft: true
+draft: false
 topic: "Credit-Claiming"
 claim_date: "October 16, 2026"
 source: "Facebook Post (official page) and Press Release"
@@ -9,7 +9,7 @@ source_url: "https://langworthy.house.gov/media/press-releases/congressman-langw
 archived_url: "https://web.archive.org/web/20261018182524/https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-14-million-chemung-county-sewer-improvements"
 archive_note: "The October 16 Facebook post is a link share on the official page; Facebook is login-walled, so a screenshot is embedded and retained at research/sources/triage-2026-10-18/screenshots/02-official-chemung-arc-sewer-1-4m.png. The full post text after 'See more' was transcribed from the live post on October 18, 2026 and is retained at research/sources/triage-2026-10-18/arc-chemung/facebook-post-2026-10-16-full-text.txt. The press release it links is archived above. All other sources are retained under research/sources/triage-2026-10-18/arc-chemung/ (see that folder's README); Wayback captures are listed below where playback was verified."
 verdict: "MISSING CONTEXT"
-publication_note: "This entry does not question the grant or the project. Sewer capacity for an industrial park is a real local need, and the grant is real. It checks one thing: whether 'I'm proud to secure' matches the public record of how the grant was awarded. No comment request was sent to Rep. Langworthy's office before publication; any response, including any record of a support letter for the application, will be published here in full."
+publication_note: "Published October 18, 2026. This entry does not question the grant or the project. Sewer capacity for an industrial park is a real local need, and the grant is real. It checks one thing: whether 'I'm proud to secure' matches the public record of how the grant was awarded. No comment request was sent to Rep. Langworthy's office before publication; any response, including any record of a support letter for the application, will be published here in full."
 tags: ["credit-claiming", "grants", "arc", "appalachian-regional-commission", "chemung-county", "infrastructure", "iija"]
 counties: ["chemung"]
 ---

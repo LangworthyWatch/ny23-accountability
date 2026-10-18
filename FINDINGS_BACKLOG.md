@@ -62,7 +62,7 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 
 | Item | Card / text | Live entry? | Social status |
 |---|---|---|---|
-| Chemung $1.4M ARC sewer credit claim (MISSING CONTEXT) | card `chemung_arc_card.png` + caption `chemung_arc_post.md` (Desktop copy of card) | **no: draft, under review** | READY once entry is published |
+| Chemung $1.4M ARC sewer credit claim (MISSING CONTEXT) | card `chemung_arc_card.png` + caption `chemung_arc_post.md` (Desktop copy of card) | yes (live Oct 18) | **READY to post** |
 | Energy and Commerce scorecard (MISSING CONTEXT, #172) | card `ec_scorecard_card.png` + caption `ec_scorecard_post.md` (Desktop copy of card) | yes (live Oct 17) | **READY to post** |
 | Who funds him and who can reach him (DOCUMENTED PATTERN, #171) | card `funding_access_card.png` + caption `funding_access_post.md` (Desktop copy of card) | yes (live Oct 16) | **READY to post** |
 | Energy Choice Act supporter money (DOCUMENTED PATTERN, #170) | card `energy_choice_money_card.png` + caption `energy_choice_money_post.md` (Desktop copy of card) | yes (live Oct 16) | **READY to post** |

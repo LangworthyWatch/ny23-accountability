@@ -1,9 +1,9 @@
 {
   "generated": "2026-10-18",
-  "total": 172,
+  "total": 173,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 57,
+    "MISSING CONTEXT": 58,
     "MISLEADING": 39,
     "DOCUMENTED PATTERN": 31,
     "CONTRADICTION": 13,
@@ -20,18 +20,18 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 59,
-      "pct": 34.3
+      "count": 60,
+      "pct": 34.7
     },
     {
       "label": "MISLEADING",
       "count": 39,
-      "pct": 22.7
+      "pct": 22.5
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 31,
-      "pct": 18.0
+      "pct": 17.9
     },
     {
       "label": "CONTRADICTION",
@@ -89,6 +89,7 @@
     "Environment": 3,
     "Foreign Policy": 3,
     "Constituent Service": 3,
+    "Credit-Claiming": 2,
     "Legislative Record": 2,
     "Public Safety": 2,
     "Labor": 2,
@@ -101,7 +102,6 @@
     "Financial Disclosure": 1,
     "Disability & Education": 1,
     "Disaster Recovery": 1,
-    "Credit-Claiming": 1,
     "Voting Record": 1,
     "Oversight": 1,
     "Defense": 1,
@@ -122,9 +122,16 @@
     "2026-07": 24,
     "2026-08": 8,
     "2026-09": 13,
-    "2026-10": 6
+    "2026-10": 7
   },
   "entries": [
+    {
+      "title": "I'm Proud to Secure $1.4 Million' for Chemung County's Sewers. The Grant Is Real. It Came Through ARC's Review Process, Sen. Schumer Credits a 2021 Law, and He Announced It the Same Day.",
+      "date": "2026-10-18",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Credit-Claiming",
+      "url": "/fact-checks/2026-10-18-chemung-arc-sewer-credit-claim/"
+    },
     {
       "title": "I Can Deliver for NY23 Taxpayers': His Energy and Commerce Record, by the Numbers. Productive in Committee; No Bill of His Has Become Law.",
       "date": "2026-10-17",
