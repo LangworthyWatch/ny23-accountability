@@ -17,7 +17,7 @@ How he voted:
 
 What happened this month:
 → On Oct 16 the President waived the law's tariffs and nearly all of its other sanctions provisions.
-→ Reuters, citing anonymous officials, reported that a White House order limited Ukraine's satellite access. The administration denies it. Four Republican senators asked the Pentagon's inspector general to investigate.
+→ Reuters, citing anonymous officials, reported that a White House order limited Ukraine's satellite access. The administration denies it. Four GOP senators asked the Pentagon's inspector general to investigate.
 → Since June 2024, his office hasn't issued a press release on Russia or Ukraine, and we found no statement from him on the waiver.
 
 The fair reading: he says he opposed the 2024 aid bill over non-military spending and a forgivable loan, and that he backs Ukraine's defense. The 2022 statement came as a party chairman criticizing a president of the other party. He may have addressed it in an interview we didn't review.
