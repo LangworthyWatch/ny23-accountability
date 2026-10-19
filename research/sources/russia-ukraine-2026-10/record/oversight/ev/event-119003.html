@@ -1,0 +1,782 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1"><meta http-equiv="Content-Type" content="text/javascript; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"gov-bam.nr-data.net","errorBeacon":"gov-bam.nr-data.net","licenseKey":"9993044f26","applicationID":"91215909","transactionName":"Z1xRYBQHCxYFAEQNCl4Wcmc2SQYECAZeAARCFlFNAxAACxBNURcVSA==","queueTime":0,"applicationTime":159,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["gov-bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"9993044f26",applicationID:"91215909",browserID:"91215921"};;/*! For license information please see nr-loader-rum-1.324.0.min.js.LICENSE.txt */
+(()=>{var e={8122(e,t,r){"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3);if(!t||"object"!=typeof t)return(0,n.R)(4);const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(r).length?e:r;for(let s in a)if(void 0!==e[s])try{if(null===e[s]){r[s]=null;continue}Array.isArray(e[s])&&Array.isArray(t[s])?r[s]=Array.from(new Set([...e[s],...t[s]])):e[s]instanceof Map||e[s]instanceof Set||e[s]instanceof Date||e[s]instanceof RegExp?r[s]=e[s]:"object"==typeof e[s]&&null!==t[s]&&"object"==typeof t[s]?r[s]=i(e[s],t[s]):r[s]=e[s]}catch(e){r[s]||(0,n.R)(1,e)}return r}catch(e){(0,n.R)(2,e)}}},2555(e,t,r){"use strict";r.d(t,{f:()=>s});var n=r(384),i=r(8122);const a={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0};function s(e){try{return!!e.licenseKey&&!!e.errorBeacon&&!!e.applicationID}catch(e){return!1}}r.d(t,["D",0,e=>(0,i.a)(e,a)])},7699(e,t,r){"use strict";var n=r(860);const i=1e6,a={[n.K7.logging]:!0,[n.K7.genericEvents]:!0,[n.K7.jserrors]:!0,[n.K7.ajax]:!0};r.d(t,["It",0,i,"KC",0,a,"qh",0,"SESSION_ERROR","zd",0,5e5])},9324(e,t,r){"use strict";r.d(t,["xv",0,"1.324.0"])},981(e,t,r){"use strict";r.d(t,["R",0,{AJAX:"AjaxRequest",PA:"PageAction",UA:"UserAction",BP:"BrowserPerformance",WS:"WebSocket",SPV:"SecurityPolicyViolation",JSE:"JavaScriptError",LOG:"Log",PVE:"PageView",PVT:"PageViewTiming",SR:"SessionReplay",ST:"SessionTrace",BI:"BrowserInteraction"}])},6154(e,t,r){"use strict";var n=r(1863);const i="undefined"!=typeof window&&!!window.document,a="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),s=i?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=Boolean("hidden"===s?.document?.visibilityState),c=""+s?.location,u=/iPad|iPhone|iPod/.test(s.navigator?.userAgent),d=u&&"undefined"==typeof SharedWorker,l=((()=>{const e=s.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Date.now()-(0,n.t)());r.d(t,["OF",0,u,"RI",0,i,"WN",0,l,"bv",0,a,"gm",0,s,"m",0,c,"mw",0,o,"sb",0,d,"zk",0,()=>{const e=s?.performance?.getEntriesByType?.("navigation")?.[0];if(e&&e.responseStart>0&&e.responseStart<s.performance.now())return e}])},3241(e,t,r){"use strict";r.d(t,{W:()=>i});var n=r(6154);function i(e={}){try{n.gm.dispatchEvent(new CustomEvent("newrelic",{detail:e}))}catch(e){}}},1687(e,t,r){"use strict";r.d(t,{Ak:()=>o,Ze:()=>u,x3:()=>c});var n=r(3241),i=r(3606),a=r(860),s=r(2646);function o(e,t){if(!e)return;const r={staged:!1,priority:a.P3[t]||0};e.runtime.drainRegistry.get(t)||e.runtime.drainRegistry.set(t,r)}function c(e,t){if(!e)return;const r=e.runtime.drainRegistry;r&&(r.get(t)&&r.delete(t),l(e,t,!1),r.size&&d(e))}function u(e,t="feature",r=!1){if(e){if(!e.runtime.drainRegistry.get(t)||r)return l(e,t);e.runtime.drainRegistry.get(t).staged=!0,d(e)}}function d(e){if(!e)return;const t=Array.from(e.runtime.drainRegistry);t.every(([e,t])=>t.staged)&&(t.sort((e,t)=>e[1].priority-t[1].priority),t.forEach(([t])=>{e.runtime.drainRegistry.delete(t),l(e,t)}))}function l(e,t,r=!0){if(!e)return;const a=e.ee,o=i.i.handlers;if(a&&!a.aborted&&a.backlog&&o){if((0,n.W)({type:"lifecycle",name:"drain",feature:t}),r){const e=a.backlog[t],r=o[t];if(r){for(let t=0;e&&t<e.length;++t)f(e[t],r);Object.entries(r).forEach(([e,t])=>{Object.values(t||{}).forEach(t=>{t[0]?.on&&t[0].context()instanceof s.y&&!t[0].listeners(e).includes(t[1])&&t[0].on(e,t[1])})})}}a.isolatedBacklog||delete o[t],a.backlog[t]=null,a.emit("drain-"+t,[])}}function f(e,t){var r=e[1];Object.values(t[r]||{}).forEach(t=>{var r=e[0];if(t[0]===r){var n=t[1],i=e[3],a=e[2];n.apply(i,a)}})}},7836(e,t,r){"use strict";var n=r(384),i=r(8990),a=r(2646),s=r(5607);const o="nr@context:".concat(s.W),c=function e(t,r){var n={},s={},d={},l=!1;try{l=16===r.length&&u.initializedAgents?.[r]?.runtime.isolatedBacklog}catch(e){}var f={on:p,addEventListener:p,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,a){!1!==a&&(a=!0);if(c.aborted&&!i)return;t&&a&&t.emit(e,r,n);var o=g(n);m(e).forEach(e=>{e.apply(o,r)});var u=v()[s[e]];u&&u.push([f,e,r,o]);return o},get:h,listeners:m,context:g,buffer:function(e,t){const r=v();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach(([e,n])=>{s[n]=t,t in r||(r[t]=[])})},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach(e=>{delete f.backlog[e]})},isBuffering:function(e){return!!v()[s[e]]},debugId:r,backlog:l?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:l};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function g(e){return e&&e instanceof a.y?e:e?(0,i.I)(e,o,()=>new a.y(o)):new a.y(o)}function p(e,t){n[e]=m(e).concat(t)}function m(e){return n[e]||[]}function h(t){return d[t]=d[t]||e(f,t)}function v(){return f.backlog}}(void 0,"globalEE"),u=(0,n.Zm)();u.ee||(u.ee=c),r.d(t,["P",0,o,"ee",0,c])},2646(e,t,r){"use strict";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},9908(e,t,r){"use strict";r.d(t,{d:()=>n,p:()=>i});var n=r(7836).ee.get("handle");function i(e,t,r,i,a){a?(a.buffer([e],i),a.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},3606(e,t,r){"use strict";r.d(t,{i:()=>a});var n=r(9908);a.on=s;var i=a.handlers={};function a(e,t,r,a){s(a||n.d,i,e,t,r)}function s(e,t,r,i,a){a||(a="feature"),e||(e=n.d);var s=t[a]=t[a]||{};(s[r]=s[r]||[]).push([e,i])}},3878(e,t,r){"use strict";function n(e,t){return{capture:e,passive:!1,signal:t}}function i(e,t,r=!1,i){window.addEventListener(e,t,n(r,i))}function a(e,t,r=!1,i){document.addEventListener(e,t,n(r,i))}r.d(t,{DD:()=>a,jT:()=>n,sp:()=>i})},5607(e,t,r){"use strict";const n=(0,r(9566).bz)();r.d(t,["W",0,n])},9566(e,t,r){"use strict";r.d(t,{LA:()=>s,bz:()=>a});var n=r(6154);function i(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n.gm?.crypto||n.gm?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".split("").map(e=>"x"===e?i(t,r++).toString(16):"y"===e?(3&i()|8).toString(16):e).join("")}function s(e){const t=n.gm?.crypto||n.gm?.msCrypto;let r,a=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const s=[];for(var o=0;o<e;o++)s.push(i(r,a++).toString(16));return s.join("")}},2614(e,t,r){"use strict";r.d(t,["BB",0,18e5,"Wt",0,"NRBA_SESSION::","iL",0,{SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},"tS",0,{STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},"wk",0,144e5])},1863(e,t,r){"use strict";function n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},944(e,t,r){"use strict";r.d(t,{R:()=>i});var n=r(3241);function i(e,t){"function"==typeof console.debug&&(console.debug("New Relic Warning: https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t),(0,n.W)({drained:null,type:"data",name:"warn",feature:"warn",data:{code:e,secondary:t}}))}},8990(e,t,r){"use strict";r.d(t,{I:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},6389(e,t,r){"use strict";function n(e,t=500,r={}){const n=r?.leading||!1;let i;return(...r)=>{n&&void 0===i&&(e.apply(this,r),i=setTimeout(()=>{i=clearTimeout(i)},t)),n||(clearTimeout(i),i=setTimeout(()=>{e.apply(this,r)},t))}}function i(e){let t=!1;return(...r)=>{t||(t=!0,e.apply(this,r))}}r.d(t,{J:()=>i,s:()=>n})},1910(e,t,r){"use strict";r.d(t,{i:()=>a});var n=r(944);const i=new Map;function a(...e){return e.every(e=>{if(i.has(e))return i.get(e);const t="function"==typeof e?e.toString():"",r=t.includes("[native code]"),a=t.includes("nrWrapper");return r||a||(0,n.R)(64,e?.name||t),i.set(e,r),r})}},5289(e,t,r){"use strict";r.d(t,{GG:()=>s,Qr:()=>c,sB:()=>o});var n=r(3878),i=r(6389);function a(){return"undefined"==typeof document||"complete"===document.readyState}function s(e,t){if(a())return e();const r=(0,i.J)(e),s=setInterval(()=>{a()&&(clearInterval(s),r())},500);(0,n.sp)("load",r,t)}function o(e){if(a())return e();(0,n.DD)("DOMContentLoaded",e)}function c(e){if(a())return e();(0,n.sp)("popstate",e)}},384(e,t,r){"use strict";r.d(t,{Zm:()=>c,bQ:()=>d,dV:()=>u,pV:()=>l});var n=r(6154),i=r(1863),a=r(944),s=r(1910);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function c(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function u(){let e=c();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate||n.gm.setInterval,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch,WS:n.gm.WebSocket},(0,s.i)(...Object.values(e.o))),e}function d(e,t){let r=c();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new Date},r.initializedAgents[e]=t,2===Object.keys(r.initializedAgents).length&&(0,a.R)(69)}function l(){return function(){let e=c();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=c();const t=e.init||{};e.init={...t}}(),u(),function(){let e=c();const t=e.loader_config||{};e.loader_config={...t}}(),c()}r.d(t,["NT",0,o])},2843(e,t,r){"use strict";r.d(t,{G:()=>a,u:()=>i});var n=r(3878);function i(e,t=!1,r,i){(0,n.DD)("visibilitychange",function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)},r,i)}function a(e,t,r){(0,n.sp)("pagehide",e,t,r)}},9300(e,t,r){"use strict";r(860).K7.ajax;r.d(t,["mo",0,{NONE:"none",FAILURES:"failures",ALL:"all"}])},3969(e,t,r){"use strict";const n=r(860).K7.metrics;r.d(t,["TZ",0,n,"XG",0,"storeEventMetrics","xV",0,"storeSupportabilityMetrics"])},6630(e,t,r){"use strict";const n=r(860).K7.pageViewEvent;r.d(t,["T",0,n])},782(e,t,r){"use strict";const n=r(860).K7.pageViewTiming;r.d(t,["T",0,n])},4234(e,t,r){"use strict";r.d(t,{W:()=>i});var n=r(1687);class i{constructor(e,t){this.agentRef=e,this.ee=e?.ee,this.featureName=t,this.blocked=!1}deregisterDrain(){(0,n.x3)(this.agentRef,this.featureName)}}},7767(e,t,r){"use strict";var n=r(6154);r.d(t,["V",0,e=>n.RI&&!0===e?.privacy.cookies_enabled])},8362(e,t,r){"use strict";r.d(t,{d:()=>a});var n=r(9566),i=r(1741);class a extends i.W{agentIdentifier=(0,n.LA)(16)}},1741(e,t,r){"use strict";r.d(t,{W:()=>a});var n=r(944),i=r(4261);class a{#e(e,...t){if(this[e]!==a.prototype[e])return this[e](...t);(0,n.R)(35,e)}addPageAction(e,t){return this.#e(i.hG,e,t)}register(e){return this.#e(i.eY,e)}recordCustomEvent(e,t){return this.#e(i.fF,e,t)}setPageViewName(e,t){return this.#e(i.Fw,e,t)}setCustomAttribute(e,t,r){return this.#e(i.cD,e,t,r)}noticeError(e,t){return this.#e(i.o5,e,t)}setUserId(e,t=!1){return this.#e(i.Dl,e,t)}setApplicationVersion(e){return this.#e(i.nb,e)}setErrorHandler(e){return this.#e(i.bt,e)}addRelease(e,t){return this.#e(i.k6,e,t)}log(e,t){return this.#e("log",e,t)}start(){return this.#e("start")}finished(e){return this.#e(i.BL,e)}recordReplay(){return this.#e(i.CH)}pauseReplay(){return this.#e(i.Tb)}addToTrace(e){return this.#e(i.U2,e)}setCurrentRouteName(e){return this.#e(i.PA,e)}interaction(e){return this.#e(i.dT,e)}wrapLogger(e,t,r){return this.#e(i.Wb,e,t,r)}measure(e,t){return this.#e(i.V1,e,t)}consent(e){return this.#e(i.Pv,e)}}},4261(e,t,r){"use strict";r.d(t,["BL",0,"finished","CH",0,"recordReplay","Dl",0,"setUserId","Fw",0,"setPageViewName","PA",0,"setCurrentRouteName","Pv",0,"consent","Tb",0,"pauseReplay","U2",0,"addToTrace","V1",0,"measure","Wb",0,"wrapLogger","bt",0,"setErrorHandler","cD",0,"setCustomAttribute","dT",0,"interaction","eY",0,"register","fF",0,"recordCustomEvent","hG",0,"addPageAction","k6",0,"addRelease","nb",0,"setApplicationVersion","o5",0,"noticeError"])},1738(e,t,r){"use strict";r.d(t,{U:()=>l,Y:()=>d});var n=r(3241),i=r(9908),a=r(1863),s=r(944),o=r(3969),c=r(8362),u=r(860);function d(e,t,r,a){const d=a||r;!d||d[e]&&d[e]!==c.d.prototype[e]||(d[e]=function(){(0,i.p)(o.xV,["API/"+e+"/called"],void 0,u.K7.metrics,r.ee),(0,n.W)({drained:!!r.runtime?.activatedFeatures,type:"data",name:"api",feature:"api-"+e,data:{}});try{return t.apply(this,arguments)}catch(e){(0,s.R)(23,e)}})}function l(e,t,r,n,s){const o=e.info;null===r?delete o.jsAttributes[t]:o.jsAttributes[t]=r,(s||null===r)&&(0,i.p)("api-"+n,[(0,a.t)(),t,r],void 0,"session",e.ee)}},8374(e,t,r){r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},860(e,t,r){"use strict";const n="events",i="jserrors",a="browser/blobs",s="browser/logs",o={ajax:"ajax",genericEvents:"generic_events",jserrors:i,logging:"logging",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations"},c={[o.pageViewEvent]:1,[o.pageViewTiming]:2,[o.metrics]:3,[o.jserrors]:4,[o.softNav]:5,[o.ajax]:6,[o.sessionTrace]:7,[o.sessionReplay]:8,[o.logging]:9,[o.genericEvents]:10},u={[o.pageViewEvent]:"rum",[o.pageViewTiming]:n,[o.ajax]:n,[o.softNav]:n,[o.metrics]:i,[o.jserrors]:i,[o.sessionTrace]:a,[o.sessionReplay]:a,[o.logging]:s,[o.genericEvents]:"ins"};r.d(t,["$J",0,u,"K7",0,o,"P3",0,c,"XX",0,i,"Yy",0,s,"df",0,a,"hg",0,"connect"])}};const t={};function r(n){const i=t[n];if(void 0!==i)return i.exports;const a=t[n]={exports:{}};return e[n](a,a.exports,r),a.exports}r.m=e,r.d=(e,t)=>{if(Array.isArray(t))for(var n=0;n<t.length;){var i=t[n++],a=t[n++];r.o(e,i)?0===a&&n++:0===a?Object.defineProperty(e,i,{enumerable:!0,value:t[n++]}):Object.defineProperty(e,i,{enumerable:!0,get:a})}else for(var i in t)r.o(t,i)&&!r.o(e,i)&&Object.defineProperty(e,i,{enumerable:!0,get:t[i]})},r.f={},r.e=e=>Promise.all(Object.keys(r.f).reduce((t,n)=>(r.f[n](e,t),t),[])),r.u=e=>"nr-rum-1.324.0.min.js",r.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),(()=>{const e={},t="NRBA-1.324.0.PROD:";r.l=(n,i,a,s)=>{if(e[n])return void e[n].push(i);let o,c;if(void 0!==a){const e=document.getElementsByTagName("script");for(var u=0;u<e.length;u++){const r=e[u];if(r.getAttribute("src")==n||r.getAttribute("data-webpack")==t+a){o=r;break}}}if(!o){c=!0;var d={296:"sha512-Pjy0Jxmo6oAG6oGKLKrf8x8xyaSM1NuL7vLGv9xRLEw0hrpERDruLI5RxlCHNy0NpMyEPWhlC34zujXIR3qJPQ=="};o=document.createElement("script"),o.charset="utf-8",r.nc&&o.setAttribute("nonce",r.nc),o.setAttribute("data-webpack",t+a),o.src=n,0!==o.src.indexOf(window.location.origin+"/")&&(o.crossOrigin="anonymous"),d[s]&&(o.integrity=d[s])}e[n]=[i];const l=(t,r)=>{o.onerror=o.onload=null,clearTimeout(f);const i=e[n];if(delete e[n],o.parentNode?.removeChild(o),i?.forEach(e=>e(r)),t)return t(r)},f=setTimeout(l.bind(null,void 0,{type:"timeout",target:o}),12e4);o.onerror=l.bind(null,o.onerror),o.onload=l.bind(null,o.onload),c&&document.head.appendChild(o)}})(),r.r=e=>{Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},r.p="https://js-agent.newrelic.com/",(()=>{const e={374:0,840:0};r.f.j=(t,n)=>{let i=r.o(e,t)?e[t]:void 0;if(0!==i)if(i)n.push(i[2]);else{const a=new Promise((r,n)=>i=e[t]=[r,n]);n.push(i[2]=a);const s=r.p+r.u(t),o=new Error,c=n=>{if(r.o(e,t)&&(i=e[t],0!==i&&(e[t]=void 0),i)){const e=n&&("load"===n.type?"missing":n.type),r=n&&n.target&&n.target.src;o.message="Loading chunk "+t+" failed: ("+e+": "+r+")",o.name="ChunkLoadError",o.type=e,o.request=r,i[1](o)}};r.l(s,c,"chunk-"+t,t)}};const t=(t,n)=>{let[i,a,s]=n;var o,c,u=0;if(i.some(t=>0!==e[t])){for(o in a)r.o(a,o)&&(r.m[o]=a[o]);if(s)s(r)}for(t&&t(n);u<i.length;u++)c=i[u],r.o(e,c)&&e[c]&&e[c][0](),e[c]=0},n=self["webpackChunk:NRBA-1.324.0.PROD"]=self["webpackChunk:NRBA-1.324.0.PROD"]||[];n.forEach(t.bind(null,0)),n.push=t.bind(null,n.push.bind(n))})(),(()=>{"use strict";r(8374);var e=r(8362),t=r(860);const n=Object.values(t.K7);var i=r(384),a=r(1741);var s=r(2555),o=r(981);t.K7.genericEvents,o.R.PA,o.R.UA,o.R.BP;const c={RESOURCES:"experimental.resources",REGISTER:"register"};var u=r(9300);const d=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var l=r(2614),f=r(944),g=r(8122);const p="[data-nr-mask]",m=e=>(0,g.a)(e,(()=>{const e={feature_flags:[],experimental:{register:!1,resources:!1,iframe_bridge:!1,iframe_domains:[]},mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void 0,block_internal:!0,enabled:!0,autoStart:!0,capture_payloads:u.mo.NONE},api:{register:{get enabled(){return e.feature_flags.includes(c.REGISTER)||e.experimental.register},set enabled(t){e.experimental.register=t},duplicate_data_to_container:!1,get allow_iframe_bridge(){return e.feature_flags.includes(c.IFRAME_BRIDGE)||e.experimental.iframe_bridge},set allow_iframe_bridge(t){e.experimental.iframe_bridge=t},get iframe_domains(){return e.experimental.iframe_domains},set iframe_domains(t){Array.isArray(t)?e.experimental.iframe_domains=t:(0,f.R)(1,t)}}},browser_consent_mode:{enabled:!1},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},get feature_flags(){return e.feature_flags},set feature_flags(t){e.feature_flags=t},generic_events:{enabled:!0,autoStart:!0},harvest:{interval:30},jserrors:{enabled:!0,autoStart:!0},logging:{enabled:!0,autoStart:!0},metrics:{enabled:!0,autoStart:!0},obfuscate:void 0,page_action:{enabled:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,autoStart:!0},performance:{capture_marks:!1,capture_measures:!1,capture_detail:!0,resources:{get enabled(){return e.feature_flags.includes(c.RESOURCES)||e.experimental.resources},set enabled(t){e.experimental.resources=t},asset_types:[],first_party_domains:[],ignore_newrelic:!0}},privacy:{cookies_enabled:!0},proxy:{assets:void 0,beacon:void 0},session:{expiresMs:l.wk,inactiveMs:l.BB},session_replay:{autoStart:!0,enabled:!1,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,fix_stylesheets:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){d(t)?e.mask_selector="".concat(t,",").concat(p):""===t||null===t?e.mask_selector=p:(0,f.R)(5,t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){d(t)?e.block_selector+=",".concat(t):""!==t&&(0,f.R)(6,t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,f.R)(7,t)}},session_trace:{enabled:!0,autoStart:!0},soft_navigations:{enabled:!0,autoStart:!0},ssl:void 0,user_actions:{enabled:!0,elementAttributes:["id","className","tagName","type"]},web_sockets:{enabled:!1}}})());var h=r(6154),v=r(9324);let b=0;const y={buildEnv:"PROD",distMethod:"CDN",version:v.xv,originTime:h.WN},_={consented:!1},w={activatedFeatures:void 0,appMetadata:{},configured:!1,get consented(){return this.session?.state?.consent||_.consented},set consented(e){_.consented=e},customTransaction:void 0,denyList:[],disabled:!1,drainRegistry:new Map,connector:void 0,harvester:void 0,v2Target:void 0,isolatedBacklog:!1,isRecording:!1,loaderType:void 0,maxBytes:3e4,obfuscator:void 0,onerror:void 0,ptid:void 0,releaseIds:{},session:void 0,timeKeeper:void 0,registeredEntities:[],jsAttributesMetadata:{bytes:0},get harvestCount(){return++b},listeningForIframeMessages:!1},R="BA";var A=r(7836),x=r(3241);const E={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0};var S=r(9908);const k="newrelic-iframe-";function T(e,t={},n,o){let{init:c,info:u,loader_config:d,runtime:l={},exposed:f=!0}=t;if(!u){const e=(0,i.pV)();c=e.init,u=e.info,d=e.loader_config}var p;e.init=m(c||{}),e.loader_config=(p=d||{},(0,g.a)(p,E)),u.jsAttributes??={},h.bv&&(u.jsAttributes.isWorker=!0),e.info=(0,s.D)(u);const v=e.init;e.runtime??=(e=>{const t=(0,g.a)(e,w),r=Object.keys(y).reduce((e,t)=>(e[t]={value:y[t],writable:!1,configurable:!0,enumerable:!0},e),{});return Object.defineProperties(t,r)})(l),e.runtime.v2Target??={type:R,instance:e.agentIdentifier,get id(){return e.runtime.appMetadata?.agents?.[0]?.entityGuid},get attributes(){return{"entity.guid":this.id,appId:e.info.applicationID}}},v.proxy.assets&&(e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e})(v.proxy.assets),e.runtime.configured||(Object.defineProperty(e,"beacons",{get:()=>[e.info.beacon,e.info.errorBeacon,e.init.proxy.assets,e.init.proxy.beacon].filter(Boolean)}),Object.defineProperty(e.runtime,"denyList",{get:()=>[...e.init.ajax.deny_list||[],...e.init.ajax.block_internal?e.beacons:[]]}),e.runtime.ptid=e.agentIdentifier,function(e){const t=(0,i.pV)();Object.getOwnPropertyNames(a.W.prototype).forEach(r=>{const n=a.W.prototype[r];if("function"!=typeof n||"constructor"===n)return;let i=t[r];e[r]&&!1!==e.exposed&&"micro-agent"!==e.runtime?.loaderType&&(t[r]=(...t)=>{const n=e[r](...t);return i?i(...t):n})})}(e),e.runtime.loaderType=n,e.ee=A.ee.get(e.agentIdentifier),e.exposed=f,(0,x.W)({drained:!!e.runtime.activatedFeatures,type:"lifecycle",name:"initialize",feature:void 0,data:e.config}),e.init.api.register.allow_iframe_bridge&&h.gm.addEventListener("message",t=>{"string"==typeof t.data?.type&&t.data.type.startsWith(k)&&(0,S.p)("iframe-message",[t],void 0,"IFRAME",e.ee)}),e.runtime.configured=!0)}var j=r(1863),P=r(4261),N=r(1738);var O=r(1687),M=r(4234),I=r(5289),D=r(7767);function V(e){return!!(0,i.dV)().o.MO&&(0,D.V)(e)&&!0===e?.session_trace.enabled}var W=r(6389),B=r(7699);const C=new WeakSet,K=new WeakMap;class U extends M.W{constructor(e,t){super(e,t),this.abortHandler=void 0,this.featAggregate=void 0,this.loadedSuccessfully=void 0,this.onAggregateImported=new Promise(e=>{this.loadedSuccessfully=e}),this.deferred=Promise.resolve(),!1===e.init[this.featureName].autoStart?this.deferred=new Promise((t,r)=>{this.ee.on("manual-start-all",(0,W.J)(()=>{(0,O.Ak)(e,this.featureName),t()}))}):(0,O.Ak)(e,t)}importAggregator(e,t,n={}){if(this.featAggregate)return;const i=async()=>{if(await this.deferred,this.#t(e),!(0,s.f)(e.info))return(0,f.R)(43),e.ee.abort(),void this.loadedSuccessfully(!1);try{await async function(e,t,n){if(K.has(e))return K.get(e);const i=(async()=>{if((0,D.V)(e.init))try{const{setupAgentSession:t}=await r.e(296).then(r.bind(r,1768));t(e)}catch(e){(0,f.R)(20,e),t.emit("internal-error",[e]),(0,S.p)(B.qh,[e],void 0,n,t)}if(e.init.api.register.allow_iframe_bridge)try{const{setupIframeMFEMessageListener:t}=await Promise.resolve().then(function(){const e=new Error("Cannot find module '../../loaders/configure/iframe-message-handler'");throw e.code="MODULE_NOT_FOUND",e});t(e)}catch(e){(0,f.R)(23,e)}const[{Connector:i},{Harvester:a}]=await Promise.all([r.e(296).then(r.bind(r,6589)),r.e(296).then(r.bind(r,5237))]);e.runtime.connector=new i(e),e.runtime.harvester=new a(e);const s=Object.values(e.features).filter(t=>e.runtime.drainRegistry.has(t.featureName));Promise.all(s.map(e=>e.onAggregateImported)).then(()=>e.runtime.harvester.startTimer())})();K.set(e,i),await i}(e,this.ee,this.featureName)}catch(e){return(0,f.R)(79,e),this.ee.abort(),void this.loadedSuccessfully(!1)}try{if(!this.#r(this.featureName,e.runtime.session,e.init))return this.abortHandler?.(),(0,O.Ze)(this.agentRef,this.featureName),void this.loadedSuccessfully(!1);const{Aggregate:r}=await t();this.featAggregate=new r(e,n),e.runtime.harvester.initializedAggregates.push(this.featAggregate),this.loadedSuccessfully(!0)}catch(e){(0,f.R)(34,e),this.abortHandler?.(),(0,O.Ze)(this.agentRef,this.featureName,!0),this.loadedSuccessfully(!1)}};h.RI?(0,I.GG)(()=>i(),!0):i()}#r(e,r,n){if(this.blocked)return!1;switch(e){case t.K7.sessionReplay:return V(n)&&!!r;case t.K7.sessionTrace:return!!r;default:return!0}}#t(e){if(!C.has(e)&&(C.add(e),!(0,s.f)(e.info))){const t=(0,i.pV)();let r={...t.info?.jsAttributes};try{r={...r,...e.info?.jsAttributes}}catch(e){}T(e,{...t,info:{...t.info,jsAttributes:r},runtime:e.runtime},e.runtime.loaderType)}}}var L=r(6630);class F extends U{static featureName=L.T;constructor(e){var t;super(e,L.T),this.setupInspectionEvents(),t=e,(0,N.Y)(P.Fw,function(e,r){"string"==typeof e&&("/"!==e.charAt(0)&&(e="/"+e),t.runtime.customTransaction=(r||"http://custom.transaction")+e,(0,S.p)("api-"+P.Fw,[(0,j.t)()],void 0,void 0,t.ee))},t),this.importAggregator(e,()=>e.init.feature_flags.includes("rum_v2")?r.e(296).then(r.bind(r,908)):r.e(296).then(r.bind(r,7927)))}setupInspectionEvents(){const e=(e,t)=>{e&&(0,x.W)({timeStamp:e.timeStamp,loaded:"complete"===e.target.readyState,type:"window",name:t,data:e.target.location+""})};(0,I.sB)(t=>{e(t,"DOMContentLoaded")}),(0,I.GG)(t=>{e(t,"load")}),(0,I.Qr)(t=>{e(t,"navigate")}),this.ee.on(l.tS.UPDATE,(e,t)=>{(0,x.W)({type:"lifecycle",name:"session",data:t})})}}class G extends e.d{constructor(e){var t;(super(),h.gm)?(this.features={},(0,i.bQ)(this.agentIdentifier,this),this.desiredFeatures=new Set(e.features||[]),this.desiredFeatures.add(F),T(this,e,e.loaderType||"agent"),t=this,(0,N.Y)(P.cD,function(e,r,n=!1){if("string"==typeof e){if(["string","number","boolean"].includes(typeof r)||null===r)return(0,N.U)(t,e,r,P.cD,n);(0,f.R)(40,typeof r)}else(0,f.R)(39,typeof e)},t),function(e){(0,N.Y)(P.Dl,function(t,r=!1){if("string"!=typeof t&&null!==t)return void(0,f.R)(41,typeof t);const n=e.info.jsAttributes["enduser.id"];r&&null!=n&&n!==t?(0,S.p)("api-setUserIdAndResetSession",[t],void 0,"session",e.ee):(0,N.U)(e,"enduser.id",t,P.Dl,!0)},e)}(this),function(e){(0,N.Y)(P.nb,function(t){if("string"==typeof t||null===t)return(0,N.U)(e,"application.version",t,P.nb,!1);(0,f.R)(42,typeof t)},e)}(this),function(e){(0,N.Y)("start",function(){e.ee.emit("manual-start-all")},e)}(this),function(e){(0,N.Y)(P.Pv,function(t=!0){if("boolean"==typeof t){if((0,S.p)("api-"+P.Pv,[t],void 0,"session",e.ee),e.runtime.consented=t,t){const t=e.features.page_view_event;t.onAggregateImported.then(e=>{const r=t.featAggregate;e&&!r.sentRum&&r.sendRum?.()})}}else(0,f.R)(65,typeof t)},e)}(this),this.run()):(0,f.R)(21)}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}get api(){return this}run(){try{const e=function(e){const t={};return n.forEach(r=>{t[r]=!!e[r]?.enabled}),t}(this.init),r=[...this.desiredFeatures],i=this.init.feature_flags.includes("rum_v2");r.sort((e,r)=>t.P3[e.featureName]-t.P3[r.featureName]),r.forEach(r=>{if(!e[r.featureName]&&(i||r.featureName!==t.K7.pageViewEvent))return;const n=function(e){switch(e){case t.K7.ajax:return[t.K7.jserrors];case t.K7.sessionTrace:return[t.K7.ajax,t.K7.pageViewEvent];case t.K7.sessionReplay:return[t.K7.sessionTrace];case t.K7.pageViewTiming:return[t.K7.pageViewEvent];default:return[]}}(r.featureName).filter(e=>!(e in this.features));n.length>0&&(0,f.R)(36,{targetFeature:r.featureName,missingDependencies:n}),this.features[r.featureName]=new r(this)})}catch(e){(0,f.R)(22,e);for(const e in this.features)this.features[e].abortHandler?.();const t=(0,i.Zm)();delete t.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return t.ee.get(this.agentIdentifier).abort(),!1}}}var H=r(2843),z=r(782);class Y extends U{static featureName=z.T;constructor(e){super(e,z.T),h.RI&&((0,H.u)(()=>(0,S.p)("docHidden",[(0,j.t)()],void 0,z.T,this.ee),!0),(0,H.G)(()=>(0,S.p)("winPagehide",[(0,j.t)()],void 0,z.T,this.ee)),this.importAggregator(e,()=>r.e(296).then(r.bind(r,9981))))}}var Z=r(3969);class q extends U{static featureName=Z.TZ;constructor(e){super(e,Z.TZ),this.importAggregator(e,()=>r.e(296).then(r.bind(r,9623)))}}new G({features:[F,Y,q],loaderType:"lite"})})()})();</script><meta name="keywords" /><meta name="description" /><meta name="robots" content="index, follow" /><meta name="rating" content="GENERAL" /><meta name="resource-type" content="document" /><meta name="distribution" content="GLOBAL" /><meta name="classification" content="Legislative Federal Government" /><meta name="author" content="Office of the Clerk, U.S. House of Representatives" /><meta name="govType" content="federal" /><meta name="revisit-after" content="15 Days" /><meta name="resource-type" content="document" /><meta name="doc-class" content="Completed" /><title>
+	“Oversight of Fraud and Misuse of Federal Funds in Minnesota: Part II” | Committee Repository | U.S. House of Representatives
+</title><link href="../Resources/Styles/bootstrap.min.css" rel="stylesheet" type="text/css" /><link href="../Resources/Styles/Default.css" rel="stylesheet" type="text/css" /><link href="../Resources/Styles/Print.css" rel="Stylesheet" type="text/css" media="print" />
+    <script src="../Resources/Scripts/jquery-1.10.1.min.js" type="text/javascript"></script>
+    <script src="../Resources/Scripts/bootstrap.min.js" type="text/javascript"></script>
+    
+</head>
+<body>
+    <form method="post" action="./ByEvent.aspx?EventID=119003" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Committee/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZA2gTqMTViq8eSd_CBHYWufoBIe4cVkliO-mO5LmpAtGN4jhMf57qMHrt1A3oENKHQ2&amp;t=639190689332169432" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E70C8E28" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="DWK8aM3xp8rRFO0xkNo7P4Z5wVSy1uv3OI-lb23niPctQS7zGdFloF3y5ESBTPSw6jkBDTx_48w9p8IKhct8OCoIkBUVe8VWzM3IND5ocNrvaE3P8rkkQL0u3I7e_2O90" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="7+9m3s1HxhP8SwrP5PkSMxM4M98vCKXgR6qo0oxkBUhnjHLSfQdIaWmUgm801l5sGd1Mj8Q1Cj80vbfu26a+1MwaNYF9hnZMDgReGerC8Fpj39NkvXK9xfYEPc0ES/Pz3SmF2/b14mvC2OfpuTcBk2fxWY+UWq+C1G+kzope6zhCPD4bsb2/3FGuhca5JRZUGMsEidZNZIr071LGJ1p9L0WpR1sEiBBaTklfBtBWS9Y=" />
+</div>
+    <div id='container-outer' class='bg'>
+    <div id="container-inner">
+        <div id="header">
+            <div class="header-top">
+                <div class="header-text">
+                    <ul class="navigation-h">
+                        <li><a href="http://docs.house.gov/floor/" title="Bills this Week" target="_blank"
+                            accesskey="3">Bills this Week</a></li>
+                        <li><a href="http://clerk.house.gov/" title="Office of the Clerk" target="_blank"
+                            accesskey="2">Office of the Clerk</a></li>
+                        <li><a href="http://majorityleader.gov/" title="Majority Leader" target="_blank"
+                            accesskey="4">Majority Leader</a></li>
+                        <li><a href="http://rules.house.gov/" title="Committee on Rules" target="_blank"
+                            accesskey="5">Committee on Rules</a></li>
+                        <li><a href="http://house.gov/" title="U.S. House of Representatives" target="_blank"
+                            accesskey="1">U.S. House of Representatives</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="header-primary">
+                <a id="LinkButtonLogo" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonLogo&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Default.aspx&quot;, false, true))"><img id="ImageLogo" title="Committee Repository Logo" src="../Resources/Images/Layout/logo.png" alt="Committee Repository Logo" /></a>
+            </div>
+        </div>
+        <div id="navigation">
+            <ul class="navigation">
+                <li>
+                    <a id="LinkButtonHome" accesskey="h" title="Home" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonHome&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Default.aspx&quot;, false, true))">Calendar</a></li>
+                <li>
+                    <a id="LinkButtonCommittees" accesskey="c" title="Committees" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonCommittees&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Committees.aspx&quot;, false, true))">Committees</a></li>
+                <li>
+                    <a id="LinkButtonSearch" accesskey="s" title="Search" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonSearch&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Search/Home.aspx&quot;, false, true))">Document Search</a></li>
+            </ul>
+        </div>
+        <div id="body">
+            
+            <h2>
+                
+            </h2>
+            <noscript>
+                <div class="alert alert-block">
+                    <b>JavaScript not detected</b>: JavaScript is required to run this site. Please
+                    enable JavaScript in your browser's settings.
+                </div>
+            </noscript>
+            
+    <div id="DivMeetingContent">
+        <style xmlns:dt="http://xsltsl.org/date-time">
+      /* preview styles */
+      div#previewPanel
+      {
+      margin: 10px;
+      font-family: Arial, "Helvetica Neue" , Helvetica, sans-serif;
+      color: #000;
+      font-size: 14px;
+      width: 800px;
+      }
+
+      div#previewPanel h1
+      {
+      font-size: 1.75em;
+      line-height: normal !important;
+      font-weight: bold;
+      border: none;
+      margin: 0px;
+      font-family: Arial, "Helvetica Neue" , Helvetica, sans-serif;
+      color: #000;
+      }
+
+      div#previewPanel h1 blockquote
+      {
+      margin: 5px 0px;
+      padding-left: 15px;
+      border-left: 5px solid #CCC;
+      }
+
+      div#previewPanel h1 blockquote p
+      {
+      margin: 0px;
+      }
+
+      div#previewPanel h2
+      {
+      clear: both;
+      margin: 0 0 5px 0;
+      font-family: Arial, "Helvetica Neue" , Helvetica, sans-serif;
+      color: #000;
+      font-weight: bold;
+      }
+
+      div#previewPanel p
+      {
+      margin: 0px;
+      padding: 0px;
+      }
+
+      div#previewPanel div.witnessPanel
+      {
+      margin-bottom: 15px;
+      }
+
+      div#previewPanel ul
+      {
+      list-style: none;
+      margin: 5px 0px 0px 25px !important;
+      padding: 0px;
+      }
+
+      div#previewPanel a
+      {
+      color: #3457BF;
+      text-decoration: none;
+      }
+
+      div#previewPanel a:hover
+      {
+      text-decoration: underline;
+      }
+
+      div#previewPanel div.divider
+      {
+      border-top: 1px dashed #CCC;
+      padding-top: 15px;
+      margin-top: 15px;
+      clear: both;
+      }
+
+      div#previewPanel .text-small
+      {
+      font-size: 0.85em;
+      }
+
+      div#previewPanel .text-tiny
+      {
+      font-size: 0.75em;
+      }
+
+      div#previewPanel li
+      {
+      margin: 0px 0 3px 0;
+      }
+
+      div#previewPanel p.lastUpdated
+      {
+      font-size: 0.75em;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px dashed #CCC;
+      }
+
+      div#previewPanel div.meeting-date
+      {
+      padding: 5px 15px 5px 0;
+      width: 450px;
+      float: left;
+      border-right: 1px solid #CCC;
+      margin-right: 15px;
+      clear: left;
+      }
+
+      div#previewPanel div.meeting-date p.meetingTime
+      {
+      margin: 0px 0px 3px 0px;
+      }
+
+      div#previewPanel strong.status-alert
+      {
+      padding-top: 5px;
+      display: block;
+      font-style: italic;
+      font-weight: normal;
+      color: #BF3434;
+      }
+
+      div#previewPanel blockquote.location
+      {
+      width: 314px;
+      float: left;
+      clear: right;
+      margin: 0px;
+      padding: 5px 0 5px 0;
+      }
+
+      div#previewPanel strong.notes
+      {
+      clear: both;
+      float: left;
+      width: 100%;
+      display: block;
+      font-weight: normal;
+      margin: 0 0 15px 0;
+      }
+      div#previewPanel strong.newFlags, div#previewPanel strong.updateFlags
+      {
+      padding: 1px 3px;
+      margin:  0;
+      display: block;
+      width: 50%;
+      }
+      div#previewPanel strong.newFlags
+      {
+      color: #4A9152;
+      background-color: #F0F5F0;
+      font-weight: bold;
+      }
+      div#previewPanel strong.updateFlags
+      {
+      color: #D18C0A;
+      font-weight: bold;
+      background-color: #FAEBCF;
+      }
+      h3.witPanelHeader
+      {
+      font-size: 0.85em;
+      font-weight: bold;
+      font-family: Arial;
+      color: #426294;
+      font-style: italic;
+      display: block;
+      background-color: #F0F5F0;
+      width: 25%;
+      }
+    </style>
+<div id="previewPanel" xmlns:dt="http://xsltsl.org/date-time">
+  <div class="well">
+    <h1>
+                Hearing:
+               “Oversight of Fraud and Misuse of Federal Funds in Minnesota: Part II”<small class="text-tiny"><blockquote>
+          <p>Committee on Oversight and Government Reform<br></p>
+        </blockquote></small></h1>
+  </div>
+  <div class="divider"></div>
+  <div class="meeting-date">
+    <p class="meetingTime">
+    Wednesday, March 4, 2026 (9:00 AM)</p><strong class="status-alert">
+                  Meeting was rescheduled to the time and date listed above.
+                </strong></div>
+  <blockquote class="location"><strong>HVC-210 CAPITOL</strong><br> Washington, D.C. </blockquote>
+  <div style="clear: both; width: 100%;"></div>
+  <div class="divider"></div>
+  <div style="clear: both; width: 100%;"></div>
+  <h2>Witnesses</h2>
+  <div class="witnessPanel">
+    <p><strong>The Honorable Keith Ellison </strong><br><small class="text-small">Attorney General, State of Minnesota</small></p><strong class="newFlags">
+        Added
+        03/02/2026 at 04:21 PM</strong><ul>
+      <li>Witness Statement
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-Wstate-EllisonK-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/03/2026 at 12:54 PM</strong></li>
+      <li>Truth in Testimony
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-TTF-EllisonK-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/03/2026 at 12:54 PM</strong></li>
+      <li>Bio
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-Bio-EllisonK-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/03/2026 at 12:54 PM</strong></li>
+    </ul>
+  </div>
+  <div class="witnessPanel">
+    <p><strong>Rev. Mariah Furness Tollgaard </strong><br><small class="text-small">Senior Pastor, Hamline Church United Methodist</small></p><strong class="newFlags">
+        Added
+        04/02/2026 at 11:39 AM</strong><ul>
+      <li>Witness Statement
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-Wstate-TollgaardM-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        04/02/2026 at 11:39 AM</strong></li>
+      <li>Truth in Testimony
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-TTF-TollgaardM-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        04/02/2026 at 11:39 AM</strong></li>
+      <li>Bio
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-Bio-TollgaardM-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        04/02/2026 at 11:39 AM</strong></li>
+    </ul>
+  </div>
+  <div class="witnessPanel">
+    <p><strong>The Honorable Tim Walz </strong><br><small class="text-small">Governor, State of Minnesota</small></p><strong class="newFlags">
+        Added
+        03/02/2026 at 04:21 PM</strong><ul>
+      <li>Witness Statement
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-Wstate-WalzT-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/03/2026 at 12:54 PM</strong></li>
+      <li>Truth in Testimony
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-TTF-WalzT-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/03/2026 at 02:00 PM</strong></li>
+      <li>Bio
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-Bio-WalzT-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/03/2026 at 12:54 PM</strong></li>
+    </ul>
+  </div>
+  <h2>Amendments</h2>
+  <ul class="unstyled">
+    <li>Garcia Amendment to Mace Motion to Subpoena Office of Congressional Workplace Rights
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/BILLS-119-MaceMotion2-G000598-Amdt-1.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/04/2026 at 05:24 PM</strong></li>
+  </ul>
+  <h2>Support Documents</h2>
+  <ul class="unstyled">
+    <li>Notice
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD001.pdf">PDF</a>]
+    </li>
+    <li>Memo
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD002.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        02/28/2026 at 10:51 AM</strong></li>
+    <li>Time Change Notice
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD003.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        02/28/2026 at 02:38 PM</strong></li>
+    <li>Krishnamoorthi Motion to Subpoena Department of Homeland Security Secretary Kristi Noem
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD004.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/04/2026 at 05:11 PM</strong></li>
+    <li>Mace Motion to Subpoena Attorney General Pamela Bondi
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD005.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/04/2026 at 05:11 PM</strong></li>
+    <li>Mace Motion to Subpoena the Office of Congressional Workplace Rights
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD006.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/04/2026 at 05:11 PM</strong></li>
+    <li>Bell Motion to Subpoena Greg Bovino
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD007.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/04/2026 at 05:11 PM</strong></li>
+    <li>UC - Comer - Staff Report - The Cost of Doing Nothing: How Tim Walz and Keith Ellison Fueled Minnesota's Fraud Explosion
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD008.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/20/2026 at 10:09 AM</strong></li>
+    <li>UC - McCollum - Statement for the Record
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD009.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/20/2026 at 12:02 PM</strong></li>
+    <li>UC - Biggs - Article - Biden clemency for convicted fraudsters met with outrage, 'Slap in the face' - Fox News
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD010.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Biggs - Article - Biden's clemency and pardon list includes former elected official, lawyers and medical bill company owner - NBC News
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD011.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Biggs - Article - Minnesota AG who took $10K from scammers says fraud scandal is ‘political theater’ - NYP
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD012.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Biggs - Article - North Dakota judge blasts Biden for setting fraudsters free - North Dakota Monitor
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD013.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Biggs - Article - The drug dealers, thieves and gang leaders who are granted clemency by Biden - Daily Mail
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD014.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Biggs - Article - Victims Shocked After Biden Grants Clemency to Kids for Cash - CNN
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD015.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Biggs - Article - Who Has Joe Biden Pardoned, Full List - Newsweek
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD016.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Cloud - Matthew 25 NIV
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD017.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Comer - Article - Vance, Rosen Warn Minnesota, Medicaid funds frozen as fraud prosecutions ramp up - Alpha News MN
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD018.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Donalds - Minnesota Fraud_ What is the ‘Right’ Number - Jim Nobles - MN Star Tribune
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD019.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Gill - Letter to Chairman Comer re fraud - America First Policy Institute
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD020.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Grothman - Report - MN Financial and Compliance Report on Federally-Assisted Programs
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD021.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - McGuire - Article - KARE 11 Investigates_ Evicted, homeless, paying the price for Minnesota’s fraud crisis - Kare 11
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD022.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Timmons - Report - Roadmap to Program Integrity and Fraud Prevention
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD023.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 10:39 AM</strong></li>
+    <li>UC - Brown - Memo - Trump's Pardons Cheat Victims - Judiciary Dems
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD024.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Frost - Article - Fraud focus why is Trump granting clemency - The Guardian
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD025.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Pressley - Article - Parental stress, raids, and isolation - Hechinger Report
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD026.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Pressley - Letter - State Legislators Tell Congress
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD027.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Randall - Article - ‘Somalis are the scapegoat’ - The Guardian
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD028.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Randall - Article - How Trump Has Exploited Pardons - ProPublica
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD029.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Randall - Article - Military Commander Tells Troops - HuffPost
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD030.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Randall - Article - Trump’s pardons wipe out payments - Washington Post
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD031.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Randall - Article - Trump's flurry of pardons - ABC News
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD032.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Tlaib - Article - Fraud focus, why is Trump granting clemency - The Guardian
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD033.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>UC - Walkinshaw - Article - Trump aide Homan accepted $50,000 - Reuters
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD034.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 11:17 AM</strong></li>
+    <li>Garcia - Article - Attorney General Keith Ellison, My meeting before Feeding our Future raid was routine - MN Star Tribune
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD035.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Article - New Filings Detail Harrowing Accounts of ICE and Border Patrol Violence - ACLU
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD036.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Article - Operation Metro Surge results in 203 million impact - City of Minneapolis
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD037.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Article - Source disputes story prompting Trump's comments about Somalis in MN - Star Tribune
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD038.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Article - States ranked by Medicaid fraud dollars in 2022 - Becker's Hospital Review
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD039.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Article - The ICE Shooting Came During an Operation Focused on Somali Immigrants - New York Times
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD040.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Article - US citizen says ICE detained him in underwear in frigid cold with no warrant - AP News
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD041.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Dec 2025 Advisory Opinion - MN AG Ellison
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD042.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Feb 2025 Advisory Opinion - MN AG Ellison
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD043.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - H.F. 2354 - Medical Assistance Protection (MAP) Act
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD044.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - MN Stat. 8.01
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD045.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - MN Stat. 388.051
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD046.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - MN Stat. 631.50
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD047.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Notification - RY 2025 Medicaid Improper Payment Rates - CMS
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD048.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>Garcia - Report - Public Corruption by State - Cato
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD049.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>UC - Garcia - Report - Public Corruption by State - Cato
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD050.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 12:00 PM</strong></li>
+    <li>UC - Biggs - Article - Aimee Bock Alleges Gov Tim Walz, AG Keith Ellison Knew of MN Fraud - FoxNews
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD051.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - Anti-ICE Agitators Set Up Blockade on MN Street, Check Divers' License Plates - AlphaNews
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD052.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - Conservatives Blast Dems, Walz for Likening ICE Agents to Nazi Police Force - Fox News
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD053.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - ICE Restricted from MN-Owned Parking Areas, Mayor Frey Orders - Fox9
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD054.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - MN AG's Legal Opinion Could Threaten Some County Agreements with ICE - MN Reformer
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD055.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - MN Grandma Jailed for Defying Walz COVID Lockdown Orders Warns 'You Do Not Want Tyranny At This Level' - FoxNews
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD056.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - MN Mom Jailed over COVID Accuses Walz of 'Tyranny' - The Express
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD057.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - Mother Ponders 'Taking Out' Her Own Kids To Avoid ICE - Daily Caller
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD058.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - SCOOP, Tim Walz Accused of Stonewalling Key Probe as Somali Fraud Sweeps His State - Daily Caller
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD059.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - Tim Walz Urges Minnesotans to 'Resist' Federal 'Occupation' - Breitbart
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD060.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - Tim Walz Was a COVID-19 Tyrant - Reason
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD061.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Biggs - Article - Walz, Omar Using ICE Operations to Distract from Fraud Scandal - Breitbart
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD062.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/26/2026 at 02:21 PM</strong></li>
+    <li>UC - Higgins - Article - Gov Walz Calls for Tougher Medicaid Fraud Penalties as FBI Investigates Autism Centers - MN Star Tribune
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-SD063.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        04/06/2026 at 11:52 AM</strong></li>
+  </ul>
+  <h2>Votes</h2>
+  <ul class="unstyled">
+    <li>Vote #01: Krishnamoorthi Motion to Subpoena Homeland Security Secretary Kristi Noem. The motion failed by a recorded vote of 19-24.
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/CRPT-119-GO00-Vote001-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/05/2026 at 05:40 PM</strong></li>
+    <li>Vote #02: Mace Motion to Subpoena Attorney General Pamela Bondi. The motion passed by a recorded vote of 24-19.
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/CRPT-119-GO00-Vote002-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/05/2026 at 05:40 PM</strong></li>
+    <li>Vote #03: Bell Motion to Subpoena Gregory Bovino, Commander-at-Large of the US Border Patrol. The motion failed by a recorded vote of 19-22.
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/CRPT-119-GO00-Vote003-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/05/2026 at 05:40 PM</strong></li>
+  </ul>
+  <h2>Hearing Record</h2>
+  <ul class="unstyled">
+    <li>Attendance Sheet
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-MbrRoster.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        03/04/2026 at 04:58 PM</strong></li>
+    <li>Transcript
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-Transcript-20260304.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        04/23/2026 at 09:32 AM</strong></li>
+    <li>Transcript Errata
+      [<a target="_blank" href="http://docs.house.gov/meetings/GO/GO00/20260304/119003/HHRG-119-GO00-20260304-CPg.pdf">PDF</a>]
+    <strong class="newFlags">
+        Added
+        09/09/2026 at 03:58 PM</strong></li>
+  </ul>
+  <p class="lastUpdated">
+            First Published:
+            February 25, 2026 at 09:40 AM<br>
+            Last Updated:
+            September 9, 2026 at 03:58 PM</p>
+</div>
+    </div>
+    
+    <br />
+    <div class="button-row">
+        <a id="MainContent_LinkButtonDownloadMtgXML" class="btn" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonDownloadMtgXML&#39;,&#39;&#39;)">Download Meeting XML (.xml)</a>&nbsp;&nbsp;<a id="MainContent_LinkButtonDownloadMtgPackage" class="btn" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonDownloadMtgPackage&#39;,&#39;&#39;)">Download Meeting Package (.zip)</a>&nbsp;&nbsp;
+        <a id="MainContent_HyperLinKCommittee" class="btn" href="http://oversight.house.gov/" target="_blank">Visit Committee Site</a>
+    </div>
+    <div class="clearfix">
+    </div>
+
+            <br />
+        </div>
+    </div>
+    <div id="footer">
+        <div class="footer-text">
+            <div class="left text-small">
+                <a href="http://clerk.house.gov/" title="Office of the Clerk">Office of the Clerk</a><br />
+                U.S. House of Representatives<br />
+                U.S. Capitol, Room H-154<br />
+                Washington D.C., 20515-6601<br />
+                202-225-7000
+            </div>
+            <div class="right">
+                
+                <a href="https://www.house.gov/accessibility" target="_blank">
+                    Accessibility</a> | <a href="/committee/Help.aspx">Help</a>
+                <br />
+                
+            </div>
+            <div class="clearfix">
+            </div>
+        </div>
+    </div>
+    <div class="footer-end">
+    </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+	
+	<script>
+	    (function (i, s, o, g, r, a, m) {
+	        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+	            (i[r].q = i[r].q || []).push(arguments)
+	        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+	  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+	    ga('create', 'UA-9875785-20', 'auto');
+	    ga('send', 'pageview');
+
+	</script>
+</body>
+</html>

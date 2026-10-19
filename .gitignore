@@ -49,3 +49,5 @@ research/sources/triage-2026-10-15/hochul-record/taxes/fy26fp-en.pdf
 research/sources/triage-2026-10-15/hochul-record/taxes/fy27fp-en.pdf
 # govinfo BILLSTATUS bulk zips (234 MB); key XMLs are kept in ec-record-2026-10/bills/xml/
 research/sources/ec-record-2026-10/bills/bulk/
+# all House roll-call XMLs 2023-2026 (~177 MB); key rolls cited are re-fetchable from clerk.house.gov
+research/sources/russia-ukraine-2026-10/record/clerk-all/

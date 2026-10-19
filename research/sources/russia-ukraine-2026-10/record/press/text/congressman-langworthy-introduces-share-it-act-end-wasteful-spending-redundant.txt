@@ -1,0 +1,19 @@
+TITLE: Congressman Langworthy Introduces SHARE IT Act to End Wasteful Spending on Redundant Software for Federal Agencies
+DATE: September 17, 2024
+URL: https://langworthy.house.gov/media/press-releases/congressman-langworthy-introduces-share-it-act-end-wasteful-spending-redundant
+
+September 17, 2024 
+Press Release
+
+New Bill Set for Markup in House Oversight Committee on Wednesday
+
+WASHINGTON, D.C. – Recently, Congressman Nick Langworthy (NY-23) introduced H.R. 9566, the bipartisan Source Code Harmonization and Reuse in Information Technology (SHARE IT) Act, which would require federal agencies to share custom-developed source code, eliminating duplicative and costly government contracts to build software. This legislation will be reviewed by the House Committee on Oversight and Accountability during a full committee markup on September 18, 2024, along with Congressman Langworthy’s Executive Branch Accountability and Transparency Act (H.R. 3642). 
+“At a time when our national debt is over $34 trillion, American taxpayers can’t afford to be saddled with billions in wasteful spending on redundant software that could easily be avoided,” said Congressman Langworthy. “The SHARE IT Act is a commonsense solution, requiring federal agencies to share custom-developed software with one another. I’m proud to lead this necessary step toward greater fiscal responsibility and accountability at the highest levels of government.”
+Specifically, this legislation mandates that agencies share the software they develop or purchase while still protecting sensitive code related to national security, classified information, and individual privacy. Additionally, this bill holds agency Chief Information Officers accountable for overseeing this process and submitting annual compliance reports to Congress, all without the need for additional funding by utilizing existing platforms like code.gov and private sector options. 
+Currently, the federal government allocates about $6 billion annually for software purchases, including custom-developed software for agency-specific needs, such as websites, apps, and data models. Even though the majority of this custom code is not classified or sensitive, agencies rarely share it with one another despite having platforms available for these exchanges. 
+Read the full text of the bill here.
+This legislation has a bipartisan companion in the U.S. Senate (S. 3594), led by Senator Ted Cruz (R-TX) and Senator Gary Peters (D-MI). It is also supported by outside groups, including Atlassian and GitLab.
+Stan Shepard, General Counsel for Atlassian, said, “Atlassian supports the SHARE IT Act, and we appreciate Congressman Langworthy’s leadership on this important legislation. Our mission is to unleash the potential of every team, including teams across the federal government who develop or procure custom-built software to support their work. Code repository services such as Bitbucket enable collaboration within teams and across organizational boundaries. We share the belief that greater collaboration and sharing of custom code will promote openness, efficiency, and innovation across the federal enterprise."
+Robin Schulman, Chief Legal Officer and Head of Corporate Affairs for GitLab Inc. added, "GitLab Inc., which offers the most comprehensive AI-powered DevSecOps platform and whose mission is to enable everyone to contribute and co-create the software that powers our world, is proud to support Congressman Langworthy’s SHARE IT Act."
+
+ Issues:Oversight and Accountability

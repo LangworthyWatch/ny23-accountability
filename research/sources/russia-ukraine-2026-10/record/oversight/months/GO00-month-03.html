@@ -1,0 +1,772 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1"><meta http-equiv="Content-Type" content="text/javascript; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"gov-bam.nr-data.net","errorBeacon":"gov-bam.nr-data.net","licenseKey":"9993044f26","applicationID":"91215909","transactionName":"Z1xRYBQHCxYFAEQNCl4Wcmc2SQYECAZeAARCFlFNCwkLEQxNURcVSA==","queueTime":0,"applicationTime":182,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["gov-bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"9993044f26",applicationID:"91215909",browserID:"91215921"};;/*! For license information please see nr-loader-rum-1.324.0.min.js.LICENSE.txt */
+(()=>{var e={8122(e,t,r){"use strict";r.d(t,{a:()=>i});var n=r(944);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.R)(3);if(!t||"object"!=typeof t)return(0,n.R)(4);const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(r).length?e:r;for(let s in a)if(void 0!==e[s])try{if(null===e[s]){r[s]=null;continue}Array.isArray(e[s])&&Array.isArray(t[s])?r[s]=Array.from(new Set([...e[s],...t[s]])):e[s]instanceof Map||e[s]instanceof Set||e[s]instanceof Date||e[s]instanceof RegExp?r[s]=e[s]:"object"==typeof e[s]&&null!==t[s]&&"object"==typeof t[s]?r[s]=i(e[s],t[s]):r[s]=e[s]}catch(e){r[s]||(0,n.R)(1,e)}return r}catch(e){(0,n.R)(2,e)}}},2555(e,t,r){"use strict";r.d(t,{f:()=>s});var n=r(384),i=r(8122);const a={beacon:n.NT.beacon,errorBeacon:n.NT.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0};function s(e){try{return!!e.licenseKey&&!!e.errorBeacon&&!!e.applicationID}catch(e){return!1}}r.d(t,["D",0,e=>(0,i.a)(e,a)])},7699(e,t,r){"use strict";var n=r(860);const i=1e6,a={[n.K7.logging]:!0,[n.K7.genericEvents]:!0,[n.K7.jserrors]:!0,[n.K7.ajax]:!0};r.d(t,["It",0,i,"KC",0,a,"qh",0,"SESSION_ERROR","zd",0,5e5])},9324(e,t,r){"use strict";r.d(t,["xv",0,"1.324.0"])},981(e,t,r){"use strict";r.d(t,["R",0,{AJAX:"AjaxRequest",PA:"PageAction",UA:"UserAction",BP:"BrowserPerformance",WS:"WebSocket",SPV:"SecurityPolicyViolation",JSE:"JavaScriptError",LOG:"Log",PVE:"PageView",PVT:"PageViewTiming",SR:"SessionReplay",ST:"SessionTrace",BI:"BrowserInteraction"}])},6154(e,t,r){"use strict";var n=r(1863);const i="undefined"!=typeof window&&!!window.document,a="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),s=i?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=Boolean("hidden"===s?.document?.visibilityState),c=""+s?.location,u=/iPad|iPhone|iPod/.test(s.navigator?.userAgent),d=u&&"undefined"==typeof SharedWorker,l=((()=>{const e=s.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Date.now()-(0,n.t)());r.d(t,["OF",0,u,"RI",0,i,"WN",0,l,"bv",0,a,"gm",0,s,"m",0,c,"mw",0,o,"sb",0,d,"zk",0,()=>{const e=s?.performance?.getEntriesByType?.("navigation")?.[0];if(e&&e.responseStart>0&&e.responseStart<s.performance.now())return e}])},3241(e,t,r){"use strict";r.d(t,{W:()=>i});var n=r(6154);function i(e={}){try{n.gm.dispatchEvent(new CustomEvent("newrelic",{detail:e}))}catch(e){}}},1687(e,t,r){"use strict";r.d(t,{Ak:()=>o,Ze:()=>u,x3:()=>c});var n=r(3241),i=r(3606),a=r(860),s=r(2646);function o(e,t){if(!e)return;const r={staged:!1,priority:a.P3[t]||0};e.runtime.drainRegistry.get(t)||e.runtime.drainRegistry.set(t,r)}function c(e,t){if(!e)return;const r=e.runtime.drainRegistry;r&&(r.get(t)&&r.delete(t),l(e,t,!1),r.size&&d(e))}function u(e,t="feature",r=!1){if(e){if(!e.runtime.drainRegistry.get(t)||r)return l(e,t);e.runtime.drainRegistry.get(t).staged=!0,d(e)}}function d(e){if(!e)return;const t=Array.from(e.runtime.drainRegistry);t.every(([e,t])=>t.staged)&&(t.sort((e,t)=>e[1].priority-t[1].priority),t.forEach(([t])=>{e.runtime.drainRegistry.delete(t),l(e,t)}))}function l(e,t,r=!0){if(!e)return;const a=e.ee,o=i.i.handlers;if(a&&!a.aborted&&a.backlog&&o){if((0,n.W)({type:"lifecycle",name:"drain",feature:t}),r){const e=a.backlog[t],r=o[t];if(r){for(let t=0;e&&t<e.length;++t)f(e[t],r);Object.entries(r).forEach(([e,t])=>{Object.values(t||{}).forEach(t=>{t[0]?.on&&t[0].context()instanceof s.y&&!t[0].listeners(e).includes(t[1])&&t[0].on(e,t[1])})})}}a.isolatedBacklog||delete o[t],a.backlog[t]=null,a.emit("drain-"+t,[])}}function f(e,t){var r=e[1];Object.values(t[r]||{}).forEach(t=>{var r=e[0];if(t[0]===r){var n=t[1],i=e[3],a=e[2];n.apply(i,a)}})}},7836(e,t,r){"use strict";var n=r(384),i=r(8990),a=r(2646),s=r(5607);const o="nr@context:".concat(s.W),c=function e(t,r){var n={},s={},d={},l=!1;try{l=16===r.length&&u.initializedAgents?.[r]?.runtime.isolatedBacklog}catch(e){}var f={on:p,addEventListener:p,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,a){!1!==a&&(a=!0);if(c.aborted&&!i)return;t&&a&&t.emit(e,r,n);var o=g(n);m(e).forEach(e=>{e.apply(o,r)});var u=v()[s[e]];u&&u.push([f,e,r,o]);return o},get:h,listeners:m,context:g,buffer:function(e,t){const r=v();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach(([e,n])=>{s[n]=t,t in r||(r[t]=[])})},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach(e=>{delete f.backlog[e]})},isBuffering:function(e){return!!v()[s[e]]},debugId:r,backlog:l?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:l};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function g(e){return e&&e instanceof a.y?e:e?(0,i.I)(e,o,()=>new a.y(o)):new a.y(o)}function p(e,t){n[e]=m(e).concat(t)}function m(e){return n[e]||[]}function h(t){return d[t]=d[t]||e(f,t)}function v(){return f.backlog}}(void 0,"globalEE"),u=(0,n.Zm)();u.ee||(u.ee=c),r.d(t,["P",0,o,"ee",0,c])},2646(e,t,r){"use strict";r.d(t,{y:()=>n});class n{constructor(e){this.contextId=e}}},9908(e,t,r){"use strict";r.d(t,{d:()=>n,p:()=>i});var n=r(7836).ee.get("handle");function i(e,t,r,i,a){a?(a.buffer([e],i),a.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},3606(e,t,r){"use strict";r.d(t,{i:()=>a});var n=r(9908);a.on=s;var i=a.handlers={};function a(e,t,r,a){s(a||n.d,i,e,t,r)}function s(e,t,r,i,a){a||(a="feature"),e||(e=n.d);var s=t[a]=t[a]||{};(s[r]=s[r]||[]).push([e,i])}},3878(e,t,r){"use strict";function n(e,t){return{capture:e,passive:!1,signal:t}}function i(e,t,r=!1,i){window.addEventListener(e,t,n(r,i))}function a(e,t,r=!1,i){document.addEventListener(e,t,n(r,i))}r.d(t,{DD:()=>a,jT:()=>n,sp:()=>i})},5607(e,t,r){"use strict";const n=(0,r(9566).bz)();r.d(t,["W",0,n])},9566(e,t,r){"use strict";r.d(t,{LA:()=>s,bz:()=>a});var n=r(6154);function i(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n.gm?.crypto||n.gm?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".split("").map(e=>"x"===e?i(t,r++).toString(16):"y"===e?(3&i()|8).toString(16):e).join("")}function s(e){const t=n.gm?.crypto||n.gm?.msCrypto;let r,a=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const s=[];for(var o=0;o<e;o++)s.push(i(r,a++).toString(16));return s.join("")}},2614(e,t,r){"use strict";r.d(t,["BB",0,18e5,"Wt",0,"NRBA_SESSION::","iL",0,{SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},"tS",0,{STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},"wk",0,144e5])},1863(e,t,r){"use strict";function n(){return Math.floor(performance.now())}r.d(t,{t:()=>n})},944(e,t,r){"use strict";r.d(t,{R:()=>i});var n=r(3241);function i(e,t){"function"==typeof console.debug&&(console.debug("New Relic Warning: https://github.com/newrelic/newrelic-browser-agent/blob/main/docs/warning-codes.md#".concat(e),t),(0,n.W)({drained:null,type:"data",name:"warn",feature:"warn",data:{code:e,secondary:t}}))}},8990(e,t,r){"use strict";r.d(t,{I:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},6389(e,t,r){"use strict";function n(e,t=500,r={}){const n=r?.leading||!1;let i;return(...r)=>{n&&void 0===i&&(e.apply(this,r),i=setTimeout(()=>{i=clearTimeout(i)},t)),n||(clearTimeout(i),i=setTimeout(()=>{e.apply(this,r)},t))}}function i(e){let t=!1;return(...r)=>{t||(t=!0,e.apply(this,r))}}r.d(t,{J:()=>i,s:()=>n})},1910(e,t,r){"use strict";r.d(t,{i:()=>a});var n=r(944);const i=new Map;function a(...e){return e.every(e=>{if(i.has(e))return i.get(e);const t="function"==typeof e?e.toString():"",r=t.includes("[native code]"),a=t.includes("nrWrapper");return r||a||(0,n.R)(64,e?.name||t),i.set(e,r),r})}},5289(e,t,r){"use strict";r.d(t,{GG:()=>s,Qr:()=>c,sB:()=>o});var n=r(3878),i=r(6389);function a(){return"undefined"==typeof document||"complete"===document.readyState}function s(e,t){if(a())return e();const r=(0,i.J)(e),s=setInterval(()=>{a()&&(clearInterval(s),r())},500);(0,n.sp)("load",r,t)}function o(e){if(a())return e();(0,n.DD)("DOMContentLoaded",e)}function c(e){if(a())return e();(0,n.sp)("popstate",e)}},384(e,t,r){"use strict";r.d(t,{Zm:()=>c,bQ:()=>d,dV:()=>u,pV:()=>l});var n=r(6154),i=r(1863),a=r(944),s=r(1910);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function c(){return n.gm.NREUM||(n.gm.NREUM={}),void 0===n.gm.newrelic&&(n.gm.newrelic=n.gm.NREUM),n.gm.NREUM}function u(){let e=c();return e.o||(e.o={ST:n.gm.setTimeout,SI:n.gm.setImmediate||n.gm.setInterval,CT:n.gm.clearTimeout,XHR:n.gm.XMLHttpRequest,REQ:n.gm.Request,EV:n.gm.Event,PR:n.gm.Promise,MO:n.gm.MutationObserver,FETCH:n.gm.fetch,WS:n.gm.WebSocket},(0,s.i)(...Object.values(e.o))),e}function d(e,t){let r=c();r.initializedAgents??={},t.initializedAt={ms:(0,i.t)(),date:new Date},r.initializedAgents[e]=t,2===Object.keys(r.initializedAgents).length&&(0,a.R)(69)}function l(){return function(){let e=c();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=c();const t=e.init||{};e.init={...t}}(),u(),function(){let e=c();const t=e.loader_config||{};e.loader_config={...t}}(),c()}r.d(t,["NT",0,o])},2843(e,t,r){"use strict";r.d(t,{G:()=>a,u:()=>i});var n=r(3878);function i(e,t=!1,r,i){(0,n.DD)("visibilitychange",function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)},r,i)}function a(e,t,r){(0,n.sp)("pagehide",e,t,r)}},9300(e,t,r){"use strict";r(860).K7.ajax;r.d(t,["mo",0,{NONE:"none",FAILURES:"failures",ALL:"all"}])},3969(e,t,r){"use strict";const n=r(860).K7.metrics;r.d(t,["TZ",0,n,"XG",0,"storeEventMetrics","xV",0,"storeSupportabilityMetrics"])},6630(e,t,r){"use strict";const n=r(860).K7.pageViewEvent;r.d(t,["T",0,n])},782(e,t,r){"use strict";const n=r(860).K7.pageViewTiming;r.d(t,["T",0,n])},4234(e,t,r){"use strict";r.d(t,{W:()=>i});var n=r(1687);class i{constructor(e,t){this.agentRef=e,this.ee=e?.ee,this.featureName=t,this.blocked=!1}deregisterDrain(){(0,n.x3)(this.agentRef,this.featureName)}}},7767(e,t,r){"use strict";var n=r(6154);r.d(t,["V",0,e=>n.RI&&!0===e?.privacy.cookies_enabled])},8362(e,t,r){"use strict";r.d(t,{d:()=>a});var n=r(9566),i=r(1741);class a extends i.W{agentIdentifier=(0,n.LA)(16)}},1741(e,t,r){"use strict";r.d(t,{W:()=>a});var n=r(944),i=r(4261);class a{#e(e,...t){if(this[e]!==a.prototype[e])return this[e](...t);(0,n.R)(35,e)}addPageAction(e,t){return this.#e(i.hG,e,t)}register(e){return this.#e(i.eY,e)}recordCustomEvent(e,t){return this.#e(i.fF,e,t)}setPageViewName(e,t){return this.#e(i.Fw,e,t)}setCustomAttribute(e,t,r){return this.#e(i.cD,e,t,r)}noticeError(e,t){return this.#e(i.o5,e,t)}setUserId(e,t=!1){return this.#e(i.Dl,e,t)}setApplicationVersion(e){return this.#e(i.nb,e)}setErrorHandler(e){return this.#e(i.bt,e)}addRelease(e,t){return this.#e(i.k6,e,t)}log(e,t){return this.#e("log",e,t)}start(){return this.#e("start")}finished(e){return this.#e(i.BL,e)}recordReplay(){return this.#e(i.CH)}pauseReplay(){return this.#e(i.Tb)}addToTrace(e){return this.#e(i.U2,e)}setCurrentRouteName(e){return this.#e(i.PA,e)}interaction(e){return this.#e(i.dT,e)}wrapLogger(e,t,r){return this.#e(i.Wb,e,t,r)}measure(e,t){return this.#e(i.V1,e,t)}consent(e){return this.#e(i.Pv,e)}}},4261(e,t,r){"use strict";r.d(t,["BL",0,"finished","CH",0,"recordReplay","Dl",0,"setUserId","Fw",0,"setPageViewName","PA",0,"setCurrentRouteName","Pv",0,"consent","Tb",0,"pauseReplay","U2",0,"addToTrace","V1",0,"measure","Wb",0,"wrapLogger","bt",0,"setErrorHandler","cD",0,"setCustomAttribute","dT",0,"interaction","eY",0,"register","fF",0,"recordCustomEvent","hG",0,"addPageAction","k6",0,"addRelease","nb",0,"setApplicationVersion","o5",0,"noticeError"])},1738(e,t,r){"use strict";r.d(t,{U:()=>l,Y:()=>d});var n=r(3241),i=r(9908),a=r(1863),s=r(944),o=r(3969),c=r(8362),u=r(860);function d(e,t,r,a){const d=a||r;!d||d[e]&&d[e]!==c.d.prototype[e]||(d[e]=function(){(0,i.p)(o.xV,["API/"+e+"/called"],void 0,u.K7.metrics,r.ee),(0,n.W)({drained:!!r.runtime?.activatedFeatures,type:"data",name:"api",feature:"api-"+e,data:{}});try{return t.apply(this,arguments)}catch(e){(0,s.R)(23,e)}})}function l(e,t,r,n,s){const o=e.info;null===r?delete o.jsAttributes[t]:o.jsAttributes[t]=r,(s||null===r)&&(0,i.p)("api-"+n,[(0,a.t)(),t,r],void 0,"session",e.ee)}},8374(e,t,r){r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},860(e,t,r){"use strict";const n="events",i="jserrors",a="browser/blobs",s="browser/logs",o={ajax:"ajax",genericEvents:"generic_events",jserrors:i,logging:"logging",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations"},c={[o.pageViewEvent]:1,[o.pageViewTiming]:2,[o.metrics]:3,[o.jserrors]:4,[o.softNav]:5,[o.ajax]:6,[o.sessionTrace]:7,[o.sessionReplay]:8,[o.logging]:9,[o.genericEvents]:10},u={[o.pageViewEvent]:"rum",[o.pageViewTiming]:n,[o.ajax]:n,[o.softNav]:n,[o.metrics]:i,[o.jserrors]:i,[o.sessionTrace]:a,[o.sessionReplay]:a,[o.logging]:s,[o.genericEvents]:"ins"};r.d(t,["$J",0,u,"K7",0,o,"P3",0,c,"XX",0,i,"Yy",0,s,"df",0,a,"hg",0,"connect"])}};const t={};function r(n){const i=t[n];if(void 0!==i)return i.exports;const a=t[n]={exports:{}};return e[n](a,a.exports,r),a.exports}r.m=e,r.d=(e,t)=>{if(Array.isArray(t))for(var n=0;n<t.length;){var i=t[n++],a=t[n++];r.o(e,i)?0===a&&n++:0===a?Object.defineProperty(e,i,{enumerable:!0,value:t[n++]}):Object.defineProperty(e,i,{enumerable:!0,get:a})}else for(var i in t)r.o(t,i)&&!r.o(e,i)&&Object.defineProperty(e,i,{enumerable:!0,get:t[i]})},r.f={},r.e=e=>Promise.all(Object.keys(r.f).reduce((t,n)=>(r.f[n](e,t),t),[])),r.u=e=>"nr-rum-1.324.0.min.js",r.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),(()=>{const e={},t="NRBA-1.324.0.PROD:";r.l=(n,i,a,s)=>{if(e[n])return void e[n].push(i);let o,c;if(void 0!==a){const e=document.getElementsByTagName("script");for(var u=0;u<e.length;u++){const r=e[u];if(r.getAttribute("src")==n||r.getAttribute("data-webpack")==t+a){o=r;break}}}if(!o){c=!0;var d={296:"sha512-Pjy0Jxmo6oAG6oGKLKrf8x8xyaSM1NuL7vLGv9xRLEw0hrpERDruLI5RxlCHNy0NpMyEPWhlC34zujXIR3qJPQ=="};o=document.createElement("script"),o.charset="utf-8",r.nc&&o.setAttribute("nonce",r.nc),o.setAttribute("data-webpack",t+a),o.src=n,0!==o.src.indexOf(window.location.origin+"/")&&(o.crossOrigin="anonymous"),d[s]&&(o.integrity=d[s])}e[n]=[i];const l=(t,r)=>{o.onerror=o.onload=null,clearTimeout(f);const i=e[n];if(delete e[n],o.parentNode?.removeChild(o),i?.forEach(e=>e(r)),t)return t(r)},f=setTimeout(l.bind(null,void 0,{type:"timeout",target:o}),12e4);o.onerror=l.bind(null,o.onerror),o.onload=l.bind(null,o.onload),c&&document.head.appendChild(o)}})(),r.r=e=>{Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},r.p="https://js-agent.newrelic.com/",(()=>{const e={374:0,840:0};r.f.j=(t,n)=>{let i=r.o(e,t)?e[t]:void 0;if(0!==i)if(i)n.push(i[2]);else{const a=new Promise((r,n)=>i=e[t]=[r,n]);n.push(i[2]=a);const s=r.p+r.u(t),o=new Error,c=n=>{if(r.o(e,t)&&(i=e[t],0!==i&&(e[t]=void 0),i)){const e=n&&("load"===n.type?"missing":n.type),r=n&&n.target&&n.target.src;o.message="Loading chunk "+t+" failed: ("+e+": "+r+")",o.name="ChunkLoadError",o.type=e,o.request=r,i[1](o)}};r.l(s,c,"chunk-"+t,t)}};const t=(t,n)=>{let[i,a,s]=n;var o,c,u=0;if(i.some(t=>0!==e[t])){for(o in a)r.o(a,o)&&(r.m[o]=a[o]);if(s)s(r)}for(t&&t(n);u<i.length;u++)c=i[u],r.o(e,c)&&e[c]&&e[c][0](),e[c]=0},n=self["webpackChunk:NRBA-1.324.0.PROD"]=self["webpackChunk:NRBA-1.324.0.PROD"]||[];n.forEach(t.bind(null,0)),n.push=t.bind(null,n.push.bind(n))})(),(()=>{"use strict";r(8374);var e=r(8362),t=r(860);const n=Object.values(t.K7);var i=r(384),a=r(1741);var s=r(2555),o=r(981);t.K7.genericEvents,o.R.PA,o.R.UA,o.R.BP;const c={RESOURCES:"experimental.resources",REGISTER:"register"};var u=r(9300);const d=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var l=r(2614),f=r(944),g=r(8122);const p="[data-nr-mask]",m=e=>(0,g.a)(e,(()=>{const e={feature_flags:[],experimental:{register:!1,resources:!1,iframe_bridge:!1,iframe_domains:[]},mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{ajax:{deny_list:void 0,block_internal:!0,enabled:!0,autoStart:!0,capture_payloads:u.mo.NONE},api:{register:{get enabled(){return e.feature_flags.includes(c.REGISTER)||e.experimental.register},set enabled(t){e.experimental.register=t},duplicate_data_to_container:!1,get allow_iframe_bridge(){return e.feature_flags.includes(c.IFRAME_BRIDGE)||e.experimental.iframe_bridge},set allow_iframe_bridge(t){e.experimental.iframe_bridge=t},get iframe_domains(){return e.experimental.iframe_domains},set iframe_domains(t){Array.isArray(t)?e.experimental.iframe_domains=t:(0,f.R)(1,t)}}},browser_consent_mode:{enabled:!1},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},get feature_flags(){return e.feature_flags},set feature_flags(t){e.feature_flags=t},generic_events:{enabled:!0,autoStart:!0},harvest:{interval:30},jserrors:{enabled:!0,autoStart:!0},logging:{enabled:!0,autoStart:!0},metrics:{enabled:!0,autoStart:!0},obfuscate:void 0,page_action:{enabled:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,autoStart:!0},performance:{capture_marks:!1,capture_measures:!1,capture_detail:!0,resources:{get enabled(){return e.feature_flags.includes(c.RESOURCES)||e.experimental.resources},set enabled(t){e.experimental.resources=t},asset_types:[],first_party_domains:[],ignore_newrelic:!0}},privacy:{cookies_enabled:!0},proxy:{assets:void 0,beacon:void 0},session:{expiresMs:l.wk,inactiveMs:l.BB},session_replay:{autoStart:!0,enabled:!1,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,fix_stylesheets:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){d(t)?e.mask_selector="".concat(t,",").concat(p):""===t||null===t?e.mask_selector=p:(0,f.R)(5,t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){d(t)?e.block_selector+=",".concat(t):""!==t&&(0,f.R)(6,t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,f.R)(7,t)}},session_trace:{enabled:!0,autoStart:!0},soft_navigations:{enabled:!0,autoStart:!0},ssl:void 0,user_actions:{enabled:!0,elementAttributes:["id","className","tagName","type"]},web_sockets:{enabled:!1}}})());var h=r(6154),v=r(9324);let b=0;const y={buildEnv:"PROD",distMethod:"CDN",version:v.xv,originTime:h.WN},_={consented:!1},w={activatedFeatures:void 0,appMetadata:{},configured:!1,get consented(){return this.session?.state?.consent||_.consented},set consented(e){_.consented=e},customTransaction:void 0,denyList:[],disabled:!1,drainRegistry:new Map,connector:void 0,harvester:void 0,v2Target:void 0,isolatedBacklog:!1,isRecording:!1,loaderType:void 0,maxBytes:3e4,obfuscator:void 0,onerror:void 0,ptid:void 0,releaseIds:{},session:void 0,timeKeeper:void 0,registeredEntities:[],jsAttributesMetadata:{bytes:0},get harvestCount(){return++b},listeningForIframeMessages:!1},R="BA";var A=r(7836),x=r(3241);const E={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0};var S=r(9908);const k="newrelic-iframe-";function T(e,t={},n,o){let{init:c,info:u,loader_config:d,runtime:l={},exposed:f=!0}=t;if(!u){const e=(0,i.pV)();c=e.init,u=e.info,d=e.loader_config}var p;e.init=m(c||{}),e.loader_config=(p=d||{},(0,g.a)(p,E)),u.jsAttributes??={},h.bv&&(u.jsAttributes.isWorker=!0),e.info=(0,s.D)(u);const v=e.init;e.runtime??=(e=>{const t=(0,g.a)(e,w),r=Object.keys(y).reduce((e,t)=>(e[t]={value:y[t],writable:!1,configurable:!0,enumerable:!0},e),{});return Object.defineProperties(t,r)})(l),e.runtime.v2Target??={type:R,instance:e.agentIdentifier,get id(){return e.runtime.appMetadata?.agents?.[0]?.entityGuid},get attributes(){return{"entity.guid":this.id,appId:e.info.applicationID}}},v.proxy.assets&&(e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e})(v.proxy.assets),e.runtime.configured||(Object.defineProperty(e,"beacons",{get:()=>[e.info.beacon,e.info.errorBeacon,e.init.proxy.assets,e.init.proxy.beacon].filter(Boolean)}),Object.defineProperty(e.runtime,"denyList",{get:()=>[...e.init.ajax.deny_list||[],...e.init.ajax.block_internal?e.beacons:[]]}),e.runtime.ptid=e.agentIdentifier,function(e){const t=(0,i.pV)();Object.getOwnPropertyNames(a.W.prototype).forEach(r=>{const n=a.W.prototype[r];if("function"!=typeof n||"constructor"===n)return;let i=t[r];e[r]&&!1!==e.exposed&&"micro-agent"!==e.runtime?.loaderType&&(t[r]=(...t)=>{const n=e[r](...t);return i?i(...t):n})})}(e),e.runtime.loaderType=n,e.ee=A.ee.get(e.agentIdentifier),e.exposed=f,(0,x.W)({drained:!!e.runtime.activatedFeatures,type:"lifecycle",name:"initialize",feature:void 0,data:e.config}),e.init.api.register.allow_iframe_bridge&&h.gm.addEventListener("message",t=>{"string"==typeof t.data?.type&&t.data.type.startsWith(k)&&(0,S.p)("iframe-message",[t],void 0,"IFRAME",e.ee)}),e.runtime.configured=!0)}var j=r(1863),P=r(4261),N=r(1738);var O=r(1687),M=r(4234),I=r(5289),D=r(7767);function V(e){return!!(0,i.dV)().o.MO&&(0,D.V)(e)&&!0===e?.session_trace.enabled}var W=r(6389),B=r(7699);const C=new WeakSet,K=new WeakMap;class U extends M.W{constructor(e,t){super(e,t),this.abortHandler=void 0,this.featAggregate=void 0,this.loadedSuccessfully=void 0,this.onAggregateImported=new Promise(e=>{this.loadedSuccessfully=e}),this.deferred=Promise.resolve(),!1===e.init[this.featureName].autoStart?this.deferred=new Promise((t,r)=>{this.ee.on("manual-start-all",(0,W.J)(()=>{(0,O.Ak)(e,this.featureName),t()}))}):(0,O.Ak)(e,t)}importAggregator(e,t,n={}){if(this.featAggregate)return;const i=async()=>{if(await this.deferred,this.#t(e),!(0,s.f)(e.info))return(0,f.R)(43),e.ee.abort(),void this.loadedSuccessfully(!1);try{await async function(e,t,n){if(K.has(e))return K.get(e);const i=(async()=>{if((0,D.V)(e.init))try{const{setupAgentSession:t}=await r.e(296).then(r.bind(r,1768));t(e)}catch(e){(0,f.R)(20,e),t.emit("internal-error",[e]),(0,S.p)(B.qh,[e],void 0,n,t)}if(e.init.api.register.allow_iframe_bridge)try{const{setupIframeMFEMessageListener:t}=await Promise.resolve().then(function(){const e=new Error("Cannot find module '../../loaders/configure/iframe-message-handler'");throw e.code="MODULE_NOT_FOUND",e});t(e)}catch(e){(0,f.R)(23,e)}const[{Connector:i},{Harvester:a}]=await Promise.all([r.e(296).then(r.bind(r,6589)),r.e(296).then(r.bind(r,5237))]);e.runtime.connector=new i(e),e.runtime.harvester=new a(e);const s=Object.values(e.features).filter(t=>e.runtime.drainRegistry.has(t.featureName));Promise.all(s.map(e=>e.onAggregateImported)).then(()=>e.runtime.harvester.startTimer())})();K.set(e,i),await i}(e,this.ee,this.featureName)}catch(e){return(0,f.R)(79,e),this.ee.abort(),void this.loadedSuccessfully(!1)}try{if(!this.#r(this.featureName,e.runtime.session,e.init))return this.abortHandler?.(),(0,O.Ze)(this.agentRef,this.featureName),void this.loadedSuccessfully(!1);const{Aggregate:r}=await t();this.featAggregate=new r(e,n),e.runtime.harvester.initializedAggregates.push(this.featAggregate),this.loadedSuccessfully(!0)}catch(e){(0,f.R)(34,e),this.abortHandler?.(),(0,O.Ze)(this.agentRef,this.featureName,!0),this.loadedSuccessfully(!1)}};h.RI?(0,I.GG)(()=>i(),!0):i()}#r(e,r,n){if(this.blocked)return!1;switch(e){case t.K7.sessionReplay:return V(n)&&!!r;case t.K7.sessionTrace:return!!r;default:return!0}}#t(e){if(!C.has(e)&&(C.add(e),!(0,s.f)(e.info))){const t=(0,i.pV)();let r={...t.info?.jsAttributes};try{r={...r,...e.info?.jsAttributes}}catch(e){}T(e,{...t,info:{...t.info,jsAttributes:r},runtime:e.runtime},e.runtime.loaderType)}}}var L=r(6630);class F extends U{static featureName=L.T;constructor(e){var t;super(e,L.T),this.setupInspectionEvents(),t=e,(0,N.Y)(P.Fw,function(e,r){"string"==typeof e&&("/"!==e.charAt(0)&&(e="/"+e),t.runtime.customTransaction=(r||"http://custom.transaction")+e,(0,S.p)("api-"+P.Fw,[(0,j.t)()],void 0,void 0,t.ee))},t),this.importAggregator(e,()=>e.init.feature_flags.includes("rum_v2")?r.e(296).then(r.bind(r,908)):r.e(296).then(r.bind(r,7927)))}setupInspectionEvents(){const e=(e,t)=>{e&&(0,x.W)({timeStamp:e.timeStamp,loaded:"complete"===e.target.readyState,type:"window",name:t,data:e.target.location+""})};(0,I.sB)(t=>{e(t,"DOMContentLoaded")}),(0,I.GG)(t=>{e(t,"load")}),(0,I.Qr)(t=>{e(t,"navigate")}),this.ee.on(l.tS.UPDATE,(e,t)=>{(0,x.W)({type:"lifecycle",name:"session",data:t})})}}class G extends e.d{constructor(e){var t;(super(),h.gm)?(this.features={},(0,i.bQ)(this.agentIdentifier,this),this.desiredFeatures=new Set(e.features||[]),this.desiredFeatures.add(F),T(this,e,e.loaderType||"agent"),t=this,(0,N.Y)(P.cD,function(e,r,n=!1){if("string"==typeof e){if(["string","number","boolean"].includes(typeof r)||null===r)return(0,N.U)(t,e,r,P.cD,n);(0,f.R)(40,typeof r)}else(0,f.R)(39,typeof e)},t),function(e){(0,N.Y)(P.Dl,function(t,r=!1){if("string"!=typeof t&&null!==t)return void(0,f.R)(41,typeof t);const n=e.info.jsAttributes["enduser.id"];r&&null!=n&&n!==t?(0,S.p)("api-setUserIdAndResetSession",[t],void 0,"session",e.ee):(0,N.U)(e,"enduser.id",t,P.Dl,!0)},e)}(this),function(e){(0,N.Y)(P.nb,function(t){if("string"==typeof t||null===t)return(0,N.U)(e,"application.version",t,P.nb,!1);(0,f.R)(42,typeof t)},e)}(this),function(e){(0,N.Y)("start",function(){e.ee.emit("manual-start-all")},e)}(this),function(e){(0,N.Y)(P.Pv,function(t=!0){if("boolean"==typeof t){if((0,S.p)("api-"+P.Pv,[t],void 0,"session",e.ee),e.runtime.consented=t,t){const t=e.features.page_view_event;t.onAggregateImported.then(e=>{const r=t.featAggregate;e&&!r.sentRum&&r.sendRum?.()})}}else(0,f.R)(65,typeof t)},e)}(this),this.run()):(0,f.R)(21)}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}get api(){return this}run(){try{const e=function(e){const t={};return n.forEach(r=>{t[r]=!!e[r]?.enabled}),t}(this.init),r=[...this.desiredFeatures],i=this.init.feature_flags.includes("rum_v2");r.sort((e,r)=>t.P3[e.featureName]-t.P3[r.featureName]),r.forEach(r=>{if(!e[r.featureName]&&(i||r.featureName!==t.K7.pageViewEvent))return;const n=function(e){switch(e){case t.K7.ajax:return[t.K7.jserrors];case t.K7.sessionTrace:return[t.K7.ajax,t.K7.pageViewEvent];case t.K7.sessionReplay:return[t.K7.sessionTrace];case t.K7.pageViewTiming:return[t.K7.pageViewEvent];default:return[]}}(r.featureName).filter(e=>!(e in this.features));n.length>0&&(0,f.R)(36,{targetFeature:r.featureName,missingDependencies:n}),this.features[r.featureName]=new r(this)})}catch(e){(0,f.R)(22,e);for(const e in this.features)this.features[e].abortHandler?.();const t=(0,i.Zm)();delete t.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return t.ee.get(this.agentIdentifier).abort(),!1}}}var H=r(2843),z=r(782);class Y extends U{static featureName=z.T;constructor(e){super(e,z.T),h.RI&&((0,H.u)(()=>(0,S.p)("docHidden",[(0,j.t)()],void 0,z.T,this.ee),!0),(0,H.G)(()=>(0,S.p)("winPagehide",[(0,j.t)()],void 0,z.T,this.ee)),this.importAggregator(e,()=>r.e(296).then(r.bind(r,9981))))}}var Z=r(3969);class q extends U{static featureName=Z.TZ;constructor(e){super(e,Z.TZ),this.importAggregator(e,()=>r.e(296).then(r.bind(r,9623)))}}new G({features:[F,Y,q],loaderType:"lite"})})()})();</script><meta name="keywords" /><meta name="description" /><meta name="robots" content="index, follow" /><meta name="rating" content="GENERAL" /><meta name="resource-type" content="document" /><meta name="distribution" content="GLOBAL" /><meta name="classification" content="Legislative Federal Government" /><meta name="author" content="Office of the Clerk, U.S. House of Representatives" /><meta name="govType" content="federal" /><meta name="revisit-after" content="15 Days" /><meta name="resource-type" content="document" /><meta name="doc-class" content="Completed" /><title>
+	Committee Repository | U.S. House of Representatives 
+</title><link href="../Resources/Styles/bootstrap.min.css" rel="stylesheet" type="text/css" /><link href="../Resources/Styles/Default.css" rel="stylesheet" type="text/css" /><link href="../Resources/Styles/Print.css" rel="Stylesheet" type="text/css" media="print" />
+    <script src="../Resources/Scripts/jquery-1.10.1.min.js" type="text/javascript"></script>
+    <script src="../Resources/Scripts/bootstrap.min.js" type="text/javascript"></script>
+    
+    <link href="../Resources/Styles/Calendar.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form method="post" action="./ByMonth.aspx?Code=GO00" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Committee/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZA2gTqMTViq8eSd_CBHYWufoBIe4cVkliO-mO5LmpAtGN4jhMf57qMHrt1A3oENKHQ2&amp;t=639190689332169432" type="text/javascript"></script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D31D6F77" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="Am-zEi8MciZ8TPrTECPuAiTTSousHQHbOjjPrQ5i9vMUf52aTOlgtwN4K1-x4byrZtPHeBkfEk1XxGnwmmpaP-lQ1L6O16IP9x3G8AZbhzfHocVrEVfVtOw-VSt0QmXB0" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="GslfnybryexrnvJa8ACz9zErWqsmB0IQjmcLIxjgw0qhzNTZMWmMOcBXgzXGC9aNz6ZV3t7Ymt6vORoPxRtagaia8y77LL288s/AO+Ec7Xoi7hVQuXZaZzoj7gJuzcn3Nb9edKrv6q4IPTXE/2jtTccdRCmwfPBqcLuFut3wYAvsSzZJVndiS0N/4FFiACPni/0Zx57KFj2dk6hpak0dVJX3KVU2nk5X7SS1sR8yVLDI4dGe+Tu9uzSXOwbeJeQpCrkRAbkB/0cjGGFmPbRqCpLWcloBy7y++s/w5cqefHIo7vyvho45Y5W9zmSbA+MQHSR7pIeIuMGXmT/eXzYAyv3vlZgjMEhgL16XkJIQ8KQrF+CFl+O+t1Gs0cAoiU1zxav6cABV4g9PdZQd7mOY91cilAeGuFJHwJWdfrYTa4+dqj8nB2amlWj3CcIZ1C7aUWh3FVBE6vQqaO5wkpTwuhd9yULSmxkOeqG0eQXAwYkZTqSLtRgrkNaylpM6XyCNe9SMn/nIuiCJG0s0J8i02o6+XzvQmeCLe1pgoSYIr17Uv4NybcOmRRrNuhKUMWwJqzvB17xEUxnxu0jEQNOkLf/EdFPXYSMjB2wq2ozYcl4DJ4Ro1Hd4fyfNXivaO8N5Z0ori1v8RViPYPb6WGkagT5J3E9NTW8sv0jdhJwGKjh00xUGsrHTF3+lleT001c1C8kjgoUoLgAHFh/swtWfhUG6n1m5Z75FBu6BIhJXvpZy41eANxAQFCcPdwSW5efdEz+lvQlZuveu/Lhh0NTVZpsB3ukGvDT6qA2pq/ciMRGuS6GBzAcdQuzejohiBV+1TCF+ls5M6MUV8v2SN57ULeg6KfG3qIysf1YznbyVLw6gYYK8n9NQs9Zg6YA2noO9k4G3MP/TbkpJE5HjehHo+xcp1kRz1Be/AX+kSYhjbaONEbvA/h4HyR5fToIEk3GKCmWWvUR8Bj//oki/uVak0k1nJweN37qgRsJW4L3HOpDQYh7FZvZ6bKw2c4JJAwRqp3B6Sy7gosSpwc76evUIOzAW6cJjS0QfTrUJ3SrpMOt8pNxmj2AKJCiUzhuLJ3Pa/LdCn07zl+4VCF7q0wOgd+UrF3rxHEpUaCJGcxeTldu+K03m/XzjB9qCvu9lrNyq5OJ6xZzuMjVgEW1SbFk7SpQsumfB/+zQNYL1uZ9vevizCkUxFexD5/3XIxUmv9SmFKlvHuD5XmOp3/x6XFjK/pSfnVDxIK/gcE4KM2s0kT+vQR550zuJlp8on82617wzOhGO1zUBcGxUL7B+HiqdJZP22B2k6wfFTrik4YceU46vzzrGS9NTFoqFbkT2vT61tn6Gsc2vDepgSEYninMYVFiiT0ay7yAQwcMPxbwI0FnPzO4X58Xvi229os3bNeUKhJR0JYtCraju2i3hBLN5/5XudXg5SK/KrwzNTauThMwE8KGlx+/Dxo2dUqDCNt/nifjk7Wb7hcdLvI1uIHMVx76htiPDNXXl39GX3Xj0I+fyjbiitPO3xCbqUulKV7l4XWTfYvWYU8ARUkp9Qmu3n4tpEgT5P44PtWKBfzzmqHFu/G1JVztuZym2H0iYF8/bJuNn9RKmBtfeNkbx3yVrlfw4scwABlveAYMOB/0uwzVmDZKvdkL9lSw+fFwcAMXeMo3zm+4/1eU/ZAHIBctPu5ToScPmQisZBwsiScLeJ8u4p/MHyZU6J3vXD8WBAYV/HH2WxgsSLppzpesYd77vTXmFwrNiK/bb3wIxbB0BUyQx1yE3iRnDd5NseiUIR7KCtZtfegRhANabCaqUvd2n/RFXj4AlcTEhShzyOl49U0mkKOk8W8jc4iDHBYA93u6nPVXbTBmWwHd60z/S9PhfGbd6hONljWWddpF9hv4DwDirQi2/wQWwui2zikRRMJVDgoxNnO8uEZ1HR/wTveR6u744WZmnaaKsZoOUbhuKI9A=" />
+</div>
+    <div id='container-outer' class='bg'>
+    <div id="container-inner">
+        <div id="header">
+            <div class="header-top">
+                <div class="header-text">
+                    <ul class="navigation-h">
+                        <li><a href="http://docs.house.gov/floor/" title="Bills this Week" target="_blank"
+                            accesskey="3">Bills this Week</a></li>
+                        <li><a href="http://clerk.house.gov/" title="Office of the Clerk" target="_blank"
+                            accesskey="2">Office of the Clerk</a></li>
+                        <li><a href="http://majorityleader.gov/" title="Majority Leader" target="_blank"
+                            accesskey="4">Majority Leader</a></li>
+                        <li><a href="http://rules.house.gov/" title="Committee on Rules" target="_blank"
+                            accesskey="5">Committee on Rules</a></li>
+                        <li><a href="http://house.gov/" title="U.S. House of Representatives" target="_blank"
+                            accesskey="1">U.S. House of Representatives</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="header-primary">
+                <a id="LinkButtonLogo" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonLogo&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Default.aspx&quot;, false, true))"><img id="ImageLogo" title="Committee Repository Logo" src="../Resources/Images/Layout/logo.png" alt="Committee Repository Logo" /></a>
+            </div>
+        </div>
+        <div id="navigation">
+            <ul class="navigation">
+                <li>
+                    <a id="LinkButtonHome" accesskey="h" title="Home" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonHome&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Default.aspx&quot;, false, true))">Calendar</a></li>
+                <li>
+                    <a id="LinkButtonCommittees" accesskey="c" title="Committees" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonCommittees&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Committees.aspx&quot;, false, true))">Committees</a></li>
+                <li>
+                    <a id="LinkButtonSearch" accesskey="s" title="Search" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$LinkButtonSearch&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Search/Home.aspx&quot;, false, true))">Document Search</a></li>
+            </ul>
+        </div>
+        <div id="body">
+            <div class='alert alert-info'>This calendar is currently filtered to display the Committee on Oversight and Government Reform meetings only.&nbsp;<a href='ByMonth.aspx' class='btn btn-danger btn-mini'>Clear Filter</a></div>
+            <h2>
+                <span id="LabelPageTitle"></span>
+            </h2>
+            <noscript>
+                <div class="alert alert-block">
+                    <b>JavaScript not detected</b>: JavaScript is required to run this site. Please
+                    enable JavaScript in your browser's settings.
+                </div>
+            </noscript>
+            
+    <div class="left">
+        <select name="ctl00$MainContent$DropDownListMonth" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$DropDownListMonth\&#39;,\&#39;\&#39;)&#39;, 0)" id="MainContent_DropDownListMonth" style="width:115px;">
+	<option value="January">January</option>
+	<option value="February">February</option>
+	<option value="March">March</option>
+	<option value="April">April</option>
+	<option value="May">May</option>
+	<option value="June">June</option>
+	<option selected="selected" value="July">July</option>
+	<option value="August">August</option>
+	<option value="September">September</option>
+	<option value="October">October</option>
+	<option value="November">November</option>
+	<option value="December">December</option>
+
+</select>
+        &nbsp;
+        <select name="ctl00$MainContent$DropDownListYear" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$MainContent$DropDownListYear\&#39;,\&#39;\&#39;)&#39;, 0)" id="MainContent_DropDownListYear" style="width:70px;">
+	<option value="2009">2009</option>
+	<option value="2010">2010</option>
+	<option value="2011">2011</option>
+	<option value="2012">2012</option>
+	<option value="2013">2013</option>
+	<option value="2014">2014</option>
+	<option value="2015">2015</option>
+	<option value="2016">2016</option>
+	<option value="2017">2017</option>
+	<option value="2018">2018</option>
+	<option value="2019">2019</option>
+	<option value="2020">2020</option>
+	<option value="2021">2021</option>
+	<option value="2022">2022</option>
+	<option value="2023">2023</option>
+	<option value="2024">2024</option>
+	<option value="2025">2025</option>
+	<option selected="selected" value="2026">2026</option>
+	<option value="2027">2027</option>
+
+</select>
+    </div>
+    <div class="right">
+        <div class="btn-group">
+            <a id="MainContent_LinkButtonMonthPrevious" accesskey="p" title="June" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonMonthPrevious&#39;,&#39;&#39;)" style="display:inline-block;width:55px;">June</a>
+            <a id="MainContent_LinkButtonMonthToday" accesskey="t" title="This Month" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonMonthToday&#39;,&#39;&#39;)">This Month</a>
+            <a id="MainContent_LinkButtonWeekView" accesskey="w" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonWeekView&#39;,&#39;&#39;)">Week View</a>
+            <a id="MainContent_LinkButtonMonthNext" accesskey="n" title="August" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonMonthNext&#39;,&#39;&#39;)" style="display:inline-block;width:55px;">August</a>
+        </div>
+    </div>
+    <br />
+    <br />
+    <table class="calendar">
+        <thead>
+            <tr>
+                <th>
+                    <span title="Sunday">Sunday</span>
+                </th>
+                <th>
+                    <span title="Monday">Monday</span>
+                </th>
+                <th>
+                    <span title="Tuesday">Tuesday</span>
+                </th>
+                <th>
+                    <span title="Wednesday">Wednesday</span>
+                </th>
+                <th>
+                    <span title="Thursday">Thursday</span>
+                </th>
+                <th>
+                    <span title="Friday">Friday</span>
+                </th>
+                <th>
+                    <span title="Saturday">Saturday</span>
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="calendarRow11" onclick="getCalendarEventsByWeek(11);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton11" title="June 28, 2026" class="calendar-text-alt" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton11&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=06282026&quot;, false, true))">28</a></div>
+                    
+                </td>
+                <td class="calendarRow12" onclick="getCalendarEventsByWeek(12);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton12" title="June 29, 2026" class="calendar-text-alt" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton12&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=06292026&quot;, false, true))">29</a></div>
+                    
+                </td>
+                <td class="calendarRow13" onclick="getCalendarEventsByWeek(13);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton13" title="June 30, 2026" class="calendar-text-alt" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton13&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=06302026&quot;, false, true))">30</a></div>
+                    
+                </td>
+                <td class="calendarRow14" onclick="getCalendarEventsByWeek(14);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton14" title="July 1, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton14&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07012026&quot;, false, true))">1</a></div>
+                    
+                </td>
+                <td class="calendarRow15" onclick="getCalendarEventsByWeek(15);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton15" title="July 2, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton15&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07022026&quot;, false, true))">2</a></div>
+                    
+                </td>
+                <td class="calendarRow16" onclick="getCalendarEventsByWeek(16);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton16" title="July 3, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton16&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07032026&quot;, false, true))">3</a></div>
+                    
+                </td>
+                <td class="calendarRow17 last-child" onclick="getCalendarEventsByWeek(17);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton17" title="July 4, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton17&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07042026&quot;, false, true))">4</a></div>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td class="calendarRow21" onclick="getCalendarEventsByWeek(21);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton21" title="July 5, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton21&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07052026&quot;, false, true))">5</a></div>
+                    
+                </td>
+                <td class="calendarRow22" onclick="getCalendarEventsByWeek(22);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton22" title="July 6, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton22&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07062026&quot;, false, true))">6</a></div>
+                    
+                </td>
+                <td class="calendarRow23" onclick="getCalendarEventsByWeek(23);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton23" title="July 7, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton23&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07072026&quot;, false, true))">7</a></div>
+                    
+                </td>
+                <td class="calendarRow24" onclick="getCalendarEventsByWeek(24);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton24" title="July 8, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton24&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07082026&quot;, false, true))">8</a></div>
+                    
+                </td>
+                <td class="calendarRow25" onclick="getCalendarEventsByWeek(25);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton25" title="July 9, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton25&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07092026&quot;, false, true))">9</a></div>
+                    
+                </td>
+                <td class="calendarRow26" onclick="getCalendarEventsByWeek(26);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton26" title="July 10, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton26&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07102026&quot;, false, true))">10</a></div>
+                    
+                </td>
+                <td class="calendarRow27 last-child" onclick="getCalendarEventsByWeek(27);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton27" title="July 11, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton27&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07112026&quot;, false, true))">11</a></div>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td class="calendarRow31" onclick="getCalendarEventsByWeek(31);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton31" title="July 12, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton31&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07122026&quot;, false, true))">12</a></div>
+                    
+                </td>
+                <td class="calendarRow32" onclick="getCalendarEventsByWeek(32);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton32" title="July 13, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton32&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07132026&quot;, false, true))">13</a></div>
+                    
+                </td>
+                <td class="calendarRow33" onclick="getCalendarEventsByWeek(33);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton33" title="July 14, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton33&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07142026&quot;, false, true))">14</a></div>
+                    
+                </td>
+                <td class="calendarRow34" onclick="getCalendarEventsByWeek(34);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton34" title="July 15, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton34&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07152026&quot;, false, true))">15</a></div>
+                    
+                </td>
+                <td class="calendarRow35" onclick="getCalendarEventsByWeek(35);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton35" title="July 16, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton35&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07162026&quot;, false, true))">16</a></div>
+                    
+                </td>
+                <td class="calendarRow36" onclick="getCalendarEventsByWeek(36);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton36" title="July 17, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton36&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07172026&quot;, false, true))">17</a></div>
+                    
+                </td>
+                <td class="calendarRow37 last-child" onclick="getCalendarEventsByWeek(37);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton37" title="July 18, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton37&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07182026&quot;, false, true))">18</a></div>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td class="calendarRow41" onclick="getCalendarEventsByWeek(41);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton41" title="July 19, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton41&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07192026&quot;, false, true))">19</a></div>
+                    
+                </td>
+                <td class="calendarRow42" onclick="getCalendarEventsByWeek(42);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton42" title="July 20, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton42&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07202026&quot;, false, true))">20</a></div>
+                    
+                </td>
+                <td class="calendarRow43" onclick="getCalendarEventsByWeek(43);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton43" title="July 21, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton43&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07212026&quot;, false, true))">21</a></div>
+                    
+                </td>
+                <td class="calendarRow44" onclick="getCalendarEventsByWeek(44);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton44" title="July 22, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton44&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07222026&quot;, false, true))">22</a></div>
+                    <p><a id='eventID119492' href='ByEvent.aspx?EventID=119492' onmouseover='getCalendarEventByID(119492);'><b>10:00 AM</b> Committee on Oversight and Government Reform</a></p>
+                </td>
+                <td class="calendarRow45" onclick="getCalendarEventsByWeek(45);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton45" title="July 23, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton45&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07232026&quot;, false, true))">23</a></div>
+                    
+                </td>
+                <td class="calendarRow46" onclick="getCalendarEventsByWeek(46);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton46" title="July 24, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton46&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07242026&quot;, false, true))">24</a></div>
+                    
+                </td>
+                <td class="calendarRow47 last-child" onclick="getCalendarEventsByWeek(47);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton47" title="July 25, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton47&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07252026&quot;, false, true))">25</a></div>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td class="calendarRow51" onclick="getCalendarEventsByWeek(51);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton51" title="July 26, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton51&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07262026&quot;, false, true))">26</a></div>
+                    
+                </td>
+                <td class="calendarRow52" onclick="getCalendarEventsByWeek(52);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton52" title="July 27, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton52&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07272026&quot;, false, true))">27</a></div>
+                    
+                </td>
+                <td class="calendarRow53" onclick="getCalendarEventsByWeek(53);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton53" title="July 28, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton53&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07282026&quot;, false, true))">28</a></div>
+                    
+                </td>
+                <td class="calendarRow54" onclick="getCalendarEventsByWeek(54);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton54" title="July 29, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton54&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07292026&quot;, false, true))">29</a></div>
+                    
+                </td>
+                <td class="calendarRow55" onclick="getCalendarEventsByWeek(55);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton55" title="July 30, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton55&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07302026&quot;, false, true))">30</a></div>
+                    
+                </td>
+                <td class="calendarRow56" onclick="getCalendarEventsByWeek(56);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton56" title="July 31, 2026" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton56&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=07312026&quot;, false, true))">31</a></div>
+                    
+                </td>
+                <td class="calendarRow57 last-child" onclick="getCalendarEventsByWeek(57);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton57" title="August 1, 2026" class="calendar-text-alt" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton57&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=08012026&quot;, false, true))">1</a></div>
+                    
+                </td>
+            </tr>
+            <tr>
+                <td class="calendarRow61" onclick="getCalendarEventsByWeek(61);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton61" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton61&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=08302026&quot;, false, true))"></a></div>
+                    
+                </td>
+                <td class="calendarRow62" onclick="getCalendarEventsByWeek(62);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton62" class="calendar-text" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton62&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=08312026&quot;, false, true))"></a></div>
+                    
+                </td>
+                <td class="calendarRow63" onclick="getCalendarEventsByWeek(63);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton63" class="calendar-text-alt" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton63&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=09012026&quot;, false, true))"></a></div>
+                    
+                </td>
+                <td class="calendarRow64" onclick="getCalendarEventsByWeek(64);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton64" class="calendar-text-alt" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton64&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=09022026&quot;, false, true))"></a></div>
+                    
+                </td>
+                <td class="calendarRow65" onclick="getCalendarEventsByWeek(65);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton65" class="calendar-text-alt" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton65&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=09032026&quot;, false, true))"></a></div>
+                    
+                </td>
+                <td class="calendarRow66" onclick="getCalendarEventsByWeek(66);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton66" class="calendar-text-alt" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton66&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=09042026&quot;, false, true))"></a></div>
+                    
+                </td>
+                <td class="calendarRow67 last-child" onclick="getCalendarEventsByWeek(67);">
+                    <div class="calendar-text">
+                        <a id="MainContent_LinkButton67" class="calendar-text-alt" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContent$LinkButton67&quot;, &quot;&quot;, false, &quot;&quot;, &quot;ByDay.aspx?DayID=09052026&quot;, false, true))"></a></div>
+                    
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="divider">
+    </div>
+    <div class="left">
+        <span class="text-tiny">! <b>Meeting Postponed</b>
+            <br />
+            * <b>Meeting Rescheduled (View meeting details for updated information)</b>
+            <br />
+            <b><span class="strikethrough">Strikethrough</span> Meeting Cancelled</b> </span>
+    </div>
+    <br />
+    <div class="right">
+        <div class="btn-group">
+            <a id="MainContent_LinkButtonMonthPreviousBottom" accesskey="p" title="June" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonMonthPreviousBottom&#39;,&#39;&#39;)" style="display:inline-block;width:55px;">June</a>
+            <a id="MainContent_LinkButtonMonthTodayBottom" accesskey="t" title="This Month" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonMonthTodayBottom&#39;,&#39;&#39;)">This Month</a>
+            <a id="MainContent_LinkButtonWeekViewBottom" accesskey="w" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonWeekViewBottom&#39;,&#39;&#39;)">Week View</a>
+            <a id="MainContent_LinkButtonMonthNextBottom" accesskey="n" title="August" class="btn btn-small" href="javascript:__doPostBack(&#39;ctl00$MainContent$LinkButtonMonthNextBottom&#39;,&#39;&#39;)" style="display:inline-block;width:55px;">August</a>
+        </div>
+    </div>
+    <div class="clearfix">
+    </div>
+    <script type="text/javascript">
+        function getCalendarEventByID(eventID) {
+            $(document).ready(function () {
+                var eventElementID = '#eventID' + eventID.toString();
+                var startDate;
+                var committee;
+                var eventURL;
+                $.ajax({
+                    type: 'POST',
+                    contentType: "application/json; charset=utf-8",
+                    url: 'ByMonth.aspx/GetCalendarEventByID',
+                    data: "{'eventID': '" + eventID + "'}",
+                    dataType: "json",
+                    success: function (data) {
+                        startDate = new Date(parseInt(data.d.StartDate.substring(6)));
+                        //endDate = new Date(parseInt(data.d.EndDate.substring(6)));
+                        eventTitle = data.d.Title.toString();
+                        eventLocation = data.d.Location.toString();
+                        committee = data.d.Committee.toString();
+                        eventNotes = data.d.Notes.toString();
+                        $(eventElementID).popover({ title: eventTitle, content: '<i class="icon-time"></i>&nbsp;<span class="text-small">' + startDate + '</span><br /><i class="icon-map-marker"></i>&nbsp;<span class="text-small">' + eventLocation + '</span>', placement: 'bottom' });
+                        $(eventElementID).popover('show').mouseleave(function () {
+                            $(eventElementID).popover('hide')
+                        });
+
+                    }
+                });
+            });
+        }
+
+        function getCalendarEventsByWeek(rowID) {
+            $(document).ready(function () {
+                var rowElementID = '.calendar tr td.calendarRow' + rowID.toString() + ' div.calendar-text a';
+                var selectedDate = $(rowElementID).attr("title");
+                var selectedElementID = 'calendarRow' + rowID.toString();
+                var getHTML = $('.calendar tr td').html().toString();
+                var firstDay = $('.calendar tr td.' + selectedElementID.substring(0, (selectedElementID.length - 1)) + '1' + ' div.calendar-text a').attr("title");
+                var lastDay = $('.calendar tr td.' + selectedElementID.substring(0, (selectedElementID.length - 1)) + '7' + ' div.calendar-text a').attr("title");
+
+                if ((firstDay != undefined) || (lastDay != undefined)) {
+                    var firstBoxID;
+                    var lastBoxID;
+                    var i = 0;
+
+                    if (firstDay == undefined) {
+                        i = 1;
+                        while (firstDay == undefined) {
+                            firstDay = $('.calendar tr td.' + selectedElementID.substring(0, (selectedElementID.length - 1)) + i + ' div.calendar-text a').attr("title");
+                            firstBoxID = i;
+                            i++;
+                        }
+                    } else {
+                        firstBoxID = 1;
+                    }
+
+                    if (lastDay == undefined) {
+                        i = 7;
+                        while (lastDay == undefined) {
+                            lastDay = $('.calendar tr td.' + selectedElementID.substring(0, (selectedElementID.length - 1)) + i + ' div.calendar-text a').attr("title");
+                            lastBoxID = i;
+                            i--;
+                        }
+                    } else {
+                        lastBoxID = 7;
+                    }
+
+                    if ((firstBoxID == 1) && (lastBoxID == 7)) {
+                        if ((firstBoxID != undefined) && (lastBoxID != undefined)) {
+                            window.location = 'ByWeek.aspx?WeekOf=' + formatDate(firstDay).toString() + '_' + formatDate(lastDay).toString() + '&Code=GO00';
+                        }
+                    }
+                }
+            });
+        }
+
+        function getToday() {
+            var currentDate = new Date();
+            var theMonth = currentDate.getMonth();
+            var theDate = currentDate.getDate();
+            var theYear = currentDate.getFullYear();
+            var theDay = currentDate.getDay();
+            var daysBack = 0;
+
+            switch (theMonth) {
+                case 0:
+                    theMonth = 'January';
+                    break;
+                case 1:
+                    theMonth = 'February';
+                    break;
+                case 2:
+                    theMonth = 'March';
+                    break;
+                case 3:
+                    theMonth = 'April';
+                    break;
+                case 4:
+                    theMonth = 'May';
+                    break;
+                case 5:
+                    theMonth = 'June';
+                    break;
+                case 6:
+                    theMonth = 'July';
+                    break;
+                case 7:
+                    theMonth = 'August';
+                    break;
+                case 8:
+                    theMonth = 'September';
+                    break;
+                case 9:
+                    theMonth = 'October';
+                    break;
+                case 10:
+                    theMonth = 'November';
+                    break;
+                case 11:
+                    theMonth = 'December';
+                    break;
+            }
+
+            switch (theDay) {
+                case 0:
+                    theDay = 'Sunday';
+                    daysBack = 0;
+                    break;
+                case 1:
+                    theDay = 'Monday';
+                    daysBack = 1;
+                    break;
+                case 2:
+                    theDay = 'Tuesday';
+                    daysBack = 2;
+                    break;
+                case 3:
+                    theDay = 'Wednesday';
+                    daysBack = 3;
+                    break;
+                case 4:
+                    theDay = 'Thursday';
+                    daysBack = 4;
+                    break;
+                case 5:
+                    theDay = 'Friday';
+                    daysBack = 5;
+                    break;
+                case 6:
+                    theDay = 'Saturday';
+                    daysBack = 6;
+                    break;
+            }
+
+            var todayIs = theMonth + ' ' + theDate + ', ' + theYear;
+            var boxID = 0;
+            var i = 0;
+
+            $('.calendar tr td div.calendar-text a').each(function () {
+                var selectedDate = $(this).attr('title');
+                i++;
+
+                if (selectedDate == todayIs) {
+                    var theClass = $('.calendar tr td').attr('class');
+                    boxID = i;
+                    return false;
+                }
+            });
+
+            i = 0;
+            $('.calendar tr td').each(function () {
+                var selectedElementID = $(this).attr('class');
+                i++;
+
+                if (i == (boxID - daysBack)) {
+                    var startOfElementID = selectedElementID.replace('calendarRow', '');
+
+                    for (x = 0; x < 5; x++) {
+                        startOfElementID++;
+
+                        if ((startOfElementID) == (parseInt(selectedElementID.replace('calendarRow', '')) + daysBack)) {
+                            continue;
+                        } else {
+                            $('td.' + 'calendarRow' + startOfElementID).addClass('week');
+                        }
+                    }
+                }
+
+                if (i == boxID) {
+                    $('td.' + selectedElementID).addClass('today');
+                    return false;
+                }
+            });
+        }
+
+        function getCalendarWeekOnHover() {
+            $(document).ready(function () {
+                var selectedElementID;
+                var weekElementID;
+                var dayElementID;
+                var hoveredElements = [];
+
+                $('.calendar tr td').mouseenter(function () {
+                    //var todayIs = $(this).find('div.calendar-text a').attr('title');
+                    hoveredElements = [];
+                    selectedElementID = $(this).attr('class');
+                    weekElementID = $(this).attr('class').substring(0, ($(this).attr('class').length - 1));
+                    dayElementID = $(this).attr('class').substring($(this).attr('class').length - 1);
+
+                    $('.calendar tr td').each(function () {
+                        var currentElementID = $(this).attr('class');
+
+                        if (currentElementID.indexOf(weekElementID) != -1) {
+                            $('.calendar tr td.' + currentElementID).addClass('hover');
+                            hoveredElements.push(currentElementID);
+                        }
+                    })
+                }).mouseleave(function () {
+                    for (var i = 0; i < hoveredElements.length; i++) {
+                        $('.calendar tr td.' + hoveredElements[i]).removeClass('hover');
+                    };
+                });
+            });
+        }
+
+        function formatDate(dateString) {
+            var dateArray = dateString.replace(',', '').split(' ');
+            var dateFormatted;
+
+            for (var i = 0; i < dateArray.length; i++) {
+                switch (dateArray[i]) {
+                    case 'January':
+                        dateFormatted = '01';
+                        break;
+                    case 'February':
+                        dateFormatted = '02';
+                        break;
+                    case 'March':
+                        dateFormatted = '03';
+                        break;
+                    case 'April':
+                        dateFormatted = '04';
+                        break;
+                    case 'May':
+                        dateFormatted = '05';
+                        break;
+                    case 'June':
+                        dateFormatted = '06';
+                        break;
+                    case 'July':
+                        dateFormatted = '07';
+                        break;
+                    case 'August':
+                        dateFormatted = '08';
+                        break;
+                    case 'September':
+                        dateFormatted = '09';
+                        break;
+                    case 'October':
+                        dateFormatted = '10';
+                        break;
+                    case 'November':
+                        dateFormatted = '11';
+                        break;
+                    case 'December':
+                        dateFormatted = '12';
+                        break;
+                    default:
+                        if (dateArray[i].length < 2) {
+                            dateFormatted = dateFormatted + '0' + dateArray[i].toString();
+                        } else {
+                            dateFormatted = dateFormatted + dateArray[i];
+                        }
+                }
+            }
+
+            return dateFormatted;
+        }
+
+        function hideUnpopulatedElements() {
+            $(document).ready(function () {
+                $('.calendar tr td').each(function () {
+                    var currentElementID = $(this).attr('class');
+                    var currentElementDate = $('.calendar tr td.' + currentElementID + ' div.calendar-text a').attr('title');
+
+                    if (currentElementDate == undefined) {
+                        $('.calendar tr td.' + currentElementID).hide();
+                    }
+                });
+            });
+        }
+    </script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            getToday();
+            getCalendarWeekOnHover();
+            /*hideUnpopulatedElements();*/
+        });
+    </script>
+
+            <br />
+        </div>
+    </div>
+    <div id="footer">
+        <div class="footer-text">
+            <div class="left text-small">
+                <a href="http://clerk.house.gov/" title="Office of the Clerk">Office of the Clerk</a><br />
+                U.S. House of Representatives<br />
+                U.S. Capitol, Room H-154<br />
+                Washington D.C., 20515-6601<br />
+                202-225-7000
+            </div>
+            <div class="right">
+                
+                <a href="https://www.house.gov/accessibility" target="_blank">
+                    Accessibility</a> | <a href="/committee/Help.aspx">Help</a>
+                <br />
+                
+            </div>
+            <div class="clearfix">
+            </div>
+        </div>
+    </div>
+    <div class="footer-end">
+    </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+
+theForm.oldOnLoad = window.onload;
+window.onload = WebForm_RestoreScrollPosition;
+//]]>
+</script>
+</form>
+	
+	<script>
+	    (function (i, s, o, g, r, a, m) {
+	        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+	            (i[r].q = i[r].q || []).push(arguments)
+	        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+	  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+	    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+	    ga('create', 'UA-9875785-20', 'auto');
+	    ga('send', 'pageview');
+
+	</script>
+</body>
+</html>
