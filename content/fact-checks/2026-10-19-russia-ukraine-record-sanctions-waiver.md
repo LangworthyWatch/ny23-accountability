@@ -128,12 +128,30 @@ Cornyn, Lisa Murkowski and Thom Tillis, joined Democrats in asking the
 Pentagon's inspector general to investigate whether officials "directed"
 or "authorized" the changes, The Hill reported on October 16.
 
+**Republicans who spoke against the waiver.** Within a day of the order,
+Republicans in both chambers publicly disagreed with it, according to NBC
+News (with Sens. Cornyn and Tillis also reported by ABC News):
+
+| Who | What they said |
+|-----|----------------|
+| Rep. Mike Lawler (R-N.Y.) | Said on Fox News that he does not support the decision, calling Putin "a vile dictator and thug" |
+| Rep. Don Bacon (R-Neb.) | "the president is prolonging the war, not ending it" (on X) |
+| Sen. Thom Tillis (R-N.C.) | "Beyond irresponsible... What part of enforcing a law passed 86-11 by the Senate does the President and his advisors not understand?" (on X) |
+| Sen. John Cornyn (R-Texas) | "Lindsey would be appalled" |
+| Sen. Ted Cruz (R-Texas) | Said on Fox News the decision "was a mistake" |
+| Sen. Dan Sullivan (R-Alaska) | Said in a Fox News interview that he does not agree with waiving the sanctions |
+
+Rep. Lawler, like Rep. Langworthy, is a New York Republican in the House.
+
 **What we found from him.** As of October 19, we found no statement from
 Rep. Langworthy on the waiver or the Starshield reports in his House press
 releases (through October 15), his most recent posts on his official X
 account, or his official ("Congressman Nick Langworthy") and campaign
 ("Nick Langworthy") Facebook pages, checked October 19. We did not review
 radio or TV interviews.
+
+*Update, October 19, 2026: added the Republican reactions above, from NBC
+News and ABC News.*
 
 ---
 
@@ -171,7 +189,9 @@ What the record shows is a pattern in his public voice: repeated, sharp
 criticism of "weakness" toward Russia from 2022 through 2024, then no
 press release on Russia or Ukraine since June 2024, including on his own
 2026 votes on Ukraine aid and sanctions, and no public response we could
-find when the administration waived the sanctions he voted for.
+find when the administration waived the sanctions he voted for, while
+Republican colleagues in both chambers, including a fellow New York
+Republican, spoke against it.
 
 ---
 
@@ -205,6 +225,8 @@ find when the administration waived the sanctions he voted for.
 * Reuters, October 15, 2026, via U.S. News: https://www.usnews.com/news/world/articles/2026-10-15/exclusive-order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say (text retained; Wayback capture failed)
 * CNN, October 16, 2026: https://www.cnn.com/2026/10/16/politics/ukraine-trump-russia-starlink (archived: https://web.archive.org/web/20261019184750/https://www.cnn.com/2026/10/16/politics/ukraine-trump-russia-starlink)
 * CNN, October 16, 2026, on the waiver: https://www.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk (archived: https://web.archive.org/web/20261019184612/https://www.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk)
+* NBC News, October 17, 2026, on lawmakers' reactions: https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991 (archived: https://web.archive.org/web/20261019202357/https://www.nbcnews.com/politics/trump-administration/trump-suspends-new-russia-sanctions-deal-purchase-diesel-citing-nation-rcna603991)
+* ABC News, October 17, 2026: https://abcnews.com/Politics/trump-signs-order-waiving-graham-act-sanctions-russia/story?id=137341529 (archived: https://web.archive.org/web/20261019151643/https://abcnews.com/Politics/trump-signs-order-waiving-graham-act-sanctions-russia/story?id=137341529)
 * The Hill, Alexander Bolton, "GOP senators press Pentagon over Ukraine's loss of Starshield data," October 16, 2026 (copy retained)
 * Newsweek, Ellie Cook, "Starshield Gives Trump Massive Power Over Ukraine," October 19, 2026 (copy retained)
 * Kyiv Post, Rubio remarks: https://www.kyivpost.com/post/87400 (text retained; Wayback capture incomplete); Kyiv Post, October 15, 2026, on the disruption: https://www.kyivpost.com/post/87169 (text retained)
