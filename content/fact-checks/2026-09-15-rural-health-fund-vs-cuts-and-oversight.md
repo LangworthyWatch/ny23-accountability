@@ -60,6 +60,25 @@ award to New York of $212,058,207, made December 30, 2025. The $76.2 million
 is the state's allocation to one of its four initiatives, for which
 applications closed July 14.
 
+> **Update, October 19, 2026: a sixth post.** On October 19 his official
+> page posted: "Every family deserves access to quality health care,
+> especially in rural communities. Our Working Families Tax Cuts created a
+> $50 billion Rural Health Transformation Program to strengthen NY23
+> hospitals, expand emergency and maternity care, and bring care closer to
+> home." (Screenshot retained at
+> research/sources/triage-2026-10-19/official-rhtp-50b-post.png.)
+>
+> What holds up: the fund is $50 billion over five years, and New York's
+> rules for its first initiative give priority to "maternity services and
+> maternal child health." What the post leaves out is the same as before:
+> KFF reports the Senate added the fund "just prior to passage," the law
+> that created it cut rural Medicaid by about $137 billion (the fund offsets
+> about 37 percent), and 64 percent of the law's Medicaid cuts land after
+> fiscal 2030, when the fund ends. NY-23 has eight hospitals on the Fiscal
+> Policy Institute's at-risk list, the most of any New York district.
+
+{{< figure src="/images/fact-checks/2026-10-19-rhtp-50b-post.png" alt="Text post from the Congressman Nick Langworthy official Facebook page saying Our Working Families Tax Cuts created a $50 billion Rural Health Transformation Program to strengthen NY23 hospitals, expand emergency and maternity care, and bring care closer to home" caption="The October 19, 2026 post on the official page." >}}
+
 ---
 
 > **Correction (September 16, 2026):** An earlier version of this entry said the
@@ -269,4 +288,4 @@ tariff projections are uncertain by CBO's own description. Rep. Langworthy's off
 been asked for comment as of this writing; any response will be published
 in full.
 
-*Last updated: September 16, 2026 (correction)*
+*Last updated: October 19, 2026 (sixth post added)*
