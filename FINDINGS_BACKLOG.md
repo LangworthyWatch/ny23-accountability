@@ -63,7 +63,7 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 | Item | Card / text | Live entry? | Social status |
 |---|---|---|---|
 | Response: "$50B Rural Health Transformation Program" Oct 19 post (MISSING CONTEXT; Sept 15 entry updated) | card `rhtp_50b_response_card.png` + caption `rhtp_50b_response_post.md` (Desktop copy of card) | yes (Sept 15 entry, Oct 19 update live) | **READY to post** |
-| Russia/Ukraine record vs. Oct 16 sanctions waiver (DOCUMENTED PATTERN) | card `russia_waiver_card.png` + caption `russia_waiver_post.md` (Desktop copy of card) | no (entry `2026-10-19-russia-ukraine-record-sanctions-waiver.md` is draft, hold_reason open) | **READY once entry published** |
+| Russia/Ukraine record vs. Oct 16 sanctions waiver (DOCUMENTED PATTERN) | card `russia_waiver_card.png` + caption `russia_waiver_post.md` (Desktop copy of card) | yes (#174, live Oct 19) | **READY to post** |
 | Chemung $1.4M ARC sewer credit claim (MISSING CONTEXT) | card `chemung_arc_card.png` + caption `chemung_arc_post.md` (Desktop copy of card) | yes (live Oct 18) | **READY to post** |
 | Energy and Commerce scorecard (MISSING CONTEXT, #172) | card `ec_scorecard_card.png` + caption `ec_scorecard_post.md` (Desktop copy of card) | yes (live Oct 17) | **READY to post** |
 | Who funds him and who can reach him (DOCUMENTED PATTERN, #171) | card `funding_access_card.png` + caption `funding_access_post.md` (Desktop copy of card) | yes (live Oct 16) | **READY to post** |

@@ -1,11 +1,11 @@
 {
   "generated": "2026-10-19",
-  "total": 173,
+  "total": 174,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 58,
     "MISLEADING": 39,
-    "DOCUMENTED PATTERN": 31,
+    "DOCUMENTED PATTERN": 32,
     "CONTRADICTION": 13,
     "FALSE": 10,
     "MOSTLY TRUE": 8,
@@ -21,27 +21,27 @@
     {
       "label": "MISSING CONTEXT",
       "count": 60,
-      "pct": 34.7
+      "pct": 34.5
     },
     {
       "label": "MISLEADING",
       "count": 39,
-      "pct": 22.5
+      "pct": 22.4
     },
     {
       "label": "DOCUMENTED PATTERN",
-      "count": 31,
-      "pct": 17.9
+      "count": 32,
+      "pct": 18.4
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 8.1
+      "pct": 8.0
     },
     {
       "label": "FALSE",
       "count": 10,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "label": "MOSTLY TRUE",
@@ -81,13 +81,13 @@
     "Agriculture": 6,
     "Transparency": 6,
     "Rule of Law": 5,
+    "Foreign Policy": 4,
     "Accountability & Governance": 4,
     "Veterans": 4,
     "Infrastructure": 4,
     "Transportation": 3,
     "Ethics": 3,
     "Environment": 3,
-    "Foreign Policy": 3,
     "Constituent Service": 3,
     "Credit-Claiming": 2,
     "Legislative Record": 2,
@@ -122,9 +122,16 @@
     "2026-07": 24,
     "2026-08": 8,
     "2026-09": 13,
-    "2026-10": 7
+    "2026-10": 8
   },
   "entries": [
+    {
+      "title": "In 2022 He Said Every Moment Without 'Severe Consequences' for Putin Threatened the World. He Voted for the 2026 Sanctions Law That Let the President Waive Its Sanctions. On October 16, the President Did.",
+      "date": "2026-10-19",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Foreign Policy",
+      "url": "/fact-checks/2026-10-19-russia-ukraine-record-sanctions-waiver/"
+    },
     {
       "title": "I'm Proud to Secure $1.4 Million' for Chemung County's Sewers. The Grant Is Real. It Came Through ARC's Review Process, Sen. Schumer Credits a 2021 Law, and He Announced It the Same Day.",
       "date": "2026-10-18",

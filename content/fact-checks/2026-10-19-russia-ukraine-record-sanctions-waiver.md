@@ -1,7 +1,7 @@
 ---
 title: "In 2022 He Said Every Moment Without 'Severe Consequences' for Putin Threatened the World. He Voted for the 2026 Sanctions Law That Let the President Waive Its Sanctions. On October 16, the President Did."
 date: 2026-10-19
-draft: true
+draft: false
 topic: "Foreign Policy"
 claim_date: "February 2022 to October 2026"
 source: "His statements (NYGOP release, Facebook, House floor, newsletter); House Clerk roll calls; P.L. 119-111; White House order of October 16, 2026"
