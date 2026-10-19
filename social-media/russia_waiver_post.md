@@ -20,7 +20,7 @@ What happened this month:
 → Reuters, citing anonymous officials, reported that a White House order limited Ukraine's satellite access. The administration denies it. Four Republican senators asked the Pentagon's inspector general to investigate.
 → Since June 2024, his office hasn't issued a press release on Russia or Ukraine, and we found no statement from him on the waiver.
 
-The fair reading: he says he opposed the 2024 aid bill over non-military spending and a forgivable loan, and that he backs Ukraine's defense. The 2022 statement came as a party chairman criticizing a president of the other party. He may have spoken somewhere we couldn't check.
+The fair reading: he says he opposed the 2024 aid bill over non-military spending and a forgivable loan, and that he backs Ukraine's defense. The 2022 statement came as a party chairman criticizing a president of the other party. He may have addressed it in an interview we didn't review.
 
 In 2022, every moment without severe consequences was a threat. In 2026, the sanctions he voted for were waived, and we found no word from him.
 

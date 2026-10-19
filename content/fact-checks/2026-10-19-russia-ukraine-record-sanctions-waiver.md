@@ -2,7 +2,6 @@
 title: "In 2022 He Said Every Moment Without 'Severe Consequences' for Putin Threatened the World. He Voted for the 2026 Sanctions Law That Let the President Waive Its Sanctions. On October 16, the President Did."
 date: 2026-10-19
 draft: true
-hold_reason: "Before publishing: re-check his official and campaign pages, press releases and X for any statement on the Oct 16 waiver or the Starshield reports; confirm the 'Nick Langworthy' page handle for the 2022 and 2023 posts."
 topic: "Foreign Policy"
 claim_date: "February 2022 to October 2026"
 source: "His statements (NYGOP release, Facebook, House floor, newsletter); House Clerk roll calls; P.L. 119-111; White House order of October 16, 2026"
@@ -131,9 +130,10 @@ or "authorized" the changes, The Hill reported on October 16.
 
 **What we found from him.** As of October 19, we found no statement from
 Rep. Langworthy on the waiver or the Starshield reports in his House press
-releases (through October 15) or his most recent posts on his official X
-account. We could not check his Facebook pages or campaign accounts, so
-this is a partial check.
+releases (through October 15), his most recent posts on his official X
+account, or his official ("Congressman Nick Langworthy") and campaign
+("Nick Langworthy") Facebook pages, checked October 19. We did not review
+radio or TV interviews.
 
 ---
 
@@ -164,7 +164,7 @@ supported it.
 - **The 2022 statement came before he was in Congress,** as a party
   chairman criticizing a president of the other party.
 - **Silence is not a vote.** Members do not comment on every action, and
-  he may have spoken in places we could not check.
+  he may have addressed it in an interview we did not review.
 - **The Starshield accounts are disputed** and come from anonymous sources.
 
 What the record shows is a pattern in his public voice: repeated, sharp
