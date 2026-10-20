@@ -51,3 +51,6 @@ research/sources/triage-2026-10-15/hochul-record/taxes/fy27fp-en.pdf
 research/sources/ec-record-2026-10/bills/bulk/
 # all House roll-call XMLs 2023-2026 (~177 MB); key rolls cited are re-fetchable from clerk.house.gov
 research/sources/russia-ukraine-2026-10/record/clerk-all/
+
+# raw CMS/E&C HTML embeds third-party tokens (GitHub push protection); keep .txt copies only
+research/sources/triage-2026-10-20/medicaid-war-room/*.html
