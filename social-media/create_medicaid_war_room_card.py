@@ -27,7 +27,7 @@ hero_h = 214
 lx, rx = 44, 44 + col_w + 16
 top = y + 2
 for x0, fill, outline, color, label, big, l1, l2 in [
-    (lx, "#EDF2F7", "#A3BFD9", NAVY, "THE NUMBERS CHECK OUT", "50", "providers, about $203.3 million", "CMS announcement, July 28, 2026"),
+    (lx, "#EDF2F7", "#A3BFD9", NAVY, "THE NUMBERS MATCH CMS", "50", "providers, about $203.3 million", "CMS announcement, July 28, 2026"),
     (rx, "#FFF5F5", "#FEB2B2", RED, "WHO TOOK THE ACTION", "42 + 15", "42 exclusion notices from HHS's", "inspector general; 15 state actions (7 overlap)"),
 ]:
     c.panel(x0, top, x0 + col_w, top + hero_h, fill=fill, outline=outline)
@@ -39,7 +39,7 @@ y = top + hero_h + 14
 
 # ---- the record ----------------------------------------------------------------------------
 rows = [("Who acted", "CMS's Medicaid Fraud War Room, HHS's Office of Inspector General and state Medicaid agencies."),
-        ("What his committee did", "Oversight: letters to states, three subcommittee hearings. He isn't on it and isn't listed at any of them."),
+        ("What his committee did", "Oversight: letters to states, three subcommittee hearings. He isn't on that subcommittee or listed at the hearings."),
         ("What the $203 million measures", "What the 50 providers were paid since Jan 1, 2025. CMS gives no figure for how much was halted."),
         ("Where the cases stand", "Most were proposed exclusions that providers had 30 days to contest. CMS gave no count of final ones.")]
 row_h = 54
