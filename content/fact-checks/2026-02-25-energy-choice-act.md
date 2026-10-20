@@ -153,6 +153,29 @@ Together, Langworthy's two energy bills address state climate policy. Neither ad
 
 ---
 
+## Update, October 20, 2026: More Gas Production, Higher Gas Prices
+
+*Since this entry was published, federal Energy Information Administration (EIA) data show how U.S. natural gas prices increasingly move with exports and world demand, not just with how much gas the country produces.*
+
+| | 2024 | 2025 | 2026 (EIA projection) |
+|---|---|---|---|
+| U.S. dry gas production (billion cubic feet a day) | 103.07 | 107.64 | 112.20 |
+| U.S. LNG exports (billion cubic feet a day) | 11.9 | 15.1 | 17.6 |
+| Henry Hub spot price (dollars per million Btu, annual average) | 2.19 | 3.53 | 3.48 |
+
+*Source: EIA Short-Term Energy Outlook, released October 6, 2026.*
+
+- **Production rose about 4% in 2025; the benchmark price rose about 61%.** (Our calculation from the table above: 107.64 / 103.07 and 3.53 / 2.19.)
+- **Exports are growing faster than production.** LNG exports were about 12% of U.S. production in 2024 and are projected at about 16% in 2026 (our calculation). EIA reported that the United States was the world's largest LNG exporter in 2024, at 11.9 billion cubic feet a day.
+- **World demand has moved U.S. prices before.** In 2022, EIA cited "continued high demand for U.S. liquefied natural gas (LNG) exports in Europe" as a factor in early-2022 price swings; Henry Hub averaged $6.45 that year, "the highest annual average... since 2008." When a fire shut the Freeport LNG export terminal, the price "fell by 40% by July 4" as exports dropped by about 2 billion cubic feet a day.
+- **Weather still drives spikes.** EIA reports Henry Hub averaged $7.72 in January 2026 after winter storm Fern.
+
+*In plain language: the country produced more gas in 2025, and the price still went up. A growing share of U.S. gas is shipped overseas, so demand abroad, along with weather, can move prices here even when production rises. The Energy Choice Act addresses whether homes can be connected to gas, not what the gas costs.*
+
+**The fair reading.** More supply does help: EIA says ongoing production growth keeps storage above the five-year average, which "limit[s] upward price pressures," and it forecasts Henry Hub at $3.16 in 2027. One year is a short window, and 2025's increase came off a low 2024 price. EIA also notes regional differences: key Appalachian trading hubs averaged a $0.68 discount to Henry Hub in 2022 "due to limited pipeline takeaway capacity."
+
+---
+
 ## Questions This Raises
 
 1. **NEFI states it "helped draft" the bill and leads the support coalition.** How did NEFI come to help draft the legislation, and what input did consumer advocacy organizations have?
@@ -199,9 +222,12 @@ Together, Langworthy's two energy bills address state climate policy. Neither ad
 - NY PSC September 2025 report — climate policies account for 5–9.5% of electric bills
 - NYISO — natural gas is "the most significant driver of wholesale electricity costs"
 - EIA — Henry Hub natural gas pricing data
+- EIA, Short-Term Energy Outlook, natural gas, released October 6, 2026: https://www.eia.gov/outlooks/steo/report/natgas.php (archived: https://web.archive.org/web/20261020192557/https://www.eia.gov/outlooks/steo/report/natgas.php)
+- EIA, Today in Energy, "Average cost of wholesale U.S. natural gas in 2022 highest since 2008," January 9, 2023: https://www.eia.gov/todayinenergy/detail.php?id=55119 (archived: https://web.archive.org/web/20261020192337/https://www.eia.gov/todayinenergy/detail.php?id=55119)
+- EIA, Today in Energy, "The United States remained the world's largest liquefied natural gas exporter in 2024," March 27, 2025: https://www.eia.gov/todayinenergy/detail.php?id=64844 (archived: https://web.archive.org/web/20261020192453/https://www.eia.gov/todayinenergy/detail.php?id=64844)
 
 ---
 
 *All information in this entry is drawn from publicly available sources including congressional records, official press releases, bill text, trade association publications, and regulatory filings.*
 
-*Last updated: February 25, 2026*
+*Last updated: October 20, 2026 (EIA gas price and LNG export update)*
