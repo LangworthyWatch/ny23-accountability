@@ -64,6 +64,7 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 |---|---|---|---|
 | Response: "$50B Rural Health Transformation Program" Oct 19 post (MISSING CONTEXT; Sept 15 entry updated) | card `rhtp_50b_response_card.png` + caption `rhtp_50b_response_post.md` (Desktop copy of card) | yes (Sept 15 entry, Oct 19 update live) | **READY to post** |
 | Russia/Ukraine record vs. Oct 16 sanctions waiver (DOCUMENTED PATTERN) | card `russia_waiver_card.png` + caption `russia_waiver_post.md` (Desktop copy of card) | yes (#174, live Oct 19) | **READY to post** |
+| Gas is a global commodity: production +4%, price +61% in 2025 (links Energy Choice Act entry, MISLEADING) | card `gas_global_price_card.png` + caption `gas_global_price_post.md` (Desktop copy of card) | yes (Feb 25 entry live; EIA figures are in the caption and research/sources/gas-global-2026-10/, not yet in the entry) | **READY to post** |
 | Chemung $1.4M ARC sewer credit claim (MISSING CONTEXT) | card `chemung_arc_card.png` + caption `chemung_arc_post.md` (Desktop copy of card) | yes (live Oct 18) | **READY to post** |
 | Energy and Commerce scorecard (MISSING CONTEXT, #172) | card `ec_scorecard_card.png` + caption `ec_scorecard_post.md` (Desktop copy of card) | yes (live Oct 17) | **READY to post** |
 | Who funds him and who can reach him (DOCUMENTED PATTERN, #171) | card `funding_access_card.png` + caption `funding_access_post.md` (Desktop copy of card) | yes (live Oct 16) | **READY to post** |
