@@ -2,7 +2,7 @@
 title: "'I Secured.' 'Proud to Deliver.' Seven Credit Claims He Made in 2026, and What the Record Shows Behind Each One."
 date: 2026-10-20
 draft: true
-hold_reason: "Publish only together with or after the Medicaid Fraud War Room entry (2026-10-20-medicaid-fraud-war-room-credit-claim), which is still a draft; if that entry changes, update row 7 to match. Rows 2 and 3 re-checked Oct 20 (BILLSTATUS updated Sept 19; no House votes since Sept 16); re-check again if publishing later. Also correct the dairy entry's 'a year before' timing (May 21, 2024 to January 9, 2025 is about eight months)."
+hold_reason: "Publish only together with or after the Medicaid Fraud War Room entry (2026-10-20-medicaid-fraud-war-room-credit-claim), which is still a draft; if that entry changes, update row 7 to match. Rows 2 and 3 re-checked Oct 20 (BILLSTATUS updated Sept 19; no House votes since Sept 16); re-check again if publishing later."
 topic: "Credit-Claiming"
 claim_date: "February to October 2026"
 source: "His official Facebook page and House press releases, as documented in seven LangworthyWatch entries"
