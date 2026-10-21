@@ -9,7 +9,7 @@ source_url: "https://langworthy.house.gov/issues/grant-announcements"
 archived_url: "https://web.archive.org/web/2026/https://www.gillibrand.senate.gov/senator-kirsten-gillibrands-congressionally-directed-spending-cds-requests-for-fiscal-year-2022-2/"
 verdict: "MISSING CONTEXT"
 tags: ["Government Transparency", "Economy", "Infrastructure"]
-county: ["Erie", "District-wide"]
+counties: ["erie", "district-wide"]
 ---
 
 *Companion entry: [Where Langworthy's Earmarks Go — and the One County They Miss](/fact-checks/2026-07-09-earmark-distribution-vs-need/).*

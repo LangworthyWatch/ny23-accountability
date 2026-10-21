@@ -5,8 +5,9 @@ draft: false
 topic: "Credit-Claiming"
 claim_date: "May 2026"
 source: "Facebook Post"
-source_url: "https://www.facebook.com/CongressmanNickLangworthy"
+source_url: "https://www.facebook.com/RepLangworthy"
 archived_url: ""
+archive_note: "Facebook posts are login-walled and cannot be captured by the Wayback Machine. A screenshot of the post on the official page (RepLangworthy, display name \"Congressman Nick Langworthy,\" verified), showing its full caption, is on file from the site's monitoring captures (image dated May 6, 2026)."
 verdict: "MISLEADING"
 tags: ["credit-claiming", "earmarks", "helicopters", "erie-county", "documented-pattern"]
 counties: ["erie"]
@@ -146,4 +147,6 @@ This entry fits the project's established "Take Credit for Others' Work" templat
 
 **Note:** This entry does not contest that the federal $4.2M was secured, that it is real money, or that it advances the Sheriff's Aviation Unit's mission. The narrow finding is that the post's "for not one, but TWO helicopters" framing makes the federal contribution sound like the action that produced the helicopters, when in fact county funds and state aid (including from a Democratic Assemblymember not mentioned in the post) had already paid for the airframes themselves before the federal money arrived.
 
-*Last updated: May 6, 2026.*
+**Correction (October 20, 2026):** This entry's source link pointed to facebook.com/CongressmanNickLangworthy, which is not the address of his official page. The screenshot on file shows the post on his official office page, facebook.com/RepLangworthy. The link now points there. The quote and findings are unchanged.
+
+*Last updated: October 20, 2026.*

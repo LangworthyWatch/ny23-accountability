@@ -1,5 +1,5 @@
 ---
-title: "He Says 'My Dairy Farm Resiliency Act Strengthened' the Dairy Safety Net. His Bill Never Got a Hearing. The Provision Was a Colleague's Bill First, and the Committee Had It in Its Farm Bill a Year Before He Filed It."
+title: "He Says 'My Dairy Farm Resiliency Act Strengthened' the Dairy Safety Net. His Bill Never Got a Hearing. The Provision Was a Colleague's Bill First, and the Committee Had It in Its Farm Bill Nearly Eight Months Before He Filed It."
 date: 2026-10-08
 draft: false
 topic: "Agriculture"
@@ -29,8 +29,8 @@ Farm Resiliency Act strengthened the program. The record shows a bill that
 was introduced by another member first, that he reintroduced word for word,
 that never received a hearing, a markup or a vote, and whose one original
 idea was not enacted. The 6-million-pound change became law because the
-House Agriculture Committee put it in its own farm bill a year before he
-filed his, and then carried it into the One Big Beautiful Bill Act.
+House Agriculture Committee put it in its own farm bill nearly eight
+months before he filed his, and then carried it into the One Big Beautiful Bill Act.
 
 ---
 
@@ -106,11 +106,12 @@ show that. The same release described the Dairy Farm Resiliency Act only
 as "ensuring that production levels are updated every five years." It did
 not mention 6 million pounds.
 
-### The committee had the 6-million-pound text a year before he filed
+### The committee had the 6-million-pound text nearly eight months before he filed
 
 On May 21, 2024, House Agriculture Chairman Glenn "GT" Thompson introduced
 H.R. 8467, the Farm, Food, and National Security Act of 2024, the
-committee's farm bill. Section 1402(a) reads:
+committee's farm bill. That was seven months and 19 days before Rep.
+Langworthy introduced H.R. 294 on January 9, 2025. Section 1402(a) reads:
 
 > "Tier I.--Section 1407(b) of the Agricultural Act of 2014 (7 U.S.C.
 > 9057(b)) is amended-- (1) in the heading, by striking `5,000,000' and
@@ -251,4 +252,6 @@ Government Publishing Office, the House Clerk, USDA, the House Agriculture
 Committee and Rep. Langworthy's own office. It makes no claim about motive.
 Corrections with sources are welcome at langworthywatch@gmail.com.
 
-*Last updated: October 8, 2026*
+**Correction (October 20, 2026):** An earlier version of this entry said, in the headline and in two places in the text, that the House Agriculture Committee had the 6-million-pound text "a year before" Rep. Langworthy filed his bill. The government's status files show H.R. 8467 was introduced on May 21, 2024 and H.R. 294 on January 9, 2025, a gap of about seven and a half months. The headline and text now say "nearly eight months." No other finding changes, and the verdict is unchanged.
+
+*Last updated: October 20, 2026*

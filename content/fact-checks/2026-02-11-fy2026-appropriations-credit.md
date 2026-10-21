@@ -7,7 +7,7 @@ claim_date: "January-February 2026"
 source: "Multiple Facebook Posts, Press Releases"
 source_url: "https://langworthy.house.gov"
 archived_url: "https://web.archive.org/web/20260425051338/https://langworthy.house.gov/"
-verdict: "MISSING ATTRIBUTION"
+verdict: "MISSING CONTEXT"
 tags: ["infrastructure", "earmarks", "appropriations", "transparency", "water", "bipartisan", "newstead", "elmira-college"]
 counties: ["cattaraugus", "chautauqua", "chemung", "erie", "steuben", "allegany"]
 ---
@@ -239,4 +239,6 @@ The issue is not that Langworthy takes credit — it's that he takes **sole** cr
 
 *All fact-checks based on publicly available information from Congress.gov, House and Senate Appropriations Committees, official press releases, and local news organizations.*
 
-*Last updated: February 11, 2026*
+**Verdict label change (October 20, 2026):** This entry was published with the overall verdict "MISSING ATTRIBUTION," which is not one of the site's standard verdict labels. It now carries MISSING CONTEXT, the closest standard label: the entry finds the earmarks real and legitimately requested, and finds the announcements incomplete, because they left out that five of the ten projects were also requested by Senators Schumer and Gillibrand. FALSE ATTRIBUTION was not used because he did request every one of the ten earmarks. The findings and the per-project assessments above are unchanged.
+
+*Last updated: October 20, 2026*

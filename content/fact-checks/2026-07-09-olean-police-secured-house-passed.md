@@ -9,7 +9,7 @@ source_url: "https://langworthy.house.gov/services/appropriations-requests/appro
 archived_url: "https://web.archive.org/web/2026/https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy27"
 verdict: "DOCUMENTED PATTERN"
 tags: ["Public Safety", "Economy", "Government Transparency"]
-county: ["Cattaraugus"]
+counties: ["cattaraugus"]
 ---
 
 ## Why this matters
@@ -64,9 +64,10 @@ Modernization and Upgrade Project** (303 Court St., Little Valley) — another i
 on his official FY2027 CPF disclosure, part of what the Olean Times Herald
 summarized as **"House movement"** on more than **$2 million** in local
 public-safety requests. Unlike the police facility, the 911 project is **not** in
-H. Rept. 119-632's project table, and it is not in the only other FY2027
-appropriations bill the House has passed (H.R. 8595, National Security and State,
-H. Rept. 119-631). It has cleared **neither** chamber. His Facebook post says the
+H. Rept. 119-632's project table, and it is not in the other two FY2027
+appropriations bills the House has passed (H.R. 8595, National Security and State,
+H. Rept. 119-631; and H.R. 8469, Military Construction-Veterans Affairs,
+H. Rept. 119-622). It has cleared **neither** chamber. His Facebook post says the
 money "will strengthen our 911 system" for Cattaraugus County — future tense doing
 the work the past-tense headline ("secured") skips.
 
@@ -122,7 +123,8 @@ not, not yet.
 * H.R. 8646, FY2027 Agriculture-Rural Development appropriations — bill status and actions (passed House June 4, 2026; received in Senate June 8, 2026): [govinfo BILLSTATUS](https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr8646.xml)
 * Roll Call 205, June 4, 2026, On Passage, 213-210, Langworthy "Yea": [clerk.house.gov](https://clerk.house.gov/evs/2026/roll205.xml)
 * H. Rept. 119-632, Community Project Funding table (Olean Police Department Modernization, $1,000,000, Langworthy): [govinfo (PDF)](https://www.govinfo.gov/content/pkg/CRPT-119hrpt632/pdf/CRPT-119hrpt632.pdf)
-* H. Rept. 119-631 (H.R. 8595, the other House-passed FY2027 bill; contains no Langworthy project): [govinfo (PDF)](https://www.govinfo.gov/content/pkg/CRPT-119hrpt631/pdf/CRPT-119hrpt631.pdf)
+* H. Rept. 119-631 (H.R. 8595, another House-passed FY2027 bill; contains no Langworthy project): [govinfo (PDF)](https://www.govinfo.gov/content/pkg/CRPT-119hrpt631/pdf/CRPT-119hrpt631.pdf)
+* H. Rept. 119-622 (H.R. 8469, FY2027 Military Construction-Veterans Affairs, passed the House May 15, 2026, Roll Call 175) — its Community Project Funding table lists only military construction projects, none in New York: [govinfo (PDF)](https://www.govinfo.gov/content/pkg/CRPT-119hrpt622/pdf/CRPT-119hrpt622.pdf) · [Roll Call 175](https://clerk.house.gov/evs/2026/roll175.xml)
 * Continuing Appropriations and Extensions Act, 2027 (P.L. 119-103), §106 — funding through December 11, 2026: [govinfo, enrolled text](https://www.govinfo.gov/content/pkg/BILLS-119hr6500eas/xml/BILLS-119hr6500eas.xml)
 
 **Related:** [The June 2026 hospital-radiology credit-claim](/fact-checks/2026-06-24-hospital-radiology-credit-claim/) · [FY2026 appropriations credit-claim](/fact-checks/2026-02-11-fy2026-appropriations-credit/)
@@ -171,4 +173,6 @@ and await the Senate.
 **Note:** This entry documents publicly available information about a member's
 appropriations request and how it was described. Requesting earmarks is a legal,
 disclosed part of the process; this addresses the accuracy of "secured."
-*Last updated: September 8, 2026 (corrected: the bill had passed the House on June 4, 2026).*
+**Correction (October 20, 2026).** This entry described H.R. 8595 as "the only other FY2027 appropriations bill the House has passed." A third had passed earlier: H.R. 8469, Military Construction-Veterans Affairs, on May 15, 2026 (Roll Call 175). Its report, H. Rept. 119-622, lists only military construction projects in its Community Project Funding table, none of them in New York, so the Cattaraugus County 911 project is not in it either. The passage and sources now name all three bills. The findings and the verdict are unchanged.
+
+*Last updated: October 20, 2026 (corrected the count of House-passed FY2027 bills). Previously updated September 8, 2026 (corrected: the bill had passed the House on June 4, 2026).*

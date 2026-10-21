@@ -3,7 +3,7 @@
   "total": 174,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 58,
+    "MISSING CONTEXT": 60,
     "MISLEADING": 39,
     "DOCUMENTED PATTERN": 32,
     "CONTRADICTION": 13,
@@ -12,7 +12,6 @@
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
     "DEFLECTION": 3,
-    "MISSING ATTRIBUTION": 2,
     "PARTIALLY TRUE": 1,
     "NON-RESPONSIVE": 1,
     "INCONSISTENT": 1
@@ -175,7 +174,7 @@
       "url": "/fact-checks/2026-10-15-tax-claims-social-security-cola/"
     },
     {
-      "title": "He Says 'My Dairy Farm Resiliency Act Strengthened' the Dairy Safety Net. His Bill Never Got a Hearing. The Provision Was a Colleague's Bill First, and the Committee Had It in Its Farm Bill a Year Before He Filed It.",
+      "title": "He Says 'My Dairy Farm Resiliency Act Strengthened' the Dairy Safety Net. His Bill Never Got a Hearing. The Provision Was a Colleague's Bill First, and the Committee Had It in Its Farm Bill Nearly Eight Months Before He Filed It.",
       "date": "2026-10-08",
       "verdict": "MISLEADING",
       "topic": "Agriculture",
@@ -1045,7 +1044,7 @@
     {
       "title": "FY2026 Appropriations: What Langworthy 'Secured' vs. What Was Bipartisan",
       "date": "2026-02-11",
-      "verdict": "MISSING ATTRIBUTION",
+      "verdict": "MISSING CONTEXT",
       "topic": "Infrastructure",
       "url": "/fact-checks/2026-02-11-fy2026-appropriations-credit/"
     },
@@ -1101,7 +1100,7 @@
     {
       "title": "Steuben County: Ten Federal Funding Claims Examined",
       "date": "2026-02-08",
-      "verdict": "MISSING ATTRIBUTION",
+      "verdict": "MISSING CONTEXT",
       "topic": "Transparency",
       "url": "/fact-checks/2026-02-08-steuben-credit-claiming-pattern/"
     },

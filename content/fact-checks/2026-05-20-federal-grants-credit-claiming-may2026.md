@@ -1,15 +1,14 @@
 ---
 title: "Federal Funding: Four Announcements in One Week, Zero Earmarks — A Credit-Claiming Pattern"
 date: 2026-05-20
+draft: false
+claim_date: "May 13-20, 2026"
 categories:
   - "Economy / Infrastructure"
 verdict: "DOCUMENTED PATTERN"
 source: "Multiple Facebook Posts, May 13–20, 2026"
 reported_by: "Spectrum News NY1, Observer Today, Buffalo News"
-county:
-  - "Chautauqua"
-  - "Chemung"
-  - "District-wide"
+counties: ["chautauqua", "chemung", "district-wide"]
 tags:
   - "Economy"
   - "Infrastructure"
@@ -19,7 +18,7 @@ slug: "2026-05-20-federal-grants-credit-claiming-may2026"
 
 ## Overview
 
-Between May 13 and May 20, 2026, Langworthy published four Facebook posts claiming personal credit for federal grant awards totaling more than $16.6 million. Each grant flows from automatic federal formula programs — not congressionally directed earmarks. In each case, Langworthy's language implies personal delivery ("I'm proud to deliver," "I will always fight to ensure our communities receive our fair share"). This is the sixth documented instance of this pattern in this tracker. The week of May 13–20 is the most concentrated single example to date.
+Between May 13 and May 20, 2026, Langworthy published four Facebook posts claiming personal credit for federal grant awards totaling more than $16.6 million. Each award comes from a federal agency program, not from a congressionally directed earmark. In each case, Langworthy's language implies personal delivery ("I'm proud to deliver," "I will always fight to ensure our communities receive our fair share"). This is the sixth documented instance of this pattern in this tracker. The week of May 13–20 is the most concentrated single example to date.
 
 ## Documented Instances — May 2026
 
@@ -29,9 +28,9 @@ Between May 13 and May 20, 2026, Langworthy published four Facebook posts claimi
 
 **The grant:** USDA Rural Development Water and Waste Disposal Loan and Grant Program. Two projects: a $1.261M loan + $993K grant, and a $545K loan + $409K grant. Total: $3.22 million. *(Note: Langworthy posted the same award twice — once via Observer Today on May 18 citing "$3.2 million," once via Spectrum News NY1 on May 20 citing "more than $3 million." Same grant.)*
 
-**How it works:** USDA Rural Development awards Water and Waste Disposal grants through a formula program open to rural communities that apply directly to USDA. Applications are reviewed by USDA Rural Development state offices. Congressional member direction is not part of the award process.
+**How it works:** USDA Rural Development awards Water and Waste Disposal loans and grants through an application-based program: rural communities apply directly to USDA. Applications are reviewed by USDA Rural Development state offices. Congressional member direction is not part of the award process.
 
-### Instance 2 — May 20, 2026: $7.7 million, early childhood education and behavioral health
+### Instance 2 — May 19, 2026: $7.7 million, early childhood education and behavioral health
 
 {{< figure src="/images/fact-checks/2026-05-19-grants-behavioral-health-fb-post.png" alt="Langworthy Facebook post May 19 announcing $7.7 million for early childhood education and behavioral health services" caption="Source: Congressman Nick Langworthy Facebook, May 19, 2026" >}}
 
@@ -45,7 +44,7 @@ Between May 13 and May 20, 2026, Langworthy published four Facebook posts claimi
 
 **Post:** "As Chair of the aviation safety caucus...This $5.7 million in funding will improve safety, modernize aging infrastructure, and help position the airport for long-term success."
 
-**The grant:** FAA Airport Improvement Program (AIP), Fiscal Year 2026 cycle. AIP grants are distributed to eligible airports by formula based on passenger enplanements, runway conditions, and safety status — not by congressional direction. The Chautauqua County-Jamestown Airport applied directly to the FAA.
+**The grant:** FAA Airport Improvement Program (AIP), Fiscal Year 2026 cycle. AIP combines entitlement funds apportioned by formula (based largely on passenger enplanements) with discretionary funds the FAA awards by priority and safety need. Airports apply to the FAA; these awards are not congressionally directed earmarks. The Chautauqua County-Jamestown Airport applied directly to the FAA.
 
 **The caucus claim:** Langworthy describes himself as "Chair of the aviation safety caucus." Congressional caucuses are informal member groups; this caucus does not have formal authority over FAA grant awards.
 
@@ -53,7 +52,7 @@ Between May 13 and May 20, 2026, Langworthy published four Facebook posts claimi
 
 **Post:** "Passing the Give Kids a Chance Act was just the beginning in our fight against pediatric illness... expand cancer research funding and increase access to biosimilars to help lower drug costs."
 
-**Context:** The Give Kids a Chance Act is a genuine legislative accomplishment. It is included here for completeness — the post is a legitimate claim of legislative credit, distinguishable from the formula-grant announcements above. *(Verdict for this post: does not meet DOCUMENTED PATTERN threshold on its own; see note below.)*
+**Context:** The Give Kids a Chance Act is a genuine legislative accomplishment. It is included here for completeness — the post is a legitimate claim of legislative credit, distinguishable from the agency-grant announcements above. *(Verdict for this post: does not meet DOCUMENTED PATTERN threshold on its own; see note below.)*
 
 ## Update — August 15, 2026: Two More Instances, From His Own Releases, Now on His "Delivered" List
 
@@ -61,7 +60,7 @@ Between May 13 and May 20, 2026, Langworthy published four Facebook posts claimi
 
 ### Instance 5 — July 2, 2026: $3.1 million, Southern Tier airports
 
-His release identifies the program itself: "more than $3.1 million in Federal Aviation Administration (FAA) **Airport Improvement Program (AIP)** grants" for the Cattaraugus County-Olean, Chautauqua County Jamestown, and Chautauqua County Dunkirk airports. That is the same FAA formula program as Instance 3 above: airports apply, the FAA distributes by formula and safety status, and no member of Congress directs the award.
+His release identifies the program itself: "more than $3.1 million in Federal Aviation Administration (FAA) **Airport Improvement Program (AIP)** grants" for the Cattaraugus County-Olean, Chautauqua County Jamestown, and Chautauqua County Dunkirk airports. That is the same FAA program as Instance 3 above: airports apply, the FAA awards entitlement and discretionary funds, and no member of Congress directs these awards.
 
 ### Instance 6 — July 29, 2026: $1.4 million, Schuyler Head Start
 
@@ -75,24 +74,24 @@ His release: "Schuyler Head Start, Inc. **has been awarded** a $1,373,892 federa
 
 ## The Pattern
 
-Six prior entries in this tracker document the same structure:
+Six prior entries in this tracker document related credit-claiming (three involve agency grants, three his own earmarks):
 
 | Entry | Program | Amount | Pattern |
 |-------|---------|--------|---------|
 | [Feedmore Earmark vs. Cuts](/fact-checks/2026-04-30-feedmore-earmark-vs-cuts/) | Community Project Funding | $3M | Claimed credit while cutting SNAP by $186B |
 | [Steuben Credit-Claiming](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/) | Multiple federal programs | Various | Sole credit for multi-agency federal awards |
-| [Allegany County Grants](/fact-checks/2026-02-08-allegany-county-grants-accord/) | USDA/HUD grants | Various | Formula grants framed as personal deliveries |
-| [FY2026 Appropriations Credit](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | FY2026 appropriations | Various | Credit for omnibus funds passed before taking the seat |
+| [Allegany County Grants](/fact-checks/2026-02-08-allegany-county-grants-accord/) | HHS Head Start, ARC, and one Community Project Funding earmark | Various | Head Start and ARC awards announced with the same framing as the one earmark he directed |
+| [FY2026 Appropriations Credit](/fact-checks/2026-02-11-fy2026-appropriations-credit/) | FY2026 Community Project Funding | Various | Sole credit for earmarks he requested, half of them also requested by Senators Schumer and Gillibrand |
 | [Steuben Flooding Mitigation](/fact-checks/2026-02-07-steuben-flooding-mitigation/) | FEMA/USDA | Various | Credit for disaster formula funding |
-| [Buffalo Airport Snow Equipment](/fact-checks/2026-02-18-buffalo-airport-snow-equipment/) | FAA AIP | $2.1M | Same FAA formula program as Instance 3 above |
+| [Buffalo Airport Snow Equipment](/fact-checks/2026-02-18-buffalo-airport-snow-equipment/) | FY2026 THUD Community Project Funding | $1.48M | His earmark for an airport in NY-26; announcement omitted Rep. Kennedy's $1.8M for the same airport |
 
-**What the pattern is — and isn't:** The federal grants are real and the communities will receive the money. The documented pattern is not that the grants are fabricated. It is that Langworthy consistently frames automatic federal formula programs as personal deliveries ("I'm proud to deliver," "I will always fight to ensure our fair share"), without disclosing that the same programs were funded by legislation his party opposed, and without acknowledging other federal and state officials involved in the same awards.
+**What the pattern is — and isn't:** The federal grants are real and the communities will receive the money. The documented pattern is not that the grants are fabricated. It is that Langworthy consistently frames federal funding as personal deliveries ("I'm proud to deliver," "I will always fight to ensure our fair share"), without disclosing that the same programs were funded by legislation his party opposed, and without acknowledging other federal and state officials involved in the same awards.
 
 ## Assessment
 
 **Verdict: DOCUMENTED PATTERN**
 
-Across at least six prior entries and four additional posts in the week of May 13–20, 2026, Langworthy has systematically framed federal formula grants as personal deliveries to his district. The May 2026 batch — USDA Rural Development water grants, FAA Airport Improvement Program funds, and HHS behavioral health awards — follows the same pattern: automatic, application-based programs announced in constituent communications as evidence of Langworthy's personal advocacy. None of the grants in this batch are congressionally directed earmarks.
+Across at least six prior entries and four additional posts in the week of May 13–20, 2026, Langworthy has systematically framed federal funding as personal deliveries to his district. The May 2026 batch — USDA Rural Development water grants, FAA Airport Improvement Program funds, and HHS behavioral health awards — follows the same pattern: agency-awarded funds announced in constituent communications as evidence of Langworthy's personal advocacy. None of the grants in this batch are congressionally directed earmarks.
 
 ## Sources
 
@@ -118,5 +117,7 @@ Across at least six prior entries and four additional posts in the week of May 1
 - [Congressman Langworthy Announces Nearly $1.4 Million for Schuyler Head Start (Jul. 29, 2026)](https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-nearly-14-million-schuyler-head-start-expand) — "Schuyler Head Start, Inc. has been awarded a $1,373,892 federal grant"
 - His August 12, 2026 Facebook post listing both items under "I'm proud to have delivered" (screenshot on file; login-walled, see this site's archive practice)
 
-*Last updated: August 15, 2026 (added Instances 5 and 6 from the August 12 "delivered" list; the May findings and DOCUMENTED PATTERN verdict are unchanged).*
+**Correction (October 20, 2026):** An earlier version of this entry (1) called the USDA Rural Development and HHS/SAMHSA awards "automatic federal formula programs"; the USDA program is application-based, as this site's Steuben entry describes it, and the specific HHS program behind the $7.7 million has not been identified; (2) dated Instance 2 to May 20, though the post on file is dated May 19; (3) listed the Buffalo airport snow-equipment item in the table as a $2.1 million FAA formula grant, though that entry documents a $1,482,000 Community Project Funding earmark he requested; (4) described the FY2026 appropriations entry as "credit for omnibus funds passed before taking the seat," though it covers FY2026 earmarks he requested; (5) described AIP as a pure formula program, though it combines formula entitlements with FAA discretionary grants; and (6) described the Allegany entry as covering "USDA/HUD grants," though it covers a Head Start grant, an ARC grant and one earmark. The page's frontmatter was also brought into line with site standards. These rows are now corrected. The Buffalo item is an earmark and does not belong to the "zero earmarks" May batch; it is listed as a related credit-claim. The DOCUMENTED PATTERN verdict is unchanged.
+
+*Last updated: October 20, 2026 (corrections above). Previously updated August 15, 2026 (added Instances 5 and 6 from the August 12 "delivered" list; the May findings and DOCUMENTED PATTERN verdict are unchanged).*
 

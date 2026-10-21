@@ -7,6 +7,7 @@ claim_date: "2024-2025"
 source: "Press Releases, Local News, County Legislature"
 source_url: ""
 archived_url: ""
+archive_note: "Multi-source review with no single source document: Langworthy grant announcements as reported by local outlets, federal program documentation and an ACCORD service notice. Each is listed in the Sources section below; the news reports are linked to the outlet's homepage rather than to an archived copy of the specific article."
 verdict: "MISSING CONTEXT"
 tags: ["allegany-county", "credit-claiming", "grants", "head-start", "arc", "accord", "constituent-access"]
 counties: ["allegany"]
@@ -149,4 +150,6 @@ The simultaneous ACCORD service suspension adds a dimension absent from Langwort
 
 **Note:** This entry documents publicly available information from news organizations, federal agency records, and county government sources. Readers may draw their own conclusions.
 
-*Last updated: February 8, 2026*
+**Note (October 20, 2026):** An archive note was added to this entry's source information explaining that it has no single source document. No content changed.
+
+*Last updated: October 20, 2026*

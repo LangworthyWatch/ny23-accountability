@@ -10,7 +10,7 @@ archived_url: ""
 archive_note: "Wayback and archive.today cannot capture this login-walled Facebook reel; primary preservation is the screenshot on file plus the Chairman Harris transcript at research/transcripts/2026-07-15-allegany-water-chairman-harris_fb-reel-1705002710752264.txt"
 verdict: "DOCUMENTED PATTERN"
 tags: ["Government Transparency", "Infrastructure", "Earmarks"]
-county: ["Allegany"]
+counties: ["allegany"]
 ---
 
 *Related entries: [FY2026 Appropriations: What Langworthy "Secured" vs. What Was Bipartisan](/fact-checks/2026-02-11-fy2026-appropriations-credit/) and [What "I Secured" Leaves Out: His Shared and Out-of-District Earmarks](/fact-checks/2026-07-09-earmark-credit-shared-out-of-district/).*

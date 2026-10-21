@@ -5,8 +5,9 @@ draft: false
 topic: "Animal Welfare / Ethics"
 claim_date: "May 4, 2026"
 source: "Facebook Post"
-source_url: "https://www.facebook.com/CongressmanNickLangworthy"
+source_url: "https://www.facebook.com/RepLangworthy"
 archived_url: ""
+archive_note: "Facebook posts are login-walled and cannot be captured by the Wayback Machine. The May 4, 2026 post appears on the official page (RepLangworthy, display name \"Congressman Nick Langworthy,\" verified) in a screenshot captured May 22, 2026, retained at static/images/fact-checks/feed-archive-2026-05/beagle-campaign/2026-05-22_1.41.21_PM.jpg."
 verdict: "MISLEADING"
 tags: ["animal-welfare", "credit-claiming", "ridglan", "beagles", "documented-pattern", "rfk", "hhs"]
 counties: ["district-wide"]
@@ -134,4 +135,6 @@ The Ridglan beagle credit-claim fits the same template: a positive outcome produ
 
 **Note:** This entry tests one specific causal claim ("our letter ... helped lead to this moment") against the documented timeline. It does not contest the broader sentiment of the post (that the beagles deserve freedom and good homes — that view is widely shared) or the appropriateness of a Member of Congress writing letters to the executive branch about animal welfare (that is part of the Member's role). The narrow finding is that the legal mechanism that ended Ridglan's beagle-selling business was settled in Wisconsin state court six months before the letter was sent.
 
-*Last updated: May 5, 2026.*
+**Correction (October 20, 2026):** This entry's source link pointed to facebook.com/CongressmanNickLangworthy, which is not the address of his official page. The retained screenshot shows the post on his official office page, facebook.com/RepLangworthy. The link now points there, and the entry notes where the screenshot is kept. The quote, date and findings are unchanged.
+
+*Last updated: October 20, 2026.*

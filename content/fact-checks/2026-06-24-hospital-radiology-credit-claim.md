@@ -6,7 +6,8 @@ topic: "Healthcare / Transparency"
 claim_date: "June 18-23, 2026"
 source: "Multiple Facebook Posts"
 source_url: "https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy27"
-archived_url: ""
+archived_url: "https://web.archive.org/web/20260624141102/https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy27"
+archive_note: "The archived copy is of his FY2027 Community Project Funding disclosure page, which lists both projects. The Facebook posts quoted below are login-walled and cannot be captured by the Wayback Machine; screenshots from the official page (RepLangworthy) are retained in static/images/fact-checks/beagle-campaign-archive/ (captured July 2, 2026)."
 verdict: "MISLEADING"
 tags: ["healthcare", "earmarks", "appropriations", "transparency", "rural-hospitals", "medicaid"]
 counties: ["chautauqua", "chemung"]
@@ -44,8 +45,8 @@ But a request is not an appropriation. Neither of these two projects is in any F
 
 | Project (FY2027 CPF request) | Proposed recipient | Amount Langworthy claims | Status |
 |---|---|---|---|
-| X-Ray / School of Radiology Training Lab | UPMC Chautauqua (Jamestown) | $300,000 | In draft bill text; not in either House-passed FY2027 bill; not enacted |
-| Interventional Radiology Room Replacement | Chemung County, Elmira (beneficiary: Arnot Ogden Medical Center) | $500,000 | Requested for FY2027; not in either House-passed FY2027 bill; not enacted |
+| X-Ray / School of Radiology Training Lab | UPMC Chautauqua (Jamestown) | $300,000 | In draft bill text; not in any of the three House-passed FY2027 bills; not enacted |
+| Interventional Radiology Room Replacement | Chemung County, Elmira (beneficiary: Arnot Ogden Medical Center) | $500,000 | Requested for FY2027; not in any of the three House-passed FY2027 bills; not enacted |
 
 Langworthy's official FY2027 disclosure lists both projects — requestor "Nicholas A. Langworthy," nexus letters dated March 27, 2026 — but attaches **no dollar figure** to either, because an amount is not set until a bill is enacted. The $300,000 and $500,000 are Langworthy's own stated figures, not numbers drawn from the disclosure.
 
@@ -94,6 +95,7 @@ The projects are real and the requests are legitimate. But the Facebook posts de
 * H.R. 1 / OBBBA — Roll Call 190, July 3, 2025 (Langworthy: Yea)
 * H. Rept. 119-632 (H.R. 8646, FY2027 Agriculture-Rural Development, passed the House June 4, 2026) — Community Project Funding table contains no UPMC Chautauqua or Arnot project: [govinfo (PDF)](https://www.govinfo.gov/content/pkg/CRPT-119hrpt632/pdf/CRPT-119hrpt632.pdf)
 * H. Rept. 119-631 (H.R. 8595, FY2027 National Security and State, passed the House July 15, 2026) — likewise contains neither project: [govinfo (PDF)](https://www.govinfo.gov/content/pkg/CRPT-119hrpt631/pdf/CRPT-119hrpt631.pdf)
+* H. Rept. 119-622 (H.R. 8469, FY2027 Military Construction-Veterans Affairs, passed the House May 15, 2026, Roll Call 175) — its Community Project Funding table lists only military construction projects, none in New York: [govinfo (PDF)](https://www.govinfo.gov/content/pkg/CRPT-119hrpt622/pdf/CRPT-119hrpt622.pdf) · [Roll Call 175](https://clerk.house.gov/evs/2026/roll175.xml)
 
 ## Related Fact-Checks
 
@@ -117,4 +119,6 @@ The same error appeared in the [Olean Police entry](/fact-checks/2026-07-09-olea
 
 **Note:** This entry documents publicly available information from official disclosures, local news, and the congressional record. Readers may draw their own conclusions.
 
-*Last updated: September 8, 2026 (corrected: an FY2027 appropriations bill had passed the House on June 4, 2026)*
+**Correction (October 20, 2026).** The project table and the September 8 correction above referred to "either" or "neither" of two House-passed FY2027 bills. A third FY2027 bill had also passed the House, before this entry was first published: H.R. 8469, Military Construction-Veterans Affairs, on May 15, 2026 (Roll Call 175). Its report, H. Rept. 119-622, lists only military construction projects in its Community Project Funding table, none of them in New York, so neither radiology project is in it. The table now says "any of the three House-passed FY2027 bills," and the report is added to the sources. The September 8 note is left as written. No FY2027 appropriations bill has become law, and the verdict is unchanged.
+
+*Last updated: October 20, 2026 (corrected the count of House-passed FY2027 bills; added the archived copy of the disclosure page and an archive note for the Facebook posts). Previously updated September 8, 2026 (corrected: an FY2027 appropriations bill had passed the House on June 4, 2026)*

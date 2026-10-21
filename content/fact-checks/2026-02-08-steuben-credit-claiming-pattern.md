@@ -7,7 +7,8 @@ claim_date: "2024-2025"
 source: "Multiple Press Releases, Local News, Federal Agency Records"
 source_url: ""
 archived_url: ""
-verdict: "MISSING ATTRIBUTION"
+archive_note: "Multi-source review with no single source document: Langworthy press releases from 2024-2025, federal agency program pages, county legislature records and local news. Each is linked in the Sources section below; several press releases and news reports are linked to the outlet's homepage rather than to an archived copy of the specific item."
+verdict: "MISSING CONTEXT"
 tags: ["steuben-county", "credit-claiming", "grants", "fema", "arc", "head-start", "infrastructure", "transparency", "rural-impact"]
 counties: ["steuben"]
 ---
@@ -247,7 +248,7 @@ Langworthy's press releases create a consistent impression that he is responsibl
 
 The most consequential verified facts are not about credit-claiming but about policy impact: Bath VA staffing cuts under a DOGE initiative Langworthy actively champions, FEMA flood maps 30-40 years out of date, and OBBBA provisions that Steuben County's own government warns will cost millions.
 
-**Verdict: MISSING ATTRIBUTION** — Funding announcements are accurate in dollar terms but systematically overstate the representative's role. Meanwhile, the policies he supports are projected to weaken the same systems rural residents depend on.
+**Verdict: MISSING CONTEXT** — Funding announcements are accurate in dollar terms but systematically overstate the representative's role. Meanwhile, the policies he supports are projected to weaken the same systems rural residents depend on.
 
 *For a shorter summary of what these findings mean for Steuben County, see: [What Federal Policy Is Actually Doing to Steuben County](/fact-checks/2026-02-08-steuben-rural-impact-summary/)*
 
@@ -274,4 +275,6 @@ The most consequential verified facts are not about credit-claiming but about po
 
 **Note:** This entry documents publicly available information from federal agency records, congressional records, county government proceedings, and news organizations. Readers may draw their own conclusions.
 
-*Last updated: February 8, 2026*
+**Verdict label change (October 20, 2026):** This entry was published with the verdict "MISSING ATTRIBUTION," which is not one of the site's standard verdict labels. It now carries MISSING CONTEXT, the closest standard label: the entry finds the dollar figures largely accurate and the announcements' framing incomplete, because they leave out that the money moved through established agency processes in which he had no documented role. The findings are unchanged. The fact-checks index previously listed this entry as DOCUMENTED PATTERN; it now matches the entry.
+
+*Last updated: October 20, 2026*
