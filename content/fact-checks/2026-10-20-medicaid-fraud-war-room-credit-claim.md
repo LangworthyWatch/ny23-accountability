@@ -2,7 +2,7 @@
 title: "'We Took Swift and Decisive Action Against 50 High-Risk Medicaid Providers.' The Numbers Match CMS. The Action Was Taken by CMS, HHS's Inspector General and the States, Not His Committee."
 date: 2026-10-20
 draft: true
-hold_reason: "Before publishing: retry Wayback for the E&C investigation post and the CMS FY2025 improper payments fact sheet; check the CMS Medicaid Fraud War Room fast-facts PDF for provider/state detail; check his official page and releases from Oct 16-20 for any related post."
+hold_reason: "Before publishing: check his official Facebook page (RepLangworthy) for any post from October 16-21, 2026 that bears on this claim (House press releases checked through October 21: none)."
 topic: "Credit-Claiming"
 claim_date: "October 20, 2026"
 source: "Facebook Post (official page)"
@@ -82,7 +82,9 @@ enforcement partners." The 42 notices were "issued by the U.S. Department
 of Health and Human Services Office of Inspector General," and the 15
 state actions were "taken against providers based on MFWR referrals." The
 release does not mention Congress, the Energy and Commerce Committee or
-Rep. Langworthy.
+Rep. Langworthy. CMS's June 2026 "Fast Facts" sheet on the War Room lists
+its partners as the White House Task Force to Eliminate Fraud, CMS and
+HHS-OIG; it does not list Congress either.
 
 **What his committee did was oversight.** Energy and Commerce has run an
 investigation into Medicaid fraud. In a March 5, 2026 release, Chairman
@@ -105,7 +107,8 @@ testified at the June 25 hearing.
 
 **His press releases don't mention it.** None of the 20 press releases
 on his House website from July 22 through October 15, 2026 mentions the
-War Room, Medicaid fraud or the $203 million.
+War Room, Medicaid fraud or the $203 million, and he had issued none since
+as of October 21.
 
 In plain language: the committee asked questions and held hearings. The
 enforcement the post describes, the 42 exclusion notices and 15 state
@@ -155,7 +158,10 @@ had 30 days to contest. CMS has not said how many became final.
 ## The fair reading
 
 - **The enforcement is real**, and it is the kind of work the post says
-  he supports. Stopping fraud protects both taxpayers and patients.
+  he supports. Stopping fraud protects both taxpayers and patients. Some
+  payments were in fact stopped: in one example CMS describes, a lab
+  testing provider's state "immediately stopped sending payments." CMS
+  has not said how much of the $203 million that covers.
 - **"We" can be read broadly**, as Republicans or the government as a
   whole, rather than his committee. But the post opens "As a member of the
   Energy and Commerce Committee," which ties the "we" to the committee.
@@ -195,12 +201,13 @@ had 30 days to contest. CMS has not said how many became final.
 
 * Official Facebook page, October 20, 2026 (screenshot above)
 * CMS, "CMS Medicaid Fraud War Room Stops More Than $203 Million in Improper Payments During First 88 Days," July 28, 2026: https://www.cms.gov/newsroom/press-releases/cms-medicaid-fraud-war-room-stops-more-203-million-improper-payments-during-first-88-days (archived: https://web.archive.org/web/20261020231537/https://www.cms.gov/newsroom/press-releases/cms-medicaid-fraud-war-room-stops-more-203-million-improper-payments-during-first-88-days)
-* House Energy and Commerce Committee, "E&C Leaders Expand Investigation into Medicaid Fraud Nationwide," March 5, 2026: https://energycommerce.house.gov/posts/e-and-c-leaders-expand-investigation-into-medicaid-fraud-nationwide (text retained; Wayback playback not verified)
+* House Energy and Commerce Committee, "E&C Leaders Expand Investigation into Medicaid Fraud Nationwide," March 5, 2026: https://energycommerce.house.gov/posts/e-and-c-leaders-expand-investigation-into-medicaid-fraud-nationwide (archived: https://web.archive.org/web/20261021152059/https://energycommerce.house.gov/posts/e-and-c-leaders-expand-investigation-into-medicaid-fraud-nationwide)
 * House Committee Repository hearing pages, Subcommittee on Oversight and Investigations: February 3, March 17 and June 25, 2026 (retained under research/sources/ec-record-2026-10/activity/docs-house/event-pages/), with each hearing's member roster and transcript (HHRG-119-IF02-20260203, -20260317, -20260625; retained under research/sources/triage-2026-10-20/medicaid-war-room/hearings/)
 * House Energy and Commerce Committee letters to ten states, March 3, 2026 (CA, CO, MA, ME, NE, NY, OR, PA, VT, WA), linked from the March 5 release
 * House Clerk, committee and subcommittee assignments (see the [Energy and Commerce scorecard](/fact-checks/2026-10-17-energy-commerce-scorecard/))
 * 42 CFR 1001.2001, Notice of intent to exclude: https://www.ecfr.gov/current/title-42/chapter-V/subchapter-B/part-1001/subpart-G/section-1001.2001 (text retained)
-* CMS, "Fiscal Year 2025 Improper Payments Fact Sheet": https://www.cms.gov/newsroom/fact-sheets/fiscal-year-2025-improper-payments-fact-sheet (text retained; Wayback capture failed)
+* CMS, "Fiscal Year 2025 Improper Payments Fact Sheet": https://www.cms.gov/newsroom/fact-sheets/fiscal-year-2025-improper-payments-fact-sheet (archived: https://web.archive.org/web/20261021152203/https://www.cms.gov/newsroom/fact-sheets/fiscal-year-2025-improper-payments-fact-sheet)
+* CMS, "Medicaid Fraud War Room: Fast Facts," June 2026 (PDF): https://www.cms.gov/files/document/medicaid-fraud-war-room-fast-facts.pdf (archived: https://web.archive.org/web/20261021152221/https://www.cms.gov/files/document/medicaid-fraud-war-room-fast-facts.pdf)
 * Rep. Langworthy, House press releases, July 22 through October 15, 2026: https://langworthy.house.gov/media/press-releases (listing pages and full text retained)
 * Rep. Langworthy, "Congressman Langworthy Introduces Medicaid Provider Screening Accountability Act," March 7, 2025: https://langworthy.house.gov/media/press-releases/congressman-langworthy-introduces-medicaid-provider-screening-accountability (text retained); H.R. 1875 bill status (govinfo BILLSTATUS, retained)
 * Rep. Langworthy, "Congressman Langworthy Hails House Passage of Anti-Fraud Legislative Package...," June 11, 2026: https://langworthy.house.gov/media/press-releases/congressman-langworthy-hails-house-passage-anti-fraud-legislative-package (text retained)
@@ -222,4 +229,4 @@ regulations and Rep. Langworthy's own posts and releases. It makes no
 claim about motive. Corrections with sources are welcome at
 langworthywatch@gmail.com.
 
-*Last updated: October 20, 2026*
+*Last updated: October 21, 2026*

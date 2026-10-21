@@ -19,4 +19,4 @@ OIG semiannual enforcement declines, IG firings, DOJ case closures, pardons (Dur
 ## Caution
 Do not compute $203M as a share of $37.39B: different scopes and periods (18+ months of payments to 50 providers vs. one fiscal-year national estimate). Failure mode 4.
 
-TODO: retry Wayback for E&C post and CMS fact sheet.
+Wayback retries done Oct 21 (E&C post, CMS fact sheet, fast-facts PDF; playback verified). Fast facts PDF retained as war-room-fast-facts.txt; PDF also retained.
