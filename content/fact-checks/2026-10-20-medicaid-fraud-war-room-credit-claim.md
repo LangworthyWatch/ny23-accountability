@@ -1,14 +1,13 @@
 ---
 title: "'We Took Swift and Decisive Action Against 50 High-Risk Medicaid Providers.' The Numbers Match CMS. The Action Was Taken by CMS, HHS's Inspector General and the States, Not His Committee."
 date: 2026-10-20
-draft: true
-hold_reason: "Before publishing: check his official Facebook page (RepLangworthy) for any post from October 16-21, 2026 that bears on this claim (House press releases checked through October 21: none)."
+draft: false
 topic: "Credit-Claiming"
 claim_date: "October 20, 2026"
 source: "Facebook Post (official page)"
 source_url: "https://www.facebook.com/RepLangworthy"
 archived_url: ""
-archive_note: "The October 20, 2026 post is a text post on the official 'Congressman Nick Langworthy' page; Facebook is login-walled and the post cannot be archived, so a screenshot (captured October 20, 2026, when the post was minutes old) is embedded and retained at research/sources/triage-2026-10-20/medicaid-war-room/post-2026-10-20-official-page.png. The CMS release it draws on is archived below. All other sources are retained as text under research/sources/triage-2026-10-20/medicaid-war-room/ (see that folder's README); Wayback captures are listed below only where playback was verified."
+archive_note: "The October 20, 2026 post is a text post on the official 'Congressman Nick Langworthy' page; Facebook is login-walled, its permalink could not be retrieved logged out (so source_url is the page itself), and it cannot be archived, so a screenshot (captured October 20, 2026, when the post was minutes old) is embedded and retained at research/sources/triage-2026-10-20/medicaid-war-room/post-2026-10-20-official-page.png. The CMS release it draws on is archived below. All other sources are retained as text under research/sources/triage-2026-10-20/medicaid-war-room/ (see that folder's README); Wayback captures are listed below only where playback was verified."
 verdict: "MISLEADING"
 publication_note: "This entry does not question the enforcement actions or the goal of stopping Medicaid fraud. It checks two things in the post: who took the action it describes, and what the $203 million figure measures. No comment request was sent to Rep. Langworthy's office before publication; any response will be published here in full."
 tags: ["credit-claiming", "medicaid", "fraud", "cms", "hhs-oig", "energy-and-commerce", "program-integrity"]
@@ -108,7 +107,8 @@ testified at the June 25 hearing.
 **His press releases don't mention it.** None of the 20 press releases
 on his House website from July 22 through October 15, 2026 mentions the
 War Room, Medicaid fraud or the $203 million, and he had issued none since
-as of October 21.
+as of October 21. We found no other related post on his official Facebook
+page from October 16 through October 21.
 
 In plain language: the committee asked questions and held hearings. The
 enforcement the post describes, the 42 exclusion notices and 15 state

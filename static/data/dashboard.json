@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-20",
-  "total": 174,
+  "generated": "2026-10-21",
+  "total": 176,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 60,
-    "MISLEADING": 39,
-    "DOCUMENTED PATTERN": 32,
+    "MISLEADING": 40,
+    "DOCUMENTED PATTERN": 33,
     "CONTRADICTION": 13,
     "FALSE": 10,
     "MOSTLY TRUE": 8,
@@ -20,17 +20,17 @@
     {
       "label": "MISSING CONTEXT",
       "count": 60,
-      "pct": 34.5
+      "pct": 34.1
     },
     {
       "label": "MISLEADING",
-      "count": 39,
-      "pct": 22.4
+      "count": 40,
+      "pct": 22.7
     },
     {
       "label": "DOCUMENTED PATTERN",
-      "count": 32,
-      "pct": 18.4
+      "count": 33,
+      "pct": 18.8
     },
     {
       "label": "CONTRADICTION",
@@ -45,7 +45,7 @@
     {
       "label": "MOSTLY TRUE",
       "count": 9,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "label": "MULTIPLE",
@@ -80,6 +80,7 @@
     "Agriculture": 6,
     "Transparency": 6,
     "Rule of Law": 5,
+    "Credit-Claiming": 4,
     "Foreign Policy": 4,
     "Accountability & Governance": 4,
     "Veterans": 4,
@@ -88,7 +89,6 @@
     "Ethics": 3,
     "Environment": 3,
     "Constituent Service": 3,
-    "Credit-Claiming": 2,
     "Legislative Record": 2,
     "Public Safety": 2,
     "Labor": 2,
@@ -121,9 +121,23 @@
     "2026-07": 24,
     "2026-08": 8,
     "2026-09": 13,
-    "2026-10": 8
+    "2026-10": 10
   },
   "entries": [
+    {
+      "title": "I Secured.' 'Proud to Deliver.' Seven Credit Claims He Made in 2026, and What the Record Shows Behind Each One.",
+      "date": "2026-10-20",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Credit-Claiming",
+      "url": "/fact-checks/2026-10-20-credit-claims-2026-roundup/"
+    },
+    {
+      "title": "We Took Swift and Decisive Action Against 50 High-Risk Medicaid Providers.' The Numbers Match CMS. The Action Was Taken by CMS, HHS's Inspector General and the States, Not His Committee.",
+      "date": "2026-10-20",
+      "verdict": "MISLEADING",
+      "topic": "Credit-Claiming",
+      "url": "/fact-checks/2026-10-20-medicaid-fraud-war-room-credit-claim/"
+    },
     {
       "title": "In 2022 He Said Every Moment Without 'Severe Consequences' for Putin Threatened the World. He Voted for the 2026 Sanctions Law That Let the President Waive Its Sanctions. On October 16, the President Did.",
       "date": "2026-10-19",
