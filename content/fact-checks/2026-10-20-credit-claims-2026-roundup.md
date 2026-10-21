@@ -2,7 +2,7 @@
 title: "'I Secured.' 'Proud to Deliver.' Seven Credit Claims He Made in 2026, and What the Record Shows Behind Each One."
 date: 2026-10-20
 draft: true
-hold_reason: "Publish only together with or after the Medicaid Fraud War Room entry (2026-10-20-medicaid-fraud-war-room-credit-claim), which is still a draft; if that entry changes, update row 7 to match. Before publishing, re-check rows 2 and 3 (H.R. 8646 and FY2027 appropriations status in BILLSTATUS) and correct the dairy entry's 'a year before' timing (May 21, 2024 to January 9, 2025 is about eight months)."
+hold_reason: "Publish only together with or after the Medicaid Fraud War Room entry (2026-10-20-medicaid-fraud-war-room-credit-claim), which is still a draft; if that entry changes, update row 7 to match. Rows 2 and 3 re-checked Oct 20 (BILLSTATUS updated Sept 19; no House votes since Sept 16); re-check again if publishing later. Also correct the dairy entry's 'a year before' timing (May 21, 2024 to January 9, 2025 is about eight months)."
 topic: "Credit-Claiming"
 claim_date: "February to October 2026"
 source: "His official Facebook page and House press releases, as documented in seven LangworthyWatch entries"
@@ -45,8 +45,8 @@ building the same day. His announcements did not mention them.
 CLAIM: "I was proud to deliver $300,000 for a new digital X-ray lab" at
 UPMC Chautauqua, and "Proud to secure $500,000 for Arnot Health..."
 VERDICT: **MISLEADING**
-Both are fiscal 2027 funding requests. Neither is in either House-passed
-fiscal 2027 bill, and no fiscal 2027 spending bill has become law.
+Both are fiscal 2027 funding requests, and no fiscal 2027 spending bill
+had become law as of October 20, 2026.
 [Full entry](/fact-checks/2026-06-24-hospital-radiology-credit-claim/)
 
 **3. Olean Police Department, $1 million** (July 2026)
@@ -54,8 +54,9 @@ fiscal 2027 bill, and no fiscal 2027 spending bill has become law.
 CLAIM: "I secured $1 million through Community Project Funding for the
 Police Department..."
 VERDICT: **DOCUMENTED PATTERN**
-The bill carrying it passed the House in June. The Senate has not acted,
-and no fiscal 2027 spending bill has become law.
+The bill carrying it, H.R. 8646, passed the House on June 4. As of October
+20, 2026, the Senate had not acted on it, and no fiscal 2027 spending bill
+had become law.
 [Full entry](/fact-checks/2026-07-09-olean-police-secured-house-passed/)
 
 **4. Allegany County water system, $1.25 million** (July 15, 2026)
