@@ -9,7 +9,7 @@ Posts: see posts.txt and the two screenshots. Both say "I'm proud to have helped
 
 ## His role on the record
 - Voted Yea on P.L. 118-47's House passage vehicle (H.Res. 1102 concurring in Senate amendment to H.R. 2882, Mar 22, 2024, 286-134; Clerk 2024 roll 102), which funded FY2024 AFG (Ellicottville's round).
-- Voted Yea on the FY2025 full-year CR, H.R. 1968 (Mar 11, 2025, 217-213; Clerk 2025 roll 70), which funded FY2025 (Olean's round, per the city agenda). [Confirm H.R. 1968 carried AFG at the FY2024 level before stating it.]
+- Voted Yea on the FY2025 full-year CR, H.R. 1968 (Mar 11, 2025, 217-213; Clerk 2025 roll 70), which funded FY2025 (Olean's round, per the city agenda). CONFIRMED: FY2025 AFG NOFO (raw/fy2025-afg-nofo.txt) "M. Appropriation Authority: Full-Year Continuing Appropriations and Extensions Act, 2025, Pub. L. No. 119-4 § 1101." Application window 05/19/2026-06/22/2026; selections no later than 09/30/2026.
 - His releases say he hosted FEMA grant-writing seminars for local departments: June 2026 (Sept 28 release) and before Aug 2024 (Aug 21, 2024 release).
 - No Olean fire or Ellicottville fire project in his FY24-FY27 Community Project Funding request lists (triage-2026-10-18/arc-chemung/raw/lw-approps-fy2*.txt). His other fire-related CPF requests: Wendelville Fire Co. station (FY26), Tioga County radios (FY26), Hornell fire truck (FY27).
 
