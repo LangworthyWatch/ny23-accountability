@@ -54,3 +54,5 @@ research/sources/russia-ukraine-2026-10/record/clerk-all/
 
 # raw CMS/E&C HTML embeds third-party tokens (GitHub push protection); keep .txt copies only
 research/sources/triage-2026-10-20/medicaid-war-room/*.html
+
+research/sources/triage-2026-10-22/fire-grants/raw/*.html
