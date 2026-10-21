@@ -219,6 +219,12 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 
 <!-- New Langworthy statements, votes, or actions worth a standalone entry -->
 
+### Medicare telehealth / Part D low-income copays / virtual diabetes prevention post (~Oct 22, 2026): CHECKED, ACCURATE, NO ENTRY (decided 2026-10-21)
+- Official-page post: "I voted to expand Medicare telehealth through 2027, cut prescription drug costs for low-income seniors, and make diabetes prevention programs available online."
+- All three are in H.R. 7148 (Consolidated Appropriations Act, 2026), Division J: Sec. 6209 (telehealth flexibilities extended to Dec 31, 2027), Sec. 6219 (Part D low-income cost-sharing; $0 generics from plan year 2028), Sec. 6214 (virtual-only MDPP suppliers, 2026-2029). He voted Yea Jan 22 (roll 45) and Feb 3, 2026 (roll 53, 217-214).
+- Minor context only: "expand" is an extension of existing flexibilities; the drug-cost change starts in 2028. Publisher decided not to write it up. Can be cited as a fair counterexample (accurate claim) in future roundups.
+- Notes and bill text: research/sources/triage-2026-10-22/medicare-telehealth/README.md
+
 ### Four bipartisan-bill credit claims, July 21–22 2026 — no coverage at all
 - **Date logged:** 2026-07-28
 - **Source:** Facebook captures filed at `static/images/fact-checks/feed-archive-2026-07/` (window 2). Surfaced by the Desktop screenshot sweep of 2026-07-28, which found that the capture log stops at 2026-07-08 and the feed archive stopped at 2026-07-11 — so the whole July 11–27 window had never been logged.
