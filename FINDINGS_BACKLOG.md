@@ -219,6 +219,11 @@ Surfaced while updating the canonical Epstein entry (`2026-01-14-epstein-files-d
 
 <!-- New Langworthy statements, votes, or actions worth a standalone entry -->
 
+### Oct 19 Right Thinkers panel + Oct 20-22 campaign reels: TRIAGED, NO ENTRY (2026-10-22)
+- Mostly campaign rhetoric (socialism, DSA, Mamdani, Blakeman). Checkable lines: "our populations are shrinking" (accurate for NY-23 counties since 2020; state flat last year), "45 members of Congress" at NY's peak (documented), COVID "free lunch" remark.
+- COVID line researched: CARES and the Dec 2020 relief law were signed by President Trump with broad Republican support; ARPA was Democratic-only. Not an entry: opinion, and he said "we," so the record does not reframe it. Keep as context if he repeats it.
+- Notes: research/sources/triage-2026-10-22/gotv-panel/README.md and .../covid-relief/README.md
+
 ### Medicare telehealth / Part D low-income copays / virtual diabetes prevention post (~Oct 22, 2026): CHECKED, ACCURATE, NO ENTRY (decided 2026-10-21)
 - Official-page post: "I voted to expand Medicare telehealth through 2027, cut prescription drug costs for low-income seniors, and make diabetes prevention programs available online."
 - All three are in H.R. 7148 (Consolidated Appropriations Act, 2026), Division J: Sec. 6209 (telehealth flexibilities extended to Dec 31, 2027), Sec. 6219 (Part D low-income cost-sharing; $0 generics from plan year 2028), Sec. 6214 (virtual-only MDPP suppliers, 2026-2029). He voted Yea Jan 22 (roll 45) and Feb 3, 2026 (roll 53, 217-214).
