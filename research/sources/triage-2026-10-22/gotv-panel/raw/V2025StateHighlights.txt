@@ -1,0 +1,252 @@
+Cornell Program on Applied Demographics                                    January 27, 2025
+
+
+On January 27, 2026 the Census Bureau released Vintage 2025 estimates for the nation
+and the states. This product includes estimates for the components of change (births,
+deaths and migration), and covers the period of April 1, 2020 through July 1, 2025.
+
+According to the latest estimates, New York State had 20,002,427 residents on July 1st,
+2025. This is 1,008 more than a year earlier- a negligible change. Since the 2020 Census,
+NY lost 201,269 residents for a decline of 1.0%.
+
+The US grew with 0.52% in the last year to 341,784,857, 46 states gained population and 5
+states lost population. South Carolina was the fastest growing state (+1.5%) and Vermont
+lost relatively the most (-0.3%).
+Table 1: Estimates of total population in New York
+
+                               Change since
+                               previous
+              Population       Count       %
+ 4/1/2020     20,203,696
+ 7/1/2020     20,122,262          -81,434      -0.4%
+ 7/1/2021     19,835,345         -286,917      -1.4%
+ 7/1/2022     19,713,025         -122,320      -0.6%
+ 7/1/2023     19,786,543           73,518       0.4%
+ 7/1/2024     20,001,419          214,876       1.1%
+ 7/1/2025     20,002,427            1,008       0.0%
+
+
+Births and Deaths
+Cornell Program on Applied Demographics                                     January 27, 2025
+
+
+The number of births declined in the previous decade but has remained almost ﬂat in the
+last few years (203,078 in the last estimates year).
+
+The number of deaths has slowly gone up in the previous decade, peaked due to the Covid-
+19 pandemic, and have been slowly declining since (160,263 in the last estimates year).
+This trend is hard to interpret as people that passed away during the pandemic would likely
+have died later if it weren’t for the pandemic. With the oldest baby boom generation now
+reaching 80 years old, it is to be expected for deaths to trend upwards again in the near
+future.
+
+Natural increase is the gap between births and deaths and has declined from around
+100,000 in 2010 to around 43,000 in 2025.
+
+Domestic migration
+
+Net domestic migration is the difference between the number of people moving into the
+state from another state and the number of people that moved out.
+
+
+
+
+ For a few decades more people have left the state than have arrived, resulting in a negative
+net domestic migration component. During the previous decade the population loss due to
+domestic migration went from around -100,000 to -200,000. During the Covid-19 pandemic
+this peaked to a loss of more than 300,000, but in the two most recent years the net
+difference was -119,231 (2024) and -137,586 (2025)
+Cornell Program on Applied Demographics                                   January 27, 2025
+
+
+International migration
+
+
+
+
+During the ﬁrst half of last decade New York gained almost 100,000 population from more
+people moving in from abroad then leaving. That number went down in the second half of
+the decade to almost zero during the Covid pandemic. Mainly because of an increase in the
+number of humanitarian migrants, the net internation migration estimate peaked in 2024 to
+almost 300,000. For the last estimates year- which covers July 1, 2024 to July 1, 2025- net
+international migration was estimated to be around 100,000.
+Cornell Program on Applied Demographics                                     January 27, 2025
+
+
+Differences between Vintage 2025 and Vintage 2024
+
+Base population
+
+The base population is the estimated population on April 1, 2020. In Vintage 2024, the
+Census Bureau relied on the so-called blended base which included very limited
+information (including total population) from the 2020 Census.
+
+The Vintage 2025 base population is based on the MARC ﬁle, which is a Census 2020
+product where “Other race” answers were recoded and the age distribution was smoothed.
+
+The MARC ﬁle was published early last year, and the Vintage 2025 base population is that
+MARC ﬁle but adjusted to account for the undercount of young children.
+
+Differences will be noticeable in June when the estimates of the population by age, sex,
+race and ethnicity are released.
+
+Distribution of immigrants among the states
+
+In Vintage 2024, new data sources were added to more accurately estimate immigration at
+the national level. However, these new data sources didn’t have information on where
+those immigrants should be counted. During research for this Vintage the Census Bureau
+found additional information that they used to distribute immigrants.
+
+If we look at the net international migration estimates for the 2024 estimates year, we see
+that this improvement changed the estimate from a peak of 207,161 to 290,637 while the
+estimate for the nationwide net internation migration was revised slightly downwards.
+Table 2: Estimates of net international migration
+
+              US        NY
+ V2024        2,786,119  207,161
+ V2025        2,734,468  290,637
+
+
+Domestic migration
+
+The Federal government shutdown and changed policies at CMS, impacted availability of
+data used as input to the estimates of net domestic migration, and caused estimates of
+domestic migration in the last estimates year to be more preliminary than usual. Next
+year’s estimate of the 2025 estimates year might be slightly different.
+
+Because the age structure of Vintage 2025 is slightly different from Vintage 2024 and
+domestic migration is estimated for three age groups (0-17, 18-64 and 65+) there could be
+some differences in the estimated domestic migration.
+Cornell Program on Applied Demographics                                    January 27, 2025
+
+Table 3: Estimates of total net domestic migration (2020-2024)
+
+       Net Domestic migration 2020-2024
+ V2024            -966,209
+ V2025            -968,427
+
+
+There is a minimal difference in the estimates of total net domestic migration between April
+1, 2020 and July 1, 2024.
+
+Total population
+
+Revisions caused by these changes in methodology and data sources can be seen in the
+chart below.
+
+                           NY State total population
+ 20,400,000
+
+ 20,200,000
+
+ 20,000,000
+
+ 19,800,000
+
+ 19,600,000
+
+ 19,400,000
+
+
+
+
+                                Vintage 2024          Vintage 2025
+
+
+The 2024 estimate received the most revision between vintages, mainly due to the revisions
+in the international migration component.
+Cornell Program on Applied Demographics                                                           January 27, 2025
+
+
+State-to-State migration estimates (ACS)
+
+On January 20th, the Census Bureau released estimates of state-to-state migration based
+on the 2024 1-year ACS.
+Table 4: Top 3 states, ranked on different aspects of state-to-state migration
+
+   Moved to NY from                                                    Net gain (in – out)
+ 1 New Jersey       36,002                                           1 California           6,440
+ 2 California       31,367                                           2 Colorado             4,193
+ 3 Florida          28,080                                           3 District of Columbia 1,678
+
+
+   Moved from NY to                                                    Net loss (in – out)
+ 1 New Jersey       56,799                                           1 Florida             -22,581
+ 2 Florida          50,661                                           2 New Jersey          -20,797
+ 3 Pennsylvania     29,274                                           3 South Carolina      -12,575
+
+
+New Jersey and Florida are among the top 3 origins and the top 3 destinations for migration
+to and from New York.
+
+New York gained the most population from migration between New York and California and
+lost the most population to Florida.
+
+We compared these estimates with estimates from the 2021 ACS (in the middle of the
+pandemic) and the 2018 ACS (pre pandemic) and selected the top 10 states with the most
+gross migration in 2024.
+Table 5: Volume and direction of domestic migration in 2018, 2021 and 2024
+
+                               2024 ACS                            2021 ACS                       2018 ACS
+                     Gross         Net     Efficiency Gross           Net   Efficiency Gross         Net   Efficiency
+New Jersey           92,801      -20,797      -22%    129,643       -53,199    -41%    101,211     -28,409    -28%
+Florida              78,741      -22,581      -29%    116,202       -67,314    -58%     87,117     -38,949    -45%
+California           56,294       6,440        11%     64,058        -1,388     -2%     60,103      -9,593    -16%
+Pennsylvania         52,426      -6,122       -12%     71,506       -27,898    -39%     62,387     -23,709    -38%
+Texas                44,557      -11,909      -27%     41,769        -8,133    -19%     33,633      -4,217    -13%
+Connecticut          40,255      -9,935       -25%     53,328       -28,252    -53%     41,781     -12,941    -31%
+Massachusetts        36,559       -835         -2%     46,097        -2,881     -6%     33,528      -6,392    -19%
+North Carolina       28,054      -7,902       -28%     40,120       -25,398    -63%     34,866     -16,326    -47%
+Virginia             26,674      -6,054       -23%     22,548        -4,284    -19%     27,285      -8,681    -32%
+South Carolina       24,073      -12,575      -52%     16,206        -7,024    -43%     17,178      -8,264    -48%
+
+Total                700,172    -130,436      -19%      858,290     -283,792     -33%   712,461   -203,567    -29%
+Cornell Program on Applied Demographics                                      January 27, 2025
+
+
+Gross migration is the total number of people moving between states, and net migration is
+the difference between the number of people moving in and out. For example, in 2024
+92,801 people moved between New York and New Jersey and there were 20,787 more
+people moving from NY to NJ than moving from NJ to NY.
+
+Efficiency is the quotient of net and gross migration and is a good indicator of the general
+direction of the moves. An efficiency of -100% means all migration is outwards, an
+efficiency of 100% means all migration is inwards. If efficiency is 0% than in- and out
+migration are equal.
+
+Among these top 10, California was the only state where in-migration outnumbered out-
+migration (positive efficiency) and South Carolina had the most negative efficiency.
+
+Of note is that 8 out of those ten states saw efficiency rates that were higher in 2024 than in
+2018. South Carolina saw a similar efficiency rate and Texas saw a downward trend.
+
+The total net migration for New York was -130,436 in 2024 and -203,567 in 2018. This
+difference can be attributed mostly to a change in efficiency and less by the volume of
+movers (gross).
+
+The 2021 ACS revealed an increase in the total number of movers, and a number of states
+that saw spikes in negative migration efficiency.
+Cornell Program on Applied Demographics                                 January 27, 2025
+
+
+Resources
+
+ Press Release              Population Growth Slows Due to Decline in Net International
+                            Migration
+
+ Data ﬁles                  Population and Housing Unit Estimates Datasets
+
+ Methodology description    Index of /programs-surveys/popest/technical-
+                            documentation/methodology/2020-2025
+
+ Blog posts                 Improved Method Better Estimates Net International
+                            Migration Increase (Dec 2024)
+
+                            Annual Updates to the Data and Methodology for Population
+                            Estimates (Jan 2026)
+
+                            New Population Estimates Show Decline in Net International
+                            Migration (Jan 2026)
+
+ State-to-State migration   State-to-State Migration Flows
+
