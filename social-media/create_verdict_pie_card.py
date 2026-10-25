@@ -25,19 +25,19 @@ d.rectangle([(0,0),(W,48*SS)],fill=NAVY)
 d.text((W//2,24*SS),"LANGWORTHYWATCH.ORG",fill=WHITE,font=f_brand,anchor="mm")
 
 # title
-d.text((W//2,86*SS),"128 Fact-Checks. Here's the Breakdown.",fill=NAVY,font=f_title,anchor="mm")
+d.text((W//2,86*SS),"176 Fact-Checks. Here's the Breakdown.",fill=NAVY,font=f_title,anchor="mm")
 d.text((W//2,118*SS),"Every published check of Rep. Langworthy's public claims, by finding.",
        fill=MUTED,font=f_sub,anchor="mm")
 d.line([(60*SS,140*SS),(W-60*SS,140*SS)],fill=BORDER,width=2*SS)
 
 slices=[
- ("Missing context",36,"#2C5282"),
- ("Misleading",31,"#C05621"),
- ("Documented pattern",24,"#975A16"),
- ("Contradiction",14,"#9B2C2C"),
- ("False / false attribution",12,"#E53E3E"),
- ("Deflection / non-responsive / mixed",7,"#718096"),
- ("Mostly true (held up)",4,"#2F855A"),
+ ("Missing context",60,"#2C5282"),
+ ("Misleading",40,"#C05621"),
+ ("Documented pattern",33,"#975A16"),
+ ("Contradiction",13,"#9B2C2C"),
+ ("False / false attribution",13,"#E53E3E"),
+ ("Deflection / non-responsive / mixed",9,"#718096"),
+ ("Mostly true (held up)",8,"#2F855A"),
 ]
 total=sum(n for _,n,_ in slices)
 
@@ -52,7 +52,7 @@ for label,n,color in slices:
 # donut hole for a cleaner look + center stat
 hr=int(r*0.52)
 d.ellipse([cx-hr,cy-hr,cx+hr,cy+hr],fill=BG)
-d.text((cx,cy-20*SS),"128",fill=NAVY,font=f_big,anchor="mm")
+d.text((cx,cy-20*SS),"176",fill=NAVY,font=f_big,anchor="mm")
 d.text((cx,cy+52*SS),"fact-checks",fill=MUTED,font=f_biglbl,anchor="mm")
 
 # legend (right column)
@@ -67,9 +67,9 @@ for label,n,color in slices:
 # bottom callout bar
 by=H-190*SS
 d.rounded_rectangle([(44*SS,by),(W-44*SS,by+92*SS)],radius=8*SS,fill=NAVY)
-d.text((W//2,by+30*SS),"Across 128 checks, his claims held up as accurate 4 times.",
+d.text((W//2,by+30*SS),"Across 176 checks since July 2025, his claims held up as accurate 8 times.",
        fill="#A0AEC0",font=font("Arial.ttf",18),anchor="mm")
-d.text((W//2,by+62*SS),"The other 97% were misleading, missing key context, or contradicted by his own record.",
+d.text((W//2,by+62*SS),"The other 168 were rated misleading, missing key context, a documented pattern, or contradicted by his record.",
        fill=WHITE,font=font("Arial Bold.ttf",18),anchor="mm")
 
 d.text((W//2,H-72*SS),"Verdicts normalized from the project's standard labels. Full record and sources below.",
