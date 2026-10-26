@@ -1817,3 +1817,18 @@ Gies's stated position (22:41: "I will never support ... bans on ... propane or 
 opponent framing MISLEADING (08:25: "I do support voter ID"); 83% TRUE (Pew Aug 2025); refunds +11% TRUE (IRS +11.5%).
 **ACTION (Zach's call):** dairy entry first; fentanyl second; Gowdy post third; post-debate roundup fourth. Biosimilars reel
 and "worst governor" post: nothing new.
+
+## 2026-10-26 — Post-Journal / OBSERVER endorsement of Langworthy (Oct 24, 2026); campaign graphic quoting it
+
+`research/sources/post-journal-endorsement-2026-10/README.md` (95 files). Ownership: Ogden Newspapers (Wheeling, WV; Bob
+Nutting CEO, Pirates owner) per ogdennews.com/locations; editor John D'Agostino runs both papers and the editorial ran
+identically in both. Endorsed Langworthy in 2022 (tepid: "often goes overboard"), 2024, 2026. **Graphic omits** the editorial's
+own concessions: Gies "commended" for "numerous town hall meetings"; Langworthy "has not been as amenable to that process."
+D'Agostino's own May 30, 2025 column: he "was not going to hold town hall events." Editorial claims checked: Corps Chautauqua
+Lake study = FY24 CPF $500K, House requestor Langworthy, Senate requestors Gillibrand/Schumer, Senate origination; study
+authorized 2018; FY26 has no line; FY27 $600K pending (MOSTLY TRUE / MISSING CONTEXT). Barcelona Harbor: 2023 dredging funded
+by Schumer/Gillibrand's FY22 $1.15M before he took office; 2025 dredging by the FY24 $7.5M earmark he co-requested with the
+senators (MISSING CONTEXT). HALT Fentanyl: original cosponsor H.R. 27, Yea rolls 33 and 166 (TRUE). FEC bulk oppexp 2024 and
+2026 (through Q2) and the retained Q3 filing: zero campaign payments to the papers or Ogden; office comms subset also zero.
+**ACTION (Zach's call):** a short MISSING CONTEXT entry on the graphic (what the quote left out, the shared-credit earmarks)
+is buildable; Wayback re-save pass owed (14 URLs got 429).
