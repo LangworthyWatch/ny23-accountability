@@ -80,15 +80,15 @@ sentences:
 > while leading a strong campaign. Langworthy, however, has been in the
 > trenches fighting for this region for years. He gets our endorsement."
 
-The editorial's description of his approach to constituents is softer than
-the same editor's own earlier account. In a May 30, 2025 column, Mr.
-D'Agostino wrote: "For the record, Langworthy has been consistent. Since
-being elected, he said he was not going to hold town hall events." And:
-"Having control of the message is more important than allowing an unruly
-crowd to steal the show." WSKG reported in April 2025 that "Langworthy has
-not held an in-person town hall since he took office in 2023," and quoted
-his written statement that he "will not participate in this nationally
-driven leftwing charade of fake town hall meetings."
+"Has not been as amenable" is the editorial's phrase. The same editor put
+it more plainly in his own column on May 30, 2025: "For the record,
+Langworthy has been consistent. Since being elected, he said he was not
+going to hold town hall events." And: "Having control of the message is
+more important than allowing an unruly crowd to steal the show." WSKG
+reported in April 2025 that "Langworthy has not held an in-person town
+hall since he took office in 2023," and quoted his written statement that
+he "will not participate in this nationally driven leftwing charade of fake
+town hall meetings."
 
 ---
 
@@ -135,8 +135,9 @@ There have been two dredgings since he took office.
 was $1,150,000 that, in the words of the March 15, 2024 joint release from
 the two senators and Rep. Langworthy, "Schumer and Gillibrand secured ...
 in the bipartisan omnibus spending package for Fiscal Year (FY) 2022."
-That law passed in March 2022, nine months before he took office. His
-documented role in the 2023 dredging: he toured the harbor on February 15,
+That law passed in March 2022, nine months before he took office, and its
+disclosure table lists no House requestor for the item. His documented
+role in the 2023 dredging: he toured the harbor on February 15,
 2023, met with the Corps, and on March 13, 2023 announced the Corps would
 start "three months ahead of schedule."
 
@@ -169,6 +170,25 @@ law (Roll Call 166, June 12, 2025; Public Law 119-26, signed July 16,
 2025). He also cosponsored and voted for the 2023 version. The "major
 victory" quote in the editorial is from his July 2025 Jamestown press
 conference as reported by the Post-Journal.
+
+---
+
+## Would the money have come without him?
+
+The entry cannot say what a different representative would have done. It
+can say what the disclosure tables show.
+
+- Both FY2024 items are marked Senate-originated, with Senators Schumer and
+  Gillibrand as requestors. The money was in the Senate bill whoever held
+  the House seat.
+- The harbor's previous federal money did not involve the House seat at
+  all. The FY2022 Energy and Water disclosure table lists Barcelona Harbor,
+  $1,150,000, with the House requestor column blank, the Senate requestors
+  Gillibrand and Schumer, and Senate origination. Tom Reed held the seat.
+- Community project funding is open to every member of the House. A
+  member asking for a Corps harbor and a Corps lake study in his own
+  district is doing the ordinary work of the office. That is the baseline
+  the editorial describes as being "in the trenches."
 
 ---
 
@@ -236,6 +256,7 @@ other than the editor's opinion, and this entry does not suggest it.
 * Post-Journal editorial, August 13, 2026: https://www.post-journal.com/opinion/in-our-opinion/2026/08/hard-to-believe-this-phase-of-army-corps-work-is-nearly-complete/
 * WSKG, April 18, 2025: https://www.wskg.org/regional-news/2025-04-18/frustrated-constituents-hold-empty-seat-town-hall-wanting-to-hear-from-rep-langworthy (archived: https://web.archive.org/web/20260417124832/https://www.wskg.org/regional-news/2025-04-18/frustrated-constituents-hold-empty-seat-town-hall-wanting-to-hear-from-rep-langworthy)
 * FY2024 Energy and Water conference joint explanatory statement (Division D, Consolidated Appropriations Act, 2024), community project funding table: https://docs.house.gov/billsthisweek/20240304/FY24%20EW%20Conference%20JES%20scan.pdf (archived: https://web.archive.org/web/20261026195438/https://docs.house.gov/billsthisweek/20240304/FY24%20EW%20Conference%20JES%20scan.pdf)
+* FY2022 Energy and Water joint explanatory statement (Division D, Consolidated Appropriations Act, 2022), congressionally directed spending table, Barcelona Harbor line: https://docs.house.gov/billsthisweek/20220307/BILLS-117RCP35-JES-DIVISION-D.pdf (archived: https://web.archive.org/web/20261026201319/https://docs.house.gov/billsthisweek/20220307/BILLS-117RCP35-JES-DIVISION-D.pdf)
 * Langworthy FY2024 community project funding requests and nexus letters (Chautauqua Lake; Barcelona Harbor), March 29, 2023: https://langworthy.house.gov/services/appropriations-requests/community-project-funding-requests-fy24
 * Langworthy FY2027 requests (Chautauqua Lake feasibility study; nexus letter March 20, 2026): https://langworthy.house.gov/services/appropriations-requests/appropriations-requests-fy27
 * Gillibrand FY2027 Energy and Water disclosure ($600,000, Chautauqua Lake): https://www.gillibrand.senate.gov/wp-content/uploads/2026/05/Gillibrand-FY27-EWD-CDS-Disclosure-1.pdf

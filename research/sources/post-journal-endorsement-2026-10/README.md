@@ -122,3 +122,4 @@ and 3 timed out (Observer 2022 editorial, both contact-us pages). The 429/timeou
 URLs still need a re-save: langworthy.house.gov x5, chautauquacountyny.gov x2,
 post-journal.com x5 (2025/07, 2025/05, 2024/03, 2024/10, 2026/08), wskg.org,
 dvidshub.net, plus the three timeouts.
+| fy22-energy-water-jes-division-d.pdf/.txt | https://docs.house.gov/billsthisweek/20220307/BILLS-117RCP35-JES-DIVISION-D.pdf | FY2022 Energy and Water joint explanatory statement (Division D, P.L. 117-103); CDS table line ~7055: Barcelona Harbor, NY, $1,150,000, House requestor blank, Senate Gillibrand/Schumer, origination S |
