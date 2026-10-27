@@ -1832,3 +1832,11 @@ senators (MISSING CONTEXT). HALT Fentanyl: original cosponsor H.R. 27, Yea rolls
 2026 (through Q2) and the retained Q3 filing: zero campaign payments to the papers or Ogden; office comms subset also zero.
 **ACTION (Zach's call):** a short MISSING CONTEXT entry on the graphic (what the quote left out, the shared-credit earmarks)
 is buildable; Wayback re-save pass owed (14 URLs got 429).
+
+## 2026-10-27 — Telephone town halls: none since September 1 (watch item)
+
+YouTube channel listing (yt-dlp, Oct 27): last tele-town hall recording is the Sept 1 call (uploaded Sept 4); later uploads Sept 16
+and Sept 28 are not town halls; nothing in October. Website shows no notice; logged-out Facebook shows one post only (no
+enumeration possible). Tracker updated through Sept 1. **Do not say "stopped"**; say "last one September 1; none posted since."
+Re-check after Nov 3 for an October or November call; if none by mid-November, the monthly claim ("I have held telephone
+[town halls] on a monthly basis," WSKG Apr 2025) becomes checkable against a two-month gap.

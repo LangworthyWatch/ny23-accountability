@@ -5,6 +5,7 @@
 He has not held an in-person town hall in four years. More than half his campaign money comes from PACs. At most 17 cents of every dollar comes from people who live here.
 
 → No public town hall, in a room, since he took office in January 2023.
+→ His substitute is a monthly telephone town hall. The last one was September 1. None has been posted since, through the whole of early voting.
 → Every one of the 26 constituent letters we have documented got a form letter back. Two people who wrote about different things got replies at the same minute.
 → Of the $2.2 million he raised this cycle, 55 cents of every dollar came from PACs. Donors from outside New York gave more than donors from towns entirely inside his district.
 → He says he takes his Oversight Committee seat "seriously." The committee's own records show him absent for 69 of its 145 recorded votes.
