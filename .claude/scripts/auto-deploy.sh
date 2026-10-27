@@ -47,6 +47,14 @@ pagefind_output=$(npx -y pagefind --site public 2>&1) || {
   exit 0
 }
 
+# Fill the Content-Security-Policy inline-script hashes into public/_headers (see scripts/csp_headers.py).
+csp_output=$(python3 scripts/csp_headers.py 2>&1) || {
+  err_summary=$(echo "$csp_output" | tail -3 | tr '\n' '|')
+  jq -nc --arg err "$err_summary" \
+    '{systemMessage: ("✗ CSP header generation failed at session end: " + $err), suppressOutput: true}'
+  exit 0
+}
+
 deploy_output=$(wrangler pages deploy public --project-name=langworthywatch --branch=main --commit-dirty=true 2>&1) || {
   err_summary=$(echo "$deploy_output" | tail -3 | tr '\n' '|')
   jq -nc --arg err "$err_summary" \
