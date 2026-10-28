@@ -1,0 +1,2434 @@
+                                                                                            1
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6    COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM,
+
+7    U.S. HOUSE OF REPRESENTATIVES,
+
+8    WASHINGTON, D.C.
+
+9
+
+10
+
+11
+
+12
+
+13   INTERVIEW OF:     LEON BLACK
+
+14
+
+15
+
+16
+
+17                                   Friday, June 26, 2026
+
+18
+
+19                                    Washington, D.C.
+
+20
+
+21
+
+22          The interview in the above matter was held in room 2154, Rayburn House Office
+
+23   Building, commencing at 10:00 a.m.
+
+24          Present:   Representatives Comer, Garcia, Stansbury, Subramanyam, Walkinshaw,
+
+25   Ansari, Min,and Khanna.
+                                                             2
+
+
+
+1    Appearances:
+
+2
+
+3
+
+4
+
+5    For the COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM:
+
+6
+
+7    DANIEL ASHWORTH, GENERAL COUNSEL
+
+8    STACY BAKER, DIRECTOR OF INFORMATION TECHNOLOGY
+
+9    BRITTANY BRIGNAC, SENIOR COUNSEL
+
+10   HANNAH CATHEY, PROFESSIONAL STAFF MEMBER
+
+11   JESSICA COLLINS, COMMUNICATIONS DIRECTOR
+
+12   JACK EMMER, CHIEF COUNSEL FOR INVESTIGATIONS
+
+13   EMILY FEYERABEND, COUNSEL
+
+14   ETHAN GOLDMAN, INTERN
+
+15   BILLY GRANT, DEPUTY CHIEF COUNSEL FOR INVESTIGATIONS
+
+16   NICHOLAS LANGMAN, UNDERGRADUATE FELLOW
+
+17   MARK MARIN, STAFF DIRECTOR
+
+18   ALEXANDER MCKENNA, INTERN
+
+19   ELLISON TOLAN, COUNSEL
+
+20   ASHLEE VINYARD, DEPUTY STAFF DIRECTOR
+
+21   KEEN ZOLLER, UNDERGRADUATE FELLOW
+
+22
+
+23
+
+24
+
+25
+                       3
+
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21   For LEON BLACK:
+
+22
+
+23   Susan Estrich
+
+24   Anya Goldin
+
+25   Estrich Goldin
+                               4
+
+
+
+1   Aaron Cutler
+
+2   Ari Fridman
+
+3   Peter Spivack
+
+4   David Sharfstein
+
+5   Hogan Lovells
+
+6
+
+7   Whit Clay
+
+8   Longacre Square Partners
+                                                                                                    5
+
+
+
+1
+
+2
+
+3             Ms. Brignac.     This is a transcribed interview of Mr. Leon Black conducted by the
+
+4    House Committee on Oversight and Government Reform under the authority granted to
+
+5    it pursuant to House Rule X.
+
+6             Accordingly, House Rule X grants the Committee broad jurisdiction for the
+
+7    Committee to conduct investigations of any matter at any time.
+
+8             This interview was requested by Chairman James Comer as part of the
+
+9    Committee's investigation into the circumstances and subsequent investigations into the
+
+10   crimes of Jeffrey Epstein and Ghislaine Maxwell, the operation of sex trafficking rings and
+
+11   ways for the Federal Government to effectively combat them, the ways in which
+
+12   Mr. Epstein and Ms. Maxwell sought to curry favor and exercise influence to protect their
+
+13   illegal activity, and potential violations of ethics rules related to elected officials.
+
+14            Can the witness please state his name and spell his last name for the record?
+
+15            Mr. Black.     Leon Black.    B-l-a-c-k.
+
+16            Ms. Brignac.     Thank you.
+
+17            I want to thank Mr. Black for appearing here today.
+
+18            My name is Brittany Brignac, and I am senior counsel for Chairman James Comer.
+
+19            Under the Committee on Oversight and Government Reform's rules, you are
+
+20   allowed to have counsel present to advise you during this interview.
+
+21            Do you have counsel representing you in a personal capacity present with you
+
+22   today?
+
+23            Mr. Black.     Yes, I do.
+
+24            Ms. Brignac.     Will all counsels please identify themselves for the record?
+
+25            Ms. Estrich.    Susan Estrich representing Mr. Black.
+                                                                                                     6
+
+
+
+1             Mr. Cutler.    Aaron Cutler representing Mr. Black from Hogan Lovells.
+
+2             Mr. Spivack.    And Peter Spivack representing Mr. Black.
+
+3             Ms. Brignac.    For the record, starting with the majority staff, can the additional
+
+4    staff members please introduce themselves with their name, title, and affiliation?
+
+5             Mr. Grant.     Billy Grant, deputy chief counsel for investigations for Chairman
+
+6    Comer.
+
+7             Mr. Emmer.      Jack Emmer, chief counsel for investigations for Chairman Comer.
+
+8             Mr. Ashworth.      Daniel Ashworth, general counsel for Chairman Comer.
+
+9             Ms. Feyerabend.      Emily Feyerabend, counsel for Chairman Comer.
+
+10            Ms. Cathey.     Hannah Cathey, professional staff member, Chairman Comer.
+
+11            Ms. Tolan.     Ellison Tolan, senior counsel, Chairman Comer.
+
+12            Ms. Baker.     Stacy Baker, director of information technology for Chairman Comer.
+
+13            Ms. Vinyard.     Ashlee Vinyard, deputy staff director, Chairman Comer.
+
+14            Ms. Collins.    Jessica Collins, communications director, Chairman Comer.
+
+15                                   , chief counsel for Ranking Member Garcia.
+
+16                                                  , staff director for Ranking Member Garcia.
+
+17                                , fellow, Ranking Member Garcia.
+
+18                                            , senior counsel, Ranking Member Garcia.
+
+19                                         , senior counsel, Ranking Member Garcia.
+
+20                                             , intern, Ranking Member Garcia.
+
+21                                            , intern, Ranking Member Garcia.
+
+22                                      , senior policy adviser, Ranking Member Garcia.
+
+23                                     , professional staff member, Ranking Member Garcia.
+
+24                                      , deputy press secretary, Ranking Member Garcia.
+
+25                                           , press secretary, Ranking Member Garcia.
+                                                                                                   7
+
+
+
+1                                                             , deputy comms director, Ranking
+
+2    Member Garcia.
+
+3                                          , staff member, Ranking Member Garcia.
+
+4                                        , research assistant, Ranking Member Garcia.
+
+5                                                    , research analyst, Ranking Member Garcia.
+
+6           Ms. Brignac.     And we have majority members present.
+
+7           Can the Chairman please introduce himself for the record?
+
+8           Chairman Comer.          James Comer, Chairman, Kentucky-1.
+
+9           Ms. Brignac.     And can all other counsels for the witness please introduce
+
+10   themselves for the record?
+
+11          Mr. Sharfstein.        David Sharfstein on behalf of Leon Black, Hogan Lovells.
+
+12          Mr. Fridman.      Ari Fridman with Hogan Lovells on behalf of Leon Black.
+
+13          Ms. Goldin.     Anya Goldin for Leon Black on behalf of Estrich Goldin.
+
+14          Ms. Brignac.     Mr. Black, before we begin, I would like to go over the ground rules
+
+15   for this interview.
+
+16          The questioning will proceed in rounds.        The majority will ask questions for up to
+
+17   an hour and then the minority will have an opportunity to ask questions for up to an hour
+
+18   if they choose.   To the extent members have questions for the witness, they will be
+
+19   propounded during their side's respective rounds.
+
+20          The clock will stop if you need to confer with counsel, your counsel is speaking,
+
+21   and when members or staff are speaking during the opposing side's round of questions.
+
+22   We will alternate back and forth until there are no more questions.
+
+23          Do you understand?
+
+24          Mr. Black.     I do.
+
+25          Ms. Brignac.     There is a court reporter taking down everything I say and
+                                                                                                  8
+
+
+
+1    everything you say to make a written record of this interview.
+
+2            For the record to be clear, please wait until the staffer questioning you finishes
+
+3    each question before you begin your answer, and the staffer will wait until you finish your
+
+4    response before proceeding to the next question.
+
+5            Further, to ensure the court reporter can properly record this interview, please
+
+6    speak clearly, concisely, and slowly.
+
+7            Also, the court reporter cannot record nonverbal answers, such as nodding or
+
+8    shaking your head, so it is important that you answer each question with an audible,
+
+9    verbal answer.
+
+10           Exhibits may be entered into the record.      Majority exhibits will be identified
+
+11   numerically.     Minority exhibits will be identified alphabetically.
+
+12           Do you understand?
+
+13           Mr. Black.     I do.
+
+14           Ms. Brignac.     We want you to answer our questions in the most complete and
+
+15   truthful manner possible, so we will take our time.
+
+16           If you have any questions or do not fully understand the question, please let us
+
+17   know.    We will attempt to clarify, add context to it, or rephrase our questions.
+
+18           If we ask about specific conversations or events in the past and you are unable to
+
+19   recall the exact words or details, you should testify to the substance of those
+
+20   conversations or events to the best of your recollection.
+
+21           If you only recall a part of a conversation or event, you should give us your best
+
+22   recollection of those events or parts of conversations that you do recall.
+
+23           Do you understand?
+
+24           Mr. Black.     I do.
+
+25           Ms. Brignac.     Although you are here voluntarily, you are required by law,
+                                                                                                    9
+
+
+
+1    pursuant to Title 18 of the United States Code Section 1001, to answer questions from
+
+2    Congress truthfully.     This also applies to questions posed by congressional staff in this
+
+3    interview.
+
+4           Do you understand?
+
+5           Mr. Black.      I do.
+
+6           Ms. Brignac.      If at any time you knowingly make false statements, you could be
+
+7    subject to criminal prosecution.
+
+8           Do you understand?
+
+9           Mr. Black.      I do.
+
+10          Ms. Brignac.      This includes both knowingly providing false testimony but also
+
+11   stating that you do not recall or remember something when, in fact, you do.
+
+12          Do you understand?
+
+13          Mr. Black.      Yes.
+
+14          Ms. Brignac.      Furthermore, you cannot tell half-truths or exclude information
+
+15   necessary to make statements accurate.        You are required to provide all information
+
+16   that would make your response truthful.       A deliberate failure to disclose information can
+
+17   constitute a false statement.
+
+18          Do you understand?
+
+19          Mr. Black.      I do.
+
+20          Ms. Brignac.      Is there any reason you are unable to provide truthful testimony in
+
+21   today's interview?
+
+22          Mr. Black.      No.
+
+23          Ms. Brignac.      Please note that if you wish to assert a privilege over any statement
+
+24   today, that assertion must comply with the rules of the Committee on Oversight and
+
+25   Government Reform.
+                                                                                                  10
+
+
+
+1           Pursuant to that, Committee Rule 16(c)(1) states:       "For the Chair to consider
+
+2    assertions of privilege over testimony or statements, witnesses or entities must clearly
+
+3    state the specific privilege being asserted and the reason for the assertion on or before
+
+4    the scheduled date of testimony or appearance."
+
+5           Do you understand?
+
+6           Mr. Black.     I'm sorry.   Can you repeat that last clause?
+
+7           Ms. Brignac.     Yes.   16(c)(1) states:   "For the Chair to consider assertions of
+
+8    privilege over testimony or statements, witnesses or entities must clearly state the
+
+9    specific privilege being asserted and the reason for the assertion on or before the
+
+10   scheduled date of testimony or appearance."
+
+11          Do you understand?
+
+12          Mr. Black.     Yes.
+
+13          Ms. Brignac.     Ordinarily, we take a 5-minute break at the end of each hour of
+
+14   questioning, but if you need a longer break or a break before that, please let us know,
+
+15   and we will be happy to accommodate.
+
+16          However, to the extent that there is a pending question, we would ask that you
+
+17   finish answering the question before we take the break.
+
+18          Do you understand?
+
+19          Mr. Black.     I do.
+
+20          Ms. Brignac.     Do you have any other questions before we begin?
+
+21          Mr. Black.     The only question I have is the questions that are addressed to me
+
+22   will only be by the people at the table or -- not everybody here?      I'm a little
+
+23   hard of hearing.    That's the only.   So if people can speak up.     I have hearing aids.
+
+24          Ms. Brignac.     Absolutely.
+
+25          Mr. Black.     Thank you.
+                                                                                               11
+
+
+
+1           Ms. Brignac.     We will do our best to accommodate that.     Thank you.
+
+2           Mr. Black.     Thank you.   Okay.
+
+3           Mr. Grant.     And we've had a couple of additional members join us.     Could they
+
+4    please introduce themselves for the record?
+
+5           Ms. Stansbury.     Melanie Stansbury, New Mexico-1.
+
+6           Mr. Min.     Dave Min, California.
+
+7           Mr. Grant.     Thank you.
+
+8           Ms. Brignac.     I understand, Mr. Black, you have an opening statement that you
+
+9    would like to read into the record.   You can do so now.
+
+10          Mr. Black.     Thank you very much.
+
+11          Chairman Comer, Ranking Member Garcia, Committee members, and Committee
+
+12   staff, I come here today voluntarily to set the record straight about my relationship with
+
+13   Jeffrey Epstein, and in particular why I paid him the money I did.
+
+14          I knew Epstein for 18 years before I paid him a dime.    When I first met Epstein in
+
+15   the mid-'90s, he was on the board of Rockefeller University, the greatest scientific
+
+16   research institution in the world, and also on the boards of the Council on Foreign
+
+17   Relations and the Trilateral Commission.
+
+18          His network included respected luminaries such as David Rockefeller, Ehud Barak,
+
+19   who had been the Prime Minister of Israel, Larry Summers, George Mitchell, Bill
+
+20   Richardson, and Ace Greenberg.
+
+21          By the time I first paid Epstein in 2013, I knew him to possess an unrivaled
+
+22   network of relationships with individuals in finance, academia, science, politics, and more,
+
+23   including Deepak Chopra, Tom Barrack, Tom Pritzker, Reid Hoffman, Kathy Ruemmler,
+
+24   who had been President Obama's personal attorney, Elon Musk, Sergey Brin, Bill Gates,
+
+25   President Bill Clinton, Peter Thiel, Steve Bannon, Ariane de Rothschild, Eric Kandel, who is
+                                                                                                       12
+
+
+
+1    a Nobel Prize winner, Leon Botstein, who is head of Bard College, and numerous eminent
+
+2    scientists, as well as with many major financial institutions.
+
+3           I also knew him to possess a remarkable acumen about tax, insurance, and trust
+
+4    and estate matters.      I paid Epstein for his bona fide advice on these matters in addition
+
+5    to helping to manage and improve the operation of my nascent family office.
+
+6           With the benefit of hindsight, I now know -- as does the world -- that Epstein was
+
+7    engaged in horrific, sordid activities.   I feel terrible for Epstein's victims.
+
+8           I want to state clearly that I did not know about this nefarious activity until Epstein
+
+9    was charged with trafficking in July 2019.
+
+10          I did know that Epstein pleaded guilty in June 2008 to State charges relating to
+
+11   prostitution involving a minor.     Epstein had told me that it was an isolated incident
+
+12   resulting from a fake ID.
+
+13          Five years after his conviction, I gave Epstein a second chance, as did many others.
+
+14   I wish I had not.
+
+15          With that context, let me state unequivocally that I have never abused a woman.
+
+16   I have never been with an underage woman.          I have never engaged in sex trafficking.       I
+
+17   have never paid Epstein for access to women.        I was never blackmailed by Epstein.       I
+
+18   was not involved with and had no knowledge of any of Epstein's heinous conduct.
+
+19          My background.        I am almost 75 years old.    I am a husband, a father, and a
+
+20   grandfather.     I am proudly Jewish.     My father was a rabbi before becoming a
+
+21   businessman.        My mother was a schoolteacher and also an artist.      My sister was a
+
+22   schoolteacher.
+
+23          From my family, I found much inspiration and resilience.         These are things that I
+
+24   have shared with my children and now my grandchildren.
+
+25          I am also a business builder, an investor, an art connoisseur, and a philanthropist.
+                                                                                                   13
+
+
+
+1    I am a self-made businessman who has experienced much good fortune, and I have
+
+2    personally paid billions of dollars in taxes on the Federal, State, and local level.
+
+3             When the first news accounts called out millions I had paid to Epstein, I was the
+
+4    chairman and CEO of Apollo Global Management, which I had founded and built for 30
+
+5    years.
+
+6             I am proud of the work that I did with many others at Apollo to invest and support
+
+7    companies in America and the world.       I helped to create numerous businesses that are
+
+8    responsible for providing hundreds of thousands of good, well-paying jobs that American
+
+9    families depend on to pay their bills and realize their dreams.
+
+10            Apollo also invested hundreds of billions of dollars in the American economy,
+
+11   including billions of dollars for labor union pension funds, which return billions of dollars
+
+12   to fund the retirements for millions of workers.
+
+13            The reason I am here today is because of my unfortunate connection to Epstein, a
+
+14   man we all know now to be reprehensible.
+
+15            I severed my connection to Epstein in 2018 after more than a year of increasing
+
+16   turmoil in our professional arrangements.      After Epstein's arrest in 2019, we all came to
+
+17   know more about the demonic life he was leading.        It was a life I knew nothing about.
+
+18            In 2020, I asked for and fully cooperated with an independent investigation into
+
+19   my relationship with Epstein because I had nothing to hide.
+
+20            Well-respected former prosecutors from the Southern District of New York who
+
+21   were at the Dechert law firm spent 3 months examining 60,000 documents and
+
+22   interviewing over 20 people.     They had no limitations, no restrictions, and full access to
+
+23   all financial records and correspondence.
+
+24            Their questions, on behalf of an independent committee of Apollo's board of
+
+25   directors, answerable to the shareholders and limited partners of Apollo, were
+                                                                                                   14
+
+
+
+1    straightforward.     How much did I pay Epstein?      What did Epstein do on my behalf?
+
+2    Did he do work for Apollo at my behest?       Did I know about the behavior that led to
+
+3    Epstein's arrest in 2019?
+
+4            The Dechert law firm issued a report in January 2021 that answered each of these
+
+5    questions.     That report was filed by Apollo as a public securities disclosure.
+
+6            The fact of the matter is that I am the only person in Epstein's orbit -- including all
+
+7    the individuals who have been called to appear before this Committee -- who has been
+
+8    the subject of an independent investigation made at my request wherein the results were
+
+9    made public.
+
+10           The Dechert report concluded that I had paid Epstein $158 million, and Dechert
+
+11   examined the services Epstein rendered and determined that Epstein performed highly
+
+12   valuable and legitimate tax and estate planning services for my family office, that the tax
+
+13   work was responsible for billions of dollars in savings, and that all of Epstein's work had
+
+14   been vetted by reputable law and accounting firms.
+
+15           Dechert also found that Apollo never retained or did business with Epstein.        The
+
+16   Dechert report also determined that I had no awareness of or involvement in any of
+
+17   Epstein's criminal activities.   The rank speculation about me was proven to be just
+
+18   that -- rank speculation.
+
+19           As I said earlier, I knew Epstein.   I knew about his plea deal, which appeared to
+
+20   me and to most other observers -- and consistent with a relatively lenient sentence -- to
+
+21   have involved an isolated incident.
+
+22           Epstein appeared to me and so many others to have redeemed himself.           He
+
+23   served on several prestigious boards, hobnobbed with leading people in academia, the
+
+24   arts, business executives, and numerous world leaders.
+
+25           And Epstein solved a massive estate problem for me that none of the experts and
+                                                                                                    15
+
+
+
+1    lawyers I consulted with had been able to solve.      It was a problem that would have
+
+2    destroyed enormous value for my family and also in Apollo, the company I had founded.
+
+3           Epstein also told me that the fees I was paying him were tax-deductible 60-cent
+
+4    dollars, which I only learned years later was not true, i.e. what I believed to be $95 million
+
+5    of net fees paid to him over 5 years was actually $158 million.     But at the time I was led
+
+6    to believe by Epstein that I was paying 60-cent dollars.    That assurance was
+
+7    subsequently proved to be false.
+
+8           With hindsight, I now see that Epstein exaggerated, embellished, manipulated,
+
+9    and outright lied prolifically and without concern for me or my family, and I now see that
+
+10   his deceit was not limited to me but also extended to numerous highly sophisticated
+
+11   individuals.
+
+12          Epstein took credit for other people's ideas.     He falsely claimed to have been
+
+13   involved in decisions -- in my decisions -- about investments.    He asserted that he had
+
+14   influence over me.    He said false and vicious things about my wife and children.     He
+
+15   duped and deceived and he did so repeatedly.
+
+16          In short, with the release of the Epstein files, I now appreciate the full extent to
+
+17   which Epstein was a despicable individual and an inveterate liar.     This was a side of him I
+
+18   didn't know.   I knew Jekyll.   I didn't know Hyde.
+
+19          Ultimately, in 2018, I fired Epstein after growing tired of his relentless pursuit of
+
+20   more and more money from me for professional services, his mistruths and
+
+21   misrepresentations regarding the 60-cent fee payments, and his failure to repay most of
+
+22   the $30 million demand loan that I had made to him.
+
+23          I would have expected that the conclusions in the Dechert report would have
+
+24   definitively answered the questions about my involvement with Epstein, but that has not
+
+25   been the case, and the release of the Justice Department files has only added fuel to the
+                                                                                                16
+
+
+
+1    burning conspiracies and falsities that are at the core of speculation about Epstein.
+
+2           I understand that, and I understand why people are upset, but I don't understand
+
+3    why people -- including members of this Committee -- would accept baseless speculation
+
+4    about me with regard to the facts and spin such ugly and vicious narratives that are
+
+5    demonstrably false.
+
+6           I have been very publicly sued three times by a single law firm by three women
+
+7    claiming ties to Epstein and making horrific allegations about me.
+
+8           This law firm, the Wigdor firm, brought these allegations to the Manhattan DA and
+
+9    the Department of Justice.    I am told that there are intake forms that appear in the
+
+10   Justice Department files with heinous, fabricated allegations generated by this firm about
+
+11   me.
+
+12          The media raced to cover these sensational allegations, taking them at face value,
+
+13   without conducting any investigation or undertaking even minimal diligence.
+
+14          As a result of this torrent of lies and misrepresentations, I have received death
+
+15   threats, and my family now feels unsafe.    For the first time in my life, I have had to
+
+16   deploy a bodyguard.
+
+17          But those lawsuits were demonstrably baseless, and those allegations were
+
+18   entirely fabricated.
+
+19          Of the three lawsuits that were filed, the first two have been dismissed with
+
+20   prejudice -- that means those lawsuits can never be brought again -- as the first plaintiff
+
+21   never met Epstein and her claims were wholly without merit.       I never even met the
+
+22   second plaintiff.
+
+23          In the third lawsuit, a Democratic Federal district judge, appointed by President
+
+24   Biden, last month issued a remarkable 76-page ruling sanctioning the plaintiff, the lawyer,
+
+25   and the law firm in question for outright lying and submitting false and fraudulent
+                                                                                                  17
+
+
+
+1    evidence.
+
+2            The plaintiff in that case had testified under oath -- incredibly -- that she gave
+
+3    birth to four of Epstein's children, three of whom were kidnapped at birth.      She
+
+4    fabricated a journal where she made fantastical claims that she was raped by 50 different
+
+5    men when she was in high school, including a former President and multiple Cabinet
+
+6    members.      She claimed to be a 16-year-old autistic woman with Mosaic Down
+
+7    syndrome.
+
+8            Meanwhile, the law firm in question was expressly warned before filing that she
+
+9    was a fraud by class counsel, but they still proceeded to rely on her claims, knowing that
+
+10   they were entirely manufactured.      Another Federal judge has found on the record that
+
+11   this plaintiff is not credible.
+
+12           To be clear, I categorically deny the baseless and fabricated allegations in that
+
+13   case and in the other two lawsuits that were filed against me and that have now been
+
+14   dismissed.
+
+15           Today, one of the lawyers at that firm who spearheaded this malicious campaign
+
+16   to destroy me has been "retired," in quotes, and the firm has been sanctioned, but the
+
+17   media coverage of the dismissals has been dwarfed by the initial baseless and salacious
+
+18   coverage.    Meanwhile, extraordinary damage has been done to me and my family.
+
+19           In conclusion, I wish I had never met Epstein.    I regret ever doing business with
+
+20   him.   My association with him, the frivolous but destructive litigation, the endless rumor
+
+21   mill have created a toxic environment for my wife and family, which I deeply regret.
+
+22           I will not add to that toxic environment today.    I am here to voluntarily answer
+
+23   questions about the work that Epstein did for me and for the services for which I paid
+
+24   him.
+
+25           I am not here to answer questions about my personal life, which would be hurtful
+                                                                                                18
+
+
+
+1    to my wife, children, and family, and I will not speak about the personal lives of adult
+
+2    women who have not chosen and do not deserve to be connected by me or anyone else
+
+3    to Epstein.
+
+4           This is an opportunity for me and for my family to move forward with the
+
+5    productive and beneficial work that should be consuming us -- our commitment to
+
+6    advance worthy causes for society.
+
+7           We have made more than a half a billion dollars in philanthropic gifts in several
+
+8    key areas, including funding health research, highlighted by the Melanoma Research
+
+9    Alliance of which we are the founders and largest donors.
+
+10          The MRA has been at the vanguard of the immunotherapy revolution that has
+
+11   energized the entire field of oncology and created a new paradigm for how over 30
+
+12   cancers and millions of patients are treated.
+
+13          We also support organizations that help women in need.        We support veterans
+
+14   and a program for loan forgiveness for mental healthcare workers in the New York City
+
+15   public health system.
+
+16          Also of importance to us is our support for Jewish causes and the effort to end the
+
+17   scourge of anti-Semitism spreading across the globe.     And we continue to be active in
+
+18   giving to support academia and the arts.
+
+19          I am a proud American.     We live in a great country where all things are possible.
+
+20   I am hopeful that the Committee will find my voluntary testimony useful.
+
+21          Thank you.
+
+22          With that background, I am glad to take your questions.
+
+23          Mr. Grant.    Thank you, Mr. Black.
+
+24          And we've had additional Members of Congress join us.       Can they please identify
+
+25   themselves for the record?
+                                                                                                 19
+
+
+
+1           Mr. Subramanyam.       Congressman Suhas Subramanyam, Virginia's 10th
+
+2    Congressional District.
+
+3           Mr. Grant.     Thank you.
+
+4           Ms. Brignac.    The time reads 10:27 a.m., and the majority's time will start now.
+
+5                                           EXAMINATION
+
+6                   BY MS. BRIGNAC:
+
+7           Q     Mr. Black, let's begin by discussing your background.
+
+8           Where were you born?
+
+9           A     New York City.
+
+10          Q     What year were you born?
+
+11          A     1951.
+
+12          Q     What is your marital status?
+
+13          A     I've been married for 45 -- 44 years as of last week.
+
+14          Q     And who is your wife?
+
+15          A     My wife is Debra Black.
+
+16          Q     And you have children, correct?
+
+17          A     I have four children.
+
+18          Q     What is your educational background?
+
+19          A     I grew up in New York City.    Went to Fieldston High School.   I went to
+
+20   Dartmouth College.     And I went to Harvard Business School.
+
+21          Q     And we will go into more detail later, but for now, can you briefly describe
+
+22   your professional career?
+
+23          A     My professional career is I spent 13 years at the investment bank known as
+
+24   Drexel Burnham Lambert.       I was the head of the mergers and acquisitions department
+
+25   there and then the corporate finance department there.
+                                                                                                     20
+
+
+
+1           When Drexel collapsed in early '90, I founded Apollo Global Management and was
+
+2    the chairman and CEO there for almost 31 years.       I left.    I retired there 5 years ago,
+
+3    basically, and have been running our family office called Elysium.
+
+4           Q     When did you begin work with Elysium?
+
+5           A     Well, I started Elysium while I was still at Apollo.    But when I retired from
+
+6    Apollo, it kind of amped up.
+
+7           Q     What year did you begin your work with Elysium?
+
+8           A     I don't remember the specific year, but that family office was in existence
+
+9    probably for 3 or 4 years while I was still chairman at Apollo.
+
+10          Q     Thank you.
+
+11          Tell me about the first time you interacted with Jeffrey Epstein.
+
+12          A     I met Epstein in the mid-'90s, either '95 or '96, at a lunch that I was having
+
+13   with a mutual friend of ours, which he then joined.     That's when I first met him, and that
+
+14   was in New York City in the mid-'90s.
+
+15          Q     Who was the mutual friend?
+
+16          A     It was a man named Skip Stein.      Elliot Stein.
+
+17          Q     How did you know Mr. Stein?
+
+18          A     I had known Mr. Stein for many years.       He was an investor.      He's a friend.
+
+19          Q     What was his relationship to Mr. Epstein?
+
+20          A     I think they were friends also.
+
+21          Q     How did you know that?
+
+22          A     Because he joined a lunch and said, "This is my friend Jeffrey Epstein that I
+
+23   want you to meet."
+
+24          Q     Did you know Mr. Epstein would be going to the lunch before?
+
+25          A     No.
+                                                                                                 21
+
+
+
+1           Q      What was the reason for him bringing Mr. Epstein to the lunch?
+
+2           A      I think he thought I would find him an interesting person.
+
+3           Q      Who else was present?
+
+4           A      No one.
+
+5           Q      What was discussed at the lunch?
+
+6           A      I don't remember.    This was 30 years ago.    It was the first meeting or
+
+7    introduction to a person.    I don't recall at all what was discussed.
+
+8           Q      Was the purpose of the lunch to meet Mr. Epstein?
+
+9           A      Not to my knowledge.     I have no idea.
+
+10          Q      Do you recall if it was a friendly lunch or the nature of the topics that were
+
+11   discussed?
+
+12          A      I think it was a totally friendly lunch, and I just don't remember what was
+
+13   discussed.
+
+14          Q      Why do you say it was totally friendly?
+
+15          A      Because it was a friend of Mr. Stein, who said, "I'd like you to meet a friend
+
+16   of mine."    He sat down, joined us, and I didn't really think that much about it.   But
+
+17   there was nothing unfriendly about it.
+
+18          Q      I asked you about the nature of the topics, and you said it was friendly.     So
+
+19   was it personal?
+
+20          A      I'm telling you I don't recall what the conversation was about from 30 years
+
+21   ago.
+
+22          Q      Okay.
+
+23          What did you know about Mr. Epstein prior to this lunch?
+
+24          A      Zero.
+
+25          Q      Did you hear any rumors about him?
+                                                                                                  22
+
+
+
+1           A      No, not that I can recall.   He was an absolutely new person that a friend of
+
+2    mine said he was friends with and was interesting, period.
+
+3           Q      Did you do any background research before meeting him?
+
+4           A      I didn't know I was going to meet him, as I told you, so how could I have
+
+5    done background research?
+
+6           Q      What were your first impressions of him?
+
+7           A      Smart.    Irreverent.   That's all.
+
+8           Q      What did you understand his job to be?
+
+9           A      I didn't understand his job to be.    I understood that he was somebody that
+
+10   Skip was introducing me to.
+
+11          I mean, if somebody joined you for dinner and they brought along a friend or -- it
+
+12   wasn't that I had any understanding of him at the time.
+
+13          Q      Did you ever discover what his job was before seeking advice from him?
+
+14          A      Well, that's a different question, because I asked advice years later, and
+
+15   during that period, I did learn a lot more about him.
+
+16          As I read in my opening statement, I learned that he was involved with a lot of
+
+17   prestigious institutions.   As I said in the opening statement, I was impressed that he was
+
+18   on the board of Rockefeller University, put on that board by David Rockefeller, who was
+
+19   extremely esteemed and respected, and that institution was extremely esteemed and
+
+20   respected.
+
+21          He was also on the Council on Foreign Relations.      He was also on the Trilateral
+
+22   Commission.     I learned over time that he had a pretty interesting network.    I also
+
+23   learned that he was very smart about tax and estate matters in terms of -- yeah.
+
+24          Mr. Grant.      And, obviously, you came to learn this stuff about Mr. Epstein.
+
+25          So you met him at this lunch in 1995, round figures.     So when did you begin to
+                                                                                                    23
+
+
+
+1    actually learn about Mr. Epstein and his past and what he did for a living?      Did that take
+
+2    a couple of years?    Did it take a few months?    When would that have -- ballpark range?
+
+3           Mr. Black.     I don't remember.    I learned that he had been a math teacher.      I
+
+4    learned -- at Dalton School.
+
+5           I learned that he was very friendly with Ace Greenberg and Jimmy Cayne, who
+
+6    were the chairs and president of Bear Stearns, and that he had worked at Bear Stearns
+
+7    and therefore he had some financial sophistication.      I learned that they were very
+
+8    friendly with him and liked him.
+
+9           And then, over time, I also learned that he had relationships with people in
+
+10   government.     He was good friends with Ehud Barak, who had been the former Prime
+
+11   Minister of Israel.   And, actually, I hired Ehud Barak as a consultant for Apollo for 2
+
+12   years, retained him to handle global consultancy.     So I would say I met him, really,
+
+13   through Epstein.
+
+14          I learned that he was good friends with Larry Summers, who had been the
+
+15   Treasury Secretary.    He had relationships, as I mentioned in the opening statement, with
+
+16   George Mitchell, with Bill Richardson.
+
+17          He seemed to be very knowledgeable more and more about estate planning.
+
+18          And as I said, I never retained him until 18 years after I had met him.     So there
+
+19   was a lot of meetings that I had in the interim before I did.   I mean --
+
+20                  BY MS. BRIGNAC:
+
+21          Q      So, Mr. Black --
+
+22          A      Yeah?
+
+23          Q      -- it sounds like you understood he was well connected.       Did you
+
+24   understand him to be wealthy?
+
+25          A      I understood him to be an adviser to wealthy families.     I knew he had
+                                                                                                       24
+
+
+
+1    worked for Les Wexner at The Limited for many years.
+
+2           I knew later that he also worked for the Rothschild family, but I don't think I knew
+
+3    that earlier on when you're asking about.
+
+4           He basically said he had done tax work and estate planning work for half a dozen
+
+5    or so families but was not at liberty to tell me other than Wexner.
+
+6           Q        And you listed quite a lot of information about him.        How did you come to
+
+7    learn all of that information after meeting him at that lunch?
+
+8           A        I think a lot of it from him.     A lot of it -- oftentimes, when I spent time with
+
+9    him, he also had other people come to those meetings.             He actually introduced me to a
+
+10   lot of interesting people over the years.
+
+11          You have to understand -- and this is something -- right now -- and, by the way, I
+
+12   should say I'm in no way defending him.           But, clearly, everything that's known about him
+
+13   in the last 5 years is that this was a horrific, reprehensible, criminal pedophile.
+
+14          But in those earlier years, before any of that was known, he was also a very
+
+15   interesting person.      He had dinners.        He'd have cocktails for three or four people.
+
+16          He'd call me up and say, "Hey, I'm having this Nobel Prize winner over for a drink.
+
+17   Do you want to join?       You'll find him interesting.     Why don't you meet this fellow
+
+18   Larsen from Norway who helped put together the Oslo Accords?                I think you'll find him
+
+19   interesting."
+
+20          He had a dinner for Woody Allen and Dick Cavett.             Did I want to join?
+
+21          He had something for magicians where he had three of the world's most famous
+
+22   magicians there.      "If you're around, would you like to join?"
+
+23          He'd have -- that's where I met Bill Gates.         He brought him up to my office to talk
+
+24   about philanthropy for 2 hours.        That's where I met Elon Musk.        That's where I met
+
+25   Deepak Chopra.
+                                                                                                     25
+
+
+
+1           This was somebody who had an interesting Rolodex in many different areas,
+
+2    whether it be science, whether it be academia, whether it be politics, government,
+
+3    business.
+
+4           So when you say how did I learn, I learned oftentimes by being there at meetings,
+
+5    whether it was with Kathy Ruemmler, whether it was with Steve Bannon, whether it was
+
+6    with Larry Summers.
+
+7           Q      It sounds like you admired him, Mr. Black.
+
+8           A      I said I don't want to look like I was -- I'm defending him.   I'm not, given
+
+9    with hindsight what we all know about him.
+
+10          But what we don't know about him is that he was also an interesting person who
+
+11   had a lot of -- a network of really interesting people.
+
+12          Q      How did your relationship develop over the years?       Are there years you
+
+13   were closer than others?
+
+14          A      I don't know how to answer that.      I think it was a -- it was a progressive.
+
+15   When you know somebody for 25 years, you know them more when you meet with them.
+
+16          Q      How often did you communicate with him?
+
+17          A      I communicated with him in the early years not that much.         When I became
+
+18   convinced that he had done a lot for the family -- Les Wexner's family -- I had also asked
+
+19   him to be involved in putting together my family foundation.       So we talked a little bit
+
+20   about that.   That would have been in the early 2000s.
+
+21          Q      Who told you about his work with Les Wexner?
+
+22          A      He did.
+
+23          Q      What did he tell you?
+
+24          A      That he was -- had been very involved with him and that managed a lot of his
+
+25   strategies and tax, estate planning, and he was pretty intimately involved with him.
+                                                                                                       26
+
+
+
+1           Q       And, back at the lunch, did you exchange contact information there?
+
+2           A       Which lunch?
+
+3           Q       The lunch where you met Mr. Epstein.       Did you exchange contact
+
+4    information?
+
+5           A       I don't know if it was exchanged.     I certainly knew that if I wanted to get in
+
+6    touch with him, I could through Skip.     So I have no idea whether we exchanged
+
+7    information.     I just don't have memory of that.
+
+8           Q       What was the typical method of your communication with him throughout
+
+9    the years?     Was it through associates of yours?     Was it directly?
+
+10          A       I think there was some texting.     I did not email.     He was a rabid emailer,
+
+11   so he -- as you know with the 4 million emails that are in the Epstein files that have been
+
+12   downloaded.
+
+13          But I never emailed.      But I did receive emails.   That's why -- when I mentioned
+
+14   the Dechert report, they reviewed 60,000 emails, and that usually came through my
+
+15   assistant who then printed out the emails for me.
+
+16          Q       Which associates of yours would communicate with Mr. Epstein?
+
+17          A       Well, I had a family office -- as I mentioned, a nascent family office -- where I
+
+18   had a number of associates in it who were people in the tax department and the
+
+19   accounting department and some in legal handling trusts.         I think they all had
+
+20   communications with him.
+
+21          Q       Mr. Black, you brought up the Dechert report.          Can you explain what the
+
+22   Dechert report is?
+
+23          A       Of course.   Dechert is a major law firm run by Andy Levander whose
+
+24   background is as a prosecutor.      And when The New York Times in, I think, the fall of
+
+25   2020 wrote a story that I had paid Epstein 50 to 75 million dollars for professional
+                                                                                                    27
+
+
+
+1    services, it became a big PR event.
+
+2            And since Apollo dealt with many investors -- including investors from public
+
+3    pension funds, State pension funds, sovereign accounts -- I felt that we ought to, as a
+
+4    firm, and that me, as a person -- the chairman and CEO of the firm -- should address the
+
+5    questions that were brought up through that story.
+
+6            So I went to the independent committee on the board, the board members, and
+
+7    requested that they go out and retain an independent law firm to examine my
+
+8    relationship with Epstein, because, as I said in the opening statement, I had nothing to
+
+9    hide.
+
+10           And so Dechert spent 3 to 4 months reviewing 60,000 documents.           They had no
+
+11   restrictions on them.      It was no holds barred.   I fully cooperated with that, as did 20
+
+12   other people that they interviewed, to write a report to the board.
+
+13           That Dechert report found a number of things.       They found that I paid him not 50
+
+14   to 75 million, but that I paid him $158 million over a 5-year period from '13 through '17
+
+15   and that it was all for legitimate business purposes, that he had saved me between 1 and
+
+16   2 billion dollars, that it was all vetted -- everything he did -- by major law and accounting
+
+17   firms, and that what I paid him on an after-tax basis -- which is what I believed I was
+
+18   paying, as I mentioned -- was akin to a 5 percent commission on what he had saved me.
+
+19           And it also found, importantly, that I had no knowledge of or did not participate in
+
+20   any way with any of his criminal behavior.
+
+21           Q     Mr. Black, I'm going to ask at this stage that you try to be respectful of our
+
+22   time and your own.      We do want to get you out of here at a reasonable hour, and we
+
+23   have a lot of questions.     So I'm going to ask that you answer the questions that I'm
+
+24   asking you.
+
+25           You mentioned an independent --
+                                                                                                28
+
+
+
+1           A     Didn't I just do that when you asked me what was the Dechert report?
+
+2           Q     Excuse me.
+
+3           Mr. Cutler.    He did.   He answered the question.
+
+4           Ms. Brignac.     Thank you.    Thank you.    Just wanted to make a note.
+
+5           Mr. Black.     Okay.
+
+6                   BY MS. BRIGNAC:
+
+7           Q     You mentioned an independent committee.          Who were the members of
+
+8    this Conflicts Committee?
+
+9           A     One was Buzzy Krongard, who had been either the -- he was the head of a
+
+10   bank in Baltimore, had been on the board for many years, and he was either the number
+
+11   two or number three at the CIA.      Number one.
+
+12          Number two, there was a man named Ducey who had been the chair of an Apollo
+
+13   company earlier that had been subsequently sold.
+
+14          And, three, there was a woman.       Oh, my goodness.     Having a senior moment.
+
+15          Q     Pauline Richards?
+
+16          A     Yes.
+
+17          Q     Have any of those --
+
+18          Ms. Estrich.    Thank you.
+
+19          Mr. Black.     Who was involved, I think, in the -- in a Caribbean island, and she had
+
+20   been -- she was pretty sophisticated from a financial point of view.
+
+21                  BY MS. BRIGNAC:
+
+22          Q     Have any of those members you just listed have any association with Jeffrey
+
+23   Epstein?
+
+24          A     Not that I'm aware of.
+
+25          Q     Were you involved in any way in Apollo's decision to hire Dechert?
+                                                                                                 29
+
+
+
+1             A   No, I was not.
+
+2             Q   You mentioned Andy -- Andrew Levander led the investigation.         Is that
+
+3    correct?
+
+4             A   Yes.
+
+5             Q   How did you meet Mr. Levander?
+
+6             A   I didn't really know Mr. Levander.      He led -- he interviewed me, I know, as
+
+7    part of that investigation.
+
+8             Q   Are you aware that Mr. Levander is reported to have known Mr. Epstein
+
+9    when he was an Assistant U.S. Attorney in the Southern District of New York in the
+
+10   1980s?
+
+11            A   No.
+
+12            Q   Were you aware of any relationship between Mr. Levander and Mr. Epstein?
+
+13            A   No.
+
+14            Q   Upon hearing what I just said, do you find it concerning that Mr. Levander
+
+15   had a relationship with Mr. Epstein?
+
+16            A   No.    Why?      What was the relationship?      I don't know what the nature of
+
+17   the relationship was.
+
+18            Q   They had a relationship.       Do you find it concerning --
+
+19            A   Were they good friends or was one investigating the other?
+
+20            Q   I'm going to ask --
+
+21            A   I just don't know.
+
+22            Q   I'm going to ask that I finish my question before you answer.
+
+23            A   Please.    Please.    Sorry.
+
+24            Q   Do you find it concerning that this independent investigatory panel selected
+
+25   a person who you now know had an investigation -- or had a relationship with
+                                                                                                 30
+
+
+
+1    Mr. Epstein -- to conduct your investigation of your ties with Mr. Epstein?
+
+2           A      I find it impossible to answer your question without knowing the nature of
+
+3    that relationship.
+
+4           Q      Do you find the fact that they had a relationship concerning?
+
+5           A      No, I don't.   I don't.   If they were good friends, then it would be
+
+6    concerning.    If he had investigated Epstein for something prior years before, then I don't
+
+7    find it concerning.
+
+8           But you need to -- I mean, it's -- it's difficult to answer that question without
+
+9    knowing the nature of what that relationship was.
+
+10          Q      Did any members of the Conflicts Committee personally benefit from your
+
+11   name being cleared of wrongdoing by the Dechert report?
+
+12          A      No.
+
+13          Q      Do you know Earl Nemser, an attorney for Dechert?
+
+14          A      No.
+
+15          Q      Okay.
+
+16          Returning to your relationship with Mr. Epstein, did you socialize with Mr. Epstein
+
+17   in a personal capacity?
+
+18          A      Well, I just told you that -- well, why don't I elaborate.   Thank you for
+
+19   asking that question.
+
+20          I knew Mr. Epstein basically in two ways.
+
+21          One, he performed professional services for my family office, and that involved
+
+22   helping put together the family office -- which was making a lot of mistakes, because, as I
+
+23   said, it was kind of nascent -- but also with a lot of very beneficial tax and estate planning
+
+24   services.
+
+25          I also knew him, as I said, because he had an extraordinary Rolodex of people in
+                                                                                                     31
+
+
+
+1    many fields.    And as I said, if you want to call that social, I guess that would be social.
+
+2           When he called and said, "Would you like to meet this interesting person?" or
+
+3    during U.N. Week where dozens of people from all over the world would come to his
+
+4    townhouse and say, "Would you like to join us?        You'll find these people interesting," I
+
+5    did.
+
+6           So, from that point of view, I guess you could say I socialized because I met
+
+7    scientists through him.     I met people involved in government through him and business,
+
+8    because I went over and joined him for a drink at his townhouse when they were there.
+
+9           So, from that point of view, I would say it was dual.     One, it was professional, and
+
+10   two, I enjoyed taking advantage of all the network of interesting people he knew.
+
+11          Q       What is the Debra and Leon Black Family Foundation?
+
+12          A       I'm not sure.   I think it was something set up early.   There have been
+
+13   many -- there has been an evolution of a lot of names.       We have a few billion dollars
+
+14   today that we're involved with, with philanthropy.       But it started off smaller.   But
+
+15   we've always been interested in philanthropic work.        We wanted to get our children
+
+16   involved in that also.
+
+17          And so I think -- and I don't want to speculate exactly what that was, but I think it
+
+18   was one of many entities, if you will, which was involved for our family for the trust to get
+
+19   involved in philanthropic activities.
+
+20          Q       Let me ask, then --
+
+21          A       But I'm speculating a little bit because I'm not sure.
+
+22          Q       Let me ask, then, which entity did you and your wife appoint Mr. Epstein to
+
+23   the board of directors of in 1997?
+
+24          A       I think that was the name of it.
+
+25          Q       Why did you place Mr. Epstein on the board in 1997?
+                                                                                                     32
+
+
+
+1           A       Because I thought he was really smart in areas having to do with trusts and
+
+2    foundations and charitable work.
+
+3           Q       And this was only a year or two after having met him, correct?
+
+4           A       It was a couple years, yeah.    Exactly.
+
+5           Q       And this appointment caused you to confide personal details about your
+
+6    financial matters and your family with Mr. Epstein, correct?
+
+7           A       Yes.
+
+8           Q       Did anyone push back on this appointment?
+
+9           A       Not that I can recall.
+
+10          Q       And how long had -- how long did he serve on the Black Family Foundation?
+
+11          A       I think for -- if you're saying it happened in '97 -- is that what you just
+
+12   mentioned?
+
+13          Q       Uh-huh.
+
+14          A       I think he was on it until he went to jail and was convicted and I asked him to
+
+15   come off it.
+
+16          I would also just mention -- and I know you reminded me about time -- I don't
+
+17   think that entity did a whole lot.
+
+18          Q       Why ask Mr. Epstein to resign from the board when he was convicted?
+
+19          A       Because I thought it was appropriate if we had a family foundation and there
+
+20   were only three members on it -- my wife, myself, and him -- that he step back from it.
+
+21          Q       You've been quoted to say that his conviction was not that big of a deal to
+
+22   you, but it sounds like it did cause concern enough for you to take action in removing him
+
+23   from your family foundation.
+
+24          A       As I said, I don't think the family foundation did a lot.    But it was something
+
+25   that was out there.      It was public.   It only had three members.       He was in jail.   And I
+                                                                                            33
+
+
+
+1   didn't think that that was the family foundation appropriate.
+
+2          Q       So then 2007, we've covered about a decade of dealings between you and
+
+3   Mr. Epstein.    How frequently over that decade did you interact with him?
+
+4          A       It's hard to say.   But my home was two blocks from his townhouse.
+
+5   Sometimes we would have breakfast together, and sometimes I'd go over, if he had
+
+6   interesting people for drinks, at 5:00 or 6:00 for an hour or an hour and a half.
+
+7   Maybe -- I don't know -- once a month, once every 3 weeks, something like that.
+                                                                                                          34
+
+
+
+1
+
+2    [11:00 a.m.]
+
+3                    BY MS. BRIGNAC:
+
+4           Q       And we can agree you developed a friendship over these years.            Yes?
+
+5           A       Friendship is an amorphous term.       This is somebody who knew intimately
+
+6    the goings on in my family tax and estate planning entities.           It's also something where,
+
+7    as I mentioned, I'd go over and meet his friends.       I know there are emails where he
+
+8    claims that we're best friends.      We were never best friends.         Was I friendly with him
+
+9    from the point of view of enjoying his Rolodex?        Yes.   Did I think he was very smart as a
+
+10   professional adviser?       Yes.
+
+11                                       [Black Majority Exhibit No. 1
+
+12                                       was marked for identification.]
+
+13                   BY MS. BRIGNAC:
+
+14          Q       I would now like to enter what is marked as majority exhibit 1.         This is a
+
+15   letter from a book that was compiled as a gift for Mr. Epstein's 50th birthday.          I'll give
+
+16   you a moment to review.
+
+17          A       I'm aware of this.
+
+18          Q       And just let me know when we're ready.
+
+19          A       I'm ready.    I said I'm aware -- I know this letter.
+
+20          Q       Who reached out to you and asked you to make this submission?
+
+21          A       I believe Ghislaine Maxwell.
+
+22          Q       What did she tell you?
+
+23          A       That she was putting together a surprise birthday book for Epstein's 50th
+
+24   and would I contribute to it, and I said sure.
+
+25          Q       Did she send you any other letters or examples done by others?
+                                                                                                     35
+
+
+
+1           A        Nope, but she said that she was putting together a book by others and
+
+2    would I contribute.      So I knew there were others, but I didn't know who they were.
+
+3           Q        Your submission appears to be a poem of sorts.        Yes?
+
+4           A        A bad poem, yes.
+
+5           Q        In the letter, you refer to Mr. Epstein as a VFPC, which means Vanity Fair
+
+6    Poster Child.     What does that mean?
+
+7           A        It means, I believe -- I don't fully recall -- but I think there had been a Vanity
+
+8    Fair article about him.      That's all.
+
+9           Q        What was that Vanity Fair article about?
+
+10          A        I don't remember, but that's what the reference is.
+
+11          Q        What did you mean when you wrote, "By Birds and by Bucks, Cs and Ms are
+
+12   his key?"
+
+13          A        I actually don't recall.   I don't know what Buck -- I think it's a reference that
+
+14   he liked money, that he liked money and he liked women.            He was a confirmed
+
+15   bachelor.
+
+16          Q        What did you mean by "Blond, red, or brunette spread out geographically?"
+
+17          A        What it says, that he liked women, whether they were blond, redheaded, or
+
+18   brunettes.
+
+19          Q        Which women were you referring to here?
+
+20          A        None specifically.
+
+21          Q        What locations were you referring to?
+
+22          A        I don't think I was.
+
+23          Q        Why would you say spread out geographically?
+
+24          A        Because he seemed to know women all over the world.           He traveled.    He
+
+25   was in Paris.     He was in Santa Fe.      He was in his island.   And he enjoyed the company
+                                                                                                       36
+
+
+
+1    of good-looking women, and he was a bachelor.             Yeah.
+
+2             Q       How did you know he surrounded himself with good-looking women?
+
+3             A       Well, his staff were mostly good-looking women, and his pilot was a 6-foot
+
+4    blond.       I mean, it was a little bit out of like a James Bond movie.    His plane I think I
+
+5    remember being black, and his pilot was a 6-foot blond with her hair down to her waist.
+
+6    He was eccentric.
+
+7             Q       Who was this blond pilot?
+
+8             A       I don't really know her.
+
+9             Q       Have you since learned that her name was                           ?
+
+10            A       Yes.
+
+11            Q       Did you understand                       to be Mr. Epstein's girlfriend?
+
+12            A       No.    I still don't understand that.    That's news to me.
+
+13            Q       Yes, it's been widely reported on.
+
+14            Did he have multiple girlfriends at a time?
+
+15            A       I don't know a lot of his girlfriends.   I know his last girlfriend, Karyna, but I
+
+16   didn't know -- and I knew he had been with somebody before I knew him for 10 years, but
+
+17   I didn't know his girlfriends.      But I did know that he surrounded himself with
+
+18   good-looking women.
+
+19            Q       How old did                    appear to be?
+
+20            A       I'm sorry, which one?
+
+21            Q       The blond pilot,                   , how old did she appear to be?
+
+22            A       I don't know.    Thirty.   I don't know.
+
+23            Q       Have you been made aware since --
+
+24            A       She was a registered pilot.
+
+25            Q       Have you been made aware since that                         had been trafficked
+                                                                                                      37
+
+
+
+1    to the United States at the age of 15 by Mr. Epstein?
+
+2           A        No, I didn't know.
+
+3           Q        Was it possible that                     was underage?
+
+4           A        I don't believe so.     I only met her when she was his pilot.   I doubt whether
+
+5    she was an underage pilot.
+
+6           Q        Did you ever see her at 301 East 66th Street?
+
+7           A        No.
+
+8           Q        Further in the poem, you state "Alhambra East jamboree."         What does that
+
+9    refer to?
+
+10          A        As I said, Epstein was quite eccentric and a little crazy with his architectural
+
+11   plans for his island, which he sometimes shared with me, and I think he had seven
+
+12   different buildings going on.         They had an Asian or I'd say even more Mideastern
+
+13   architectural pendulum with domes, and so I called it the Eastern Alhambra based on the
+
+14   one in Spain.     And he, I think, put a lot of time, effort, and money into building out those
+
+15   physical buildings.
+
+16          Q        The jamboree refers to a party or a celebration.      Why would you say an
+
+17   architectural party or celebration?
+
+18          A        It's a poem.   I mean --
+
+19          Q        For the record, does East Alhambra refer to East Alhambra High School in
+
+20   California?
+
+21          A        I didn't know one existed named East Alhambra.        I have no idea.   That's
+
+22   the first I've ever heard that.
+
+23          Q        You signed the birthday letter with the following, "Best of all, a Dear Friend.
+
+24   Happy Birthday, Jeffrey.       Love and kisses, Leon."
+
+25          A        Uh-huh.
+                                                                                                       38
+
+
+
+1            Q     Did you consider Mr. Epstein to be a dear friend?
+
+2            A     No.     I considered him to be what I've just described.     I considered him to
+
+3    be somebody that I had known for a long time, enjoyed his entourage of people in a lot of
+
+4    different fields.    I appreciated the work he had done with my family office, and I was in
+
+5    the spirit of what was asked of me, which was a festive occasion for the 50th birthday of a
+
+6    confirmed bachelor, and that was the spirit that I wrote this in.       No, I told you before I
+
+7    didn't consider him my best friend or a dear friend.     Was I friendly with him in terms of
+
+8    the amount of time I went over and met people at his townhouse?             Yes, I was.
+
+9            Q     Your words, Mr. Leon, say that you called him a dear friend.        So do you sign
+
+10   birthday letters to all of your business associates with love and kisses, dear friend?
+
+11           A     Sometimes.
+
+12           Q     Okay.     Tell me about your first interaction with                  .
+
+13           A     I met her at a party in New York.    Nothing through Jeffrey Epstein.       Jeffrey
+
+14   Epstein didn't know her.     She didn't know Jeffrey Epstein.       So I met her at a different
+
+15   party in the city.
+
+16           Q     Who introduced you?
+
+17           A     She was at the party.
+
+18           Q     Whose party?
+
+19           A     A man named Don Engel, who had been a partner at Drexel.
+
+20           Q     How did he know                 ?
+
+21           A     I have no idea.    He threw a party every year for independence day for
+
+22   Russian women, or something like that, and had a party of friends, and she was there and
+
+23   I chatted with her.
+
+24           Q     Where is she from?
+
+25           A     She was from Russia, from Tatarstan.
+                                                                                                     39
+
+
+
+1             Q     Have you ever engaged in sexual conduct of any kind with                     ?
+
+2             A     I had an affair with her on and off for 6 years, an extramarital consensual
+
+3    adult affair with her.
+
+4             Q     It was a sexual affair, correct?
+
+5             A     It's already -- it's public knowledge.
+
+6             Q     Did you have sexual conduct with                  ?
+
+7             A     Yes.
+
+8             Q     Did you support                financially over the course of this affair?
+
+9             A     Yes.
+
+10            Q     Did you ever ask                   to sign a nondisclosure agreement?
+
+11            A     I think on the subject of NDAs I'm going to refer to my counsel.
+
+12            Ms. Estrich.    We're not going to get into NDAs without admitting the existence of
+
+13   any.     Every confidential agreement I've ever seen in my long career has included
+
+14   confidentiality clauses that bind Mr. Black as well as the women involved.
+
+15            Ms. Brignac.    They don't bind them from Congress.
+
+16            Ms. Estrich.    Well, they bind them from a transcribed interview, as I understand
+
+17   it.    This is not a subpoena.    He has not received a subpoena, and we are treating this as
+
+18   a voluntary exercise in which Mr. Black is here voluntarily to help this committee, but we
+
+19   cannot get into NDAs.      I would ask if you could move on to another question.
+
+20            Mr. Ashworth.     So he's not even going to answer questions about the existence
+
+21   of an NDA or whether or not -- not even the substance, and he is also not going to answer
+
+22   questions about the actions related to individuals who there may be an NDA related to?
+
+23            Ms. Estrich.    We'll answer any questions we can, but as you well know from your
+
+24   experience, if there were to be an NDA, it would have a confidentiality clause that would
+
+25   bind Mr. Black in a situation like this.
+                                                                                               40
+
+
+
+1           Mr. Ashworth.      But it's your position that that confidentiality prevents him from
+
+2    even discussing the existence of an NDA?
+
+3           Ms. Estrich.    That is what every NDA I've ever seen in my career requires.
+
+4           Mr. Ashworth.      I think we would disagree with that.
+
+5           Ms. Estrich.    But the terms of the settlement agreement, if there is one, the
+
+6    existence of any such agreement.       We're not even allowed when you have an NDA, to
+
+7    talk about the existence of an agreement in the absence of process and judicial review
+
+8    and the like.   So we're going to try to abide by our confidentiality obligations while
+
+9    helping this committee in any way we can.
+
+10          Mr. Ashworth.      Okay.     Thank you.
+
+11          Ms. Estrich.    Thank you.
+
+12          Ms. Brignac.     I understand this confidentiality to have already been broken
+
+13   because there is public reporting on this NDA, so I'm going to ask you, Mr. Black, did you
+
+14   ever ask               to sign a nondisclosure agreement?
+
+15          Mr. Black.     I think I'd like to chat with my counsel for 5 minutes.
+
+16          Ms. Estrich.    Could we take a short break?
+
+17          Ms. Brignac.     Yep.     We can go off the record.
+
+18          [Recess.]
+
+19          Ms. Brignac.     We can go back on the record.
+
+20          Mr. Grant.     Mr. Black, before you continue, there have been some additional
+
+21   Members of Congress and staff that have joined us since the beginning of this interview.
+
+22   Will they please announce themselves for the record.
+
+23          Ms. Ansari.     Yassamin Ansari.
+
+24          Mr. Walkinshaw.         James Walkinshaw.
+
+25                                             comms director, Ranking Member Garcia.
+                                                                                                    41
+
+
+
+1                                intern, Ranking Member Garcia.
+
+2                                              , deputy chief counsel.
+
+3             Mr. Grant.   Thank you all.
+
+4             Mr. Black.   If I could, I will like to go back and respond to your last question.
+
+5                    BY MS. BRIGNAC:
+
+6             Q    Yes.    Thank you.    And I'm going to repeat the question so the record's
+
+7    clear.
+
+8             Did you ever ask               to sign a nondisclosure agreement?
+
+9             A    Yeah.    When I said I wanted to come back, I came here voluntarily to be
+
+10   cooperative with this committee, and to the extent I'm able to do that, I will.      So on the
+
+11   three women that were the subject of lawsuits filed by the Wigdor firm, one of which was
+
+12                , I'm happy to respond to you relating to those three women.
+
+13            So to answer your question,                , who I'd had an on and off consensual
+
+14   adult affair with for 6 years, left the country.   I think she had some visa issues after she
+
+15   finished her studies at Columbia University, and she was abroad for a year and then she
+
+16   came back.     And she came back, and all of a sudden claimed that I had ruined her life,
+
+17   never claimed I had abused her, and that she had to have $100 million paid to her.            And
+
+18   we spent a summer meeting probably seven or eight times.            She came back in June and
+
+19   said that, and we spent the summer and spent about seven or eight meetings and worked
+
+20   out a settlement agreement which resulted in an NDA.
+
+21            Q    And pursuant to that NDA which was signed in 2015, you agreed on
+
+22   $100,000 per month for 15 years, $1 million in loan forgiveness, and $2 million in British
+
+23   pounds for a U.K. visa.     Does all of that sound correct?
+
+24            A    That sounds correct.
+
+25            Q    Was Mr. Epstein involved in the negotiations on these terms?
+                                                                                                  42
+
+
+
+1           A     He was not involved in the negotiation.      He was somebody that I told I was
+
+2    being blackmailed and extorted to, as well as to my lawyers at Paul, Weiss.
+
+3           Q     $21.7 million seems like an awful lot for an extramarital affair.    What was it
+
+4    precisely you did not wish for her to disclose?
+
+5           A     That we were having an affair.       I had a wife and children and was the chair
+
+6    of a public company.    I agree with you it was a lot of money.     It was a lot less than the
+
+7    $100 million that she started with.   And I viewed it as total blackmail and extortion but
+
+8    didn't want it to be public, and so we negotiated a settlement.
+
+9           Q     And you sought Mr. Epstein's advice in navigating this NDA?
+
+10          A     I don't think how much he advised me.        I don't need somebody to advise
+
+11   me on how to negotiate, but I did talk to him about being extorted.       I mean, he was
+
+12   handling my estate.    $100 million would have had an effect on the estate, and so he was
+
+13   aware of it, as was Paul, Weiss.
+
+14          Q     Did Mr. Epstein have experience navigating NDAs that caused you to speak
+
+15   with him about this?
+
+16          A     I don't know whether he had any experience on NDAs.          He was not my NDA
+
+17   adviser.
+
+18          Q     And can you list the two other women that you have NDAs with that you
+
+19   mentioned you would speak about?
+
+20          A     Well, one is a woman named                    , and the other is someone I'm
+
+21   happy to talk about, but there's no NDA involved, and that's -- I think her name is still
+
+22   confidential and sealed.   But all three of these women were clients of a firm called
+
+23   Wigdor who disgracefully brought charges that were totally fabricated and bogus against
+
+24   me.
+
+25          Q     What are the terms of your NDA with                    ?
+                                                                                                  43
+
+
+
+1           A     Again, I'm happy to talk about the firm -- or the woman.        This is a woman I
+
+2    never met.
+
+3           Q     What were the terms of the NDA with                      ?
+
+4           A     Again, I'm not sure I'm going to talk about an NDA, but I am going to say I
+
+5    never met her.
+
+6           Mr. Ashworth.      Mr. Black, you stated just a moment ago that you would be
+
+7    willing to talk about the NDAs rela- -- these NDAs related to these cases.      Now you're
+
+8    stating that you --
+
+9           Mr. Black.     I'm sorry, I didn't mean to interrupt you.
+
+10          Mr. Ashworth.      Now you're stating that you are not going to talk about the
+
+11   substance of those NDAs.      I would like some clarity with regards to your position with
+
+12   regards to NDAs, both these specific -- these two as well as any other NDAs that may be
+
+13   relevant to the committee's investigation.
+
+14          Mr. Black.     Yeah.   What I -- I may have misspoke.       What I meant to say is I was
+
+15   willing to talk about these three women and those three cases, not so much the NDAs,
+
+16   which I think on advice of counsel --
+
+17          Ms. Estrich.    Mr. Black is simply not at liberty to talk about confidential terms
+
+18   and agreements where he has -- if he has an agreement that has confidential terms in it.
+
+19          Mr. Ashworth.      It seems bizarre that he could talk about these women and the
+
+20   potential cases against him that, it's at least our understanding from what he's articulated
+
+21   and what you've articulated, that those are specifically related to these NDAs, and so yet
+
+22   he can't talk about these NDAs or the substance of these NDAs, but he can talk about the
+
+23   women.     It certainly indicates and raises questions as to the completeness of his
+
+24   testimony with regards to not only these women but these cases as it relates to the
+
+25   committee's investigation.
+                                                                                                  45
+
+
+
+1           Q       Yes.   In a 2024 interview with Puck.   "Leon Black From the Ashes."
+
+2           Are NDAs very common occurrences among your social circles?
+
+3           A       Do I know of many men who have signed NDAs?        Yes, I do.   And I think
+
+4    that there are many men and women who have had affairs and NDAs were arranged and
+
+5    they were meant to be kept confidential by both sides, the desire of both sides,
+
+6    and -- yeah.
+
+7           Q       How many NDAs are you a party to?
+
+8           Ms. Estrich.     Again, that's a question that if there are any NDAs we can't answer,
+
+9    because the terms of any NDA would include confidentiality as to the very existence of an
+
+10   agreement.      So I have to instruct my client that he can't answer those questions
+
+11   consistent with his obligations.
+
+12          Ms. Brignac.      Noted.
+
+13                   BY MS. BRIGNAC:
+
+14          Q       Are you refusing to answer the question how many NDAs are you a party to?
+
+15          A       On the advice of my counsel, I am not going to answer that question.
+
+16          Q       How many NDAs was Mr. Epstein a party to?
+
+17          A       The only one that I think he was aware of, if there were any others, was
+
+18           , to my knowledge.
+
+19          Q       Mr. Epstein never told you he had an NDA with anyone else?
+
+20          Ms. Estrich.     Let me clarify.   Did you ask the question how many NDAs did Mr.
+
+21   Epstein have or did Mr. Epstein know about Mr. Black's NDAs?
+
+22                   BY MS. BRIGNAC:
+
+23          Q       How many NDAs was Mr. Epstein a party to?
+
+24          A       I have no idea.    How would I know that?
+
+25          Q       If he told you.    If you saw them.
+                                                                                                   46
+
+
+
+1               A      No, he never told me that.     I have no idea.
+
+2               Q      You confirmed that NDAs are very common occurrences among your social
+
+3    circles.       Who has NDAs that you're aware of?
+
+4               A      I'm not here to talk about who has NDAs.
+
+5               Q      Are you refusing to answer the question?
+
+6               A      I'm refusing to answer that question, absolutely.
+
+7               Q      Are you aware of any other NDAs with women who are affiliated with Mr.
+
+8    Epstein?
+
+9               A      No.
+
+10              Mr. Ashworth.      Mr. Black, thank you again for appearing here today.    My name
+
+11   is Daniel Ashworth.        I'm the general counsel for the committee.     I am serving right now
+
+12   two subpoenas to you, one for documents, all NDAs for which you are a party of or which
+
+13   relate to Jeffrey Epstein and Ghislaine Maxwell that you may have or in your possession.
+
+14   The second for a deposition on July 16th.          I am serving these to you now.   We will
+
+15   additionally provide electronic versions to your counsel immediately following this.
+
+16              Ms. Estrich.    We are happy to discuss this with you at the conclusion of this
+
+17   hearing and to deal with --
+
+18              Mr. Cutler.    Why don't we take a break now.       We agreed to come here
+
+19   voluntarily today.        We've had many discussions with you, and that's the terms of our
+
+20   sitting here for this, and so we're going to take a break now.        Okay?
+
+21              Mr. Ashworth.      Understood.      We'll go off the record.
+
+22              [Recess.]
+
+23              Mr. Ashworth.      I understand Mr. Black or his attorneys have a statement they
+
+24   would like to make.
+
+25              Mr. Cutler.    Yes.   Thank you.
+                                                                                                 47
+
+
+
+1           I am deeply disappointed in the lack of professionalism displayed by the
+
+2    committee today.      We engaged for months with the committee's majority staff in an
+
+3    effort to facilitate a fair, voluntary transcribed interview.   Unfortunately, that good faith
+
+4    was met with premeditated political misdirection by the committee which served Mr.
+
+5    Black with subpoenas in an unprecedented manner after less than an hour of questioning
+
+6    and before they even asked a single question about his payments to Epstein.
+
+7           Mr. Black came here voluntarily to assist the committee.        This was nothing more
+
+8    than a planned political stunt.   Mr. Epstein had no involvement with any NDAs, whether
+
+9    they exist or not.    Let me reiterate, the committee did not ask a single question about
+
+10   the legitimate payments to Epstein for professional services on tax and estate matters.
+
+11          I want to be clear, as Mr. Black said in his opening statement, he never abused a
+
+12   woman, he never was with an underage woman, he never engaged in sex trafficking, he
+
+13   never paid Epstein for access to women, he was never blackmailed by Epstein.         Mr.
+
+14   Black had no knowledge of any of Epstein's heinous conduct.
+
+15          Thank you.
+
+16          [Witness and counsel leave the room.]
+
+17          Mr. Ashworth.      For the record, counsel did not engage with the committee or
+
+18   indicate to the committee any -- or provide any indication that Mr. Black would not testify
+
+19   or answer questions related to nondisclosure agreements.
+
+20          Furthermore, for the first time on Monday, counsel for Mr. Black stated to the
+
+21   committee that he may not answer questions related to personal relationships.         During
+
+22   that meeting, committee counsel indicated that there would be no limitations on scope
+
+23   for this interview.   Furthermore, committee counsel has consistently indicated to Mr.
+
+24   Black's counsel that there would be no time or scope limitations on this interview.
+
+25          Majority staff questions is finished.    I understand that the minority would like to
+                                                                                                 48
+
+
+
+1    make a statement.
+
+2                            Thank you.
+
+3                            , senior counsel for Ranking Member Garcia.    I have two
+
+4    statements for the record.
+
+5           First, Ranking Member Garcia, Representative Khanna, and Representative
+
+6    Walkinshaw were all present during the last round but did not have the opportunity to
+
+7    introduce themselves.
+
+8           Second, the minority had serious questions for Mr. Black about his knowledge of
+
+9    and involvement in Jeffrey Epstein's sex trafficking operation.   Specifically, Democrats
+
+10   had questions about the vast amount of money Mr. Black paid Mr. Epstein and about the
+
+11   allegations of sexual abuse against Mr. Black.   Mr. Black has shown himself unwilling to
+
+12   answer the committee's questions voluntarily, and so we strongly support Chairman
+
+13   Comer's subpoenas.
+
+14          Mr. Ashworth.     With that, we will go off the record.
+
+15          [Whereupon, at 12:22 p.m., the interview was adjourned.]
+                                                                                            49
+
+
+
+1                     Certificate of Deponent/Interviewee
+
+2
+
+3
+
+4       I have read the foregoing ____ pages, which contain the correct transcript of the
+
+5    answers made by me to the questions therein recorded.
+
+6
+
+7
+
+8
+
+9                                    _____________________________
+
+10                                           Witness Name
+
+11
+
+12
+
+13                                   _____________________________
+
+14                                                Date
+
+15
+

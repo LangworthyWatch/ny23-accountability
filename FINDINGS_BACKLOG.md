@@ -1840,3 +1840,44 @@ and Sept 28 are not town halls; nothing in October. Website shows no notice; log
 enumeration possible). Tracker updated through Sept 1. **Do not say "stopped"**; say "last one September 1; none posted since."
 Re-check after Nov 3 for an October or November call; if none by mid-November, the monthly claim ("I have held telephone
 [town halls] on a monthly basis," WSKG Apr 2025) becomes checkable against a two-month gap.
+
+## 2026-10-28 — Five official-page posts, Oct 23–27 (EPA Jamestown grant, Rand/CAREERS, Hochul fracking repeat, Workforce Pell)
+
+Triage folder: `research/sources/triage-2026-10-28/` (README has the full record). All five resolved
+to the official office page (RepLangworthy) in a logged-out browser; captions retained verbatim.
+
+**Build: Jamestown EPA brownfields grant ("Proud to deliver $1 MILLION" / "Our $1 million ... investment").**
+Track MISSING CONTEXT, same shape as 2026-10-18 Chemung ARC and the Oct 20 credit-claims roundup.
+Record: City of Jamestown applied (FY2026 MAC competition, deadline Jan 28, 2026); EPA selected it June 24, 2026;
+EPA's fact sheet EPA-560-F-26-050 says the grant "will be funded by the Infrastructure Investment and Jobs Act"
+(H.R. 3684, House Roll 369, Nov 5, 2021; Reed Yea; Langworthy not yet in Congress); Schumer/Gillibrand announced it
+June 24 ("I am proud to deliver this federal investment"); Post-Journal/OBSERVER/WRFA credited the senators and
+the 2021 law; no press release on his office site at selection or after the Oct 22 EPA event (index checked
+through Oct 15; re-check); the posts went up Oct 23–27, the day before and during early voting. Caption wobble:
+"three former industrial properties" vs "assess up to 12 sites" (EPA: up to 6 Phase I + up to 6 Phase II, one
+cleanup). Before publishing: (a) re-check his press index for an Oct 22+ release; (b) check his Interior-Environment
+appropriations votes on the EPA brownfields line, or say nothing about program funding.
+
+**Update, not new entry: Hochul fracking reel (Oct 27).** Repeat of claim 6 (FALSE ATTRIBUTION) in
+2026-10-15-energy-ban-debate-clips. Add a dated update line; transcript retained (Hochul: "He doesn't have a law
+banning it, does he?" / "Tell that to the legislature").
+
+**Skip or roundup-only:** Rand Machine reel (CAREERS Act H.R. 291 still in subcommittee since Feb 14, 2025, 5
+cosponsors; critical-minerals vote claim rated MOSTLY TRUE July 16); Workforce Pell reel (OBBBA Sec. 83002,
+"minimum of 8 weeks, but less than 15 weeks," so "8–14 week" is accurate; concept was bipartisan in the 118th,
+H.R. 6585, 15 R / 10 D cosponsors, reported 37–8).
+
+## 2026-10-28 — Epstein / Oversight: his record since the Jan 14 entry's July 16 cutoff (user asked about "his silence as a member of Oversight")
+
+Folder: `research/sources/epstein-oversight-2026-10/` (README has the record and the fair-reading constraints).
+Triggers: CBS Oct 28 (classified material in the files vs. Blanche's denial), House Judiciary Democrats' staff
+report Oct 26 (53 pp.; Keul account), PunchUp Oct 27 (FBI whistleblower complaint of March 2025, via FOIA).
+New record since July 16: **absent** from the Ruemmler (July 15) and Staley (July 24) interview rosters;
+**not recorded** on the Sept 15, 2026 Oversight vote to report the Leon Black contempt resolution (41-0;
+transcript: "The Clerk. Mr. Langworthy? [No response.]"; six Republicans unrecorded); no Epstein press release
+(index through Oct 15), nothing on X in the visible window (Oct 16-27), nothing at the Oct 6 debate or the
+Sept 1 tele-town hall. Facebook and local-radio interviews unchecked.
+Recommended: add a "Through October 28, 2026" update to 2026-01-14-epstein-files-discharge-petition; a standalone
+DOCUMENTED PATTERN entry only if wanted for the closing week. Constraints: minority staff report = allegations;
+no motive speculation; other members also miss interviews/votes (state the cumulative pattern, not one absence).
+Floor that day: he is recorded on all ten Sept 15 roll calls (4:46-5:27 PM and 9:57-10:32 PM; markup convened 5:12 PM). Wayback saves in `wayback-saves.log`.
