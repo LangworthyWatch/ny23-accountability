@@ -1,0 +1,6 @@
+SOURCE: https://elections.ny.gov/early-voting
+RETAINED: 2026-10-28 via browser get_page_text (curl 403)
+
+Early Voting Days and Times
+For Primary, General, and Special elections, early voters are provided with nine days to vote in person prior to Election Day. Early Voting hours of operation are provided by local County Boards of Elections.
+2026 General Election Early Voting: October 24th through November 1st
