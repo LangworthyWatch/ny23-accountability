@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1498</number>
+    <updateDate>2026-09-08T18:01:48Z</updateDate>
+    <updateDateIncludingText>2026-09-08T18:01:48Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <originChamberCode>H</originChamberCode>
+    <type>HRES</type>
+    <introducedDate>2026-08-03</introducedDate>
+    <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/1498</legislationUrl>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsso00</systemCode>
+        <name>Ethics Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported Original Measure</name>
+            <date>2026-08-03T20:43:00Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 119-756</citation>
+      </committeeReport>
+    </committeeReports>
+    <actions>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>18:10:55</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>18:10:53</actionTime>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 413 - 2 (Roll no. 292). (text: CR H5389)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>292</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll292.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-09-01T22:10:53Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>18:10:53</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 413 - 2 (Roll no. 292). (text: CR H5389)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>292</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll292.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-09-01T22:10:53Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>18:02:07</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H5409-5410)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>15:08:05</actionTime>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res. 1498, the Chair put the question on agreeing to the resolution and by voice vote, announced the ayes had prevailed. Mr. Edwards demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>15:07:29</actionTime>
+        <text>The previous question was ordered pursuant to a previous order of the House.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>14:30:45</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1498.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>14:30:07</actionTime>
+        <text>Consideration initiated pursuant to a previous order. (consideration: CR H5389-5393)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>14:30:05</actionTime>
+        <text>ORDER OF PROCEDURE - Mr. Guest asked unanimous consent that it be in order at any time to consider H. Res. 1498 in the House without intervention of any point of order if called up by the chair of the Committee on Ethics or his designee; that the resolution be considered as read; and that the previous question be considered as ordered on the resolution to adoption without intervening motion or demand for division of the question except for one hour of debate equally divided and controlled by Representative Guest of Mississippi and Representative Edwards of North Carolina, or their respective designees. Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-08-03</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 87.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>H00087</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-08-03</actionDate>
+        <text>The House Committee on Ethics reported an original measure, H. Rept. 119-756, by Mr. Guest.</text>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsso00</systemCode>
+            <name>Ethics Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-08-03</actionDate>
+        <text>The House Committee on Ethics reported an original measure, H. Rept. 119-756, by Mr. Guest.</text>
+        <type>Committee</type>
+        <actionCode>1010</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsso00</systemCode>
+            <name>Ethics Committee</name>
+          </item>
+        </committees>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000591</bioguideId>
+        <fullName>Rep. Guest, Michael [R-MS-3]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Guest</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <district>3</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Government ethics and transparency, public corruption</name>
+          <updateDate>2026-09-08T14:49:32Z</updateDate>
+        </item>
+        <item>
+          <name>House of Representatives</name>
+          <updateDate>2026-09-08T14:49:24Z</updateDate>
+        </item>
+        <item>
+          <name>Members of Congress</name>
+          <updateDate>2026-09-08T14:49:18Z</updateDate>
+        </item>
+        <item>
+          <name>North Carolina</name>
+          <updateDate>2026-09-08T14:49:09Z</updateDate>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Congress</name>
+        <updateDate>2026-09-02T13:50:36Z</updateDate>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>07</versionCode>
+        <actionDate>2026-08-03</actionDate>
+        <actionDesc>Reported to House</actionDesc>
+        <updateDate>2026-09-08T18:01:38Z</updateDate>
+        <text><![CDATA[<p>This resolution censures Representative Chuck Edwards of North Carolina.</p>]]></text>
+      </summary>
+    </summaries>
+    <title>In the matter of allegations relating to Representative Chuck Edwards.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>In the matter of allegations relating to Representative Chuck Edwards.</title>
+        <updateDate>2026-09-03T03:23:19Z</updateDate>
+      </item>
+      <item>
+        <titleType>Official Titles from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>In the matter of allegations relating to Representative Chuck Edwards.</title>
+        <updateDate>2026-09-03T03:23:19Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <titleTypeCode>6</titleTypeCode>
+        <title>In the matter of allegations relating to Representative Chuck Edwards.</title>
+        <updateDate>2026-08-29T08:05:55Z</updateDate>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2026-09-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres1498eh/xml/BILLS-119hres1498eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-08-03T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres1498rh/xml/BILLS-119hres1498rh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2026-09-01</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>18:10:55</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

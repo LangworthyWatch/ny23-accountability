@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1530</number>
+    <updateDate>2026-09-18T19:49:21Z</updateDate>
+    <updateDateIncludingText>2026-09-18T19:49:21Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <originChamberCode>H</originChamberCode>
+    <type>HRES</type>
+    <introducedDate>2026-09-14</introducedDate>
+    <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/1530</legislationUrl>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsru00</systemCode>
+        <name>Rules Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Reported Original Measure</name>
+            <date>2026-09-15T00:46:31Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <committeeReports>
+      <committeeReport>
+        <citation>H. Rept. 119-825</citation>
+      </committeeReport>
+    </committeeReports>
+    <relatedBills>
+      <item>
+        <title>National Fraud Enforcement Division Act of 2026</title>
+        <congress>119</congress>
+        <number>9576</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2026-09-17</actionDate>
+          <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>PROOF Act</title>
+        <congress>119</congress>
+        <number>10326</number>
+        <type>HR</type>
+        <latestAction>
+          <actionDate>2026-09-17</actionDate>
+          <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision".</title>
+        <congress>119</congress>
+        <number>210</number>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2026-09-16</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+      <item>
+        <title>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the "California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision".</title>
+        <congress>119</congress>
+        <number>213</number>
+        <type>HJRES</type>
+        <latestAction>
+          <actionDate>2026-09-17</actionDate>
+          <text>Received in the Senate.</text>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Procedurally related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>17:28:04</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>17:28:02</actionTime>
+        <text>On agreeing to the resolution Agreed to by recorded vote: 214 - 211 (Roll no. 300). (text: CR H5646)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>300</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll300.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-09-15T21:28:02Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>17:28:02</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 214 - 211 (Roll no. 300).</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>300</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll300.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-09-15T21:28:02Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>16:54:23</actionTime>
+        <text>On ordering the previous question Agreed to by the Yeas and Nays: 214 - 208 (Roll no. 299). (consideration: CR H5654-5655)</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>299</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll299.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-09-15T20:54:23Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>16:47:10</actionTime>
+        <text>Considered as unfinished business. (consideration: CR H5654-5656)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>14:17:46</actionTime>
+        <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1530, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>13:32:58</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1530.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-15</actionDate>
+        <actionTime>13:27:53</actionTime>
+        <text>Considered as privileged matter. (consideration: CR H5646-5651)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-14</actionDate>
+        <text>Placed on the House Calendar, Calendar No. 90.</text>
+        <type>Calendars</type>
+        <actionCode>H12420</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <calendarNumber>
+          <calendar>H00090</calendar>
+        </calendarNumber>
+      </item>
+      <item>
+        <actionDate>2026-09-14</actionDate>
+        <actionTime>20:46:32</actionTime>
+        <text>The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.</text>
+        <type>Floor</type>
+        <actionCode>H12700</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-14</actionDate>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 119-825, by Mrs. Fischbach.</text>
+        <type>Committee</type>
+        <actionCode>H12100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-09-14</actionDate>
+        <text>The House Committee on Rules reported an original measure, H. Rept. 119-825, by Mrs. Fischbach.</text>
+        <type>Committee</type>
+        <actionCode>1010</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsru00</systemCode>
+            <name>Rules Committee</name>
+          </item>
+        </committees>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>F000470</bioguideId>
+        <fullName>Rep. Fischbach, Michelle [R-MN-7]</fullName>
+        <firstName>Michelle</firstName>
+        <lastName>Fischbach</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <district>7</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>House of Representatives</name>
+          <updateDate>2026-09-15T13:21:34Z</updateDate>
+        </item>
+        <item>
+          <name>Legislative rules and procedure</name>
+          <updateDate>2026-09-15T13:21:39Z</updateDate>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Congress</name>
+        <updateDate>2026-09-16T14:08:14Z</updateDate>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>07</versionCode>
+        <actionDate>2026-09-14</actionDate>
+        <actionDesc>Reported to House</actionDesc>
+        <updateDate>2026-09-15T08:19:45Z</updateDate>
+        <text><![CDATA[This resolution provides for the consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ''California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ''California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.]]></text>
+      </summary>
+    </summaries>
+    <title>Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ‘‘California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ‘‘California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ‘‘California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ‘‘California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.</title>
+        <updateDate>2026-09-17T05:23:28Z</updateDate>
+      </item>
+      <item>
+        <titleType>Official Title from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ‘‘California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ‘‘California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.</title>
+        <updateDate>2026-09-17T05:23:26Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <titleTypeCode>6</titleTypeCode>
+        <title>Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ''California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ''California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.</title>
+        <updateDate>2026-09-15T08:05:52Z</updateDate>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2026-09-15T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres1530eh/xml/BILLS-119hres1530eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Reported in House</type>
+        <date>2026-09-14T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres1530rh/xml/BILLS-119hres1530rh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2026-09-15</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>17:28:04</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1504</number>
+    <updateDate>2026-10-06T08:05:40Z</updateDate>
+    <updateDateIncludingText>2026-10-06T08:05:40Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <originChamberCode>H</originChamberCode>
+    <type>HRES</type>
+    <introducedDate>2026-09-01</introducedDate>
+    <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/1504</legislationUrl>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsso00</systemCode>
+        <name>Ethics Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Unknown</name>
+            <date>2026-06-10T20:04:41Z</date>
+          </item>
+          <item>
+            <name>Unknown</name>
+            <date>2026-06-10T20:03:35Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <actions>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>15:22:32</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>15:22:24</actionTime>
+        <text>On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5393)</text>
+        <type>Floor</type>
+        <actionCode>H37300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>15:22:24</actionTime>
+        <text>Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H5393)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>15:10:18</actionTime>
+        <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 1504.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>15:10:16</actionTime>
+        <text>Considered under suspension of the rules. (consideration: CR H5393-5394)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>15:10:15</actionTime>
+        <text>Mr. Guest moved to suspend the rules and agree to the resolution.</text>
+        <type>Floor</type>
+        <actionCode>H30300</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-06-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsso00</systemCode>
+            <name>Ethics Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>The committee favorably reported H.Rept. 119-693.</text>
+        <type>Committee</type>
+      </item>
+      <item>
+        <actionDate>2026-06-10</actionDate>
+        <committees>
+          <item>
+            <systemCode>hsso00</systemCode>
+            <name>Ethics Committee</name>
+          </item>
+        </committees>
+        <sourceSystem>
+          <code>1</code>
+          <name>House committee actions</name>
+        </sourceSystem>
+        <text>The committee report referred to in this resolution is H.Rept. 119-693.</text>
+        <type>Committee</type>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>G000591</bioguideId>
+        <fullName>Rep. Guest, Michael [R-MS-3]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Guest</lastName>
+        <party>R</party>
+        <state>MS</state>
+        <district>3</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <policyArea>
+      <name>Congress</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Congressional oversight</name>
+          <updateDate>2026-09-10T17:32:06Z</updateDate>
+        </item>
+        <item>
+          <name>Criminal investigation, prosecution, interrogation</name>
+          <updateDate>2026-09-10T17:32:17Z</updateDate>
+        </item>
+        <item>
+          <name>Evidence and witnesses</name>
+          <updateDate>2026-09-10T17:32:23Z</updateDate>
+        </item>
+        <item>
+          <name>House of Representatives</name>
+          <updateDate>2026-09-10T17:32:29Z</updateDate>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Congress</name>
+        <updateDate>2026-09-03T17:32:53Z</updateDate>
+      </policyArea>
+    </subjects>
+    <title>Recommending that the House of Representatives find Michael Joseph in contempt of Congress for refusal to comply with subpoenas duly issued by the Committee on Ethics.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Recommending that the House of Representatives find Michael Joseph in contempt of Congress for refusal to comply with subpoenas duly issued by the Committee on Ethics.</title>
+        <updateDate>2026-09-26T08:06:26Z</updateDate>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <titleTypeCode>6</titleTypeCode>
+        <title>Recommending that the House of Representatives find Michael Joseph in contempt of Congress for refusal to comply with subpoenas duly issued by the Committee on Ethics.</title>
+        <updateDate>2026-09-26T08:06:26Z</updateDate>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2026-09-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres1504eh/xml/BILLS-119hres1504eh.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2026-09-01</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>15:22:32</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

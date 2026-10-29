@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<billStatus>
+  <version>3.0.0</version>
+  <bill>
+    <number>1490</number>
+    <updateDate>2026-09-22T15:21:06Z</updateDate>
+    <updateDateIncludingText>2026-09-22T15:21:06Z</updateDateIncludingText>
+    <originChamber>House</originChamber>
+    <originChamberCode>H</originChamberCode>
+    <type>HRES</type>
+    <introducedDate>2026-08-27</introducedDate>
+    <congress>119</congress>
+    <legislationUrl>https://www.congress.gov/bill/119th-congress/house-resolution/1490</legislationUrl>
+    <cdata/>
+    <committees>
+      <item>
+        <systemCode>hsba00</systemCode>
+        <name>Financial Services Committee</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-08-27T13:00:30Z</date>
+          </item>
+        </activities>
+      </item>
+      <item>
+        <systemCode>hsha00</systemCode>
+        <name>Committee on House Administration</name>
+        <chamber>House</chamber>
+        <type>Standing</type>
+        <activities>
+          <item>
+            <name>Referred To</name>
+            <date>2026-08-27T13:00:25Z</date>
+          </item>
+        </activities>
+      </item>
+    </committees>
+    <relatedBills>
+      <item>
+        <title>Providing for consideration of the bill (H.R. 1501) to amend the FAST Act to include certain mineral production activities as a covered project, and for other purposes; providing for consideration of the bill (H.R. 9436) to amend the Consolidated Appropriations Act, 2023 to extend the time period for which certain regulations concerning the North Atlantic right whale are effective; providing for consideration of the resolution (H. Res. 1490) providing for the condemnation and denouncement of socialism in all its forms, and for other purposes; providing for consideration of the bill (H.R. 4795) to amend the Higher Education Act of 1965 to prohibit an institution that participates in a nonexpressive commercial boycott of Israel from being eligible for certain funds under that Act, to require an institution that participates in certain programs under that Act to certify that students are not unreasonably obstructed from participating in academic programs in Israel, and for other purposes; and relating to consideration of motions to suspend the rules.</title>
+        <congress>119</congress>
+        <number>1499</number>
+        <type>HRES</type>
+        <latestAction>
+          <actionDate>2026-09-01</actionDate>
+          <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+          <actionTime>14:21:15</actionTime>
+        </latestAction>
+        <relationshipDetails>
+          <item>
+            <type>Related bill</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+          <item>
+            <type>Procedurally related</type>
+            <identifiedBy>House</identifiedBy>
+          </item>
+        </relationshipDetails>
+      </item>
+    </relatedBills>
+    <actions>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>17:48:38</actionTime>
+        <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+        <type>Floor</type>
+        <actionCode>H38310</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>17:48:36</actionTime>
+        <text>On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 192, 2 Present (Roll no. 289). (text: CR H5401-5402)</text>
+        <type>Floor</type>
+        <actionCode>H37100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>289</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll289.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-09-01T21:48:36Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>17:48:36</actionTime>
+        <text>Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 192, 2 Present (Roll no. 289). (text: CR H5401-5402)</text>
+        <type>Floor</type>
+        <actionCode>8000</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+        <recordedVotes>
+          <recordedVote>
+            <rollNumber>289</rollNumber>
+            <url>https://clerk.house.gov/evs/2026/roll289.xml</url>
+            <chamber>House</chamber>
+            <congress>119</congress>
+            <date>2026-09-01T21:48:36Z</date>
+            <sessionNumber>2</sessionNumber>
+          </recordedVote>
+        </recordedVotes>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>17:10:30</actionTime>
+        <text>The previous question was ordered pursuant to the rule on the resolution and the preamble.</text>
+        <type>Floor</type>
+        <actionCode>H35000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>16:19:46</actionTime>
+        <text>DEBATE - The House proceeded with one hour of debate on H. Res. 1490.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>16:19:18</actionTime>
+        <text>Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.</text>
+        <type>Floor</type>
+        <actionCode>H8D000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-09-01</actionDate>
+        <actionTime>16:19:13</actionTime>
+        <text>Considered under the provisions of rule H. Res. 1499. (consideration: CR H5401-5408)</text>
+        <type>Floor</type>
+        <actionCode>H30000</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-08-31</actionDate>
+        <actionTime>19:51:08</actionTime>
+        <text>Rules Committee Resolution H. Res. 1499 Reported to House. Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.</text>
+        <type>Floor</type>
+        <actionCode>H1L210</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsba00</systemCode>
+            <name>Financial Services Committee</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Referred to the Committee on House Administration, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+        <committees>
+          <item>
+            <systemCode>hsha00</systemCode>
+            <name>Committee on House Administration</name>
+          </item>
+        </committees>
+      </item>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>H11100</actionCode>
+        <sourceSystem>
+          <code>2</code>
+          <name>House floor actions</name>
+        </sourceSystem>
+      </item>
+      <item>
+        <actionDate>2026-08-27</actionDate>
+        <text>Submitted in House</text>
+        <type>IntroReferral</type>
+        <actionCode>1025</actionCode>
+        <sourceSystem>
+          <code>9</code>
+          <name>Library of Congress</name>
+        </sourceSystem>
+      </item>
+    </actions>
+    <sponsors>
+      <item>
+        <bioguideId>C001137</bioguideId>
+        <fullName>Rep. Crank, Jeff [R-CO-5]</fullName>
+        <firstName>Jeff</firstName>
+        <lastName>Crank</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <district>5</district>
+        <isByRequest>N</isByRequest>
+      </item>
+    </sponsors>
+    <cosponsors>
+      <item>
+        <bioguideId>V000139</bioguideId>
+        <fullName>Rep. Van Epps, Matt [R-TN-7]</fullName>
+        <firstName>Matt</firstName>
+        <lastName>Van Epps</lastName>
+        <party>R</party>
+        <state>TN</state>
+        <district>7</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>G000593</bioguideId>
+        <fullName>Rep. Gimenez, Carlos A. [R-FL-28]</fullName>
+        <firstName>Carlos</firstName>
+        <lastName>Gimenez</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <middleName>A.</middleName>
+        <district>28</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000317</bioguideId>
+        <fullName>Rep. Malliotakis, Nicole [R-NY-11]</fullName>
+        <firstName>Nicole</firstName>
+        <lastName>Malliotakis</lastName>
+        <party>R</party>
+        <state>NY</state>
+        <district>11</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001218</bioguideId>
+        <fullName>Rep. McCormick, Richard [R-GA-7]</fullName>
+        <firstName>Richard</firstName>
+        <lastName>McCormick</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <district>7</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000399</bioguideId>
+        <fullName>Rep. Kiggans, Jennifer A. [R-VA-2]</fullName>
+        <firstName>Jennifer</firstName>
+        <lastName>Kiggans</lastName>
+        <party>R</party>
+        <state>VA</state>
+        <middleName>A.</middleName>
+        <district>2</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001212</bioguideId>
+        <fullName>Rep. Stauber, Pete [R-MN-8]</fullName>
+        <firstName>Pete</firstName>
+        <lastName>Stauber</lastName>
+        <party>R</party>
+        <state>MN</state>
+        <district>8</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000798</bioguideId>
+        <fullName>Rep. Walberg, Tim [R-MI-5]</fullName>
+        <firstName>Tim</firstName>
+        <lastName>Walberg</lastName>
+        <party>R</party>
+        <state>MI</state>
+        <district>5</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000814</bioguideId>
+        <fullName>Rep. Weber, Randy K. Sr. [R-TX-14]</fullName>
+        <firstName>Randy</firstName>
+        <lastName>Weber</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <middleName>K.</middleName>
+        <district>14</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001325</bioguideId>
+        <fullName>Rep. Biggs, Sheri [R-SC-3]</fullName>
+        <firstName>Sheri</firstName>
+        <lastName>Biggs</lastName>
+        <party>R</party>
+        <state>SC</state>
+        <district>3</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>A000372</bioguideId>
+        <fullName>Rep. Allen, Rick W. [R-GA-12]</fullName>
+        <firstName>Rick</firstName>
+        <lastName>Allen</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <middleName>W.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001103</bioguideId>
+        <fullName>Rep. Carter, Earl L. "Buddy" [R-GA-1]</fullName>
+        <firstName>Earl</firstName>
+        <lastName>Carter</lastName>
+        <party>R</party>
+        <state>GA</state>
+        <middleName>L. "Buddy"</middleName>
+        <district>1</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001257</bioguideId>
+        <fullName>Rep. Bilirakis, Gus M. [R-FL-12]</fullName>
+        <firstName>Gus</firstName>
+        <lastName>Bilirakis</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <middleName>M.</middleName>
+        <district>12</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>N000193</bioguideId>
+        <fullName>Rep. Nunn, Zachary [R-IA-3]</fullName>
+        <firstName>Zachary</firstName>
+        <lastName>Nunn</lastName>
+        <party>R</party>
+        <state>IA</state>
+        <district>3</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>S001214</bioguideId>
+        <fullName>Rep. Steube, W. Gregory [R-FL-17]</fullName>
+        <firstName>W.</firstName>
+        <lastName>Steube</lastName>
+        <party>R</party>
+        <state>FL</state>
+        <middleName>Gregory</middleName>
+        <district>17</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001282</bioguideId>
+        <fullName>Rep. Barr, Andy [R-KY-6]</fullName>
+        <firstName>Andy</firstName>
+        <lastName>Barr</lastName>
+        <party>R</party>
+        <state>KY</state>
+        <district>6</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M000871</bioguideId>
+        <fullName>Rep. Mann, Tracey [R-KS-1]</fullName>
+        <firstName>Tracey</firstName>
+        <lastName>Mann</lastName>
+        <party>R</party>
+        <state>KS</state>
+        <district>1</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>C001132</bioguideId>
+        <fullName>Rep. Crane, Elijah [R-AZ-2]</fullName>
+        <firstName>Elijah</firstName>
+        <lastName>Crane</lastName>
+        <party>R</party>
+        <state>AZ</state>
+        <district>2</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>V000135</bioguideId>
+        <fullName>Rep. Van Orden, Derrick [R-WI-3]</fullName>
+        <firstName>Derrick</firstName>
+        <lastName>Van Orden</lastName>
+        <party>R</party>
+        <state>WI</state>
+        <district>3</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>R000619</bioguideId>
+        <fullName>Rep. Rulli, Michael A. [R-OH-6]</fullName>
+        <firstName>Michael</firstName>
+        <lastName>Rulli</lastName>
+        <party>R</party>
+        <state>OH</state>
+        <middleName>A.</middleName>
+        <district>6</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>M001204</bioguideId>
+        <fullName>Rep. Meuser, Daniel [R-PA-9]</fullName>
+        <firstName>Daniel</firstName>
+        <lastName>Meuser</lastName>
+        <party>R</party>
+        <state>PA</state>
+        <district>9</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B000825</bioguideId>
+        <fullName>Rep. Boebert, Lauren [R-CO-4]</fullName>
+        <firstName>Lauren</firstName>
+        <lastName>Boebert</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <district>4</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>W000816</bioguideId>
+        <fullName>Rep. Williams, Roger [R-TX-25]</fullName>
+        <firstName>Roger</firstName>
+        <lastName>Williams</lastName>
+        <party>R</party>
+        <state>TX</state>
+        <district>25</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>B001317</bioguideId>
+        <fullName>Rep. Brecheen, Josh [R-OK-2]</fullName>
+        <firstName>Josh</firstName>
+        <lastName>Brecheen</lastName>
+        <party>R</party>
+        <state>OK</state>
+        <district>2</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>E000300</bioguideId>
+        <fullName>Rep. Evans, Gabe [R-CO-8]</fullName>
+        <firstName>Gabe</firstName>
+        <lastName>Evans</lastName>
+        <party>R</party>
+        <state>CO</state>
+        <district>8</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+      <item>
+        <bioguideId>K000398</bioguideId>
+        <fullName>Rep. Kean, Thomas H. [R-NJ-7]</fullName>
+        <firstName>Thomas</firstName>
+        <lastName>Kean</lastName>
+        <party>R</party>
+        <state>NJ</state>
+        <middleName>H.</middleName>
+        <district>7</district>
+        <sponsorshipDate>2026-08-31</sponsorshipDate>
+        <isOriginalCosponsor>False</isOriginalCosponsor>
+      </item>
+    </cosponsors>
+    <policyArea>
+      <name>Government Operations and Politics</name>
+    </policyArea>
+    <subjects>
+      <legislativeSubjects>
+        <item>
+          <name>Citizenship and naturalization</name>
+          <updateDate>2026-09-08T17:41:33Z</updateDate>
+        </item>
+        <item>
+          <name>Constitution and constitutional amendments</name>
+          <updateDate>2026-09-08T17:41:27Z</updateDate>
+        </item>
+        <item>
+          <name>Elections, voting, political campaign regulation</name>
+          <updateDate>2026-09-08T17:41:20Z</updateDate>
+        </item>
+        <item>
+          <name>Political movements and philosophies</name>
+          <updateDate>2026-09-08T17:41:09Z</updateDate>
+        </item>
+        <item>
+          <name>Political parties and affiliation</name>
+          <updateDate>2026-09-08T17:41:16Z</updateDate>
+        </item>
+        <item>
+          <name>Voting rights</name>
+          <updateDate>2026-09-08T17:41:38Z</updateDate>
+        </item>
+      </legislativeSubjects>
+      <policyArea>
+        <name>Government Operations and Politics</name>
+        <updateDate>2026-09-22T15:21:06Z</updateDate>
+      </policyArea>
+    </subjects>
+    <summaries>
+      <summary>
+        <versionCode>00</versionCode>
+        <actionDate>2026-08-27</actionDate>
+        <actionDesc>Introduced in House</actionDesc>
+        <updateDate>2026-08-29T01:22:53Z</updateDate>
+        <text><![CDATA[<p>This resolution states that the House of Representatives</p><ul><li>condemns and denounces socialism in all its forms, including the Democratic Socialists of America, and opposes the implementation of socialist policies in the United States;</li><li>reaffirms its support for free, fair, and secure elections and calls for enactment of the SAVE America Act;</li><li>reiterates that American elections are for American citizens only; and</li><li>recommits itself to upholding the U.S. Constitution.</li></ul>]]></text>
+      </summary>
+    </summaries>
+    <title>Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes.</title>
+    <titles>
+      <item>
+        <titleType>Display Title</titleType>
+        <titleTypeCode>45</titleTypeCode>
+        <title>Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes.</title>
+        <updateDate>2026-09-03T02:53:20Z</updateDate>
+      </item>
+      <item>
+        <titleType>Official Title from EH (Engrossed in House) bill text</titleType>
+        <titleTypeCode>259</titleTypeCode>
+        <title>Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes.</title>
+        <updateDate>2026-09-03T02:53:19Z</updateDate>
+        <chamberCode>H</chamberCode>
+        <chamberName>House</chamberName>
+        <billTextVersionName>Engrossed in House</billTextVersionName>
+        <billTextVersionCode>EH</billTextVersionCode>
+      </item>
+      <item>
+        <titleType>Official Title as Introduced</titleType>
+        <titleTypeCode>6</titleTypeCode>
+        <title>Providing for the condemnation and denouncement of socialism in all its forms, and for other purposes.</title>
+        <updateDate>2026-08-28T08:48:41Z</updateDate>
+        <billTextVersionName>Introduced in House</billTextVersionName>
+        <billTextVersionCode>IH</billTextVersionCode>
+      </item>
+    </titles>
+    <textVersions>
+      <item>
+        <type>Engrossed in House</type>
+        <date>2026-09-01T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres1490eh/xml/BILLS-119hres1490eh.xml</url>
+          </item>
+        </formats>
+      </item>
+      <item>
+        <type>Introduced in House</type>
+        <date>2026-08-27T04:00:00Z</date>
+        <formats>
+          <item>
+            <url>https://www.govinfo.gov/content/pkg/BILLS-119hres1490ih/xml/BILLS-119hres1490ih.xml</url>
+          </item>
+        </formats>
+      </item>
+    </textVersions>
+    <latestAction>
+      <actionDate>2026-09-01</actionDate>
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+      <actionTime>17:48:38</actionTime>
+    </latestAction>
+  </bill>
+  <dublinCore xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:format>text/xml</dc:format>
+    <dc:language>EN</dc:language>
+    <dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+    <dc:contributor>Congressional Research Service, Library of Congress</dc:contributor>
+    <dc:description>This file contains bill summaries and statuses for federal legislation. A bill summary describes the most significant provisions of a piece of legislation and details the effects the legislative text may have on current law and federal programs. Bill summaries are authored by the Congressional Research Service (CRS) of the Library of Congress. As stated in Public Law 91-510 (2 USC 166 (d)(6)), one of the duties of CRS is "to prepare summaries and digests of bills and resolutions of a public general nature introduced in the Senate or House of Representatives". For more information, refer to the User Guide that accompanies this file.</dc:description>
+  </dublinCore>
+</billStatus>

@@ -1881,3 +1881,8 @@ Recommended: add a "Through October 28, 2026" update to 2026-01-14-epstein-files
 DOCUMENTED PATTERN entry only if wanted for the closing week. Constraints: minority staff report = allegations;
 no motive speculation; other members also miss interviews/votes (state the cumulative pattern, not one absence).
 Floor that day: he is recorded on all ten Sept 15 roll calls (4:46-5:27 PM and 9:57-10:32 PM; markup convened 5:12 PM). Wayback saves in `wayback-saves.log`.
+
+## 2026-10-29: Disability record compiled (prompted by Oct 28 ICYMI post on the Reeves Act rally)
+- **He cosponsored H.R. 9401 (Latonya Reeves Freedom Act) on Oct 22, 2026**, four months after introduction, two days before early voting, five days before the CDR rally that thanked him. Also H.R. 2540 (SSI Savings Penalty Elimination) on Oct 1, 2026. Still not on H.R. 2598 (IDEA Full Funding; Lawler/Garbarino/LaLota are), H.R. 6617 (restraint/seclusion), H.R. 10232 (block OSERS transfer). Verified via govinfo BILLSTATUS `<cosponsors><item>`.
+- No statement located on the June 18 OLC opinion, the Sept 23 Texas v. Kennedy vacatur of the 504 integration rules (the thing H.R. 9401 answers), the SSI PAH rescission (RIN 0960-AI94; no NPRM as of today), or the June 16 ED-to-HHS special-ed transfer. Scope in README.
+- Entry candidate: Oct 28 ICYMI post, MISSING CONTEXT. Sources and fairness points in `research/sources/disability-record-2026-10-29/README.md`.
