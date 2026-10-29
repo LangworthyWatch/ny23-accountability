@@ -169,6 +169,15 @@ with a statement titled "This Is A Devastating Day for Disabled
 Americans." This site has documented that meeting and the vote
 [here](/fact-checks/2026-05-18-aapd-medicaid-disability-contradiction/).
 
+Providers in the district were saying so before the law's provisions
+took effect. Suburban Adult Services, Inc., headquartered in Elma in the
+district's Erie County portion, serves nearly 2,000 people with
+intellectual and developmental disabilities across the state. Its
+president, Jeff Paterson, told Spectrum News in August 2025 that
+inflation was already stretching the agency's budget, that "it might mean
+that you can't go out and do as many things in the community," and that
+"on top of inflation, cuts to SNAP and Medicaid are also an issue."
+
 The Reeves Act would guarantee a right to receive long-term services in
 the community. H.R. 1 cuts the money that pays for them. A reader of the
 post would not know he voted for the second before signing the first.
@@ -285,6 +294,8 @@ strong support. The record shows recent support.
 * House Roll Call 190, July 3, 2025, H.R. 1, 218-214 (Langworthy: Aye): https://clerk.house.gov/evs/2025/roll190.xml (archived: https://web.archive.org/web/20261029160423/https://clerk.house.gov/evs/2025/roll190.xml)
 * Congressional Budget Office, Medicaid provisions of H.R. 1 ($840 billion): https://www.cbo.gov/publication/61510
 * National Health Law Program, "Impact of OBBBA on People With Disabilities," webinar slides, October 23, 2025: https://healthlaw.org/wp-content/uploads/2025/11/OBBBA-Impact-on-PWD-Webinar-10-28-25-CLEAN-1.pdf (PDF retained)
+* Spectrum News, "Inflation stretching N.Y. disability service agencies thin," Brianne Roesser, August 21, 2025: https://spectrumlocalnews.com/nys/central-ny/news/2025/08/21/inflation-stretches-disability-service-agencies-thin (archived: https://web.archive.org/web/20261029162843/https://spectrumlocalnews.com/nys/central-ny/news/2025/08/21/inflation-stretches-disability-service-agencies-thin)
+* Suburban Adult Services, Inc., headquarters 960 W. Maple Ct., Elma, NY 14059: https://www.sasinc.org/ (text retained; ZIP 14059 is in NY-23)
 * H.R. 2540, SSI Savings Penalty Elimination Act, cosponsors (Langworthy entry dated 2026-10-01): https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2540.xml (archived: https://web.archive.org/web/20261029104546/https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2540.xml)
 * H.R. 2598, IDEA Full Funding Act, cosponsors (175; Langworthy not listed): https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2598.xml (archived: https://web.archive.org/web/20261029160417/https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2598.xml)
 * H.R. 6617, Keeping All Students Safe Act, and H.R. 10232 (Mannion/Scott/Fitzpatrick), cosponsors (Langworthy not listed): https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr6617.xml and https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr10232.xml (XML retained)
@@ -311,7 +322,7 @@ strong support. The record shows recent support.
 House's official bill-status records, the House Clerk, the Congressional
 Budget Office, the Federal Register and regulatory agenda, a federal court
 order as reported by a national provider association, and local and
-national news coverage. It makes no allegation of unlawful conduct and
+national news coverage, and a local provider's public remarks. It makes no allegation of unlawful conduct and
 does not speculate about why the cosponsorship was entered on October 22.
 The cosponsorship, the SSI bill, the 2023 letter and the other items in
 "The fair reading" are credited because the record supports them. The
