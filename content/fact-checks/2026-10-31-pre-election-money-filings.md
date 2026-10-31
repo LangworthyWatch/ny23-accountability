@@ -9,7 +9,7 @@ source_url: "https://docquery.fec.gov/cgi-bin/forms/C00817932/"
 archived_url: "https://web.archive.org/web/20261031200321/https://docquery.fec.gov/dcdev/posted/2035999.fec"
 archive_note: "Every figure is parsed from the campaigns' own electronic filings, downloaded as raw .fec files from FEC docquery and retained with the parser output at research/sources/fec-2026-10-31/ (README). Itemized totals were checked against each report's summary line and match. The FEC's transaction search had not yet indexed the October filings on October 31, so the raw files are the source. Wayback captures of the filings are listed below where playback was verified."
 verdict: "DOCUMENTED PATTERN"
-publication_note: "Published October 31, 2026. This entry reports what the two campaigns' final pre-election filings show. It does not allege that any contribution influenced any act, and campaign finance records cannot show that. Every payment and contribution described here is lawful and publicly disclosed; the entry's point is what the disclosures contain, side by side. No comment request was sent to either campaign before publication; any response will be published here in full."
+publication_note: "Published October 31, 2026. This entry reports what Rep. Langworthy's campaign's final pre-election filings show. It does not allege that any contribution influenced any act, and campaign finance records cannot show that. Every payment and contribution described here is lawful and publicly disclosed; the entry's point is what the disclosures contain. No comment request was sent to the campaign before publication; any response will be published here in full."
 tags: ["campaign-finance", "fec", "pre-general", "48-hour-notices", "pacs", "lobbyists", "aipac", "nassau-county", "documented-pattern", "2026-election"]
 counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler", "steuben", "tioga"]
 ---
@@ -19,7 +19,7 @@ counties: ["allegany", "cattaraugus", "chautauqua", "chemung", "erie", "schuyler
 The last full picture of a campaign's money before an election is the
 pre-general report, which covers October 1 through 14 and was due
 October 22. After that, any contribution of $1,000 or more must be
-disclosed within 48 hours. Both NY-23 campaigns have now filed theirs.
+disclosed within 48 hours. Rep. Langworthy's campaign has now filed both.
 Together they show who paid for the final stretch, where the money came
 from, and where it went.
 
@@ -34,28 +34,27 @@ AIPAC's political action committee.
 
 ---
 
-## The two reports, side by side
+## The pre-general report in numbers
 
-Pre-general reports, October 1 through 14, 2026:
+Langworthy for Congress, October 1 through 14, 2026:
 
-| | Langworthy for Congress | Aaron Gies for Congress |
-|---|---|---|
-| Raised | $53,220 | $94,066 |
-| Spent | $597,785 | $270,790 |
-| Cash on hand, October 14 | $1,994,177 | $54,077 |
-| From individuals | $26,220 | $85,316 |
-| From PACs and committees | $26,000 | $8,750 |
-| Cycle contributions through Oct. 14 | $2,301,824 | $706,396 |
-| PAC share of cycle contributions | 53.8% | 3.4% |
+| | |
+|---|---|
+| Raised | $53,220 |
+| Spent | $597,785 |
+| Cash on hand, October 14 | $1,994,177 |
+| From individuals | $26,220 |
+| From PACs and committees | $26,000 |
+| Cycle contributions through Oct. 14 | $2,301,824 |
+| PAC share of cycle contributions | 53.8% |
 
-Gies out-raised him for the first time in any reporting period of the
-cycle. Langworthy ended the period with 37 times as much cash. His cash
-on hand fell from $2,563,742 on September 30 to $1,994,177 on October 14,
-the first time this cycle the balance went down.
+It was the smallest fundraising period of his cycle; every quarterly
+report since January 2025 showed between $296,000 and $427,000 in
+receipts. His cash on hand fell from $2,563,742 on September 30 to
+$1,994,177 on October 14, the first time this cycle the balance went down.
 
-**In plain language:** the challenger raised more in the first two weeks
-of October. The incumbent spent eleven times what he raised and still
-had two million dollars left.
+**In plain language:** in the first two weeks of October the campaign
+spent eleven times what it raised and still had two million dollars left.
 
 ---
 
@@ -74,8 +73,7 @@ six contributions: $3,500 from a Williamsville homemaker (first recorded
 to her husband, then reattributed to her), $1,500 from a Williamsville
 retiree, $1,000 from an Ellicottville business owner, $500 from Silver
 Creek, $250 from Waverly and $100 from Williamsville. That is 26.7 percent
-of itemized individual money. Gies's figure for the same period was 87.4
-percent, from 135 contributions.
+of itemized individual money.
 
 **PACs and committees: $26,000.** $5,000 each from the American Institute
 of CPAs, SpaceX and UPS; $2,500 each from BASF and the Barona Band of
@@ -113,9 +111,6 @@ the tour. Both are facts in the public record, nineteen days apart.
 **$10,000 to Capelianis Consulting** for finance consulting, and $6,082 to
 D&D Printing of Buffalo.
 
-Gies's spending in the same period went to mailers ($137,987 to the
-Parkside Group), advertising ($87,500 to the Balduzzi Group) and staff.
-
 ---
 
 ## The 48-hour notices: $79,500 in two weeks
@@ -145,10 +140,6 @@ Mehlman Consulting. The two largest out-of-state gifts, $3,500 from
 Birmingham, Alabama, and $1,000 from Naples, Florida, list occupation and
 employer as "information requested."
 
-Gies's 48-hour notices total $20,910 after removing one notice that
-refiled an earlier one, including $5,000 from the American Federation of
-Teachers and $3,000 from a PAC called Allegany County Matters.
-
 ---
 
 ## The cycle, through October 14
@@ -174,12 +165,11 @@ Everything above is legal, disclosed, and in most respects ordinary for
 a House incumbent.
 
 Earmarking through a PAC is how AIPAC's members give to candidates; the
-money is the donors' own, and each donor chose him. Gies's filings show
-the same mechanism on the other side: 95 of his itemized contributions
-were processed through ActBlue, and $152,913 of Langworthy's individual
-money this cycle came through WinRed. The pre-general period is two
-weeks; the AIPAC share of his individual money for the whole cycle is
-about 6 percent.
+money is the donors' own, and each donor chose him. Conduit giving is
+routine on both sides of the aisle, and $152,913 of his own individual
+money this cycle came through WinRed the same way. The pre-general period
+is two weeks; the AIPAC share of his individual money for the whole cycle
+is about 6 percent.
 
 A $551,000 television buy in October is what a two-million-dollar
 campaign is for. Polling is routine. Transfers to the NRCC and to other
@@ -189,9 +179,9 @@ and the entry does not know why Nassau County's committee received
 $25,000 from a Western New York campaign; the filing does not say, and no
 inference is drawn.
 
-A 37-to-1 cash advantage is the ordinary condition of an incumbent facing
-a first-time challenger. And a challenger out-raising an incumbent for
-two weeks in October, from small donors, is also ordinary.
+A two-million-dollar balance in the last two weeks is the ordinary
+condition of a House incumbent, and a slow fundraising fortnight while
+the money is being spent is ordinary too.
 
 What the filings document is the pattern this site recorded on October
 16, continued to the end: more than half the money from PACs, a small
@@ -220,8 +210,7 @@ quarter-million-dollar line that leads to Long Island.
 * Langworthy for Congress (C00817932), pre-general report, FEC file 2035999, filed October 22, 2026, covering October 1-14: https://docquery.fec.gov/dcdev/posted/2035999.fec (archived: https://web.archive.org/web/20261031200321/https://docquery.fec.gov/dcdev/posted/2035999.fec); filings index: https://docquery.fec.gov/cgi-bin/forms/C00817932/
 * Langworthy for Congress, 48-hour notices, FEC files 2028285, 2029171, 2034981, 2040605, 2041130, 2041550, 2042927, 2044078, 2044669 (October 16-30, 2026), e.g. https://docquery.fec.gov/dcdev/posted/2029171.fec (archived: https://web.archive.org/web/20261031200448/https://docquery.fec.gov/dcdev/posted/2029171.fec) and https://docquery.fec.gov/dcdev/posted/2044078.fec (archived: https://web.archive.org/web/20261031200549/https://docquery.fec.gov/dcdev/posted/2044078.fec); all nine retained
 * Langworthy for Congress, 2025-26 quarterly, pre-primary and year-end reports (files 1885807, 1901038, 1919900, 1937298, 1961860, 1982209, 1990369, 2020557), for cycle party transfers and WinRed and AIPAC earmark totals; retained at research/sources/fec-2026-q3/cycle-2026/
-* Aaron Gies for Congress (C00910125), pre-general report, FEC file 2037600, filed October 22, 2026: https://docquery.fec.gov/dcdev/posted/2037600.fec (archived: https://web.archive.org/web/20261031200326/https://docquery.fec.gov/dcdev/posted/2037600.fec); 48-hour notices, files 2033428, 2037644, 2042312
-* OpenFEC API, committee filings lists and cycle totals for C00817932 and C00910125 (retained as filings.json, totals.json, gies-filings.json, gies-totals.json)
+* OpenFEC API, committee filings list and cycle totals for C00817932 (retained as filings.json, totals.json)
 * U.S. Census Bureau, 2020 ZCTA to 119th Congressional District relationship file, New York (tab20_cd11920_zcta520_st36.txt), used to classify donor ZIP codes
 * FingerLakes1.com, "Langworthy, Blakeman plan five Southern Tier campaign stops Wednesday," October 27, 2026 ("Blakeman, the Nassau County executive"): https://fingerlakes1.com/2026/10/27/langworthy-blakeman-plan-five-southern-tier-campaign-stops-wednesday (archived: https://web.archive.org/web/20261031200424/https://www.fingerlakes1.com/2026/10/27/langworthy-blakeman-plan-five-southern-tier-campaign-stops-wednesday/)
 * New York State Board of Elections, "Early Voting": "2026 General Election Early Voting: October 24th through November 1st": https://elections.ny.gov/early-voting (text retained)
@@ -238,7 +227,7 @@ quarter-million-dollar line that leads to Long Island.
 ---
 
 **Note:** This entry documents publicly available information from the
-two campaigns' own electronic filings with the Federal Election
+campaign's own electronic filings with the Federal Election
 Commission, parsed directly from the raw files, and from local news
 coverage of a public campaign event. All figures are as filed and may be
 amended. Donor ZIP codes are matched to the district using a Census
