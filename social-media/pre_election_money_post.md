@@ -1,4 +1,4 @@
-# DRAFT Oct 31, 2026 v2 (pre-election money; entry 2026-10-31-pre-election-money-filings, DOCUMENTED PATTERN)
+# POSTED Oct 31, 2026 (v2) (pre-election money; entry 2026-10-31-pre-election-money-filings, DOCUMENTED PATTERN)
 # Card: pre_election_money_card.png (create_pre_election_money_card.py)
 
 In the two weeks before early voting, 13 cents of every dollar his campaign raised came from the district. Half came from PACs. A third came through AIPAC's PAC, from donors in Westchester and Manhattan.
