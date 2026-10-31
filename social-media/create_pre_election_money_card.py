@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Pre-election money filings, entry 2026-10-31-pre-election-money-filings (DOCUMENTED PATTERN). v2: composition frame.
+"""Pre-election money filings, entry 2026-10-31-pre-election-money-filings (DOCUMENTED PATTERN). v3: composition frame; v3 corrects spent total (622,785, line 22) and drops the candidate-transfer figure (most of it was Circle the Wagons PAC).
 Every figure is parsed from Langworthy for Congress's own FEC filings (pre-general 2035999; 48-hour notices Oct 16-30).
 Composition of $53,220.25 raised Oct 1-14: PACs 26,000 (48.9%); AIPAC-earmarked individuals 16,600 (31.2%);
 district-ZIP individuals 6,850 (12.9%); everyone else 3,770.25 (7.1%: other NY individuals 1,500, RJC/WinRed-earmarked 750,
@@ -58,7 +58,7 @@ for i, t in enumerate(["His home county's committee, Erie, got $11,500 in two ye
                        "",
                        "Also: a $551,000 TV buy, his first of the cycle,",
                        "and a $22,900 poll two days before early voting.",
-                       "Spent $597,785. Cash on hand: $1,994,177."]):
+                       "Spent $622,785. Cash on hand: $1,994,177."]):
     if t: c.text(rx + col_w / 2, top + 204 + i * 30, t, size=13, bold=(i == 5), fill=DARK, anchor="mm")
 y = top + col_h + 14
 
@@ -66,7 +66,7 @@ strip_h = 170
 c.panel(44, y, c.w - 44, y + strip_h, fill=WHITE, outline=BORDER)
 c.text(c.w / 2, y + 32, "THE REST OF THE RECORD", size=14, bold=True, fill=NAVY, anchor="mm")
 c.text(c.w / 2, y + 66, "Oct 15-29, 48-hour notices: $79,500 more. $42,000 from PACs and firms, $5,500 from three lobbyists, $6,000 from three district donors.", size=12.5, fill=DARK, anchor="mm")
-c.text(c.w / 2, y + 96, "Whole cycle: $2.30 million, 53.8% from PACs, at most 17 cents per dollar from the district. $267,000 sent to the NRCC and 33 other campaigns.", size=12.5, fill=DARK, anchor="mm")
+c.text(c.w / 2, y + 96, "Whole cycle: $2.30 million, 53.8% from PACs, at most 17 cents per dollar from the district. $125,000 sent on to the NRCC.", size=12.5, fill=DARK, anchor="mm")
 c.text(c.w / 2, y + 130, "Through AIPAC's PAC this cycle: 36 donors, $42,400, none in the district, 4.3% of his individual money. The PAC itself: $10,000, the maximum.", size=12.5, bold=True, fill=DARK, anchor="mm")
 y += strip_h + 14
 

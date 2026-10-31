@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "OVER_RATE_LIMIT",
+    "message": "You have exceeded your rate limit of 40 calls per hour for the DEMO_KEY, 1000 calls per hour for a personal key, or 120 calls per minute for an upgraded key. You can either try again later, sign up for a personal key at https://api.data.gov/signup/, or email apiinfo@fec.gov to upgrade your key."
+  }
+}
