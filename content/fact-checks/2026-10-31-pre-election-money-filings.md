@@ -168,8 +168,9 @@ Earmarking through a PAC is how AIPAC's members give to candidates; the
 money is the donors' own, and each donor chose him. Conduit giving is
 routine on both sides of the aisle, and $152,913 of his own individual
 money this cycle came through WinRed the same way. The pre-general period
-is two weeks; the AIPAC share of his individual money for the whole cycle
-is about 6 percent.
+is two weeks; across the whole cycle, 36 donors gave $42,400 earmarked
+through AIPAC's PAC, 4.3 percent of his itemized individual money, and
+the PAC itself gave $10,000 directly, the legal maximum.
 
 A $551,000 television buy in October is what a two-million-dollar
 campaign is for. Polling is routine. Transfers to the NRCC and to other
