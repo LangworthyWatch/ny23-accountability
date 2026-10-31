@@ -41,7 +41,7 @@ Langworthy for Congress, October 1 through 14, 2026:
 | | |
 |---|---|
 | Raised | $53,220 |
-| Spent | $597,785 |
+| Spent | $622,785 |
 | Cash on hand, October 14 | $1,994,177 |
 | From individuals | $26,220 |
 | From PACs and committees | $26,000 |
@@ -54,7 +54,7 @@ receipts. His cash on hand fell from $2,563,742 on September 30 to
 $1,994,177 on October 14, the first time this cycle the balance went down.
 
 **In plain language:** in the first two weeks of October the campaign
-spent eleven times what it raised and still had two million dollars left.
+spent nearly twelve times what it raised and still had two million dollars left.
 
 ---
 
@@ -89,7 +89,7 @@ Association.
 
 **$551,000 to Strategic Media Placement Inc. of Delaware, Ohio, on
 October 9, for "media buy."** This is the campaign's only television
-payment of the cycle through October 14. It is 92 percent of the period's
+payment of the cycle through October 14. It is 88 percent of the period's
 spending.
 
 **$25,000 to the Nassau County Republican Committee of Westbury, Long
@@ -151,7 +151,8 @@ employer as "information requested."
 | From individuals | $1,055,235 (45.8%) |
 | Of which itemized | $977,879 |
 | Transfers to the NRCC | $125,000 |
-| Contributions to other federal candidates' committees | $142,000, to 33 committees |
+| Contributions from the campaign to other candidates' committees | $14,500, to 8 committees |
+| Contributions from his leadership PAC, Circle the Wagons, to candidates | $127,500, to 40 committees |
 
 The PAC share was 54.6 percent on September 30 and is 53.8 percent now.
 Through September 30, this site found at most 17 cents of each dollar
@@ -174,8 +175,8 @@ the PAC itself gave $10,000 directly, the legal maximum.
 
 A $551,000 television buy in October is what a two-million-dollar
 campaign is for. Polling is routine. Transfers to the NRCC and to other
-candidates are what members in safe seats are expected to do, and he has
-done it generously. Paying a county party committee is lawful and common,
+candidates, from the campaign and from his leadership PAC, are what members
+in safe seats are expected to do, and he has done it generously. Paying a county party committee is lawful and common,
 and the entry does not know why Nassau County's committee received
 $25,000 from a Western New York campaign; the filing does not say, and no
 inference is drawn.
@@ -238,5 +239,7 @@ The entry makes no allegation of unlawful conduct, draws no connection
 between any contribution or payment and any official act or campaign
 event, and credits in "The fair reading" everything the record supports
 on the campaign's side.
+
+**Correction, October 31, 2026 (same day):** an earlier version of this entry gave the period's spending as $597,785, which is the report's operating-expenditure line; total disbursements, including the $25,000 Nassau County payment, were $622,785, and the television buy is 88 percent of that, not 92. The earlier version also attributed "$142,000 to 33 other candidates' committees" to the campaign; $127,500 of that came from his leadership PAC, Circle the Wagons PAC, whose filings sit in the same research folder. The campaign itself gave $14,500 to eight committees. The "raised" figure, cash on hand, the donor figures and the Nassau and NRCC figures are unchanged.
 
 *Last updated: October 31, 2026*
