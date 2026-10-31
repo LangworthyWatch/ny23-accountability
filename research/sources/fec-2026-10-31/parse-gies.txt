@@ -1,0 +1,39 @@
+###### gies-
+=== 48-hour notices (Oct 15+): 16 rows, total $36,320.00; individuals $19,320.00 (11); committees $17,000.00 (5)
+20261019  1,000.00 IND Dorsey Chris                               Arlington VA         out of state      Quidient                 | Attorney
+20261019  1,000.00 IND Dorsey Chris                               Arlington VA         out of state      Quidient                 | Attorney
+20261019  1,000.00 IND Hayden Carl                                Elmira NY            NY-23 entirely                             | 
+20261019  1,000.00 IND Hayden Carl                                Elmira NY            NY-23 entirely                             | 
+20261019  3,000.00 COM Allegany County Matters                    Scio NY              NY-23 entirely                             | 
+20261019  3,000.00 COM Allegany County Matters                    Scio NY              NY-23 entirely                             | 
+20261019  3,500.00 IND Walton Sherry                              Wellsville NY        NY-23 entirely    Not Employed             | Not Employed
+20261019  3,500.00 IND Walton Sherry                              Wellsville NY        NY-23 entirely    Not Employed             | Not Employed
+20261020  1,910.00 IND Boland Susan                               Corning NY           NY-23 entirely    Not Employed             | Not Employed
+20261020  1,910.00 IND Boland Susan                               Corning NY           NY-23 entirely    Not Employed             | Not Employed
+20261020  5,000.00 ORG AMERICAN FEDERATION OF TEACHERS, AFL-CIO C Washington DC        out of state                               | 
+20261020  5,000.00 ORG AMERICAN FEDERATION OF TEACHERS, AFL-CIO C Washington DC        out of state                               | 
+20261021  1,000.00 COM Corning City Democratic Committee          Corning NY           NY-23 entirely                             | 
+20261021  2,000.00 IND Del Campo Jo Ellen                         Alfred NY            NY-23 entirely    John A. Del Campo DDS    | Bookkeeper
+20261025  1,000.00 IND Fredrickson David                          Alfred NY            NY-23 entirely    Not Employed             | Not Employed
+20261025  1,500.00 IND Chawla Vishal                              Great Falls VA       out of state      Self                     | Cyber Security Pro
+48-hr individual money by location: {'out of state': 3500.0, 'NY-23 entirely': 15820.0}
+48-hr self-described lobbyist/gov affairs: 0 []
+
+=== report gies-2037600.fec
+summary: period receipts 94066.32 disb 270790.07 COH end 54077.18 | itemized indiv 63657.00 unitemized 21659.32 total indiv 85316.32 party 0.00 PAC 8750.00 cand 0.00
+cycle (cols 58+): receipts 94066.32 disb  [58]94066.32 [59]324867.25 [60]270790.07 [61]54077.18 [62]706396.31 [63]0.00 [64]706396.31 [65]589473.18 [66]0.00 [67]589473.18 [68]470666.68 [69]211979.63 [70]682646.31 [71]0.00 [72]23750.00 [73]0.00 [74]706396.31 [75]6000.00 [76]0.00 [77]0.00 [78]0.00 [79]0.00
+SA11AI individual rows 147 sum 63657.0 | conduit/org rows 95 sum 16834.0 Counter({'Actblue': 95})
+earmarked-through-conduit individual rows 0 sum 0 Counter()
+individual money by location: {'NY-23 entirely': (54028.0, '84.9%', 121), 'NY-23 split': (1626.0, '2.6%', 14), 'out of state': (4725.0, '7.4%', 6), 'NY other district': (3278.0, '5.1%', 6)}
+--- SA11C PACs: [('Allegany County Matters', 3000.0), ('Boosting Future Leaders Onward', 3000.0), ('Corning City Democratic Committee', 1000.0), ('Chaffee Sardinia Democratic Club', 750.0), ('Chautauqua County Democratic Committee', 500.0), ('Democratic Committee Of Cattaraugus Coun', 500.0)]
+--- SB non-memo sum 270617.41 top payees:
+   137,986.72  The Parkside Group | Mailers
+    87,500.00  The Balduzzi Group, Inc | Advertising
+     8,000.00  Leonard Robert | Salary
+     7,200.00  Meta | Advertising
+     5,022.00  The Parkside Group | Door Hangers
+     5,000.00  1833 Group | Staff Salaries
+     4,488.00  Rudolph Katie | Staff Salaries
+     3,667.05  Mycorrhiza Digital | Advertising
+     3,300.00  Tierney Jessica | Staff Salaries
+     2,000.00  Grassroots Analytics | Texting

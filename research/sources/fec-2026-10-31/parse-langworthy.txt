@@ -1,0 +1,77 @@
+###### langworthy
+=== 48-hour notices (Oct 15+): 45 rows, total $79,500.00; individuals $37,500.00 (24); committees $42,000.00 (21)
+20261015  2,500.00 IND OLSON THOMAS T.                            LAKEWOOD NY          NY-23 entirely    RETIRED                  | RETIRED
+20261016  1,000.00 IND TUBER MICHELLE R.                          HAMBURG NY           NY-23 entirely    A. TITAN INSTRUMENTS     | OFFICE MANAGER
+20261016  1,000.00 PAC AMERICAN PROPERTY CASUALTY INSURANCE ASSOC CHICAGO IL           out of state                               | 
+20261016  1,000.00 PAC ASSOCIATION FOR ACCESSIBLE MEDICINES PAC   WASHINGTON DC        out of state                               | 
+20261016  1,000.00 PAC STATE FARM MUTUAL AUTOMOBILE INSURANCE COM BLOOMINGTON IL       out of state                               | 
+20261016  2,000.00 IND QIAN ZHIMING                               NEW YORK NY          NY other district CATHAY HOME INC          | CEO
+20261016  2,500.00 PAC AMERICAN CEMENT ASSOCIATION (CEMENT PAC)   WASHINGTON DC        out of state                               | 
+20261016  3,500.00 IND EISEN JOSH                                 HARRISON NY          NY other district MORNINGSIDE              | CONSULTANT
+20261016  3,500.00 PAC SENECA NATION OF INDIANS                   SALAMANCA NY         NY-23 entirely                             | 
+20261016  5,000.00 PAC CONSERVATIVE OPPORTUNITY LEADERSHIP AND EN RESTON VA            out of state                               | 
+20261016  5,000.00 PAC LPL FINANCIAL LLC PAC (LPL PAC)            SAN DIEGO CA         out of state                               | 
+20261020  1,000.00 PAC NATIONAL SEAFOOD ASSOCIATION (FISHPAC)     MCLEAN VA            out of state                               | 
+20261022  1,000.00 IND BERNSTEIN SIMON                            NEW ROCHELLE NY      NY other district ALVAREZ & MARSAL         | CONSULTANT
+20261022  1,000.00 IND EDELMAN DANIEL                             NEW ROCHELLE NY      NY other district FLEXPOINT FORD           | FINANCE
+20261022  1,000.00 IND LEWY GLEN                                  MAMARONECK NY        NY other district RETIRED                  | RETIRED
+20261022  1,000.00 IND OSBAND DAVID                               NEW ROCHELLE NY      NY other district SWORD BIO, INC.          | HEAD OF SALES
+20261022  1,000.00 IND ROBERTS ALEXANDER                          TARRYTOWN NY         NY other district SELF-EMPLOYED            | CONSULTANT
+20261022  1,000.00 IND SEVI MICHAEL                               CHAPPAQUA NY         NY other district ASCOT GROUP              | GENERAL COUNSEL
+20261022  1,000.00 IND TESSER ALEXANDRA                           SCARSDALE NY         NY other district CRF                      | VP
+20261022  1,000.00 IND WECHSLER ERNEST                            SCARSDALE NY         NY other district HAF KRAMER               | LAWYER
+20261022  1,500.00 IND ALCOTT MARK                                NEW ROCHELLE NY      NY other district ALCOTT ADR SERVICES      | ARBITRATOR AND LIT
+20261022  2,500.00 IND CARSON DWAYNE                              WASHINGTON DC        out of state      CARSON CONSULTING        | CONSULTANT
+20261023  1,000.00 IND BILLITIER RON                              ROCHESTER NY         NY other district BILLITIER ELECTRIC       | OWNER
+20261024  1,000.00 IND LEVA PATRICK                               ROCHESTER NY         NY other district E. G. SACKETT CO         | MANAGEMENT
+20261026  1,000.00 CCM MIKE RANZENHOFER FOR STATE SENATE          WILLIAMSVILLE NY     NY-23 split                                | 
+20261026  1,000.00 IND IMBURGIA FRANK S.                          ROCHESTER NY         NY other district TEAM FSI                 | PRESIDENT
+20261026  1,000.00 IND PICKERING ELISE                            ALEXANDRIA VA        out of state      MEHLMAN CONSULTING       | LOBBYIST
+20261026  1,000.00 ORG FLORIO, PERRUCCI, STEINHARDT, CAPPELLI & T EASTON PA            out of state                               | 
+20261026  1,000.00 PAC PHARMAVITE PAC                             WEST HILLS CA        out of state                               | 
+20261026  1,000.00 PAC UNITED EGG ASSOCIATION EGGPAC              JOHNS CREEK GA       out of state                               | 
+20261026  1,500.00 IND NICHOLS MATTHEW                            CHARLESTON SC        out of state      SELF-EMPLOYED            | LOBBYIST
+20261026  2,500.00 PAC HEIDELBERG MATERIALS US, INC. PAC          IRVING TX            out of state                               | 
+20261026  3,000.00 IND REDL DAVID                                 MCLEAN VA            out of state      SALT POINT STRATEGIES    | LOBBYIST
+20261026  4,000.00 PAC AMERICAN CHEMISTRY COUNCIL PAC             WASHINGTON DC        out of state                               | 
+20261028  1,000.00 IND WRIGHT CLAUDE H.                           NAPLES FL            out of state      INFORMATION REQUESTED    | INFORMATION REQUES
+20261028  1,000.00 PAC AMERICAN SOYBEAN ASSOCIATION PAC (SOYPAC)  SAINT LOUIS MO       out of state                               | 
+20261028  1,000.00 PAC ASSOCIATED GENERAL CONTRACTORS OF AMERICA  ARLINGTON VA         out of state                               | 
+20261028  1,500.00 ORG PHILLIPS LYTLE LLP                         BUFFALO NY           NY other district                          | 
+20261028  2,000.00 PAC INDEPENDENT COMMUNITY BANKERS OF AMERICA P WASHINGTON DC        out of state                               | 
+20261028  2,500.00 IND CRANE JIM                                  ELMA NY              NY-23 split       RETIRED                  | RETIRED
+20261028  2,500.00 PAC MORGAN STANLEY PAC                         WASHINGTON DC        out of state                               | 
+20261028  3,500.00 IND MCWANE C. PHILLIP                          BIRMINGHAM AL        out of state      INFORMATION REQUESTED    | INFORMATION REQUES
+20261029  1,000.00 IND STEVENSON ROBERT L.                        BUFFALO NY           NY other district RETIRED                  | RETIRED
+20261029  1,000.00 PAC GLAXOSMITHKLINE LLC PAC (GSK PAC)          WASHINGTON DC        out of state                               | 
+20261029  2,500.00 PAC REPUBLICAN ITALIAN AMERICAN COMMITTEE      ALEXANDRIA VA        out of state                               | 
+48-hr individual money by location: {'NY-23 entirely': 3500.0, 'NY other district': 19000.0, 'out of state': 12500.0, 'NY-23 split': 2500.0}
+48-hr self-described lobbyist/gov affairs: 5500.0 [('PICKERING ELISE', 'MEHLMAN CONSULTING', 'LOBBYIST'), ('NICHOLS MATTHEW', 'SELF-EMPLOYED', 'LOBBYIST'), ('REDL DAVID', 'SALT POINT STRATEGIES', 'LOBBYIST')]
+
+=== report 2035999.fec
+summary: period receipts 53220.25 disb 597785.48 COH end 1994176.70 | itemized indiv 25700.00 unitemized 520.25 total indiv 26220.25 party 1000.00 PAC 26000.00 cand 0.00
+cycle (cols 58+): receipts 53220.25 disb  [58]53220.25 [59]2616962.18 [60]622785.48 [61]1994176.70 [62]2301824.09 [63]28595.90 [64]2273228.19 [65]1656191.49 [66]7105.99 [67]1649085.50 [68]977878.96 [69]77356.48 [70]1055235.44 [71]7562.00 [72]1239026.65 [73]0.00 [74]2301824.09 [75]341539.04 [76]0.00 [77]0.00 [78]0.00 [79]7105.99
+SA11AI individual rows 29 sum 25700.0 | conduit/org rows 21 sum 18350.0 Counter({'AMERICAN ISRAEL PUBLIC AFFAIRS': 18, 'WINRED': 1, 'KREINHEDER PROPERTIES, LLC': 1, 'REPUBLICAN JEWISH COALITION-PA': 1})
+earmarked-through-conduit individual rows 20 sum 17350.0 Counter({'AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE': 18, 'WINRED': 1, 'REPUBLICAN JEWISH COALITION-PAC (RJC-PAC': 1})
+individual money by location: {'NY-23 entirely': (1750.0, '6.8%', 3), 'NY other district': (18850.0, '73.3%', 21), 'NY-23 split': (5100.0, '19.8%', 5)}
+--- NY-23 individual donors this period:
+  20261009 3,500.00 CHERRY MATTHEW               WILLIAMSVILLE    GLENDALE DEVELOPMENT | REAL ESTATE
+  20261009 3,500.00 CHERRY DANIELLE              WILLIAMSVILLE    HOMEMAKER | HOMEMAKER
+  20261005 1,500.00 ROSENTHAL MARC               WILLIAMSVILLE    RETIRED | RETIRED
+  20261007 1,000.00 KREINHEDER PETER             ELLICOTTVILLE    S&W COMPANY LLC | MANAGING  MEMBER
+  20261014   500.00 FALCONE JOSEPH               SILVER CREEK, NY RETIRED | RETIRED
+  20261007   250.00 ARONSTAM ANDREW              WAVERLY          RETIRED | RETIRED
+  20261007   100.00 HERMAN RAYMOND               WILLIAMSVILLE    SELF-EMPLOYED | LAWYER
+  20261009 -3,500.00 CHERRY MATTHEW               WILLIAMSVILLE    GLENDALE DEVELOPMENT | REAL ESTATE
+--- SA11C PACs: [('AMERICAN INSTITUTE OF CERTIFIED PUBLIC A', 5000.0), ('SPACE EXPLORATION TECHNOLOGIES CORP. PAC', 5000.0), ('UNITED PARCEL SERVICE INC. PAC (UPSPAC)', 5000.0), ('BARONA BAND OF MISSION INDIANS', 2500.0), ('BASF CORPORATION EMPLOYEES PAC', 2500.0), ('ABBVIE PAC', 1000.0), ('AMERICAN SUPPLY ASSOCIATION PAC', 1000.0), ('LYONDELL CHEMICAL COMPANY PAC', 1000.0), ("MEAT INSTITUTE PAC ('MEAT PAC')", 1000.0), ('NRA VICTORY FUND, INC.', 1000.0), ('VERTEX PHARMACEUTICALS INCORPORATED PAC ', 1000.0)]
+--- SB non-memo sum 622663.15 top payees:
+   551,000.00  STRATEGIC MEDIA PLACEMENT INC. | MEDIA BUY
+    25,000.00  NASSAU COUNTY REPUBLICAN COMMITTEE | POLITICAL CONTRIBUTION
+    22,900.00  IFA HOLDINGS, LLC | SURVEY RESEARCH
+    10,000.00  CAPELIANIS CONSULTING | FINANCE CONSULTING
+     6,081.66  D&D PRINTING | PRINTING/POSTAGE
+     4,064.23  BROGHAMER COMPLIANCE | COMPLIANCE CONSULTING
+     1,500.00  CASILIO COMMUNICATIONS LLC | RENT
+       830.00  DEMOCRACY ENGINE | CREDIT CARD MERCHANT FEE
+       357.13  ANEDOT INC | CREDIT CARD MERCHANT FEE
+       290.81  PAPI GRANDE'S MEXICAN RESTAURANT AND CANTINA | FOOD/BEVERAGE
