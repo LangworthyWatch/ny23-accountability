@@ -1,0 +1,7 @@
+fec.gov Browse Receipts (processed data), read in browser 2026-10-31:
+URL: https://www.fec.gov/data/receipts/?data_type=processed&committee_id=C00075820&contributor_city=RICHMOND&contributor_state=KY&two_year_transaction_period=2026&min_date=03/01/2026&max_date=04/30/2026
+"Viewing 14 filtered results": BARGER, TERESA (4 small gifts, Mar 25-Apr 16); on 03/19/2026:
+WOODLAND OAKS OPERATIONS LLC $39,000.00; KLONDIKE NURSING AND REHABILITATION CENTER $14,000.00;
+ZUPNICK, JOEL $9,750; LEIFER, JOEL $9,750; FARKOVITS, JOSHUA $9,750; BERKOWITZ, CHESKEL $9,750 (= Woodland Oaks attribution);
+ZOBERMAN, SARAH $3,500; RUBENSTEIN, DAVID $3,500; GRINSPAN, ISAAC $3,500; BLOOM, DAVID $3,500 (= Klondike attribution).
+Direct NRCC total from the two LLCs: $53,000 (partner lines are the attribution memos).
