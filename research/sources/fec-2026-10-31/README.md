@@ -53,3 +53,26 @@ PAC share of cycle contributions: 53.8% vs 3.4%. In-district share of itemized i
 period: Langworthy 26.7% (entirely+split), Gies 87.5%.
 
 Files: filings.json, totals.json, gies-*.json, *.fec, parse-langworthy.txt, parse-gies.txt
+
+## AIPAC look-ahead (compiled 2026-10-31, after entry #180)
+Earmarked individual contributions marked "EARMARKED (NON-DIRECTED) THROUGH AMERICAN ISRAEL PUBLIC
+AFFAIRS COMMITTEE PAC", Langworthy for Congress, 2025-26 cycle through Oct 14 (raw filings, deduped
+by date+amount+name): **36 rows, $42,400, 36 distinct donors, 0 in NY-23 ZIPs** (all NYC/Westchester/
+Long Island area "NY other"). Two clusters: Oct 21-Nov 5, 2025 ($25,000) and Oct 5-11, 2026 ($16,600);
+$500 Jun 2025, $300 Jun 2026. Largest: Doft $3,000, Mannis $3,000, Crane J. $2,500, Schwartz $2,500.
+AIPAC PAC direct (SA11C): $5,000 Nov 3, 2025 + $5,000 Sept 30, 2026 = $10,000 (legal max).
+Share: $42,400 / $977,879 itemized individual = 4.3% of individual; $52,400 / $2,301,824 = 2.3% of all
+contributions. NOTE: entry #180 originally said "about 6 percent"; corrected 2026-10-31 (commit dfd49db).
+Prior cycles (OpenFEC schedule_a, contributor_name=AIPAC memo rows; aipac-memo-20xx.json):
+2021-22 earmarked $9,500 (5 rows) + direct $10,000; 2023-24 earmarked $36,118 (30 rows) + direct $10,000;
+2025-26 (OpenFEC, not yet indexing October) $25,800 + $5,000. Three-cycle AIPAC-connected total ≈ $118,000.
+Independent expenditures on his race (schedule_e, candidate H2NY23228): none in 2022, 2024 or 2026
+(ie-20xx.json; United Democracy Project has not spent here).
+Israel-related floor votes (Clerk XML via browser fetch; 2026 file retained as israel-votes/roll-2026-243.xml):
+- Apr 20, 2024, Roll 152, H.R. 8034 Israel Security Supplemental: Yea (366-58)
+- May 1, 2024, Roll 172, H.R. 6090 Antisemitism Awareness Act: NOT VOTING (320-91)
+- Jul 18, 2025, Roll 207, Greene amendment to H.R. 4016 cutting $500M Israel missile defense: No (6-422)
+- Jul 15, 2026, Roll 243, Massie amendment to H.R. 8595 cutting $3.3B Israel FMF: No (104-314-10)
+Reading: his Israel votes match 200+ House Republicans and most Democrats; the money does not explain
+anything the party label does not. Any AIPAC-focused post should be framed as "where the money comes
+from" (geography, timing, share) and must not imply a vote was bought.
