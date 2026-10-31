@@ -50,3 +50,11 @@ Corrections made to entry #180 while checking (same day): period "spent" is $622
 $597,785.48 (operating expenditures line); candidate transfers were $14,500/8 from the campaign and
 $127,500/40 from Circle the Wagons PAC, not "$142,000 to 33" from the campaign. Card re-rendered (v3);
 the posted v2 card carried both wrong lines; the posted caption did not.
+
+## NRCC direct receipts from Richmond, KY (fec.gov processed-data browse, read in the browser 2026-10-31)
+March 19, 2026: Woodland Oaks Operations LLC $39,000; Klondike Nursing and Rehabilitation Center $14,000;
+partner attributions Zupnick, Leifer, Farkovits, Berkowitz $9,750 each (= Woodland Oaks) and Zoberman,
+Rubenstein, Isaac Grinspan, Bloom $3,500 each (= Klondike), i.e. $53,000 direct plus the JFC's $51,984
+transfer = about $105,000 to the NRCC, matching the Prospect's "$106,000." Richmond, KY total we can see
+in Langworthy-connected committees plus the NRCC that day: $150,800 + $53,000 = $203,800; the Prospect's
+$329,000 presumably adds direct receipts by Guthrie's and Comer's committees (not pulled).
