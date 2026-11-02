@@ -309,6 +309,38 @@ gap with those Pennsylvania utilities is about 6 to 25 percent, not the 37 perce
 the statewide averages suggest. The post offers no evidence that the
 remaining gap is caused by her policies.
 
+
+### Update, November 1, 2026: the official page reposts the claim
+
+On October 27 the official office page (Congressman Nick Langworthy)
+posted a 13-second Politico clip of Gov. Hochul with this caption:
+
+> "Governor Hochul gets called out for fracking being done under a Democrat
+> governor just across the border in PA while trying to pass the buck &
+> blame the legislature for keeping the Southern Tier trapped out of jobs,
+> economic opportunity & affordable energy. From the fracking ban to her
+> natural gas and propane ban on new construction, she is responsible for
+> our energy crisis."
+
+{{< figure src="/images/fact-checks/2026-10-15-energy-ban-clips-hochul-fracking-reel-oct27.png" alt="Facebook post from the Congressman Nick Langworthy official page with the caption quoted in this entry, over a Politico video still of Governor Hochul seated across a table from an interviewer in a diner, with the word LAWS captioned on screen" caption="The October 27, 2026 post on the official page." >}}
+
+The clip, transcribed from the audio (research/sources/triage-2026-10-28/videos/):
+
+> Interviewer: "It works for Josh Shapiro across the state a lot, right?"
+> Hochul: "He doesn't have a law banning it, does he?"
+> Interviewer: "He can change the laws."
+> Hochul: "Tell that to the legislature, right, to work with."
+
+What the caption calls passing the buck is a description of the statute.
+Pennsylvania has no law banning high-volume fracturing; New York's ban is
+in Environmental Conservation Law section 23-0501(3), enacted by the
+Legislature in April 2020, sixteen months before Gov. Hochul took office.
+A governor cannot repeal it alone. The caption's "she is responsible"
+repeats the claim rated FALSE ATTRIBUTION above. The post was made on the
+taxpayer-funded office page, not the campaign page. The record of what
+fracking did across the border is in the
+[November 1 explainer](/fact-checks/2026-11-01-fracking-explainer-pennsylvania-record/).
+
 ---
 
 ## Claim 7: "The law of the land in NY ... now they want to take it nationwide"
@@ -407,4 +439,4 @@ Administration, the Department of Environmental Conservation, Erie County
 and the WETM debate video. It makes no claim about motive. Corrections
 with sources are welcome at langworthywatch@gmail.com.
 
-*Last updated: October 15, 2026*
+*Last updated: November 1, 2026*

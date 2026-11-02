@@ -344,6 +344,13 @@ Kathy Hochul holds our state back, I'll keep fighting to move us forward."
 
 {{< figure src="/images/fact-checks/2026-11-01-fracking-explainer-nypost-endorsement-post.png" alt="Facebook post from the Nick Langworthy campaign page sharing a New York Post graphic headlined Vote for prosperity and security, The Post's endorsements for NY's House races, with the paragraph about Langworthy quoted in this entry beside a photo of him holding a microphone" caption="The campaign-page post, captured November 1, 2026." >}}
 
+Four days earlier, on October 27, the official office page had posted a
+Politico clip of Gov. Hochul saying of Pennsylvania's governor, "He
+doesn't have a law banning it, does he?" and "Tell that to the
+legislature," captioned as her "trying to pass the buck & blame the
+legislature." That post is documented, with the transcript, in
+[the October 15 entry's update](/fact-checks/2026-10-15-energy-ban-debate-clips/).
+
 Two points from the record above. First, the ban is not Gov. Hochul's;
 it was imposed by the state's health and environmental agencies in 2014
 and 2015 and written into law in April 2020, before she took office.
