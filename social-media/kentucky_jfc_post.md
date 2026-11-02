@@ -1,4 +1,4 @@
-# DRAFT Nov 2, 2026 v2 (Kentucky nursing-home JFC; entry 2026-10-31-kentucky-nursing-home-joint-fundraising-committee, DOCUMENTED PATTERN)
+# POSTED Nov 2, 2026 (v2) (Kentucky nursing-home JFC; entry 2026-10-31-kentucky-nursing-home-joint-fundraising-committee, DOCUMENTED PATTERN)
 # Card: kentucky_jfc_card.png (create_kentucky_jfc_card.py)
 
 A fundraising committee he formed with the two chairmen who oversee nursing homes existed for eleven weeks. It raised money on one day. Every dollar came from six nursing-home companies at one Kentucky address. Then it closed.
