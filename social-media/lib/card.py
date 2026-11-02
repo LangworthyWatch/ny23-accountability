@@ -149,20 +149,6 @@ class Card:
             shutil.copy(path, dst); print(f"Desktop copy: {dst}")
         return path
 
-
-if __name__ == "__main__":
-    c = Card()
-    c.brand_bar()
-    y = c.badge(64, "SMOKE TEST")
-    y = c.title(y, "Card Toolkit Works")
-    y = c.subtitle(y, "Shared primitives: badge, title, panel, bullets, kicker.")
-    y = c.divider(y)
-    c.panel(44, y, c.w-44, y+150)
-    c.bullets(70, y+30, ["Consistent house style", "No em dashes (auto-checked)", "Supersample-ready"], RED)
-    c.kicker(c.h-190, "Every card starts from here now.", "Less code, no style drift.")
-    c.footer_bar()
-    c.save("/tmp/card_toolkit_smoketest.png")
-
     def hbars(self, x_label, x_zero, y, rows, scale, row_h=46, bar_h=26, size=14, extra_cols=None):
         """Horizontal bars leftward (negative) or rightward (positive) from x_zero.
         rows: [(label, value, color, [extra values...])]; scale: px per unit; extra_cols: [(x, bold)] for extra values.
@@ -182,3 +168,16 @@ if __name__ == "__main__":
                 self.text(cx, ry, v, size=size - 1, bold=bold, fill=DARK, anchor="mm")
         self.rect(x_zero, y - row_h / 2 + 6, x_zero + 1, y + (len(rows) - 1) * row_h + row_h / 2 - 6, fill=BORDER, outline=None)
         return y + len(rows) * row_h
+
+if __name__ == "__main__":
+    c = Card()
+    c.brand_bar()
+    y = c.badge(64, "SMOKE TEST")
+    y = c.title(y, "Card Toolkit Works")
+    y = c.subtitle(y, "Shared primitives: badge, title, panel, bullets, kicker.")
+    y = c.divider(y)
+    c.panel(44, y, c.w-44, y+150)
+    c.bullets(70, y+30, ["Consistent house style", "No em dashes (auto-checked)", "Supersample-ready"], RED)
+    c.kicker(c.h-190, "Every card starts from here now.", "Less code, no style drift.")
+    c.footer_bar()
+    c.save("/tmp/card_toolkit_smoketest.png")
