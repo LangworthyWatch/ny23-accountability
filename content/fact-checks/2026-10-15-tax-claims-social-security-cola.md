@@ -264,6 +264,50 @@ what else drove larger refunds, including the higher cap on the state and
 local tax deduction, and why a larger refund is not the same thing as a
 larger tax cut.
 
+
+---
+
+## Update, November 2, 2026: the fifth time, plus a new "doubled"
+
+On October 30 the campaign page posted a 47-second clip from the October
+28 tour stops with this caption: "Every big government 'affordability'
+scheme comes with a bigger bill for that you're stuck paying. That's not
+affordability. That's confiscation. We cut tax rates, doubled the Child
+Tax Credit and standard deduction, and delivered no tax on tips and
+overtime. That's real money in your pocket where it belongs."
+
+{{< figure src="/images/fact-checks/2026-10-15-tax-claims-affordability-reel-oct30.png" alt="Facebook post from the Nick Langworthy campaign page with the caption quoted in this entry, over a video still of Rep. Langworthy speaking to a seated crowd in a hall with Langworthy and Blakeman campaign signs" caption="The October 30, 2026 post on the campaign page." >}}
+
+In the clip, transcribed from the audio
+(research/sources/triage-2026-11-02/videos/):
+
+> "That's why we cut taxes for everyone. Every rate got cut. We double the
+> child tax credit. We double the standard deduction. We created pro-worker
+> programs like no tax on tips, no tax on overtime. And for our seniors, no
+> tax on Social Security for 82% of senior citizens in the United States of
+> America."
+
+Three of those are rated above. "We double the child tax credit" is
+Claim 4, MISLEADING: the doubling was the 2017 law, and his law raised the
+credit 10 percent. "No tax on tips, no tax on overtime" is Claim 6,
+MISLEADING. "No tax on Social Security" is Claim 1, FALSE; this is the
+fifth documented statement of it, after the December 2025 release, the
+September 9 town hall, the October 6 debate and the October 14 interview.
+The "82%" figure has no source this site could locate; the White House's
+own figure, from its Council of Economic Advisers, is 88 percent, and the
+same analysis says 64 percent of seniors already paid no tax on their
+benefits before the law. The law created a $6,000 deduction and did not
+change the section of the tax code that taxes benefits.
+
+**"We double the standard deduction" is new, and it is the Child Tax
+Credit pattern again.** The standard deduction was doubled by Section 11021
+of the Tax Cuts and Jobs Act, approved December 22, 2017, which set it at
+$12,000 for single filers and $24,000 for joint filers for 2018 through
+2025; the 2017 amounts were $6,350 and $12,700. He took his seat in
+January 2023. The law he voted for, Section 70102 of P.L. 119-21, raised
+the single-filer figure from $15,000 to $15,750 and removed the 2025
+expiration. Keeping the doubled deduction from expiring is a real change
+and a fair claim. Doubling it is not. Same rating as Claim 4: MISLEADING.
 ---
 
 ## Questions this raises
@@ -299,6 +343,10 @@ larger tax cut.
 ## Related
 
 * [Working Families Tax Cut Posts: 'No Tax on Social Security' Is False; Filer Counts Are Inflated](/fact-checks/2026-04-07-wftc-refund-claims/)
+* Tax Cuts and Jobs Act, P.L. 115-97, Sec. 11021 (standard deduction $12,000/$18,000 head of household/$24,000 for 2018-2025): https://www.govinfo.gov/content/pkg/PLAW-115publ97/html/PLAW-115publ97.htm (archived: https://web.archive.org/web/20261102164533/https://www.govinfo.gov/content/pkg/PLAW-115publ97/html/PLAW-115publ97.htm)
+* IRS Revenue Procedure 2016-55 (2017 standard deduction $6,350 single, $12,700 joint): https://www.irs.gov/pub/irs-drop/rp-16-55.pdf (archived: https://web.archive.org/web/20261102164558/https://www.irs.gov/pub/irs-drop/rp-16-55.pdf)
+* The White House, "No Tax on Social Security is a Reality in the One Big Beautiful Bill," July 1, 2025 (88 percent; CEA analysis): https://www.whitehouse.gov/articles/2025/07/no-tax-on-social-security-is-a-reality-in-the-one-big-beautiful-bill (archived: https://web.archive.org/web/20260521045203/https://www.whitehouse.gov/releases/2025/07/no-tax-on-social-security-is-a-reality-in-the-one-big-beautiful-bill/)
+* Nick Langworthy campaign Facebook page, reel, October 30, 2026 (47 s; transcript retained): https://www.facebook.com/reel/1432465112352720
 * [A 76-Year-Old Asked About 'No Tax on Social Security.' He Told Him Three Times It Was a Tax Credit. It Is a Deduction.](/fact-checks/2026-09-09-town-hall-social-security-tax-credit/)
 * [Social Security: Claiming '88% of Seniors Will No Longer Pay Federal Tax' on Benefits](/fact-checks/2025-12-social-security-tax/)
 * [The 'Largest Tax Cut in History,' by the Deficit](/fact-checks/2026-06-30-largest-tax-cut-anniversary/)
@@ -312,4 +360,4 @@ Security Administration, the House Clerk and Rep. Langworthy's own
 statements. It makes no claim about motive. Corrections with sources are
 welcome at langworthywatch@gmail.com.
 
-*Last updated: October 15, 2026*
+*Last updated: November 2, 2026*
