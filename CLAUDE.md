@@ -39,6 +39,10 @@
 
 A constituent, business, union, or advocacy group meeting with — or photographed with — the Representative is exercising access to federal representation, **not** endorsing his record; groups often meet precisely because they disagree. Accountability attaches to how Langworthy *frames* the meeting in his own messaging, never to the party who showed up. Never imply a group endorses him from a meeting or photo. Where the group's own public record contradicts his framing (e.g., the Cystic Fibrosis Foundation publicly opposing the bill he voted for), cite that record. Public-facing version: `content/methodology/_index.md` §5.
 
+### The opponent is never named (site rule, stated October 31, 2026)
+
+Entries, index rows, cards and captions do not mention Langworthy's electoral opponent or compare his record, fundraising or statements to the opponent's, even as a fairness counterweight. The site documents the incumbent. If the opponent's name appears inside a quoted primary source (a newspaper endorsement paragraph, a debate transcript), quote the source as-is and do not build on it. Before publishing, `grep -i` the opponent's surname in the entry, the index row and the caption. Research folders may retain opponent data for internal reference only.
+
 ### Verdict Labels (for fact-checks)
 Use these standardized verdicts:
 - **TRUE** - Claim is accurate
@@ -474,11 +478,12 @@ Reference these when entries fit established patterns:
 
 ## Facebook Graphics
 
-### Production
-- Python/Pillow scripts saved to `~/Downloads/create_[topic]_graphic.py`
-- Output PNGs saved to `~/Downloads/`
-- Standard dimensions: 1200x1100 or 1200x1200
-- Dark theme (`#1e1e34` background), Impact font for numbers, Arial for text
+### Production (updated November 1, 2026; the dark 1200px format below is retired)
+- Scripts live in `social-media/create_<topic>_card.py` and build on `social-media/lib/card.py` (`Card(scale=2)`, `brand_bar`, `badge`, `title`, `panel`, `text`, `rect`, `footer_bar`, `save(to_desktop=True)`)
+- Output: light 1080x1080 PNG in `social-media/`, with a Desktop copy; `save()` rejects em dashes in rendered text
+- Navy bars, gold verdict badge, green "what is claimed / what is real" left panel, red "what it leaves out" right panel, white strip, navy kicker
+- Caption draft next to it as `social-media/<topic>_post.md`, header `# DRAFT`, flipped to `# POSTED <date>` when it goes up
+- Legacy (pre-June 2026): dark `#1e1e34` 1200x1200 scripts in `~/Downloads/`
 - Two-column comparison format: green-tinted left ("What's claimed") vs. red-tinted right ("What the data shows")
 - Evidence boxes at bottom with color-coded fills
 - Verdict bar in gold/amber
@@ -493,6 +498,7 @@ Reference these when entries fit established patterns:
 - Bump footer text contrast for mobile readability
 - $15/month or dominant stat should visually dominate the right column
 - Verdict tone: factual, not snarky — maximize cross-aisle shareability
+- **Second-pass lessons (Oct 31 and Nov 1, 2026 rebuilds):** the title states the finding, not a table of contents; one picture (full-width horizontal bars, or a stacked composition bar) beats one table, which is unreadable at 12 pt on a phone; budget about 12 to 15 numbers on the whole card; "lead with what sounds reasonable" governs order, not type size, so the other side's best stat goes in a slim strip, never the 60 pt hero; leave the governor and the parties off the card unless the claim is about them; the caption lede states the finding, not the setup
 - **No em dashes (—) in rendered card text.** They read as an AI tell and undercut the hand-made, factual feel. Replace contextually with a colon, comma, parentheses, period, or the middle dot (·) the design already uses. Hyphens in compound modifiers ('Medicaid-exposed') and arrows (→) are fine; only the em dash is the problem. (June 2026: the SOTD Q2 carousel was scrubbed of all 13; verify new/edited cards with `grep -F "—" social-media/create_*.py` before regenerating.)
 
 ### Facebook Post Text
@@ -613,4 +619,4 @@ Use LW to document the *legislative record* (votes, reform gaps, Langworthy's sp
 
 ---
 
-*Last updated: April 30, 2026*
+*Last updated: November 1, 2026*

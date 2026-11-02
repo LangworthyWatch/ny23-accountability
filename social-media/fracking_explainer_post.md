@@ -1,4 +1,4 @@
-# DRAFT Nov 1, 2026 v2 (fracking explainer; entry 2026-11-01-fracking-explainer-pennsylvania-record, MISSING CONTEXT; no party framing)
+# POSTED Nov 1, 2026 (v2) (fracking explainer; entry 2026-11-01-fracking-explainer-pennsylvania-record, MISSING CONTEXT; no party framing)
 # Card: fracking_explainer_card.png (create_fracking_explainer_card.py)
 
 The New York Post says fracking "enriched next-door counties in Pennsylvania." He shared it. Every one of those counties has lost people since 2010. The one with the most gas, Susquehanna, lost the most: 12 percent.

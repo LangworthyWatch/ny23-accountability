@@ -162,3 +162,23 @@ if __name__ == "__main__":
     c.kicker(c.h-190, "Every card starts from here now.", "Less code, no style drift.")
     c.footer_bar()
     c.save("/tmp/card_toolkit_smoketest.png")
+
+    def hbars(self, x_label, x_zero, y, rows, scale, row_h=46, bar_h=26, size=14, extra_cols=None):
+        """Horizontal bars leftward (negative) or rightward (positive) from x_zero.
+        rows: [(label, value, color, [extra values...])]; scale: px per unit; extra_cols: [(x, bold)] for extra values.
+        Returns the y below the last row."""
+        for i, r in enumerate(rows):
+            label, val, col = r[0], r[1], r[2]
+            ry = y + i * row_h
+            self.text(x_label, ry, label, size=size, bold=True, fill=col, anchor="lm")
+            w = abs(val) * scale
+            if val < 0:
+                self.rect(x_zero - w, ry - bar_h / 2, x_zero, ry + bar_h / 2, fill=col, outline=None)
+                self.text(x_zero - w - 8, ry, f"{val:.1f}%", size=size, bold=True, fill=col, anchor="rm")
+            else:
+                self.rect(x_zero, ry - bar_h / 2, x_zero + w, ry + bar_h / 2, fill=col, outline=None)
+                self.text(x_zero + w + 8, ry, f"+{val:.1f}%", size=size, bold=True, fill=col, anchor="lm")
+            for (cx, bold), v in zip(extra_cols or [], r[3:]):
+                self.text(cx, ry, v, size=size - 1, bold=bold, fill=DARK, anchor="mm")
+        self.rect(x_zero, y - row_h / 2 + 6, x_zero + 1, y + (len(rows) - 1) * row_h + row_h / 2 - 6, fill=BORDER, outline=None)
+        return y + len(rows) * row_h
