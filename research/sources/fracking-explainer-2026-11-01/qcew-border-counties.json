@@ -1,0 +1,210 @@
+{
+ "Bradford PA": {
+  "2014": {
+   "jobs": 21439,
+   "pay": 44211,
+   "natres": 4763,
+   "oilgas211": 0,
+   "mining_support213": 1206
+  },
+  "2024": {
+   "jobs": 19525,
+   "pay": 60899,
+   "natres": 4352,
+   "oilgas211": 0,
+   "mining_support213": 452
+  }
+ },
+ "Susquehanna PA": {
+  "2014": {
+   "jobs": 7377,
+   "pay": 36512,
+   "natres": 1712,
+   "oilgas211": 0,
+   "mining_support213": 0
+  },
+  "2024": {
+   "jobs": 7149,
+   "pay": 49991,
+   "natres": 1978,
+   "oilgas211": 0,
+   "mining_support213": 0
+  }
+ },
+ "Tioga PA": {
+  "2014": {
+   "jobs": 10592,
+   "pay": 37298,
+   "natres": 3012,
+   "oilgas211": 0,
+   "mining_support213": 345
+  },
+  "2024": {
+   "jobs": 10273,
+   "pay": 50266,
+   "natres": 3065,
+   "oilgas211": 0,
+   "mining_support213": 175
+  }
+ },
+ "Potter PA": {
+  "2014": {
+   "jobs": 4222,
+   "pay": 38660,
+   "natres": 1137,
+   "oilgas211": 0,
+   "mining_support213": 0
+  },
+  "2024": {
+   "jobs": 3775,
+   "pay": 52296,
+   "natres": 991,
+   "oilgas211": 0,
+   "mining_support213": 0
+  }
+ },
+ "McKean PA": {
+  "2014": {
+   "jobs": 13364,
+   "pay": 39719,
+   "natres": 2424,
+   "oilgas211": 468,
+   "mining_support213": 579
+  },
+  "2024": {
+   "jobs": 11670,
+   "pay": 49327,
+   "natres": 2412,
+   "oilgas211": 124,
+   "mining_support213": 269
+  }
+ },
+ "Warren PA": {
+  "2014": {
+   "jobs": 13015,
+   "pay": 36969,
+   "natres": 3603,
+   "oilgas211": 153,
+   "mining_support213": 0
+  },
+  "2024": {
+   "jobs": 10996,
+   "pay": 51022,
+   "natres": 2272,
+   "oilgas211": 133,
+   "mining_support213": 0
+  }
+ },
+ "Chemung NY": {
+  "2014": {
+   "jobs": 30700,
+   "pay": 41286,
+   "natres": 8110,
+   "oilgas211": 352,
+   "mining_support213": 0
+  },
+  "2024": {
+   "jobs": 27562,
+   "pay": 58195,
+   "natres": 7297,
+   "oilgas211": 0,
+   "mining_support213": 0
+  }
+ },
+ "Steuben NY": {
+  "2014": {
+   "jobs": 29370,
+   "pay": 53263,
+   "natres": 5399,
+   "oilgas211": 0,
+   "mining_support213": 0
+  },
+  "2024": {
+   "jobs": 27133,
+   "pay": 74444,
+   "natres": 5260,
+   "oilgas211": 0,
+   "mining_support213": 0
+  }
+ },
+ "Tioga NY": {
+  "2014": {
+   "jobs": 10081,
+   "pay": 49133,
+   "natres": 2175,
+   "oilgas211": 0,
+   "mining_support213": 9
+  },
+  "2024": {
+   "jobs": 10496,
+   "pay": 69400,
+   "natres": 2178,
+   "oilgas211": 0,
+   "mining_support213": 0
+  }
+ },
+ "Allegany NY": {
+  "2014": {
+   "jobs": 9818,
+   "pay": 34056,
+   "natres": 1644,
+   "oilgas211": 10,
+   "mining_support213": 0
+  },
+  "2024": {
+   "jobs": 9515,
+   "pay": 49004,
+   "natres": 1614,
+   "oilgas211": 0,
+   "mining_support213": 0
+  }
+ },
+ "Cattaraugus NY": {
+  "2014": {
+   "jobs": 20122,
+   "pay": 37137,
+   "natres": 4880,
+   "oilgas211": 0,
+   "mining_support213": 0
+  },
+  "2024": {
+   "jobs": 18724,
+   "pay": 51655,
+   "natres": 4189,
+   "oilgas211": 0,
+   "mining_support213": 0
+  }
+ },
+ "Chautauqua NY": {
+  "2014": {
+   "jobs": 40743,
+   "pay": 33401,
+   "natres": 8881,
+   "oilgas211": 0,
+   "mining_support213": 48
+  },
+  "2024": {
+   "jobs": 37294,
+   "pay": 49455,
+   "natres": 7911,
+   "oilgas211": 0,
+   "mining_support213": 0
+  }
+ },
+ "Broome NY": {
+  "2014": {
+   "jobs": 69320,
+   "pay": 38483,
+   "natres": 16638,
+   "oilgas211": 0,
+   "mining_support213": 0
+  },
+  "2024": {
+   "jobs": 65537,
+   "pay": 57627,
+   "natres": 16843,
+   "oilgas211": 0,
+   "mining_support213": 0
+  }
+ }
+}

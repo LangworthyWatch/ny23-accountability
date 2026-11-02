@@ -1,0 +1,23 @@
+302 https://www.post-journal.com/opinion/local-commentaries/2024/12/unleashing-the-southern-tiers-energy-potential/
+302 https://www.puc.pa.gov/press-release/2026/puc-announces-2438-million-in-natural-gas-impact-fees-for-pennsylvania-communities-06152026
+000 https://spectrumlocalnews.com/nys/central-ny/news/2026/06/12/hochul-defends-fracking-ban-as-blakeman-presses-for-it-to-be-overturned
+302 https://paenv.pitt.edu/assets/Report_Asthma_outcomes_revised_2023_July.pdf
+302 https://paenv.pitt.edu/assets/Report_Birth_outcomes_Revised_2023_July.pdf
+302 https://crawler.dep.state.pa.us/Air/AirQuality/AQPortalFiles/Advisory%20Committees/Air%20Quality%20Technical%20Advisory%20Committee/2023/10-12-23/Pitt%20Study%20Review%202023.pdf
+302 https://pubs.usgs.gov/fs/2011/3092/pdf/fs2011-3092.pdf
+520 https://www.health.ny.gov/press/reports/docs/high_volume_hydraulic_fracturing.pdf
+302 https://www.desmog.com/2022/11/30/fracking-coterra-cabot-pleads-case-dimock-water-contamination/
+302 https://www.psats.org/cabot-successor-accepts-plea-funds-water-line-construction-in-dimock-township/
+retry 302 https://spectrumlocalnews.com/nys/central-ny/news/2026/06/12/hochul-defends-fracking-ban-as-blakeman-presses-for-it-to-be-overturned
+302 https://clearwater.org/?p=37698
+retry 520 https://www.health.ny.gov/press/reports/docs/high_volume_hydraulic_fracturing.pdf
+302 https://www.eia.gov/dnav/ng/hist/n9010pa2a.htm
+429 https://www.eia.gov/dnav/ng/hist/n9010ny2a.htm
+429 https://www.eia.gov/dnav/ng/hist/n9010us2a.htm
+429 https://www.fingerlakes1.com/2023/11/18/plan-for-gas-drilling-spree-in-southern-tier-draws-muted-response-from-dec-and-state-reps/
+302 https://www.dep.pa.gov/Business/Energy/OilandGasPrograms/OilandGasMgmt/LegacyWells/Pages/default.aspx
+302 https://data.bls.gov/cew/data/api/2024/a/industry/211.csv
+retry 000 https://whyy.org/articles/fracking-pennsylvania-shale-gas-workforce-health-environmental-damage
+retry 429 https://www.foodandwaterwatch.org/2024/12/22/legislators-environmental-health-leaders-applaud-gov-hochul-for-signing-the-co2-fracking-ban-bill/
+302 https://data.bls.gov/cew/data/api/2024/a/industry/213112.csv
+302 https://data.bls.gov/cew/data/api/2024/a/industry/213111.csv
