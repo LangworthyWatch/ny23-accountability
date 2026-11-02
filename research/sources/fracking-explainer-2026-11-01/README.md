@@ -50,3 +50,4 @@ Chautauqua -8.0%, Broome -2.1%, Schuyler -6.8%. (Census API now requires a key; 
 
 ## Logs
 wayback-saves.log, wayback-playback.log.
+permalink: https://www.facebook.com/photo/?fbid=1746984034099582 (campaign page, Oct 30, 2026; 98 reactions, 97 comments at capture)

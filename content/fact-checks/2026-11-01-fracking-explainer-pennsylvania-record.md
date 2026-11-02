@@ -3,7 +3,7 @@ title: "Fracking, Explained: What New York Banned, What Pennsylvania Got, and Wh
 date: 2026-11-01
 draft: false
 topic: "Energy / Explainer"
-claim_date: "December 21, 2024, and October 14, 2026"
+claim_date: "December 21, 2024; October 14 and about October 30, 2026"
 source: "Op-ed, The Post-Journal ('Unleashing the Southern Tier's Energy Potential'); campaign Facebook post"
 source_url: "https://www.post-journal.com/opinion/local-commentaries/2024/12/unleashing-the-southern-tiers-energy-potential/"
 archived_url: "https://web.archive.org/web/20261102004101/https://www.post-journal.com/opinion/local-commentaries/2024/12/unleashing-the-southern-tiers-energy-potential/"
@@ -325,6 +325,39 @@ sides are losing people either way.
 
 ---
 
+## Update, November 1, 2026: the New York Post repeats the claim, and he shares it
+
+On October 29 the New York Post's editorial board endorsed the state's
+Republican House incumbents. Its paragraph on Rep. Langworthy:
+
+> "Nick Langworthy, repping the Southern Tier and the Buffalo suburbs in
+> the 23rd CD, backs strong immigration enforcement and US energy
+> independence. He's rightly a relentless critic of Gov. Kathy Hochul's
+> feckless economic policies, not least the foolish ban on fracking, a
+> technique that has enriched next-door counties in Pennsylvania."
+
+His campaign page posted the paragraph as a graphic on October 30 with
+the caption: "I'm proud to earn the endorsement from the New York Post.
+I'll never stop fighting for secure borders, American energy
+independence, and an economy that respects hardworking New Yorkers. While
+Kathy Hochul holds our state back, I'll keep fighting to move us forward."
+
+{{< figure src="/images/fact-checks/2026-11-01-fracking-explainer-nypost-endorsement-post.png" alt="Facebook post from the Nick Langworthy campaign page sharing a New York Post graphic headlined Vote for prosperity and security, The Post's endorsements for NY's House races, with the paragraph about Langworthy quoted in this entry beside a photo of him holding a microphone" caption="The campaign-page post, captured November 1, 2026." >}}
+
+Two points from the record above. First, the ban is not Gov. Hochul's;
+it was imposed by the state's health and environmental agencies in 2014
+and 2015 and written into law in April 2020, before she took office.
+Second, "enriched next-door counties" is the claim the border-county
+tables test. The next-door counties, Bradford, Susquehanna and Tioga,
+lost 4.8, 12.0 and 2.9 percent of their population from 2010 to 2024 and
+3 to 9 percent of their private jobs from 2014 to 2024, and their average
+pay in 2024 was below that of Chemung, Steuben and Tioga counties in New
+York directly across the line. The impact fees those counties received
+are real and are reported above; the enrichment the editorial describes
+does not show up in the people, the jobs or the paychecks.
+
+---
+
 ## Questions this raises
 
 1. Which Pennsylvania border county does he believe grew because of
@@ -359,6 +392,8 @@ sides are losing people either way.
 * Pennsylvania DEP, Air Quality Technical Advisory Committee, "Pitt Study Review 2023," October 12, 2023 (summary of the three studies, quoted above): https://crawler.dep.state.pa.us/Air/AirQuality/AQPortalFiles/Advisory%20Committees/Air%20Quality%20Technical%20Advisory%20Committee/2023/10-12-23/Pitt%20Study%20Review%202023.pdf (archived: https://web.archive.org/web/20261102004508/https://crawler.dep.state.pa.us/Air/AirQuality/AQPortalFiles/Advisory%20Committees/Air%20Quality%20Technical%20Advisory%20Committee/2023/10-12-23/Pitt%20Study%20Review%202023.pdf)
 * Pennsylvania DEP, "Abandoned and Orphan Wells in Pennsylvania": https://www.dep.pa.gov/Business/Energy/OilandGasPrograms/OilandGasMgmt/LegacyWells/Pages/default.aspx (text retained; archive pending)
 * U.S. Geological Survey, "Assessment of Undiscovered Oil and Gas Resources of the Devonian Marcellus Shale of the Appalachian Basin Province, 2011," Fact Sheet 2011-3092: https://pubs.usgs.gov/fs/2011/3092/pdf/fs2011-3092.pdf (archived: https://web.archive.org/web/20261102004537/https://pubs.usgs.gov/fs/2011/3092/pdf/fs2011-3092.pdf)
+* New York Post Editorial Board, "Vote for prosperity & security: The Post's endorsements for NY's House races," October 29, 2026: https://nypost.com/2026/10/29/opinion/vote-for-prosperity-security-the-posts-endorsements-for-nys-house-races/ (archived: https://web.archive.org/web/20261102005644/https://nypost.com/2026/10/29/opinion/vote-for-prosperity-security-the-posts-endorsements-for-nys-house-races/)
+* Nick Langworthy campaign Facebook page (ChairmanNickLangworthy), photo post sharing the Post graphic, October 30, 2026 (98 reactions, 97 comments when captured November 1): https://www.facebook.com/photo/?fbid=1746984034099582 (screenshot retained; Facebook is login-walled, caption confirmed from the photo permalink in a logged-out browser)
 * WHYY, "Fracking in Pennsylvania hasn't gone as well as some may think," October 1, 2024: https://whyy.org/articles/fracking-pennsylvania-shale-gas-workforce-health-environmental-damage (text retained)
 * EIA residential price data for 2025 and the NY-23 utility comparison, as cited in [the October 15 entry](/fact-checks/2026-10-15-energy-ban-debate-clips/)
 
@@ -389,4 +424,4 @@ statistical agency's open-data service, 2014, and the entry says so; the
 makes no claim about what would have happened in New York had the ban not
 been imposed.
 
-*Last updated: November 1, 2026*
+*Last updated: November 1, 2026 (update added the same day)*

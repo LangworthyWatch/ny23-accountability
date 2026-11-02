@@ -21,3 +21,4 @@ retry 000 https://whyy.org/articles/fracking-pennsylvania-shale-gas-workforce-he
 retry 429 https://www.foodandwaterwatch.org/2024/12/22/legislators-environmental-health-leaders-applaud-gov-hochul-for-signing-the-co2-fracking-ban-bill/
 302 https://data.bls.gov/cew/data/api/2024/a/industry/213112.csv
 302 https://data.bls.gov/cew/data/api/2024/a/industry/213111.csv
+save 302
