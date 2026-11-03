@@ -1,4 +1,4 @@
-# DRAFT Oct 26, 2026 (closing series 5 of 5; post Monday Nov 2; plain rewrite)
+# SUPERSEDED Nov 3, 2026 by election_day_post.md (tally updated to 182). Original: DRAFT Oct 26, 2026 (closing series 5 of 5; plain rewrite)
 # Entry: /fact-checks/ (index) and /methodology/
 # Card: verdict_pie_card.png (create_verdict_pie_card.py, updated to 176)
 
