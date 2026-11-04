@@ -26,3 +26,9 @@ Certified 2026 results: NY BOE certifies in December; replace AP figures then.
 - nyt-ny02: Garbarino 128,090 (51.6%) / Halpin 120,157 (48.4%), 91% in, 3:57 PM ET.
 - nyt-ny24: Tenney 171,460 (60.4%) / Ellman 112,261 (39.5%), >95% in, 3:26 PM ET; district 2 pts more Democratic than 2024 presidential.
 - Entry table updated: Garbarino -8.1 (was -8.5 on the Wikipedia count), Tenney -5.2 (was -5.7 on Ballotpedia's partial). NY-11 still Ballotpedia, NY-17 still Wikipedia.
+
+## Added ~6:15 p.m. Nov 4: Times AP counts for NY-11 and NY-17 (user-saved PDFs)
+- nyt-ny11: Malliotakis 101,719 (56.1%) / DeCillis 79,370 (43.8%), 95% in, 3:30 PM ET.
+- nyt-ny17: Conley 134,454 (52.1%) / Lawler 123,289 (47.8%), 82% in, ~5:18 PM ET.
+- other-ny17-results-2026-11-04.pdf: NBC page for NY-17, partially corrupt xref; retained, not cited.
+- All five peer rows now on Times/AP; Ballotpedia-2026 and Wikipedia-2026 no longer cited.
