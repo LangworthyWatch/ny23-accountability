@@ -1891,3 +1891,10 @@ Floor that day: he is recorded on all ten Sept 15 roll calls (4:46-5:27 PM and 9
 - **New, not on the site:** Langworthy Leadership & Accountability Fund (C00934109), a JFC with Guthrie, Comer, three leadership PACs and the NRCC; registered Jan 12, 2026; $150,800 in receipts, all March 19, 2026, from six nursing-home LLCs at 300 Provider Court, Richmond, KY; distributed March 30; terminated April 1. Filings retained and archived in `research/sources/prospect-nursing-home-2026-10-30/`. Candidate for an entry pairing it with his E&C/Oversight seats and the Sept 29 E&C fraud report (verify the report text and his X post first).
 - Open: NRCC schedule A for the same address/date (rate-limited today); the 2019 NYS GOP donations (NYSBOE); the Prospect's $180,000/$329,000 totals are not reproducible from Langworthy's own committees alone.
 - Memo-flag lesson: this filer's software puts the SA/SB memo code at field 42, not 43; two figures in entry #180 were corrected as a result.
+
+## 2026-11-04: election returns vs. "mandate" claim (entry 2026-11-04-mandate-claim-election-returns, #183)
+- [ ] December: replace unofficial 2026 figures with NY BOE certified results (NY-23 and the five peer districts); recompute the shift table; update Last updated.
+- [ ] Dec 3: pull the Democratic candidate's post-general FEC report (H6NY23559) and his, replace the "through Oct 14" receipts.
+- [ ] Wayback: Ballotpedia 2022/2024/2026 pages returned 520/429 on save (archive.org overloaded Nov 4); retry. Facebook photo.php permalink capture requested, playback 404.
+- [ ] Town-level canvass from county boards when posted (Tioga +5, Allegany +4, Schuyler +3 moved most vs. 2024 presidential; no causal claim).
+- Lesson: the fairness check that made this entry publishable was the peer table (every NY GOP incumbent down 4 to 9 pts). Without it, "his share dropped a lot" would have been the site's own missing-context framing.
