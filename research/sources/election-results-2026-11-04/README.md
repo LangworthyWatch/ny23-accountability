@@ -20,3 +20,9 @@ Certified 2026 results: NY BOE certifies in December; replace AP figures then.
 - Presidential baseline: NYT "0.6 pts more Democratic than 2024 presidential"; wiki-ny-pres-2024.html by-CD table shows 23rd 39% / 60% (2024) and 57.0% / 40.4% (2020 row), i.e. about Trump +21 in 2024.
 - Wayback: facebook video and photo permalinks accepted (302) 17:40-17:42 ET; Ballotpedia saves returned 520/429 (archive.org overloaded), retry.
 - Entry: content/fact-checks/2026-11-04-mandate-claim-election-returns.md (MISSING CONTEXT).
+
+## Added ~6 p.m. Nov 4: Times AP counts for three peers (user-saved PDFs)
+- nyt-ny01: LaLota 152,546 (51.1%) / Gallant 145,869 (48.9%), 90% in, 3:57 PM ET.
+- nyt-ny02: Garbarino 128,090 (51.6%) / Halpin 120,157 (48.4%), 91% in, 3:57 PM ET.
+- nyt-ny24: Tenney 171,460 (60.4%) / Ellman 112,261 (39.5%), >95% in, 3:26 PM ET; district 2 pts more Democratic than 2024 presidential.
+- Entry table updated: Garbarino -8.1 (was -8.5 on the Wikipedia count), Tenney -5.2 (was -5.7 on Ballotpedia's partial). NY-11 still Ballotpedia, NY-17 still Wikipedia.

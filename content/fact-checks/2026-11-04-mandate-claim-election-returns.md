@@ -123,24 +123,30 @@ performance relative to it did.
 ### C. Against every other New York Republican in the House
 
 *This is the comparison that tests whether the drop says anything about
-him in particular. The 2024 shares are certified. The 2026 shares are
-unofficial counts retained from public results pages on the evening of
-November 4 and will move by a few tenths of a point as counting
-finishes.*
+him in particular. The 2024 shares are certified. The 2026 shares are the
+Associated Press counts as published by The New York Times on the
+afternoon of November 4 for NY-1, NY-2, NY-23 and NY-24 (retained PDFs),
+and unofficial counts retained from Ballotpedia (NY-11) and Wikipedia
+(NY-17) the same evening. The two Long Island districts were about 90
+percent counted; the others were above 95 percent. All will move by a few
+tenths of a point as counting finishes.*
 
 | District, incumbent | 2024 share (certified) | 2026 share (unofficial) | Change |
 |---|---|---|---|
-| NY-1, LaLota | 55.2% | 51.1% | -4.1 |
-| NY-2, Garbarino | 59.7% | 51.2% | -8.5 |
+| NY-1, LaLota | 55.2% | 51.1% (90% counted) | -4.1 |
+| NY-2, Garbarino | 59.7% | 51.6% (91% counted) | -8.1 |
 | NY-11, Malliotakis | 63.8% | 56.2% | -7.6 |
-| NY-17, Lawler | 52.1% | 47.7% (trailing) | -4.4 |
+| NY-17, Lawler | 52.1% | 47.7% (trailing; Wikipedia count) | -4.4 |
 | NY-23, Langworthy | 65.8% | 60.3% | -5.5 |
-| NY-24, Tenney | 65.6% | 59.9% | -5.7 |
+| NY-24, Tenney | 65.6% | 60.4% | -5.2 |
 
 NY-21 is omitted because its 2024 incumbent was not on the 2026 ballot.
 
 **In plain language:** every Republican incumbent from New York lost
-between 4 and 9 points of vote share on the same night. His drop is in
+between 4 and 8 points of vote share on the same night. The Times'
+comparison with the 2024 presidential vote runs the same direction in
+each district it reports it for: NY-23 moved 0.6 points toward the
+Democrats, NY-24 moved 2 points. His drop is in
 the middle of that range. The returns do not show him doing worse than
 his colleagues, and they do not show him doing better. They show a
 Republican incumbent in a safe district in a year that moved against
@@ -177,7 +183,7 @@ before. By every available measure it was smaller.
 | Claim | Finding |
 |---|---|
 | "A 20-point victory" | **TRUE.** 20.6 points on the unofficial count. |
-| "A mandate," "a massive mandate and resounding victory" | **MISSING CONTEXT.** His smallest margin and lowest share in three races; 11 points below 2024; even with the district's 2024 presidential margin after running 10 points ahead of it in 2024; in line with the 4- to 9-point drop every New York Republican incumbent saw the same night. |
+| "A mandate," "a massive mandate and resounding victory" | **MISSING CONTEXT.** His smallest margin and lowest share in three races; 11 points below 2024; even with the district's 2024 presidential margin after running 10 points ahead of it in 2024; in line with the 4- to 8-point drop every New York Republican incumbent saw the same night. |
 | "I ran a positive campaign on my record of results for families" | **NOT ASSESSED HERE.** The campaign's record of claims about his results is the subject of the rest of this site. |
 | "The truth prevailed tonight" | **NOT ASSESSED.** An election measures votes, not the accuracy of statements. The 182 entries on this site stand or fall on their sources either way. |
 
@@ -203,8 +209,9 @@ before. By every available measure it was smaller.
 - The New York Times, "New York 23rd Congressional District Election Results," Associated Press count as of 3:11 p.m. ET, November 4, 2026, including the results-by-county and "How votes compare with 2024" tables (retained PDF, printed 5:29 p.m.).
 - Ballotpedia, "New York's 23rd Congressional District election, 2024" (certified results: Langworthy 246,969, 65.8%; Democratic candidate 128,397, 34.2%; candidate FEC receipts through December 31, 2024): https://ballotpedia.org/New_York%27s_23rd_Congressional_District_election,_2024 (retained page).
 - Ballotpedia, "New York's 23rd Congressional District election, 2022" (certified results: Langworthy 192,694, 64.9%; Democratic candidate 104,114, 35.1%): https://ballotpedia.org/New_York%27s_23rd_Congressional_District_election,_2022 (retained page).
-- Ballotpedia, 2024 certified results for New York's 1st, 2nd, 11th, 17th and 24th districts, and unofficial 2026 counts for the 11th and 24th (retained pages).
-- Wikipedia, "2026 United States House of Representatives elections in New York," unofficial 2026 counts for the 1st, 2nd and 17th districts as of 5:35 p.m. November 4 (retained page). Used only for the provisional comparison table and to be replaced by certified figures.
+- The New York Times, election results pages for New York's 1st (LaLota, 152,546, 51.1%, 90% counted, 3:57 p.m. ET), 2nd (Garbarino, 128,090, 51.6%, 91% counted, 3:57 p.m. ET) and 24th (Tenney, 171,460, 60.4%, more than 95% counted, 3:26 p.m. ET) districts, Associated Press counts, November 4, 2026 (retained PDFs printed 5:51 to 5:53 p.m.).
+- Ballotpedia, 2024 certified results for New York's 1st, 2nd, 11th, 17th and 24th districts, and the unofficial 2026 count for the 11th (retained pages).
+- Wikipedia, "2026 United States House of Representatives elections in New York," unofficial 2026 count for the 17th district as of 5:35 p.m. November 4 (retained page). Provisional; to be replaced by certified figures.
 - Federal Election Commission, candidate financial totals, 2026 cycle, Democratic candidate (ID H6NY23559), coverage through October 14, 2026: https://api.open.fec.gov/v1/candidates/totals/?candidate_id=H6NY23559&cycle=2026 (retained JSON).
 - New York State Board of Elections, certified results index (for the December certification): https://elections.ny.gov/election-results
 
@@ -216,4 +223,4 @@ with certified results when the State Board of Elections publishes them.
 The entry makes no claim about why the margin changed and no claim that
 any reporting affected the result.
 
-*Last updated: November 4, 2026*
+*Last updated: November 4, 2026 (peer-district figures for NY-1, NY-2 and NY-24 replaced with the Times' AP counts the same evening)*
