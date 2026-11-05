@@ -1,4 +1,4 @@
-# DRAFT Nov 4, 2026 v3 (rebuilt: hero inverted on the card; names and jargon out of the caption) (entry 2026-11-04-mandate-claim-election-returns, MISSING CONTEXT)
+# POSTED Nov 4, 2026 (v3 caption, v2 card) (entry 2026-11-04-mandate-claim-election-returns, MISSING CONTEXT)
 # Card: mandate_card.png (create_mandate_card.py, v2)
 
 He called it "a massive mandate and resounding victory." It was his smallest margin and lowest share in three races for this seat. Every Republican incumbent from New York dropped the same night, and he landed in the middle of them.
