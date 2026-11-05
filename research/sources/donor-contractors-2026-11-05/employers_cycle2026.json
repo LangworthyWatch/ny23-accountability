@@ -1,0 +1,2642 @@
+[
+ {
+  "employer": "(RETIRED)",
+  "total": 80906.75,
+  "n": 134,
+  "states": [
+   "FL",
+   "NY",
+   "PA",
+   "SC"
+  ]
+ },
+ {
+  "employer": "(SELF-EMPLOYED)",
+  "total": 24963.0,
+  "n": 32,
+  "states": [
+   "FL",
+   "MI",
+   "NY",
+   "UT"
+  ]
+ },
+ {
+  "employer": "(BLANK)",
+  "total": 24350.0,
+  "n": 17,
+  "states": [
+   "NY",
+   "VA"
+  ]
+ },
+ {
+  "employer": "CASTLE HARLAN, INC.",
+  "total": 20000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CORNING",
+  "total": 17260.0,
+  "n": 10,
+  "states": [
+   "NY",
+   "VA"
+  ]
+ },
+ {
+  "employer": "CHARTWELL STRATEGY GROUP",
+  "total": 13800.0,
+  "n": 6,
+  "states": [
+   "CT",
+   "FL",
+   "NJ"
+  ]
+ },
+ {
+  "employer": "NYCBS",
+  "total": 11291.02,
+  "n": 8,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "LIPPES MATHIAS LLP",
+  "total": 10050.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "FARRAGUT PARTNERS",
+  "total": 10000.0,
+  "n": 6,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "CORNING INCORPORATED",
+  "total": 9000.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "(HOMEMAKER)",
+  "total": 8250.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ATWAL EYE CARE",
+  "total": 8000.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "LMH STRATEGIC SOLUTIONS, LLC",
+  "total": 7000.0,
+  "n": 2,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "FOREST CREEK EQUITY CORP.",
+  "total": 7000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "FISCHER INVESTMENT GROUP, INC.",
+  "total": 7000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "COTGREAVE INSURANCE",
+  "total": 7000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "VESTRACARE",
+  "total": 7000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "LAW OFFICES OF JOHN BARTOLOMEI",
+  "total": 7000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "INSMED",
+  "total": 7000.0,
+  "n": 1,
+  "states": [
+   "NJ"
+  ]
+ },
+ {
+  "employer": "UNITED REFINING COMPANY",
+  "total": 6800.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "RICH FEUER ANDERSON",
+  "total": 6800.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "U.S. DEPT OF VETERANS AFFAIRS",
+  "total": 6600.0,
+  "n": 1,
+  "states": [
+   "MD"
+  ]
+ },
+ {
+  "employer": "TIBER CREEK GROUP",
+  "total": 6500.0,
+  "n": 3,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "FREY ELECTRIC CONSTRUCTION CO.",
+  "total": 5500.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "GLEN PARK TAVERN",
+  "total": 5000.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "VEIN TREATMENT CENTER",
+  "total": 5000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MIDWOOD FINANCIAL",
+  "total": 5000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BRIGHT STAR GROUP",
+  "total": 5000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "STICKER MULE",
+  "total": 5000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "S&W COMPANY LLC",
+  "total": 5000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ARDELYX, INC",
+  "total": 5000.0,
+  "n": 1,
+  "states": [
+   "CA"
+  ]
+ },
+ {
+  "employer": "UNILAND DEVELOPMENT",
+  "total": 4850.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CORNING INC",
+  "total": 4750.0,
+  "n": 3,
+  "states": [
+   "DC",
+   "NY"
+  ]
+ },
+ {
+  "employer": "HILL EAST GROUP, LLC",
+  "total": 4500.0,
+  "n": 3,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "SALT POINT STRATEGIES",
+  "total": 4500.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "LEPRINO FOODS",
+  "total": 4500.0,
+  "n": 2,
+  "states": [
+   "CO"
+  ]
+ },
+ {
+  "employer": "AIRPORT PLAZA JEWELRY",
+  "total": 4500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CIMASI LAW OFFICE",
+  "total": 4450.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "INVARIANT",
+  "total": 4000.0,
+  "n": 3,
+  "states": [
+   "DC",
+   "VA"
+  ]
+ },
+ {
+  "employer": "H&M STRATEGIES LLP",
+  "total": 4000.0,
+  "n": 2,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "MIDDLEPORT FAMILY HEALTH CENTER",
+  "total": 3500.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "AIRPORT PLAZA JEWELERS",
+  "total": 3500.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "W STRATEGIES",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "VITELLO CONSULTING",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "TIX.BY LLC",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "PR"
+  ]
+ },
+ {
+  "employer": "ST. PAULY TEXTILE",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SMOKIN JOES",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PATIENT RIGHTS ADVOCATE",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "MA"
+  ]
+ },
+ {
+  "employer": "ODA",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NESSEL DEVELOPMENT",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "CA"
+  ]
+ },
+ {
+  "employer": "MORNINGSIDE",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HONRA LLC",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "PR"
+  ]
+ },
+ {
+  "employer": "GLENDALE DEVELOPMENT",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "GLENDALE COMMUNITIES",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CLEARPATH",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "NC"
+  ]
+ },
+ {
+  "employer": "ARENTFOX SCHIFF LLP",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "1607 STRATEGIES",
+  "total": 3500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "TODD STRATEGY GROUP",
+  "total": 3300.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "MZLS",
+  "total": 3300.0,
+  "n": 1,
+  "states": [
+   "PR"
+  ]
+ },
+ {
+  "employer": "FABER HOMES",
+  "total": 3300.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MATTOON & ASSOCIATES",
+  "total": 3000.0,
+  "n": 4,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "TUSCARORA TOBACCO INC",
+  "total": 3000.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NEW BUFFALO INSURANCE AGENCY",
+  "total": 3000.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MASIELLO MARTUCCI HUGHES",
+  "total": 3000.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HILLEAST GROUP",
+  "total": 3000.0,
+  "n": 2,
+  "states": [
+   "NY",
+   "VA"
+  ]
+ },
+ {
+  "employer": "DAVIS POLK & WARDWELL LLP",
+  "total": 3000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "KATZ AND BAEHRE",
+  "total": 3000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "DL HOFFMAN INC",
+  "total": 3000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "618 PROPERTY LLC",
+  "total": 3000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "FIERCE GOVERNMENT RELATIONS",
+  "total": 2500.0,
+  "n": 4,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "REGENT",
+  "total": 2500.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SUTTON HOMES OF ERIE COUNTY INC",
+  "total": 2500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SPRUCE CAPITAL PARTNERS",
+  "total": 2500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "GABE'S COLLISION EAST, LLC",
+  "total": 2500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "FIDLEITY INVESTMENTS",
+  "total": 2500.0,
+  "n": 1,
+  "states": [
+   "NC"
+  ]
+ },
+ {
+  "employer": "EZVOLTZ",
+  "total": 2500.0,
+  "n": 1,
+  "states": [
+   "MD"
+  ]
+ },
+ {
+  "employer": "CITY OF NORTH TONAWANDA",
+  "total": 2500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "YC CONSULTING, LLC",
+  "total": 2000.0,
+  "n": 2,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "TORREY PARTNERSHIP",
+  "total": 2000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "THE HOBBS GROUP, LLC",
+  "total": 2000.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "S-3 GROUP",
+  "total": 2000.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "PLUMBING HELP NOW",
+  "total": 2000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "GREENBERG TRAURIG",
+  "total": 2000.0,
+  "n": 2,
+  "states": [
+   "DC",
+   "VA"
+  ]
+ },
+ {
+  "employer": "TANIS VENTURE MANAGEMENT",
+  "total": 2000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NEW EMPIRE CORP",
+  "total": 2000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MORGAN STANLEY",
+  "total": 2000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BUCKMAN",
+  "total": 2000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BOUSQUET HOLSTEIN PLLC",
+  "total": 2000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BLUE LINE INSURANCE AGENCY, INC",
+  "total": 2000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ERIE COUNTY WATER AUTHORITY",
+  "total": 1850.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CLANCYCLANCY",
+  "total": 1760.25,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "FROGUECLARK",
+  "total": 1750.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "4TH WAVE TECHNOLOGIES LLC",
+  "total": 1750.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "(SELF EMPLOYED)",
+  "total": 1599.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "OGR",
+  "total": 1500.0,
+  "n": 3,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "NEPHROLOGY SERVICES",
+  "total": 1500.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BRIGHTON EGGERT PHARMACY",
+  "total": 1500.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "LOSI  GANGI",
+  "total": 1500.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SHL INVESTMENT GROUP",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SENECA MFG CO",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ROC360",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PENN AVENUE PARTNERS",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "ODAWI LAW PLLC",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "J & A SOLUTIONS, LLC",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "FERMAT CAPITAL",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CAPITOL COUNSEL",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "AXON ENTERPRISE",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "AVANGRID",
+  "total": 1500.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "ERIE COUNTY SHERIFFS OFFICE",
+  "total": 1450.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HANYS",
+  "total": 1300.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "KIMIL CO",
+  "total": 1250.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "THREE+ONE",
+  "total": 1250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SINATRA AND CO",
+  "total": 1250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NANCO GROUP",
+  "total": 1250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ESSEX HOMES OF WNY",
+  "total": 1250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CAPCO",
+  "total": 1250.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "NYS",
+  "total": 1170.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NEW YORK STATE",
+  "total": 1165.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "EASTERN CLASSIC COVERAGE",
+  "total": 1104.1,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "WALSH DUFFIELD",
+  "total": 1041.02,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TOTE",
+  "total": 1041.02,
+  "n": 1,
+  "states": [
+   "PR"
+  ]
+ },
+ {
+  "employer": "BRIDGEBIO",
+  "total": 1041.02,
+  "n": 1,
+  "states": [
+   "MD"
+  ]
+ },
+ {
+  "employer": "AMHERST CHAMBER OF COMMERCE",
+  "total": 1025.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ALDEN STATE BANK",
+  "total": 1025.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BORG INSURANCE AGENCY",
+  "total": 1005.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MEHLMAN CONSULTING",
+  "total": 1000.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "LIPPES MATHIAS",
+  "total": 1000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "INTRINSIC THERAPEUTICS",
+  "total": 1000.0,
+  "n": 2,
+  "states": [
+   "FL",
+   "MA"
+  ]
+ },
+ {
+  "employer": "GREENBERG TRAURIG LLP",
+  "total": 1000.0,
+  "n": 2,
+  "states": [
+   "FL",
+   "NH"
+  ]
+ },
+ {
+  "employer": "ECSO",
+  "total": 1000.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "DUDDINGTON GLOBAL STRATEGIES",
+  "total": 1000.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "BL PARTNERS GROUP",
+  "total": 1000.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "YORK CAPITAL MANAGEMENT",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "WOODLINE",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "WILLIAMS & JENSEN",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "USI INSURANCE SERVICES",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ULRICH DEVELOPMENT CO., LLC",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "UBMD",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TWINLOGIC STRATEGIES, LLP",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "THE STANTON PARK GROUP",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "MD"
+  ]
+ },
+ {
+  "employer": "SPLITOAK STRATEGIES",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "RINKER OIL & PROPANE",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "RIDGE PATH STRATEGIES",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "RANE MANAGEMENT",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "QUINLAN PHARMACY & MEDICAL EQUIPMENT",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PRODUCT KNOWLEDGE",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "PIERCE STEEL FABRICATORS",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PHILLIPS LYTLE LLP",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PATIENTS RISING",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "CT"
+  ]
+ },
+ {
+  "employer": "ODEON CAPITAL",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ODEON",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "O'BRIEN, GENTRY  SCOTT, LLC",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "NYSDOCCS",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NOVAFORGE CONSULTING PARTNERS LLC",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "PR"
+  ]
+ },
+ {
+  "employer": "NORTHTOWN AUTOMOTIVE COMPANIES",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NATIONAL MILK PRODUCERS FEDERATION",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "MASIELLO MARTUCCI HUGHES KULPA",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "KROG CORP",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HIRSCH & TUBIOLO",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HILL EAST GROUP",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "MD"
+  ]
+ },
+ {
+  "employer": "HAUSRATH'S LANDSCAPE",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HARRIS BEACH PLLC",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "GRENAUER ASSOCIATED",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "GLENDALE REALTY",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "FIDELITY INVESTMENTS",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CORNETTA BROS",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CONSUMER BRANDS ASSOCIATION",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "COMPU21 INSTITUTE",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CH REALTY",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BOUQUET HOLSTEIN PLLC",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BAIN CAPITAL",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ACRISURE LLC",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ACCENTURE",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "PA"
+  ]
+ },
+ {
+  "employer": "AARP",
+  "total": 1000.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "IMPACT JOURNALS LLC",
+  "total": 820.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PEOPLE INC.",
+  "total": 800.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "KALEIDA HEALTH",
+  "total": 800.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CATHOLIC HEALTH",
+  "total": 800.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CHEMUNG COUNTY",
+  "total": 797.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "STUMPTOWN STRATEGIES",
+  "total": 750.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "NATIONAL ENERGY & FUELS INSTITUTE",
+  "total": 750.0,
+  "n": 2,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "DOBMEIER JANITOR SUPPLY, INC.",
+  "total": 750.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CORNING, INC.",
+  "total": 750.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "ENGEN",
+  "total": 700.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BLACK ROCK PHARMACY",
+  "total": 700.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SALVATORE'S",
+  "total": 700.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PAULA'S DONUTS",
+  "total": 650.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ACEC NEW YORK",
+  "total": 650.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "LIQUOR TREE INC.",
+  "total": 600.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TRIDENT STRATEGIES",
+  "total": 599.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "WSP USA",
+  "total": 550.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BOCES",
+  "total": 535.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "EMMANUEL OSUYAH",
+  "total": 520.51,
+  "n": 1,
+  "states": [
+   "NC"
+  ]
+ },
+ {
+  "employer": "GOVERNMENT",
+  "total": 500.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ELBOW ROOM",
+  "total": 500.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "WORLD INSURANCE ASSOC",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "WHITES INC",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "AK"
+  ]
+ },
+ {
+  "employer": "UPSTATE STRATEGIC ADVISORS",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TRAVERE THERAPEUTICS",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "TOURO UNIVERSITY",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "THREE CATHOLIC SISTERS",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "THE INSURANCE MARKETPLACE",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "THE EVANS AGENCY, LLC",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "STUDENT",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "STEPHEN DEVELOPMENT",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ROCHESTER REGIONAL HEALTH",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ROBERTI GLOBAL LLC",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "REGENCY BUILDERS LLC",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PERRY'S ICE CREAM",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PBF ENERGY",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "OTHRAM",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "OGILVY GOVERNMENT RELATIONS",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "NYSIF",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NY SENATE",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NOW HEALTH GROUP",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "IL"
+  ]
+ },
+ {
+  "employer": "NIAGARA COUNTY",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NATIONAL TAXPAYERS UNION",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MERCURY",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NC"
+  ]
+ },
+ {
+  "employer": "MACS",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "LOEWS CORP.",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "KDCR PARTNERS",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "K & D DEVELOPMENT",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HOLTZMAN VOGEL",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HOLLAND & KNIGHT",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "ESCO DRUG CO INC",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "EAST END GROUP",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "E3COMMUNICATIONS",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CGCN",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "CASSIDY AND ASSOCIATES",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "CARMINA WOOD DESIGN",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BLUESTONE STRATEGIES",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "BLACKSTONE",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "BIOGEN",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "BGR GROUP",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "BECKER & POLIAKOFF P.A.",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "ATLAS CROSSING",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "AKIN GUMP STRAUSS HAUER & FELD LLP",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "ADVANCED POLICY CONSULTING, LLC",
+  "total": 500.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "E.C. COOPER, INC",
+  "total": 450.0,
+  "n": 5,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TOWN OF ELMA",
+  "total": 415.0,
+  "n": 4,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "THE DUNN GROUP",
+  "total": 370.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NIAGARA CUSTOM PLATING",
+  "total": 350.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TCIA",
+  "total": 300.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SUNY BUFFALO",
+  "total": 300.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "WEIL",
+  "total": 300.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "RPCI",
+  "total": 300.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "KITCHEN STORE",
+  "total": 300.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "KIMILCO",
+  "total": 300.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "JONES MEMORIAL HOSPITAL",
+  "total": 300.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ECMC",
+  "total": 300.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ERIE COUNTY SHERIFF'S OFFICE",
+  "total": 298.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BQ FINANCIAL",
+  "total": 280.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "STABLE ROCK",
+  "total": 260.25,
+  "n": 1,
+  "states": [
+   "PA"
+  ]
+ },
+ {
+  "employer": "ZAEPFEL DEVELOPMENT",
+  "total": 255.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "GXMT",
+  "total": 254.0,
+  "n": 3,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TOWN OF LOCKPORT",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "THE PATRIOT GUARDIANS",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TAXPRO FINANCIAL NETWORK INC.",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SPRAGUE ENERGY",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "SENECA MEADOWS INC",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PRICE CONSTRUCTION",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "POLICY INTEGRATION PARTNERS LLC",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "OGP HOSPITALITY",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NYS SUPREME COURT",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MONUMENT ADVOCACY",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "METRO ROBERTS",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ME ENGINEERS",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MARSHALL & POPP",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "LAWRENCE DYE INSURANCE",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "LANGAN ENGINEERING",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "JACK HUNT COIN BROKER",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "IMPACT JOURNALS, LLC",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "IMEG CONSULTANT CORP",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HOWELL MOTORS",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HAUSRATHS",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "GREENWOOD DRUG INC.",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "IA"
+  ]
+ },
+ {
+  "employer": "FORBES TATE PARTNERS",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "MD"
+  ]
+ },
+ {
+  "employer": "EMERGENCY NURSES ASSOC.",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "DOPKINS & COMPANY, LLP",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CORNING INC.",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CITY OF ELMIRA",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CATTARAUGUS COUNTY",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BRAVO GROUP",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BIG I NY",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BGR",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "DC"
+  ]
+ },
+ {
+  "employer": "BAY STREET PHARMACY",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "FL"
+  ]
+ },
+ {
+  "employer": "ASCEND EXECUTIVE COACHING",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ARAMARK",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "AMTRAK",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "PA"
+  ]
+ },
+ {
+  "employer": "AMERICAN REALTY",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ALNYLAM",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "VA"
+  ]
+ },
+ {
+  "employer": "ALLEGANY COUNTY OFFICE OF THE SHERIFF",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "A AND L MOVING",
+  "total": 250.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ICE GAME",
+  "total": 220.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "(SELF)",
+  "total": 200.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "RODRIGUEZ CONSTRUCTION GROUP",
+  "total": 200.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BUFFALO PSYCHIATRIC CENTER",
+  "total": 200.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "PRIMIS BANK",
+  "total": 175.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NY COURTS",
+  "total": 175.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NFP",
+  "total": 175.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MENGEL, METZER, BARR",
+  "total": 175.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ECWA",
+  "total": 164.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "A & L MOVING",
+  "total": 150.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "OP VILLAGE",
+  "total": 150.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ERIE COUNTY MEDICAL CENTER",
+  "total": 150.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "AZAR DRAIGN CO",
+  "total": 150.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TIOGA COUNTY",
+  "total": 125.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NORTHERN FORESTS, LLC",
+  "total": 125.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "AZAR DESIGN CO",
+  "total": 124.0,
+  "n": 2,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ZAWADZKI JEWELERS",
+  "total": 120.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ANDREWS, BERNSTEIN AND MARANTO",
+  "total": 120.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TOWN OF CLARENCE",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TOLA STRATEGIES MANAGEMENT",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "TOLA STRATEGIES  MANAGEMENT",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "MONTANTE GROUP",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HOWARD HANNA REAL ESTATE",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HON. DEANNE TRIPI",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "FLEXEBRICK INC",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CASILIO COMMUNICATIONS",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CAROLINA FIRST TAX ACCOUNTING",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "BARRY ZEPLOWITZ & ASSOCIATES",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "AIMS",
+  "total": 100.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "DEPARTMENT OF JUSTICE",
+  "total": 99.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "CAROLINA FIRST TAX  ACCOUNTING",
+  "total": 65.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "AZAR DESIGN",
+  "total": 65.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "NYS SENATE",
+  "total": 50.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "ERIE COUNTY",
+  "total": 50.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ },
+ {
+  "employer": "HURLEY MANAGEMENT",
+  "total": 5.0,
+  "n": 1,
+  "states": [
+   "NY"
+  ]
+ }
+]

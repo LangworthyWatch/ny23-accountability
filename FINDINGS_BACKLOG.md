@@ -1898,3 +1898,10 @@ Floor that day: he is recorded on all ten Sept 15 roll calls (4:46-5:27 PM and 9
 - [ ] Wayback: Ballotpedia 2022/2024/2026 pages returned 520/429 on save (archive.org overloaded Nov 4); retry. Facebook photo.php permalink capture requested, playback 404.
 - [ ] Town-level canvass from county boards when posted (Tioga +5, Allegany +4, Schuyler +3 moved most vs. 2024 presidential; no causal claim).
 - Lesson: the fairness check that made this entry publishable was the peer table (every NY GOP incumbent down 4 to 9 pts). Without it, "his share dropped a lot" would have been the site's own missing-context framing.
+
+## 2026-11-05: donors and federal contracts (entry 2026-11-05-health-industry-money-committee-seat, #184)
+- [ ] Broader version (defense, energy, telecom): pilot in research/sources/donor-contractors-2026-11-05/pilot_pacs2_sponsor_usaspending.json; 128 corporate sponsors, 65 name-matched; needs hand review and family sums before any use. User has not ruled it out.
+- [ ] Dec 3: post-general reports; refresh the 2025-26 health totals and the per-parent table.
+- [ ] NY DOH enrollment workbook: Wayback save returned 520 twice; retry.
+- [ ] Check whether he signed the annual House Medicare Advantage letters (2025, 2026).
+- Method note: FEC committee master (cmYY.zip, field 13 connected org, field 12 org type) is the key to classifying PAC donors; USAspending has no parent-rollup category, so sum recipient families by name token and review by hand; the Clerk XML's first <yea-total> is a party subtotal.

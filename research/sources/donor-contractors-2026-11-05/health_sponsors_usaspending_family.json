@@ -1,0 +1,1337 @@
+{
+ "Amgen": {
+  "contracts": {
+   "family_total": 560375434.46,
+   "n": 2,
+   "members": [
+    [
+     "AMGEN USA INC",
+     550808220
+    ],
+    [
+     "AMGEN INC.",
+     9567215
+    ]
+   ],
+   "raw_n": 2,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Elevance": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 3,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Wellpoint": {
+  "contracts": {
+   "family_total": 1014593420.32,
+   "n": 1,
+   "members": [
+    [
+     "WELLPOINT FEDERAL SOLUTIONS, INC.",
+     1014593420
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 4199707.0,
+   "n": 1,
+   "members": [
+    [
+     "WELLPOINT CARE NETWORK, INC.",
+     4199707
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  }
+ },
+ "Anthem": {
+  "contracts": {
+   "family_total": 3915800.83,
+   "n": 3,
+   "members": [
+    [
+     "ANTHEM SURGICAL INSTRUMENT SERVICES",
+     2029824
+    ],
+    [
+     "ANTHEM COMMERCIAL AIR SERVICES INC",
+     1880481
+    ],
+    [
+     "ANTHEM BROADBAND OF NEVADA, LLC",
+     5496
+    ]
+   ],
+   "raw_n": 3,
+   "err": []
+  },
+  "grants": {
+   "family_total": 6185337.5,
+   "n": 2,
+   "members": [
+    [
+     "ANTHEM STRONG FAMILIES",
+     5934558
+    ],
+    [
+     "ANTHEM COLUMBIA LLLP",
+     250780
+    ]
+   ],
+   "raw_n": 2,
+   "err": []
+  }
+ },
+ "MVP Health": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "UnitedHealth": {
+  "contracts": {
+   "family_total": -43819703.86,
+   "n": 1,
+   "members": [
+    [
+     "UNITEDHEALTH MILITARY & VETERANS SERVICES, LLC",
+     -43819704
+    ]
+   ],
+   "raw_n": 25,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 1,
+   "err": []
+  }
+ },
+ "Optum": {
+  "contracts": {
+   "family_total": 81355389863.14,
+   "n": 6,
+   "members": [
+    [
+     "OPTUM PUBLIC SECTOR SOLUTIONS, INC.",
+     81346445638
+    ],
+    [
+     "OPTUM PHARMACY 801, INC.",
+     5551817
+    ],
+    [
+     "OPTUM INFUSION SERVICES 308, LLC",
+     3177297
+    ],
+    [
+     "OPTUM FRONTIER THERAPIES II, LLC",
+     116747
+    ],
+    [
+     "OPTUM LABS TOPAZ INC",
+     87333
+    ],
+    [
+     "OPTUM PHARMACY 601, LLC",
+     11031
+    ]
+   ],
+   "raw_n": 12,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "United Healthcare": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 1,
+   "err": [
+    {
+     "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+   ]
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 1,
+   "err": [
+    {
+     "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    }
+   ]
+  }
+ },
+ "Pfizer": {
+  "contracts": {
+   "family_total": 1830680243.86,
+   "n": 1,
+   "members": [
+    [
+     "PFIZER INC",
+     1830680244
+    ]
+   ],
+   "raw_n": 6,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 1,
+   "err": []
+  }
+ },
+ "Biogen": {
+  "contracts": {
+   "family_total": 206513.85,
+   "n": 1,
+   "members": [
+    [
+     "BIOGEN U.S. CORPORATION",
+     206514
+    ]
+   ],
+   "raw_n": 5,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 1,
+   "err": []
+  }
+ },
+ "DaVita": {
+  "contracts": {
+   "family_total": 964793761.62,
+   "n": 1,
+   "members": [
+    [
+     "DAVITA INC.",
+     964793762
+    ]
+   ],
+   "raw_n": 12,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Laboratory Corporation of America": {
+  "contracts": {
+   "family_total": 446538507.65,
+   "n": 5,
+   "members": [
+    [
+     "LABORATORY CORPORATION OF AMERICA",
+     413009012
+    ],
+    [
+     "LABORATORY CORPORATION OF AMERICA",
+     31508458
+    ],
+    [
+     "LABORATORY CORPORATION OF AMERICA HOLDINGS",
+     1938338
+    ],
+    [
+     "LABORATORY CORPORATION OF AMERICA",
+     50700
+    ],
+    [
+     "LABORATORY CORPORATION OF AMERICA",
+     32000
+    ]
+   ],
+   "raw_n": 13,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Labcorp": {
+  "contracts": {
+   "family_total": 8176097.03,
+   "n": 3,
+   "members": [
+    [
+     "LABCORP OKLAHOMA INC",
+     8112973
+    ],
+    [
+     "LABCORP GENETICS INC.",
+     251175
+    ],
+    [
+     "LABCORP EARLY DEVELOPMENT LABORATORIES INC",
+     -188051
+    ]
+   ],
+   "raw_n": 3,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Highmark": {
+  "contracts": {
+   "family_total": 2449108.55,
+   "n": 4,
+   "members": [
+    [
+     "HIGHMARK MARINE FABRICATION, LLC",
+     1882690
+    ],
+    [
+     "HIGHMARK ERECTORS, INC",
+     252873
+    ],
+    [
+     "HIGHMARK RESOURCES LLC",
+     192000
+    ],
+    [
+     "HIGHMARK CAPITAL LLC",
+     121546
+    ]
+   ],
+   "raw_n": 6,
+   "err": []
+  },
+  "grants": {
+   "family_total": 1135044.0,
+   "n": 2,
+   "members": [
+    [
+     "HIGHMARK MARINE FABRICATION, LLC",
+     969191
+    ],
+    [
+     "HIGHMARK PROPERTIES LLC",
+     165853
+    ]
+   ],
+   "raw_n": 3,
+   "err": []
+  }
+ },
+ "AstraZeneca": {
+  "contracts": {
+   "family_total": -31796.92,
+   "n": 1,
+   "members": [
+    [
+     "ASTRAZENECA PHARMACEUTICALS LP",
+     -31797
+    ]
+   ],
+   "raw_n": 3,
+   "err": []
+  },
+  "grants": {
+   "family_total": 3024162.0,
+   "n": 1,
+   "members": [
+    [
+     "ASTRAZENECA PHARMACEUTICALS LP",
+     3024162
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  }
+ },
+ "Edwards Lifesciences": {
+  "contracts": {
+   "family_total": 107515322.5,
+   "n": 1,
+   "members": [
+    [
+     "EDWARDS LIFESCIENCES LLC",
+     107515322
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Eli Lilly": {
+  "contracts": {
+   "family_total": 286374.76,
+   "n": 1,
+   "members": [
+    [
+     "ELI LILLY AND COMPANY",
+     286375
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Alnylam": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "BioMarin": {
+  "contracts": {
+   "family_total": -66576.7,
+   "n": 1,
+   "members": [
+    [
+     "BIOMARIN PHARMACEUTICAL INC",
+     -66577
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Bristol-Myers Squibb": {
+  "contracts": {
+   "family_total": 20802442.65,
+   "n": 1,
+   "members": [
+    [
+     "BRISTOL-MYERS SQUIBB COMPANY",
+     20802443
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Genentech": {
+  "contracts": {
+   "family_total": 138737220.16,
+   "n": 2,
+   "members": [
+    [
+     "GENENTECH USA, INC",
+     137651690
+    ],
+    [
+     "GENENTECH INC",
+     1085530
+    ]
+   ],
+   "raw_n": 2,
+   "err": []
+  },
+  "grants": {
+   "family_total": -217352.86,
+   "n": 1,
+   "members": [
+    [
+     "GENENTECH INC",
+     -217353
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  }
+ },
+ "Molina Healthcare": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Novartis": {
+  "contracts": {
+   "family_total": 29884214.82,
+   "n": 2,
+   "members": [
+    [
+     "NOVARTIS PHARMACEUTICALS CORPORATION",
+     29884516
+    ],
+    [
+     "NOVARTIS VACCINES AND DIAGNOSTICS, INC.",
+     -301
+    ]
+   ],
+   "raw_n": 4,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Novocure": {
+  "contracts": {
+   "family_total": 36109635.64,
+   "n": 1,
+   "members": [
+    [
+     "NOVOCURE INC",
+     36109636
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "McKesson": {
+  "contracts": {
+   "family_total": 44883658457.32,
+   "n": 11,
+   "members": [
+    [
+     "MCKESSON CORPORATION",
+     45334353704
+    ],
+    [
+     "MCKESSON CORPORATION",
+     630885519
+    ],
+    [
+     "MCKESSON MEDICAL-SURGICAL GOVERNMENT SOLUTIONS LLC",
+     8121758
+    ],
+    [
+     "MCKESSON SPECIALTY HEALTH PHARMACEUTICAL & BIOTECH SOLUTIONS LLC",
+     2973620
+    ],
+    [
+     "MCKESSON CORPORATION",
+     874296
+    ],
+    [
+     "MCKESSON MEDICAL-SURGICAL INC.",
+     613702
+    ]
+   ],
+   "raw_n": 13,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Gilead": {
+  "contracts": {
+   "family_total": -10008483.03,
+   "n": 1,
+   "members": [
+    [
+     "GILEAD SCIENCES INC",
+     -10008483
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 1561121.81,
+   "n": 4,
+   "members": [
+    [
+     "MOUNT GILEAD HOUSING AUTHORITY",
+     879830
+    ],
+    [
+     "THE BALM IN GILEAD INC",
+     540000
+    ],
+    [
+     "28 MT GILEAD LLC",
+     143948
+    ],
+    [
+     "MOUNT GILEAD, VILLAGE OF",
+     -2656
+    ]
+   ],
+   "raw_n": 4,
+   "err": []
+  }
+ },
+ "US Renal Care": {
+  "contracts": {
+   "family_total": 95640645.24,
+   "n": 1,
+   "members": [
+    [
+     "US RENAL CARE INC",
+     95640645
+    ]
+   ],
+   "raw_n": 2,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Alexion": {
+  "contracts": {
+   "family_total": 2697757.12,
+   "n": 1,
+   "members": [
+    [
+     "ALEXION PHARMACEUTICALS INC",
+     2697757
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Siemens Medical": {
+  "contracts": {
+   "family_total": 901122187.24,
+   "n": 2,
+   "members": [
+    [
+     "SIEMENS MEDICAL SOLUTIONS USA, INC.",
+     900738651
+    ],
+    [
+     "SIEMENS MEDICAL SOLUTIONS USA, INC.",
+     383536
+    ]
+   ],
+   "raw_n": 2,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Siemens Healthineers": {
+  "contracts": {
+   "family_total": 2075198.03,
+   "n": 1,
+   "members": [
+    [
+     "SIEMENS HEALTHINEERS LTD.",
+     2075198
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Takeda": {
+  "contracts": {
+   "family_total": 3309601.13,
+   "n": 5,
+   "members": [
+    [
+     "TAKEDA PHARMACEUTICALS AMERICA, INC.",
+     8550021
+    ],
+    [
+     "TAKEDA PHARMACEUTICALS AMERICA, INC",
+     1992324
+    ],
+    [
+     "TAKEDA KASEIHIN CO.,LTD.",
+     147699
+    ],
+    [
+     "TAKEDA TRADING CO., LTD.",
+     35824
+    ],
+    [
+     "TAKEDA VACCINES INC",
+     -7416267
+    ]
+   ],
+   "raw_n": 5,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Air Methods": {
+  "contracts": {
+   "family_total": 15484494.649999999,
+   "n": 2,
+   "members": [
+    [
+     "AIR METHODS, LLC",
+     12737167
+    ],
+    [
+     "AIR METHODS, LLC",
+     2747327
+    ]
+   ],
+   "raw_n": 3,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Bayer": {
+  "contracts": {
+   "family_total": 48211724.91,
+   "n": 7,
+   "members": [
+    [
+     "BAYER HEALTHCARE PHARMACEUTICALS INC",
+     22331194
+    ],
+    [
+     "BAYER CONSTRUCTION COMPANY, INC.",
+     16199323
+    ],
+    [
+     "BAYER HEALTHCARE LLC",
+     7099469
+    ],
+    [
+     "JOHANN BAYER",
+     2229663
+    ],
+    [
+     "BAYER CROPSCIENCE LLC",
+     403200
+    ],
+    [
+     "BAYER HEALTHCARE LLC",
+     0
+    ]
+   ],
+   "raw_n": 14,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 1,
+   "err": []
+  }
+ },
+ "Blue Shield of California": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Cambia": {
+  "contracts": {
+   "family_total": 30000.0,
+   "n": 1,
+   "members": [
+    [
+     "CAMBIA",
+     30000
+    ]
+   ],
+   "raw_n": 2,
+   "err": []
+  },
+  "grants": {
+   "family_total": 40286.0,
+   "n": 1,
+   "members": [
+    [
+     "DONA UN LIBRO CAMBIA UNA MENTE",
+     40286
+    ]
+   ],
+   "raw_n": 10,
+   "err": []
+  }
+ },
+ "GuideWell": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Florida Blue": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Novitas": {
+  "contracts": {
+   "family_total": 912418196.28,
+   "n": 1,
+   "members": [
+    [
+     "NOVITAS SOLUTIONS, INC.",
+     912418196
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "First Coast Service Options": {
+  "contracts": {
+   "family_total": 266450488.14,
+   "n": 1,
+   "members": [
+    [
+     "FIRST COAST SERVICE OPTIONS, INC.",
+     266450488
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Maximus": {
+  "contracts": {
+   "family_total": 6014119492.71,
+   "n": 7,
+   "members": [
+    [
+     "MAXIMUS FEDERAL SERVICES, INC.",
+     4641248101
+    ],
+    [
+     "MAXIMUS EDUCATION LLC",
+     1061431370
+    ],
+    [
+     "MAXIMUS FEDERAL TECHNOLOGY SOLUTIONS, LLC",
+     311388641
+    ],
+    [
+     "MAXIMUS DIGITAL SOLUTIONS, LLC",
+     41160
+    ],
+    [
+     "MAXIMUS INC",
+     10220
+    ],
+    [
+     "LUPUS MAXIMUS SECURITY, LLC",
+     0
+    ]
+   ],
+   "raw_n": 14,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Centene": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 6,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Fidelis": {
+  "contracts": {
+   "family_total": 119344866.9,
+   "n": 7,
+   "members": [
+    [
+     "FIDELIS SUSTAINABILITY DISTRIBUTION LLC",
+     84767054
+    ],
+    [
+     "FIDELIS-BBD, LLC",
+     29371171
+    ],
+    [
+     "SEMPER FIDELIS CONSTRUCTION & DEVELOPMENT LLC",
+     2533225
+    ],
+    [
+     "FIDELIS HEALTHCARE LLC",
+     2101452
+    ],
+    [
+     "FIDELIS DESIGN AND CONSTRUCTION, LLC",
+     471464
+    ],
+    [
+     "FIDELIS TECHNOLOGY CONSULTING GROUP, LLC",
+     100000
+    ]
+   ],
+   "raw_n": 7,
+   "err": []
+  },
+  "grants": {
+   "family_total": 300000.0,
+   "n": 1,
+   "members": [
+    [
+     "FIDELIS FEDERAL CREDIT UNION",
+     300000
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  }
+ },
+ "Health Net": {
+  "contracts": {
+   "family_total": 8565523096.86,
+   "n": 1,
+   "members": [
+    [
+     "HEALTH NET FEDERAL SERVICES, LLC",
+     8565523097
+    ]
+   ],
+   "raw_n": 11,
+   "err": []
+  },
+  "grants": {
+   "family_total": 40330053.83,
+   "n": 4,
+   "members": [
+    [
+     "HEALTH NET, INC.",
+     28154450
+    ],
+    [
+     "COMMUNITY HEALTH NET",
+     8037651
+    ],
+    [
+     "MID-COAST HEALTH NET, INC.",
+     2105000
+    ],
+    [
+     "DELAWARE HEALTH NET, INC.",
+     2032953
+    ]
+   ],
+   "raw_n": 60,
+   "err": []
+  }
+ },
+ "Roche": {
+  "contracts": {
+   "family_total": 495777403.18,
+   "n": 9,
+   "members": [
+    [
+     "ROCHE DIAGNOSTICS CORPORATION",
+     422910646
+    ],
+    [
+     "HOFFMANN-LA ROCHE INC.",
+     69872020
+    ],
+    [
+     "ROCHE DIABETES CARE INC",
+     2933037
+    ],
+    [
+     "J.B. ROCHE (MFG) LIMITED",
+     71390
+    ],
+    [
+     "ROCHE DIAGNOSTICS S.P.A.",
+     45817
+    ],
+    [
+     "ROCHE TERCEIRIZACAO DE MAO DE OBRA",
+     16707
+    ]
+   ],
+   "raw_n": 59,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 77,
+   "err": []
+  }
+ },
+ "Ardelyx": {
+  "contracts": {
+   "family_total": 72207.02,
+   "n": 1,
+   "members": [
+    [
+     "ARDELYX, INC.",
+     72207
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Merck": {
+  "contracts": {
+   "family_total": 196585964.7,
+   "n": 1,
+   "members": [
+    [
+     "MERCK SHARP & DOHME LLC",
+     196585965
+    ]
+   ],
+   "raw_n": 7,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Abbott": {
+  "contracts": {
+   "family_total": 793323654.51,
+   "n": 29,
+   "members": [
+    [
+     "ABBOTT LABORATORIES INC.",
+     322872014
+    ],
+    [
+     "ABBOTT RAPID DX NORTH AMERICA LLC",
+     262588840
+    ],
+    [
+     "ABBOTT LABORATORIES INC.",
+     62218723
+    ],
+    [
+     "ABBOTT LABORATORIES",
+     41797844
+    ],
+    [
+     "ABBOTT LABORATORIES INC.",
+     31159979
+    ],
+    [
+     "ABBOTT MOLECULAR INC.",
+     29398498
+    ]
+   ],
+   "raw_n": 38,
+   "err": []
+  },
+  "grants": {
+   "family_total": 72662180.89,
+   "n": 5,
+   "members": [
+    [
+     "ABBOTT HOUSE",
+     72377646
+    ],
+    [
+     "ABBOTT INDEPENDENT SCHOOL DISTRICT",
+     137117
+    ],
+    [
+     "NEWTON ABBOTT VOLUNTEER FIRE CO INC",
+     105528
+    ],
+    [
+     "THOMAS, ABBOTT GORDON",
+     41890
+    ],
+    [
+     "ALEXANDER O ABBOTT",
+     0
+    ]
+   ],
+   "raw_n": 5,
+   "err": []
+  }
+ },
+ "Option Care": {
+  "contracts": {
+   "family_total": -19280.6,
+   "n": 2,
+   "members": [
+    [
+     "OPTION CARE ENTERPRISES INC",
+     9891
+    ],
+    [
+     "OPTION CARE HEALTH INC",
+     -29172
+    ]
+   ],
+   "raw_n": 2,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ },
+ "Insmed": {
+  "contracts": {
+   "family_total": 108530.96,
+   "n": 1,
+   "members": [
+    [
+     "INSMED INCORPORATED",
+     108531
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  },
+  "grants": {
+   "family_total": -148473.35,
+   "n": 1,
+   "members": [
+    [
+     "INSMED INCORPORATED",
+     -148473
+    ]
+   ],
+   "raw_n": 1,
+   "err": []
+  }
+ },
+ "Blue Cross Blue Shield Association": {
+  "contracts": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  },
+  "grants": {
+   "family_total": 0,
+   "n": 0,
+   "members": [],
+   "raw_n": 0,
+   "err": []
+  }
+ }
+}

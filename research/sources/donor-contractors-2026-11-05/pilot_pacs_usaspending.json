@@ -1,0 +1,4886 @@
+[
+ {
+  "pac": "AIR LINE PILOTS ASSOCIATION PAC",
+  "cid": "C00035451",
+  "amount": 20000.0,
+  "key": "AIR LINE PILOTS",
+  "hits": []
+ },
+ {
+  "pac": "ALLIED PILOTS ASSOCIATION PAC",
+  "cid": "C00267849",
+  "amount": 20000.0,
+  "key": "ALLIED PILOTS",
+  "hits": []
+ },
+ {
+  "pac": "SOUTHWEST AIRLINES PILOTS' ASSOCIATION PAC (SWAPA PAC)",
+  "cid": "C00360669",
+  "amount": 20000.0,
+  "key": "SOUTHWEST AIRLINES PILOTS",
+  "hits": []
+ },
+ {
+  "pac": "BUILD PAC OF THE NATIONAL ASSOCIATION OF HOME BUILDERS (BUILDPAC)",
+  "cid": "C00000901",
+  "amount": 20000.0,
+  "key": "BUILD HOME BUILDERS",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL ASSOCIATION OF REALTORS PAC (RPAC)",
+  "cid": "C00030718",
+  "amount": 15000.0,
+  "key": "REALTORS",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN COUNCIL OF ENGINEERING COMPANIES (ACEC PAC)",
+  "cid": "C00010868",
+  "amount": 13500.0,
+  "key": "COUNCIL ENGINEERING COMPANIES",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN HOSPITAL ASSOCIATION PAC",
+  "cid": "C00106146",
+  "amount": 12500.0,
+  "key": "HOSPITAL",
+  "hits": [
+   {
+    "amount": 169132167.69,
+    "recipient_id": "d2f713e5-d01d-255c-e219-6dd5a8c0219d-C",
+    "name": "HOSPITAL HOUSEKEEPING SYSTEMS LLC",
+    "code": "105375799",
+    "uei": "GQF1LMHMZKE3",
+    "total_outlays": null
+   },
+   {
+    "amount": 162642495.41,
+    "recipient_id": "d192652e-3551-3991-1674-6885c846fff2-C",
+    "name": "KAISER FOUNDATION HOSPITALS",
+    "code": "150829349",
+    "uei": "P1RTMASB37B5",
+    "total_outlays": null
+   },
+   {
+    "amount": 131612553.54,
+    "recipient_id": "69fdd6a3-d722-bcef-8646-48a783f52aff-C",
+    "name": "NEW YORK CITY HEALTH AND HOSPITALS CORPORATION",
+    "code": "064961261",
+    "uei": "M3QSBBNAVY59",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "CHARTER COMMUNICATIONS INC. PAC",
+  "cid": "C00426775",
+  "amount": 12500.0,
+  "key": "CHARTER COMMUNICATIONS",
+  "hits": [
+   {
+    "amount": 19467688.96,
+    "recipient_id": "2684aa39-7846-feea-650c-66ad56c1a419-C",
+    "name": "CHARTER COMMUNICATIONS OPERATING LLC",
+    "code": "102162653",
+    "uei": "MX16CA896HK5",
+    "total_outlays": null
+   },
+   {
+    "amount": 2894138.37,
+    "recipient_id": "2328af3a-49f8-163a-ae43-c3ad3b46f9f8-C",
+    "name": "TIME WARNER CABLE ENTERPRISES LLC",
+    "code": "790784474",
+    "uei": "GNN3NDUFAE83",
+    "total_outlays": null
+   },
+   {
+    "amount": 955294.8,
+    "recipient_id": "a26d2b57-4f66-fe9a-bbc0-64a81f944fe2-C",
+    "name": "CHARTER COMMUNICATIONS OPERATING, LLC",
+    "code": "151068009",
+    "uei": "MYGPN68SCYJ3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "INDEPENDENT INSURANCE AGENTS & BROKERS OF AMERICA, INC. PAC (INSURPAC)",
+  "cid": "C00022343",
+  "amount": 12500.0,
+  "key": "INDEPENDENT INSURANCE AGENTS BROKERS",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL AIR TRAFFIC CONTROLLERS ASSOCIATION PAC",
+  "cid": "C00238725",
+  "amount": 11500.0,
+  "key": "AIR TRAFFIC CONTROLLERS",
+  "hits": []
+ },
+ {
+  "pac": "AMGEN INC. PAC",
+  "cid": "C00251876",
+  "amount": 10500.0,
+  "key": "AMGEN",
+  "hits": [
+   {
+    "amount": 550808219.72,
+    "recipient_id": "c4a5ad8c-8508-57f1-d795-c77512f85fe9-C",
+    "name": "AMGEN USA INC",
+    "code": "962075045",
+    "uei": "XPGNQMXHP493",
+    "total_outlays": null
+   },
+   {
+    "amount": 9567214.74,
+    "recipient_id": "6a9649d2-7b47-0803-e96e-601249d8b713-C",
+    "name": "AMGEN INC.",
+    "code": "039976196",
+    "uei": "D92HARF1LKA9",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN CRYSTAL SUGAR COMPANY PAC",
+  "cid": "C00110338",
+  "amount": 10000.0,
+  "key": "CRYSTAL SUGAR",
+  "hits": []
+ },
+ {
+  "pac": "CARPENTERS LEGISLATIVE IMPROVEMENT COMMITTEE UNITED BROTHERHOOD OF CARPENTERS AND JOINERS",
+  "cid": "C00001016",
+  "amount": 10000.0,
+  "key": "CARPENTERS LEGISLATIVE IMPROVEMENT UNITED BROTHERHOOD CARPENTERS JOINERS",
+  "hits": []
+ },
+ {
+  "pac": "CONQUERING CANCER PAC",
+  "cid": "C00785014",
+  "amount": 10000.0,
+  "key": "CONQUERING CANCER",
+  "hits": []
+ },
+ {
+  "pac": "CORNING INCORPORATED EMPLOYEES PAC (COREPAC)",
+  "cid": "C00033589",
+  "amount": 10000.0,
+  "key": "CORNING",
+  "hits": [
+   {
+    "amount": 1303881.65,
+    "recipient_id": "8348abb8-7ace-3310-c94c-66da4398121a-C",
+    "name": "HUGHES BROTHERS INC",
+    "code": "007273279",
+    "uei": "XSDYRJS7G6F9",
+    "total_outlays": null
+   },
+   {
+    "amount": 547017.5,
+    "recipient_id": "0b37c343-8807-b92f-3c32-77aede26b98a-C",
+    "name": "ACE AND COMPANY, INC",
+    "code": "039998534",
+    "uei": "UEKBTGBTHRN1",
+    "total_outlays": null
+   },
+   {
+    "amount": 44071.0,
+    "recipient_id": "b7e737fe-ef7d-5ae3-bc15-813150419554-C",
+    "name": "CORNING POWERSPORTS INC",
+    "code": null,
+    "uei": "MRU3R59QU9A5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ELEVANCE HEALTH, INC. PAC (ELEVANCE HEALTH PAC)",
+  "cid": "C00197228",
+  "amount": 10000.0,
+  "key": "ELEVANCE HEALTH",
+  "hits": [
+   {
+    "amount": 1014593420.32,
+    "recipient_id": "9668679c-e45b-76b9-c5c8-62cd7c157d08-C",
+    "name": "WELLPOINT FEDERAL SOLUTIONS, INC.",
+    "code": "807899653",
+    "uei": "TJNDFEALGTB5",
+    "total_outlays": null
+   },
+   {
+    "amount": 149907671.06,
+    "recipient_id": "35a1e16b-e0cc-c851-3840-ff04edb8ef6f-C",
+    "name": "CARELON HEALTH FEDERAL SERVICES, INC",
+    "code": "079691240",
+    "uei": "HHJEXKL3BXC3",
+    "total_outlays": null
+   },
+   {
+    "amount": -30279.29,
+    "recipient_id": "c1f4bd31-f76a-e52f-fc8e-4a835d6c22c0-C",
+    "name": "NEW ENGLAND RESEARCH INSTITUTES INC",
+    "code": "153914080",
+    "uei": "FFWJTXCKDLK5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "FRIENDS OF COMMUNITY ONCOLOGY PAC",
+  "cid": "C00383976",
+  "amount": 10000.0,
+  "key": "FRIENDS COMMUNITY ONCOLOGY",
+  "hits": []
+ },
+ {
+  "pac": "MVL PAC",
+  "cid": "C00817338",
+  "amount": 10000.0,
+  "key": "MVL",
+  "hits": [
+   {
+    "amount": 238683880.95,
+    "recipient_id": "2d5d85e7-1526-2949-e4c0-5f9973685bfc-C",
+    "name": "MVL USA INC",
+    "code": "116760684",
+    "uei": "SVQFXR2M5HD5",
+    "total_outlays": null
+   },
+   {
+    "amount": 160895497.77,
+    "recipient_id": "3188c757-e8fa-2ed5-8396-1cc783db9d33-C",
+    "name": "MVL-BROMGROVE JV LLC",
+    "code": "117929246",
+    "uei": "MEM2PWE3NF14",
+    "total_outlays": null
+   },
+   {
+    "amount": 30660251.57,
+    "recipient_id": "45890e8d-ccc8-ed5f-f1a1-c1d89319cc25-C",
+    "name": "MVL BUILDERS JV LLC",
+    "code": null,
+    "uei": "WLGVNE8PJCL3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATIONAL ASSOCIATION OF POSTAL SUPERVISORS PAC",
+  "cid": "C00092957",
+  "amount": 10000.0,
+  "key": "POSTAL SUPERVISORS",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL FUEL GAS COMPANY FEDERAL PAC",
+  "cid": "C00083758",
+  "amount": 10000.0,
+  "key": "FUEL GAS",
+  "hits": [
+   {
+    "amount": 446177.16,
+    "recipient_id": "489b35d1-141d-7404-54a0-f786c66dc7fd-C",
+    "name": "NATIONAL FUEL GAS DISTRIBUTION CORP",
+    "code": "006976666",
+    "uei": "DJH7EMS6NR45",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATIONAL PROPANE GAS ASSOCIATION PAC",
+  "cid": "C00079681",
+  "amount": 10000.0,
+  "key": "PROPANE GAS",
+  "hits": [
+   {
+    "amount": 13760.0,
+    "recipient_id": "3e002c0b-f199-ead0-6d32-ff5746321764-C",
+    "name": "EASTERN PROPANE GAS INC",
+    "code": "019326149",
+    "uei": "PLQMLGLU8WA3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATIONAL STONE, SAND & GRAVEL ASSOCIATION ROCKPAC (NSSGA ROCKPAC)",
+  "cid": "C00089458",
+  "amount": 10000.0,
+  "key": "STONE SAND GRAVEL ROCKPAC",
+  "hits": []
+ },
+ {
+  "pac": "NETJETS ASSOCIATION OF SHARED AIRCRAFT PILOTS PAC; NJASAP PAC",
+  "cid": "C00488262",
+  "amount": 10000.0,
+  "key": "NETJETS SHARED AIRCRAFT PILOTS ; NJASAP",
+  "hits": []
+ },
+ {
+  "pac": "PUBLIC SERVICE ENTERPRISE GROUP INC. PAC (PEGPAC)",
+  "cid": "C00383489",
+  "amount": 10000.0,
+  "key": "PUBLIC SERVICE ENTERPRISE",
+  "hits": []
+ },
+ {
+  "pac": "REPUBLICAN MAINSTREET PARTNERSHIP PAC",
+  "cid": "C00165159",
+  "amount": 10000.0,
+  "key": "REPUBLICAN MAINSTREET PARTNERSHIP",
+  "hits": []
+ },
+ {
+  "pac": "SIEMENS ENERGY, INC. PAC",
+  "cid": "C00848820",
+  "amount": 10000.0,
+  "key": "SIEMENS ENERGY",
+  "hits": [
+   {
+    "amount": 15831198.03,
+    "recipient_id": "1ca02fd1-57fe-6f67-83d2-ca7ced573002-C",
+    "name": "SIEMENS ENERGY INC",
+    "code": "153977632",
+    "uei": "WJD2N1VXYWZ3",
+    "total_outlays": null
+   },
+   {
+    "amount": 732611.84,
+    "recipient_id": "97f5a15c-342b-8b07-7c6a-612f14bc65c8-C",
+    "name": "SIEMENS ENERGY, INC.",
+    "code": "878915073",
+    "uei": "G9PNKV44FRN5",
+    "total_outlays": null
+   },
+   {
+    "amount": 397757.35,
+    "recipient_id": "6473083e-2121-b457-0cc4-67e4f0b9dac4-C",
+    "name": "SIEMENS ENERGY, INC.",
+    "code": "143594500",
+    "uei": "S7ADK645PK26",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "BRINGING REPUBLICAN EXCELLENCE TO TOWN (BRETTPAC)",
+  "cid": "C00483487",
+  "amount": 10000.0,
+  "key": "BRINGING REPUBLICAN EXCELLENCE TO TOWN",
+  "hits": []
+ },
+ {
+  "pac": "CONSTELLATION BRANDS INC PAC",
+  "cid": "C00304832",
+  "amount": 10000.0,
+  "key": "CONSTELLATION BRANDS",
+  "hits": []
+ },
+ {
+  "pac": "KOCH INDUSTRIES, INC. PAC (KOCHPAC)",
+  "cid": "C00236489",
+  "amount": 10000.0,
+  "key": "KOCH INDUSTRIES",
+  "hits": [
+   {
+    "amount": 2442958.69,
+    "recipient_id": "73af9233-7f58-67c1-bdc1-efb631f1c934-C",
+    "name": "INFOR (US), LLC",
+    "code": "111466152",
+    "uei": "DAJAN21G8AB5",
+    "total_outlays": null
+   },
+   {
+    "amount": 7710.0,
+    "recipient_id": "554b9a5b-c24a-8db9-7647-a4306109654a-C",
+    "name": "INTERCONNECT SYSTEMS INTERNATIONAL, LLC",
+    "code": "153702261",
+    "uei": "HNYSKKHTVRN4",
+    "total_outlays": null
+   },
+   {
+    "amount": -6000.0,
+    "recipient_id": "1ce0b0db-eddc-aec8-1175-205396fc68c9-C",
+    "name": "INFOR (US), INC",
+    "code": "107700176",
+    "uei": "L27BMTK1WJD8",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "LEADERSHIP AND LOYALTY ONLY TO AMERICA (LALOTA PAC)",
+  "cid": "C00813063",
+  "amount": 10000.0,
+  "key": "LEADERSHIP LOYALTY ONLY TO",
+  "hits": []
+ },
+ {
+  "pac": "MARATHON PETROLEUM CORPORATION EMPLOYEES PAC (MPAC)",
+  "cid": "C00496307",
+  "amount": 10000.0,
+  "key": "MARATHON PETROLEUM",
+  "hits": [
+   {
+    "amount": 1833711713.09,
+    "recipient_id": "8878e10c-20f9-85e0-d6e3-e61e5e367aac-C",
+    "name": "MARATHON PETROLEUM COMPANY LP",
+    "code": "962993101",
+    "uei": "LEM4ASHMJES5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATIONAL ASSOCIATION OF LETTER CARRIERS OF U.S.A. (LETTER CARRIER POLITICAL FUND)",
+  "cid": "C00023580",
+  "amount": 10000.0,
+  "key": "LETTER CARRIERS",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION (NECAPAC)",
+  "cid": "C00113811",
+  "amount": 10000.0,
+  "key": "ELECTRICAL CONTRACTORS",
+  "hits": [
+   {
+    "amount": 8608597.0,
+    "recipient_id": "ccbaf12a-8635-e71b-ef00-b8e4719948ed-C",
+    "name": "APACHE ELECTRICAL CONTRACTORS INC",
+    "code": "037761126",
+    "uei": "W6RJZB84LWN3",
+    "total_outlays": null
+   },
+   {
+    "amount": 8238115.02,
+    "recipient_id": "2d2ceee7-8db7-da73-f4c0-3585167aeb36-C",
+    "name": "MARATHON ELECTRICAL CONTRACTORS, LLC",
+    "code": "174276329",
+    "uei": "FKL6HZPMDVX3",
+    "total_outlays": null
+   },
+   {
+    "amount": 5915855.59,
+    "recipient_id": "7b325898-3e53-8506-7fdb-b3a68926c63f-C",
+    "name": "DELTA ELECTRICAL CONTRACTORS, INC.",
+    "code": "105883136",
+    "uei": "N64LGCTDRAJ9",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATIONAL RURAL LETTER CARRIERS' ASSOCIATION PAC (NRLCA PAC)",
+  "cid": "C00072025",
+  "amount": 10000.0,
+  "key": "RURAL LETTER CARRIERS",
+  "hits": []
+ },
+ {
+  "pac": "THE FARM CREDIT COUNCIL PAC",
+  "cid": "C00193631",
+  "amount": 10000.0,
+  "key": "FARM CREDIT COUNCIL",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN REVIVAL PAC",
+  "cid": "C00639229",
+  "amount": 10000.0,
+  "key": "REVIVAL",
+  "hits": [
+   {
+    "amount": 99115.0,
+    "recipient_id": "a6c2ab83-ae35-c861-0fba-14b17612f07c-C",
+    "name": "REVIVAL HEATING AND AIR LLC",
+    "code": null,
+    "uei": "WRM8QYBDJ1Z7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AVANGRID PAC",
+  "cid": "C00406801",
+  "amount": 10000.0,
+  "key": "AVANGRID",
+  "hits": []
+ },
+ {
+  "pac": "DAIRY FARMERS OF AMERICA, INC. PAC; AKA DFA-PAC",
+  "cid": "C00001388",
+  "amount": 10000.0,
+  "key": "DAIRY FARMERS ; AKA DFA",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE PAC (AIPAC)",
+  "cid": "C00797670",
+  "amount": 10000.0,
+  "key": "ISRAEL",
+  "hits": [
+   {
+    "amount": 126832942.4,
+    "recipient_id": "025e53cb-a176-047d-502b-56ddaf293b1e-C",
+    "name": "ISRAEL AEROSPACE INDUSTRIES LTD. AVIATION GROUP LAHAV",
+    "code": "600539498",
+    "uei": "PLKYM4VGCEK9",
+    "total_outlays": null
+   },
+   {
+    "amount": 11633107.0,
+    "recipient_id": "0bd3af6e-9a9a-3c1b-ad85-af8c9eb97328-C",
+    "name": "ISRAEL AEROSPACE INDUSTRIES MILITARY AIRCRAFT DIVISION, GOLAN INDUSTRIES",
+    "code": "532856549",
+    "uei": "EEFXQ7NNTE51",
+    "total_outlays": null
+   },
+   {
+    "amount": 4465917.58,
+    "recipient_id": "6bb894f1-b89b-c51e-3f89-3d79e3cbe23c-C",
+    "name": "STARK AEROSPACE INC.",
+    "code": "003493641",
+    "uei": "YPNLKVXLT8H5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ENGINEERS POLITICAL EDUCATION COMMITTEE (EPEC) INTERNATIONAL UNION OF OPERATING ENGINEERS",
+  "cid": "C00029504",
+  "amount": 10000.0,
+  "key": "ENGINEERS EDUCATION UNION OPERATING ENGINEERS",
+  "hits": []
+ },
+ {
+  "pac": "EXXON MOBIL CORPORATION PAC (EXXONMOBIL PAC)",
+  "cid": "C00121368",
+  "amount": 10000.0,
+  "key": "EXXON MOBIL",
+  "hits": [
+   {
+    "amount": 293937513.29,
+    "recipient_id": "cb0557c4-3044-79d2-035f-89b3b5aede74-C",
+    "name": "EXXON MOBIL CORPORATION",
+    "code": "962719522",
+    "uei": "H1EPKQE4ABL1",
+    "total_outlays": null
+   },
+   {
+    "amount": 67534047.64,
+    "recipient_id": "3933b9ce-af02-add1-16d7-bdd14be79b90-C",
+    "name": "EXXONMOBIL MARINE LIMITED",
+    "code": "239084226",
+    "uei": "VSADCFYNNJK9",
+    "total_outlays": null
+   },
+   {
+    "amount": 3674099.77,
+    "recipient_id": "7b9aec4c-2bed-0e82-a036-2bd0827c2e43-C",
+    "name": "MOBIL OIL GUAM INC.",
+    "code": "779911163",
+    "uei": "XT9DMJXHHQX7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NO NONSENSE PAC",
+  "cid": "C00760397",
+  "amount": 10000.0,
+  "key": "NO NONSENSE",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN OPTOMETRIC ASSOCIATION PAC",
+  "cid": "C00024968",
+  "amount": 9500.0,
+  "key": "OPTOMETRIC",
+  "hits": [
+   {
+    "amount": 8051.16,
+    "recipient_id": "2f590282-82e1-7ed7-2c22-f12ab1dfb881-C",
+    "name": "THE AMERICAN OPTOMETRIC ASSOCIATION",
+    "code": "043496090",
+    "uei": "DGKFKLKTLP27",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "LOCKHEED MARTIN CORPORATION EMPLOYEES' PAC",
+  "cid": "C00303024",
+  "amount": 9500.0,
+  "key": "LOCKHEED MARTIN",
+  "hits": [
+   {
+    "amount": 96282204932.35,
+    "recipient_id": "6cf5fb1b-4988-d087-5dc1-70939d8fc6c4-C",
+    "name": "LOCKHEED MARTIN CORPORATION",
+    "code": "008016958",
+    "uei": "G4KDGE4JFFK7",
+    "total_outlays": null
+   },
+   {
+    "amount": 47672472126.13,
+    "recipient_id": "779b3e3e-364f-7cbc-28a4-a2b4484b86f4-C",
+    "name": "LOCKHEED MARTIN CORPORATION",
+    "code": "794571448",
+    "uei": "XFJMYSYFJEK4",
+    "total_outlays": null
+   },
+   {
+    "amount": 19197367398.34,
+    "recipient_id": "d64537c9-5482-dd40-cdd4-5cf07b66329d-C",
+    "name": "SIKORSKY AIRCRAFT CORPORATION",
+    "code": "835551474",
+    "uei": "UTJWTSLMFNG4",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATIONAL ENERGY AND FUELS INSTITUTE INC. HOME COMFORT PAC (NEFI HOME COMFORT PAC)",
+  "cid": "C00782268",
+  "amount": 8500.0,
+  "key": "ENERGY FUELS INSTITUTE HOME COMFORT",
+  "hits": []
+ },
+ {
+  "pac": "WINE AND SPIRITS WHOLESALERS OF AMERICA, INC. PAC",
+  "cid": "C00147173",
+  "amount": 8346.64,
+  "key": "WINE SPIRITS WHOLESALERS",
+  "hits": []
+ },
+ {
+  "pac": "SHEET METAL & AIR CONDITIONING CONTRACTORS' NATIONAL ASSOC., INC. PAC (SMAC PAC)",
+  "cid": "C00013961",
+  "amount": 7500.0,
+  "key": "SHEET METAL AIR CONDITIONING CONTRACTORS ASSOC",
+  "hits": []
+ },
+ {
+  "pac": "LIBERTY MUTUAL INSURANCE COMPANY - PAC",
+  "cid": "C00171843",
+  "amount": 7500.0,
+  "key": "LIBERTY MUTUAL INSURANCE",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL BEER WHOLESALERS ASSOCIATION PAC",
+  "cid": "C00144766",
+  "amount": 7500.0,
+  "key": "BEER WHOLESALERS",
+  "hits": []
+ },
+ {
+  "pac": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS (EMMER PAC)",
+  "cid": "C00592089",
+  "amount": 7500.0,
+  "key": "ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN GAS ASSOCIATION PAC (GASPAC)",
+  "cid": "C00007450",
+  "amount": 7500.0,
+  "key": "GAS",
+  "hits": [
+   {
+    "amount": 309559811.04,
+    "recipient_id": "d4e12630-39e9-ca79-c847-054557d87447-C",
+    "name": "PEGASUS SUPPORT SERVICES LLC",
+    "code": "831332262",
+    "uei": "S9PQZM9ZTKT7",
+    "total_outlays": null
+   },
+   {
+    "amount": 280620881.53,
+    "recipient_id": "959fd864-4ded-319b-543b-b152394efdc1-C",
+    "name": "DILLIGAS CORP",
+    "code": "825454957",
+    "uei": "HN6NLGLPEAJ2",
+    "total_outlays": null
+   },
+   {
+    "amount": 270292251.19,
+    "recipient_id": "74e140ee-beb0-192e-0c0f-f1ca933a9cfa-C",
+    "name": "WGL ENERGY SERVICES, INC.",
+    "code": "962034856",
+    "uei": "XYMTKCCKBQD7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATURAL PRODUCTS ASSOCIATION PAC",
+  "cid": "C00297739",
+  "amount": 7500.0,
+  "key": "NATURAL PRODUCTS",
+  "hits": []
+ },
+ {
+  "pac": "MVP HEALTH CARE INC. FEDERAL PAC",
+  "cid": "C00431429",
+  "amount": 7000.0,
+  "key": "MVP HEALTH CARE",
+  "hits": []
+ },
+ {
+  "pac": "THOROUGHBRED PAC",
+  "cid": "C00425439",
+  "amount": 7000.0,
+  "key": "THOROUGHBRED",
+  "hits": [
+   {
+    "amount": 9145776.02,
+    "recipient_id": "81d6ef45-85ef-f0bd-24d4-4c2234f5725b-C",
+    "name": "THOROUGHBRED AVIATION MAINTENANCE, INC.",
+    "code": "079669963",
+    "uei": "JP12MMZ3CKD7",
+    "total_outlays": null
+   },
+   {
+    "amount": 217668.0,
+    "recipient_id": "6eac360a-901f-6d91-74bf-3cea8a244796-C",
+    "name": "THOROUGHBRED CONSTRUCTION GROUP, LLC",
+    "code": "081171359",
+    "uei": "TZB9R7DLBTF9",
+    "total_outlays": null
+   },
+   {
+    "amount": 40843.0,
+    "recipient_id": "64fbc2b8-8190-c57c-5302-8275704e6f7b-C",
+    "name": "THOROUGHBRED CAPITAL PARTNERS LLC",
+    "code": "040781964",
+    "uei": "ERNJFYKB8M97",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ONEIDA INDIAN NATION",
+  "cid": "ONEIDA INDIAN NATION",
+  "amount": 7000.0,
+  "key": "ONEIDA INDIAN NATION",
+  "hits": [
+   {
+    "amount": 1558886.23,
+    "recipient_id": "b2f9b06f-4dd4-af76-15ff-acd3576965b4-C",
+    "name": "CROOP-LAFRANCE INC",
+    "code": "120717132",
+    "uei": "J4J7GQL2DT46",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ELANCO US INC. PAC ('ELANCO PAC')",
+  "cid": "C00722165",
+  "amount": 7000.0,
+  "key": "ELANCO",
+  "hits": [
+   {
+    "amount": 100047.0,
+    "recipient_id": "a2304956-e6da-fe64-7d5d-f2a1be3d172b-C",
+    "name": "JENA CAROL MELANCON",
+    "code": null,
+    "uei": "SR5LZWLX3LE6",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "COX ENTERPRISES PAC (COXPAC) INC.",
+  "cid": "C00477653",
+  "amount": 6000.0,
+  "key": "COX ENTERPRISES",
+  "hits": [
+   {
+    "amount": 4721146.31,
+    "recipient_id": "b1800d21-2d3e-0c42-96c5-fdab9f8498ce-C",
+    "name": "COX COMMUNICATIONS HAMPTON ROADS, L.L.C.",
+    "code": "805664559",
+    "uei": "RJG5LZGVFJ73",
+    "total_outlays": null
+   },
+   {
+    "amount": 1133233.06,
+    "recipient_id": "abfc1915-32f5-0797-a471-1eec078bea9f-C",
+    "name": "COX VIRGINIA TELCOM, L.L.C",
+    "code": "108341673",
+    "uei": "C2NPR6G6LU55",
+    "total_outlays": null
+   },
+   {
+    "amount": 1070432.37,
+    "recipient_id": "4a932a03-9bd0-8045-e165-053f9ef36df3-C",
+    "name": "COX CALIFORNIA TELCOM, LLC",
+    "code": "965227064",
+    "uei": "DWVKL7Q3K1K4",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "UNITEDHEALTH GROUP INCORPORATED PAC (UNITEDHEALTH GROUP PAC)",
+  "cid": "C00274431",
+  "amount": 6000.0,
+  "key": "UNITEDHEALTH",
+  "hits": [
+   {
+    "amount": 59228839042.38,
+    "recipient_id": "41694631-0b0f-72ed-221b-29193c88f0d2-C",
+    "name": "OPTUM PUBLIC SECTOR SOLUTIONS, INC.",
+    "code": "785030714",
+    "uei": "XMUZGJN98231",
+    "total_outlays": null
+   },
+   {
+    "amount": 6740087088.44,
+    "recipient_id": "f14c78b7-70f6-df32-45ed-a5f56e1b9f70-C",
+    "name": "OPTUMSERVE HEALTH SERVICES, INC.",
+    "code": "131468071",
+    "uei": "G5XXLHZSW8X3",
+    "total_outlays": null
+   },
+   {
+    "amount": 930156063.18,
+    "recipient_id": "363acf50-3b89-1daa-f2db-96d3a18ca559-C",
+    "name": "OPTUMRX ADMINISTRATIVE SERVICES, LLC",
+    "code": "078683721",
+    "uei": "HMKHFD2LB123",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "HONEYWELL INTERNATIONAL PAC",
+  "cid": "C00096156",
+  "amount": 6000.0,
+  "key": "HONEYWELL",
+  "hits": [
+   {
+    "amount": 7999540420.07,
+    "recipient_id": "9e9725ba-e023-684e-6d7f-f9de4201578f-C",
+    "name": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC",
+    "code": "007119050",
+    "uei": "DMEGBYTVBQS5",
+    "total_outlays": null
+   },
+   {
+    "amount": 6127877614.48,
+    "recipient_id": "b52d549e-73f7-a818-8c63-4a75904c9df5-C",
+    "name": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
+    "code": "007113228",
+    "uei": "LUJEPCRRT377",
+    "total_outlays": null
+   },
+   {
+    "amount": 3655422767.75,
+    "recipient_id": "360760cb-a2ed-6aa4-2d81-a7909557d12c-C",
+    "name": "HONEYWELL INTERNATIONAL INC.",
+    "code": "009000050",
+    "uei": "KBL6XLDCXKG8",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "BLUEPAC - BLUE CROSS BLUE SHIELD ASSOCIATION PAC",
+  "cid": "C00194746",
+  "amount": 5500.0,
+  "key": "BLUEPAC BLUE CROSS BLUE SHIELD",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN SOCIETY OF INTERVENTIONAL PAIN PHYSICIANS PAC",
+  "cid": "C00351197",
+  "amount": 5000.0,
+  "key": "SOCIETY INTERVENTIONAL PAIN PHYSICIANS",
+  "hits": []
+ },
+ {
+  "pac": "DELAWARE NORTH COMPANIES, INC. PAC",
+  "cid": "C00532887",
+  "amount": 5000.0,
+  "key": "DELAWARE NORTH COMPANIES",
+  "hits": []
+ },
+ {
+  "pac": "TENACIOUS PAC",
+  "cid": "C00635367",
+  "amount": 5000.0,
+  "key": "TENACIOUS",
+  "hits": [
+   {
+    "amount": 24452433.77,
+    "recipient_id": "5f708ebe-f928-42bc-ca02-5f937fb4e843-C",
+    "name": "TENACIOUS SOLUTIONS LLC",
+    "code": "827124376",
+    "uei": "PRCDFW62N182",
+    "total_outlays": null
+   },
+   {
+    "amount": 703222.04,
+    "recipient_id": "bb1f0f72-cfe2-56c0-f602-1d872e2cae79-C",
+    "name": "TENACIOUS MARINE",
+    "code": "189434173",
+    "uei": "Q9BTNPLGW7M3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN DENTAL ASSOCIATION PAC (ADA PAC)",
+  "cid": "C00000729",
+  "amount": 5000.0,
+  "key": "DENTAL",
+  "hits": [
+   {
+    "amount": 62577278.49,
+    "recipient_id": "e62fe5ea-aac8-d60c-11e2-915249f8cfd9-C",
+    "name": "AFTER ACTION MEDICAL AND DENTAL SUPPLY, LLC",
+    "code": "962673161",
+    "uei": "G3KKGDBCNSL7",
+    "total_outlays": null
+   },
+   {
+    "amount": 38171696.06,
+    "recipient_id": "c6d38366-d67f-3240-d4b5-74aee11dbbc6-C",
+    "name": "DENTAL HEALTH PRODUCTS INCORPORATED",
+    "code": "623191194",
+    "uei": "MQHBEV1N2HD4",
+    "total_outlays": null
+   },
+   {
+    "amount": 37733699.45,
+    "recipient_id": "a820861a-4140-70b4-95b9-2c7ad31f07e7-C",
+    "name": "BENCO DENTAL SUPPLY CO.",
+    "code": "015108087",
+    "uei": "GNF9XURG4LR7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN RESORT DEVELOPMENT ASSOCIATION RESORT OWNERS COALITION PAC (ARDA ROC-PAC)",
+  "cid": "C00358663",
+  "amount": 5000.0,
+  "key": "RESORT DEVELOPMENT RESORT OWNERS COALITION",
+  "hits": []
+ },
+ {
+  "pac": "AMERICA'S ELECTRIC COOPERATIVES PAC",
+  "cid": "C00002972",
+  "amount": 5000.0,
+  "key": "S ELECTRIC COOPERATIVES",
+  "hits": []
+ },
+ {
+  "pac": "AT&T INC. EMPLOYEE FEDERAL PAC",
+  "cid": "C00109017",
+  "amount": 5000.0,
+  "key": "AT T",
+  "hits": [
+   {
+    "amount": 3737692239.61,
+    "recipient_id": "dbceb126-f729-60e7-d55a-ba235f519653-C",
+    "name": "THUNDERCAT TECHNOLOGY, LLC",
+    "code": "809887164",
+    "uei": "UER4AJLUB8D5",
+    "total_outlays": null
+   },
+   {
+    "amount": 165665426.99,
+    "recipient_id": "6f27abc4-e4e9-01d8-720a-3031cbfaaff9-C",
+    "name": "THREAT TEC, LLC",
+    "code": "078597755",
+    "uei": "CXKLGRZ7MME6",
+    "total_outlays": null
+   },
+   {
+    "amount": 88939099.34,
+    "recipient_id": "6282c77a-e46a-4b2d-ef79-90922898feb6-C",
+    "name": "THREAT TEC - YORKTOWN JV, LLC",
+    "code": "117186019",
+    "uei": "NFVWV68K4E85",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "CHEVRON EMPLOYEES PAC (CEPAC)",
+  "cid": "C00035006",
+  "amount": 5000.0,
+  "key": "CHEVRON",
+  "hits": [
+   {
+    "amount": 958137529.03,
+    "recipient_id": "deb1d465-49fc-877e-6f83-066c774fb2f5-C",
+    "name": "CHEVRON USA INC.",
+    "code": "009140559",
+    "uei": "ETM1CJGUA6H8",
+    "total_outlays": null
+   },
+   {
+    "amount": 45667928.7,
+    "recipient_id": "445ee24c-4c00-417a-ec4d-f7087f2437ef-C",
+    "name": "CHEVRON AL KHALIJ",
+    "code": "643713985",
+    "uei": "NNLLJM1L3TM5",
+    "total_outlays": null
+   },
+   {
+    "amount": 11649994.55,
+    "recipient_id": "94d92034-4b5f-4124-bd1c-5ed84003b36b-C",
+    "name": "CHEVRON BAHRAIN TRADING COMPANY W.L.L",
+    "code": "643465073",
+    "uei": "JSLXAPAJKLF7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "DEFENDING THE AMERICAN DREAM PAC",
+  "cid": "C00822833",
+  "amount": 5000.0,
+  "key": "DEFENDING DREAM",
+  "hits": []
+ },
+ {
+  "pac": "NCTA - THE INTERNET & TELEVISION ASSOCIATION PAC (NCTAPAC)",
+  "cid": "C00010082",
+  "amount": 5000.0,
+  "key": "NCTA INTERNET TELEVISION",
+  "hits": []
+ },
+ {
+  "pac": "NUCOR CORPORATION PAC",
+  "cid": "C00379628",
+  "amount": 5000.0,
+  "key": "NUCOR",
+  "hits": [
+   {
+    "amount": 2917792.29,
+    "recipient_id": "4498df62-2766-6806-c566-f56bc353c0f7-C",
+    "name": "NUCOREVISION INC",
+    "code": "090742586",
+    "uei": "Y7AARH86VCL3",
+    "total_outlays": null
+   },
+   {
+    "amount": 0.0,
+    "recipient_id": "606e313d-4dce-17cb-52d6-af37fb304682-C",
+    "name": "NUCOR CORPORATION",
+    "code": "091844279",
+    "uei": "C2U5JQ6C8N18",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "PFIZER INC. PAC",
+  "cid": "C00016683",
+  "amount": 5000.0,
+  "key": "PFIZER",
+  "hits": [
+   {
+    "amount": 1830680243.86,
+    "recipient_id": "515252d5-06e8-c533-c04f-cbeabd17d69f-C",
+    "name": "PFIZER INC",
+    "code": "001326495",
+    "uei": "MHBQULRMEEJ5",
+    "total_outlays": null
+   },
+   {
+    "amount": 24188175.76,
+    "recipient_id": "8ae912b6-454c-ece3-7b6d-27a1d552273e-C",
+    "name": "MERIDIAN MEDICAL TECHNOLOGIES, LLC",
+    "code": "049504624",
+    "uei": "VBM4PLZ9VBC4",
+    "total_outlays": null
+   },
+   {
+    "amount": 93570.84,
+    "recipient_id": "a203f1df-ee10-1e31-cacd-293d7f4bda98-C",
+    "name": "GLOBAL BLOOD THERAPEUTICS, INC.",
+    "code": "028636495",
+    "uei": "H4LLV5LPHA37",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "PHILLIPS 66 PAC",
+  "cid": "C00513549",
+  "amount": 5000.0,
+  "key": "PHILLIPS 66",
+  "hits": [
+   {
+    "amount": 2230638024.43,
+    "recipient_id": "650f94c9-3d2e-ce76-81ed-9267ca8739fd-C",
+    "name": "PHILLIPS 66 COMPANY",
+    "code": "078378508",
+    "uei": "MNDKKMTB8EJ1",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "SOUTHWEST AIRLINES CO. PAC (SWAPAC)",
+  "cid": "C00341602",
+  "amount": 5000.0,
+  "key": "SOUTHWEST AIRLINES",
+  "hits": [
+   {
+    "amount": 9805211.03,
+    "recipient_id": "a575aee6-e8cd-2bed-af19-db714bbfa1a0-C",
+    "name": "SOUTHWEST AIRLINES CO.",
+    "code": "055329262",
+    "uei": "TA21AQVF3977",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "SPACE EXPLORATION TECHNOLOGIES CORP. PAC",
+  "cid": "C00411116",
+  "amount": 5000.0,
+  "key": "SPACE EXPLORATION TECHNOLOGIES",
+  "hits": [
+   {
+    "amount": 11779386288.57,
+    "recipient_id": "8a3a5525-3218-a488-db0e-4823241ceb90-C",
+    "name": "SPACE EXPLORATION TECHNOLOGIES CORP.",
+    "code": "120406462",
+    "uei": "C6M7C2FLKER5",
+    "total_outlays": null
+   },
+   {
+    "amount": 16810619.02,
+    "recipient_id": "f27d0ae2-86f2-ad18-2004-440d7ad3bc46-C",
+    "name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+    "code": null,
+    "uei": "H5JUPMRB3KX6",
+    "total_outlays": null
+   },
+   {
+    "amount": 69119.77,
+    "recipient_id": "6d6462ae-83fb-0ffe-3d4b-5bac401e073d-C",
+    "name": "PIONEER AEROSPACE CORP",
+    "code": "808060623",
+    "uei": "M888MTTQ8GU5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "TOGETHER FOR OUR MAJORITY PAC (TOMPAC)",
+  "cid": "C00364174",
+  "amount": 5000.0,
+  "key": "TOGETHER OUR MAJORITY",
+  "hits": []
+ },
+ {
+  "pac": "VALERO ENERGY CORPORATION PAC",
+  "cid": "C00109546",
+  "amount": 5000.0,
+  "key": "VALERO ENERGY",
+  "hits": [
+   {
+    "amount": 4009358201.93,
+    "recipient_id": "47c1ba83-c53d-4e92-e987-26c47ac8fb00-C",
+    "name": "VALERO MARKETING AND SUPPLY CO",
+    "code": "963555222",
+    "uei": "CQXWTJPKQJ73",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN ACADEMY OF DERMATOLOGY ASSOCIATION PAC (SKINPAC)",
+  "cid": "C00359539",
+  "amount": 5000.0,
+  "key": "ACADEMY DERMATOLOGY",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN COLLEGE OF CARDIOLOGY PAC (HEARTPAC)",
+  "cid": "C00375360",
+  "amount": 5000.0,
+  "key": "COLLEGE CARDIOLOGY",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN PSYCHIATRIC ASSOCIATION PAC",
+  "cid": "C00373696",
+  "amount": 5000.0,
+  "key": "PSYCHIATRIC",
+  "hits": [
+   {
+    "amount": 4695712.97,
+    "recipient_id": "364c8938-f941-3416-742b-329ec72e49d5-C",
+    "name": "AMERICAN PSYCHIATRIC ASSOCIATION",
+    "code": "020292348",
+    "uei": "FMNRMMMXW7A5",
+    "total_outlays": null
+   },
+   {
+    "amount": 199411.0,
+    "recipient_id": "5d54b0a3-0b9f-16a3-4a61-316f0233910f-C",
+    "name": "SUBURBAN PSYCHIATRIC ASSOCIATES LLC",
+    "code": null,
+    "uei": "QALUK5HFB3S9",
+    "total_outlays": null
+   },
+   {
+    "amount": 128953.79,
+    "recipient_id": "4f18fe52-6ba4-094e-1203-fdb9969a96c4-C",
+    "name": "INDIANA UNIVERSITY PSYCHIATRIC ASSOCIATES, INC.",
+    "code": "045158565",
+    "uei": "NK14CNXW8AF9",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ANIMAL WELLNESS ACTION PAC",
+  "cid": "C00679860",
+  "amount": 5000.0,
+  "key": "ANIMAL WELLNESS",
+  "hits": []
+ },
+ {
+  "pac": "BWX TECHNOLOGIES, INC PAC",
+  "cid": "C00365502",
+  "amount": 5000.0,
+  "key": "BWX TECHNOLOGIES",
+  "hits": [
+   {
+    "amount": 310849935.0,
+    "recipient_id": "de88a6e4-7c96-b2ea-02dd-92ad7a390ab3-C",
+    "name": "NUCLEAR FUEL SERVICES INC",
+    "code": "049498025",
+    "uei": "SMJQJGD5JEJ3",
+    "total_outlays": null
+   },
+   {
+    "amount": 99694141.83,
+    "recipient_id": "c3e520a8-a8a7-3965-ab3a-f7f19aaee398-C",
+    "name": "BWXT NUCLEAR OPERATIONS GROUP, INC.",
+    "code": "829307920",
+    "uei": "WJYVCPD5HKK7",
+    "total_outlays": null
+   },
+   {
+    "amount": 2205706.82,
+    "recipient_id": "17bfc081-5170-fa8f-86e9-1fb560ebfac7-C",
+    "name": "BWXT NOG TECHNOLOGIES, INC.",
+    "code": "079185631",
+    "uei": "PM7HBL2KDX46",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATIONAL ASSOCIATION OF PLUMBING-HEATING-COOLING CONTRACTORS PAC AKA PHCC-PAC",
+  "cid": "C00157875",
+  "amount": 5000.0,
+  "key": "PLUMBING HEATING COOLING CONTRACTORS AKA PHCC",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL MILK PRODUCERS FEDERATION PAC (NMPF PAC)",
+  "cid": "C00325324",
+  "amount": 5000.0,
+  "key": "MILK PRODUCERS FEDERATION",
+  "hits": []
+ },
+ {
+  "pac": "NEW YORK LIFE INSURANCE COMPANY PAC",
+  "cid": "C00158881",
+  "amount": 5000.0,
+  "key": "NEW YORK LIFE INSURANCE",
+  "hits": []
+ },
+ {
+  "pac": "ON WISCONSIN PAC, INC.",
+  "cid": "C00697326",
+  "amount": 5000.0,
+  "key": "ON WISCONSIN",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN INSTITUTE OF CERTIFIED PUBLIC ACCOUNTANTS (AICPA PAC)",
+  "cid": "C00077321",
+  "amount": 5000.0,
+  "key": "INSTITUTE CERTIFIED PUBLIC ACCOUNTANTS",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL GRID USA PAC",
+  "cid": "C00048702",
+  "amount": 5000.0,
+  "key": "GRID",
+  "hits": [
+   {
+    "amount": 34799083.48,
+    "recipient_id": "28322da1-4ca5-b20b-1e6e-6c3da7ae8071-C",
+    "name": "NATIONAL GRID USA SERVICE COMPANY, INC.",
+    "code": "006952840",
+    "uei": "J9E7QV6Z8R18",
+    "total_outlays": null
+   },
+   {
+    "amount": 29602097.65,
+    "recipient_id": "70747000-2d8e-e2cd-8c2a-5e907a1ebf94-C",
+    "name": "LIGHTGRID LLC",
+    "code": "963323170",
+    "uei": "F47XKV1VY633",
+    "total_outlays": null
+   },
+   {
+    "amount": 26297660.3,
+    "recipient_id": "5a2151d4-0f08-f119-cf7f-84f04f3317de-C",
+    "name": "PICOGRID, INC.",
+    "code": "117504900",
+    "uei": "EWN9HP5F45G3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "THE COUNCIL OF INSURANCE AGENTS & BROKERS PAC",
+  "cid": "C00039578",
+  "amount": 5000.0,
+  "key": "COUNCIL INSURANCE AGENTS BROKERS",
+  "hits": []
+ },
+ {
+  "pac": "THE EYE OF THE TIGER PAC",
+  "cid": "C00467431",
+  "amount": 5000.0,
+  "key": "EYE TIGER",
+  "hits": []
+ },
+ {
+  "pac": "3M COMPANY PAC",
+  "cid": "C00084475",
+  "amount": 5000.0,
+  "key": "3M",
+  "hits": []
+ },
+ {
+  "pac": "BAKER PAC",
+  "cid": "C00770297",
+  "amount": 5000.0,
+  "key": "BAKER",
+  "hits": [
+   {
+    "amount": 545927004.0,
+    "recipient_id": "f563bf8f-9648-8c60-62ff-41655bccde0e-C",
+    "name": "SALLYPORT GLOBAL HOLDINGS INC",
+    "code": "141853833",
+    "uei": "CJV9TZ1GS425",
+    "total_outlays": null
+   },
+   {
+    "amount": 499602730.43,
+    "recipient_id": "cc47cdf0-bfe0-401b-3aa5-29a0e1545ec0-C",
+    "name": "AMERIQUAL GROUP LLC",
+    "code": "130027592",
+    "uei": "YHJKT5C6J4B6",
+    "total_outlays": null
+   },
+   {
+    "amount": 264025467.83,
+    "recipient_id": "30564230-35b8-1bf4-7961-ae9f6e7cfa84-C",
+    "name": "MARTIN-BAKER AIRCRAFT COMPANY LIMITED",
+    "code": "216891663",
+    "uei": "JJ8GAYKMHZU9",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "INTERNATIONAL FRANCHISE ASSOCIATION FRANCHISING PAC INC",
+  "cid": "C00084491",
+  "amount": 5000.0,
+  "key": "FRANCHISE FRANCHISING",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL APARTMENT ASSOCIATION PAC",
+  "cid": "C00113241",
+  "amount": 5000.0,
+  "key": "APARTMENT",
+  "hits": [
+   {
+    "amount": 46491910.65,
+    "recipient_id": "a65bbbc7-7fc8-5704-64ec-34722dc2faf3-C",
+    "name": "EXECUTIVE APARTMENTS INC",
+    "code": "081068579",
+    "uei": "XU3JUJJU82C4",
+    "total_outlays": null
+   },
+   {
+    "amount": 510566.0,
+    "recipient_id": "8fcd9c8d-858a-414c-f7b7-8e6ede9298b5-C",
+    "name": "ALN APARTMENT DATA LLC",
+    "code": "117048708",
+    "uei": "CHJTCW2XH733",
+    "total_outlays": null
+   },
+   {
+    "amount": 506483.94,
+    "recipient_id": "8bdbfdbe-6e50-da95-2667-03122013254f-C",
+    "name": "BERRINGTON VILLAGE APARTMENTS, LLC",
+    "code": "063550865",
+    "uei": "HC57P4HKKLE3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMALGAMATED TRANSIT UNION - COPE (ATU COPE)",
+  "cid": "C00032995",
+  "amount": 5000.0,
+  "key": "AMALGAMATED TRANSIT UNION COPE",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL CHICKEN COUNCIL PAC (FKA) NATIONAL BROILER COUNCIL PAC",
+  "cid": "C00034272",
+  "amount": 5000.0,
+  "key": "CHICKEN COUNCIL BROILER COUNCIL",
+  "hits": []
+ },
+ {
+  "pac": "SAP PAC",
+  "cid": "C00846477",
+  "amount": 5000.0,
+  "key": "SAP",
+  "hits": [
+   {
+    "amount": 437553051.28,
+    "recipient_id": "48a14819-43ca-e7c7-e42b-c3aa96235a01-C",
+    "name": "SAPIENT GOVERNMENT SERVICES, INC.",
+    "code": "611823738",
+    "uei": "JFSULRKLVCB9",
+    "total_outlays": null
+   },
+   {
+    "amount": 142995512.27,
+    "recipient_id": "e0139bc4-a2ec-4b0a-e408-3f34acba7361-C",
+    "name": "CHESAPEAKE TECHNOLOGY INTERNATIONAL, CORP.",
+    "code": "124240222",
+    "uei": "LAVARTMKKHT5",
+    "total_outlays": null
+   },
+   {
+    "amount": 113156901.07,
+    "recipient_id": "ca091e19-2348-5dce-42eb-e5b19bcb7cc8-C",
+    "name": "SAPUTO CHEESE USA INC",
+    "code": "796426286",
+    "uei": "CMVJAG7WANM7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "31 DAYS PAC",
+  "cid": "C00786368",
+  "amount": 5000.0,
+  "key": "31 DAYS",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN GRIT PAC",
+  "cid": "C00756551",
+  "amount": 5000.0,
+  "key": "GRIT",
+  "hits": [
+   {
+    "amount": 322652964.43,
+    "recipient_id": "d7b3b465-0df3-9721-9819-de856dd224e3-C",
+    "name": "QLARANT INTEGRITY SOLUTIONS LLC",
+    "code": "190146923",
+    "uei": "DU1AQ7UHLLT3",
+    "total_outlays": null
+   },
+   {
+    "amount": 70831113.47,
+    "recipient_id": "394c2611-9523-ba49-3f3d-bb89ffbed451-C",
+    "name": "INTEGRITY NATIONAL CORPORATION",
+    "code": "046437278",
+    "uei": "EHMRD16DNEU4",
+    "total_outlays": null
+   },
+   {
+    "amount": 63893332.93,
+    "recipient_id": "32aa02ac-5cd5-ce86-b910-e98540079c12-C",
+    "name": "PAE LABAT-ANDERSON LLC",
+    "code": "038997573",
+    "uei": "FESKMKCANSH3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICA'S CREDIT UNIONS PAC OF CREDIT UNION NATIONAL ASSOCIATION, INC.",
+  "cid": "C00007880",
+  "amount": 5000.0,
+  "key": "S CREDIT UNIONS CREDIT UNION",
+  "hits": []
+ },
+ {
+  "pac": "DOUBLE L PAC (PKA FLORIDA FREEDOM FUND PAC)",
+  "cid": "C00825430",
+  "amount": 5000.0,
+  "key": "DOUBLE L",
+  "hits": [
+   {
+    "amount": 144550.0,
+    "recipient_id": "e2175bad-c33b-7b07-bf05-bde6a73d7809-C",
+    "name": "DOUBLE L FIRE LLC",
+    "code": "117951472",
+    "uei": "FPHEE12GSJR9",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ELECTING REPUBLICANS INDIANA PAC",
+  "cid": "C00816389",
+  "amount": 5000.0,
+  "key": "ELECTING REPUBLICANS INDIANA",
+  "hits": []
+ },
+ {
+  "pac": "GENERAL MILLS, INC. PAC",
+  "cid": "C00062646",
+  "amount": 5000.0,
+  "key": "GENERAL MILLS",
+  "hits": [
+   {
+    "amount": -4028.17,
+    "recipient_id": "29ba69f0-9ae9-608e-3dc9-b49cfe24774b-C",
+    "name": "GENERAL MILLS INC",
+    "code": "006250740",
+    "uei": "NDNKTRFAQ7M5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "GUARDING OUR LASTING DEMOCRACY (GOLD) PAC",
+  "cid": "C00881268",
+  "amount": 5000.0,
+  "key": "GUARDING OUR LASTING DEMOCRACY",
+  "hits": []
+ },
+ {
+  "pac": "MICRON TECHNOLOGY, INC. EMPLOYEE PAC",
+  "cid": "C00443671",
+  "amount": 5000.0,
+  "key": "MICRON TECHNOLOGY",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL AUTOMOBILE DEALERS ASSOCIATION (NADA PAC)",
+  "cid": "C00040998",
+  "amount": 5000.0,
+  "key": "AUTOMOBILE DEALERS",
+  "hits": []
+ },
+ {
+  "pac": "PATRIOTS IN ACTION",
+  "cid": "C00531590",
+  "amount": 5000.0,
+  "key": "PATRIOTS IN",
+  "hits": [
+   {
+    "amount": 101848.25,
+    "recipient_id": "d0cb229f-f947-248e-6b48-48be1968365f-C",
+    "name": "MID-VALLEY PATRIOTS INC",
+    "code": null,
+    "uei": "W84CZL764W97",
+    "total_outlays": null
+   },
+   {
+    "amount": 500.0,
+    "recipient_id": "62d285dd-e086-5591-75b5-4de39656710b-C",
+    "name": "PATRIOTS INTERNATIONAL, LLC",
+    "code": "080783404",
+    "uei": "CM7FD73VSHQ3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "BUCKEYE LIBERTY PAC",
+  "cid": "C00693796",
+  "amount": 5000.0,
+  "key": "BUCKEYE LIBERTY",
+  "hits": []
+ },
+ {
+  "pac": "CONSUMER BRANDS PAC ('CONSUMER BRANDS ASSOCIATION PAC')",
+  "cid": "C00250068",
+  "amount": 5000.0,
+  "key": "CONSUMER BRANDS",
+  "hits": [
+   {
+    "amount": 62007267.37,
+    "recipient_id": "ba17f50d-607d-d0e0-4a44-f5c9998fa602-C",
+    "name": "POST CONSUMER BRANDS, LLC",
+    "code": "006254312",
+    "uei": "EVDYKG5KSWD1",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "D.R.I.V.E. - DEM, REP, IND VOTER ED (THE PAC OF THE INT'L BRHD OF TEAMSTERS)",
+  "cid": "C00032979",
+  "amount": 5000.0,
+  "key": "D R I V E DEM REP IND VOTER ED",
+  "hits": []
+ },
+ {
+  "pac": "AFLAC PAC (AFLAC PAC)",
+  "cid": "C00034157",
+  "amount": 4500.0,
+  "key": "AFLAC",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL ASSOCIATION OF CONVENIENCE STORES (NACS PAC)",
+  "cid": "C00126763",
+  "amount": 4500.0,
+  "key": "CONVENIENCE STORES",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL SHOOTING SPORTS FOUNDATION, INC. PAC (NSSF PAC)",
+  "cid": "C00480863",
+  "amount": 4500.0,
+  "key": "SHOOTING SPORTS FOUNDATION",
+  "hits": [
+   {
+    "amount": 48516.7,
+    "recipient_id": "d1985d9c-b2df-3aee-20a9-d08410af4ada-C",
+    "name": "NATIONAL SHOOTING SPORTS FOUNDATION, INC.",
+    "code": "075402461",
+    "uei": "EYFSZG13WKN8",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATIONAL ACTIVE AND RETIRED FEDERAL EMPLOYEES ASSOCIATION POLITICAL ACTION COM (NARFE-PAC)",
+  "cid": "C00091561",
+  "amount": 4500.0,
+  "key": "ACTIVE RETIRED COM",
+  "hits": []
+ },
+ {
+  "pac": "WALMART INC. PAC FOR RESPONSIBLE GOVERNMENT (WALPAC)",
+  "cid": "C00093054",
+  "amount": 4000.0,
+  "key": "WALMART",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL ASSOCIATION OF BROADCASTERS PAC",
+  "cid": "C00009985",
+  "amount": 4000.0,
+  "key": "BROADCASTERS",
+  "hits": [
+   {
+    "amount": 3764578.52,
+    "recipient_id": "6d78cc45-e232-0210-b75a-11da97fe7703-C",
+    "name": "BROADCASTERS' GENERAL STORE, INC.",
+    "code": "096088323",
+    "uei": "GLG9DMKKMWC5",
+    "total_outlays": null
+   },
+   {
+    "amount": 1730450.0,
+    "recipient_id": "259e6320-1a5c-aea3-b3e7-322f1cd09c45-C",
+    "name": "CALIFORNIA BROADCASTERS ASSOCIATION",
+    "code": "071552525",
+    "uei": "FEBNYNKQ49K9",
+    "total_outlays": null
+   },
+   {
+    "amount": 1329475.9,
+    "recipient_id": "069b4f99-9862-ef45-22da-bf1d9948d7fb-C",
+    "name": "MINNESOTA BROADCASTERS ASSOCIATION",
+    "code": null,
+    "uei": "VDKCBHDTHCM5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "RUDY FOR INDIANA",
+  "cid": "C00822767",
+  "amount": 4000.0,
+  "key": "RUDY INDIANA",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN CHIROPRACTIC ASSOCIATION PAC",
+  "cid": "C00102764",
+  "amount": 3500.0,
+  "key": "CHIROPRACTIC",
+  "hits": [
+   {
+    "amount": 722916.05,
+    "recipient_id": "40e16d35-bf3d-e4c5-e8fd-53d9fbd94746-C",
+    "name": "COLEMAN ENGINEERING COMPANY",
+    "code": "068315092",
+    "uei": "SNBQWJK6NTK5",
+    "total_outlays": null
+   },
+   {
+    "amount": 290587.5,
+    "recipient_id": "65b5e1ff-3671-e8c0-f306-5b075481f25e-C",
+    "name": "WILL FAMILY CHIROPRACTIC, PLLC",
+    "code": "078710574",
+    "uei": "F8DNV6XTBPS6",
+    "total_outlays": null
+   },
+   {
+    "amount": 149218.24,
+    "recipient_id": "230929f4-bad5-58d0-96f1-45ebe3d7a3d0-C",
+    "name": "THE NEW ZEALAND CHIROPRACTIC EDUCATION TRUST BOARD",
+    "code": "593959489",
+    "uei": "ELM6P62T3EC4",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ROCHESTER HIGHER EDUCATION AND RESEARCH PAC (RHER PAC)",
+  "cid": "C00405340",
+  "amount": 3500.0,
+  "key": "ROCHESTER HIGHER EDUCATION RESEARCH",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN AIRLINES INC. PAC (AAPAC)",
+  "cid": "C00107300",
+  "amount": 3500.0,
+  "key": "AIRLINES",
+  "hits": [
+   {
+    "amount": 170407733.62,
+    "recipient_id": "bdd27973-1794-eedc-dbcf-5a10adf96412-C",
+    "name": "EASTERN AIRLINES LLC",
+    "code": "081242739",
+    "uei": "NKCVJSNY79B4",
+    "total_outlays": null
+   },
+   {
+    "amount": 165515227.29,
+    "recipient_id": "76785673-9dde-a9ab-fc8b-4d2abb5c8a49-C",
+    "name": "WESTERN GLOBAL AIRLINES INC",
+    "code": "078818557",
+    "uei": "L172LJGLYA61",
+    "total_outlays": null
+   },
+   {
+    "amount": 51379936.76,
+    "recipient_id": "32236b28-8f67-bec7-cac2-1007a7a138e2-C",
+    "name": "SIERRA PACIFIC AIRLINES, INC",
+    "code": "016983363",
+    "uei": "EDYMMPXK8117",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN MARITIME OFFICERS VOLUNTARY POLITICAL ACTION FUND",
+  "cid": "C00027532",
+  "amount": 3500.0,
+  "key": "MARITIME OFFICERS",
+  "hits": []
+ },
+ {
+  "pac": "CONSUMER HEALTHCARE PRODUCTS ASSOCIATION PAC  (CHPA/PAC)",
+  "cid": "C00040584",
+  "amount": 3500.0,
+  "key": "CONSUMER HEALTHCARE PRODUCTS",
+  "hits": []
+ },
+ {
+  "pac": "SENECA NATION OF INDIANS",
+  "cid": "SENECA NATION OF INDIANS",
+  "amount": 3500.0,
+  "key": "SENECA NATION INDIANS",
+  "hits": []
+ },
+ {
+  "pac": "BIOGEN INC. PAC",
+  "cid": "C00390351",
+  "amount": 3500.0,
+  "key": "BIOGEN",
+  "hits": [
+   {
+    "amount": 6199999.44,
+    "recipient_id": "32ccfcb7-6a7d-9624-f421-e6cd2fa9ecd5-C",
+    "name": "BIOGENESIS BAGO S.A.",
+    "code": "970840716",
+    "uei": "RE7GLC5RSVS9",
+    "total_outlays": null
+   },
+   {
+    "amount": 451118.25,
+    "recipient_id": "b3f87884-9bd1-8301-77fa-07eb42969155-C",
+    "name": "CREATIVE BIOGENE INC",
+    "code": "080719448",
+    "uei": "U2BVH2CP97G3",
+    "total_outlays": null
+   },
+   {
+    "amount": 206513.85,
+    "recipient_id": "8e3b1884-0640-7172-91d8-2c1895bf24a9-C",
+    "name": "BIOGEN U.S. CORPORATION",
+    "code": "078320773",
+    "uei": "E82LHNZSCUA3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "DAVITA INC. PAC (DAPAC)",
+  "cid": "C00340943",
+  "amount": 3500.0,
+  "key": "DAVITA",
+  "hits": [
+   {
+    "amount": 964793761.62,
+    "recipient_id": "fde4d740-1423-fe85-019c-81b3879ec27f-C",
+    "name": "DAVITA INC.",
+    "code": "883073371",
+    "uei": "PCJQZRE36Z73",
+    "total_outlays": null
+   },
+   {
+    "amount": 2399647.76,
+    "recipient_id": "8417d7a5-3460-6873-12a9-842a569891f4-C",
+    "name": "TOTAL RENAL CARE INC",
+    "code": "968992771",
+    "uei": "WF16FXVK8KM6",
+    "total_outlays": null
+   },
+   {
+    "amount": 1208601.73,
+    "recipient_id": "d9ed84d7-1ad0-3f88-15ea-70a9b62c2867-C",
+    "name": "RENAL TREATMENT CENTERS - WEST, INC",
+    "code": "968992714",
+    "uei": "NUGXLKEUXNT6",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "LABORATORY CORPORATION OF AMERICA HOLDINGS POLITICAL PARTICIPATION COMMITTEE",
+  "cid": "C00314997",
+  "amount": 3500.0,
+  "key": "LABORATORY PARTICIPATION",
+  "hits": []
+ },
+ {
+  "pac": "LEAN FORWARD AMERICA FUND",
+  "cid": "C00869743",
+  "amount": 3500.0,
+  "key": "LEAN FORWARD",
+  "hits": []
+ },
+ {
+  "pac": "REPUBLICAN ITALIAN AMERICAN COMMITTEE",
+  "cid": "C00895805",
+  "amount": 3500.0,
+  "key": "REPUBLICAN ITALIAN",
+  "hits": []
+ },
+ {
+  "pac": "CONSERVATIVE LEADERSHIP IN ELECTIONS PAC",
+  "cid": "C00798025",
+  "amount": 3500.0,
+  "key": "CONSERVATIVE LEADERSHIP IN ELECTIONS",
+  "hits": []
+ },
+ {
+  "pac": "QUALITY PUBLIC SCHOOLS PAC",
+  "cid": "C00569806",
+  "amount": 3500.0,
+  "key": "QUALITY PUBLIC SCHOOLS",
+  "hits": []
+ },
+ {
+  "pac": "COMCAST CORPORATION & NBCUNIVERSAL PAC - FEDERAL",
+  "cid": "C00248716",
+  "amount": 3000.0,
+  "key": "COMCAST NBCUNIVERSAL",
+  "hits": []
+ },
+ {
+  "pac": "ENERGY MARKETERS OF AMERICA SMALL BUSINESS COMMITTEE PAC (EMA SBC PAC)",
+  "cid": "C00035204",
+  "amount": 3000.0,
+  "key": "ENERGY MARKETERS SMALL BUSINESS",
+  "hits": []
+ },
+ {
+  "pac": "HIGHMARK PAC OF HIGHMARK INC.",
+  "cid": "C00302844",
+  "amount": 3000.0,
+  "key": "HIGHMARK HIGHMARK",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION PAC",
+  "cid": "C00030809",
+  "amount": 3000.0,
+  "key": "COMMUNITY PHARMACISTS",
+  "hits": [
+   {
+    "amount": -49303.44,
+    "recipient_id": "c037277b-a686-5d96-a990-93092d0bdb3e-C",
+    "name": "NATIONAL COMMUNITY PHARMACISTS ASSOCIATION",
+    "code": "069505030",
+    "uei": "FMZKLT5N5G61",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "TOYOTA MOTOR NORTH AMERICA, INC PAC (TOYOTA/LEXUS PAC)",
+  "cid": "C00542365",
+  "amount": 3000.0,
+  "key": "TOYOTA MOTOR NORTH",
+  "hits": []
+ },
+ {
+  "pac": "VERIZON COMMUNICATIONS, INC. PAC (VERIZON PAC)",
+  "cid": "C00186288",
+  "amount": 3000.0,
+  "key": "VERIZON COMMUNICATIONS",
+  "hits": [
+   {
+    "amount": 371908585.4,
+    "recipient_id": "0341544e-23d8-fe98-3d76-1cdbc8b37e2f-C",
+    "name": "VERIZON BUSINESS NETWORK SERVICES LLC",
+    "code": "556565836",
+    "uei": "GEYFS4D96R55",
+    "total_outlays": null
+   },
+   {
+    "amount": 251576174.52,
+    "recipient_id": "f02045e8-ef98-57c5-2968-cd9f60dbc24a-C",
+    "name": "CELLCO PARTNERSHIP",
+    "code": "968904698",
+    "uei": "CK77N4SCAJD3",
+    "total_outlays": null
+   },
+   {
+    "amount": 78139422.2,
+    "recipient_id": "108b454d-a668-8157-acbc-d6947e8e52dc-C",
+    "name": "MCI COMMUNICATIONS SERVICES LLC",
+    "code": "020751082",
+    "uei": "G41BFWVS2PD7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ZENECA INC. PAC (AZPAC)",
+  "cid": "C00279455",
+  "amount": 3000.0,
+  "key": "ZENECA",
+  "hits": [
+   {
+    "amount": 2697757.12,
+    "recipient_id": "d7adeaca-d487-2389-deed-03111df6c844-C",
+    "name": "ALEXION PHARMACEUTICALS INC",
+    "code": "789359510",
+    "uei": "DKCXLGANZAN3",
+    "total_outlays": null
+   },
+   {
+    "amount": -31796.92,
+    "recipient_id": "79c62cf4-5cd2-bce0-2b63-389b388a13f4-C",
+    "name": "ASTRAZENECA PHARMACEUTICALS LP",
+    "code": "876516568",
+    "uei": "E5K2ZJ8CTJH4",
+    "total_outlays": null
+   },
+   {
+    "amount": -24316667.57,
+    "recipient_id": "76592262-54d3-aef5-a845-54766eafced4-C",
+    "name": "MEDIMMUNE LLC",
+    "code": "190639906",
+    "uei": "PHXNKFPB76E7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN BUS ASSOCIATION PAC - BUSPAC",
+  "cid": "C00004879",
+  "amount": 3000.0,
+  "key": "BUS BUSPAC",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN VETERINARY MEDICAL ASSOCIATION PAC (AVMA PAC)",
+  "cid": "C00114132",
+  "amount": 3000.0,
+  "key": "VETERINARY MEDICAL",
+  "hits": [
+   {
+    "amount": 1917368.25,
+    "recipient_id": "fdf78957-72a9-d3aa-3e97-df6e0323a41e-C",
+    "name": "TEXAS A&M VETERINARY MEDICAL DIAGNOSTIC LABORATORY",
+    "code": "147762046",
+    "uei": "TM2NJF2AEEM7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "CUMMINS INC. PAC (CIPAC)",
+  "cid": "C00377952",
+  "amount": 3000.0,
+  "key": "CUMMINS",
+  "hits": [
+   {
+    "amount": 688576438.96,
+    "recipient_id": "bd24e068-bcad-bd3f-24c2-233dee816bd1-C",
+    "name": "CUMMINS INC.",
+    "code": "006415160",
+    "uei": "DTSXKA2BGMD9",
+    "total_outlays": null
+   },
+   {
+    "amount": 377565932.51,
+    "recipient_id": "9e483c5d-7352-28b3-89dd-33052a121331-C",
+    "name": "CUMMINS POWER GENERATION INC.",
+    "code": "053417515",
+    "uei": "LSZHMMEG8481",
+    "total_outlays": null
+   },
+   {
+    "amount": 87708435.53,
+    "recipient_id": "51bcdd60-3b39-c1e0-eb40-86dc589989c5-C",
+    "name": "CUMMINS INC",
+    "code": "080436429",
+    "uei": "KQ2SB6N1APB7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC (ACRA/RADPAC)",
+  "cid": "C00343459",
+  "amount": 3000.0,
+  "key": "COLLEGE RADIOLOGY",
+  "hits": []
+ },
+ {
+  "pac": "DELTA DENTAL PLANS ASSOCIATION PAC",
+  "cid": "C00213819",
+  "amount": 3000.0,
+  "key": "DELTA DENTAL PLANS",
+  "hits": []
+ },
+ {
+  "pac": "EDWARDS LIFESCIENCES PAC (A.K.A. EDWARDS PAC)",
+  "cid": "C00411900",
+  "amount": 3000.0,
+  "key": "EDWARDS LIFESCIENCES",
+  "hits": [
+   {
+    "amount": 107515322.5,
+    "recipient_id": "de388c19-a8c4-1547-ce0f-e99b8ac74b44-C",
+    "name": "EDWARDS LIFESCIENCES LLC",
+    "code": "134139174",
+    "uei": "MR4FCKSNGRC1",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ELI LILLY AND COMPANY PAC",
+  "cid": "C00082792",
+  "amount": 3000.0,
+  "key": "ELI LILLY",
+  "hits": [
+   {
+    "amount": 286374.76,
+    "recipient_id": "b620c99d-9b16-86c8-fa2d-2c14d6e69ce9-C",
+    "name": "ELI LILLY AND COMPANY",
+    "code": "006421325",
+    "uei": "UHHVNTY54K68",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "TYSON FOODS INC PAC (TYPAC)",
+  "cid": "C00169821",
+  "amount": 3000.0,
+  "key": "TYSON FOODS",
+  "hits": [
+   {
+    "amount": 912788701.36,
+    "recipient_id": "388ab88d-74c2-54ac-19e4-cb2df60ad520-C",
+    "name": "TYSON FOODS INC.",
+    "code": "006903702",
+    "uei": "DX7AU4JMLPC7",
+    "total_outlays": null
+   },
+   {
+    "amount": 22975320.02,
+    "recipient_id": "29b9f038-0ec4-3f21-7122-c6e6631c4bd1-C",
+    "name": "TYSON FRESH MEATS INC",
+    "code": "007296056",
+    "uei": "MNAKFQWNLGQ8",
+    "total_outlays": null
+   },
+   {
+    "amount": 0.0,
+    "recipient_id": "6e384c4c-50ce-bbc6-4fa4-8efd0a34ada2-C",
+    "name": "ADVANCEPIERRE FOODS, INC.",
+    "code": "048465686",
+    "uei": "UGC1JP1NHVB3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMAZON.COM SERVICES LLC SEPARATE SEGREGATED FUND (AMAZON PAC)",
+  "cid": "C00360354",
+  "amount": 3000.0,
+  "key": "AMAZON COM SERVICES SEPARATE SEGREGATED",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN SUGAR CANE LEAGUE OF USA INC PAC",
+  "cid": "C00081414",
+  "amount": 3000.0,
+  "key": "SUGAR CANE LEAGUE",
+  "hits": []
+ },
+ {
+  "pac": "CONSTELLATION ENERGY CORPORATION EMPLOYEE PAC (CEPAC)",
+  "cid": "C00793711",
+  "amount": 3000.0,
+  "key": "CONSTELLATION ENERGY",
+  "hits": [
+   {
+    "amount": 29151701.69,
+    "recipient_id": "9a349db6-ec9a-77a9-5bbd-d6165efe9e97-C",
+    "name": "CONSTELLATION ENERGY SOLUTIONS, LLC",
+    "code": "117091333",
+    "uei": "XVPREJLB2MY6",
+    "total_outlays": null
+   },
+   {
+    "amount": -47424.13,
+    "recipient_id": "1eb211ed-100f-edb7-4962-88fd7d5c1e77-C",
+    "name": "CONSTELLATION ENERGY SERVICES, INC.",
+    "code": "841739824",
+    "uei": "DCFYPD85HCT5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN POSTAL WORKERS UNION COMMITTEE ON POLITICAL ACTION (APWU COPA)",
+  "cid": "C00010322",
+  "amount": 2500.0,
+  "key": "POSTAL WORKERS UNION ON",
+  "hits": []
+ },
+ {
+  "pac": "FOOD SOLUTIONS ACTION PAC (FSA PAC)",
+  "cid": "C00789164",
+  "amount": 2500.0,
+  "key": "FOOD SOLUTIONS",
+  "hits": [
+   {
+    "amount": 8966.11,
+    "recipient_id": "4444576f-9b77-5837-17f8-b46347f46b93-C",
+    "name": "INTERNATIONAL FOOD SOLUTIONS, INC.",
+    "code": "831720805",
+    "uei": "X1M9JZM91688",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "GOD, FAMILY, & COUNTRY PAC",
+  "cid": "C00847897",
+  "amount": 2500.0,
+  "key": "GOD FAMILY COUNTRY",
+  "hits": []
+ },
+ {
+  "pac": "METLIFE INC. EMPLOYEES' POLITICAL PARTICIPATION FUND A - FEDERAL ONLY",
+  "cid": "C00493551",
+  "amount": 2500.0,
+  "key": "METLIFE PARTICIPATION A ONLY",
+  "hits": []
+ },
+ {
+  "pac": "DELTA AIR LINES PAC",
+  "cid": "C00104802",
+  "amount": 2500.0,
+  "key": "DELTA AIR LINES",
+  "hits": [
+   {
+    "amount": 56058457.67,
+    "recipient_id": "3b9c0dbd-b9c4-b7d2-3441-01e53b2136d6-C",
+    "name": "DELTA AIR LINES, INC.",
+    "code": "006924872",
+    "uei": "W14ZM8ZS2625",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "FERT PAC (THE PAC OF THE FERTILIZER INSTITUTE)",
+  "cid": "C00085910",
+  "amount": 2500.0,
+  "key": "FERT",
+  "hits": [
+   {
+    "amount": 5801596.11,
+    "recipient_id": "a943cf86-cc86-319d-fe39-86d968992afb-C",
+    "name": "FARMERS FERTILIZER CO",
+    "code": "006366199",
+    "uei": "MWKUJ5UKYXJ3",
+    "total_outlays": null
+   },
+   {
+    "amount": 228145.44,
+    "recipient_id": "1ac73ede-d002-909c-f531-2f5e7e4c8c1a-C",
+    "name": "KEYMAR FERTILIZER INC",
+    "code": "809799794",
+    "uei": "YPSMC1FJ51J1",
+    "total_outlays": null
+   },
+   {
+    "amount": 219088.62,
+    "recipient_id": "1ab63b86-9311-6cb3-b976-c3c150fd8d6b-C",
+    "name": "CAFFERTY COMMERCIAL REAL ESTATE SERVICES CORPORATION",
+    "code": "121543888",
+    "uei": "U7KEHDBHR7E5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "IN THE ARENA PAC",
+  "cid": "C00623512",
+  "amount": 2500.0,
+  "key": "IN ARENA",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL RESTAURANT ASSOCIATION PAC",
+  "cid": "C00003764",
+  "amount": 2500.0,
+  "key": "RESTAURANT",
+  "hits": [
+   {
+    "amount": 8957400.24,
+    "recipient_id": "817a32a3-50fe-e9cd-d396-bfefd8849faa-C",
+    "name": "MARINE & RESTAURANT FABRICATORS, INC.",
+    "code": "154109979",
+    "uei": "ZVEDLK1LDMU1",
+    "total_outlays": null
+   },
+   {
+    "amount": 8580726.56,
+    "recipient_id": "06d05318-7ee8-40d7-a5fe-9959ac1e1e3d-C",
+    "name": "NATIONAL RESTAURANT ASSOCIATION EDUCATIONAL FOUNDATION",
+    "code": "621101583",
+    "uei": "K16BJNWWMYV7",
+    "total_outlays": null
+   },
+   {
+    "amount": 1720434.91,
+    "recipient_id": "157efb6c-59ed-82cc-5c0d-6fbf45ac54c6-C",
+    "name": "RESTAURANT AND MORE LLC",
+    "code": null,
+    "uei": "QNTVCDQUBMD4",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "UNITED SERVICES AUTOMOBILE ASSOCIATION EMPLOYEE PAC - USAA EMPLOYEE PAC",
+  "cid": "C00164145",
+  "amount": 2500.0,
+  "key": "UNITED SERVICES AUTOMOBILE USAA",
+  "hits": []
+ },
+ {
+  "pac": "ALNYLAM PHARMACEUTICALS, INC. PAC (ALNYLAM PAC)",
+  "cid": "C00670331",
+  "amount": 2500.0,
+  "key": "ALNYLAM PHARMACEUTICALS",
+  "hits": []
+ },
+ {
+  "pac": "ASSOCIATED GENERAL CONTRACTORS NEW YORK STATE CHAPTER FEDERAL PAC (AGC NYS)",
+  "cid": "C00382382",
+  "amount": 2500.0,
+  "key": "ASSOCIATED GENERAL CONTRACTORS NEW YORK STATE CHAPTER",
+  "hits": []
+ },
+ {
+  "pac": "CALPORTLAND COMPANY PAC (CALPORTLANDPAC)",
+  "cid": "C00389429",
+  "amount": 2500.0,
+  "key": "CALPORTLAND",
+  "hits": []
+ },
+ {
+  "pac": "MANAGEMENT ASSOCIATION FOR PRIVATE PHOTOGRAMMETRIC SURVEYORS PAC (MAPPS PAC)",
+  "cid": "C00233247",
+  "amount": 2500.0,
+  "key": "MANAGEMENT PRIVATE PHOTOGRAMMETRIC SURVEYORS",
+  "hits": []
+ },
+ {
+  "pac": "METLIFE INC. EMPLOYEES' POLITICAL PARTICIPATION FUND A",
+  "cid": "C00040923",
+  "amount": 2500.0,
+  "key": "METLIFE PARTICIPATION A",
+  "hits": []
+ },
+ {
+  "pac": "ASSOCIATED BUILDERS AND CONTRACTORS, INC. PAC (ABC PAC)",
+  "cid": "C00010421",
+  "amount": 2500.0,
+  "key": "ASSOCIATED BUILDERS CONTRACTORS",
+  "hits": []
+ },
+ {
+  "pac": "BIOMARIN PHARMACEUTICAL INC. PAC AKA BIOMARIN PAC",
+  "cid": "C00543371",
+  "amount": 2500.0,
+  "key": "BIOMARIN PHARMACEUTICAL AKA BIOMARIN",
+  "hits": []
+ },
+ {
+  "pac": "INDEPENDENT PILOTS ASSOCIATION PAC (IPAC)",
+  "cid": "C00849323",
+  "amount": 2500.0,
+  "key": "INDEPENDENT PILOTS",
+  "hits": []
+ },
+ {
+  "pac": "BANK OF AMERICA CORPORATION FEDERAL PAC",
+  "cid": "C00364778",
+  "amount": 2500.0,
+  "key": "BANK",
+  "hits": [
+   {
+    "amount": 1018688738.91,
+    "recipient_id": "63e4245c-921a-eff3-9a8d-cf57c1b85e0e-C",
+    "name": "THE TORONTO-DOMINION BANK",
+    "code": "248550225",
+    "uei": "TXEQENSNT3N3",
+    "total_outlays": null
+   },
+   {
+    "amount": 595378566.93,
+    "recipient_id": "c01ea75b-6ef1-d0cf-2a3f-9b250677da0e-C",
+    "name": "KOENIG & BAUER BANKNOTE SOLUTIONS SA",
+    "code": "480950179",
+    "uei": "TCZFWUA1HE55",
+    "total_outlays": null
+   },
+   {
+    "amount": 373800612.73,
+    "recipient_id": "329c3e85-e066-e89c-6c44-0daa085a7834-C",
+    "name": "FAIRBANKS MORSE, LLC",
+    "code": "080374350",
+    "uei": "TJ2MWNHN22G8",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "BRISTOL-MYERS SQUIBB COMPANY PAC",
+  "cid": "C00035675",
+  "amount": 2500.0,
+  "key": "BRISTOL MYERS SQUIBB",
+  "hits": []
+ },
+ {
+  "pac": "FOR OUR NATION'S GREATNESS, RESILIENCE, EXCELLENCE, STRENGTH, AND SECURITY (FONGRESS) PAC",
+  "cid": "C00881490",
+  "amount": 2500.0,
+  "key": "OUR NATION S GREATNESS RESILIENCE EXCELLENCE STRENGTH SECURITY",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL COTTON COUNCIL OF AMERICA COMMITTEE FOR THE ADVANCEMENT OF COTTON",
+  "cid": "C00023028",
+  "amount": 2500.0,
+  "key": "COTTON COUNCIL ADVANCEMENT COTTON",
+  "hits": []
+ },
+ {
+  "pac": "POWERPAC OF THE EDISON ELECTRIC INSTITUTE",
+  "cid": "C00095869",
+  "amount": 2500.0,
+  "key": "POWERPAC EDISON ELECTRIC INSTITUTE",
+  "hits": []
+ },
+ {
+  "pac": "SOUTHERN COMPANY GAS EMPLOYEES PAC",
+  "cid": "C00145037",
+  "amount": 2500.0,
+  "key": "SOUTHERN GAS",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN BANKERS ASSOCIATION PAC (BANKPAC)",
+  "cid": "C00004275",
+  "amount": 2500.0,
+  "key": "BANKERS",
+  "hits": [
+   {
+    "amount": 10879610.12,
+    "recipient_id": "7131327a-0a75-bfa5-306f-ef32e12a1e9c-C",
+    "name": "BANKERS BUSINESS MANAGEMENT SERVICES, INC.",
+    "code": "081264160",
+    "uei": "NFC7M74WV6D5",
+    "total_outlays": null
+   },
+   {
+    "amount": 4865230.06,
+    "recipient_id": "f3951f41-55f2-16f4-b199-1f71c9fb51ec-C",
+    "name": "NT-BANKERSBMS JV LLC",
+    "code": "079288126",
+    "uei": "Z3EQNMFJN556",
+    "total_outlays": null
+   },
+   {
+    "amount": 798487.67,
+    "recipient_id": "20982a1b-8dc8-d54c-7553-d51607809c36-C",
+    "name": "BANKERS ASSURANCE SAL",
+    "code": "557675475",
+    "uei": "MNTHMKK5CHG6",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "CRH AMERICAS, INC. PAC",
+  "cid": "C00346353",
+  "amount": 2500.0,
+  "key": "CRH AMERICAS",
+  "hits": []
+ },
+ {
+  "pac": "FMC CORPORATION GOOD GOVERNMENT PROGRAM",
+  "cid": "C00033704",
+  "amount": 2500.0,
+  "key": "FMC PROGRAM",
+  "hits": []
+ },
+ {
+  "pac": "INTERNATIONAL ASSOCIATION OF FIRE FIGHTERS (FIREPAC)",
+  "cid": "C00029447",
+  "amount": 2500.0,
+  "key": "FIRE FIGHTERS",
+  "hits": [
+   {
+    "amount": 800.0,
+    "recipient_id": "4c247204-848f-4707-0a67-ce4c2e9ba93d-C",
+    "name": "OSAGE HILLS RURAL FIRE FIGHTERS ASSOCIATION INC",
+    "code": "619658128",
+    "uei": "UNCJGPR63XS6",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "OCEAN SPRAY CRANBERRIES INC. PAC",
+  "cid": "C00114702",
+  "amount": 2500.0,
+  "key": "OCEAN SPRAY CRANBERRIES",
+  "hits": [
+   {
+    "amount": 1083726.62,
+    "recipient_id": "e57856fd-b3a4-11cd-1e8f-c6d1632da749-C",
+    "name": "OCEAN SPRAY CRANBERRIES INC",
+    "code": "001050897",
+    "uei": "MBACQDXPCMA5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "SOUTHERN CROWN PARTNERS' EMPLOYEES FEDERAL PAC",
+  "cid": "C00920033",
+  "amount": 2500.0,
+  "key": "SOUTHERN CROWN PARTNERS",
+  "hits": []
+ },
+ {
+  "pac": "SWEDISH MATCH NORTH AMERICA LLC PAC",
+  "cid": "C00215053",
+  "amount": 2500.0,
+  "key": "SWEDISH MATCH NORTH",
+  "hits": []
+ },
+ {
+  "pac": "TODARO FOR TAXPAYERS",
+  "cid": "TODARO FOR TAXPAYERS",
+  "amount": 2100.0,
+  "key": "TODARO TAXPAYERS",
+  "hits": []
+ },
+ {
+  "pac": "AUTO CARE ASSOCIATION PAC",
+  "cid": "C00250753",
+  "amount": 2000.01,
+  "key": "AUTO CARE",
+  "hits": [
+   {
+    "amount": 156504891.61,
+    "recipient_id": "dd4b4303-51e2-baaa-9c45-8e31ab6dd1c4-C",
+    "name": "WYNNEWOOD ENERGY CO LLC",
+    "code": "121422125",
+    "uei": "KTCXUT88C6N6",
+    "total_outlays": null
+   },
+   {
+    "amount": 53389.44,
+    "recipient_id": "a5bc829d-77f1-3969-1088-8c9305df79b2-C",
+    "name": "TOMMYS AUTO CARE LLC",
+    "code": "081833953",
+    "uei": "FLJGYJZCLUB9",
+    "total_outlays": null
+   },
+   {
+    "amount": 28712.6,
+    "recipient_id": "f67338fa-f3dc-47f5-c710-750c7f29758d-C",
+    "name": "E & M AUTO CARE, INC",
+    "code": "061134561",
+    "uei": "L547CH2YFJM3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN CHEMISTRY COUNCIL PAC",
+  "cid": "C00252338",
+  "amount": 2000.0,
+  "key": "CHEMISTRY COUNCIL",
+  "hits": [
+   {
+    "amount": 47856.25,
+    "recipient_id": "614b6af6-8317-d3ec-2a84-c30fff24f46e-C",
+    "name": "AMERICAN CHEMISTRY COUNCIL, INC.",
+    "code": "046039152",
+    "uei": "H7GLBNZ5NFN5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "FGS GLOBAL (US) LLC PAC",
+  "cid": "C00466094",
+  "amount": 2000.0,
+  "key": "FGS GLOBAL",
+  "hits": []
+ },
+ {
+  "pac": "INTERNATIONAL WAREHOUSE LOGISTICS ASSOCIATION (IWLA PAC)",
+  "cid": "C00303032",
+  "amount": 2000.0,
+  "key": "WAREHOUSE LOGISTICS",
+  "hits": []
+ },
+ {
+  "pac": "LKQ CORPORATION EMPLOYEE GOOD GOVERNMENT FUND",
+  "cid": "C00458158",
+  "amount": 2000.0,
+  "key": "LKQ",
+  "hits": [
+   {
+    "amount": 8631721.49,
+    "recipient_id": "460aa220-9bc7-3db0-d560-f32218a091e3-C",
+    "name": "SURECAN LLC",
+    "code": "080035659",
+    "uei": "LKQRJ6X3EH76",
+    "total_outlays": null
+   },
+   {
+    "amount": 2300560.9,
+    "recipient_id": "78da7814-4716-a5a7-c470-0d713612d3a5-C",
+    "name": "WAI & ASSOCIATES, PLLC",
+    "code": "078721635",
+    "uei": "LKQJSFMEZFX3",
+    "total_outlays": null
+   },
+   {
+    "amount": 807793.77,
+    "recipient_id": "d74bb34a-5a7f-3912-a596-e7a5cd0e6ccb-C",
+    "name": "PC&C-OCEAN JV, LLC",
+    "code": "116985015",
+    "uei": "LKQLLKR19E64",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN FUELS AND PETROCHEMICAL MANUFACTURERS ASSOCIATION PAC (AFPMPAC)",
+  "cid": "C00415026",
+  "amount": 2000.0,
+  "key": "FUELS PETROCHEMICAL MANUFACTURERS",
+  "hits": []
+ },
+ {
+  "pac": "ASSOCIATION OF PROFESSIONAL FLIGHT ATTENDANTS (APFA PAC) PAC",
+  "cid": "C00246421",
+  "amount": 2000.0,
+  "key": "PROFESSIONAL FLIGHT ATTENDANTS",
+  "hits": []
+ },
+ {
+  "pac": "GENENTECH INC. PAC (GENENPAC)",
+  "cid": "C00199257",
+  "amount": 2000.0,
+  "key": "GENENTECH",
+  "hits": [
+   {
+    "amount": 137651690.16,
+    "recipient_id": "8b92ab18-2fb8-af3a-2e0e-dc7adb161525-C",
+    "name": "GENENTECH USA, INC",
+    "code": "808043678",
+    "uei": "SA85BMHCTXK5",
+    "total_outlays": null
+   },
+   {
+    "amount": 1085530.0,
+    "recipient_id": "5221e7db-e256-8ee8-556e-8c129d1f72ca-C",
+    "name": "GENENTECH INC",
+    "code": "080129000",
+    "uei": "F7F8GZXL7Q93",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "INDEPENDENT COMMUNITY BANKERS OF AMERICA PAC",
+  "cid": "C00032698",
+  "amount": 2000.0,
+  "key": "INDEPENDENT COMMUNITY BANKERS",
+  "hits": []
+ },
+ {
+  "pac": "JETBLUE AIRWAYS CORPORATION CREWMEMBER GOOD GOVERNMENT FUND",
+  "cid": "C00484584",
+  "amount": 2000.0,
+  "key": "JETBLUE AIRWAYS CREWMEMBER",
+  "hits": []
+ },
+ {
+  "pac": "JOHNSON & JOHNSON PAC",
+  "cid": "C00010983",
+  "amount": 2000.0,
+  "key": "JOHNSON JOHNSON",
+  "hits": []
+ },
+ {
+  "pac": "MOLINA HEALTHCARE, INC. PAC",
+  "cid": "C00430256",
+  "amount": 2000.0,
+  "key": "MOLINA HEALTHCARE",
+  "hits": []
+ },
+ {
+  "pac": "NOVARTIS CORPORATION PAC",
+  "cid": "C00033969",
+  "amount": 2000.0,
+  "key": "NOVARTIS",
+  "hits": [
+   {
+    "amount": 45860348.46,
+    "recipient_id": "4fe269f8-e3a5-679d-5c16-29eafc281b31-C",
+    "name": "ADVANCED ACCELERATOR APPLICATIONS USA INC",
+    "code": "051714355",
+    "uei": "JNM4NBNHFE66",
+    "total_outlays": null
+   },
+   {
+    "amount": 29884516.2,
+    "recipient_id": "0445e669-1cfe-aed5-2930-182f0bec7eb7-C",
+    "name": "NOVARTIS PHARMACEUTICALS CORPORATION",
+    "code": "002147023",
+    "uei": "NG61ZA8TADW3",
+    "total_outlays": null
+   },
+   {
+    "amount": 0.0,
+    "recipient_id": "6c2c30c1-ead7-95c1-979b-136ced75028f-C",
+    "name": "ENCORE VISION, INC.",
+    "code": "154402791",
+    "uei": "L366S3K64AK8",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NOVOCURE INC. PAC (A.K.A. NOVOCURE PAC)",
+  "cid": "C00562546",
+  "amount": 2000.0,
+  "key": "NOVOCURE",
+  "hits": [
+   {
+    "amount": 36109635.64,
+    "recipient_id": "d6c4edfb-8204-8882-3dd9-80250825f7eb-C",
+    "name": "NOVOCURE INC",
+    "code": "056552035",
+    "uei": "P3S3GK3DTUA8",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "RAPTOR PAC",
+  "cid": "C00749481",
+  "amount": 2000.0,
+  "key": "RAPTOR",
+  "hits": [
+   {
+    "amount": 7797704.87,
+    "recipient_id": "0c5fa21b-1537-de55-6d22-f492bc63b672-C",
+    "name": "TESTVONICS INC",
+    "code": "015364870",
+    "uei": "UZ6CAZLF77F6",
+    "total_outlays": null
+   },
+   {
+    "amount": 3195624.81,
+    "recipient_id": "c8e661d1-515b-ed02-4fab-bdccf6d005cf-C",
+    "name": "RAPTOR DYNAMIX INC.",
+    "code": null,
+    "uei": "J2ZVCM45LL26",
+    "total_outlays": null
+   },
+   {
+    "amount": 295769.1,
+    "recipient_id": "bb19b668-8617-91b4-dc7f-f725e109f048-C",
+    "name": "RAPTOR PHOTONICS, INC.",
+    "code": "116607723",
+    "uei": "XUL5CB8VDWV8",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "TRUCKING PAC OF THE AMERICAN TRUCKING ASSOCIATIONS INC.",
+  "cid": "C00002881",
+  "amount": 2000.0,
+  "key": "TRUCKING TRUCKING ASSOCIATIONS",
+  "hits": []
+ },
+ {
+  "pac": "FRELINGHUYSEN FOR CONGRESS",
+  "cid": "C00299404",
+  "amount": 2000.0,
+  "key": "FRELINGHUYSEN CONGRESS",
+  "hits": []
+ },
+ {
+  "pac": "INTERNATIONAL DAIRY FOODS ASSOCIATION (IDFA) PAC",
+  "cid": "C00128231",
+  "amount": 2000.0,
+  "key": "DAIRY FOODS",
+  "hits": [
+   {
+    "amount": 41917096.43,
+    "recipient_id": "5c2ffd49-9213-f734-ed65-a15d2271d2dc-C",
+    "name": "HILAND DAIRY FOODS COMPANY, LLC",
+    "code": "031137391",
+    "uei": "KM8HN5U3TRE8",
+    "total_outlays": null
+   },
+   {
+    "amount": 294970.72,
+    "recipient_id": "17158665-2212-bd3e-c77c-411871be8728-C",
+    "name": "PRODUCERS DAIRY FOODS, INC.",
+    "code": "008860371",
+    "uei": "QMA5DMELK8M7",
+    "total_outlays": null
+   },
+   {
+    "amount": 45600.1,
+    "recipient_id": "b584912b-f720-ff53-bf4a-746d023c5b17-C",
+    "name": "HILAND DAIRY FOODS COMPANY, LLC",
+    "code": null,
+    "uei": "YQA6C6GLKXH3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "MCKESSON CORPORATION EMPLOYEES POLITICAL FUND",
+  "cid": "C00108035",
+  "amount": 2000.0,
+  "key": "MCKESSON",
+  "hits": [
+   {
+    "amount": 45334353704.29,
+    "recipient_id": "b54de748-ee64-a1e6-546e-e7007b054797-C",
+    "name": "MCKESSON CORPORATION",
+    "code": "177667227",
+    "uei": "S1RUKWWRYFL6",
+    "total_outlays": null
+   },
+   {
+    "amount": 630885518.91,
+    "recipient_id": "12742781-f07d-409b-9a61-cb580599e8c2-C",
+    "name": "MCKESSON CORPORATION",
+    "code": "105919864",
+    "uei": "JTAPCFM4NSL4",
+    "total_outlays": null
+   },
+   {
+    "amount": 51098948.0,
+    "recipient_id": "cb252cf0-bd8c-00d9-2c40-090b62f87986-C",
+    "name": "NDCHEALTH CORPORATION",
+    "code": "042978528",
+    "uei": "XP67KC4FQWM7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "MIKE JOHNSON FOR LOUISIANA",
+  "cid": "C00608695",
+  "amount": 2000.0,
+  "key": "MIKE JOHNSON LOUISIANA",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL COUNCIL OF FARMER COOPERATIVES CO-OP/PAC",
+  "cid": "C00002238",
+  "amount": 2000.0,
+  "key": "COUNCIL FARMER COOPERATIVES OP",
+  "hits": []
+ },
+ {
+  "pac": "PAC OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS (AAOS)",
+  "cid": "C00343137",
+  "amount": 2000.0,
+  "key": "ORTHOPAEDIC SURGEONS",
+  "hits": [
+   {
+    "amount": 0.0,
+    "recipient_id": "ebd737f0-a007-9b26-af13-71434f0c89d3-C",
+    "name": "AMERICAN ACADEMY OF ORTHOPAEDIC SURGEONS",
+    "code": "072316193",
+    "uei": "KQMJK8NFLK35",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "US APPLE ASSOCIATION PAC (US APPLE PAC)",
+  "cid": "C00344945",
+  "amount": 2000.0,
+  "key": "APPLE",
+  "hits": [
+   {
+    "amount": 33106783.29,
+    "recipient_id": "a2beb96c-8496-5f20-eba2-9005647301ad-C",
+    "name": "APPLETON MARINE INC",
+    "code": "157306960",
+    "uei": "HWLGUR28KMS6",
+    "total_outlays": null
+   },
+   {
+    "amount": 27868991.97,
+    "recipient_id": "4b10ad74-6c2f-d6c9-2d12-77564734e1fb-C",
+    "name": "APPLEDORE MARINE ENGINEERING, LLC",
+    "code": "171599090",
+    "uei": "QGMDLA2YJ9C4",
+    "total_outlays": null
+   },
+   {
+    "amount": 17027166.23,
+    "recipient_id": "feb23340-5da8-bfd2-dae8-b602e9e3b895-C",
+    "name": "MAYER BROS. APPLE PRODUCTS INC.",
+    "code": "002121333",
+    "uei": "EQNBPGDL3DF1",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AECOM PAC",
+  "cid": "C00374447",
+  "amount": 2000.0,
+  "key": "AECOM",
+  "hits": [
+   {
+    "amount": 2050407706.91,
+    "recipient_id": "5613b50e-28cb-41f8-331e-2fc18e08b0ae-C",
+    "name": "AECOM TECHNICAL SERVICES, INC.",
+    "code": "003184462",
+    "uei": "EPUXNLX5EYC4",
+    "total_outlays": null
+   },
+   {
+    "amount": 662533218.5,
+    "recipient_id": "3cd5a283-748b-5f73-8bbf-d1732f6d6b72-C",
+    "name": "JT4 LLC",
+    "code": "079833669",
+    "uei": "JKCNBX9J66E6",
+    "total_outlays": null
+   },
+   {
+    "amount": 455451399.83,
+    "recipient_id": "d1f86443-3285-37ee-befe-b5aa1131a802-C",
+    "name": "GILBANE FEDERAL",
+    "code": "874569015",
+    "uei": "WHB7C12ADS35",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMEREN CORPORATION FEDERAL PAC (AMEREN FEDPAC)",
+  "cid": "C00206136",
+  "amount": 2000.0,
+  "key": "AMEREN",
+  "hits": [
+   {
+    "amount": 5354004.63,
+    "recipient_id": "7abf1e1c-434e-b696-0ec8-775d2ca3b299-C",
+    "name": "AMEREN SERVICES COMPANY",
+    "code": "966851875",
+    "uei": "QFEND9EVJFM5",
+    "total_outlays": null
+   },
+   {
+    "amount": 458402.89,
+    "recipient_id": "b0d73431-8219-418f-637c-8f7ab36ccd05-C",
+    "name": "AMEREN ILLINOIS COMPANY",
+    "code": "006936017",
+    "uei": "CM92B36ELJU7",
+    "total_outlays": null
+   },
+   {
+    "amount": 373258.37,
+    "recipient_id": "09d74b9a-8bc7-3202-3f49-d6c1d7d2c716-C",
+    "name": "AMEREN CORPORATION",
+    "code": "364138990",
+    "uei": "YMJSTU6DNHE4",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "GILEAD SCIENCES INC HEALTHCARE POLICY PAC",
+  "cid": "C00396895",
+  "amount": 2000.0,
+  "key": "GILEAD SCIENCES HEALTHCARE POLICY",
+  "hits": []
+ },
+ {
+  "pac": "SCALISE FOR CONGRESS",
+  "cid": "C00394957",
+  "amount": 2000.0,
+  "key": "SCALISE CONGRESS",
+  "hits": []
+ },
+ {
+  "pac": "TEXANS FOR JODEY ARRINGTON",
+  "cid": "C00588657",
+  "amount": 2000.0,
+  "key": "TEXANS JODEY ARRINGTON",
+  "hits": []
+ },
+ {
+  "pac": "US RENAL CARE PAC",
+  "cid": "C00639260",
+  "amount": 2000.0,
+  "key": "RENAL CARE",
+  "hits": [
+   {
+    "amount": 95640645.24,
+    "recipient_id": "a60eabec-bb8e-99b2-ed00-04c09ec1b425-C",
+    "name": "US RENAL CARE INC",
+    "code": "784768009",
+    "uei": "NKGDLZ1FM3Y8",
+    "total_outlays": null
+   },
+   {
+    "amount": 6231666.41,
+    "recipient_id": "60eb0e3e-85b1-4cbe-08e1-da9c47acd1d8-C",
+    "name": "DIALYSIS NEWCO, LLC",
+    "code": "969807580",
+    "uei": "TJKBAAN825N1",
+    "total_outlays": null
+   },
+   {
+    "amount": 2399647.76,
+    "recipient_id": "8417d7a5-3460-6873-12a9-842a569891f4-C",
+    "name": "TOTAL RENAL CARE INC",
+    "code": "968992771",
+    "uei": "WF16FXVK8KM6",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ALEXION PHARMACEUTICALS INC. PAC",
+  "cid": "C00471169",
+  "amount": 2000.0,
+  "key": "ALEXION PHARMACEUTICALS",
+  "hits": [
+   {
+    "amount": 2697757.12,
+    "recipient_id": "d7adeaca-d487-2389-deed-03111df6c844-C",
+    "name": "ALEXION PHARMACEUTICALS INC",
+    "code": "789359510",
+    "uei": "DKCXLGANZAN3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN FINANCIAL SERVICES ASSOCIATION PAC",
+  "cid": "C00038604",
+  "amount": 2000.0,
+  "key": "FINANCIAL SERVICES",
+  "hits": [
+   {
+    "amount": 837136543.82,
+    "recipient_id": "fda79c3f-1b49-fe91-889e-e7151ab415b2-C",
+    "name": "EDFINANCIAL SERVICES LLC",
+    "code": "795453542",
+    "uei": "TB69PMAFZSK8",
+    "total_outlays": null
+   },
+   {
+    "amount": 150062881.65,
+    "recipient_id": "3c536338-a81f-402e-7b86-a5edf4e4a83f-C",
+    "name": "SAVANTAGE FINANCIAL SERVICES, INC.",
+    "code": "878187012",
+    "uei": "HJXCFLHBZ6S1",
+    "total_outlays": null
+   },
+   {
+    "amount": 33034382.59,
+    "recipient_id": "5ed69feb-3b13-5347-9d7f-49e3b1cfd25f-C",
+    "name": "DJS FINANCIAL SERVICES, LLC",
+    "code": "078824576",
+    "uei": "M9ZKYLPKGC49",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ERNST & YOUNG PAC",
+  "cid": "C00227744",
+  "amount": 2000.0,
+  "key": "ERNST YOUNG",
+  "hits": []
+ },
+ {
+  "pac": "GARMIN INTERNATIONAL INC PAC",
+  "cid": "C00660894",
+  "amount": 2000.0,
+  "key": "GARMIN",
+  "hits": [
+   {
+    "amount": 751257.82,
+    "recipient_id": "5baf64de-b62f-046c-04f1-21681dbafbd3-C",
+    "name": "GARMIN INTERNATIONAL, INC.",
+    "code": "791288004",
+    "uei": "Q1RFVFX4QFN5",
+    "total_outlays": null
+   },
+   {
+    "amount": 120851.88,
+    "recipient_id": "2ec46192-25a6-2eac-86b4-8d46ee88ca6f-C",
+    "name": "AERODATA, INC",
+    "code": "877536250",
+    "uei": "KXC6MXFJS465",
+    "total_outlays": null
+   },
+   {
+    "amount": 0.0,
+    "recipient_id": "822bef2f-ce0d-29de-00c4-c74662cc836d-C",
+    "name": "GARMIN SERVICES, INC.",
+    "code": "080277979",
+    "uei": "GYZ1AF2YPLT4",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "SIEMENS CORPORATION PAC",
+  "cid": "C00353797",
+  "amount": 2000.0,
+  "key": "SIEMENS",
+  "hits": [
+   {
+    "amount": 900738651.4,
+    "recipient_id": "fd8478b1-626d-1d4a-edc9-c5fd5914996f-C",
+    "name": "SIEMENS MEDICAL SOLUTIONS USA, INC.",
+    "code": "103231817",
+    "uei": "KFMJVLKNLZ75",
+    "total_outlays": null
+   },
+   {
+    "amount": 682793915.87,
+    "recipient_id": "711c8d6c-e61e-ff97-78a4-2240a45d8684-C",
+    "name": "SIEMENS GOVERNMENT TECHNOLOGIES INC",
+    "code": "105162098",
+    "uei": "R2VGJTEMCNL5",
+    "total_outlays": null
+   },
+   {
+    "amount": 238402229.42,
+    "recipient_id": "1213c92e-9691-1555-9558-3ca8c322e0a7-C",
+    "name": "SIEMENS INDUSTRY INC",
+    "code": "010944650",
+    "uei": "JZXZSN3BBL98",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "CROP INSURANCE PROFESSIONALS ASSOCIATION PAC-CIPA PAC",
+  "cid": "C00503680",
+  "amount": 2000.0,
+  "key": "CROP INSURANCE PROFESSIONALS CIPA",
+  "hits": []
+ },
+ {
+  "pac": "EMMER FOR CONGRESS",
+  "cid": "C00545749",
+  "amount": 2000.0,
+  "key": "EMMER CONGRESS",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES PAC",
+  "cid": "C00170258",
+  "amount": 2000.0,
+  "key": "MUTUAL INSURANCE COMPANIES",
+  "hits": []
+ },
+ {
+  "pac": "NOSSAMAN LLP PAC (NOSSAMAN PAC)",
+  "cid": "C00473652",
+  "amount": 2000.0,
+  "key": "NOSSAMAN LLP",
+  "hits": []
+ },
+ {
+  "pac": "TD BANK US HOLDING COMPANY PAC (TD BANK PAC)",
+  "cid": "C00501429",
+  "amount": 2000.0,
+  "key": "TD BANK HOLDING",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF DAVE JOYCE",
+  "cid": "C00527457",
+  "amount": 2000.0,
+  "key": "FRIENDS DAVE JOYCE",
+  "hits": []
+ },
+ {
+  "pac": "JIM JORDAN FOR CONGRESS",
+  "cid": "C00416594",
+  "amount": 2000.0,
+  "key": "JIM JORDAN CONGRESS",
+  "hits": []
+ },
+ {
+  "pac": "TAKEDA PHARMACEUTICALS AMERICA INC. PAC",
+  "cid": "C00441733",
+  "amount": 2000.0,
+  "key": "TAKEDA PHARMACEUTICALS",
+  "hits": [
+   {
+    "amount": 8550021.24,
+    "recipient_id": "b49182f1-8930-5c66-faf0-15785305a3e6-C",
+    "name": "TAKEDA PHARMACEUTICALS AMERICA, INC.",
+    "code": "039997266",
+    "uei": "DDEVYUAXJ624",
+    "total_outlays": null
+   },
+   {
+    "amount": 1992323.51,
+    "recipient_id": "428a90b1-fd21-e5c2-ba8a-a096e3752213-C",
+    "name": "TAKEDA PHARMACEUTICALS AMERICA, INC",
+    "code": "804148757",
+    "uei": "ENNFDLWFC6L1",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "VIRGINIA FOXX FOR CONGRESS",
+  "cid": "C00386748",
+  "amount": 2000.0,
+  "key": "VIRGINIA FOXX CONGRESS",
+  "hits": []
+ },
+ {
+  "pac": "GARCIA FOR SHERIFF",
+  "cid": "GARCIA FOR SHERIFF",
+  "amount": 1950.0,
+  "key": "GARCIA SHERIFF",
+  "hits": []
+ },
+ {
+  "pac": "ALLEGANY COUNTY REPUBLICAN COMMITTEE",
+  "cid": "ALLEGANY COUNTY REPUBLICAN COMMITTEE",
+  "amount": 1950.0,
+  "key": "ALLEGANY COUNTY REPUBLICAN",
+  "hits": []
+ },
+ {
+  "pac": "HIGHLAND ELECTRIC FLEETS, INC. PAC",
+  "cid": "C00888727",
+  "amount": 1500.0,
+  "key": "HIGHLAND ELECTRIC FLEETS",
+  "hits": []
+ },
+ {
+  "pac": "INDEPENDENT PHARMACY COOPERATIVE PAC ('IPC PAC')",
+  "cid": "C00508309",
+  "amount": 1500.0,
+  "key": "INDEPENDENT PHARMACY COOPERATIVE",
+  "hits": [
+   {
+    "amount": 1148646.24,
+    "recipient_id": "292017a2-43a5-fcbb-c818-88abb913e9c4-C",
+    "name": "INDEPENDENT PHARMACY COOPERATIVE",
+    "code": null,
+    "uei": "NKZ4Q3PYJHX1",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "340B HEALTH PAC",
+  "cid": "C00619601",
+  "amount": 1500.0,
+  "key": "340B HEALTH",
+  "hits": []
+ },
+ {
+  "pac": "PHARMACEUTICAL RESEARCH & MANUFACTURERS OF AMERICA BETTER GOVERNMENT COMMITTEE",
+  "cid": "C00021972",
+  "amount": 1500.0,
+  "key": "PHARMACEUTICAL RESEARCH MANUFACTURERS",
+  "hits": []
+ },
+ {
+  "pac": "BIOTECHNOLOGY INNOVATION ORGANIZATION PAC (BIO PAC)",
+  "cid": "C00355677",
+  "amount": 1500.0,
+  "key": "BIOTECHNOLOGY INNOVATION ORGANIZATION",
+  "hits": [
+   {
+    "amount": 40800.0,
+    "recipient_id": "94736174-a57e-d799-3fc2-54809d310d4f-C",
+    "name": "BIOTECHNOLOGY INNOVATION ORGANIZATION",
+    "code": "058182031",
+    "uei": "LG9BJPS4KRJ1",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "GREENBERG TRAURIG, P.A. PAC",
+  "cid": "C00266585",
+  "amount": 1500.0,
+  "key": "GREENBERG TRAURIG P A",
+  "hits": []
+ },
+ {
+  "pac": "BSA BUSINESS SOFTWARE ALLIANCE, INC. PAC (BSA PAC)",
+  "cid": "C00416685",
+  "amount": 1500.0,
+  "key": "BSA BUSINESS SOFTWARE ALLIANCE",
+  "hits": []
+ },
+ {
+  "pac": "UNITED POSTMASTERS AND MANAGERS OF AMERICA POLITICAL FUND (UPMA PAC)",
+  "cid": "C00100404",
+  "amount": 1500.0,
+  "key": "UNITED POSTMASTERS MANAGERS",
+  "hits": []
+ },
+ {
+  "pac": "MINN-DAK FARMERS COOPERATIVE SUGAR PAC (MDSPAC)",
+  "cid": "C00164939",
+  "amount": 1500.0,
+  "key": "MINN DAK FARMERS COOPERATIVE SUGAR",
+  "hits": []
+ },
+ {
+  "pac": "AIR METHODS, LLC PAC (AMPAC)",
+  "cid": "C00529909",
+  "amount": 1500.0,
+  "key": "AIR METHODS",
+  "hits": [
+   {
+    "amount": 12737167.37,
+    "recipient_id": "2fdacc07-25ee-4437-cc1e-f6915d62306c-C",
+    "name": "AIR METHODS, LLC",
+    "code": "108493503",
+    "uei": "P16DCFBH6FK5",
+    "total_outlays": null
+   },
+   {
+    "amount": 2747327.28,
+    "recipient_id": "fba5e050-d879-1660-0271-c9c1c7e930f6-C",
+    "name": "AIR METHODS, LLC",
+    "code": "116930690",
+    "uei": "NJYJFX96TVT3",
+    "total_outlays": null
+   },
+   {
+    "amount": 0.0,
+    "recipient_id": "c76138ec-aa09-8f36-8ad0-548676e22cf1-C",
+    "name": "HELICOPTER CONSULTANTS OF MAUI, LLC",
+    "code": "614527919",
+    "uei": "HSD5QSLCKQ36",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN HERBAL PRODUCTS ASSOCIATION PAC (AHPA PAC)",
+  "cid": "C00431957",
+  "amount": 1500.0,
+  "key": "HERBAL PRODUCTS",
+  "hits": []
+ },
+ {
+  "pac": "BAYER US LLC EMPLOYEE PAC (BAYERPAC)",
+  "cid": "C00281162",
+  "amount": 1500.0,
+  "key": "BAYER",
+  "hits": [
+   {
+    "amount": 70912333.0,
+    "recipient_id": "8a251bdb-bbc1-4af0-eeec-d837f67505ec-C",
+    "name": "BMW OF NORTH AMERICA LLC",
+    "code": "012063822",
+    "uei": "JYVQA1F5ML98",
+    "total_outlays": null
+   },
+   {
+    "amount": 22331194.37,
+    "recipient_id": "bb5db4b0-399c-5c43-6450-f9b8c1505e01-C",
+    "name": "BAYER HEALTHCARE PHARMACEUTICALS INC",
+    "code": "005436809",
+    "uei": "V1EVGCK7XES8",
+    "total_outlays": null
+   },
+   {
+    "amount": 16199322.62,
+    "recipient_id": "d5526473-928e-b3e5-4718-c07856dd1591-C",
+    "name": "BAYER CONSTRUCTION COMPANY, INC.",
+    "code": "007171325",
+    "uei": "J13LAKML2LE5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "COUNCIL FOR RESPONSIBLE NUTRITION PAC (CRN PAC)",
+  "cid": "C00399659",
+  "amount": 1500.0,
+  "key": "COUNCIL NUTRITION",
+  "hits": []
+ },
+ {
+  "pac": "CTIA - THE WIRELESS ASSOCIATION PAC",
+  "cid": "C00262295",
+  "amount": 1500.0,
+  "key": "CTIA WIRELESS",
+  "hits": []
+ },
+ {
+  "pac": "CLARENCE REPUBLICAN COMMITTEE",
+  "cid": "CLARENCE REPUBLICAN COMMITTEE",
+  "amount": 1250.0,
+  "key": "CLARENCE REPUBLICAN",
+  "hits": []
+ },
+ {
+  "pac": "NIAGARA COUNTY REPUBLICAN COMMITTEE",
+  "cid": "NIAGARA COUNTY REPUBLICAN COMMITTEE",
+  "amount": 1249.0,
+  "key": "NIAGARA COUNTY REPUBLICAN",
+  "hits": []
+ },
+ {
+  "pac": "AES CORPORATION PAC",
+  "cid": "C00507962",
+  "amount": 1000.0,
+  "key": "AES",
+  "hits": [
+   {
+    "amount": 162131470.56,
+    "recipient_id": "5fed3bc7-8243-88c2-d281-5ee1e08a992f-C",
+    "name": "CAES SYSTEMS LLC",
+    "code": "809580439",
+    "uei": "MMA7H4NEMCT9",
+    "total_outlays": null
+   },
+   {
+    "amount": 51767403.38,
+    "recipient_id": "abc92d65-54f6-9b44-dac9-48e86c1ab3d1-C",
+    "name": "AESTHETIC HOME INVESTMENTS LLC",
+    "code": "118135062",
+    "uei": "NMV2FE84VSL8",
+    "total_outlays": null
+   },
+   {
+    "amount": 49575726.54,
+    "recipient_id": "c818e9fb-6756-f8bd-2b9d-ee8b3c923211-C",
+    "name": "CAESAR RODNEY SCHOOL DISTRICT",
+    "code": "152741575",
+    "uei": "N3NEF6GEXCC8",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "BLUE SHIELD OF CALIFORNIA PAC (SHIELD PAC)",
+  "cid": "C00340364",
+  "amount": 1000.0,
+  "key": "BLUE SHIELD CALIFORNIA",
+  "hits": []
+ },
+ {
+  "pac": "CAMBIA HEALTH SOLUTIONS INC. PAC",
+  "cid": "C00252684",
+  "amount": 1000.0,
+  "key": "CAMBIA HEALTH SOLUTIONS",
+  "hits": []
+ },
+ {
+  "pac": "DEFENDING MAIN STREET SUPERPAC INC.",
+  "cid": "C00540203",
+  "amount": 1000.0,
+  "key": "DEFENDING MAIN STREET SUPERPAC",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF ANGELA THOMPSON",
+  "cid": "FRIENDS OF ANGELA THOMPSON",
+  "amount": 1000.0,
+  "key": "FRIENDS ANGELA THOMPSON",
+  "hits": []
+ },
+ {
+  "pac": "GUIDEWELL MUTUAL HOLDING CORPORATION PAC (GUIDEWELL PAC)",
+  "cid": "C00161141",
+  "amount": 1000.0,
+  "key": "GUIDEWELL MUTUAL HOLDING",
+  "hits": [
+   {
+    "amount": 316098609.4,
+    "recipient_id": "07344146-ebdc-c97f-7f90-948c2627417f-C",
+    "name": "NOVITAS SOLUTIONS, INC.",
+    "code": "785985354",
+    "uei": "PLHWY41UW5V3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "MAXIMUS INC PAC (MAXPAC)",
+  "cid": "C00343707",
+  "amount": 1000.0,
+  "key": "MAXIMUS",
+  "hits": [
+   {
+    "amount": 4641248101.19,
+    "recipient_id": "f87b435f-0b05-95c9-7c0e-e60df7cdff50-C",
+    "name": "MAXIMUS FEDERAL SERVICES, INC.",
+    "code": "364221593",
+    "uei": "TREKW6J3QSF5",
+    "total_outlays": null
+   },
+   {
+    "amount": 1061431370.47,
+    "recipient_id": "006841da-7298-d92c-02f0-ad58caa4eefa-C",
+    "name": "MAXIMUS EDUCATION LLC",
+    "code": "118332221",
+    "uei": "HSUVUJE1ESU7",
+    "total_outlays": null
+   },
+   {
+    "amount": 1005188912.05,
+    "recipient_id": "3a7a135e-cda1-0c2c-9d9b-8d44ffede757-C",
+    "name": "VETERANS EVALUATION SERVICES, INC",
+    "code": "966810470",
+    "uei": "MT6ZNX9BMGB7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "MIKE RANZENHOFER FOR STATE SENATE",
+  "cid": "MIKE RANZENHOFER FOR STATE SENATE",
+  "amount": 1000.0,
+  "key": "MIKE RANZENHOFER STATE SENATE",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL EMERGENCY MEDICINE PAC (NEMPAC) / AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+  "cid": "C00140061",
+  "amount": 1000.0,
+  "key": "EMERGENCY MEDICINE COLLEGE EMERGENCY PHYSICIANS",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN HOTEL AND LODGING ASSOCIATION PAC (HOTELPAC)",
+  "cid": "C00001198",
+  "amount": 1000.0,
+  "key": "HOTEL LODGING",
+  "hits": []
+ },
+ {
+  "pac": "CENTENE CORPORATION PAC (CENTENE PAC)",
+  "cid": "C00397851",
+  "amount": 1000.0,
+  "key": "CENTENE",
+  "hits": [
+   {
+    "amount": 4640885300.44,
+    "recipient_id": "95e5fad6-bf60-0254-a5b0-65c750733414-C",
+    "name": "HEALTH NET FEDERAL SERVICES, LLC",
+    "code": "848003661",
+    "uei": "F7NGF6NJFB96",
+    "total_outlays": null
+   },
+   {
+    "amount": 204841972.98,
+    "recipient_id": "2d99de66-dae6-be97-bf85-f0df84e5df5a-C",
+    "name": "MAGELLAN FEDERAL, INC.",
+    "code": "830333824",
+    "uei": "MFYCXCNW4WL5",
+    "total_outlays": null
+   },
+   {
+    "amount": 373251.27,
+    "recipient_id": "15c3cd09-4fe6-293e-eacd-81ba8c88a50d-C",
+    "name": "FOUNDATION CARE LLC",
+    "code": "153472555",
+    "uei": "JJ79FU7U49D6",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "FEDEX CORPORATION PAC",
+  "cid": "C00068692",
+  "amount": 1000.0,
+  "key": "FEDEX",
+  "hits": [
+   {
+    "amount": 1733602179.51,
+    "recipient_id": "079718fe-322b-0b89-6522-302314b5d75f-C",
+    "name": "FEDERAL EXPRESS CORPORATION",
+    "code": "610703282",
+    "uei": "EM7LMJJCF6B7",
+    "total_outlays": null
+   },
+   {
+    "amount": 1587171461.12,
+    "recipient_id": "2f561a37-0642-e33a-171f-6d4ff15b57c3-C",
+    "name": "FEDERAL EXPRESS CORPORATION",
+    "code": "153718502",
+    "uei": "KQWXKVLGRZ96",
+    "total_outlays": null
+   },
+   {
+    "amount": 1424441059.48,
+    "recipient_id": "5196bee3-3520-4d0f-a473-5763e5da1b05-C",
+    "name": "FEDEX SUPPLY CHAIN DISTRIBUTION SYSTEM, INC.",
+    "code": "796185445",
+    "uei": "Q9PFF5JU9TR4",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "FOX CORPORATION PAC (FOX PAC)",
+  "cid": "C00693002",
+  "amount": 1000.0,
+  "key": "FOX",
+  "hits": [
+   {
+    "amount": 298311260.99,
+    "recipient_id": "820ce97d-63fc-474b-e4cd-464a693e2781-C",
+    "name": "EDUCATION & TRAINING RESOURCES LLC",
+    "code": "809708399",
+    "uei": "MV7PBX3HLST1",
+    "total_outlays": null
+   },
+   {
+    "amount": 226194320.05,
+    "recipient_id": "567bd779-ce6e-df0d-7148-7684672206ec-C",
+    "name": "EVERFOX LLC",
+    "code": "942427170",
+    "uei": "G4J1RJ94JBU1",
+    "total_outlays": null
+   },
+   {
+    "amount": 169760140.06,
+    "recipient_id": "cdf4f09f-61db-99cc-6e64-eb74e9c6d533-C",
+    "name": "FOXHOLE TECHNOLOGY LLC",
+    "code": "791330009",
+    "uei": "WMLWFN8A3KV9",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "FRIENDS FOR PALMESANO",
+  "cid": "FRIENDS FOR PALMESANO",
+  "amount": 1000.0,
+  "key": "FRIENDS PALMESANO",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF JOHN BUCKLEY",
+  "cid": "FRIENDS OF JOHN BUCKLEY",
+  "amount": 1000.0,
+  "key": "FRIENDS JOHN BUCKLEY",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF TOM O'MARA",
+  "cid": "FRIENDS OF TOM O'MARA",
+  "amount": 1000.0,
+  "key": "FRIENDS TOM O MARA",
+  "hits": []
+ },
+ {
+  "pac": "HEINEKEN USA INC GOOD GOVERNMENT FUND",
+  "cid": "C00358234",
+  "amount": 1000.0,
+  "key": "HEINEKEN",
+  "hits": [
+   {
+    "amount": 37511.0,
+    "recipient_id": "59097c95-5bf3-25da-2ef4-c64dc02726bf-C",
+    "name": "HEINEKEN ELECTRIC CO INC",
+    "code": "018565460",
+    "uei": "FKBEAC8MWGL9",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ROCHE DIAGNOSTICS CORPORATION PAC (ROCHE DXPAC)",
+  "cid": "C00072769",
+  "amount": 1000.0,
+  "key": "ROCHE DIAGNOSTICS",
+  "hits": [
+   {
+    "amount": 422910645.85,
+    "recipient_id": "421d7508-3321-6311-abf5-e50fdddfd818-C",
+    "name": "ROCHE DIAGNOSTICS CORPORATION",
+    "code": "001824663",
+    "uei": "JDMDFEZBYH36",
+    "total_outlays": null
+   },
+   {
+    "amount": 45817.49,
+    "recipient_id": "71f5fc2a-ef65-9653-0374-f98ae3761f9e-C",
+    "name": "ROCHE DIAGNOSTICS S.P.A.",
+    "code": "447249020",
+    "uei": "CRBLKCZC9XC6",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "SOUTHERN COMPANY EMPLOYEES PAC",
+  "cid": "C00144774",
+  "amount": 1000.0,
+  "key": "SOUTHERN",
+  "hits": [
+   {
+    "amount": 406074423.08,
+    "recipient_id": "18b90060-5da1-364d-19c7-7dcda439ad6b-C",
+    "name": "SOUTHERN OHIO CLEANUP COMPANY LLC",
+    "code": null,
+    "uei": "NYYVB7U3D766",
+    "total_outlays": null
+   },
+   {
+    "amount": 153679964.21,
+    "recipient_id": "56e7333e-38ec-5402-80b8-4d50309afb4c-C",
+    "name": "UNIVERSITY OF SOUTHERN CALIFORNIA",
+    "code": "072933393",
+    "uei": "G88KLJR3KYT5",
+    "total_outlays": null
+   },
+   {
+    "amount": 130232071.05,
+    "recipient_id": "b1f539f2-7a06-56ad-0928-2b3ee2097ce7-C",
+    "name": "SOUTHERN FOODSERVICE MANAGEMENT INC",
+    "code": "031531387",
+    "uei": "XFACGMF55Y84",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "T-MOBILE US, INC.  PAC (T-PAC)",
+  "cid": "C00361758",
+  "amount": 1000.0,
+  "key": "T MOBILE",
+  "hits": [
+   {
+    "amount": 4995227.54,
+    "recipient_id": "0c52aef3-fd91-b8c7-b636-10bdb52fb8bc-C",
+    "name": "NORTHEAST MOBILE HEALTH SERVICES",
+    "code": "005370981",
+    "uei": "ECTBCG8DCND8",
+    "total_outlays": null
+   },
+   {
+    "amount": 3160600.97,
+    "recipient_id": "9a7ec19a-f2c3-e757-c667-5ded62764471-C",
+    "name": "WILLIAMS SCOTSMAN INC",
+    "code": "003100542",
+    "uei": "URUVKGK3FTV1",
+    "total_outlays": null
+   },
+   {
+    "amount": 481585.12,
+    "recipient_id": "b4fe5f0c-010f-fc42-6ac7-7fdf1e23f7ec-C",
+    "name": "WASATCH FRONT MOBILE CARPETS INC",
+    "code": null,
+    "uei": "CPVGGXAXB1N3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "VSP HOLDING COMPANY INC PAC",
+  "cid": "C00493502",
+  "amount": 1000.0,
+  "key": "VSP HOLDING",
+  "hits": []
+ },
+ {
+  "pac": "AGRI-MARK INC PAC (AGRI MARK LEGISLATION & EDUCATION COMMITTEE)",
+  "cid": "C00141242",
+  "amount": 1000.0,
+  "key": "AGRI MARK",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN ACADEMY OF OPHTHALMOLOGY INC POLITICAL COMMITTEE (OPHTHPAC)",
+  "cid": "C00196246",
+  "amount": 1000.0,
+  "key": "ACADEMY OPHTHALMOLOGY",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN ASSOCIATION OF ORAL & MAXILLOFACIAL SURGEONS PAC",
+  "cid": "C00005660",
+  "amount": 1000.0,
+  "key": "ORAL MAXILLOFACIAL SURGEONS",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN COLLEGE OF PHYSICIAN SERVICES INC PAC (ACP SERVICES PAC)",
+  "cid": "C00403881",
+  "amount": 1000.0,
+  "key": "COLLEGE PHYSICIAN SERVICES",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN OSTEOPATHIC INFORMATION ASSOCIATION - OSTEOPATHIC PAC",
+  "cid": "C00113803",
+  "amount": 1000.0,
+  "key": "OSTEOPATHIC INFORMATION OSTEOPATHIC",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN SENIORS HOUSING ASSOCIATION (SENIORS HOUSING PAC)",
+  "cid": "C00325332",
+  "amount": 1000.0,
+  "key": "SENIORS HOUSING",
+  "hits": [
+   {
+    "amount": 68597.0,
+    "recipient_id": "1c227528-c4e1-d489-b8b0-8507a7686d2b-C",
+    "name": "NATIONAL INVESTMENT CENTER FOR SENIORS HOUSING & CARE, INC.",
+    "code": "804160570",
+    "uei": "G4JLQNLQWX66",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN SOYBEAN ASSOCIATION PAC (SOYPAC)",
+  "cid": "C00408468",
+  "amount": 1000.0,
+  "key": "SOYBEAN",
+  "hits": [
+   {
+    "amount": 3000.0,
+    "recipient_id": "152f04ec-da55-3a1a-bc23-32b9d9f4299c-C",
+    "name": "U.S. SOYBEAN EXPORT COUNCIL, INC.",
+    "code": null,
+    "uei": "F6B7NM385TJ5",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ARDELYX, INC. PAC (ARDX PAC)",
+  "cid": "C00868885",
+  "amount": 1000.0,
+  "key": "ARDELYX",
+  "hits": [
+   {
+    "amount": 72207.02,
+    "recipient_id": "b4a8573f-f6fc-0029-556d-dd8f5c57c22b-C",
+    "name": "ARDELYX, INC.",
+    "code": "827436556",
+    "uei": "YLYTCEN9K617",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "COLLEGE OF AMERICAN PATHOLOGISTS PAC (PATH PAC)",
+  "cid": "C00274944",
+  "amount": 1000.0,
+  "key": "COLLEGE PATHOLOGISTS",
+  "hits": []
+ },
+ {
+  "pac": "MERCK & CO., INC., EMPLOYEES PAC (MERCK PAC)",
+  "cid": "C00097485",
+  "amount": 1000.0,
+  "key": "MERCK",
+  "hits": [
+   {
+    "amount": 196585964.7,
+    "recipient_id": "dd2f2915-15b4-ebd7-9a8e-6931ccfb4311-C",
+    "name": "MERCK SHARP & DOHME LLC",
+    "code": "001317601",
+    "uei": "FCFDA78HKKG2",
+    "total_outlays": null
+   },
+   {
+    "amount": 10234078.4,
+    "recipient_id": "2241fd84-34ed-1ec8-6607-b5f3514073d4-C",
+    "name": "EMD MILLIPORE CORP",
+    "code": "001050152",
+    "uei": "KA4NZQD8JVJ1",
+    "total_outlays": null
+   },
+   {
+    "amount": 5296482.3,
+    "recipient_id": "bcc6d6fc-0fa8-aac1-2016-427adf3da83f-C",
+    "name": "BIOMARK LLC",
+    "code": "623071107",
+    "uei": "Q71YHFJ1EEP2",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "NATIONAL TURKEY FEDERATION PAC (TURPAC)",
+  "cid": "C00076182",
+  "amount": 1000.0,
+  "key": "TURKEY FEDERATION",
+  "hits": []
+ },
+ {
+  "pac": "THE WILLIAMS COMPANIES, INC. PAC",
+  "cid": "C00040394",
+  "amount": 1000.0,
+  "key": "WILLIAMS COMPANIES",
+  "hits": []
+ },
+ {
+  "pac": "ABBOTT LABORATORIES EMPLOYEE PAC",
+  "cid": "C00040279",
+  "amount": 1000.0,
+  "key": "ABBOTT LABORATORIES",
+  "hits": [
+   {
+    "amount": 322872014.26,
+    "recipient_id": "f740eb86-a84e-ddf4-03cf-fe9834b257e5-C",
+    "name": "ABBOTT LABORATORIES INC.",
+    "code": "127208879",
+    "uei": "NH3LDK8CFAK7",
+    "total_outlays": null
+   },
+   {
+    "amount": 262588839.76,
+    "recipient_id": "8cac1796-b994-6d54-94d4-00cd00e4a075-C",
+    "name": "ABBOTT RAPID DX NORTH AMERICA LLC",
+    "code": "826027364",
+    "uei": "P782RNU1NNK3",
+    "total_outlays": null
+   },
+   {
+    "amount": 62218722.59,
+    "recipient_id": "4b893934-0e74-c4ac-f525-6a2beb1f7b32-C",
+    "name": "ABBOTT LABORATORIES INC.",
+    "code": "967474896",
+    "uei": "L3AXXYLB3V56",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ALKERMES, INC. PAC",
+  "cid": "C00525063",
+  "amount": 1000.0,
+  "key": "ALKERMES",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN ELECTRIC POWER COMMITTEE FOR RESPONSIBLE GOVERNMENT",
+  "cid": "C00096842",
+  "amount": 1000.0,
+  "key": "ELECTRIC POWER",
+  "hits": [
+   {
+    "amount": 466329805.41,
+    "recipient_id": "dc52358a-d325-c814-edc0-c1119df7ca1b-C",
+    "name": "POTOMAC ELECTRIC POWER CO",
+    "code": "006920284",
+    "uei": "FMHCHFPKMLZ4",
+    "total_outlays": null
+   },
+   {
+    "amount": 251074182.26,
+    "recipient_id": "527acfe5-17c0-92fe-c427-2c1f83c1ae9f-C",
+    "name": "KOREA ELECTRIC POWER CORPORATION",
+    "code": "687808725",
+    "uei": "PBXNCUHMQZJ5",
+    "total_outlays": null
+   },
+   {
+    "amount": 106496386.83,
+    "recipient_id": "b6e7b3cf-1b24-9a7b-d07d-a0af6b1243a1-C",
+    "name": "THE CHUGOKU ELECTRIC POWER COMPANY, INCORPORATED",
+    "code": "690558705",
+    "uei": "TLVUBF4XVDL7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AXON ENTERPRISE INC PAC",
+  "cid": "C00890590",
+  "amount": 1000.0,
+  "key": "AXON ENTERPRISE",
+  "hits": [
+   {
+    "amount": 419215711.99,
+    "recipient_id": "25ad37ff-89d4-1dd3-1291-f2d104af07aa-C",
+    "name": "AXON ENTERPRISE, INC.",
+    "code": "832176382",
+    "uei": "TBW7MGPYURM7",
+    "total_outlays": null
+   },
+   {
+    "amount": 11135292.39,
+    "recipient_id": "b2204494-6bda-9e08-82dc-6525fd301674-C",
+    "name": "DEDRONE DEFENSE LLC",
+    "code": "117529506",
+    "uei": "PTKSSCB9V873",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "DTE ENERGY COMPANY PAC",
+  "cid": "C00081547",
+  "amount": 1000.0,
+  "key": "DTE ENERGY",
+  "hits": [
+   {
+    "amount": 9335190.56,
+    "recipient_id": "7b554d7b-8333-f7dc-6d8a-a1f129c5b52e-C",
+    "name": "DTE ENERGY COMPANY",
+    "code": "839329158",
+    "uei": "NPCWECBNUMC8",
+    "total_outlays": null
+   },
+   {
+    "amount": 33254.22,
+    "recipient_id": "dc702a6f-6266-b621-b446-c2421abb1440-C",
+    "name": "DTE GAS COMPANY",
+    "code": "006958540",
+    "uei": "HC16LNMRDC75",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "ENTERGY CORPORATION EMPLOYEE PAC (ENPAC)",
+  "cid": "C00363879",
+  "amount": 1000.0,
+  "key": "ENTERGY",
+  "hits": [
+   {
+    "amount": 70161656.38,
+    "recipient_id": "191bacfd-1d7d-40ec-b571-191a1b28b7cd-C",
+    "name": "ENTERGY LOUISIANA, LLC",
+    "code": "080021872",
+    "uei": "MVC2RFGT41N3",
+    "total_outlays": null
+   },
+   {
+    "amount": 9552824.59,
+    "recipient_id": "6ae9607d-dbc2-4829-58d3-39c3c091df74-C",
+    "name": "ENTERGY ARKANSAS, LLC",
+    "code": "006903298",
+    "uei": "FEXJXDYWC3J8",
+    "total_outlays": null
+   },
+   {
+    "amount": 67848.77,
+    "recipient_id": "9314ccd2-5b37-edbd-d780-ab1fead438e3-C",
+    "name": "ENTERGY GROUP LLC",
+    "code": null,
+    "uei": "GNTHRQQFNRZ7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "K&L GATES LLP PAC",
+  "cid": "C00213173",
+  "amount": 1000.0,
+  "key": "K L GATES LLP",
+  "hits": []
+ },
+ {
+  "pac": "MEDICAL DEVICE MANUFACTURERS ASSOCIATION PAC",
+  "cid": "C00484162",
+  "amount": 1000.0,
+  "key": "MEDICAL DEVICE MANUFACTURERS",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL FEDERATION OF INDEPENDENT BUSINESS FEDERAL PAC (NFIB PAC)",
+  "cid": "C00101105",
+  "amount": 1000.0,
+  "key": "FEDERATION INDEPENDENT BUSINESS",
+  "hits": []
+ },
+ {
+  "pac": "POLSINELLI PAC",
+  "cid": "C00445981",
+  "amount": 1000.0,
+  "key": "POLSINELLI",
+  "hits": [
+   {
+    "amount": 2541436.66,
+    "recipient_id": "f0bfdf6c-af1b-95d6-1801-60653054f349-C",
+    "name": "POLSINELLI PC",
+    "code": "037128824",
+    "uei": "ZMBRZDBF4RK1",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "PROFESSIONAL AVIATION SAFETY SPECIALISTS PAC (PASS PAC)",
+  "cid": "C00286807",
+  "amount": 1000.0,
+  "key": "PROFESSIONAL AVIATION SAFETY SPECIALISTS",
+  "hits": []
+ },
+ {
+  "pac": "SANOFI US SERVICES INC. EMPLOYEES' PAC",
+  "cid": "C00144345",
+  "amount": 1000.0,
+  "key": "SANOFI SERVICES",
+  "hits": []
+ },
+ {
+  "pac": "ALZHEIMERS IMPACT MOVEMENT PAC",
+  "cid": "C00486928",
+  "amount": 1000.0,
+  "key": "ALZHEIMERS IMPACT MOVEMENT",
+  "hits": []
+ },
+ {
+  "pac": "CLEAN FUELS ALLIANCE AMERICA PAC",
+  "cid": "C00484592",
+  "amount": 1000.0,
+  "key": "CLEAN FUELS ALLIANCE",
+  "hits": []
+ },
+ {
+  "pac": "GENERAL DYNAMICS CORPORATION PAC (GENERAL DYNAMICS EMPLOYEE PAC)",
+  "cid": "C00078451",
+  "amount": 1000.0,
+  "key": "GENERAL DYNAMICS",
+  "hits": [
+   {
+    "amount": 21155208591.97,
+    "recipient_id": "d5ab5f51-db3a-a26f-96a1-1b24c3e2802c-C",
+    "name": "ELECTRIC BOAT CORPORATION",
+    "code": "963737366",
+    "uei": "E7BEKJ4V9528",
+    "total_outlays": null
+   },
+   {
+    "amount": 18656274551.3,
+    "recipient_id": "455555be-773d-eab1-1e6b-7b94400b757e-C",
+    "name": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+    "code": "067641597",
+    "uei": "SMNWM6HN79X5",
+    "total_outlays": null
+   },
+   {
+    "amount": 18154697832.33,
+    "recipient_id": "99938bc0-e262-06ff-9f94-386fd3da88dc-C",
+    "name": "GENERAL DYNAMICS LAND SYSTEMS INC.",
+    "code": "131266926",
+    "uei": "HAWKSQF848W7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "INTERDIGITAL, INC., PAC",
+  "cid": "C00400333",
+  "amount": 1000.0,
+  "key": "INTERDIGITAL",
+  "hits": [
+   {
+    "amount": 1000144.49,
+    "recipient_id": "9af3b15f-60c2-32ce-ab8e-21e59637a361-C",
+    "name": "INTERDIGITAL COMMUNICATIONS, INC.",
+    "code": "057207953",
+    "uei": "RBNJH3SS2NU3",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN PROPERTY CASUALTY INSURANCE ASSOCIATION PAC (INSURING AMERICA PAC)",
+  "cid": "C00066472",
+  "amount": 1000.0,
+  "key": "PROPERTY CASUALTY INSURANCE",
+  "hits": []
+ },
+ {
+  "pac": "CNA FINANCIAL CORPORATION CITIZENS FOR GOOD GOVERNMENT",
+  "cid": "C00078287",
+  "amount": 1000.0,
+  "key": "CNA FINANCIAL CITIZENS",
+  "hits": []
+ },
+ {
+  "pac": "ERIE INDEMNITY COMPANY PAC - FEDERAL (ERIE INSURANCE PAC)",
+  "cid": "C00153577",
+  "amount": 1000.0,
+  "key": "ERIE INDEMNITY",
+  "hits": []
+ },
+ {
+  "pac": "WESTERN SUGAR COOPERATIVE PAC",
+  "cid": "C00446674",
+  "amount": 1000.0,
+  "key": "WESTERN SUGAR COOPERATIVE",
+  "hits": []
+ },
+ {
+  "pac": "AMALGAMATED SUGAR COMPANY PAC",
+  "cid": "C00326389",
+  "amount": 1000.0,
+  "key": "AMALGAMATED SUGAR",
+  "hits": []
+ },
+ {
+  "pac": "ASSOCIATED EQUIPMENT DISTRIBUTORS PAC",
+  "cid": "C00010124",
+  "amount": 1000.0,
+  "key": "ASSOCIATED EQUIPMENT DISTRIBUTORS",
+  "hits": []
+ },
+ {
+  "pac": "ATMOS ENERGY CORPORATION PAC",
+  "cid": "C00381954",
+  "amount": 1000.0,
+  "key": "ATMOS ENERGY",
+  "hits": [
+   {
+    "amount": 9220137.43,
+    "recipient_id": "1e2a2523-5616-b8b9-20ad-976519364d40-C",
+    "name": "ATMOS ENERGY CORPORATION",
+    "code": "108203241",
+    "uei": "P1NLWW8ZGEL4",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "CALIFORNIA DAIRIES, INC. FEDERAL PAC",
+  "cid": "C00349746",
+  "amount": 1000.0,
+  "key": "CALIFORNIA DAIRIES",
+  "hits": [
+   {
+    "amount": 73005933.1,
+    "recipient_id": "567e4ccc-b06e-6133-40c0-7eecba67dc9e-C",
+    "name": "CALIFORNIA DAIRIES INC",
+    "code": "009868035",
+    "uei": "NAMADQJ1VJJ9",
+    "total_outlays": null
+   },
+   {
+    "amount": -1865.09,
+    "recipient_id": "1c8cd6d1-2092-92c7-aabd-cbdbb6d16492-C",
+    "name": "CHALLENGE DAIRY PRODUCTS, INC.",
+    "code": "085849834",
+    "uei": "DE6GE5DKR135",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "FLORIDA SUGAR CANE LEAGUE PAC",
+  "cid": "C00012328",
+  "amount": 1000.0,
+  "key": "FLORIDA SUGAR CANE LEAGUE",
+  "hits": []
+ },
+ {
+  "pac": "HOUSE CONSERVATIVES FUND",
+  "cid": "C00326439",
+  "amount": 1000.0,
+  "key": "HOUSE CONSERVATIVES",
+  "hits": []
+ },
+ {
+  "pac": "INTERSTATE NATURAL GAS ASSOCIATION OF AMERICA PAC",
+  "cid": "C00116145",
+  "amount": 1000.0,
+  "key": "INTERSTATE NATURAL GAS",
+  "hits": []
+ },
+ {
+  "pac": "KEURIG DR PEPPER INC. PAC",
+  "cid": "C00484451",
+  "amount": 1000.0,
+  "key": "KEURIG DR PEPPER",
+  "hits": []
+ },
+ {
+  "pac": "NATIONAL ASSOCIATION OF BENEFITS AND INSURANCE PROFESSIONALS PAC (NABIP PAC)",
+  "cid": "C00283135",
+  "amount": 1000.0,
+  "key": "BENEFITS INSURANCE PROFESSIONALS",
+  "hits": []
+ },
+ {
+  "pac": "NRA VICTORY FUND, INC.",
+  "cid": "C00741710",
+  "amount": 1000.0,
+  "key": "NRA VICTORY",
+  "hits": []
+ },
+ {
+  "pac": "NUCLEAR ENERGY INSTITUTE FEDERAL PAC",
+  "cid": "C00239848",
+  "amount": 1000.0,
+  "key": "NUCLEAR ENERGY INSTITUTE",
+  "hits": []
+ },
+ {
+  "pac": "OPTION CARE HEALTH, INC. PAC",
+  "cid": "C00668384",
+  "amount": 1000.0,
+  "key": "OPTION CARE HEALTH",
+  "hits": [
+   {
+    "amount": 9891.4,
+    "recipient_id": "3f476747-abb2-01e8-3b7e-dbdfd50ca66a-C",
+    "name": "OPTION CARE ENTERPRISES INC",
+    "code": "968032933",
+    "uei": "SDMPEWW4TM94",
+    "total_outlays": null
+   },
+   {
+    "amount": -29172.0,
+    "recipient_id": "e142bb62-05b3-0e39-a957-9686c78abc6f-C",
+    "name": "OPTION CARE HEALTH INC",
+    "code": "957126931",
+    "uei": "MXXML7T3VK51",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "PEPSICO, INC. CONCERNED CITIZENS FUND",
+  "cid": "C00039321",
+  "amount": 1000.0,
+  "key": "PEPSICO CONCERNED CITIZENS",
+  "hits": []
+ },
+ {
+  "pac": "REPUBLICANS UNITED TO DEFEND YOU PAC (RUDY PAC)",
+  "cid": "C00823351",
+  "amount": 1000.0,
+  "key": "REPUBLICANS UNITED TO DEFEND YOU",
+  "hits": []
+ },
+ {
+  "pac": "STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY FEDERAL PAC (STATE FARM FEDERAL PAC)",
+  "cid": "C00544817",
+  "amount": 1000.0,
+  "key": "STATE FARM MUTUAL AUTOMOBILE INSURANCE",
+  "hits": []
+ },
+ {
+  "pac": "THE PROCTER & GAMBLE COMPANY GOOD GOVERNMENT FUND",
+  "cid": "C00257329",
+  "amount": 1000.0,
+  "key": "PROCTER GAMBLE",
+  "hits": []
+ },
+ {
+  "pac": "USA RICE FEDERATION PAC",
+  "cid": "C00308478",
+  "amount": 1000.0,
+  "key": "RICE FEDERATION",
+  "hits": []
+ },
+ {
+  "pac": "WASHINGTON GAS LIGHT COMPANY/SEMCO ENERGY EMPLOYEE PAC",
+  "cid": "C00102152",
+  "amount": 1000.0,
+  "key": "WASHINGTON GAS LIGHT SEMCO ENERGY",
+  "hits": []
+ },
+ {
+  "pac": "ALLSTATE INSURANCE COMPANY PAC",
+  "cid": "C00040253",
+  "amount": 1000.0,
+  "key": "ALLSTATE INSURANCE",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN BEVERAGE ASSOCIATION PAC (AKA AMERICAN BEVERAGE PAC)",
+  "cid": "C00100107",
+  "amount": 1000.0,
+  "key": "BEVERAGE",
+  "hits": [
+   {
+    "amount": 16521928.35,
+    "recipient_id": "8f8235cc-0b76-68b8-1cb5-ca4fae876899-C",
+    "name": "PEPSICO BEVERAGE SALES, LLC",
+    "code": "118441806",
+    "uei": "ECXNZADEFUG8",
+    "total_outlays": null
+   },
+   {
+    "amount": 3285460.91,
+    "recipient_id": "af24eab4-55d7-5b1c-63bb-677841619402-C",
+    "name": "COCA-COLA BEVERAGE COMPANY",
+    "code": "689358617",
+    "uei": "K8D4JG4LGHS5",
+    "total_outlays": null
+   },
+   {
+    "amount": 2299760.76,
+    "recipient_id": "5bfda90c-35a0-5137-3e84-29669f2068ca-C",
+    "name": "COCA-COLA SOUTHWEST BEVERAGES LLC",
+    "code": "080405933",
+    "uei": "TNXXNHC5NX55",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN PHYSICAL THERAPY ASSOCIATION PHYSICAL THERAPY PAC (PT-PAC)",
+  "cid": "C00012880",
+  "amount": 1000.0,
+  "key": "PHYSICAL THERAPY PHYSICAL THERAPY",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN PODIATRIC MEDICAL ASSOCIATION PAC",
+  "cid": "C00008839",
+  "amount": 1000.0,
+  "key": "PODIATRIC MEDICAL",
+  "hits": [
+   {
+    "amount": 8500.0,
+    "recipient_id": "5e5e79f6-cd55-c48c-3477-9f98cb79dcdc-C",
+    "name": "AMERICAN PODIATRIC MEDICAL ASSOCIATION, INCORPORATED",
+    "code": "074817024",
+    "uei": "W1CKJLYXZK95",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "AMERICAN PUBLIC POWER ASSOCIATION, PUBLIC OWNERSHIP OF ELECTRIC RESOURCES PAC",
+  "cid": "C00161570",
+  "amount": 1000.0,
+  "key": "PUBLIC POWER PUBLIC OWNERSHIP ELECTRIC RESOURCES",
+  "hits": []
+ },
+ {
+  "pac": "AMERICA'S ESSENTIAL HOSPITALS PAC, (ESSENTIAL HOSPITALS PAC)",
+  "cid": "C00602805",
+  "amount": 1000.0,
+  "key": "S ESSENTIAL HOSPITALS",
+  "hits": []
+ },
+ {
+  "pac": "CSX CORPORATION GOOD GOVERNMENT FUND",
+  "cid": "C00163832",
+  "amount": 1000.0,
+  "key": "CSX",
+  "hits": [
+   {
+    "amount": 87360354.66,
+    "recipient_id": "4cace01f-222c-246a-0921-11ab12d00b49-C",
+    "name": "CENTRAL KENWORTH LLC",
+    "code": "055766453",
+    "uei": "CSX8DVUBA9L7",
+    "total_outlays": null
+   },
+   {
+    "amount": 3256425.53,
+    "recipient_id": "495f21a0-1983-1951-5fa3-e0f7ea7bedbf-C",
+    "name": "SDV CONSTRUCTION, INC.",
+    "code": "602894102",
+    "uei": "CSXPQ4VZ7BQ7",
+    "total_outlays": null
+   },
+   {
+    "amount": 1502974.95,
+    "recipient_id": "aa02a2a8-05cc-6887-9ef8-90b39d0dd02f-C",
+    "name": "HEALTH, LOUISIANA DEPARTMENT OF",
+    "code": "014740455",
+    "uei": "L2GPNJZBM283",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "FLEXIBLE PACKAGING ASSOCIATION PAC, INC.",
+  "cid": "C00867598",
+  "amount": 1000.0,
+  "key": "FLEXIBLE PACKAGING",
+  "hits": []
+ },
+ {
+  "pac": "IHEARTMEDIA, INC. PAC",
+  "cid": "C00279216",
+  "amount": 1000.0,
+  "key": "IHEARTMEDIA",
+  "hits": [
+   {
+    "amount": 283717.14,
+    "recipient_id": "ec54d52d-6189-4661-937a-029bdbfed71a-C",
+    "name": "IHEARTMEDIA + ENTERTAINMENT, INC.",
+    "code": "117727670",
+    "uei": "W49GHSAJNV43",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "L3HARRIS TECHNOLOGIES, INC. PAC",
+  "cid": "C00100321",
+  "amount": 1000.0,
+  "key": "L3HARRIS TECHNOLOGIES",
+  "hits": [
+   {
+    "amount": 5950463832.94,
+    "recipient_id": "9a8e6a0a-4913-b84b-e426-8fdaeb54a427-C",
+    "name": "L3HARRIS TECHNOLOGIES INTEGRATED SYSTEMS L.P.",
+    "code": "007365984",
+    "uei": "RDFKNPZNQ8E3",
+    "total_outlays": null
+   },
+   {
+    "amount": 5916945525.88,
+    "recipient_id": "fe1273eb-82d1-0fbe-536c-7bb59157c827-C",
+    "name": "L3HARRIS GLOBAL COMMUNICATIONS, INC.",
+    "code": "081210026",
+    "uei": "LJNAJVPB3MW1",
+    "total_outlays": null
+   },
+   {
+    "amount": 4305643724.7,
+    "recipient_id": "ff82f82d-0b7f-0534-6465-02811ca0e11a-C",
+    "name": "L3HARRIS TECHNOLOGIES, INC.",
+    "code": "002204600",
+    "uei": "LB5KVANFKPY7",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE PAC",
+  "cid": "C00166348",
+  "amount": 1000.0,
+  "key": "SOUTHERN MINNESOTA BEET SUGAR COOPERATIVE",
+  "hits": []
+ },
+ {
+  "pac": "SUMMIT UTILITIES, INC. PAC (SUMMIT PAC)",
+  "cid": "C00814541",
+  "amount": 1000.0,
+  "key": "SUMMIT UTILITIES",
+  "hits": [
+   {
+    "amount": 1039591.14,
+    "recipient_id": "93fb506f-b12b-fc18-a619-7c964a1638bc-C",
+    "name": "SUMMIT UTILITIES OKLAHOMA, INC.",
+    "code": null,
+    "uei": "G2L8N8BCDGA3",
+    "total_outlays": null
+   },
+   {
+    "amount": 413645.39,
+    "recipient_id": "75fa15bf-d3d2-605f-6886-5509688cbe22-C",
+    "name": "SUMMIT UTILITIES ARKANSAS, INC.",
+    "code": null,
+    "uei": "RPSJJF3HSDG9",
+    "total_outlays": null
+   },
+   {
+    "amount": 76333.76,
+    "recipient_id": "0b074767-76d2-585e-689b-4e1f92fe536f-C",
+    "name": "ARKANSAS OKLAHOMA GAS CORPORATION",
+    "code": "006903058",
+    "uei": "WV6JA5B5WU75",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "THE TRANSPORTATION ALLIANCE PAC PKA TAXICAB LIMOUSINE & PARATRANSIT ASSOCIATION PAC (TLPA PAC)",
+  "cid": "C00132480",
+  "amount": 1000.0,
+  "key": "TRANSPORTATION ALLIANCE PKA TAXICAB LIMOUSINE PARATRANSIT",
+  "hits": []
+ },
+ {
+  "pac": "THE TRAVELERS COMPANIES, INC. PAC (T-PAC)",
+  "cid": "C00376376",
+  "amount": 1000.0,
+  "key": "TRAVELERS COMPANIES",
+  "hits": []
+ },
+ {
+  "pac": "ELECT AMHERST REPUBLICANS",
+  "cid": "ELECT AMHERST REPUBLICANS",
+  "amount": 950.0,
+  "key": "ELECT AMHERST REPUBLICANS",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF MICHAEL KRACKER",
+  "cid": "FRIENDS OF MICHAEL KRACKER",
+  "amount": 950.0,
+  "key": "FRIENDS MICHAEL KRACKER",
+  "hits": []
+ },
+ {
+  "pac": "NORRIS FOR JUDGE",
+  "cid": "NORRIS FOR JUDGE",
+  "amount": 698.0,
+  "key": "NORRIS JUDGE",
+  "hits": []
+ },
+ {
+  "pac": "RICHARDSON FOR JUSTICE",
+  "cid": "RICHARDSON FOR JUSTICE",
+  "amount": 698.0,
+  "key": "RICHARDSON JUSTICE",
+  "hits": []
+ },
+ {
+  "pac": "AMERICAN ASSOCIATION FOR HOMECARE PAC (AAHOMECARE PAC)",
+  "cid": "C00357129",
+  "amount": 500.0,
+  "key": "HOMECARE",
+  "hits": [
+   {
+    "amount": 4400092.02,
+    "recipient_id": "f9f5ba9a-5e55-afeb-1c80-e3233bf00972-C",
+    "name": "HOMECARE PRODUCTS, INC.",
+    "code": "144405214",
+    "uei": "VLPTZTJBU9G4",
+    "total_outlays": null
+   },
+   {
+    "amount": 773603.63,
+    "recipient_id": "61f9070c-648b-4b48-f3c4-5bf2f7aefc93-C",
+    "name": "HOMECARE FOR THE CAROLINAS LLC",
+    "code": "016421162",
+    "uei": "TBM8HY1WLN83",
+    "total_outlays": null
+   },
+   {
+    "amount": 120610.0,
+    "recipient_id": "fe02f4cb-1e60-ac50-fa2c-f71c6cb247e3-C",
+    "name": "HOMECARE MATTRESS INC",
+    "code": "787516210",
+    "uei": "QL5HCSNRC6Z1",
+    "total_outlays": null
+   }
+  ]
+ },
+ {
+  "pac": "VGM MANAGEMENT LTD PAC (VGM PAC)",
+  "cid": "C00402545",
+  "amount": 500.0,
+  "key": "VGM MANAGEMENT",
+  "hits": []
+ },
+ {
+  "pac": "UNITED STATES TELECOM ASSOCIATION PAC (TELECOMPAC)",
+  "cid": "C00000984",
+  "amount": 500.0,
+  "key": "UNITED STATES TELECOM",
+  "hits": []
+ },
+ {
+  "pac": "MOTORSPORTS ACCEPTANCE CORPORATION PAC (SPEED PAC)",
+  "cid": "C00571042",
+  "amount": 500.0,
+  "key": "MOTORSPORTS ACCEPTANCE",
+  "hits": []
+ },
+ {
+  "pac": "ALLEGANY COUNTY WOMEN'S REPUBLICAN CLUB",
+  "cid": "ALLEGANY COUNTY WOMEN'S REPUBLICAN CLUB",
+  "amount": 500.0,
+  "key": "ALLEGANY COUNTY WOMEN S REPUBLICAN CLUB",
+  "hits": []
+ },
+ {
+  "pac": "BHFS-E, PC PAC (BROWNSTEIN HYATT FARBER SCHRECK PAC)",
+  "cid": "C00390583",
+  "amount": 500.0,
+  "key": "BHFS E PC",
+  "hits": []
+ },
+ {
+  "pac": "COMMITTEE TO ELECT CHRISTOPHER S. FRIEND",
+  "cid": "COMMITTEE TO ELECT CHRISTOPHER S. FRIEND",
+  "amount": 500.0,
+  "key": "TO ELECT CHRISTOPHER S FRIEND",
+  "hits": []
+ },
+ {
+  "pac": "SUGAR CANE GROWERS COOPERATIVE OF FLORIDA (PAC)",
+  "cid": "C00254656",
+  "amount": 500.0,
+  "key": "SUGAR CANE GROWERS COOPERATIVE FLORIDA",
+  "hits": []
+ },
+ {
+  "pac": "COMMITTEE TO ELECT DEBORAH CHIMES",
+  "cid": "COMMITTEE TO ELECT DEBORAH CHIMES",
+  "amount": 448.0,
+  "key": "TO ELECT DEBORAH CHIMES",
+  "hits": []
+ },
+ {
+  "pac": "BAKEPAC - THE PAC OF THE INDEPENDENT BAKERS ASSOCIATION",
+  "cid": "C00099754",
+  "amount": 350.0,
+  "key": "BAKEPAC INDEPENDENT BAKERS",
+  "hits": []
+ },
+ {
+  "pac": "ORLEANS COUNTY REPUBLICAN COMMITTEE",
+  "cid": "ORLEANS COUNTY REPUBLICAN COMMITTEE",
+  "amount": 300.0,
+  "key": "ORLEANS COUNTY REPUBLICAN",
+  "hits": []
+ },
+ {
+  "pac": "ALLARD FOR SHERIFF",
+  "cid": "ALLARD FOR SHERIFF",
+  "amount": 274.0,
+  "key": "ALLARD SHERIFF",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF CHARLES SNYDER",
+  "cid": "FRIENDS OF CHARLES SNYDER",
+  "amount": 264.0,
+  "key": "FRIENDS CHARLES SNYDER",
+  "hits": []
+ },
+ {
+  "pac": "BOLOGNA FOR ASSEMBLY",
+  "cid": "BOLOGNA FOR ASSEMBLY",
+  "amount": 250.0,
+  "key": "BOLOGNA ASSEMBLY",
+  "hits": []
+ },
+ {
+  "pac": "BORRELLO FOR SENATE",
+  "cid": "BORRELLO FOR SENATE",
+  "amount": 250.0,
+  "key": "BORRELLO SENATE",
+  "hits": []
+ },
+ {
+  "pac": "GIGLIO FOR ASSEMBLY",
+  "cid": "GIGLIO FOR ASSEMBLY",
+  "amount": 200.0,
+  "key": "GIGLIO ASSEMBLY",
+  "hits": []
+ },
+ {
+  "pac": "TRIPI FOR SUPREME COURT",
+  "cid": "TRIPI FOR SUPREME COURT",
+  "amount": 200.0,
+  "key": "TRIPI SUPREME COURT",
+  "hits": []
+ },
+ {
+  "pac": "BOSTON REPUBLICAN COMMITTEE",
+  "cid": "BOSTON REPUBLICAN COMMITTEE",
+  "amount": 198.0,
+  "key": "BOSTON REPUBLICAN",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF JORGE S. DE ROSAS",
+  "cid": "FRIENDS OF JORGE S. DE ROSAS",
+  "amount": 198.0,
+  "key": "FRIENDS JORGE S DE ROSAS",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF SAM LOMANDO",
+  "cid": "FRIENDS OF SAM LOMANDO",
+  "amount": 150.0,
+  "key": "FRIENDS SAM LOMANDO",
+  "hits": []
+ },
+ {
+  "pac": "FREEDMAN FOR FAMILIES",
+  "cid": "FREEDMAN FOR FAMILIES",
+  "amount": 130.0,
+  "key": "FREEDMAN FAMILIES",
+  "hits": []
+ },
+ {
+  "pac": "BOLOGNA FOR ASSEMBLY 2026",
+  "cid": "BOLOGNA FOR ASSEMBLY 2026",
+  "amount": 120.0,
+  "key": "BOLOGNA ASSEMBLY 2026",
+  "hits": []
+ },
+ {
+  "pac": "DIPIETRO FOR YOU",
+  "cid": "DIPIETRO FOR YOU",
+  "amount": 100.0,
+  "key": "DIPIETRO YOU",
+  "hits": []
+ },
+ {
+  "pac": "COMMITTEE TO ELECT BILL SCHROM SHERIFF",
+  "cid": "COMMITTEE TO ELECT BILL SCHROM SHERIFF",
+  "amount": 100.0,
+  "key": "TO ELECT BILL SCHROM SHERIFF",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF BECKY FOR ASSEMBLY",
+  "cid": "FRIENDS OF BECKY FOR ASSEMBLY",
+  "amount": 100.0,
+  "key": "FRIENDS BECKY ASSEMBLY",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF BETH FARRELL",
+  "cid": "FRIENDS OF BETH FARRELL",
+  "amount": 100.0,
+  "key": "FRIENDS BETH FARRELL",
+  "hits": []
+ },
+ {
+  "pac": "FRIENDS OF JOE LIBERTI",
+  "cid": "FRIENDS OF JOE LIBERTI",
+  "amount": 100.0,
+  "key": "FRIENDS JOE LIBERTI",
+  "hits": []
+ },
+ {
+  "pac": "HICKEY FOR SUPREME COURT",
+  "cid": "HICKEY FOR SUPREME COURT",
+  "amount": 100.0,
+  "key": "HICKEY SUPREME COURT",
+  "hits": []
+ },
+ {
+  "pac": "TOWN OF LOCKPORT REPUBLICAN COMMITTEE",
+  "cid": "TOWN OF LOCKPORT REPUBLICAN COMMITTEE",
+  "amount": 65.0,
+  "key": "TOWN LOCKPORT REPUBLICAN",
+  "hits": []
+ },
+ {
+  "pac": "MORETTI CAMPAIGN COMMITTEE",
+  "cid": "MORETTI CAMPAIGN COMMITTEE",
+  "amount": 50.0,
+  "key": "MORETTI CAMPAIGN",
+  "hits": []
+ }
+]
