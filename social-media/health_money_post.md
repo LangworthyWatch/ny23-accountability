@@ -1,4 +1,4 @@
-# DRAFT Nov 5, 2026 v2 (card rebuilt Nov 9: Medicaid finding promoted, contracts demoted; caption contracts bullet cut, 8 percent added) (entry 2026-11-05-health-industry-money-committee-seat, DOCUMENTED PATTERN)
+# POSTED Nov 9, 2026 (v2 card and caption) (entry 2026-11-05-health-industry-money-committee-seat, DOCUMENTED PATTERN)
 # Card: health_money_card.png (create_health_money_card.py)
 
 Health-industry PAC money to him: $6,000 in his first race, $85,250 in his second, $193,000 in this one. What changed in between was a seat on the committee that writes Medicaid and drug law.
