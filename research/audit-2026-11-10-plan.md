@@ -78,3 +78,6 @@ The missed-votes page is current through **July 21, 2026**, using GovTrack aggre
   - All eleven sources archived, with playback verified.
 - **Captions RETIRED**: the four tied to retired drafts, plus closing 1-4, Epstein oversight and Reeves Act.
 - One screenshot (2026-07-25-buffalo-flag-post-jul2.png) was moved and then restored. A published July 2 entry uses it, and the new link check caught that before deploy.
+
+## Favicon (Nov 10, 2026)
+- [x] Navy tile, white LW, gold rule. Generator: research/favicon/make_favicon.py; preview: research/favicon/preview.png. It ships favicon.ico (16/32/48), the 16 and 32 px PNGs, apple-touch-icon (180, opaque, square corners), icon-192/512, site.webmanifest and a theme-color tag in baseof.html. check_built_links now reports clean (823 pages).
