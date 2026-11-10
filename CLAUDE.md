@@ -251,7 +251,7 @@ hugo new fact-checks/YYYY-MM-DD-slug.md
 
 ## Git Workflow
 
-1. Always work on `main` branch (deploys to GitHub Pages)
+1. Always work on `main` branch (deploys go through wrangler, not GitHub)
 2. Commit messages should be descriptive
 3. Include `Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>` in commits
 4. Push triggers automatic deployment
@@ -582,7 +582,7 @@ curl -sSI -m 10 "https://langworthywatch.org/fact-checks/<slug>/" | head -1
 ### Repository
 - Remote repo name: `LangworthyWatch/ny23-accountability` (not `langworthy-tracker`)
 - Local directory: `langworthy-tracker/` (submodule within parent `Langworthywatch/`)
-- Branch: `main` (deploys to GitHub Pages on push)
+- Branch: `main` (pushing does not deploy; see "Deploy Path")
 
 ---
 
