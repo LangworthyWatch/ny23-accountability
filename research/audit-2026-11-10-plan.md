@@ -52,7 +52,7 @@ The missed-votes page is current through **July 21, 2026**, using GovTrack aggre
 - [ ] A freshness report script that lists each evergreen page with its data-as-of date and flags anything over 90 days old, any published-to-draft link, and any canonical figure that appears on a page without a link.
 
 ## User-only
-- [ ] Revoke the Cloudflare token pasted in an earlier session.
+- [x] Revoke the Cloudflare token pasted in an earlier session. (Rolled by the user Nov 10, 2026. Deploys use wrangler OAuth and are unaffected; no copy found in the repo or shell profiles.)
 - [ ] Repoint `www.langworthywatch.org` from Netlify to Pages.
 - [ ] Send any comment requests for drafts you choose to finish.
 
