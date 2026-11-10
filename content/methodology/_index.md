@@ -62,23 +62,23 @@ A photograph or a meeting with the Representative is **not** an endorsement of h
 - **The Buffalo News** produced analysis of the OBBBA's impact on district hospitals.
 - **WGRZ and MyTwinTiers** have covered security incidents, office closures, and election results.
 
-### What Local Media Has NOT Covered
+### What Local Media Had Not Covered (as of June 2026)
 
-The following publicly available information has received **no examination** from any local news outlet:
+When this section was written in June 2026, the following public records had received no examination from any local news outlet that we could find. The figures themselves live on the linked pages and are kept current there; this table is a dated snapshot and does not repeat them.
 
-| Topic | Public Record | Coverage |
-|-------|--------------|----------|
-| **Missed vote rate** | 3.9% — nearly double the House median of 2.0% (GovTrack) | None |
-| **Environmental score** | 0% LCV score in 2024; 3% lifetime | None |
-| **Campaign finance** | ~44% PAC dependency; energy-sector donor alignment | None |
-| **Donor geography** | What percentage are NY-23 residents? | None |
-| **Cost-transfer mechanism** | How federal cuts become county tax increases | None |
+| Topic | Where this site documents it | Local coverage as of June 2026 |
+|-------|------------------------------|-------------------------------|
+| **Voting attendance** | [Missed votes](/missed-votes/) | None located |
+| **Environmental voting record** | [League of Conservation Voters scorecard](https://scorecard.lcv.org/moc/nick-langworthy) | None located |
+| **PAC dependence and donor sectors** | [Who funds him and who can reach him](/fact-checks/2026-10-16-who-funds-him-and-who-can-reach-him/); [health-industry money](/fact-checks/2026-11-05-health-industry-money-committee-seat/) | None located |
+| **Donor geography** | [Who funds him and who can reach him](/fact-checks/2026-10-16-who-funds-him-and-who-can-reach-him/) | None located |
+| **Cost-transfer mechanism** (how federal cuts become county costs) | [Local impact](/local-impact/) | None located |
 
 ### The Pattern
 
 Multiple local outlets publish Langworthy press releases **verbatim or with minimal editing**, particularly grant announcements.
 
-No local newspaper editorial board has published a **formal performance evaluation** of Langworthy since he took office.
+Local editorial boards have weighed in mainly through endorsements. The Post-Journal and its sister paper, the OBSERVER, which share an editor, endorsed him in 2022, 2024 and 2026, and [our entry on the 2026 endorsement](/fact-checks/2026-10-26-post-journal-endorsement-graphic/) quotes all three. We have not located a local editorial that evaluates his voting record or votes in detail outside an endorsement.
 
 ### Why This Matters
 
@@ -172,4 +172,4 @@ Our fact-checks cite:
 
 ---
 
-*Last updated: June 27, 2026*
+*Last updated: November 10, 2026 (local-coverage table dated and linked to current figures; editorial-board paragraph corrected)*

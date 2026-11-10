@@ -52,6 +52,23 @@ def split_frontmatter(text):
     return "", text
 
 
+
+def published_slugs(content_root):
+    """Map every URL path under /fact-checks/ and /correspondence/letters/ to
+    True (published) or False (draft), honoring `slug:` overrides."""
+    import glob, os
+    out = {}
+    for section, sub in (("fact-checks", "fact-checks"), ("correspondence/letters", "correspondence/letters")):
+        for f in glob.glob(os.path.join(content_root, sub, "*.md")):
+            if os.path.basename(f) == "_index.md":
+                continue
+            txt = open(f, encoding="utf-8", errors="ignore").read()
+            fm, _ = split_frontmatter(txt)
+            m = re.search(r'^slug:\s*"?([^"\n]+)"?', fm, re.MULTILINE)
+            slug = m.group(1).strip() if m else os.path.splitext(os.path.basename(f))[0]
+            out[f"/{section}/{slug}/"] = not re.search(r"^draft:\s*true", fm, re.MULTILINE)
+    return out
+
 def main():
     if len(sys.argv) != 2:
         print("usage: prepublish_lint.py <path-to-entry.md>", file=sys.stderr)
@@ -106,6 +123,24 @@ def main():
         if re.search(r"Pre-publish checklist", body):
             findings.append(("SOFT", 0, "pre-publish checklist comment", "(html comment)",
                              "draft:false but the pre-publish checklist comment is still present"))
+
+    # internal links: a published entry must not link to a draft or a missing page
+    import os
+    root = os.path.abspath(path)
+    while root != os.path.dirname(root) and os.path.basename(root) != "content":
+        root = os.path.dirname(root)
+    if os.path.basename(root) == "content":
+        known = published_slugs(root)
+        for i, line in enumerate(nocomment_lines, 1):
+            for mm in re.finditer(r"\]\((/(?:fact-checks|correspondence/letters)/[^)#\s]+?/?)(?:#[^)]*)?\)", line):
+                url = mm.group(1) if mm.group(1).endswith("/") else mm.group(1) + "/"
+                state = known.get(url)
+                if state is None:
+                    findings.append(("BLOCK", i, url, line.strip()[:100],
+                                     "internal link to a page that does not exist (check slug: overrides)"))
+                elif state is False and is_published:
+                    findings.append(("BLOCK", i, url, line.strip()[:100],
+                                     "published entry links to a DRAFT; it will 404 on the live site"))
 
     if not findings:
         print(f"✓ prepublish_lint: clean — {path}")

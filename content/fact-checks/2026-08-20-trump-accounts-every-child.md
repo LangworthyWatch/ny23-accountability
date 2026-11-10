@@ -177,7 +177,6 @@ July 2026. Contributions opened July 4, 2026.
 ## Related fact-checks
 
 - [OBBBA and working families](/fact-checks/2026-04-17-obbba-working-families/)
-- [The "Real Cost" series framing](/fact-checks/2026-04-17-real-cost-series-framing/)
 - [ACA subsidies claim](/fact-checks/2025-11-aca-subsidies-false-claim/)
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "[Topic] - [Response Status]"
 date: 2025-12-29
-draft: false
+draft: true
 topic: "Healthcare"  # or Immigration, Veterans, etc.
 contact_date: "2025-12-29"
 contact_method: "Email"  # Email, Phone, Mail, In-Person, Website Form

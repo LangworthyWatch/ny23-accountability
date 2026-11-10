@@ -281,7 +281,7 @@ other than the editor's opinion, and this entry does not suggest it.
 * [No In-Person Town Hall Since 2023. 55 Cents of Every Campaign Dollar Comes From PACs, and at Most 17 Cents From Donors With Addresses in His District.](/fact-checks/2026-10-16-who-funds-him-and-who-can-reach-him/)
 * [Constituent Access: No In-Person Town Halls in 3+ Years, Office Closures Across District](/fact-checks/2025-04-constituent-access-town-halls/)
 * ['I Secured.' 'Proud to Deliver.' Seven Credit Claims He Made in 2026, and What the Record Shows Behind Each One.](/fact-checks/2026-10-20-credit-claims-2026-roundup/)
-* [The Newstead Community Center: Real Money, Announced Twice, and Two Senators Who Secured the Same $5 Million](/fact-checks/2026-08-06-newstead-community-center-shared-earmark/)
+* [The Newstead Community Center: Real Money, Announced Twice, and Two Senators Who Secured the Same $5 Million](/fact-checks/newstead-community-center/)
 * [The Same $1.25 Million, Announced a Third Time, Still Without Mentioning the Senators](/fact-checks/2026-07-16-allegany-water-funding-third-announcement/)
 
 ---

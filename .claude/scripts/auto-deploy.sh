@@ -38,6 +38,11 @@ build_output=$(rm -rf public && hugo --gc --minify 2>&1) || {
   exit 0
 }
 
+# Broken internal links in the built site (e.g. a published entry linking a draft).
+# Warn, don't block: a broken link should not hold back the deploy of a correction.
+links_output=$(python3 scripts/check_built_links.py public 2>&1) || true
+links_warn=$(echo "$links_output" | grep -oE '^check_built_links: [0-9]+ broken[^$]*' | head -1)
+
 # Generate the Pagefind static full-text search index over the built site (powers /search/).
 # Must run after Hugo and before deploy so public/pagefind/ ships with the upload.
 pagefind_output=$(npx -y pagefind --site public 2>&1) || {
@@ -68,4 +73,5 @@ echo "$current_sha" > "$MARKER_FILE"
 
 dep_url=$(echo "$deploy_output" | grep -oE 'https://[a-z0-9]+\.langworthywatch\.pages\.dev' | tail -1)
 jq -nc --arg sha "${current_sha:0:8}" --arg url "$dep_url" \
-  '{systemMessage: ("✓ Cloudflare Pages deploy live (" + $sha + "): https://langworthywatch.org" + (if $url != "" then " (preview: " + $url + ")" else "" end)), suppressOutput: true}'
+  --arg links "$links_warn" \
+  '{systemMessage: ("✓ Cloudflare Pages deploy live (" + $sha + "): https://langworthywatch.org" + (if $url != "" then " (preview: " + $url + ")" else "" end) + (if $links != "" then " | WARNING " + $links + " (run: python3 scripts/check_built_links.py)" else "" end)), suppressOutput: true}'

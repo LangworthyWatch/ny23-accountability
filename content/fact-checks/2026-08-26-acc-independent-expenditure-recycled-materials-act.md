@@ -232,7 +232,7 @@ law on the subject.
 
 - [Energy Choice Act: what the bill does and leaves out](/fact-checks/2026-02-25-energy-choice-act/)
 - [State preemption pattern](/fact-checks/2026-02-state-preemption-pattern/)
-- [AIPAC money and the record](/fact-checks/2026-07-25-aipac-money-and-record/)
+- [The last money before the vote, including AIPAC-earmarked contributions](/fact-checks/2026-10-31-pre-election-money-filings/)
 - [Campaign finance patterns](/fact-checks/2026-02-07-campaign-finance-patterns/)
 
 ---

@@ -20,7 +20,9 @@ Two distinct analyses are on this page. They cover different time periods, diffe
 
 ## Federal Campaign Finance (2023–2024)
 
-*Data source: OpenSecrets.org — 2023–2024 election cycle, current as of February 6, 2025. The 2025–2026 cycle is underway; updated figures will be added when OpenSecrets publishes them.*
+> **This section covers the 2023-24 cycle.** It has not yet been rebuilt for 2025-26. Until it is, the current-cycle figures are in three entries built from his FEC filings: [who funds him and who can reach him](/fact-checks/2026-10-16-who-funds-him-and-who-can-reach-him/) (the full cycle through September 30, 2026, including the PAC share and donor geography), [the last money before the vote](/fact-checks/2026-10-31-pre-election-money-filings/) (October 1 to 14, plus 48-hour notices), and [health-industry money and the committee seat](/fact-checks/2026-11-05-health-industry-money-committee-seat/) (PAC money by sector across three cycles). A full 2025-26 rebuild will follow the post-general report due December 3, 2026. *Note added November 10, 2026.*
+
+*Data source: OpenSecrets.org, 2023-2024 election cycle, current as of February 6, 2025.*
 
 ## Campaign Overview
 
@@ -392,4 +394,4 @@ All state-level data from public New York State databases:
 
 ---
 
-*Last updated: March 15, 2026*
+*Last updated: November 10, 2026 (note added pointing to 2025-26 figures; the 2023-24 federal tables are unchanged)*

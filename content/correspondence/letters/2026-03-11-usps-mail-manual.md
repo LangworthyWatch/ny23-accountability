@@ -79,11 +79,6 @@ Rather than directly engaging with the constituent's concern about the manual up
 
 ---
 
-## Related
-
-- [Submission: USPS Mail Manual Concerns](/correspondence/letters/2026-03-11-usps-submission/)
-
----
 
 **Note:** This entry documents publicly available information from official correspondence. Personal constituent information has been redacted.
 

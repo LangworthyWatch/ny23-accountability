@@ -120,11 +120,15 @@ on the Special Focus Facility list and none carries CMS's abuse icon.
 
 The Prospect, citing a federal inspector general audit and ProPublica,
 reports that Fischl and Grinspan co-own a Bronx nursing home, Pinnacle
-Multicare, that the audit found had been overpaid $31.2 million by
-Medicare in 2021 and 2022. This site documented that audit in its
-[Landa entry](/fact-checks/2026-07-25-landa-donor-public-record/); the
-audit names the facility, not its owners, and the ownership link is the
-Prospect's and ProPublica's reporting, not the audit's. The Prospect also
+Multicare. The audit, HHS Office of Inspector General report
+A-02-22-01017, found that 99 of 100 sampled claims did not meet Medicare
+requirements for skilled nursing services provided in calendar years 2020
+and 2021, and estimated that Pinnacle received at least $31.2 million in
+overpayments. (The Prospect's article gives the years as 2021 and 2022;
+the inspector general's summary says 2020 and 2021.) Pinnacle is
+contesting the audit in court. The audit names the facility, not its
+owners; the ownership link is the Prospect's and ProPublica's reporting,
+not the audit's. The Prospect also
 reports that Kentucky's attorney general opened an investigation this
 summer into a death at a Salyersville facility in Rep. Guthrie's district
 that it says is owned by the same investor group. That facility is not
@@ -168,10 +172,6 @@ years; CMS formally repealed the rule in December 2025.
   his campaign and joint fundraising committee from 2022 through March
   2025, all before the July 3, 2025 vote on H.R. 1
   ([entry](/fact-checks/2026-05-28-nursing-home-staffing-donations/)).
-- **The Landa network's public record**, including a Medicare
-  overpayment audit, state attorney general suits and the Hungary
-  ambassador nomination
-  ([entry](/fact-checks/2026-07-25-landa-donor-public-record/)).
 - **A pattern of disclosure gaps** between donations and the legislation
   or announcements that followed
   ([entry](/fact-checks/2026-06-24-disclosure-gap-donor-pattern/)).
@@ -230,6 +230,7 @@ word about them.
 
 ## Sources
 
+* HHS Office of Inspector General, "Nearly All Skilled Nursing Services Provided by Pinnacle Multicare Nursing and Rehabilitation Center Did Not Meet Medicare Payment Requirements," report A-02-22-01017: https://oig.hhs.gov/reports/all/2025/nearly-all-skilled-nursing-services-provided-by-pinnacle-multicare-nursing-and-rehabilitation-center-did-not-meet-medicare-payment-requirements (retained under research/sources/audit-2026-11-10/)
 * Langworthy Leadership & Accountability Fund (C00934109), FEC filings index: https://docquery.fec.gov/cgi-bin/forms/C00934109/
 * Statement of Organization, FEC file 1932018, January 12, 2026 (participants): https://docquery.fec.gov/dcdev/posted/1932018.fec (archived: https://web.archive.org/web/20261031204010/https://docquery.fec.gov/dcdev/posted/1932018.fec)
 * Termination report covering March 1-31, 2026, FEC file 1957130, filed April 1, 2026 (receipts, attributions, transfers): https://docquery.fec.gov/dcdev/posted/1957130.fec (archived: https://web.archive.org/web/20261031203958/https://docquery.fec.gov/dcdev/posted/1957130.fec)
@@ -250,7 +251,6 @@ word about them.
 ## Related
 
 * [Nursing Home Donations and the Staffing Rule That Disappeared](/fact-checks/2026-05-28-nursing-home-staffing-donations/) (DOCUMENTED PATTERN)
-* [Who Benjamin Landa Is: The Public Record of Langworthy's Nursing Home Donor](/fact-checks/2026-07-25-landa-donor-public-record/) (DOCUMENTED PATTERN)
 * [The Disclosure Gap: Donations, Legislation, and What the Announcements Leave Out](/fact-checks/2026-06-24-disclosure-gap-donor-pattern/) (DOCUMENTED PATTERN)
 * ["We Took Swift and Decisive Action Against 50 High-Risk Medicaid Providers"](/fact-checks/2026-10-20-medicaid-fraud-war-room-credit-claim/) (MISLEADING)
 * [The Last Money Before the Vote](/fact-checks/2026-10-31-pre-election-money-filings/) (DOCUMENTED PATTERN)
@@ -269,4 +269,11 @@ connection between any contribution and any official act. The statement
 that no nursing-home mention appears in the fraud documents describes the
 specific documents listed above, and nothing more.
 
-*Last updated: October 31, 2026*
+**Correction, November 10, 2026:** This entry originally said the federal
+audit found Pinnacle Multicare had been overpaid "in 2021 and 2022," the
+years given in the American Prospect's article. The inspector general's
+report covers services provided in calendar years 2020 and 2021. The text
+now cites the report directly. This entry also linked to a site entry on
+the Landa network that has not been published; those links were removed.
+
+*Last updated: November 10, 2026*

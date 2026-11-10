@@ -9,19 +9,19 @@
 The missed-votes page is current through **July 21, 2026**, using GovTrack aggregates. The "through June 2024" hit was a quarterly row on that page, not its data date. It needs a refresh, not a rebuild.
 
 ## Phase 1: this week (small, reader-facing)
-- [ ] **Three live 404s.** Published pages link to unpublished drafts. Repoint each:
+- [x] **Three live 404s.** Published pages link to unpublished drafts. Repoint each:
   - Kentucky JFC entry → Landa draft. Repoint to `2026-05-28-nursing-home-staffing-donations`, which covers the same donor relationship.
   - ACC independent-expenditure entry → AIPAC draft. Repoint to the AIPAC section of `2026-10-31-pre-election-money-filings`.
   - Trump Accounts entry → "real cost" framing draft. Drop the link and keep the text.
-- [ ] **Link guard.** Add a check that fails when a published page links to a draft or a missing slug. Put it in `prepublish_lint.py` and run it before every deploy.
-- [ ] **Methodology "What local media has not covered" table.** Several rows are stale or wrong:
+- [x] **Link guard.** Add a check that fails when a published page links to a draft or a missing slug. Put it in `prepublish_lint.py` and run it before every deploy.
+- [x] **Methodology "What local media has not covered" table.** Several rows are stale or wrong:
   - It gives a 3.9% missed-vote rate. The missed-votes page says 3.5%, and argues the headline figure misleads on its own.
   - It gives ~44% PAC dependency. The current figure is 54.6%.
   - Its donor-geography question has since been answered on the site.
   - Its "None" coverage claims are no longer true for the nursing-home money, which the American Prospect has since covered.
   - Fix: label the table as a June 2026 snapshot and replace each figure with a link to its canonical page. Bump "Last updated."
-- [ ] **Campaign finance page.** Add a dated note at the top of the federal section saying it covers 2023-24 and linking to the 2025-26 entries (Oct 16, Oct 31, Nov 5). Leave the full rebuild for Phase 2. Leave the IDA section alone, because the related Erie material is under the COI pause.
-- [ ] Commit the regenerated `static/data/dashboard.json`.
+- [x] **Campaign finance page.** Add a dated note at the top of the federal section saying it covers 2023-24 and linking to the 2025-26 entries (Oct 16, Oct 31, Nov 5). Leave the full rebuild for Phase 2. Leave the IDA section alone, because the related Erie material is under the COI pause.
+- [x] Commit the regenerated `static/data/dashboard.json`.
 
 ## Phase 2: after the December 3 post-general FEC report
 - [ ] Rebuild the federal section of the campaign finance page for the full 2025-26 cycle from the raw filings. Cover totals, PAC share, in-district share, sectors using the committee-master rule, and top PAC donors. Script it so the next cycle is a single command. Keep 2023-24 as an archived section below it.
@@ -55,3 +55,15 @@ The missed-votes page is current through **July 21, 2026**, using GovTrack aggre
 - [ ] Revoke the Cloudflare token pasted in an earlier session.
 - [ ] Repoint `www.langworthywatch.org` from Netlify to Pages.
 - [ ] Send any comment requests for drafts you choose to finish.
+
+## Phase 1 results (Nov 10, 2026)
+- The three draft links were fixed. While repointing the Landa link, the Kentucky JFC entry turned out to give the Pinnacle audit years as "2021 and 2022," which are the Prospect's years. The HHS-OIG summary (A-02-22-01017) says calendar years 2020 and 2021. The entry now cites OIG directly and carries a dated correction note. The years did not propagate anywhere else; the Landa caption and card give no years.
+- The new `scripts/check_built_links.py` scans the built site. It found five more broken targets, all now fixed:
+  - Three correspondence letters linked to "-submission" pages that never existed. The links were removed.
+  - `correspondence/letters/_TEMPLATE.md` had been live at /correspondence/letters/_template/. It is now a draft, with a 301 to /correspondence/.
+  - The Post-Journal entry linked the Newstead entry by its filename. That entry's URL comes from its `slug:` field. The link was fixed and a 301 added.
+- One target is still broken: /favicon.ico. `baseof.html` links it and no file exists. This is left for the user; see app-icon-concepts/ in the parent.
+- `prepublish_lint.py` now raises a BLOCK when a published entry links to a draft or to a nonexistent /fact-checks/ or /correspondence/letters/ path. It honors `slug:` overrides.
+- `auto-deploy.sh` now runs `check_built_links.py` after the Hugo build. It warns in the deploy message and does not block.
+- Methodology: the coverage table is now a dated June 2026 snapshot that links to the current figures. It previously gave 3.9% for missed votes against the site's 3.5%, and ~44% for PAC share against 54.6%. The sentence "no local editorial board has published a formal performance evaluation since he took office" contradicted the site's own Post-Journal entry, which quotes the 2024 and 2026 endorsements. It was rewritten.
+- Campaign finance: a dated note at the top of the federal section points to the three 2025-26 entries.

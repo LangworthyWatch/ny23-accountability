@@ -83,7 +83,6 @@ The September 2025 letter and July 2025 vote are documented contradictions to th
 
 - [Correspondence: Epstein Files (September 2025)](/correspondence/letters/2025-09-epstein-files-inquiry/)
 - [Correspondence: AG Bondi / Epstein (March 2026)](/correspondence/letters/2026-03-11-bondi-epstein/)
-- [Submission: Epstein Files](/correspondence/letters/2026-03-11-epstein-submission/)
 
 ---
 

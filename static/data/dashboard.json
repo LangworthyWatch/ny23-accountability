@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-21",
-  "total": 176,
+  "generated": "2026-11-10",
+  "total": 184,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 60,
+    "MISSING CONTEXT": 65,
     "MISLEADING": 40,
-    "DOCUMENTED PATTERN": 33,
+    "DOCUMENTED PATTERN": 36,
     "CONTRADICTION": 13,
     "FALSE": 10,
     "MOSTLY TRUE": 8,
@@ -19,68 +19,69 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 60,
-      "pct": 34.1
+      "count": 65,
+      "pct": 35.3
     },
     {
       "label": "MISLEADING",
       "count": 40,
-      "pct": 22.7
+      "pct": 21.7
     },
     {
       "label": "DOCUMENTED PATTERN",
-      "count": 33,
-      "pct": 18.8
+      "count": 36,
+      "pct": 19.6
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 8.0
+      "pct": 7.6
     },
     {
       "label": "FALSE",
       "count": 10,
-      "pct": 5.7
+      "pct": 5.4
     },
     {
       "label": "MOSTLY TRUE",
       "count": 9,
-      "pct": 5.1
+      "pct": 4.9
     },
     {
       "label": "MULTIPLE",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "label": "FALSE ATTRIBUTION",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "label": "DEFLECTION",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "label": "NON-RESPONSIVE",
       "count": 1,
-      "pct": 0.6
+      "pct": 0.5
     }
   ],
   "by_topic": {
     "Healthcare": 24,
     "Economy": 18,
     "Government Operations": 16,
-    "Campaign Finance": 10,
+    "Campaign Finance": 13,
     "Other": 10,
     "Immigration": 9,
+    "Energy": 7,
     "Local Impact": 7,
-    "Energy": 6,
     "Agriculture": 6,
     "Transparency": 6,
+    "Credit-Claiming": 5,
     "Rule of Law": 5,
-    "Credit-Claiming": 4,
+    "Constituent Service": 4,
     "Foreign Policy": 4,
     "Accountability & Governance": 4,
     "Veterans": 4,
@@ -88,7 +89,6 @@
     "Transportation": 3,
     "Ethics": 3,
     "Environment": 3,
-    "Constituent Service": 3,
     "Legislative Record": 2,
     "Public Safety": 2,
     "Labor": 2,
@@ -96,6 +96,8 @@
     "Consumer Protection": 2,
     "Animal Welfare": 2,
     "Social Services": 2,
+    "Elections": 1,
+    "Disability": 1,
     "Technology": 1,
     "Trade": 1,
     "Financial Disclosure": 1,
@@ -121,9 +123,66 @@
     "2026-07": 24,
     "2026-08": 8,
     "2026-09": 13,
-    "2026-10": 10
+    "2026-10": 15,
+    "2026-11": 3
   },
   "entries": [
+    {
+      "title": "Health-Industry PAC Money: $6,000, Then $85,250, Then $193,000. What Changed Was His Committee Seat. Who Gave, What They Hold From the Government, and What He Did With the Seat.",
+      "date": "2026-11-05",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-11-05-health-industry-money-committee-seat/"
+    },
+    {
+      "title": "A 20-Point Victory, a Mandate': The Returns, Next to His Last Two Races and Every Other New York Republican's",
+      "date": "2026-11-04",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Elections",
+      "url": "/fact-checks/2026-11-04-mandate-claim-election-returns/"
+    },
+    {
+      "title": "Fracking, Explained: What New York Banned, What Pennsylvania Got, and What It Cost. Checked Against His Claim That the Border Counties Are 'East and West Berlin.",
+      "date": "2026-11-01",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Energy",
+      "url": "/fact-checks/2026-11-01-fracking-explainer-pennsylvania-record/"
+    },
+    {
+      "title": "One Day, One Address, $150,800: The Fundraising Committee He Formed With the Two Chairmen Who Oversee Nursing Homes Took All Its Money From Six Kentucky Nursing-Home Companies, Split It, and Closed.",
+      "date": "2026-10-31",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-10-31-kentucky-nursing-home-joint-fundraising-committee/"
+    },
+    {
+      "title": "The Last Money Before the Vote: $551,000 on TV, $25,000 to Nassau County's Republican Party, Two-Thirds of His Individual Money Through AIPAC's Conduit, and $6,850 From the District.",
+      "date": "2026-10-31",
+      "verdict": "DOCUMENTED PATTERN",
+      "topic": "Campaign Finance",
+      "url": "/fact-checks/2026-10-31-pre-election-money-filings/"
+    },
+    {
+      "title": "Strong Support From Congressman Langworthy' for the Disability Bill. He Signed On October 22, Two Days Before Early Voting, After Voting Twice for the Law That Cuts the Services the Bill Protects.",
+      "date": "2026-10-29",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Disability",
+      "url": "/fact-checks/2026-10-29-reeves-act-strong-support-post/"
+    },
+    {
+      "title": "Proud to Deliver $1 MILLION' for Jamestown's Brownfields. The City Applied, EPA Chose It in June, the Senators Announced It That Day, and EPA Says the Money Comes From a 2021 Law.",
+      "date": "2026-10-28",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Credit-Claiming",
+      "url": "/fact-checks/2026-10-28-jamestown-epa-brownfields-credit-claim/"
+    },
+    {
+      "title": "The Post-Journal Endorsed Him. The Graphic Quotes the Praise and Cuts the Paragraph Where the Paper Commends His Opponent's Town Halls and Says He 'Has Not Been as Amenable.",
+      "date": "2026-10-26",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Constituent Service",
+      "url": "/fact-checks/2026-10-26-post-journal-endorsement-graphic/"
+    },
     {
       "title": "I Secured.' 'Proud to Deliver.' Seven Credit Claims He Made in 2026, and What the Record Shows Behind Each One.",
       "date": "2026-10-20",

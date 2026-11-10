@@ -69,11 +69,6 @@ tracking_code: "YRR5Y7-1ZW7P"
 
 ---
 
-## Related
-
-- [Submission: Iran Military Concerns](/correspondence/letters/2026-03-11-iran-submission/)
-
----
 
 **Note:** This entry documents publicly available information from official correspondence. Personal constituent information has been redacted.
 
