@@ -11,6 +11,6 @@ Fact-check drafts that were never published and were retired in the November 10,
 | 2026-08-14-moog-defense-credit-claim | Three items: post permalinks, whether the $7M PIC transfer survived into enacted FY26 defense funding, an ALPA archive. Plus a comment request. | Too much open work for an August claim, and it needs a comment request. |
 | 2026-04-17-real-cost-series-framing | None | A series-framing piece superseded by later entries. |
 
-Images moved here: the two flag-raising screenshots (2026-07-25-*). The matching social captions are marked RETIRED in their first line. Safety 301s were added in static/_redirects for the slug URLs the July captions used (landa-donors, aipac-record, flag-claims), in case any of those captions were posted.
+Images moved here: one flag-raising screenshot (2026-07-25-mamdani-post.png). The other (2026-07-25-buffalo-flag-post-jul2.png) stays in static/ because the published July 2 Buffalo fireworks entry uses it. The matching social captions are marked RETIRED in their first line. Safety 301s were added in static/_redirects for the slug URLs the July captions used (landa-donors, aipac-record, flag-claims), in case any of those captions were posted.
 
 To revive one: move it back to `content/fact-checks/`, resolve its `hold_reason`, delete that field, run `prepublish_lint.py`, and add an index row.
