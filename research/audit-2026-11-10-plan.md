@@ -53,7 +53,7 @@ The missed-votes page is current through **July 21, 2026**, using GovTrack aggre
 
 ## User-only
 - [x] Revoke the Cloudflare token pasted in an earlier session. (Rolled by the user Nov 10, 2026. Deploys use wrangler OAuth and are unaffected; no copy found in the repo or shell profiles.)
-- [ ] Repoint `www.langworthywatch.org` from Netlify to Pages.
+- [x] `www.langworthywatch.org`: already proxied by Cloudflare and 301ing to the apex with path and query preserved (verified Nov 10, 2026). No change needed; the project guide's note was stale and is corrected.
 - [ ] Send any comment requests for drafts you choose to finish.
 
 ## Phase 1 results (Nov 10, 2026)

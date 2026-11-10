@@ -10,7 +10,7 @@
 - Hugo static site generator
 - Custom theme (no Ananke dependency)
 - CSS in `assets/css/bundle.css` (concatenated custom properties system)
-- **Netlify hosting** at langworthywatch.org (NOT GitHub Pages, despite legacy `.github/workflows/hugo.yml` and the GitHub Pages config that still exists for the repo). The DNS-active CDN is Netlify Edge.
+- **Cloudflare Pages hosting** at langworthywatch.org since June 14, 2026 (see "Deploy Path" below). Netlify and GitHub Pages are retired; the `.github/workflows/*` files are inert.
 - Donorbox for donations
 - Google Analytics for traffic
 
@@ -568,7 +568,7 @@ wrangler is authenticated via `wrangler login` (OAuth, user-level creds). Re-run
 
 **Migration gotchas (already handled):** Pages needs `layouts/404.html` (the custom theme emitted none, so missing paths soft-200'd to the homepage) and `static/_headers` (ports the old netlify.toml security headers). Always clean-build (`rm -rf public`) before deploy.
 
-*(Legacy/inert: Netlify site `68d48ede-fc40-4afc-9fdb-cb9f72737f02` is credit-blocked; the `.github/workflows/*` files no longer matter; `www.langworthywatch.org`'s CNAME may still point at Netlify and need repointing to Pages.)*
+*(Legacy/inert: Netlify site `68d48ede-fc40-4afc-9fdb-cb9f72737f02` is credit-blocked; the `.github/workflows/*` files no longer matter. `www.langworthywatch.org` is proxied by Cloudflare and 301s to the apex with path and query preserved, verified November 10, 2026.)*
 
 ### Verifying a page is live
 
@@ -577,7 +577,7 @@ curl -sSI -m 10 "https://langworthywatch.org/fact-checks/<slug>/" | head -1
 # Expect: HTTP/2 200
 ```
 
-**Do not assume `git push` is sufficient.** Always verify the page is live afterward via the curl above OR by checking the most recent Netlify deploy (`netlify api listSiteDeploys --data='{"site_id":"68d48ede-fc40-4afc-9fdb-cb9f72737f02","per_page":1}'` — `commit_ref` should match the latest pushed commit).
+**Do not assume `git push` is sufficient.** Pushing does not deploy; the wrangler step (or the Stop hook) does. Always verify the page is live afterward with the curl above, twice.
 
 ### Repository
 - Remote repo name: `LangworthyWatch/ny23-accountability` (not `langworthy-tracker`)
@@ -620,4 +620,4 @@ Use LW to document the *legislative record* (votes, reform gaps, Langworthy's sp
 
 ---
 
-*Last updated: November 1, 2026*
+*Last updated: November 10, 2026*
