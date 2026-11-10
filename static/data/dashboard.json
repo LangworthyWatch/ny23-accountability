@@ -1,14 +1,14 @@
 {
   "generated": "2026-11-10",
-  "total": 184,
+  "total": 186,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 65,
+    "MISSING CONTEXT": 66,
     "MISLEADING": 40,
     "DOCUMENTED PATTERN": 36,
     "CONTRADICTION": 13,
     "FALSE": 10,
-    "MOSTLY TRUE": 8,
+    "MOSTLY TRUE": 9,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
     "DEFLECTION": 3,
@@ -19,33 +19,33 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 65,
-      "pct": 35.3
+      "count": 66,
+      "pct": 35.5
     },
     {
       "label": "MISLEADING",
       "count": 40,
-      "pct": 21.7
+      "pct": 21.5
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 36,
-      "pct": 19.6
+      "pct": 19.4
     },
     {
       "label": "CONTRADICTION",
       "count": 14,
-      "pct": 7.6
+      "pct": 7.5
+    },
+    {
+      "label": "MOSTLY TRUE",
+      "count": 10,
+      "pct": 5.4
     },
     {
       "label": "FALSE",
       "count": 10,
       "pct": 5.4
-    },
-    {
-      "label": "MOSTLY TRUE",
-      "count": 9,
-      "pct": 4.9
     },
     {
       "label": "MULTIPLE",
@@ -77,14 +77,14 @@
     "Immigration": 9,
     "Energy": 7,
     "Local Impact": 7,
+    "Credit-Claiming": 6,
     "Agriculture": 6,
     "Transparency": 6,
-    "Credit-Claiming": 5,
     "Rule of Law": 5,
+    "Veterans": 5,
     "Constituent Service": 4,
     "Foreign Policy": 4,
     "Accountability & Governance": 4,
-    "Veterans": 4,
     "Infrastructure": 4,
     "Transportation": 3,
     "Ethics": 3,
@@ -119,11 +119,11 @@
     "2026-03": 15,
     "2026-04": 10,
     "2026-05": 15,
-    "2026-06": 25,
+    "2026-06": 26,
     "2026-07": 24,
     "2026-08": 8,
     "2026-09": 13,
-    "2026-10": 15,
+    "2026-10": 16,
     "2026-11": 3
   },
   "entries": [
@@ -182,6 +182,13 @@
       "verdict": "MISSING CONTEXT",
       "topic": "Constituent Service",
       "url": "/fact-checks/2026-10-26-post-journal-endorsement-graphic/"
+    },
+    {
+      "title": "Proud to Have Helped Secure' Two Fire Grants. 'Helped' Holds Up: He Voted to Fund the Program, and FEMA Chose the Winners by Score.",
+      "date": "2026-10-22",
+      "verdict": "MOSTLY TRUE",
+      "topic": "Credit-Claiming",
+      "url": "/fact-checks/2026-10-22-olean-ellicottville-fire-grants/"
     },
     {
       "title": "I Secured.' 'Proud to Deliver.' Seven Credit Claims He Made in 2026, and What the Record Shows Behind Each One.",
@@ -686,6 +693,13 @@
       "verdict": "DOCUMENTED PATTERN",
       "topic": "Economy",
       "url": "/fact-checks/2026-06-11-esolutions-bush-industries-closure/"
+    },
+    {
+      "title": "Veterans Benefits Expansion Act: The Post Mentions the Benefits, Not the Veterans Who Pay for Them",
+      "date": "2026-06-10",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Veterans",
+      "url": "/fact-checks/2026-06-10-hr6047-veterans-loan-fees/"
     },
     {
       "title": "Jasper-Troupsburg's $60.5 Million: A Claim That Mostly Holds Up",

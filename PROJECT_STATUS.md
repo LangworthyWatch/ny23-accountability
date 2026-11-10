@@ -16,7 +16,7 @@
 
 ---
 
-## Content: 184 Fact-Checks Published
+## Content: 186 Fact-Checks Published
 
 ### Topics Covered
 
@@ -134,7 +134,7 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 | Blackstone → Huizenga | Research complete; NOT published | Needs reframe: carried interest vote + Basel III are clean claims; INVEST Act provision was Ann Wagner's bill, not Huizenga's |
 | Jamestown USCP RFI denial | Published | USCP appeal filed 2026-04-26; awaiting response |
 | County profiles | 3 of 8 done | Chemung, Cattaraugus, Chautauqua, Erie, Allegany remaining |
-| H.R. 6047 veterans loan fees | Drafted + verified; NOT published | Entry in repo as draft: true; needs archive pass + review + publish. Rules votes 342/343 + CBO figures all primary-sourced |
+| H.R. 6047 veterans loan fees | Published Nov 10, 2026 | Re-verified; aligned with the veterans-record entry |
 | FEMA Review Council / BRIC | Watching | No Langworthy statement located (checked June 10) on May 7 report, BRIC cancellation, or staffing cuts; Jasper-Troupsburg entry carries the open questions |
 | Scaffold Law reauthorization | Published (3 entries) | Watch ~Sept 2026: whether H.R. 3548 §240 preemption gets attached to the surface-transportation reauthorization before the IIJA expires Sep 30 (logged in FINDINGS_BACKLOG); also UPMC/Arnot FY27 CPF requests — revisit if a FY27 approps bill passes |
 | June 10 FB post permalinks | Pending | Minnesota, Marilla, Jasper-Troupsburg entries quote posts verified from screenshots; need permalinks + screenshots archived to static/images/ |

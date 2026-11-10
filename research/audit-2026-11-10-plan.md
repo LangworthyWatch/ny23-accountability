@@ -67,3 +67,14 @@ The missed-votes page is current through **July 21, 2026**, using GovTrack aggre
 - `auto-deploy.sh` now runs `check_built_links.py` after the Hugo build. It warns in the deploy message and does not block.
 - Methodology: the coverage table is now a dated June 2026 snapshot that links to the current figures. It previously gave 3.9% for missed votes against the site's 3.5%, and ~44% for PAC share against 54.6%. The sentence "no local editorial board has published a formal performance evaluation since he took office" contradicted the site's own Post-Journal entry, which quotes the 2024 and 2026 endorsements. It was rewritten.
 - Campaign finance: a dated note at the top of the federal section points to the three 2025-26 entries.
+
+## Draft decisions carried out (Nov 10, 2026)
+- **Retired** to research/retired-drafts/ (README gives each hold and reason): Landa, AIPAC, flag-raising, sheriff quote, Moog, "real cost" framing. Moog was retired, not published as first recommended. Its hold turned out to cover three open items plus a comment request, which puts it under the same rule as AIPAC.
+- **Published**: the Olean/Ellicottville fire grants entry (MOSTLY TRUE). USAspending was rechecked first; still no fiscal 2025 Olean award.
+- **Published, revised first**: H.R. 6047 (MISSING CONTEXT).
+  - Authorship confirmed from the July 8 capture IMG_4468 (verified official page, Jun 2). The screenshot was cropped to the post to keep out the logged-in account's avatar. Do not commit the uncropped capture.
+  - Re-verified: Rules record votes 342 and 343 (Nay, 3-7, H. Rept. 119-653); Roll Call 191 (Yea, 235-179, R 204-3, D 30-176); the minority-views figures in H. Rept. 119-577; the Senate referral with no later action; H.R. 9237 as introduced carries the same 1.42 change.
+  - Aligned with the published veterans-record entry. Removed "a major off-ramp for veterans with distressed mortgages" and the unsourced "higher veteran population share." Added the limits: disability-compensated veterans pay no fee, and the refinance requires a current loan.
+  - All eleven sources archived, with playback verified.
+- **Captions RETIRED**: the four tied to retired drafts, plus closing 1-4, Epstein oversight and Reeves Act.
+- One screenshot (2026-07-25-buffalo-flag-post-jul2.png) was moved and then restored. A published July 2 entry uses it, and the new link check caught that before deploy.

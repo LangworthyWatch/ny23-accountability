@@ -1,7 +1,7 @@
 ---
 title: "'Proud to Have Helped Secure' Two Fire Grants. 'Helped' Holds Up: He Voted to Fund the Program, and FEMA Chose the Winners by Score."
 date: 2026-10-22
-draft: true
+draft: false
 topic: "Credit-Claiming"
 claim_date: "About October 20-21, 2026"
 source: "Facebook Posts (official page)"
@@ -162,7 +162,7 @@ Assistance to Firefighters grants in four straight rounds, 2014 through
 
 1. Did his office write support letters for either application? We found
    none; such letters are not usually made public.
-2. Did Olean's fire-engine application receive an award?
+2. Did Olean's fire-engine application receive an award? As of November 10, 2026, USAspending shows no fiscal 2025 award to the City of Olean under the program, for the radios or the engine; the radio grant is documented only in his release so far.
 
 ---
 
@@ -197,4 +197,4 @@ USAspending.gov, the House Clerk, the City of Olean and Rep. Langworthy's
 own posts and releases. It makes no claim about motive. Corrections with
 sources are welcome at langworthywatch@gmail.com.
 
-*Last updated: October 22, 2026*
+*Last updated: November 10, 2026 (USAspending rechecked before publication; no change to the findings)*
