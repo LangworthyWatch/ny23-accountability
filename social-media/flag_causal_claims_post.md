@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (entry retired unpublished; see research/retired-drafts/README.md)
 # Facebook post: the causal-claim pattern (July 25, 2026)
 Companion to 2026-07-25-flag-raising-posts-causal-claims.
 

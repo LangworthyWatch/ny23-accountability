@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (entry retired unpublished; see research/retired-drafts/README.md)
 # Facebook post: Who Benjamin Landa is (July 25, 2026)
 Companion to landa_donor_record_card.png and the fact-check.
 

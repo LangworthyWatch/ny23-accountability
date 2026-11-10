@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (campaign-window caption, not posted)
 # DRAFT Oct 26, 2026 (closing series 4 of 5; plain rewrite, three items)
 # Entries: /fact-checks/2026-07-16-rules-committee-gatekeeper-pattern/ (DOCUMENTED PATTERN); /fact-checks/2025-07-18-epstein-files-transparency/; /fact-checks/2026-01-14-epstein-files-discharge-petition/; /fact-checks/2026-07-03-rules-committee-tariff-vote-blockade/; /fact-checks/2026-07-03-hr9237-rules-vote-veterans-benefit-cuts/
 # Card: closing_4_contradictions_card.png (create_closing_contradictions_card.py)

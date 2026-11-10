@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (campaign-window caption, not posted)
 # DRAFT Oct 26, 2026 (closing series 2 of 5; plain rewrite)
 # Entries: /fact-checks/2026-10-16-who-funds-him-and-who-can-reach-him/ (DOCUMENTED PATTERN); /correspondence/; /fact-checks/2026-09-10-oversight-seriously-attendance-record/
 # Card: closing_2_access_card.png (create_closing_access_card.py)

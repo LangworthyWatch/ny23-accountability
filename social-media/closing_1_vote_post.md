@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (campaign-window caption, not posted)
 # DRAFT Oct 26, 2026 (closing series 1 of 5; plain rewrite)
 # Entries: /fact-checks/2026-09-15-rural-health-fund-vs-cuts-and-oversight/ (MISSING CONTEXT); /fact-checks/2026-06-14-schuyler-county-hospital-at-risk/; /fact-checks/2026-06-02-chautauqua-snf-cluster/; /fact-checks/2026-05-22-beagle-posts-credit-claiming-distraction/
 # Card: closing_1_vote_card.png (create_closing_vote_card.py)

@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (entry retired unpublished; see research/retired-drafts/README.md)
 # Facebook post: AIPAC and Langworthy, what the records show (July 25, 2026)
 Companion to aipac_record_card.png and the fact-check.
 

@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (campaign-window caption, not posted)
 # DRAFT Oct 28, 2026
 # Entry: /fact-checks/2026-01-14-epstein-files-discharge-petition/ (MISSING CONTEXT; updated Oct 28, 2026)
 # Card: epstein_oversight_card.png (create_epstein_oversight_card.py)

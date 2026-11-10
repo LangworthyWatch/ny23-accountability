@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (campaign-window caption, not posted)
 # DRAFT Oct 26, 2026 (closing series 3 of 5; plain rewrite)
 # Entries: /fact-checks/2026-10-15-tax-claims-social-security-cola/ (SS claim FALSE); /fact-checks/2026-09-09-town-hall-social-security-tax-credit/; /fact-checks/2025-12-social-security-tax/
 # Card: closing_3_seniors_card.png (create_closing_seniors_card.py)

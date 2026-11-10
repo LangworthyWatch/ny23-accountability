@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (campaign-window caption, not posted)
 # DRAFT Oct 29, 2026 (Reeves Act "strong support" post; entry 2026-10-29-reeves-act-strong-support-post, MISSING CONTEXT)
 # Card: reeves_act_card.png (create_reeves_act_card.py)
 

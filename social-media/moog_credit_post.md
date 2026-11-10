@@ -1,3 +1,4 @@
+# RETIRED Nov 10, 2026 (entry retired unpublished; see research/retired-drafts/README.md)
 <!-- DO NOT POST until the entry publishes. It is draft:true with three holds;
      the URL below will 404 until then. -->
 
