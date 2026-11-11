@@ -141,6 +141,63 @@ outside the state. Donors with addresses in NY-23 provide between about
 - **Other channels he cites:** a weekly newsletter, news interviews,
   community events, and office calls, emails, letters and meetings.
 
+### Update, November 11, 2026: commenting limited on both Facebook pages
+
+On November 11, 2026, posts on both of his Facebook pages carried
+Facebook's notice that the page "limited who can comment on this post."
+We checked every post where the comment area was in view. All seven
+carried the notice: four on the official page ("Congressman Nick
+Langworthy") and three on the campaign page ("Nick Langworthy"), dated
+from about November 6 through November 11.
+
+| Page | Post | Posted |
+|---|---|---|
+| Official | Casework update ("1,400+ cases... $5.6 million") | November 9 |
+| Official | Jim Jordan elected minority leader | November 10 |
+| Official | Newsletter signup | November 10 |
+| Official | Veterans Day video | November 11 |
+| Campaign | WENY interview clip ("relationships across the aisle") | about November 6 |
+| Campaign | WETM interview clip ("three-quarters of a million people") | about November 6 |
+| Campaign | Congratulations to Jim Jordan | November 10 |
+
+{{< figure src="/images/fact-checks/2026-11-11-comments-limited-official-casework.png" alt="Facebook post from the verified Congressman Nick Langworthy official page with a Casework Update graphic reporting 1,400-plus cases opened, 1,200-plus closed and $5,638,050 returned to constituents, and text including please don't ever hesitate to reach out. Below the post, Facebook's notice reads: Congressman Nick Langworthy limited who can comment on this post." caption="The official page's November 9 casework post. Its graphic reads &ldquo;please don't ever hesitate to reach out&rdquo;; the comment bar reads &ldquo;limited who can comment on this post.&rdquo;" >}}
+
+{{< figure src="/images/fact-checks/2026-11-11-comments-limited-official-veterans-day.png" alt="Facebook video post from the verified Congressman Nick Langworthy official page for Veterans Day beginning Freedom is not free, posted about an hour earlier. Below the post, Facebook's notice reads: Congressman Nick Langworthy limited who can comment on this post." caption="The official page's Veterans Day video, November 11." >}}
+
+{{< figure src="/images/fact-checks/2026-11-11-comments-limited-campaign-jordan.png" alt="Facebook post from the Nick Langworthy campaign page congratulating Jim Jordan, with a photo of Jordan, a woman and Langworthy. Below the post, Facebook's notice reads: Nick Langworthy limited who can comment on this post." caption="The campaign page's November 10 post." >}}
+
+**What the setting is.** Facebook lets any page limit who can comment on
+a post, to the page's followers or to the profiles the post mentions. The
+notice does not say which option was chosen. It applies to everyone the
+same way, which makes it different from blocking particular people.
+Comments left before the change, and comments from accounts the setting
+still allows, stay visible. Viewed logged out on November 11, the November
+9 casework post still showed 41 comments. Several of the most visible
+asked for in-person town halls.
+
+**What his own posts say.** The casework graphic reads: "please don't
+ever hesitate to reach out." A post on the official page from about November 6,
+linking his office's services page, reads: "If you need help with any
+issue related to the federal government, please, contact us." On election
+night, November 4, he told supporters to "take a stroll through to the
+Facebook comments and you can see how noisy it's been," as transcribed
+from the campaign page's video in [the election-returns entry](/fact-checks/2026-11-04-mandate-claim-election-returns/).
+
+**In plain language:** constituents can still call, write, email, or open
+a casework request, and his office reports more than 1,400 cases opened in
+2026. What changed is the one public place where they could answer his
+posts in front of other constituents. On both pages, commenting is now
+limited, and Facebook does not say to whom.
+
+**What cuts his way.** Pages commonly limit comments to cut spam and
+abuse, and many officials do it after elections. The setting is available
+to every page and treats every commenter alike.
+
+**What we do not know.** We don't know when the setting was applied. We
+checked posts from the past week, not older ones, so we don't know whether
+earlier posts are also limited. And we don't know whether commenting is
+open to followers or only to people the posts tag.
+
 ---
 
 ## The fair reading, at full strength
@@ -186,6 +243,7 @@ outside the state. Donors with addresses in NY-23 provide between about
 3. With more than half his campaign money coming from PACs, will he
    disclose his meetings with the PACs' sponsoring organizations and their
    lobbyists?
+4. **Why limit who can comment on the official page?** The page is his office's, and its own posts ask constituents to reach out. Will public commenting return, and does the office have a written comment policy?
 
 ---
 
@@ -213,4 +271,4 @@ Election Commission filings, the Census Bureau, WSKG and Rep. Langworthy's
 own statements. It makes no claim about motive or influence. Corrections
 with sources are welcome at langworthywatch@gmail.com.
 
-*Last updated: October 16, 2026*
+*Last updated: November 11, 2026 (update: commenting limited on both Facebook pages)*
