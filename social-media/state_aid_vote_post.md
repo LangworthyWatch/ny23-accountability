@@ -1,4 +1,4 @@
-# DRAFT Nov 11, 2026 (context post v2, bar card; no entry; data from The Public Ledgers ny-state-aid deep dive; NY-23 seven-county figure is a derived, indicative number the user approved for this post)
+# POSTED Nov 11, 2026 (context post v2, bar card; no entry; data from The Public Ledgers ny-state-aid deep dive; NY-23 seven-county figure is a derived, indicative number the user approved for this post)
 # Card: state_aid_vote_card.png (create_state_aid_vote_card.py, v2 frame with a three bars by 2024 margin)
 
 Upstate counties that Trump won by 20 or more points get about 43% more state aid per resident than the rest of upstate. Six of NY-23's seven counties are in that group.
