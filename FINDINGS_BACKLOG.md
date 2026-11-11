@@ -1905,3 +1905,9 @@ Floor that day: he is recorded on all ten Sept 15 roll calls (4:46-5:27 PM and 9
 - [ ] NY DOH enrollment workbook: Wayback save returned 520 twice; retry.
 - [ ] Check whether he signed the annual House Medicare Advantage letters (2025, 2026).
 - Method note: FEC committee master (cmYY.zip, field 13 connected org, field 12 org type) is the key to classifying PAC donors; USAspending has no parent-rollup category, so sum recipient families by name token and review by hand; the Clerk XML's first <yea-total> is a party subtotal.
+
+## 2026-11-11: first post-election votes (research/sources/votes-2026-11-10/README.md)
+- [ ] **Hegseth impeachment referral, Roll 317 (Nov 10).** He voted yea on Issa's motion to refer Massie's privileged H.Res. 1655 to Judiciary; it passed 211-204. Watch both Facebook pages for any statement about it. A statement is what would make this an entry; the vote alone is a record item. It fits the war-powers section of the veterans-record entry (eight war powers votes, all No) if he comments.
+- [ ] **Missed-votes refresh (Phase 3, early January).** Since the July 21 cutoff he has cast 46 of 47 votes; the one miss is roll 297, Sept 14, 2026 (H.R. 3276). This cuts in his favor, and the refresh should say so.
+- [ ] Nuclear bills H.R. 3978 and H.R. 9612 passed Nov 9 (E&C jurisdiction; he's on the Energy subcommittee; not a cosponsor of either). Watch for credit-claim posts.
+- [ ] Wayback: roll 297 save returned 429; retry.
