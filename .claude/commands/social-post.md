@@ -26,23 +26,23 @@ This command exists so social posts start from the canonical format instead of b
 
 3. **Run the two hard checks:**
    ```bash
-   wc -m <<< "$CAPTION"                 # must be <= 2200 (FB limit); trim if over
+   wc -m <<< "$CAPTION"                 # target 600-1,000 (house style v2.2); hard limit 2,200
    grep -F "—" <<< "$CAPTION" && echo "EM DASH — fix" || echo "no em dashes"
    ```
 
-4. **Build the matching card** on the toolkit:
+4. **Build the matching card** on the v2.2 house theme (`social-media/lib/card_v2.py`). Pick one template:
    ```python
-   import sys; sys.path.insert(0, "social-media")
-   from lib.card import Card, NAVY, RED, GREEN, GOLD
-   c = Card()                       # scale=2 or 3 for supersampled/pie cards
-   c.brand_bar()
-   y = c.badge(64, "<PUBLISHED VERDICT>")
-   y = c.title(y, "<short headline>")
-   ...                              # panels / bullets / kicker per the content
-   c.footer_bar()
-   c.save("social-media/<slug>_card.png", to_desktop=True)
+   import sys, os; sys.path.insert(0, "social-media")
+   from lib.card_v2 import one_number, said_vs_record, weekly_roundup
+   said_vs_record(title=..., said_items=[(quote, source)], record_points=[(big, small)],
+                  fair_line=..., verdict="<PUBLISHED VERDICT>", sources=..., url=..., kicker=...,
+                  path="social-media/<slug>_card.png", fair_label="WHAT CUTS HIS WAY", favor_tag=None)
    ```
-   `save()` auto-rejects em dashes in rendered text and drops a Desktop copy. Keep the card scannable — the caption carries the detail; the card carries the punch.
+   - Use `one_number(...)` for a single glanceable figure (`dots=(filled, total)` adds a dot strip).
+   - Use `weekly_roundup(...)` for the Friday roundup.
+   - Pass `favor_tag="HELD UP"` only for TRUE or MOSTLY TRUE.
+   - Copy the PNG to the Desktop.
+   - The legacy `lib/card.py` is for re-rendering old cards only.
 
 5. **Card audit (required, before committing).** Read the actual rendered PNG (not just the script) and check it against the two strongest house precedents — `beagle_count_contrast_card.png` (30 vs. 0) and `shared_earmarks_card.png` (54%/46% split bar + $17.7M/$14.9M). Both lead with one **big glanceable number**, not paragraphs. Verify:
    - **Stat-first, not quote-dense.** Is there one number, percentage, or two-word contrast a reader gets in ~2 seconds without reading a full sentence? If the card's main content is quote panels or prose blocks with no hero stat, that's a fail — find the number in the entry (a count, a dollar gap, a day-count, a percentage) and redesign around it; demote the quotes to short supporting snippets underneath.
@@ -53,7 +53,7 @@ This command exists so social posts start from the canonical format instead of b
    - **No governor, party or opponent names** unless the claim being checked is about them (the opponent is never named; see the site rule). Cross-aisle shareability is the goal.
    - **Caption lede states the finding, not the setup.** Open on the conclusion or the sharpest number; the quoted claim and context come second.
    - **No dead space.** Look at the gap between the last content block and the footer bar. A large empty gray band means spacing wasn't distributed — enlarge panels/gaps proportionally (see the two Chautauqua-card iterations in git history for the before/after) rather than leaving it.
-   - **Color logic.** Red/green (or red/navy) panels signal an adversarial contrast (claim vs. reality); plain navy-outlined panels signal parallel/chronological items (same thing said twice). Gold is for the verdict-reinforcing callout, not a primary panel color.
+   - **Color logic (v2.2).** Navy is structure and the "said" side. Amber marks the finding and the "record" side. Slate is the fair case. Gray is context. Red appears only for a FALSE verdict. Never color him red or color the other side green. Meaning must also come from labels or shapes, never color alone (colorblind check: `research/style-refresh-2026-11/colorblind_sheet.py`).
    - **Verdict badge and every rendered figure match the published entry** (re-check against the frontmatter, not memory).
    If any check fails, revise and re-render before moving to step 6 — don't present or commit a card that hasn't passed this pass.
 

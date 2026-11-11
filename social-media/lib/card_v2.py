@@ -151,7 +151,8 @@ def one_number(number, unit_line, sentence, context, tag_label, sources, url, ki
     return c.save(path)
 
 
-def said_vs_record(title, said_items, record_points, fair_line, verdict, sources, url, kicker, path):
+def said_vs_record(title, said_items, record_points, fair_line, verdict, sources, url, kicker, path,
+                   fair_label="WHAT CUTS HIS WAY", favor_tag=None):
     """Template B: what he said (navy rule) beside what the record shows (amber rule).
     said_items = [(quote, source)], record_points = [(big, small)]."""
     c = Card()
@@ -165,7 +166,10 @@ def said_vs_record(title, said_items, record_points, fair_line, verdict, sources
     fair_h = 40 + _measure(c, fair_line, c.w - 176, 18, leading=1.25) + 16
     body = 34 + 58 + title_h + 34 + col_h + 32 + fair_h
     y = top + max(36, (bottom - top - body) / 2)
-    c.verdict(64, y, verdict); y += 58
+    x_end = c.verdict(64, y, verdict)
+    if favor_tag:   # e.g. "HELD UP" beside a TRUE / MOSTLY TRUE verdict
+        c.tag(x_end + 12, y, favor_tag, fill=AMBER, text_fill=INK)
+    y += 58
     y = c.wrap(64, y, title, 952, size=40, bold=True, fill=NAVY, leading=1.15) + 34
     t0 = y
     c.rect(lx, t0, lx + 6, t0 + col_h, fill=NAVY)
@@ -182,7 +186,7 @@ def said_vs_record(title, said_items, record_points, fair_line, verdict, sources
         yy = c.wrap(rx + 24, yy + 56, small, col_w - 30, size=20, fill=INK, leading=1.28) + 30
     y = t0 + col_h + 32
     c.rect(64, y, c.w - 64, y + fair_h, fill=SLATE_TINT, outline=SLATE_LINE, width=2, radius=6)
-    c.text(88, y + 22, "WHAT CUTS HIS WAY", size=15, bold=True, fill=SLATE, anchor="lm")
+    c.text(88, y + 22, fair_label, size=15, bold=True, fill=SLATE, anchor="lm")
     c.wrap(88, y + 40, fair_line, c.w - 176, size=18, fill=INK, leading=1.25)
     c.foot(sources, url)
     return c.save(path)

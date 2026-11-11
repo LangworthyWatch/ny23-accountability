@@ -478,16 +478,28 @@ Reference these when entries fit established patterns:
 
 ## Facebook Graphics
 
-### Production (updated November 1, 2026; the dark 1200px format below is retired)
-- Scripts live in `social-media/create_<topic>_card.py` and build on `social-media/lib/card.py` (`Card(scale=2)`, `brand_bar`, `badge`, `title`, `panel`, `text`, `rect`, `footer_bar`, `save(to_desktop=True)`)
-- Output: light 1080x1080 PNG in `social-media/`, with a Desktop copy; `save()` rejects em dashes in rendered text
-- Navy bars, gold verdict badge, green "what is claimed / what is real" left panel, red "what it leaves out" right panel, white strip, navy kicker
-- Caption draft next to it as `social-media/<topic>_post.md`, header `# DRAFT`, flipped to `# POSTED <date>` when it goes up
-- Legacy (pre-June 2026): dark `#1e1e34` 1200x1200 scripts in `~/Downloads/`
-- Two-column comparison format: green-tinted left ("What's claimed") vs. red-tinted right ("What the data shows")
-- Evidence boxes at bottom with color-coded fills
-- Verdict bar in gold/amber
-- Footer: LangworthyWatch.org + sources + full fact-check URL
+### Production (house style v2.2, adopted November 11, 2026)
+- **New cards use `social-media/lib/card_v2.py`.** Older cards keep `lib/card.py` and are not re-rendered.
+- **Three templates; pick one, don't design from scratch:**
+  - `one_number()`: one big number, an optional dot strip, one sentence, context.
+  - `said_vs_record()`: what he said (navy rule) beside what the record shows (amber rule), plus a fair-case strip.
+  - `weekly_roundup()`: "This week in NY-23," with three rows and an optional amber box.
+- **Frame:** navy top bar with the LW mark, a white content panel with a border and shadow on a #DFE6EF backdrop, and a navy footer band with an amber top rule. The footer carries sources and the entry URL.
+- **Palette (party-neutral, all text pairs WCAG AA):**
+  - Navy #1E3A5F is the brand.
+  - Amber marks the finding. Fill #D69E2E; text #8A5A0B (bright amber is never used for text).
+  - Slate is the fair case: fill #DCE5F0, border #7C8DA6.
+  - Gray #4A5568 is context.
+  - Red #C53030 is used **only** for a FALSE verdict. Do not use red to mark him or green to mark "the good side."
+- **Numbers** in Arial Black (matches the favicon). Impact is retired.
+- **Tags:**
+  - The verdict tag (navy) must match the entry.
+  - The amber `HELD UP` tag goes beside a TRUE or MOSTLY TRUE verdict.
+  - The amber `IN HIS FAVOR` tag goes on a record that cuts his way but isn't a claim of his, such as attendance.
+- **Output:** light 1080x1080 PNG in `social-media/`, with a Desktop copy. `save()` rejects em dashes. Contrast and colorblind checks are documented in `research/style-refresh-2026-11/`.
+- **Caption draft** goes next to the card as `social-media/<topic>_post.md`, headed `# DRAFT` and flipped to `# POSTED <date>`. Target 600 to 1,000 characters, leading with the finding, with the entry carrying the detail.
+- **Cadence (pilot, Nov 13 to Dec 11, 2026):** a weekly roundup every Friday plus two entry posts a week. The plan and the Insights tracking sheet are in `research/pilot-2026-11/`.
+- **Legacy:** the pre-June 2026 dark `#1e1e34` 1200x1200 scripts in `~/Downloads/` and the November 1 lib/card.py style (red and green panels, gold badge) are both retired for new work.
 
 ### Design Principles (from iterative feedback)
 - Lead with what sounds reasonable before revealing the gap — but note this governs the **card's internal argument structure** (the assumption list, then the gap). It is **not** license to open the caption soft; the **caption/post text leads with the punch** (see "Facebook Post Text" below).
@@ -498,11 +510,12 @@ Reference these when entries fit established patterns:
 - Bump footer text contrast for mobile readability
 - $15/month or dominant stat should visually dominate the right column
 - Verdict tone: factual, not snarky — maximize cross-aisle shareability
+- **Show when he's right, on purpose.** A held-up claim gets its own post with the `HELD UP` tag, and the weekly roundup carries an `IN HIS FAVOR` item whenever the week has one. Never manufacture one.
 - **Second-pass lessons (Oct 31 and Nov 1, 2026 rebuilds):** the title states the finding, not a table of contents; one picture (full-width horizontal bars, or a stacked composition bar) beats one table, which is unreadable at 12 pt on a phone; budget about 12 to 15 numbers on the whole card; "lead with what sounds reasonable" governs order, not type size, so the other side's best stat goes in a slim strip, never the 60 pt hero; leave the governor and the parties off the card unless the claim is about them; the caption lede states the finding, not the setup
 - **No em dashes (—) in rendered card text.** They read as an AI tell and undercut the hand-made, factual feel. Replace contextually with a colon, comma, parentheses, period, or the middle dot (·) the design already uses. Hyphens in compound modifiers ('Medicaid-exposed') and arrows (→) are fine; only the em dash is the problem. (June 2026: the SOTD Q2 carousel was scrubbed of all 13; verify new/edited cards with `grep -F "—" social-media/create_*.py` before regenerating.)
 
 ### Facebook Post Text
-- **Lead with the punch, not the setup (do NOT bury the lede).** Open on the verdict or the single sharpest, hardest-to-rebut fact — a number ("$5.84 per resident, lowest in NY-23"), or a line like "the senators he attacks asked first" / "it's not even his district." Do **not** open with the exculpatory/reasonable framing, a warm-up question ("what does 'I secured' really mean?"), or "here's what we found." **Even when the overall finding is favorable-with-an-asterisk, lead with the asterisk** (the accountability point); put the fair/reasonable context lower. Prefer concrete, un-hedged facts for the first line; keep hedged findings (open questions, "did they apply") out of the opener. This applies to **single-entry captions too**, not just roundups. *(Added July 2026: the two earmark posts were first drafted leading with "his earmarks track need" and "what does 'I secured' mean" — both buried the real story; re-cut to open on "the Democratic senators asked first / it's not even his district" and "$5.84 per resident.")*
+- **Lead with the punch, not the setup (do NOT bury the lede).** Open on the verdict or the single sharpest, hardest-to-rebut fact — a number ("$5.84 per resident, lowest in NY-23"), or a line like "the senators he attacks asked first" / "it's not even his district." Do **not** open with the exculpatory/reasonable framing, a warm-up question ("what does 'I secured' really mean?"), or "here's what we found." **Even when the overall finding is favorable-with-an-asterisk, lead with the asterisk** (the accountability point); put the fair/reasonable context lower. Prefer concrete, un-hedged facts for the first line; keep hedged findings (open questions, "did they apply") out of the opener. This applies to **single-entry captions too**, not just roundups. **Exception (November 11, 2026): `HELD UP` posts** (a TRUE or MOSTLY TRUE verdict posted on purpose to show the record when it supports him) lead with the held-up finding, and the catch goes second. Leading with the asterisk would defeat the purpose of the post. Credit-claim posts that only partly hold up still lead with the asterisk. *(Added July 2026: the two earmark posts were first drafted leading with "his earmarks track need" and "what does 'I secured' mean" — both buried the real story; re-cut to open on "the Democratic senators asked first / it's not even his district" and "$5.84 per resident.")*
 - Use arrow bullets (→) not dashes
 - **No em dashes (—) in post text**, for the same AI-tell reason; use a colon, comma, period, or parentheses instead
 - Include specific dollar figures and data points

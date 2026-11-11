@@ -9,14 +9,14 @@
 
 ## Status of the four steps (Nov 11)
 1. Mockups: done. research/style-refresh-2026-11/ holds the three templates, a colorblind sheet with the current-style card for comparison, and the contrast results.
-2. The user picks a palette and templates. **Pending.** Do not update CLAUDE.md, /social-post or the house-style memory until the user picks.
+2. **Picked Nov 11: v2.2** (white framed panel, navy bands, party-neutral palette). CLAUDE.md, /social-post and the house-style memory are updated. The caption rule gained a narrow exception: HELD UP posts lead with the held-up finding.
 3. Term tracker: drafted at content/term-tracker/_index.md (draft, with hold_reason). Baseline in research/term-tracker-2026-11/.
 4. Pilot: week 1 is ready, with social-media/weekly_2026_11_13_* and social-media/comments_limited_* (both DRAFT).
 
 ## Schedule
 | Week | Friday roundup | Entry posts (2) |
 |---|---|---|
-| 1 | Nov 13 | comments-limited (B, ready); one more from new material |
+| 1 | Nov 13 | comments-limited (B, ready); Workforce Pell (B with HELD UP, ready) |
 | 2 | Nov 20 | from new material |
 | 3 | Nov 27 (Thanksgiving week; post Saturday if better) | from new material |
 | 4 | Dec 4 | the Dec 3 FEC post-general report (A or B) |
