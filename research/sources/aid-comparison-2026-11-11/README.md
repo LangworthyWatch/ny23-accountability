@@ -27,3 +27,17 @@ Conclusion: do not publish a district ranking from these files.
 
 ## 3. His statements
 Searched: 149 press releases (Apr 2025 to Sep 2026, ../ec-record-2026-10/activity/press-releases/) and the transcripts in research/transcripts/. No statement found claiming Albany or downstate shortchanges NY-23. His recurring line is that he will make sure the region "gets its fair share of federal resources" (the aviation-grants, Ellicott water and Corning boiler releases). In a July 15, 2026 reel, an Allegany County official said "the chips are rigged against rural communities". Those were the official's words, not his.
+
+## 4. Aid by 2024 vote margin, upstate (for the Nov 11 context card)
+Population-weighted State aid per resident, FY2024, 57 counties outside NYC:
+| Group | Counties | State aid | Property value per resident |
+|---|---|---|---|
+| Harris won | 14 | $2,385 | $132,160 |
+| Trump by under 10 | 9 | $2,287 | $231,914 |
+| Trump by 10-20 | 12 | $2,515 | $128,756 |
+| Trump by 20-30 | 12 | $3,293 | $83,746 |
+| Trump by 30+ | 10 | $3,554 | $85,288 |
+The card uses three groups: Harris won $2,385; Trump by under 20, $2,343 (this group includes Nassau, +4.2, and Suffolk, +9.9); Trump by 20 or more, $3,385. All counties under 20 points combined: $2,364, so the 20+ group gets 43% more. The 20-point cut is a reporting choice. The five-group table shows the step falls between 20 and 30 points, and the cut was not tuned to maximize the gap.
+Rank correlation (Spearman) between Trump margin and State aid per resident: +0.67 (State + federal: +0.64). This is not a Public Ledger CLAIMS row; it is indicative.
+Caveat carried from the Public Ledger: residual association remains after controls (county model +$90.4 per 10 points, HC3 p = 0.0025), so "formulas don't look at votes" is accurate but "it's only wealth" would overstate. The caption says the difference "tracks property wealth."
+v1 of the card (57-dot scatter) was replaced because it needed two axes decoded and had no single number.

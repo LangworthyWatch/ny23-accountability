@@ -1,77 +1,56 @@
 #!/usr/bin/env python3
-"""Context post: State aid per resident vs. 2024 presidential margin, 57 counties outside NYC (FY2024).
-Data: The Public Ledgers, ny-state-aid deep dive, county table FY2024 (thepublicledgers.org/data/ny_state_aid_counties_2024.csv,
-retained in research/sources/aid-comparison-2026-11-11/). Indicative county figures; no causal reading."""
+"""Context post v2: State aid per resident by 2024 presidential margin, three groups of the 57 counties outside NYC (FY2024).
+Data: The Public Ledgers ny-state-aid county table FY2024 (retained in research/sources/aid-comparison-2026-11-11/).
+Groups computed population-weighted from the county table (indicative; the 20-point cut is a reporting choice, shown
+against a five-bin breakdown in the research README). v1 was a 57-dot scatter."""
 import csv, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from lib.card_v2 import (Card, NAVY, INK, AMBER, AMBER_TXT, GRAY, LINE, SLATE, SLATE_TINT, SLATE_LINE, WHITE,
-                         CONTENT_TOP, CONTENT_BOTTOM, FRAME_INSET)
+from lib.card_v2 import (Card, NAVY, INK, AMBER, AMBER_TXT, AMBER_TINT, GRAY, LINE, SLATE, SLATE_TINT, SLATE_LINE,
+                         CONTENT_BOTTOM, FRAME_INSET)
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 rows = [r for r in csv.DictReader(open(os.path.join(ROOT, "research/sources/aid-comparison-2026-11-11/tpl_ny_state_aid_counties_2024.csv")))
         if r["name"] != "New York City"]
-NY23 = {"Allegany County", "Cattaraugus County", "Chautauqua County", "Chemung County", "Schuyler County", "Steuben County", "Tioga County"}
-LI = {"Nassau County", "Suffolk County"}
+f = lambda r, k: float(r[k])
+def agg(sel, k):
+    pop = sum(f(r, "pop") for r in sel); return sum(f(r, k) * f(r, "pop") for r in sel) / pop
+groups = [("Counties Harris won", [r for r in rows if f(r, "margin") <= 0], NAVY),
+          ("Trump won by under 20 points", [r for r in rows if 0 < f(r, "margin") < 20], NAVY),
+          ("Trump won by 20 or more", [r for r in rows if f(r, "margin") >= 20], AMBER)]
+vals = [(lab, len(sel), agg(sel, "state"), agg(sel, "fv"), col) for lab, sel, col in groups]
+hi = vals[2][2]
+rest = agg([r for r in rows if f(r, "margin") < 20], "state")      # every other upstate county, population-weighted
+pct = round((hi / rest - 1) * 100)
 
 c = Card()
-top = c.top_bar("CONTEXT") + FRAME_INSET
-y = top + 26
+y = c.top_bar("CONTEXT") + FRAME_INSET + 30
 c.text(64, y, "STATE AID TO LOCAL GOVERNMENTS, PER RESIDENT, FY2024", size=15, bold=True, fill=AMBER_TXT, anchor="lt")
 y += 30
-y = c.wrap(64, y, "Upstate, the Counties That Voted Most Heavily for Trump Get the Most State Aid", 952, size=34, bold=True, fill=NAVY, leading=1.15)
+y = c.wrap(64, y, f"Upstate Counties Trump Won by 20+ Points Get About {pct}% More State Aid Per Resident Than the Rest", 952, size=34, bold=True, fill=NAVY, leading=1.12)
 y += 8
-y = c.wrap(64, y, "Each dot is one of the 57 counties outside New York City. NY-23's seven whole counties are amber.", 952, size=17, fill=GRAY)
+y = c.wrap(64, y, "The 57 counties outside New York City, grouped by the 2024 presidential vote.", 952, size=18, fill=GRAY)
+y += 40
 
-# plot area
-px0, px1 = 150, 1000
-py0, py1 = y + 34, y + 34 + 470
-xmin, xmax = -55, 55
-ymin, ymax = 1500, 4800
-X = lambda m: px0 + (m - xmin) / (xmax - xmin) * (px1 - px0)
-Y = lambda v: py1 - (v - ymin) / (ymax - ymin) * (py1 - py0)
-for v in (2000, 3000, 4000):
-    c.rect(px0, Y(v), px1, Y(v) + 1, fill=LINE)
-    c.text(px0 - 12, Y(v), f"${v:,}", size=14, fill=GRAY, anchor="rm")
-c.rect(X(0), py0, X(0) + 2, py1, fill=SLATE_LINE)
-c.text(X(0) - 10, py1 + 22, "Harris won", size=14, fill=GRAY, anchor="rm")
-c.text(X(0) + 10, py1 + 22, "Trump won", size=14, fill=GRAY, anchor="lm")
-for t in (-40, -20, 20, 40):
-    c.text(X(t), py1 + 46, f"{abs(t)} pts", size=13, fill=GRAY, anchor="mm")
-c.text((px0 + px1) / 2, py1 + 72, "2024 presidential margin", size=14, bold=True, fill=INK, anchor="mm")
-# dots: others first, then NY-23 on top
-def dot(r, fill, rad, outline=None):
-    x, yy = X(float(r["margin"])), Y(float(r["state"]))
-    c.d.ellipse([c._p(x - rad), c._p(yy - rad), c._p(x + rad), c._p(yy + rad)], fill=fill,
-                outline=outline, width=c._p(1.5) if outline else 0)
-for r in rows:
-    if r["name"] not in NY23:
-        dot(r, NAVY if r["name"] not in LI else "#8A97AA", 7)
-for r in rows:
-    if r["name"] in NY23:
-        dot(r, AMBER, 10, outline=INK)
-labels = {"Cattaraugus County": (14, -2, "lm"), "Allegany County": (14, 0, "lm"), "Steuben County": (2, -26, "mm"),
-          "Chemung County": (-14, 8, "rm"), "Schuyler County": (14, 10, "lm")}
-for r in rows:
-    if r["name"] in labels:
-        dx, dy, an = labels[r["name"]]
-        c.text(X(float(r["margin"])) + dx, Y(float(r["state"])) + dy, r["name"].replace(" County", ""), size=14, bold=True, fill=INK, anchor=an)
-# Chautauqua and Tioga sit together near +22 pts, ~$3,300: one leader-line label
-ct = [r for r in rows if r["name"] in ("Chautauqua County", "Tioga County")]
-cx = sum(X(float(r["margin"])) for r in ct) / 2; cy = sum(Y(float(r["state"])) for r in ct) / 2
-c.rect(cx + 12, cy - 1, cx + 120, cy + 1, fill=INK)
-c.text(cx + 126, cy - 9, "Chautauqua", size=14, bold=True, fill=INK, anchor="lm")
-c.text(cx + 126, cy + 9, "and Tioga", size=14, bold=True, fill=INK, anchor="lm")
-for r in rows:
-    if r["name"] in LI:
-        c.text(X(float(r["margin"])) + 10, Y(float(r["state"])) + 16, r["name"].replace(" County", ""), size=13, fill=GRAY, anchor="lm")
-y = py1 + 96
-
-# what it does and doesn't mean
-s_h = 104
-c.rect(64, y, c.w - 64, y + s_h, fill=SLATE_TINT, outline=SLATE_LINE, width=2, radius=6)
+bx0, bx1 = 64, c.w - 64 - 170
+unit = (bx1 - bx0) / 3700
+for lab, n, v, fv, col in vals:
+    c.text(bx0, y, f"{lab} ({n})", size=19, bold=True, fill=INK, anchor="lt")
+    y += 32
+    c.rect(bx0, y, bx0 + v * unit, y + 50, fill=col, radius=4)
+    c.text(bx0 + v * unit + 14, y + 25, f"${v:,.0f}", size=36, impact=True, fill=NAVY if col == NAVY else AMBER_TXT, anchor="lm")
+    y += 62
+    c.text(bx0, y, f"Property value per resident: ${fv/1000:,.0f}K", size=16, fill=GRAY, anchor="lt")
+    y += 52
+y += 2
+c.rect(64, y, c.w - 64, y + 56, fill=AMBER_TINT, outline=AMBER, width=2, radius=6)
+c.text(84, y + 28, "Six of NY-23's seven whole counties are in the 20-or-more group.", size=19, bold=True, fill=INK, anchor="lm")
+y += 76
+fair_h = 104
+c.rect(64, y, c.w - 64, y + fair_h, fill=SLATE_TINT, outline=SLATE_LINE, width=2, radius=6)
 c.text(88, y + 22, "WHY", size=15, bold=True, fill=SLATE, anchor="lm")
-c.wrap(88, y + 38, "The school-aid formula sends more to places with less property and income to tax. Rural upstate counties have the least, and they also voted most heavily Republican. Statewide, counting New York City and federal aid too, counties Trump won and counties Harris won come out about even.",
+c.wrap(88, y + 38, "Aid formulas don't look at votes. School aid sends more to places with less property and income to tax, and the most heavily Republican rural counties have the least. Statewide, with New York City and federal aid counted, Trump and Harris counties come out about even.",
        c.w - 176, size=16, fill=INK, leading=1.28)
+assert y + fair_h < CONTENT_BOTTOM - 6, (y + fair_h, CONTENT_BOTTOM)
 c.foot("Data: The Public Ledgers analysis of NYS Comptroller local-finance filings, FY2024; NYS Board of Elections",
        "thepublicledgers.org/deep-dives/ny-state-aid/")
-assert y + s_h < CONTENT_BOTTOM - 8, (y + s_h, CONTENT_BOTTOM)
 c.save(os.path.join(ROOT, "social-media/state_aid_vote_card.png"), to_desktop=True)
+print("pct", pct, "rest", round(rest), [(v[0], round(v[2]), round(v[3])) for v in vals])
