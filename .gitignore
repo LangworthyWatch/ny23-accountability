@@ -60,3 +60,9 @@ research/sources/triage-2026-10-22/gotv-panel/media/*.m4a
 research/sources/triage-2026-10-22/gotv-panel/raw/*.pdf
 research/sources/triage-2026-10-22/covid-relief/raw/*.htm
 research/sources/triage-2026-10-22/covid-relief/raw/PLAW-116publ260.txt
+# BILLSTATUS refresh downloads (63 MB, re-fetchable from govinfo); the baseline script and outputs are tracked
+research/sources/term-tracker-2026-11/billstatus-refresh-*/
+# triage media: audio, video and frames (frames show a private individual; transcripts and info.json are tracked)
+research/sources/triage-2026-11-11/videos/*.m4a
+research/sources/triage-2026-11-11/videos/*.mp4
+research/sources/triage-2026-11-11/videos/*.jpg

@@ -1,6 +1,6 @@
 # NY-23 Accountability Tracker — Project Status
 
-*Last updated: August 31, 2026*
+*Last updated: November 11, 2026*
 
 ---
 
@@ -60,6 +60,8 @@ MISLEADING (most common) · MISSING CONTEXT · CONTRADICTION · DOCUMENTED PATTE
 
 ## Graphics Pipeline
 
+**House style v2.2 (11/11/2026):** new cards use `social-media/lib/card_v2.py` (one_number, said_vs_record, weekly_roundup); see CLAUDE.md "Facebook Graphics" and research/style-refresh-2026-11/. Older cards stay on lib/card.py.
+
 Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posting.
 
 **Card toolkit (added July 2026):** new cards import `social-media/lib/card.py` — shared house-style primitives (brand bar, gold verdict badge, panel, bulleted column, kicker, footer, photo hero), logical-1080 coordinates with optional supersampling, and an em-dash guard in `save()`. The `/social-post` command builds a caption + card together in the scorecard format (headline-first, verdict-matched) with the ≤2200-char and em-dash checks. Canonical cards are **light 1080×1080**; the "1200×1100" spec below is legacy.
@@ -100,20 +102,20 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 
 | Thread | Status | Next step |
 |---|---|---|
-| Landa / nursing-home donor | **Drafted 7/25**, held | Send right of reply to Benjamin Landa's representatives (spokesman of record: Mark Weiss) + Langworthy's office; 10 business days. Excluded-as-unverified list is in FINDINGS_BACKLOG — do not reintroduce from a search summary |
-| AIPAC money and record | **Drafted 7/25**, held | Request for comment + Wayback archiving. Also decide whether to rescope `content/campaign-finance/_index.md`, whose OpenSecrets AIPAC figure ($31,550, 2024 only) is ~1/3 of the primary-source cross-cycle total |
+| Landa / nursing-home donor | **Retired 11/10** unpublished (research/retired-drafts/README.md) | Revive only per the README (resolve the hold, then lint) |
+| AIPAC money and record | **Retired 11/10** unpublished (research/retired-drafts/README.md) | Revive only per the README (resolve the hold, then lint) |
 | Veterans: war, casualty count, VA system | **Drafted 7/25**, held. Full source-verification pass run 7/26 across all sections; ~15 corrections applied (see below) | **DoD response to the 12-senator Hirono letter due 7/30** — reminder scheduled. Then request for comment; MBA Q2 foreclosure refresh mid-Aug. Rebranding thread and a new VA home-loan foreclosure section are now INTEGRATED, not pending |
-| Buffalo flag posts / causal-claim pattern | **Drafted 7/26**, held (`2026-07-25-flag-raising-posts-causal-claims`, NOT SUPPORTED) | Deduped against the live 7/2 Buffalo entry after a propagation sweep found it already covered the same posts. Remaining gate: request for comment. All four post screenshots filed |
+| Buffalo flag posts / causal-claim pattern | **Retired 11/10** unpublished (research/retired-drafts/README.md) | Revive only per the README (resolve the hold, then lint) |
 | Essential Plan cliff (July 1) | **Published 7/2** (MOSTLY TRUE) + cross-refs in beagle/town-hall entries | Watch Aug 30 QHP enrollment deadline; Hochul 127k-in-GOP-districts figure logged for possible add |
 | June 25 tele-town hall | **Published 7/2** (MISLEADING, "hospitals aren't going anywhere") + full disclaimered transcript in /documents/ | Remaining town-hall claims to check: 11% refunds, Virginia CDL crash attribution, 70k nurses figure |
 | Liberty Strategies | **Published 7/2** (MISSING CONTEXT; office no-response by 7/1 deadline noted; $1 FEC total corrected; two-firms chronology + stocks-TRUE contrast added) | COELIG FOIL arc continues; update entry if office responds |
 | Sponsored travel pattern | Research logged 7/2 (Israel 4/2024, Greece 4/2025, Ireland/UK 3-4/2026 — member-traveler, primary-confirmed) | Clerk gtimages PDF server 404s on all docs; retry for dollar amounts, then entry |
 | Beagle "475 by end of August" claim | Logged with Sept 1 action date | Verify transfer happened; entry count now 30 (manual, screenshot-archived) |
 | Newstead $5M shared earmark | **Published 8/15** (MISSING CONTEXT; comment-request absence disclosed on the page) | Update the entry if the office ever responds to the joint-request question |
-| Local Cops ICE quote | **Drafted 7/31**, held (`2026-07-31-local-cops-law-sheriff-quote`, MISSING CONTEXT) | Quote is Sheriff Todd Hood's, not Langworthy's, and accurately reproduced; the same interview has Hood saying operations do not change. Gates: no absolute timestamp established (relative timestamps only), request for comment. Source confirmed as the CAMPAIGN page, ChairmanNickLangworthy |
+| Local Cops ICE quote | **Retired 11/10** unpublished (research/retired-drafts/README.md) | Revive only per the README (resolve the hold, then lint) |
 | Office communications spending | **Published 8/6** as an update to the tele-town hall entry; dataset at `/data/office_communications_spending.csv` | 13 quarters of House disbursements: $623,882 advertising vs $281,795 on 38 tele-town halls. Re-check when Apr-Jun 2026 SOD publishes. NEGATIVE findings recorded: no franking blackout violation (60-day rule, all buys outside), no official/campaign vendor overlap |
 | State of the District, 8/6/26 | **LEAD, single-source, unverified** (FINDINGS_BACKLOG 8/6) | Wellsville Sun says he delivered it "to a private audience at a location undisclosed to the public." Now retrospectively checkable. Needs his office's own announcement + a second outlet before use; a State of the District address is a speech, not a town hall |
-| Moog "millions for Moog" | **Drafted 8/14 via background agent, verified 8/15, held** (`2026-08-14-moog-defense-credit-claim`, MISSING CONTEXT). Card+caption built, caption carries DO-NOT-POST | Gates: FB permalinks; whether the $7M photonics transfer survived into the P.L. 119-75 explanatory statement (printed ~Jan 21 2026, not yet located); ALPA article archive (Cloudflare 520); office chance to produce Artemis/control-systems documentation |
+| Moog "millions for Moog" | **Retired 11/10** unpublished (research/retired-drafts/README.md) | Revive only per the README (resolve the hold, then lint) |
 | Aug 12 "delivered" list, 10-of-10 | **Complete 8/15.** All ten classified; instances 5-6 added to the May 20 grants entry (live); full scorecard card+caption cut and committed | Post-ready. Aggregate: 6 of 10 agency grants, 2 clean (Jasper-Troupsburg, Elmira College), 2 shared earmarks |
 | Teamsters endorsement / labor record | **Published 8/28** (MISSING CONTEXT) + card/caption | Two votes June 9: Nay on the discharged rule (RC 215, 5:30pm), Yea on the bill (RC 216, 7:05pm); did NOT sign petition 119-19 (verified against the Clerk's list, 211D+7R); $0 Teamsters PAC money; 0 of 358 sponsored/cosponsored measures is a trucking bill. Corrected three claims from circulating research on the page |
 | ACC IE / H.R. 7502 (mass balance) | **Published 8/26** (MISSING CONTEXT) + card/caption | $95,900 FEC Form 5, only outside money in NY-23; ACC's $1M program, all four House recipients on E&C; Q3 2025 LDA named the bill pre-introduction. Comment-request absence disclosed on page |
@@ -135,6 +137,11 @@ Scripts in `social-media/` and `~/Downloads/`. Output PNGs → Desktop for posti
 | Jamestown USCP RFI denial | Published | USCP appeal filed 2026-04-26; awaiting response |
 | County profiles | 3 of 8 done | Chemung, Cattaraugus, Chautauqua, Erie, Allegany remaining |
 | H.R. 6047 veterans loan fees | Published Nov 10, 2026 | Re-verified; aligned with the veterans-record entry |
+| Term tracker (/term-tracker/) | **Published 11/11**: four post-election commitments, framed-panel layout, 119th baseline | Monthly update; first 120th Congress count in early January 2027 (rerun research/term-tracker-2026-11/bipartisan_baseline.py with a fresh BILLSTATUS refresh) |
+| Post-election format pilot | **Running 11/13 to 12/11** (research/pilot-2026-11/PLAN.md); card house style v2.2 adopted 11/11 | Weekly roundup Fridays plus 2 entry posts; user fills metrics.csv from Insights; review 12/11 |
+| Facebook comments limited | **Update live 11/11** in the who-can-reach-him entry (both pages, followers included, since the afternoon of 11/10) | Watch for any change to the setting; check whether pre-11/6 posts are limited |
+| Donors and federal contracts, broader version | Health version **published 11/5**; broader pilot unreviewed (research/sources/donor-contractors-2026-11-05/) | Hand-review the 65 name-matched corporate sponsors if pursued |
+| December data refresh | Scheduled | Dec 3 FEC post-general: campaign-finance page rebuild + mandate and health entries. Dec: certified results into the mandate entry. Early Jan: missed-votes final refresh |
 | FEMA Review Council / BRIC | Watching | No Langworthy statement located (checked June 10) on May 7 report, BRIC cancellation, or staffing cuts; Jasper-Troupsburg entry carries the open questions |
 | Scaffold Law reauthorization | Published (3 entries) | Watch ~Sept 2026: whether H.R. 3548 §240 preemption gets attached to the surface-transportation reauthorization before the IIJA expires Sep 30 (logged in FINDINGS_BACKLOG); also UPMC/Arnot FY27 CPF requests — revisit if a FY27 approps bill passes |
 | June 10 FB post permalinks | Pending | Minnesota, Marilla, Jasper-Troupsburg entries quote posts verified from screenshots; need permalinks + screenshots archived to static/images/ |
