@@ -1,4 +1,4 @@
-# DRAFT Nov 11, 2026 (pilot: v2 template B; update to 2026-10-16-who-funds-him-and-who-can-reach-him, DOCUMENTED PATTERN)
+# POSTED Nov 11, 2026 (pilot: v2 template B; update to 2026-10-16-who-funds-him-and-who-can-reach-him, DOCUMENTED PATTERN)
 # Card: comments_limited_card.png (create_comments_limited_card.py)
 
 Since the afternoon of November 10, no one can comment on Rep. Langworthy's Facebook posts except people a post tags. That includes his followers.
