@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-10",
-  "total": 186,
+  "generated": "2026-11-11",
+  "total": 187,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 66,
     "MISLEADING": 40,
     "DOCUMENTED PATTERN": 36,
     "CONTRADICTION": 13,
+    "MOSTLY TRUE": 10,
     "FALSE": 10,
-    "MOSTLY TRUE": 9,
     "MULTIPLE": 3,
     "FALSE ATTRIBUTION": 3,
     "DEFLECTION": 3,
@@ -20,17 +20,17 @@
     {
       "label": "MISSING CONTEXT",
       "count": 66,
-      "pct": 35.5
+      "pct": 35.3
     },
     {
       "label": "MISLEADING",
       "count": 40,
-      "pct": 21.5
+      "pct": 21.4
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 36,
-      "pct": 19.4
+      "pct": 19.3
     },
     {
       "label": "CONTRADICTION",
@@ -39,13 +39,13 @@
     },
     {
       "label": "MOSTLY TRUE",
-      "count": 10,
-      "pct": 5.4
+      "count": 11,
+      "pct": 5.9
     },
     {
       "label": "FALSE",
       "count": 10,
-      "pct": 5.4
+      "pct": 5.3
     },
     {
       "label": "MULTIPLE",
@@ -96,6 +96,7 @@
     "Consumer Protection": 2,
     "Animal Welfare": 2,
     "Social Services": 2,
+    "Education": 1,
     "Elections": 1,
     "Disability": 1,
     "Technology": 1,
@@ -124,9 +125,16 @@
     "2026-08": 8,
     "2026-09": 13,
     "2026-10": 16,
-    "2026-11": 3
+    "2026-11": 4
   },
   "entries": [
+    {
+      "title": "Workforce Pell Grants Now Cover 8-to-14-Week Training Programs. That Holds Up. Pell 'Used to Be Only Associates' Does Not.",
+      "date": "2026-11-11",
+      "verdict": "MOSTLY TRUE",
+      "topic": "Education",
+      "url": "/fact-checks/2026-11-11-workforce-pell-claim/"
+    },
     {
       "title": "Health-Industry PAC Money: $6,000, Then $85,250, Then $193,000. What Changed Was His Committee Seat. Who Gave, What They Hold From the Government, and What He Did With the Seat.",
       "date": "2026-11-05",

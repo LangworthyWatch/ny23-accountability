@@ -231,6 +231,36 @@ located.
 
 ---
 
+## Update, November 11, 2026: "a passionate advocate"
+
+On October 30, the day after this entry was published, the official page
+posted a reel of the WENY rally report with a new caption:
+
+> "Freedom. Dignity. Independence. These are rights every American
+> deserves. As a passionate advocate for people living with disabilities, I
+> proudly support the Latonya Reeves Freedom Act and am grateful to all the
+> advocates who came out to support our shared mission to get it passed."
+
+*Official Facebook page ("Congressman Nick Langworthy"), reel, October 30,
+2026. The audio is WENY's report, in which rally participants "say
+Congressman Langworthy is in support of the bill." Audio, metadata and a
+transcript are retained.*
+
+The record behind "passionate advocate" is the one documented above:
+
+- He cosponsored the bill on October 22, 2026, four months after it was
+  introduced and eight days before this post.
+- His other disability cosponsorship this Congress, H.R. 2540, came on
+  October 1.
+- He voted twice for H.R. 1, whose Medicaid changes reach the
+  home-and-community services the bill is meant to protect.
+
+His support for the bill is real. Both of his disability cosponsorships
+this Congress came in the final five weeks before the election. The
+verdict stays MISSING CONTEXT.
+
+---
+
 ## The fair reading
 
 Cosponsoring the Reeves Act is a real act, and it puts him on the right
@@ -290,6 +320,7 @@ strong support. The record shows recent support.
 * Center for Disability Rights, Bruce Darling, "The OLC Memo, Olmstead, and the Latonya Reeves Freedom Act": https://cdrnys.org/blog/uncategorized/the-olc-memo-olmstead-and-the-latonya-reeves-freedom-act/ (archived: https://web.archive.org/web/20261029155944/https://cdrnys.org/blog/uncategorized/the-olc-memo-olmstead-and-the-latonya-reeves-freedom-act/)
 * Rep. Ritchie Torres, letter to the Justice Department on the June 18, 2026 opinion: https://ritchietorres.house.gov/posts/rep-ritchie-torres-urges-doj-to-reverse-opinion-threatening-the-right-to-community-living-for-people-with-disabilities (text retained; archive pending)
 * New York State Board of Elections, "Early Voting": "2026 General Election Early Voting: October 24th through November 1st": https://elections.ny.gov/early-voting (text retained; page blocks automated capture)
+* Official Facebook page, reel, October 30, 2026: https://www.facebook.com/reel/1046362428419869 (Facebook reels cannot be archived; audio, info.json and a Whisper transcript are retained under research/sources/triage-2026-11-11/videos/)
 * House Roll Call 145, May 22, 2025, H.R. 1 (Langworthy: Aye): https://clerk.house.gov/evs/2025/roll145.xml (archived: https://web.archive.org/web/20261029160427/https://clerk.house.gov/evs/2025/roll145.xml)
 * House Roll Call 190, July 3, 2025, H.R. 1, 218-214 (Langworthy: Aye): https://clerk.house.gov/evs/2025/roll190.xml (archived: https://web.archive.org/web/20261029160423/https://clerk.house.gov/evs/2025/roll190.xml)
 * Congressional Budget Office, Medicaid provisions of H.R. 1 ($840 billion): https://www.cbo.gov/publication/61510
@@ -329,4 +360,4 @@ The cosponsorship, the SSI bill, the 2023 letter and the other items in
 statement that no public comment by Rep. Langworthy was found describes
 the places this site searched, listed above, and nothing more.
 
-*Last updated: October 29, 2026*
+*Last updated: November 11, 2026 (update: the October 30 "passionate advocate" reel)*

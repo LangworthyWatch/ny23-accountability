@@ -18,10 +18,12 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from PIL import ImageFont
 from lib.card import Card as _Card, FONT_DIR
 
-NAVY = "#1E3A5F"; INK = "#1A202C"; PAPER = "#F7F8FA"; WHITE = "#FFFFFF"
-AMBER = "#D69E2E"; AMBER_TXT = "#8A5A0B"; AMBER_TINT = "#FBF3E2"; GOLD_LIGHT = "#F6D58E"
-SLATE = "#3F5873"; SLATE_TINT = "#EEF2F7"; SLATE_LINE = "#B8C4D3"
-GRAY = "#5A6678"; LINE = "#E2E8F0"; RED = "#C53030"
+# v2.1 (Nov 11): the first set's surfaces differed by a contrast ratio of ~1.06 and washed together.
+# One white surface, a navy footer band, darker gray text, rules ~1.6:1, panel borders >= 3:1 (WCAG 1.4.11).
+NAVY = "#1E3A5F"; INK = "#1A202C"; PAPER = "#FFFFFF"; WHITE = "#FFFFFF"
+AMBER = "#D69E2E"; AMBER_TXT = "#8A5A0B"; AMBER_TINT = "#F8E7C2"; GOLD_LIGHT = "#F6D58E"
+SLATE = "#3F5873"; SLATE_TINT = "#DCE5F0"; SLATE_LINE = "#7C8DA6"
+GRAY = "#4A5568"; LINE = "#C3CCD8"; RED = "#C53030"; ON_NAVY = "#C9D3E0"
 VERDICT_FILL = {"FALSE": RED}  # every other verdict uses navy; red is reserved for FALSE
 
 
@@ -53,10 +55,10 @@ class Card(_Card):
 
     def foot(self, sources, url, h=86):
         y0 = self.h - h
-        self.rect(0, y0, self.w, self.h, fill=WHITE)
-        self.rect(0, y0, self.w, y0 + 2, fill=LINE)
-        self.text(48, y0 + 30, sources, size=13, fill=GRAY, anchor="lm")
-        self.text(48, y0 + 58, url, size=15, bold=True, fill=NAVY, anchor="lm")
+        self.rect(0, y0, self.w, self.h, fill=NAVY)
+        self.rect(0, y0, self.w, y0 + 4, fill=AMBER)
+        self.text(48, y0 + 32, sources, size=14, fill=ON_NAVY, anchor="lm")
+        self.text(48, y0 + 60, url, size=16, bold=True, fill=WHITE, anchor="lm")
         return y0
 
     def tag(self, x, y, label, fill=NAVY, text_fill=WHITE, size=15):
@@ -166,7 +168,7 @@ def said_vs_record(title, said_items, record_points, fair_line, verdict, sources
         c.text(rx + 24, yy, big, size=42, impact=True, fill=NAVY, anchor="lt")
         yy = c.wrap(rx + 24, yy + 56, small, col_w - 30, size=20, fill=INK, leading=1.28) + 30
     y = t0 + col_h + 32
-    c.rect(64, y, c.w - 64, y + fair_h, fill=SLATE_TINT, outline=SLATE_LINE, width=1.5, radius=6)
+    c.rect(64, y, c.w - 64, y + fair_h, fill=SLATE_TINT, outline=SLATE_LINE, width=2, radius=6)
     c.text(88, y + 22, "WHAT CUTS HIS WAY", size=15, bold=True, fill=SLATE, anchor="lm")
     c.wrap(88, y + 40, fair_line, c.w - 176, size=18, fill=INK, leading=1.25)
     c.foot(sources, url)
@@ -187,7 +189,7 @@ def weekly_roundup(week_label, rows, held_up, sources, url, path):
     avail = bottom - 40 - box_h - (24 if held_up else 0) - y
     row_h = max(140, avail / len(rows))
     for section, big, line in rows:
-        c.rect(64, y, c.w - 64, y + 1.5, fill=LINE)
+        c.rect(64, y, c.w - 64, y + 2, fill=LINE)
         c.text(64, y + 24, section.upper(), size=15, bold=True, fill=GRAY, anchor="lt")
         c.text(64, y + 54, big, size=46, impact=True, fill=NAVY, anchor="lt")
         c.wrap(330, y + 56, line, c.w - 64 - 330, size=21, fill=INK, leading=1.3)
@@ -195,7 +197,7 @@ def weekly_roundup(week_label, rows, held_up, sources, url, path):
     if held_up:
         label, big, line = held_up
         y += 8
-        c.rect(64, y, c.w - 64, y + box_h, fill=AMBER_TINT, outline=AMBER, width=1.5, radius=6)
+        c.rect(64, y, c.w - 64, y + box_h, fill=AMBER_TINT, outline=AMBER, width=2, radius=6)
         c.tag(84, y + 20, label, fill=AMBER, text_fill=INK, size=14)
         c.text(84, y + 68, big, size=40, impact=True, fill=NAVY, anchor="lt")
         c.wrap(330, y + 70, line, c.w - 64 - 330 - 20, size=20, fill=INK, leading=1.3)
