@@ -1,0 +1,1202 @@
+{
+ "2024_grants": {
+  "scope": "place_of_performance",
+  "geo_layer": "district",
+  "spending_level": "transactions",
+  "results": [
+   {
+    "shape_code": "3613",
+    "display_name": "NY-13",
+    "aggregated_amount": 1199624493.39,
+    "population": 780825,
+    "per_capita": 1536.36
+   },
+   {
+    "shape_code": "3620",
+    "display_name": "NY-20",
+    "aggregated_amount": 7384940461.96,
+    "population": 774705,
+    "per_capita": 9532.58
+   },
+   {
+    "shape_code": "3612",
+    "display_name": "NY-12",
+    "aggregated_amount": 1979368987.14,
+    "population": 689590,
+    "per_capita": 2870.36
+   },
+   {
+    "shape_code": "",
+    "display_name": null,
+    "aggregated_amount": 2527024623.59,
+    "population": null,
+    "per_capita": null
+   },
+   {
+    "shape_code": "3610",
+    "display_name": "NY-10",
+    "aggregated_amount": 5484416459.18,
+    "population": 705068,
+    "per_capita": 7778.56
+   },
+   {
+    "shape_code": "3619",
+    "display_name": "NY-19",
+    "aggregated_amount": 584318053.02,
+    "population": 779018,
+    "per_capita": 750.07
+   },
+   {
+    "shape_code": "3625",
+    "display_name": "NY-25",
+    "aggregated_amount": 630918882.03,
+    "population": 776267,
+    "per_capita": 812.76
+   },
+   {
+    "shape_code": "3626",
+    "display_name": "NY-26",
+    "aggregated_amount": 366066079.14,
+    "population": 767330,
+    "per_capita": 477.06
+   },
+   {
+    "shape_code": "3622",
+    "display_name": "NY-22",
+    "aggregated_amount": 755144455.0,
+    "population": 771373,
+    "per_capita": 978.96
+   },
+   {
+    "shape_code": "3621",
+    "display_name": "NY-21",
+    "aggregated_amount": 245955806.52,
+    "population": 776503,
+    "per_capita": 316.75
+   },
+   {
+    "shape_code": "3624",
+    "display_name": "NY-24",
+    "aggregated_amount": 177899401.87,
+    "population": 772455,
+    "per_capita": 230.3
+   },
+   {
+    "shape_code": "3623",
+    "display_name": "NY-23",
+    "aggregated_amount": 261990157.65,
+    "population": 778483,
+    "per_capita": 336.54
+   },
+   {
+    "shape_code": "3601",
+    "display_name": "NY-01",
+    "aggregated_amount": 181250071.71,
+    "population": 780204,
+    "per_capita": 232.31
+   },
+   {
+    "shape_code": "3614",
+    "display_name": "NY-14",
+    "aggregated_amount": 205037095.97,
+    "population": 696136,
+    "per_capita": 294.54
+   },
+   {
+    "shape_code": "3617",
+    "display_name": "NY-17",
+    "aggregated_amount": 301842814.75,
+    "population": 776481,
+    "per_capita": 388.73
+   },
+   {
+    "shape_code": "3618",
+    "display_name": "NY-18",
+    "aggregated_amount": 212041219.64,
+    "population": 776747,
+    "per_capita": 272.99
+   },
+   {
+    "shape_code": "3603",
+    "display_name": "NY-03",
+    "aggregated_amount": 115943660.75,
+    "population": 781920,
+    "per_capita": 148.28
+   },
+   {
+    "shape_code": "3616",
+    "display_name": "NY-16",
+    "aggregated_amount": 171452950.25,
+    "population": 765635,
+    "per_capita": 223.94
+   },
+   {
+    "shape_code": "3609",
+    "display_name": "NY-09",
+    "aggregated_amount": 52326161.96,
+    "population": 777866,
+    "per_capita": 67.27
+   },
+   {
+    "shape_code": "3604",
+    "display_name": "NY-04",
+    "aggregated_amount": 69879056.46,
+    "population": 774038,
+    "per_capita": 90.28
+   },
+   {
+    "shape_code": "3605",
+    "display_name": "NY-05",
+    "aggregated_amount": 62359532.58,
+    "population": 822717,
+    "per_capita": 75.8
+   },
+   {
+    "shape_code": "3607",
+    "display_name": "NY-07",
+    "aggregated_amount": 96080076.12,
+    "population": 717913,
+    "per_capita": 133.83
+   },
+   {
+    "shape_code": "3602",
+    "display_name": "NY-02",
+    "aggregated_amount": 57703074.71,
+    "population": 775593,
+    "per_capita": 74.4
+   },
+   {
+    "shape_code": "3615",
+    "display_name": "NY-15",
+    "aggregated_amount": 28487857.6,
+    "population": 757465,
+    "per_capita": 37.61
+   },
+   {
+    "shape_code": "3606",
+    "display_name": "NY-06",
+    "aggregated_amount": 33789934.87,
+    "population": 736965,
+    "per_capita": 45.85
+   },
+   {
+    "shape_code": "3611",
+    "display_name": "NY-11",
+    "aggregated_amount": 52099436.24,
+    "population": 766546,
+    "per_capita": 67.97
+   },
+   {
+    "shape_code": "3608",
+    "display_name": "NY-08",
+    "aggregated_amount": 14630703.26,
+    "population": 758070,
+    "per_capita": 19.3
+   }
+  ],
+  "messages": [
+   "For searches, time period start and end dates are currently limited to an earliest date of 2007-10-01.  For data going back to 2000-10-01, use either the Custom Award Download feature on the website or one of our download or bulk_download API endpoints as listed on https://api.usaspending.gov/docs/endpoints. ",
+   "The 'subawards' field will be deprecated in the future. Set 'spending_level' to 'subawards' instead. See documentation for more information."
+  ]
+ },
+ "2024_direct_payments": {
+  "scope": "place_of_performance",
+  "geo_layer": "district",
+  "spending_level": "transactions",
+  "results": [
+   {
+    "shape_code": "",
+    "display_name": null,
+    "aggregated_amount": 70891072070.16,
+    "population": null,
+    "per_capita": null
+   },
+   {
+    "shape_code": "3624",
+    "display_name": "NY-24",
+    "aggregated_amount": 4342664341.33,
+    "population": 772455,
+    "per_capita": 5621.9
+   },
+   {
+    "shape_code": "3621",
+    "display_name": "NY-21",
+    "aggregated_amount": 3450395177.17,
+    "population": 776503,
+    "per_capita": 4443.51
+   },
+   {
+    "shape_code": "3619",
+    "display_name": "NY-19",
+    "aggregated_amount": 3794572838.49,
+    "population": 779018,
+    "per_capita": 4870.97
+   },
+   {
+    "shape_code": "3623",
+    "display_name": "NY-23",
+    "aggregated_amount": 3039340426.56,
+    "population": 778483,
+    "per_capita": 3904.18
+   },
+   {
+    "shape_code": "3612",
+    "display_name": "NY-12",
+    "aggregated_amount": 1502705074.08,
+    "population": 689590,
+    "per_capita": 2179.13
+   },
+   {
+    "shape_code": "3620",
+    "display_name": "NY-20",
+    "aggregated_amount": 5358983110.95,
+    "population": 774705,
+    "per_capita": 6917.45
+   },
+   {
+    "shape_code": "3622",
+    "display_name": "NY-22",
+    "aggregated_amount": 3210132182.06,
+    "population": 771373,
+    "per_capita": 4161.58
+   },
+   {
+    "shape_code": "3610",
+    "display_name": "NY-10",
+    "aggregated_amount": 2900814502.74,
+    "population": 705068,
+    "per_capita": 4114.23
+   },
+   {
+    "shape_code": "3618",
+    "display_name": "NY-18",
+    "aggregated_amount": 3673401112.28,
+    "population": 776747,
+    "per_capita": 4729.21
+   },
+   {
+    "shape_code": "3625",
+    "display_name": "NY-25",
+    "aggregated_amount": 6533197906.17,
+    "population": 776267,
+    "per_capita": 8416.17
+   },
+   {
+    "shape_code": "3626",
+    "display_name": "NY-26",
+    "aggregated_amount": 248952649.5,
+    "population": 767330,
+    "per_capita": 324.44
+   },
+   {
+    "shape_code": "3617",
+    "display_name": "NY-17",
+    "aggregated_amount": 2253542509.2,
+    "population": 776481,
+    "per_capita": 2902.25
+   },
+   {
+    "shape_code": "3616",
+    "display_name": "NY-16",
+    "aggregated_amount": 372028428.85,
+    "population": 765635,
+    "per_capita": 485.91
+   },
+   {
+    "shape_code": "3609",
+    "display_name": "NY-09",
+    "aggregated_amount": 144700083.19,
+    "population": 777866,
+    "per_capita": 186.02
+   },
+   {
+    "shape_code": "3613",
+    "display_name": "NY-13",
+    "aggregated_amount": 337575515.86,
+    "population": 780825,
+    "per_capita": 432.33
+   },
+   {
+    "shape_code": "3603",
+    "display_name": "NY-03",
+    "aggregated_amount": 149569675.36,
+    "population": 781920,
+    "per_capita": 191.29
+   },
+   {
+    "shape_code": "3604",
+    "display_name": "NY-04",
+    "aggregated_amount": 124368891.96,
+    "population": 774038,
+    "per_capita": 160.68
+   },
+   {
+    "shape_code": "3607",
+    "display_name": "NY-07",
+    "aggregated_amount": 124658366.72,
+    "population": 717913,
+    "per_capita": 173.64
+   },
+   {
+    "shape_code": "3611",
+    "display_name": "NY-11",
+    "aggregated_amount": 2439988396.76,
+    "population": 766546,
+    "per_capita": 3183.09
+   },
+   {
+    "shape_code": "3614",
+    "display_name": "NY-14",
+    "aggregated_amount": 111923995.1,
+    "population": 696136,
+    "per_capita": 160.78
+   },
+   {
+    "shape_code": "3615",
+    "display_name": "NY-15",
+    "aggregated_amount": 128777253.37,
+    "population": 757465,
+    "per_capita": 170.01
+   },
+   {
+    "shape_code": "3606",
+    "display_name": "NY-06",
+    "aggregated_amount": 46226511.65,
+    "population": 736965,
+    "per_capita": 62.73
+   },
+   {
+    "shape_code": "3602",
+    "display_name": "NY-02",
+    "aggregated_amount": 58692774.73,
+    "population": 775593,
+    "per_capita": 75.67
+   },
+   {
+    "shape_code": "3601",
+    "display_name": "NY-01",
+    "aggregated_amount": 107067883.16,
+    "population": 780204,
+    "per_capita": 137.23
+   },
+   {
+    "shape_code": "3605",
+    "display_name": "NY-05",
+    "aggregated_amount": 66228528.8,
+    "population": 822717,
+    "per_capita": 80.5
+   },
+   {
+    "shape_code": "3608",
+    "display_name": "NY-08",
+    "aggregated_amount": 77333218.95,
+    "population": 758070,
+    "per_capita": 102.01
+   }
+  ],
+  "messages": [
+   "For searches, time period start and end dates are currently limited to an earliest date of 2007-10-01.  For data going back to 2000-10-01, use either the Custom Award Download feature on the website or one of our download or bulk_download API endpoints as listed on https://api.usaspending.gov/docs/endpoints. ",
+   "The 'subawards' field will be deprecated in the future. Set 'spending_level' to 'subawards' instead. See documentation for more information."
+  ]
+ },
+ "2024_contracts": {
+  "scope": "place_of_performance",
+  "geo_layer": "district",
+  "spending_level": "transactions",
+  "results": [
+   {
+    "shape_code": "3612",
+    "display_name": "NY-12",
+    "aggregated_amount": 1177439234.51,
+    "population": 689590,
+    "per_capita": 1707.45
+   },
+   {
+    "shape_code": "3601",
+    "display_name": "NY-01",
+    "aggregated_amount": 1475167131.59,
+    "population": 780204,
+    "per_capita": 1890.75
+   },
+   {
+    "shape_code": "3610",
+    "display_name": "NY-10",
+    "aggregated_amount": 717925180.47,
+    "population": 705068,
+    "per_capita": 1018.24
+   },
+   {
+    "shape_code": "3602",
+    "display_name": "NY-02",
+    "aggregated_amount": 587125225.21,
+    "population": 775593,
+    "per_capita": 757.0
+   },
+   {
+    "shape_code": "3608",
+    "display_name": "NY-08",
+    "aggregated_amount": 34125907.7,
+    "population": 758070,
+    "per_capita": 45.02
+   },
+   {
+    "shape_code": "3622",
+    "display_name": "NY-22",
+    "aggregated_amount": 2780586224.27,
+    "population": 771373,
+    "per_capita": 3604.72
+   },
+   {
+    "shape_code": "3626",
+    "display_name": "NY-26",
+    "aggregated_amount": 267489817.11,
+    "population": 767330,
+    "per_capita": 348.6
+   },
+   {
+    "shape_code": "3603",
+    "display_name": "NY-03",
+    "aggregated_amount": 500024458.81,
+    "population": 781920,
+    "per_capita": 639.48
+   },
+   {
+    "shape_code": "3616",
+    "display_name": "NY-16",
+    "aggregated_amount": 112565365.79,
+    "population": 765635,
+    "per_capita": 147.02
+   },
+   {
+    "shape_code": "3607",
+    "display_name": "NY-07",
+    "aggregated_amount": 133664330.52,
+    "population": 717913,
+    "per_capita": 186.18
+   },
+   {
+    "shape_code": "3625",
+    "display_name": "NY-25",
+    "aggregated_amount": 3975717835.33,
+    "population": 776267,
+    "per_capita": 5121.59
+   },
+   {
+    "shape_code": "3618",
+    "display_name": "NY-18",
+    "aggregated_amount": 436518875.36,
+    "population": 776747,
+    "per_capita": 561.98
+   },
+   {
+    "shape_code": "3617",
+    "display_name": "NY-17",
+    "aggregated_amount": 168463798.23,
+    "population": 776481,
+    "per_capita": 216.96
+   },
+   {
+    "shape_code": "3624",
+    "display_name": "NY-24",
+    "aggregated_amount": 246989305.2,
+    "population": 772455,
+    "per_capita": 319.75
+   },
+   {
+    "shape_code": "3620",
+    "display_name": "NY-20",
+    "aggregated_amount": 464460991.68,
+    "population": 774705,
+    "per_capita": 599.53
+   },
+   {
+    "shape_code": "3623",
+    "display_name": "NY-23",
+    "aggregated_amount": 2169521798.99,
+    "population": 778483,
+    "per_capita": 2786.86
+   },
+   {
+    "shape_code": "3619",
+    "display_name": "NY-19",
+    "aggregated_amount": 164512675.1,
+    "population": 779018,
+    "per_capita": 211.18
+   },
+   {
+    "shape_code": "3621",
+    "display_name": "NY-21",
+    "aggregated_amount": 750485275.06,
+    "population": 776503,
+    "per_capita": 966.49
+   },
+   {
+    "shape_code": "3604",
+    "display_name": "NY-04",
+    "aggregated_amount": 278921565.47,
+    "population": 774038,
+    "per_capita": 360.35
+   },
+   {
+    "shape_code": "3614",
+    "display_name": "NY-14",
+    "aggregated_amount": 158942719.96,
+    "population": 696136,
+    "per_capita": 228.32
+   },
+   {
+    "shape_code": "3613",
+    "display_name": "NY-13",
+    "aggregated_amount": 172455086.24,
+    "population": 780825,
+    "per_capita": 220.86
+   },
+   {
+    "shape_code": "3611",
+    "display_name": "NY-11",
+    "aggregated_amount": 102315867.6,
+    "population": 766546,
+    "per_capita": 133.48
+   },
+   {
+    "shape_code": "3609",
+    "display_name": "NY-09",
+    "aggregated_amount": 10614807.15,
+    "population": 777866,
+    "per_capita": 13.65
+   },
+   {
+    "shape_code": "3605",
+    "display_name": "NY-05",
+    "aggregated_amount": 94068320.89,
+    "population": 822717,
+    "per_capita": 114.34
+   },
+   {
+    "shape_code": "3615",
+    "display_name": "NY-15",
+    "aggregated_amount": 31066239.37,
+    "population": 757465,
+    "per_capita": 41.01
+   },
+   {
+    "shape_code": "3606",
+    "display_name": "NY-06",
+    "aggregated_amount": 3114878.54,
+    "population": 736965,
+    "per_capita": 4.23
+   },
+   {
+    "shape_code": "",
+    "display_name": null,
+    "aggregated_amount": 1199584.41,
+    "population": null,
+    "per_capita": null
+   }
+  ],
+  "messages": [
+   "For searches, time period start and end dates are currently limited to an earliest date of 2007-10-01.  For data going back to 2000-10-01, use either the Custom Award Download feature on the website or one of our download or bulk_download API endpoints as listed on https://api.usaspending.gov/docs/endpoints. ",
+   "The 'subawards' field will be deprecated in the future. Set 'spending_level' to 'subawards' instead. See documentation for more information."
+  ]
+ },
+ "2025_grants": {
+  "scope": "place_of_performance",
+  "geo_layer": "district",
+  "spending_level": "transactions",
+  "results": [
+   {
+    "shape_code": "3620",
+    "display_name": "NY-20",
+    "aggregated_amount": 5224955653.02,
+    "population": 774705,
+    "per_capita": 6744.45
+   },
+   {
+    "shape_code": "",
+    "display_name": null,
+    "aggregated_amount": 5254351208.99,
+    "population": null,
+    "per_capita": null
+   },
+   {
+    "shape_code": "3613",
+    "display_name": "NY-13",
+    "aggregated_amount": 1026512189.73,
+    "population": 780825,
+    "per_capita": 1314.65
+   },
+   {
+    "shape_code": "3612",
+    "display_name": "NY-12",
+    "aggregated_amount": 1062061711.82,
+    "population": 689590,
+    "per_capita": 1540.14
+   },
+   {
+    "shape_code": "3610",
+    "display_name": "NY-10",
+    "aggregated_amount": 3085136185.18,
+    "population": 705068,
+    "per_capita": 4375.66
+   },
+   {
+    "shape_code": "3619",
+    "display_name": "NY-19",
+    "aggregated_amount": 559854399.95,
+    "population": 779018,
+    "per_capita": 718.67
+   },
+   {
+    "shape_code": "3625",
+    "display_name": "NY-25",
+    "aggregated_amount": 553916202.69,
+    "population": 776267,
+    "per_capita": 713.56
+   },
+   {
+    "shape_code": "3626",
+    "display_name": "NY-26",
+    "aggregated_amount": 360279496.41,
+    "population": 767330,
+    "per_capita": 469.52
+   },
+   {
+    "shape_code": "3621",
+    "display_name": "NY-21",
+    "aggregated_amount": 296916386.7,
+    "population": 776503,
+    "per_capita": 382.38
+   },
+   {
+    "shape_code": "3622",
+    "display_name": "NY-22",
+    "aggregated_amount": 841492575.6,
+    "population": 771373,
+    "per_capita": 1090.9
+   },
+   {
+    "shape_code": "3624",
+    "display_name": "NY-24",
+    "aggregated_amount": 242752429.07,
+    "population": 772455,
+    "per_capita": 314.26
+   },
+   {
+    "shape_code": "3623",
+    "display_name": "NY-23",
+    "aggregated_amount": 319148515.12,
+    "population": 778483,
+    "per_capita": 409.96
+   },
+   {
+    "shape_code": "3614",
+    "display_name": "NY-14",
+    "aggregated_amount": 190929571.35,
+    "population": 696136,
+    "per_capita": 274.27
+   },
+   {
+    "shape_code": "3601",
+    "display_name": "NY-01",
+    "aggregated_amount": 225382752.73,
+    "population": 780204,
+    "per_capita": 288.88
+   },
+   {
+    "shape_code": "3617",
+    "display_name": "NY-17",
+    "aggregated_amount": 245150663.9,
+    "population": 776481,
+    "per_capita": 315.72
+   },
+   {
+    "shape_code": "3618",
+    "display_name": "NY-18",
+    "aggregated_amount": 201802191.56,
+    "population": 776747,
+    "per_capita": 259.8
+   },
+   {
+    "shape_code": "3616",
+    "display_name": "NY-16",
+    "aggregated_amount": 241945803.82,
+    "population": 765635,
+    "per_capita": 316.01
+   },
+   {
+    "shape_code": "3603",
+    "display_name": "NY-03",
+    "aggregated_amount": 100376649.19,
+    "population": 781920,
+    "per_capita": 128.37
+   },
+   {
+    "shape_code": "3604",
+    "display_name": "NY-04",
+    "aggregated_amount": 34321937.16,
+    "population": 774038,
+    "per_capita": 44.34
+   },
+   {
+    "shape_code": "3605",
+    "display_name": "NY-05",
+    "aggregated_amount": 210203009.24,
+    "population": 822717,
+    "per_capita": 255.5
+   },
+   {
+    "shape_code": "3609",
+    "display_name": "NY-09",
+    "aggregated_amount": 36593977.12,
+    "population": 777866,
+    "per_capita": 47.04
+   },
+   {
+    "shape_code": "3602",
+    "display_name": "NY-02",
+    "aggregated_amount": 45857868.34,
+    "population": 775593,
+    "per_capita": 59.13
+   },
+   {
+    "shape_code": "3607",
+    "display_name": "NY-07",
+    "aggregated_amount": 73280833.13,
+    "population": 717913,
+    "per_capita": 102.07
+   },
+   {
+    "shape_code": "3611",
+    "display_name": "NY-11",
+    "aggregated_amount": 507082087.0,
+    "population": 766546,
+    "per_capita": 661.52
+   },
+   {
+    "shape_code": "3615",
+    "display_name": "NY-15",
+    "aggregated_amount": 21530088.89,
+    "population": 757465,
+    "per_capita": 28.42
+   },
+   {
+    "shape_code": "3606",
+    "display_name": "NY-06",
+    "aggregated_amount": 14939734.49,
+    "population": 736965,
+    "per_capita": 20.27
+   },
+   {
+    "shape_code": "3608",
+    "display_name": "NY-08",
+    "aggregated_amount": 5070847.26,
+    "population": 758070,
+    "per_capita": 6.69
+   }
+  ],
+  "messages": [
+   "For searches, time period start and end dates are currently limited to an earliest date of 2007-10-01.  For data going back to 2000-10-01, use either the Custom Award Download feature on the website or one of our download or bulk_download API endpoints as listed on https://api.usaspending.gov/docs/endpoints. ",
+   "The 'subawards' field will be deprecated in the future. Set 'spending_level' to 'subawards' instead. See documentation for more information."
+  ]
+ },
+ "2025_direct_payments": {
+  "scope": "place_of_performance",
+  "geo_layer": "district",
+  "spending_level": "transactions",
+  "results": [
+   {
+    "shape_code": "",
+    "display_name": null,
+    "aggregated_amount": 79243910324.67,
+    "population": null,
+    "per_capita": null
+   },
+   {
+    "shape_code": "3624",
+    "display_name": "NY-24",
+    "aggregated_amount": 4743710489.96,
+    "population": 772455,
+    "per_capita": 6141.08
+   },
+   {
+    "shape_code": "3621",
+    "display_name": "NY-21",
+    "aggregated_amount": 3746419929.0,
+    "population": 776503,
+    "per_capita": 4824.73
+   },
+   {
+    "shape_code": "3619",
+    "display_name": "NY-19",
+    "aggregated_amount": 4068423821.39,
+    "population": 779018,
+    "per_capita": 5222.5
+   },
+   {
+    "shape_code": "3623",
+    "display_name": "NY-23",
+    "aggregated_amount": 3269953673.18,
+    "population": 778483,
+    "per_capita": 4200.42
+   },
+   {
+    "shape_code": "3612",
+    "display_name": "NY-12",
+    "aggregated_amount": 2057124958.34,
+    "population": 689590,
+    "per_capita": 2983.11
+   },
+   {
+    "shape_code": "3620",
+    "display_name": "NY-20",
+    "aggregated_amount": 6337721926.74,
+    "population": 774705,
+    "per_capita": 8180.82
+   },
+   {
+    "shape_code": "3622",
+    "display_name": "NY-22",
+    "aggregated_amount": 3487473024.19,
+    "population": 771373,
+    "per_capita": 4521.12
+   },
+   {
+    "shape_code": "3618",
+    "display_name": "NY-18",
+    "aggregated_amount": 4008706282.99,
+    "population": 776747,
+    "per_capita": 5160.89
+   },
+   {
+    "shape_code": "3625",
+    "display_name": "NY-25",
+    "aggregated_amount": 7520576824.65,
+    "population": 776267,
+    "per_capita": 9688.13
+   },
+   {
+    "shape_code": "3617",
+    "display_name": "NY-17",
+    "aggregated_amount": 2430645790.69,
+    "population": 776481,
+    "per_capita": 3130.34
+   },
+   {
+    "shape_code": "3626",
+    "display_name": "NY-26",
+    "aggregated_amount": 271768768.98,
+    "population": 767330,
+    "per_capita": 354.17
+   },
+   {
+    "shape_code": "3610",
+    "display_name": "NY-10",
+    "aggregated_amount": 3462775219.02,
+    "population": 705068,
+    "per_capita": 4911.26
+   },
+   {
+    "shape_code": "3616",
+    "display_name": "NY-16",
+    "aggregated_amount": 394326460.32,
+    "population": 765635,
+    "per_capita": 515.03
+   },
+   {
+    "shape_code": "3609",
+    "display_name": "NY-09",
+    "aggregated_amount": 153923641.02,
+    "population": 777866,
+    "per_capita": 197.88
+   },
+   {
+    "shape_code": "3613",
+    "display_name": "NY-13",
+    "aggregated_amount": 336626787.31,
+    "population": 780825,
+    "per_capita": 431.12
+   },
+   {
+    "shape_code": "3611",
+    "display_name": "NY-11",
+    "aggregated_amount": 2615962120.65,
+    "population": 766546,
+    "per_capita": 3412.66
+   },
+   {
+    "shape_code": "3604",
+    "display_name": "NY-04",
+    "aggregated_amount": 150027318.05,
+    "population": 774038,
+    "per_capita": 193.82
+   },
+   {
+    "shape_code": "3603",
+    "display_name": "NY-03",
+    "aggregated_amount": 162079669.38,
+    "population": 781920,
+    "per_capita": 207.28
+   },
+   {
+    "shape_code": "3614",
+    "display_name": "NY-14",
+    "aggregated_amount": 122325519.01,
+    "population": 696136,
+    "per_capita": 175.72
+   },
+   {
+    "shape_code": "3607",
+    "display_name": "NY-07",
+    "aggregated_amount": 151943497.03,
+    "population": 717913,
+    "per_capita": 211.65
+   },
+   {
+    "shape_code": "3606",
+    "display_name": "NY-06",
+    "aggregated_amount": 47040739.09,
+    "population": 736965,
+    "per_capita": 63.83
+   },
+   {
+    "shape_code": "3615",
+    "display_name": "NY-15",
+    "aggregated_amount": 131803734.77,
+    "population": 757465,
+    "per_capita": 174.01
+   },
+   {
+    "shape_code": "3601",
+    "display_name": "NY-01",
+    "aggregated_amount": 121284999.82,
+    "population": 780204,
+    "per_capita": 155.45
+   },
+   {
+    "shape_code": "3602",
+    "display_name": "NY-02",
+    "aggregated_amount": 68384516.73,
+    "population": 775593,
+    "per_capita": 88.17
+   },
+   {
+    "shape_code": "3605",
+    "display_name": "NY-05",
+    "aggregated_amount": 68004634.16,
+    "population": 822717,
+    "per_capita": 82.66
+   },
+   {
+    "shape_code": "3608",
+    "display_name": "NY-08",
+    "aggregated_amount": 104657820.2,
+    "population": 758070,
+    "per_capita": 138.06
+   }
+  ],
+  "messages": [
+   "For searches, time period start and end dates are currently limited to an earliest date of 2007-10-01.  For data going back to 2000-10-01, use either the Custom Award Download feature on the website or one of our download or bulk_download API endpoints as listed on https://api.usaspending.gov/docs/endpoints. ",
+   "The 'subawards' field will be deprecated in the future. Set 'spending_level' to 'subawards' instead. See documentation for more information."
+  ]
+ },
+ "2025_contracts": {
+  "scope": "place_of_performance",
+  "geo_layer": "district",
+  "spending_level": "transactions",
+  "results": [
+   {
+    "shape_code": "3601",
+    "display_name": "NY-01",
+    "aggregated_amount": 1630682741.97,
+    "population": 780204,
+    "per_capita": 2090.07
+   },
+   {
+    "shape_code": "3612",
+    "display_name": "NY-12",
+    "aggregated_amount": 786545225.68,
+    "population": 689590,
+    "per_capita": 1140.6
+   },
+   {
+    "shape_code": "3610",
+    "display_name": "NY-10",
+    "aggregated_amount": 813562191.58,
+    "population": 705068,
+    "per_capita": 1153.88
+   },
+   {
+    "shape_code": "3602",
+    "display_name": "NY-02",
+    "aggregated_amount": 480920745.43,
+    "population": 775593,
+    "per_capita": 620.07
+   },
+   {
+    "shape_code": "3626",
+    "display_name": "NY-26",
+    "aggregated_amount": 286474827.16,
+    "population": 767330,
+    "per_capita": 373.34
+   },
+   {
+    "shape_code": "3608",
+    "display_name": "NY-08",
+    "aggregated_amount": 38309308.7,
+    "population": 758070,
+    "per_capita": 50.54
+   },
+   {
+    "shape_code": "3603",
+    "display_name": "NY-03",
+    "aggregated_amount": 636434367.59,
+    "population": 781920,
+    "per_capita": 813.94
+   },
+   {
+    "shape_code": "3622",
+    "display_name": "NY-22",
+    "aggregated_amount": 2261995606.68,
+    "population": 771373,
+    "per_capita": 2932.43
+   },
+   {
+    "shape_code": "3616",
+    "display_name": "NY-16",
+    "aggregated_amount": 86808341.87,
+    "population": 765635,
+    "per_capita": 113.38
+   },
+   {
+    "shape_code": "3604",
+    "display_name": "NY-04",
+    "aggregated_amount": 278049452.37,
+    "population": 774038,
+    "per_capita": 359.22
+   },
+   {
+    "shape_code": "3625",
+    "display_name": "NY-25",
+    "aggregated_amount": 2992147639.03,
+    "population": 776267,
+    "per_capita": 3854.53
+   },
+   {
+    "shape_code": "3617",
+    "display_name": "NY-17",
+    "aggregated_amount": -74169196.41,
+    "population": 776481,
+    "per_capita": -95.52
+   },
+   {
+    "shape_code": "3607",
+    "display_name": "NY-07",
+    "aggregated_amount": 117939592.42,
+    "population": 717913,
+    "per_capita": 164.28
+   },
+   {
+    "shape_code": "3618",
+    "display_name": "NY-18",
+    "aggregated_amount": 330239209.11,
+    "population": 776747,
+    "per_capita": 425.16
+   },
+   {
+    "shape_code": "3624",
+    "display_name": "NY-24",
+    "aggregated_amount": 241278466.19,
+    "population": 772455,
+    "per_capita": 312.35
+   },
+   {
+    "shape_code": "3620",
+    "display_name": "NY-20",
+    "aggregated_amount": 381636937.81,
+    "population": 774705,
+    "per_capita": 492.62
+   },
+   {
+    "shape_code": "3619",
+    "display_name": "NY-19",
+    "aggregated_amount": 131558068.17,
+    "population": 779018,
+    "per_capita": 168.88
+   },
+   {
+    "shape_code": "3623",
+    "display_name": "NY-23",
+    "aggregated_amount": 1360650843.71,
+    "population": 778483,
+    "per_capita": 1747.82
+   },
+   {
+    "shape_code": "3621",
+    "display_name": "NY-21",
+    "aggregated_amount": 669469326.55,
+    "population": 776503,
+    "per_capita": 862.16
+   },
+   {
+    "shape_code": "3614",
+    "display_name": "NY-14",
+    "aggregated_amount": 29834909.82,
+    "population": 696136,
+    "per_capita": 42.86
+   },
+   {
+    "shape_code": "3605",
+    "display_name": "NY-05",
+    "aggregated_amount": 29237648.25,
+    "population": 822717,
+    "per_capita": 35.54
+   },
+   {
+    "shape_code": "3613",
+    "display_name": "NY-13",
+    "aggregated_amount": 140477004.1,
+    "population": 780825,
+    "per_capita": 179.91
+   },
+   {
+    "shape_code": "3609",
+    "display_name": "NY-09",
+    "aggregated_amount": 12797275.27,
+    "population": 777866,
+    "per_capita": 16.45
+   },
+   {
+    "shape_code": "3611",
+    "display_name": "NY-11",
+    "aggregated_amount": 74036460.31,
+    "population": 766546,
+    "per_capita": 96.58
+   },
+   {
+    "shape_code": "3606",
+    "display_name": "NY-06",
+    "aggregated_amount": 3972678.59,
+    "population": 736965,
+    "per_capita": 5.39
+   },
+   {
+    "shape_code": "3615",
+    "display_name": "NY-15",
+    "aggregated_amount": 19402282.17,
+    "population": 757465,
+    "per_capita": 25.61
+   },
+   {
+    "shape_code": "",
+    "display_name": null,
+    "aggregated_amount": 332664.54,
+    "population": null,
+    "per_capita": null
+   }
+  ],
+  "messages": [
+   "For searches, time period start and end dates are currently limited to an earliest date of 2007-10-01.  For data going back to 2000-10-01, use either the Custom Award Download feature on the website or one of our download or bulk_download API endpoints as listed on https://api.usaspending.gov/docs/endpoints. ",
+   "The 'subawards' field will be deprecated in the future. Set 'spending_level' to 'subawards' instead. See documentation for more information."
+  ]
+ }
+}
