@@ -171,20 +171,26 @@ start.
 
 {{< figure src="/images/fact-checks/2026-11-11-comments-limited-official-casework.png" alt="Facebook post from the verified Congressman Nick Langworthy official page with a Casework Update graphic reporting 1,400-plus cases opened, 1,200-plus closed and $5,638,050 returned to constituents, and text including please don't ever hesitate to reach out. Below the post, Facebook's notice reads: Congressman Nick Langworthy limited who can comment on this post." caption="The official page's November 9 casework post. Its graphic reads &ldquo;please don't ever hesitate to reach out&rdquo;; the comment bar reads &ldquo;limited who can comment on this post.&rdquo;" >}}
 
-{{< figure src="/images/fact-checks/2026-11-11-comments-limited-official-veterans-day.png" alt="Facebook video post from the verified Congressman Nick Langworthy official page for Veterans Day beginning Freedom is not free, posted about an hour earlier. Below the post, Facebook's notice reads: Congressman Nick Langworthy limited who can comment on this post." caption="The official page's Veterans Day video, November 11." >}}
+{{< figure src="/images/fact-checks/2026-11-11-comments-limited-official-following.png" alt="The verified Congressman Nick Langworthy official Facebook page, viewed by an account that follows it: the header shows a Following button, the page bio reads Send me an email or sign up for my newsletter at Langworthy.house.gov, and the top post, a Veterans Day video, carries Facebook's notice: Congressman Nick Langworthy limited who can comment on this post." caption="The official page on November 11, viewed by an account that follows it. The header reads &ldquo;Following&rdquo;; the Veterans Day post below is still limited." >}}
 
 {{< figure src="/images/fact-checks/2026-11-11-comments-limited-campaign-jordan.png" alt="Facebook post from the Nick Langworthy campaign page congratulating Jim Jordan, with a photo of Jordan, a woman and Langworthy. Below the post, Facebook's notice reads: Nick Langworthy limited who can comment on this post." caption="The campaign page's November 10 post." >}}
 
 **What the setting is.** Facebook lets any page limit who can comment on
 a post, to the page's followers or to the profiles the post mentions. The
-notice does not say which option was chosen. It applies to everyone the
-same way, which makes it different from blocking particular people.
+notice does not say which option was chosen, but this site's account
+follows both pages and Facebook shows it the same notice on both, so
+following the page does not restore commenting. That leaves the option
+limiting comments to the profiles and Pages a post mentions. In practice,
+no one can comment except people a post tags. The setting applies to
+everyone the same way, which makes it different from blocking particular
+people.
 Comments left before the change, and comments from accounts the setting
 still allows, stay visible. Viewed logged out on November 11, the November
 9 casework post still showed 41 comments. Several of the most visible
 asked for in-person town halls.
 
-**What his own posts say.** The casework graphic reads: "please don't
+**What his own posts say.** The official page's bio reads: "Send me an
+email or sign up for my newsletter at Langworthy.house.gov." The casework graphic reads: "please don't
 ever hesitate to reach out." A post on the official page from about November 6,
 linking his office's services page, reads: "If you need help with any
 issue related to the federal government, please, contact us." On election
@@ -214,16 +220,15 @@ for a ZIP+4 code before its form.
 through the form, and his office reports more than 1,400 casework cases
 opened in 2026. What changed is the one public place where they could answer his
 posts in front of other constituents. On both pages, commenting is now
-limited, and Facebook does not say to whom.
+closed to everyone except people a post tags, followers included.
 
 **What cuts his way.** Pages commonly limit comments to cut spam and
 abuse, and many officials do it after elections. The setting is available
 to every page and treats every commenter alike.
 
-**What we do not know.** We don't know when the setting was applied. We
-checked posts from the past week, not older ones, so we don't know whether
-earlier posts are also limited. And we don't know whether commenting is
-open to followers or only to people the posts tag.
+**What we do not know.** We checked posts from the past week, not older
+ones, so we don't know whether posts from before November 6 are also
+limited. We also don't know whether the setting is meant to be temporary.
 
 ---
 
