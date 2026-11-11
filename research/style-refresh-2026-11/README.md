@@ -31,3 +31,8 @@ The first set's surfaces were too close to tell apart: paper #F7F8FA against whi
 - Amber tint #F8E7C2 with an amber border.
 - Footer text #C9D3E0 on navy (7.6:1).
 All text pairings still pass AA. The colorblind sheet was regenerated.
+
+## v2.2 (Nov 11, user request: "a box to frame the information from the background")
+- Content now sits in a white rounded panel with a soft shadow on a #DFE6EF backdrop, inset 22 px between the navy top bar and the navy footer band.
+- Panel against the backdrop: 1.26:1 for the fill, plus a #9AA9BD border at 2.4:1 against white. The edge reads clearly; text contrast is unchanged.
+- Templates lay out inside CONTENT_TOP and CONTENT_BOTTOM, so nothing touches the frame.

@@ -24,12 +24,16 @@ NAVY = "#1E3A5F"; INK = "#1A202C"; PAPER = "#FFFFFF"; WHITE = "#FFFFFF"
 AMBER = "#D69E2E"; AMBER_TXT = "#8A5A0B"; AMBER_TINT = "#F8E7C2"; GOLD_LIGHT = "#F6D58E"
 SLATE = "#3F5873"; SLATE_TINT = "#DCE5F0"; SLATE_LINE = "#7C8DA6"
 GRAY = "#4A5568"; LINE = "#C3CCD8"; RED = "#C53030"; ON_NAVY = "#C9D3E0"
+# v2.2 (Nov 11): content sits in a white framed panel on a tinted background (user request).
+BACKDROP = "#DFE6EF"; FRAME_LINE = "#9AA9BD"; SHADOW = "#C5CFDC"
+TOP_H = 64; FOOT_H = 86; FRAME_INSET = 22
+CONTENT_TOP = TOP_H + FRAME_INSET; CONTENT_BOTTOM = 1080 - FOOT_H - FRAME_INSET
 VERDICT_FILL = {"FALSE": RED}  # every other verdict uses navy; red is reserved for FALSE
 
 
 class Card(_Card):
     def __init__(self, w=1080, h=1080, scale=2):
-        super().__init__(w=w, h=h, bg=PAPER, scale=scale)
+        super().__init__(w=w, h=h, bg=BACKDROP, scale=scale)
 
     def font(self, size, bold=False, impact=False):
         name = "Arial Black.ttf" if impact else ("Arial Bold.ttf" if bold else "Arial.ttf")
@@ -46,7 +50,16 @@ class Card(_Card):
         self.rect(x + s * 0.2, y + s * 0.74, x + s * 0.8, y + s * 0.80, fill=AMBER)
         return self
 
-    def top_bar(self, kicker, h=64):
+    def frame(self):
+        """White content panel with a soft shadow and a defined edge, between the top bar and the footer."""
+        x0, x1 = FRAME_INSET, self.w - FRAME_INSET
+        y0, y1 = CONTENT_TOP, CONTENT_BOTTOM
+        self.rect(x0 + 3, y0 + 5, x1 + 3, y1 + 5, fill=SHADOW, radius=10)
+        self.rect(x0, y0, x1, y1, fill=WHITE, outline=FRAME_LINE, width=1.5, radius=10)
+        return self
+
+    def top_bar(self, kicker, h=TOP_H):
+        self.frame()
         self.rect(0, 0, self.w, h, fill=NAVY)
         self.mark(40, (h - 36) / 2, 36)
         self.text(92, h / 2, "LANGWORTHYWATCH.ORG", size=19, bold=True, fill=WHITE, anchor="lm")
@@ -107,7 +120,7 @@ def one_number(number, unit_line, sentence, context, tag_label, sources, url, ki
     """Template A: one big number, one sentence, a context line, a source.
     dots=(filled, total) draws a strip of total dots with `filled` in navy, the rest open."""
     c = Card()
-    top = c.top_bar(kicker); bottom = c.h - 86
+    top = c.top_bar(kicker) + FRAME_INSET; bottom = CONTENT_BOTTOM
     body = 40 + 250 + 44 + _measure(c, unit_line, 950, 34, True, 1.2) + 18 + _measure(c, sentence, 950, 24) \
         + 26 + _measure(c, context, 950, 19) + (110 if dots else 0)
     y = top + max(48, (bottom - top - body) / 2)
@@ -142,7 +155,7 @@ def said_vs_record(title, said_items, record_points, fair_line, verdict, sources
     """Template B: what he said (navy rule) beside what the record shows (amber rule).
     said_items = [(quote, source)], record_points = [(big, small)]."""
     c = Card()
-    top = c.top_bar(kicker); bottom = c.h - 86
+    top = c.top_bar(kicker) + FRAME_INSET; bottom = CONTENT_BOTTOM
     col_w, gap = 456, 40
     lx, rx = 64, 64 + col_w + gap
     left_h = 52 + sum(_measure(c, f"\u201c{q}\u201d", col_w - 30, 28, leading=1.28) + 10 + _measure(c, s, col_w - 30, 16) + 34 for q, s in said_items)
@@ -179,7 +192,7 @@ def weekly_roundup(week_label, rows, held_up, sources, url, path):
     """Template C: the weekly roundup. rows = [(section, big, line)]; held_up = (tag, big, line) or None.
     Rows are spread to fill the card."""
     c = Card()
-    top = c.top_bar("WEEKLY"); bottom = c.h - 86
+    top = c.top_bar("WEEKLY") + FRAME_INSET; bottom = CONTENT_BOTTOM
     y = top + 46
     c.text(64, y, "THIS WEEK IN NY-23", size=20, bold=True, fill=AMBER_TXT, anchor="lt")
     y += 34
