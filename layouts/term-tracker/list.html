@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="tt-page">
+  <div class="container">
+    <header class="tt-header">
+      <p class="tt-kicker">Term tracker</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="tt-lead">{{ . }}</p>{{ end }}
+    </header>
+    <div class="tt-body">
+      {{ .Content }}
+    </div>
+  </div>
+</article>
+{{ end }}

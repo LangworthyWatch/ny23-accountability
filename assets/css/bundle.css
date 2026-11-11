@@ -2084,3 +2084,99 @@ li a,
 .view-all-link::after {
   content: "→";
 }
+
+/* ===== Term tracker: framed panels on a tinted backdrop (matches card house style v2.2) ===== */
+.tt-page {
+  background: #DFE6EF;
+  padding: var(--space-12) 0;
+}
+.tt-header {
+  max-width: var(--max-width-content);
+  margin: 0 auto var(--space-8);
+}
+.tt-kicker {
+  color: #8A5A0B;
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: var(--space-2);
+}
+.tt-header h1 { color: #1E3A5F; }
+.tt-lead { color: #4A5568; margin-top: var(--space-3); }
+.tt-body {
+  max-width: var(--max-width-content);
+  margin: 0 auto;
+}
+.tt-body > p, .tt-body > hr { display: none; }   /* stray paragraphs from shortcode spacing */
+.tt-intro, .tt-panel {
+  background: #FFFFFF;
+  border: 1.5px solid #9AA9BD;
+  border-radius: 10px;
+  box-shadow: 3px 5px 0 #C5CFDC;
+  padding: var(--space-6) var(--space-6);
+  margin: 0 0 var(--space-8);
+}
+.tt-panel-head {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+}
+.tt-panel-head h2 {
+  color: #1E3A5F;
+  margin: 0;
+  font-size: 1.45rem;
+}
+.tt-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.1rem;
+  height: 2.1rem;
+  border-radius: 6px;
+  background: #1E3A5F;
+  color: #FFFFFF;
+  font-weight: 800;
+}
+.tt-panel blockquote {
+  border-left: 5px solid #1E3A5F;
+  background: transparent;
+  margin: 0 0 var(--space-3);
+  padding: var(--space-1) 0 var(--space-1) var(--space-4);
+  font-size: 1.1rem;
+}
+.tt-panel table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--space-4) 0;
+}
+.tt-panel th {
+  text-align: left;
+  color: #1E3A5F;
+  border-bottom: 2px solid #1E3A5F;
+  padding: var(--space-2);
+}
+.tt-panel td {
+  border-bottom: 1px solid #C3CCD8;
+  padding: var(--space-2);
+  vertical-align: top;
+}
+.tt-panel .tt-plain {
+  background: #F8E7C2;
+  border-left: 5px solid #D69E2E;
+  border-radius: 4px;
+  padding: var(--space-3) var(--space-4);
+  margin-top: var(--space-4);
+}
+.tt-panel .tt-source, .tt-panel .tt-method {
+  color: #4A5568;
+  font-size: 0.92rem;
+}
+@media (max-width: 767px) {
+  .tt-page { padding: var(--space-6) 0; }
+  .tt-intro, .tt-panel { padding: var(--space-4); box-shadow: 2px 3px 0 #C5CFDC; }
+  .tt-panel table { table-layout: fixed; font-size: 0.85rem; min-width: 0; }   /* global table rule sets min-width: 600px */
+  .tt-panel th, .tt-panel td { padding: var(--space-2) var(--space-1); overflow-wrap: anywhere; }
+  .tt-panel th:first-child, .tt-panel td:first-child { width: 36%; }
+}

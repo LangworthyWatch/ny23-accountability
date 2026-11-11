@@ -5,12 +5,18 @@ Cosponsors are parsed from <cosponsors><item> (see the BILLSTATUS cosponsor-pars
 cosponsorships are excluded."""
 import glob, os, re, json, sys
 SRC = sys.argv[1] if len(sys.argv) > 1 else "research/sources/ec-record-2026-10/bills/bulk/x-hr"
+REFRESH = sys.argv[2] if len(sys.argv) > 2 else None   # newer files override same-named older ones
 ME = "L000600"
 def blk(t, tag):
     i = t.find(f"<{tag}>"); j = t.find(f"</{tag}>", i)
     return t[i:j] if i >= 0 and j > i else ""
 sponsored, cosponsored = [], []
-for f in glob.glob(os.path.join(SRC, "BILLSTATUS-119hr*.xml")):
+paths = {os.path.basename(f): f for f in glob.glob(os.path.join(SRC, "BILLSTATUS-119hr*.xml"))}
+if REFRESH:
+    for f in glob.glob(os.path.join(REFRESH, "BILLSTATUS-119hr*.xml")):
+        if "<billStatus" in open(f, encoding="utf-8", errors="ignore").read(200):
+            paths[os.path.basename(f)] = f
+for f in paths.values():
     t = open(f, encoding="utf-8", errors="ignore").read()
     b = t[t.find("<bill>"):]
     sp = blk(b, "sponsors")

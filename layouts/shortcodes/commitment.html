@@ -1,0 +1,11 @@
+{{- /* A framed white panel for one commitment on the term-tracker page.
+     Usage: {{< commitment n="1" title="Relationships across the aisle" >}} markdown {{< /commitment >}} */ -}}
+<section class="tt-panel"{{ with .Get "n" }} id="commitment-{{ . }}"{{ end }}>
+  <header class="tt-panel-head">
+    {{ with .Get "n" }}<span class="tt-num">{{ . }}</span>{{ end }}
+    <h2>{{ .Get "title" }}</h2>
+  </header>
+  <div class="tt-panel-body">
+    {{ .Inner | markdownify }}
+  </div>
+</section>

@@ -3,22 +3,22 @@
  "sponsored_with_any_dem_cosponsor": 28,
  "sponsored_with_dem_original_cosponsor": 24,
  "sponsored_became_law": 0,
- "cosponsored_total": 293,
- "cosponsored_dem_sponsored": 55,
- "cosponsored_rep_sponsored": 238
+ "cosponsored_total": 297,
+ "cosponsored_dem_sponsored": 58,
+ "cosponsored_rep_sponsored": 239
 }
 -- sponsored with a Democratic cosponsor:
   H.R. 1076  D cos 29 (orig 13) law=False  WARN Act
   H.R. 2353  D cos 26 (orig 12) law=False  Safer Skies Act of 2025
   H.R. 2203  D cos 20 (orig 4) law=False  Innovative FEED Act of 2025
   H.R. 1421  D cos 17 (orig 4) law=False  Make American Flags in America Act of 2025
-  H.R. 10522 D cos 10 (orig 6) law=False  Companion Animal Protection Against Cruel Testing Act
-  H.R. 10571 D cos  8 (orig 6) law=False  Surge to Save Newborns Act
+  H.R. 10522 D cos 13 (orig 6) law=False  Companion Animal Protection Against Cruel Testing Act
+  H.R. 10571 D cos  9 (orig 6) law=False  Surge to Save Newborns Act
+  H.R. 10628 D cos  8 (orig 5) law=False  Biosimilars Access and Affordability Act
   H.R. 290   D cos  7 (orig 1) law=False  Rural Telehealth and Education Enhancement Act of 2025
   H.R. 295   D cos  6 (orig 2) law=False  Fair Milk Pricing for Farmers Act
   H.R. 291   D cos  5 (orig 1) law=False  CAREERS Act
   H.R. 7502  D cos  5 (orig 5) law=False  Recycled Materials Attribution Act of 2026
-  H.R. 10628 D cos  5 (orig 5) law=False  Biosimilars Access and Affordability Act
   H.R. 2560  D cos  4 (orig 1) law=False  Lifespan Respite Care Reauthorization Act of 2025
   H.R. 519   D cos  3 (orig 3) law=False  Federal Subaward Reporting System Modernization and Expansion Act
   H.R. 294   D cos  3 (orig 1) law=False  Dairy Farm Resiliency Act
@@ -72,14 +72,17 @@
   H.R. 8669  orig=True law=False  To designate the facility of the United States Postal Service located at 5951 Riverdale Av
   H.R. 9211  orig=False law=False  Jewish American Security Act
   H.R. 4709  orig=True law=False  Newborn Screening Saves Lives Reauthorization Act of 2025
+  H.R. 9401  orig=False law=False  Latonya Reeves Freedom Act of 2026
   H.R. 2540  orig=False law=False  SSI Savings Penalty Elimination Act
   H.R. 1706  orig=False law=False  To designate the facility of the United States Postal Service located at 1200 William Stre
   H.R. 1672  orig=False law=False  Maintaining Investments in New Innovation Act
+  H.R. 3501  orig=False law=False  To amend title XVIII of the Social Security Act to provide for certain cognitive impairmen
   H.R. 9473  orig=True law=False  Defenders of Bataan and Corregidor Congressional Gold Medal Act
   H.R. 2042  orig=False law=False  Space National Guard Establishment Act of 2025
   H.R. 4382  orig=False law=False  America’s Olympic and Paralympic Games Commemorative Coins Act
   H.R. 6609  orig=False law=False  Pharmacists Fight Back in Medicare and Medicaid Act
   H.R. 6635  orig=False law=False  Bus Operator Safety and Security Act
+  H.R. 9048  orig=False law=False  Celiac Safety Act of 2026
   H.R. 4752  orig=False law=False  Reducing Hereditary Cancer Act
   H.R. 7501  orig=True law=False  Safe Flights for Passengers and Flight Crews Act
   H.R. 10205 orig=True law=False  REACH Our Tribes Act
