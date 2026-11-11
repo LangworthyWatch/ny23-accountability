@@ -1,0 +1,94 @@
+{
+ "sponsored": 42,
+ "sponsored_with_any_dem_cosponsor": 28,
+ "sponsored_with_dem_original_cosponsor": 24,
+ "sponsored_became_law": 0,
+ "cosponsored_total": 293,
+ "cosponsored_dem_sponsored": 55,
+ "cosponsored_rep_sponsored": 238
+}
+-- sponsored with a Democratic cosponsor:
+  H.R. 1076  D cos 29 (orig 13) law=False  WARN Act
+  H.R. 2353  D cos 26 (orig 12) law=False  Safer Skies Act of 2025
+  H.R. 2203  D cos 20 (orig 4) law=False  Innovative FEED Act of 2025
+  H.R. 1421  D cos 17 (orig 4) law=False  Make American Flags in America Act of 2025
+  H.R. 10522 D cos 10 (orig 6) law=False  Companion Animal Protection Against Cruel Testing Act
+  H.R. 10571 D cos  8 (orig 6) law=False  Surge to Save Newborns Act
+  H.R. 290   D cos  7 (orig 1) law=False  Rural Telehealth and Education Enhancement Act of 2025
+  H.R. 295   D cos  6 (orig 2) law=False  Fair Milk Pricing for Farmers Act
+  H.R. 291   D cos  5 (orig 1) law=False  CAREERS Act
+  H.R. 7502  D cos  5 (orig 5) law=False  Recycled Materials Attribution Act of 2026
+  H.R. 10628 D cos  5 (orig 5) law=False  Biosimilars Access and Affordability Act
+  H.R. 2560  D cos  4 (orig 1) law=False  Lifespan Respite Care Reauthorization Act of 2025
+  H.R. 519   D cos  3 (orig 3) law=False  Federal Subaward Reporting System Modernization and Expansion Act
+  H.R. 294   D cos  3 (orig 1) law=False  Dairy Farm Resiliency Act
+  H.R. 3699  D cos  3 (orig 1) law=False  Energy Choice Act
+  H.R. 293   D cos  2 (orig 1) law=False  Making Agricultural Products Locally Essential (MAPLE) Act
+  H.R. 1875  D cos  2 (orig 1) law=False  Medicaid Provider Screening Accountability Act
+  H.R. 1256  D cos  2 (orig 1) law=False  Long-Term Care Transparency Act
+  H.R. 2783  D cos  2 (orig 2) law=False  Infrastructure Project Acceleration Act
+  H.R. 289   D cos  2 (orig 1) law=False  SAP Act of 2025
+  H.R. 10163 D cos  2 (orig 0) law=False  American Quantum Competitiveness Act
+  H.R. 5553  D cos  1 (orig 1) law=False  CTE Student Mental Health and Wellness Act
+  H.R. 9806  D cos  1 (orig 1) law=False  FLOWS Act
+  H.R. 7065  D cos  1 (orig 0) law=False  Seneca Nation Law Enforcement Efficiency Act
+  H.R. 9317  D cos  1 (orig 1) law=False  BUSES Act
+  H.R. 6037  D cos  1 (orig 0) law=False  To reauthorize the West Valley demonstration project.
+  H.R. 9661  D cos  1 (orig 1) law=False  Expedited Access to Biosimilars Act
+  H.R. 5517  D cos  1 (orig 0) law=False  Northern Border Security Enhancement and Review Act
+-- Democrat-sponsored bills he cosponsored:
+  H.R. 3037  orig=False law=False  Access to Breast Cancer Diagnosis Act of 2025
+  H.R. 973   orig=True law=False  Setting Consumer Standards for Lithium-Ion Batteries Act
+  H.R. 5645  orig=False law=False  Pray Safe Act of 2025
+  H.R. 10191 orig=False law=False  To require curbside delivery of mail at certain housing developments, and for other purpos
+  H.R. 637   orig=False law=False  911 SAVES Act
+  H.R. 4206  orig=False law=False  CONNECT for Health Act of 2025
+  H.R. 9905  orig=True law=False  To designate the facility of the United States Postal Service located at 114 John Street i
+  H.R. 397   orig=False law=False  To designate the facility of the United States Postal Service located at 216 Cumberland St
+  H.R. 6610  orig=False law=False  Pharmacists Fight Back [in Federal Employee Health Benefit Plans Act]
+  H.R. 8239  orig=False law=False  SACRED Act
+  H.R. 235   orig=True law=False  National Museum of Play Recognition Act
+  H.R. 3184  orig=False law=False  PFAS Alternatives Act
+  H.R. 1787  orig=False law=False  Roberto Clemente Commemorative Coin Act
+  H.R. 1340  orig=False law=False  More Homes on the Market Act
+  H.R. 7145  orig=False law=False  To amend title XIX of the Social Security Act to establish a definition of essential healt
+  H.R. 7033  orig=False law=False  Federal Correctional Officer Paycheck Protection Act of 2026
+  H.R. 1522  orig=False law=False  Federal Retirement Fairness Act
+  H.R. 6099  orig=True law=False  To designate the facility of the United States Postal Service located at 2200 South Salina
+  H.R. 1269  orig=False law=False  Honoring Our Fallen Heroes Act of 2025
+  H.R. 1056  orig=False law=False  To include the Czech Republic in the list of foreign states whose nationals are eligible f
+  H.R. 9026  orig=True law=False  To designate the facility of the United States Postal Service located at 80 Atlantic Avenu
+  H.R. 9795  orig=False law=False  Never Forget the Victims of Terrorism: Joseph D. Mistrulli and Alan Kleinberg USVSST Fund 
+  H.R. 5408  orig=False law=False  Faster Labor Contracts Act
+  H.R. 3657  orig=False law=True  Hydropower Licensing Transparency Act
+  H.R. 4110  orig=True law=False  The Organic Dairy Data Collection Act
+  H.R. 6694  orig=False law=False  To designate the facility of the United States Postal Service located at 130 North Winton 
+  H.R. 1266  orig=False law=False  Combating Illicit Xylazine Act
+  H.R. 2140  orig=True law=False  Diesel Emissions Reduction Act of 2025
+  H.R. 4731  orig=False law=False  Resident Physician Shortage Reduction Act of 2025
+  H.R. 1102  orig=False law=False  Commission To Study the Potential of a National Museum of Italian American History and Cul
+  H.R. 4708  orig=True law=False  Spotted Lanternfly Research and Development Act
+  H.R. 507   orig=False law=False  Veterans Member Business Loan Act
+  H.R. 8669  orig=True law=False  To designate the facility of the United States Postal Service located at 5951 Riverdale Av
+  H.R. 9211  orig=False law=False  Jewish American Security Act
+  H.R. 4709  orig=True law=False  Newborn Screening Saves Lives Reauthorization Act of 2025
+  H.R. 2540  orig=False law=False  SSI Savings Penalty Elimination Act
+  H.R. 1706  orig=False law=False  To designate the facility of the United States Postal Service located at 1200 William Stre
+  H.R. 1672  orig=False law=False  Maintaining Investments in New Innovation Act
+  H.R. 9473  orig=True law=False  Defenders of Bataan and Corregidor Congressional Gold Medal Act
+  H.R. 2042  orig=False law=False  Space National Guard Establishment Act of 2025
+  H.R. 4382  orig=False law=False  America’s Olympic and Paralympic Games Commemorative Coins Act
+  H.R. 6609  orig=False law=False  Pharmacists Fight Back in Medicare and Medicaid Act
+  H.R. 6635  orig=False law=False  Bus Operator Safety and Security Act
+  H.R. 4752  orig=False law=False  Reducing Hereditary Cancer Act
+  H.R. 7501  orig=True law=False  Safe Flights for Passengers and Flight Crews Act
+  H.R. 10205 orig=True law=False  REACH Our Tribes Act
+  H.R. 1993  orig=True law=False  25th Anniversary of 9/11 Commemorative Coin Act
+  H.R. 4541  orig=False law=False  To reauthorize the Young Women’s Breast Health Education and Awareness Requires Learning Y
+  H.R. 4596  orig=True law=False  McCarran-Walter Technical Corrections Act
+  H.R. 10162 orig=True law=False  STORMWATER Act
+  H.R. 1941  orig=False law=False  Preventing Deepfakes of Intimate Images Act
+  H.R. 6960  orig=False law=False  Thomas M. Conway Veterans Access to Resources in the Workplace Act
+  H.R. 2496  orig=True law=False  Dairy Nutrition Incentive Program Act of 2025
+  H.R. 1809  orig=False law=False  Great Lakes Fishery Research Reauthorization Act
+  H.R. 4768  orig=False law=False  Health Care Fairness for Military Families Act of 2025

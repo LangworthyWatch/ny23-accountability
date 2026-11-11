@@ -1,0 +1,3323 @@
+{
+ "summary": {
+  "sponsored": 42,
+  "sponsored_with_any_dem_cosponsor": 28,
+  "sponsored_with_dem_original_cosponsor": 24,
+  "sponsored_became_law": 0,
+  "cosponsored_total": 293,
+  "cosponsored_dem_sponsored": 55,
+  "cosponsored_rep_sponsored": 238
+ },
+ "sponsored": [
+  {
+   "bill": "H.R. 3157",
+   "title": "State Energy Accountability Act",
+   "sponsor_party": "R",
+   "n_cos": 2,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 1421",
+   "title": "Make American Flags in America Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 53,
+   "dem_cos": 17,
+   "dem_orig": 4,
+   "law": false
+  },
+  {
+   "bill": "H.R. 5518",
+   "title": "Integrated Cross-Border Law Enforcement Operations Expansion Act",
+   "sponsor_party": "R",
+   "n_cos": 14,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 7256",
+   "title": "Federal Workforce Early Separation Incentives Act",
+   "sponsor_party": "R",
+   "n_cos": 0,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 10522",
+   "title": "Companion Animal Protection Against Cruel Testing Act",
+   "sponsor_party": "R",
+   "n_cos": 15,
+   "dem_cos": 10,
+   "dem_orig": 6,
+   "law": false
+  },
+  {
+   "bill": "H.R. 291",
+   "title": "CAREERS Act",
+   "sponsor_party": "R",
+   "n_cos": 5,
+   "dem_cos": 5,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 290",
+   "title": "Rural Telehealth and Education Enhancement Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 7,
+   "dem_cos": 7,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 2203",
+   "title": "Innovative FEED Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 53,
+   "dem_cos": 20,
+   "dem_orig": 4,
+   "law": false
+  },
+  {
+   "bill": "H.R. 292",
+   "title": "GRAPE Act",
+   "sponsor_party": "R",
+   "n_cos": 0,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 293",
+   "title": "Making Agricultural Products Locally Essential (MAPLE) Act",
+   "sponsor_party": "R",
+   "n_cos": 5,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 5553",
+   "title": "CTE Student Mental Health and Wellness Act",
+   "sponsor_party": "R",
+   "n_cos": 2,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 2204",
+   "title": "To require an institution of higher education that becomes aware that a student having non",
+   "sponsor_party": "R",
+   "n_cos": 8,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 9806",
+   "title": "FLOWS Act",
+   "sponsor_party": "R",
+   "n_cos": 1,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 1875",
+   "title": "Medicaid Provider Screening Accountability Act",
+   "sponsor_party": "R",
+   "n_cos": 3,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 1256",
+   "title": "Long-Term Care Transparency Act",
+   "sponsor_party": "R",
+   "n_cos": 6,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 519",
+   "title": "Federal Subaward Reporting System Modernization and Expansion Act",
+   "sponsor_party": "R",
+   "n_cos": 6,
+   "dem_cos": 3,
+   "dem_orig": 3,
+   "law": false
+  },
+  {
+   "bill": "H.R. 294",
+   "title": "Dairy Farm Resiliency Act",
+   "sponsor_party": "R",
+   "n_cos": 6,
+   "dem_cos": 3,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 295",
+   "title": "Fair Milk Pricing for Farmers Act",
+   "sponsor_party": "R",
+   "n_cos": 17,
+   "dem_cos": 6,
+   "dem_orig": 2,
+   "law": false
+  },
+  {
+   "bill": "H.R. 2560",
+   "title": "Lifespan Respite Care Reauthorization Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 4,
+   "dem_cos": 4,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 4690",
+   "title": "Reliable Federal Infrastructure Act",
+   "sponsor_party": "R",
+   "n_cos": 7,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 3699",
+   "title": "Energy Choice Act",
+   "sponsor_party": "R",
+   "n_cos": 157,
+   "dem_cos": 3,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 7366",
+   "title": "Dietary Supplement Regulatory Uniformity Act",
+   "sponsor_party": "R",
+   "n_cos": 0,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 3881",
+   "title": "Stop Dangerous Sanctuary Cities Act",
+   "sponsor_party": "R",
+   "n_cos": 20,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 1076",
+   "title": "WARN Act",
+   "sponsor_party": "R",
+   "n_cos": 41,
+   "dem_cos": 29,
+   "dem_orig": 13,
+   "law": false
+  },
+  {
+   "bill": "H.R. 2783",
+   "title": "Infrastructure Project Acceleration Act",
+   "sponsor_party": "R",
+   "n_cos": 6,
+   "dem_cos": 2,
+   "dem_orig": 2,
+   "law": false
+  },
+  {
+   "bill": "H.R. 7941",
+   "title": "Pay TSA Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 11,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 289",
+   "title": "SAP Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 4,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 2353",
+   "title": "Safer Skies Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 52,
+   "dem_cos": 26,
+   "dem_orig": 12,
+   "law": false
+  },
+  {
+   "bill": "H.R. 7502",
+   "title": "Recycled Materials Attribution Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 13,
+   "dem_cos": 5,
+   "dem_orig": 5,
+   "law": false
+  },
+  {
+   "bill": "H.R. 9117",
+   "title": "CHECK Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 0,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 4234",
+   "title": "Safeguarding Americans From Extremist Risk (SAFER) at the Border Act",
+   "sponsor_party": "R",
+   "n_cos": 19,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 7065",
+   "title": "Seneca Nation Law Enforcement Efficiency Act",
+   "sponsor_party": "R",
+   "n_cos": 1,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 10628",
+   "title": "Biosimilars Access and Affordability Act",
+   "sponsor_party": "R",
+   "n_cos": 8,
+   "dem_cos": 5,
+   "dem_orig": 5,
+   "law": false
+  },
+  {
+   "bill": "H.R. 9317",
+   "title": "BUSES Act",
+   "sponsor_party": "R",
+   "n_cos": 3,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 1617",
+   "title": "Wireless Resiliency and Flexible Investment Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 0,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 3548",
+   "title": "Infrastructure Expansion Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 5,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 10163",
+   "title": "American Quantum Competitiveness Act",
+   "sponsor_party": "R",
+   "n_cos": 3,
+   "dem_cos": 2,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 2133",
+   "title": "Lakes Before Turbines Act",
+   "sponsor_party": "R",
+   "n_cos": 0,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 10571",
+   "title": "Surge to Save Newborns Act",
+   "sponsor_party": "R",
+   "n_cos": 15,
+   "dem_cos": 8,
+   "dem_orig": 6,
+   "law": false
+  },
+  {
+   "bill": "H.R. 6037",
+   "title": "To reauthorize the West Valley demonstration project.",
+   "sponsor_party": "R",
+   "n_cos": 1,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false
+  },
+  {
+   "bill": "H.R. 9661",
+   "title": "Expedited Access to Biosimilars Act",
+   "sponsor_party": "R",
+   "n_cos": 2,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false
+  },
+  {
+   "bill": "H.R. 5517",
+   "title": "Northern Border Security Enhancement and Review Act",
+   "sponsor_party": "R",
+   "n_cos": 27,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false
+  }
+ ],
+ "cosponsored": [
+  {
+   "bill": "H.R. 3209",
+   "title": "App Store Freedom Act",
+   "sponsor_party": "R",
+   "n_cos": 6,
+   "dem_cos": 4,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1378",
+   "title": "To amend the Internal Revenue Code of 1986 to extend the temporary increase in limitation ",
+   "sponsor_party": "R",
+   "n_cos": 25,
+   "dem_cos": 9,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1422",
+   "title": "Enhanced Iran Sanctions Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 295,
+   "dem_cos": 124,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3037",
+   "title": "Access to Breast Cancer Diagnosis Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 65,
+   "dem_cos": 49,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6832",
+   "title": "PACK Act",
+   "sponsor_party": "R",
+   "n_cos": 19,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3143",
+   "title": "State Planning for Reliability and Affordability Act",
+   "sponsor_party": "R",
+   "n_cos": 1,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 7325",
+   "title": "Truth and Healing Commission on Indian Boarding School Policies Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 21,
+   "dem_cos": 6,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3194",
+   "title": "LOCOMOTIVES Act",
+   "sponsor_party": "R",
+   "n_cos": 27,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 556",
+   "title": "Protecting Access for Hunters and Anglers Act",
+   "sponsor_party": "R",
+   "n_cos": 83,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 973",
+   "title": "Setting Consumer Standards for Lithium-Ion Batteries Act",
+   "sponsor_party": "D",
+   "n_cos": 23,
+   "dem_cos": 17,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 740",
+   "title": "Veterans\u2019 ACCESS Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 88,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5269",
+   "title": "RESULTS Act",
+   "sponsor_party": "R",
+   "n_cos": 123,
+   "dem_cos": 60,
+   "dem_orig": 6,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5645",
+   "title": "Pray Safe Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 51,
+   "dem_cos": 25,
+   "dem_orig": 5,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8413",
+   "title": "SECURE Data Act",
+   "sponsor_party": "R",
+   "n_cos": 10,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1351",
+   "title": "Promoting American Patriotism In Our Schools Act",
+   "sponsor_party": "R",
+   "n_cos": 19,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2102",
+   "title": "Major Richard Star Act",
+   "sponsor_party": "R",
+   "n_cos": 340,
+   "dem_cos": 205,
+   "dem_orig": 108,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 6400",
+   "title": "Rx ACCESS Act",
+   "sponsor_party": "R",
+   "n_cos": 18,
+   "dem_cos": 7,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5874",
+   "title": "Firearm Access During Shutdowns Act",
+   "sponsor_party": "R",
+   "n_cos": 111,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1151",
+   "title": "Freedom to Invest in Tomorrow\u2019s Workforce Act",
+   "sponsor_party": "R",
+   "n_cos": 203,
+   "dem_cos": 88,
+   "dem_orig": 5,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9337",
+   "title": "Hydropower Licensing Affordability Act",
+   "sponsor_party": "R",
+   "n_cos": 30,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5519",
+   "title": "Welles Remy Crowther Congressional Gold Medal Act",
+   "sponsor_party": "R",
+   "n_cos": 57,
+   "dem_cos": 29,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1031",
+   "title": "Fort Ontario Holocaust Refugee Shelter National Historical Park Establishment Act",
+   "sponsor_party": "R",
+   "n_cos": 8,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5257",
+   "title": "To reaffirm the trust status of land taken into trust by the United States pursuant to the",
+   "sponsor_party": "R",
+   "n_cos": 7,
+   "dem_cos": 2,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 2048",
+   "title": "Metastatic Breast Cancer Access to Care Act",
+   "sponsor_party": "R",
+   "n_cos": 271,
+   "dem_cos": 192,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 10191",
+   "title": "To require curbside delivery of mail at certain housing developments, and for other purpos",
+   "sponsor_party": "D",
+   "n_cos": 1,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1227",
+   "title": "Alternatives to PAIN Act",
+   "sponsor_party": "R",
+   "n_cos": 114,
+   "dem_cos": 63,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 233",
+   "title": "HELP PETS Act",
+   "sponsor_party": "R",
+   "n_cos": 1,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3747",
+   "title": "Accelerating Access to Dementia and Alzheimer\u2019s Provider Training Act",
+   "sponsor_party": "R",
+   "n_cos": 97,
+   "dem_cos": 74,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 637",
+   "title": "911 SAVES Act",
+   "sponsor_party": "D",
+   "n_cos": 86,
+   "dem_cos": 57,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 151",
+   "title": "Equal Representation Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 66,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 45",
+   "title": "FIND Act",
+   "sponsor_party": "R",
+   "n_cos": 154,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 6373",
+   "title": "Air Permitting Improvements to Protect National Security Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 11,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5642",
+   "title": "To designate the facility of the United States Postal Service located at 47 Echo Avenue in",
+   "sponsor_party": "R",
+   "n_cos": 19,
+   "dem_cos": 13,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8414",
+   "title": "DAIRY PRIDE Act",
+   "sponsor_party": "R",
+   "n_cos": 15,
+   "dem_cos": 4,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5130",
+   "title": "Prevent Government Shutdowns Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 6,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 425",
+   "title": "Repealing Big Brother Overreach Act",
+   "sponsor_party": "R",
+   "n_cos": 193,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 2111",
+   "title": "To amend the Federal Food, Drug, and Cosmetic Act to exempt the premium cigar industry fro",
+   "sponsor_party": "R",
+   "n_cos": 16,
+   "dem_cos": 9,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 4206",
+   "title": "CONNECT for Health Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 248,
+   "dem_cos": 184,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9905",
+   "title": "To designate the facility of the United States Postal Service located at 114 John Street i",
+   "sponsor_party": "D",
+   "n_cos": 25,
+   "dem_cos": 18,
+   "dem_orig": 18,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 10779",
+   "title": "To designate the facility of the United States Postal Service located at 1905 Route 112 in",
+   "sponsor_party": "R",
+   "n_cos": 14,
+   "dem_cos": 8,
+   "dem_orig": 6,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 8170",
+   "title": "MATCH Act",
+   "sponsor_party": "R",
+   "n_cos": 31,
+   "dem_cos": 10,
+   "dem_orig": 5,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 196",
+   "title": "Family and Small Business Taxpayer Protection Act",
+   "sponsor_party": "R",
+   "n_cos": 36,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 4945",
+   "title": "GO Ag Act",
+   "sponsor_party": "R",
+   "n_cos": 11,
+   "dem_cos": 8,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3151",
+   "title": "SHIPS for America Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 144,
+   "dem_cos": 77,
+   "dem_orig": 16,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1008",
+   "title": "To designate the facility of the United States Postal Service located at 298 Route 292 in ",
+   "sponsor_party": "R",
+   "n_cos": 24,
+   "dem_cos": 18,
+   "dem_orig": 7,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4831",
+   "title": "ENFORCE Act",
+   "sponsor_party": "R",
+   "n_cos": 18,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9680",
+   "title": "Replace UNRWA with Real Humanitarian Assistance Act",
+   "sponsor_party": "R",
+   "n_cos": 30,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 578",
+   "title": "Sarah\u2019s Law",
+   "sponsor_party": "R",
+   "n_cos": 53,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1551",
+   "title": "Protect and Serve Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 119,
+   "dem_cos": 23,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1237",
+   "title": "PANELS Act",
+   "sponsor_party": "R",
+   "n_cos": 4,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6766",
+   "title": "Essential Caregivers Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 160,
+   "dem_cos": 84,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1009",
+   "title": "To designate the facility of the United States Postal Service located at 86 Main Street in",
+   "sponsor_party": "R",
+   "n_cos": 24,
+   "dem_cos": 18,
+   "dem_orig": 7,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5509",
+   "title": "Safe Step Act",
+   "sponsor_party": "R",
+   "n_cos": 169,
+   "dem_cos": 113,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 801",
+   "title": "Charitable Act",
+   "sponsor_party": "R",
+   "n_cos": 54,
+   "dem_cos": 28,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9535",
+   "title": "Securing Agriculture's Workforce Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 61,
+   "dem_cos": 9,
+   "dem_orig": 4,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 5455",
+   "title": "Aviation Funding Stability Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 26,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1394",
+   "title": "CURD Act",
+   "sponsor_party": "R",
+   "n_cos": 29,
+   "dem_cos": 12,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1357",
+   "title": "Susan Muffley Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 41,
+   "dem_cos": 19,
+   "dem_orig": 6,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5643",
+   "title": "To name the Department of Veterans Affairs medical center located in Northport, New York, ",
+   "sponsor_party": "R",
+   "n_cos": 16,
+   "dem_cos": 7,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5641",
+   "title": "To designate the facility of the United States Postal Service located at 240 Main Street i",
+   "sponsor_party": "R",
+   "n_cos": 20,
+   "dem_cos": 14,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 397",
+   "title": "To designate the facility of the United States Postal Service located at 216 Cumberland St",
+   "sponsor_party": "D",
+   "n_cos": 25,
+   "dem_cos": 18,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2853",
+   "title": "Combating Organized Retail Crime Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 206,
+   "dem_cos": 84,
+   "dem_orig": 10,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 142",
+   "title": "Regulations from the Executive in Need of Scrutiny Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 93,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 624",
+   "title": "RIFLE Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 34,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6610",
+   "title": "Pharmacists Fight Back [in Federal Employee Health Benefit Plans Act]",
+   "sponsor_party": "D",
+   "n_cos": 46,
+   "dem_cos": 19,
+   "dem_orig": 13,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1802",
+   "title": "SPARE Act",
+   "sponsor_party": "R",
+   "n_cos": 2,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6214",
+   "title": "Kidney Care Access Protection Act",
+   "sponsor_party": "R",
+   "n_cos": 18,
+   "dem_cos": 8,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8239",
+   "title": "SACRED Act",
+   "sponsor_party": "D",
+   "n_cos": 17,
+   "dem_cos": 8,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9641",
+   "title": "Essential Caregivers Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 83,
+   "dem_cos": 43,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7678",
+   "title": "Gun Owner Registration Information Protection Act",
+   "sponsor_party": "R",
+   "n_cos": 97,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1546",
+   "title": "Erie Canal Bicentennial Commemorative Coin Act",
+   "sponsor_party": "R",
+   "n_cos": 9,
+   "dem_cos": 4,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 235",
+   "title": "National Museum of Play Recognition Act",
+   "sponsor_party": "D",
+   "n_cos": 1,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 3184",
+   "title": "PFAS Alternatives Act",
+   "sponsor_party": "D",
+   "n_cos": 149,
+   "dem_cos": 117,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1787",
+   "title": "Roberto Clemente Commemorative Coin Act",
+   "sponsor_party": "D",
+   "n_cos": 221,
+   "dem_cos": 178,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8990",
+   "title": "Protect Domestic Oil and Gas Small Business Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 29,
+   "dem_cos": 2,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 802",
+   "title": "STAR Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 28,
+   "dem_cos": 22,
+   "dem_orig": 9,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6188",
+   "title": "To amend title 36, United States Code, to designate the composition known as \"Here Rests i",
+   "sponsor_party": "R",
+   "n_cos": 3,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7296",
+   "title": "SAVE America Act",
+   "sponsor_party": "R",
+   "n_cos": 111,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1181",
+   "title": "Protecting Privacy in Purchases Act",
+   "sponsor_party": "R",
+   "n_cos": 132,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1195",
+   "title": "Protect Medicaid Act",
+   "sponsor_party": "R",
+   "n_cos": 16,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9250",
+   "title": "Great American Outdoors Act 250",
+   "sponsor_party": "R",
+   "n_cos": 263,
+   "dem_cos": 132,
+   "dem_orig": 47,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 631",
+   "title": "PARTS Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 27,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1397",
+   "title": "Increasing Access to Dental Insurance Act",
+   "sponsor_party": "R",
+   "n_cos": 18,
+   "dem_cos": 8,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9720",
+   "title": "D.C. Taxing Authority Review Act",
+   "sponsor_party": "R",
+   "n_cos": 21,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1340",
+   "title": "More Homes on the Market Act",
+   "sponsor_party": "D",
+   "n_cos": 158,
+   "dem_cos": 91,
+   "dem_orig": 17,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2160",
+   "title": "Maintaining and Enhancing Hydroelectricity and River Restoration Act",
+   "sponsor_party": "R",
+   "n_cos": 19,
+   "dem_cos": 9,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7024",
+   "title": "Hemp Planting Predictability Act",
+   "sponsor_party": "R",
+   "n_cos": 40,
+   "dem_cos": 22,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2821",
+   "title": "FDA Modernization Act 3.0",
+   "sponsor_party": "R",
+   "n_cos": 41,
+   "dem_cos": 21,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3295",
+   "title": "Federal Animal Research Accountability Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 25,
+   "dem_cos": 17,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2410",
+   "title": "Revitalizing Downtowns and Main Streets Act",
+   "sponsor_party": "R",
+   "n_cos": 57,
+   "dem_cos": 29,
+   "dem_orig": 15,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7540",
+   "title": "United States-Israel FUTURES Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 53,
+   "dem_cos": 13,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5343",
+   "title": "Ensuring Patient Access to Critical Breakthrough Products Act",
+   "sponsor_party": "R",
+   "n_cos": 65,
+   "dem_cos": 32,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2570",
+   "title": "Maximum Pressure Act",
+   "sponsor_party": "R",
+   "n_cos": 55,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 7352",
+   "title": "PASTEUR Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 29,
+   "dem_cos": 17,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 4698",
+   "title": "PAAW Act",
+   "sponsor_party": "R",
+   "n_cos": 15,
+   "dem_cos": 8,
+   "dem_orig": 6,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4317",
+   "title": "PBM Reform Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 71,
+   "dem_cos": 31,
+   "dem_orig": 5,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1521",
+   "title": "DOC Access Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 121,
+   "dem_cos": 70,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7622",
+   "title": "Iran Human Rights, Internet Freedom, and Accountability Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 77,
+   "dem_cos": 39,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1284",
+   "title": "Fighting Trade Cheats Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 39,
+   "dem_cos": 11,
+   "dem_orig": 4,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 284",
+   "title": "GLRI Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 44,
+   "dem_cos": 26,
+   "dem_orig": 17,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7145",
+   "title": "To amend title XIX of the Social Security Act to establish a definition of essential healt",
+   "sponsor_party": "D",
+   "n_cos": 25,
+   "dem_cos": 14,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8909",
+   "title": "To designate the facility of the United States Postal Service located at 15422 NY 104 in M",
+   "sponsor_party": "R",
+   "n_cos": 24,
+   "dem_cos": 18,
+   "dem_orig": 12,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 482",
+   "title": "No Tax on Tips Act",
+   "sponsor_party": "R",
+   "n_cos": 27,
+   "dem_cos": 7,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 31",
+   "title": "POLICE Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 20,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 327",
+   "title": "Valor Earned Not Stolen Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 12,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6475",
+   "title": "Preventing Child Trafficking Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 10,
+   "dem_cos": 3,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7033",
+   "title": "Federal Correctional Officer Paycheck Protection Act of 2026",
+   "sponsor_party": "D",
+   "n_cos": 50,
+   "dem_cos": 30,
+   "dem_orig": 11,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1330",
+   "title": "Smithsonian National Museum of the American Latino Act",
+   "sponsor_party": "R",
+   "n_cos": 130,
+   "dem_cos": 94,
+   "dem_orig": 15,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 27",
+   "title": "HALT Fentanyl Act",
+   "sponsor_party": "R",
+   "n_cos": 61,
+   "dem_cos": 2,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 7027",
+   "title": "Restore Veterans\u2019 Compensation Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 2,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3725",
+   "title": "Preventing the Abuse of Immigration Parole Act",
+   "sponsor_party": "R",
+   "n_cos": 27,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1085",
+   "title": "CARGO Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 29,
+   "dem_cos": 8,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1522",
+   "title": "Federal Retirement Fairness Act",
+   "sponsor_party": "D",
+   "n_cos": 157,
+   "dem_cos": 136,
+   "dem_orig": 20,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6099",
+   "title": "To designate the facility of the United States Postal Service located at 2200 South Salina",
+   "sponsor_party": "D",
+   "n_cos": 20,
+   "dem_cos": 15,
+   "dem_orig": 13,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1047",
+   "title": "GRID Power Act",
+   "sponsor_party": "R",
+   "n_cos": 17,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3095",
+   "title": "To direct the United States Postal Service to designate single, unique ZIP Codes for certa",
+   "sponsor_party": "R",
+   "n_cos": 33,
+   "dem_cos": 11,
+   "dem_orig": 7,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 2189",
+   "title": "To modernize Federal firearms laws to account for advancements in technology and less-than",
+   "sponsor_party": "R",
+   "n_cos": 95,
+   "dem_cos": 23,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 26",
+   "title": "Protecting American Energy Production Act",
+   "sponsor_party": "R",
+   "n_cos": 18,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 32",
+   "title": "No Bailout for Sanctuary Cities Act",
+   "sponsor_party": "R",
+   "n_cos": 21,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2610",
+   "title": "Protecting Options for Seniors Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 8,
+   "dem_cos": 5,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 452",
+   "title": "Miracle on Ice Congressional Gold Medal Act",
+   "sponsor_party": "R",
+   "n_cos": 299,
+   "dem_cos": 107,
+   "dem_orig": 18,
+   "law": true,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 22",
+   "title": "SAVE Act",
+   "sponsor_party": "R",
+   "n_cos": 110,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2172",
+   "title": "Preserving Patient Access to Home Infusion Act",
+   "sponsor_party": "R",
+   "n_cos": 30,
+   "dem_cos": 18,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6466",
+   "title": "Forced Abortion Prevention and Accountability Act",
+   "sponsor_party": "R",
+   "n_cos": 76,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2199",
+   "title": "Restore Protections for Dialysis Patients Act",
+   "sponsor_party": "R",
+   "n_cos": 90,
+   "dem_cos": 46,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1651",
+   "title": "To nullify the final rule issued by the Environmental Protection Agency relating to \"New S",
+   "sponsor_party": "R",
+   "n_cos": 37,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 877",
+   "title": "Deliver for Veterans Act",
+   "sponsor_party": "R",
+   "n_cos": 8,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 240",
+   "title": "Protect Local Farms Act",
+   "sponsor_party": "R",
+   "n_cos": 3,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1269",
+   "title": "Honoring Our Fallen Heroes Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 180,
+   "dem_cos": 132,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 283",
+   "title": "Panama Canal Repurchase Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 29,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9191",
+   "title": "National Fossil Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 9,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 296",
+   "title": "Justice for 9/11 Act",
+   "sponsor_party": "R",
+   "n_cos": 10,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1526",
+   "title": "NORRA of 2025",
+   "sponsor_party": "R",
+   "n_cos": 14,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1056",
+   "title": "To include the Czech Republic in the list of foreign states whose nationals are eligible f",
+   "sponsor_party": "D",
+   "n_cos": 26,
+   "dem_cos": 11,
+   "dem_orig": 8,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4072",
+   "title": "Pro Codes Act",
+   "sponsor_party": "R",
+   "n_cos": 5,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 645",
+   "title": "National Constitutional Carry Act",
+   "sponsor_party": "R",
+   "n_cos": 78,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 309",
+   "title": "National Law Enforcement Officers Remembrance, Support, and Community Outreach Act",
+   "sponsor_party": "R",
+   "n_cos": 124,
+   "dem_cos": 49,
+   "dem_orig": 10,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9026",
+   "title": "To designate the facility of the United States Postal Service located at 80 Atlantic Avenu",
+   "sponsor_party": "D",
+   "n_cos": 25,
+   "dem_cos": 18,
+   "dem_orig": 12,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 23",
+   "title": "Illegitimate Court Counteraction Act",
+   "sponsor_party": "R",
+   "n_cos": 38,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 323",
+   "title": "To designate the facility of the United States Postal Service located at 80 Prospect Stree",
+   "sponsor_party": "R",
+   "n_cos": 24,
+   "dem_cos": 18,
+   "dem_orig": 5,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 21",
+   "title": "Born-Alive Abortion Survivors Protection Act",
+   "sponsor_party": "R",
+   "n_cos": 163,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 35",
+   "title": "Agent Raul Gonzalez Officer Safety Act",
+   "sponsor_party": "R",
+   "n_cos": 32,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4299",
+   "title": "Protecting Patient Access to Cancer and Complex Therapies Act",
+   "sponsor_party": "R",
+   "n_cos": 55,
+   "dem_cos": 17,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9795",
+   "title": "Never Forget the Victims of Terrorism: Joseph D. Mistrulli and Alan Kleinberg USVSST Fund ",
+   "sponsor_party": "D",
+   "n_cos": 17,
+   "dem_cos": 7,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2429",
+   "title": "To direct the Secretary of Transportation to develop and implement a comprehensive Campus ",
+   "sponsor_party": "R",
+   "n_cos": 17,
+   "dem_cos": 10,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5408",
+   "title": "Faster Labor Contracts Act",
+   "sponsor_party": "D",
+   "n_cos": 110,
+   "dem_cos": 93,
+   "dem_orig": 13,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2398",
+   "title": "Rural Veterinary Workforce Act",
+   "sponsor_party": "R",
+   "n_cos": 65,
+   "dem_cos": 37,
+   "dem_orig": 7,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3657",
+   "title": "Hydropower Licensing Transparency Act",
+   "sponsor_party": "D",
+   "n_cos": 3,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": true,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4110",
+   "title": "The Organic Dairy Data Collection Act",
+   "sponsor_party": "D",
+   "n_cos": 6,
+   "dem_cos": 3,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1530",
+   "title": "American Victims of Terrorism Compensation Act",
+   "sponsor_party": "R",
+   "n_cos": 73,
+   "dem_cos": 46,
+   "dem_orig": 14,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 4474",
+   "title": "Equal Shot Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 45,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 2005",
+   "title": "DMEPOS Relief Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 25,
+   "dem_cos": 7,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1295",
+   "title": "Reorganizing Government Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 19,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 7815",
+   "title": "Red Star Service Banner Act",
+   "sponsor_party": "R",
+   "n_cos": 35,
+   "dem_cos": 15,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2548",
+   "title": "Sanctioning Russia Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 155,
+   "dem_cos": 92,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1041",
+   "title": "Veterans 2nd Amendment Protection Act",
+   "sponsor_party": "R",
+   "n_cos": 70,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 685",
+   "title": "SAVE Moms and Babies Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 80,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6100",
+   "title": "Health ACCESS Act",
+   "sponsor_party": "R",
+   "n_cos": 11,
+   "dem_cos": 6,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7008",
+   "title": "Stop Insider Trading Act",
+   "sponsor_party": "R",
+   "n_cos": 93,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3277",
+   "title": "Ensuring Lasting Smiles Act",
+   "sponsor_party": "R",
+   "n_cos": 211,
+   "dem_cos": 141,
+   "dem_orig": 16,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2343",
+   "title": "John W. Walsh Alpha-1 Home Infusion Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 60,
+   "dem_cos": 38,
+   "dem_orig": 4,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5438",
+   "title": "Incentivize Savings Act",
+   "sponsor_party": "R",
+   "n_cos": 69,
+   "dem_cos": 4,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6694",
+   "title": "To designate the facility of the United States Postal Service located at 130 North Winton ",
+   "sponsor_party": "D",
+   "n_cos": 25,
+   "dem_cos": 18,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 703",
+   "title": "Main Street Tax Certainty Act",
+   "sponsor_party": "R",
+   "n_cos": 192,
+   "dem_cos": 3,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1919",
+   "title": "Anti-CBDC Surveillance State Act",
+   "sponsor_party": "R",
+   "n_cos": 135,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 273",
+   "title": "REMAIN in Mexico Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 110,
+   "dem_cos": 2,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1266",
+   "title": "Combating Illicit Xylazine Act",
+   "sponsor_party": "D",
+   "n_cos": 114,
+   "dem_cos": 51,
+   "dem_orig": 17,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 925",
+   "title": "Dismantle DEI Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 109,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1065",
+   "title": "Protect Our Letter Carriers Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 231,
+   "dem_cos": 187,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 662",
+   "title": "Promoting Domestic Energy Production Act",
+   "sponsor_party": "R",
+   "n_cos": 43,
+   "dem_cos": 3,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 6130",
+   "title": "ASAP Act",
+   "sponsor_party": "R",
+   "n_cos": 230,
+   "dem_cos": 136,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2140",
+   "title": "Diesel Emissions Reduction Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 3,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 38",
+   "title": "Constitutional Concealed Carry Reciprocity Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 189,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 648",
+   "title": "Strengthening our Servicemembers with Milk Act",
+   "sponsor_party": "R",
+   "n_cos": 31,
+   "dem_cos": 2,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 4731",
+   "title": "Resident Physician Shortage Reduction Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 137,
+   "dem_cos": 123,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1661",
+   "title": "SAFE Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 238,
+   "dem_cos": 199,
+   "dem_orig": 85,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2036",
+   "title": "Credit for Caring Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 91,
+   "dem_cos": 46,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 516",
+   "title": "To amend the Internal Revenue Code of 1986 to modify the railroad track maintenance credit",
+   "sponsor_party": "R",
+   "n_cos": 183,
+   "dem_cos": 70,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1502",
+   "title": "North Platte Canteen Congressional Gold Medal Act",
+   "sponsor_party": "R",
+   "n_cos": 258,
+   "dem_cos": 74,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7371",
+   "title": "No Flight, No Fight Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 33,
+   "dem_cos": 16,
+   "dem_orig": 4,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 649",
+   "title": "Whole Milk for Healthy Kids Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 118,
+   "dem_cos": 38,
+   "dem_orig": 21,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 473",
+   "title": "SHOW UP Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 23,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 8330",
+   "title": "Stop Climate Shakedowns Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 24,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1102",
+   "title": "Commission To Study the Potential of a National Museum of Italian American History and Cul",
+   "sponsor_party": "D",
+   "n_cos": 53,
+   "dem_cos": 32,
+   "dem_orig": 5,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4708",
+   "title": "Spotted Lanternfly Research and Development Act",
+   "sponsor_party": "D",
+   "n_cos": 40,
+   "dem_cos": 24,
+   "dem_orig": 17,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 6137",
+   "title": "Recognizing the Role of Direct Support Professionals Act",
+   "sponsor_party": "R",
+   "n_cos": 50,
+   "dem_cos": 33,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7",
+   "title": "No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 128,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 842",
+   "title": "Nancy Gardner Sewell Medicare Multi-Cancer Early Detection Screening Coverage Act",
+   "sponsor_party": "R",
+   "n_cos": 338,
+   "dem_cos": 185,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3891",
+   "title": "Northern Border Security and Staffing Reform Act",
+   "sponsor_party": "R",
+   "n_cos": 10,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 2231",
+   "title": "Motorsports Fairness and Permanency Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 45,
+   "dem_cos": 14,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5589",
+   "title": "To name the Department of Veterans Affairs clinic located in Riverhead, New York, as the \"",
+   "sponsor_party": "R",
+   "n_cos": 11,
+   "dem_cos": 5,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 507",
+   "title": "Veterans Member Business Loan Act",
+   "sponsor_party": "D",
+   "n_cos": 72,
+   "dem_cos": 46,
+   "dem_orig": 13,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5588",
+   "title": "To designate the facility of the United States Postal Service located at 170 Main Street i",
+   "sponsor_party": "R",
+   "n_cos": 19,
+   "dem_cos": 13,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4669",
+   "title": "FEMA Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 99,
+   "dem_cos": 45,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8669",
+   "title": "To designate the facility of the United States Postal Service located at 5951 Riverdale Av",
+   "sponsor_party": "D",
+   "n_cos": 25,
+   "dem_cos": 18,
+   "dem_orig": 18,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1895",
+   "title": "Delphi Retirees Pension Restoration Act",
+   "sponsor_party": "R",
+   "n_cos": 20,
+   "dem_cos": 7,
+   "dem_orig": 4,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 9211",
+   "title": "Jewish American Security Act",
+   "sponsor_party": "D",
+   "n_cos": 99,
+   "dem_cos": 49,
+   "dem_orig": 14,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4709",
+   "title": "Newborn Screening Saves Lives Reauthorization Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 7,
+   "dem_cos": 4,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1329",
+   "title": "Smithsonian American Women\u2019s History Museum Act",
+   "sponsor_party": "R",
+   "n_cos": 231,
+   "dem_cos": 127,
+   "dem_orig": 35,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 8319",
+   "title": "KIDNEY Remote Monitoring Act",
+   "sponsor_party": "R",
+   "n_cos": 8,
+   "dem_cos": 4,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1301",
+   "title": "Death Tax Repeal Act",
+   "sponsor_party": "R",
+   "n_cos": 182,
+   "dem_cos": 2,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 3514",
+   "title": "Improving Seniors\u2019 Timely Access to Care Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 306,
+   "dem_cos": 170,
+   "dem_orig": 49,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7996",
+   "title": "Linemen Legacy Act",
+   "sponsor_party": "R",
+   "n_cos": 4,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5401",
+   "title": "Pay Our Troops Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 210,
+   "dem_cos": 81,
+   "dem_orig": 8,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1698",
+   "title": "Law Enforcement Protection and Privacy Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 25,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1707",
+   "title": "Grown in America Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 38,
+   "dem_cos": 10,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2540",
+   "title": "SSI Savings Penalty Elimination Act",
+   "sponsor_party": "D",
+   "n_cos": 41,
+   "dem_cos": 20,
+   "dem_orig": 4,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 909",
+   "title": "Crime Victims Fund Stabilization Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 327,
+   "dem_cos": 174,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 276",
+   "title": "Gulf of America Act",
+   "sponsor_party": "R",
+   "n_cos": 17,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 539",
+   "title": "Chiropractic Medicare Coverage Modernization Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 174,
+   "dem_cos": 75,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1262",
+   "title": "Mikaela Naylon Give Kids a Chance Act",
+   "sponsor_party": "R",
+   "n_cos": 313,
+   "dem_cos": 180,
+   "dem_orig": 5,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6096",
+   "title": "NEST Act",
+   "sponsor_party": "R",
+   "n_cos": 22,
+   "dem_cos": 11,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2596",
+   "title": "Renewable Natural Gas Incentive Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 10,
+   "dem_cos": 5,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6055",
+   "title": "SEMI Investment Act",
+   "sponsor_party": "R",
+   "n_cos": 11,
+   "dem_cos": 7,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3105",
+   "title": "Promotion and Expansion of Private Employee Ownership Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 65,
+   "dem_cos": 24,
+   "dem_orig": 4,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1706",
+   "title": "To designate the facility of the United States Postal Service located at 1200 William Stre",
+   "sponsor_party": "D",
+   "n_cos": 26,
+   "dem_cos": 19,
+   "dem_orig": 5,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4093",
+   "title": "Apples to Apples Comparison Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 25,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1672",
+   "title": "Maintaining Investments in New Innovation Act",
+   "sponsor_party": "D",
+   "n_cos": 51,
+   "dem_cos": 7,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 29",
+   "title": "Laken Riley Act",
+   "sponsor_party": "R",
+   "n_cos": 54,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8355",
+   "title": "Accountable Produce is Medicine Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 5,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6152",
+   "title": "Foreign Robocall Elimination Act",
+   "sponsor_party": "R",
+   "n_cos": 39,
+   "dem_cos": 18,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4792",
+   "title": "Protecting Air Ambulance Services for Americans Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 20,
+   "dem_cos": 9,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2491",
+   "title": "ABC Act",
+   "sponsor_party": "R",
+   "n_cos": 31,
+   "dem_cos": 18,
+   "dem_orig": 11,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 833",
+   "title": "Educational Choice for Children Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 91,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9473",
+   "title": "Defenders of Bataan and Corregidor Congressional Gold Medal Act",
+   "sponsor_party": "D",
+   "n_cos": 68,
+   "dem_cos": 33,
+   "dem_orig": 29,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1007",
+   "title": "Antisemitism Awareness Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 89,
+   "dem_cos": 26,
+   "dem_orig": 14,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 2042",
+   "title": "Space National Guard Establishment Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 18,
+   "dem_cos": 7,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4382",
+   "title": "America\u2019s Olympic and Paralympic Games Commemorative Coins Act",
+   "sponsor_party": "D",
+   "n_cos": 313,
+   "dem_cos": 152,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 589",
+   "title": "FACE Act Repeal Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 44,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 2902",
+   "title": "SOAR Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 69,
+   "dem_cos": 46,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2094",
+   "title": "HELPER Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 153,
+   "dem_cos": 101,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1576",
+   "title": "Protecting American Agriculture from Foreign Adversaries Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 60,
+   "dem_cos": 7,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 2725",
+   "title": "Affordable Housing Credit Improvement Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 168,
+   "dem_cos": 84,
+   "dem_orig": 59,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 10398",
+   "title": "CHC REBASE Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 14,
+   "dem_cos": 8,
+   "dem_orig": 6,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8195",
+   "title": "Responsible Cormorant Management and Control Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 5,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6190",
+   "title": "Tax Cuts for Veterans Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 7,
+   "dem_cos": 3,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 198",
+   "title": "SERVE Our Communities Act",
+   "sponsor_party": "R",
+   "n_cos": 6,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 6609",
+   "title": "Pharmacists Fight Back in Medicare and Medicaid Act",
+   "sponsor_party": "D",
+   "n_cos": 41,
+   "dem_cos": 16,
+   "dem_orig": 15,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8630",
+   "title": "PEAT Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 12,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6635",
+   "title": "Bus Operator Safety and Security Act",
+   "sponsor_party": "D",
+   "n_cos": 31,
+   "dem_cos": 22,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1628",
+   "title": "761st Tank Battalion Congressional Gold Medal Act",
+   "sponsor_party": "R",
+   "n_cos": 288,
+   "dem_cos": 98,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 373",
+   "title": "SAGA Act",
+   "sponsor_party": "R",
+   "n_cos": 4,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 4752",
+   "title": "Reducing Hereditary Cancer Act",
+   "sponsor_party": "D",
+   "n_cos": 34,
+   "dem_cos": 26,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7501",
+   "title": "Safe Flights for Passengers and Flight Crews Act",
+   "sponsor_party": "D",
+   "n_cos": 1,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 4008",
+   "title": "Pay Our Correctional Officers Fairly Act",
+   "sponsor_party": "R",
+   "n_cos": 15,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 10205",
+   "title": "REACH Our Tribes Act",
+   "sponsor_party": "D",
+   "n_cos": 1,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 987",
+   "title": "Fair Access to Banking Act",
+   "sponsor_party": "R",
+   "n_cos": 150,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2257",
+   "title": "National Fallen Firefighters Memorial Coin Act",
+   "sponsor_party": "R",
+   "n_cos": 47,
+   "dem_cos": 29,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6019",
+   "title": "To repeal certain provisions relating to notification to Senate offices regarding legal pr",
+   "sponsor_party": "R",
+   "n_cos": 39,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1548",
+   "title": "Leveling the Playing Field 2.0 Act",
+   "sponsor_party": "R",
+   "n_cos": 102,
+   "dem_cos": 42,
+   "dem_orig": 15,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1207",
+   "title": "To transfer the functions, duties, responsibilities, assets, liabilities, orders, determin",
+   "sponsor_party": "R",
+   "n_cos": 44,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5075",
+   "title": "GRACE Act",
+   "sponsor_party": "R",
+   "n_cos": 26,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 979",
+   "title": "AM Radio for Every Vehicle Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 317,
+   "dem_cos": 158,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7312",
+   "title": "No More SCAMS Act",
+   "sponsor_party": "R",
+   "n_cos": 4,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 8753",
+   "title": "Gas Tax Relief Act",
+   "sponsor_party": "R",
+   "n_cos": 2,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1993",
+   "title": "25th Anniversary of 9/11 Commemorative Coin Act",
+   "sponsor_party": "D",
+   "n_cos": 302,
+   "dem_cos": 199,
+   "dem_orig": 7,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 5883",
+   "title": "Safer Supervision Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 14,
+   "dem_cos": 2,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 404",
+   "title": "Hearing Protection Act",
+   "sponsor_party": "R",
+   "n_cos": 151,
+   "dem_cos": 1,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4541",
+   "title": "To reauthorize the Young Women\u2019s Breast Health Education and Awareness Requires Learning Y",
+   "sponsor_party": "D",
+   "n_cos": 20,
+   "dem_cos": 15,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4596",
+   "title": "McCarran-Walter Technical Corrections Act",
+   "sponsor_party": "D",
+   "n_cos": 4,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 5475",
+   "title": "No Tax on Overtime for All Workers Act",
+   "sponsor_party": "R",
+   "n_cos": 57,
+   "dem_cos": 29,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9298",
+   "title": "Stopping Harmful and Outrageous Torts Act",
+   "sponsor_party": "R",
+   "n_cos": 121,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 835",
+   "title": "9/11 Memorial and Museum Act",
+   "sponsor_party": "R",
+   "n_cos": 19,
+   "dem_cos": 8,
+   "dem_orig": 8,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1773",
+   "title": "Federal Firearms Licensee Protection Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 144,
+   "dem_cos": 4,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 3164",
+   "title": "Ensuring Community Access to Pharmacist Services Act",
+   "sponsor_party": "R",
+   "n_cos": 143,
+   "dem_cos": 63,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3616",
+   "title": "Reliable Power Act",
+   "sponsor_party": "R",
+   "n_cos": 20,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5267",
+   "title": "American Franchise Act",
+   "sponsor_party": "R",
+   "n_cos": 158,
+   "dem_cos": 17,
+   "dem_orig": 7,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1940",
+   "title": "Tanning Tax Repeal Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 26,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1217",
+   "title": "Orphan Well Grant Flexibility Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 4,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6222",
+   "title": "ROTOR Act",
+   "sponsor_party": "R",
+   "n_cos": 32,
+   "dem_cos": 20,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 10162",
+   "title": "STORMWATER Act",
+   "sponsor_party": "D",
+   "n_cos": 5,
+   "dem_cos": 3,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 203",
+   "title": "Red Light Act",
+   "sponsor_party": "R",
+   "n_cos": 4,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1941",
+   "title": "Preventing Deepfakes of Intimate Images Act",
+   "sponsor_party": "D",
+   "n_cos": 12,
+   "dem_cos": 9,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 6960",
+   "title": "Thomas M. Conway Veterans Access to Resources in the Workplace Act",
+   "sponsor_party": "D",
+   "n_cos": 14,
+   "dem_cos": 6,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2509",
+   "title": "COMPLETE Care Act",
+   "sponsor_party": "R",
+   "n_cos": 32,
+   "dem_cos": 17,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2496",
+   "title": "Dairy Nutrition Incentive Program Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 23,
+   "dem_cos": 8,
+   "dem_orig": 4,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 1809",
+   "title": "Great Lakes Fishery Research Reauthorization Act",
+   "sponsor_party": "D",
+   "n_cos": 10,
+   "dem_cos": 5,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3207",
+   "title": "DEFENSE Act",
+   "sponsor_party": "R",
+   "n_cos": 10,
+   "dem_cos": 4,
+   "dem_orig": 3,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1410",
+   "title": "9/11 Responder and Survivor Health Funding Correction Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 133,
+   "dem_cos": 107,
+   "dem_orig": 16,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 361",
+   "title": "Make Greenland Great Again Act",
+   "sponsor_party": "R",
+   "n_cos": 16,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 5106",
+   "title": "Restore Trust in Congress Act",
+   "sponsor_party": "R",
+   "n_cos": 144,
+   "dem_cos": 108,
+   "dem_orig": 8,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4768",
+   "title": "Health Care Fairness for Military Families Act of 2025",
+   "sponsor_party": "D",
+   "n_cos": 83,
+   "dem_cos": 62,
+   "dem_orig": 33,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3946",
+   "title": "FIGHT Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 150,
+   "dem_cos": 87,
+   "dem_orig": 23,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2279",
+   "title": "No Tax on LOSAP Act",
+   "sponsor_party": "R",
+   "n_cos": 6,
+   "dem_cos": 3,
+   "dem_orig": 2,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 9304",
+   "title": "Juice Access Improvement Act",
+   "sponsor_party": "R",
+   "n_cos": 5,
+   "dem_cos": 1,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 4620",
+   "title": "To amend title 18, United States Code, to include rioting in the definition of racketeerin",
+   "sponsor_party": "R",
+   "n_cos": 75,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1566",
+   "title": "REPAIR Act",
+   "sponsor_party": "R",
+   "n_cos": 44,
+   "dem_cos": 22,
+   "dem_orig": 8,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 1229",
+   "title": "United States-Israel Defense Partnership Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 178,
+   "dem_cos": 89,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3628",
+   "title": "State Planning for Reliability and Affordability Act",
+   "sponsor_party": "R",
+   "n_cos": 1,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": true
+  },
+  {
+   "bill": "H.R. 9305",
+   "title": "Juice for Healthy Families Act of 2026",
+   "sponsor_party": "R",
+   "n_cos": 5,
+   "dem_cos": 2,
+   "dem_orig": 1,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 7300",
+   "title": "Make Elections Great Again Act",
+   "sponsor_party": "R",
+   "n_cos": 70,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 2442",
+   "title": "Freedom from Unfair Gun Taxes Act of 2025",
+   "sponsor_party": "R",
+   "n_cos": 104,
+   "dem_cos": 0,
+   "dem_orig": 0,
+   "law": false,
+   "lw_orig": false
+  },
+  {
+   "bill": "H.R. 3204",
+   "title": "BASIC ACT",
+   "sponsor_party": "R",
+   "n_cos": 23,
+   "dem_cos": 13,
+   "dem_orig": 10,
+   "law": false,
+   "lw_orig": true
+  }
+ ]
+}
