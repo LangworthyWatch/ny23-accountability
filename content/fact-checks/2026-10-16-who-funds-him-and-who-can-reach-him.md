@@ -150,6 +150,15 @@ carried the notice: four on the official page ("Congressman Nick
 Langworthy") and three on the campaign page ("Nick Langworthy"), dated
 from about November 6 through November 11.
 
+**When it started.** The setting was applied on the afternoon of November
+10. This site's account watched commenting stop that afternoon, and the
+comment timestamps agree. Viewed logged out at about 8:30 a.m. on
+November 11, the newest visible comment on any of these posts was about
+17 hours old, which places it in mid-to-late afternoon on November 10.
+None appears after that. Posts from earlier in the week were limited at
+the same time, and the posts published since have been limited from the
+start.
+
 | Page | Post | Posted |
 |---|---|---|
 | Official | Casework update ("1,400+ cases... $5.6 million") | November 9 |
@@ -183,9 +192,27 @@ night, November 4, he told supporters to "take a stroll through to the
 Facebook comments and you can see how noisy it's been," as transcribed
 from the campaign page's video in [the election-returns entry](/fact-checks/2026-11-04-mandate-claim-election-returns/).
 
-**In plain language:** constituents can still call, write, email, or open
-a casework request, and his office reports more than 1,400 cases opened in
-2026. What changed is the one public place where they could answer his
+**How constituents can reach him now.** His website lists five offices
+and their phone numbers:
+
+| Office | Phone |
+|---|---|
+| Washington, 422 Cannon House Office Building | (202) 225-3161 |
+| Jamestown, 2-6 East Second Street | (716) 488-8111 |
+| Olean, 1 Bluebird Square | (585) 543-5033 |
+| Elmira, 203 Lake Street | (607) 377-3130 |
+| Clarence (Williamsville), 8201 Main Street | (716) 547-6844 |
+
+There is no public email address. Email goes through a web form, and the
+site first asks visitors to "enter your address to verify residency
+within the district"; the address "must be recognized by the United
+States Postal Service." That kind of check is common in the House: Rep.
+Nick LaLota's site uses the same address step, and Rep. Paul Tonko's asks
+for a ZIP+4 code before its form.
+
+**In plain language:** constituents can still call, write, or email
+through the form, and his office reports more than 1,400 casework cases
+opened in 2026. What changed is the one public place where they could answer his
 posts in front of other constituents. On both pages, commenting is now
 limited, and Facebook does not say to whom.
 

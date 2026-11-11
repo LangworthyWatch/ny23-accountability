@@ -26,3 +26,9 @@ Interpretation limit: Facebook's "limited who can comment" setting lets a page r
 
 ## Related on-record quote
 Nov 4, 2026 election-night speech (campaign page video 1603356494328061; transcript in research/sources/election-results-2026-11-04/videos/): "take a stroll through to the Facebook comments and you can see how noisy it's been but the truth prevailed tonight".
+
+## Added Nov 11, afternoon
+- User (site account "LW"): commenting stopped the afternoon of Nov 10, and the LW account follows him and cannot comment. OPEN: which page the LW account follows. Screenshot 45 (official Veterans Day video) shows a "Follow" button beside the official page name, so the account may not follow the official page. The follower point is held out of the entry until confirmed.
+- Timestamp corroboration (logged-out fetch ~8:30 AM Nov 11): newest visible comments were "17h", i.e. ~3:30-4:30 PM Nov 10. Official Jordan post (3:37 PM) top comment 17h; campaign Jordan post (2:55 PM) comments 17h and 18h; casework post newest 19h.
+- Contact page: langworthy.house.gov/contact redirects to address_authentication ("Please enter your address to verify residency within the district"; "Address as entered must be recognized by the United States Postal Service (USPS)"). Offices: DC 422 Cannon (202) 225-3161; Jamestown (716) 488-8111; Olean (585) 543-5033; Elmira 203 Lake St (607) 377-3130; Clarence/Williamsville 8201 Main St Suite 13 (716) 547-6844. Retained: house-*.html.
+- Peers: lalota.house.gov/contact also redirects to address_authentication; tonko.house.gov/contact asks for ZIP+4 first. Tenney, Malliotakis, Morelle, Riley: no address-check text found on /contact by grep (their forms may ask elsewhere; not claimed either way).
