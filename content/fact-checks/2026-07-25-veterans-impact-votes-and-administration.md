@@ -1,6 +1,7 @@
 ---
 title: "Making Veterans Faster Than We Care For Them: The War, the Count, and the System Waiting for Them"
 date: 2026-07-25
+lastmod: 2026-11-11
 slug: "veterans-record"
 draft: false
 topic: "Veterans"
@@ -550,7 +551,7 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 | Why no veterans communication was issued May–July 2026 | Unexplained |
 | Whether he has raised the casualty-reporting discrepancy in the Oversight Committee | No hearing request, committee letter, or statement located |
 | Whether he has raised VA staffing caps or the claims backlog in Oversight | None located |
-| Whether he will sign the discharge petition on the Major Richard Star Act | Has not signed; 215 of 218 signatures |
+| Why he did not sign the discharge petition on the Major Richard Star Act, which he cosponsors, or vote on the discharge motion | Petition reached 218 on Sept. 15, 2026 without his signature; he did not vote on the Nov. 11 motion (see update below) |
 | CBO score for H.R. 9237 | None located; the bill's record shows no markup and no committee report |
 
 *Editorial status at publication.* This entry was published on July 29, 2026 with three
@@ -562,6 +563,19 @@ to carry it. The Senate casualty-reporting response is due July 30, 2026 and cou
 the killed and wounded figures in Section B. The 10,000 foreclosure count is ICE Mortgage
 Technology data reported by NPR on April 2, 2026, the most recent public cumulative figure;
 the next refresh point is the Mortgage Bankers Association's Q2 2026 survey in mid-August.
+
+**Update, November 11, 2026:** The discharge petition on the Major Richard Star Act
+(Discharge Petition No. 22, on H.Res. 1247) reached 218 signatures on September 15, 2026.
+Five Republicans signed it. Rep. Langworthy is not on the list, although he has been an
+original cosponsor of the bill (H.R. 2102) since March 14, 2025. On November 11, 2026, the
+House adopted the motion to discharge, 245 to 175 (Roll Call 320); 34 Republicans and every
+Democrat voting supported it. The Clerk records him as not voting. He voted on the next roll
+call that afternoon (Roll Call 321, 2:43 PM). The motion moves the rule for H.R. 2102 out of
+the Rules Committee, where he sits; the House has not yet voted on the bill itself. Sources:
+[Clerk, Discharge Petition No. 22](https://clerk.house.gov/DischargePetition/2026052122);
+[Roll Call 320](https://clerk.house.gov/Votes/2026320);
+[Roll Call 321](https://clerk.house.gov/Votes/2026321);
+[H.R. 2102 BILLSTATUS](https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2102.xml).
 
 ---
 

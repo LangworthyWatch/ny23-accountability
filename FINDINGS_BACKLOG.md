@@ -1908,6 +1908,6 @@ Floor that day: he is recorded on all ten Sept 15 roll calls (4:46-5:27 PM and 9
 
 ## 2026-11-11: first post-election votes (research/sources/votes-2026-11-10/README.md)
 - [ ] **Hegseth impeachment referral, Roll 317 (Nov 10).** He voted yea on Issa's motion to refer Massie's privileged H.Res. 1655 to Judiciary; it passed 211-204. Watch both Facebook pages for any statement about it. A statement is what would make this an entry; the vote alone is a record item. It fits the war-powers section of the veterans-record entry (eight war powers votes, all No) if he comments.
-- [ ] **Missed-votes refresh (Phase 3, early January).** Since the July 21 cutoff he has cast 46 of 47 votes; the one miss is roll 297, Sept 14, 2026 (H.R. 3276). This cuts in his favor, and the refresh should say so.
+- [ ] **Missed-votes refresh (Phase 3, early January).** Since the July 21 cutoff he has cast 47 of 49 votes (through roll 321, Nov 11, 2026); the misses are roll 297, Sept 14, 2026 (H.R. 3276) and roll 320, Nov 11, 2026 (motion to discharge H.Res. 1247, the Major Richard Star Act rule; he is an original cosponsor of H.R. 2102 and did not sign Discharge Petition 22). Attendance still cuts in his favor, and the refresh should say so; the Nov 11 miss belongs in the veterans entry, already updated.
 - [ ] Nuclear bills H.R. 3978 and H.R. 9612 passed Nov 9 (E&C jurisdiction; he's on the Energy subcommittee; not a cosponsor of either). Watch for credit-claim posts.
 - [ ] Wayback: roll 297 save returned 429; retry.
