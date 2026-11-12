@@ -1,7 +1,7 @@
 ---
 title: "Federal Preemption Pattern: Three Bills, One Playbook"
 date: 2026-02-25
-lastmod: 2026-08-28
+lastmod: 2026-11-12
 draft: false
 topic: "Transparency"
 claim_date: "February 2026"
@@ -50,7 +50,9 @@ The rhetorical framing across all three efforts is nearly identical:
 
 ### 1. Dietary Supplement Regulatory Uniformity Act (H.R. 7366)
 
-**What it does:** Amends the Federal Food, Drug, and Cosmetic Act to establish FDA as the sole regulatory authority for dietary supplements, preempting state laws that go further.
+**What it does:** Amends the Federal Food, Drug, and Cosmetic Act to bar any state or local requirement on a dietary supplement that differs from or adds to the federal requirements. A state can apply to the HHS Secretary for an exemption for a requirement that is more stringent than federal law (see the [November 12, 2026 update](#update-november-12-2026-my-bill-creates-a-national-regulatory-framework)).
+
+*Clarified November 12, 2026: an earlier version of this line said the bill would "establish FDA as the sole regulatory authority" and did not mention the bill's exemption process.*
 
 **What it preempts:** New York's 2024 law (S5823C) banning the sale of weight-loss and muscle-building supplements to minors under 18. Similar legislation has been introduced or considered in California, Illinois, Maryland, Massachusetts, Michigan, New Jersey, and other states.
 
@@ -66,6 +68,32 @@ The rhetorical framing across all three efforts is nearly identical:
 **A relevant distinction:** The FDA does not pre-approve dietary supplements for safety or efficacy before they reach the market. States that enacted supplement regulations did so because federal oversight does not include pre-market review — the gap these state laws were designed to address.
 
 **The money, added August 28, 2026:** FEC bulk filings show the **Natural Products Association PAC gave Langworthy for Congress $5,000 on March 26, 2026** — seven weeks after he introduced the bill the association had endorsed on day one, and its only contribution to him in the 2022, 2024 or 2026 cycles. NPA is also the trade group that **sued New York in December 2023** to strike down the very law this bill would preempt; that suit was dismissed and the law took effect in April 2024. The Consumer Healthcare Products Association PAC, another endorser, gave $2,000 across the 2026 cycle and $2,500 in 2024. No agreement or exchange is alleged; the contributions are lawful and publicly disclosed. The sequence is recorded here for the same reason as the rest of this entry: the bill's press release quotes the trade associations as policy validators and does not note that they are also donors — and in NPA's case, a litigant that lost in court and gained a sponsor in Congress.
+
+### Update, November 12, 2026: "My bill creates a national regulatory framework"
+
+On November 12, 2026, his official Facebook page ("Congressman Nick Langworthy") posted a 36-second reel about H.R. 7366, captioned:
+
+> "More Americans than ever are incorporating supplements into their health and wellness routines and it's a growing, multi-billion dollar industry. My bill creates a national regulatory framework versus a patchwork of bad laws. It's common sense legislation to ensure vitamins and supplements are safe, effective, accessible and affordable."
+
+The video is a One America News segment, chyron "New Calif. law requires ID to buy creatine." The speaker is a guest, not Rep. Langworthy, and no name appears on screen in the clip. The guest says the bill "would make federal dietary supplement standards the supreme law of the land" and that it "is going to get reintroduced next year."
+
+**What the bill contains.** The introduced text has one operative section. It adds a subsection to 21 U.S.C. 343-1 that bars any state or local requirement on a dietary supplement "which is different from, or in addition to, or that is not otherwise identical with" a federal requirement. A state may apply for an exemption, which the HHS Secretary can grant by regulation after notice and a hearing, if its requirement is more stringent than federal law, or if it addresses a compelling local condition without putting the product out of federal compliance. The bill adds no federal standard, registration, testing or review.
+
+**Where it stands.** The bill got a legislative hearing. It was one of 27 bills before the Energy and Commerce Health Subcommittee on April 29, 2026, at "Healthier America: Legislative Proposals on the Regulation and Oversight of Food." Congress.gov, read November 12, shows no action since the February 4 referral and no cosponsors. The 119th Congress ends January 3, 2027, and a bill that has not passed by then has to be reintroduced, which is what the guest says will happen.
+
+At the April 29 hearing, the Association of Food and Drug Officials, which represents state and local regulators, asked the subcommittee to apply preemption "carefully and deliberately." Its testimony covered preemption across the bills on the agenda and did not name H.R. 7366.
+
+| Claim | Finding |
+|---|---|
+| "My bill creates a national regulatory framework" | **MISSING CONTEXT.** "National" is accurate: the bill would make the federal rules the only rules, subject to state exemptions. It creates no new rules. The federal framework it would make exclusive already exists under the 1994 Dietary Supplement Health and Education Act. |
+| "Ensure vitamins and supplements are safe, effective" | **NOT SUPPORTED.** The bill contains no safety or effectiveness provision. Under current law, the FDA says it "does NOT have the authority to approve dietary supplements for safety and effectiveness" before they are sold. The bill leaves that unchanged. |
+| "Accessible and affordable," "a patchwork of bad laws" | Not rated. These are policy arguments. Fewer state rules could lower compliance costs; the post cites no cost figure. |
+
+**The fair reading:** one national rule is a real policy goal, and the state regulators' testimony says preemption can be valuable when it is narrowly scoped and the federal government fully takes on the standard. The bill's exemption process gives states a route to keep stricter rules. A stricter New York rule, such as the ban on sales to minors, could stand only if the HHS Secretary granted New York an exemption.
+
+*In plain language:* the bill would make federal supplement rules replace state ones, with a way for states to ask for exceptions. It adds no new federal check that supplements are safe or that they work.
+
+**Sources for this update:** H.R. 7366 introduced text, GPO: https://www.govinfo.gov/content/pkg/BILLS-119hr7366ih/html/BILLS-119hr7366ih.htm (archived: https://web.archive.org/web/20260710191828/https://www.govinfo.gov/content/pkg/BILLS-119hr7366ih/html/BILLS-119hr7366ih.htm); Congress.gov, H.R. 7366 all actions (read November 12, 2026): https://www.congress.gov/bill/119th-congress/house-bill/7366/all-actions; Energy and Commerce Health Subcommittee hearing, April 29, 2026: https://www.congress.gov/event/119th-congress/house-event/119246; Association of Food and Drug Officials testimony, April 29, 2026: https://www.congress.gov/119/meeting/house/119246/witnesses/HHRG-119-IF14-Wstate-MandernachS-20260429.pdf (archived: https://web.archive.org/web/20261112195032/https://www.congress.gov/119/meeting/house/119246/witnesses/HHRG-119-IF14-Wstate-MandernachS-20260429.pdf); FDA, "FDA 101: Dietary Supplements": https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements (archived: https://web.archive.org/web/20261104022126/https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements). The reel (facebook.com/reel/1661985752193738) cannot be archived; its audio, metadata, transcript and frames are retained under research/sources/triage-2026-11-12/videos/.
 
 **Sources:** [Congress.gov — H.R. 7366](https://www.congress.gov/bill/119th-congress/house-bill/7366/text), [NY Senate — S5823C](https://www.nysenate.gov/legislation/bills/2023/S5823/amendment/C), [CRN endorsement](https://www.crnusa.org/newsroom/crn-applauds-introduction-dietary-supplement-regulatory-uniformity-act), [Harvard T.H. Chan SPH](https://content.sph.harvard.edu/wwwhsph/sites/1267/2021/02/Restricting-Sale-of-Weight-Loss-and-Muscle-Building-Supplements.pdf)
 
@@ -240,6 +268,8 @@ it for ten years. The Senate removed that provision 99 to 1.
 
 4. The New York supplement law specifically targets sales to minors. Has Rep. Langworthy stated a position on whether age restrictions on supplement sales are appropriate at any level of government?
 
+5. If H.R. 7366 is reintroduced in 2027, will it add any federal safety or effectiveness standard, as his November 12, 2026 post describes?
+
 ---
 
 ## Sources
@@ -284,4 +314,4 @@ it for ten years. The Senate removed that provision 99 to 1.
 
 **Note:** This entry documents publicly available legislative records, press releases, and industry endorsements. Readers may draw their own conclusions.
 
-*Last updated: September 23, 2026 (September update: the May 2025 AI-moratorium vote, BUSES Act, AM Radio Act, and the September 23 statement)*
+*Last updated: November 12, 2026 (November update: his November 12 supplements reel, the bill text and the April 29 hearing). Previous update: September 23, 2026 (the May 2025 AI-moratorium vote, BUSES Act, AM Radio Act, and the September 23 statement)*
