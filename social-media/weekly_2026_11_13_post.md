@@ -1,4 +1,4 @@
-# DRAFT Nov 13, 2026 (pilot week 1: weekly roundup; votes refreshed through roll 323, Nov 12. If the House votes again Nov 13, refresh before posting.)
+# POSTED Nov 13, 2026 (pilot week 1: weekly roundup; votes through roll 323, Nov 12; House not in session Nov 13)
 # Card: weekly_2026_11_13_card.png (create_weekly_2026_11_13_card.py, v2 template C)
 
 This week in NY-23, week of November 9.
