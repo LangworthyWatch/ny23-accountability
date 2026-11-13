@@ -1,7 +1,7 @@
 ---
 title: "Making Veterans Faster Than We Care For Them: The War, the Count, and the System Waiting for Them"
 date: 2026-07-25
-lastmod: 2026-11-11
+lastmod: 2026-11-12
 slug: "veterans-record"
 draft: false
 topic: "Veterans"
@@ -551,7 +551,7 @@ On **July 23, 2026** — the same day the House passed its second resolution to 
 | Why no veterans communication was issued May–July 2026 | Unexplained |
 | Whether he has raised the casualty-reporting discrepancy in the Oversight Committee | No hearing request, committee letter, or statement located |
 | Whether he has raised VA staffing caps or the claims backlog in Oversight | None located |
-| Why he did not sign the discharge petition on the Major Richard Star Act, which he cosponsors, or vote on the discharge motion | Petition reached 218 on Sept. 15, 2026 without his signature; he did not vote on the Nov. 11 motion (see update below) |
+| Why he did not sign the discharge petition on the Major Richard Star Act, which he cosponsors, vote on the discharge motion, or support the rule | Petition reached 218 on Sept. 15, 2026 without his signature; he did not vote on the Nov. 11 motion and voted against the Nov. 12 rule, then for the bill (see updates below) |
 | CBO score for H.R. 9237 | None located; the bill's record shows no markup and no committee report |
 
 *Editorial status at publication.* This entry was published on July 29, 2026 with three
@@ -576,6 +576,16 @@ the Rules Committee, where he sits; the House has not yet voted on the bill itse
 [Roll Call 320](https://clerk.house.gov/Votes/2026320);
 [Roll Call 321](https://clerk.house.gov/Votes/2026321);
 [H.R. 2102 BILLSTATUS](https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr2102.xml).
+
+**Update, November 12, 2026:** The House took up the bill the next morning. On the rule
+bringing H.R. 2102 to the floor (H.Res. 1247), Rep. Langworthy voted **Nay**. The rule was
+adopted 271 to 135 (Roll Call 322); Republicans voting split 60 in favor and 135 against, and
+every Democrat voting supported it. On final passage of the Major Richard Star Act about an
+hour later, he voted **Yea**. It passed 392 to 18 (Roll Call 323), with 181 Republicans in
+favor. The bill now goes to the Senate. He has not said publicly why he opposed the rule; this
+site has not located a statement. Sources:
+[Roll Call 322](https://clerk.house.gov/evs/2026/roll322.xml) (archived: https://web.archive.org/web/20261113131647/https://clerk.house.gov/evs/2026/roll322.xml);
+[Roll Call 323](https://clerk.house.gov/evs/2026/roll323.xml) (archived: https://web.archive.org/web/20261113020257/https://clerk.house.gov/evs/2026/roll323.xml).
 
 ---
 
