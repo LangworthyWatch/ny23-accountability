@@ -1,4 +1,4 @@
-# DRAFT Nov 14, 2026 (entry 2026-11-13-who-drew-ny23-redistricting, MOSTLY TRUE)
+# POSTED Nov 14, 2026 (entry 2026-11-13-who-drew-ny23-redistricting, MOSTLY TRUE)
 # Card: who_drew_ny23_card.png (create_who_drew_ny23_card.py, v2 template B with HELD UP)
 
 Is NY-23 gerrymandered? On the record, no. And Rep. Langworthy's description of the 2022 map holds up.
