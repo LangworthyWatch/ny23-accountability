@@ -732,6 +732,7 @@ small, .text-small {
 .card-title {
   font-size: var(--font-size-lg);
   font-weight: var(--font-weight-semibold);
+  margin-top: 0;   /* the global h3 rule adds space-8 on top of the card padding */
   margin-bottom: var(--space-2);
   transition: color var(--transition-fast);
 }
