@@ -10,3 +10,5 @@ A quarterly report on documented economic, healthcare, energy, and agricultural 
 **Method:** Every condition is classified by attribution confidence — from Tier 1 (the affected party or a government filing names the cause) through projected (modeled but not yet realized) to unattributed (real losses whose causes are contested, multi-causal, or non-policy). Each issue includes a mandatory section listing significant district losses that **cannot** be attributed to federal policy. The goal is attribution, not aggregation: a report that attributes less and documents more.
 
 Conditions are presented first; the representative's record follows them.
+
+**Background for every issue:** [Know NY-23](/know-ny23/) profiles the district on its current lines: its age, population change, jobs, income, and how much of its income comes from Social Security, Medicare, Medicaid, SNAP and other benefits. Census and Bureau of Economic Analysis data, compared with New York and the nation.
