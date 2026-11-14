@@ -34,7 +34,8 @@
     <p class="card-summary">{{ . }}</p>
     {{ else }}
     {{ with .Summary }}
-    <p class="card-summary">{{ . | truncate 150 }}</p>
+    {{/* Plain text: drop headings ("Why this matters"), then tags, so cards hold no block HTML or nested links */}}
+    <p class="card-summary">{{ . | replaceRE `(?s)<h[1-6][^>]*>.*?</h[1-6]>` "" | plainify | htmlUnescape | truncate 150 }}</p>
     {{ end }}
     {{ end }}
 
