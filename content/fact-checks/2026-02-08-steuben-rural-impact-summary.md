@@ -16,6 +16,8 @@ counties: ["steuben"]
 
 This summary connects the dots between federal policy votes in Washington and what's actually happening on the ground in Steuben County — where 1 in 8 residents depends on SNAP, flood maps haven't been updated since 1991, and the Bath VA serves 33,000 veterans. The dollar figures in Langworthy's press releases are often accurate; what's missing is the broader context of policy choices that simultaneously threaten the same systems those announcements celebrate.
 
+*District note, added November 13, 2026: since January 2025, under the Legislature's 2024 map, seven northeastern Steuben towns (Avoca, Cohocton, Dansville, Prattsburgh, Pulteney, Wayland and Wheeler) are in NY-24, not NY-23. The Prattsburgh and Cohocton awards discussed here were announced in 2024, when those towns were in his district. County-wide figures on this page cover all of Steuben. See [who drew NY-23](/fact-checks/2026-11-13-who-drew-ny23-redistricting/).*
+
 ---
 
 ## What keeps rural systems running
@@ -109,4 +111,4 @@ Rural residents don't need to be told what to think. They need the full picture 
 
 **Note:** This summary draws entirely from the sourced analysis in the [full ten-claim review](/fact-checks/2026-02-08-steuben-credit-claiming-pattern/). All findings are based on public records, county government proceedings, and federal agency data.
 
-*Last updated: February 8, 2026*
+*Last updated: February 8, 2026 (district note added November 13, 2026)*

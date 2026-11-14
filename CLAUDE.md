@@ -59,7 +59,9 @@ Use these standardized verdicts:
 - **NOT SUPPORTED** - Claim lacks evidence
 
 ### NY-23 Counties (for county tags)
-Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Schuyler, Steuben, Tioga
+Allegany, Cattaraugus, Chautauqua, Chemung, Erie, Niagara, Schuyler, Steuben, Tioga
+
+Current lines are the Legislature's 2024 map (Chapter 92 of 2024), used in 2024 and 2026; the 2022 election used the court-drawn map. Whole counties: Allegany, Cattaraugus, Chautauqua, Chemung, Tioga. Partial: Erie (about 81% of land), Steuben (about 78%; Avoca, Cohocton, Dansville, Prattsburgh, Pulteney, Wayland and Wheeler are in NY-24), Schuyler (about 49%; Catharine, Cayuta, Dix, Montour and Orange are in NY-23; Hector, Reading and Tyrone are in NY-24), Niagara (about 10%; Pendleton plus parts of the towns of Lockport and Wheatfield). Lackawanna and West Seneca are in NY-26. Source: Census CD119 relationship files; see `research/sources/redistricting-2026-11-13/` and the entry `2026-11-13-who-drew-ny23-redistricting.md`. When an entry gives a county-wide figure for Steuben, Schuyler, Erie or Niagara, say that only part of the county is in the district.
 
 ### Frontmatter: `archive_note` and `hold_reason` (added 2026-07-17)
 
@@ -611,6 +613,7 @@ curl -sSI -m 10 "https://langworthywatch.org/fact-checks/<slug>/" | head -1
 | Chautauqua | — | Not started |
 | Erie | — | Not started (partial district overlap) |
 | Schuyler | — | Not started |
+| Niagara | — | Not started (partial: Pendleton, parts of Lockport and Wheatfield) |
 
 ---
 
