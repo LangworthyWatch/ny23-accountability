@@ -1,0 +1,41 @@
+Measure                                                         NY-23             New York                   US  rank/26 (1=highest)
+Population                                            763,548 ± 7,139       20,002,427 ± 0      341,784,859 ± 0  19
+Median age                                                 44.5 ± 0.7           39.8 ± 0.1           39.5 ± 0.1  2
+Age 65+ (% of pop.)                                       23.8% ± 0.7          19.3% ± 0.1          19.0% ± 0.0  1
+Under 18 (% of pop.)                                      19.5% ± 0.6          19.5% ± 0.1          21.0% ± 0.0  12
+White, non-Hispanic (%)                                   87.3% ± 0.6          50.3% ± 0.1          55.0% ± 0.0  1
+Median household income                               $78,436 ± 3,395        $89,210 ± 934        $84,780 ± 215  15
+Per capita income                                     $44,210 ± 1,313        $53,067 ± 471        $47,171 ± 115  14
+Below poverty (% of people)                               11.4% ± 0.9          13.8% ± 0.3          11.8% ± 0.1  18
+Households with Social Security income (%)                39.7% ± 1.0          33.0% ± 0.2          32.9% ± 0.1  4
+Households with SSI (%)                                    6.1% ± 0.8           6.3% ± 0.2           5.1% ± 0.0  12
+Households receiving SNAP (%)                             13.3% ± 1.0          15.9% ± 0.3          11.5% ± 0.1  14
+People with Medicaid/means-tested coverage (%)            19.7% ± 0.8          25.7% ± 0.2          16.6% ± 0.1  19
+People with Medicare (%)                                  25.1% ± 0.5          19.8% ± 0.1          19.6% ± 0.0  2
+Uninsured (%)                                              3.4% ± 0.3           4.7% ± 0.1           8.4% ± 0.0  19
+Veterans (% of adults)                                     7.5% ± 0.5           3.3% ± 0.1           5.9% ± 0.0  2
+Bachelor's degree or higher (% of 25+)                    31.6% ± 1.2          42.0% ± 0.3          37.4% ± 0.1  21
+Homeowners (% of households)                              76.4% ± 0.9          54.0% ± 0.3          65.3% ± 0.2  5
+Median home value                                    $209,900 ± 5,435     $470,900 ± 5,866       $371,100 ± 646  26
+Households with broadband of any type (%)                 92.6% ± 0.6          93.6% ± 0.2          94.0% ± 0.1  20
+Households with no internet access (%)                     5.3% ± 0.7           4.5% ± 0.2           4.0% ± 0.0  9
+Unemployment rate (civilian labor force)                   3.7% ± 0.5           5.6% ± 0.2           4.9% ± 0.0  25
+Workers who drove alone (%)                               77.8% ± 1.3          48.3% ± 0.3          69.8% ± 0.1  1
+
+Industry (civilian employed 16+), NY-23 vs NY vs US; rank of NY-23 share among 26 NY districts
+  Agriculture, forestry, fishing and hunting, and mining         1.3 ±0.3  NY   0.5  US   1.4  rank 4
+  Construction                                                   6.9 ±0.8  NY   5.4  US   6.7  rank 7
+  Manufacturing                                                 12.2 ±1.0  NY   5.5  US   9.6  rank 2
+  Wholesale trade                                                1.5 ±0.4  NY   1.6  US   1.9  rank 15
+  Retail trade                                                  10.8 ±0.9  NY   9.3  US  10.6  rank 7
+  Transportation and warehousing, and utilities                  5.2 ±0.6  NY   5.6  US   5.9  rank 14
+  Information                                                    0.9 ±0.3  NY   2.8  US   1.8  rank 26
+  Finance and insurance, and real estate, and rental and leasi   5.5 ±0.6  NY   7.8  US   6.6  rank 20
+  Professional, scientific, and management, and administrative   8.4 ±0.8  NY  14.2  US  12.8  rank 25
+  Educational services, and health care and social assistance   30.3 ±1.2  NY  30.0  US  24.4  rank 15
+  Arts, entertainment, and recreation, and accommodation and f   7.7 ±0.8  NY   8.3  US   8.9  rank 14
+  Other services, except public administration                   3.9 ±0.5  NY   4.5  US   4.8  rank 22
+  Public administration                                          5.2 ±0.6  NY   4.6  US   4.7  rank 9
+  detail: Agriculture, forestry, fishing and hunting                1.1 ±0.3  NY   0.5  US   1.0
+  detail: Health care and social assistance                        16.8 ±1.1  NY  18.4  US  14.8
+  detail: Educational services                                     13.6 ±0.8  NY  11.6  US   9.6

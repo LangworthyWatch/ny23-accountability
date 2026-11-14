@@ -1,0 +1,31 @@
+Whole towns/cities in NY-23: 173; 2020 base 761,603 -> 2025 749,487  (-12,116, -1.59%)
+  PARTIAL 3606343093 Lockport town: 49.8% of land in NY-23; whole-town 2020 20,563 -> 2025 20,641 (+0.4%)
+  PARTIAL 3606381380 Wheatfield town: 6.9% of land in NY-23; whole-town 2020 18,625 -> 2025 18,555 (-0.4%)
+  largest losses: [('Collins town', -1390), ('Jamestown city', -1035), ('Horseheads town', -1007), ('Southport town', -946), ('Pomfret town', -432), ('Elmira city', -423)]
+  largest gains: [('Pendleton town', 86), ('Orchard Park town', 106), ('Clarence town', 246), ('Alden town', 547), ('Hamburg town', 704), ('Alfred town', 1055)]
+  units that grew: 29 of 173
+
+County population: 2010 census, 2020 base, 2025 estimate
+  Allegany        48,946    46,458    46,800   2010-25 -4.4%   2020-25 +0.7%
+  Cattaraugus     80,317    77,042    75,390   2010-25 -6.1%   2020-25 -2.1%
+  Chautauqua     134,905   127,650   124,126   2010-25 -8.0%   2020-25 -2.8%
+  Chemung         88,830    84,148    80,415   2010-25 -9.5%   2020-25 -4.4%
+  Erie           919,040   954,226   946,741   2010-25 +3.0%   2020-25 -0.8%
+  Niagara        216,469   212,671   208,912   2010-25 -3.5%   2020-25 -1.8%
+  Schuyler        18,343    17,892    16,924   2010-25 -7.7%   2020-25 -5.4%
+  Steuben         98,990    93,570    91,855   2010-25 -7.2%   2020-25 -1.8%
+  Tioga           51,125    48,456    47,453   2010-25 -7.2%   2020-25 -2.1%
+  New York     19,378,102 20,203,696 20,002,427   2010-25 +3.2%   2020-25 -1.0%
+
+Personal current transfer receipts as % of personal income (BEA CAINC4, line 47 / line 10)
+  Allegany       2004: 24.1%  2014: 28.6%  2024: 31.9%
+  Cattaraugus    2004: 23.9%  2014: 27.4%  2024: 30.5%
+  Chautauqua     2004: 25.2%  2014: 29.0%  2024: 31.8%
+  Chemung        2004: 23.7%  2014: 25.4%  2024: 29.2%
+  Erie           2004: 19.2%  2014: 21.6%  2024: 22.1%
+  Niagara        2004: 21.4%  2014: 25.3%  2024: 25.8%
+  Schuyler       2004: 22.9%  2014: 26.2%  2024: 30.7%
+  Steuben        2004: 22.3%  2014: 23.5%  2024: 26.6%
+  Tioga          2004: 18.1%  2014: 21.7%  2024: 25.0%
+  New York       2004: 17.5%  2014: 17.4%  2024: 18.1%
+  United States  2004: 14.2%  2014: 17.2%  2024: 18.3%
