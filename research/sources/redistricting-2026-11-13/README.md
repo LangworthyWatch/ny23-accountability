@@ -7,6 +7,11 @@ For `content/fact-checks/2026-11-13-who-drew-ny23-redistricting.md`.
 - `debate-2026-10-06-frame-53m05s-langworthy.png` and `debate-2026-10-06-clip-52m52s-whisper.txt`: WETM debate (YouTube hP1B2-qMPAQ), 52:52-53:08. The frame shows him at the podium answering. The same speaker gave the preceding answer on Hochul and Wall Street. The full auto-transcript is at `research/transcripts/2026-10-06-ny23-debate-wetm-youtube-hP1B2-qMPAQ.srt` (line 857). The opponent's reply is not quoted, per site rule.
 - `wivb-2025-08-05.txt`, `nygop-2022-04-27-coa.json`, `nygop-2022-05-21-special-master.json` (WordPress API copies of nygop.org statements). WSKG Feb 2, 2022 is in the research agent's scratch copy only and is cited live.
 
+## His residence
+- `langworthy-house-gov-about-2026-11-13.html`: official House bio, "currently reside in Pendleton, NY" (archived 20261114002632).
+- Niagara County PROS property search, run by the site operator on Nov 13, 2026: a Pendleton parcel owned by "Langworthy, Nicholas," with a sale recorded 5/12/2021. The screenshot is NOT retained, because it shows his street address and a second, unrelated household's address and parcel. Cite town and date only; never the address, parcel number or price.
+- Census: Pendleton was 100% in CD 26 on the 118th (2022) map and 100% in CD 23 on the 119th. Its neighbors (cb_2024_36_cousub_500k): Amherst (NY-26), Cambria (NY-24 now), Lockport, Wheatfield, and Clarence (NY-23 on both maps).
+
 ## Courts
 - `harkenrider-coa-2022-04-27.pdf` / `.txt`: Court of Appeals, 2022 NY Slip Op 02833. Troutman's partial dissent calls the gerrymandering holding "advisory," so that holding rests on four judges.
 - `mcallister-order-2022-05-20.pdf` / `.txt`: Steuben County Supreme Court order adopting the special master's maps (filed May 21, 2022, 12:17 AM), with the Cervas report.

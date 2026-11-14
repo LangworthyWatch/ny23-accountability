@@ -135,6 +135,19 @@ and seven northeastern Steuben towns for Tioga County and a slice of
 Niagara County. Where a town was split, the Census files give land area,
 not people, so this entry does not estimate the population of the pieces.
 
+**His home town.** Rep. Langworthy's official House biography says he and
+his wife "currently reside in Pendleton, NY," and Niagara County property
+records show he has owned a home there since May 2021. Under the 2022 court
+map, which was drawn "blind to the homes of incumbents," Pendleton was in
+NY-26. For his first term he represented a district he did not live in,
+which the Constitution allows; House members must live only in their
+state. The Legislature's 2024 map moved all of Pendleton into NY-23.
+Pendleton borders Clarence, which is in NY-23 under both maps, so the
+change keeps the district in one piece. New York's constitution says
+districts shall not be drawn "for the purpose of favoring or disfavoring
+incumbents." This site has found no record of why Pendleton was moved or
+whether anyone asked for the change.
+
 ---
 
 ## "A gerrymander that's led to them taking two seats"
@@ -248,6 +261,7 @@ one.
 2. Will he cosponsor H.R. 4889, or a successor bill in the 120th Congress,
    which would make his stated position federal law?
 3. Which two seats did he mean? He has not named them.
+4. Did he, his office or his party ask the Legislature to put Pendleton, his home town, in NY-23 in 2024?
 
 ---
 
@@ -284,6 +298,8 @@ one.
 * Spectrum News, "Hochul weighs New York redistricting push," November 12, 2026: https://spectrumlocalnews.com/nys/central-ny/news/2026/11/12/hochul-weighs-new-york-redistricting-push (archived: https://web.archive.org/web/20261113231207/https://spectrumlocalnews.com/nys/central-ny/news/2026/11/12/hochul-weighs-new-york-redistricting-push)
 * WIVB, "New York state lawmakers respond to redistricting issue in Texas," August 5, 2025: https://www.wivb.com/news/new-york/new-york-state-lawmakers-respond-to-redistricting-issue-in-texas/ (retained; the Wayback Machine refused this page)
 * WSKG, February 2, 2022: https://wskg.org/democrats-get-blow-back-for-congressional-and-state-legislative-district-lines/
+* Rep. Langworthy, official House biography ("currently reside in Pendleton, NY"): https://langworthy.house.gov/about/about (archived: https://web.archive.org/web/20261114002632/https://langworthy.house.gov/about/about)
+* Niagara County real property records (PROS property search), parcel owned by Nicholas Langworthy, sale recorded May 12, 2021 (searched November 13, 2026; address withheld)
 * New York Republican State Committee, "Statement from NYGOP Chairman Nick Langworthy on the Special Master's Final Maps," May 21, 2022: https://nygop.org/statement-from-nygop-chairman-nick-langworthy-on-the-special-masters-final-district-maps/ (archived: https://web.archive.org/web/20261113231502/https://nygop.org/statement-from-nygop-chairman-nick-langworthy-on-the-special-masters-final-district-maps/)
 * govinfo BILLSTATUS and bill text, H.R. 4889 and H.R. 7219 (119th Congress): https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr4889.xml and https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr7219.xml; Clerk, Discharge Petition No. 21: https://clerk.house.gov/DischargePetition/2026051221
 
@@ -302,4 +318,4 @@ one.
 files and official election results alongside Rep. Langworthy's own
 statements. It makes no claim about motive.
 
-*Last updated: November 13, 2026*
+*Last updated: November 13, 2026 (same-day addition: his home town and the 2024 map)*
