@@ -7,6 +7,15 @@ For `content/know-ny23.md`. Every figure on the page is reproduced by the three 
 - `trend_and_transfers.py .` → `out_trend_and_transfers.txt`, `ny23_towns_pop_2020_2025.csv`. Town and city population, 2020 base to 2025, summed over the 173 county subdivisions with at least 99.5% of their land in NY-23 (relationship file in `../redistricting-2026-11-13/`). Lockport (49.8% of land) and Wheatfield (6.9%) are partial and excluded from the sum. Also county population 2010-2025 and BEA transfer share by county.
 - `bea_composition.py` → `out_bea_composition.txt`. CAINC35 2022 composition for the five whole counties (Allegany 36003, Cattaraugus 36009, Chautauqua 36013, Chemung 36015, Tioga 36107), and the five-county CAINC4 transfer share for 2004, 2014 and 2024.
 
+- `acs_income_sources.py acs` → `out_acs_income_sources.txt`. District-wide shares of aggregate household income (B19025) from earnings, Social Security, retirement income, SSI and cash public assistance. Cash income only.
+
+## Audit, November 14, 2026
+An independent recomputation from the raw files matched every table value. Prose fixes made afterward:
+- 65+ ties: with the direct 65+ count (B09020_001; NY-23 23.84 ± 0.51) only NY-3 (23.25 ± 0.74) is statistically tied; NY-24, NY-19 and NY-1 are significantly lower but within one point. With margins built by summing B01001 age cells (± 0.73, what `acs_profile.py` prints), all four test as tied. The page uses the direct margin (± 0.5) and names only NY-3 as tied.
+- The 173 whole county subdivisions are 159 towns, 7 cities and 7 reservation areas; the three unchanged places are reservation areas.
+- CAINC35 line 3000 is transfer receipts OF nonprofit institutions (received, not paid). The 3.3% outside line 2000 is that plus business payments to individuals.
+- The BEA 30% covers the five whole counties only: 374,184 of the 749,487 residents of places wholly in the district (49.9%); whole Erie towns in the district hold 281,317. Medical benefits (line 2200) are 43.8% of the five-county 2022 total; `bea/CAINC35__definition.xml` describes them as payments for care. The card and caption were rebuilt on district-wide ACS figures for this reason.
+
 ## Data (extracts)
 - `acs/acsdt1y2025-*.dat`: rows for the US, New York and NY's 26 districts, cut from the Census table-based summary files (2025 1-year). `ACS20251YR_Table_Shells.txt` holds the line labels. Note: in the 2025 shells, B15003 runs 001-023 (bachelor's = 020); the script matches labels rather than line numbers.
 - `pep/sub-est2025_36.csv` (Vintage 2025 subcounty, New York, whole file); `pep/co-est2025-alldata_NY.csv` and `pep/co-est2020-alldata_NY.csv` (New York rows of the county files).
@@ -24,4 +33,4 @@ For `content/know-ny23.md`. Every figure on the page is reproduced by the three 
 - Census API (needs a key). QCEW (county and workplace-based; ACS residence-based industry is used instead). Long-run decennial county counts before 2010 (the census.gov `cencounts` text file returned 404).
 
 ## Archive status
-See `save_log.txt`. Verify by playback (`id_` URLs), not the availability API.
+`save_log.txt` and `verify_log.txt`: 16 captures made Nov 14, 2026, each verified by playback (HTTP 200, expected row or text present; the table-shells capture plays back gzip-compressed). `save_log2.txt`: the remaining ACS table files.
