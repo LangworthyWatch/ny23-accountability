@@ -2151,6 +2151,8 @@ li a,
   border-collapse: collapse;
   margin: var(--space-4) 0;
 }
+.tt-panel .table-wrapper { margin: var(--space-4) 0; }   /* render-table hook wrapper takes the table's margin so it still collapses */
+.tt-panel .table-wrapper table { margin: 0; }
 .tt-panel th {
   text-align: left;
   color: #1E3A5F;
