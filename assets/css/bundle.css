@@ -840,6 +840,11 @@ table {
   font-size: var(--font-size-sm);
 }
 
+/* Two-column tables fit a phone screen without the 600px floor; wider tables keep it and scroll in .table-wrapper */
+.table-wrapper > table:not(:has(th:nth-child(3), td:nth-child(3))) {
+  min-width: 0;
+}
+
 thead {
   background-color: var(--color-surface-alt);
 }
