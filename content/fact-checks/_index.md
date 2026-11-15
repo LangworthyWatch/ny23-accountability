@@ -262,7 +262,7 @@ Each fact-check includes:
 | [CEO Hearing](/fact-checks/2026-01-24-ceo-hearing-premiums/) | Demands insurers explain premium increases | **FALSE ATTRIBUTION** - Premiums rose because of subsidies HE voted to end |
 | [Childcare Freeze](/fact-checks/2026-01-31-childcare-freeze/) | Minnesota fraud justifies NY freeze | **MISLEADING** - Different programs; no NY-specific fraud evidence cited |
 | [Maduro/Hernandez](/fact-checks/2026-01-20-maduro-hernandez-contrast/) | Celebrating arrest of drug trafficker | **INCONSISTENT** - While party pardoned convicted drug trafficker Hernandez |
-| [Epstein Files](/fact-checks/2026-01-14-epstein-files-discharge-petition/) | "I have never opposed the release" / "Working with Oversight colleagues" | **MISSING CONTEXT** - Did not sign petition; did not attend Wexner deposition |
+| [Epstein Files](/fact-checks/2026-01-14-epstein-files-discharge-petition/) | "I have never opposed the release" / "Working with Oversight colleagues" | **MISSING CONTEXT** - Did not sign petition; did not attend Wexner deposition. Updated Nov. 15: present at 1 of 17 committee Epstein interviews with public transcripts (Bill Clinton); no statement on the Nov. 10 final report |
 | [Premium Tax Credits](/fact-checks/2026-01-14-ptc-pivot/) | Response to constituent asking about PTCs | **NON-RESPONSIVE** - Pivoted to unrelated H.R.1 tax provisions |
 | [RFK Jr./MAHA](/fact-checks/2026-01-14-rfk-maha/) | Response to constituent opposing RFK Jr. | **NON-RESPONSIVE** - Praised agenda constituent opposed |
 | [Free Speech/AP](/fact-checks/2026-01-14-free-speech-ap-access/) | Defending AP restrictions | **DEFLECTION** - Cited unrelated H.R. 140 about social media |

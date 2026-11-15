@@ -338,3 +338,59 @@ The July update listed Ruemmler as "transcript not yet posted." It is posted now
 - His output: [press-release index](https://langworthy.house.gov/media/press-releases) pages 0–6 as of October 28, 2026 (retained); X timeline as served October 28 (retained); WETM debate transcript, October 6, and telephone town hall transcript, September 1 (research/transcripts/)
 
 *Last updated: October 28, 2026*
+
+---
+
+## Update: November 15, 2026 — The Committee's Final Report, and the Attendance Record It Completes
+
+On November 10, 2026, the Oversight Committee's Republican majority released its final staff report, "A Review of the Federal Government's Mishandling of the Jeffrey Epstein and Ghislaine Maxwell Criminal Investigations." The committee says it "culminates the Committee's 15-month investigation, which included 19 transcribed interviews and depositions." The report does not mention him. With it, the committee posted the transcripts it had not yet released: Ghislaine Maxwell, Les Wexner, Hillary Clinton, Bill Clinton, Richard Kahn and Darren Indyke, plus the record of Leon Black's non-appearance.
+
+**The attendance record, now nearly complete.** Transcripts are public for 17 of the 19 interviews and depositions. (The committee's link to the September 19, 2025 Alexander Acosta transcript no longer works, and the May 21, 2026 Sarah Kellen interview transcript has not been released.) He is listed as present at one, Bill Clinton's. In the other 16 his name does not appear at all: he is not listed as present, does not ask a question and is not addressed. The six transcripts released November 10:
+
+| Witness | Date | Members listed present | Langworthy |
+|---|---|---|---|
+| Ghislaine Maxwell | Feb. 9, 2026 | Comer, Biggs, Timmons, Garcia, Krishnamoorthi, Khanna, Stansbury, Crockett, Subramanyam, Walkinshaw | Not listed; does not speak |
+| Les Wexner | Feb. 18, 2026 | Garcia, Lynch, Crockett, Ansari, Min, Tlaib | Not listed; does not speak |
+| Hillary Clinton | Feb. 26, 2026 | Comer, Luna, Timmons, McGuire, Mace, Burlison, Cloud, Boebert, Perry, Fallon, Garcia, Subramanyam, Walkinshaw, Ansari | Not listed; does not speak |
+| Bill Clinton | Feb. 27, 2026 | Comer, Mace, Burlison, McGuire, Luna, Boebert, Timmons, **Langworthy**, Garcia, Stansbury, Randall, Walkinshaw, Khanna, Subramanyam, Ansari, Frost, Bell | **Present; questioned Clinton** |
+| Richard Kahn | Mar. 11, 2026 | Comer, Khanna, Walkinshaw, Subramanyam | Not listed; does not speak |
+| Darren Indyke | Mar. 19, 2026 | Comer, Garcia, Khanna, Biggs, Timmons, Min, Crockett, Stansbury, Ansari, Walkinshaw | Not listed; does not speak |
+
+The Wexner transcript's own list confirms what this entry first reported from news coverage in February: no Republican member attended. The Bill Clinton transcript shows him questioning the former president about his conversations and travel with Epstein; partway in he says, "And I did miss the first portion of this, so if any of this is repetitive, I apologize."
+
+**How other members compare.** Counting a member as attending when the transcript lists them as present or shows them speaking, across the 17 transcripts:
+
+| Committee Republicans | Sessions attended (of 17) |
+|---|---|
+| Comer (chairman) | 15 |
+| Timmons | 7 |
+| Perry, Burlison, Boebert | 5 each |
+| Biggs, Mace, Higgins | 4 each |
+| Luna, McGuire | 3 each |
+| Langworthy, Grothman, Cloud, Fallon, Crane, Burchett | 1 each |
+| The other 10 of the committee's 26 Republicans | 0 |
+
+On the Democratic side, Subramanyam and Walkinshaw attended 15 each, Khanna 12, Garcia and Ansari 11. No member attended all 17. His one session puts him among the least frequent attenders on the committee, but not alone: ten Republicans appear in none of the transcripts.
+
+**A limit on what these lists prove.** The "Present" lists are not complete. At least two transcripts show members asking questions who are not on the list (Bell at Hillary Clinton's; Grothman and Perry at Bill Clinton's). A member could also attend without speaking. So the record shows that he is absent from the lists and silent in 16 of 17 transcripts; it cannot prove he was never in the room. This entry's July and October updates labeled the absences "Confirmed (transcripts)"; read that as "not listed as present and not speaking in the transcript."
+
+**His public word on the report: none found.** His office's press-release index, checked November 15, lists no release after October, and none mentions Epstein. A review of his official Facebook page on November 15 found no post about the report.
+
+### The Participation Record at a Glance, completed
+
+| Proceeding | Date | Langworthy | Basis |
+|---|---|---|---|
+| Interviews and depositions with public transcripts | Aug. 2025 – Jul. 2026 | Present at 1 of 17 (Bill Clinton); not listed and silent in 16 | Transcripts |
+| Acosta interview; Kellen interview | Sept. 19, 2025; May 21, 2026 | Unknown | Transcripts unavailable |
+| Committee vote to report Leon Black contempt resolution | Sept. 15, 2026 | No response to roll call | Vote sheet, transcript |
+| Committee final report released | Nov. 10, 2026 | No public statement found | Press-release index, Facebook |
+
+**In plain language:** The committee's Epstein investigation is over, and the record of who showed up is now almost complete. He went to one of the 17 sessions with public transcripts, the one with Bill Clinton, and questioned him. His name does not appear in any of the other 16, including Les Wexner's deposition, the interviews of Richard Kahn and Darren Indyke, whom the committee's report calls "two of Epstein's closest employees," and those of two former attorneys general. Many Republicans on the committee went to few or none, so he is not unusual among them, but he is near the bottom. He has said nothing publicly about the final report.
+
+**Sources for this update** (retained at `research/sources/epstein-oversight-2026-11/`):
+- Committee release, November 10, 2026: [House Oversight Committee Releases Report on the Federal Government's Mishandling of Epstein and Maxwell Criminal Investigations](https://oversight.house.gov/release/house-oversight-committee-releases-report-on-the-federal-governments-mishandling-of-epstein-and-maxwell-criminal-investigations/) ([archived](https://web.archive.org/web/20261115163835/https://oversight.house.gov/release/house-oversight-committee-releases-report-on-the-federal-governments-mishandling-of-epstein-and-maxwell-criminal-investigations/)); [majority staff report (PDF)](https://oversight.house.gov/wp-content/uploads/2026/11/A-Review-of-the-Federal-Governments-Mishandling-of-the-Jeffrey-Epstein-and-Ghislaine-Maxwell-Criminal-Investigations_OGR-Maj-Report.pdf) ([archived](https://web.archive.org/web/20261115164005/https://oversight.house.gov/wp-content/uploads/2026/11/A-Review-of-the-Federal-Governments-Mishandling-of-the-Jeffrey-Epstein-and-Ghislaine-Maxwell-Criminal-Investigations_OGR-Maj-Report.pdf))
+- Transcripts released November 10: [Maxwell](https://oversight.house.gov/wp-content/uploads/2026/11/Maxwell-Final-Transcript.pdf) ([archived](https://web.archive.org/web/20261115164124/https://oversight.house.gov/wp-content/uploads/2026/11/Maxwell-Final-Transcript.pdf)), [Wexner](https://oversight.house.gov/wp-content/uploads/2026/11/Wexner-Final-Transcript.pdf) ([archived](https://web.archive.org/web/20261115164246/https://oversight.house.gov/wp-content/uploads/2026/11/Wexner-Final-Transcript.pdf)), [Hillary Clinton](https://oversight.house.gov/wp-content/uploads/2026/11/HRC-Final-Transcript.pdf) ([archived](https://web.archive.org/web/20261115164407/https://oversight.house.gov/wp-content/uploads/2026/11/HRC-Final-Transcript.pdf)), [Bill Clinton](https://oversight.house.gov/wp-content/uploads/2026/11/WJC-Final-Transcript.pdf) ([archived](https://web.archive.org/web/20261115164543/https://oversight.house.gov/wp-content/uploads/2026/11/WJC-Final-Transcript.pdf); his questioning begins on transcript page 120), [Kahn](https://oversight.house.gov/wp-content/uploads/2026/11/Kahn-Final-Transcript.pdf) ([archived](https://web.archive.org/web/20261115164705/https://oversight.house.gov/wp-content/uploads/2026/11/Kahn-Final-Transcript.pdf)), [Indyke](https://oversight.house.gov/wp-content/uploads/2026/11/Indyke-Final-Transcript.pdf) ([archived](https://web.archive.org/web/20261115164826/https://oversight.house.gov/wp-content/uploads/2026/11/Indyke-Final-Transcript.pdf)), [Leon Black non-appearance](https://oversight.house.gov/wp-content/uploads/2026/11/Black-Empty-Chair-Final-Transcript.pdf) ([archived](https://web.archive.org/web/20261115164957/https://oversight.house.gov/wp-content/uploads/2026/11/Black-Empty-Chair-Final-Transcript.pdf))
+- Earlier transcripts: linked in the July and October updates above, and on the November 10 release page
+- His output: [press-release index](https://langworthy.house.gov/media/press-releases) as of November 15, 2026 ([archived](https://web.archive.org/web/20261115165118/https://langworthy.house.gov/media/press-releases))
+
+*Last updated: November 15, 2026*
