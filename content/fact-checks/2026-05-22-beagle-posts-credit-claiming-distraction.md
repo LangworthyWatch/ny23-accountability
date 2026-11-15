@@ -1,11 +1,11 @@
 ---
 title: "Priorities: Thirty Posts About Beagles He Didn't Free. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote."
 date: 2026-05-22
-lastmod: 2026-07-02
+lastmod: 2026-11-15
 categories:
   - "Government Transparency / Priorities"
 verdict: "DOCUMENTED PATTERN"
-source: "Multiple Facebook Posts, May 1 – Jun 2, 2026"
+source: "Multiple Facebook Posts, May 3 – Jul 10, 2026"
 reported_by: "Wellsville Sun, WGRZ, Gateway Pundit, Lancaster Bee, Buffalo News"
 county:
   - "District-wide"
@@ -19,9 +19,9 @@ slug: "2026-05-22-beagle-posts-credit-claiming-distraction"
 
 ## Overview
 
-Between May 1 and June 2, 2026, Congressman Langworthy published **at least 22 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
+Between May 3 and June 2, 2026, Congressman Langworthy published **at least 22 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
 
-**The count as documented in the original May 22 social card was 17 posts since May 1; updated June 2 to 22+ with the May 27 – June 2 Marshall Farms / RFK Jr / animal testing posts. Updated July 2: a full manual count of the @RepLangworthy page found 30 beagle / Marshall Farms / animal-testing posts, the most recent being the June 29, 11:23 AM post announcing the USDA letter with Rep. Malliotakis.** The June 3 – 29 additions include the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter. **Updated July 10, 2026: a 31st post** — a video thanking WENY TV News for its "Born to Be Tested" segment, in which he says the research facilities involve "horrific abuse & inhumane conditions" and "we won't rest until we put a stop to these barbaric practices."
+**The count as documented in the original May 22 social card was 17 posts since May 1 (the first documented post is dated May 3); updated June 2 to 22+ with the May 27 – June 2 Marshall Farms / RFK Jr / animal testing posts. Updated July 2: a full manual count of the @RepLangworthy page found 30 beagle / Marshall Farms / animal-testing posts, the most recent being the June 29, 11:23 AM post announcing the USDA letter with Rep. Malliotakis.** The June 3 – 29 additions include the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter. **Updated July 10, 2026: a 31st post** — a video thanking WENY TV News for its "Born to Be Tested" segment, in which he says the research facilities involve "horrific abuse & inhumane conditions" and "we won't rest until we put a stop to these barbaric practices."
 
 **Verification (July 2, 2026):** two passes over the @RepLangworthy Facebook page. A **manual count found 30 beagle-campaign posts**; a systematic automated text sweep of the timeline (232 posts loaded, approximately mid-April through July 2) independently confirmed **21 with harvestable text bodies** (the automated method undercounts video-, reel-, and photo-only posts, so 21 is a floor consistent with the manual 30). The same automated sweep found **zero posts mentioning the Essential Plan, Medicaid, or health coverage** in the entire window.
 
@@ -104,11 +104,11 @@ The 1,500 beagles began leaving Ridglan Farms on May 1, 2026. Here is the docume
 1. **Animal rights activists** — Wayne Hsiung and local groups Dane4Dogs and Alliance for Animals filed criminal complaints and organized sustained pressure after the Dane County DA declined to prosecute
 2. **Court-appointed special prosecutor** — La Crosse County DA Tim Gruenke was appointed in February 2026 to investigate and prosecute Ridglan for felony animal cruelty
 3. **Wisconsin criminal deal** — Ridglan agreed in October 2025 to surrender its state breeding license by July 1 in exchange for avoiding felony prosecution
-4. **Center for a Humane Economy + Big Dog Ranch Rescue** — privately negotiated and purchased the 1,500 dogs; the deal was announced late April 2026
+4. **Center for a Humane Economy + Big Dog Ranch Rescue** — privately negotiated and purchased the 1,500 dogs; Ridglan confirmed the sale on April 29, 2026, and the two groups announced it on April 30
 
-**Langworthy's contribution:** A letter to RFK Jr. and NIH Director Bhattacharya urging them to cut NIH funding from Ridglan-sourced research — sent after the purchase deal was announced. NIH told Fox News directly: *"Ridglan Farms is a commercial dog breeder, not a research facility, and it does not receive NIH grants or funding."* His letter targeted a funding stream that did not exist. His current FY2027 appropriations request has not passed Congress.
+**Langworthy's contribution:** A letter to RFK Jr. and NIH Director Bhattacharya urging them to cut NIH funding from Ridglan-sourced research. The letter is dated April 24, 2026: 178 days after the October 2025 settlement that required Ridglan to surrender its license, and five days before Ridglan confirmed the sale of the dogs. NIH told Fox News directly: *"Ridglan Farms is a commercial dog breeder, not a research facility, and it does not receive NIH grants or funding."* His letter targeted a funding stream that did not exist. His current FY2027 appropriations request has not passed Congress.
 
-The beagles were freed by activists who faced criminal charges, a Wisconsin special prosecutor, and two nonprofit organizations that paid for them. Langworthy wrote a letter after it was over.
+The beagles were freed by activists who faced criminal charges, a Wisconsin special prosecutor, and two nonprofit organizations that paid for them. Langworthy's letter came six months after the settlement and five days before the sale was confirmed.
 
 ---
 
@@ -225,6 +225,11 @@ Between May 3 and June 29, 2026, Langworthy published 30 posts, surveys, and rel
 5. [ProPublica: Trump SSI Rule Change Targets Disabled Adults Who Live With Families](https://www.propublica.org/article/trump-social-security-ssi-disability-benefits-cuts-parents-children) — archive pending
 6. [NOFA-NY: The One Big Beautiful Bill — A Setback for Sustainable Farming in New York](https://nofany.org/policy-news/the-one-big-beautiful-bill-a-setback-for-sustainable-farming-and-food-justice-in-new-york/) — archive pending
 7. [CBO: Estimated Budgetary Effects of H.R. 1](https://www.cbo.gov/publication/61461) — archive pending
+8. WMTV15 News: [Ridglan Farms confirms agreement to sell majority of its dogs to groups](https://www.wmtv15news.com/2026/04/29/ridglan-farms-confirms-agreement-sell-majority-its-dogs-groups/) (April 29, 2026; [archived](https://web.archive.org/web/20261115150419/https://www.wmtv15news.com/2026/04/29/ridglan-farms-confirms-agreement-sell-majority-its-dogs-groups/)) and [Organizations make announcement on Ridglan Farms dogs](https://www.wmtv15news.com/2026/04/30/organizations-make-announcement-ridglan-farms-dogs/) (April 30, 2026; [archived](https://web.archive.org/web/20261115150632/https://www.wmtv15news.com/2026/04/30/organizations-make-announcement-ridglan-farms-dogs/))
+
+**Correction (November 15, 2026):** This entry said his letter was "sent after the purchase deal was announced" and that he "wrote a letter after it was over." The letter is dated April 24, 2026. Ridglan confirmed the sale on April 29 and the rescue groups announced it on April 30, so the letter came five days before the sale was confirmed. It came 178 days after the October 28, 2025 settlement, as the [Ridglan entry](/fact-checks/2026-05-05-ridglan-beagles-credit-claim/) documents. The entry also described the posts as starting May 1; the first documented post is dated May 3. The post counts and the finding are unchanged.
+
+*Last updated: November 15, 2026*
 
 ## Related Entries
 
