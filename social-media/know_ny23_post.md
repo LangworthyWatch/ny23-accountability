@@ -1,4 +1,4 @@
-# DRAFT Nov 14, 2026 (page /know-ny23/, district profile; not a verdict post). Rewritten after audit: district-wide lede.
+# POSTED Nov 15, 2026 (page /know-ny23/, district profile; not a verdict post). Rewritten after audit: district-wide lede.
 # Card: know_ny23_card.png (create_know_ny23_card.py, v2 template A)
 
 Two in five households in NY-23 receive Social Security. In New York State and the nation, it's one in three.
