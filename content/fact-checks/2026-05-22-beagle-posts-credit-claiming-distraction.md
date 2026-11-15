@@ -1,11 +1,11 @@
 ---
-title: "Priorities: Thirty Posts About Beagles He Didn't Free. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote."
+title: "Priorities: At Least 28 Beagle Posts in Eight Weeks. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote."
 date: 2026-05-22
 lastmod: 2026-11-15
 categories:
   - "Government Transparency / Priorities"
 verdict: "DOCUMENTED PATTERN"
-source: "Multiple Facebook Posts, May 3 – Jul 10, 2026"
+source: "Facebook posts on his official page, May 3 – Nov. 10, 2026"
 reported_by: "Wellsville Sun, WGRZ, Gateway Pundit, Lancaster Bee, Buffalo News"
 county:
   - "District-wide"
@@ -19,13 +19,13 @@ slug: "2026-05-22-beagle-posts-credit-claiming-distraction"
 
 ## Overview
 
-Between May 3 and June 2, 2026, Congressman Langworthy published **at least 22 Facebook posts, constituent surveys, and press releases** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He called it a "quest."
+Between May 3 and June 29, 2026, Congressman Langworthy published **at least 28 posts on his official Facebook page** about the release of beagles from Ridglan Farms (a Wisconsin research breeding facility) and a related "Marshall Farms" advocacy campaign at a separate breeding facility in North Rose, NY. He held a beagle for photos. He launched a constituent survey. He introduced an FY2027 appropriations request. He attended a "huge rally" outside Marshall Farms. He produced multi-angle video content with apparent professional camera-crew coverage. He posted a Wellsville Sun graphic describing his "quest to empty out animal medical research labs." His office also issued press releases on May 3 and May 21 and ran a constituent survey on May 22. He has kept posting: **at least 39 beagle and animal-testing posts through about November 10.**
 
-**The count as documented in the original May 22 social card was 17 posts since May 1 (the first documented post is dated May 3); updated June 2 to 22+ with the May 27 – June 2 Marshall Farms / RFK Jr / animal testing posts. Updated July 2: a full manual count of the @RepLangworthy page found 30 beagle / Marshall Farms / animal-testing posts, the most recent being the June 29, 11:23 AM post announcing the USDA letter with Rep. Malliotakis.** The June 3 – 29 additions include the USDA "major win" announcement, the "Together, we saved the Beagles" transfer claim, and the Marshall BioResources USDA letter. **Updated July 10, 2026: a 31st post** — a video thanking WENY TV News for its "Born to Be Tested" segment, in which he says the research facilities involve "horrific abuse & inhumane conditions" and "we won't rest until we put a stop to these barbaric practices."
+**How the count changed.** The original May 22 social card counted 17 items; a June 2 update counted 22; a July 2 manual count gave 30. Those counts mixed Facebook posts with press releases and the constituent survey, and the July 2 list was not kept post by post. On November 15, 2026, every beagle and animal-testing post found on his official page was captured again and transcribed (table below): **28 Facebook posts from May 3 to June 29, and 39 through about November 10.** Each is listed with its date as Facebook shows it. These are the posts found; any removed before November 15 would not appear.
 
-**Verification (July 2, 2026):** two passes over the @RepLangworthy Facebook page. A **manual count found 30 beagle-campaign posts**; a systematic automated text sweep of the timeline (232 posts loaded, approximately mid-April through July 2) independently confirmed **21 with harvestable text bodies** (the automated method undercounts video-, reel-, and photo-only posts, so 21 is a floor consistent with the manual 30). The same automated sweep found **zero posts mentioning the Essential Plan, Medicaid, or health coverage** in the entire window.
+**Verification of the silence (July 2, 2026):** an automated text sweep of the timeline (232 posts loaded, approximately mid-April through July 2) found **zero posts mentioning the Essential Plan, Medicaid, or health coverage** in that window. The sweep reads post text only, so it cannot see words spoken in videos.
 
-In the same five-week window, he posted nothing about:
+In the first five weeks of the campaign (May 3 to June 2), he posted nothing about:
 
 - The **Jennie B. Richmond Nursing Home in Springville (Erie Co.)** — 80 beds — entering "orderly closure" beginning June 2026 per Bertrand Chaffee Hospital CEO (financial challenges, staffing, capital needs). *Buffalo News*, June 2026.
 - **Bradford Regional Medical Center** (operated by Kaleida; immediately across the PA line and the regional anchor for NY-23's Cattaraugus/Allegany patients) — formal February 2026 closure notice ending inpatient, emergency, and long-term care by mid-2026. Olean General is now the sole remaining acute-care anchor in that catchment.
@@ -39,44 +39,55 @@ In the same five-week window, he posted nothing about:
 
 ## The Beagle / Animal Testing Posts — What He Said
 
-### May 3 – May 22, 2026 (original count)
+Every beagle and animal-testing post found on his official Facebook page ("Congressman Nick Langworthy," facebook.com/RepLangworthy), captured November 15, 2026. Excerpts keep his spelling ("Ridgland" and "Ridglan" both appear); emoji are omitted; "…" marks where the excerpt stops. Captures that show members of the public are not published here.
 
-| Date | Post |
-|------|------|
-| May 3, 2026 | "Congressman Langworthy Hails Release of 1,500 Beagles from Heinous Animal Abuse Following Letter to HHS Secretary" |
-| May 12, 2026 | "Congressman Langworthy continues quest to empty out animal medical research labs" |
-| May 20, 2026 | "Save the Beagles." (photo holding beagle) — Wellsville Sun: "Ridglan Farms was just the beginning. We won't stop until all dogs and cats are protected." |
-| May 21, 2026 | Press release: "Langworthy Pushes to End Federal Funding for Breeding Dogs and Cats for Research Experimentation" |
-| May 22, 2026 | Constituent survey: "Should Congress stop funding testing on cats and dogs?" |
-| May 22, 2026 | Facebook post: "I am fighting to end taxpayer-funded breeding and experimentation on dogs and cats. Full stop." |
+| # | Date | What he posted (excerpt) | Format | Capture |
+|---|---|---|---|---|
+| 1 | May 3 | "I have a soft spot for Beagles. Grew up with them. They are gentle souls who can’t speak for themselves, so we must. The cruelty alleged at Ridgland Farms is unacceptable. …" | Video | Not published (shows members of the public) |
+| 2 | May 4 | "I’ll fight like hell for every last Ridgland Beagle. After decades of suffering they deserve freedom, care, and loving homes, not labs where they face horrific conditions. …" | Photo | Not published (shows members of the public) |
+| 3 | May 4 | "ICYMI from the Gateway Pundit: I'm demanding U.S. Department of Health and Human Services and National Institutes of Health (NIH) defund experiments using Ridglan Beagles. …" | Link | Not published (shows members of the public) |
+| 4 | May 4 | "ICYMI from Fox News: "The American people expect their tax dollars to reflect both fiscal responsibility and basic standards of humane treatment," Langworthy wrote." | Link | [View](/images/fact-checks/beagle-posts-2026-11-15/07-2026-05-04.jpg) |
+| 5 | May 5 | "1,500 dogs saved from a Beagle breeding facility that supplied labs for testing. We are drawing the line as outdated animal experiments face growing scrutiny. Good. They should. …" | Photo | [View](/images/fact-checks/beagle-posts-2026-11-15/08-2026-05-05.jpg) |
+| 6 | May 7 | "Great news from Judge Jeanine Pirro. Save the Beagles. More to come. Stay tuned...." Shared Judge Jeanine Pirro's May 6 post about Big Dog Ranch Rescue. | Shared post | [View](/images/fact-checks/beagle-posts-2026-11-15/09-2026-05-07.jpg) |
+| 7 | May 9 | "Keep an eye out on our social media platforms later for some big news on Beagle rescues from Ridgland Farms. …" | Video | [View](/images/fact-checks/beagle-posts-2026-11-15/10-2026-05-09.jpg) |
+| 8 | May 10 | "Kind hearted, dedicated, and passionate advocates are the reason why some beagles were rescued from Ridgland Farms and brought RIGHT HERE to WNY. At 11:00 AM you'll get to see them. …" | Photo | Not published (shows members of the public) |
+| 9 | May 10 | "2,000 beagles survived hell at Ridglan Farms. Eyes removed, vocal cords cut, unimaginable cruelty. …" | Video | [View](/images/fact-checks/beagle-posts-2026-11-15/12-2026-05-10.jpg) |
+| 10 | May 11 | "From WGRZ - Channel 2, Buffalo: Langworthy says he is urging the U.S. Department of Health and Human Services to end the practice and ensure taxpayer dollars are no longer used to support …" | Video | [View](/images/fact-checks/beagle-posts-2026-11-15/13-2026-05-11.jpg) |
+| 11 | May 11 | "The battle to save beagles has just begun. Yes, we are thrilled to have eight rescued dogs from Ridgland Farms here in Western New York. …" | Photo | [View](/images/fact-checks/beagle-posts-2026-11-15/14-2026-05-11.jpg) |
+| 12 | May 12 | "You spoke. I listened. After highlighting abuses at Ridgland Farms, passionate animal lovers asked me to look into Marshall Farms in Wayne County. It's in our backyard in New York. …" | Photo | [View](/images/fact-checks/beagle-posts-2026-11-15/15-2026-05-12.jpg) |
+| 13 | May 12 | "You asked me to look into Marshall Farms in Wayne County, NY so I went there myself. The moment we started recording, security showed up to keep a watchful eye on us. …" | Video | [View](/images/fact-checks/beagle-posts-2026-11-15/16-2026-05-12.jpg) |
+| 14 | May 20 | "Save the Beagles." | Photo | [View](/images/fact-checks/beagle-posts-2026-11-15/17-2026-05-20.jpg) |
+| 15 | May 22 | "Americans can agree on this. Let's work together to get this done!" | Photo | [View](/images/fact-checks/beagle-posts-2026-11-15/18-2026-05-22.jpg) |
+| 16 | May 22 | "Because of the ingenuity of our great nation, we went from the stagecoach to SpaceX rockets landing themselves in less than 200 years. We also went from Morse Code to AI. …" | Photo | [View](/images/fact-checks/beagle-posts-2026-11-15/19-2026-05-22.jpg) |
+| 17 | May 29 | "I'm leading the charge to ban animal testing on dogs and cats." | Photo | Not published (shows members of the public) |
+| 18 | May 30 | "Outside Marshall Farms. Huge rally. Save the Beagles. Stay tuned….." | Photos | Not published (shows members of the public) |
+| 19 | May 31 | "“Marshall Farms is a torture chamber. It is a stain on New York.” The U.S. Department of Agriculture estimates 16,000 beagles are held behind this fortress. …" | Video | [View](/images/fact-checks/beagle-posts-2026-11-15/22-2026-05-31.jpg) |
+| 20 | June 1 | "I’m leading a bipartisan push strengthen federal safeguards on animal testing funding. It must end now. …" | Photo | [View](/images/fact-checks/beagle-posts-2026-11-15/23-2026-06-01.jpg) |
+| 21 | June 1 | "The movement to save beagles from torture at Marshall Farms has become a rallying cry heard around the world. …" | Video | Not published (shows members of the public) |
+| 22 | June 2 | "My wife first told me about the abuse of animals at Ridgland Farms. She was blunt. "You have a voice. Use it." So I did. …" | Video | Not published (shows members of the public) |
+| 23 | June 4 | "From WMTV 15 News in Madison, Wisconsin: "This is something that is post-partisan. This is not a Democrat or Republican issue. …" (The post does not name the speaker; the video caption at that point reads "MARK POCAN.") | Video | [View](/images/fact-checks/beagle-posts-2026-11-15/26-2026-06-04.jpg) |
+| 24 | June 4 | "BREAKING NEWS Major victory on Capitol Hill. The House adopted bipartisan amendments to reduce cruel dog and cat testing, advancing modern alternatives and ending taxpayer funding for …" | Video | [View](/images/fact-checks/beagle-posts-2026-11-15/27-2026-06-04.jpg) |
+| 25 | June 6 | Reshared his June 4 WMTV video post, adding three "100" emoji. | Reshared his own post | [View](/images/fact-checks/beagle-posts-2026-11-15/28-2026-06-06.jpg) |
+| 26 | June 15 | "Together, we saved the Beagles. Incredible news. The expectation is that the remaining 475 beagles will be transferred to Big Dog Ranch Rescue by the end of August. …" | Link | [View](/images/fact-checks/beagle-posts-2026-11-15/29-2026-06-15.jpg) |
+| 27 | June 16 | "The closure of Ridglan Farms proved that real change is possible when elected officials of BOTH political parties, passionate activists, and rescuers unite. …" Shared Secretary Kennedy's June 15 post, which begins "Today USDA Secretary Brooke Rollins and I secured a major win for animal welfare." | Shared post | [View](/images/fact-checks/beagle-posts-2026-11-15/30-2026-06-16.jpg) |
+| 28 | June 29 | "U.S. Rep. Nicole Malliotakis and I sent an official letter to the U.S. Department of Agriculture to get some answers on how Marshall Farms--a facility housing more than 66,000 animals-- is …" | Photos | [View](/images/fact-checks/beagle-posts-2026-11-15/31-2026-06-29.jpg) |
+| 29 | July 10 | "Thank you WENY TV News for putting a spotlight on our work to protect these dogs from the horrific abuse & inhumane conditions that have been going on in research facilities like Ridglan …" | Video | [View](/images/fact-checks/beagle-posts-2026-11-15/32-2026-07-10.jpg) |
+| 30 | July 20 | "Cats and dogs should never be born into cages, suffer in silence, and die in federally funded labs. Shut off the spigot of taxpayer dollars. End this cruelty. Now." | Link | [View](/images/fact-checks/beagle-posts-2026-11-15/33-2026-07-20.jpg) |
+| 31 | July 21 | "BILL ALERT Pleased to see the FDA Modernization Act 3.0 pass the House. As a proud cosponsor, I'm fighting to advance FDA-approved alternatives to cruel cat and dog testing, including …" | Link | [View](/images/fact-checks/beagle-posts-2026-11-15/34-2026-07-21.jpg) |
+| 32 | July 27 | "Proud to stand strong with Wayne Hsiung in the fight to end cruel testing on cats and dogs." | Link | [View](/images/fact-checks/beagle-posts-2026-11-15/35-2026-07-27.jpg) |
+| 33 | August 13 | "The last 150 beagles are finally free from Ridglan Farms. I’m proud to have played a small role, but the real credit belongs to the heroes, volunteers and rescuers on the ground who never …" | Video | [View](/images/fact-checks/beagle-posts-2026-11-15/36-2026-08-13.jpg) |
+| 34 | August 14 | "From News 4 WIVB Buffalo: Congressman Nick Langworthy said "I’m proud of the coalition of people who joined together to shine a light on what was happening behind closed doors at Ridglan …" | Link | [View](/images/fact-checks/beagle-posts-2026-11-15/37-2026-08-14.jpg) |
+| 35 | September 14 | "Dogs and cats should never be bred to suffer for lab testing. It’s 2026. We have high tech alternatives. …" | Link | [View](/images/fact-checks/beagle-posts-2026-11-15/38-2026-09-14.jpg) |
+| 36 | September 23 | "Dogs and cats are living, feeling animals, not laboratory equipment. I'm proud to sponsor the bipartisan Companion Animal Protection Against Cruel Testing (COMPACT) Act. This stops U.S. …" | Video | Not published (shows members of the public) |
+| 37 | September 25 | "Dogs and cats belong in loving homes, not tortured in research labs. I’m proud to sponsor the bipartisan COMPACT Act. …" | Video | Not published (shows members of the public) |
+| 38 | September 29 | "Dogs and cats are our family. They should never be tortured in outdated lab tests when modern science offers safer, more effective alternatives. …" | Photo | [View](/images/fact-checks/beagle-posts-2026-11-15/41-2026-09-29.jpg) |
+| 39 | November 10 (approx.; shown as "5 days ago" on Nov. 15) | "Couldn't agree more & why I'm proud to lead this fight." | Link | [View](/images/fact-checks/beagle-posts-2026-11-15/42-2026-11-10.jpg) |
 
-### May 27 – June 2, 2026 (June 2 update)
-
-| Date | Post |
-|------|------|
-| May 31, 2026 | "Outside Marshall Farms. Huge rally. Save the Beagles. Stay tuned….." (multi-photo rally coverage at Marshall Farms in North Rose, NY) |
-| June 1, 2026 | *Quoted statement:* "Marshall Farms is a torture chamber. It is a stain on New York." Tagging USDA. Multi-photo / branded title card production. |
-| June 1, 2026 | Olean Times Herald repost: "Langworthy pushes for tighter control on funding, standards related to animal testing." |
-| June 1, 2026 | WLEA Southern Tier repost: "Langworthy Asks RFK Jr To Strengthen NIH Policy About Animal Testing" |
-| June 2, 2026 | "I'm leading a bipartisan push strengthen federal safeguards on animal testing funding…" (with newspaper repost graphic) |
-
-### June 3 – June 29, 2026 (July 2 update)
-
-| Date | Post |
-|------|------|
-| ~Mid-June (Facebook relative timestamp; exact date pending permalink capture) | "Today USDA Secretary Brooke Rollins and I secured a major win for animal welfare." |
-| ~Mid-June (same caveat) | "Together, we saved the Beagles. Incredible news. The expectation is that the remaining 475 beagles will be transferred to Big Dog Ranch Rescue by the end of August." |
-| June 29, 2026, 11:23 AM | Facebook post announcing the USDA letter (dated June 26) with Rep. Malliotakis on Marshall BioResources: "a facility housing more than 66,000 animals… We are working to lift the veil on this secretive facility to determine if any laws are being broken and we won't stop until we get answers and accountability." See the [dedicated fact-check](/fact-checks/2026-06-30-marshall-bioresources-usda-letter/), which found the letter's facts mostly hold up |
-
-### July 2026 (update)
-
-| Date | Post |
-|------|------|
-| July 10, 2026 | Video thanking WENY TV News for its "Born to Be Tested" segment: "…protect these dogs from the horrific abuse & inhumane conditions that have been going on in research facilities like Ridglan and Marshall Farms. We won't rest until we put a stop to these barbaric practices." (31st beagle / animal-testing post since May 1.) |
+**Not counted above:** press releases on May 3 ("Congressman Langworthy Hails Release of 1,500 Beagles from Heinous Animal Abuse Following Letter to HHS Secretary") and May 21 ("Langworthy Pushes to End Federal Funding for Breeding Dogs and Cats for Research Experimentation"), the May 22 constituent survey ("Should Congress stop funding testing on cats and dogs?"), and the September 23 COMPACT Act release. Earlier versions of this entry also listed a May 22 post reading "I am fighting to end taxpayer-funded breeding and experimentation on dogs and cats. Full stop." It was not found on his page on November 15 and is not counted.
 
 The "475 beagles transferred by the end of August" claim is checkable on its own timeline and is logged for follow-up.
 
-The posts consistently imply Langworthy's actions are driving outcomes. The May 3 headline specifically credits his "letter to HHS Secretary." The May 31 rally coverage at Marshall Farms includes high-production multi-angle imagery typical of campaign-style content production. The June arc completes a narrative cycle: teasers ("Stay tuned…"), rally, villain quote ("torture chamber"), declared victory ("we saved the Beagles"), and an oversight letter after the announced resolution.
+The posts consistently imply Langworthy's actions are driving outcomes. The May 3 headline specifically credits his "letter to HHS Secretary." The May 30 rally coverage at Marshall Farms includes high-production multi-angle imagery typical of campaign-style content production. The June arc completes a narrative cycle: teasers ("Stay tuned…"), rally, villain quote ("torture chamber"), declared victory ("we saved the Beagles"), and an oversight letter after the announced resolution.
 
 ---
 
@@ -152,49 +163,15 @@ House Oversight Democrats organized a field hearing in West Palm Beach because t
 
 ---
 
-## Evidence Archive (captured July 2, 2026)
+## Evidence Archive
 
-Facebook posts can be edited or deleted; this archive preserves the record. On July 2, 2026, all 30 beagle-campaign posts and the healthcare-related posts on @RepLangworthy were individually screenshotted during the manual count.
+Facebook posts can be edited or deleted. The beagle posts in the table above were captured on November 15, 2026; each "View" link opens the capture of that post. Ten captures that show members of the public (rally attendees, volunteers, press-conference attendees) are kept by this site but not published; their text is in the table.
 
-{{< figure src="/images/fact-checks/beagle-campaign-archive-contact-sheet.png" alt="Contact sheet grid of 35 screenshots of Congressman Langworthy's Facebook posts from May 3 to June 29, 2026, documenting the beagle campaign posts and hospital funding posts" caption="The receipts: 35 screenshots of @RepLangworthy posts, May 3 to June 29, 2026. Captured July 2, 2026." >}}
+Captures made July 2, 2026, are kept below for the other side of the comparison: the healthcare, housing and other posts he made in the same weeks, plus the June 29 USDA-letter post. An earlier version of this section described them as screenshots of all 30 beagle posts; only one of the 35 is a beagle post.
 
-Full-resolution captures, in capture order (newest post first):
+{{< figure src="/images/fact-checks/beagle-campaign-archive-contact-sheet.png" alt="Contact sheet grid of 35 screenshots of Congressman Langworthy's Facebook posts captured July 2, 2026, mostly healthcare, housing and other posts from June 2026, plus the June 29 USDA letter post about Marshall BioResources" caption="35 screenshots of @RepLangworthy posts captured July 2, 2026: the non-beagle posts from the same weeks, plus the June 29 USDA letter post." >}}
 
-- [Capture 01](/images/fact-checks/beagle-campaign-archive/capture-01.jpg)
-- [Capture 02](/images/fact-checks/beagle-campaign-archive/capture-02.jpg)
-- [Capture 03](/images/fact-checks/beagle-campaign-archive/capture-03.jpg)
-- [Capture 04](/images/fact-checks/beagle-campaign-archive/capture-04.jpg)
-- [Capture 05](/images/fact-checks/beagle-campaign-archive/capture-05.jpg)
-- [Capture 06](/images/fact-checks/beagle-campaign-archive/capture-06.jpg)
-- [Capture 07](/images/fact-checks/beagle-campaign-archive/capture-07.jpg)
-- [Capture 08](/images/fact-checks/beagle-campaign-archive/capture-08.jpg)
-- [Capture 09](/images/fact-checks/beagle-campaign-archive/capture-09.jpg)
-- [Capture 10](/images/fact-checks/beagle-campaign-archive/capture-10.jpg)
-- [Capture 11](/images/fact-checks/beagle-campaign-archive/capture-11.jpg)
-- [Capture 12](/images/fact-checks/beagle-campaign-archive/capture-12.jpg)
-- [Capture 13](/images/fact-checks/beagle-campaign-archive/capture-13.jpg)
-- [Capture 14](/images/fact-checks/beagle-campaign-archive/capture-14.jpg)
-- [Capture 15](/images/fact-checks/beagle-campaign-archive/capture-15.jpg)
-- [Capture 16](/images/fact-checks/beagle-campaign-archive/capture-16.jpg)
-- [Capture 17](/images/fact-checks/beagle-campaign-archive/capture-17.jpg)
-- [Capture 18](/images/fact-checks/beagle-campaign-archive/capture-18.jpg)
-- [Capture 19](/images/fact-checks/beagle-campaign-archive/capture-19.jpg)
-- [Capture 20](/images/fact-checks/beagle-campaign-archive/capture-20.jpg)
-- [Capture 21](/images/fact-checks/beagle-campaign-archive/capture-21.jpg)
-- [Capture 22](/images/fact-checks/beagle-campaign-archive/capture-22.jpg)
-- [Capture 23](/images/fact-checks/beagle-campaign-archive/capture-23.jpg)
-- [Capture 24](/images/fact-checks/beagle-campaign-archive/capture-24.jpg)
-- [Capture 25](/images/fact-checks/beagle-campaign-archive/capture-25.jpg)
-- [Capture 26](/images/fact-checks/beagle-campaign-archive/capture-26.jpg)
-- [Capture 27](/images/fact-checks/beagle-campaign-archive/capture-27.jpg)
-- [Capture 28](/images/fact-checks/beagle-campaign-archive/capture-28.jpg)
-- [Capture 29](/images/fact-checks/beagle-campaign-archive/capture-29.jpg)
-- [Capture 30](/images/fact-checks/beagle-campaign-archive/capture-30.jpg)
-- [Capture 31](/images/fact-checks/beagle-campaign-archive/capture-31.jpg)
-- [Capture 32](/images/fact-checks/beagle-campaign-archive/capture-32.jpg)
-- [Capture 33](/images/fact-checks/beagle-campaign-archive/capture-33.jpg)
-- [Capture 34](/images/fact-checks/beagle-campaign-archive/capture-34.jpg)
-- [Capture 35](/images/fact-checks/beagle-campaign-archive/capture-35.jpg)
+Full-resolution July 2 captures, in capture order (newest post first): [01](/images/fact-checks/beagle-campaign-archive/capture-01.jpg), [02](/images/fact-checks/beagle-campaign-archive/capture-02.jpg), [03](/images/fact-checks/beagle-campaign-archive/capture-03.jpg), [04](/images/fact-checks/beagle-campaign-archive/capture-04.jpg), [05](/images/fact-checks/beagle-campaign-archive/capture-05.jpg), [06](/images/fact-checks/beagle-campaign-archive/capture-06.jpg), [07](/images/fact-checks/beagle-campaign-archive/capture-07.jpg), [08](/images/fact-checks/beagle-campaign-archive/capture-08.jpg), [09](/images/fact-checks/beagle-campaign-archive/capture-09.jpg), [10](/images/fact-checks/beagle-campaign-archive/capture-10.jpg), [11](/images/fact-checks/beagle-campaign-archive/capture-11.jpg), [12](/images/fact-checks/beagle-campaign-archive/capture-12.jpg), [13](/images/fact-checks/beagle-campaign-archive/capture-13.jpg), [14](/images/fact-checks/beagle-campaign-archive/capture-14.jpg), [15](/images/fact-checks/beagle-campaign-archive/capture-15.jpg), [16](/images/fact-checks/beagle-campaign-archive/capture-16.jpg), [17](/images/fact-checks/beagle-campaign-archive/capture-17.jpg), [18](/images/fact-checks/beagle-campaign-archive/capture-18.jpg), [19](/images/fact-checks/beagle-campaign-archive/capture-19.jpg), [20](/images/fact-checks/beagle-campaign-archive/capture-20.jpg), [21](/images/fact-checks/beagle-campaign-archive/capture-21.jpg), [22](/images/fact-checks/beagle-campaign-archive/capture-22.jpg), [23](/images/fact-checks/beagle-campaign-archive/capture-23.jpg), [24](/images/fact-checks/beagle-campaign-archive/capture-24.jpg), [25](/images/fact-checks/beagle-campaign-archive/capture-25.jpg), [26](/images/fact-checks/beagle-campaign-archive/capture-26.jpg), [27](/images/fact-checks/beagle-campaign-archive/capture-27.jpg), [28](/images/fact-checks/beagle-campaign-archive/capture-28.jpg), [29](/images/fact-checks/beagle-campaign-archive/capture-29.jpg), [30](/images/fact-checks/beagle-campaign-archive/capture-30.jpg), [31](/images/fact-checks/beagle-campaign-archive/capture-31.jpg), [32](/images/fact-checks/beagle-campaign-archive/capture-32.jpg), [33](/images/fact-checks/beagle-campaign-archive/capture-33.jpg), [34](/images/fact-checks/beagle-campaign-archive/capture-34.jpg), [35](/images/fact-checks/beagle-campaign-archive/capture-35.jpg).
 
 ---
 
@@ -204,7 +181,7 @@ Beagles are a uniquely high-engagement, low-political-risk issue. Animal welfare
 
 The SSI bedroom rule, Medicaid cuts, SNAP reductions, and farm bill impacts are the inverse: low engagement, high political cost. They require acknowledging votes he cast. They involve constituents who are less visible on social media than beagle rescue fans.
 
-The documented pattern is not that Langworthy's support for ending beagle testing is insincere. The pattern is the ratio: a dozen posts celebrating an animal rescue he didn't lead, while the policies he voted for are cutting food assistance, disability support, and healthcare for the rural, low-income, and disabled residents of NY-23 — and he has posted nothing about those impacts.
+The documented pattern is not that Langworthy's support for ending beagle testing is insincere. The pattern is the ratio: at least 28 posts in eight weeks on a campaign built around an animal rescue he didn't lead, while the policies he voted for are cutting food assistance, disability support, and healthcare for the rural, low-income, and disabled residents of NY-23 — and he has posted nothing about those impacts.
 
 ---
 
@@ -212,7 +189,7 @@ The documented pattern is not that Langworthy's support for ending beagle testin
 
 **Verdict: DOCUMENTED PATTERN**
 
-Between May 3 and June 29, 2026, Langworthy published 30 posts, surveys, and releases on the beagle / animal-testing campaign (manual count, July 2) — a narrative arc running from teasers through rally, "torture chamber" villain quote, declared victory ("Together, we saved the Beagles"), and a post-resolution oversight letter. The Ridglan release itself was achieved by Wisconsin prosecutors, animal rights activists, and two nonprofit organizations, not by his letter to an agency that didn't fund the facility. In the same period he posted nothing about the SSI bedroom rule (threatening $330/month cuts to 400,000 disabled people), the Medicaid reductions from his own vote, SNAP cuts hitting NY-23 food banks, the Republican Oversight Committee's failure to hold official Epstein survivor hearings — or, as of the day of this update, the **450,000 New Yorkers losing Essential Plan coverage on July 1 under the law he voted for**. The beagle campaign is a textbook example of flooding a social media feed with popular, low-cost advocacy while staying silent on politically costly policy consequences.
+Between May 3 and June 29, 2026, Langworthy published at least 28 Facebook posts on the beagle / animal-testing campaign, plus two press releases and a constituent survey (recount from November 15 captures; at least 39 posts through about November 10) — a narrative arc running from teasers through rally, "torture chamber" villain quote, declared victory ("Together, we saved the Beagles"), and a post-resolution oversight letter. The Ridglan release itself was achieved by Wisconsin prosecutors, animal rights activists, and two nonprofit organizations, not by his letter to an agency that didn't fund the facility. In the same period he posted nothing about the SSI bedroom rule (threatening $330/month cuts to 400,000 disabled people), the Medicaid reductions from his own vote, SNAP cuts hitting NY-23 food banks, the Republican Oversight Committee's failure to hold official Epstein survivor hearings — or, as of the day of this update, the **450,000 New Yorkers losing Essential Plan coverage on July 1 under the law he voted for**. The beagle campaign is a textbook example of flooding a social media feed with popular, low-cost advocacy while staying silent on politically costly policy consequences.
 
 ---
 
@@ -227,7 +204,9 @@ Between May 3 and June 29, 2026, Langworthy published 30 posts, surveys, and rel
 7. [CBO: Estimated Budgetary Effects of H.R. 1](https://www.cbo.gov/publication/61461) — archive pending
 8. WMTV15 News: [Ridglan Farms confirms agreement to sell majority of its dogs to groups](https://www.wmtv15news.com/2026/04/29/ridglan-farms-confirms-agreement-sell-majority-its-dogs-groups/) (April 29, 2026; [archived](https://web.archive.org/web/20261115150419/https://www.wmtv15news.com/2026/04/29/ridglan-farms-confirms-agreement-sell-majority-its-dogs-groups/)) and [Organizations make announcement on Ridglan Farms dogs](https://www.wmtv15news.com/2026/04/30/organizations-make-announcement-ridglan-farms-dogs/) (April 30, 2026; [archived](https://web.archive.org/web/20261115150632/https://www.wmtv15news.com/2026/04/30/organizations-make-announcement-ridglan-farms-dogs/))
 
-**Correction (November 15, 2026):** This entry said his letter was "sent after the purchase deal was announced" and that he "wrote a letter after it was over." The letter is dated April 24, 2026. Ridglan confirmed the sale on April 29 and the rescue groups announced it on April 30, so the letter came five days before the sale was confirmed. It came 178 days after the October 28, 2025 settlement, as the [Ridglan entry](/fact-checks/2026-05-05-ridglan-beagles-credit-claim/) documents. The entry also described the posts as starting May 1; the first documented post is dated May 3. The post counts and the finding are unchanged.
+**Correction (November 15, 2026):** This entry said his letter was "sent after the purchase deal was announced" and that he "wrote a letter after it was over." The letter is dated April 24, 2026. Ridglan confirmed the sale on April 29 and the rescue groups announced it on April 30, so the letter came five days before the sale was confirmed. It came 178 days after the October 28, 2025 settlement, as the [Ridglan entry](/fact-checks/2026-05-05-ridglan-beagles-credit-claim/) documents. The entry also described the posts as starting May 1; the first documented post is dated May 3. The post counts and the finding were unchanged by this correction.
+
+**Second correction (November 15, 2026):** A recount from fresh captures of his page changed this entry in four ways. (1) It listed "Today USDA Secretary Brooke Rollins and I secured a major win for animal welfare" as his post. Those are Secretary Kennedy's words, from a June 15 post that Langworthy shared on June 16 with his own caption; the table now shows both. (2) Five dates were wrong: the Marshall Farms rally post was May 30 (not May 31), the "torture chamber" post May 31 (not June 1), the WLEA "Langworthy Asks RFK Jr" repost May 29 (not June 1), "Together, we saved the Beagles" June 15 (not "mid-June"), and "I'm leading a bipartisan push" and the Olean Times Herald graphic are one June 1 post, not separate June 1 and June 2 posts. (3) The count of 30 mixed Facebook posts with press releases and a survey; the recount finds at least 28 Facebook posts from May 3 to June 29, and the title now uses that number. (4) The evidence archive was described as screenshots of all 30 beagle posts; only one of those 35 captures was a beagle post, and the beagle posts are now captured individually. It also said he called the campaign a "quest"; that word is from a Wellsville Sun headline he posted. The finding and verdict are unchanged.
 
 *Last updated: November 15, 2026*
 
