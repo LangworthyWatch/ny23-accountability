@@ -1,4 +1,4 @@
-# DRAFT Nov 16, 2026 (entry 2026-11-16-air-traffic-control-lead-the-fight, MISSING CONTEXT)
+# SUPERSEDED by atc_lead_the_fight_post_v2.md (v2 posted Nov 19, 2026); draft Nov 16, 2026 (entry 2026-11-16-air-traffic-control-lead-the-fight, MISSING CONTEXT)
 # Card: atc_lead_the_fight_card.png (create_atc_lead_the_fight_card.py, v2 template B)
 
 In May 2025, Rep. Langworthy said he would "absolutely lead the fight" to fully fund air traffic control upgrades. After the November 13 nationwide ground stop, he says he has "long called for" them. He did call for it. Here is what the record shows since.
