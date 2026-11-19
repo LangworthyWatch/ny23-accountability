@@ -1,9 +1,9 @@
 {
-  "generated": "2026-11-13",
-  "total": 188,
+  "generated": "2026-11-19",
+  "total": 189,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
-    "MISSING CONTEXT": 66,
+    "MISSING CONTEXT": 67,
     "MISLEADING": 40,
     "DOCUMENTED PATTERN": 36,
     "CONTRADICTION": 13,
@@ -19,18 +19,18 @@
   "verdicts_normalized": [
     {
       "label": "MISSING CONTEXT",
-      "count": 66,
-      "pct": 35.1
+      "count": 67,
+      "pct": 35.4
     },
     {
       "label": "MISLEADING",
       "count": 40,
-      "pct": 21.3
+      "pct": 21.2
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 36,
-      "pct": 19.1
+      "pct": 19.0
     },
     {
       "label": "CONTRADICTION",
@@ -40,7 +40,7 @@
     {
       "label": "MOSTLY TRUE",
       "count": 12,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "label": "FALSE",
@@ -82,11 +82,11 @@
     "Transparency": 6,
     "Rule of Law": 5,
     "Veterans": 5,
+    "Transportation": 4,
     "Constituent Service": 4,
     "Foreign Policy": 4,
     "Accountability & Governance": 4,
     "Infrastructure": 4,
-    "Transportation": 3,
     "Ethics": 3,
     "Environment": 3,
     "Elections": 2,
@@ -125,9 +125,16 @@
     "2026-08": 8,
     "2026-09": 13,
     "2026-10": 16,
-    "2026-11": 5
+    "2026-11": 6
   },
   "entries": [
+    {
+      "title": "He Says He Has 'Long Called For' Fixing Air Traffic Control. In May 2025 He Vowed to 'Lead the Fight' for Full Funding. Since Then: Yes Votes and One Co-Signed Letter, No Bill.",
+      "date": "2026-11-16",
+      "verdict": "MISSING CONTEXT",
+      "topic": "Transportation",
+      "url": "/fact-checks/2026-11-16-air-traffic-control-lead-the-fight/"
+    },
     {
       "title": "Who Drew NY-23: A Court in 2022, the Legislature in 2024. His 'Fair Maps' Claim Holds Up. 'A Gerrymander' That Won 'Two Seats' Needs Context.",
       "date": "2026-11-13",
@@ -801,7 +808,7 @@
       "url": "/fact-checks/2026-05-23-propane-all-of-the-above-energy/"
     },
     {
-      "title": "Priorities: Thirty Posts About Beagles He Didn't Free. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote.",
+      "title": "Priorities: At Least 28 Beagle Posts in Eight Weeks. Zero About the 450,000 New Yorkers Losing Coverage Under His Vote.",
       "date": "2026-05-22",
       "verdict": "DOCUMENTED PATTERN",
       "topic": "Other",

@@ -1,0 +1,6 @@
+Full-text scan of every press release listed at langworthy.house.gov/media/press-releases (pages 0-45), fetched November 16, 2026 with plain curl.
+454 release URLs listed; Jan 3, 2023 to Oct 15, 2026 (no release after Oct 15, 2026). Every URL fetched.
+Case-insensitive search for "air traffic" or "ATC" in the full page text. Three hits:
+1. Nov 25, 2024 - "Langworthy, Bergman, and Veasey Lead Bipartisan Aviation Safety Caucus Letter Urging FAA to Prioritize Air Traffic Control Modernization" (about ATC modernization).
+2. Jun 10, 2025 - "Congressman Nick Langworthy Calls for the Next FAA Administrator to Protect the 1,500-Hour Pilot Training Requirement". Opens: "As Chair of the Aviation Safety Caucus, I applaud President Trump and Transportation Secretary Duffy for their bold vision to take American air travel into the future by modernizing our outdated air traffic control system." No funding request. (copy in pages/)
+3. Apr 19, 2023 - Flight 3407 families release; "air traffic controller" appears only in a list of aviation workers in a families' quote. Not about ATC.
