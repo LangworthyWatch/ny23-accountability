@@ -1,0 +1,1321 @@
+Case 1:25-cv-04084-RER-PK       Document 79 Filed 10/15/26         Page 1 of 25 PageID #:
+                                     <pageID>
+
+
+
+                  UNITED STATES DISTRICT COURT
+                  EASTERN DISTRICT OF NEW YORK
+                               _____________________
+                                No 25-CV-04084 (RER) (PK)
+                               _____________________
+
+                              UNITED STATES OF AMERICA
+                                         VERSUS
+
+
+CITY OF NEW YORK, ZOHRAN KWAME MAMDANI, NEW YORK CITY COUNCIL, JULIE
+ MENIN, NEW YORK CITY DEPARTMENT OF CORRECTION, STANLEY RICHARDS,
+ NEW YORK CITY DEPARTMENT OF PROBATION, SHARUN GOODWIN, NEW YORK
+       CITY POLICE DEPARTMENT, AND COMMISSIONER JESSICA S TISCH.
+                                  ___________________
+
+                                 MEMORANDUM & ORDER
+                                  ___________________
+
+RAMÓN E. REYES, JR., District Judge:
+
+      The United States of America (the “United States”) brought this action against the
+
+City of New York and several of its agencies and officials (“New York City” or
+
+“Defendants”) “to preempt several local provisions of law—namely, the New York City
+
+Administrative Code §§ 9-131, 9-205, 14-154, 10-178, and New York City Police
+
+Department Operations Order No. 4 [] (‘Sanctuary Provisions’ or ‘challenged
+
+provisions’)—that are designed to impede the Federal Government’s ability to enforce the
+
+federal immigration laws.” (ECF No. 1 ¶ 4). The United States contends these Sanctuary
+
+Provisions violate the Supremacy Clause of the Constitution of the United States, art. VI,
+
+cl. 2. (Id.) Defendants have moved to dismiss the complaint pursuant to Rule 12(b)(6) of
+
+the Federal Rules of Civil Procedure for failure to state a claim upon which relief can be
+
+granted. (ECF Nos. 52, 53).
+Case 1:25-cv-04084-RER-PK              Document 79 Filed 10/15/26                Page 2 of 25 PageID #:
+                                            <pageID>
+
+
+
+           After carefully reviewing the record, and for the reasons set forth herein, the Court
+
+grants Defendants’ motion and dismisses the complaint. 1
+
+
+                                         BACKGROUND
+
+      I.          Federal Statutory and Regulatory Framework
+
+           “The Government of the United States has broad, undoubted power over the
+
+subject of immigration and the status of aliens.” Arizona v. United States, 567 U.S. 387,
+
+394 (2012) (citation omitted). “This authority rests, in part, on the National Government’s
+
+constitutional power to ‘establish an uniform Rule of Naturalization.’” Id. at 394–95
+
+(quoting Art. I, § 8, cl. 4). “The foundation of our laws on immigration and naturalization
+
+is the Immigration and Nationality Act (INA), 66 Stat. 163, as amended, 8 U.S.C. § 1101
+
+et seq., which sets out the terms and conditions of admission to the country and the
+
+subsequent treatment of aliens lawfully in the country.” Kansas v. Garcia, 589 U.S. 191,
+
+195 (2020). Two categories of immigration law are relevant to this case: (1) law regarding
+
+administrative warrants and detainers; and (2) law related to information sharing and
+
+cooperation. See Boston, 833 F. Supp. 3d at 35–37; Illinois, 796 F. Supp. 3d at 505.
+
+
+
+
+1 This is among nearly a dozen recent cases in which the United States has challenged state and local so-
+
+called “Sanctuary Provisions” that purportedly effect the federal government’s immigration enforcement
+activities in violation of the Supremacy Clause. In all prior cases, the United States’ challenges to such
+provisions have been rejected. See United States v. the State of New Jersey et al., No. 26-CV-1770 (GC)
+(JTQ), 2026 WL 2621025 (D.N.J. Sept. 4, 2026); United States v. City of Rochester, et al., No. 25-CV-6226
+(FPG), 2026 WL 2581845 (W.D.N.Y. Sept. 1, 2026); United States v. Cnty. of Washtenaw, No. 26-11166
+(FKB), 2026 WL 2453724 (E.D. Mich. Aug. 21, 2026); United States v. Minnesota, No. 25-CV-3798 (ECT)
+(JFD), 2026 WL 2085701 (D. Minn. July 20, 2026); United States v. City of Newark, No. 25-CV-5081 (EP)
+(AME), 2026 WL 1816022 (D.N.J. June 24, 2026); United States v. City of Los Angeles, No. 25-CV-5917
+(FMO) (AYPX), 2026 WL 1790971 (C.D. Cal. June 20, 2026); United States v. City of Bos., 833 F. Supp.
+3d 30 (D. Mass. 2026); United States v. Colorado, 831 F. Supp. 3d 1108 (D. Colo. 2026); United States v.
+New York, 814 F. Supp. 3d 266 (N.D.N.Y. 2025); United States v. New York, 810 F. Supp. 3d 329 (N.D.N.Y.
+2025); United States v. Illinois, 796 F. Supp. 3d 494 (N.D. Ill. 2025). Because much has already been written
+about these issues with which this Court agrees, this decision will be relatively brief.
+
+
+                                                      2
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26          Page 3 of 25 PageID #:
+                                       <pageID>
+
+
+
+                  a. Administrative Warrants and Immigration Detainers
+
+       To facilitate enforcement of the United States’ immigration law, federal officers may
+
+effectuate arrests pursuant to a warrant issued by the Attorney General, i.e. an
+
+administrative warrant. 8 U.S.C. § 1226(a). Further, federal immigration officers can
+
+request assistance from any other federal, state, or local law enforcement agency that
+
+has custody of an individual the Department of Homeland Security (“DHS” or the
+
+“Department”) seeks to arrest and remove by issuing a section 287.7 detainer. 8 C.F.R.
+
+§ 287.7(a). A section 287.7 detainer has two components. First, a “request that such
+
+agency advise the Department, prior to release of the alien.” Id. Second, a request that
+
+“such agency shall maintain custody of the alien” for up to forty-eight hours. Id. at (d).
+
+Compliance with section 287.7 detainers is not mandatory. See Hernandez v. United
+
+States, 939 F.3d 191, n.11 (2d Cir. 2019); Orellana v. Cnty. of Suffolk, No. 17-CV-4267
+
+(WFK), 2025 WL 481723, at *2 (E.D.N.Y. Jan. 2, 2025). Federal immigration officers may
+
+detain any non-citizen awaiting a removal decision from immigration court. 8 U.S.C. §
+
+1226(a). Federal immigration officers must detain “criminal aliens” (as defined under id.
+
+§ 1226(c)) and non-citizens subject to a final order of removal during the pendency of the
+
+“removal period” (as defined under id. § 1231(a)(1)–(2)).
+
+                  b. Information Sharing and Cooperation
+
+       “Consultation between federal and state officials is an important feature of the
+
+immigration system.” Arizona, 567 U.S. at 411. To that end, federal law bars federal,
+
+state, and local governmental entities and officials from “prohibit[ing]” or “in any way
+
+restrict[ing]” the flow of “information regarding the citizenship or immigration status, lawful
+
+or unlawful, of any individual” to and from DHS. 8 U.S.C. § 1373(a); see also id. § 1373(b)
+
+
+
+
+                                               3
+Case 1:25-cv-04084-RER-PK             Document 79 Filed 10/15/26               Page 4 of 25 PageID #:
+                                           <pageID>
+
+
+
+(similar); id. § 1644 (similar). Many federal courts have found, “the phrase ‘information
+
+regarding the citizenship or immigration status, lawful or unlawful, of any individual’ is
+
+naturally understood as a reference to a person’s legal classification under federal law.”
+
+Boston, 833 F. Supp. 3d at 37 (quoting United States v. California, 921 F.3d 865, 891 (9th
+
+Cir. 2019)); see also Illinois, 796 F. Supp. 3d at 516–19 (collecting cases). Federal law
+
+allows states and localities to expand their participation in immigration enforcement by
+
+entering a “1357(g) agreement.” 8 U.S.C. § 1357(g)(1). A 1357(g) agreement authorizes
+
+state and local officials to perform functions of federal immigration officers “to the extent
+
+consistent with State and local law.” Id.
+
+     II.        State and Local Law
+
+                    a. Judicial Warrants and Detainers
+
+        “New York state and local law enforcement officers are not authorized by New York
+
+law to effectuate arrests for civil law immigration violations.” People ex rel. Wells v.
+
+DeMarco, 168 A.D.3d 31, 34 (2nd Dep’t 2018) (granting a habeas petition on the basis
+
+that local law enforcement’s detention of petitioner pursuant to a section 287.7 detainer
+
+was unlawful); see also Orellana, 2025 WL 481723 at *13 (“The Court declines to declare
+
+the reasoning of the Wells court ‘unsound.’”). 2 Considering the interplay between federal
+
+and state law, New York City’s administrative code dictates when its officers may give
+
+
+
+
+2 Wells is binding on trial courts throughout the state since neither the Court of Appeals nor any other
+
+appellate department has addressed this issue. See, e.g., Phelps v. Phelps, 128 A.D.3d 1545, 1547 (4th
+Dep’t 2015) (“where the issue has not been addressed within the Department, Supreme Court is bound by
+the doctrine of stare decisis to apply precedent established in another Department, either until a contrary
+rule is established by the Appellate Division in its own Department or by the Court of Appeals”).
+
+
+                                                     4
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26          Page 5 of 25 PageID #:
+                                       <pageID>
+
+
+
+effect to a section 287.7 detainer. N.Y.C Administrative Code §§ 9-131(b), 9-205(b), 14-
+
+154(b).
+
+       New York City’s Department of Correction, Department of Probation, and the
+
+Police Department may honor a section 287.7 detainer request only if (a) federal
+
+immigration authorities provide a “judicial warrant” and (b) the individual “has been
+
+convicted of a violent or serious crime” or “is identified as a possible match in the terrorist
+
+screening database.” N.Y.C Administrative Code §§ 9-131(b), 9-205(b), 14-154(b)(1). In
+
+addition, the Police Department may honor a section 287.7 detainer request in
+
+anticipation of receipt of a judicial warrant, if the individual (a) “has been convicted of a
+
+violent or serious crime and has illegally re-entered the country after a previous removal
+
+or return” or (b) “is identified as a possible match in the terrorist screening database.”
+
+N.Y.C Administrative Code § 14-154(b)(2). “[H]owever, . . . if federal immigration
+
+authorities fail to present the department with a judicial warrant for such person” within
+
+forty-eight hours “such person shall be released and the department shall not notify
+
+federal immigration authorities of such person’s release.” Id.
+
+                  b. Information-Sharing and General Cooperation
+
+       In general, New York City has prohibited the expenditure of “city resources,
+
+including, but not limited to, time spent by employees, officers, contractors, or
+
+subcontractors while on duty, or the use of city property” towards “immigration
+
+enforcement.” N.Y.C Administrative Code § 10-178(c). However, “nothing in this section
+
+shall prevent any city officer or employee from complying with federal law or restrict their
+
+discretion to take any action if such restriction is prohibited by federal law.” Id. at (e). In
+
+particular, New York City forbids its agencies from “subject[ing] its officers or employees
+
+
+
+
+                                               5
+Case 1:25-cv-04084-RER-PK        Document 79 Filed 10/15/26           Page 6 of 25 PageID #:
+                                      <pageID>
+
+
+
+to the direction and supervision of the secretary of homeland security or the head of any
+
+non-local law enforcement agency primarily in furtherance of immigration enforcement”
+
+(id. at (b)), and bars the use of Department of Correction property by federal immigration
+
+authorities for “an office or quarters” (N.Y.C Administrative Code § 9-131(h)(2)).
+
+       New York City has limited the flow of certain information to federal immigration
+
+authorities. Except for information “related to a person’s citizenship or immigration status,”
+
+the Department of Correction may only disclose information concerning individuals
+
+“convicted of a violent or serious crime or identified as a possible match in the terrorist
+
+screening database” or where such disclosure “is otherwise required by law.” N.Y.C
+
+Administrative Code § 9-131(h)(1). New York City Police Department Operations Order
+
+Number 4 (“NYPD Ops. Order No. 4”) states that, per section 10-178, officers cannot
+
+“contact[] federal civil immigration authorities to let them know where an individual is
+
+located.” NYPD Ops. Order No. 4 ¶ 6(a).
+
+    III.      Procedural History
+
+       On July 24, 2025, the United States initiated this action. (ECF. No. 1 (“Compl.”)).
+
+The United States brings this case against (1) the City of New York, (2) Zohran Kwame
+
+Mamdani, the Mayor of the City of New York, (3) New York City Council, (4) Julie Menin,
+
+Speaker of the New York City Council, (5) New York City Department of Correction, (6)
+
+Stanley Richards, Commissioner of the New York City Department of Correction, (7) New
+
+York City Department of Probation, (8) Sharun Goodwin, Commissioner of the New York
+
+City Department of Probation, (9) New York City Police Department, and (10) Jessica S
+
+
+
+
+                                              6
+Case 1:25-cv-04084-RER-PK              Document 79 Filed 10/15/26                 Page 7 of 25 PageID #:
+                                            <pageID>
+
+
+
+Tisch, Commissioner of the New York City Police Department as defendants (collectively
+
+“New York City” or “Defendants”). (Id.) 3
+
+        The United States targets select provisions of New York City law regarding
+
+cooperation with the federal government on immigration enforcement, in particular
+
+execution of section 287.7 detainers and information sharing. (See generally Compl.).
+
+The United States asserts the challenged provisions violate the Supremacy Clause on
+
+three bases: (1) the challenged provisions are preempted by federal immigration law (id.
+
+¶¶ 104–06), (2) “enforcement of the challenged provisions . . . discriminates against the
+
+Federal Government” (id. ¶ 108), and (3) “enforcement of the challenged provisions . . .
+
+effects direct regulation of the Federal Government” (id. ¶ 112). The United States seeks
+
+declaratory and injunctive relief. (Id. ¶ 4).
+
+        On December 2, 2025, New York City moved to dismiss the complaint for failure
+
+to state a claim under Federal Rule of Civil Procedure 12(b)(6). (ECF No. 52 (“Defs.’
+
+Mot.”); ECF No. 53 (“Defs.’ Mem.”)). The United States opposed. (ECF No. 54 (“Pl.’s
+
+Opp’n”)). Defendants replied. (ECF No. 55 (“Defs.’ Reply”)). After Defendants’ motion to
+
+dismiss was fully briefed, the Court ordered supplemental briefing on the United States’
+
+Article III standing to bring suit. (Order dated June 29, 2026; see also ECF Nos. 68, 73,
+
+and 75).
+
+
+
+
+3 The United States sued individual officers in their official capacities. (See generally Compl.). Since filing
+
+their complaint, the United States has substituted defendants to reflect the current occupants of the named
+offices. (See Order dated 2/27/26).
+
+
+                                                       7
+Case 1:25-cv-04084-RER-PK           Document 79 Filed 10/15/26          Page 8 of 25 PageID #:
+                                         <pageID>
+
+
+
+                                      LEGAL STANDARD
+
+          A defendant may move to dismiss a civil action for “failure to state a claim upon
+
+which relief can be granted.” Fed. R. Civ. P. 12(b)(6). To survive a motion to dismiss for
+
+failure to state a claim, the complaint must contain “enough facts to state a claim to relief
+
+that is plausible on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007); Ashcroft
+
+v. Iqbal, 556 U.S. 662, 697 (2009). “A claim has facial plausibility when the plaintiff pleads
+
+factual content that allows the court to draw the reasonable inference that the defendant
+
+is liable for the misconduct alleged.” Iqbal, 556 U.S. at 678. Bare conclusory statements
+
+will not suffice. Id. at 681. When courts consider whether a complaint “states a plausible
+
+claim for relief,” they must accept all factual allegations stated in the complaint as true
+
+and draw all reasonable inferences in the plaintiff’s favor. Id. at 679; see also Erickson v.
+
+Pardus, 551 U.S. 89, 94 (2007) (per curium).
+
+
+                                         DISCUSSION
+
+     I.          The United States Lacks Article III Standing
+
+          Article III standing is a “threshold question in every federal case” that “determine[s]
+
+the power of the court to entertain the suit.” Warth v. Seldin, 422 U.S. 490, 498 (1975). “If
+
+plaintiffs lack Article III standing, a court has no subject matter jurisdiction to hear their
+
+claim.” Mahon v. Ticor Title Ins. Co., 683 F.3d 59, 62 (2d Cir. 2012) (citation omitted). The
+
+United States, as the party invoking federal jurisdiction, bears the burden of establishing
+
+the “irreducible constitutional minimum” of standing for each claim asserted. Spokeo, Inc.
+
+v. Robins, 578 U.S. 330, 338 (2016) (citation omitted). “Standing is not dispensed in
+
+gross . . . to the contrary, a plaintiff must demonstrate standing for each claim he seeks
+
+to press and for each form of relief that is sought.’” Town of Chester, N.Y. v. Laroe Ests.,
+
+
+
+                                                 8
+Case 1:25-cv-04084-RER-PK        Document 79 Filed 10/15/26           Page 9 of 25 PageID #:
+                                      <pageID>
+
+
+
+Inc., 581 U.S. 433, 439 (2017) (citation modified). To establish standing, “plaintiff must
+
+have (1) suffered an injury in fact, (2) that is fairly traceable to the challenged conduct of
+
+the defendant, and (3) that is likely to be redressed by a favorable judicial decision.”
+
+Spokeo, 578 U.S. at 338 (citations omitted).
+
+       A. 287.7 Immigration Detainers and Administrative Warrants
+
+       One of the United States’ purported injuries is New York City’s non-adherence to
+
+section 287.7 detainer requests that “such agency shall maintain custody of the alien” for
+
+up to forty-eight hours. 8 C.F.R. § 287.7(d). The United States alleges, “[b]y . . . barring
+
+DHS access to aliens in local custody upon their release as provided by federal law (e.g.,
+
+an administrative warrant), New York City’s Sanctuary Provisions require federal
+
+immigration officers to engage in difficult and dangerous efforts to re-arrest aliens who
+
+were previously in local custody, endangering immigration officers, the particular alien,
+
+and others who may be nearby.” (Compl. ¶ 95). The United States asks this Court to
+
+“issue a permanent injunction that prohibits Defendants as well as their successors,
+
+agents, and employees, from enforcing N.Y.C. Administrative Code §§ 9-131; 14-154; 9-
+
+205.” (Compl. at 36).
+
+       “For standing purposes, redressability refers to a ‘non-speculative likelihood that
+
+the injury can be remedied by the requested relief.’” Guan v. Mayorkas, 530 F. Supp. 3d
+
+237, 262–63 (E.D.N.Y. 2021) (citation omitted). “Plaintiffs’ injuries are redressable if their
+
+requested relief can compensate them for their losses or eliminate any effects caused by
+
+the defendants’ challenged conduct.” Id. (citation modified). A “partial remedy satisfies
+
+the redressability requirement.” Uzuegbunam v. Preczewski, 592 U.S. 279, 291 (2021).
+
+
+
+
+                                               9
+Case 1:25-cv-04084-RER-PK        Document 79 Filed 10/15/26          Page 10 of 25 PageID #:
+                                       <pageID>
+
+
+
+        Here, New York law forecloses relief. “As a general rule, it is not a crime for a
+
+ removable alien to remain present in the United States.” Arizona, 567 U.S. at 407. New
+
+ York law does not authorize state and local law enforcement officers to “effectuate arrests
+
+ for civil law immigration violations.” Wells, 168 A.D.3d at 34. Further, New York City
+
+ officers are not empowered to make arrests pursuant to administrative warrants. Id. at 42.
+
+ Thus, even if this Court eliminated sections 9-131(b), 9-205(b), 14-154(b) of New York
+
+ City’s Administrative Code, New York City officers would still be unable to execute a
+
+ section 287.7 detainer request to maintain custody of a non-citizen without a judicial
+
+ warrant.
+
+        As in Boston, “an order enjoining” the City of New York “from enforcing” its
+
+ “prohibition on detaining noncitizens solely pursuant to a civil immigration detainer or
+
+ administrative warrant—could not alter this status quo.” Boston, 833 F. Supp. 3d at 43.
+
+ Other actors, not this Court, hold the authority to grant the United States the redress it
+
+ seeks. The New York legislature “could enact a statute authorizing . . . law enforcement
+
+ officers to arrest people pursuant to federal civil immigration detainers . . . [o]r Congress
+
+ (but not this Court) could enact federal legislation granting local law enforcement officers
+
+ this authority.” See id. at 44. Therefore, the United States’ claims regarding New York
+
+ City’s execution of section 287.7 detainer custody requests are not redressable by the
+
+ relief it seeks, and it therefore lacks standing to challenge the same.
+
+        B. Information Sharing
+
+        The United States seeks “a judgment declaring that the challenged provisions
+
+ (N.Y.C. Administrative Code §§ 9-131 and 14-154; 9-205; 10-178 and NYPD Ops. Order
+
+ No. 4) violate 8 U.S.C. § 1373 and are therefore invalid.” (Compl. at 36). “The traceability
+
+
+
+
+                                               10
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26           Page 11 of 25 PageID #:
+                                        <pageID>
+
+
+
+ requirement for Article III standing means that the plaintiff must demonstrate a causal
+
+ nexus between the defendant's conduct and the injury.” Chevron Corp. v. Donziger, 833
+
+ F.3d 74, 121 (2d Cir. 2016) (citation modified). As in Boston, “[a]ny injury the United States
+
+ has suffered from alleged violations of § 1373 is not traceable” to the challenged
+
+ provisions, “which are facially consistent with § 1373.” Boston, 833 F. Supp. 3d at 48.
+
+        In relevant part, section 1373(a) bars local governments from restricting their
+
+ agencies and officials from disclosing “information regarding the citizenship or
+
+ immigration status, lawful or unlawful” to federal immigration authorities. 8 U.S.C. §
+
+ 1373(a). Whereas, sections 9-131 and 14-154 restrict execution of section 287.7 detainer
+
+ “request[s] that such agency advise the Department, prior to release of the alien.” N.Y.C
+
+ Administrative Code §§ 9-131 and 14-154. The United States’ assertion “that information
+
+ concerning the release of aliens from local custody is information ‘regarding the
+
+ citizenship or immigration status, lawful or unlawful, of any individual,’” is contrary to law.
+
+ (ECF No. 73 at 2). As noted above, numerous federal courts have interpreted this
+
+ language to mean “a person’s legal classification under federal law.” Boston, 833 F. Supp.
+
+ 3d at 37 (quoting California, 921 F.3d at 891–92; see also, e.g., Illinois, 796 F. Supp. 3d
+
+ at 516–19 (collecting cases).
+
+        Further, New York City’s other provisions that limit information-sharing with federal
+
+ immigration authorities exempt information regarding a person’s legal classification under
+
+ federal law. Section 9-131(h)(1) of the NYC Administrative Code prevents Department of
+
+ Correction personnel from disclosing information to federal immigration authorities in
+
+ general, e.g. “any person’s incarceration status, release dates, court appearance dates,
+
+ or any other information related to persons in the department’s custody,” but explicitly
+
+
+
+
+                                                11
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26           Page 12 of 25 PageID #:
+                                        <pageID>
+
+
+
+ allows for the disclosure of information “related to a person’s citizenship or immigration
+
+ status.” Id. Section 10-178(c) bars the use of City resources towards immigration
+
+ enforcement, including information disclosure. N.Y.C Administrative Codes § 10-178(c).
+
+ However, section 10-178(e) establishes “nothing in this section shall” . . . “restrict” a “city
+
+ officer or employee[’s]” . . . “discretion to take any action if such restriction is prohibited
+
+ by federal law.” N.Y.C Administrative Code § 10-178(e). Thus, in adherence to section
+
+ 1373 as well as 1644, section 10-178 does not restrict the disclosure of information
+
+ regarding persons’ legal classifications to federal immigration authorities.
+
+           There is no nexus between section 1373 and the challenged provisions. Since the
+
+ United States alleged 1373 injuries are not traceable to the challenged provisions, the
+
+ United States does not have standing to bring its related claims.
+
+         II.     The United States’ Preemption Claims Fail
+
+           Even if the United States has standing—and it does not—its preemption claims
+
+ fail.
+
+           When courts are called upon to address preemption questions, “the analysis
+
+ always begins with the assumption that the historic police powers of the States are not to
+
+ be superseded by the Federal Act unless that was the clear and manifest purpose of
+
+ Congress.” Island Park, LLC v. CSX Transp., 559 F.3d 96, 101 (2d Cir. 2009) (citation
+
+ modified). “A state’s ability to control its officers and employees lies at the heart of state
+
+ sovereignty.” Illinois, 796 F. Supp. 3d at 523; see also Printz v. United States, 521 U.S.
+
+ 898, 931 (1997) (“To say that the Federal Government cannot control the State, but can
+
+ control all of its officers, is to say nothing of significance.”). Further, “[t]he regulation of
+
+ health and safety matters is primarily and historically a matter of local concern.”
+
+
+
+
+                                                12
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26           Page 13 of 25 PageID #:
+                                        <pageID>
+
+
+
+ Hillsborough Cnty., Fla. v. Automated Med. Lab’ys, Inc., 471 U.S. 707, 719 (1985). Since
+
+ quintessential police powers are implicated here, a presumption against preemption
+
+ applies.
+
+        All of the United States’ preemption claims—express, conflict, and field—fail
+
+ because the relevant federal statutes do not regulate private actors. In order for a federal
+
+ law to preempt state law, “it must satisfy two requirements . . . [f]irst, it must represent the
+
+ exercise of a power conferred on Congress by the Constitution; pointing to the Supremacy
+
+ Clause will not do” and “[s]econd, since the Constitution ‘confers upon Congress the
+
+ power to regulate individuals, not States,’ . . . the . . . provision at issue must be best read
+
+ as one that regulates private actors.” Murphy v. Nat’l Collegiate Athletic Ass’n, 584 U.S.
+
+ 453, 477 (2018) (citation omitted). The United States alleges sections 1373(a) and 1644
+
+ have preemptive effect. (Compl. ¶ 105). Sections 1373(a) and 1644 contain nearly
+
+ identical language and therefore will be analyzed together.
+
+        Neither section 1373(a) nor section 1644 “confers on private entities . . . a federal
+
+ right to engage in certain conduct subject only to certain (federal) constraints.” Murphy,
+
+ 584 U.S. at 479. Facially, “[t]he plain text of § 1373 only operates on State and local
+
+ government entities and officials.” Illinois, 796 F. Supp. 3d at 521. In effect, sections
+
+ 1373(a) and 1644 regulate “how information ‘regarding citizenship or immigration status’
+
+ of a private individual might be distributed between governments”; they do not “create or
+
+ restrict the rights of any private actor.” Id. Numerous federal courts have found that
+
+ sections 1373(a) and 1644 do not regulate private actors and therefore lack preemptive
+
+ effect. See id.; Colorado v. United States Dep’t of Just., 455 F. Supp. 3d 1034, 1059 (D.
+
+ Colo. 2020); Cnty. of Ocean v. Grewal, 475 F. Supp. 3d 355, 372 (D.N.J. 2020).
+
+
+
+
+                                                13
+Case 1:25-cv-04084-RER-PK        Document 79 Filed 10/15/26         Page 14 of 25 PageID #:
+                                       <pageID>
+
+
+
+        The United States argues the proper question “is whether the INA as a whole
+
+ regulates private actors.” (Pl.’s. Opp’n at 27). The Court disagrees. The United States’
+
+ proposed lens would allow the federal government to “smuggle unconstitutional
+
+ commands to States into specific provisions of a broader statute, and then rely on
+
+ separate provisions for cover.” Illinois, 796 F. Supp. 3d at 521–22. This approach was
+
+ rejected in Murphy where the Court focused its analysis on the challenged section of the
+
+ Professional and Amateur Sports Protection Act (PAPSA), despite recognizing a “closely
+
+ related provision of PASPA, § 3702(2) does restrict private conduct.” Murphy, 584 U.S.
+
+ at 480. The United States’ argument rests exclusively on commentary from a footnote in
+
+ State of New York v. Department of Justice. (Pl.’s Opp’n at 27 (citing New York v. Dep’t
+
+ of Just., 951 F.3d 84, n. 27 (2d Cir. 2020))). New York analyzed section 1373 as applied
+
+ to a federal funding requirement and did not conclusively address the preemption issue
+
+ raised here, accordingly the Court respectfully declines to follow its dicta. Since sections
+
+ 1373(a) and 1644 do not regulate private actors, they do not preempt the challenged
+
+ provisions.
+
+        Notwithstanding the foregoing, the United States’ preemption arguments fail for
+
+ other reasons.
+
+        A. Express Preemption
+
+        “Express preemption arises when a federal statute expressly directs that state law
+
+ be ousted.” Island Park, 559 F.3d at 101 (citation modified). The United States claims
+
+ “federal immigration law’s protections for information sharing . . . [e].g. 8 U.S.C. §§
+
+ 1373(a), 1644” expressly preempt the challenged provisions. (Compl. ¶ 105). The United
+
+ States fails to establish that sections 1373(a) and 1644 “oust” the challenged information
+
+
+
+
+                                              14
+Case 1:25-cv-04084-RER-PK        Document 79 Filed 10/15/26         Page 15 of 25 PageID #:
+                                       <pageID>
+
+
+
+ sharing provisions, nor could they. These statutes only apply “[n]otwithstanding any other
+
+ provision of Federal, State, or local law.” 8 U.S.C. §§ 1373(a), 1644. Against the police
+
+ power presumption and absent clear language, the United States’ express preemption
+
+ claims fail.
+
+        B. Field Preemption
+
+        New York City notes that the complaint “contains one generic reference to
+
+ ‘occupy[ing] the field’ in paragraph 105. However, Plaintiff does not even clearly identify
+
+ what the field is.” (Defs.’ Mem. at 27). The United States counters that through the INA,
+
+ “Congress intended to occupy the field of apprehension and detention of aliens, but
+
+ Defendants’ enactment of the Sanctuary Provisions attempts to invade and regulate
+
+ within this field.” (Pl.’s Opp’n at 28; see also Compl. ¶ 29). Irrespective of whether the
+
+ United States sufficiently pled field preemption, the challenged provisions do not regulate
+
+ the apprehension and detention of non-citizens. The challenged provisions govern the
+
+ allocation of municipal resources towards federal immigration enforcement. Since the
+
+ challenged provisions and the INA occupy different fields, the United States’ field
+
+ preemption claim fails.
+
+        C. Conflict Preemption
+
+        Conflict preemption is present where “‘compliance with both federal and state
+
+ regulations is a physical impossibility” or “the challenged state law stands as an obstacle
+
+ to the accomplishment and execution of the full purposes and objectives of Congress.”
+
+ Arizona, 567 U.S. at 399 (citation modified). “‘The burden of establishing obstacle
+
+ preemption, like that of impossibility preemption, is heavy: the mere fact of tension
+
+ between federal and state law is generally not enough to establish an obstacle supporting
+
+
+
+                                              15
+Case 1:25-cv-04084-RER-PK        Document 79 Filed 10/15/26         Page 16 of 25 PageID #:
+                                       <pageID>
+
+
+
+ preemption, particularly when the state law involves the exercise of traditional police
+
+ power.’” New York State Telecommunications Ass’n, Inc. v. James, 101 F.4th 135, 155
+
+ (2d Cir. 2024) (citation omitted). The United States alleges the challenged provisions
+
+ “constitute and create obstacles to the enforcement of federal immigration law” and
+
+ “undermine federal immigration law’s protections for information sharing and thus are
+
+ preempted under . . . conflict preemption principles.” (Compl. ¶¶ 104–05).
+
+       Here, the challenged provisions involve the exercise of traditional police power.
+
+ Further, the United States delineates in its papers the avenues available to affect its
+
+ enforcement scheme against the backdrop of federalism. The federal government may
+
+ receive New York City’s assistance detaining individuals and receive information
+
+ regarding their release where “federal immigration authorities present a judicial warrant
+
+ and the alien has a specified prior conviction within the past five years.” (Pl.’s Opp’n at
+
+ 30). The federal government may “facilitate congressionally-authorized arrests” without
+
+ the “most basic information about the alien” in New York City’s possession and instead
+
+ rely on their own information sources. (Pl.’s Opp’n at 31). In order for the federal
+
+ government to maintain an office on Department of Correction land, the Attorney General
+
+ may enter into a cooperative agreement with New York City, New York City Department
+
+ of Correction, or the Commissioner of the New York City Department of Correction. (See
+
+ Pl.’s Opp’n at 22). New York City has currently opted not to enter into such agreements,
+
+ which may upset the federal government’s immigration enforcement priorities. N.Y.C
+
+ Administrative Code § 10-178(e). But the “possibility that federal enforcement priorities
+
+ might be upset is not enough to provide a basis for preemption.” Kansas, 589 U.S. at 212.
+
+
+
+
+                                              16
+Case 1:25-cv-04084-RER-PK                Document 79 Filed 10/15/26                   Page 17 of 25 PageID #:
+                                               <pageID>
+
+
+
+ New York City’s exercise of volition is evidence of non-conscription; it is not a basis for
+
+ preemption.
+
+         The proffered conflicts amount to mere tensions, as opposed to true obstacles,
+
+ and the United States’ conflict preemption claim therefore fails.
+
+      III.        The Tenth Amendment’s Anticommandeering Doctrine Precludes Relief
+
+         Even were the Court to find that the United States has standing and the challenged
+
+ provisions are preempted—both answered in the negative above—United States’ claims
+
+ would still fail because the anticommandeering doctrine of the Tenth Amendment to the
+
+ Constitution of the United States precludes relief.
+
+         “The powers not delegated to the United States by the Constitution, nor prohibited
+
+ by it to the States, are reserved to the States respectively, or to the people.” U.S. Const.
+
+ amend. X.
+
+         The legislative powers granted to Congress are sizable, but they are not
+         unlimited. The Constitution confers on Congress not plenary legislative
+         power but only certain enumerated powers. Therefore, all other legislative
+         power is reserved for the States, as the Tenth Amendment confirms. And
+         conspicuously absent from the list of powers given to Congress is the power
+         to issue direct orders to the governments of the States. The
+         anticommandeering doctrine simply represents the recognition of this limit
+         on congressional authority.
+
+ Murphy, 584 U.S. at 471. 4
+
+
+
+
+ 4 Adherence     to anticommandeering is important for three reasons. First, “a healthy balance of power
+ between the States and the Federal Government reduces the risk of tyranny and abuse from either front.’”
+ Id. at 473 (citation modified). Second, it promotes “political accountability” . . . “if a State imposes regulations
+ only because it has been commanded to do so by Congress, responsibility is blurred.” Id. at 473–74. Third,
+ it “prevents Congress from shifting the costs of regulation to the States.” Id. at 474. States are tasked with
+ “govern[ing] in accordance with the will of their citizens” and “[t]oday, as at the time of the founding, the
+ allocation of scarce resources among competing needs and interests lies at the heart of the political
+ process.” Alden v. Maine, 527 U.S. 706, 751 (1999).
+
+
+                                                           17
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26          Page 18 of 25 PageID #:
+                                        <pageID>
+
+
+
+        The United States argues it is “not seeking to compel participation in immigration
+
+ enforcement . . . but rather to remove Defendants’ express and implicit obstacles to the
+
+ Executive’s duty to carry out its immigration enforcement duties.” (Pl.’s Opp’n at 35) (citing
+
+ Compl. ¶¶ 7–8, 90). New York City replies “if accepted, [the United States’ claims] would
+
+ require the City to affirmatively assist the federal government in enforcing immigration
+
+ laws in violation of the Tenth Amendment’s anticommandeering doctrine.” (Defs.’ Reply
+
+ at 19). New York City is correct, at least partially.
+
+        The United States seeks injunctive and declaratory relief to preempt the
+
+ challenged provisions. (Compl. ¶ 4). If the challenged provisions were struck, while New
+
+ York City would not be obligated to carry out federal immigration enforcement, they would
+
+ be barred from prohibiting their agencies and employees from engaging in federal
+
+ immigration enforcement by expending personnel, property, and other resources to (1)
+
+ detain individuals and (2) implement inter-agency information-sharing, including
+
+ disclosing personally identifiable information, all potentially in violation of state law. And
+
+ of course, there is nothing within federal law that obligates states to participate in federal
+
+ immigration enforcement or compels states to comply therewith.
+
+        The United States’ preemption arguments amount to nothing more than a
+
+ backdoor around the Tenth Amendment and rest on a false distinction between (a)
+
+ compelling local governments’ participation in federal immigration enforcement and (b)
+
+ prohibiting local governments from dictating how their personnel and other resources may
+
+ be utilized towards federal immigration enforcement. (Pl.’s Opp’n at 35 (“And §§ 1373
+
+ and 1644 only forbid restricting assistance to immigration authorities—they do not
+
+ mandate action—and they leave states free to control how employees keep data and
+
+
+
+
+                                                18
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26          Page 19 of 25 PageID #:
+                                        <pageID>
+
+
+
+ spend their time—so long as employees remain permitted to voluntarily share information
+
+ with federal immigration authorities.”)). “The basic principle—that Congress cannot issue
+
+ direct orders to state legislatures—applies” to commands for “affirmative action” and the
+
+ imposition of “prohibitions.” Murphy, 584 U.S. at 455 (citation modified). If states cannot
+
+ remain free to control their agencies and employees to resist federal immigration
+
+ enforcement, which is within states’ constitutional prerogatives, the Tenth Amendment
+
+ anticommandeering doctrine means nothing.
+
+        “Congress cannot circumvent” the Court’s bar on “compelling States to enact or
+
+ enforce a federal regulatory program” by “conscripting the State’s officers directly.” Printz,
+
+ 521 U.S. at 935. If we take the United States’ argument to its logical end, it would have
+
+ New York City’s agencies and their individual employees determine for themselves the
+
+ extent to which they will comply with state and local law in the course of their duties. Such
+
+ a regime would preclude states and municipalities from controlling their agencies and
+
+ employees in the performance of their duties and directing the expenditure of municipal
+
+ resources and obviously violate federalism, contravene due process, and foreclose
+
+ efficiencies available through the implementation of uniform processes.
+
+        The United States’ claims hinge in large part on the applicability of City of New
+
+ York. (Compl. ¶¶ 43, 90; Pl.’s Opp’n at 35–36). In City of New York, the court found:
+
+        [W]e need not locate with precision the line between invalid federal
+        measures that seek to impress state and local governments into the
+        administration of federal programs and valid federal measures that
+        prohibit states from compelling passive resistance to particular
+        federal programs. It suffices to say that, at least in the context of the
+        City's facial challenge, Sections 434 and 642 are of the latter variety.
+
+
+
+
+                                                19
+Case 1:25-cv-04084-RER-PK             Document 79 Filed 10/15/26              Page 20 of 25 PageID #:
+                                            <pageID>
+
+
+
+ City of New York v. United States, 179 F.3d 29, 35 (2d Cir. 1999). 5 City of New York’s
+
+ continued viability post-Murphy however, is questionable. See New York v. United States
+
+ Dep’t of Just., 964 F.3d 150, 165 (2d Cir. 2020) (“[O]ur Circuit’s previous reliance on the
+
+ distinction between ‘measures that seek to impress state and local governments into the
+
+ administration of federal programs’ and ‘federal measures that prohibit states from
+
+ compelling passive resistance to particular federal programs’ in striking down a Tenth
+
+ Amendment challenge to Section 1373, City of New York, 179 F.3d at 35, is no longer
+
+ valid in light of Murphy.”) (Pooler, J. joined by Chin, J. and Carney, J., dissenting). 6
+
+ Considering its questionable viability and the growing contrary authority, the Court
+
+ respectfully declines to follow City of New York and finds sections 1373(a) and 1644
+
+ violate the Tenth Amendment’s anti-commandeering doctrine.
+
+     IV.         The United States’ Intergovernmental Immunity Claims Fail
+
+         The intergovernmental immunity doctrine prohibits “state laws that either
+
+ ‘regulat[e] the United States directly or discriminat[e] against the Federal Government or
+
+ those with whom it deals’ (e.g., contractors).” United States v. Washington (Washington
+
+ II), 596 U.S. 832, 838–39 (2022) (quoting North Dakota v. United States, 495 U.S. 423,
+
+ 435 (1990) (plurality opinion) (other citations omitted).
+
+
+
+
+ 5 Section 434 of the Personal Responsibility and Work Opportunity Reconciliation Act has been codified as
+
+ 8 U.S.C. § 1644. Section 642 of the Illegal Immigration Reform and Immigrant Responsibility Act has been
+ codified as 8 U.S.C. § 1373.
+ 6 Numerous other federal courts post-Murphy have found similar challenges based on sections 1373 and
+
+ 1644 to violate the Anti-Commandeering doctrine. E.g., Colorado, 455 F. Supp. 3d at 1057; Grewal, 475 F.
+ Supp. 3d at 378.
+
+
+                                                     20
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26          Page 21 of 25 PageID #:
+                                        <pageID>
+
+
+
+                   a. Direct Regulation
+
+        The Court has “decisively rejected the argument that any state regulation which
+
+ indirectly regulates the Federal Government’s activity is unconstitutional.” North Dakota,
+
+ 495 U.S. at 434–35 (citations omitted). “The Court has more recently adopted a functional
+
+ approach to claims of governmental immunity, accommodating of the full range of each
+
+ sovereign’s legislative authority and respectful of the primary role of Congress in resolving
+
+ conflicts between the National and State Governments.” Id. at 435.
+
+        The United States argues New York City’s enforcement of the challenged
+
+ provisions “effects direct regulation of the Federal Government” . . . “[b]y refusing to honor
+
+ civil detainers and warrants expressly authorized by Congress,” “restricting access to
+
+ detention facilities and the aliens within them,” and “limit[ing] the circumstances in which
+
+ federal immigration authorities may interrogate illegal aliens.” (Compl. ¶¶ 112–14).
+
+        The parameters of direct regulation is an open question in this Circuit. New York
+
+ City advocates this Court adhere to McHenry County. “As the Seventh Circuit has
+
+ explained, while ‘States may not regulate the federal government directly,’ a regulation
+
+ prohibiting state or local government cooperation with the federal government ‘regulates
+
+ only State and local entities and law enforcement—not the federal government.’” (Defs.’
+
+ Mem. at 33 (citing McHenry Cnty. v. Kwame Raoul, 44 F.4th 581, 592–93 (7th Cir. 2022)).
+
+ Whereas the United States propones this Court follow CoreCivic. (Pl.’s Opp’n at 20). In
+
+ CoreCivic, the Third Circuit rejected New Jersey’s assertion that “a law regulates the
+
+ federal government directly only if the law’s text applies to it” and that in effect the
+
+ challenged provision “carries the same sting as a law whose text applies expressly to the
+
+ federal government.” CoreCivic, Inc. v. Governor of New Jersey, 145 F.4th 315, 321–22
+
+
+
+
+                                               21
+Case 1:25-cv-04084-RER-PK        Document 79 Filed 10/15/26          Page 22 of 25 PageID #:
+                                       <pageID>
+
+
+
+ (3d Cir. 2025). Since neither case binds, the Court looks to the doctrines “constitutional
+
+ foundations” and “the actual workings of our federalism.” United States v. New Mexico,
+
+ 455 U.S. 720, 731 (1982).
+
+       The intergovernmental immunity doctrine originates from McCulloch v. Maryland.
+
+ In McCulloch the Court held that under the Supremacy Clause, “[t]he states have no
+
+ power, by taxation or otherwise, to retard, impede, burden, or in any manner control the
+
+ operations of the constitutional laws enacted by congress to carry into effect the powers
+
+ vested in the national government.” McCulloch v. State, 17 U.S. 316, 317 (1819).
+
+       Originally we understood it as barring any state law whose effect . . . was or
+       might be to increase the cost to the Federal Government of performing its
+       functions, including laws that imposed costs on federal contractors. We later
+       came to understand the doctrine, however, as prohibiting state laws that
+       either regulate the United States directly or discriminate against the Federal
+       Government or those with whom it deals. (e.g., contractors).
+
+ United States v. Washington, 596 U.S. 832, 838 (2022) (citation modified).
+
+       One obvious and natural constraint of the intergovernmental immunity doctrine is
+
+ the anti-commandeering doctrine.
+
+       Although the anticommandeering principle is simple and basic, it did not
+       emerge in our cases until relatively recently . . . The pioneering case was New
+       York. . . Justice O’Connor’s opinion for the Court traced this rule to the basic
+       structure of government established under the Constitution. The Constitution,
+       she noted, “confers upon Congress the power to regulate individuals, not
+       States.” In this respect, the Constitution represented a sharp break from the
+       Articles of Confederation. “Under the Articles of Confederation, Congress
+       lacked the authority in most respects to govern the people directly.” Instead,
+       Congress was limited to acting “only upon the States” . . . The Constitutional
+       Convention considered plans that would have preserved this basic structure,
+       but it rejected them in favor of a plan under which “Congress would exercise
+       its legislative authority directly over individuals rather than over States” . . .
+       “We have always understood that even where Congress has the authority
+       under the Constitution to pass laws requiring or prohibiting certain acts, it
+       lacks the power directly to compel the States to require or prohibit those acts.”
+       . . . “Congress may not simply commandee[r] the legislative processes of the
+
+
+
+
+                                               22
+Case 1:25-cv-04084-RER-PK        Document 79 Filed 10/15/26          Page 23 of 25 PageID #:
+                                       <pageID>
+
+
+
+       States by directly compelling them to enact and enforce a federal regulatory
+       program.”
+
+ Murphy, 584 U.S. at 471–72 (2018) (citation modified) (quoting New York v. United
+
+ States, 505 U.S. 144, 162–66, 170 (1992)).
+
+       “At least to some degree, the doctrines are opposite sides of the same coin . . . a
+
+ finding that any of the challenged provisions violates intergovernmental immunity would
+
+ imply that a Defendant must assist with the federal government’s immigration
+
+ enforcement effort.” Minnesota, 2026 WL 2085701 at *22; see also California, 921 F.3d
+
+ at 891 (“A finding that SB 54 violates the doctrine of intergovernmental immunity would
+
+ imply that California cannot choose to discriminate against federal immigration authorities
+
+ by refusing to assist their enforcement efforts—a result that would be inconsistent with
+
+ the Tenth Amendment and the anticommandeering rule.”)
+
+       This Court declines to define the bounds of direct regulation here but finds that
+
+ enjoining the challenged provisions would result in the commandeering of state and local
+
+ resources. Such a holding would not “accommodate the full range of each sovereign’s
+
+ legislative authority.” North Dakota, 495 U.S. at 435 (citation modified). Therefore, the
+
+ challenged provisions cannot be classified as functionally regulating the United States.
+
+                  b. Discrimination
+
+       “[A] state law is . . . no longer unconstitutional just because it indirectly increases
+
+ costs for the Federal Government, so long as the law imposes those costs in a neutral,
+
+ nondiscriminatory way.” Washington II, 596 U.S. at 839. “The State does not discriminate
+
+ against the Federal Government and those with whom it deals unless it treats someone
+
+ else better than it treats them.” Washington v. United States (Washington I), 460 U.S.
+
+ 536, 544–45 (1983) (citation omitted).
+
+
+                                              23
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26           Page 24 of 25 PageID #:
+                                        <pageID>
+
+
+
+        The United States argues that Washington I and North Dakota “did not create a
+
+ comparator requirement, but simply made the common-sense observation that the
+
+ Federal Government cannot be said to experience discrimination when it receives more
+
+ favorable treatment than someone else.” (Pl.’s Opp’n at 24). The United States is wrong.
+
+ “Differential treatment is critical to a discrimination-based intergovernmental immunity
+
+ claim.” New York, 814 F. Supp. 3d at 282 (citation modified) (citing McHenry Cnty., 44
+
+ F.4th at 594). “[A] comparator is necessary.” New York, 810 F. Supp. 3d at 353. The
+
+ United States discrimination claim fails for lack of a comparator.
+
+        The United States does not and cannot identify a similarly situated entity. State
+
+ and local agencies and their officers do not enforce immigration law, nor do members of
+
+ the public. (Pl.’s Opp’n at 22). As the United States concedes, the Federal Government
+
+ holds the “exclusive charge of enforcing immigration law.” (Id. at 23). Not only are other
+
+ federal law enforcement agencies with different charges differently situated, “[f]or a state
+
+ law to unconstitutionally discriminate against the federal government, it must treat
+
+ comparable classes of federal and non-federal employees differently, not different
+
+ classes of federal employees.” Illinois, 796 F. Supp. 3d at 534 (citing Washington I, 596
+
+ U.S. at 839) (citation omitted). “[T]he fact that a law affects an exclusively federal domain
+
+ is not evidence of discrimination,” rather “failure to identify a comparator ends the inquiry.”
+
+ New York, 810 F. Supp. 3d at 353.
+
+        In alignment with other federal courts, this Court finds that New York City’s
+
+ provisions that single out immigration enforcement do not discriminate against the federal
+
+ government. See, e.g. Illinois, 796 F. Supp. 3d at 533–34; Minnesota, 2026 WL 2085701,
+
+ at *19–22.
+
+
+
+
+                                                24
+Case 1:25-cv-04084-RER-PK         Document 79 Filed 10/15/26      Page 25 of 25 PageID #:
+                                        <pageID>
+
+
+
+                                            ***
+
+        Accordingly, Defendants’ motion to dismiss the complaint is granted.
+
+                                       CONCLUSION
+
+        For the reasons set forth above, the Court grants Defendants’ motion to dismiss.
+
+ The Clerk of Court is respectfully directed to close the case.
+
+        SO ORDERED.
+
+        /s/ Ramón E. Reyes, Jr.
+        RAMÓN E. REYES, JR.
+        United States District Judge
+
+        Dated: October 15, 2026
+               Brooklyn, New York
+
+
+
+
+                                              25
+

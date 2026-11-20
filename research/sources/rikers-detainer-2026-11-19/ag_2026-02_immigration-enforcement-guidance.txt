@@ -1,0 +1,956 @@
+Office of the New York State                                                                                                                     Letitia James
+Attorney General                                                                                                                             Attorney General
+
+
+
+Guidance concerning local authorities’ participation
+in immigration enforcement and model provisions
+Updated January 2025, replacing guidance issued January 2017.
+
+
+Part I: Purpose
+The purpose of this guidance is two-fold: (1) to describe the legal landscape governing the participation of local
+authorities in immigration enforcement; and (2) to assist local authorities in New York State by offering model language
+that can be used to enact local laws or policies that limit participation in immigration enforcement activities.1 The Office of
+the New York State Attorney General believes that effective implementation of the policies set forth in this guidance fosters
+a relationship of trust between law enforcement and immigrant communities; promotes public safety for all New Yorkers;
+and best directs state and local resources.
+
+As explained in detail in Part II of this guidance, as a general rule, it is not a crime for an undocumented individual to
+remain present in the United States.2 In addition, undocumented individuals—like all other New Yorkers—are afforded
+certain rights by the New York State and United States Constitutions, as well as by federal, state, and local statutes,
+regulations, and policies. Local law enforcement agencies (LEAs)3 must adhere to the requirements and prohibitions
+of the New York State and United States Constitutions and federal, state, and local law in serving the public, regardless
+of whether an individual is lawfully present in the U.S. or otherwise subject to immigration enforcement. For instance,
+under New York state law, LEAs are not ordinarily permitted to detain people at the request of federal civil immigration
+authorities alone without a judicial warrant.4 However, LEAs may notify federal immigration authorities of an individual’s
+release date, without extending their detention, under narrow circumstances as described below in Part III, Principle 2.
+
+Part III of this guidance offers model language that can be used to enact laws and policies to govern how localities
+respond to federal requests for assistance with civil immigration enforcement. Several states and hundreds of localities
+across the country—including New York City and other local governments in New York State—have enacted laws and
+policies that restrict the involvement of state and local law enforcement agencies with federal immigration enforcement.
+See Appendix B.
+
+
+
+
+1. Jurisdictions that enact such laws or policies have at times been referred to as “sanctuary” jurisdictions. However, “sanctuary” is not a legal term and does not have any
+fixed or uniform legal definition.
+2. See Arizona v. United States, 567 U.S. 387, 407 (2012) (citation omitted).
+3. “LEAs” include, among others, local police personnel, sheriffs’ department personnel, local corrections and probation personnel, school safety or resource officers, and
+school police officers.
+4. People ex rel. Wells v. DeMarco, 168 A.D.3d 31 (2d Dep’t 2018).
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                                                            1
+Part II: Laws governing local authority participation in immigration
+enforcement
+
+A. The Tenth Amendment to the U.S. Constitution
+The Tenth Amendment to the U.S. Constitution5 limits the federal government’s ability to mandate particular action
+by states and localities, including in the area of federal immigration law enforcement and investigations. The federal
+government cannot “compel the States to enact or administer a federal regulatory program,”6 or compel state employees
+to participate in the administration of a federally enacted regulatory scheme.7 Importantly, these Tenth Amendment
+protections extend not only to states but to localities and their employees.8 Voluntary cooperation with a federal scheme
+does not present Tenth Amendment issues,9 but any such cooperation must be examined for compliance with other
+federal, state, and local laws.
+
+B. The N.Y. Constitution and Home Rule Powers
+Under the home rule powers granted by the New York State Constitution,10 as implemented by the Municipal Home Rule
+Law,11 a local government may adopt a local law relating to the “government, protection, order, conduct, safety, health
+and well-being of persons” therein, as long as its provisions are not inconsistent with the state constitution or a general
+state law.12
+
+The model provisions for localities outlined in Part III are consistent with both the state constitution and existing state law.
+
+C. Law Governing Treatment of Federal Immigration Detainer Requests
+Federal civil immigration authorities, including U.S. Immigration and Customs Enforcement (ICE), U.S. Customs and Border
+Protection (CBP), and others that may engage in civil immigration enforcement activity, commonly issue civil immigration
+“detainers”13 to LEAs. A detainer is a request issued by a federal immigration authority to another agency that the recipient
+agency hold an individual in its custody for up to 48 hours beyond that individual’s scheduled release date and time and
+notify federal immigration authorities prior to release. This hold is requested to allow the federal immigration authorities
+to determine whether to take custody of the individual to pursue civil immigration enforcement and, if so, to come and
+take custody.
+
+
+
+
+5. The Tenth Amendment to the United States Constitution provides that “powers not delegated to the United States by the Constitution, nor prohibited by it to the States,
+are reserved to the States respectively, or to the people.” U.S. Const., Am. X.
+6. New York v. United States, 505 U.S. 144, 188 (1992). The compelled conduct invalidated in New York v. United States was a federal statutory requirement that states enact
+legislation providing for the disposal of their radioactive waste or else take title to that waste. See id. at 152-54.
+7. Printz v. United States, 521 U.S. 898, 935 (1997). The compelled conduct invalidated in Printz was the Brady Handgun Violence Prevention Act’s requirement that state and
+local law enforcement officers perform background checks on prospective firearm purchasers. See id. at 903-04.
+8. See id. at 904-05 (allowing county-level law enforcement officials to raise Tenth Amendment claim); see also Lomont v. O’Neill, 285 F.3d 9, 13 (D.C. Cir. 2002) (same); City of
+New York v. United States, 179 F.3d 29, 34 (2d Cir. 1999) (city may raise a Tenth Amendment claim), cert. denied, 528 U.S. 1115 (2000).
+9. See Lomont, 285 F.3d at 14.
+10. N.Y. Const., Art. IX, § 2(c)(ii)(10).
+11. Municipal Home Rule Law § 10(1)(ii)(a)(12).
+12. See, e.g., Eric M. Berman, P.C. v. City of New York, 25 N.Y.3d 684, 690 (2015).
+13. Such detainers are issued pursuant to 8 C.F.R. § 287.7. See DHS Form I-247D (“Immigration Detainer—Request for Voluntary Action”) (5/15), available at
+https://www.ice.gov/sites/default/files/documents/Document/2016/I-247D.PDF.
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                                                                 2
+A detainer is a request, and there is no legal obligation for a local law enforcement agency to detain an individual on such
+a detainer. Detainers are often accompanied by an administrative warrant issued by ICE.14 An administrative warrant is
+prepared and issued by federal immigration authorities and directs federal officials to arrest a noncitizen for removal or
+removal proceedings. It is not a judicial warrant . A judicial warrant refers to a warrant based on probable cause and
+issued by an Article III federal judge or a federal magistrate judge that authorizes federal immigration authorities to take
+into custody the person who is the subject of the warrant.15 A judicial warrant does not include a civil immigration warrant,
+administrative warrant, or other document signed only by federal immigration officials.
+
+An arrest and seizure occurs under the Fourth Amendment and the New York Constitution16 when state or local authorities
+detain an individual beyond the time authorized under state law in order to transfer that individual to the custody of federal
+immigration authorities.17 State law bars state and local law enforcement officers from arresting and detaining individuals
+for civil immigration violations alone—even if federal immigration authorities have issued a detainer or administrative
+arrest warrant.18 Arrests and detention by state or local law enforcement agencies in reliance on an administrative arrest
+warrant or detainer alone are invalid because those documents are not judicial warrants issued by courts, and do not
+provide probable cause to believe an individual has committed a crime or offense.19 It is immaterial that the administrative
+arrest warrants and detainers are signed by federal immigration authorities, and may use words like “probable cause.”20
+A determination of whether the LEA has probable cause to further detain an individual will turn on all the facts and
+circumstances, not simply words that federal immigration authorities place on their forms.
+
+In accordance with the federal and state constitutions, New York law permits arrest and detention only when law
+enforcement officials have probable cause to believe that an individual has committed a crime or offense.21 A judicial
+warrant, signed by an Article III or federal magistrate judge, would demonstrate the necessary probable cause, and
+justify the arrest and detention.22 Absent a judicial warrant, however, further detention is permissible only upon a separate
+showing of probable cause that the individual committed a crime or offense, or that an exception to the probable cause
+requirement applies.23
+
+
+
+14. See Form I-200, Warrant for Arrest of Alien, available at https://www.ice.gov/sites/default/files/documents/Document/2017/I-200_SAMPLE.PDF, or Form I-205. Warrant of
+Removal/Deportation, available at https://www.ice.gov/sites/default/files/documents/Document/2017/I-205_SAMPLE.PDF . Examples are also provided in Appendix A.
+15. In some circumstances, a judicial warrant may be signed by a clerk in a federal district court. Fed. R. Crim. P. 9(b).
+16. The New York State Constitution has a provision similar to the Fourth Amendment: Article I, § 12, which provides that “The right of the people to be secure in their
+persons, houses, papers and effects, against unreasonable searches and seizures, shall not be violated, and no warrants shall issue, but upon probable cause, supported
+by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.”
+17. Wells, 168 A.D.3d at 39-40. An arrest or seizure takes place when “a reasonable person would have believed he was not free to leave” the presence of police. Florida v.
+Royer, 460 U.S. 491, 502 (1983); see also People v. Yukl, N.Y.2d 585, 589 (1969). Such a detention may occur within or outside the jail setting and may be prolonged or brief.
+18. See id.
+19. Id. at 45-46. Absent a judicial warrant, a police officer may arrest a person if they have reasonable cause to believe that person committed an offense (if committed
+in the officer’s presence) or committed a crime (whether committed in their presence or otherwise). N.Y. Crim. Pro. Law § 140.10(1). “Reasonable cause” and “probable
+cause,” the term used in federal jurisprudence, are equivalent standards. See People v. Valentine, 17 N.Y.2d 128, 132 (1966). “Probable cause” means more than mere
+suspicion or that something is at least more probable than not. Whereas a “crime” is a misdemeanor or a felony, an “offense” is defined as “conduct for which a sentence
+to a term of imprisonment or to a fine is provided by any law of [New York] state or by any law, local law or ordinance of a political subdivision of this state.” Penal Law §
+10.00(1), (6).
+20. For example, a “Warrant of Removal” (Form I-205) is issued by immigration officials, and not by a neutral factfinder based on a finding of probable cause that the
+individual committed a crime. See 8 C.F.R. § 241.2. In addition, DHS Form I-247D (“Immigration Detainer—Request for Voluntary Action”) (5/15), available at
+https://www.ice.gov/sites/default/files/documents/Document/2016/I-247D.PDF, includes a checkbox for ICE to designate that “Probable Cause Exists that The Subject
+is a Removable Alien.” But it is not a crime to be in the U.S. unlawfully. See supra at __. Thus, ICE’s checking of a “probable cause” box on the I-247D does not constitute
+probable cause to believe that an individual has committed a crime.
+21. Wells, 168 A.D.3d at 42-43; see also Dunaway v. New York, 442 U.S. 200, 213 (1979) (noting general rule that “Fourth Amendment seizures are ‘reasonable’ only if based on
+probable cause”).
+22. Wells, 168 A.D.3d at 42-43.
+23. See, e.g., Gerstein v. Pugh, 420 U.S. 103, 111-12 (1975).
+
+
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                                                                   3
+Examples of unauthorized immigration-related detentions include:
+         • A local sheriff’s re-arrest and re-incarceration of an individual following his sentencing to “time-served,” based
+         solely upon an administrative detainer issued by ICE;
+         • The delayed release of an incarcerated individual who has completed his or her criminal sentence or who has
+         posted bail until immigration authorities have arrived to the facility to effect a civil immigration arrest; and
+         • The extended detention of a vehicle’s occupants following a roadside car stop until ICE officers arrive to question
+         and/or arrest the occupants in relation to a suspected civil immigration violation.
+
+Excessive administrative delays, such as unusual delays in bail processing, may also rise to the level of an unauthorized
+seizure. When a county jail directly receives cash bail or is presented with proof of proper payment of bail for a person in
+custody, he or she “must be forthwith released from custody.”24 Intentional delays in processing a bail deposit in order to
+time the person’s release with the arrival of immigration authorities, or otherwise because of the person’s immigration or
+citizenship status, may constitute an unlawful seizure.
+
+Consistent with New York law, some federal courts—including a federal district court in New York—also have held that
+an LEA violated the Fourth Amendment rights of an individual whom the LEA held past his or her normal release date in
+response to a detainer request from federal immigration authorities.25 Indeed, federal courts have held that LEAs may be
+liable for monetary damages for holding individuals for civil immigration violations.26 As in New York, these federal courts
+have reasoned that detainer requests from federal immigration authorities do not constitute probable cause to believe
+that the individual has committed a crime; therefore, further detention is unconstitutional. Related questions remain the
+subject of ongoing litigation, including in New York.27
+
+Notwithstanding the substantial limitations on LEAs’ authority to honor detainers from federal immigration authorities,
+LEAs have authority to honor such detainers if the federal authorities present a judicial warrant. Importantly, an LEA’s
+compliance with ICE detainers is voluntary—not mandatory—and compliance with such requests remains at the discretion
+of the LEA.28 This guidance recommends that LEAs honor detainers or requests for further detention from federal
+immigration authorities when the federal immigration authorities present a judicial warrant. Additionally, LEAs may, in
+their discretion, determine to notify federal immigration authorities of an individual’s release date, without extending their
+detention, under narrow circumstances as described in Part III, Principle 2. Nothing in this guidance should be interpreted to
+modify the authority of LEAs to hold individuals based on probable cause for a state or federal offense in accordance with
+existing state law and to engage in coordination with federal criminal law enforcement authorities under the LEA’s existing
+policies and protocols. Such an approach promotes public safety in a manner that also respects the constitutional rights of
+individuals and protects LEAs from potential legal liability.
+
+
+
+
+24. N.Y. Crim. Pro. Law § 520.15; see also Arteaga v. Conner, 88 N.Y. 403, 408 (1882).
+25. See, e.g., Santos v. Frederick Cnty. Bd. of Comm’rs, 725 F.3d 451, 464-65 (4th Cir. 2013); Orellana-Castaneda v. County of Suffolk, No. 2:17-cv-04267, Dkt. No. 166 (E.D.N.Y. Jan. 2,
+2025); Miranda-Olivares v. Clackamas Cnty., 12-CV-02317, 2014 U.S. Dist. LEXIS 50340, at *32-33 (D. Or. April 11, 2014); see also Gerstein, 420 U.S. at 111-12 (discussing underlying
+basis of Fourth Amendment’s probable cause requirement).
+26. See, e.g., Santos, 725 F.3d at 464-66, 470 (holding that locality was not entitled to qualified immunity in § 1983 lawsuit seeking, inter alia, compensatory damages, where
+deputies violated arrestee’s constitutional rights by detaining her solely on suspected civil violations of federal immigration law).
+27. See, e.g., Orellana-Castaneda v. County of Suffolk, No. 2:17-cv-04267 (E.D.N.Y.) (summary judgment granted in favor of plaintiff class on liability as to their claims that
+LEA violated plaintiffs’ Fourth Amendment rights through policy of honoring ICE detainers; remedy determination pending); Onadia v. City of New York, No. 300940/2010e
+(Bronx Sup. Ct.) (recently settled class action challenge to detention of people at Rikers Island past their scheduled release date based on requests by federal immigration
+authorities prior to December 21, 2012).
+28. See Letter from New York Attorney General Eric T. Schneiderman to New York State Police Chiefs and Sheriffs (Dec. 2, 2014), available at
+https://ur.ag.ny.gov/sites/default/files/letters/AG_Letter_And_Memo_Secure_Communities_12_2.pdf.
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                                                                        4
+In addition, Section 287(g) of the Immigration and Nationality Act (INA)29 allows state and local law enforcement agencies
+to enter into agreements with the Department of Homeland Security, under which state and local law enforcement officers
+may perform certain functions of federal immigration officials to the extent allowed by state and local law.30 But Section
+287(g) does not permit states or localities to make arrests or detain individuals for immigration violations—e.g., in response
+to a detainer request from federal immigration authorities—in the absence of such an agreement and all that such an
+agreement may entail, such as appropriate training.31 And it remains unsettled in New York law whether a Section 287(g)
+agreement could justify state and local law enforcement to arrest and detain for immigration violations, given that such
+arrests and detention would otherwise be unlawful.32 Because such arrests and detention by LEAs may well violate New
+York law even with a Section 287(g) agreement, this guidance advises LEAs not to enter into such agreements. Any other
+agreements or arrangements between LEAs and federal immigration authorities to effectuate civil arrests likewise run a
+substantial risk of violating New York law unless the arrests are conducted pursuant to a judicial warrant. Section 287(g)
+and other agreements between local law enforcement and immigration authorities to effectuate civil arrests also may
+harm cooperation and trust between LEAs and immigrants—impacting the willingness of victims and witnesses to come
+forward and cooperate—and draw resources away from essential local law enforcement functions.
+
+Finally, LEAs should be aware that New York’s Protect Our Courts Act specifically prohibits civil arrests without a judicial
+warrant or order of individuals inside, on their way to, or leaving from state, city, and municipal courthouses.33
+
+D. Law Governing Information Sharing with Federal Authorities
+In addition to issuing detainer requests, federal civil immigration authorities may also seek information about individuals in
+an LEA’s custody. For example, ICE may request notification of an individual’s release date, time, and location to enable ICE
+to take custody of the individual upon release.
+
+This guidance recommends that, unless presented with a judicial warrant, LEAs should not provide sensitive information
+that is not generally available to the public, such as information about an individual’s release details or home address. See
+infra Part III, Principle 3. This approach enables LEAs to protect individual privacy rights and ensure positive relationships
+with the communities they serve, which in turn promotes public safety.34
+
+
+
+
+29. This provision is codified at 8 U.S.C. § 1357(g).
+30. Wells, 168 A.D.3d 31 at 49.
+31. Id.
+32. Id.
+33. Civ. Rights Law § 28. State-level Executive Order 170 addresses the conduct of state officers and employees, including law enforcement officers. It prohibits state law
+enforcement officers from using resources, equipment, or personnel for the purpose of detecting and apprehending any individual suspected or wanted only for violating
+a civil immigration offense. Such officers have no authority to take any police action solely because the person is undocumented. This includes identifying, questioning,
+detaining, or demanding to inspect federal immigration documents. Executive Order 170.1 provides that civil arrests by federal immigration authorities may only be
+executed within state facilities when accompanied by a judicial warrant or order authorizing the custody unless the civil arrest is related to a proceeding within the facility.
+34. State Executive Order 170 prohibits state officers or employees, including state law enforcement officers, from disclosing information to federal immigration
+authorities for the purpose of federal civil immigration enforcement, unless required by law. It provides that state law enforcement officers shall not inquire about
+immigration status unless relevant to an investigation of the individual’s illegal activity. In addition, Vehicle and Traffic Law § 201(12)(b) requires any entity that receives
+or has access to records or information from the Department of Motor Vehicles to certify that the entity shall not use such records or information for civil immigration
+purposes or disclose such records or information to any agency that primarily enforces immigration law, unless such disclosure is pursuant to a cooperative arrangement
+between city, state and federal agencies which arrangement does not enforce immigration law and which disclosure is limited to the specific records or information
+being sought pursuant to such arrangement.
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                                                               5
+          (1) 8 U.S.C. § 1373
+Federal law “does not require, in and of itself, any government agency or law enforcement official to communicate with
+[federal immigration authorities].”35 Rather, federal law limits the ability of state and local governments to enact an
+outright ban on sharing certain types of information with federal immigration authorities. Specifically, 8 U.S.C. § 1373
+provides that state and local governments cannot prohibit employees or entities “from sending to, or receiving from,
+[federal immigration authorities] information regarding the citizenship or immigration status, lawful or unlawful, of any
+individual.”36 In addition, federal law bars restrictions on “exchanging” information regarding “immigration status” with
+“any other Federal, State, or local government entity” or on “maintaining” such information.37 By their own language,
+these laws apply only to information regarding an individual’s “citizenship or immigration status.”
+
+Section 1373 thus does not impose an affirmative mandate to share information. Instead, this law simply provides that
+localities may not forbid or restrict their employees from sharing information regarding an individual’s “citizenship or
+immigration status.” Nothing in Section 1373 restricts a locality from declining to share other information with federal
+immigration authorities, such as non-public information about an individual’s release, court appearance, or address.
+
+In addition, Section 1373 does not require local governments to collect information about an individual’s immigration
+status. Thus, local governments can adopt policies prohibiting their officers and employees from inquiring about or
+maintaining information related to a person’s immigration status except where required by law.38
+
+The Tenth Amendment may further limit Section 1373’s reach. The Tenth Amendment’s reservation of power to the states
+prohibits the federal government from “compel[ling] the States to enact or administer a federal regulatory program” or
+“commandeering” state government employees to participate in the administration of a federally enacted regulatory
+scheme.39 As noted above, these Tenth Amendment protections extend to localities and their employees.
+
+Although the United States Court of Appeals for the Second Circuit has rejected a facial Tenth Amendment challenge
+to Section 1373, that court has recognized that a city may be able to forbid voluntary information sharing where such
+information sharing interferes with the operations of state and local government.40 As the Second Circuit observed, “[t]he
+obtaining of pertinent information, which is essential to the performance of a wide variety of state and local governmental
+functions, may in some cases be difficult or impossible if some expectation of confidentiality is not preserved,” and “[p]
+reserving confidentiality may in turn require that state and local governments regulate the use of such information by their
+employees.”41 Accordingly, the Tenth Amendment may be read to limit the reach of Section 1373 where a state or locality
+can show that the statute creates “an impermissible intrusion on state and local power to control information obtained in
+the course of official business or to regulate the duties and responsibilities of state and local governmental employees”—
+such as the impairment of the entity’s ability to collect information necessary to its functioning—“if some expectation of
+confidentiality is not preserved.”42
+
+
+
+35. H.R. Rep. No. 104-725, Subtitle B, § 6, at 383 (1996).
+36. 8 U.S.C. § 1373(a)-(b) (emphasis added).
+37. Id. § 1373(b) (emphasis added).
+38. Under a New York City Executive Order, for example, officers and employees (other than law enforcement officers) are not permitted to inquire about a person’s
+immigration status “unless: (1) Such person’s immigration status is necessary for the determination of program, service or benefit eligibility or the provision of . . . services;
+or (2) Such officer or employee is required by law to inquire about such person’s immigration status.” N.Y.C. Exec. Order No. 41, § 3(a) (2003).
+39. New York, 505 U.S. at 188; Printz, 521 U.S. at 916.
+40. City of New York, 179 F.3d at 35-37.
+41. Id.
+41. Id. at 36, 37.
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                                                                 6
+Some jurisdictions have adopted policies expressly restricting the disclosure of immigration-status information to any
+third parties, including federal authorities, on the grounds that confidentiality is necessary to gather this information and
+the information is crucial to various governmental functions. For these reasons, New York City, for example, prohibits its
+employees from “disclos[ing] confidential information”—including information relating to “immigration status”—except
+under certain circumstances (e.g., suspicion of illegal activity unrelated to undocumented status or the investigation of
+potential terrorist activity), or if “such disclosure is required by law.”43
+
+         (2) Freedom of Information Law
+Disclosure of information held by the government is also governed by New York’s Freedom of Information Law (FOIL).
+While FOIL generally requires state and local agencies to make publicly available upon request all records not specifically
+exempt from disclosure by state or federal statute,44 FOIL also mandates that an agency withhold such records where
+disclosure would “constitute an unwarranted invasion of personal privacy.”45 Non-public information about an individual,
+such as home address, date and place of birth, or private telephone number, would likely be exempt from disclosure on
+personal privacy grounds.46
+
+E. Law Governing the Federal Government’s Power to Condition Federal Grants
+States and localities have in the past faced threats to their federal funding for asserted violations of 8 U.S.C. § 1373, or other
+asserted hindrance to the enforcement of federal immigration law. The federal government provides New York state and
+its localities with numerous grants in areas ranging from education and health care to social services and criminal justice.
+Each grant is governed by different statutory and regulatory schemes. The requirements and provisions of those schemes
+may restrict the federal government’s ability to withhold funding and thus should be closely and individually analyzed.
+
+Although the federal government has latitude to condition its funding to states and localities on their fulfillment of certain
+conditions, the U.S. Supreme Court has established some limitations on that authority. First, the federal government
+cannot use its spending power “to induce the States to engage in activities that would themselves be unconstitutional”;
+for example, it cannot condition a grant of federal funds on invidiously discriminatory state action.47 Second, any funding
+conditions must be reasonably related to the federal interest in the program at issue.48 Third, the condition must be stated
+“unambiguously” so that the recipient can “voluntarily and knowingly” decide whether to accept those funds and the
+associated requirements.49 And finally, the amount of federal funding that a noncomplying state would forfeit cannot be so
+large that the state would be left with “no real option but to acquiesce” and accept the condition.50
+
+
+
+
+43. N.Y.C. Exec. Order No. 41, Preamble, § 2 (2003).
+44. Public Officers Law § 87(2).
+45. Id. § 89(2)(b); see also In re Massaro v. N.Y. State Thruway Auth., 111 A.D.3d 1001, 1003-04 (3d Dep’t 2013) (records containing employee names, addresses, and Social
+Security numbers subject to personal privacy exemption under FOIL).
+46. These examples are illustrative, not exhaustive.
+47. South Dakota v. Dole, 483 U.S. 203, 210 (1987).
+48. In Dole, the Supreme Court held that Congress could permissibly withhold 5% of certain highway funds from states that failed to raise their drinking age to 21 because
+raising the drinking age was “directly related to one of the main purposes for which highway funds are expended,” namely “safe interstate travel.” Id. at 208-209.
+49. See, e.g., Pennhurst State Sch. & Hosp. v. Halderman, 451 U.S. 1, 17 (1981).
+50. See, e.g., Nat’l Fed. of Ind. Bus. v. Sebelius, 132 S. Ct. 2566, 2604 (2012); Dole, 483 U.S. at 209.
+
+
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                                                               7
+Depending on the nature and amount of any federal funding cut, states and localities may be able to challenge the
+defunding on one or more statutory or constitutional grounds. However, such challenges have not always prevailed.
+For instance, in 2017, the federal government added conditions to the receipts of federal funds to support local law
+enforcement through the Edward Byrne Memorial Justice Assistance Grant Program (Byrne JAG), including communicating
+certain citizenship and release date information to federal authorities, and giving federal authorities access to incarcerated
+undocumented individuals. Although some courts upheld challenges to these conditions,51 the Second Circuit rejected such
+a challenge, finding no constitutional or statutory violation in the conditions.52
+
+
+Part III: Model provisions
+This Part identifies nine principles, derived from the legal landscape explained in the prior sections, and proposes model
+language that jurisdictions can use to enact local laws and/or policies to adopt those principles.
+
+
+(1) LEAs should not participate in certain activities for the purpose of enforcing
+federal immigration laws.
+
+         Model Language:
+         (a) [The LEA] shall not stop, question, interrogate, investigate, or arrest an individual based solely on any of the
+         following:
+                 i. Actual or suspected immigration or citizenship status;
+                 ii. Any actual or suspected civil violation of federal immigration laws; or
+                 iii. A civil immigration warrant, administrative warrant, or an immigration detainer in the individual’s name,
+                 including those identified in the National Crime Information Center (NCIC) database.
+         (b) [The LEA] shall not inquire about the immigration status of an individual, including a crime victim, a witness,
+         or a person who calls or approaches the police seeking assistance, unless necessary to investigate criminal
+         activity by that individual.
+         (c) [The LEA] shall not perform or support the functions of a federal civil immigration officer or otherwise
+         engage in the enforcement of federal civil immigration law, whether on its own accord, pursuant to informal
+         arrangements, under Section 1357(g) of Title 8 of the United States Code, or under any other law, program,
+         regulation, or policy.
+
+
+
+
+51. See, e.g., City of Chicago v. Barr, 961 F.3d 882 (7th Cir. 2020); City of Providence v. Barr, 954 F.3d 23 (1st Cir. 2020); City of Los Angeles v. Barr, 941 F.3d 931 (9th Cir. 2019); City of
+Philadelphia v. Attorney Gen., 916 F.3d 276 (3d Cir. 2019).
+52. New York v. U.S. Dep’t of Justice, 951 F.3d 84 (2d Cir. 2020).
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                                                                                 8
+(2) LEAs should hold an individual pursuant to a detainer request from federal
+immigration authorities only where there is a judicial warrant. An LEA may
+choose to notify federal immigration authorities of an individual’s release date,
+without extending that individual’s detention, where specific conditions are met.
+
+      Model Language:
+      (a) [The LEA] shall not hold, detain, or transfer custody of an individual for federal civil immigration enforcement
+      or investigation purposes pursuant to a civil immigration detainer, or other warrant or request, from federal civil
+      immigration authorities unless the request is accompanied by a judicial warrant.
+      (b) In the absence of a judicial warrant, [the LEA] may in its discretion determine to notify federal immigration
+      authorities in advance of an individual’s release from custody, without extending their detention, if:
+            • (1) there is probable cause to believe that the individual has illegally re-entered the country after a
+            previous removal or return as defined by 8 U.S.C. § 1326, and (2) the individual has been convicted of a
+            specifically enumerated set of serious crimes under the New York Penal Law (e.g., Class A felony, attempt
+            of a Class A felony, Class B violent felony, etc.) or (ii) a federal crime or crime under the law of another state
+            that would constitute a predicate felony conviction, as defined under the New York Penal Law, for any of
+            the preceding felonies; or
+            • there is probable cause to believe that the individual has or is engaged in terrorist activity.
+
+
+(3) Absent a judicial warrant, LEAs should not provide non-public, sensitive
+information about an individual to civil immigration authorities.
+
+      Model Language:
+      (a) [The LEA] shall not provide federal civil immigration authorities with any non-public information about an
+      individual—including but not limited to non-public information about an individual’s release, court appearance,
+      home address, or work address—unless the request is accompanied by a judicial warrant.
+      (b) Nothing in this law prohibits any local agency from:
+            • sending to or receiving from any local, state, or federal agency—as per 8 U.S.C. § 1373—(i) information
+            regarding an individual’s country of citizenship or (ii) a statement of the individual’s immigration status; or
+            • disclosing information about an individual’s criminal arrests or convictions, where disclosure of such
+            information about the individual is otherwise permitted by state law or required pursuant to subpoena or
+            court order; or
+            • disclosing information about an individual’s juvenile arrests or delinquency or youthful offender
+            adjudications, where disclosure of such information about the individual is otherwise permitted by state law
+            or required pursuant to subpoena or court order.
+      (c) [The LEA] shall limit the information collected from individuals concerning immigration or citizenship status
+      to that necessary to perform agency duties and shall prohibit the use or disclosure of such information in any
+      manner that violates federal, state, or local law.
+
+
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                   9
+(4) LEAs should not provide federal civil immigration authorities with access to
+individuals in their custody for questioning solely for immigration enforcement
+purposes.
+
+      Model Language:
+      [The LEA] shall not provide federal civil immigration authorities with access to an individual in their custody or the
+      use of agency facilities to question or interview such individual if the sole purpose is enforcement of federal civil
+      immigration law. [The LEA] shall not allow federal civil immigration authorities access to non-public areas of its
+      facilities for civil immigration enforcement unless presented with a judicial warrant.
+
+
+(5) LEAs should protect the due process rights of persons in their custody who are
+subjects of federal immigration enforcement requests.
+
+      Model Language:
+      (a) [The LEA] shall not delay release from custody, on bail or otherwise, solely because of
+            i. an individual’s immigration or citizenship status,
+            ii. any actual or suspected civil violation of federal immigration laws; or
+            iii. a civil immigration warrant or other kind of federal immigration authorities’ request besides a judicial
+            warrant,
+            for the purposes of immigration enforcement (e.g. for notification about, transfer of, detention of, or interview
+            or interrogation of that individual).
+      (b) Upon receipt of a civil immigration detainer, transfer, notification, interview or interrogation request, [the LEA]
+      shall provide a copy of that request to the individual named therein or their counsel and inform the individual or
+      their counsel whether [the LEA] will comply with the request before communicating its response to the requesting
+      agency.
+      (c) Individuals in the custody of [the LEA] shall be subject to the same booking, processing, release, and transfer
+      procedures, policies, and practices of that agency, regardless of actual or suspected citizenship or immigration
+      status or violations.
+
+
+(6) Local agency resources should not be used to create a federal registry based
+on race, gender, sexual orientation, religion, ethnicity, or national origin.
+
+      Model Language:
+      Local agency] may not use agency or department resources including monies, facilities, property, equipment, or
+      personnel to investigate, enforce, or assist in the investigation or enforcement of any federal program requiring
+      registration of individuals on the basis of race, gender, sexual orientation, religion, ethnicity, or national origin.
+
+
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                                  10
+(7) Local agencies should limit collection of immigration-related information and
+ensure nondiscriminatory access to benefits and services.
+
+      Model Language:
+      (a) [Local agency] personnel shall not inquire about or request proof of a person’s citizenship, immigration status,
+      or country of origin when providing services or benefits, except where necessary to administer a public program,
+      benefit, or service, or where required by law.
+      (b) [Local agencies] shall have a formal Language Assistance Policy for individuals with Limited English Proficiency
+      and provide interpretation or translation services consistent with that policy.
+
+
+(8) LEAs should collect and publicly report aggregate data, containing no
+personal identifiers, regarding their receipt of, and response to, federal civil
+immigration authorities’ requests.
+
+      Model Language:
+      (a) [The LEA] shall record, solely to create the reports described in subsection (b) below, the following for
+      each immigration detainer, notification, transfer, interview, or interrogation request received from federal civil
+      immigration authorities:
+            • The subject individual’s race, gender, and age;
+            • Date and time that the subject individual was taken into LEA custody, the location where the individual
+            was held, and the arrest charges;
+            • Date and time of [the LEA’s] receipt of the request;
+            • The requesting agency;
+            • The nature of the request;
+            • Immigration or criminal history indicated on the request form, if any;
+            • Whether the request was accompanied by any documentation regarding immigration status or
+            proceedings;
+            • Whether there was a judicial warrant;
+            • Whether a copy of the request was provided to the individual and, if yes, the date and time of notification;
+            • Whether the individual requested to confer with counsel regarding the request;
+            • [The LEA’s] response to the request, including a decision not to fulfill the request;
+            • If applicable, the date and time that federal authorities took custody of, or were otherwise given access
+            to, the individual; and
+            • The date and time of the individual’s release from [the LEA’s] custody.
+      (b) [The LEA] shall provide semi-annual reports to the [designate one or more public oversight entity] and make
+      publicly available the information collected in subsection (a) above in an aggregated form that is stripped of
+      all personal identifiers in order that [the LEA] and the community may monitor [the LEA’s] compliance with all
+      applicable law
+
+
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                               11
+(9) LEAs should not use federal immigration officers as interpreters for law
+enforcement matters, including stops, questioning, interrogation, or arrest.
+
+      Model Language:
+      [The LEA] shall not use federal immigration officers as interpreters for law enforcement matters including stops,
+      questioning, interrogation, or arrest.
+
+
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                            12
+                                                  Appendix A
+
+
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov   13
+                                                 DEPARTMENT OF HOMELAND SECURITY
+                                      IMMIGRATION DETAINER - NOTICE OF ACTION
+ Subject ID:                                                                                  File No:
+ Event #:                                                                                     Date:
+
+ TO: (Name and Title of Institution - OR Any Subsequent Law                FROM: (Department of Homeland Security Office Address)
+      Enforcement Agency)
+
+
+
+
+                        MAINTAIN CUSTODY OF ALIEN FOR A PERIOD NOT TO EXCEED 48 HOURS
+ Name of Alien: _____________________________________________________________________________________
+
+
+
+
+                                                                          On
+ Date of Birth: _________________________ Nationality: __________________________________ Sex: ____________
+ THE U.S. DEPARTMENT OF HOMELAND SECURITY (DHS) HAS TAKEN THE FOLLOWING ACTION RELATED TO
+ THE PERSON IDENTIFIED ABOVE, CURRENTLY IN YOUR CUSTODY:
+
+
+
+
+                                                                            ly
+ □ Determined that there is reason to believe the individual is an alien subject to removal from the United States. The individual (check
+   all that apply):
+   has a prior a felony conviction or has been charged with a felony
+   offense;
+   has three or more prior misdemeanor convictions;
+   has a prior misdemeanor conviction or has been charged with a
+   misdemeanor for an offense that involves violence, threats, or
+                                                                         has been convicted of illegal entry pursuant to 8 U.S.C. §
+                                                                         1325;
+                                                                         has illegally re-entered the country after a previous removal
+                                                                         or return;
+                                                                         has been found by an immigration officer or an immigration
+   assaults; sexual abuse or exploitation; driving under the influence   judge to have knowingly committed immigration fraud;
+   of alcohol or a controlled substance; unlawful flight from the
+                                                                         otherwise poses a significant risk to national security, border
+   scene of an accident; the unlawful possession or use of a firearm
+                                                                         security, or public safety; and/or
+   or other deadly weapon, the distribution or trafficking of a
+                                                                         other (specify): __________________________________.
+
+
+
+                                                   on
+   controlled substance; or other significant threat to public safety;
+ □ Initiated removal proceedings and served a Notice to Appear or other charging document. A copy of the charging document is
+   attached and was served on ______________________ (date).
+ □ Served a warrant of arrest for removal proceedings. A copy of the warrant is attached and was served on _________________ (date).
+ □ Obtained an order of deportation or removal from the United States for this person.
+ This action does not limit your discretion to make decisions related to this person's custody classification, work, quarter
+
+
+                               ati
+ assignments, or other matters. DHS discourages dismissing criminal charges based on the existence of a detainer.
+ IT IS REQUESTED THAT YOU:
+ □ Maintain custody of the subject for a period NOT TO EXCEED 48 HOURS, excluding Saturdays, Sundays, and holidays, beyond
+  the time when the subject would have otherwise been released from your custody to allow DHS to take custody of the subject. This
+  request derives from federal regulation 8 C.F.R. § 287.7. For purposes of this immigration detainer, you are not authorized to hold
+  the subject beyond these 48 hours. As early as possible prior to the time you otherwise would release the subject, please notify
+
+
+
+         rm
+  DHS by calling________________during business hours or_______________after hours or in an emergency. If you cannot reach a
+  DHS Official at these numbers, please contact the ICE Law Enforcement Support Center in Burlington, Vermont at: (802) 872-6020.
+ □ Provide a copy to the subject of this detainer.
+ □ Notify this office of the time of release at least 30 days prior to release or as far in advance as possible.
+ □ Notify this office in the event of the inmate's death, hospitalization or transfer to another institution.
+
+
+
+Inf
+ □ Consider this request for a detainer operative only upon the subject's conviction.
+ □ Cancel the detainer previously placed by this Office on ____________________ (date).
+
+
+
+   o            (Name and title of Immigration Officer)
+
+ TO BE COMPLETED BY THE LAW ENFORCEMENT AGENCY CURRENTLY HOLDING THE SUBJECT OF THIS NOTICE:
+                                                                                              (Signature of Immigration Officer)
+
+
+ Please provide the information below, sign, and return to DHS using the envelope enclosed for your convenience or by faxing a copy
+ to
+ subject beyond the 48-hour period.
+                                      . You should maintain a copy for your own records so you may track the case and not hold the
+
+
+ Local Booking/Inmate #: ___________             Latest criminal charge/conviction: ________ (date)    Estimated release: __________(date)
+ Last criminal charge/conviction: _____________________________________________________________________________
+ Notice: Once in our custody, the subject of this detainer may be removed from the United States. If the individual may be the victim of a
+ crime, or if you want this individual to remain in the United States for prosecution or other law enforcement purposes, including acting
+ as a witness, please notify the ICE Law Enforcement Support Center at (802) 872-6020.
+
+
+                   (Name and title of Officer)                                                         (Signature of Officer)
+ DHS Form I-247 (12/12)                                                                                                             Page 1 of
+                                                   NOTICE TO THE DETAINEE
+ The Department of Homeland Security (DHS) has placed an immigration detainer on you. An immigration detainer is a notice from
+ DHS informing law enforcement agencies that DHS intends to assume custody of you after you otherwise would be released from
+ custody. DHS has requested that the law enforcement agency which is currently detaining you maintain custody of you for a period not
+ to exceed 48 hours (excluding Saturdays, Sundays, and holidays) beyond the time when you would have been released by the state or
+ local law enforcement authorities based on your criminal charges or convictions. If DHS does not take you into custody during that
+ additional 48 hour period, not counting weekends or holidays, you should contact your custodian (the law enforcement agency
+ or other entity that is holding you now) to inquire about your release from state or local custody. If you have a complaint regarding
+ this detainer or related to violations of civil rights or civil liberties connected to DHS activities, please contact the ICE Joint
+ Intake Center at 1-877-2INTAKE (877-246-8253). If you believe you are a United States citizen or the victim of a crime, please
+ advise DHS by calling the ICE Law Enforcement Support Center toll free at (855) 448-6903.
+
+
+
+
+                                                                     On
+                                          NOTIFICACIÓN A LA PERSONA DETENIDA
+ El Departamento de Seguridad Nacional (DHS) de EE. UU. ha emitido una orden de detención inmigratoria en su contra. Mediante
+
+
+
+
+                                                                       ly
+ esta orden, se notifica a los organismos policiales que el DHS pretende arrestarlo cuando usted cumpla su reclusión actual. El DHS ha
+ solicitado que el organismo policial local o estatal a cargo de su actual detención lo mantenga en custodia por un período no mayor a
+ 48 horas (excluyendo sábados, domingos y días festivos) tras el cese de su reclusión penal. Si el DHS no procede con su arresto
+ inmigratorio durante este período adicional de 48 horas, excluyendo los fines de semana o días festivos, usted debe
+ comunicarse con la autoridad estatal o local que lo tiene detenido (el organismo policial u otra entidad a cargo de su custodia
+ actual) para obtener mayores detalles sobre el cese de su reclusión. Si tiene alguna queja que se relacione con esta orden de
+ detención o con posibles infracciones a los derechos o libertades civiles en conexión con las actividades del DHS,
+ comuníquese con el Joint Intake Center (Centro de Admisión) del ICE (Servicio de Inmigración y Control de Aduanas)
+ llamando al 1-877-2INTAKE (877-246-8253). Si usted cree que es ciudadano de los Estados Unidos o que ha sido víctima de
+ un delito, infórmeselo al DHS llamando al Centro de Apoyo a los Organismos Policiales (Law Enforcement Support Center)
+ del ICE, teléfono (855) 448-6903 (llamada gratuita).
+
+
+
+                                              on          Avis au détenu
+ Le département de la Sécurité Intérieure [Department of Homeland Security (DHS)] a émis, à votre encontre, un ordre d'incarcération
+ pour des raisons d'immigration. Un ordre d'incarcération pour des raisons d'immigration est un avis du DHS informant les agences des
+ forces de l'ordre que le DHS a l'intention de vous détenir après la date normale de votre remise en liberté. Le DHS a requis que
+ l'agence des forces de l'ordre, qui vous détient actuellement, vous garde en détention pour une période maximum de 48 heures
+
+
+                            ati
+ (excluant les samedis, dimanches et jours fériés) au-delà de la période à la fin de laquelle vous auriez été remis en liberté par les
+ autorités policières de l'État ou locales en fonction des inculpations ou condamnations pénales à votre encontre. Si le DHS ne vous
+ détient pas durant cette période supplémentaire de 48 heures, sans compter les fins de semaines et les jours fériés, vous
+ devez contacter votre gardien (l'agence des forces de l'ordre qui vous détient actuellement) pour vous renseigner à propos de votre
+ libération par l'État ou l'autorité locale. Si vous avez une plainte à formuler au sujet de cet ordre d'incarcération ou en rapport
+ avec des violations de vos droits civils liées à des activités du DHS, veuillez contacter le centre commun d'admissions du
+
+
+
+
+         rm
+ Service de l'Immigration et des Douanes [ICE - Immigration and Customs Enforcement] [ICE Joint Intake Center] au
+ 1-877-2INTAKE (877-246-8253). Si vous croyez être un citoyen des États-Unis ou la victime d'un crime, veuillez en aviser le
+ DHS en appelant le centre d'assistance des forces de l'ordre de l'ICE [ICE Law Enforcement Support Center] au numéro
+ gratuit (855) 448-6903.
+
+
+
+                                                       AVISO AO DETENTO
+
+
+
+Inf
+ O Departamento de Segurança Nacional (DHS) emitiu uma ordem de custódia imigratória em seu nome. Este documento é um aviso
+ enviado às agências de imposição da lei de que o DHS pretende assumir a custódia da sua pessoa, caso seja liberado. O DHS pediu
+ que a agência de imposição da lei encarregada da sua atual detenção mantenha-o sob custódia durante, no máximo, 48 horas
+
+
+
+
+   o
+ (excluindo-se sábados, domingos e feriados) após o período em que seria liberado pelas autoridades estaduais ou municipais de
+ imposição da lei, de acordo com as respectivas acusações e penas criminais. Se o DHS não assumir a sua custódia durante essas
+ 48 horas adicionais, excluindo-se os fins de semana e feriados, você deverá entrar em contato com o seu custodiante (a
+ agência de imposição da lei ou qualquer outra entidade que esteja detendo-o no momento) para obter informações sobre sua liberação
+ da custódia estadual ou municipal. Caso você tenha alguma reclamação a fazer sobre esta ordem de custódia imigratória ou
+ relacionada a violações dos seus direitos ou liberdades civis decorrente das atividades do DHS, entre em contato com o
+ Centro de Entrada Conjunta da Agencia de Controle de Imigração e Alfândega (ICE) pelo telefone 1-877-246-8253. Se você
+ acreditar que é um cidadão dos EUA ou está sendo vítima de um crime, informe o DHS ligando para o Centro de Apoio à
+ Imposição da Lei do ICE pelo telefone de ligação gratuita (855) 448-6903
+
+
+
+
+ DHS Form I-247 (12/12)                                                                                                   Page 2 of
+                                         THÔNG BÁO CHO NGƯỜI BỊ GIAM
+                                                    GIỮ
+ Bộ Quốc Phòng (DHS) đã có lệnh giam giữ quý vị vì lý do di trú. Lệnh giam giữ vì lý do di trú là thông báo của DHS cho
+ các cơ quan thi hành luật pháp là DHS có ý định tạm giữ quý vị sau khi quý vị được thả. DHS đã yêu cầu cơ quan thi
+ hành luật pháp hiện đang giữ quý vị phải tiếp tục tạm giữ quý vị trong không quá 48 giờ đồng hồ (không kể thứ Bảy, Chủ
+ nhật, và các ngày nghỉ lễ) ngoài thời gian mà lẽ ra quý vị sẽ được cơ quan thi hành luật pháp của tiểu bang hoặc địa
+ phương thả ra dựa trên các bản án và tội hình sự của quý vị. Nếu DHS không tạm giam quý vị trong thời gian 48 giờ
+ bổ sung đó, không tính các ngày cuối tuần hoặc ngày lễ, quý vị nên liên lạc với bên giam giữ quý vị (cơ quan thi
+ hành luật pháp hoặc tổ chức khác hiện đang giam giữ quý vị) để hỏi về việc cơ quan địa phương hoặc liên bang thả quý
+ vị ra. Nếu quý vị có khiếu nại về lệnh giam giữ này hoặc liên quan tới các trường hợp vi phạm dân quyền hoặc tự
+
+
+
+
+                                                             On
+ do công dân liên quan tới các hoạt động của DHS, vui lòng liên lạc với ICE Joint Intake Center tại số
+ 1-877-2INTAKE (877-246-8253). Nếu quý vị tin rằng quý vị là công dân Hoa Kỳ hoặc nạn nhân tội phạm, vui lòng
+ báo cho DHS biết bằng cách gọi ICE Law Enforcement Support Center tại số điện thoại miễn phí (855) 448-6903.
+
+
+
+                                             ~-~il:ff~Dis-
+     •oo 00±~±$ ( DHS)B~~~~~~~~~~0~~~~~~-0000±~±$ffl*          ly
+     ~&~$3~.a~•oooo±~±$•~tt~~•M3n~~w••~~~~•~w~~
+     ~~-o-OOOO±~±$B&~3fi~ffl~~~$3~~*.ffl~~~~M•~~-~ff
+
+
+                                        on
+     ~IUtll 'tt~3EE1'N.±t!tnttl.5t3~-~fte-t
+     ~. ~m~~@B~½)o···~~±~±$*~~tt~*~fiB~-~~~~m~
+     ~~-~il.•m•~••~~••~(~~~w~~~$3~•x~•tt)
+     ~~Mffl•~~~$•tt••~~-fio•••~~~~~il~*~-~~±-±$~
+                                                          '~-~ffift'       PlJtlFFimu48 ;J\e-t( ~Jffl
+
+                                                                          .~~~
+
+
+
+                          ati
+     rr~m~&~m&&&~~~~~&~ff~~w.•~••~•&&•*~~~~~•
+     ~~,t,\ ( ICE Joint Intake Center) , Egi!~~R:1-877-2INTAKE (877-246-8253)0 •
+     •-ffl~•R:•~~&~~~-•A.•~--~8&&•*~~~~~~~-~~
+      ( ICE Law Enforcement Support Center) , is-~-~~±-±$0
+
+
+        rm
+     ~Jj!Eg,i~~R:(855) 448-69030
+                                                                  -~~~-~,t,\~
+
+
+
+
+Info
+ DHS Form I-247 (12/12)                                                                                     Page 3 of
+   U.S. DEPARTMENT OF HOMELAND SECURITY                             Warrant for Arrest of Alien
+
+
+                                                                           File No. ________________
+
+                                                                           Date: ___________________
+
+   To:     Any immigration officer authorized pursuant to sections 236 and 287 of the
+           Immigration and Nationality Act and part 287 of title 8, Code of Federal
+           Regulations, to serve warrants of arrest for immigration violations
+
+   I have determined that there is probable cause to believe that ____________________________
+   is removable from the United States. This determination is based upon:
+
+          the execution of a charging document to initiate removal proceedings against the subject;
+         □
+
+          the pendency of ongoing removal proceedings against the subject;
+         □
+
+
+
+                                                         E
+          the failure to establish admissibility subsequent to deferred inspection;
+         □
+
+          biometric confirmation of the subject’s identity and a records check of federal
+         □
+
+
+
+                                           PL
+         databases that affirmatively indicate, by themselves or in addition to other reliable
+         information, that the subject either lacks immigration status or notwithstanding such status
+         is removable under U.S. immigration law; and/or
+
+          statements made voluntarily by the subject to an immigration officer and/or other
+         □
+
+
+
+                                M
+         reliable evidence that affirmatively indicate the subject either lacks immigration status or
+         notwithstanding such status is removable under U.S. immigration law.
+
+   YOU ARE COMMANDED to arrest and take into custody for removal proceedings under the
+
+
+              SA
+   Immigration and Nationality Act, the above-named alien.
+
+                                                 __________________________________________
+                                                         (Signature of Authorized Immigration Officer)
+
+                                                 __________________________________________
+                                                  (Printed Name and Title of Authorized Immigration Officer)
+
+                                           Certificate of Service
+
+I hereby certify that the Warrant for Arrest of Alien was served by me at __________________________
+                                                                                          (Location)
+
+on ______________________________ on _____________________________, and the contents of this
+             (Name of Alien)                          (Date of Service)
+
+notice were read to him or her in the __________________________ language.
+                                                 (Language)
+
+________________________________________             __________________________________________
+           Name and Signature of Officer                      Name or Number of Interpreter (if applicable)
+
+                                                                                             Form I-200 (Rev. 09/16)
+
+
+______________
+                                       DEPARTMENT OF HOMELAND SECURITY
+                                    U.S. Immigration and Customs Enforcement
+                                    WARRANT OF REMOVAL/DEPORTATION
+
+                                                                                               File No:
+
+                                                                                                  Date:
+
+To any immigration officer of the United States Department of Homeland Security:
+
+
+                                                     (Full name of alien)
+
+who entered the United States at                                                     on
+                                                   (Place of entry)                               (Date of entry)
+
+is subject to removal/deportation from the United States, based upon a final order by:
+
+          □ an immigration judge in exclusion, deportation, or removal proceedings
+          □ a designated official
+          □ the Board of Immigration Appeals
+          □ a United States District or Magistrate Court Judge
+                                                                      E
+                                                 PL
+and pursuant to the following provisions of the Immigration and Nationality Act:
+
+
+
+
+                                      M
+I, the undersigned officer of the United States, by virtue of the power and authority vested in the Secretary of Homeland
+Security under the laws of the United States and by his or her direction, command you to take into custody and remove
+
+
+                    SA
+from the United States the above-named alien, pursuant to law, at the expense of:
+
+
+
+
+                                                                            (Signature of immigration officer)
+
+
+                                                                              (Title of immigration officer)
+
+
+
+                                                                               (Date and office location)
+
+
+
+
+ICE Form I-205 (8/07)                                                                                               Page 1 of 2
+                                                   Appendix B
+Selection of current New York State and local laws and policies related to participation in immigration enforcement:
+
+
+New York State
+      • Protect Our Courts Act (NY Civil Rights Law § 28): https://www.nysenate.gov/legislation/laws/CVR/28*2
+      • Executive Order 170.1 (on state agency inquiries, disclosures, and resources):
+        https://www.governor.ny.gov/sites/default/files/atoms/files/EO_%23_170.pdf
+      • Executive Order 171 (on civil arrests at state facilities):
+        https://www.governor.ny.gov/sites/default/files/atoms/files/EO_170.1.pdf
+      • Vehicle and Traffic Law 201(12) (on protections for DMV information):
+        https://www.nysenate.gov/legislation/laws/VAT/201
+
+
+New York City
+      • Executive Order 34 (on city agency inquiries and service provision):
+        https://www.nyc.gov/assets/immigrants/downloads/pdf/eo-34.pdf
+      • Executive Order 41 (on city agency disclosures of information):
+        https://www.nyc.gov/assets/immigrants/downloads/pdf/eo-41.pdf
+      • NYC Admin Code §§ 9-131, 9-205, 14-154 (on handling of detainers):
+        https://www.nyc.gov/assets/immigrants/downloads/pdf/nyc-detainer-laws.pdf
+      • NYC Admin Code § 10-178 (on city agency resources):
+        https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-6787
+      • NY Admin Code § 4-210 (on access to city property):
+        https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-2141
+
+
+Other local laws or policies include, but are not limited to:
+      • Westchester Immigrant Protection Act:
+        https://humanrights.westchestergov.com/resources/immigrant-protection-law
+      • City of Albany Policy Regarding Community Policing and Protection of Immigrants: https://www.albanyny.gov/
+      DocumentCenter/View/970/City-of-Albany-Policy-Regarding-Community-Policing-and-Protecting-Immigrants-PDF
+      • Ithaca City Code § 215-39 et seq.: https://ecode360.com/32288270#32288270
+
+
+
+
+The Capitol, Albany NY 12224 | 1-518-776-2000 | Fax 1-518-650-9401 | ag.ny.gov                                         14
+

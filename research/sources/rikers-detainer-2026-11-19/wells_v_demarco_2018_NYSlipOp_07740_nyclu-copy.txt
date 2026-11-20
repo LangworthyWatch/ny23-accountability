@@ -1,0 +1,721 @@
+                  Supreme Court of the State of New York
+                Appellate Division: Second Judicial Department
+                                                                                      D57355
+                                                                                        Q/htr
+
+      AD3d                                                     Submitted - December 12, 2017
+
+ALAN D. SCHEINKMAN, P.J.
+RUTH C. BALKIN
+JOHN M. LEVENTHAL
+SYLVIA O. HINDS-RADIX, JJ.
+
+
+2017-12806                                                          OPINION & JUDGMENT
+
+The People, etc., ex rel. Jordan Wells, on behalf
+of Susai Francis, petitioner, v Vincent F. DeMarco,
+etc., respondent.
+
+
+              WRIT OF HABEAS CORPUS in the nature of an application to release Susai
+
+Francis from the custody of the Sheriff of Suffolk County.
+
+              New York Civil Liberties Union Foundation, New York, NY (Jordan Wells, Paige
+              Austin, Mariana Kovel, Christopher Dunn, and Scout Katovich of counsel), and
+              American Civil Liberties Union Foundation, New York, NY (Omar C. Jadwat, Cody
+              Wofsy, and Spencer Amdur of counsel), for petitioner.
+
+              Dennis M. Brown, County Attorney, Hauppauge, NY (Leonard G. Kapsalis of
+              counsel), for respondent.
+
+              Matthew G. Whitaker, Acting Attorney General of the United States, Washington,
+              DC (Richard P. Donoghue, Joseph A. Marutollo, Chad A. Readler, William C.
+              Peachey, Erez Reuveni, and Steven A. Platt of counsel), for amicus curiae United
+              States of America.
+
+              Barbara D. Underwood, Attorney General, New York, NY (Anisha S. Dasgupta and
+              Scott A. Eisman of counsel), amicus curiae pro se.
+
+              Morningside Heights Legal Services, Inc., New York, NY (Elora Mukherjee,
+              National Immigrant Justice Center [Mark Fleming and Katherine Melloy Goettel],
+              pro se, and Christopher N. Lasch, pro se, of counsel), for amici curiae National
+              Immigrant Justice Center, David Baluarte, Eduardo R.C. Capulong, Michael J.
+              Churgin, Kate Evans, César Cuauhtémoc García Hernández, Denise Gilman, Tanya
+
+November 14, 2018                                                                     Page 1.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+               Maria Golash-Boza, Geoffrey A. Hoffman, Alan Hyde, Ulysses Jaen, Ramzi Kassem,
+               Elizabeth Keyes, Ira J. Kurzban, Annie Lai, Christopher N. Lasch, Beth Lyon, M.
+               Isabel Medina, Vanessa Merton, Jason Parkin, Huyen Pham, Karen Pita Loor,
+               William P. Quigley, Sarah Rogerson, Victor Romero, Rubén G. Rumbaut, Erica B.
+               Schommer, Christian Sundquist, Maureen A. Sweeney, David B. Thronson, Mary Pat
+               Treuthart, Yolanda Vázquez, Robin Walker Sterling, Richard A. Wilson, Stephen
+               Wizner, and Mark E. Wojcik.
+SCHEINKMAN, P.J.
+               The issue before us in this proceeding is both narrow and important. We must decide
+whether New York law permits New York state and local law enforcement officers to effectuate civil
+immigration arrests. The authority of federal civil immigration officers to effectuate such arrests is
+not before us. Nor do we have occasion to pass upon broad issues of immigration law and policy.
+Addressing only the precise question before us, and based on our analysis of the relevant statutes and
+precedents, we conclude that New York state and local law enforcement officers are not authorized
+by New York law to effectuate arrests for civil law immigration violations.
+                                        The Relevant Facts
+               The facts are undisputed. Susai Francis is a citizen of India. He entered the United
+States in New York, New York, in 1996, under the terms of a B2 visitor visa, which allowed him
+to remain in the United States for a period not to exceed six months. Francis failed to depart the
+United States as required by the visa. He resided on Long Island for more than two decades and has
+two children, one of whom is a citizen of the United States. On March 25, 2015, Francis was served
+with a notice to appear in Immigration Court, and he is currently the subject of removal proceedings.
+               On November 28, 2016, Francis was charged in Suffolk County with misdemeanor
+criminal contempt in the second degree (Penal Law § 215.50) for violation of a Family Court order
+of protection. He was released on his own recognizance. Francis was arrested again on June 14,
+2017, this time in Nassau County, on two misdemeanor counts: operating a motor vehicle while
+under the influence of alcohol (see Vehicle and Traffic Law § 1192) and driving an uninsured
+vehicle (see Vehicle and Traffic Law § 319). Francis was held at the Nassau County Correctional
+Center.
+               As part of the procedure followed by the Nassau County Police Department, upon
+Francis’s arrest, his fingerprints were taken and submitted to federal databases. He was identified
+as an Indian citizen who was unlawfully present in the United States. United States Immigration and
+Customs Enforcement (hereinafter ICE) Deportation Officer Julissa Iniguez issued both a detainer
+
+November 14, 2018                                                                             Page 2.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+and an arrest warrant, which were provided to the Nassau County Police Department. The detainer,
+addressed to the Nassau County Police Department, requested that the Police Department notify ICE
+as soon as practicable before Francis was released from custody, on at least 48 hours’ notice, if
+possible. The warrant, addressed to any immigration officer authorized pursuant to sections 236 and
+287 of the Immigration and Nationality Act (8 USC §§ 1226, 1357) and 8 CFR part 287 to serve
+warrants of arrest for immigration violations, commanded that Francis be arrested and taken into
+custody for the purposes of removal proceedings.
+               On December 4, 2017, Francis pleaded guilty in Nassau County District Court to one
+count of misdemeanor operating a motor vehicle while under the influence of alcohol (see Vehicle
+and Traffic Law § 1192[2-a][a]). He was then transferred from the Nassau County Correctional
+Center to the Suffolk County Correctional Facility in Riverhead (hereinafter the Riverhead facility),
+which is operated by the Sheriff of Suffolk County, for completion of proceedings on the Suffolk
+County criminal charge. The ICE detainer and arrest warrant were transferred along with him.
+               On December 11, 2017, Francis pleaded guilty in Suffolk County District Court to
+one count of disorderly conduct. He was sentenced to time served. However, Francis was not
+released from custody and was, instead, returned to the Riverhead facility.
+               In September 2014, the Sheriff of Suffolk County (hereinafter the Sheriff) established
+a policy that an inmate was not to be held in custody solely on the basis of an ICE detainer. Instead,
+an inmate subject to an ICE detainer would be sent to court and, in the event that all local charges
+were disposed of, the inmate would not be returned to the correctional facility. The inmate would
+be free to leave on his or her own directly from the courthouse, just as inmates who are not subject
+to ICE detainers are treated. However, on December 2, 2016, the Sheriff issued a new policy under
+which inmates subject to either an ICE detainer accompanied by a United States Department of
+Homeland Security (hereinafter DHS) Warrant for Arrest of Alien, and/or DHS Warrant of
+Removal/Deportation, are to be held for up to 48 hours after the time they would otherwise have
+been released, with ICE to be notified immediately. Under the 2016 policy, when an inmate is
+subject to an ICE detainer and warrant, the inmate is retained at a Suffolk County correctional
+facility by the Sheriff but the paperwork is “re-written” to reflect that the inmate is in federal
+custody. Once the paperwork is “re-written,” the Sheriff’s Office regards the inmate as being in the
+custody of ICE and places the inmate in jail cells at the Riverhead facility that are rented by ICE
+from the Sheriff.
+
+November 14, 2018                                                                             Page 3.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+                Francis’s case was handled in accordance with the revised policy. Following the
+conclusion of his court proceeding, at which he was sentenced to time served, he was handcuffed
+and taken to a courthouse holding cell by members of the Sheriff’s Office and was thereafter returned
+to the Riverhead facility. Upon his return to the Riverhead facility, Francis’s paperwork was “re-
+written” from being an “adult male misdemeanor” case to be being an “adult male warrant” case
+based on the ICE warrant, and Francis was regarded by the Sheriff as being in the custody of ICE.
+Francis was placed in a jail cell rented by ICE.
+                The present habeas corpus proceeding was commenced on Francis’s behalf by Jordan
+Wells, an attorney with the New York Civil Liberties Union Foundation. An order to show cause
+was signed by a Justice of this Court on December 11, 2017, the day that Francis was detained
+notwithstanding the termination of the state criminal action against him. Oral argument was held
+the following day before a panel of this Court.1
+                On December 13, 2017, ICE agents retrieved Francis from the Riverhead facility and
+transferred him to a long-term ICE detention facility. This Court invited the parties to file
+supplemental pleadings and briefs. This Court also invited the New York State Attorney General
+and the United States Department of Justice to submit memoranda as amici curiae. As of January
+5, 2018, Francis was being held by ICE at the Bergen County Jail in Hackensack, New Jersey,
+pending removal proceedings in Immigration Court.
+                                      The Mootness Exception
+                The verified petition, dated December 11, 2017, requested the immediate release of
+Francis and a declaration that his detention was unlawful and in excess of the Sheriff’s arrest
+authority. In a supplemental petition, filed after Francis was transferred from the Sheriff’s custody,
+the petitioner requested that this Court apply the exception to the mootness doctrine and find
+Francis’s arrest by the Sheriff to be unlawful. In support of this request, the petitioner asserts that
+ICE directs hundreds of detainer requests to the Sheriff annually, with some 405 requests being
+presented in just the first 10 months of the 2017 fiscal year. The petitioner points out that the Nassau
+
+
+
+
+1
+ One of the Justices who participated in the oral argument has since been recused and the author of
+this opinion has been substituted, having had the benefit of reading all of the submissions and
+viewing the video recording of the oral argument (see 22 NYCRR former 670.1[c]).
+November 14, 2018                                                                               Page 4.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+County Sheriff has a policy similar to that followed in Suffolk County2 and that ICE also directs
+hundreds of detainer requests to the Nassau County Sheriff each year. According to the petitioner,
+379 requests were made by ICE to the Nassau County Sheriff in the first 10 months of the 2017 fiscal
+year. The Sheriff has not advanced any argument in opposition to the petitioner’s request that we
+invoke the exception to the mootness doctrine and reach the merits. Likewise, none of the amici
+suggest that we treat the controversy as moot.
+               “It is a fundamental principle of our jurisprudence that the power of a court to declare
+the law only arises out of, and is limited to, determining the rights of persons which are actually
+controverted in a particular case pending before the tribunal” (Matter of Hearst Corp. v Clyne, 50
+NY2d 707, 713). “Courts are generally prohibited from issuing advisory opinions or ruling on
+hypothetical inquiries. Thus, [a proceeding] is moot unless an adjudication of the merits will result
+in immediate and practical consequences to the parties” (Coleman v Daines, 19 NY3d 1087, 1090
+[citation omitted]; see Matter of New York State Commn. on Jud. Conduct v Rubenstein, 23 NY3d
+570, 576; Matter of Hearst Corp. v Clyne, 50 NY2d at 714). Here, of course, with Francis now
+being indisputably in the custody of ICE, and being lodged in a facility located out of the state, an
+adjudication of the merits will not have any practical, much less immediate, consequence to him.
+Consequently, the proceeding is moot (see People ex rel. Warren v People, 171 AD2d 768, 768).
+However, that does not end the matter.
+               Even where a proceeding is moot, judicial review is permitted where the issue to be
+decided (1) is likely to reoccur, either between the parties or other members of the public, (2) will
+typically evade review in the courts, and (3) is substantial or novel (see Coleman v Daines, 19 NY3d
+at 1090; City of New York v Maul, 14 NY3d 499, 507; Matter of Hearst Corp. v Clyne, 50 NY2d at
+714-715).
+               It is evident that this issue is likely to reoccur. As the petitioner points out, and the
+Sheriff does not refute, nearly 800 detainers were submitted by ICE to the Nassau and Suffolk
+County Sheriff’s offices during 2017. The statistics presented by the petitioner indicate that the
+number of ICE detainers has increased substantially over the years, suggesting a continuing pattern
+
+
+2
+  A CPLR article 78 proceeding seeking, inter alia, to enjoin the Nassau County Sheriff from
+detaining persons beyond their judicially authorized release date based on the filing of ICE detainers
+and warrants was denied in Matter of Chery v Sheriff of Nassau County (2015 NY Slip Op 32774[U]
+[Sup Ct, Nassau County]).
+November 14, 2018                                                                               Page 5.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+of growth. While it is not known whether any counties within the Second Judicial Department (or
+even outside it) other than Suffolk and Nassau have policies similar to the one at issue here, it is
+readily apparent that hundreds of inmates in just two counties within this Department may well face
+the application of the policy each year.
+               The issue is also aptly characterized as ephemeral in nature. Courts will likely never
+be able to provide full and meaningful review to any inmate prior to his or her being released or
+transferred from the custody of the Sheriff. Under the terms of the detainer itself, the local
+authorities are requested to hold a subject inmate for up to 48 hours and, here, the Sheriff’s policy
+is to hold the subject inmates for up to 48 hours after they would have otherwise been released. It
+would be most unlikely that any habeas corpus proceeding could be commenced in this Court,
+served, briefed, argued, considered, and decided within a 48-hour period. Any attempt to do so
+would necessarily entail rendering a determination without appropriate time for briefing and
+deliberation and, at best, any determination would be issued only after much, if not all, of the 48-
+hour period had expired, during which the inmate will have been detained against his or her will.
+In the same vein, where a detainee seeks relief in the Supreme Court and the determination is adverse
+to the detainee, the press of time may preclude an effective appellate remedy.3 And, if the Supreme
+Court were to grant relief to a detainee, that determination would not be subjected to appellate
+review unless the Sheriff decided to pursue an appeal.
+                The underlying controversy persists, and is not moot, since the Sheriff, supported by
+the United States Department of Justice, maintains that the policy is lawful, while the petitioner,
+supported by the New York State Attorney General, the National Immigrant Justice Center, and a
+coalition of law professors, maintains that it is not. The validity of the policy may be tested in
+damages actions (see Castaneda v County of Suffolk, 60 Misc 3d 1201[A], 2018 NY Slip Op
+50894[U] [Sup Ct, Suffolk County]), but it would be in the interest of both the detainees and the
+taxpayers to determine the lawfulness of civil immigrant arrests by state and local law enforcement
+officials before damage, and any further liability, is incurred.
+               The issues presented are both novel and significant. Arrest and detention are
+deprivations of freedom. Where an individual in a state or local correctional facility continues to be
+
+
+3
+ We note the decision in Matter of Rojas v Suffolk County Sheriff’s Off. (59 Misc 3d 707 [Sup Ct,
+Suffolk County]), where the Supreme Court held that a detainee’s challenge to the same policy as
+challenged here was not moot but denied the challenge on its merits.
+November 14, 2018                                                                             Page 6.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+held against his or her will despite having served a sentence, it is important, if not vital, if our rule
+of law is to mean anything, that a court determine whether the continued detention is lawful. It is
+important as well for the Sheriff to have the benefit of a ruling on the merits so that his conduct may
+be guided accordingly. There is no New York appellate decision addressing these issues.
+                 Accordingly, a determination on the merits of the arguments presented is warranted.
+               Detention Pursuant to an ICE Detainer or Warrant Constitutes an Arrest
+                 New York state and federal law mirror each other regarding what constitutes an arrest
+(see Florida v Royer, 460 US 491, 502 [a showing of official authority such that “a reasonable
+person would have believed he was not free to leave” indicates that an arrest has occurred under the
+Fourth Amendment of the United State Constitution (internal quotation marks omitted)]; People v
+Yukl, 25 NY2d 585, 589 [a suspect is in custody when a reasonable person innocent of any crime
+would not have believed he or she was free to leave the presence of the police]). With respect to
+immigration detainers, the federal courts have held that a continued detention on that basis after an
+inmate is entitled to release constitutes a new arrest (see Morales v Chadbourne, 793 F3d 208, 217
+[1st Cir] [since an individual was “kept in custody for a new purpose after she was entitled to release,
+she was subjected to a new seizure for Fourth Amendment purposes—one that must be supported
+by a new probable cause justification”]; Moreno v Napolitano, 213 F Supp 3d 999, 1005 [ND Ill]
+[federal government conceded that detention of an individual pursuant to an ICE detainer constitutes
+an arrest]).
+                 Here, Francis was entitled to release after being sentenced to time served on his state
+charges and, but for the ICE detainer and arrest warrant, would have been discharged from custody
+directly from the courthouse. When he was retained in custody and returned to the Riverhead facility
+for further detention and subsequently “re-written” as “adult male warrant,” he was subjected to a
+new arrest and seizure under both New York law and the Fourth Amendment of the United States
+Constitution.
+                         The ICE Detainer and Warrant Are Civil in Nature
+                 “The Government of the United States has broad, undoubted power over the subject
+of immigration and the status of aliens” (Arizona v United States, 567 US 387, 394; see Toll v
+Moreno, 458 US 1, 10). The principal statute governing immigration in the United States is the
+Immigration and Nationality Act (see 8 USC § 1101 et seq.). The Act sets forth terms, conditions,
+and procedures for removing aliens from the country (see id.). While some violations of the Act are
+
+November 14, 2018                                                                                Page 7.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+criminal offenses,4 “[a]s a general rule, it is not a crime for a removable alien to remain present in
+the United States” (Arizona v United States, 567 US at 407). Illegal presence in the country,
+standing alone, is not a crime (see Melendres v Arpaio, 695 F3d 990, 1000-1001 [9th Cir]); it is a
+civil violation that subjects the individual to removal (see 8 USC § 1227[a][1][B]). The federal
+process for removing someone from the country is a civil administrative matter, not a criminal one
+(see Arizona v United States, 567 US at 396).
+                  ICE, an agency within the DHS, “conducts criminal investigations involving the
+enforcement of immigration-related statutes” (id. at 397 [internal quotation marks omitted]). “ICE
+officers are responsible for the identification, apprehension, and removal of illegal aliens from the
+United States” (id. [internal quotation marks omitted]).
+                  ICE officers may arrest an alien pursuant to an administrative arrest warrant “pending
+a decision on whether the alien is to be removed from the United States” (8 USC § 1226[a]) or when
+an alien has already been adjudicated removable (see 8 USC §§ 1226[c][1]; 1231[a][2]; 8 CFR
+241.2[a][1] [aliens convicted of certain crimes shall be taken into custody upon release from the
+sentence for that crime]). The warrants are executed by federal officers who have received training
+in the enforcement of immigration law (see 8 CFR 287.5[e][3]; 241.2[b]). When no arrest warrant
+has been issued, an immigration officer’s authority is limited such that an arrest will only be valid
+where there is “reason to believe” the alien is in violation of an immigration law or regulation and
+“is likely to escape before a warrant can be obtained” (8 USC § 1357[a][2]).
+                  Here, the arrest warrant for Francis was directed, not to any state or local law
+enforcement official, but to immigration officers authorized by federal law. The warrant reflects the
+determination by ICE Deportation Officer Iniguez that probable cause existed to believe that Francis
+was removable from the United States. The command for Francis’s arrest was made by the ICE
+officer.
+                  Although administrative arrest warrants are constitutionally valid in the federal
+immigration law enforcement context, such warrants are civil and administrative, and not judicial,
+in nature (see Abel v United States, 362 US 217, 234, 236).
+                  An ICE detainer is a written request to state or local officials regarding a removable
+alien in their custody, asking them (1) to notify the DHS as soon as practicable before an alien is
+
+
+4
+    As an example, it is a crime for an alien to enter the United States illegally (see 8 USC § 1325[a]).
+November 14, 2018                                                                                Page 8.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+released; and (2) to maintain custody of the alien for up to 48 hours beyond the preexisting release
+date so that the DHS may assume custody (see City of El Cenizo, Texas v Texas, 890 F3d 164, 174
+[5th Cir]; U.S. Immigration and Customs Enforcement, Policy No. 10074.2: Issuance of Immigration
+Detainers by ICE Immigration Officers [Mar. 24, 2017], available at https://perma.cc/T6FJ-FXL3
+[last accessed Nov. 13, 2018]). As of April 2017, ICE makes this request using Form I-247A, which
+must be accompanied by an administrative warrant for arrest (or removal if the individual has already
+been adjudicated) signed by an immigration officer (Form I-200) (see 8 USC §§ 1226, 1231[a]; 8
+CFR 236.1). Form I-247A states that the DHS has determined that there is probable cause that the
+subject of the request is a removable alien, and ICE officers check one of four boxes on the form to
+indicate the basis for probable cause.
+               One of the check boxes—the one checked in the detainer issued to the Nassau County
+Police Department in reference to Francis—indicates that the probable cause finding is based upon:
+               “Biometric confirmation of the alien’s identity and a records check . . . that
+               affirmatively indicate, by themselves or in addition to other reliable information, that
+               the alien either lacks immigration status or notwithstanding such status is removable
+               under U.S. immigration law.”
+
+               A detainer is not a stand-alone document.           It must be accompanied by an
+administrative arrest warrant. But, even if viewed as a stand-alone document, the detainer does not
+convey any authority or command to actually detain anyone. It merely requests continued detention
+of one already detained.
+               The ICE arrest warrant and detainer were the basis for Francis’s continued detention
+by the Sheriff at the Riverhead facility notwithstanding that Francis had completed his sentence on
+the state criminal charges.
+               New York Statutory Law Does Not Authorize State and Local Law
+                   Enforcement Officers to Effectuate Arrests Pursuant to
+                     ICE Administrative Detainers and Arrest Warrants
+
+               New York statutory law recognizes three types of warrants which are used for the
+purpose of bringing a defendant before a court of this State for the prosecution of a criminal action
+pending there: (1) a “warrant of arrest” (CPL 120.10); (2) a “superior court warrant of arrest” (CPL
+210.10); and (3) a “bench warrant” (CPL 530.70). Each of these warrants is issued in the context
+of a criminal, not civil, action, and each of these warrants is issued by a court. The ICE warrant of
+arrest does not fall within any of the definitions of warrants in the Criminal Procedure Law.
+
+November 14, 2018                                                                              Page 9.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+                There are circumstances where New York statutes authorize the issuance of warrants
+of arrest in civil matters. Critically, however, in all of these situations the issuing authority is a
+judicial or quasi-judicial officer of the court (see Family Ct Act §§ 428, 526 [warrants of arrest may
+be issued by Family Court in support and paternity proceedings]; CPLR 5250 [a court may issue a
+warrant where a judgment debtor absconds with property of a creditor], 2308 [a court may issue an
+arrest warrant for failure to comply with a subpoena]; Judiciary Law § 772 [a court may issue an
+arrest warrant upon contempt punishment]; Mental Hygiene Law § 9.43 [a court may issue a warrant
+where a mentally ill individual poses a risk of serious harm to himself or others]).
+                The Executive Law allows for parole violation arrest warrants to be issued by a
+member of the parole board or its designee where a parole officer reports there is reasonable cause
+to believe an individual’s terms of parole have been violated (see Executive Law § 259-i[3][a][i]).
+While this procedure may be viewed as being akin to the use of administrative warrants by ICE, there
+is a significant distinction. Parolees, unlike Francis and other similarly removable aliens, have been
+convicted and sentenced for committed crimes. Parole is not freedom—parolees have been
+sentenced to imprisonment but allowed to serve a portion of their sentence outside prison walls.
+Given the unique status of parolees, an administrative warrant for the re-taking of a parolee is not
+an arrest for Fourth Amendment purposes (see United States v Polito, 583 F2d 48, 55-56 [2d Cir]
+[a local police officer, acting pursuant to federal parole warrant, may detain a person for the time
+necessary to contact federal officials and effect the transfer of the person into federal custody so that
+the warrant may be properly executed]).
+                Since the administrative warrant issued by ICE was not issued by a judge or a court,
+the Sheriff lacked New York statutory authority to effectuate an arrest pursuant to the ICE warrant.
+                New York statutes do not authorize state and local law enforcement to effectuate
+warrantless arrests for civil immigration law violations. An arrest without a warrant is permitted
+where an individual “has committed or is believed to have committed an offense and who is at
+liberty within the state” under certain circumstances prescribed by statute (CPL 140.05). County
+sheriffs and their deputies are police officers (see CPL 1.20[34]), as are members of the state police,
+county police, and municipal police.
+                The Sheriff, under-Sheriffs, and deputy sheriffs of Suffolk County are police officers
+(see CPL 1.20[34][b]). Warrantless arrests effectuated by a police officer are governed by CPL
+140.10, which states in part:
+
+November 14, 2018                                                                              Page 10.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+                  “1. Subject to the provisions of subdivision two, a police officer may arrest a person
+                  for:
+
+                  “(a) Any offense when he or she has reasonable cause to believe that such person has
+                  committed such offense in his or her presence; and
+
+                  “(b) A crime when he or she has reasonable cause to believe that such person has
+                  committed such crime, whether in his or her presence or otherwise.”5
+
+                  An “offense” is defined as “conduct for which a sentence to a term of imprisonment
+or to a fine is provided by any law of this state or by any law, local law or ordinance of a political
+subdivision of this state” (Penal Law § 10.00[1]). A crime is a misdemeanor or a felony (see Penal
+Law § 10.00[6]). New York state and local police officers may also make warrantless arrests for
+federal offenses (see United States v Polito, 583 F2d at 51; United States v Swarovksi, 557 F2d 40,
+47 [2d Cir]).
+                  Immigration violations, as considered in the matter sub judice, are not crimes but
+rather are civil matters (see Arizona v United States, 567 US at 396; People v Cesar, 131 AD3d 223,
+229). Removable aliens are subject to deportation, not a term of imprisonment or fine, so the
+provisions regarding warrantless arrests under the Criminal Procedure Law do not apply. Because
+the members of the Sheriff’s office who arrested Francis did not claim that he committed any offense
+or crime, state or federal, they lacked the authority under the New York statutes to arrest him without
+a warrant. The result would, of course, be different if the warrantless arrest was on account of a
+crime or offense on the basis set forth in CPL 140.10.
+                           Arrests for Civil Immigration Violations May Not
+                            Be Justified by Resort to Residual Police Power
+
+                  The Sheriff and the United States Department of Justice contend that, even if New
+York state and local law enforcement officers are not statutorily authorized to execute federal
+immigration arrest warrants, such arrests are nevertheless permissible under the broad state police
+powers recognized at common law, there being no New York statute that prohibits such arrests. The
+Sheriff and the Department of Justice posit that the statutes adopted by the New York State
+Legislature regulating arrest authority are best viewed as supplementing residual common-law
+authority and not supplanting it. In their view, to limit police powers, there would have to be explicit
+
+
+5
+    Similar provisions apply to peace officers acting pursuant to their special duties (see CPL 140.25).
+November 14, 2018                                                                              Page 11.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+legislation, and, in any event, New York law permits arrests for federal offenses. As such, they
+contend that local law enforcement has inherent authority to cooperate with ICE detainers, while the
+Lunn case (see Lunn v Commonwealth, 477 Mass 517, 78 NE3d 1143) represents a minority view
+and is only based upon Massachusetts law. Furthermore, they contend that arrests based on detainers
+do not violate the Fourth Amendment and therefore would not violate the New York Constitution
+provision that mirrors it. As such, local law enforcement may rely upon the fellow officer rule by
+acquiring the necessary probable cause for a lawful arrest from ICE officers. We disagree.
+               We recognize the long-established authority for the broad view of the police power
+of the individual states by which the states may exercise “the sovereign right of the government to
+protect the lives, health, morals, comfort, and general welfare of the people” (Manigault v Springs,
+199 US 473, 480). The breadth of such power may be said to be unlimited where it has not been
+“surrendered or restrained” by the United States Constitution (Mayor of New York v Miln, 36 US
+102, 139) or by the New York State Constitution (see NY Const art IX). But while it may be
+acknowledged that New York possesses broad reserved police powers, it does not follow that the
+existence of such powers supports civil immigration arrests by state and local law enforcement.
+               New York courts have consistently looked to statutory law in determining arrest
+authority. In People v Williams (4 NY3d 535, 538), the defendant was arrested for drug possession
+after being stopped by peace officers for failing to wear a seatbelt. The officers had been assigned
+to a housing project adjacent to the roadway where the defendant was stopped (see id. at 537). In
+concluding that the peace officers lacked authority to make the arrest and thus affirming dismissal
+of the charges, the Court of Appeals relied directly on CPL article 140 for the distinctions between
+a peace officer’s authority and a citizen’s arrest (see id. at 538). The Court held that the peace
+officers could not rely on the greater authority permitted in a citizen’s arrest when they were clearly
+acting in their role as peace officers (see id.). Allowing such reliance would “render these
+purposefully drawn differences—and the plain language chosen by the Legislature—meaningless”
+(id.).
+               The New York cases demonstrate that, in New York,6 arrest authority is predicated
+on statutory law which has, for the most part, codified the traditional common-law varieties of arrests
+
+
+
+6
+ We recognize that the rule may be different elsewhere (see Tenorio-Serrano v Driscoll, 324 F Supp
+3d 1053 [D Ariz] [finding uncertainty as to common-law powers of Arizona sheriffs]).
+November 14, 2018                                                                            Page 12.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+(see Matter of Victor M., 9 NY3d 84, 87 [a warrantless arrest of a juvenile for a violation is not
+authorized by Family Court Act § 305.2(2), which only permits warrantless arrests where an adult
+would be charged with a crime for the same conduct]; People v Bratton, 8 NY3d 637, 643 [finding
+no authority under Executive Law § 259 or CPL 140.25 for parole officers to conduct warrantless
+arrests of parolees for parole violations]; People v Miranda-Hernandez, 106 AD3d 838, 839 [a
+warrantless arrest based upon an out-of-state violation of probation warrant was not authorized, as
+the officer was obliged to obtain a warrant under CPL 570.32]). We decline, in the context of this
+case, to intrude upon a carefully crafted, comprehensive, and balanced legislative determination as
+to the proper scope of the police power to effectuate arrests through the judicial establishment of
+authority in state and local law enforcement to arrest for what are civil law violations. In this regard,
+we are mindful that the general New York provision for arrest as a civil law provisional remedy was
+repealed nearly 40 years ago (see L 1979, ch 409 [eff June 29, 1979, repealing CPLR art 61]; Engel
+v CBS, Inc., 93 NY2d 195, 204-205).
+                We therefore conclude that the effecting of arrests by state and local law enforcement
+acting under ICE administrative arrest warrants may not be supported by resort to common law
+pertaining to the police power.
+                March v United States (29 F2d 172 [2d Cir]), relied upon by the Sheriff, does not
+support the view espoused by the Sheriff. In that case, the Second Circuit did not rely upon a broad,
+all-encompassing view of New York common law in concluding that a state trooper had authority
+to make a warrantless arrest for a misdemeanor violation of the federal alcohol prohibition law. The
+Second Circuit concluded that the then-applicable New York statute, which authorized warrantless
+arrests for crimes, should be construed as authorizing warrantless arrests for federal misdemeanors.
+                Likewise, the Sheriff’s reliance upon United States v Santana-Garcia (264 F3d 1188,
+1191 [10th Cir]) is misplaced. That case considered a vehicle stop, search, and arrest of an alien by
+Utah State Troopers where drugs were found (see id. at 1190-1191). While the court ruled that state
+law enforcement officers within the Tenth Circuit have general authority to make arrests for
+violations of federal immigration law, the court also noted that the Utah statute granted “expansive”
+power to make warrantless arrests for “any public offense” (id. at 1194 n 8 [internal quotation marks
+omitted]). The court also ruled that it would construe the Utah statute as authorizing warrantless
+arrests for federal immigration violations at least until the Utah courts ruled otherwise (see id.).
+Further, the stop in question was prompted by the driver having disobeyed a traffic sign; an ensuing
+
+November 14, 2018                                                                              Page 13.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+search of the vehicle, which was consented to, resulted in the police finding packages of drugs. The
+court concluded that the arrest was justified on the basis of both violations of state traffic law and
+federal immigration law. Here, in contrast, there is no contention that any state laws were violated,
+and the New York warrantless arrest statute is much narrower than Utah’s.
+                We perceive that the New York State Legislature could, if it thought it desirable,
+convey to state and local law enforcement the authority to effectuate arrests for federal immigration
+law violations.    However, it is not for us to make that policy determination (see Lunn v
+Commonwealth, 477 Mass at 534, 78 NE3d at 1158).
+                  Civil Immigration Arrests by State and Local Law Enforcement
+                          Are Not Supported by the “Fellow” Officer Rule
+
+                “Under the fellow officer rule, a police officer can make a lawful arrest even without
+personal knowledge sufficient to establish probable cause, so long as the officer is acting upon the
+direction of” an officer “in possession of information sufficient to constitute probable cause for the
+arrest” (People v Ketcham, 93 NY2d 416, 419 [internal quotation marks omitted]). Thus, even if
+it is assumed that an ICE officer has probable cause to arrest for an immigration violation, the fellow
+officer, in this case the Sheriff’s officers, must still make a “lawful” arrest. If there is no authority
+to arrest for a civil matter, such arrest cannot be considered “lawful.” To adopt the position
+advocated by the Sheriff here would permit state and local law enforcement to assume the authority
+of an ICE officer, though not granted by state law, based upon nothing more than a request from ICE.
+                           State and Local Law Enforcement Are Not
+                  Authorized by Federal Law to Make Civil Immigration Arrests
+
+                Under the circumstances presented here, having concluded that New York law does
+not authorize state and local law enforcement officers to execute arrests for federal civil immigration
+violations, we must now consider whether federal law conveys such authorizations. Assuming,
+without deciding, that the Congress may constitutionally convey authority to state and local officials
+to effectuate arrests which state law does not authorize, we conclude that the Congress has not done
+so with regard to the circumstances presented by this case.
+                Federal Rules of Criminal Procedure rule 4(c)(1) governs the execution of federal
+arrest warrants and states that a federal arrest warrant shall be executed by a “marshal or other
+authorized officer.” State law enforcement officers, including New York state and local officers who
+are empowered by New York law to execute arrest warrants generally, may execute federal arrest
+
+November 14, 2018                                                                              Page 14.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+warrants in particular (see People v Floyd, 56 Misc 2d 373 [Sup Ct, Crim Term, Queens County],
+affd 33 AD2d 795, revd on other grounds, 26 NY2d 558; United States v Polito, 583 F2d at 51;
+United States v Bowdach, 561 F2d 1160, 1167-1168; People v LaFontaine, 92 NY2d 470, 475).
+However, the arrest warrants referenced in the Federal Rules of Criminal Procedure are either signed
+by a judge (see Fed Rules Crim Pro rule 4[b][1][D]) or by the clerk of the court (see Fed Rules Crim
+Pro rule 9[b][1] [arrest warrant on an indictment]; see United States v Smith, 424 F3d 992, 1008 [9th
+Cir]; United States v McLain, 559 F Supp 2d 983, 992 [D Minn]). While there is no question that
+New York law enforcement officers may execute federal court arrest warrants issued for the purpose
+of bringing to court individuals accused of the commission of federal immigration crimes, the ICE
+warrant at issue here was not issued in the context of a criminal action and was not signed by, or on
+behalf of, a court and was not returnable in a court. Thus, the Federal Rules of Criminal Procedure
+do not empower New York state and local law enforcement officers to execute ICE administrative
+arrest warrants.
+               The Sheriff, supported by the Department of Justice, argues that the Immigration and
+Nationality Act permits state and local officers to cooperate with ICE detainers and warrants. It is
+the policy and practice of the Sheriff to cooperate with the federal immigration authorities, doing so
+at the request and direction of ICE. The Department of Justice asserts that, without such
+cooperation, removable aliens would be released into local communities, where it is harder and more
+dangerous for ICE to take custody of them and where they may commit more crimes. We express
+no view on the desirability of the policy in favor of intergovernmental cooperation, which is not
+properly a matter for consideration by a neutral court of law. As far as the law is concerned,
+however, while state and local law enforcement officers are indeed permitted to cooperate with the
+federal authorities, and specifically with ICE, there is no authority for that cooperation to extend to
+the undertaking of actions not authorized by state law.
+               “Federal law specifies limited circumstances in which state officers may perform the
+functions of an immigration officer” (Arizona v United States, 567 US at 408). The Immigration and
+Nationality Act authorizes the Secretary of the DHS to grant authority to specific officers by means
+of a formal agreement with a state or local government, known as 287(g) agreement, that allows such
+officers to perform a function of an immigration officer in relation to “the investigation,
+apprehension, or detention of aliens in the United States” (8 USC § 1357[g][1]). Officers covered
+by these agreements are subject to the Secretary’s direction and supervision (see 8 USC §
+
+November 14, 2018                                                                            Page 15.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+1357[g][3]). The agreements reached with the Secretary must contain written certification that
+officers have received adequate training to carry out the duties of an immigration officer (see 8 USC
+§ 1357[g][2]). Such agreements are only valid “to the extent consistent with State and local law”
+(8 USC § 1357[g][1]).
+                The Sheriff does not have a 287(g) agreement with DHS. Rather, the Sheriff has long
+had an agreement with the United States Marshals Service pursuant to which federal detainees may
+be housed at the Riverhead facility. In October 2017, the agreement was modified to add ICE as an
+additional party. Thus, while the Sheriff has an agreement in place pursuant to which he may house
+federal detainees, including those detained by ICE, there is no 287(g) agreement in place conveying
+to members of the Sheriff’s Office the authority of an immigration officer and, specifically, the
+authority to effectuate civil immigration arrests. We do not have occasion here to address any issues
+with respect to 287(g) or other formal agreements.
+                Another provision of the Immigration and Nationality Act permits the Secretary of
+DHS to deputize state or local officers, subject to the consent of the head of the particular department
+or agency, when there is “an actual or imminent mass influx of aliens arriving . . . requiring an
+immediate . . . response” (8 USC § 1103[a][10]). State and local officers are also permitted to arrest
+and detain an alien illegally present in the United States who has been previously convicted of a
+felony and was deported or left after the conviction—such conduct is considered a federal crime (see
+8 USC § 1252c[a]). However, this authority is also only granted to “the extent permitted by relevant
+State and local law” (id.), and, in any event, the narrow circumstances articulated in this provision
+are not present in this case.
+                The Immigration and Nationality Act contains a further provision stating that “any
+officer or employee of a State or political subdivision of a State” may “cooperate with the [Secretary]
+in the identification, apprehension, detention, or removal of aliens not lawfully present in the United
+States” without any formal agreement (8 USC § 1357[g][10][B]). This provision is not redundant
+of the provision with respect to formal agreements. Where a formal agreement is in place, state and
+local officers become de facto immigration officers competent to act on their own initiative (see City
+of El Cenizo, Texas v Texas, 890 F3d at 179-180), something that they cannot otherwise do (see
+Arizona v United States, 567 US at 410). The provision for informal cooperation does not allow for
+unilateral enforcement activity by local officers.
+                The United States Supreme Court has stated, with respect to this provision, that
+
+November 14, 2018                                                                             Page 16.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+“[t]here may be some ambiguity as to what constitutes cooperation under the federal law; but no
+coherent understanding of the term would incorporate the unilateral decision of state officers to arrest
+an alien for being removable absent any request, approval, or other instruction from the Federal
+Government” (Arizona v United States, 567 US at 410). Here, the Sheriff’s determination to further
+detain inmates because of an ICE arrest waiver is dependent upon a request from ICE, which is made
+in the form of the accompanying detainer.
+               While the provision for informal cooperation does not explicitly state that it is
+dependent upon consistency with state and local law, the petitioner here asserts that such a limitation
+should be read into the statute. In contrast, the Sheriff and the Department of Justice argue that the
+arrest and detention of individuals subject to ICE detainers is a permissible cooperation with a
+request from the federal government, distinguishable from a unilateral decision by state or local law
+enforcement to arrest an individual.
+               The submissions of the parties and amici draw upon Arizona v United States (567 US
+387) for their respective positions, but Arizona did not consider the issue presented here. Rather,
+in that case, the United States Supreme Court held that a state statute authorizing local law
+enforcement officers to make unilateral decisions as to when they would arrest an alien they
+suspected to be removable was preempted by federal law, which exclusively confers such authority
+upon federal immigration officers (see id. at 410). As to section 1357(g)(10), the Court specifically
+noted that “[t]here may be some ambiguity as to what constitutes cooperation under the federal law”
+(Arizona v United States, 567 US at 410), but such unilateral decision-making could in no way be
+considered cooperation “absent any request, approval, or other instruction from the Federal
+Government” (id.). Arizona does not support the assertion by the Sheriff and the Department of
+Justice that the informal cooperation provision explicitly authorizes local law enforcement to arrest
+aliens pursuant to ICE detainers. Likewise, contrary to the arguments of the petitioner and the other
+amici, Arizona does not forbid such arrests, as the Supreme Court suggested that cooperation could
+be based upon a “request, approval, or other instruction” from ICE (id. at 410). Moreover, the
+detention at issue here, initiated by an ICE request, is far different from the unilateral arrests
+considered by the Supreme Court in Arizona.
+               In Lunn v Commonwealth (477 Mass 517, 78 NE3d 1143), the Supreme Judicial
+Court of Massachusetts examined the same issues presented in the case sub judice on similar facts.
+The court held that the informal cooperation provision—Section 1357(g)(10)—does not confer
+
+November 14, 2018                                                                             Page 17.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+“authority on State and local officers to make arrests pursuant to civil immigration detainers, where
+none otherwise exists” under state law (Lunn v Commonwealth, 477 Mass at 535, 78 NE3d at 1158).
+The court reasoned that “[i]n those limited instances where the [Immigration and Nationality Act]
+affirmatively grants authority to State and local officers to arrest, it does so in more explicit terms
+than those in § 1357(g)(10)” (id. at 1159).
+               The Department of Justice, in its supplemental submission, draws our attention to the
+Fifth Circuit decision in City of El Cenizo, Texas v Texas (890 F3d 164),7 which considered
+challenges to a Texas state law requiring that state and local law enforcement entities cooperate with
+federal immigration enforcement and, among other things, comply with ICE detainer requests. El
+Cenizo does not guide our determination of the precise issue here, i.e., whether the informal
+cooperation provision in the Immigration and Nationality Act permits state and local law
+enforcement to enforce ICE detainers and warrants in circumstances where state law gives them no
+authority to do so. The Texas law at issue in El Cenizo specifically mandated that Texas law
+enforcement agencies comply with ICE detainer requests (see id. at 174, citing Texas Code Crim
+Pro art 2.251).8 Indeed, El Cenizo acknowledges this important distinction; the court found Lunn
+to be “easily distinguishable” because there was no Massachusetts state law authority to carry out
+detainer requests, while in Texas, the state law authorized state officers to carry out federal detainer
+requests (890 F3d at 188). Thus, having held that New York conveys no state law authority to state
+and local law enforcement to execute ICE detainers and administrative warrants, Lunn, and not El
+Cenizo, provides more compelling guidance.9
+               In those instances where the Congress has chosen to permit local officers to enforce
+federal immigration laws absent a formal 287(g) agreement, it has explicitly allowed that power only
+
+
+7
+ The Department’s supplemental briefing discussed the Fifth Circuit’s decision, published on March
+13, 2018 (885 F3d 332). However, on May 8, 2018, the Fifth Circuit withdrew that opinion and
+substituted a different opinion, reported at 890 F3d 164, without change in substance insofar as the
+issues involved here are concerned.
+8
+  The Texas statute contains an exception which permits law enforcement not to comply with a
+detainer if shown proof that the individual is a United States citizen or has lawful immigration status
+(see City of El Cenizo, Texas v Texas, 890 F3d at 174-175, citing Texas Code Crim Pro art 2.251[b]).
+9
+ El Cenizo also rejected arguments that the Texas statute at issue violated the Fourth Amendment.
+In view of our determination on a narrow issue of New York law, we need not consider the
+petitioner’s contention that Francis’s Fourth Amendment rights were violated.
+November 14, 2018                                                                             Page 18.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+in narrowly drawn circumstances. Given that Tenth Amendment concerns may prevent the Congress
+from mandating that local entities enforce immigration law (see City of El Cenizo, Texas v Texas,
+890 F3d at 180-181), and the resulting circumspection with which the Congress has approached the
+issue of state and local involvement in matters of federal immigration policy, we cannot accede to
+the view that the Congress, through its provision for voluntary informal cooperation, thereby
+authorized state and local law enforcement officers to undertake actions not allowed them by state
+law.
+                We find United States v Ovando-Garzo (752 F3d 1161, 1162 [8th Cir]), relied upon
+by the Sheriff and the Department of Justice, to be inapposite. There, a North Dakota highway patrol
+trooper had stopped a vehicle and arrested the driver for driving without a license. While speaking
+with two passengers from the car, whom the trooper did not want to leave on the side of the road as
+neither had a driver’s license, the trooper began to suspect they were unlawfully in the country (see
+id. at 1162-1163). After the passengers admitted that they were present unlawfully, the trooper
+contacted United States Border Patrol, which confirmed the illegal status and indicated it would send
+an agent to take custody of the individuals (see id. at 1163). Because the trooper intended to
+transport the driver to the Sheriff’s office incident to his arrest, the trooper offered to transport the
+passengers as well. The passengers apparently accepted this offer, they were taken with the driver
+to the Sheriff’s office, and a Border Patrol agent subsequently took custody of the two passengers.
+While the Eighth Circuit stated that the trooper acted cooperatively pursuant to section 1357(g)(10),
+in that he communicated with Border Patrol and detained the passengers pending Border Patrol’s
+arrival (see United States v Ovando-Garzo, 752 F3d at 1164), the court was addressing the claim of
+the driver to suppress evidence of his identity obtained after he had been arrested. Ovando-Garzo
+did not address any issue with regard to the passengers who, unlike the driver, were not charged with
+any crime, who were not themselves placed under arrest, and who apparently went with the trooper
+to the Sheriff’s office voluntarily rather than remain indefinitely by the side of the road.
+                                              Conclusion
+
+                We reiterate what we said at the outset: The narrow issue in this case is whether New
+York law permits New York state and local law enforcement officers to effectuate civil immigration
+arrests, and not whether federal civil immigration officers have the authority to effectuate such
+arrests. Nor do we decide any issues under federal law deputizing state and local law enforcement
+
+
+November 14, 2018                                                                              Page 19.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+officers to act as federal immigration officers. Determining only the narrow issue before us, we
+conclude that the Sheriff’s policy, issued on December 2, 2016, directing the retention of prisoners,
+who would otherwise be released, pursuant to ICE detainers and administrative warrants is unlawful,
+and that Francis’s detention by the Sheriff on December 11, 2017, which detention commenced after
+the termination of Francis’s court proceeding that day, was thus unlawful. While the Sheriff asserts
+that Francis was in the custody of ICE following his return to the correctional facility from the
+courthouse, we find that he was in the Sheriff’s custody until Francis was actually taken into custody
+by duly authorized ICE officers. The relief requested by the petitioner of immediate release of
+Francis from the Sheriff’s custody is no longer available because Francis is no longer in the Sheriff’s
+custody.
+               Accordingly, the writ is sustained, and the detention of Susai Francis by the Sheriff
+of Suffolk County on December 11, 2017, which detention commenced after the termination of
+Francis’s court proceeding that day, was unlawful.
+
+
+BALKIN, LEVENTHAL and HINDS-RADIX, JJ., concur.
+
+
+               ADJUDGED that the writ is sustained, without costs or disbursements, and the
+detention of Susai Francis by the Sheriff of Suffolk County on December 11, 2017, which detention
+commenced after the termination of Francis’s court proceeding that day, was unlawful.
+
+                                               ENTER:
+
+
+                                                              Aprilanne Agostino
+                                                              Clerk of the Court
+
+
+
+
+November 14, 2018                                                                            Page 20.
+             PEOPLE EX REL. WELLS, on behalf of FRANCIS v DeMARCO
+

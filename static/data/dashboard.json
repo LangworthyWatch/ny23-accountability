@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-19",
-  "total": 189,
+  "generated": "2026-11-20",
+  "total": 190,
   "top_verdict": "MISSING CONTEXT",
   "verdicts": {
     "MISSING CONTEXT": 67,
@@ -9,8 +9,8 @@
     "CONTRADICTION": 13,
     "MOSTLY TRUE": 11,
     "FALSE": 10,
+    "FALSE ATTRIBUTION": 4,
     "MULTIPLE": 3,
-    "FALSE ATTRIBUTION": 3,
     "DEFLECTION": 3,
     "PARTIALLY TRUE": 1,
     "NON-RESPONSIVE": 1,
@@ -20,17 +20,17 @@
     {
       "label": "MISSING CONTEXT",
       "count": 67,
-      "pct": 35.4
+      "pct": 35.3
     },
     {
       "label": "MISLEADING",
       "count": 40,
-      "pct": 21.2
+      "pct": 21.1
     },
     {
       "label": "DOCUMENTED PATTERN",
       "count": 36,
-      "pct": 19.0
+      "pct": 18.9
     },
     {
       "label": "CONTRADICTION",
@@ -48,12 +48,12 @@
       "pct": 5.3
     },
     {
-      "label": "MULTIPLE",
-      "count": 3,
-      "pct": 1.6
+      "label": "FALSE ATTRIBUTION",
+      "count": 4,
+      "pct": 2.1
     },
     {
-      "label": "FALSE ATTRIBUTION",
+      "label": "MULTIPLE",
       "count": 3,
       "pct": 1.6
     },
@@ -73,8 +73,8 @@
     "Economy": 18,
     "Government Operations": 16,
     "Campaign Finance": 13,
+    "Immigration": 10,
     "Other": 10,
-    "Immigration": 9,
     "Energy": 7,
     "Local Impact": 7,
     "Credit-Claiming": 6,
@@ -125,9 +125,16 @@
     "2026-08": 8,
     "2026-09": 13,
     "2026-10": 16,
-    "2026-11": 6
+    "2026-11": 7
   },
   "entries": [
+    {
+      "title": "He Blamed Gov. Hochul for a Rikers Island Release. Rikers Is a City Jail, Its Detainer Rules Are City Law, and the State Law She Signed Leaves Local Jails Out.",
+      "date": "2026-11-19",
+      "verdict": "FALSE ATTRIBUTION",
+      "topic": "Immigration",
+      "url": "/fact-checks/2026-11-19-rikers-detainer-hochul/"
+    },
     {
       "title": "He Says He Has 'Long Called For' Fixing Air Traffic Control. In May 2025 He Vowed to 'Lead the Fight' for Full Funding. Since Then: Yes Votes and One Co-Signed Letter, No Bill.",
       "date": "2026-11-16",
