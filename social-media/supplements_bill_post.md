@@ -1,4 +1,4 @@
-# DRAFT Nov 12, 2026, rebuilt (update to entry 2026-02-state-preemption-pattern; claim verdicts MISSING CONTEXT and NOT SUPPORTED, per the entry's Nov 12 claims table)
+# POSTED by Nov 20, 2026 (drafted Nov 12, rebuilt) (update to entry 2026-02-state-preemption-pattern; claim verdicts MISSING CONTEXT and NOT SUPPORTED, per the entry's Nov 12 claims table)
 # Card: supplements_bill_card.png (create_supplements_bill_card.py, v2 template B, his words vs FDA's)
 
 Rep. Langworthy says his supplements bill will make them "safe, effective." The bill has no safety or effectiveness provision.

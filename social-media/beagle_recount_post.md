@@ -1,4 +1,4 @@
-# DRAFT Nov 15, 2026 (follow-up to beagle_count_contrast_post.md, July 2; entry 2026-05-22-beagle-posts-credit-claiming-distraction, DOCUMENTED PATTERN)
+# POSTED by Nov 20, 2026 (drafted Nov 15) (follow-up to beagle_count_contrast_post.md, July 2; entry 2026-05-22-beagle-posts-credit-claiming-distraction, DOCUMENTED PATTERN)
 # Card: beagle_recount_card.png (create_beagle_recount_card.py, v2 template A)
 
 We recounted: Rep. Langworthy has posted about beagles and animal testing at least 39 times on his official Facebook page since May 3.
