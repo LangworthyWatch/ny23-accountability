@@ -1,4 +1,4 @@
-# DRAFT Nov 20, 2026 (entry 2026-11-19-rikers-detainer-hochul, FALSE ATTRIBUTION)
+# SUPERSEDED by rikers_detainer_post_v2.md (v2 posted Nov 20, 2026); draft Nov 20, 2026 (entry 2026-11-19-rikers-detainer-hochul, FALSE ATTRIBUTION)
 # Card: rikers_detainer_card.png (create_rikers_detainer_card.py, v2 template B). Do not name the man; he is charged, not convicted.
 
 Rep. Langworthy blamed Gov. Hochul when Rikers Island released a man ICE had asked to hold. Rikers is a New York City jail, and the rule it followed is a 2014 city law.
